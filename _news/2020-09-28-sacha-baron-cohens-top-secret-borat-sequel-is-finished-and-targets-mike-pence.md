@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Borat 2 Gets Official Title, Targets Mike Pence, Rudy Giuliani and More"
-    excerpt: "Sacha Baron Cohen's secretly-filmed sequel to Borat has a title in keeping with the original, and hints about its unwitting co-stars have surfaced."
-    publishedDateTime: 2020-09-27T03:43:00Z
-    webUrl: "https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/"
-    ampWebUrl: "https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/amp/"
-    cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/amp/"
+  - title: "Borat's Mike Pence-Targeting Sequel to Screen on Amazon Prime Ahead of Election Day"
+    excerpt: "Amazon Prime recently acquired Borat's sequel and is planning to air Sasha Baron Cohen's latest mockumentary at the end of October."
+    publishedDateTime: 2020-09-30T00:53:00Z
+    webUrl: "https://www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/"
+    ampWebUrl: "https://www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/amp/"
+    cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/amp/"
     type: article
     provider:
       name: CBR
       domain: cbr.com
-    quality: 75
+    quality: 84
     images:
-      - url: "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/Borat-Mockumentary.jpg"
-        width: 1600
-        height: 800
+      - url: "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/09/Borat-header.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
+    excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
+    publishedDateTime: 2020-09-28T01:49:00Z
+    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 72
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/09/28/04/33702662-0-image-a-4_1601263306386.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "0mWF1nPuEzyeC/zdb71oe/hOQcA+9bjHJ/92G9dN3xfPEyAkw1kijSeEPuHNFfr1Pmlr+kW/AdGhuoECWG4J3BYYRSNkThuYh3rdr8OTBjrSNnkrnyrYcIHo2jZ778FkPksOfPp3rjDv0d51Yg/APWWLCF+31LKe/ElM2tmy39n/Bb0PtxVgd5cHd+VuADIJzCw6OZ3BXCa/kDhqiSajTjvxjnJdyjtNvVvSTUWbyglveQGJ1eolu+F5TsLTZEehIMCQoL3b0qu5VGxUnFpFuYV6cbBP6KVjAA2bgSrsgflBY0v05HIT6VKF2hhsa5UQ0cDFXXi8Qv5jocwbCFORitOC6s92tFCOq7DUDDUI5e4=;uXvAMv8q52lCsuHT1/ZVTw=="

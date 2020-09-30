@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "New Flynn court docs show FBI employees discussing probe of Trump aide: 'A nightmare'"
-    excerpt: "In an Aug. 2016 exchange obtained by the Justice Department, an FBI analyst said that some agents “want a Clinton presidency.\""
-    publishedDateTime: 2020-09-25T00:21:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts"
-    ampWebUrl: "https://www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp"
+  - title: "Trump on Supreme Court overturning Roe v. Wade: 'There's nothing happening there'"
+    excerpt: "President Trump said Tuesday night there’s “nothing happening” in the Supreme Court with Roe v. Wade, and it isn’t on the ballot with the latest Supreme Court vacancy. "
+    publishedDateTime: 2020-09-30T01:45:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9104d171-3d0a-4adc-aaa2-28dcf12f0fd8/20d61489-587a-47cc-880a-3116f235afb3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump_biden_debate_split_thumb_3.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "FBI Agent Says ‘Get Trump’ Attitude Marred Mueller Probe"
-    excerpt: "An FBI agent assigned to special counsel Robert Mueller’s investigation harbored reservations about the behavior of prosecutors on the team, according to an interview the Justice Department filed in its effort to dismiss the case against Michael Flynn,"
-    publishedDateTime: 2020-09-25T19:13:00Z
-    webUrl: "https://www.wsj.com/articles/fbi-agent-says-get-trump-attitude-marred-mueller-probe-11601059591"
-    ampWebUrl: "https://www.wsj.com/amp/articles/fbi-agent-says-get-trump-attitude-marred-mueller-probe-11601059591"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/fbi-agent-says-get-trump-attitude-marred-mueller-probe-11601059591"
+  - title: "Trump issues order banning certain types of race training from federal contractors, grant recipients"
+    excerpt: "Trump in a tweet announcing the order said \"Americans should be taught to take PRIDE in our Great Country, and if you don’t, there’s nothing in it for you!\""
+    publishedDateTime: 2020-09-23T12:26:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TMUEms9jS0g/trump-issues-executive-order-banning-race-training-government-contractors-federal-employees-grant"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-issues-executive-order-banning-race-training-government-contractors-federal-employees-grant.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-executive-order-banning-race-training-government-contractors-federal-employees-grant.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
     images:
-      - url: "https://images.wsj.net/im-236615/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "KpgEIYi43nxH27c0vAezq3UuhBBFJ5rhPP0ka1ijcJTw8wm/5cfL2Rxuc8nklhy6h/7f7Ly/D9U9ceGfwTh5ELRzGylF1itmiH8DH+e7Btc2hwH1tx0G1A+g8gVY4igRqc5eHUkdlm5igVlVttAtdVjgcMYbWa3Sf2w+NVZ8wDrEMBOw+St/CF/1zOCxmptScXJcSpxdbtonzbXbAzBHXQLjc1eDba+cAIO064b3GLjoYC0qFO7fC1OiQcqJLe9SjtB5NEUAE9vtjLJhYhaDQ6bCmec3OvIH1BJ69KjryMTdn5VIK3Zo3vSOO8VumtXBLURxWiqySZwzuLtgodO1sX3fefsOUPEGfXWkeotlEOE=;VEmf8HAfvGswBdN2G6i9yg=="

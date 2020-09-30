@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-on-defense-after-nyt-publishe
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.amp"
 type: article
 quality: 160
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Pence dismisses NY Times report on Trump taxes as 'same old, same old'"
+    excerpt: "President Trump and the Trump Organization very likely \"took advantage of all of the legal deductions and exemptions that were available in the tax code,\" Vice President Mike Pence told \"Special Report\" Tuesday ahead of the first presidential debate in ..."
+    publishedDateTime: 2020-09-30T00:46:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-ny-times-trump-taxes-report"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-ny-times-trump-taxes-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-ny-times-trump-taxes-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7ec66db-1ff5-4b77-b31d-2d1a4ba3ce9c/ee8e5694-9a3e-4764-978b-9524065edd32/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "aMsKOvIYYctYr3iXfUVuohxKLhWTuyylKP+Wr01UiKXptpHhF/O3RvEuuNuxuXmXUwHavMFDcM7Z87cZkwFARj3CYFZxiER0dXmzqeG/GgTtPwW+bVtjazZFMIAdw9P8DRy65jUl2eKFcsqw40Yp/aNWGIBr28ADWF9aPNWcsIb4wSPgbdrMFW4Ca2raq4zpW78DKB8gQJleDDcLacxxTsE/QNiAwsVzrKUJG2RDIw5iCmve9IP7FwhSaVPMmiCm3rWYakS/GNI5bvvQKF9b3L2QgzaZ+b0b6wdIsHeGbfg1/njYOSW6xKQYtO8Oxp/G4Ub+pKm3UX35zM/yFIfgaim7zgBt0ZebFBoRIV8VMFg=;ze5F6KYKkKH993QADuOIhg=="
 ---

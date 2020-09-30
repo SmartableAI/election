@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-new-york-times-avoid-paying-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-new-york-times-avoid-paying-taxes-totally.amp"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rep. Jordan claims Trump 'paid what he owed' in response to NY Times tax report"
+    excerpt: "President Trump \"paid what he owed\" in taxes, Rep. Jim Jordan, R-Ohio told Fox News Tuesday, dismissing a New York Times report that the president paid no income tax in 10 of the previous 15 years."
+    publishedDateTime: 2020-09-30T00:56:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2wZ0rFTUH8/jim-jordan-trump-taxes-ny-times"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-trump-taxes-ny-times.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-trump-taxes-ny-times.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8241411b-5bcb-46d6-bbe8-f51124ee7cda/a39ee341-3490-443f-bbbe-b3badea4f82c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Byron York claims Democrats making 'structural' effort to remove Trump from office"
     excerpt: "Democrats in Congress have relentlessly sought to remove President Trump from office almost from the day he was inaugurated, Washington Examiner chief political correspondent Byron York told “Your World” Tuesday."
     publishedDateTime: 2020-09-29T23:56:02Z

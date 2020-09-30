@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-announces-ban-on-purchasing-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-announces-ban-on-purchasing-rum-tobacco-from-cuba.amp"
 type: article
 quality: 169
-heat: 229
+heat: 209
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump issues order banning certain types of race training from federal contractors, grant recipients"
-    excerpt: "Trump in a tweet announcing the order said \"Americans should be taught to take PRIDE in our Great Country, and if you don’t, there’s nothing in it for you!\""
-    publishedDateTime: 2020-09-23T12:26:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TMUEms9jS0g/trump-issues-executive-order-banning-race-training-government-contractors-federal-employees-grant"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-issues-executive-order-banning-race-training-government-contractors-federal-employees-grant.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-executive-order-banning-race-training-government-contractors-federal-employees-grant.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Federal judge orders Trump admin to respond to accusations census workers ordered to halt operations"
     excerpt: "A federal judge ordered the Trump administration Wednesday to respond to accusations from census workers that they had been ordered to halt field operations."
     publishedDateTime: 2020-09-29T22:16:58Z

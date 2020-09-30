@@ -104,6 +104,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden and Trump at the first debate"
+    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will face off in the first 2020 presidential debate Tuesday night live from Cleveland.\n    \n"
+    publishedDateTime: 2020-09-30T01:43:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0QmIwOIDx7k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929202421-06-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
     excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
     publishedDateTime: 2020-09-22T18:10:03Z
@@ -534,6 +550,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Wallace tries to keep Trump from interrupting Biden at debate"
+    excerpt: "As Joe Biden and President Donald Trump spar over health care, moderator Chris Wallace tries to keep the president from interrupting."
+    publishedDateTime: 2020-09-30T01:37:00Z
+    webUrl: "https://www.nbcnews.com/video/wallace-tries-to-keep-trump-from-interrupting-biden-at-debate-92820037625"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92820037625"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92820037625"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/wallace-interrupt.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
     excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
     publishedDateTime: 2020-09-23T19:39:00Z
@@ -915,6 +947,20 @@ related:
     quality: 124
     images:
       - url: "https://static.politico.com/b7/65/79309e664d00891c2eb621be12ea/ap20267018630443.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump's big tax breaks could make it easier for Biden to sell tax hikes on wealthy"
+    excerpt: "Biden has floated trillions of dollars in new taxes on the rich to pay for policies like student debt forgiveness and expanded childcare."
+    publishedDateTime: 2020-09-30T00:48:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-big-tax-breaks-biden-tax-hikes-wealthy-423350"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/70/ef/a57c539b46548129fd2a2736d9fe/gettyimages-1228789566-1.jpg"
         width: 1160
         height: 773
         isCached: true

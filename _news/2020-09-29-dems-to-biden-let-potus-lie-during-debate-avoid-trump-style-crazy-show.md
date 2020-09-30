@@ -184,6 +184,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump tries to turn first presidential debate into a campaign rally by talking over Biden and steamrolling moderator"
+    excerpt: "President Donald Trump heads into Tuesday's first presidential debate trailing former Vice President Joe Biden in the polls and on defense about his handling of a pandemic that has killed more than 200,000 Americans and led some 30 million people to file unemployment claims.\n    \n"
+    publishedDateTime: 2020-09-30T01:47:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EVjQXsZ6TN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/us-election-first-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/us-election-first-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929214430-03-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How the Biden-Trump Debate Will Play on TV (Don’t Expect Fact-Checks)"
     excerpt: "My job is to be as invisible as possible,” said Chris Wallace of Fox News, the moderator of the opening matchup on Tuesday."
     publishedDateTime: 2020-09-28T16:09:00Z
@@ -229,6 +245,22 @@ related:
     quality: 150
     images:
       - url: "https://static.politico.com/80/b6/1e45a4f44459b96da4413401961f/2020028-2016-debates-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Key moments from Trump and Biden’s first primetime showdown"
+    excerpt: "President Donald Trump and former Vice President Joe Biden have spent months sparring from afar, laying the groundwork for an intense showdown on Tuesday night. President Donald Trump tangled with debate moderator Chris Wallace early in the night,"
+    publishedDateTime: 2020-09-30T01:55:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-biden-debate-key-moments-423352"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/29/trump-biden-debate-key-moments-423352"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/29/trump-biden-debate-key-moments-423352"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/f4/88/5abb9f8b40cba4f477bffe414d2c/ap20274045911341.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -295,6 +327,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3414788/200924-joe-biden-debater-one-time-use-only-se-600p_e74800a949a83dbfd84f797d16e0f484.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
+    excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."
+    publishedDateTime: 2020-09-30T01:54:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-calls-out-trump-for-suggesting-injecting-bleach-to-treat-coronavirus-92820037882"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92820037882"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92820037882"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nbc_mo_debate_bleach_200929_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden: Trump's refusal to commit to peaceful transfer of power 'typical distraction'"
     excerpt: "\"We’ll have an election in this country as we always have had, and he’ll leave,” Biden told NBC News' Stephanie Ruhle."
@@ -450,6 +498,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "2020 Presidential Debate Live Updates: Trump Attacks Biden and Defends His Virus Response"
+    excerpt: "Biden hits Trump over the federal government’s failures on the coronavirus. Joe Biden reminds the American people: ‘I don’t trust’ President Trump. Trump heckles Biden and Wallace, trying to turn the debate into a brawl."
+    publishedDateTime: 2020-09-30T01:46:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/29/us/presidential-debate-trump-biden"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 121
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/live-blog-20200929-video-top/live-blog-20200929-video-top-videoSixteenByNineJumbo1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump looks to turn things around at tonight's debate: What to watch"
     excerpt: "The president is running out of time, with voting already underway in some states and few voters still undecided. But tonight' debate gives him an opportunity to make his case."
     publishedDateTime: 2020-09-29T22:49:00Z
@@ -464,6 +526,24 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Fox News Pundit Brit Hume: Joe Biden Is ‘Senile’ but Could Still Beat Trump in Debate"
+    excerpt: "I don’t have any doubt Biden’s senile, but that doesn’t mean it’s going to show up tonight,” Brit Hume predicted."
+    publishedDateTime: 2020-09-30T01:11:00Z
+    webUrl: "https://www.thedailybeast.com/fox-news-pundit-brit-hume-joe-biden-is-senile-but-could-still-beat-trump-in-debate"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 63
+  - title: "Biden to Raging Trump: ‘Will You Shut Up, Man’"
+    excerpt: "It didn’t take long before Trump and Biden were telling each other to “shut up” and moderator Chris Wallace was pleading for calm."
+    publishedDateTime: 2020-09-30T01:50:00Z
+    webUrl: "https://www.thedailybeast.com/biden-to-raging-trump-will-you-shut-up-man"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "ZjTtQmVSE80bAldNc/s/ZWVsuy5ibuywTzR0mxxWv967/2MYVXbeO+S3PFbftZXObbjd1mkfropa3U1rlqkHh4M8ZRvL0LM52fKDAYVKsNsyRDe8AvEydxl4/NM71qWsB69B0HECwdAk7PNqf/vTtmN2+iWEeX5dMEdIowyUvPknR67fymr5l0yb7/2wXcnARTFT5VT/tnSwMqmJhY2e15GXzgG8rZNeq+4v8kLeoIzT7uk6NonERb/iqxlF9dfH4EPJGK+V3w+zTHql4kzw2dD9gPZv+M/unxmUL0ROWE/iCLYH1Gk/LMt4rVGr9fyhAsJWGOb6ofvyHskCeau7akA1+iXdg8KtEUkdUPbST7Jzk19PFkZ0wW+4KV7pqYFvrSypB+s2Mo+PESfwMEDAb7UEIeKOgLeZoMQtzpKofFDcRKmnfBGBO5VDhyKNDQgn833MbvQUftTAp0MTHbQHn4J1WJjSXIhGbt3LlCFXnGCnFv3L55uZacV91K+bF3AgnGCreB9EbtVV12SyQnLSxA==;ALJeB1UD/PJt0ywg5hktRg=="
 ---

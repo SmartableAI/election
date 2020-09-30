@@ -48,20 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "FBI official on Mueller team said Flynn prosecution had 'get Trump' attitude, collusion probe was 'not there'"
-    excerpt: "An FBI official who served on Robert Mueller’s team said he believed the special counsel’s prosecution of former White House national security adviser Michael Flynn was part of an attitude to “get Trump,” and that he did not wish to pursue a Trump-Russia collusion investigation as it was “not there\""
-    publishedDateTime: 2020-09-25T11:25:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DhXMbDwRTiw/fbi-official-on-mueller-team-says-flynn-prosecution-was-used-to-get-trump-says-collusion-probe-was-not-there"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 136
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4c518123-7006-42b0-9313-bc3bf549a54d/e5223e1b-dd58-482d-9c98-04d83c18de57/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "r4N2lTslfGj9jF1MJUN+NsdLkg2KKjjg4+jB4s1IhcaC0PEYLnkKK4zEiR4MjzqTd6JPvfH/VOpLDDvOPaZZr+qBumBCO6M0gNqDANXF4jZ84b7py1PqxNsOp3CQg1WGg2SoZY0ys7Ab75vxj9WbPxidA+4Mo+rx89YMbpJ1s919zlvpGQfo1pIBhqlgaOUmMhTGXwOhMeTzdLdC6MGkhrEzcjhdpUlKinkVysppB1+QSqTw0f+ZWKJj5fCUCMkOQT8q0pDVYBGh5N0/+GlHBlmjcgGSEvBYVx9aNy3AchN8Ibo3gualPd+4z7J2HzSS4GPcQINV6sb5gk1WRoEkU+9vzJhdZjDhEVlJo3s0vXjRyDsso6Kc3UqjjEJjYO8hTz9g5B4YQJwUYBZpWTUNSRwEA8UVATCCeUo9x3F6Xq2SVCkTpXsNAW/MyFVHBU/zaf1EQahP83wlA2hOi/dKwzT3B6J9zRTCD7sndt1T4lGoppljRN3fBjcXc0D04ewegtcFBirpsU0jeXI60kO84g==;HhFKkvEZ8tPktz+M5Neazg=="
 ---

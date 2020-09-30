@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump offered Amy Coney Barrett the SCOTUS job less than 72 hours after Ginsburg's death"
+    excerpt: "President Donald Trump offered Judge Amy Coney Barrett the Supreme Court nomination on the same day he met with her, less than 72 hours after the death of Justice Ruth Bader Ginsburg, according to Barrett's Senate questionnaire released Tuesday.\n    \n"
+    publishedDateTime: 2020-09-30T00:51:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM5hGkaX8to/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/barrett-trump-questionnaire/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/barrett-trump-questionnaire/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929152232-08-barrett-capitol-hill-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "POLITICO Playbook: Trump will introduce ACB for RBG’s seat"
     excerpt: "NOW, WE ARE 38 DAYS from Election Day, and at 5 p.m. today, President DONALD TRUMP will introduce AMY CONEY BARRETT as his nominee for the Supreme Court in the Rose Garden. IF ACB IS CONFIRMED, TRUMP and Senate Majority Leader MITCH MCCONNELL will have succeeded in a massive overhaul of the federal judiciary,"
     publishedDateTime: 2020-09-26T14:13:00Z

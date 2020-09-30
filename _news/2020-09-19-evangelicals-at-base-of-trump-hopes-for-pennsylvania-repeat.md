@@ -152,7 +152,7 @@ related:
   - title: "Vice President Pence Hosts Debate Watch Party in Lititz, Pennsylvania"
     excerpt: "President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz, Pennsylvania. Vice President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz,"
     publishedDateTime: 2020-09-29T22:26:00Z
-    webUrl: "https://www.c-span.org/video/?476356-1/vice-president-pence-hosts-debate-watch-party-lititz-pennsylvania&live"
+    webUrl: "https://www.c-span.org/video/?476356-1/vice-president-pence-hosts-debate-watch-party-lititz-pennsylvania"
     type: article
     provider:
       name: C-SPAN

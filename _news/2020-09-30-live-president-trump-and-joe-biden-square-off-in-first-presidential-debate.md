@@ -2,30 +2,26 @@
 category: news
 title: "Live: President Trump and Joe Biden square off in first presidential debate"
 excerpt: "The debate also will be aired on most major networks and cable news channels, including Fox News, CNN, ABC, CBS, NBC, MSNBC, PBS and C-SPAN. The debate is scheduled to start at 9 p.m. ET.  Presidential debate city: In the COVID era,"
-publishedDateTime: 2020-09-29T23:11:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/live-presidential-debate-updates-trump-and-joe-biden-square-off/3578155001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/live-presidential-debate-updates-trump-and-joe-biden-square-off/3578155001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3578155001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3578155001"
+publishedDateTime: 2020-09-29T23:48:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/29/live-presidential-debate-updates-trump-and-joe-biden-square-off/3578155001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/29/live-presidential-debate-updates-trump-and-joe-biden-square-off/3578155001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/3578155001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3578155001"
 type: article
-quality: 138
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/3ba21f9c-25a5-453d-a8eb-160a75d0f76b-002_XXX_09292020_PresDebatePrep_CLE_0006.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+  - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa406999-6364-41d2-b071-dfbde8ca69c1-AFP_AFP_8R23MK.jpg?auto=webp&crop=4542,2555,x1,y0&format=pjpg&width=1200"
     width: 1200
     height: 675
     isCached: true
@@ -989,6 +985,20 @@ related:
         width: 2048
         height: 1423
         isCached: true
+  - title: "Joe Biden releases his tax returns"
+    excerpt: "Watch \"Joe Biden releases his tax returns in the wake of a New York Times report detailing President Trump's finances\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-30T00:39:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200930000424-joe-biden-releases-his-tax-returns-in-the-wake-of-a-new-york-times-report-detailing-president-trumps-finances/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/30/story_07048583_1601424545.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FACTBOX-Here are rules liberals think they could reverse under Biden presidency"
     excerpt: "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the"
     publishedDateTime: 2020-09-21T11:28:00Z
@@ -1190,6 +1200,22 @@ related:
         width: 1024
         height: 712
         isCached: true
+  - title: "Live stream the first 2020 presidential debate between Joe Biden, Donald Trump"
+    excerpt: "Watch a live steam with real time fact checking of Joe Biden and President Donald Trump in the first 2020 presidential debate."
+    publishedDateTime: 2020-09-30T01:27:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/2020/09/29/live-stream-joe-biden-donald-trump-first-presidential-debate-2020/3577271001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/3577271001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3577271001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 86
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/03/PMJS/b2121347-8ad9-41bb-8cd0-c483cb115aba-biden_trump.jpg?auto=webp&crop=659,371,x1,y3&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
     excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
     publishedDateTime: 2020-09-27T17:22:00Z
@@ -1286,6 +1312,17 @@ related:
         width: 2925
         height: 2108
         isCached: true
+  - title: "Takeaways From Donald Trump and Joe Biden's First U.S. Presidential Debate"
+    excerpt: "President Donald Trump and his Democratic challenger, former Vice President Joe Biden, meet in Cleveland on Tuesday for the first of three debates ahead of the Nov. 3 election, when Trump is seeking a second term in office."
+    publishedDateTime: 2020-09-30T01:13:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-29/takeaways-from-donald-trump-and-joe-bidens-first-us-presidential-debate"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-29/takeaways-from-donald-trump-and-joe-bidens-first-us-presidential-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-29/takeaways-from-donald-trump-and-joe-bidens-first-us-presidential-debate?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 78
   - title: "Watch here: First presidential debate between Donald Trump and Joe Biden with live fact-checking"
     excerpt: "The 90-minute debate comes five weeks before Election Day and as early voting is already unfolding in some states."
     publishedDateTime: 2020-09-29T20:23:00Z
@@ -1861,6 +1898,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "q21+kRNq/u2JgbVkR729S0FBMYKMj7mfsvhxMyapH6JjdnujVvZ2CoBioJUNcwDTY1ahVggGWwgfVLQnrlh1+dIBfA3CuvSiFrI4Ha4rPieSnGBPUib7TF5lIksrL+MIxmghUi+qIw9CUMR9J8FgzWAYA9eGc0YK7oj4GxrH+9o4FhFY63GiLG3oGeOQiSWKPre4+TDGSXg3B8aF45v82n4NyxosXDXjAyn/lBPtBOZgDfdqg+3+wvDLdprJx6T89KCpB5ksZRDM9OTtNuWUr38jGaBj8FfXAm+eXZO0AbaSUjMUiGPhDdSYuFoR/M4qQot2MGjUjD0UpjQVFZvf5nrz7FdCpUoe7vhDAJ7YL8o=;nnJZXkF+CeV2Y95JxpcJaQ=="
+secured: "TUvMgetGnZFN8MMwLdwVuAnZSxDneZNBf1Wa5+4Oj94ZS6aFxa8VakxzJIQcvRpyRC6mFEnRbLWQAXnrUzD9MowWvp7nN9c9vDCfQbIl8/TkJ4GCkrpFgI0wtp3CUZoNtGGD9gRs5L2hd5INVRK0fwMTqLJAl9YglMbncz4cslJLypMVNwxed/EKqSsF/msjYWDFfi+wYNL2ieOKKXPMJyP+grcRvDhasykmgtSPuryoXZIQxxrSFpWfH5axZeJ64KFazxZNqGfjsJ4H1Cxmf7LNnfPEZomdX5gUBnRNwUagMtKroGD69oFcwJGv4ySSFxBB+cmXIHeg2ufKv6jgsd919vYmuPHm8dIZJHk8duk=;lFxOFXzr+vtx8+HZUXaj5Q=="
 ---
 

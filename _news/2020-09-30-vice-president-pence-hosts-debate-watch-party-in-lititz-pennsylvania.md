@@ -3,8 +3,8 @@ category: news
 title: "Vice President Pence Hosts Debate Watch Party in Lititz, Pennsylvania"
 excerpt: "President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz, Pennsylvania. Vice President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz,"
 publishedDateTime: 2020-09-29T22:26:00Z
-originalUrl: "https://www.c-span.org/video/?476356-1/vice-president-pence-hosts-debate-watch-party-lititz-pennsylvania&live"
-webUrl: "https://www.c-span.org/video/?476356-1/vice-president-pence-hosts-debate-watch-party-lititz-pennsylvania&live"
+originalUrl: "https://www.c-span.org/video/?476356-1/vice-president-pence-hosts-debate-watch-party-lititz-pennsylvania"
+webUrl: "https://www.c-span.org/video/?476356-1/vice-president-pence-hosts-debate-watch-party-lititz-pennsylvania"
 type: article
 quality: 35
 heat: -1
@@ -155,6 +155,6 @@ related:
         height: 800
         isCached: true
 
-secured: "R44QliIpkXBInqBIKWgsCxmjs1rOZWZ+REkHiTXqj2nl/kOWLK23PTsfD7vuwXRanIC2GNPHSeQdvgqIZVeVPAv+ar2KmBoPuSEQhFep1UrzKgZW0BtrrnJ4yDPv/NOxNMltZv+lo7A3kz8y8O0orsj/PGg0xk8Q2knZzxtSJetRbKwpojlE1VyQHwqQxy8sWWbIeqcgLArq+mxh/3xlb+hRThSQ1t9SRxsktyvX5wpPj1Y+YnLBBRklHhUFG8XJ5WRdPrbS4nHCgBEGaKhxbkkc+oCXn9I/fw6kJO69kAxV+p601wKKilyNhirsrnDn2Mqmf49TpOItgAiWX/lwqlfGtngS7KQ2+8xoQisOVC4tibS+pNFF8tPjRrYfQFb62ZUyquT5+ggll8rpaS7NOrftcui4L9jOKT3qooCtNaO5vjhct/57/eL9Lyd6ApsVi6iIIRDB2UwePYtXYjLQ7bjQIE8nmfeg3TO3lS3RaPOynzMaKqLKBUBQHAkZU620N91meAADblqZi1lb+vwguw==;ISWlEbULCFDaJc1gd8sD+Q=="
+secured: "5pcZLFxOs+yWvgJ8gcmA/Ds14wiFrSmRnOAeVLV86+aSOGsFlAkIAbX0LualF2NPXmVPjUWTg+S5KoVgTGCbcrEO6XbR/PYqD+KWuIrUZZ+sDbMZ1hoJ5GdsO8dBe3J0BYspnsd7ywovtYjAO8V1kj6i2RIjzszuTGfjakX9lmN0lPHK48m3E7270ostesXvnD6O307gQRJJuJWvhD59NjJtKztIqJJdBH/0dn1WZnTV6m+GqrFiLcYQLgJWAmPucbUaeGvNBfimoHPKrOumamV+RdOrmG0X8BLPZFaRhT/zo63d7N7kG+wWhhi8uPLvGfjtGf8c/LLigHo7ZF4Nb8Z5wV8RSoO1cq64sS5lD9sA1SMxjA4dPfIylEi1jYCMpTTPLke9ZQK2MAExfNF2HjEAopEmD1JZu1r0cpxTov0XUNQShm1kSS2nJvS9jzStMLjGhR7xNIBYQ8ldc5q43CzoBYi2/gRNpJJKwkCp9krpuwcmJiaMhdzLZAIbPGWUIUZg54q8p7RxVRV+ocvmtQ==;+np159x6yXYBmGrg3+rb0A=="
 ---
 

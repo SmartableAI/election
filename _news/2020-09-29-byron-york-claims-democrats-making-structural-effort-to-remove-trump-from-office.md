@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rep. Jordan claims Trump 'paid what he owed' in response to NY Times tax report"
+    excerpt: "President Trump \"paid what he owed\" in taxes, Rep. Jim Jordan, R-Ohio told Fox News Tuesday, dismissing a New York Times report that the president paid no income tax in 10 of the previous 15 years."
+    publishedDateTime: 2020-09-30T00:56:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2wZ0rFTUH8/jim-jordan-trump-taxes-ny-times"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-trump-taxes-ny-times.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-trump-taxes-ny-times.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8241411b-5bcb-46d6-bbe8-f51124ee7cda/a39ee341-3490-443f-bbbe-b3badea4f82c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EUM3Y+Zl6A2CyHhPzZL68JVedtj1jUFHJUUx62ZpJCHVpoMT5rumyyzME8O41Goc/F+wiucpA1ggeRlMwfv03oJ5xL17pg1KNmIpScOOlGYPFE8njlIeqL9vKwZWnQpFHxu4vzo2NQ8gC8S9OH8dP1gblesGDPaASTDrzfi1m761RsDD8NYkKIPF+jH+cKg9ebSsINMLzR3krhcf9ouwh6gOz/7WJ/+R1R5MS8T+0AdwVAEIguZqkzv0jjMq9yK+h+uKvXmpL7j9gFibZ4f7NDtIZmfgqWI4KkPOzozlK0gqWV3kdUj/MB59+K9ymE32Mxg96q6AXwu8YA3Dgm2/trsnBRZAYi5yi5MUo5vj1gI=;N6Ek+qTw61nrglEcWyX6fg=="
 ---

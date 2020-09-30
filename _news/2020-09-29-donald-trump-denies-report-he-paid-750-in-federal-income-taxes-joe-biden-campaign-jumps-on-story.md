@@ -219,6 +219,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'How you doing man?': Trump, Biden start debate with socially distant greeting"
+    excerpt: "In the latest sign of how COVID-19 has upended the election, Trump and Biden skipped the handshake at the first presidential debate in Cleveland."
+    publishedDateTime: 2020-09-30T01:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-trump-biden-give-socially-distant-greeting/3577807001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3577807001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3577807001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/b4c81276-35b4-4899-b585-fe23c43942f7-XXX_09292020_PresidentialDebate_CLE_0005.JPG?auto=webp&crop=2999,1687,x1,y302&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign emails 'I just finished debating Joe Biden' before debate starts"
+    excerpt: "The Trump campaign appeared to get a head start on Tuesday's post-debate coverage with a press release seemingly meant for after the debate being sent out hours before the event started."
+    publishedDateTime: 2020-09-30T01:44:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518846-trump-campaign-emails-i-just-finished-debating-joe-biden-before-debate"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518846-trump-campaign-emails-i-just-finished-debating-joe-biden-before-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518846-trump-campaign-emails-i-just-finished-debating-joe-biden-before-debate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 136
+    images:
+      - url: "https://thehill.com/sites/default/files/donaldtrump_bidenjoe_092420getty_split_polls.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump vs. Biden, coronavirus stimulus bill, MLB playoffs: 5 things to know Tuesday"
     excerpt: "The first presidential debate takes place in Cleveland, Major League Baseball playoffs begin and more news to start your Tuesday."
     publishedDateTime: 2020-09-29T07:22:00Z
@@ -266,6 +298,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NX6P4BQBOAI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 961
+        isCached: true
+  - title: "As Trump continues to interrupt during the debate, Biden says, 'Will you shut up, man?'"
+    excerpt: "Trump came out swinging, trying to needle his opponent, and he continued to interrupt even after being cautioned by moderator Chris Wallace."
+    publishedDateTime: 2020-09-30T01:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/biden-asks-trump-shut-up-president-keeps-interrupting-debate/3582754001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3582754001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3582754001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/811f43df-13c7-4930-810c-6f244b571f00-AFP_AFP_8R23AH.jpg?auto=webp&crop=5313,2989,x11,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden can beat (and infuriate) Trump by being the adult on the presidential debate stage"
     excerpt: "Joe Biden’s campaign is based around being calm, rational and a healer. He shouldn't try to call more names or be more pugnacious than Donald Trump."
@@ -395,6 +443,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden tells Trump to 'shut up, man' after 20 minutes of constant bickering in the first presidential debate"
+    excerpt: "\"That was a really productive segment. Keep yappin', man,\" Biden said after getting cut off by President Trump over and over."
+    publishedDateTime: 2020-09-30T01:37:00Z
+    webUrl: "https://www.businessinsider.com/biden-tells-trump-would-you-shut-up-man-debate-video-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-tells-trump-would-you-shut-up-man-debate-video-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-trump-would-you-shut-up-man-debate-video-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 122
+    images:
+      - url: "https://i.insider.com/5f73df760ab50d00184ad2e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump and Biden will share the stage at the presidential debate. Here are other times were in the same room"
     excerpt: "The candidates have not been spotted in the same place recently, though there have been a few times over the years they've been at the same event."
     publishedDateTime: 2020-09-29T23:30:00Z
@@ -500,6 +564,22 @@ related:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Questions real Houstonians have for Donald Trump, Joe Biden"
+    excerpt: "While the debate’s questions are already set in stone, we here at Chron.com thought that Houston voters should be able to ask the candidates, President Donald Trump and former vice president Joe Biden,"
+    publishedDateTime: 2020-09-30T00:14:00Z
+    webUrl: "https://www.chron.com/news/politics/election2020/article/Questions-Houstonians-have-for-Trump-Biden-15607347.php"
+    ampWebUrl: "https://www.chron.com/news/politics/election2020/amp/Questions-Houstonians-have-for-Trump-Biden-15607347.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/politics/election2020/amp/Questions-Houstonians-have-for-Trump-Biden-15607347.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 100
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Trump vs. Biden: Before Debates, Who Has The Lead In National Polls?"
     excerpt: "Democratic nominee Joe Biden continues to hold a strong nationwide lead over incumbent President Donald Trump ahead of the first debate."
@@ -624,6 +704,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/after-months-of-shadow-boxing-president-donald-trump.jpg"
         width: 837
         height: 768
+        isCached: true
+  - title: "Presidential Debate: Joe Biden Releases Tax Returns Ahead Of Showdown With Donald Trump"
+    excerpt: "The Democratic nominee released his 2019 tax return Tuesday, showing he paid nearly $300,000 in federal taxes."
+    publishedDateTime: 2020-09-29T22:47:00Z
+    webUrl: "https://www.ibtimes.com/presidential-debate-joe-biden-releases-tax-returns-ahead-showdown-donald-trump-3053926"
+    ampWebUrl: "https://www.ibtimes.com/presidential-debate-joe-biden-releases-tax-returns-ahead-showdown-donald-trump-3053926?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/presidential-debate-joe-biden-releases-tax-returns-ahead-showdown-donald-trump-3053926?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 82
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/democratic-presidential-candidate-joe-biden-leads-president-donald.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "WATCH: Trump Repeatedly Tells Mostly Maskless Rally Crowd That Joe Biden Will Perform Well in Debate"
     excerpt: "President Donald Trump repeatedly told a rally crowd that former Vice President Joe Biden will perform well in next week's debate, while also predicting that the media would praise Biden no matter the outcome of their first bout."

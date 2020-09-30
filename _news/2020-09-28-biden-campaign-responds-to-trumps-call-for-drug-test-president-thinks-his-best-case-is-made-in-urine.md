@@ -1039,6 +1039,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Presidential debate gets personal as Biden calls Trump a ‘clown,’ Trump tells Biden he’s not ‘smart’"
+    excerpt: "The first presidential debate got personal right out the gate Tuesday night as Democratic presidential nominee Joe Biden called President Trump \"the worst president America has ever had\" and Trump said there is \"nothing smart\" about the former vice president. "
+    publishedDateTime: 2020-09-30T01:52:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wBgNoM8ZEEY/presidential-debate-gets-personal"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-gets-personal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-gets-personal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Presidential debate: Trump, Biden clash over Barrett Supreme Court nomination, ObamaCare as insults fly"
+    excerpt: "President Trump and former Vice President Joe Biden kicked off their first presidential debate sparring over the Supreme Court nomination and ObamaCare, but it quickly devolved into insults with Biden calling the president a \"clown\" and a \"liar.\" "
+    publishedDateTime: 2020-09-30T01:43:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zCJVDbCWlfw/first-presidential-debate-biden-trump-clash"
+    ampWebUrl: "https://www.foxnews.com/politics/first-presidential-debate-biden-trump-clash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-presidential-debate-biden-trump-clash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pelosi to Biden ahead of presidential debate: 'Be yourself. Save the planet'"
     excerpt: "House Speaker Nancy Pelosi urged Democratic presidential nominee Joe Biden to be himself on Tuesday night as the former vice president and President Trump face off for the first time, calling on him to “save the planet.”"
     publishedDateTime: 2020-09-29T17:02:51Z
@@ -1824,6 +1856,17 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Ted Cruz advises Trump to stick to 'substance' in debate with Joe Biden"
+    excerpt: "Texas Sen. Ted Cruz advised President Trump to stick to principles when debating former Vice President Joe Biden."
+    publishedDateTime: 2020-09-30T00:05:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/ted-cruz-advises-trump-to-stick-to-substance-in-debate-with-joe-biden"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/ted-cruz-advises-trump-to-stick-to-substance-in-debate-with-joe-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ted-cruz-advises-trump-to-stick-to-substance-in-debate-with-joe-biden?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
   - title: "Trump says he wants a four-hour debate with Biden moderated by Joe Rogan"
     excerpt: "President Trump said he would gladly participate in a four-hour debate against Democratic presidential nominee Joe Biden moderated by podcast host Joe Rogan."
     publishedDateTime: 2020-09-19T15:58:00Z
@@ -1947,6 +1990,17 @@ related:
     webUrl: "https://www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance"
     ampWebUrl: "https://www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance?_amp=true"
     cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/get-ready-for-joe-bidens-cringey-debate-performance?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "Why won’t Joe Biden take a stand against court-packing?"
+    excerpt: "During the first presidential debate on Tuesday, Democratic candidate Joe Biden was asked specifically about his position on court-packing: Would he support his colleagues’ attempts to add seats to the Supreme Court if the Senate confirms President Trump’s nominee,"
+    publishedDateTime: 2020-09-30T01:50:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/why-wont-joe-biden-take-a-stand-against-court-packing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/why-wont-joe-biden-take-a-stand-against-court-packing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/why-wont-joe-biden-take-a-stand-against-court-packing?_amp=true"
     type: article
     provider:
       name: Washington Examiner
