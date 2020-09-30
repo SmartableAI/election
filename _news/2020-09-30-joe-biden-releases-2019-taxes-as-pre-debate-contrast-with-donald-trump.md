@@ -395,6 +395,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump and Biden will share the stage at the presidential debate. Here are other times were in the same room"
+    excerpt: "The candidates have not been spotted in the same place recently, though there have been a few times over the years they've been at the same event."
+    publishedDateTime: 2020-09-29T23:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-times-trump-biden-were-same-place/3579445001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3579445001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3579445001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/045de2ed-c185-4793-8524-7551ec5897dd-XXX_IMG_XXX_JG_137685_BUSH_F_1_1_87NI1U22.JPG?auto=webp&crop=5263,2961,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Can the stock market predict whether Joe Biden will be the next president or Donald Trump wins a second term?"
     excerpt: "The worst pandemic in a century and one of the sharpest downturns since the Great Depression are making the usual winning signs harder to read."
     publishedDateTime: 2020-09-28T09:51:00Z
@@ -714,6 +730,6 @@ related:
         height: 560
         isCached: true
 
-secured: "DI94PVWqDPVCj5HRseivtST9NFShMqC3xxVBWRwXP5bimzJtpLLpq4CGOgzRDVji3oNSS6i5VKCVFi87C0i4RaAu3MQ4O1G+oUTGGI777PA5kIm0+UjLaP2w0GG4L9Cdfz70gFpqpM+LNgQisk09LL48+ZZF/Dq8empKJSC2yv/y2sdMI9zwb6TxBkKQe79UygI8AWNlsJFTkE+u6xGaQblchgeP25XpHhPY/vpMIOzpueQc9yzd5MuwjumvbQqfIz65z3CRG1WlH7zIxNqfNzWZNbNPNzLFTlgZUy5JGmnmcXPBDfIWa52wOYd+DxraV541tQlrqiMiSQVcrXH5isZDk8301Lepwgmge/LFNXE=;97D4N5l/sDR4Ja+RCXR5SA=="
+secured: "X0KcqmGkabqnHtmY819+XbF1lziySSCm3KMwMmwzm8v3OFUISxiD++HNOdH9CoVLahoNc4+FKRf+Z95/cFYBRu7tLzaIYk5kTle+bYxU3NpO7OVSqoLy0DEMl//Na5Fs9MzhHtkvf7yQuPM6GyT5mpJrV4lR1c0ejT/uXDACwyTmgY0XhqD2L+AHJQhbvB2/lhFMWCFnAHki+6e5zAPo8GSIPr3Na7VZ9NRqy5W3dl9cV4Qvdp6kTsoLp9A1QSpkvR8fi6h3sbBaiV4Amo36Eo9SxkVY3UHBY0O1yPKWXEK54dGa4XW4E4yuuTJDTv2zcsPvDYSl9c3qPa5TvLdicyfslNNzrb+7PS7McrbgmTmrmt2jDFdawDPF+vq+qpicZ8OIiZLi1GWESTnZqNXEDkKiTmMWUy96ULhGwOptSi72pCr/JtrXlfAfyZ1d/kMKld/ayEN0qVZUmEjCCh1SsZvf312hBoJLjLprq9XILx8kVzCuUMJRdmxkPgt8GlCtK7dJfyE4n+dpdmR+cwflgw==;vO9XnK301eLHuRtCOLsk4Q=="
 ---
 

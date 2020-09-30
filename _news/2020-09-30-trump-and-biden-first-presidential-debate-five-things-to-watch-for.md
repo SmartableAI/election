@@ -240,6 +240,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump and Biden to clash in first debate in Cleveland"
+    excerpt: "The stage is set and the chairs spaced apart for the first debate between President Donald Trump and former Vice President Joe Biden, which kicks off at 9 p.m. ET Tuesday. Biden enjoys a comfortable and consistent lead in most national polls heading into the debate and only a tiny fraction of voters remain undecided,"
+    publishedDateTime: 2020-09-29T22:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-clash-first-debate-cleveland-n1241424"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241424"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241424"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3415497/200928-presidential-debate-main-bar-cs_7ddf3fb7db8a79973209013834d63307.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Trump email says he ‘finished debating’ Biden hours before debate begins"
+    excerpt: "The Trump campaign claimed the president \"finished debating Joe Biden\" and bragged about his performance hours before the debate even started Tuesday night. In a prematurely sent campaign email obtained by POLITICO,"
+    publishedDateTime: 2020-09-29T23:53:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-biden-debate-early-email-423224"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/29/trump-biden-debate-early-email-423224"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/29/trump-biden-debate-early-email-423224"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 149
+    images:
+      - url: "https://static.politico.com/f0/db/24f2d65d426d8268e92bcbb47df0/200929-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
     publishedDateTime: 2020-09-27T16:26:00Z
@@ -409,6 +441,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/29/multimedia/29elections-briefings-bidentaxes1/merlin_177022641_6f4b3df4-b2c3-4eed-bdb8-da98f33153e9-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump looks to turn things around at tonight's debate: What to watch"
+    excerpt: "The president is running out of time, with voting already underway in some states and few voters still undecided. But tonight' debate gives him an opportunity to make his case."
+    publishedDateTime: 2020-09-29T22:49:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/presidential-debate-biden-trump-422953"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/50/a5/685d9d2948b38e60ae7b091123b9/200929-trump-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Dems to Biden: Let POTUS Lie During Debate, Avoid ‘Trump-Style Crazy Show’"
     excerpt: "Biden’s superpower right now is not to fact-check Trump,” a former adviser to Clinton’s 2016 campaign said. His “superpower,” the former adviser said, is to be “the contrast.”"

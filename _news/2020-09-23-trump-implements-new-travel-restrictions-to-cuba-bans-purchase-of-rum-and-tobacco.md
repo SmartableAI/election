@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-announces-ban-on-purchasing-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-announces-ban-on-purchasing-rum-tobacco-from-cuba.amp"
 type: article
 quality: 169
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Federal judge orders Trump admin to respond to accusations census workers ordered to halt operations"
+    excerpt: "A federal judge ordered the Trump administration Wednesday to respond to accusations from census workers that they had been ordered to halt field operations."
+    publishedDateTime: 2020-09-29T22:16:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WlsANo3ymCE/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20142633041337.jpg"
+        width: 1024
+        height: 577
         isCached: true
   - title: "Reagan, Bush government officials endorse Trump, citing foreign policy accomplishments"
     excerpt: "In an open letter, 70 former officials lauded the president for pursuing a \"strong foreign and national security policy in America's interests.\" "

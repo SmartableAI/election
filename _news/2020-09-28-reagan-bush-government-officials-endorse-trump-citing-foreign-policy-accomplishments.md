@@ -61,6 +61,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Federal judge orders Trump admin to respond to accusations census workers ordered to halt operations"
+    excerpt: "A federal judge ordered the Trump administration Wednesday to respond to accusations from census workers that they had been ordered to halt field operations."
+    publishedDateTime: 2020-09-29T22:16:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WlsANo3ymCE/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work"
+    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20142633041337.jpg"
+        width: 1024
+        height: 577
+        isCached: true
 
 secured: "8dECBpp/nwhkqfH91hpBmeXmt21XD8Vj2Ier+br+b9nnkbiivcdYSiDAG8C4ZmpUYvAy5K4GU5LKqym13E9+/3K83sGmfN9/3LE+M2edbcYKy0nCbhGxl0yBPctQX7YwfQEkjkRywL4jJzQpDWGwXNmfQLe3GWVXv5G2eQmI1VJIQA7LLuO6DgfWJ95Yy8EyvTsn2TLu5+pnYA/AUsvZ0q2cbAdUGQ8oTDA1heIYrfMs3IL/C70EjXU6Ghckf48FAlAGRnK9FiTertjENcjucg1x0Z4YTfBhPOD9A2nnDhYEwuP0gqQIjVRIyxnzCu9bw1dRqp40Zjslfci/TUjB9CaYm+JhdTPXawXXNneZhw4=;0ymp6xHMkTdiBRfy21F71Q=="
 ---

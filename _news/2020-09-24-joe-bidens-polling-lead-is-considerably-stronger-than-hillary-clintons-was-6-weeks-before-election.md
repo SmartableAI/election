@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averag
 webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2048
     height: 1440
     isCached: true
+
+related:
+  - title: "Trump's spy chief just released 'Russian disinformation' against Hillary Clinton that he acknowledged may be fabricated"
+    excerpt: "DNI John Ratcliffe said in a letter that the US intel community \"does not know the accuracy\" of the allegation or whether it's been fabricated."
+    publishedDateTime: 2020-09-29T22:27:00Z
+    webUrl: "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5d385b01b44ce752ae61652b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "as0JT0b69tRw9WDyOzwTNCFNq8xRjG06JvRXWRjbByDt7KtD/b6pquQAPzRseXiUQWnFPurDebeL2JchgnV295rqLhhbtmP5WBP1Bf6uNgJJT9iWJK4Yzk1WVymBnW6UuF5W6pNpHI6dsvDmFyav/yywGL/NiD4I8CIFHVagzv6A1xwfOEq0VpzvVjVdHgZToaqMKihFgeUwQJbxvRTDvCQZHQnbVKAGs1/4Eu/SWBoq5uo+iUhCAnnUlYSjqTkUtFvOrF6hYmC/H13DK4XO5c0VexZ5IWhyYhJlHdGH4Qunfy2SznPUvTIBdwip03H5IyxYuCA54gWsJJsFzfnwOMJqzRDuXp06BOJOY90mkWvm6GdzHSXMCiGB9fa771nhnlcO+rZDPHc0UNP04dnLGInwrJDHDhoVjJ45tNx9RDQC72CU3qRqwufsvM935nUSF7+rpuet8BHIvZIf1kX+13xSjtJJ3nFEbiqWH0NKOaq3WXV8mtsTfPEZreLgJzpkwWYqaQsLLJNV1XqQmSjO6A==;s2LIUop4tD1WUi3NH4Nm1w=="
 ---

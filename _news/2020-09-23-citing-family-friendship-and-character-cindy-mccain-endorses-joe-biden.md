@@ -107,6 +107,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "See what they paid: Joe Biden and Kamala Harris release 2019 tax returns"
+    excerpt: "Democratic nominees Joe Biden and Kamala Harris released their 2019 tax returns as an explosive report shed light on President Trump's income taxes."
+    publishedDateTime: 2020-09-29T23:15:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 149
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ec592ed/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F82%2Fca%2F029f27374a97b03c9146222a66e7%2Fca-times.trump-tax-thumb.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Trump, Biden Are Potential ‘Super Agers’ Whose Age Is ‘Not Relevant’ To Election, Study Finds"
     excerpt: "An analysis finds both presidential candidates are “likely to survive the next presidential term with their mental and physical attributes intact.”"
     publishedDateTime: 2020-09-25T14:13:00Z
@@ -298,6 +314,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/debate-location-ap-ps-200928_1601327491513_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Live: President Trump and Joe Biden square off in first presidential debate"
+    excerpt: "The debate also will be aired on most major networks and cable news channels, including Fox News, CNN, ABC, CBS, NBC, MSNBC, PBS and C-SPAN. The debate is scheduled to start at 9 p.m. ET.  Presidential debate city: In the COVID era,"
+    publishedDateTime: 2020-09-29T23:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/live-presidential-debate-updates-trump-and-joe-biden-square-off/3578155001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3578155001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3578155001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/3ba21f9c-25a5-453d-a8eb-160a75d0f76b-002_XXX_09292020_PresDebatePrep_CLE_0006.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
     excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
@@ -1106,6 +1138,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "The Latest: Kamala Harris previews Biden's focus for debate"
+    excerpt: "The Latest on the 2020 presidential election (all times local): 5:50 p.m. Kamala Harris says her running mate, Joe Biden, will share his vision for tackling the coronavirus and rebuilding the nation’s economy during his presidential debate against President Donald Trump."
+    publishedDateTime: 2020-09-29T23:00:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/The-Latest-Trump-in-debate-prep-before-faceoff-15606123.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/The-Latest-Trump-in-debate-prep-before-faceoff-15606123.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/The-Latest-Trump-in-debate-prep-before-faceoff-15606123.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/32/33/20031221/5/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "How to watch the first presidential debate between Donald Trump and Joe Biden"
     excerpt: "The presidential debate Tuesday will be hosted in Cleveland at Case Western Reserve University and the Cleveland Clinic."
     publishedDateTime: 2020-09-29T15:08:00Z
@@ -1121,6 +1169,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/7CqWIm1-iIBAGVMjguDIjQQxd7I=/0x0:7534x5025/1400x1050/filters:focal(3025x1730:4229x2934):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67552338/1277226289.jpg.0.jpg"
         width: 1400
         height: 1050
+        isCached: true
+  - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
+    excerpt: "WASHINGTON – The highly anticipated first match-up between Democratic nominee Joe Biden and incumbent Republican President Donald Trump is finally"
+    publishedDateTime: 2020-09-29T22:42:00Z
+    webUrl: "https://www.statesman.com/news/20200929/how-to-watch-first-presidential-debate-between-joe-biden-and-donald-trump"
+    ampWebUrl: "https://www.statesman.com/news/20200929/how-to-watch-first-presidential-debate-between-joe-biden-and-donald-trump?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20200929/how-to-watch-first-presidential-debate-between-joe-biden-and-donald-trump?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 87
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200929&Category=NEWS&ArtNo=200928804&Ref=AR"
+        width: 1024
+        height: 683
         isCached: true
   - title: "5 questions heading into Donald Trump and Joe Biden's first presidential debate"
     excerpt: "President Donald Trump and his Democratic challenger, Joe Biden, will meet on the debate stage for the first time Tuesday night in Cleveland. Millions of voters will get their first opportunity to compare the candidates' policies and personalities side by side on national television for 90 minutes just five weeks before Election Day and as early voting is already unfolding in some states."
@@ -1581,6 +1645,22 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B896%2C294%5D&w=1600&h=838&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F25%2Frbg-3.jpg"
         width: 1600
         height: 838
+        isCached: true
+  - title: "Presidential debate: Campaigns for President Donald Trump, Joe Biden hurl accusations of lies, distractions hours before showdown"
+    excerpt: "Hours before President Donald Trump and former Vice President Joe Biden took the stage in the first of three presidential debates before Election Day, the campaigns for both men accused each other of lying."
+    publishedDateTime: 2020-09-29T22:57:00Z
+    webUrl: "https://www.masslive.com/politics/2020/09/presidential-debate-campaigns-for-president-donald-trump-joe-biden-hurl-accusations-of-lies-distractions-hours-before-showdown.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/09/presidential-debate-campaigns-for-president-donald-trump-joe-biden-hurl-accusations-of-lies-distractions-hours-before-showdown.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/09/presidential-debate-campaigns-for-president-donald-trump-joe-biden-hurl-accusations-of-lies-distractions-hours-before-showdown.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 61
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6U2AI5E5WNCNVFCCSI2K4FOHUE.jpg"
+        width: 7000
+        height: 6000
         isCached: true
   - title: "Hear why Cindy McCain endorsed Joe Biden"
     excerpt: "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, endorsed Democratic presidential nominee Joe Biden. CNN's David Chalian explains why this could have an impact on the"

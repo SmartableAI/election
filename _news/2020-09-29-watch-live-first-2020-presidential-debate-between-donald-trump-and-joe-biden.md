@@ -346,6 +346,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump, Biden do walk-throughs ahead of first presidential debate"
+    excerpt: "President Trump and Democratic presidential nominee Joe Biden have checked out the stage ahead of Tuesday night’s presidential debate."
+    publishedDateTime: 2020-09-29T22:21:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYjxKWCXXas/trump-biden-do-walk-throughs-ahead-of-first-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-do-walk-throughs-ahead-of-first-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-do-walk-throughs-ahead-of-first-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20273757957198.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -986,6 +1002,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Ohio Governor predicts Trump will win Buckeye State"
+    excerpt: "Republican Ohio Gov. Mike DeWine on Tuesday predicted that the presidential race between Donald Trump and Joe Biden will be close in Ohio but will ultimately result in a Trump victory."
+    publishedDateTime: 2020-09-29T23:11:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hCRkcdVhb2U/ohio-governor-predicts-trump-win-buckeye-state"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-governor-predicts-trump-win-buckeye-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-governor-predicts-trump-win-buckeye-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db4210bf-8b0d-46c7-9cdd-da299ddc0cdf/3d2bbdb7-c69a-4e2e-9c66-c483d52aa989/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump’s debate game plan is to ‘unravel’ Biden’s ‘attachment to far-left’: Mercedes Schlapp"
     excerpt: "President Trump’s strategy is to “unveil” Democratic presidential nominee Joe Biden’s attachment to the far-left at tonight's debate, Trump 2020 senior adviser Mercedes Schlapp said on Tuesday."
     publishedDateTime: 2020-09-29T16:46:24Z
@@ -1139,6 +1171,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09ea91db-7ea7-4313-ab0c-4912c2e32b83/53be425d-3e00-4998-81b0-3e8489f920cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "First presidential debate 'is about how Joe Biden shows up' and performs, Bret Baier says"
+    excerpt: "It won't be long before the metaphorical gloves come off and rhetorical punches are thrown at Tuesday's first presidential debate between President Trump and Joe Biden, \"Special Report\" host and Fox News chief political anchor Bret Baier predicted Tuesday."
+    publishedDateTime: 2020-09-29T22:45:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CTtxXyWjcAE/first-presidential-debate-preview-bret-baier"
+    ampWebUrl: "https://www.foxnews.com/politics/first-presidential-debate-preview-bret-baier.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-presidential-debate-preview-bret-baier.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fac3c81-602c-4a32-9a08-66aa86954a99/16722dbf-0b9a-4c04-a6ca-aa78524ef826/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1581,6 +1629,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tim Murtaugh: Presidential debate reminder -- Biden is a skilled debater. It's his record that's a failure"
+    excerpt: "Inspired by past strong debate performances, Obama went with Biden. This background, and how Biden vaulted into national office, give a sense of what to expect in the first presidential debate on Tuesday night."
+    publishedDateTime: 2020-09-29T22:48:00Z
+    webUrl: "https://www.foxnews.com/opinion/presidential-debate-biden-trump-tim-murtaugh"
+    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-biden-trump-tim-murtaugh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-biden-trump-tim-murtaugh.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98809806-4c7b-4706-94f3-7079ab0f27bd/222722b2-2f73-4d4e-acf6-1abf5fd9305b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "New York Times and Trump taxes: Why it’s not a campaign bombshell"
     excerpt: "The media were buzzing not just about today’s first presidential debate, but about a massive New York Times treatise on Trump’s tax returns."
     publishedDateTime: 2020-09-29T12:04:00Z
@@ -1942,6 +2006,6 @@ related:
         height: 375
         isCached: true
 
-secured: "5fy0nOjhl7RpZtky3/YSOyW32TLC4OoY8I9wl3psUkzTjq1nuCnMRYbgnidCMsNAZIZTrc2dIv55dD8Q9ri4JGlMywD9Llv+V978nI4ehDoq3BJDsQZOyf5NsAKbdFXdvyOrRomA31bdOLyYBYW9Hxs3TCRv8wNmFI8ycubvP9PtDmN+dhBP/66NYIJm0kg9L0Fe18zf2m/CXe70cpR92XsIscLbYifX4q+lZFVLZX1JGRON1R9KrmhslBDykJvHa+hOqOq5NK/h+SA49fJXgxgkRxMDlOMyGlDPZlAbsC61sI7YshnLATpgWklLjopKmpPkm96YpIvcahtWZBGAXm28TcqZO81tdlLla2l/zhQ=;DDr5x2S2LEKrCSMytWl9AQ=="
+secured: "N2PlRmx4GhAxwDH7FyH+6b7KIn5Vo9NmnUBBxGpsp/J7xL0dHRgsOBpIumHd3FWEY66mkmeiYvB/BqCTF+6nYAp1pOBt1v0+tUasitM4ZOl92c9yNjecVFeSykvLTX8AVmFgQqhdpfg5V6NpBhrzTvr3FTae5eWbO7f2LejEqHGet1/1/Qj0t6oOh896HpZd0j5qOaKRMOSKELjXTuv96HQDeIbXUgUsi5eY44t+fGLh/CyIKcQdAKde4afc15ycXy36bn5nfDKJbpiCorDa33oYEYATlZjlaD1iLRYjabJtCEpSw6KUpIgoOX9KTKP2NqKEjLgCEJVUv9/0oy/pmqCsQU4Y6+ik542VTwQ/0gek7geFTJu1A1hP1QFOTIoosPBt7kCPnOq2xa/14MmoLYjjSs3N1AqomkZhYMWgmhH4Z8Q4EOxvJSOQvfRHFev5UhU3JxIAxJQe0sAp97dN76qv+/7NbVKHgvZrK2iUhb44FQgDTTWlz7Ojvo5IDZsrvxGu50VErxm1SsVzZ+K9tg==;tAZK++mr8QWes0PFbUpwcA=="
 ---
 

@@ -32,49 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden changes answer on national mask mandate authority again, says he would not have power to enforce it"
-    excerpt: "Biden has vacillated back and forth on whether he could or would enforce a national mask mandate as president"
-    publishedDateTime: 2020-09-18T11:28:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CqodirHR9Sc/biden-mask-mandate-change-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-mask-mandate-change-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mask-mandate-change-town-hall.amp"
+  - title: "Jill Biden shuts down question about husband's gaffes: 'You can't even go there'"
+    excerpt: "Asked by CNN's Jake Tapper about Democratic presidential nominee Joe Biden's reputation for sometimes misspeaking, Jill Biden said: 'You cannot even go there'"
+    publishedDateTime: 2020-09-29T22:16:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YVKfLbtwOYQ/biden-campaign-voters-ignore-gaffes-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2923e83-59b6-4ea1-964d-b7b5da9b2200/5a9805d6-aed0-45e0-b736-307e90588a0a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Watch Live: Joe Biden Delivers Policy Speech On Climate Change"
-    excerpt: "Former V.P. Joe Biden will deliver remarks Monday afternoon on climate change as wildfires continue to burn during President Trump's visit to California. \"Vice President Biden will discuss the threat that extreme weather events pose to Americans everywhere,"
-    publishedDateTime: 2020-09-14T19:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/14/watch_live_joe_biden_delivers_policy_speech_on_climate_change.html"
+  - title: "Jill Biden shuts down question about husband's gaffes: 'You can't even go there'"
+    excerpt: "Asked by CNN's Jake Tapper about Democratic presidential nominee Joe Biden's reputation for sometimes misspeaking, Jill Biden said: 'You cannot even go there'"
+    publishedDateTime: 2020-09-29T23:30:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
     images:
-      - url: "https://assets.realclear.com/images/52/520790.jpg"
-        width: 808
-        height: 606
-        isCached: true
-  - title: "Biden Says He Plans To \"Elevate\" Justice Department's Civil Rights Division Into White House Office"
-    excerpt: "Democratic presidential nominee Joe Biden campaigned in Charlotte, NC on Wednesday where he spoke to the \"Black Economic Summit.\" During a rare Q&A at the end of the event, Biden spoke about a new plan to move the Civil Rights Divison out from under the preview of the Justice Department and directly into the White House."
-    publishedDateTime: 2020-09-24T23:13:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_says_he_plans_to_elevate_doj_civil_rights_divison_into_white_house_office.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 51
-    images:
-      - url: "https://assets.realclear.com/images/52/522131.jpg"
-        width: 750
-        height: 562
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2923e83-59b6-4ea1-964d-b7b5da9b2200/5a9805d6-aed0-45e0-b736-307e90588a0a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "chvQgrx8OXWya0SA7eQyI0Ycu23/GgwyYS23crH74FouuFgCYOEFmRYbl1c5+wM9XsE6XeT/6W7yaWBMStJm1Ha5jmJRqVuY8izdxzUFrRlU8IS4P9CRrNDwAKAvDUX9ddL7IMLuRkK4kc5wVswDVFn0doxTz+SHnLHTjyOBsAConvBVB7rOlcToV1SXBRXYY+/z9JkTjq9bdUXHVK2GpkImva/uaIvQJy6Oc0Nhba5Po9sszx9AUktgIkOmNZhx+/JFst2u6nvBh+oFhaKsJCPA73OeNYbkyh2pZ7sm6Lwh8bE1e+N/9Ue01/kDRQZgfwYF6batn1BEZCQprhP9mk0lWuzzuGRQ+SROWnRDJaaJliph1Id5B4La8psge0zMk8pGRcec6TMW9l2RuWWBF+zipqSGScijfd0pTXisp37aEwvprb05OHtiACbUYo3741ytZPwqtROD6zwnf8PZ6itYIDHKjNr+tuCCT+6QPAMKHCJ4MprXfcF1xfaukCueHqLHSD8L3vDdSIQUMtgcGA==;p1gU8OTX8U5kouVhSpt7jw=="

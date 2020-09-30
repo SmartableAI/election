@@ -650,6 +650,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Polls Suggest Trump Narrowly Expected To Win First Debate With Biden"
+    excerpt: "The heightened expectations for Trump represent a reversal from 2016, when Hillary Clinton was widely expected to emerge victorious in each debate."
+    publishedDateTime: 2020-09-29T23:54:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/29/polls-suggest-trump-narrowly-expected-to-win-first-debate-with-biden/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/29/polls-suggest-trump-narrowly-expected-to-win-first-debate-with-biden/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/29/polls-suggest-trump-narrowly-expected-to-win-first-debate-with-biden/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f73c832148bd2dac20a6877%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Stocks end lower ahead of first debate between Trump, Biden"
     excerpt: "Stocks ended with moderate losses Tuesday as investors waited for the first debate between President Donald Trump and Democratic challenger Joe Biden"
     publishedDateTime: 2020-09-29T21:56:00Z

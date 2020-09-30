@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-abou
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -150,6 +150,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice President Pence Hosts Debate Watch Party in Lititz, Pennsylvania"
+    excerpt: "President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz, Pennsylvania. Vice President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz,"
+    publishedDateTime: 2020-09-29T22:26:00Z
+    webUrl: "https://www.c-span.org/video/?476356-1/vice-president-pence-hosts-debate-watch-party-lititz-pennsylvania&live"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "+Wv0E/sWPG7/mMXdTl20kXB9y+GMnH1/OR7HAhVdX6TjCTXWN6WP5VXuFbtiOH1gbeWz68WEMXsCl6aeH0QLe6U2rFxa6WZEq53qCp1lxNwWjnnz4z352A0c0LCvApSAmnFCbWa4o0t9/058MxT+h2Q8XqryfwgURMtDKYqmknS/UQuFOYB04g9HAt9qZu+QsEgy+YKnXNzKUqtqoDps0AWAFGt53jT0dOWVZswVPtIstgUmoFdCz5LM3azpsFa3DvAvrxa5MDcDTtV+MeZUl/RkJeoLmokOdXheLXqIY2s5umkcrilB3pjh8k35Q+Oa4zpt8wbEeJvHdrZqeeh9xpdAfE6AU7g7Z54zkOuLHjI1kyFlynV77+zfyfk22/mfSS6Ty2ouDv4xUrvfLqGt/qtEx+P269GPOD4o05YboneuPIZ8dm1kIzqjNT/TpboE2+cX5dnK5Ka6JrK1KDTgJCvRdRvSVrOgfe2+fCsg9Qa73LWiQBsvIteN6cyciVOp8ZKFXPmqcrKPFtsLw+wJwA==;bcAVFzJ+ScH8F41aEvfJ/Q=="
 ---
