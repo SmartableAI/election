@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump has repeatedly been endorsed by white supremacist groups and other far-right extremists, and they've looked to him as a source of encouragement"
+    excerpt: "Trump's refusal to explicitly condemn white supremacist groups during Tuesday night's debate follows a similar pattern."
+    publishedDateTime: 2020-09-30T21:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5f74dd1974fe5b0018a8e56a?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "q9KTkRoCF6g8GpPk95GIckA+rRZFywf4CEZnUKPhXN7xAEEu+pGvl8IP4nlVjncatFx9/pEhDRHq0q1kdDWBIOc+2aD/ExmtS+Ui2QuLKN+4kDLWtzmXsmoMWHMv0rfG8M0PbdaQZYLMVs+06OjbcmuYyuW3Ld7HeNjhWx/hNSAhlnqqOE3YUCUr8PUqBIqPlS+3wg7vSxbEwfPmCY3A/YHLp/hb54R354BTe+UFAbSVDega4fOu4Xtda/3UEeAVXgLbf8lLRdtdHgyis41jiqvsRp6GgHDhzKR/4LIaU9xEnsbwM7/ZqoktmtMP8ZG5aofQL5Bt8+A6UGnK0SR0tbjbL4q7Hayp+RuonGadldo=;8hOWYNxZZzyO8Vcw+XjaEg=="
 ---

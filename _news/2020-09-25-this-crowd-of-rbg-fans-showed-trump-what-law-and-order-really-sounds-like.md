@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Who are the Proud Boys, the far-right group that backs Donald Trump?"
+    excerpt: "The Proud boys are an extremist group with a history of street violence against its left-wing opponents. \"Proud Boys, stand back and stand by,\" said President Trump in response, after Chris Wallace asked whether he would condemn white supremacists during the first presidential debate of this election."
+    publishedDateTime: 2020-09-30T21:41:00Z
+    webUrl: "https://thehill.com/changing-america/respect/equality/518989-who-are-the-proud-boys-the-far-right-group-that-backs"
+    ampWebUrl: "https://thehill.com/changing-america/respect/equality/518989-who-are-the-proud-boys-the-far-right-group-that-backs?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/equality/518989-who-are-the-proud-boys-the-far-right-group-that-backs?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_proudboys_93020getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "Donald Trump denies report he paid only $750 in income taxes in 2016 and 2017"
     excerpt: "Trump told reporters \"actually I paid tax,\" but said he would not release returns on his own because they are under IRS audit."
     publishedDateTime: 2020-09-27T22:34:00Z

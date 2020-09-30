@@ -128,6 +128,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "When is the Mike Pence–Kamala Harris debate?"
+    excerpt: "Mike Pence and Kamala Harris. Donald Trump’s vice president and Joe Biden’s running mate will face off against each other"
+    publishedDateTime: 2020-09-30T20:15:00Z
+    webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 150
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-IP742_vp_deb_ZG_20200930125912.jpg"
+        width: 1320
+        height: 742
+        isCached: true
   - title: "Trump, Biden Are Potential ‘Super Agers’ Whose Age Is ‘Not Relevant’ To Election, Study Finds"
     excerpt: "An analysis finds both presidential candidates are “likely to survive the next presidential term with their mental and physical attributes intact.”"
     publishedDateTime: 2020-09-25T14:13:00Z
@@ -399,6 +415,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/30/30b5dc30-2366-439f-a554-4970fc354da2/thumbnail/1200x630/e5ea71f9b1c1a4ef81a26865169cf77d/ap-18155447401557.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump or Biden: Who won the first presidential debate? Social media picked a winner"
+    excerpt: "Social media was abuzz with reactions to Tuesday night's political debate, and data suggests that Americans weren't too impressed.  People fired off millions of election-related tweets and Facebook statuses during the heated faceoff between President Donald Trump and former Vice President Joe Biden."
+    publishedDateTime: 2020-09-30T21:01:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/09/30/trump-biden-presidential-debate-social-media-posts-winner/3587497001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3587497001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587497001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fact check: President Trump’s untruths on Supreme Court nominations and Joe Biden’s flubs"
     excerpt: "President Trump and his Senate allies are misrepresenting the facts about Supreme Court nominations as he prepares to push ahead with a replacement for the late Justice Ruth Bader Ginsburg."
@@ -1038,6 +1070,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump and Biden face off in first presidential debate"
+    excerpt: "After months of long-distance attacks, President Trump and former Vice President Joe Biden are facing off in Cleveland for their first presidential debate. Ed O'Keefe reports."
+    publishedDateTime: 2020-09-29T23:53:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-and-biden-face-off-in-first-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/29/daf5b565-8cd2-4f1e-930b-b9b320374df1/thumbnail/1200x630/838c7ceca12060ee70bf086a2627041a/0929-en-okeefe-556382-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
     excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
     publishedDateTime: 2020-09-26T22:51:00Z
@@ -1180,6 +1226,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Vice Presidential Debate: What to Expect When Harris, Pence Face Off"
+    excerpt: "As the nation looks forward to the 2020 vice presidential debate between Kamala Harris and Mike Pence next week, here’s what you need to know."
+    publishedDateTime: 2020-09-30T21:15:00Z
+    webUrl: "https://www.nbcwashington.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2431875/"
+    ampWebUrl: "https://www.nbcwashington.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2431875/?amp"
+    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2431875/?amp"
+    type: article
+    provider:
+      name: NBC Washington
+      domain: nbcwashington.com
+    quality: 100
+    images:
+      - url: "https://media.nbcwashington.com/2020/09/pence-harris.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Cindy McCain, wife of late Republican Senator John McCain, endorses Joe Biden for president"
     excerpt: "Cindy McCain, wife of late Republican Senator John McCain, joins \"CBS This Morning\" to discuss what led her to endorse Joe Biden, why she thinks he would be the right person for president and how she feels about the Republican party."

@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "European MP to call on EU to nominate Trump for Nobel Peace Prize"
+    excerpt: "EXCLUSIVE: A European member of Parliament is planning on submitting a resolution to the European Union Parliament calling on the body to nominate President Trump for the Nobel Peace Prize -- the latest in a growing effort in Europe to nominate the president for the prestigious award."
+    publishedDateTime: 2020-09-30T20:39:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p7cBVhNmgtU/european-mp-eu-trump-nobel-peace-prize"
+    ampWebUrl: "https://www.foxnews.com/politics/european-mp-eu-trump-nobel-peace-prize.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/european-mp-eu-trump-nobel-peace-prize.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'"
     excerpt: "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'"
     publishedDateTime: 2020-09-26T13:58:02Z

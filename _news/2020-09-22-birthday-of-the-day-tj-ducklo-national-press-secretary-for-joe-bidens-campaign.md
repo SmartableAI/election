@@ -592,6 +592,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden smashes fund-raising records during chaotic debate"
+    excerpt: "Democratic presidential nominee Joe Biden gestures while speaking during the first presidential debate on Tuesday at Case Western University in Cleveland. | Julio Cortez/AP Photo Joe Biden's campaign hauled in nearly $10 million during the first presidential debate Tuesday night — smashing its own single-hour fundraising record,"
+    publishedDateTime: 2020-09-30T21:07:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/joe-biden-debate-fundraising-423826"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/joe-biden-debate-fundraising-423826"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/joe-biden-debate-fundraising-423826"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/73/14/f6545e204c42b1d617ec4aad2435/200930-biden-debate-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘He’s sort of like Goebbels’: Biden compares Trump to Nazi propagandist"
     excerpt: "Democratic presidential nominee Joe Biden on Saturday compared Donald Trump to a German Nazi propagandist for the president's barrage of attacks against him on the campaign trail. When Biden was asked during an interview with MSNBC’s Stephanie Ruhle how he would combat Trump’s repeated claim that he was pushing a socialist agenda,"
     publishedDateTime: 2020-09-27T03:11:00Z

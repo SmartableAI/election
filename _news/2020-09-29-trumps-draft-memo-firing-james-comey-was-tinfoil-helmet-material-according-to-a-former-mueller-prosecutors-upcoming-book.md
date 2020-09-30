@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Comey: Trump 'spraying gasoline on a fire'"
+    excerpt: "The former FBI Director James Comey says President Donald Trump's inability to condemn white supremacist groups is like \"spraying gasoline with a fire hose\" on a fire. Comey was testifying before a senate panel on the Trump-Russia probe."
+    publishedDateTime: 2020-09-30T21:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/30/comey-trump-spraying-gasoline-fire/3589130001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/28b57a74-6ea3-4133-a8ad-079673e91e9b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "IasiOaCp39Ek6aRt4cXWL43zf7pFC3FpoxFGuuxn+/wfqFX1TGcedYFPAFaNOGO8eERIqo2xBcdLlm5Gpeo5+Y29vQZCSQiEULjecWEw7FIYhskC5T8+r7VF4IyW3wdH7oN7CjXlrtGCjHU1RWZH6Vxw0Rq4WVjqUYn+jo7fKG9SU78/DJNmecRdBetk4nJqeH9dEQVCIsnafWj8e/32vaQdSRptOT3nELEyadixKlw5Uegz6ymZ5zSueMMg662/0u/k8ccq4Q/jREK9Fts7Kl3u8MY9niaLmhRjzZVexO+8QBKfZl1ZdE9yiOC0fIH1EN8uQSg/q9CwXGfaZ6+qhSWsjHA0FKKdOG8ilqvuLxc=;NJ2hru0iUBDfohsroLp4Rg=="
 ---

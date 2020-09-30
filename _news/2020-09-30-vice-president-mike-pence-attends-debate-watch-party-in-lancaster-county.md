@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/area/southeastern-pa/vice-president-mike
 webUrl: "https://www.wfmz.com/news/area/southeastern-pa/vice-president-mike-pence-attends-debate-watch-party-in-lancaster-county/article_65255786-02cb-11eb-a8a8-3b0b4bfc1667.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,98 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Vice President Mike Pence to host debate watch party in Lititz"
+    excerpt: "LITITZ, Pa. — Vice President Mike Pence is traveling to Lancaster County next week to host a 'Make America Great Again!' watch party of the Presidential Debate. On Tuesday, September 29, Pence will travel to Meadow Spring Farm in Lititz ahead of the ..."
+    publishedDateTime: 2020-09-30T21:22:00Z
+    webUrl: "https://www.wbir.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    ampWebUrl: "https://www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    type: article
+    provider:
+      name: 10 News
+      domain: wbir.com
+    quality: 75
+    images:
+      - url: "https://media.wbir.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Vice President Pence speaks at debate campaign watch party"
+    excerpt: "LITITZ, Pa. — Vice President Mike Pence attended a debate watch party at Meadow Spring Farm in Ephrata Township Sept. 29. His visit comes amid a tight contest in the battleground state of Pennsylvania, which played a major role in deciding the 2016 ..."
+    publishedDateTime: 2020-09-30T21:07:00Z
+    webUrl: "https://www.wbir.com/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
+    ampWebUrl: "https://www.wbir.com/amp/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
+    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
+    type: article
+    provider:
+      name: 10 News
+      domain: wbir.com
+    quality: 75
+    images:
+      - url: "https://media.wbir.com/assets/WPMT/images/63353a4c-348a-4005-a9fd-4955d7c4ad81/63353a4c-348a-4005-a9fd-4955d7c4ad81_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "'The road to victory goes straight through Pa': VP Pence amps up campaign in Lititz"
+    excerpt: "Vice President Mike Pence made a campaign stop in Lititz on Tuesday, Sept. 29 to host a presidential debate watch party."
+    publishedDateTime: 2020-09-30T03:10:00Z
+    webUrl: "https://www.ydr.com/story/news/2020/09/29/mike-pence-visits-lititz-presidential-debate-election-2020/3582670001/"
+    ampWebUrl: "https://amp.ydr.com/amp/3582670001"
+    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3582670001"
+    type: article
+    provider:
+      name: YDR
+      domain: ydr.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence's visit to Atlanta"
+    excerpt: "As part of the campaigning, Vice President Mike Pence will make a swing back through Georgia to energize Republican voters, less than a week after Pre"
+    publishedDateTime: 2020-09-30T16:12:00Z
+    webUrl: "https://www.11alive.com/video/news/live_breaking/mike-pence-in-atlanta-why-and-when-is-he-here/85-6e9ac6c4-9964-470e-bdf9-e19bce1f79bd"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 55
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Full coverage from Vice President Mike Pence's visit to Lititz for presidential debate watch party"
+    excerpt: "Vice President Mike Pence is in Lancaster County, as President Donald Trump and his Democratic challenger, former Vice President Joe Biden, debate for the first time. Pence touched down in Lititz ..."
+    publishedDateTime: 2020-09-30T07:12:00Z
+    webUrl: "https://lancasteronline.com/news/politics/full-coverage-from-vice-president-mike-pences-visit-to-lititz-for-presidential-debate-watch-party/article_96f78616-0286-11eb-abe2-5f363f07154b.html"
+    type: article
+    provider:
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/7c/37c4bdfa-02b1-11eb-9eec-9714b1336c56/5f73cccba1934.image.jpg?resize=849%2C630"
+        width: 849
+        height: 630
+        isCached: true
+  - title: "Pence holding a watch party in Lititz; local municipalities holding trick-or-treating this year [Weekend Reads]"
+    excerpt: "To read more, click the link below. Vice President Mike Pence will return to Lancaster County next week, as President Donald Trump and his Democratic challenger, former Vice President Joe Biden ..."
+    publishedDateTime: 2020-09-28T11:10:00Z
+    webUrl: "https://lancasteronline.com/news/local/pence-holding-a-watch-party-in-lititz-local-municipalities-holding-trick-or-treating-this-year/article_128d5578-00c8-11eb-926c-3f237688a04b.html"
+    type: article
+    provider:
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/0/61/061cde24-fffd-11ea-8c72-d762d2a4a01a/5f6f436e3fdd1.image.jpg?resize=820%2C456"
+        width: 820
+        height: 456
+        isCached: true
 
 secured: "OsC4e8glpfXjA1hIKVHG5CS86G6jV88PCOyHdBO4AnWQzMv6xCmOTp4mwYI7eahDmwVgS7cx2Fq6ggNDDpmJTddV4FVaEM4lfW2l6DqJRNVL4WtNR8JdjatFID1z+ir8cxuytbLA6YnrJYvuEVUFHhNv+YB1G8Hyeb2q+UDIGsLEXTi2ZBkFG1qUfPFTgCG6HyIeB4KBWkkhYbwYq/3h5ogx+BxEVMnvi3frLv5TAQAp7WMlK/ErV0mjH0ALJsL3TtYLo9rqhfAuPIw+6IApOEaBFKPr23pQkGEmBtNc1B58Ui2GV0jpr9zqYhCAKSiejpyM0Fb8FoFgXmu1HGXDDvfpSpvA7rZgsWaKx++OuBpDcgdLbZUzfswW2cU+c5T7hI88B5rmoB6iiPLvdRhrszioixk21sNJdtoY8Q+WQYDScFTKn+6hIF1nQ28jwQYJkjtQGnHGtU3s2xOt9r7fxKiz/AlSSSZowgBoIayEWEKExN7Y0tW7JpCbKEm6vJ/DikwDJoGa8eKf5gQH3DfUtw==;ceUzxHjIOaF03Q8ZMq8JIQ=="
 ---

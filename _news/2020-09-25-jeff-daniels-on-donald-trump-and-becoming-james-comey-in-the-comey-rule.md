@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Comey: Trump 'spraying gasoline on a fire'"
+    excerpt: "The former FBI Director James Comey says President Donald Trump's inability to condemn white supremacist groups is like \"spraying gasoline with a fire hose\" on a fire. Comey was testifying before a senate panel on the Trump-Russia probe."
+    publishedDateTime: 2020-09-30T21:00:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/30/comey-trump-spraying-gasoline-fire/3589130001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/28b57a74-6ea3-4133-a8ad-079673e91e9b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump's draft memo firing James Comey was 'tinfoil helmet material,' according to a former Mueller prosecutor's upcoming book"
     excerpt: "The memo was \"incoherent\" and \"you could almost feel the spittle coming off the paper,\" according to Andrew Weissmann's new memoir."
     publishedDateTime: 2020-09-28T21:52:00Z

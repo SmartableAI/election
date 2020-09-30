@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Did you read that Joe Biden bungled the Pledge of Allegiance? Not so, it turns out"
-    excerpt: "Joe Biden made reference to the Pledge of Allegiance saying, “I pledge allegiance to the United States of America, one nation, indivisible, under God, for real.” He wasn't reciting the pledge."
-    publishedDateTime: 2020-09-26T18:33:00Z
-    webUrl: "https://www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html?outputType=amp"
+  - title: "Joe Biden tweets joke mocking 'earpiece' and 'drug' allegations with photo of headphones and ice cream"
+    excerpt: "\"I’ve got my earpiece and performance enhancers ready,\" Biden wrote on Twitter with a photo of tangled earbuds and a pint of ice cream."
+    publishedDateTime: 2020-09-30T03:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/09/29/presidential-debate-biden-posts-headphones-mocking-earpiece-theory/3581631001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3581631001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3581631001"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 69
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P2I24QXAFNH3FJP4HXBZBONA6M.JPG"
-        width: 5472
-        height: 3648
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ZmEovV8AWk1/4wYz1ne4LzFXpX2atZu/BF01tmr27HWWfSafMMU2NAZC0eUc3WhWCKAhiL1wU7LWuLh+WeoFZKP7GuCTCtJV2ItRe2gA2z+d8qPXLZdWvXZrGnmTgr5VW8ce03FSot4anKOllrSx9E5FPHRo5uUJX5yXQM14hEPK3FT09MXa86ktIOcJUkpbqyRAcbWu3yBwGvu9BgM5F9s+9Vwcc6Tm9EzrQWqozeg+RsTFY4n4u/9kG1PHPw7654FFer0qpaW6mrtF3T4p+ln6KTIsSqsoEfAv/9g252Sm01PB4cyGNwFXqxvB3N4oucgeEi3M2Ql9sY7VhH+s6R0R3/Sv4SfkxRseF316S60=;GZv1z53zSdiGufJDhgJ45w=="

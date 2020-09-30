@@ -576,6 +576,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden smashes fund-raising records during chaotic debate"
+    excerpt: "Democratic presidential nominee Joe Biden gestures while speaking during the first presidential debate on Tuesday at Case Western University in Cleveland. | Julio Cortez/AP Photo Joe Biden's campaign hauled in nearly $10 million during the first presidential debate Tuesday night — smashing its own single-hour fundraising record,"
+    publishedDateTime: 2020-09-30T21:07:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/joe-biden-debate-fundraising-423826"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/joe-biden-debate-fundraising-423826"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/joe-biden-debate-fundraising-423826"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/73/14/f6545e204c42b1d617ec4aad2435/200930-biden-debate-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
     excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."
     publishedDateTime: 2020-09-22T08:36:00Z
@@ -706,6 +722,6 @@ related:
       domain: thedailybeast.com
     quality: 58
 
-secured: "YWmMdPRdj/BV2i7jz8CWuCUu51ExHlhi3he1gw4LMZO5+I1wtg8acEaVXpWa/crj9PZL+eNy+R3W0w3lLoXA6BsDjBUP4q8jilYVFJLN5pzpZTg1HHIXljSJvp7LV0MWyD7XGt2ONFi5BIXd48mINxveG1ZM0AYsPyhVxvkJziVXnA3N3X5vDKnMB9vB6lW1RrRfaPt4TnzstSd2yMhsfpWzdTehsBEKpXEJXBEXprJYM6u05dR6v9sA3gs57sJ5CzVbyXIlzsrlR3EwTSfmEZOFU/mTy1nymWDskNkumF1cz5HtOMdTmk3P8CPadzYoAIvV1YjfOrN5lOG1ffm1odhJWOni2uXjgdPgipSfbnE=;S5dmCg198SSwg2aTIFtndw=="
+secured: "fgNh0QeJPAaKHwM5inq9t36lj/mQDsBn55eRYpHifF5gdTli3cP+07kiMtgvK5z1DfxY1ttd8XO/5XnojhY6Y7g5qkq9R7r5+SDz7yVHqn1XN22S+yj6UWDnpJDGw6FRkFucEWNx2gnVpPOUTPsVYpKptys8hp/PA+D1I+m90ZY5Z1194aOgxQZ3n6DtIg9SYx3/AzhKDAP/0maBzhvh2+bgNVHvok8OCHt+7xH0UJtT7dLaSHb6vMlkVwfrmLAjeM4iD/cZgeWmAMDt6q9h7zB1PuQ2JDZxrssR2wIcT7CWNbh2Mp75fdbqgY/ZBhw+zqcGEusZGQXZ6nHvig3RMVUhJdexXL2Om6lLr1iF1cZ2FUBlYye0unLHmuPH5kIQYrG0aGHTaXb5dhBstb6I+zuPUUR6KpLQxSmsKzp1zaD6ymXcHuKoZsYWZpTV5VrtUl4UlxU+dyBooOKwbfErBVXKuZOcmh9iZwmrOOav/KMZeAHru1CbK70rJz/WsRmvMc4AMz5c2STuUEAmmYYy+g==;BnmkWzedlT8F7MMSGLS6ug=="
 ---
 

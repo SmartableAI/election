@@ -496,6 +496,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: The debate rules aren't the problem. Donald Trump is."
+    excerpt: "In the wake of the single worst debate in modern American politics, the Commission on Presidential Debates is pledging to make some changes.\n    \n"
+    publishedDateTime: 2020-09-30T20:33:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SQUliO0mUqw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/donald-trump-joe-biden-debate-2020-cpd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/donald-trump-joe-biden-debate-2020-cpd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930144504-34-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump refuses to condemn White supremacists at presidential debate"
     excerpt: "President Donald Trump on Tuesday refused to condemn White supremacists for inciting violence at anti-police brutality demonstrations across the country, claiming instead during the presidential debate that violence was coming from \"the left wing.\"\n    \n"
     publishedDateTime: 2020-09-30T06:09:44Z
@@ -1279,6 +1295,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump slightly shifts tone on Proud Boys"
+    excerpt: "I can only say they have to stand down,” the president said of far-right extremists, after telling them during the presidential debate to “stand by.”"
+    publishedDateTime: 2020-09-30T21:24:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/trump-slightly-shifts-tone-on-proud-boys-423839"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/trump-slightly-shifts-tone-on-proud-boys-423839"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/trump-slightly-shifts-tone-on-proud-boys-423839"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/72/5d/78acbd6845e3bf3308a2747bacb3/20200930-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"

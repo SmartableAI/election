@@ -703,6 +703,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ohio Gov. DeWine praises Trump's debate performance against Biden: 'Great job'"
+    excerpt: "DeWine was booed during Trump’s visit to Ohio earlier this month."
+    publishedDateTime: 2020-09-30T20:36:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5A6g-XUDAHY/ohio-gov-dewine-praises-trump-debate-performance"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-gov-dewine-praises-trump-debate-performance.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-gov-dewine-praises-trump-debate-performance.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202009/959/854081161001_6196111512001_6196118264001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Moderator Chris Wallace selects topics for first Trump-Biden presidential debate"
     excerpt: "The brutal Supreme Court nomination battle, the worst pandemic to strike the globe in a century, a national economy flattened by the coronavirus, and the protests and violence that’s flared in cities across the nation this summer will be some of the major topics Democratic presidential nominee Joe Biden"
     publishedDateTime: 2020-09-22T17:50:18Z
@@ -1810,6 +1826,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The Trump-Biden Stakes: Your Life Savings"
+    excerpt: "Millions of Americans have 401(k)s, making high stock values a boon for Main Street—even in Scranton."
+    publishedDateTime: 2020-09-30T20:43:00Z
+    webUrl: "https://www.wsj.com/articles/the-trump-biden-stakes-your-life-savings-11601488409"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-biden-stakes-your-life-savings-11601488409"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-biden-stakes-your-life-savings-11601488409"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-237570/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
     publishedDateTime: 2020-09-27T17:13:00Z
@@ -2342,6 +2374,22 @@ related:
       - url: "https://assets.realclear.com/images/52/521944.jpg"
         width: 1118
         height: 838
+        isCached: true
+  - title: "Why a WSJ Columnist Thinks Biden Might Have Hurt Himself with Progressives After First Debate Chaos"
+    excerpt: "For many, last night’s presidential debate was a mess. President Trump didn’t stop knifing Joe Biden. Joe Biden, frustrated to the nth degree, told the president to shut up. A"
+    publishedDateTime: 2020-09-30T20:30:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/30/why-a-wsj-columnist-thinks-biden-might-have-hurt-himself-with-progressives-after-n2577198"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/30/why-a-wsj-columnist-thinks-biden-might-have-hurt-himself-with-progressives-after-n2577198?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/30/why-a-wsj-columnist-thinks-biden-might-have-hurt-himself-with-progressives-after-n2577198?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 71
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/35119c14-52d5-4cef-90ee-2179b233fcc3.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Biden Blasts Trump Plan To Fill Supreme Court Vacancy: An \"Exercise In Raw Political Power\""
     excerpt: "Former Vice President Joe Biden is scheduled to deliver remarks on the vacancy left by the death of Supreme Court Justice Ruth Bader Ginsburg from Philadelphia on Sunday afternoon."

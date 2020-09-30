@@ -56,6 +56,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Facebook removes Trump ads on refugees and Covid-19"
+    excerpt: "Facebook said Wednesday that it had taken down ads from the Trump campaign that claimed without evidence that accepting refugees from abroad would increase risks related to the coronavirus pandemic. “We rejected these ads because we don’t allow claims that people’s physical safety,"
+    publishedDateTime: 2020-09-30T21:46:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/facebook-removes-trump-ads-refugees-covid-19-n1241602"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241602"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241602"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2019_36/2737591/190201-trump-border-mc-901_9ead837eab538a44c958d642ab711e7e.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "HhpZs8pYBlmWw+Z4lPLvEoYV00z9BuPlGFj/nm9vomoipTnHymQxdzwnsj0pFMSTdTMT1WbVZh0rhk90wA5B42xAAcUR4OrM6E+b8wb1tGR8iwLrJBFr9xJBOf8oWfCH/s8RbFzTFzNJhxg1G/0oBxF/vH5QBeSD6q7OAhg0WZzEJI5kaos0cLZPWG/TqXL+nWEMCmes9N4Owipz8+0xChdJ5kYKDgygZT5koSxHnDMgmQGYEHTtKZRsv4Niuxq00/lfRSdXaD7jBVwXQllT8ssA2YiXCmUZYRQ2e2HNoi/fVi/+ilifD+67xcbDfRIVcmUHhO3lIciYJ9yd58g4abPzVp56jh8LGDhn8b0Rn46K8j48cnsEMwyRe4h2cyMMjECRtMDodDBi7UbeFCFsHQzTg9bB8T+jcA1NzVz6CuW+XepHMOZZtzOPdDJ9NLCsFH7b/K8SncakcQhtMVOx+/vuOf//a+71wSP9mClZHn6IuwO97Lz+5+MmDpG2QylyxtdFpPlDLrVfycjuuo0xtA==;yeMFrC627n0qbbmL9Ioahg=="
 ---

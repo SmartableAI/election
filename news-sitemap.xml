@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday</loc>
+    <lastmod>2020-09-30T14:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wbir.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433</loc>
+    <lastmod>2020-09-30T14:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/video/watch/biden-to-proud-boys-cease-and-desist-idOVCXVZ5CV?chan=6g5ka85</loc>
+    <lastmod>2020-09-30T14:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/FfvgpRt-46w/wisconsin-governor-tony-evers-trump-coronavirus</loc>
+    <lastmod>2020-09-30T13:16:50-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work</loc>
     <lastmod>2020-09-30T12:55:49-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -135,6 +159,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden</loc>
     <lastmod>2020-09-29T21:41:50-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/2020/09/29/presidential-debate-biden-posts-headphones-mocking-earpiece-theory/3581631001/</loc>
+    <lastmod>2020-09-29T20:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -613,12 +643,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.oregonlive.com/politics/2020/09/did-you-read-that-joe-biden-bungled-the-pledge-of-allegiance-not-so-it-turns-out.html</loc>
-    <lastmod>2020-09-26T11:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/</loc>
     <lastmod>2020-09-26T11:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -675,12 +699,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lEQBD1TGo20/index.html</loc>
     <lastmod>2020-09-25T21:02:12-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/</loc>
-    <lastmod>2020-09-25T20:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

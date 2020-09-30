@@ -7,8 +7,8 @@ originalUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota
 webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: StarTribune
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Carpenter Union Training Center Tour in Duluth, Minnesota"
-    excerpt: "T15:01:02-04:00 presidential candidate Joe Biden tours a carpenter union training center in Duluth, Minnesota, and meets with some of the trainees. Democratic presidential candidate Joe Biden tours a carpenter union training center in Duluth,"
-    publishedDateTime: 2020-09-21T01:58:00Z
-    webUrl: "https://www.c-span.org/video/?476025-1/joe-biden-tours-carpenter-union-training-center-duluth-minnesota"
+  - title: "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday"
+    excerpt: "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\""
+    publishedDateTime: 2020-09-30T21:53:00Z
+    webUrl: "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday"
+    ampWebUrl: "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/22887410/20200930/125243/styles/patch_image/public/gettyimages-979770508___30125124036.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
 
 secured: "hrg/GaevpfVnVO+MEdhlJ58R/dvd8pFPUJl3hmoebgjpcwvT2fyfdKrHbFDkIFIfCrwM7IiF/vNkGXJckp4xRC+ZTQdAUOSaynOqba6/m1SUHFOk0+YK9tII6J93kOvEzdP0qHO4I/oEVivjLOKyjnosay4+f/IqifPztB/MyP8AgDMGdrKbS5TWHgMivjV4PX0H4iR1CAwWmZioWOQsVxg0RctVV3b/SKDJ6p3xot8efKWOZf341e/gj95o+ux8tDkWjkMewgArPr/IgbEBOrs3hr8aLwu1YtH7fuKlGHd8JzVV58WHOeM8yGou4l9tkCpQ7Y59yYdacFsk6V36glyMw19/VXCd4ObLWf49o+8=;ukybcO3r/kvtqxcPDk7NeQ=="
 ---

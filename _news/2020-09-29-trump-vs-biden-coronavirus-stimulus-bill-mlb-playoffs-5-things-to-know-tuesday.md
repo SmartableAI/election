@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The first Trump-Biden debate was a microcosm of how broken American capitalism is"
+    excerpt: "President Trump refused to follow the rules that his own campaign agreed to, the latest episode in decades of unpunished white-collar rule-breaking."
+    publishedDateTime: 2020-09-30T21:25:00Z
+    webUrl: "https://www.businessinsider.com/first-trump-biden-debate-was-microcosm-of-broken-american-capitalism-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/first-trump-biden-debate-was-microcosm-of-broken-american-capitalism-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/first-trump-biden-debate-was-microcosm-of-broken-american-capitalism-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f74ac510ab50d00184ad4bb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What and where to watch as Trump and Biden meet in Ohio for tonight’s first debate"
     excerpt: "Here's what to watch for (and how to watch) when President Donald Trump and Joe Biden meet in their first debate Tuesday."
     publishedDateTime: 2020-09-29T14:54:00Z
