@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535471210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T06R"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535479737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T06R"
     width: 814
     height: 545
     isCached: true
@@ -2052,6 +2052,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "qiX9aGl/95CtL+yQZCjSkndKUGLgTbVu40Xj8wEk9c2TwCu18aBmyV+IBi5e6QDhxkL45mkYDGSZZ+pBBNrqmh37C67VRIPMqEVnjp/dxT5dRPUPDO+DB04q8y0EmA6PjKoY9YNTd3uTaDZPQ3Z3jCf9fBHm9qJoEEnkWAyQ7xb0Az0I78/MgbpYipcM5yRxytkabLztW2HHZgcEY4I5QiH02DEKa1+f3Q4K4fGcYTEI7jEOsdXJdBRlpvzNpF1yGDN/gPnuUxu3opU60MdMa/k2nHXG0K9U/b2XONq3nbDwrFaAXmNNMMba90leSnzgbxW1lCVCmHSaO36TfycUxBRoOy50jPhFoAu7rwvsjCI=;02pyzsn6EZoIZG9SZzKDww=="
+secured: "zh3uxJKGUQHE5eGcOReR3MDwP7KyQuD92rxEjWrYsqg3m5Sr+s+ub4LJJuEVfR0Ey2arqvI50U+rSi3UIB9NGd8nBJiSfbiiaFiqMD8JO59oCUMxX0cEHO2nJxrpZQy/hkUiLDdqaMbOPIw6tV41lILbRqF6yiounJ6XSl0c32sL/t9IF5hLhN/jN9Z/tzLXDopnmLEa5SKu4cDVfZtb6jNmEXvS8I7PPFIl7k3TN+70XkCX38tRwyPSBltQuSWxFS73CXvI2s0FectWD4u2AyxJ06x+01U65lAntSfb1uhpsbImcptI3QrY8ZsKiPdumCQ6v3n45MELfSoFMR05tUsPPrdzc27sALisLGzOt1U=;HmRfN41PlZsfY8+4Czsgwg=="
 ---
 

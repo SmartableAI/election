@@ -363,7 +363,7 @@ related:
       domain: reuters.com
     quality: 138
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535471210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T06R"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535479737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T06R"
         width: 814
         height: 545
         isCached: true
@@ -2052,6 +2052,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "zQEGCvDfg8Wb896uL7h9uL49SVBdU6BFM2SmepMaLRNoi5GmXHacebicdCGPyOe1u9HI82OGhjILgZdB05j3TtmWh2Qyk7elsP/gTwto2rhxoRSz5GBYDM6mSzGVt8PYz5S9Nx4UfQ6fomYkz9zdUVFFiMuAfAGkSi1ATVo0onhsbhQnKLCFjhbwXH1pmELBHn4k/KYkaPU/UY+OPz9YcH/jOKLX7/zSDKc9ylY3OVTtpbs9hb7YQQJyhYOZXYzgbXID0RO4j07BPmbINLmHQmSuE4jwXSdaY+GV3B7HC92Nt2EG9fSu9das+hASA1Cc57MC134YZGMDYmP1tyCWyt1MDv2+r3t9/90P0NiMlYU=;XmCvvxm7UcuoxMs5z0X1uA=="
+secured: "mankwpyM0jBsflIIf+FtePpfwJltM+pt90R7EyOhOyh8fc6HFCNtvB8gQT2owwGMDGPboZzMrSSXEPsKWkKb7TbO5OzFv0wBKrWwYoYCnGnCvNDwzKlDoYkmr4p5kWJWFix+kBJ0wxqQmfL938bVau1O5yIGJOGLZ3SC2GZ1+jmzHSQwtNa/dawEEem0ARBOL/7Kmi7PCABIPPFxjoddPghWu/H4hKnQ8KOpWQkvpTnu56HmWpTj7+F20vkiRu/MAEHpB3WUScEfwo8iJTMefYqbMy6uhPzXpnqnlM0RN8t8ZfjKLC5FJRy9j8YnUEIn4fxayxhCCasJe1vAmND+fA4L9WVELgiWsBdj3rQ5wmnNhvmUGaKU3YT+sBDAzSBIqDWjRBb8uECYWi70mQH2qcAnLCCYcwDxPkRrwl/UJsjCOuYho1bXaIEiypM3AxoP+sDm0gce7Qx5aQ2Uo4+y+7KInuZGHKrM3XtcZ3kyzuSyb3YekUa6b0MO1IN1644Nl9THx/5zvDLyIVUSARUF/w==;oUFG0FMY+B9bJ9t6k7Bz9A=="
 ---
 

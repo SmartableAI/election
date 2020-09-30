@@ -175,6 +175,22 @@ related:
         width: 775
         height: 545
         isCached: true
+  - title: "AP FACT CHECK: False claims flood Trump-Biden debate"
+    excerpt: "The accusations came non-stop in the first debate between President Donald Trump and Democratic rival Joe Biden"
+    publishedDateTime: 2020-09-30T07:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-claims-trump-bidens-debate-73328718"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-claims-trump-bidens-debate-73328718"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-claims-trump-bidens-debate-73328718"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7f912a86392146e49550f90efd45bd14_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden releases 2019 taxes as pre-debate contrast with Trump"
     excerpt: "Democratic presidential nominee Joe Biden paid nearly $288,000 in federal income taxes last year, according to returns he released just hours before his debate with President Donald Trump"
     publishedDateTime: 2020-09-29T21:13:00Z
@@ -601,6 +617,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Presidential debate live: Donald Trump tries to steamroll Joe Biden in chaotic clash"
+    excerpt: "Candidates faced off in Cleveland, Ohio, with Chris Wallace of Fox News moderating the bitterly personal showdown"
+    publishedDateTime: 2020-09-30T07:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f74357e8f08097c05821a59"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
   - title: "How Donald Trump Turned The Presidency Into A Business"
     excerpt: "Forbes' senior editor Dan Alexander examines President Trump's sprawling business interests in his new book, 'White House, Inc.' Alexander says the president has broken a number of pledges he made about how he would conduct business while in office."
     publishedDateTime: 2020-09-27T04:17:00Z
@@ -678,6 +705,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/xlw5MTyf5yNbqKb-ufPEhTKH2rc=/0x0:5760x3240/1400x1050/filters:focal(2420x1160:3340x2080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67556686/Election_2020_Debate.0.jpg"
         width: 1400
         height: 1050
+        isCached: true
+  - title: "Watch Joe Biden tell President Donald Trump to ‘shut up, man’"
+    excerpt: "After 20 minutes of back and forth between President Donald Trump and Democratic nominee Joe Biden, the two got into a testy exchange over plans for the Supreme Court. After being cut off by Trump, Biden snapped “would you shut up,"
+    publishedDateTime: 2020-09-30T02:08:00Z
+    webUrl: "https://www.al.com/news/2020/09/watch-joe-biden-tell-president-donald-trump-to-shut-up-man.html"
+    ampWebUrl: "https://www.al.com/news/2020/09/watch-joe-biden-tell-president-donald-trump-to-shut-up-man.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/09/watch-joe-biden-tell-president-donald-trump-to-shut-up-man.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVKP7H6DAJG4DA34MLAEJ4HR3I.jpg"
+        width: 5749
+        height: 3833
         isCached: true
   - title: "First presidential debate: Who will win between Donald Trump vs. Joe Biden? Time, how to watch"
     excerpt: "It’s time for Donald Trump vs. Joe Biden in real-time. The first presidential Trump, the Republican nominee, and Biden, the Democratic nominee and former vice president, is tonight. The debate will be held at Case Western Reserve University and Cleveland Clinic in Cleveland,"
@@ -770,6 +813,22 @@ related:
       - url: "https://www.boston.com/wp-content/uploads/2020/09/https___media.gettyimages.com_photos_president-donald-trump-participates-in-the-first-presidential-debate-picture-id1277464600_b1k6m1277464600s170x170hNmm4B4TEuuDRwXvX-q4A_RrLogPvVgalzhNIA43HyGw-1-850x478.jpg"
         width: 850
         height: 478
+        isCached: true
+  - title: "Donald Trump: If Biden Wins the Debate Tonight He’ll Have His Drug Dealer to Thank"
+    excerpt: "The president suggests the reason Joe Biden won’t pee in a cup is because he’s afraid the test will come back positive, and not because Trump’s demand for a drug test is completely moronic."
+    publishedDateTime: 2020-09-30T02:06:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/donald-trump-joe-biden-debate-drugs"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/donald-trump-joe-biden-debate-drugs/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/donald-trump-joe-biden-debate-drugs/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 84
+    images:
+      - url: "https://media.vanityfair.com/photos/5f3ffc42e6ce2ef35c05f886/master/pass/Trump821.2.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Donald Trump, Joe Biden clash over COVID-19, racial injustice in firey first debate"
     excerpt: "President Donald Trump and Democratic nominee Joe Biden engaged in several pointed exchanges as they took the stage for the first presidential debate on Tuesday night."
@@ -940,6 +999,6 @@ related:
         height: 560
         isCached: true
 
-secured: "9qP0OZzAv4RxwuF+7J/5+8iiGpgpaViNSmSiisW1+g6sjZDf50lSAwtVSOvn/aB1qd2nh3P3ULO8S1oLIepP3DJTSOACKPPQKAiGYw+lkif+pinLugA5013TVNRfYYmgk3qsCZMJrb9Jqvwre0+Fk7RBa5CLL4jET6dfoLcfM8y50aMR/nlDJbx1c8ySVOKmt8yMK7eHVFhipYK9ksia9/pCtkXj7h3z2hxDFYMrs3lHcOL0WhaYnzv0AgAPfIqDQhYKx4IHrsZOVLQ7wscwFW2RZ1cYcGCUmFsV0P/ObveaTaKQH35c1f2IZB6n14x0EAxL48/Xp+8hjTXqqEX1XG3fJv12F9Ae2YbcUBGW2H8=;OMqNyex1u2bKHktpzCeqrQ=="
+secured: "4W7pv7lo0+GNcfjG5S/bMrk/RcCT+LaMMkLDbLLmzCWyQRat2ZTYCp1bx6sHdp+ayOQC7i5Oraak2zwvec0t7tIdmMZDvsLvUgd9RaIC8eCVVXQio6Ekadz998+YPXdVhjM14SDu4WrDL0EQ3CsCeIdRABje6UdU0Gs14TNQaak7DLDItQ+vou8oQj9TBuxnVbutMNne97lMHoyp3rHPDCkH9Pm4lRgAUfA/ChbJkc44TDb3DVW2Cp3Lxx5f8sIrZmi1MKiIxJFShRoxbZtxbUzYHxPpnj3F3WOUkJC7gAzWbsduzGXCp88kLI12324+ZySG8wkIQtvz3S6TgXogv+SSB8t7NMygR5SeW3uiOcsNAc+FEK4hGchWDH7G4dqWaHFnpgQ//y8RLdRqJttzulfyTHD5P1B+vlD/uI7c1lit8xy/HkhTVAKq4U8A2fFzbgBcvnMse++zNyEgd+Ry4f6DocZ+gggPcIt48NgcbmUsTBA/pSrVd9iLjzV/y/7fXchxTpDPQMaCZYBLi7RAAQ==;/iVbWW/yOnbNN3LBMwBE4A=="
 ---
 

@@ -361,7 +361,7 @@ related:
       domain: reuters.com
     quality: 138
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535471210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T06R"
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535479737&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T06R"
         width: 814
         height: 545
         isCached: true

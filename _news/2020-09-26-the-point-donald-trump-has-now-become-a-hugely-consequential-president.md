@@ -479,6 +479,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump refuses to condemn White supremacists at presidential debate"
+    excerpt: "President Donald Trump on Tuesday refused to condemn White supremacists for inciting violence at anti-police brutality demonstrations across the country, claiming instead during the presidential debate that violence was coming from \"the left wing.\"\n    \n"
+    publishedDateTime: 2020-09-30T06:09:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/smar3BBSl2w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/proud-boys-trump-white-supremacists-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/proud-boys-trump-white-supremacists-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225855-40-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration to announce $13 billion in additional aid to Puerto Rico"
     excerpt: "The Trump administration on Friday is expected to announce $13 billion in additional aid to Puerto Rico to help with rebuilding in the aftermath of 2017's Hurricane Maria.\n    \n"
     publishedDateTime: 2020-09-18T15:21:13Z

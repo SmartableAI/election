@@ -367,6 +367,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Live updates: 2020 presidential race: Trump, Biden spar in 1st debate"
+    excerpt: "President Trump and Democratic nominee Joe Biden faced off for the first time Tuesday in a highly anticipated debate at Case Western University in Cleveland, Ohio."
+    publishedDateTime: 2020-09-30T06:08:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bi7G7ogpw3w/live-updates-2020-presidential-race-trump-biden-spar-in-1st-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-trump-biden-spar-in-1st-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-trump-biden-spar-in-1st-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f1a7c597-dd43-45aa-993f-037a919fcb60/1c711353-1879-4cad-89d5-8ac6b104683e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
     publishedDateTime: 2020-09-26T05:09:18Z
@@ -1132,6 +1148,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden’s team commits to all presidential debates after Cleveland showdown"
+    excerpt: ""
+    publishedDateTime: 2020-09-30T07:46:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hob0A59089Y/bidens-team-commits-to-all-presidential-debates-after-showdown-in-cleveland"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-team-commits-to-all-presidential-debates-after-showdown-in-cleveland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-team-commits-to-all-presidential-debates-after-showdown-in-cleveland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

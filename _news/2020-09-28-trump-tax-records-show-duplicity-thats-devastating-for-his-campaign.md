@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: In Trump-Biden debate chaos, China is the big winner"
+    excerpt: "In an ugly, cantankerous presidential debate, one of the few things Donald Trump and Joe Biden agreed upon was China.\n    \n"
+    publishedDateTime: 2020-09-30T07:45:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40Qu70OOCHg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/asia/trump-biden-debate-china-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/asia/trump-biden-debate-china-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001049-43-debate-clevelant-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump will have to account for failed virus response in debate with Biden"
     excerpt: "President Donald Trump heads into Tuesday's first crucial debate with Joe Biden recommitting to the failed strategy that ensured the Covid-19 disaster will be the defining legacy feature of his term.\n    \n"
     publishedDateTime: 2020-09-29T08:16:51Z
@@ -157,6 +173,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927123339-01-joe-biden-speech-0927-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Post-debate CNN poll: Six in 10 say Biden won the debate"
+    excerpt: "Six in 10 debate watchers said former Vice President Joe Biden did the best job in Tuesday's debate, and just 28% say President Donald Trump did, according a CNN Poll of debate watchers conducted by SSRS.\n    \n"
+    publishedDateTime: 2020-09-30T04:47:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7Tcc383B9KM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-joe-biden-debate-poll/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-joe-biden-debate-poll/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929222132-05-0929-debate-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
