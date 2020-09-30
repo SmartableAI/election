@@ -1512,14 +1512,14 @@ related:
         isCached: true
   - title: "Read the full transcript from the first presidential debate between Joe Biden and Donald Trump"
     excerpt: "This is the full transcript from Tuesday night's first presidential debate between Republican President Donald Trump and Democrat Joe Biden."
-    publishedDateTime: 2020-09-30T17:16:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/presidential-debate-read-full-transcript-first-debate/3587462001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3587462001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3587462001"
+    publishedDateTime: 2020-09-30T17:15:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/30/presidential-debate-read-full-transcript-first-debate/3587462001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3587462001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3587462001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 78
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"

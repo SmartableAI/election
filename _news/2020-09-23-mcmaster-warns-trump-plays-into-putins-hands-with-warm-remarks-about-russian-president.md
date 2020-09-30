@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcmaster-warns-trump-plays-into-put
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp"
 type: article
 quality: 166
-heat: 186
+heat: 166
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "McMaster praises Trump's policy toward China: 'He got it right'"
-    excerpt: "President Trump's aggressive policy toward China \"was long overdue,\" former National Security Adviser H.R. McMaster told \"The Fox News Rundown\" Friday. "
-    publishedDateTime: 2020-09-25T11:52:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/65SIhUXSlJg/trump-china-mcmaster"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/HR_McMasterRT1.jpg"
-        width: 931
-        height: 524
-        isCached: true
 
 secured: "8LbQQ5ZJPS7rhUtwmHSNCy6yCLpjlwlazH5nPdpmkPkwl4NDcqnxgNC35V8qlyJlS35a9An3uoq8bVdOhSBMDseyH+VhF36L4kiiy4z8Xp2fmXmw+oNMCZQPDCfOdpoRv2jafdxTZN2qOJgynTbfhW61pNZpNxZFcQO0F1uRfpcBKWWjnJSyavr/dZmdf2PJm/mNWyyB5Fm5FtKAFV161GLc3tQMycHev7LZmWOZyH/YX0Hn4E/twxHlK/yReIA6ysJZUXpYZxktw5GEmTvmK/DincZXMESacYsVTaRBZxjsGyff1g9Ug7MVdBFQDNgaIeCFVrf3JKYJL3V6a+gVlHYBf87KYnDHaRRFQdK5H74=;n0GuLbRz+/wgjsfo7CmGQA=="
 ---

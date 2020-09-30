@@ -2,6 +2,61 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-18-white-house-tries-to-play-defense-with-falsehoods-about-former-pence-aide-troye.md",
+      "title": "White House tries to play defense with falsehoods about former Pence aide Troye",
+      "excerpt": "The White House moved quickly Thursday to try to discredit Olivia Troye, the former aide to Vice President Mike Pence, after she released a video charging that President Donald Trump failed to protect the public from coronavirus and that he only cared about getting reelected.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aNA1Zrzbf4E/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aNA1Zrzbf4E/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918153908-president-trump-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discredits-pence-aide-troye/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/white-house-false-discredits-pence-aide-troye/index.html",
+      "publishedDateTime": "2020-09-18T13:40:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-kosovo-gives-trump-order-of-freedom-for-his-role-in-securing-deal-with-serbia.md",
       "title": "Kosovo gives Trump Order of Freedom for his role in securing deal with Serbia",
       "excerpt": "Kosovo gave President Trump one of its highest honors on Friday for his role in an historic economic normalization deal with Serbia earlier this month.",
@@ -823,7 +878,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1390,
+      "heat": 1410,
       "tags": null,
       "images": [
         {
@@ -1265,57 +1320,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-former-top-us-catholic-official-there-are-morally-grave-reasons-to-vote-for-biden.md",
-      "title": "Former top U.S. Catholic official: There are ‘morally grave’ reasons to vote for Biden",
-      "excerpt": "John Carr, longtime Catholic adviser who opposed abortion, say he will vote for Joe Biden despite the Democrat’s support for existing abortion laws.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
-      "originalUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SBWXQTXZAUI6VITVDIWC2NXB6E.jpg&w=1440",
-          "width": 1440,
-          "height": 980,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-17T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

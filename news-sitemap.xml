@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work</loc>
+    <lastmod>2020-09-30T12:55:49-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thv11.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973</loc>
+    <lastmod>2020-09-30T12:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence</loc>
+    <lastmod>2020-09-30T11:16:31-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework</loc>
     <lastmod>2020-09-30T10:46:40-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -25,14 +43,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.11alive.com/video/news/live_breaking/mike-pence-in-atlanta-why-and-when-is-he-here/85-6e9ac6c4-9964-470e-bdf9-e19bce1f79bd</loc>
-    <lastmod>2020-09-30T09:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/HQCbV4AGSJM/comey-hillary-clinton-trump-russia-probe</loc>
-    <lastmod>2020-09-30T08:48:32-07:00</lastmod>
+    <loc>https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe</loc>
+    <lastmod>2020-09-30T08:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -123,12 +135,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden</loc>
     <lastmod>2020-09-29T21:41:50-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.ydr.com/story/news/2020/09/29/mike-pence-visits-lititz-presidential-debate-election-2020/3582670001/</loc>
-    <lastmod>2020-09-29T20:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

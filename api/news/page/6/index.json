@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-25-the-health-202-trumps-new-health-care-plan-isnt-really-a-plan.md",
+      "title": "The Health 202: Trump's new health-care plan isn't really a plan",
+      "excerpt": "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
+      "publishedDateTime": "2020-09-25T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-latino-support-lagging-for-biden-we-dont-buy-it.md",
       "title": "Latino Support Lagging for Biden? We Don't Buy It",
       "excerpt": "Recently, as discussions on race and privilege ripen in the media and in our individual conversations, concepts surrounding the Latino vote have been widely discussed -- and",
@@ -158,7 +209,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2370,
+      "heat": 2430,
       "tags": null,
       "images": [
         {
@@ -1242,62 +1293,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-says-hes-praying-for-officers-shot-at-breonna-taylor-protests.md",
-      "title": "Trump says he’s ‘praying’ for officers shot at Breonna Taylor protests",
-      "excerpt": "The president added that he is “prepared to work together” with Kentucky Gov. Andy Beshear, “immediately upon request!”",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-420948",
-      "originalUrl": "https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-420948",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/39/e7/b41949b64905914d90175a529cee/ap20267815094996.jpg",
-          "width": 4625,
-          "height": 3083,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
-      "publishedDateTime": "2020-09-24T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

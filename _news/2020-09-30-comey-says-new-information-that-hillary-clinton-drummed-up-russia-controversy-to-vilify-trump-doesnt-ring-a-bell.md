@@ -2,14 +2,14 @@
 category: news
 title: "Comey says new information that Hillary Clinton drummed up Russia controversy to vilify Trump 'doesn’t ring a bell'"
 excerpt: "Former FBI Director James Comey on Wednesday said it didn’t “ring a bell” when asked whether he received an investigative referral on Hillary Clinton purportedly approving “a plan” attempting to tie President Trump to Russia and distract from her email scandal before the 2016 election."
-publishedDateTime: 2020-09-30T15:48:32Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQCbV4AGSJM/comey-hillary-clinton-trump-russia-probe"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQCbV4AGSJM/comey-hillary-clinton-trump-russia-probe"
+publishedDateTime: 2020-09-30T15:54:00Z
+originalUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe"
+webUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe"
 ampWebUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
 type: article
-quality: 153
-heat: 153
+quality: 113
+heat: 113
 published: true
 
 provider:
@@ -22,14 +22,15 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/643caea2-801c-428f-803c-0767482d777a/2655df2c-f2d9-4db1-b528-4570d1feb0f0/1280x720/match/image.jpg"
+    width: 1082
+    height: 720
     isCached: true
 
-secured: "uIr4Q2t89Qb+mFHZxvyNgwoREyPrqfQz1MV4nSMm3JnqIj66pz0cwV2bzU2qpJw9JcpfLCQFPMOGpp8m/ynybAzT0Mx+vX6umPfA/Di2n1XRdPE6En9PKL/S99wPf7jhxjlEa2gSusg8PQfOPtZV6O8SPOFFXCPstsLr83pZgjKz3uxafmqk+xpkxLOdGoIw13Hrb5Afdui9RKri8QZsWIndewSgZlmpMoAu4lmFjKCYXhYN15q4MNl69hJo/kGVoM4Wrom7hTWnv8FUA/m/hm46d/5xySG+5inNkfXtEMKLPEyhsWS/dkFkLFUYy8zEsqYwFatSxk3EGWQVYu7Mj3NCYeTPeGsIyQCC5ovqsS8=;voGokpGm3sDe8SJigKNbbA=="
+secured: "d+/ct342zWdJzcs9pyPW2Ah9X6VU+XqUxbwC9GKY/o3XXVpO5N0KooquDd7shHt07oHArtn42fB0/mo+hszxnbBADc4djEXzPybHaV7PlMShotELbXYUwbZk77DwGQ4N47BSF09LJlIpH09YUIePh17gHY+jQLccGMTFokLyeB/AdBojwxS9fBevY5qv03ndgwKK6nyLLO+RWbMk7oIq7bklrljolTsUlwZCwinKKA/l4kodWTCctNyqfYmjLp1MyMEm7fGxhpXVGEiqrHm1OG9FQB0Hs6+QKewa4wUHfdSWBQF08W/2kR2OrtTP9icVy/MdWZsAvPYJn7Tq9Un6gQNoqAZYtJjtQEM/3oT5cTY=;8DkoV4oZ0Iu24oTVqKqljg=="
 ---
 

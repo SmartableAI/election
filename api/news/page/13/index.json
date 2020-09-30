@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-18-former-top-us-catholic-official-there-are-morally-grave-reasons-to-vote-for-biden.md",
+      "title": "Former top U.S. Catholic official: There are ‘morally grave’ reasons to vote for Biden",
+      "excerpt": "John Carr, longtime Catholic adviser who opposed abortion, say he will vote for Joe Biden despite the Democrat’s support for existing abortion laws.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SBWXQTXZAUI6VITVDIWC2NXB6E.jpg&w=1440",
+          "width": 1440,
+          "height": 980,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/carr-catholics-biden-trump/2020/09/17/e4cdd592-f8ff-11ea-a275-1a2c2d36e1f1_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-17T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-trump-rails-against-the-liberal-indoctrination-of-americas-youth-in-latest-culture-war-salvo.md",
       "title": "Trump rails against the 'liberal indoctrination of America's youth' in latest culture war salvo",
       "excerpt": "President Donald Trump railed against what he described as \"the liberal indoctrination of America's youth\" during a Constitution Day speech on Thursday, marking his latest attempt to inflame the culture wars raging in America ahead of the election.\n    \n",
@@ -1240,57 +1291,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-trump-says-football-is-boring-as-hell-at-nevada-rally-continuing-his-grievance-against-racial-injustice-protests.md",
-      "title": "Trump says 'football is boring as hell' at Nevada rally, continuing his grievance against racial injustice protests",
-      "excerpt": "At a weekend rally in Nevada, the president continued his attacks on NFL players who protest racial injustice and police brutality on the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5fc40c57b7da001ee1180e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9?amp",
-      "publishedDateTime": "2020-09-14T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -224,20 +224,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Kamala Harris parrots Biden after debate, refuses to say whether they will ‘pack’ Supreme Court"
-    excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov. 3 election. "
-    publishedDateTime: 2020-09-30T12:42:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOEFz2gETZM/debate-kamala-harris-biden-pack-supreme-court"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kamala-Harris.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
     excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-21T22:39:10Z
@@ -269,6 +255,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87010661-7bcf-4223-84c2-223d25c3c7aa/d30ec482-7308-4677-a46f-3dac4cba19ff/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Barrett says Trump offered her Supreme Court nomination 3 days after Ruth Bader Ginsburg's death"
+    excerpt: "Supreme Court nominee Amy Coney Barrett said in a Senate Judiciary Committee questionnaire that President Trump offered her the nomination to the seat vacated by the late Justice Ruth Bader Ginsburg on Monday, Sept. 21, which is just three days after Ginsburg died and nearly a full week before Trump"
+    publishedDateTime: 2020-09-30T18:00:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vjcEePmkVcE/barrett-says-trump-offered-her-supreme-court-nomination-three-days-after-rbg-died"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-says-trump-offered-her-supreme-court-nomination-three-days-after-rbg-died.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-says-trump-offered-her-supreme-court-nomination-three-days-after-rbg-died.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Kamala Harris names Tupac 'best rapper alive'"
     excerpt: "Tupac's legacy lives on. So much so, that vice presidential candidate Kamala Harris named him the best rapper alive. "
@@ -393,6 +395,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Kamala Harris parrots Biden after debate, refuses to say whether they will ‘pack’ Supreme Court"
+    excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov."
+    publishedDateTime: 2020-09-30T12:59:00Z
+    webUrl: "https://www.foxnews.com/politics/debate-kamala-harris-biden-pack-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kamala-Harris.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Flashback: Kamala Harris was open to packing Supreme Court to shift balance away from conservatives"
     excerpt: "2020 vice-presidential candidate Kamala Harris went on record last year saying she might support adding additional seats to the Supreme Court."

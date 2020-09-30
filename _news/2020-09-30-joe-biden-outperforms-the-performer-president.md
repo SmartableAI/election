@@ -1500,14 +1500,14 @@ related:
         isCached: true
   - title: "Read the full transcript from the first presidential debate between Joe Biden and Donald Trump"
     excerpt: "This is the full transcript from Tuesday night's first presidential debate between Republican President Donald Trump and Democrat Joe Biden."
-    publishedDateTime: 2020-09-30T17:16:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/presidential-debate-read-full-transcript-first-debate/3587462001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3587462001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3587462001"
+    publishedDateTime: 2020-09-30T17:15:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/30/presidential-debate-read-full-transcript-first-debate/3587462001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3587462001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3587462001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 78
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
@@ -2192,6 +2192,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "zk3JS9wScldGFjcjTS8vhMG9x1Yl1rDUsC7Lvdik96VpLk1fNdpAekPZNZEDZbyHXQhw7Gt6bB01vIbIKv7pdcmaqWgzuvD3GbvWgdIhaQjQsbX4oR4R/Kj/ylJ5pUp1wfAMD0QTHh6EQ1VRzyvgIP3sTFEBRrZ5BaG0HWvJ3XYSRdXo46ev8aL2IMgU+u+fqDfGyQa+CgDVaAZ0ZANxmSzbJGemMbC/XOkvBBW5GU/ZAtKkaiNuPJtrv5a+duuKU5eNXzZ05m2SUXMOpFm+1d71W3oZ03ygNKxkMR47hUIVmNRm3fayMo8FP11F5m1Ey3gDfptk7B+k1zYMchuoZkHczYYi4fwJ951Uupm+DrI=;0OrK9J9IuaXCq+WP3LQMKQ=="
+secured: "INI9QyvPOitlXzL0wD+U7NUkV6zSdbPvuAWbMvXw22Iz7D3lOXiKJPjB/Sfhz2s1w3U4mUQFdLBV4ZpvG8SV5wI9hr96czsnp+nZ6x/BLrBx9Oh5ZIets+9K6Bzg4VmyuSfHZognhmhjd4CFqzS2SkJkfDq69WAhjEPOhdt3iwJYw7iYF9eZZ4s7Sj7aYINwxsneBXu8c5TT1qwtXNd/qJWqHLz06aeTvQH5lNItlLhxqNDYoKVW/kcMfEvyN39Zvs4RfzdcoVjOz1jewKEB0IAh21yj8P91y2AfA4XIWNbOQ8P7LLIyumievxeSPV3SeOJdgrqj1hJvW7x+f4A9VZfQp0ed3I42jxL3WxZhBfehrUY5WQawrF7OZ2Peeb7GlkyhlLMomjMeOMagvRpkRxES/aqwNuPkI/311nqPKQAFssipbgezX1Fg+9gV7AcD09PhJRx/9l4+c7YjtlFHUnQtOWBmxA8TimLqw1jsvW3bbJTZS2EEYfSLsGB8UC9V/0G8tfpe2RwTJVVZ5cKuEg==;lBFycSek0+QJuAeRIGN0+w=="
 ---
 

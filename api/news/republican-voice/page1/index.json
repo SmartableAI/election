@@ -2,6 +2,116 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-30-trump-says-he-doesnt-know-who-proud-boys-are-says-let-law-enforcement-do-their-work.md",
+      "title": "Trump says he doesn't know who Proud Boys are, says 'let law enforcement do their work'",
+      "excerpt": "President Trump on Wednesday tried to clear up confusion after telling the right-wing men’s group the Proud Boys to “stand back and stand by,” saying he didn’t know who the group was but they should let law enforcement do their job. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20274113905862.jpg",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
+      "publishedDateTime": "2020-09-30T12:55:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-chicago-mayor-lightfoot-slams-trump-after-he-blasts-windy-city-violence.md",
+      "title": "Chicago Mayor Lightfoot slams Trump after he blasts Windy City violence",
+      "excerpt": "Democratic Chicago Mayor Lori Lightfoot fired back at President Trump on Tuesday night after he skewered her city during a presidential campaign debate against Joe Biden as a hotbed of crime and violence.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fb66182-ac8a-497e-ac3a-bf667a87f5b8/34ab8c88-9cbd-4877-81a3-a089af7c4ff3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp",
+      "publishedDateTime": "2020-09-30T11:16:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-biden-says-at-debate-he-doesnt-support-green-new-deal-but-his-campaign-website-calls-it-crucial-framework.md",
       "title": "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'",
       "excerpt": "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges.",
@@ -116,21 +226,21 @@
       "title": "Comey says new information that Hillary Clinton drummed up Russia controversy to vilify Trump 'doesn’t ring a bell'",
       "excerpt": "Former FBI Director James Comey on Wednesday said it didn’t “ring a bell” when asked whether he received an investigative referral on Hillary Clinton purportedly approving “a plan” attempting to tie President Trump to Russia and distract from her email scandal before the 2016 election.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQCbV4AGSJM/comey-hillary-clinton-trump-russia-probe",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HQCbV4AGSJM/comey-hillary-clinton-trump-russia-probe",
+      "webUrl": "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe",
+      "originalUrl": "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 153,
+      "heat": 113,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/643caea2-801c-428f-803c-0767482d777a/2655df2c-f2d9-4db1-b528-4570d1feb0f0/1280x720/match/image.jpg",
+          "width": 1082,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -139,7 +249,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp",
-      "publishedDateTime": "2020-09-30T08:48:32-07:00",
+      "publishedDateTime": "2020-09-30T08:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -163,6 +273,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -179,7 +290,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 192,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1118,7 +1229,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 773,
+      "heat": 793,
       "tags": null,
       "images": [
         {
@@ -1521,116 +1632,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp",
       "publishedDateTime": "2020-09-27T17:00:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-trump-calls-new-york-times-report-that-he-avoid-paying-taxes-totally-made-up.md",
-      "title": "Trump calls New York Times report that he avoid paying taxes 'totally made up'",
-      "excerpt": "President Trump lambasted on Sunday a New York Times report that said he paid no federal income taxes in 10 of the past 15 years – calling the story “fake news” and arguing that he paid large sums of both federal and state taxes.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OO5zrXarDyk/trump-new-york-times-avoid-paying-taxes-totally",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OO5zrXarDyk/trump-new-york-times-avoid-paying-taxes-totally",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 211,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-new-york-times-avoid-paying-taxes-totally.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-new-york-times-avoid-paying-taxes-totally.amp",
-      "publishedDateTime": "2020-09-27T15:23:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-pompeo-claims-trump-foreign-policy-has-made-world-safer-americans-lives-more-secure.md",
-      "title": "Pompeo claims Trump foreign policy has made world safer, Americans' lives 'more secure'",
-      "excerpt": "The idea that President Trump is \"anti-military\" and is suspicious of U.S. intelligence agencies is an untrue \"media narrative,\" Secretary of State Mike Pompeo told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmtWVGLqS50/pompeo-trump-foreign-policy-safer-world",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmtWVGLqS50/pompeo-trump-foreign-policy-safer-world",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/09/26/694940094001_6194720046001_6194725091001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-trump-foreign-policy-safer-world.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-trump-foreign-policy-safer-world.amp",
-      "publishedDateTime": "2020-09-27T04:30:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

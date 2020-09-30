@@ -1360,6 +1360,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden calls Trump's debate performance 'national embarrassment,' won't 'speculate' about future showdowns"
+    excerpt: "Democratic nominee Joe Biden said Wednesday that President Trump was a “national embarrassment” during the first presidential debate this week, while saying he would not “speculate” on the next two general election showdowns next month."
+    publishedDateTime: 2020-09-30T18:21:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FOPF6c2nsCM/biden-trumps-presidential-debate-national-embarrassment"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trumps-presidential-debate-national-embarrassment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trumps-presidential-debate-national-embarrassment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden says he will 'support the outcome' of the election, vows to be president for Democrats, Republicans"
     excerpt: "Democratic presidential nominee Joe Biden on Tuesday said during the first presidential debate that he will “support the outcome” of the election, vowing, if elected, to be a president for both Republicans and Democrats."
     publishedDateTime: 2020-09-30T02:55:24Z
@@ -1952,6 +1968,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden takes aim at Trump after presidential debate, tells crowd it 'was supposed to be about you'"
+    excerpt: "In his first public event since trading fire with President Trump at a very combustible first of three presidential debates, Democratic presidential nominee Joe Biden charged that the president “lies to you” and emphasized that his showdown with Trump “was supposed to be about you."
+    publishedDateTime: 2020-09-30T16:49:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-after-presidential-debate-says-it-was-supposed-to-be-about-you"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-takes-aim-at-trump-after-presidential-debate-says-it-was-supposed-to-be-about-you.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-takes-aim-at-trump-after-presidential-debate-says-it-was-supposed-to-be-about-you.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 137
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20274553380152.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Does Joe Biden Really Want to Be President?"
     excerpt: "He’d be a hostage who issues reassuring bromides from a cell in the White House family quarters."

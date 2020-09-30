@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Kamala Harris parrots Biden after debate, refuses to say whether they will ‘pack’ Supreme Court"
-excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov. 3 election. "
-publishedDateTime: 2020-09-30T12:42:04Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOEFz2gETZM/debate-kamala-harris-biden-pack-supreme-court"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOEFz2gETZM/debate-kamala-harris-biden-pack-supreme-court"
+excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov."
+publishedDateTime: 2020-09-30T12:59:00Z
+originalUrl: "https://www.foxnews.com/politics/debate-kamala-harris-biden-pack-supreme-court"
+webUrl: "https://www.foxnews.com/politics/debate-kamala-harris-biden-pack-supreme-court"
 type: article
-quality: 168
+quality: 128
 heat: -1
 published: false
 
@@ -20,8 +20,9 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
+  - Joe Biden
 
 images:
   - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kamala-Harris.jpg"
@@ -254,6 +255,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Barrett says Trump offered her Supreme Court nomination 3 days after Ruth Bader Ginsburg's death"
+    excerpt: "Supreme Court nominee Amy Coney Barrett said in a Senate Judiciary Committee questionnaire that President Trump offered her the nomination to the seat vacated by the late Justice Ruth Bader Ginsburg on Monday, Sept. 21, which is just three days after Ginsburg died and nearly a full week before Trump"
+    publishedDateTime: 2020-09-30T18:00:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vjcEePmkVcE/barrett-says-trump-offered-her-supreme-court-nomination-three-days-after-rbg-died"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-says-trump-offered-her-supreme-court-nomination-three-days-after-rbg-died.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-says-trump-offered-her-supreme-court-nomination-three-days-after-rbg-died.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris names Tupac 'best rapper alive'"
     excerpt: "Tupac's legacy lives on. So much so, that vice presidential candidate Kamala Harris named him the best rapper alive. "
     publishedDateTime: 2020-09-26T18:37:25Z
@@ -482,6 +499,6 @@ related:
         height: 562
         isCached: true
 
-secured: "Kgl8mHd56eCguTSZAVNTOOcV2IJ8zRq9py3OxWIYICk3tlvby3VWM3pKfSg6cTbrQ+7YHb6TCa+qKnYWOi3x3u3J3DQvLLqjShMp5hLTsxqa13w8u/jR9VsXKUz2ya8pIo9MEj6p9N4hWp/RYVFVpsrc2XDXVG3iXgTrAJ3oAlez4TrTBMEtOYbJVFZOv8EYMNDiBiUtfH3n6dqLaBknpYqW9BAQt8StE/OtXoWbrvUErL4izhMa0BzZExzIA7qoxUYhLWEdpGoZauHObYFpqkqC+uvq9ULL0II7WKNZvzZGU7BtxFsL/x2dEdOS3d8Dct7x4dUfjzN9ZV6YJZPPFRBnDGhy5wjNX7hD6vgr4PM=;5WlHQNyISBzzFM8X7fEH/g=="
+secured: "sE/ICYDvbn6tanahD42PTDvlUYt+jaa6miOclKHLn9hF/3i3YYtgoFvU31/x9tQrT7DwWxY7wxd2qxoj0eLGqF4Rw5P1lCQZntSA23Ao8Ohj0yURkOXyP6CzKfATzfUUe2GupjW963yTXVLKEyxIVb58PROuETfflflmpT0M117mRzrLLkntHDpwPr7rTalqB12i2ybAHUPzwCjq1HPZ1nR7WOo0nHAcUQ3PIOYfk0TRGtLz3WyioVr7clbe26yKkkS0OXMcOSFfXxkNhP4XSc1rybC2L63OXP0n6QM8ZRwmBZ0YMMe/sbzHTKwzQFtRN4sbFiu8z2i8o9dUP8pC77AIB8mD/ikyAHom1XxS4NM=;IvCYB9mVpYGaY3HsrlXWSQ=="
 ---
 

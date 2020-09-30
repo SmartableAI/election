@@ -510,6 +510,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Top Democrats urge Biden to keep debating Trump"
+    excerpt: "Amy Klobuchar was one of several top Democrats who said Biden should continue to debate Trump. | Carolyn Kaster-Pool/ Tuesday night’s debate was an absolute debacle. Joe Biden could barely get a word in edgewise as President Donald Trump talked over him and hammered his son Hunter."
+    publishedDateTime: 2020-09-30T16:23:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/top-democrats-joe-biden-trump-debate-423726"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/top-democrats-joe-biden-trump-debate-423726"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/top-democrats-joe-biden-trump-debate-423726"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/5c/63/6eb7869b4888973a175e7beed781/20090-amy-klobuchar-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Wallace tries to keep Trump from interrupting Biden at debate"
     excerpt: "As Joe Biden and President Donald Trump spar over health care, moderator Chris Wallace tries to keep the president from interrupting."
     publishedDateTime: 2020-09-30T01:37:00Z

@@ -478,12 +478,44 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump just couldn't say it. Still, he said so much."
+    excerpt: "President Donald Trump likes to make the false assertion that, perhaps save for Abraham Lincoln, \"nobody has ever done for the Black community\" what Trump has done. But what he said -- or rather, what he didn't say -- during the first 2020 presidential debate on Tuesday illustrated anew just how repellent"
+    publishedDateTime: 2020-09-30T19:41:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6A5WYhoDXdI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/trump-debate-proud-boys-racism-black-voters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/trump-debate-proud-boys-racism-black-voters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930134810-donald-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump refuses to condemn White supremacists at presidential debate"
     excerpt: "President Donald Trump on Tuesday refused to condemn White supremacists for inciting violence at anti-police brutality demonstrations across the country, claiming instead during the presidential debate that violence was coming from \"the left wing.\"\n    \n"
     publishedDateTime: 2020-09-30T06:09:44Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/smar3BBSl2w/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/proud-boys-trump-white-supremacists-debate/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/proud-boys-trump-white-supremacists-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225855-40-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's anti-truth campaign keeps running up against his own officials"
+    excerpt: "President Donald Trump repeatedly contradicted key members of his own administration during Tuesday night's presidential debate as he tried to hammer home his own baseless narratives concerning domestic threats, coronavirus and election integrity.\n    \n"
+    publishedDateTime: 2020-09-30T17:49:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sj0F7GQZOm8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/donald-trump-antifa-election-integrity-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/donald-trump-antifa-election-integrity-coronavirus/index.html"
     type: article
     provider:
       name: CNN
@@ -1711,6 +1743,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Trump Spokesman Ridiculously Claims Trump Condemned Right-Wing Extremism Three Times"
+    excerpt: "CNN host John Berman repeatedly pointed out that Trump not only refused to disavow white supremacists and far-right extremism, he told the Proud Boys to “stand by.”"
+    publishedDateTime: 2020-09-30T19:03:00Z
+    webUrl: "https://www.thedailybeast.com/trump-spokesman-hogan-gidley-ridiculously-claims-trump-condemned-right-wing-extremism-three-times?amp"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 38
 
 secured: "tdp11Y+AA+cZNeqmn1FqzzxR+dlmaE76halxgP//G0Kc2eeU3pZdFA4C/ME+Jo3x5wMVWf0ECJa9bIbmbF9ASG2pNEdz6kZnwLJvB3Mjk7WyOcimZY96ET8kGRH8wCZj9D5TT2Kgbt+euYay8d1zs+y73uXggyXcyEhH+M7+Way6PKkrpvSJI8HXmaZBCG434ne5EnLoheYmfBeGyERdJi6YqnLE0buUV1z8We831xu2kEASUFYpcIBfv+TaGetVPk3d/lLNh+knN0hHd8N8dYdayMId5YIBaS7xYbn/jyrJttE5wiKhFeK75CwQhqEwdVTl8BdY/cboU8IFez+NeJRjRndFfoASw2ytw9sc9fY=;78+PnvLGEeU3Pb5LLxRiuw=="
 ---

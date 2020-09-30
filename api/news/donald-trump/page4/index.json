@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-21-hungarian-prime-minister-viktor-orban-endorses-trump-and-denounces-the-moral-imperialism-of-the-democrats.md",
+      "title": "Hungarian prime minister Viktor Orban endorses Trump and denounces the 'moral imperialism' of the Democrats",
+      "excerpt": "The controversial Hungarian prime minister on Monday said he was rooting for Trump to be re-elected at the November election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9",
+      "originalUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f686663323fc4001e0d75e1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9?amp",
+      "publishedDateTime": "2020-09-21T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.md",
       "title": "Jeff Zucker Helped Create Donald Trump. That Show May Be Ending.",
       "excerpt": "The coziness between the TV executive and Mr. Trump is a Frankenstein story for the cable news era. But then the monster got away.",
@@ -1497,57 +1548,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-kid-rock-performs-at-trump-rally-in-michigan-announces-one-last-monster-tour-coming.md",
-      "title": "Kid Rock performs at Trump rally in Michigan, announces 'one last monster tour' coming",
-      "excerpt": "On a night that felt like a late-summer concert, Kid Rock joined Donald Trump Jr. and supporters of the president at a campaign rally east of Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2020/09/14/kid-rock-trump-rally-michigan-next-tour-last/5800142002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/15/PDTF/b6ba9995-a425-4bb6-830a-fb3b65aac030-trump_091420_kd2239.jpg?auto=webp&crop=2399,1349,x1,y262&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5800142002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5800142002",
-      "publishedDateTime": "2020-09-14T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

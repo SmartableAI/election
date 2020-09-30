@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's Proud Boys 'stand back and stand by' debate moment was more than a dog whistle"
+    excerpt: "There are not two sides to white supremacy, just as there are not two sides to homophobia, anti-Semitism or any other type of hate. That is, apparently, unless your name is Donald J. Trump."
+    publishedDateTime: 2020-09-30T16:51:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241570"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241570"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416378/200930-proud-boys-portland-jm-1217_0_4aead6db0f14f95b2d194d823f968045.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "‘Fox & Friends’ Trashes Trump for Blowing the Debate Over White Supremacists"
     excerpt: "Host Brian Kilmeade delivered a rare criticism of Trump, saying he completely failed to deal with Chris Wallace’s challenge to condemn white supremacy."
     publishedDateTime: 2020-09-30T15:44:00Z

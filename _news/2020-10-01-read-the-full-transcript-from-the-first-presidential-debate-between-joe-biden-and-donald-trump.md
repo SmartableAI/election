@@ -2,19 +2,19 @@
 category: news
 title: "Read the full transcript from the first presidential debate between Joe Biden and Donald Trump"
 excerpt: "This is the full transcript from Tuesday night's first presidential debate between Republican President Donald Trump and Democrat Joe Biden."
-publishedDateTime: 2020-09-30T17:16:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/presidential-debate-read-full-transcript-first-debate/3587462001/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/presidential-debate-read-full-transcript-first-debate/3587462001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3587462001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3587462001"
+publishedDateTime: 2020-09-30T17:15:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/30/presidential-debate-read-full-transcript-first-debate/3587462001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/30/presidential-debate-read-full-transcript-first-debate/3587462001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/3587462001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3587462001"
 type: article
 quality: 78
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -2188,6 +2188,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "GXEa+Pak63/IK61javiQECuqfn53UdP1EFzt3XsPJkQxdlMHJRphC/nUzVCFgKoHB1C57HYkqMkr/KqJbcYhJVmd/jclyC2k+QMG+3IWQkQYFRJvAuhlZZ+y4PTsy+1kbOF6GX9HqZLqnPaxMwwSVXps5XL920mhp1K11blyoQCDto6+OJkKZJOGVxijnB1GGd7p+4yR4x33xwLCiaEH0763qQCPcJIzEVjjnbni/pbfNf/lQl6DNnB4ttz9X43wupFv+oS1ddqR5WzxPslJI4QuLAaJcvLoNGesW+IT+0y5mw+neR9FEal4BdRLMi9mHgXDDAhLM9yao7r9Rn1BQ7q0iQcT13ouO2p6uzCBBlE=;Y+FcNxkSvC8Y1hbo59xYfg=="
+secured: "0P27poLI+lbL41J7Ma7ybGSL7UlpkMi1/WlBB4l8iPKOB26kJ+cpz7H+WOES8fWSkdcURIQV4nrLM7WtBeBhEr0AUWLJjQi/991g1SZzPcPnPNuiM0GJguDeqKTgI5SJZHynT8pExvvzroK8np4Oz+k8Ir1lcl6NBul8Uqb7N13dVnk+OJ6JU5G6yO1wFKUc5IifplCh667f4o5DlWLN/6KuRwlpaxCA/fe+jq3AU5w98VlV0nvYUiKPYIh3L+FhTJlRqurOM65yefs1+OREMHtMP554KeYjvSwWetUCfkNctrJfVWaOH6w6E8KCkIg7tHMU+d/CcWsXuZh+bwdnSrtR0W+gqjtu86sBwfZlKIA=;21KUX7a8XtDQ7CGeiD4IqQ=="
 ---
 

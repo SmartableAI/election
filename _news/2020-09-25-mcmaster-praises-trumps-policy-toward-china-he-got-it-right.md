@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "McMaster warns Trump plays 'into Putin's hands' with warm remarks about Russian president"
-    excerpt: "President Trump should be harder on Russian President Vladimir Putin in his public statements, former National Security Adviser H.R. McMaster argued on \"The Story\" Tuesday."
-    publishedDateTime: 2020-09-23T02:40:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kI-X8NENKHA/mcmaster-warns-trump-plays-into-putin-hands"
-    ampWebUrl: "https://www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcmaster-warns-trump-plays-into-putin-hands.amp"
+  - title: "Chicago Mayor Lightfoot slams Trump after he blasts Windy City violence"
+    excerpt: "Democratic Chicago Mayor Lori Lightfoot fired back at President Trump on Tuesday night after he skewered her city during a presidential campaign debate against Joe Biden as a hotbed of crime and violence."
+    publishedDateTime: 2020-09-30T18:16:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence"
+    ampWebUrl: "https://www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c9ceb60-41d9-456c-be89-433c3511b967/b92bb690-5cc8-4e67-9aff-5bd0f7cb0f11/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fb66182-ac8a-497e-ac3a-bf667a87f5b8/34ab8c88-9cbd-4877-81a3-a089af7c4ff3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

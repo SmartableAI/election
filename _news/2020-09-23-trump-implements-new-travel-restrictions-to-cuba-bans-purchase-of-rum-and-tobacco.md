@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Campaign announces 'Fighters Against Socialism Bus Tour' launch in Florida"
+    excerpt: "The Trump campaign announced Wednesday it would launch a Fighters Against Socialism bus tour in Florida next week. "
+    publishedDateTime: 2020-09-30T19:50:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eTvRu4DsFU/trump-campaign-fighters-against-socialism-bus-tour-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-fighters-against-socialism-bus-tour-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-fighters-against-socialism-bus-tour-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Trump-rally-Reuters.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "nDNtOGhtSN+yhPBeciI2M/NIYBO/foPZv4zzqj+j8FnupRPeZLdnKX389Vsu57SqiTyQR0+CXF0CpvqgjY2ZE7IIK47GH1gfDU9dXqeUO8ZCgASY6yyaNBT6eRAytfvBkc4/ZAPf9Ykbt53Y80PjXaWJ8BUmGs19QS8KiMcppLuPGIFVQmMxAGB+pe/gVnBdwGFbIFLd6tEGvoZIWLYKZL4WyDo0J4VVT0W5HOcjgz9ASwszxMdTjwksnavVKmGIKKG3qtdLReJrS/zjKysPtGcuGLKGwSZvYn2aTKK6R2j5QOZ3rALvW8ZZfhMwU+tkMWNDaUdS/UUp6ZfXlZUcql3q58ECAalfMgqm3kXF7ns=;VaQTnQf/WCW1YspS53FDZQ=="
 ---

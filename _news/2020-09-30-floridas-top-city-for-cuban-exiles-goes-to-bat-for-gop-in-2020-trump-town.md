@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hialeah-florida-cubans-trump-republ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hialeah-florida-cubans-trump-republicans.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Campaign announces 'Fighters Against Socialism Bus Tour' launch in Florida"
+    excerpt: "The Trump campaign announced Wednesday it would launch a Fighters Against Socialism bus tour in Florida next week. "
+    publishedDateTime: 2020-09-30T19:50:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5eTvRu4DsFU/trump-campaign-fighters-against-socialism-bus-tour-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-fighters-against-socialism-bus-tour-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-fighters-against-socialism-bus-tour-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Trump-rally-Reuters.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump implements new travel restrictions to Cuba, bans purchase of rum and tobacco"
     excerpt: "President Trump announced new restrictions for American travelers going to Cuba, barring them from purchasing rum and tobacco or staying in Cuban government-funded hotels. "
     publishedDateTime: 2020-09-23T16:18:24Z
