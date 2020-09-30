@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "6 takeaways from the off-the-rails first debate between Biden and Trump"
+    excerpt: "President Donald Trump turned his first debate with Democratic rival Joe Biden into a chaotic disaster.\n    \n"
+    publishedDateTime: 2020-09-30T05:05:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X_Ls4sK7EfQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225349-dana-bash-jake-tapper-split-09292020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking Biden and Trump at the first debate"
     excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will face off in the first 2020 presidential debate Tuesday night live from Cleveland.\n    \n"
     publishedDateTime: 2020-09-30T01:43:08Z
@@ -124,6 +140,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929202421-06-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Hits and misses from the first Trump-Biden debate"
+    excerpt: "The first general election debate between President Donald Trump and former Vice President Joe Biden is (thankfully) over.\n    \n"
+    publishedDateTime: 2020-09-30T04:29:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7-4bTE44c4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225858-trump-biden-debate-faces-split-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1039,6 +1071,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "rEZqSc9lcHnJdvLN5JfSjizXYaFP4shmRCpOwWwWO3kFkDusfJFi6xYk24UyrFnk4AmwMpS5CW3rIKa1dJSl0nUb0cEntkuRqkfHAHkO//GYKl/JuiFyB42AN9p7/ylA22MzEi8rN1tiF69JL91m0eBuGCkkSgkin7RPw+o7YusDKn619QIBm/qe3jhWYR5nMTcSqktZ8LC3th5P6Cpa1srIymOxr/v0JzEyNEcYTNaO9a+OZ9HmtCsWxKfV/cdRdqeITb5GOCrWdmjbRzLUz96wJOsTctyKknYipMzfNkUHieEfgpueXg2pX5eSBsdUjYD8P/1WnodnTM418NEoixG+FGfD2JW0jeimtUBh/2g=;kKixlppka/699TTLYRx1Wg=="
+secured: "Z2zs6DJk+QpzMscvk47C6/vgWuwfc7WTtbVTib3UejxAqqBt0OXyR7NFa8BpetDOnzNYjiQ9eQhWAmStOAWBmjRI5E6o0DpEiwsWr5XZnBA1x1ETXxgaYa4k02ZdCS1tif498FEZfC+e4xXN9lVbl0cTMh1P87M/3dDyKXxM+MXanyJQrpkH5Ty6Yv1fE2ivwZ2DMIwGdPRRnxzLIBIxU56WEcEVJqQqJ+Gl29hAznEWm/JTPVEGsVzGbZxq6P0YbHCdugBcZhgHCzG5AfLyLfZ6lHEpBvZjPHCvRV2I8sTJYNmYX3ysbc9FwYQZM5i6EGmWKRKKbgN8btf03exziX15QagCVVooBjg4dKmqnatFuutiPSC5wLWoLk8FS2ojyh67QPmCTFbL/XFQe2c8spQs6Cw9V/7dqr3+YTCcnH4VCLOkos2Sfovi8+1DaTX+ND7u9IHgnQsEQVqmjIWDn/Jq51UBUL7MVt6CvZ2GyX5VSVUwgNHFi4TeYWrhjbAhTRpiwLqEMBr2kh9J4cK0Mg==;TK9Q/MBa8ZR0mtQ/jpusjg=="
 ---
 

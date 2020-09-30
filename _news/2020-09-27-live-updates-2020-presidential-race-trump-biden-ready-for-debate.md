@@ -1111,6 +1111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden cashes in on debate as his campaign touts fundraising record"
+    excerpt: "Democratic presidential nominee Joe Biden’s campaign touted that they raised a record $3.8 million during the 10pm ET hour Tuesday night, as the former vice president and President Trump traded fire during an extremely combustible debate."
+    publishedDateTime: 2020-09-30T04:35:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pFA-g2dsRLw/biden-cashes-in-on-debate-as-his-campaign-touts-fundraising-record"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cashes-in-on-debate-as-his-campaign-touts-fundraising-record.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cashes-in-on-debate-as-his-campaign-touts-fundraising-record.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Presidential debate gets personal as Biden calls Trump a ‘clown,’ Trump tells Biden he’s not ‘smart’"
     excerpt: "The first presidential debate got personal right out the gate Tuesday night as Democratic presidential nominee Joe Biden called President Trump \"the worst president America has ever had\" and Trump said there is \"nothing smart\" about the former vice president. "
     publishedDateTime: 2020-09-30T01:52:16Z

@@ -1120,6 +1120,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden cashes in on debate as his campaign touts fundraising record"
+    excerpt: "Democratic presidential nominee Joe Biden’s campaign touted that they raised a record $3.8 million during the 10pm ET hour Tuesday night, as the former vice president and President Trump traded fire during an extremely combustible debate."
+    publishedDateTime: 2020-09-30T04:35:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pFA-g2dsRLw/biden-cashes-in-on-debate-as-his-campaign-touts-fundraising-record"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cashes-in-on-debate-as-his-campaign-touts-fundraising-record.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cashes-in-on-debate-as-his-campaign-touts-fundraising-record.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Presidential debate gets personal as Biden calls Trump a ‘clown,’ Trump tells Biden he’s not ‘smart’"
     excerpt: "The first presidential debate got personal right out the gate Tuesday night as Democratic presidential nominee Joe Biden called President Trump \"the worst president America has ever had\" and Trump said there is \"nothing smart\" about the former vice president. "
     publishedDateTime: 2020-09-30T01:52:16Z
@@ -2206,6 +2222,6 @@ related:
         height: 375
         isCached: true
 
-secured: "AYgcY37sWLLXJ/2TN5xgycG/MLP57rGcWE1ncblXroGj4/pJP2RNbzxv48zRS06d4nq3HlqY8XYYPLL9XHIO2I8QnKSH1/siV6cujYdx6ouYobhhXmzMFDLn1bz1wH1tHWQcyZW2D7wD3i+4Z5Mwt2KD0rtonPEfAPR1C4RcMe9gWKB+864P/K9t3/YnKzIZlcBB3rR+JS0WS3eqe+39eCHnriLEF2CxoUDb4QMWceJlG5Z8G4nx8nhULKvSRKJrZC70xqils5IKm0T/wwHr9pQauWOQOt0HuesgPvoeEwNtnb7DBtAEOCTpu9ueQD7hGHHFWOflbA+uN5d4ShdcvY17ppOGiBRgAa0DYIGRfTo=;j7Y8xxkc0xJoY2mxlcDOWA=="
+secured: "JB6PMyTvzm39yIPXQ57/5IR1kecewTbvH4jCWGErhobyzgflL++w4KpVrziAJ3OQokn9OLuKgs+Qc9oLFKbOwiP/Ti+VZ7iXTnlzwnmMY5nRPS+1ow6ctnX+v8p7g7uULkDSq0AjNocycH7aHvDQ2uCE065o8qChtdLQwIKLyXSAY9tfLhBAPSRqkPt5vlFK0LfOeYd9JJPziePbxja4nBxKMYEz/Bm8osWyfpVxsK/FFolJVD5BWPof5D24BHADTwd3/ZIdKryzHQ2sfTbujR7vYAz2ZCgN8Abb2+LeB0fDwRorV9Uqb1hIqZH9H8hp/vK/m9JsEDn9o/SpvLNm/ubRzllpcr38Qd4aLXjX+eA6jPq94YasSpBfyalYbU/2zcmaQX5UAsOrslKrKZ2TmJ7udg9mtsTf7NuasTuerZo6Evb7MPqsX/K0wzo066JAQg6y+Ic7SArXxR4cW6yYj10r3k36miLLd74vlbtGbGFcwZX+G4jEKznGY78if8Enaqb3lVmt1XZ6DXn2MNX6zQ==;nEveg1OVyz7SR37c8uXrcA=="
 ---
 

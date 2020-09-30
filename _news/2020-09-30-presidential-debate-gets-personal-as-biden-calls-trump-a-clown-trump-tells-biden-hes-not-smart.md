@@ -1119,6 +1119,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden cashes in on debate as his campaign touts fundraising record"
+    excerpt: "Democratic presidential nominee Joe Biden’s campaign touted that they raised a record $3.8 million during the 10pm ET hour Tuesday night, as the former vice president and President Trump traded fire during an extremely combustible debate."
+    publishedDateTime: 2020-09-30T04:35:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pFA-g2dsRLw/biden-cashes-in-on-debate-as-his-campaign-touts-fundraising-record"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cashes-in-on-debate-as-his-campaign-touts-fundraising-record.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cashes-in-on-debate-as-his-campaign-touts-fundraising-record.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Presidential debate: Trump, Biden clash over Barrett Supreme Court nomination, ObamaCare as insults fly"
     excerpt: "President Trump and former Vice President Joe Biden kicked off their first presidential debate sparring over the Supreme Court nomination and ObamaCare, but it quickly devolved into insults with Biden calling the president a \"clown\" and a \"liar.\" "
     publishedDateTime: 2020-09-30T01:43:27Z

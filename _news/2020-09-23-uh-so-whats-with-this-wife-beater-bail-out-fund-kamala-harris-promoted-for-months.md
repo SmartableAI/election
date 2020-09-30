@@ -426,6 +426,33 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Joe Biden disavows New Green Deal co-sponsored by Kamala Harris"
+    excerpt: "Democratic nominee Joe Biden needs to have a sit-down with his running mate, Sen. Kamala Harris of California."
+    publishedDateTime: 2020-09-30T03:55:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
+  - title: "WATCH: Kamala Harris Attempts to Do Damage Control Following the First Presidential Debate"
+    excerpt: "Kamala Harris (D-CA) attempted to clean up at least one of former Vice President Joe Biden's blunders that took place during the first presidential debate. Biden refused to answer whether or not he would support packing the Supreme Court,"
+    publishedDateTime: 2020-09-30T03:55:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/29/watch-kamala-harris-attempts-to-do-damage-control-following-the-first-presidential-debate-n2577195"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/29/watch-kamala-harris-attempts-to-do-damage-control-following-the-first-presidential-debate-n2577195?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/29/watch-kamala-harris-attempts-to-do-damage-control-following-the-first-presidential-debate-n2577195?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 75
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/223/774b3f5f-8a81-41f9-ab03-90e2360b614d.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Kamala Harris Answers Question On Packing Supreme Court: \"People Are Already Voting\""
     excerpt: "Democratic vice-presidential nominee Sen. Kamala Harris condemned President Donald Trump and Senate Republicans trying to \"rush\" a Supreme Court appointment before the election and said it is important to remember that \"people are already voting."
     publishedDateTime: 2020-09-29T13:52:00Z

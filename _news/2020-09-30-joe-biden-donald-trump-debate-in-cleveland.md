@@ -222,6 +222,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "5 takeaways from the slugfest between Donald Trump and Joe Biden in Cleveland"
+    excerpt: "At Tuesday's debate, Donald Trump repeatedly interrupted Joe Biden. At one point, the Democratic candidate asked Trump, \"Will you shut up, man?\""
+    publishedDateTime: 2020-09-30T05:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/presidential-debate-what-you-missed-trump-biden-showdown/3577610001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3577610001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3577610001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/353b900d-cee5-4e9c-8dd7-24d3b6d7a583-Biden_debate_1.jpg?auto=webp&crop=7275,4093,x0,y371&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'How you doing man?': Trump, Biden start debate with socially distant greeting"
     excerpt: "In the latest sign of how COVID-19 has upended the election, Trump and Biden skipped the handshake at the first presidential debate in Cleveland."
     publishedDateTime: 2020-09-30T01:29:00Z
@@ -253,6 +269,22 @@ related:
       - url: "https://thehill.com/sites/default/files/donaldtrump_bidenjoe_092420getty_split_polls.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Presidential debate didn't help Trump catch Biden, but horror show scared America"
+    excerpt: "Donald Trump the bully and Joe Biden the acceptable stressed to Americans that the United States is infected with more than COVID-19."
+    publishedDateTime: 2020-09-30T05:18:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/30/presidential-debate-trump-biden-scared-america-editorials-debates/3580566001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3580566001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3580566001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/a25cefed-7932-4810-9676-8f27f52d88f3-debate.jpg?auto=webp&crop=3199,1799,x1,y208&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump vs. Biden, coronavirus stimulus bill, MLB playoffs: 5 things to know Tuesday"
     excerpt: "The first presidential debate takes place in Cleveland, Major League Baseball playoffs begin and more news to start your Tuesday."
@@ -724,6 +756,38 @@ related:
         width: 906
         height: 453
         isCached: true
+  - title: "Why did Donald Trump reference Elizabeth Warren during his debate with Joe Biden?"
+    excerpt: "Yet the Massachusetts senator was still derisively mentioned by President Donald Trump. During one of the earlier exchanges of the contentious and often incomprehensible debate, the Republican president misleadingly asserted that Democratic presidential nominee and former vice president Joe Biden support the same Medicare-for-All health care program proposed by Sen."
+    publishedDateTime: 2020-09-30T03:33:00Z
+    webUrl: "https://www.boston.com/news/politics/2020/09/29/donald-trump-joe-biden-debate-elizabeth-warren"
+    ampWebUrl: "https://www.boston.com/news/politics/2020/09/29/donald-trump-joe-biden-debate-elizabeth-warren/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2020/09/29/donald-trump-joe-biden-debate-elizabeth-warren/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 85
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2020/09/https___media.gettyimages.com_photos_president-donald-trump-participates-in-the-first-presidential-debate-picture-id1277464600_b1k6m1277464600s170x170hNmm4B4TEuuDRwXvX-q4A_RrLogPvVgalzhNIA43HyGw-1-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
+  - title: "Donald Trump, Joe Biden clash over COVID-19, racial injustice in firey first debate"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden engaged in several pointed exchanges as they took the stage for the first presidential debate on Tuesday night."
+    publishedDateTime: 2020-09-30T04:07:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/09/30/Donald-Trump-Joe-Biden-clash-over-COVID-19-racial-injustice-in-firey-first-debate/1631601426882/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/09/30/Donald-Trump-Joe-Biden-clash-over-COVID-19-racial-injustice-in-firey-first-debate/1631601426882/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/30/Donald-Trump-Joe-Biden-clash-over-COVID-19-racial-injustice-in-firey-first-debate/1631601426882/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 84
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/1631601426882/2020/1/8a22b1873ae52f94b69d22cd046c3f21/v1.5/Donald-Trump-Joe-Biden-clash-over-COVID-19-racial-injustice-in-firey-first-debate.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Donald Trump Accuses Joe Biden Of Drug Use, Twitter Shades Him With Adderall Comments"
     excerpt: "Donald Trump appears to be upping the ante when it comes to insults he is trying to sling at Joe Biden ahead of the two meeting for the first Presidential Debate this week. However, his latest attempt to smear his political opponent may have backfired."
     publishedDateTime: 2020-09-27T15:55:00Z
@@ -877,6 +941,6 @@ related:
         height: 560
         isCached: true
 
-secured: "yzbSYIPAGXbqvtS3OHtriG54hd7lkt+fwkSPYdmjWZNQd/C+Y8IbM/WYDBZqHOScDaA2gKs2rTrVKKdAMe8ty6bJF+Q/axWlwlyzLwu/qxpg5MSK6WEX8wrsySqhEO1JT4abLsUMs2PZdR+uZXwUdwBgg4a4+525C8jIjYEYBkFbqMl6abd14F+Hunps9z6goDXSWN6GEEXOKAJS4+vhBSpU0z9w+8RogoKQnG6SZR9OnhVrJv+q7cqK4mYQwnz3n2b3X5nLkAuPVwxkBPKmgX2h/kod4i4F9FTD0qQ6xCM6uTJwaFjjLmgmQyBOQkgE4LGSWBkWVH3tJKnhLhnSeFpVyYTtCpV6jZbKBnapxng=;elF1EXbbcZWgLIaLs4hzsg=="
+secured: "CFztEZafxeDKoSkmDK4yuV7EZPcD4obWWfP95tPYpSOUJWIYKj5yRtNv6PoL6We7wcFTngW23XY5dS+tc4KZipeekJn82xxlTDbJ4wn5N8YVxBzkD4T6pXlyNC3yHrEizpDp0rmHlYNCmsrqnaZhoEEClJwgMBZxJjtscq0NsrZrcJ1suSqu8H7CbeymqU1FpfG6K0H6eXEaBFF0goElEusbnqsbCRMMvtk1Mcw4OpoHuYJwio1ow8UpXSSa7enZJR/dN5yweF5S+wXVndDYV1cnThKRT+2XX0gHFlaNYBmFiU/KD1nJ+/+gG+ExZsxYBbcG48mgCCI5vYwMlxRDfgrlCwRQ++4H1XNX7A0LuLad121xLho5+SJ1B1StKbim6ApKjk8CyJOVrq2gYurwtphl6uiVS75P/66Bid+gbdmO046l7dTTKzse6gcPnyd4Kbrt1IXHkhHH1LFllAEC9qrF0ZRcU818CIcnh17XTE6DpwTZeO2UeqqQoZBkLK0kuhxRngAnfUVRyGhU2Z98ow==;Mg07045hXxeIOvDfgiyMfw=="
 ---
 

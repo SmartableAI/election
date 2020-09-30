@@ -254,6 +254,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Andrea Mitchell discusses first debate between Trump and Biden"
+    excerpt: "Andrea Mitchell discusses what unfolded during the first presidential debate between President Trump and Joe Biden, saying she had \"never seen anything like this\" and called the event a \"disgrace.\""
+    publishedDateTime: 2020-09-30T03:05:00Z
+    webUrl: "https://www.nbcnews.com/video/andrea-mitchell-discusses-first-debate-between-trump-and-biden-92822085784"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92822085784"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92822085784"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/trumpbidenamitchell.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Key moments from Trump and Biden’s first primetime showdown"
     excerpt: "President Donald Trump and former Vice President Joe Biden have spent months sparring from afar, laying the groundwork for an intense showdown on Tuesday night. President Donald Trump tangled with debate moderator Chris Wallace early in the night,"
     publishedDateTime: 2020-09-30T01:55:00Z

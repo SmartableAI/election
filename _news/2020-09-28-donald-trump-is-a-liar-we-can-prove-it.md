@@ -1522,6 +1522,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "‘Trump was like a wild beast’"
+    excerpt: "Even longtime political observers had never seen anything like Tuesday’s debate. Forget what it means for the election—what does it mean for our democracy? 19 of them weigh in."
+    publishedDateTime: 2020-09-30T05:24:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/09/30/trump-biden-debate-roundup-423475"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/c6/a4/20172e3a4e918fe7b04b0662c0f9/a8ec67a0-9cdb-4b56-9070-030bf1acd837.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
     excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
     publishedDateTime: 2020-09-24T14:51:00Z
@@ -1574,6 +1588,15 @@ related:
     excerpt: "Power Trump and Molly chats with a fellow podcaster about the Breonna Taylor case outcome and a nun who is voting for Biden."
     publishedDateTime: 2020-09-25T19:39:00Z
     webUrl: "https://www.thedailybeast.com/its-time-to-thank-donald-trump-for-his-dictator-routine"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "Donald Trump, Proud Boy in Chief, Gives His Marching Orders"
+    excerpt: "The president made it clear that as we get closer to election day, his stochastic terror campaign will only grow louder."
+    publishedDateTime: 2020-09-30T04:30:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trump-proud-boy-in-chief-gives-his-marching-orders"
     type: article
     provider:
       name: The Daily Beast

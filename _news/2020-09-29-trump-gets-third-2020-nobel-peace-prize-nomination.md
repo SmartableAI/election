@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-third-nobel-nomination-doctri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp"
 type: article
 quality: 175
-heat: 235
+heat: 236
 published: true
 
 provider:

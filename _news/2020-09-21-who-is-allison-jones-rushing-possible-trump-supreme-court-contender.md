@@ -409,6 +409,17 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Joe Biden disavows New Green Deal co-sponsored by Kamala Harris"
+    excerpt: "Democratic nominee Joe Biden needs to have a sit-down with his running mate, Sen. Kamala Harris of California."
+    publishedDateTime: 2020-09-30T03:55:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
   - title: "Uh, So What's With This Wife Beater Bail Out Fund Kamala Harris Promoted For Months"
     excerpt: "Well, I don’t know how much of an impact this is going to have, but it appears Kamala Harris might have a wife beater problem. The Daily Caller News Foundation"
     publishedDateTime: 2020-09-23T10:00:00Z
@@ -422,6 +433,22 @@ related:
     quality: 79
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "WATCH: Kamala Harris Attempts to Do Damage Control Following the First Presidential Debate"
+    excerpt: "Kamala Harris (D-CA) attempted to clean up at least one of former Vice President Joe Biden's blunders that took place during the first presidential debate. Biden refused to answer whether or not he would support packing the Supreme Court,"
+    publishedDateTime: 2020-09-30T03:55:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/29/watch-kamala-harris-attempts-to-do-damage-control-following-the-first-presidential-debate-n2577195"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/29/watch-kamala-harris-attempts-to-do-damage-control-following-the-first-presidential-debate-n2577195?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/29/watch-kamala-harris-attempts-to-do-damage-control-following-the-first-presidential-debate-n2577195?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 75
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/223/774b3f5f-8a81-41f9-ab03-90e2360b614d.jpg"
         width: 650
         height: 340
         isCached: true

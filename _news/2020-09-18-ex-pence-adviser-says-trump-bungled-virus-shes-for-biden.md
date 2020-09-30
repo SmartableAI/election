@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5295
+heat: 5315
 published: true
 
 provider:
@@ -636,6 +636,22 @@ related:
     quality: 140
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_45cecf506a974346975bdefe96975b93_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Markets mixed after Trump-Biden debate; data lifts China"
+    excerpt: "Stocks are mixed in Asia after the debate between President Donald Trump and his Democratic challenger Joe Biden, with little sign the clash did much to sway investors"
+    publishedDateTime: 2020-09-30T05:41:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/markets-mixed-trump-biden-debate-data-lifts-china-73332170"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/markets-mixed-trump-biden-debate-data-lifts-china-73332170"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/markets-mixed-trump-biden-debate-data-lifts-china-73332170"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_38ee416a008948d3ae6a75af7a29bb59_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

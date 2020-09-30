@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3518403001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518403001"
 type: article
 quality: 126
-heat: 306
+heat: 326
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/09/27/story_07015457_1601223785.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "'Standing by sir': Proud Boys praise Trump's comment telling them to 'stand by' during first presidential debate"
+    excerpt: "Members of the far-right group celebrated online over the president's statement during the first presidential debate on Tuesday evening."
+    publishedDateTime: 2020-09-30T05:45:00Z
+    webUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f73fb1674fe5b0018a8e246?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe and Jill Biden reported earning $16.5 million from book deals and speaking engagements since leaving the White House"
     excerpt: "The Bidens released their 2019 tax returns ahead of Biden's first presidential debate against Trump on Tuesday, September 29."

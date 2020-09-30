@@ -127,22 +127,6 @@ related:
         width: 320
         height: 209
         isCached: true
-  - title: "Takeaways from Donald Trump and Joe Biden's first U.S. presidential debate"
-    excerpt: "President Donald Trump and his Democratic challenger, former Vice President Joe Biden, meet in Cleveland on Tuesday for the first of three debates ahead of the Nov. 3 election, when Trump is seeking a second term in office."
-    publishedDateTime: 2020-09-30T01:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-takeaways-idUSKBN26L03H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L03H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L03H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 148
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535460384&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T06R"
-        width: 814
-        height: 545
-        isCached: true
   - title: "Trump, Biden Are Potential ‘Super Agers’ Whose Age Is ‘Not Relevant’ To Election, Study Finds"
     excerpt: "An analysis finds both presidential candidates are “likely to survive the next presidential term with their mental and physical attributes intact.”"
     publishedDateTime: 2020-09-25T14:13:00Z
@@ -334,6 +318,38 @@ related:
       - url: "https://i.guim.co.uk/img/media/724005ad4b55aec19d62a3d2e4a4fa66c1a05f16/0_446_720_432/master/720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7c431f8af56acdb0a2cd5ce2439ccf98"
         width: 600
         height: 360
+        isCached: true
+  - title: "1st presidential debate between Trump and Biden spirals into chaotic clash"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden square off in the first presidential debate of 2020 from Cleveland on Tuesday night."
+    publishedDateTime: 2020-09-30T05:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/first-presidential-debate/?id=73297227"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/first-presidential-debate/?id=73297227"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/first-presidential-debate/?id=73297227"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 138
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-biden-splt-2-gty-ps-200929_1601431396895_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Takeaways from Donald Trump and Joe Biden's first U.S. presidential debate"
+    excerpt: "President Donald Trump and his Democratic challenger, former Vice President Joe Biden, meet in Cleveland on Tuesday for the first of three debates ahead of the Nov. 3 election, when Trump is seeking a second term in office."
+    publishedDateTime: 2020-09-30T01:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-takeaways-idUSKBN26L03H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L03H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L03H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535471210&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T06R"
+        width: 814
+        height: 545
         isCached: true
   - title: "How to watch the first presidential debate between Joe Biden and Donald Trump"
     excerpt: "Viewers can stream the match-up live at USATODAY.com with real-time facts and context from USA TODAY's team of experts showing on-screen during the debate."
@@ -917,6 +933,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Breaking down the first debate between President Trump and Joe Biden"
+    excerpt: "The first debate between President Trump and Joe Biden was marred by constant interruptions and personal attacks. “CBS Evening News” anchor and managing editor Norah O’Donnell, “CBS This Morning” co-host Gayle King and CBS News political analyst John Dickerson break down the candidates’ performances,"
+    publishedDateTime: 2020-09-30T04:50:00Z
+    webUrl: "https://www.cbsnews.com/video/breaking-down-the-first-debate-between-president-trump-and-joe-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/4f369eee-2d2b-4407-85c3-704b1a9b0be1/thumbnail/1200x630/2e1cf6f425c026fe4671036b284e9f8c/0929-debate-broadcast-postshow-new-556669-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Trump and Joe Biden spar in first 2020 debate"
     excerpt: "President Trump and Joe Biden sparred in the first presidential debate of the 2020 race in Cleveland on Tuesday. Just hours ahead of the event, Joe Biden released his 2019 tax returns, drawing a clear contrast with President Trump,"
     publishedDateTime: 2020-09-30T03:30:00Z
@@ -928,6 +958,36 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/add71a0b-a425-4189-ba91-32ae61a34283/thumbnail/1200x630/f4af8eb5ec4b5470fcc491c07533771e/cbsn-fusion-president-trump-and-joe-biden-spar-in-first-2020-presidential-debate-thumbnail-556606-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Sen Kamala Harris and her husband reported earning nearly $3.1 million last year"
+    excerpt: "Public financial records show Kamala Harris and her husband's combined assets to be worth $2.8 million to $6.3 million."
+    publishedDateTime: 2020-09-29T23:38:00Z
+    webUrl: "https://www.cnbc.com/2020/09/25/kamala-harris-and-husband-worth-up-to-6point3-million.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/09/25/kamala-harris-and-husband-worth-up-to-6point3-million.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/25/kamala-harris-and-husband-worth-up-to-6point3-million.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106693918-1599577154420-gettyimages-1271222751-cn9i9686_2020090755022086.jpeg?v=1599577261"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "The full first debate between President Trump and Joe Biden"
+    excerpt: "At the first of three presidential debates between President Trump and former Vice President Joe Biden, the candidates were asked about a wide range of topics, including the coronavirus pandemic, the economy and ongoing protests against police brutality and racism."
+    publishedDateTime: 2020-09-30T05:33:00Z
+    webUrl: "https://www.cbsnews.com/video/the-full-first-debate-between-president-trump-and-joe-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/26c64d8f-0ac2-4db6-8a8c-f4d63ec66f2f/thumbnail/1200x630/105ee779ce2e6d0b2a23c2a4b9b4eb4d/0929-cbsn-firstpresidentialdebate-full-556665-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -1551,6 +1611,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-240-4265-2727_s1200x700.jpg?b4e540afe8cd79dee7891d2432e1b6dcf9ea66bb"
         width: 1200
         height: 700
+        isCached: true
+  - title: "'I don't know Beau': Trump attacks Joe Biden as former vice president reflects on late son Beau Biden"
+    excerpt: "My son was in Iraq. He spent a year there,\" said Biden, referring to his late son Beau Biden. \"He was not a loser.\""
+    publishedDateTime: 2020-09-30T05:22:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/beau-was-not-loser-biden-defends-his-late-sons-military-service-after-reports-trump-disparaging-serv/3584230001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3584230001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3584230001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/602a80c9-5f6f-413c-8735-5b8a5a941375-AP_Election_2020_Debate_3.jpg?auto=webp&crop=5799,3262,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden punts on plan to pack Supreme Court"
     excerpt: "Democratic presidential candidate Joseph R. Biden refused to say Tuesday if he would pack the Supreme Court, a call some progressives in his party have made after the passing of Justice Ruth Bader Ginsburg."

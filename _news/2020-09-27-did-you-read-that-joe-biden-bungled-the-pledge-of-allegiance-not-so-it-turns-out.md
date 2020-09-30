@@ -29,17 +29,17 @@ images:
 related:
   - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
     excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
-    publishedDateTime: 2020-09-29T23:45:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3578805001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3578805001"
+    publishedDateTime: 2020-09-29T22:50:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 67
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=5905,3322,x0,y300&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

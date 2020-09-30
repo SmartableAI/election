@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump’s warning on voting by mail: 'This is not going to end well’"
+    excerpt: "A combustible debate Tuesday night between President Trump and Democratic presidential nominee Joe Biden concluded with a fiery exchange over the integrity of the election and ominous warning from the president."
+    publishedDateTime: 2020-09-30T05:01:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZuHg1yois4g/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-debate-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Meadows defends Trump comments on mail-in voting: 'He is stating the facts'"
     excerpt: "White House Chief of Staff Mark Meadows defended President Trump's criticism of mail-in voting on Sunday, asserting that there is truth behind the president's concerns."
     publishedDateTime: 2020-09-27T18:16:40Z
