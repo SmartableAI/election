@@ -695,8 +695,8 @@ related:
         isCached: true
   - title: "Presidential debate live: Donald Trump tries to steamroll Joe Biden in chaotic clash"
     excerpt: "Candidates faced off in Cleveland, Ohio, with Chris Wallace of Fox News moderating the bitterly personal showdown"
-    publishedDateTime: 2020-09-30T08:22:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f743fdb8f08097c05821ad4"
+    publishedDateTime: 2020-09-30T11:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f7457778f08df432c7aaba1"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
     type: article
@@ -704,6 +704,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 113
+  - title: "Presidential debate: How Donald Trump and Joe Biden greeted wives Melania and Jill at the end"
+    excerpt: "After a rancorous first debate, US presidential candidates Donald Trump and Joe Biden were joined on stage by their wives Melania and Jill. Some viewers noticed a difference between the greetings. How Trump and Biden greeted their wives after debate."
+    publishedDateTime: 2020-09-30T16:39:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-54363826"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 109
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08szbnx.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "How Donald Trump Turned The Presidency Into A Business"
     excerpt: "Forbes' senior editor Dan Alexander examines President Trump's sprawling business interests in his new book, 'White House, Inc.' Alexander says the president has broken a number of pledges he made about how he would conduct business while in office."
     publishedDateTime: 2020-09-27T04:17:00Z
@@ -938,6 +952,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Joe Biden, Donald Trump Begin Raucous Debate Sparring Over Supreme Court, Obamacare"
+    excerpt: "Democratic nominee Joe Biden and Republican President Donald Trump sparred over the Supreme Court and Obamacare during their first presidential debate on Tuesday."
+    publishedDateTime: 2020-09-30T02:47:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-donald-trump-begin-raucous-debate-sparring-over-supreme-court-obamacare-3054023"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-donald-trump-begin-raucous-debate-sparring-over-supreme-court-obamacare-3054023?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-donald-trump-begin-raucous-debate-sparring-over-supreme-court-obamacare-3054023?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/fox-news-anchor-chris-wallace-will-moderate-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald Trump Accuses Joe Biden Of Drug Use, Twitter Shades Him With Adderall Comments"
     excerpt: "Donald Trump appears to be upping the ante when it comes to insults he is trying to sling at Joe Biden ahead of the two meeting for the first Presidential Debate this week. However, his latest attempt to smear his political opponent may have backfired."
     publishedDateTime: 2020-09-27T15:55:00Z
@@ -1139,6 +1169,6 @@ related:
         height: 560
         isCached: true
 
-secured: "a5NEBMf8yswIaeJE5595+lIwp5XNhSJ5na7OfuK41du6NuRX+dd6vT1oe8cTq0H2RSgMtp1BTROa1TN6LUSSzbrrvFmZ2OKEqQtzMlAI7Z3DV3vckWmvFFMGli6kU+5qGYMfxEhcTrRZFE3lntX+/zEOfo549Olp+oS8PPO9D6guyE5WOz1oCZhZefn7p35Klr5FHwwejf3yxa9hnHZNU38uA8HLKmAV5VJlimsOi0b/erLMwcoW6YCZ/OUSxZOqF8ciPHIGcIpq5sajqK9W0/Ai0d2F+0ybnZKnGDjaPAOMiAL+WkfYtozM6GSJ9Edau5/P9XQA9T7XVQ97zfzmouNfFx4Kv6o96UCMlpuYTe0=;x1X43MQJFKSQwNNaBwIKDw=="
+secured: "annjeNKyV7h4YyKmkWPTUSx16xhupulAPyocaAx+dtbAi7NH0z4jRuVaHoTO1/l85KvXariMebXpNYkg6cAdoj+HQ/FMx7rpdFJiRz3R4QlkoOwbcaTwgVhoZrwKOHj8XMCmxDz2zMwldXYOsUFaMSnklr2M+/HQy9qPRZKyLL/ksht4PIDLkKjBuCPOrxkeRdpc0J+xn023CS/XGHkV0HtKDEWpqz8qXBXYFF/FdO0GfR6vdiVK1AyRZzdQBWow4EziTcHZ0HC6KsxeynKLLCPFp6EbKrpxBhrD0UQw5pXNst5Hlk3I5w2wc8gdXZrqyUBv0EnQpyAbL1PGDiXH2X3e9RjGScx6KCSO83zyeuW0VOyiaFcXwgy+1mW69MjHm4PhxGDQGd2Mm5+Oz1PCKtBK6/VpuVZMFOkmf3+SA6aDmtX9gJoHjELgMV9M07MGGOENTrRjNnChAvM65N0oqiGEbKF4Q+WiQzhIzNoypl92Yy4013M/iKz55dRRJNGpMp9hpygi70nmUM+yzwTcCA==;m8uWuHQRy9jSPCIVpty/YQ=="
 ---
 

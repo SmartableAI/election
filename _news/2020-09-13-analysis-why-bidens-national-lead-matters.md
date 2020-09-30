@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he will not release list of his potential Supreme Court nominees before election"
+    excerpt: "Democratic presidential nominee Joe Biden said Sunday that he won't release a list of potential Supreme Court nominees before the November election, as pressure mounts over the vacancy left in the wake of Justice Ruth Bader Ginsburg's death on Friday.\n    \n"
+    publishedDateTime: 2020-09-20T20:02:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F9vr7zMLgbo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-donald-trump-supreme-court-nominee-list/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-donald-trump-supreme-court-nominee-list/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909172700-joe-biden-0728-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Joe Biden's Hispanic voter problem is real"
     excerpt: "President Donald Trump is making his case for Hispanic votes in Arizona and Nevada this week. Meanwhile, Democratic presidential nominee Joe Biden is making his first general election appearance in Florida on Tuesday, with an event to commemorate Hispanic Heritage Month.\n    \n"
     publishedDateTime: 2020-09-15T10:02:20Z
@@ -252,6 +268,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200908093917-01-joe-biden-0904-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's once maligned digital operation raises big money by embodying candidate"
+    excerpt: "When Rob Flaherty began describing Joe Biden's digital strategy as a \"battle for the soul of the Internet\" earlier this year, the Democratic primary had barely ended, the former vice president's campaign was alarmingly low on money and President Donald Trump's digital-centric campaign looked like a juggernaut.\n"
+    publishedDateTime: 2020-09-21T21:59:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E-XJXy795SU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917220345-113-biden-town-hall-0917-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

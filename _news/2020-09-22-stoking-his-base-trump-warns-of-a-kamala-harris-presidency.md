@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240492"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492"
 type: article
 quality: 160
-heat: -1
-published: false
+heat: 340
+published: true
 
 provider:
   name: NBC News
@@ -33,165 +33,37 @@ images:
     isCached: true
 
 related:
-  - title: "Progressive activists are wary over criminal justice under a Biden-Harris administration"
-    excerpt: "They spent the summer on the frontlines of a historic protest movement against police violence. But many young criminal justice activists leading the charge for police reform won't be enthusiastically casting their ballots for the Democratic presidential ticket in November.\n    \n"
-    publishedDateTime: 2020-09-26T13:15:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/71IvFcd301g/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-justice-activists/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-justice-activists/index.html"
+  - title: "Trump will go to Pittsburgh and Pence to New Hampshire as Harris visits Flint and Detroit."
+    excerpt: "Delivers remarks at a campaign rally in a hangar at Pittsburgh International Airport. Afternoon — Tours small businesses that have been affected by the coronavirus pandemic in Flint, Mich. 4:30 p.m. — Participates in “Shop Talk” round-table conversation with Black men in Detroit."
+    publishedDateTime: 2020-09-22T12:10:00Z
+    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 191
+      name: New York Times
+      domain: nytimes.com
+    quality: 140
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200812180303-13-biden-harris-event-0812-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump and Biden enter critical weekend as they prepare to face each other in first debate"
-    excerpt: "Democratic nominee Joe Biden is moving from briefing books into full days of preparations. President Donald Trump is studying notecards and getting help from a long-time ally, former New Jersey Gov. Chris Christie.\n    \n"
-    publishedDateTime: 2020-09-26T11:42:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jDaxvieFmp8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 181
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911133241-trump-biden-split-0911-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden says he will not release list of his potential Supreme Court nominees before election"
-    excerpt: "Democratic presidential nominee Joe Biden said Sunday that he won't release a list of potential Supreme Court nominees before the November election, as pressure mounts over the vacancy left in the wake of Justice Ruth Bader Ginsburg's death on Friday.\n    \n"
-    publishedDateTime: 2020-09-20T20:02:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F9vr7zMLgbo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/joe-biden-donald-trump-supreme-court-nominee-list/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/joe-biden-donald-trump-supreme-court-nominee-list/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 180
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909172700-joe-biden-0728-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Why it could be a Biden blowout in November"
-    excerpt: "Poll of the week: A new ABC News/Washington Post poll from Minnesota finds Democratic presidential nominee Joe Biden with a 57% to 41% lead over President Donald Trump among likely voters.\n    \n"
-    publishedDateTime: 2020-09-20T13:21:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mUgbBKQSLww/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/poll-of-the-week-joe-biden-blowout-donald-trump-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/poll-of-the-week-joe-biden-blowout-donald-trump-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Why Biden would likely have a Democratic Senate if he wins"
-    excerpt: "The pending Senate battle over the next Supreme Court nominee shows us how important winning Congress' upper chamber is this fall. A president who doesn't have the Senate backing him cannot fully use the power of the presidency to influence the government's direction.\n    \n"
-    publishedDateTime: 2020-09-26T09:52:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OC295Bm4LGQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/presidential-senate-races-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/presidential-senate-races-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923090749-02-joe-biden-0920-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden's once maligned digital operation raises big money by embodying candidate"
-    excerpt: "When Rob Flaherty began describing Joe Biden's digital strategy as a \"battle for the soul of the Internet\" earlier this year, the Democratic primary had barely ended, the former vice president's campaign was alarmingly low on money and President Donald Trump's digital-centric campaign looked like a juggernaut.\n"
-    publishedDateTime: 2020-09-21T21:59:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E-XJXy795SU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/biden-campaign-digital-strategy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917220345-113-biden-town-hall-0917-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "President Trump and Joe Biden prepare for first debate"
-    excerpt: "President Donald Trump and Democratic nominee Joe Biden face off in the first presidential debate in Ohio this Tuesday. National polls report that Biden is leading when it comes to his proposal for how to handle the pandemic,"
-    publishedDateTime: 2020-09-27T23:02:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/president-trump-and-joe-biden-prepare-for-first-debate-92672069864"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92672069864"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92672069864"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_avi_new_polls_debate_preview_200927_1920x1080.nbcnews-fp-1200-630.jpg"
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
-    excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
-    publishedDateTime: 2020-09-28T23:50:00Z
-    webUrl: "https://www.nbcnews.com/now/video/biden-harris-focus-campaign-on-importance-of-vacant-supreme-court-seat-92729413905"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92729413905"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92729413905"
+  - title: "Kamala Harris urges Black Americans to vote: ‘It’s up to us.’"
+    excerpt: "Senator Kamala Harris of California urged Black Americans to vote on Friday, saying it was “up to us to act” in a forceful call to action for one of the Democratic Party’s most important voting blocs."
+    publishedDateTime: 2020-09-18T18:54:00Z
+    webUrl: "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/ott_now_harris_200928_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden accuses Donald Trump of silence on 'dictator' Lukashenko in Belarus"
-    excerpt: "Democratic presidential nominee Joe Biden on Friday chided President Donald Trump for not speaking out about repression of democratic protests in Belarus, a country he said is being run by a \"dictator."
-    publishedDateTime: 2020-09-26T22:14:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/joe-biden-accuses-donald-trump-silence-dictator-lukashenko-belarus-n1241177"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241177"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241177"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 157
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414368/200923-joe-biden-al-1401_23d2f60d91d9e491c106329bf47c1d52.jpg"
-        width: 2500
-        height: 1573
-        isCached: true
-  - title: "Why Biden is stiff-arming the left on court-packing and the filibuster"
-    excerpt: "But for progressives, court-packing may be the new Medicare for All. A growing number of Democrats are responding to the prospect of the Republican-controlled Senate confirming a replacement for Justice Ruth Bader Ginsburg with calls for more radical government reforms than the party previously tolerated."
-    publishedDateTime: 2020-09-22T09:30:00Z
-    webUrl: "https://www.politico.com/news/2020/09/22/biden-supreme-court-filibuster-ginsburg-419832"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/biden-supreme-court-filibuster-ginsburg-419832"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/biden-supreme-court-filibuster-ginsburg-419832"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static.politico.com/62/b7/9bf6131e4331a751d650e5914750/biden-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18elections-briefing-kamala-black-voters/18elections-briefing-kamala-black-voters-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "‘Birtherism’ Lies About Kamala Harris Exceed Those About Obama"
     excerpt: "Mentions of the racist theory about Ms. Harris spiked higher than the peak of similar lies about President Barack Obama in 2017."
@@ -208,70 +80,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/22/arts/22distortion-birtherism-sub/22distortion-birtherism-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Joe Biden’s Stutter Is His Superpower"
-    excerpt: "Embracing a lifelong struggle to overcome a stutter, and the stumbles that have happened along the way, Uncle Joe is a hard man to dislike. In that same vein, Biden has finally gone where Hillary Clinton would not,"
-    publishedDateTime: 2020-09-25T09:06:00Z
-    webUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/25/opinion/25eganWeb/25eganWeb-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Progressives pledge to keep pushing Biden to expand Supreme Court"
-    excerpt: "Biden, who ran a relatively centrist primary campaign, hasn't embraced that push, worried they may intensify the nation's partisan split."
-    publishedDateTime: 2020-09-25T02:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/progressives-pledge-keep-pushing-biden-expand-supreme-court-n1241039"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241039"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241039"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414864/200924-joe-biden-face-mask-ac-1033p_d8fc8f4c9fd784e5bc8bd838100ec790.JPG"
-        width: 6048
-        height: 4024
-        isCached: true
-  - title: "A High-Stakes Test for Joe Biden’s Love of Senate Tradition"
-    excerpt: "He reveres custom and recognizes the courts’ essential role in shaping a policy agenda. Those dual instincts have perhaps never been in greater conflict as they are in this Supreme Court fight."
-    publishedDateTime: 2020-09-26T18:25:00Z
-    webUrl: "https://www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/26/us/politics/26biden-confirmations00/26biden-confirmations00-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "How Joe Biden Is Preparing for the Biggest Debate of His Life"
-    excerpt: "The first debate between Joseph R. Biden Jr. and President Trump on Tuesday represents one of the president’s last, best chances to move a race that polls show him losing. There are risks for Mr. Biden,"
-    publishedDateTime: 2020-09-28T09:03:00Z
-    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28biden-debateprep1/28biden-debateprep1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Kamala Harris uses personal story to court recent immigrants, communities of color"
     excerpt: "The California senator is partly focused on increasing Democratic margins over Trump, including in key battleground states."
@@ -305,66 +113,52 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
-    excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
-    publishedDateTime: 2020-09-28T21:04:00Z
-    webUrl: "https://www.nbcnews.com/video/kamala-harris-expresses-concerns-over-amy-coney-barrett-overturning-affordable-care-act-92734533860"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92734533860"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92734533860"
+  - title: "Barr accused of 'working hand in glove' with Team Trump, White House"
+    excerpt: "One former federal prosecutor said of Barr, \"The attorney general is working hand in glove with the White House and the Trump re-election campaign.\""
+    publishedDateTime: 2020-09-29T18:49:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 127
+    quality: 115
     images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_kamala_scotuf_mo_kamala_scotus_200928.nbcnews-fp-1200-630.jpg"
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3413850/200921-donald-trump-william-barr-profile-2019-ac-851p_2cfe3612ae4433cdb3e04d5d1f7d57a6.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris is expected to address Judge Barrett’s nomination and the Supreme Court in North Carolina."
-    excerpt: "On a trip to North Carolina where she is expected to speak about Judge Amy Coney Barrett, Senator Kamala Harris will take a rare turn in the campaign spotlight today."
-    publishedDateTime: 2020-09-28T19:08:00Z
-    webUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 118
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/27/us/27elections-harris/27elections-harris-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Five Things Biden and His Allies Should Be Worried About"
-    excerpt: "Second, Latinos, who are key to the outcome in several crucial states — Arizona and Florida, for example — have shown less support for Biden than for past Democratic nominees. Many Hispanic voters seem resistant to any campaign that defines them broadly as “people of color."
-    publishedDateTime: 2020-09-23T09:04:00Z
-    webUrl: "https://www.nytimes.com/2020/09/23/opinion/joe-biden-donald-trump-2020.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/23/opinion/23edsall3/23edsall3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden nets progressive climate endorsement"
-    excerpt: "The endorsement from 350 Action is the latest sign the former veep's move to boost his climate plan's ambition is winning over skeptical progressives."
-    publishedDateTime: 2020-09-24T13:36:00Z
-    webUrl: "https://www.politico.com/news/2020/09/24/biden-nets-progressive-climate-endorsement-420941"
+  - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
+    excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
+    publishedDateTime: 2020-09-18T03:18:00Z
+    webUrl: "https://www.politico.com/news/2020/09/17/trump-kamala-harris-president-417490"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 111
     images:
-      - url: "https://static.politico.com/d3/11/b8f90a8e47a29f72b70265621224/ap20258672621852.jpg"
+      - url: "https://static.politico.com/eb/61/c1f3860c4cdc85e87b8b815cf975/200917-trump-ap-4-773.jpg"
         width: 1160
         height: 773
         isCached: true
+  - title: "Kamala Harris Wore Timberlands. The Internet Responded."
+    excerpt: "Vice Presidential nominee Kamala Harris stepped off a plane to tour the scene of a devastating California wildfire in Timberland boots. Cue a social media chorus of boos and yays."
+    publishedDateTime: 2020-09-16T22:49:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-wore-timberlands-the-internet-responded"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "Kamala Harris Loves Her Timberlands. As a Black Woman, I Share Her Devotion"
+    excerpt: "When I was growing up, Timberland boots were the first fashion item that allowed me to express myself. Kamala Harris wearing them reminds us of their importance in Black culture."
+    publishedDateTime: 2020-09-18T08:53:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-loves-her-timberlands-as-a-black-woman-i-share-her-devotion"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 43
 
 secured: "oe54izsAElxOC4f8sZOdD8By5r1jNqkSIhIHqwhh7tnZGESp7pObehbX2khKd3CvxSWTzqU9ZGqeWw9QegPscNrqrFJ48ojMjJ3pSK+89BXPKzk/ySH8yKapvBU8h4Xnj3rWqoS8GeAj79nyeYiZAfi6jFFAucynhyXRVlVmUQECekB1f6QCzkptw+QGoAeXWugaJmPjy9X0Wm747dR21Yq5QGxkbWet+D2v2lFJFE7qc28/VxBU8S5I14f1CmvpTfERr9drRv3fzUGBfBNCbsOVPEvrdrHfjXS87cDUL+jsJF/0cb+Q4WHJ7XBTCy2mporoSIfOlcOYOzuJbaoWfyu2ho/G/QQ10bKkV3fmXgV/fX8HsH6JHgSMhk8VoEkGNCSDXWIl2UytHHXEFg7uYTBy2qCsq4nii6xZB73mNRbinwXcFUc/G86jYXQkUqNgMuiOIv2zBDpI2SHok6Swd2iQAlfnU0vjcezWLckUS097B1XgDtghzzaytjrNGY+a67fOigHI3Rw/kV3MMq0myQ==;K9JZVnzqMEF0LktDfbPEfQ=="
 ---

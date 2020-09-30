@@ -351,6 +351,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden silent on potential court packing as Trump taunts him"
+    excerpt: "The fight over the seat vacated by the late Justice Ruth Bader Ginsburg has thrown the Supreme Court into focus once again."
+    publishedDateTime: 2020-09-30T17:33:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6TU7gfYmOHM/court-packing-biden-trump-debate-filibuster"
+    ampWebUrl: "https://www.foxnews.com/politics/court-packing-biden-trump-debate-filibuster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/court-packing-biden-trump-debate-filibuster.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20270789646213.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live updates: 2020 presidential race: Trump, Biden spar in 1st debate"
     excerpt: "President Trump and Democratic nominee Joe Biden faced off for the first time Tuesday in a highly anticipated debate at Case Western University in Cleveland, Ohio."
     publishedDateTime: 2020-09-30T06:08:14Z
@@ -558,6 +574,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38647654-9cab-4d03-bf02-c9d42ba7f9b0/974ab8df-cbe6-43d4-bb71-65ea5a7abf20/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden refuses to bash Trump Supreme Court nominee Amy Coney Barrett in debate"
+    excerpt: "Democratic nominee Joe Biden took the high road at Tuesday night's debate, refusing to bash President Trump's pick for Supreme Court, Judge Amy Coney Barrett, instead, saying she seems like a \"very fine person.\" "
+    publishedDateTime: 2020-09-30T17:06:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V0CavtTA8Mc/biden-refuses-to-bash-barrett-at-debate-calls-her-very-fine-person"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-refuses-to-bash-barrett-at-debate-calls-her-very-fine-person.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-refuses-to-bash-barrett-at-debate-calls-her-very-fine-person.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Debate: Trump brags about rally size as Biden calls president 'irresponsible'"
     excerpt: "President Trump wasted no time before he started talking over not only Democratic presidential candidate Joe Biden, but Fox News’ Chris Wallace who moderated the event. "
@@ -943,6 +975,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump had to 'fight' during first presidential debate because of Biden's 'lies': Lara Trump"
+    excerpt: "President Trump had to “fight” during the first presidential debate because of Democratic presidential nominee Joe Biden's “lies,” Trump 2020 senior adviser Lara Trump told “Fox & Friends” on Wednesday."
+    publishedDateTime: 2020-09-30T16:52:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qcKNc65okuM/trump-fight-first-presidential-debate-because-biden-lara-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fight-first-presidential-debate-because-biden-lara-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fight-first-presidential-debate-because-biden-lara-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "President Trump ties Biden to Virginia governor at rally in effort to portray Dem as extreme"
     excerpt: "President Trump blasted Virginia Gov. Ralph Northam at a rally on Friday, attempting to portray the Democrat as representing the type of governance Virginians can expect if they vote for Joe Biden in November. "
     publishedDateTime: 2020-09-26T02:28:27Z
@@ -1301,6 +1349,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUYdVzq27rw/biden-support-outcome-election-debate"
     ampWebUrl: "https://www.foxnews.com/politics/biden-support-outcome-election-debate.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-support-outcome-election-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Commission on Presidential Debates ‘carefully considering’ format changes after first Trump, Biden debate"
+    excerpt: "The Commission on Presidential Debates on Wednesday said the first debate between President Trump and Joe Biden “made clear” that “additional structure” should be added to the format of the remaining debates in order to “ensure” a “more orderly discussion” of issues."
+    publishedDateTime: 2020-09-30T17:51:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iiEJmDlzBvk/commission-on-presidential-debates-carefully-considering-format-changes-after-first-trump-biden-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/commission-on-presidential-debates-carefully-considering-format-changes-after-first-trump-biden-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/commission-on-presidential-debates-carefully-considering-format-changes-after-first-trump-biden-debate.amp"
     type: article
     provider:
       name: Fox News

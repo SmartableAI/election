@@ -2,9 +2,9 @@
 category: news
 title: "Presidential debate live: Donald Trump tries to steamroll Joe Biden in chaotic clash"
 excerpt: "Candidates faced off in Cleveland, Ohio, with Chris Wallace of Fox News moderating the bitterly personal showdown"
-publishedDateTime: 2020-09-30T08:22:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f743fdb8f08097c05821ad4"
-webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f743fdb8f08097c05821ad4"
+publishedDateTime: 2020-09-30T11:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f7457778f08df432c7aaba1"
+webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f7457778f08df432c7aaba1"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
 type: article
@@ -691,6 +691,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Presidential debate: How Donald Trump and Joe Biden greeted wives Melania and Jill at the end"
+    excerpt: "After a rancorous first debate, US presidential candidates Donald Trump and Joe Biden were joined on stage by their wives Melania and Jill. Some viewers noticed a difference between the greetings. How Trump and Biden greeted their wives after debate."
+    publishedDateTime: 2020-09-30T16:39:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-54363826"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 109
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08szbnx.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "How Donald Trump Turned The Presidency Into A Business"
     excerpt: "Forbes' senior editor Dan Alexander examines President Trump's sprawling business interests in his new book, 'White House, Inc.' Alexander says the president has broken a number of pledges he made about how he would conduct business while in office."
     publishedDateTime: 2020-09-27T04:17:00Z
@@ -941,6 +955,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Joe Biden, Donald Trump Begin Raucous Debate Sparring Over Supreme Court, Obamacare"
+    excerpt: "Democratic nominee Joe Biden and Republican President Donald Trump sparred over the Supreme Court and Obamacare during their first presidential debate on Tuesday."
+    publishedDateTime: 2020-09-30T02:47:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-donald-trump-begin-raucous-debate-sparring-over-supreme-court-obamacare-3054023"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-donald-trump-begin-raucous-debate-sparring-over-supreme-court-obamacare-3054023?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-donald-trump-begin-raucous-debate-sparring-over-supreme-court-obamacare-3054023?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/fox-news-anchor-chris-wallace-will-moderate-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Donald Trump Accuses Joe Biden Of Drug Use, Twitter Shades Him With Adderall Comments"
     excerpt: "Donald Trump appears to be upping the ante when it comes to insults he is trying to sling at Joe Biden ahead of the two meeting for the first Presidential Debate this week. However, his latest attempt to smear his political opponent may have backfired."
     publishedDateTime: 2020-09-27T15:55:00Z
@@ -1142,6 +1172,6 @@ related:
         height: 560
         isCached: true
 
-secured: "226YFxmkl+bUDudAVLI2ApxqS90acKuPUrGMpclQTUowg8BdTyTHJWeP9BT7I5oK34Oe2m196CHhYjjNDClCkInqdiiT9fbEqEtrJZY4wrwt55o+tYKCfM8l6x9omf5P1Jh+GRuayMJwytfYKqBdS52NyRwne4KiHtva+ns/qGHyT7l5kGzSbNuH+7lKPNCaN9Q8JqGLllczl/Pah0GovaSQ+w6/9QmdqJa79eeieG1ahwG8K7pKNwy8NChMcWrGvT78bQvUU5qo473S741SGLoSiK4GgKmz8a09X7IK9PdGixOzOX5zSkT/CmX6ZI2IyT9ReZIQXCPxB0bplH/pg4yjN4oRyuSSVrglqRABSJHxn03BxxxaTESNyoIKWl//1An1n/8oCJOYuxOHANXVCMTDJz9TZY75U27GUFrRcwgKkcDZMaH3ldxaf0zldVsi1tXoUHkk7CvqlfcHwwAVLMYSLzDMRjcKqEY5FZ3X/8X+fZRgfmNSFULnX8CftrNJtsTPl4+YxOcDqL79PMh1nA==;gasN+kAl3rs76r4Nwezx4g=="
+secured: "HHxmYqeJNt9hqOfwlzFd0hIc10EQuTrIfV66RQyYCvJefUqLoR0ol2pEn7q7jmXPXBwPBs+b+h5F8sbg/cLK/pGXD/MpFisWiF7HWk7Dn8HdIwsGHHVqWUGgAbRB29Txih9TI+nEbjAc/34NCaom4X0z+kV835+tygZCeB0HRah2GBT8jJOKaXkUD3JQDlnWhHW+DIOTYnlk8jioKfaD7vxejURo3rT374VYKD1NTenVPDni71wBMj74TXoXT2J5WbX9hLEtz6aZuMQ5D50o/Seb/sYJOyABYF1tO2T/67VemdQfj7HSpFBOQXc8aSkclqwZ5VaatkhYk/lf4gRCaUzFRQ/n5pL0Tnzeaei1L8KtxP3QXPNGFv25ge8o0e4HLVZuybHB7EQ3QUF3LmhuqbRnzDDlPh7l9u6eHksh6gpQv1tsZDaN58P29KTnYXZ9S3rTFdwX2mXp8z5cJpxvxDYlfhAeRn2zfWgM0QC/84kixjBU8ePcyb3GvU6/od/ZGzTAclLttgoY2Xyt4exxzQ==;uS0lYF0Xhg6LYJvnkWaBHg=="
 ---
 

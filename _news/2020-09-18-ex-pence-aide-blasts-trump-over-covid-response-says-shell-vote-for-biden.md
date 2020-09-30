@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "6 things to look for in the first Biden-Trump presidential debate"
-    excerpt: "Donald Trump could face the most direct challenge of his presidency to his handling of the coronavirus pandemic, the economy and his personal conduct in his first debate against Democratic nominee Joe Biden on Tuesday.\n    \n"
-    publishedDateTime: 2020-09-29T11:17:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SGSZXPAWbtQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928104939-01-presidential-debate-stage-0928-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden and Trump prepare for a debate that could turn personal"
     excerpt: "Inside the map room of the White House, a small group of advisers sat around a table and peppered the President with accusations and criticisms about everything from lying to incompetence. The team, led by former New Jersey Gov. Chris Christie, was getting Donald Trump prepared for the onslaught they"
     publishedDateTime: 2020-09-29T15:10:01Z
@@ -108,54 +92,6 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925212534-20200928-trump-biden-issues-foreign-policy-gfx-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "6 takeaways from the off-the-rails first debate between Biden and Trump"
-    excerpt: "President Donald Trump turned his first debate with Democratic rival Joe Biden into a chaotic disaster.\n    \n"
-    publishedDateTime: 2020-09-30T05:05:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X_Ls4sK7EfQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225349-dana-bash-jake-tapper-split-09292020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Biden and Trump at the first debate"
-    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will face off in the first 2020 presidential debate Tuesday night live from Cleveland.\n    \n"
-    publishedDateTime: 2020-09-30T01:43:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0QmIwOIDx7k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929202421-06-debate-cleveland-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Hits and misses from the first Trump-Biden debate"
-    excerpt: "The first general election debate between President Donald Trump and former Vice President Joe Biden is (thankfully) over.\n    \n"
-    publishedDateTime: 2020-09-30T04:29:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7-4bTE44c4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225858-trump-biden-debate-faces-split-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -527,22 +463,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump and Biden Court Catholic Vote, in Very Different Ways"
-    excerpt: "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers."
-    publishedDateTime: 2020-09-25T09:09:00Z
-    webUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23campaign-catholics1/23campaign-catholics1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "The Reality TV Host vs. the Velvet Shiv: Trump and Biden in Debates"
     excerpt: "Joe Biden and Donald Trump will bring very different histories and styles to their presidential debate on Tuesday."
     publishedDateTime: 2020-09-28T09:03:00Z
@@ -556,22 +476,6 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2020/09/25/us/politics/00debate-style1/00debate-style1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "What Polls Say About the 2020 Race as Biden and Trump Square Off"
-    excerpt: "A crucial fraction of the millions who watch the first presidential debate on Tuesday will have yet to make up their minds. Here’s what polling tells us about the issues that will come up."
-    publishedDateTime: 2020-09-29T10:53:00Z
-    webUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-polling1/29debate-polling1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -799,20 +703,6 @@ related:
         width: 2500
         height: 1381
         isCached: true
-  - title: "Donald Trump and Joe Biden Debate Law and Order"
-    excerpt: "In the presidential debate Joseph R. Biden Jr. and Donald J. Trump debated the concept of law and order after recent unrest gripped the nation."
-    publishedDateTime: 2020-09-30T02:53:00Z
-    webUrl: "https://www.nytimes.com/video/us/elections/100000007368637/trump-biden-law-and-order-debate-video-clip.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 140
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29vid-debate-trump-2/29vid-debate-trump-2-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Poll: Biden up by 9 points in Arizona, tied with Trump in North Carolina"
     excerpt: "The New York Times/Siena College survey also shows Senate Republicans trailing in Arizona, Maine and North Carolina."
     publishedDateTime: 2020-09-18T11:51:00Z
@@ -875,6 +765,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Why Biden is stiff-arming the left on court-packing and the filibuster"
+    excerpt: "But for progressives, court-packing may be the new Medicare for All. A growing number of Democrats are responding to the prospect of the Republican-controlled Senate confirming a replacement for Justice Ruth Bader Ginsburg with calls for more radical government reforms than the party previously tolerated."
+    publishedDateTime: 2020-09-22T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/biden-supreme-court-filibuster-ginsburg-419832"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/biden-supreme-court-filibuster-ginsburg-419832"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/biden-supreme-court-filibuster-ginsburg-419832"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/62/b7/9bf6131e4331a751d650e5914750/biden-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "The Russian Trolls Have a Simpler Job Today. Quote Trump."
     excerpt: "As part of their attempt to interfere with the 2020 election, Russians are grabbing screenshots of President Trump’s tweets, or quoting his own misleading statements, analysts and officials say."
     publishedDateTime: 2020-09-23T00:49:00Z
@@ -888,22 +794,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18dc-trumprussia1/18dc-trumprussia1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Biden Could Be Our Second Catholic President. It Doesn’t Matter."
-    excerpt: "Kennedy in 1960, Catholic America achieved a long-sought victory. But what did we win? By Elizabeth Bruenig Ms. Bruenig is an Opinion writer. As Election Day approached 60 years ago, Catholics across the country followed the news with a nervous thrill of anticipation."
-    publishedDateTime: 2020-09-24T04:27:00Z
-    webUrl: "https://www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/23/opinion/23Bruenig/23Bruenig-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true
@@ -977,20 +867,6 @@ related:
         width: 5368
         height: 3577
         isCached: true
-  - title: "The moment Trump seized on Biden's sons"
-    excerpt: "Trump's attack-dog style in the first debate crescendoed when the subject shifted to Hunter as Joe Biden talked about his late son Beau."
-    publishedDateTime: 2020-09-30T11:41:00Z
-    webUrl: "https://www.politico.com/news/2020/09/29/trump-beau-biden-presidential-debate-423417"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c075efe0-333d-4821-9bf4-75d0ca29bbb2/07e3938c-d245-42d0-9726-dd3a2d90c373/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden labels Trump a ‘climate arsonist,’ accusing him of not heeding science"
     excerpt: "The Democratic nominee’s remarks were meant to address the wildfires that have been raging across Western states for three weeks."
     publishedDateTime: 2020-09-14T19:45:00Z
@@ -1044,20 +920,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/67/1b/41e125de446d88c1170824ae7021/200922-trump-debate-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Tester warns Biden to pick up the pace on campaigning"
-    excerpt: "\"I think Joe just needs to get out and talk to people tell them his vision for the country and I think he’ll be fine,” the Montana Democrat said."
-    publishedDateTime: 2020-09-24T16:20:00Z
-    webUrl: "https://www.politico.com/news/2020/09/24/tester-warns-biden-on-campaigning-421070"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/db/83/77d79f104c17a94257cc9eec5483/ap20008853778718.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Biden enter critical weekend as they prepare to face each other in first debate"
+    excerpt: "Democratic nominee Joe Biden is moving from briefing books into full days of preparations. President Donald Trump is studying notecards and getting help from a long-time ally, former New Jersey Gov. Chris Christie.\n    \n"
+    publishedDateTime: 2020-09-26T11:42:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jDaxvieFmp8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/first-debate-preparations-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911133241-trump-biden-split-0911-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Calm, steady, strong': Jill Biden says her husband is ready for first debate with Trump this week"
     excerpt: "Jill Biden, the wife of Democratic presidential nominee Joe Biden, said her husband is \"ready\" to face Donald Trump in the first presidential debate this week and accused the President of trying to distract with smears during the tense campaign.\n    \n"
     publishedDateTime: 2020-09-27T14:49:47Z
@@ -128,6 +144,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why it could be a Biden blowout in November"
+    excerpt: "Poll of the week: A new ABC News/Washington Post poll from Minnesota finds Democratic presidential nominee Joe Biden with a 57% to 41% lead over President Donald Trump among likely voters.\n    \n"
+    publishedDateTime: 2020-09-20T13:21:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mUgbBKQSLww/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/poll-of-the-week-joe-biden-blowout-donald-trump-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/poll-of-the-week-joe-biden-blowout-donald-trump-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Undecided voter: I'm afraid of 4 more years of Trump"
     excerpt: "CNN's Jeff Zeleny speaks to voters in Wisconsin, where President Donald Trump won by less than one percentage point in 2016, about the upcoming 2020 presidential election as some consider flipping to Democratic presidential candidate Joe Biden.\n    \n"
     publishedDateTime: 2020-09-25T22:28:05Z
@@ -141,6 +173,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925180654-undecided-voter-1-zeleny-pkg-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Biden would likely have a Democratic Senate if he wins"
+    excerpt: "The pending Senate battle over the next Supreme Court nominee shows us how important winning Congress' upper chamber is this fall. A president who doesn't have the Senate backing him cannot fully use the power of the presidency to influence the government's direction.\n    \n"
+    publishedDateTime: 2020-09-26T09:52:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OC295Bm4LGQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/presidential-senate-races-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/presidential-senate-races-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923090749-02-joe-biden-0920-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -208,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's allies offer public praise but privately worry after debate"
+    excerpt: "The morning after a rancorous debate punctuated by President Donald Trump's refusal to condemn white supremacy, his advisers offered effusive public praise even as some privately worried his performance would alienate voters and others -- including the Senate's lone Black Republican -- called on him"
+    publishedDateTime: 2020-09-30T17:21:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bqKrlradRgI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/donald-trump-debate-response/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/donald-trump-debate-response/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929215946-30-debate-cleveland-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ohio Democrats think Biden can win the state and urge campaign to go all in"
     excerpt: "President Donald Trump's path to reelection runs right through Ohio, but with polling showing a tight race ahead of November, some Ohio Democrats think the state is ripe to flip and are urging Democratic nominee Joe Biden's campaign to invest more resources there.\n    \n"
     publishedDateTime: 2020-09-28T21:11:12Z
@@ -271,6 +335,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929215946-30-debate-cleveland-trump-0929-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Joe Biden accuses Donald Trump of silence on 'dictator' Lukashenko in Belarus"
+    excerpt: "Democratic presidential nominee Joe Biden on Friday chided President Donald Trump for not speaking out about repression of democratic protests in Belarus, a country he said is being run by a \"dictator."
+    publishedDateTime: 2020-09-26T22:14:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/joe-biden-accuses-donald-trump-silence-dictator-lukashenko-belarus-n1241177"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241177"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241177"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 157
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414368/200923-joe-biden-al-1401_23d2f60d91d9e491c106329bf47c1d52.jpg"
+        width: 2500
+        height: 1573
         isCached: true
   - title: "Giuliani: Trump ‘doesn't have to hold back at all’ vs. Biden"
     excerpt: "Giuliani said Trump should have the green light to take the gloves off at Tuesday's presidential debate in Cleveland."
@@ -368,6 +448,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "‘An Embarrassment’: Trump, Biden and the Debate Fiasco"
+    excerpt: "Readers express their consternation, calling the debate an “embarrassment” and urging a mute button. Re “ Trump’s Heckles Send First Debate Into Utter Chaos ” (front page, Sept. 30): The debate on Tuesday night was an embarrassment for the country and for the office of the president."
+    publishedDateTime: 2020-09-30T17:15:00Z
+    webUrl: "https://www.nytimes.com/2020/09/30/opinion/letters/trump-biden-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/30/opinion/letters/trump-biden-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/30/opinion/letters/trump-biden-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-assess3/29debate-assess3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump email says he ‘finished debating’ Biden hours before debate begins"
     excerpt: "The Trump campaign claimed the president \"finished debating Joe Biden\" and bragged about his performance hours before the debate even started Tuesday night. In a prematurely sent campaign email obtained by POLITICO,"
     publishedDateTime: 2020-09-29T23:53:00Z
@@ -432,21 +528,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "How the new Supreme Court could stymie a Biden presidency"
-    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
-    publishedDateTime: 2020-09-25T23:16:00Z
-    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+  - title: "A High-Stakes Test for Joe Biden’s Love of Senate Tradition"
+    excerpt: "He reveres custom and recognizes the courts’ essential role in shaping a policy agenda. Those dual instincts have perhaps never been in greater conflict as they are in this Supreme Court fight."
+    publishedDateTime: 2020-09-26T18:25:00Z
+    webUrl: "https://www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/biden-supreme-court-confirmation.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/09/26/us/politics/26biden-confirmations00/26biden-confirmations00-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "One-on-one with Joe Biden ahead of Tuesday’s debate"
     excerpt: "In an exclusive interview with NBC News’ Stephanie Ruhle, Democratic presidential nominee Joe Biden spoke about how he will guarantee a peaceful transition of power, the Latino vote and the first presidential debate on Tuesday."
@@ -479,22 +575,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415440/200928-donald-trump-mn-0821_d1fac2e4c777a6994293a94f4c45c6d2.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "More Democrats Embrace Structural Change. They’re Ready to Press Joe Biden."
-    excerpt: "A party that is increasingly seeking to play by different rules is led by a figure who helped create the current ones. The outcome of the fight will help define the Democratic Party going forward."
-    publishedDateTime: 2020-09-28T18:20:00Z
-    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28progressives-top/28progressives-top-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
     excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."

@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/area/southeastern-pa/vice-president-mike
 webUrl: "https://www.wfmz.com/news/area/southeastern-pa/vice-president-mike-pence-attends-debate-watch-party-in-lancaster-county/article_65255786-02cb-11eb-a8a8-3b0b4bfc1667.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Vice President Mike Pence's visit to Atlanta"
+    excerpt: "As part of the campaigning, Vice President Mike Pence will make a swing back through Georgia to energize Republican voters, less than a week after Pre"
+    publishedDateTime: 2020-09-30T16:12:00Z
+    webUrl: "https://www.11alive.com/video/news/live_breaking/mike-pence-in-atlanta-why-and-when-is-he-here/85-6e9ac6c4-9964-470e-bdf9-e19bce1f79bd"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 55
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "OsC4e8glpfXjA1hIKVHG5CS86G6jV88PCOyHdBO4AnWQzMv6xCmOTp4mwYI7eahDmwVgS7cx2Fq6ggNDDpmJTddV4FVaEM4lfW2l6DqJRNVL4WtNR8JdjatFID1z+ir8cxuytbLA6YnrJYvuEVUFHhNv+YB1G8Hyeb2q+UDIGsLEXTi2ZBkFG1qUfPFTgCG6HyIeB4KBWkkhYbwYq/3h5ogx+BxEVMnvi3frLv5TAQAp7WMlK/ErV0mjH0ALJsL3TtYLo9rqhfAuPIw+6IApOEaBFKPr23pQkGEmBtNc1B58Ui2GV0jpr9zqYhCAKSiejpyM0Fb8FoFgXmu1HGXDDvfpSpvA7rZgsWaKx++OuBpDcgdLbZUzfswW2cU+c5T7hI88B5rmoB6iiPLvdRhrszioixk21sNJdtoY8Q+WQYDScFTKn+6hIF1nQ28jwQYJkjtQGnHGtU3s2xOt9r7fxKiz/AlSSSZowgBoIayEWEKExN7Y0tW7JpCbKEm6vJ/DikwDJoGa8eKf5gQH3DfUtw==;ceUzxHjIOaF03Q8ZMq8JIQ=="
 ---

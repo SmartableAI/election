@@ -783,6 +783,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Joe Biden outperforms the performer president"
+    excerpt: "Biden broke the fourth wall, speaking directly to the camera and viewers at home, while Trump forgot his audience."
+    publishedDateTime: 2020-09-30T13:59:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/30/joe-biden-outperforms-performer-president/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/30/joe-biden-outperforms-performer-president/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/30/joe-biden-outperforms-performer-president/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-30-2020/t_2d3698edf08f44e8a535111053905759_name_thumb.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -1148,6 +1164,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 101
+  - title: "Mike Pence vs. Kamala Harris: When Is The Vice Presidential Debate?"
+    excerpt: "After the first presidential debate Tuesday night between President Donald Trump and Democratic nominee Joe Biden, Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will square off on Oct. 7. The vice presidential debate will ..."
+    publishedDateTime: 2020-09-30T00:50:00Z
+    webUrl: "https://www.ibtimes.com/mike-pence-vs-kamala-harris-when-vice-presidential-debate-3053961"
+    ampWebUrl: "https://www.ibtimes.com/mike-pence-vs-kamala-harris-when-vice-presidential-debate-3053961?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/mike-pence-vs-kamala-harris-when-vice-presidential-debate-3053961?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Cindy McCain, wife of late Republican Senator John McCain, endorses Joe Biden for president"
     excerpt: "Cindy McCain, wife of late Republican Senator John McCain, joins \"CBS This Morning\" to discuss what led her to endorse Joe Biden, why she thinks he would be the right person for president and how she feels about the Republican party."
     publishedDateTime: 2020-09-23T13:02:00Z
@@ -1466,6 +1498,22 @@ related:
         width: 2925
         height: 2108
         isCached: true
+  - title: "Read the full transcript from the first presidential debate between Joe Biden and Donald Trump"
+    excerpt: "This is the full transcript from Tuesday night's first presidential debate between Republican President Donald Trump and Democrat Joe Biden."
+    publishedDateTime: 2020-09-30T17:16:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/presidential-debate-read-full-transcript-first-debate/3587462001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3587462001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3587462001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 78
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Francesa sounds the alarm for democracy following Donald Trump-Joe Biden presidential debate"
     excerpt: "President Donald Trump and former Vice President Joe Biden met Tuesday in the first of three scheduled presidential debates."
     publishedDateTime: 2020-09-30T12:19:00Z
@@ -1721,6 +1769,22 @@ related:
       - url: "https://media.nbcnewyork.com/2020/09/Biden-taxes.jpg?fit=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris, Symone Sanders reject calls to cancel future debates: 'Joe Biden is going to show up'"
+    excerpt: "Joseph R. Biden’s running mate, Sen. Kamala D. Harris, and his campaign senior adviser have rejected calls from a slew of media personalities to cancel future presidential debates after Tuesday night’s explosive first face-off against President Trump."
+    publishedDateTime: 2020-09-30T16:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/30/kamala-harris-symone-sanders-reject-calls-to-cance/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/30/kamala-harris-symone-sanders-reject-calls-to-cance/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/30/kamala-harris-symone-sanders-reject-calls-to-cance/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-356-4265-2843_s1200x700.jpg?71a3494d6acf51eac834cec2b86da0ad7a3528a4"
+        width: 1200
+        height: 700
         isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious match-up in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
