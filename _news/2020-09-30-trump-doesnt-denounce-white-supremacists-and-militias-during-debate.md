@@ -95,6 +95,22 @@ related:
         width: 859
         height: 545
         isCached: true
+  - title: "Joe Scarborough urges Biden: 'Do not do anymore debates'"
+    excerpt: "MSNBC's Joe Scarborough called on Joe Biden to \"not do anymore debates,\" tweeting that the first showdown between the current president and the former vice president was \"a disgrace.\""
+    publishedDateTime: 2020-09-30T04:57:00Z
+    webUrl: "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates"
+    ampWebUrl: "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/scarboroughjoe08292017msnbc.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z

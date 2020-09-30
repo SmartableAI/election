@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-30-cnns-don-lemon-suggests-trump-was-hopped-up-on-performance-enhancing-drugs-during-debate.md",
+      "title": "CNN’s Don Lemon suggests Trump was ‘hopped up’ on performance-enhancing drugs during debate",
+      "excerpt": "CNN’s Don Lemon suggested that President Trump appeared to be “hopped up” on a performance-enhancing drug during Tuesday night’s presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Lemon-Trump_CNN-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp",
+      "publishedDateTime": "2020-09-30T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-could-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.md",
+      "title": "Could California’s policies work on a federal scale under a Biden-Harris administration?",
+      "excerpt": "California has long been known for its push toward more progressive policies, many of which now form the basis of the Joe Biden-Kamala Harris presidential ticket. But whether or not such proposals have been successful – and whether California should be lauded as a model, is subject to debate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/holliemckay_headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp",
+      "publishedDateTime": "2020-09-30T06:30:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-matt-gorman-trump-has-a-new-running-mate-now.md",
       "title": "Matt Gorman: Trump has a new running mate now",
       "excerpt": "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass.",
@@ -786,7 +898,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 753,
+      "heat": 773,
       "tags": null,
       "images": [
         {
@@ -953,7 +1065,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1271,63 +1383,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-his-first-public-political-backing.md",
-      "title": "Dwayne 'The Rock' Johnson endorses Joe Biden, Kamala Harris – his first public political backing",
-      "excerpt": "Dwayne “The Rock” Johnson endorsed former Vice President Joe Biden and Sen. Kamala Harris, marking the first time he’s ever publicly thrown his weight behind a political candidate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing",
-      "originalUrl": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/dwayne-the-rock-johnson-getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing.amp",
-      "publishedDateTime": "2020-09-27T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-27-pompeo-claims-trump-foreign-policy-has-made-world-safer-americans-lives-more-secure.md",
       "title": "Pompeo claims Trump foreign policy has made world safer, Americans' lives 'more secure'",
       "excerpt": "The idea that President Trump is \"anti-military\" and is suspicious of U.S. intelligence agencies is an untrue \"media narrative,\" Secretary of State Mike Pompeo told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
@@ -1450,7 +1505,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3145,
+      "heat": 3225,
       "tags": null,
       "images": [
         {
@@ -1577,61 +1632,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-senate-amy-coney-barrett-supreme-court-nomination-election.amp",
       "publishedDateTime": "2020-09-26T15:34:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trump-plans-visit-to-minnesota-next-week-whats-at-stake.md",
-      "title": "Trump plans visit to Minnesota next week — what's at stake",
-      "excerpt": "President Trump has plans to visit Duluth, Minn., next Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20263040959005.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
-      "publishedDateTime": "2020-09-26T13:39:54-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

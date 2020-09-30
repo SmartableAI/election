@@ -1563,6 +1563,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "At the debate, Trump sends dangerous signal to right-wing extremists"
+    excerpt: "As a presidential candidate in 2016, Donald Trump hedged when pressed to distance himself from racist, right-wing supporters. As a president in 2017, the Republican thought it'd be a good idea to praise the \" very fine people \" among the racist activists in Charlottesville."
+    publishedDateTime: 2020-09-30T13:39:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/debate-trump-sends-dangerous-signal-right-wing-extremists-ncna1241552"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_40/3416300/200930-donald-trump-debate-jm-0840_cfb787ef0cde1d2a1677fc346f7dbb85.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Flynn lawyer spoke with Trump, she reveals in contentious hearing"
     excerpt: "The attorney, Sidney Powell, said she recently briefed the president on the case and asked him not to issue a pardon."
     publishedDateTime: 2020-09-29T18:19:00Z
@@ -1576,6 +1590,20 @@ related:
       - url: "https://static.politico.com/1f/5a/4b99839a40a9baf078aa522f29fb/ap19175683135431-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Initial polling suggests first debate did Trump no favors"
+    excerpt: "National polling found that a plurality of Americans expected Donald Trump to win this year's debates. Some of the early evidence suggests he did not."
+    publishedDateTime: 2020-09-30T13:06:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/initial-polling-suggests-first-debate-did-trump-no-favors-ncna1241545"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_40/3416208/200929-presidential-debate-takeaways-v2-cs_f6b1e04caea442458e1b6b5f78be1f9d.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "‘Trump was like a wild beast’"
     excerpt: "Even longtime political observers had never seen anything like Tuesday’s debate. Forget what it means for the election—what does it mean for our democracy? 19 of them weigh in."

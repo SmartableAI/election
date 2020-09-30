@@ -2,13 +2,13 @@
 category: news
 title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
 excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
-publishedDateTime: 2020-09-30T09:51:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ad5KXb5_jSs/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ad5KXb5_jSs/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
+publishedDateTime: 2020-09-30T10:07:00Z
+originalUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
+webUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
 ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
 type: article
-quality: 174
+quality: 134
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -60,6 +61,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cc26de3-0e85-40c8-8ace-aed10ffbeb63/20192085-93ff-4170-8533-66ec760513ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Couldn't Name Support From a Single Law Enforcement Group"
+    excerpt: "After months of rioting, looting, and unrest in streets across America, President Trump has positioned himself as the law and order candidate. Only recently did Democrats start caring and speaking"
+    publishedDateTime: 2020-09-30T12:15:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/ed2b43e7-9d41-4017-bb0d-1916ec16d4b7.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Joe Biden, the Father of 'Borking'"
     excerpt: "RealClearPolitics"
@@ -101,6 +118,6 @@ related:
       domain: washingtonexaminer.com
     quality: 56
 
-secured: "mUo/5z4v4q5sqmCP2nM/M7JIrXnDOCFr0FqdN5J65DSZRQ0t0ieo3QCxEbckzP4nXMVvaacMUeFVNobWpHbv6fRvfXo+q70HFGC82SoBR/CCNwYGRhr63I6LbPzsndrVGG8WilnM+vhi61FZimnJEFVCK4HKq8qIp7Fta1p/A0SCV3f1dWbP1DwoFvqawlNOfZbH8660h4zSr5jHY1i0nyuxCEnywmyw9hBLQTWVIx2pnCLEDZnCo42Ja5zcIoHmyw56dHGkeGYBFoYXV/k6chm0u7LgV5+cgBGBRKASc8EPOJKd6wCzGkA39JzDNi69iUJQ8bkVNJ3g6pXeUlpW9LAgUAABH207JKTPpq+hj5c=;biEBS7LUcUOwhJr7dxqNLA=="
+secured: "GZ59bgzKiFFm2Y89HmHN46HopVB6P+uPw9QF0O8haalIIJ2DiAHRHmeIPy3ZDfGtH+jiYvkfeqjQu8yTmK22WZsP5K0RUrzm+ZDttBzGTLQRktbaPLuQZIJSrx3eM3O34TVVzlgfFtmsoqgX75GPGl5XaSATBR5WduWkljY+0lxRpY/Ji9bRCDXmyDp3CZZ7I6GEiAfImBPKDF9wlvvtbW/9azV3kxRoZpyl5kQeyeLNoCDNwgY/PvP0TMTm4r9nmoq4Pg/HP86bMNs3LB5wHspBkaM/BT8l+RuTJRiqN0tMzMqgeladPjERCY3zar74pwSZJxaZ5z0R5z1wottW9e3Q2wl9R5t/Jq1dwGajY3w=;Kdjtd4aATg5e8hAxgMHsXA=="
 ---
 

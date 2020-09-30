@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supre
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://i.insider.com/5f745c180ab50d00184ad34d?format=jpeg"
         width: 3500
         height: 1750
+        isCached: true
+  - title: "The Energy 202: Joe Biden walks political tightrope by saying he does not support the Green New Deal"
+    excerpt: "The former vice president has spent months reconciling the climate demands of his party’s liberal and moderate wings."
+    publishedDateTime: 2020-09-30T12:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HYTZNXAC4II6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 1118
         isCached: true
   - title: "Joe Biden speaks about Supreme Court in Philadelphia"
     excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."

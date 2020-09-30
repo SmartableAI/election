@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-30-could-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.md",
+      "title": "Could California’s policies work on a federal scale under a Biden-Harris administration?",
+      "excerpt": "California has long been known for its push toward more progressive policies, many of which now form the basis of the Joe Biden-Kamala Harris presidential ticket. But whether or not such proposals have been successful – and whether California should be lauded as a model, is subject to debate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/holliemckay_headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp",
+      "publishedDateTime": "2020-09-30T06:30:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-harris-to-voters-dont-give-up-as-trump-rushes-court-pick.md",
       "title": "Harris to voters: Don't give up as Trump rushes court pick",
       "excerpt": "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election",
@@ -66,7 +122,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 753,
+      "heat": 773,
       "tags": null,
       "images": [
         {
@@ -230,7 +286,7 @@
       "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2880,
+      "heat": 2940,
       "tags": null,
       "images": [
         {
@@ -270,63 +326,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-his-first-public-political-backing.md",
-      "title": "Dwayne 'The Rock' Johnson endorses Joe Biden, Kamala Harris – his first public political backing",
-      "excerpt": "Dwayne “The Rock” Johnson endorsed former Vice President Joe Biden and Sen. Kamala Harris, marking the first time he’s ever publicly thrown his weight behind a political candidate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing",
-      "originalUrl": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/dwayne-the-rock-johnson-getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing.amp",
-      "publishedDateTime": "2020-09-27T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice",
         "Joe Biden"
       ]
     },

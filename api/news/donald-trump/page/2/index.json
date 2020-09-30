@@ -2,6 +2,108 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-28-cbs-gayle-king-calls-out-pelosis-egregious-language-when-she-refers-to-trump-allies-as-henchmen.md",
+      "title": "CBS' Gayle King calls out Pelosi's 'egregious' language when she refers to Trump allies as 'henchmen'",
+      "excerpt": "The exchange came after Gayle King asked whether Nancy Pelosi still felt that Joe Biden shouldn't debate Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/26/gayle-king-egregious-pelosi-call-trump-allies-henchmen/3548365001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/26/gayle-king-egregious-pelosi-call-trump-allies-henchmen/3548365001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/06/26/USAT/c520ddb6-ba52-4c2c-aa2a-c87c91a30630-AP_Congress_Pelosi.jpg?auto=webp&crop=3779,2126,x0,y36&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3548365001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3548365001",
+      "publishedDateTime": "2020-09-28T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself.md",
+      "title": "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself",
+      "excerpt": "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
+      "originalUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/",
+      "publishedDateTime": "2020-09-28T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-trump-taxes-california-wildfires-stanley-cup-5-things-to-know-monday.md",
       "title": "Trump taxes, California wildfires, Stanley Cup: 5 things to know Monday",
       "excerpt": "Questions about President Trump's taxes continue, California braces for more wildfires and more news to start your Monday.",
@@ -214,7 +316,7 @@
       "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1460,
+      "heat": 1500,
       "tags": null,
       "images": [
         {
@@ -1449,108 +1551,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-donald-trump-calls-national-guard-deployment-during-kentucky-protests-a-positive-thing.md",
-      "title": "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'",
-      "excerpt": "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
-      "originalUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1641363/donald-trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1",
-      "publishedDateTime": "2020-09-23T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-bob-woodwards-donald-trump-book-rage-sells-600000-copies-in-first-week.md",
-      "title": "Bob Woodward's Donald Trump book 'Rage' sells 600,000 copies in first week",
-      "excerpt": "Bob Woodward's \"Rage\" sold more than 600,000 copies in its first week of publication, continuing a yearlong wave of blockbuster books about the president. The first week sales include hardcovers, audiobooks and e-books.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/books/2020/09/23/bob-woodward-donald-trump-book-rage-first-week-sales/3510428001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/10/USAT/7e9f60a6-b218-4d48-a3e9-5488e4e51393-Rage.jpg?auto=webp&crop=595,335,x1,y516&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3510428001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3510428001",
-      "publishedDateTime": "2020-09-23T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 930
+heat: 950
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929214430-03-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump needs to do better with women. Even Republicans say his debate performance failed to do that"
+    excerpt: "President Donald Trump took four years of personal venom and outright lies and stuffed it all into 90 minutes of chaotic sparring with former Vice President Joe Biden on Tuesday night -- a performance that, for all its sound and fury, even his allies said afterward was unlikely to change the dynamic"
+    publishedDateTime: 2020-09-30T13:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dVzhLOB3E7I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/women-voters-trump-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/women-voters-trump-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929215946-30-debate-cleveland-trump-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

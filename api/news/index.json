@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-09-30-cnns-don-lemon-suggests-trump-was-hopped-up-on-performance-enhancing-drugs-during-debate.md",
+      "title": "CNN’s Don Lemon suggests Trump was ‘hopped up’ on performance-enhancing drugs during debate",
+      "excerpt": "CNN’s Don Lemon suggested that President Trump appeared to be “hopped up” on a performance-enhancing drug during Tuesday night’s presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Lemon-Trump_CNN-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp",
+      "publishedDateTime": "2020-09-30T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-could-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.md",
+      "title": "Could California’s policies work on a federal scale under a Biden-Harris administration?",
+      "excerpt": "California has long been known for its push toward more progressive policies, many of which now form the basis of the Joe Biden-Kamala Harris presidential ticket. But whether or not such proposals have been successful – and whether California should be lauded as a model, is subject to debate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/holliemckay_headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp",
+      "publishedDateTime": "2020-09-30T06:30:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-fraud-like-you-have-never-seen-trump-denounces-mail-in-voting.md",
+      "title": "‘Fraud like you have never seen’: Trump denounces mail-in voting",
+      "excerpt": "President Donald Trump railed against mail-in voting and unsubstantiated claims that ballots have been found in wastepaper baskets, even as former Vice President Joe Biden urged Americans to exercise their right to vote by any means necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/30/trump-mail-in-voting-423432",
+      "originalUrl": "https://www.politico.com/news/2020/09/30/trump-mail-in-voting-423432",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8c/be/4f6cba2948409c457bbb682c56b3/200814-hillary-clinton-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/30/trump-mail-in-voting-423432",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/trump-mail-in-voting-423432",
+      "publishedDateTime": "2020-09-30T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-trump-said-portlands-sheriff-supports-him-the-sheriff-disputes-that.md",
       "title": "Trump said Portland's sheriff supports him. The sheriff disputes that.",
       "excerpt": "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted.",
@@ -50,6 +218,57 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-snl-is-back-this-weekend-with-jim-carrey-as-joe-biden-chris-rock-as-host-and-a-whole-lot-of-restrictions-heres-what-to-expect.md",
+      "title": "SNL is back this weekend with Jim Carrey as Joe Biden, Chris Rock as host and a whole lot of restrictions. Here’s what to expect.",
+      "excerpt": "Live\" will return for its 46th season with more Alec Baldwin as Trump, Maya Rudolph as Kamala Harris and three new cast members.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/",
+      "originalUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5YMXTXXAE5AYZDIB7AP26UBZAU.JPG&w=1440",
+          "width": 1440,
+          "height": 1240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/?outputType=amp",
+      "publishedDateTime": "2020-09-30T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -966,7 +1185,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1116,206 +1335,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in-cross-country-trip.md",
-      "title": "ABC's Martha Raddatz says she didn't see a lot of 'enthusiasm for Joe Biden' in cross-country trip",
-      "excerpt": "ABC's chief global affairs correspondent Martha Raddatz reports “there wasn't a whole lot of enthusiasm for Joe Biden\" during her recent 6,000-mile road trip across America, and that the economy is voters’ main focus.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
-      "originalUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
-      "publishedDateTime": "2020-09-29T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-barr-accused-of-working-hand-in-glove-with-team-trump-white-house.md",
-      "title": "Barr accused of 'working hand in glove' with Team Trump, White House",
-      "excerpt": "One former federal prosecutor said of Barr, \"The attorney general is working hand in glove with the White House and the Trump re-election campaign.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/j/newscms/2020_39/3413850/200921-donald-trump-william-barr-profile-2019-ac-851p_2cfe3612ae4433cdb3e04d5d1f7d57a6.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-lawyer-for-flynn-says-she-updated-trump-on-status-of-case.md",
-      "title": "Lawyer for Flynn says she updated Trump on status of case",
-      "excerpt": "A lawyer for former Trump administration national security adviser Michael Flynn has told a judge that she updated President Donald Trump on the case’s status and asked him not to issue a pardon for h",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_8e38fdd447e8473da6e769ef6f8a44dc_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
-      "publishedDateTime": "2020-09-29T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-told-group-of-christians-how-he-said-excuse-me-when-mike-pence-asked-him-to-pray.md",
-      "title": "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray",
-      "excerpt": "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "publishedDateTime": "2020-09-29T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

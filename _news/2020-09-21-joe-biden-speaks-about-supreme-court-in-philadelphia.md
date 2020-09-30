@@ -189,6 +189,22 @@ related:
         width: 3500
         height: 1750
         isCached: true
+  - title: "The Energy 202: Joe Biden walks political tightrope by saying he does not support the Green New Deal"
+    excerpt: "The former vice president has spent months reconciling the climate demands of his party’s liberal and moderate wings."
+    publishedDateTime: 2020-09-30T12:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/energy-202-joe-biden-walks-political-tightrope-by-saying-he-does-not-support-green-new-deal/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HYTZNXAC4II6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 1118
+        isCached: true
   - title: "George W. Bush's first EPA chief on why she supports Joe Biden"
     excerpt: "Christine Todd Whitman, the former Republican governor of New Jersey who headed the Environmental Protection Agency under President George W. Bush, is endorsing Joe Biden in the presidential race. She joined CBSN to explain why she believes the Democratic nominee is a better choice for the country than President Trump."
     publishedDateTime: 2020-09-28T21:56:00Z

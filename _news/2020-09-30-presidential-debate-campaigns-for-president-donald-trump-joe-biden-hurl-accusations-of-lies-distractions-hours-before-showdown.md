@@ -1464,6 +1464,22 @@ related:
         width: 2925
         height: 2108
         isCached: true
+  - title: "Mike Francesa sounds the alarm for democracy following Donald Trump-Joe Biden presidential debate"
+    excerpt: "President Donald Trump and former Vice President Joe Biden met Tuesday in the first of three scheduled presidential debates."
+    publishedDateTime: 2020-09-30T12:19:00Z
+    webUrl: "https://www.nj.com/sports/2020/09/mike-francesa-sounds-the-alarm-for-democracy-following-donald-trump-joe-biden-presidential-debate.html"
+    ampWebUrl: "https://www.nj.com/sports/2020/09/mike-francesa-sounds-the-alarm-for-democracy-following-donald-trump-joe-biden-presidential-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/09/mike-francesa-sounds-the-alarm-for-democracy-following-donald-trump-joe-biden-presidential-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 77
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WYJTX64AQ5A5PH7JN2ZTFXQQOI.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Watch here: First presidential debate between Donald Trump and Joe Biden with live fact-checking"
     excerpt: "The 90-minute debate comes five weeks before Election Day and as early voting is already unfolding in some states."
     publishedDateTime: 2020-09-29T20:23:00Z
@@ -1768,6 +1784,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "President Donald Trump and challenger Joe Biden clashed in first TV debate of US election campaign"
+    excerpt: "It got heated last night as President Donald Trump and challenger Joe Biden clashed in first TV debate of US election campaign."
+    publishedDateTime: 2020-09-30T12:40:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p08sy407"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 71
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p08sy4sg.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In tweet, President Trump calls for pre-debate drug test for Joe Biden"
     excerpt: "President Donald Trump repeated his calls for Democratic presidential nominee Joe Biden to take a drug test before their upcoming debate, continuing a nasty line of attack on his opponent."
     publishedDateTime: 2020-09-27T19:44:00Z
@@ -1843,6 +1873,22 @@ related:
       - url: "https://www.dailypress.com/resizer/tSDNCSfSA2xd0Kt3wjzuha4geis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YZDK27UBWNEDNI3NJYONMLU6XY.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Kamala Harris wants to speak to the Black community. Are we ready to listen? | Solomon Jones"
+    excerpt: "Kamala Harris can’t be symbolic like Obama. She must be substantive, and she must be able to answer the tough questions so many of us have."
+    publishedDateTime: 2020-09-30T12:45:00Z
+    webUrl: "https://www.inquirer.com/opinion/kamala-harris-election-2020-black-voters-pennsylvania-20200930.html"
+    ampWebUrl: "https://www.inquirer.com/opinion/kamala-harris-election-2020-black-voters-pennsylvania-20200930.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/kamala-harris-election-2020-black-voters-pennsylvania-20200930.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 64
+    images:
+      - url: "https://www.inquirer.com/resizer/Nj16sen8k4pmCLliM6pAXX7yilM=/1200x0/center/middle/www.inquirer.com/resizer/JAJ8DHISe_rGAL1UYat0HKLWGYU=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/SB7UQBXWD5B3XJHOKICRAMSWBA.png"
+        width: 1200
+        height: 704
         isCached: true
   - title: "Ruth Bader Ginsburg Makes History One Last Time as Joe Biden, Kamala Harris Pay Their Respects"
     excerpt: "\"It is with profound sorrow and deep sympathy to the Ginsburg family that I have the high honor to welcome Justice Ruth Bader Ginsburg to lie in state in the Capitol of the United"

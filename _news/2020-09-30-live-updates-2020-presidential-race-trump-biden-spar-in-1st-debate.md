@@ -479,6 +479,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump in Minnesota, Biden in Ohio and Pennsylvania: The 2020 campaign trail"
+    excerpt: "Here's where the candidates will be traveling­­ and how they'll be spending their time on Wednesday, Sept. 30, 2020, "
+    publishedDateTime: 2020-09-30T12:40:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pL8aZLnJOb0/trump-biden-pence-harris-2020-campaign-september-30-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-pence-harris-2020-campaign-september-30-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-pence-harris-2020-campaign-september-30-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f3c7e44-469a-4166-89d0-2fe87a027f6e/6cc3008e-9132-418c-b986-013e72a1798a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Karl Rove breaks down Trump, Biden's pursuit of Midwest working-class voters"
     excerpt: "President Trump and Joe Biden spent Monday making campaign appearances in different Midwestern states to court the working-class vote, former George W. Bush adviser Karl Rove explained on \"Bill Hemmer Reports\" Tuesday."
     publishedDateTime: 2020-09-22T22:05:49Z
@@ -558,6 +574,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08a93c3e-ac1b-4cb2-8291-5f48712dc5d6/d2cbaeca-1f54-4f4a-bcb7-a747a4633710/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump debate coach Chris Christie says president 'too hot' in Biden showdown"
+    excerpt: "Former New Jersey Gov. Chris Christie, who helped prep President Trump ahead of Tuesday's fiery debate, said his performance was \"too hot\" while also slamming Democratic nominee Joe Biden for being \"very shaky.\" "
+    publishedDateTime: 2020-09-30T12:56:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gqlSnfFbZuo/chris-christie-helped-prep-trump-for-debate-but-said-he-was-too-hot-during-biden-showdown"
+    ampWebUrl: "https://www.foxnews.com/politics/chris-christie-helped-prep-trump-for-debate-but-said-he-was-too-hot-during-biden-showdown.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chris-christie-helped-prep-trump-for-debate-but-said-he-was-too-hot-during-biden-showdown.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
@@ -750,6 +782,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf8f37d-4908-4abf-a756-64a6bf13926e/c16f8a61-6cac-4a6a-9e1f-e359ba3059fc/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden granddaughter says she couldn't debate Trump 5 minutes without 'slapping' him"
+    excerpt: "Naomi Biden, a 26-year-old Columbia Law School graduate and the namesake of Biden's own daughter who died in a car accident in 1972, has been a staunch defender of her grandfather. "
+    publishedDateTime: 2020-09-30T13:56:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aPX6LyZWw7Y/naomi-biden-says-she-wouldnt-be-able-to-go-5-minutes-at-debate-without-slapping-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/naomi-biden-says-she-wouldnt-be-able-to-go-5-minutes-at-debate-without-slapping-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/naomi-biden-says-she-wouldnt-be-able-to-go-5-minutes-at-debate-without-slapping-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump hits Biden for holding no public events for the day, slams him as ‘low energy’"
     excerpt: "President Trump slammed Democratic presidential nominee Joe Biden for not holding any public events on Thursday, blasting the former vice president as “a very low energy individual.”"
@@ -1356,6 +1404,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63e2d1c1-c140-4b56-8786-aac6451b0721/234a052b-de06-45ad-a16c-93d7224edcd6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden dodges debate question on court-packing to appease radical left: Sen. Cotton"
+    excerpt: "Joe Biden refused to answer a question on packing the Supreme Court in the first presidential debate Tuesday night because he knows it will cost him the election, Sen. Tom Cotton told \"Fox & Friends.\""
+    publishedDateTime: 2020-09-30T12:27:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/579fdaaJ7zQ/debate-biden-supreme-court-question-answer-senate-tom-cotton"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-biden-supreme-court-question-answer-senate-tom-cotton.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-biden-supreme-court-question-answer-senate-tom-cotton.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "RNC chair wants to see Biden talk about policies during upcoming presidential debate"
     excerpt: "“I really want to hear Joe Biden talk about his policies” during the first presidential debate scheduled for Tuesday, Republican National Committee (RNC) Chairwoman Ronna McDaniel told “Fox & Friends Weekend” on Sunday."

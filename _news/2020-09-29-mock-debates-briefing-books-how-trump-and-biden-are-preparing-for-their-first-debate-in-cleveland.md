@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3518403001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518403001"
 type: article
 quality: 126
-heat: 386
+heat: 406
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535463441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0C5"
         width: 859
         height: 545
+        isCached: true
+  - title: "Joe Scarborough urges Biden: 'Do not do anymore debates'"
+    excerpt: "MSNBC's Joe Scarborough called on Joe Biden to \"not do anymore debates,\" tweeting that the first showdown between the current president and the former vice president was \"a disgrace.\""
+    publishedDateTime: 2020-09-30T04:57:00Z
+    webUrl: "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates"
+    ampWebUrl: "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/scarboroughjoe08292017msnbc.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump doesn't denounce white supremacists and militias during debate"
     excerpt: "President Trump was given several chances during the debate. to denounce white supremacists and militias that have caused violence. Trump deflected."

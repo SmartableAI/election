@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs</loc>
+    <lastmod>2020-09-30T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration</loc>
+    <lastmod>2020-09-30T06:30:20-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/30/trump-mail-in-voting-423432</loc>
+    <lastmod>2020-09-30T06:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/</loc>
     <lastmod>2020-09-30T04:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/</loc>
+    <lastmod>2020-09-30T04:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -471,12 +495,6 @@
   <url>
     <loc>https://www.washingtonpost.com/graphics/2020/politics/donald-trump-father-will/</loc>
     <lastmod>2020-09-27T07:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing</loc>
-    <lastmod>2020-09-27T06:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

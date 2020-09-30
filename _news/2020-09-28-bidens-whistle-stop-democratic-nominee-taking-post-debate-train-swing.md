@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-whistle-stop-democratic-nomi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
-    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
-    publishedDateTime: 2020-09-30T09:51:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ad5KXb5_jSs/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing"
     excerpt: "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why."
     publishedDateTime: 2020-09-23T07:03:08Z
@@ -60,6 +44,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cc26de3-0e85-40c8-8ace-aed10ffbeb63/20192085-93ff-4170-8533-66ec760513ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
+    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
+    publishedDateTime: 2020-09-30T10:07:00Z
+    webUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden Couldn't Name Support From a Single Law Enforcement Group"
+    excerpt: "After months of rioting, looting, and unrest in streets across America, President Trump has positioned himself as the law and order candidate. Only recently did Democrats start caring and speaking"
+    publishedDateTime: 2020-09-30T12:15:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/ed2b43e7-9d41-4017-bb0d-1916ec16d4b7.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Joe Biden, the Father of 'Borking'"
     excerpt: "RealClearPolitics"

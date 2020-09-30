@@ -223,6 +223,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris parrots Biden after debate, refuses to say whether they will ‘pack’ Supreme Court"
+    excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov. 3 election. "
+    publishedDateTime: 2020-09-30T12:42:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xOEFz2gETZM/debate-kamala-harris-biden-pack-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kamala-Harris.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Dems’ DC, Puerto Rico statehood push could intensify if Trump gets another Supreme Court justice"
     excerpt: "Republicans appear ready to move forward on confirming a new Supreme Court justice as soon as President Trump announces his nominee for filling the seat left vacant after the death of Justice Ruth Bader Ginsburg, but some Democrats are already looking to drastic measures of retaliation should this happen."
     publishedDateTime: 2020-09-22T16:21:34Z

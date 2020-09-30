@@ -367,6 +367,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chris Wallace lost control of the Trump-Biden debate on a historically bad night of TV"
+    excerpt: "You can fairly say that the first presidential debate between President Donald Trump and former Vice President Joe Biden on Tuesday night was historic television — historically bad television, a smoking crater of absurdity that played like the reality TV show life seemingly has become."
+    publishedDateTime: 2020-09-30T13:30:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/09/30/trump-biden-debate-chris-wallace-historically-bad-tv/3585335001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3585335001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585335001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/03/PMJS/b2121347-8ad9-41bb-8cd0-c483cb115aba-biden_trump.jpg?auto=webp&crop=659,371,x1,y3&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Biden can beat (and infuriate) Trump by being the adult on the presidential debate stage"
     excerpt: "Joe Biden’s campaign is based around being calm, rational and a healer. He shouldn't try to call more names or be more pugnacious than Donald Trump."
     publishedDateTime: 2020-09-28T10:06:00Z
@@ -926,6 +942,22 @@ related:
         width: 837
         height: 768
         isCached: true
+  - title: "‘Joe Biden’s gonna show up.’ Chaotic first debate won’t nix Miami meeting with Trump"
+    excerpt: "Following an ugly first debate with President Donald Trump Tuesday night in Cleveland, Joe Biden’s campaign quickly moved to squash pundits’ talk of canceling upcoming meetings with the president in Miami and Nashville."
+    publishedDateTime: 2020-09-30T13:16:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246110740.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246110740.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246110740.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 83
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/d7e72001-6bde-40d2-8350-bea7dad490c8/01249e2c-313a-47d5-ae48-e33d41604730/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Presidential Debate: Joe Biden Releases Tax Returns Ahead Of Showdown With Donald Trump"
     excerpt: "The Democratic nominee released his 2019 tax return Tuesday, showing he paid nearly $300,000 in federal taxes."
     publishedDateTime: 2020-09-29T22:47:00Z
@@ -1063,6 +1095,6 @@ related:
         height: 560
         isCached: true
 
-secured: "IyiI3UjfwkGxJZOQ9y+NqaOoNQkx4f3TOwciremsJ02Vu4NLaeCpHbll8ShUZbJPbCZOplojdsAU767YefevOUDouWU3/OxGlqlMvBR4FaknJxC2TbW+AbNzNYGLCm5D2NNGTqGhGmEk+ehflPfUZvlxwR+fGudQ2sBvrGb9xHHT6IpEpu4UsA6gggjTZy+GJ/dPuikNUGxOD7PlWbOdtiefhC2Qjzodl/yL5sArYWuDseAdMv4iY7JrX5wJqjeidtt1HXBPFi4Zs3STL0ztIQO1mFWpmp0G0STMp/tTmoM8vMOusXvCb39xZgPLINdblbzTY0klWtsVyWfn6YuPhMosAP9rFbLP/UDepKcRvSg=;U83UYB995lnhwnlTs0L54w=="
+secured: "diZm6KKmGhgNopxv8CfdgL9LilPNAQzise0vdrw+OfKjatJ4VWXg88eyb+9QnsnOV/DihTUWeuMKrCcMl577WG7clSxC2jZMR/LPDmhsMZucVc/XKABcNlonnNINz/r2QqvxHR3a0axvvKXXZ5O4t5sucHeIg+q7vDNQJ3xp/PU81433C8A7uwgDPoBLTKcMtrCgyJkz9odNR85JmqMTA9IS6A/YRHQafOmcyvtlpHDbqwGjPkOuPyJcCEUju41nfSPFB1JQyMMjxUHduhz7Hoc2dyr8VeDXzYAAr7t+zvmu6C91eJHteAKSZ59yFWF3T+xL2SakyhJL/HFvF2bbgWDVtW9S9vap3Sdqf3tY1aYAWAeSDB3wpp2YMqSRmrkywIXUzprpzCOYicoUAUIs63arvASeM9zMd08/Lo+SDlTBRu3D2zNd+nJ+gMRusJHv1Mk9y8OmfbVTrFurRubUVan/7YW87q5oQccnPIRWb0E8Q20HnaolrcoNSv2aXG2511XI3qiGeEn51OBfnp+AZg==;8F2pCgkISWz+17egicBZzg=="
 ---
 
