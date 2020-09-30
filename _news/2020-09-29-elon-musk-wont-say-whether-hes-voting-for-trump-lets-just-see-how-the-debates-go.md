@@ -63,6 +63,22 @@ related:
         width: 806
         height: 545
         isCached: true
+  - title: "Trump is down in the polls, and the debate was a fiasco. It was a wasted opportunity for Trump, who needs a win before he runs out of time."
+    excerpt: "Trump is down in the polls and there are 35 days to go. The debate was a fiasco. Tomorrow Trump will still be down, and there will be 34 days to go."
+    publishedDateTime: 2020-09-30T03:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-first-debate-strategy-wasted-time-biden-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-first-debate-strategy-wasted-time-biden-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-first-debate-strategy-wasted-time-biden-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5f73f3d774fe5b0018a8e243?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "p2wlX4T8SLo+S/rW+6+q6v79Qur2DIfjPKTKCX785zf0YH5IxPkath+Cc6m6+UsMp2wLaeyY5BBVeYRkHwkt5z9u60iajzMb3us/uA5BYZsHDzZXMGfTjNw6eoSl4NlptrOa8n2DwFoZRm9qmJA5kjawlYVzDpaGewuU3c4YiwSgyyHe5r7RpoYPf+lA8hQn5mYhpmDdwykxI1CRJuurqKmoGYLxMP3pF1/Aw22HopwXo7/3NWj52xyTpR4Qi/aj6ZK/Khz4XLk1nubAD+dfug5aSCE2Cvyp9gvohdp5yOsAv2PzDtfWKV6AyYiTf3bCpKOsSEP5mItByhjyUECvUqKUkZ0JFVAxTvoh/GphPhc=;hZyTHgi17mq8HOn/e7qQeA=="
 ---

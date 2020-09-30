@@ -149,6 +149,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Exclusive: Vice President Mike Pence Talks About Pennsylvania Battleground, Philadelphia Gun Violence"
+    excerpt: "Eyewitness News spoke exclusively one-on-one with Pence, asking him about polling which shows President Trump behind 9 percentage points in Pennsylvania."
+    publishedDateTime: 2020-09-30T03:26:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 40
   - title: "Vice President Pence Hosts Debate Watch Party in Lititz, Pennsylvania"
     excerpt: "President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz, Pennsylvania. Vice President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz,"
     publishedDateTime: 2020-09-29T22:26:00Z

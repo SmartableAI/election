@@ -765,6 +765,20 @@ related:
         width: 2500
         height: 1381
         isCached: true
+  - title: "Donald Trump and Joe Biden Debate Law and Order"
+    excerpt: "In the presidential debate Joseph R. Biden Jr. and Donald J. Trump debated the concept of law and order after recent unrest gripped the nation."
+    publishedDateTime: 2020-09-30T02:53:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007368637/trump-biden-law-and-order-debate-video-clip.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 140
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29vid-debate-trump-2/29vid-debate-trump-2-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "More than 200 retired generals, admirals endorse Biden, including some who served under Trump"
     excerpt: "\"Our allies no longer trust or respect us, and our enemies no longer fear us,\" the former officers and officials wrote in a letter released Thursday."
     publishedDateTime: 2020-09-24T09:37:00Z

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nbcnews.com/video/biden-i-support-law-and-order-where-people-get-treated-fairly-92822085667</loc>
+    <lastmod>2020-09-29T19:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there</loc>
     <lastmod>2020-09-29T18:45:21-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +21,12 @@
   <url>
     <loc>https://www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/</loc>
     <lastmod>2020-09-29T17:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/politics/biden-taxes/2020/09/29/d7afe3a8-027a-11eb-b7ed-141dd88560ea_story.html</loc>
+    <lastmod>2020-09-29T17:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

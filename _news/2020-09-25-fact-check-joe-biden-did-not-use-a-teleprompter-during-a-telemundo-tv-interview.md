@@ -127,6 +127,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Takeaways from Donald Trump and Joe Biden's first U.S. presidential debate"
+    excerpt: "President Donald Trump and his Democratic challenger, former Vice President Joe Biden, meet in Cleveland on Tuesday for the first of three debates ahead of the Nov. 3 election, when Trump is seeking a second term in office."
+    publishedDateTime: 2020-09-30T01:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-takeaways-idUSKBN26L03H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L03H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L03H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 148
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535460384&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T06R"
+        width: 814
+        height: 545
+        isCached: true
   - title: "Trump, Biden Are Potential ‘Super Agers’ Whose Age Is ‘Not Relevant’ To Election, Study Finds"
     excerpt: "An analysis finds both presidential candidates are “likely to survive the next presidential term with their mental and physical attributes intact.”"
     publishedDateTime: 2020-09-25T14:13:00Z
@@ -270,6 +286,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/empty-debate-stage-rt-jef-200928_1601299546724_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Quotes from the first Trump-Biden debate"
+    excerpt: "Here are some of the quotes making news at the first U.S. 2020 presidential debate on Tuesday between Republican President Donald Trump and Democratic challenger Joe Biden ahead of the Nov. 3 election"
+    publishedDateTime: 2020-09-30T03:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-debate-quotes-factbox-idUSKBN26L07A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L07A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L07A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535452541&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T04T"
+        width: 949
+        height: 545
         isCached: true
   - title: "Cindy McCain rebukes Trump and publicly endorses Joe Biden for president"
     excerpt: "McCain was motivated in part by Trump’s recent comments on the military, where he called war heroes ‘losers’ and ‘suckers’"
@@ -885,6 +917,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "President Trump and Joe Biden spar in first 2020 debate"
+    excerpt: "President Trump and Joe Biden sparred in the first presidential debate of the 2020 race in Cleveland on Tuesday. Just hours ahead of the event, Joe Biden released his 2019 tax returns, drawing a clear contrast with President Trump,"
+    publishedDateTime: 2020-09-30T03:30:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-and-joe-biden-spar-in-first-2020-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/add71a0b-a425-4189-ba91-32ae61a34283/thumbnail/1200x630/f4af8eb5ec4b5470fcc491c07533771e/cbsn-fusion-president-trump-and-joe-biden-spar-in-first-2020-presidential-debate-thumbnail-556606-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
     excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
     publishedDateTime: 2020-09-26T22:51:00Z
@@ -916,6 +962,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IQNTMCDHGRAFLB23P4WVRXX4JM.jpg"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Kamala Harris said President Trump \"denigrated the office\" with his performance at first debate"
+    excerpt: "Following the first presidential debate, Joe Biden's running mate, Senator Kamala Harris, said President Trump \"denigrated the office\" with his performance. Watch her full reaction here."
+    publishedDateTime: 2020-09-30T03:41:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-reacts-to-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 108
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/30/30e5a4ab-eb90-4d61-85e7-06f1fc733b46/thumbnail/1200x630/1dcf9a131367124f7b84356ca90adf71/cbsn-fusion-kamala-harris-reacts-to-presidential-debate-thumbnail-556621-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cindy McCain endorses Joe Biden for president..."
     excerpt: "Watch \"Wife of late senator Cindy McCain endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -1316,17 +1376,6 @@ related:
         width: 2925
         height: 2108
         isCached: true
-  - title: "Takeaways From Donald Trump and Joe Biden's First U.S. Presidential Debate"
-    excerpt: "President Donald Trump and his Democratic challenger, former Vice President Joe Biden, meet in Cleveland on Tuesday for the first of three debates ahead of the Nov. 3 election, when Trump is seeking a second term in office."
-    publishedDateTime: 2020-09-30T01:13:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-29/takeaways-from-donald-trump-and-joe-bidens-first-us-presidential-debate"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-29/takeaways-from-donald-trump-and-joe-bidens-first-us-presidential-debate?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-29/takeaways-from-donald-trump-and-joe-bidens-first-us-presidential-debate?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 78
   - title: "Watch here: First presidential debate between Donald Trump and Joe Biden with live fact-checking"
     excerpt: "The 90-minute debate comes five weeks before Election Day and as early voting is already unfolding in some states."
     publishedDateTime: 2020-09-29T20:23:00Z
@@ -1500,6 +1549,22 @@ related:
     quality: 75
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-240-4265-2727_s1200x700.jpg?b4e540afe8cd79dee7891d2432e1b6dcf9ea66bb"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Joe Biden punts on plan to pack Supreme Court"
+    excerpt: "Democratic presidential candidate Joseph R. Biden refused to say Tuesday if he would pack the Supreme Court, a call some progressives in his party have made after the passing of Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-30T03:28:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/29/joe-biden-punts-supreme-court-packing-plan/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/joe-biden-punts-supreme-court-packing-plan/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/joe-biden-punts-supreme-court-packing-plan/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/29/Election_2020_Debate_52718.jpg-06214_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
         width: 1200
         height: 700
         isCached: true
@@ -1900,6 +1965,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Views & Voices: Community Perspectives on Kamala Harris"
+    excerpt: "Kamala Harris, how she represents communities across California and beyond, and what her vice presidential candidacy means to those communities. Keiona Williamson, editor of The Bee’s new Equity Lab,"
+    publishedDateTime: 2020-09-30T01:43:00Z
+    webUrl: "https://www.sacbee.com/news/equity-lab/article246061000.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 35
 
 secured: "C/jR1wCNy1iiTXgPTJk0SD8HOhiJKu4qEh3fhmyvv8qef15gmq6JpK7TVHQHM1OM3IZ8GrB+URV9+iZZrP9L6uZ/CvTcn3hbfxT8xCqz7ytEXn2cxXlQRAeu9fQF8e6LYjGwDp+5HenX19UDNkhXq8v8igTmNhPD1JQQrMkKrUFxDOhfsHfyU4067lCeD3UN1tLuAitAG+bYu8HCLrXy7bY76sH3/HP56pyYhS02jQTbG+c/agoqTMj3DgtnWg8+Tbppz4/AfmHmow6TqqUraQw1c7vk8qmzgQNscYk0j+SDPT1aNyrnlsDFtsylXPKYzSBWS5vLshqQmCyCPpvervPMgffDtkx0Q2DJeU1n1X7p0we2o7/g3NVFoc4q/i1REWT6Qc7iatZSw8V8fWDra8pd5vG/6UQQIB9G5bVyCYhbOyTqqJSZ2b8rN+I4X9V5XA4DgvfKp2KbJ87SsPAq8gtTdhB6ClOEb5UApjHrlWOiIMARsK+gN1QDQHlA3bCVkzCW63o7swgZJEOMon142Q==;70XR5UTLNQLNF3cELLyvvA=="

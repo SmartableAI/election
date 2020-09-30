@@ -47,6 +47,20 @@ related:
         width: 1199
         height: 798
         isCached: true
+  - title: "Donald Trump Jr. explains President Trump's debate stance by saying he's \"a fighter\""
+    excerpt: "In an interview with CBS News, Donald Trump Jr. explained the president's aggressive debate stance by saying he's \"a fighter\" and that \"he hasn't been treated fairly.\" Watch his remarks here."
+    publishedDateTime: 2020-09-30T03:42:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-jr-says-president-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/e37a821c-16fe-4f28-a940-a5d1e05788b0/thumbnail/1200x630/07b8728a4bd9bbe4806d3dda7a32ba37/cbsn-fusion-donald-trump-jr-says-president-trump-thumbnail-556615-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Facing Devastating Debt Load? Experts Say Not So Fast"
     excerpt: "President Donald Trump reportedly must pay back more than $300 million in loans over the next four years, raising the possibility his lenders could face an unprecedented situation should he win a second term and not be able to raise the money: foreclosing on the leader of the free world."
     publishedDateTime: 2020-09-29T21:05:00Z

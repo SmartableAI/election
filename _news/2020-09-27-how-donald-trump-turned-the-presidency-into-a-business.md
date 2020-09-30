@@ -333,6 +333,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden & Donald Trump debate in Cleveland"
+    excerpt: "Watch \"Joe Biden & Donald Trump are facing off in their first presidential debate of 2020 Cleveland\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-30T02:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200930015930-joe-biden-donald-trump-are-facing-off-in-their-first-presidential-debate-of-2020-cleveland/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/30/story_07050902_1601433125.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "2020 Presidential Debate Odds: Bettors Picking Trump To Defeat Biden But ‘Over’ On ‘Non-Facts’"
     excerpt: "Back by popular demand, sportsbooks are pulling out all of the stops once again as the first Presidential Debate between President Donald Trump and Democratic nominee Joe Biden is scheduled to take place tomorrow night."
     publishedDateTime: 2020-09-29T01:02:00Z
@@ -521,6 +535,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "CNN's Jake Tapper calls first presidential debate a 'hot mess inside a dumpster fire' after Trump, Biden clash"
+    excerpt: "\"That was a hot mess inside a dumpster fire, inside a train wreck,\" CNN host Jake Tapper said after the debate ended."
+    publishedDateTime: 2020-09-30T03:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-called-train-wreck-after-trump-biden-clash/3583646001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3583646001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583646001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ef36eabb-dccc-4c5b-9118-b11a586b6476-XXX_09292020_PresidentialDebate_CLE_26.JPG?auto=webp&crop=3000,1688,x0,y289&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden's campaign declared war on Facebook, accusing it of failing to live up to its promises to rein in Trump"
     excerpt: "Joe Biden accused Facebook of failing to live up to its own promises to stop misinformation when dealing with posts from President Donald Trump."
     publishedDateTime: 2020-09-29T12:18:00Z
@@ -600,6 +630,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/09/Election_2020_Biden_63112-1.jpg?w=1024&h=684"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Joe Biden to blustering Donald Trump at debate: ‘Will you shut up, man’"
+    excerpt: "Trump hijacked this debate, but it doesn’t mean he won it.  Olivier Douliery/Pool vi AP President Donald Trump brought his bullying and interrupting act to the first presidential debate, overwhelming rival Joe Biden and moderator Chris Wallace so much that a disgusted Biden said at one point,"
+    publishedDateTime: 2020-09-30T03:22:00Z
+    webUrl: "https://chicago.suntimes.com/columnists/2020/9/29/21494317/joe-biden-blustering-donald-trump-presidential-debate-shut-up-man"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/columnists/2020/9/29/21494317/joe-biden-blustering-donald-trump-presidential-debate-shut-up-man"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/columnists/2020/9/29/21494317/joe-biden-blustering-donald-trump-presidential-debate-shut-up-man"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 90
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/xlw5MTyf5yNbqKb-ufPEhTKH2rc=/0x0:5760x3240/1400x1050/filters:focal(2420x1160:3340x2080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67556686/Election_2020_Debate.0.jpg"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "First presidential debate: Who will win between Donald Trump vs. Joe Biden? Time, how to watch"
     excerpt: "It’s time for Donald Trump vs. Joe Biden in real-time. The first presidential Trump, the Republican nominee, and Biden, the Democratic nominee and former vice president, is tonight. The debate will be held at Case Western Reserve University and Cleveland Clinic in Cleveland,"

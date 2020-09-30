@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Here's what to know about Vice President Mike Pence's visit to Atlanta"
+    excerpt: "The finish line for the Nov. 3 presidential election is rapidly approaching, and campaigning is ramping up - especially here in Georgia, which is showing signs of becoming competitive for Democrats in 2020."
+    publishedDateTime: 2020-09-30T02:45:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 75
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "VP Mike Pence is Coming to Eau Claire Thursday. Here’s What You Need to Know."
     excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
     publishedDateTime: 2020-09-26T01:42:00Z

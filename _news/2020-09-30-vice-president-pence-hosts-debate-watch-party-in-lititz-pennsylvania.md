@@ -154,6 +154,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Exclusive: Vice President Mike Pence Talks About Pennsylvania Battleground, Philadelphia Gun Violence"
+    excerpt: "Eyewitness News spoke exclusively one-on-one with Pence, asking him about polling which shows President Trump behind 9 percentage points in Pennsylvania."
+    publishedDateTime: 2020-09-30T03:26:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 40
 
 secured: "5pcZLFxOs+yWvgJ8gcmA/Ds14wiFrSmRnOAeVLV86+aSOGsFlAkIAbX0LualF2NPXmVPjUWTg+S5KoVgTGCbcrEO6XbR/PYqD+KWuIrUZZ+sDbMZ1hoJ5GdsO8dBe3J0BYspnsd7ywovtYjAO8V1kj6i2RIjzszuTGfjakX9lmN0lPHK48m3E7270ostesXvnD6O307gQRJJuJWvhD59NjJtKztIqJJdBH/0dn1WZnTV6m+GqrFiLcYQLgJWAmPucbUaeGvNBfimoHPKrOumamV+RdOrmG0X8BLPZFaRhT/zo63d7N7kG+wWhhi8uPLvGfjtGf8c/LLigHo7ZF4Nb8Z5wV8RSoO1cq64sS5lD9sA1SMxjA4dPfIylEi1jYCMpTTPLke9ZQK2MAExfNF2HjEAopEmD1JZu1r0cpxTov0XUNQShm1kSS2nJvS9jzStMLjGhR7xNIBYQ8ldc5q43CzoBYi2/gRNpJJKwkCp9krpuwcmJiaMhdzLZAIbPGWUIUZg54q8p7RxVRV+ocvmtQ==;+np159x6yXYBmGrg3+rb0A=="
 ---

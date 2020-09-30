@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NBC News to hold town hall with Joe Biden in Miami"
+    excerpt: "NBC News will hold a town hall event with Joe Biden in Miami next week, the network announced Tuesday. The town hall will be hosted by \"Nightly News\" anchor Lester Holt, and will air at 8 p.m. ET on Monday — two days before the Oct."
+    publishedDateTime: 2020-09-30T02:58:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/nbc-news-hold-town-hall-joe-biden-miami-n1241406"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241406"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241406"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416091/200929-joe-biden-tampa-jm-1629_760989d72ad89f415b73e59aed61f8e7.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "Qud8CmAj/4/nxASzIOqZ2jz5KKsM70nfuLNw+XELAGZyNbGnLpNqXutwjdhtV0T+sQzl1hWA4SXcq4cA4cF9VSF7zMHX/h3RNZgxvT5WCo16dJeif+q6lcJw4P9ISkdtMam0bMbM6bWc5zdJv1s15VVTksdCqj9jnyH8EcviBXubmtpoeqxBk0TCfb0GTelBoiys32Tl7GB8w/P83p9y3KZsjBEscYko4lZTM4xe6FT4V1WCeqvIHGopuVoXU1ThqiphqfJTrahQfBETJqW3S/E/nfSVq2/kCpagMNo1AMIX2NEZMj1sIoS2EqJDAm6w/YS0HB25f1zGeJNyL/ZXwGHCyEFWxQwejdM8GIleyuAfWoESKYFuK6m2PtYt484M7rmA9cphUv+FL5gLytmXwpW4kxB3tX9UoBwbXHqqKT6K103s4KZKCR/TufmrIRcnLqLHkfVhkZliCsTpBf46HVZONR1xXBC4F4BRg6yKEhPGgKis1rISwGfWzD9oBuxeUTtYNbexOoNKQ1aK5EzCDw==;C60Y1OTUCXEXP6+WGkevmg=="
 ---

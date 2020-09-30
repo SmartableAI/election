@@ -1806,6 +1806,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump and Biden trade attacks over COVID response"
+    excerpt: "President Donald Trump and Democratic presidential candidate Joe Biden attacked each others' credibility and competence as they debated the response to COVID-19 during Tuesday night's presidential debate in Cleveland."
+    publishedDateTime: 2020-09-30T03:46:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/30/trump-and-biden-trade-attacks-over-covid-response/3584196001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3c10ab9e-2d2e-41ca-93ef-2d98cfbf5f91_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z
@@ -2129,6 +2143,22 @@ related:
     quality: 110
     images:
       - url: "https://i.insider.com/5f6971ca323fc4001e0d7a28?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The first 2020 debate was a political horror show as Trump tried to bully Biden and the former vice president told him to 'shut-up'"
+    excerpt: "In the past, presidential debates have generally been little more than political theater. Tuesday night was a political nightmare."
+    publishedDateTime: 2020-09-30T03:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-debate-analysis-bullying-shut-up-political-horror-show-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-debate-analysis-bullying-shut-up-political-horror-show-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-debate-analysis-bullying-shut-up-political-horror-show-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5f73e80f0ab50d00184ad2f9?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

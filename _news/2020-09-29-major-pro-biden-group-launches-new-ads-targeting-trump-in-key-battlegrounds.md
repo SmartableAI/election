@@ -413,6 +413,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, Trump spar over COVID death counts: 'You would have lost far more'"
+    excerpt: "Former Vice President Joe Biden and President Trump each indicated on Tuesday that the other proposed coronavirus responses that were fatal."
+    publishedDateTime: 2020-09-30T02:19:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kiqdt-6TkzA/biden-trump-debate-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-debate-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-debate-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e4437cb-0d36-451a-b468-2bbc6d8a692b/e4d6775b-df07-4815-b8a0-9992ebc2a759/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump battling Biden, liberal media at presidential debates: Sarah Sanders"
     excerpt: "President Trump will not only be battling Democratic presidential nominee Joe Biden during the presidential debates but also the liberal media, former White House press secretary Sarah Sanders said Thursday."
     publishedDateTime: 2020-09-24T17:20:40Z
@@ -490,6 +506,22 @@ related:
     quality: 187
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38647654-9cab-4d03-bf02-c9d42ba7f9b0/974ab8df-cbe6-43d4-bb71-65ea5a7abf20/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Debate: Trump brags about rally size as Biden calls president 'irresponsible'"
+    excerpt: "President Trump wasted no time before he started talking over not only Democratic presidential candidate Joe Biden, but Fox News’ Chris Wallace who moderated the event. "
+    publishedDateTime: 2020-09-30T02:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oMcArEuHCcw/debate-trump-brags-about-rally-size-as-biden-call-president-irresponsible"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-trump-brags-about-rally-size-as-biden-call-president-irresponsible.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-trump-brags-about-rally-size-as-biden-call-president-irresponsible.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08a93c3e-ac1b-4cb2-8291-5f48712dc5d6/d2cbaeca-1f54-4f4a-bcb7-a747a4633710/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -589,6 +621,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump targets Hunter Biden's foreign business dealings during heated debate clash"
+    excerpt: "“He didn’t have a job until you became vice president,” Trump said."
+    publishedDateTime: 2020-09-30T03:01:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/caqu8y52eek/trump-hunter-biden-ukraine-china-dealings-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-ukraine-china-dealings-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-ukraine-china-dealings-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e71db8f5-abc1-46b5-9b9f-8d98ed8ed4ec/6891eb57-7e3c-4e2e-a8df-e017c0f5282d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says Senate should wait on Trump Supreme Court nominee despite past comments"
     excerpt: "Joe Biden has weighed in on Supreme Court vacancies throughout his 47-year career in politics, as chairman of the Senate Judiciary Committee, vice president, and now Democratic presidential nominee"
     publishedDateTime: 2020-09-23T19:18:40Z
@@ -650,6 +698,22 @@ related:
     quality: 184
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a19bff9-3c3a-4131-8a18-b852ca8e6acb/7b5b5656-639c-4cf4-804f-90042dde09f7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden accuses Trump of coronavirus lies as president pushes speedy vaccine timeline"
+    excerpt: "Trump disagreed with timelines put forth by members of his administration."
+    publishedDateTime: 2020-09-30T02:08:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NrbmmeROWvg/biden-trump-lying-vaccine-delivery"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-lying-vaccine-delivery.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-lying-vaccine-delivery.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf8f37d-4908-4abf-a756-64a6bf13926e/c16f8a61-6cac-4a6a-9e1f-e359ba3059fc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -746,6 +810,22 @@ related:
     quality: 182
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c223cce5-ac42-4569-875e-583bfde04679/073d5da0-92a1-4d01-9415-a5169c589fa5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump accuses Biden of being weak on crime: 'We believe in law and order and you don't'"
+    excerpt: "President Trump portrayed Democratic presidential nominee Joe Biden as weak on crime during the first debate on Tuesday night"
+    publishedDateTime: 2020-09-30T02:54:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ypAcvbMIFzA/trump-accuses-biden-of-being-weak-on-crime-we-believe-in-law-and-order-and-you-dont"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-accuses-biden-of-being-weak-on-crime-we-believe-in-law-and-order-and-you-dont.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-biden-of-being-weak-on-crime-we-believe-in-law-and-order-and-you-dont.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e19eca7f-e06d-4344-a6e8-9a00cd0e2a28/709e6359-6cac-4c33-88a2-c5d941e3bab0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1069,6 +1149,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign, RNC declare Trump the winner of first presidential debate"
+    excerpt: "The Trump campaign and the Republican National Committee declared President Trump the winner of the first presidential debate against Joe Biden Tuesday night, slamming the former vice president as “too weak” and touting Trump as a “strong president on top of his game.”"
+    publishedDateTime: 2020-09-30T03:19:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zx3L96afMTA/trump-campaign-rnc-declare-trump-the-winner-of-first-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rnc-declare-trump-the-winner-of-first-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rnc-declare-trump-the-winner-of-first-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden campaign responds to Trump's call for drug test: 'President thinks his best case is made in urine'"
     excerpt: "After President Trump demanded a drug test be administered to himself and Joe Biden for the upcoming preidential debate, Biden's campaign team responded by mocking the commander-in-chief for wanting to make his case \"in urine,\" before pivoting to the issue of coronavirus. "
     publishedDateTime: 2020-09-28T01:29:35Z
@@ -1084,6 +1180,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83b953fb-6db8-46c1-8374-c963518a8cee/af1a2305-f87b-47cd-af29-1541e169cf7a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden says he will 'support the outcome' of the election, vows to be president for Democrats, Republicans"
+    excerpt: "Democratic presidential nominee Joe Biden on Tuesday said during the first presidential debate that he will “support the outcome” of the election, vowing, if elected, to be a president for both Republicans and Democrats."
+    publishedDateTime: 2020-09-30T02:55:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kUYdVzq27rw/biden-support-outcome-election-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-support-outcome-election-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-support-outcome-election-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Pelosi to Biden ahead of presidential debate: 'Be yourself. Save the planet'"
     excerpt: "House Speaker Nancy Pelosi urged Democratic presidential nominee Joe Biden to be himself on Tuesday night as the former vice president and President Trump face off for the first time, calling on him to “save the planet.”"
@@ -1760,6 +1872,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Replay: First 2020 Presidential Debate Between Donald Trump And Joe Biden"
+    excerpt: "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH"
+    publishedDateTime: 2020-09-30T03:06:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/watch_live_first_2020_presidential_debate_between_donald_trump_and_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 89
+    images:
+      - url: "https://assets.realclear.com/images/52/521211.jpg"
+        width: 2300
+        height: 1597
+        isCached: true
   - title: "Joe Biden Spouts Perpetual Lies"
     excerpt: "Every time he speaks in public, Joe Biden tells lies about Donald Trump. Biden claims that Trump called military casualties, laid to rest in France, ‘suckers’ and ‘losers,’ based on"
     publishedDateTime: 2020-09-21T04:01:00Z
@@ -1853,6 +1979,22 @@ related:
     quality: 85
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/157/770473e9-7b0e-4d5a-99ed-438a6927d8cf.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Joe Biden Denies Antifa Organizations Exist"
+    excerpt: "Former Democratic Vice President Joe Biden denied the existence of organized Antifa groups during the first presidential debate in Cleveland, Ohio on Tuesday.  Fox News anchor Chris Wallace had asked"
+    publishedDateTime: 2020-09-30T02:45:00Z
+    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/29/joe-biden-denies-antifa-is-an-organization-its-an-idea-n2577189"
+    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/29/joe-biden-denies-antifa-is-an-organization-its-an-idea-n2577189?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/29/joe-biden-denies-antifa-is-an-organization-its-an-idea-n2577189?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/ed2b43e7-9d41-4017-bb0d-1916ec16d4b7.jpg"
         width: 650
         height: 340
         isCached: true
