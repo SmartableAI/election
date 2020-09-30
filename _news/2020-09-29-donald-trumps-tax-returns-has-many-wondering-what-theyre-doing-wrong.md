@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "California prosecutor: Driver tried to kill Trump supporters"
+    excerpt: "The organizer of a Southern California rally against racism has been charged with attempted murder after driving her car into a crowd of counterprotesters"
+    publishedDateTime: 2020-09-30T15:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/woman-expected-court-driving-california-rally-73305487"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/woman-expected-court-driving-california-rally-73305487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/woman-expected-court-driving-california-rally-73305487"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_57290137ea1d4489bf90b58b7ef15c68_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Voter Registration Day, Trump's UN address, Tropical Storm Beta: 5 things to know Tuesday"
     excerpt: "This is a good day to register to vote, President Trump's U.N. address will be released before his latest rally and more news to start your Tuesday."
     publishedDateTime: 2020-09-22T08:28:00Z

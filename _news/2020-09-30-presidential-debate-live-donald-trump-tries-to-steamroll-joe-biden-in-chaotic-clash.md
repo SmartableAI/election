@@ -2,9 +2,9 @@
 category: news
 title: "Presidential debate live: Donald Trump tries to steamroll Joe Biden in chaotic clash"
 excerpt: "Candidates faced off in Cleveland, Ohio, with Chris Wallace of Fox News moderating the bitterly personal showdown"
-publishedDateTime: 2020-09-30T11:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f7457778f08df432c7aaba1"
-webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f7457778f08df432c7aaba1"
+publishedDateTime: 2020-09-30T08:22:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f743fdb8f08097c05821ad4"
+webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f743fdb8f08097c05821ad4"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
 type: article
@@ -801,6 +801,22 @@ related:
         width: 5749
         height: 3833
         isCached: true
+  - title: "“Unhinged”: There’s No Going Back From the Trump–Biden Debate Train Wreck"
+    excerpt: "From Donald Trump’s refusal to condemn white supremacists to Chris Wallace’s feeble interjections to Joe Biden’s clear exasperation (“Will you shut up, man?”), the Hive cringed its way through an excruciating 90 minutes."
+    publishedDateTime: 2020-09-30T15:48:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/unhinged-theres-no-going-back-from-trump-biden-presidential-debate-train-wreck"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/unhinged-theres-no-going-back-from-trump-biden-presidential-debate-train-wreck/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/unhinged-theres-no-going-back-from-trump-biden-presidential-debate-train-wreck/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 89
+    images:
+      - url: "https://media.vanityfair.com/photos/5f748ce6ffc33aecb21a24e8/master/pass/GettyImages-1228795234.jpg"
+        width: 5749
+        height: 3833
+        isCached: true
   - title: "First presidential debate: Who will win between Donald Trump vs. Joe Biden? Time, how to watch"
     excerpt: "It’s time for Donald Trump vs. Joe Biden in real-time. The first presidential Trump, the Republican nominee, and Biden, the Democratic nominee and former vice president, is tonight. The debate will be held at Case Western Reserve University and Cleveland Clinic in Cleveland,"
     publishedDateTime: 2020-09-29T15:08:00Z
@@ -941,6 +957,22 @@ related:
         width: 837
         height: 768
         isCached: true
+  - title: "Debate check: Adding facts to what Donald Trump, Joe Biden said about coronavirus, economy, election fraud and more"
+    excerpt: "Donald Trump and Joe Biden had their say, but not always with context or sometimes even facts to back up claims made during Tuesday’s presidential debate in Cleveland. Here’s more context to five topics covered."
+    publishedDateTime: 2020-09-30T15:15:00Z
+    webUrl: "https://www.cleveland.com/open/2020/09/debate-check-adding-facts-to-what-donald-trump-joe-biden-said-about-coronavirus-economy-election-fraud-and-more.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/09/debate-check-adding-facts-to-what-donald-trump-joe-biden-said-about-coronavirus-economy-election-fraud-and-more.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/debate-check-adding-facts-to-what-donald-trump-joe-biden-said-about-coronavirus-economy-election-fraud-and-more.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 83
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/I6HIPLLATNAHZM6MIDADJ6WHKE.png"
+        width: 1696
+        height: 916
+        isCached: true
   - title: "‘Joe Biden’s gonna show up.’ Chaotic first debate won’t nix Miami meeting with Trump"
     excerpt: "Following an ugly first debate with President Donald Trump Tuesday night in Cleveland, Joe Biden’s campaign quickly moved to squash pundits’ talk of canceling upcoming meetings with the president in Miami and Nashville."
     publishedDateTime: 2020-09-30T13:16:00Z
@@ -1004,6 +1036,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-rally-Virginia-GettyImages-1228712974.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden says Donald Trump ‘looks down’ on working class voters in post-debate Cleveland campaign stop"
+    excerpt: "Following a chaotic first presidential debate, Biden embarked on a train tour of Ohio and Pennsylvania, starting the day in Cleveland."
+    publishedDateTime: 2020-09-30T15:42:00Z
+    webUrl: "https://www.cleveland.com/open/2020/09/joe-biden-says-donald-trump-looks-down-on-working-class-voters-in-post-debate-cleveland-campaign-stop.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/09/joe-biden-says-donald-trump-looks-down-on-working-class-voters-in-post-debate-cleveland-campaign-stop.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/joe-biden-says-donald-trump-looks-down-on-working-class-voters-in-post-debate-cleveland-campaign-stop.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 74
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ADGNAXIARJF5BP5XVYT7PK23MI.jpg"
+        width: 5721
+        height: 3814
         isCached: true
   - title: "Tapper to Jill Biden: Is Joe ready to debate Trump?"
     excerpt: "CNN's Jake Tapper sits down with Jill Biden in an exclusive interview ahead of the first presidential debate between former Vice President Joe Biden and President Donald Trump."
@@ -1094,6 +1142,6 @@ related:
         height: 560
         isCached: true
 
-secured: "RS7vfg6rqB9k5AbFE4ufBsZIk/uTdIwaEGAsxNEANylkJNhVuCxbxj4B0rkQR+mD2nzkXnodxr8F/WyRov3LRkyxAnejqfl+7ddRFeZENgReghaBzQMOjIfeVC++MbUQL27XJKMW1uiavJ7uyrrPLuqUFvB2QRqJoFnfoRJtrbgZWx4oH8pLsB15FSjSjXCQz2aGT5LjNDPc6l/vOZMUb30WQ4a/IFaAvsKVWkpbbcJFjlnAlKrb4oIteG09mUV8DBmmnJ4WG5+GrE1I/sJm/SDI0B91XMjeHtGKiRHlTWGDZzvtl6A8R3mPDfx1O4lh5qpUgy61NnaHmnDxhrJo+SuyO4/W4vUBFRF3f9YubavSjdyuIUM93PY0ETpecRoO7+2QMw+NZg4469eARrJMDmdmNDn0rXxdAi32LGmw3YxkS9cMqJ+9OL/WgG+d+ErGz0WWNG6Azh/XqFEv/7psXjdMrtN16LfOdra3bL4N92qvuLi1irW1JLRQVhAPyaDYiwgOJvBNrW51066uiKIwoA==;wNdcQCMtvfS6Qo9Vajt8MA=="
+secured: "226YFxmkl+bUDudAVLI2ApxqS90acKuPUrGMpclQTUowg8BdTyTHJWeP9BT7I5oK34Oe2m196CHhYjjNDClCkInqdiiT9fbEqEtrJZY4wrwt55o+tYKCfM8l6x9omf5P1Jh+GRuayMJwytfYKqBdS52NyRwne4KiHtva+ns/qGHyT7l5kGzSbNuH+7lKPNCaN9Q8JqGLllczl/Pah0GovaSQ+w6/9QmdqJa79eeieG1ahwG8K7pKNwy8NChMcWrGvT78bQvUU5qo473S741SGLoSiK4GgKmz8a09X7IK9PdGixOzOX5zSkT/CmX6ZI2IyT9ReZIQXCPxB0bplH/pg4yjN4oRyuSSVrglqRABSJHxn03BxxxaTESNyoIKWl//1An1n/8oCJOYuxOHANXVCMTDJz9TZY75U27GUFrRcwgKkcDZMaH3ldxaf0zldVsi1tXoUHkk7CvqlfcHwwAVLMYSLzDMRjcKqEY5FZ3X/8X+fZRgfmNSFULnX8CftrNJtsTPl4+YxOcDqL79PMh1nA==;gasN+kAl3rs76r4Nwezx4g=="
 ---
 

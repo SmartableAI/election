@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "California prosecutor: Driver tried to kill Trump supporters"
+    excerpt: "The organizer of a Southern California rally against racism has been charged with attempted murder after driving her car into a crowd of counterprotesters"
+    publishedDateTime: 2020-09-30T15:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/woman-expected-court-driving-california-rally-73305487"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/woman-expected-court-driving-california-rally-73305487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/woman-expected-court-driving-california-rally-73305487"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_57290137ea1d4489bf90b58b7ef15c68_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "uxVPlWBszSd5n2uvFBOnTQQ4e+5qrNA8pyEuvcUSEOkY+/6OMIIC//mPbopeL5QfR7ErnmquqUkzilH3DMF3kcwFexxJx/3bfUMB9KfoEuNpqgEd2TeLDOgf7a9c+QhJWS+o2IdNMK+2gNmeAWCWVG+avHJta2cCWXmJkRa4YiBlBdUIXR6hj7QFEGKPruqI/AGM0EknRmnk5p98dO8r4l/LQD6yfGSuL5lnH+Iv6Gn6KQFR6STH2t1VV1AAAwA2d9o9ByeWv0AfJT3N1kpgSKrofsI+jgCoChmVV1B2uoQ/TObCoH6GK2iTTDb40ns7x/LRu0ZTGwFnTAd1eaGj6ATdU7f4/9pbDCDNlCUkNR0=;rBiEAeGb52D2BqsgsEyaBA=="
 ---

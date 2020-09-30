@@ -1531,6 +1531,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden deflects Trump's demand at debate to 'name one' law enforcement group backing him"
+    excerpt: "Both candidates have the backing of various law enforcement groups."
+    publishedDateTime: 2020-09-30T15:50:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r1Ws--aYsro/biden-trump-debate-law-enforcement-support"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump and Biden have very different views on the notion of gun control"
     excerpt: "The 2020 presidential election is just six weeks away, and pollsters and pundits are turning more attention to the handful of swing states – which could ultimately decide the outcome."
     publishedDateTime: 2020-09-24T12:17:00Z
@@ -1889,6 +1903,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-237179/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Rolls the Dice in a Big Debate Gamble"
+    excerpt: "With an aggressive performance against Joe Biden in the first 2020 presidential debate, Donald Trump wagered that undecided voters would be attracted, not repelled, by his approach."
+    publishedDateTime: 2020-09-30T15:00:00Z
+    webUrl: "https://www.wsj.com/articles/trump-rolls-the-dice-in-a-big-debate-gamble-11601477592"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-rolls-the-dice-in-a-big-debate-gamble-11601477592"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-rolls-the-dice-in-a-big-debate-gamble-11601477592"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-238622/social"
         width: 1280
         height: 640
         isCached: true

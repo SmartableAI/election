@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/HQCbV4AGSJM/comey-hillary-clinton-trump-russia-probe</loc>
+    <lastmod>2020-09-30T08:48:32-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315</loc>
+    <lastmod>2020-09-30T08:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/67QDNdaEbf0/hialeah-florida-cubans-trump-republicans</loc>
+    <lastmod>2020-09-30T08:22:58-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iJvXAfe-0RI/index.html</loc>
+    <lastmod>2020-09-30T08:16:27-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs</loc>
     <lastmod>2020-09-30T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,12 +63,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement</loc>
     <lastmod>2020-09-30T01:27:33-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545</loc>
-    <lastmod>2020-09-30T00:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -987,12 +1005,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v-11dtshPEE/index.html</loc>
     <lastmod>2020-09-23T10:06:09-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/WH9fGUL9KQk/trump-announces-ban-on-purchasing-rum-tobacco-from-cuba</loc>
-    <lastmod>2020-09-23T09:18:24-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

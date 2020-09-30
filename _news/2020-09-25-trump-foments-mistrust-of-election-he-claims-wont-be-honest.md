@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 2350
+heat: 2390
 published: true
 
 provider:
@@ -623,6 +623,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Donald Trump's worst moment of the 1st debate (that you probably missed)"
+    excerpt: "President Donald Trump's bullying, cajoling and constant interruptions in the first 2020 general election debate with former Vice President Joe Biden on Tuesday night made the whole affair confusing and difficult to follow. And while there will (rightly) be scads of attention paid to Trump's unwillingness"
+    publishedDateTime: 2020-09-30T14:55:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fbV64PyK_vo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/polls-donald-trump-election-first-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/polls-donald-trump-election-first-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929215949-32-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump makes false claims about his record on manufacturing and coal jobs"
     excerpt: "President Donald Trump delivered a meandering speech in Ohio on Monday that was officially about fighting for American workers.\n    \n"
     publishedDateTime: 2020-09-23T20:59:19Z
@@ -1182,6 +1198,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/27/us/politics/27trump-presser/27trump-presser-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Donald Trump Burns the First Debate Down"
+    excerpt: "This is not going to end well,” said Donald J. Trump in the last section of Tuesday night’s debate. This was an unusual way for a president of United States to describe an election in which he is running."
+    publishedDateTime: 2020-09-30T12:50:00Z
+    webUrl: "https://www.nytimes.com/2020/09/30/arts/television/donald-trump-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/30/arts/television/donald-trump-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/30/arts/television/donald-trump-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/30/arts/30debatetv/30debatetv-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Watch 4 Key Moments From Trump at the First 2020 Debate"
     excerpt: "These were the moments that defined President Trump’s first presidential debate against Joe Biden. transcript President Trump and former Vice President Joseph R. Biden Jr. went head to head on their records,"

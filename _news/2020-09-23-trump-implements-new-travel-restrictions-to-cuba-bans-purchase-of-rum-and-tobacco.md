@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-announces-ban-on-purchasing-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-announces-ban-on-purchasing-rum-tobacco-from-cuba.amp"
 type: article
 quality: 169
-heat: 189
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Federal judge orders Trump admin to respond to accusations census workers ordered to halt operations"
-    excerpt: "A federal judge ordered the Trump administration Wednesday to respond to accusations from census workers that they had been ordered to halt field operations."
-    publishedDateTime: 2020-09-29T22:16:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WlsANo3ymCE/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work"
-    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work.amp"
+  - title: "Florida's top city for Cuban exiles goes to bat for GOP in 2020: 'Trump Town'"
+    excerpt: "The city of Hialeah, outside Miami, is known for its Cuban American community of working families, tight incomes and friendships among neighbors -- and as the election nears, many say they're leaning strongly toward voting for President Trump."
+    publishedDateTime: 2020-09-30T15:22:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/67QDNdaEbf0/hialeah-florida-cubans-trump-republicans"
+    ampWebUrl: "https://www.foxnews.com/politics/hialeah-florida-cubans-trump-republicans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hialeah-florida-cubans-trump-republicans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 172
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20142633041337.jpg"
-        width: 1024
-        height: 577
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Elina_-SHIRAZI-e1545231535147.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "nDNtOGhtSN+yhPBeciI2M/NIYBO/foPZv4zzqj+j8FnupRPeZLdnKX389Vsu57SqiTyQR0+CXF0CpvqgjY2ZE7IIK47GH1gfDU9dXqeUO8ZCgASY6yyaNBT6eRAytfvBkc4/ZAPf9Ykbt53Y80PjXaWJ8BUmGs19QS8KiMcppLuPGIFVQmMxAGB+pe/gVnBdwGFbIFLd6tEGvoZIWLYKZL4WyDo0J4VVT0W5HOcjgz9ASwszxMdTjwksnavVKmGIKKG3qtdLReJrS/zjKysPtGcuGLKGwSZvYn2aTKK6R2j5QOZ3rALvW8ZZfhMwU+tkMWNDaUdS/UUp6ZfXlZUcql3q58ECAalfMgqm3kXF7ns=;VaQTnQf/WCW1YspS53FDZQ=="

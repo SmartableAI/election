@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'I hope it's a fair election': Trump won't commit to not declaring election win prematurely"
+    excerpt: "President Donald Trump also said he would challenge an election dispute about mail ballots to the Supreme Court."
+    publishedDateTime: 2020-09-30T15:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-trump-wont-commit-not-claiming-premature-win/3584421001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3584421001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3584421001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/37cbe3b4-7723-43c6-be0d-80b4491682d5-donald_trump.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bio highlights of Amy Coney Barrett, Trump's high court pick"
     excerpt: "Here are some biographical details on Amy Coney Barrett, nominated by President Donald Trump for the U.S. Supreme Court"
     publishedDateTime: 2020-09-27T06:36:00Z

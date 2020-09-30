@@ -2,19 +2,19 @@
 category: news
 title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
 excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
-publishedDateTime: 2020-09-28T22:03:00Z
-originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
-webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
-ampWebUrl: "https://amp.palmbeachpost.com/amp/3563587001"
-cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3563587001"
+publishedDateTime: 2020-09-28T20:26:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/3563587001"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3563587001"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -875,6 +875,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "8NgArNtK3E6GOj6Ckad8vAMPD8lvNO4KbczQzV7gz0XbBHyfY3FWKwt5iCwgRpEamVzZfuUhgBwyexYhl3msw8m+1BT3RGDOCOWollEz+1+yir8CR6TdPi2kBlj6mqnC+YuPy6oAk4xNnYbfeRDNW2lzHagVOj+FGPJoqEl7ggBypMAMwrqCJXv80O+eHZyGArxSfxg/MJzinb9nrHDRGEFR3ONPeEo4gRV6XquMaNwaiDZjzqyvxM0TrMbZQhBrA9aUikou3UKEyvkZ5oykUjr5jwQPMDP2YZNcpSRJRC93kDAPWlKGbzx5ra3yJxXEnBAvtv9+ciWrXWMGV1vNqd1lSzOO3POyxFrGYS3eJzQ=;CLjIWDEAX31fzAgd1kUU/Q=="
+secured: "XiOB3YUZO1se0KWC0r68xEA9tVkszSni12vMvXHV3Wk8myLk5ogYoMfWyAnPghyORKTYYHLSHOLXOqG1G2DTFCx8oPOziH+VOkTzRu0YMjuhRU16I3GBhuV/CI1CMGWkx+xs473eeA93oHYwKeTvs84Cx6WvPo5T+lIG8mFC9ysZ/d0dBSQD0KHgH61m6JFPSyoeRo0+FJ2d4ki1ye2cWbdPnTaNLlWmAZ1GrhRt/2r7LgvZznzaZQVczguSNPrcz7u+teg99fIJMTjcceC1hqHeNYd4Gfbxx9Pq7s5/9aoRuU0PIshoq8RRncmwNgEQjn2OtvHthoQwrzC+Kwi6YajPMW8cIvKglEIcSCUamnY=;FMqgeN0Xz144pn8BKcoYiA=="
 ---
 

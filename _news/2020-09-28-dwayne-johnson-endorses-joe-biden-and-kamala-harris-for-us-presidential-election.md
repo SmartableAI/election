@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 2940
+heat: 2960
 published: true
 
 provider:
@@ -961,6 +961,20 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/4f369eee-2d2b-4407-85c3-704b1a9b0be1/thumbnail/1200x630/2e1cf6f425c026fe4671036b284e9f8c/0929-debate-broadcast-postshow-new-556669-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President Trump and Joe Biden clash in first presidential debate"
+    excerpt: "President Trump and Joe Biden faced off in Ohio during their first presidential debate. CBSN political reporter Caitlin Huey-Burns, CBS News Washington correspondent Nikole Killion, and CBS News chief Washington correspondent Major Garrett joined CBSN's Elaine Quijano on \"Red and Blue\" for a breakdown of the debate's biggest moments."
+    publishedDateTime: 2020-09-30T14:21:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-and-joe-biden-clash-in-first-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/30/8c1e8ccd-9d1c-4466-b8fd-4a2cdcb31048/thumbnail/1200x630/0e713a5b04602e35cbfb9e77b0d5ff4e/cbsn-fusion-president-trump-and-joe-biden-clash-in-first-presidential-debate-thumbnail-556788-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

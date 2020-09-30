@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden uses 'inshallah' in response to Trump during debate, lighting up Twitter"
+    excerpt: "During one of the more charged moments of the chaotic US presidential debate, former Vice President Joe Biden dropped a phrase from everyday Muslim and Arab vocabulary and lit up the internet.\n    \n"
+    publishedDateTime: 2020-09-30T15:07:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3a14Vzq83_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/biden-inshallah-trump-debate-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/biden-inshallah-trump-debate-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001519-46-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Calm, steady, strong': Jill Biden says her husband is ready for first debate with Trump this week"
     excerpt: "Jill Biden, the wife of Democratic presidential nominee Joe Biden, said her husband is \"ready\" to face Donald Trump in the first presidential debate this week and accused the President of trying to distract with smears during the tense campaign.\n    \n"
     publishedDateTime: 2020-09-27T14:49:47Z

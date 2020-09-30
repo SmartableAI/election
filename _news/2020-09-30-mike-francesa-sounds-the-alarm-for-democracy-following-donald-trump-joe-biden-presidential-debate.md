@@ -975,6 +975,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Trump and Joe Biden clash in first presidential debate"
+    excerpt: "President Trump and Joe Biden faced off in Ohio during their first presidential debate. CBSN political reporter Caitlin Huey-Burns, CBS News Washington correspondent Nikole Killion, and CBS News chief Washington correspondent Major Garrett joined CBSN's Elaine Quijano on \"Red and Blue\" for a breakdown of the debate's biggest moments."
+    publishedDateTime: 2020-09-30T14:21:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-and-joe-biden-clash-in-first-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/30/8c1e8ccd-9d1c-4466-b8fd-4a2cdcb31048/thumbnail/1200x630/0e713a5b04602e35cbfb9e77b0d5ff4e/cbsn-fusion-president-trump-and-joe-biden-clash-in-first-presidential-debate-thumbnail-556788-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Trump and Joe Biden spar in first 2020 debate"
     excerpt: "President Trump and Joe Biden sparred in the first presidential debate of the 2020 race in Cleveland on Tuesday. Just hours ahead of the event, Joe Biden released his 2019 tax returns, drawing a clear contrast with President Trump,"
     publishedDateTime: 2020-09-30T03:30:00Z
@@ -2110,6 +2124,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "LK2AI2yPrkKFBOD5DJETK47cCamLlmT0icXaTSuSB3L6xx8FH5o5AX1aaeeG77kwHnJVkhq4xmgg1B2bJEjnG6V256ADfwL3wkS2t8IEPht9T7Z+Xzx3Sk5TvpTHZSbaTo8cuo5AuVLeQvGBDLTFuY3/YmTb1LDRgNjsQoCDE1MjWKlqeYnokJpn+syV9Vn8DJSCeQfgdHf/C9Hy0cb+799I5XcR48kZurorTj9y+NfKzYVcRk/UR6hs52svB4Ys0gP13mYgsZUh1evnqQm0gnaChOUzjtl/JGAZBnHLjSa/fTVECFKplmNC3OcLlRT5izFOZz2eeHxvlMf2NDopSFkQ0WrYmGBAgUdRN4M7h18=;6TqLYcLPwXXcLNdEnkkCVA=="
+secured: "Oj6pxJT3G9/nozzgJplRmGkqhboRItu92Gc2JykRtwCox3Cnj7IxHv3+4NHcXMB1+yEs/oLGoeFiMRkZSAhZ7fF8W5zYqoLyPjYAg9qYCdH12zT4EXeOG/bnX9hlTb4W3drK6tli6QDH8v8SbwuURQiyU/vUV0IeZ5G3EoGNbp5NcvGDhktrv7yVG0QXXgmKGyeuDviEnS7W0EsZHdxx2js6yHSIf4QvC8xFgETU8AUKGjAj0Tag7DgSnqatdp95TlXS/5f0+7HlbHP5li100/1gtTN7czrS/Wbl0Isfpdeb3JEeF59QWNI6BZlU6GQFpgsPAi6WiocdZWvFmo0IkXzMV7sBTiy5PU/L/weAOvjUvzQ0k9sO1Q4I+7c7UK47wNhsC0z+kAbKM7aRI5Pxe53EOZxlFziiwy6dTziLmJbOxK4VLEjQPEscJ3Ji06Cs1ivUGRUAlC45sVv6O0SwbSUOkjw8h63N7lB7SztiFu19a1V21W4mwcgaLOA8xgbKhwlv3ny8Zv8gL2gUEQqTTw==;S4tqOYWgzfegYYCdgISdyg=="
 ---
 

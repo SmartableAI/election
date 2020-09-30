@@ -589,6 +589,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden questions Trump's values after messy debate"
+    excerpt: "\"I think he basically looks down on us. He judges us,\" the former vice president said at the start of a daylong train tour."
+    publishedDateTime: 2020-09-30T15:44:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/biden-turn-the-page-messy-debate-423718"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/biden-turn-the-page-messy-debate-423718"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/biden-turn-the-page-messy-debate-423718"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/21/20/0f7c33154809b56ae9f4df6fc025/20200930-biden-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Wallace tries to keep Trump from interrupting Biden at debate"
     excerpt: "As Joe Biden and President Donald Trump spar over health care, moderator Chris Wallace tries to keep the president from interrupting."
     publishedDateTime: 2020-09-30T01:37:00Z

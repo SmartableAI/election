@@ -127,6 +127,22 @@ related:
         width: 2048
         height: 1283
         isCached: true
+  - title: "Biden campaign raises record $3.8 million in second hour of debate"
+    excerpt: "Joe Biden's deputy campaign manager said the campaign set a new record for fundraising in the second half of the first debate."
+    publishedDateTime: 2020-09-30T14:21:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-record-debate/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/2a1a6315-027f-4c72-93ca-c4831b377fcc/thumbnail/1200x630/ed68bb5540f7b0481b6229e2e450c2c9/gettyimages-1228795810.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
     excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
     publishedDateTime: 2020-09-27T18:17:00Z
@@ -392,6 +408,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "dqxL1dkG97Wz8WIagyn675Zd+7F1gUOCQbIlc+OtC7sbNIzqbVwI431M+m58/xhLB9lTXClDfVY1l9IhW7PDq0FIb+/u7M81pDHSPZzvldVSX2/xO9Qf0PDxMfkFjoGijHlUxWcc3naS2QcrFO873F0RNF+eCIpKxj/5d8tNC88LU1ePaC4JlEXplii7mTaRA4RwMqvB/RPzyTMtFhqRb6N9fkGf5t9YLL1Cj1nsu2v1c6PKH3ZI0ep+dN+IvB2oo4YA4UVtkteca3SwYKyPH3E9WgIjG68lnVtlfrzSpxYv0AjSXzuslI7PMFC5tvH19D9dNOqV1c5ofY3Saw+ppvVm/cvM6kjET59KpuIKkYA=;GRhny/PU9EC1FuaVJ51vrA=="
+secured: "CRkCcBPRJLBWnbR29Leo6B6ycXZ9uw2C6RUePsAtelwLikZDxGk+bFgH6zTtlV5zD5TF1OOwdo5tbwpZXVMrK3lUYwIWBegPfSXv396RrQNExt7eXAiJZRnP6ns/XgtyoR7GjZDh3AHklLSa4dDWktlmsReLGqxEp2XfWpBB5elZwXYC0FZTXFonSrP5JGCA3qdLcm3L++qzRtye7+8zZ5U0KaZTgwxN19+CVGzOMZu2SCeOtVSRl3Gd/QFjsEAZSymiK5ncG48RxGG70jp6Gh5HTLh0u7I5hJLL22t6K0kRSnfL53O3rxBBYPEPinZigicCRExkmxm+BN+2Wee3VSFEw5abWWz2AgYAGLYx5BrGRjRTLbmJBqpOCI1EIHlUJfA6nPbBtOOhzzuWd4dReGkXvyY4AeF83rMFLnP4F4ktkC8SkKC1+RFvizIp2FzwEkzVkXpj46w7LqQEjlvoXo77emkiGc6IQh41K/Vl5scACcdet88b9mtt7xNeXCGE7Ea5Zt5Ou5IdDZ5x9417hQ==;hRIFHySRZzN9ynmVUXNXuA=="
 ---
 
