@@ -1618,14 +1618,14 @@ related:
         isCached: true
   - title: "'I don't know Beau': Trump attacks Joe Biden as former vice president reflects on late son Beau Biden"
     excerpt: "My son was in Iraq. He spent a year there,\" said Biden, referring to his late son Beau Biden. \"He was not a loser.\""
-    publishedDateTime: 2020-09-30T05:22:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/beau-was-not-loser-biden-defends-his-late-sons-military-service-after-reports-trump-disparaging-serv/3584230001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3584230001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3584230001"
+    publishedDateTime: 2020-09-30T08:51:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/30/beau-was-not-loser-biden-defends-his-late-sons-military-service-after-reports-trump-disparaging-serv/3584230001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3584230001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3584230001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/602a80c9-5f6f-413c-8735-5b8a5a941375-AP_Election_2020_Debate_3.jpg?auto=webp&crop=5799,3262,x0,y0&format=pjpg&width=1200"
@@ -1951,14 +1951,14 @@ related:
     quality: 55
   - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
     excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-    publishedDateTime: 2020-09-29T09:00:00Z
-    webUrl: "https://www.kansas.com/opinion/article246083820.html"
-    ampWebUrl: "https://amp.kansas.com/opinion/article246083820.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/article246083820.html"
+    publishedDateTime: 2020-09-29T12:55:00Z
+    webUrl: "https://www.kansascity.com/opinion/article246083820.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/article246083820.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/article246083820.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: kansas.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 53
   - title: "Say it ain't Joe: Biden has failed to curb penchant for tall tales stretching decades"
     excerpt: "Joseph R. Biden blew up his 1988 presidential bid with a plagiarized fictitious account of his hardscrabble roots, but the experience failed to cure him of his tendency to exaggerate, conflate and even invent stories about his upbringing and political history."

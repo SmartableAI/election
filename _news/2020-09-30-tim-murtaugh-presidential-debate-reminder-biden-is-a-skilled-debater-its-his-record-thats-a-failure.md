@@ -1827,6 +1827,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden Asks Voters: 'Do You Believe for a Moment' What Trump Says on Covid-19"
+    excerpt: "Joe Biden accused the president of being ill-prepared to handle the coronavirus pandemic, latching on to President Trump’s previous comments about the death toll from the virus. Asked during a recent interview with Axios about the high U."
+    publishedDateTime: 2020-09-30T08:54:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-first-presidential-debate-2020/card/4SeDkjEmkaV20X6K6sVg"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 125
+    images:
+      - url: "https://images.wsj.net/im-238491?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "New York Times and Trump taxes: Why it’s not a campaign bombshell"
     excerpt: "The media were buzzing not just about today’s first presidential debate, but about a massive New York Times treatise on Trump’s tax returns."
     publishedDateTime: 2020-09-29T12:04:00Z

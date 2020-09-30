@@ -1811,6 +1811,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden Asks Voters: 'Do You Believe for a Moment' What Trump Says on Covid-19"
+    excerpt: "Joe Biden accused the president of being ill-prepared to handle the coronavirus pandemic, latching on to President Trump’s previous comments about the death toll from the virus. Asked during a recent interview with Axios about the high U."
+    publishedDateTime: 2020-09-30T08:54:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-first-presidential-debate-2020/card/4SeDkjEmkaV20X6K6sVg"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 125
+    images:
+      - url: "https://images.wsj.net/im-238491?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Tim Murtaugh: Presidential debate reminder -- Biden is a skilled debater. It's his record that's a failure"
     excerpt: "Inspired by past strong debate performances, Obama went with Biden. This background, and how Biden vaulted into national office, give a sense of what to expect in the first presidential debate on Tuesday night."
     publishedDateTime: 2020-09-29T22:48:00Z

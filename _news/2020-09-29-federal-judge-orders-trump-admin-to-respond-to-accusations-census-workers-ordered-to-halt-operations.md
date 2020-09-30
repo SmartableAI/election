@@ -47,20 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Reagan, Bush government officials endorse Trump, citing foreign policy accomplishments"
-    excerpt: "In an open letter, 70 former officials lauded the president for pursuing a \"strong foreign and national security policy in America's interests.\" "
-    publishedDateTime: 2020-09-28T17:33:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0VrmmwwIpw/reagan-bush-officials-endorse-trump-citing-foreign-policy-accomplishments"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20271818435544.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "jBH+p3HIc9qEeEN3NO6cKjKC1Kv7U7gF4Sexa+bPjikc3Kp2G9+A0OZOV0gujBhTmXjei/0kDa9JfhoBA+KLp1v2T63A2Av0DRDUVK/Bd44D/ScS4WZRFApJ94HqqI9Yh64QHtff8i/imLpy+KMIGMcQzw65AXSVAMja97NqdNTsvfhhb2jxwy8ZKT+5A3Wgwd8JOJFsPvxH6Io7uHGCY6mekkfdhXksmWXtEjHNZtbdjC9qOLeZ6dnta4PZOw7MS35D1sRPUVO5cs4wRAUmHSLQ50o7gTpkbpDWS7jrqMKmyOP/RgUX07yb8CW4/2aXKc8QXeAEUzuZv+u89v1YSEbu3vUCO7UTC3MWQ14mBsI=;XMWI6IXuUKc2OkdWi+MFJQ=="
 ---

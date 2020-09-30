@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Answers Question On Packing Supreme Court: \"People Are Already Voting\""
 excerpt: "Democratic vice-presidential nominee Sen. Kamala Harris condemned President Donald Trump and Senate Republicans trying to \"rush\" a Supreme Court appointment before the election and said it is important to remember that \"people are already voting."
 publishedDateTime: 2020-09-29T13:52:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_answers_question_on_packing_supreme_court_people_are_already_voting.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_answers_question_on_packing_supreme_court_people_are_already_voting.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_answers_question_on_packing_supreme_court_people_are_already_voting.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_answers_question_on_packing_supreme_court_people_are_already_voting.html#!"
 type: article
 quality: 58
 heat: -1
@@ -464,6 +464,6 @@ related:
         height: 340
         isCached: true
 
-secured: "7NuLjB+Qu2016+a0roRTDCpyGj6N5RI+Da+/cG8G36ktFQBjA3iannA4lm/UUFox1p2dGW3Iyi5On6Mge+hIQsol1Dmc74QktwkPY7ySfdCn8RDX8vPoym4YESkY3ZIMBfFI1LRYIZw5JLeOXJ5jbST/C2/ZYEOANi5/eZEXQFDMXXGdpOBxli+gDzsslqI0DAa1+IsvdZOOdjhiCVAe2UlUJX1gTsqkc+6g3/lcOuuO0Dbc3WO1so7fUbQV2xvEO7hbpD30UqNgwaKpqYKj76/jxxqkLZ4s+mK3e8pssjnJaIJ+1jQeiTAI5OxV+k2hJOb+V+fVtBwKsX8g6GYEV7qVVbcVCeMKkjD3dy72AVoyA40Yhgx47XLQ708cetLUDHU9yeE0TOJmSui2pnO6AnuFiDXy9I47/EQzZegDqwuk2hxSrb+zo7KbjR7mBJy1u5fY7f7ymbyS9Em2qCgTIyrp+h6ULU8NmL+E5y00KrFS2pVprzKdXxzuymOtQBSRuKIoclGlV81gp0NgRE1rLw==;1+ixSkkkfIGD8mD8g/7W+Q=="
+secured: "5GzZHZBp8d+IRfjky0LVMtfFXdQQodIKtNiksTYkrncMDvjDu3hcewryvBDe1RnJDmHxC8cdVoOLEqI3DA7yhTmwLQQiViydCR7CiqOZBzgd1asfuLG5rly1I5/JExQ3Nw5JXh08FSsj4aaPf1J6V/rs5EdoY0dg6L/y9+I0622JV6Ul1Yr892YtAhT+PACaJ6Vb6FMCf9xFssUuOe3gxzlR+CvIlFYZgXfyPy1wkxnShZMAKwK/gxezQX9i7jzibiA0Ubuyaah44dErqfKLRMBVnETpOROSeDNLeQJlshP1QklKr4SmDE/jxRMfkERF5TZwGUIV9aj7Px7zQu/pTIKL45O9arciKmPXzbxtGXw=;3JF4kYlcnAcppP9HHTnd3g=="
 ---
 

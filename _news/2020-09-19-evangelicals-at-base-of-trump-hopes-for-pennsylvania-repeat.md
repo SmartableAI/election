@@ -160,6 +160,15 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 40
+  - title: "Joe Biden Tours Ohio and Pennsylvania By Train"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train. 2020 Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train."
+    publishedDateTime: 2020-09-30T09:01:00Z
+    webUrl: "https://www.c-span.org/video/?476383-1/joe-biden-tours-ohio-pennsylvania-train"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Pence Hosts Debate Watch Party in Lititz, Pennsylvania"
     excerpt: "President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz, Pennsylvania. Vice President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz,"
     publishedDateTime: 2020-09-29T22:26:00Z

@@ -414,6 +414,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump and Biden show own vulnerabilities in a messy argument that was barely a debate: ANALYSIS"
+    excerpt: "Former Vice President Joe Biden wanted a debate about President Donald Trump and his record. Trump wanted a debate about Biden – and Elizabeth Warren, Bernie Sanders and Biden’s son, Hunter, along the way."
+    publishedDateTime: 2020-09-30T09:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 128
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-trump-debate-splt-gty-ps-200929_1601430833917_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Undecideds: Sure, Biden and Trump are very different. But maybe neither is right for the job."
     excerpt: "Maybe the debates will help, but for now, Karen and Marlin Boltz remain genuinely stymied. The couple voted for Donald Trump four years ago, but they can’t stand how he’s divided the country and emboldened white supremacists."
     publishedDateTime: 2020-09-28T10:09:00Z
@@ -618,10 +634,26 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden and Trump clash over filling Justice Ruth Bader Ginsburg's Supreme Court seat at the first presidential debate"
+    excerpt: "\"We won the election, and therefore we have the right to choose her,\" Trump said of his Supreme Court nominee."
+    publishedDateTime: 2020-09-30T09:05:00Z
+    webUrl: "https://www.businessinsider.com/biden-and-trump-clash-at-debate-over-filling-supreme-court-seat-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-and-trump-clash-at-debate-over-filling-supreme-court-seat-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-and-trump-clash-at-debate-over-filling-supreme-court-seat-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f73dd1a74fe5b0018a8e233?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Presidential debate live: Donald Trump tries to steamroll Joe Biden in chaotic clash"
     excerpt: "Candidates faced off in Cleveland, Ohio, with Chris Wallace of Fox News moderating the bitterly personal showdown"
-    publishedDateTime: 2020-09-30T07:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f74357e8f08097c05821a59"
+    publishedDateTime: 2020-09-30T09:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f74436b8f08df432c7aaa6b"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
     type: article

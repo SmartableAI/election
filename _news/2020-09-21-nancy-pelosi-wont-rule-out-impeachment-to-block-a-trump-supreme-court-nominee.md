@@ -207,6 +207,22 @@ related:
         width: 777
         height: 545
         isCached: true
+  - title: "Trump the disrupter has lost his novelty"
+    excerpt: "When political newcomer Donald Trump joined a stage full of other Republican candidates in August 2015 for the first presidential primary debate of the 2016 cycle, it was widely predicted that while Trump had been an entertaining diversion,"
+    publishedDateTime: 2020-09-30T09:08:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/30/trump-disrupter-has-lost-his-novelty/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/30/trump-disrupter-has-lost-his-novelty/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/30/trump-disrupter-has-lost-his-novelty/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NF5N6OQCZQI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Some textbooks still parrot Donald Trump’s skewed version of U.S. history"
     excerpt: "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history."
     publishedDateTime: 2020-09-24T10:57:00Z

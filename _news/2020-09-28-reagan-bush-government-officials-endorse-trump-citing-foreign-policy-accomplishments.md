@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump implements new travel restrictions to Cuba, bans purchase of rum and tobacco"
-    excerpt: "President Trump announced new restrictions for American travelers going to Cuba, barring them from purchasing rum and tobacco or staying in Cuban government-funded hotels. "
-    publishedDateTime: 2020-09-23T16:18:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WH9fGUL9KQk/trump-announces-ban-on-purchasing-rum-tobacco-from-cuba"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-announces-ban-on-purchasing-rum-tobacco-from-cuba.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-announces-ban-on-purchasing-rum-tobacco-from-cuba.amp"
+  - title: "Sheriff in Portland denies Trump's debate claim of winning his endorsement"
+    excerpt: "The sheriff of Multnomah County, which includes Portland, Ore., emphatically denied supporting President Trump Tuesday evening shortly after the president made the claim."
+    publishedDateTime: 2020-09-30T08:27:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement"
+    ampWebUrl: "https://www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/sheriff.png?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Federal judge orders Trump admin to respond to accusations census workers ordered to halt operations"
-    excerpt: "A federal judge ordered the Trump administration Wednesday to respond to accusations from census workers that they had been ordered to halt field operations."
-    publishedDateTime: 2020-09-29T22:16:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WlsANo3ymCE/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work"
-    ampWebUrl: "https://www.foxnews.com/politics/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/federal-judge-orders-trump-admin-to-respond-to-accusations-census-workers-ordered-to-halt-work.amp"
+  - title: "Trump denies ‘ridiculous’ report that he wanted Ivanka to be his running mate"
+    excerpt: "President Trump is calling reports claiming he wanted his daughter Ivanka Trump to be his 2016 running mate “ridiculous.”"
+    publishedDateTime: 2020-09-29T11:50:00Z
+    webUrl: "https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/"
+    ampWebUrl: "https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
+      name: New York Post
+      domain: nypost.com
+    quality: 132
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20142633041337.jpg"
-        width: 1024
-        height: 577
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/trump-ivanka-vp-61.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "8dECBpp/nwhkqfH91hpBmeXmt21XD8Vj2Ier+br+b9nnkbiivcdYSiDAG8C4ZmpUYvAy5K4GU5LKqym13E9+/3K83sGmfN9/3LE+M2edbcYKy0nCbhGxl0yBPctQX7YwfQEkjkRywL4jJzQpDWGwXNmfQLe3GWVXv5G2eQmI1VJIQA7LLuO6DgfWJ95Yy8EyvTsn2TLu5+pnYA/AUsvZ0q2cbAdUGQ8oTDA1heIYrfMs3IL/C70EjXU6Ghckf48FAlAGRnK9FiTertjENcjucg1x0Z4YTfBhPOD9A2nnDhYEwuP0gqQIjVRIyxnzCu9bw1dRqp40Zjslfci/TUjB9CaYm+JhdTPXawXXNneZhw4=;0ymp6xHMkTdiBRfy21F71Q=="

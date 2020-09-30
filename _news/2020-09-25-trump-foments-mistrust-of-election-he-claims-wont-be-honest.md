@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 2250
+heat: 2290
 published: true
 
 provider:
@@ -1166,6 +1166,38 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/27/us/politics/27trump-presser/27trump-presser-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Watch 4 Key Moments From Trump at the First 2020 Debate"
+    excerpt: "These were the moments that defined President Trump’s first presidential debate against Joe Biden. transcript President Trump and former Vice President Joseph R. Biden Jr. went head to head on their records,"
+    publishedDateTime: 2020-09-30T09:33:00Z
+    webUrl: "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-video.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-video.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/30/us/politics/trump-debate-video.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/-29vid-debate-trump-9/-29vid-debate-trump-9-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Will You Leave the Country if Trump Is Re-Elected?"
+    excerpt: "If Trump is re-elected, that’s it. I’m never coming back.” I thought it was a joke because I didn’t believe that Donald Trump could possibly be re-elected. Not after all these years of racism. Not after declaring our fallen soldiers “losers,"
+    publishedDateTime: 2020-09-30T09:04:00Z
+    webUrl: "https://www.nytimes.com/2020/09/30/opinion/trump-2020-moving-abroad.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/30/opinion/trump-2020-moving-abroad.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/30/opinion/trump-2020-moving-abroad.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"

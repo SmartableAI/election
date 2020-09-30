@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-announces-ban-on-purchasing-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-announces-ban-on-purchasing-rum-tobacco-from-cuba.amp"
 type: article
 quality: 169
-heat: 209
+heat: 189
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20142633041337.jpg"
         width: 1024
         height: 577
-        isCached: true
-  - title: "Reagan, Bush government officials endorse Trump, citing foreign policy accomplishments"
-    excerpt: "In an open letter, 70 former officials lauded the president for pursuing a \"strong foreign and national security policy in America's interests.\" "
-    publishedDateTime: 2020-09-28T17:33:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0VrmmwwIpw/reagan-bush-officials-endorse-trump-citing-foreign-policy-accomplishments"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20271818435544.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "nDNtOGhtSN+yhPBeciI2M/NIYBO/foPZv4zzqj+j8FnupRPeZLdnKX389Vsu57SqiTyQR0+CXF0CpvqgjY2ZE7IIK47GH1gfDU9dXqeUO8ZCgASY6yyaNBT6eRAytfvBkc4/ZAPf9Ykbt53Y80PjXaWJ8BUmGs19QS8KiMcppLuPGIFVQmMxAGB+pe/gVnBdwGFbIFLd6tEGvoZIWLYKZL4WyDo0J4VVT0W5HOcjgz9ASwszxMdTjwksnavVKmGIKKG3qtdLReJrS/zjKysPtGcuGLKGwSZvYn2aTKK6R2j5QOZ3rALvW8ZZfhMwU+tkMWNDaUdS/UUp6ZfXlZUcql3q58ECAalfMgqm3kXF7ns=;VaQTnQf/WCW1YspS53FDZQ=="

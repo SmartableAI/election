@@ -2,19 +2,19 @@
 category: news
 title: "'I don't know Beau': Trump attacks Joe Biden as former vice president reflects on late son Beau Biden"
 excerpt: "My son was in Iraq. He spent a year there,\" said Biden, referring to his late son Beau Biden. \"He was not a loser.\""
-publishedDateTime: 2020-09-30T05:22:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/beau-was-not-loser-biden-defends-his-late-sons-military-service-after-reports-trump-disparaging-serv/3584230001/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/beau-was-not-loser-biden-defends-his-late-sons-military-service-after-reports-trump-disparaging-serv/3584230001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3584230001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3584230001"
+publishedDateTime: 2020-09-30T08:51:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/30/beau-was-not-loser-biden-defends-his-late-sons-military-service-after-reports-trump-disparaging-serv/3584230001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/30/beau-was-not-loser-biden-defends-his-late-sons-military-service-after-reports-trump-disparaging-serv/3584230001/"
+ampWebUrl: "https://amp.indystar.com/amp/3584230001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3584230001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -1943,14 +1943,14 @@ related:
     quality: 55
   - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
     excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-    publishedDateTime: 2020-09-29T09:00:00Z
-    webUrl: "https://www.kansas.com/opinion/article246083820.html"
-    ampWebUrl: "https://amp.kansas.com/opinion/article246083820.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/article246083820.html"
+    publishedDateTime: 2020-09-29T12:55:00Z
+    webUrl: "https://www.kansascity.com/opinion/article246083820.html"
+    ampWebUrl: "https://amp.kansascity.com/opinion/article246083820.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/article246083820.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: kansas.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 53
   - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
     excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
@@ -2048,6 +2048,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "EQnavKpKyhOSyWNBBCPPYy4KFYQJl5kstakmKyOxVELOmApIJ9UvKcooDM8GaPUd9zVVqVc5mldL2f8Dl5tq9sQI2Y/U1lYe/cXoGEnwJcw0TxoFNAY1BdDop8pXFIFidd/R7EjIvWJJxhmNxL5EU49H1lB/GNVQ8QOkfWgEr7Rrd81IoGcYYNjqHBUbD0fIUGgkEqYOJfaK//E0h1KwN9Lv7B5cBQoDNpUpVrks2yMSu2UW3lhlTGmjkiGI6qGfTzKvq5KzFXuNBzJG1t06CJjeeEbksT4vsScNDVV2IeZPTHfD2sRwihSDj331QEon5BfrjDmwmKyY3OlI6CsRbce1zs9fFLeqZeWP7jnUHtQ=;t98VGl9/uay3rIuJLAzR9A=="
+secured: "rU30xQBMwK7EZf1KzFvAXAKInJ3ASFSkci0WwfdM48J2UHDUblKpW0zByfo1ys5halF3s01sMzocYVs+xtnPM1HXHEVOYohrnvPQnusBTiWchO3C9/xz8mE66U7SYYvHASXJlT2Rj5cHd4W8uCcQb7MCCvvHCAXwlMnpiumvS+Q3cf+mMbne1IuJTKKtBsc1TFnRzXy4YxiCCeniEOXJJ7hJtvwNlta2yLCu2ise/zMdLTiCcfjAKk1dxnh35UBJM2+bJR+vC8D8ye0HnKOYUfxiHtIz8RPdg3A3y+FPCGOoeZ95EQNNoEB6Ye6/9pwNaFfdJwz6UTtipFG6RJUU7aeMIyo/39IDIAjmi7uqYLk=;gTTSbffIS6jpI9f1ugN0rg=="
 ---
 

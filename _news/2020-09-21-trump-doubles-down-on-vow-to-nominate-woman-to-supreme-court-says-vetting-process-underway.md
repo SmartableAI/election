@@ -455,7 +455,7 @@ related:
   - title: "Kamala Harris Answers Question On Packing Supreme Court: \"People Are Already Voting\""
     excerpt: "Democratic vice-presidential nominee Sen. Kamala Harris condemned President Donald Trump and Senate Republicans trying to \"rush\" a Supreme Court appointment before the election and said it is important to remember that \"people are already voting."
     publishedDateTime: 2020-09-29T13:52:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_answers_question_on_packing_supreme_court_people_are_already_voting.html"
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_answers_question_on_packing_supreme_court_people_are_already_voting.html#!"
     type: article
     provider:
       name: RealClearPolitics

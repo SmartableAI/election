@@ -45,6 +45,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
+    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
+    publishedDateTime: 2020-09-30T09:51:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ad5KXb5_jSs/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Joe Biden, the Father of 'Borking'"
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-09-25T11:36:00Z

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement</loc>
+    <lastmod>2020-09-30T01:27:33-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545</loc>
     <lastmod>2020-09-30T00:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -183,12 +189,6 @@
   <url>
     <loc>https://www.washingtonpost.com/media/2020/09/29/chris-wallace-debate-trump/</loc>
     <lastmod>2020-09-29T05:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/</loc>
-    <lastmod>2020-09-29T04:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

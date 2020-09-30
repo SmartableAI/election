@@ -2,19 +2,19 @@
 category: news
 title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
 excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-publishedDateTime: 2020-09-29T09:00:00Z
-originalUrl: "https://www.kansas.com/opinion/article246083820.html"
-webUrl: "https://www.kansas.com/opinion/article246083820.html"
-ampWebUrl: "https://amp.kansas.com/opinion/article246083820.html"
-cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/opinion/article246083820.html"
+publishedDateTime: 2020-09-29T12:55:00Z
+originalUrl: "https://www.kansascity.com/opinion/article246083820.html"
+webUrl: "https://www.kansascity.com/opinion/article246083820.html"
+ampWebUrl: "https://amp.kansascity.com/opinion/article246083820.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/article246083820.html"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: kansas.com
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - Election
@@ -1620,14 +1620,14 @@ related:
         isCached: true
   - title: "'I don't know Beau': Trump attacks Joe Biden as former vice president reflects on late son Beau Biden"
     excerpt: "My son was in Iraq. He spent a year there,\" said Biden, referring to his late son Beau Biden. \"He was not a loser.\""
-    publishedDateTime: 2020-09-30T05:22:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/30/beau-was-not-loser-biden-defends-his-late-sons-military-service-after-reports-trump-disparaging-serv/3584230001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3584230001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3584230001"
+    publishedDateTime: 2020-09-30T08:51:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/30/beau-was-not-loser-biden-defends-his-late-sons-military-service-after-reports-trump-disparaging-serv/3584230001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3584230001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3584230001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/602a80c9-5f6f-413c-8735-5b8a5a941375-AP_Election_2020_Debate_3.jpg?auto=webp&crop=5799,3262,x0,y0&format=pjpg&width=1200"
@@ -2047,6 +2047,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "1L8z+Wh7EdvDEwoXGnwvPBpaQ2hW9vUqgLHmXvcM1CUxWnIWdYFnfM+laTkxfKTPEbUh4WHo1Plmn57Sl3HpGB2Snw+mPxvt8oqeFWI3FvwthWdx42ocZPE/X0kCjypQVRONLGN+L6+63nTALdmqKzaTZutBAR6A+eOEpFQgPNsqy6O4P0SK5bEMaJq/1QW+wJK1g7Tj2zQY0/4oLp9bUculIAqSpT6fZ4H+lih/lMW7HqG85NLcDp5D+LFqeEMXflOGO1EIrOD8d20T2FXEGJps5Q0s6/F2sH2E0XUVXDs0xzQH1MLuPEj52L0SISZW1EiVJ829UBcm/hC1LfIjEa8//8ZtRqoqgw/UDdW+yFDarv1q0YrBV7yHmHusl3OvYuKY/z7YLE35HAueDvox96651/7G2EaIuVT23CLjKEDrfVql+BUmBiRVXdjlynOeBwICIqmBstC/AYfNvKLYcWIpy1Cj62sVQtYFyaleDF19peCLB08EmkWHN3a/hv0MxFpLSq8Kcr3GvU76V/NqAQ==;dKACnN6isae6eaLDFs3o1Q=="
+secured: "uBq1a2MePHEVuL5L8d8MWQsOw5P2GPKAPfSrk+QnhJztjuEhGMFH5t01tH4CXXIKUUor1om5rqpVngFYYL91pN3X/tGMzOHSlWBdGtgXcvGBD4Ef/8EtX7wwdqtqwHhCE2J0CmYj3A3QEL+UeSJA99vubAE3lyBipYIolfUcjPMmM038QRTiqqbQGL021KE094Spx16h5brhy5TldAwdpw9AJ85EEtVH90gDz0QENPrbEo5ZGUIBPAE4EaVjG7IVZH+qP5uKKgp+NWmdVetDYiZpCv+4WC7HPI3Sgrf/4axMlWKS4vtXzxktAcfjX6zyMccUbyccCn4uHEWpj3u6hV9rXHLdFeUvyrM60ESuJWre8wL4pFGBCTmCyJSEuCYNTYEYaRejBiQ8iby2pCXscMDRcXnvvJZOSFcWa1TeAy0yElOzRNchqiAeTyEptVdfOrtqGLP/GksGCK3LOfloN2gGzr/Ev42cHNzSsddKCKXAjm1WjLIL7whFB8tBdgJk5/7e3dfREupUd5EnlImqiA==;Xjdb6lue+RB3CPCz46WjqA=="
 ---
 

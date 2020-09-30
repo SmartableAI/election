@@ -588,53 +588,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-29-trump-denies-ridiculous-report-that-he-wanted-ivanka-to-be-his-running-mate.md",
-      "title": "Trump denies ‘ridiculous’ report that he wanted Ivanka to be his running mate",
-      "excerpt": "President Trump is calling reports claiming he wanted his daughter Ivanka Trump to be his 2016 running mate “ridiculous.”",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/",
-      "originalUrl": "https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/trump-ivanka-vp-61.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/amp/",
-      "publishedDateTime": "2020-09-29T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-trump-reportedly-raked-in-427-million-from-the-apprentice-handing-him-a-financial-lifeline-amid-big-losses.md",
       "title": "Trump reportedly raked in $427 million from 'The Apprentice,' handing him a financial lifeline amid big losses",
       "excerpt": "Trump earned $427 million from starring on reality TV show \"The Apprentice,\" boosting his image and finances as his other businesses lost money.",
@@ -955,7 +908,7 @@
       "originalUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1554,6 +1507,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-trump-says-he-did-not-discuss-election-with-court-nominee-barrett.md",
+      "title": "Trump says he did not discuss election with court nominee Barrett",
+      "excerpt": "U.S. President Donald Trump said on Sunday he hopes his Supreme Court nominee Amy Coney Barrett is paying attention to the issue of mail-in ballot security but said he did not discuss the upcoming U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
+      "originalUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1360,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535128732&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0RE",
+          "width": 838,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26I128",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I128",
+      "publishedDateTime": "2020-09-27T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
