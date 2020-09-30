@@ -159,6 +159,22 @@ related:
         width: 371
         height: 250
         isCached: true
+  - title: "Joe Biden's plans to hike taxes for rich Americans will be key for markets if he wins the election, a strategist says"
+    excerpt: "Robertson said markets will factor in whether Biden's tax plans pressure domestic equities and credit markets at the expense of foreign markets."
+    publishedDateTime: 2020-09-30T11:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f745c180ab50d00184ad34d?format=jpeg"
+        width: 3500
+        height: 1750
+        isCached: true
   - title: "Joe Biden speaks about Supreme Court in Philadelphia"
     excerpt: "Democratic presidential nominee Joe Biden is expected to make remarks in Philadelphia, two days after the death of Supreme Court Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-20T18:33:00Z

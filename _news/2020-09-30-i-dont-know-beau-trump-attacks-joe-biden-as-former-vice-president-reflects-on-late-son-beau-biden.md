@@ -75,6 +75,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Fact-checking the first Trump-Biden debate of the 2020 election"
+    excerpt: "Tuesday night's debate featured a nonstop barrage of false claims, misinformation, and conspiracy theories, mostly from President Donald Trump."
+    publishedDateTime: 2020-09-30T11:08:00Z
+    webUrl: "https://www.businessinsider.com/fact-check-of-first-trump-biden-2020-presidential-debate-live-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/fact-check-of-first-trump-biden-2020-presidential-debate-live-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fact-check-of-first-trump-biden-2020-presidential-debate-live-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 155
+    images:
+      - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cindy McCain endorses Joe Biden in rebuke of President Trump"
     excerpt: "Cindy McCain’s backing could help Biden appeal to Republicans disaffected with Trump and give the former VP a boost in Arizona."
     publishedDateTime: 2020-09-23T00:24:00Z
@@ -2048,6 +2064,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "rU30xQBMwK7EZf1KzFvAXAKInJ3ASFSkci0WwfdM48J2UHDUblKpW0zByfo1ys5halF3s01sMzocYVs+xtnPM1HXHEVOYohrnvPQnusBTiWchO3C9/xz8mE66U7SYYvHASXJlT2Rj5cHd4W8uCcQb7MCCvvHCAXwlMnpiumvS+Q3cf+mMbne1IuJTKKtBsc1TFnRzXy4YxiCCeniEOXJJ7hJtvwNlta2yLCu2ise/zMdLTiCcfjAKk1dxnh35UBJM2+bJR+vC8D8ye0HnKOYUfxiHtIz8RPdg3A3y+FPCGOoeZ95EQNNoEB6Ye6/9pwNaFfdJwz6UTtipFG6RJUU7aeMIyo/39IDIAjmi7uqYLk=;gTTSbffIS6jpI9f1ugN0rg=="
+secured: "T5c0hoOT78RxFfSO8s51nkviH1FLJkbD3qiqG/RI0beSID4L1HUT2boIRqRDJh5+V07u9cdhx93usdROvMKJbWPx1O+UDg1dWJsz/QjDhyPim7dXoFDk4ikjMYeA3zNukBouSdJxnuLemduvKb7ZDRO0BCZFc7j9qMliwUPERxt7z7W+eis0bAV0q0yRMgpoS8gJgfh8tawyPAnLiqmtaU43vFSUAcuC+wkuMltr7njk1ELqhDhKHK9eikcRgzZkEfIYjTrFO4tXATW7s6HTY5Uf0gtz4ztvqB90LyqG2H0dKi0tmpq4wDOxk7yKUdckLwxXnBQUR6dQq+r6XB/AeX/uWD87T/qArIU10BdOLTNCB9NbxXjD1N2v0uwbEcqjX3rw9ZGFgK+V+8rbB5pPV571WoQeewsaO5oIz7fWIMIPWjMSlMwGqZHJob0M9k9MLr1ozrz0bm1yM/RmJ/Ul7p0fvnQ6YHFXMLXybfldkI8+E+U5gTq5Fr1zWZ+gTURxXP6PTBO4Gjguub+1peNc1g==;GbkhKrwa6gw4hAz4ows5+w=="
 ---
 

@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's chaotic debate underscores stakes of November's election"
+    excerpt: "It was easily the worst and most rancorous presidential debate in history. But it still left the country with its starkest election choice in many generations.\n    \n"
+    publishedDateTime: 2020-09-30T10:36:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-EzEHu_SChU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/donald-trump-joe-biden-debate-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/donald-trump-joe-biden-debate-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929235006-biden-trump-opinion-roundup-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Dems to insist Trump's court nominee sit out legal challenges to election results "
     excerpt: "Senate Democrats say they will press President Donald Trump's Supreme Court nominee to commit to recuse herself if the justices hear a case that could impact the outcome of the fall elections, a request that could become a major flashpoint amid Trump's persistent attacks on the legitimacy of the elections.\n"
     publishedDateTime: 2020-09-25T23:35:53Z

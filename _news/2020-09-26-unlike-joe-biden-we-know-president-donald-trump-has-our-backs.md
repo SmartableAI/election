@@ -385,6 +385,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump-Biden presidential debate in Cleveland: Top 5 moments"
+    excerpt: "President Trump and Democratic presidential candidate Joe Biden attacked each other in starkly personal terms for more than 90 minutes as moderator Chris Wallace worked to get both candidates, but especially Trump, to follow the debate rules the candidates had agreed to."
+    publishedDateTime: 2020-09-30T11:11:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lveyVjhCvqQ/top-5-moments-of-the-first-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/top-5-moments-of-the-first-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-5-moments-of-the-first-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -430,6 +446,22 @@ related:
     quality: 189
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f3c1523-b26e-498e-82ba-4f05a8f4482a/94d5263d-4a78-4f96-bf8d-8dbfb7b843b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden clashes with Trump over Antifa: 'It's an idea, not an organization'"
+    excerpt: "President Trump and former Vice President Joe Biden had a heated exchange over extremist violence with each facing questions over their stances towards them."
+    publishedDateTime: 2020-09-30T10:38:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VBgt1py2VFM/biden-trump-antifa-idea-organization"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-antifa-idea-organization.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-antifa-idea-organization.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/139a0cb1-fcb1-43fa-b9ff-2a72e2ac4f3d/d58ea3dd-ac27-4c05-a566-40e7457c49c1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

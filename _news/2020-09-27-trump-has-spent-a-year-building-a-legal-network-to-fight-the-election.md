@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's chaotic debate underscores stakes of November's election"
+    excerpt: "It was easily the worst and most rancorous presidential debate in history. But it still left the country with its starkest election choice in many generations.\n    \n"
+    publishedDateTime: 2020-09-30T10:36:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-EzEHu_SChU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/donald-trump-joe-biden-debate-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/donald-trump-joe-biden-debate-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929235006-biden-trump-opinion-roundup-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Biden prepare for a clash over voter fraud claims at Tuesday's debate"
     excerpt: "President Donald Trump is expected to wage an attack on the election itself at Tuesday night's debate with former Vice President Joe Biden by repeating his past claims that conflate and exaggerate problems with mail-in voting.\n    \n"
     publishedDateTime: 2020-09-29T14:46:27Z

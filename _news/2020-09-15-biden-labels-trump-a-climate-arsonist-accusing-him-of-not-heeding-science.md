@@ -974,6 +974,20 @@ related:
         width: 5368
         height: 3577
         isCached: true
+  - title: "The moment Trump seized on Biden's sons"
+    excerpt: "Trump's attack-dog style in the first debate crescendoed when the subject shifted to Hunter as Joe Biden talked about his late son Beau."
+    publishedDateTime: 2020-09-30T11:41:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-beau-biden-presidential-debate-423417"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c075efe0-333d-4821-9bf4-75d0ca29bbb2/07e3938c-d245-42d0-9726-dd3a2d90c373/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "‘Cindy can have Sleepy Joe!’: Trump targets McCain’s widow after Biden endorsement"
     excerpt: "The attack comes after Cindy McCain tweeted that there is “only one candidate” in the presidential race “who stands up for our values as a nation.”"
     publishedDateTime: 2020-09-23T13:52:00Z

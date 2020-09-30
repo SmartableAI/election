@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5315
+heat: 5335
 published: true
 
 provider:
@@ -782,6 +782,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f714597cd431d6853866aad%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Whether it's Trump or Biden, here are 3 stocks to buy no matter who wins"
+    excerpt: "The Clorox Company, Starbucks and Waste Management all seem to be good buys no matter who wins the election. Before the coronavirus pandemic, Clorox was a seldom-discussed consumer staple stock living in the shadow of larger leaders like Procter & Gamble."
+    publishedDateTime: 2020-09-30T11:07:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/30/3-stocks-that-are-buys-no-matter-who-wins-the-election/114163156/"
+    ampWebUrl: "https://amp.usatoday.com/amp/114163156"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/114163156"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 139
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/295354e6032ea5e6a7e14bbdfc7a5c527c1e9bb9/c=0-106-2128-1303/local/-/media/2020/09/29/USATODAY/usatsports/gettyimages-1156281124.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden and Trump Tied in Key State of Iowa, Gender Divide Widest of All Time"
     excerpt: "Trump holds a 21 percent advantage over Biden among Iowa men, 57 to 36 percent. But Biden holds a 20 percent lead over Trump among women voters, 57 to 37 percent."

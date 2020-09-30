@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1530
+heat: 1550
 published: true
 
 provider:
@@ -958,6 +958,20 @@ related:
       - url: "https://static.politico.com/36/c7/9814b1414b9eb8e2f14963a2ae95/ap20271649344314.jpg"
         width: 5368
         height: 3577
+        isCached: true
+  - title: "The moment Trump seized on Biden's sons"
+    excerpt: "Trump's attack-dog style in the first debate crescendoed when the subject shifted to Hunter as Joe Biden talked about his late son Beau."
+    publishedDateTime: 2020-09-30T11:41:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-beau-biden-presidential-debate-423417"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c075efe0-333d-4821-9bf4-75d0ca29bbb2/07e3938c-d245-42d0-9726-dd3a2d90c373/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden labels Trump a ‘climate arsonist,’ accusing him of not heeding science"
     excerpt: "The Democratic nominee’s remarks were meant to address the wildfires that have been raging across Western states for three weeks."

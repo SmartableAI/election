@@ -69,6 +69,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Fact-checking the first Trump-Biden debate of the 2020 election"
+    excerpt: "Tuesday night's debate featured a nonstop barrage of false claims, misinformation, and conspiracy theories, mostly from President Donald Trump."
+    publishedDateTime: 2020-09-30T11:08:00Z
+    webUrl: "https://www.businessinsider.com/fact-check-of-first-trump-biden-2020-presidential-debate-live-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/fact-check-of-first-trump-biden-2020-presidential-debate-live-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fact-check-of-first-trump-biden-2020-presidential-debate-live-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 155
+    images:
+      - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cindy McCain endorses Joe Biden in rebuke of President Trump"
     excerpt: "Cindy McCain’s backing could help Biden appeal to Republicans disaffected with Trump and give the former VP a boost in Arizona."
     publishedDateTime: 2020-09-23T00:24:00Z

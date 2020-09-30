@@ -173,6 +173,22 @@ related:
         width: 371
         height: 250
         isCached: true
+  - title: "Joe Biden's plans to hike taxes for rich Americans will be key for markets if he wins the election, a strategist says"
+    excerpt: "Robertson said markets will factor in whether Biden's tax plans pressure domestic equities and credit markets at the expense of foreign markets."
+    publishedDateTime: 2020-09-30T11:31:00Z
+    webUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tax-policy-key-focus-for-markets-wins-elections-strategist-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f745c180ab50d00184ad34d?format=jpeg"
+        width: 3500
+        height: 1750
+        isCached: true
   - title: "George W. Bush's first EPA chief on why she supports Joe Biden"
     excerpt: "Christine Todd Whitman, the former Republican governor of New Jersey who headed the Environmental Protection Agency under President George W. Bush, is endorsing Joe Biden in the presidential race. She joined CBSN to explain why she believes the Democratic nominee is a better choice for the country than President Trump."
     publishedDateTime: 2020-09-28T21:56:00Z

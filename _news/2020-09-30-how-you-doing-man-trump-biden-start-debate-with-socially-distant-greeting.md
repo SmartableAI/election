@@ -319,6 +319,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden says 'it's hard to get a word in with this clown' after Trump interrupts him"
+    excerpt: "Biden turned his exasperation at Trump cutting him off and going after his family into a plea for the debate to focus on American families."
+    publishedDateTime: 2020-09-30T10:46:00Z
+    webUrl: "https://www.businessinsider.com/biden-hard-to-get-a-word-in-with-this-clown-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-hard-to-get-a-word-in-with-this-clown-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-hard-to-get-a-word-in-with-this-clown-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
+    images:
+      - url: "https://i.insider.com/5f73e8ed74fe5b0018a8e23e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Power Up: The unlikely state where Joe Biden is likely to flip a Trump electoral vote"
     excerpt: "Cook Political Report’s D avid Wasserman says, however, Biden is likely to pick up an electoral vote in the 2nd. This state and Maine are the only ones that award some of their"
     publishedDateTime: 2020-09-28T10:27:00Z
@@ -651,8 +667,8 @@ related:
         isCached: true
   - title: "Presidential debate live: Donald Trump tries to steamroll Joe Biden in chaotic clash"
     excerpt: "Candidates faced off in Cleveland, Ohio, with Chris Wallace of Fox News moderating the bitterly personal showdown"
-    publishedDateTime: 2020-09-30T09:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f74436b8f08df432c7aaa6b"
+    publishedDateTime: 2020-09-30T11:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f7457778f08df432c7aaba1"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
     type: article
@@ -737,6 +753,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/xlw5MTyf5yNbqKb-ufPEhTKH2rc=/0x0:5760x3240/1400x1050/filters:focal(2420x1160:3340x2080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67556686/Election_2020_Debate.0.jpg"
         width: 1400
         height: 1050
+        isCached: true
+  - title: "Vice President Mike Pence rallies Trump supporters in Lancaster"
+    excerpt: "Speaks to Trump supporters before the opening debate between President Donald J. Trump and Democratic nominee Joe Biden."
+    publishedDateTime: 2020-09-30T01:36:00Z
+    webUrl: "https://www.pennlive.com/news/2020/09/vice-president-mike-pence-rallies-trump-supporters-in-lancaster.html"
+    ampWebUrl: "https://www.pennlive.com/news/2020/09/vice-president-mike-pence-rallies-trump-supporters-in-lancaster.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/09/vice-president-mike-pence-rallies-trump-supporters-in-lancaster.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PBWHCUKAVNF3FOQCLNLOD37M6E.jpg"
+        width: 3300
+        height: 2284
         isCached: true
   - title: "Watch Joe Biden tell President Donald Trump to ‘shut up, man’"
     excerpt: "After 20 minutes of back and forth between President Donald Trump and Democratic nominee Joe Biden, the two got into a testy exchange over plans for the Supreme Court. After being cut off by Trump, Biden snapped “would you shut up,"
@@ -1031,6 +1063,6 @@ related:
         height: 560
         isCached: true
 
-secured: "lqhasVCInIBZuJf6k0TJ7OKTmbbMyz94537FiVOdeb7hV3Dr0Ex8aDb6VYUjZabx1lZ93mGPPKyKXEPYLZBW5jQ+/m7C0tcsVaQTfQFvtNL5qTSg769h+hZrWlvIhmrHpNKcgJ5h0gmB/uL3whCx6aHld6MBmHLYb69bAGZp7tKx5x+tJT9N/y2lS6PCm4XYBeKzP2DxtlwbEbayuOF8RK3rod5+KnHZJ2VBrNrGFK1wzv8PdLzwnPkMDMRpdbHMRx/6trlqdFpFqAnQfrTVVYUu5n+PeLREdVTFIzYnZP5VQDrT+eTfUTNfiVgeFT3Y0wqDHxNTkPRrWhkYBm+vonldYO3P2q3eQlaKtczBfxk=;LP3MJn5dvy4kIs1zcFGuOg=="
+secured: "UGC+Jri1uAe27O2vy2pLMejpxqSDe4YVGAFfwssGCGZFlFMniv8kri33S6MYP8lXIHnM92yeeLg60Gr8/zL8rUt8CSiA/bhlCOc/VXO1jvOCVfxmkj44ZgxdNkWfLnNql7t7WmcLSQXkoBsvbbaLziFpRVWGKJA/XdUb6bufq++pAFWuGB1x1GwaqyB0ikHsr29s8z1PXymuNZR+RYTdUEg27MuqPD5ugPbPqztKLD6GP4LPWuaOwtIq1P/xbp2PADJAKX4/TlNbBDeV6fRaeMQRaCAiK8Kg8y420Y7fk/sxge/RynoT7NSBUTLKfLke1uRs+QPwZO3tiCKuS3LpdzilN3bLHCehB60ha304xHfBm9ZDLbLWIissK/ztJIc7GdZ1r+MP3wllbtF9wMeVD1aBA33rLIQhuz6HtBM/6c2xUeT5Kjb7MrJ4yoKmKJZMNpO1DvVvOWwXUuFPY6Y3Sm7itMuvzKmJQESi6GEmCCeA2/RATDvtym5umlJ/VtYiK8px3klJyiExr+vHcTu6/w==;IDSnSnug/wGJmOmWSXj18g=="
 ---
 

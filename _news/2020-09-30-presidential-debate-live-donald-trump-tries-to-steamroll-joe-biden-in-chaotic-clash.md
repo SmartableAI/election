@@ -2,9 +2,9 @@
 category: news
 title: "Presidential debate live: Donald Trump tries to steamroll Joe Biden in chaotic clash"
 excerpt: "Candidates faced off in Cleveland, Ohio, with Chris Wallace of Fox News moderating the bitterly personal showdown"
-publishedDateTime: 2020-09-30T09:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f74436b8f08df432c7aaa6b"
-webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f74436b8f08df432c7aaa6b"
+publishedDateTime: 2020-09-30T11:01:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f7457778f08df432c7aaba1"
+webUrl: "https://www.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates?page=with:block-5f7457778f08df432c7aaba1"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/sep/29/presidential-debate-latest-news-tonight-watch-trump-biden-taxes-coronavirus-updates"
 type: article
@@ -328,6 +328,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/lQ7f90Dem0Z5CM0jOksOmGwuBn4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KYX7UR7W5JBIZBUKIFUJDCU4LE.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden says 'it's hard to get a word in with this clown' after Trump interrupts him"
+    excerpt: "Biden turned his exasperation at Trump cutting him off and going after his family into a plea for the debate to focus on American families."
+    publishedDateTime: 2020-09-30T10:46:00Z
+    webUrl: "https://www.businessinsider.com/biden-hard-to-get-a-word-in-with-this-clown-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/biden-hard-to-get-a-word-in-with-this-clown-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-hard-to-get-a-word-in-with-this-clown-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
+    images:
+      - url: "https://i.insider.com/5f73e8ed74fe5b0018a8e23e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Power Up: The unlikely state where Joe Biden is likely to flip a Trump electoral vote"
     excerpt: "Cook Political Report’s D avid Wasserman says, however, Biden is likely to pick up an electoral vote in the 2nd. This state and Maine are the only ones that award some of their"
@@ -737,6 +753,22 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "Vice President Mike Pence rallies Trump supporters in Lancaster"
+    excerpt: "Speaks to Trump supporters before the opening debate between President Donald J. Trump and Democratic nominee Joe Biden."
+    publishedDateTime: 2020-09-30T01:36:00Z
+    webUrl: "https://www.pennlive.com/news/2020/09/vice-president-mike-pence-rallies-trump-supporters-in-lancaster.html"
+    ampWebUrl: "https://www.pennlive.com/news/2020/09/vice-president-mike-pence-rallies-trump-supporters-in-lancaster.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/09/vice-president-mike-pence-rallies-trump-supporters-in-lancaster.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PBWHCUKAVNF3FOQCLNLOD37M6E.jpg"
+        width: 3300
+        height: 2284
+        isCached: true
   - title: "Watch Joe Biden tell President Donald Trump to ‘shut up, man’"
     excerpt: "After 20 minutes of back and forth between President Donald Trump and Democratic nominee Joe Biden, the two got into a testy exchange over plans for the Supreme Court. After being cut off by Trump, Biden snapped “would you shut up,"
     publishedDateTime: 2020-09-30T02:08:00Z
@@ -1030,6 +1062,6 @@ related:
         height: 560
         isCached: true
 
-secured: "l2q5w14bbYX06iDZ+R9G0Bza7Tecs/exxGPTYYbm7O2QJfljmn4RkJxEsuVyPIITLXABILwjl6DK8K31iV8NxBil08A5y+4VQnH6et3491WoLZiHK9xB59b7n/AlF7IaHU8DnDiwrRQsa9gq4oZtk69vtge6C4uDoPuiqvUlCqfuCHBnFgzd/mW4raZv0PyddWDRbOOGYV+zrpNsZ6h9+bNOkcmRydaqUe4PD3/RPxE/jBUWnNFLgoxnYSvIRgQ1PwenF7IE4ozAFxyE7nR6c3futaPeW5rN+CggLNMCiTKC9pT9LJkZyDqRlh8buY1u9AkcaDq9by7EKHcgFq5wr2pkfFQiDuTgJG0hjSVrjLPhYLBoX0GXB8CdwwsaBJdOJgNceAKRQLJ9/AyPDyL08edfZFDCBEntSmXFPYLo5jPSPx8qkZ34zGUdckddWSvSvkL5VjTFNGWnmo1lzYf28eTmRI7xHTemS01OaKNEf9PhFNj8I8BmEsLMxB4qWiHby+5j1Q85er5lJoUy3k5E0A==;DM1cGLzOC54UkSfC6FZBWg=="
+secured: "RS7vfg6rqB9k5AbFE4ufBsZIk/uTdIwaEGAsxNEANylkJNhVuCxbxj4B0rkQR+mD2nzkXnodxr8F/WyRov3LRkyxAnejqfl+7ddRFeZENgReghaBzQMOjIfeVC++MbUQL27XJKMW1uiavJ7uyrrPLuqUFvB2QRqJoFnfoRJtrbgZWx4oH8pLsB15FSjSjXCQz2aGT5LjNDPc6l/vOZMUb30WQ4a/IFaAvsKVWkpbbcJFjlnAlKrb4oIteG09mUV8DBmmnJ4WG5+GrE1I/sJm/SDI0B91XMjeHtGKiRHlTWGDZzvtl6A8R3mPDfx1O4lh5qpUgy61NnaHmnDxhrJo+SuyO4/W4vUBFRF3f9YubavSjdyuIUM93PY0ETpecRoO7+2QMw+NZg4469eARrJMDmdmNDn0rXxdAi32LGmw3YxkS9cMqJ+9OL/WgG+d+ErGz0WWNG6Azh/XqFEv/7psXjdMrtN16LfOdra3bL4N92qvuLi1irW1JLRQVhAPyaDYiwgOJvBNrW51066uiKIwoA==;wNdcQCMtvfS6Qo9Vajt8MA=="
 ---
 
