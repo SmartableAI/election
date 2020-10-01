@@ -3,8 +3,8 @@ category: news
 title: "When is the Mike Pence–Kamala Harris debate?"
 excerpt: "Mike Pence and Kamala Harris. Donald Trump’s vice president and Joe Biden’s running mate will face off against each other"
 publishedDateTime: 2020-09-30T20:15:00Z
-originalUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
-webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
+originalUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30?mod=hp_minor_pos20"
+webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30?mod=hp_minor_pos20"
 ampWebUrl: "https://www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
 type: article
@@ -831,6 +831,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-30-2020/t_2d3698edf08f44e8a535111053905759_name_thumb.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "A Justice Barrett would keep Biden's worst ideas in check"
+    excerpt: "This system of checks and balances provides each branch of government with powers to prevent any one from becoming too powerful."
+    publishedDateTime: 2020-10-01T15:30:00Z
+    webUrl: "https://thehill.com/opinion/immigration/519078-a-justice-barrett-would-keep-bidens-worst-ideas-in-check"
+    ampWebUrl: "https://thehill.com/opinion/immigration/519078-a-justice-barrett-would-keep-bidens-worst-ideas-in-check?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/immigration/519078-a-justice-barrett-would-keep-bidens-worst-ideas-in-check?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/barrettamyconey_trumpdonald_092620upi2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -2342,6 +2358,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "Bsjx4ewsi2sSn2L6l0349LRRG9DSr1issaomTjt7SFjIj5NIjcwkWlWUnEEXncf3eQTQKkJMGZD5+y/5VXkvmfQYWV9UpyqLwto9RKSoxxmYIZ3O1O9Z604bLzKOB4v2KCbjcrUMVk/ZENs5HqyWykGD7zzYBFsdc5Vfgv2trhsGQe4I1gC/oO7do3oGy+P0ywyKMrXKbLXh9011pD31SJDlr5a/WyUppn43lEbr7kG8ZQvMgW1PhnaFMRGiI7vWMIbZTNC5muAI0JTPtI2f+p6FuhvEOO77lkz9iMiQcGgcE5Sj1Y3tiVbcH1pof7MTEwGFEk1AzgwLjwKPrzgIKJaXzNUhRM7YdVYQbSFyrpQoTogN0MQkmDGzZ0taaz5MWIP46BGaek7iAu8abXxQwVu6WfwZ9E2xlywRK6kzBD8NbBmr6G+U7XcRrXTi9xuNQU5Y3KpxyeMqJYay2WI0tMNojxTKWBbFQVw/jbscgHYIENxBHi5AaRenwigFRu/RJ6j/U0uPuOpPVsCpg4ldBQ==;0d17BfmYvUvwxfmxEadeFw=="
+secured: "mOMK1aXHLPa0iM3r1YeLfJoa6SApYbnp3G2QIrDsL6r9uZebQzXNWt+oaVQ7q0TpnSf3oyXNCNk76hmy4BoKnl4H/2YR0O7+Dl6SYMw7CWGcYWgck5tZkeH3a7zAKiYVRsan6MFxdB+e57tL4IC4HmzYv+wHeiGDSzptI9uFQayOj4IDNDe2yObjASxkaKUHOb/1KpacY7bBFhqPnfI5FJSV+0MEsX3+SRXrba52vOkyCbqloQ+h3G+YjapsJFgqhZHKvcPiEGt+9Dfvy4pC70DitMhXVzEUZHlA0cJyEtR31xiQbaYeNjOe2oHPyFjbTE/r75QjERoWoEf8MK+HU8QzLEUaIosNsmDvwS2o2y4=;9kw35Xydhd2l0eQwBtO6NA=="
 ---
 

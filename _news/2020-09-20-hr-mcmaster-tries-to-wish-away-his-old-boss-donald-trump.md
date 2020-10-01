@@ -148,6 +148,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is Team Trump using the Food Box Program as a campaign prop?"
+    excerpt: "As Election Day draws closer, the Trump administration is requiring the Food Box Program to include signed letters from the president."
+    publishedDateTime: 2020-10-01T14:10:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-using-food-box-program-campaign-prop-ncna1241693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_16/3309381/200415-donald-trump-signature-cs-1216p_55fead8ecc4caed031149c3c02cffedf.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Long concealed records show chronic losses and years of income tax avoidance for President Trump"
     excerpt: "Trump paid $750 in federal taxes in 2016 and 2017, and paid none in 10 of the previous 15 years."
     publishedDateTime: 2020-09-27T23:25:50Z

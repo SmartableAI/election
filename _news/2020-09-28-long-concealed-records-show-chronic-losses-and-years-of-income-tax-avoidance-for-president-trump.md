@@ -154,6 +154,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Is Team Trump using the Food Box Program as a campaign prop?"
+    excerpt: "As Election Day draws closer, the Trump administration is requiring the Food Box Program to include signed letters from the president."
+    publishedDateTime: 2020-10-01T14:10:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-using-food-box-program-campaign-prop-ncna1241693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_16/3309381/200415-donald-trump-signature-cs-1216p_55fead8ecc4caed031149c3c02cffedf.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "H.R. McMaster Tries to Wish Away His Old Boss Donald Trump"
     excerpt: "Don’t look to the former national security adviser’s new book for revelations about his time serving Trump. Look to it for its evasions—which explain that service to Trump so well."
     publishedDateTime: 2020-09-20T09:09:00Z

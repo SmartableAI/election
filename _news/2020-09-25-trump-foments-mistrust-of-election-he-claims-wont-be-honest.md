@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 2790
+heat: 2810
 published: true
 
 provider:
@@ -1688,6 +1688,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30campaign-ledeall1/30campaign-ledeall1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "IRS chief asks watchdog to review safeguards after leak of Trump's tax information"
+    excerpt: "IRS Commissioner Chuck Rettig has asked an inspector general to review the agency’s safeguarding of taxpayer information, following revelations that President Donald Trump has routinely paid little or no federal income tax."
+    publishedDateTime: 2020-10-01T15:29:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-tax-returns-irs-423183"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/29/trump-tax-returns-irs-423183"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/29/trump-tax-returns-irs-423183"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 129
+    images:
+      - url: "https://static.politico.com/ca/9c/5868148a44f3869a06b8387d8244/200526-irs-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Demographic shifts since 2016 could be enough to defeat Trump. But it's complicated."
     excerpt: "Trump's core demographic is declining. Our new interactive tool lets readers test how changes to the U.S. electorate might affect the election."

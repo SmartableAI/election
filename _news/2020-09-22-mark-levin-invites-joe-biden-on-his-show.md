@@ -414,6 +414,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "In Minnesota Biden would open 'flood gates' to terrorism, Trump says"
+    excerpt: "During a rally in Duluth, Minn., on Wednesday, President Trump said that Democratic presidential nominee Joe Biden would turn Minnesota into a \"refugee camp\" and open \"the flood gates to radical Islamic terrorism\" if elected."
+    publishedDateTime: 2020-10-01T15:08:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Uy6_Vat6rc/minnesota-trump-biden-terrorism"
+    ampWebUrl: "https://www.foxnews.com/politics/minnesota-trump-biden-terrorism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minnesota-trump-biden-terrorism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20224707259794.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Presidential debate aftermath: Election gamblers bet on Biden"
     excerpt: "Political bettors have placed their money, if not their support, on former Vice President Joe Biden following the first 2020 presidential debate Tuesday night with President Trump, according to Cloudbet, a cryptocurrency betting site."
     publishedDateTime: 2020-10-01T00:56:58Z
@@ -2328,6 +2344,22 @@ related:
     quality: 100
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/233/99186b7b-7209-472a-b780-1fa72d536516.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Trump Critics Ponder: Should Joe Biden Boycott the Next Two Debates?"
+    excerpt: "As the proceedings rapidly deteriorated on Tuesday night, a narrative began to congeal on social media: The event was such a disgrace that Joe Biden, already pursuing a 'prevent defense' electoral strategy,"
+    publishedDateTime: 2020-10-01T14:25:00Z
+    webUrl: "https://townhall.com/tipsheet/guybenson/2020/10/01/trump-critics-ponder-should-joe-biden-boycott-the-next-two-debates-n2577214"
+    ampWebUrl: "https://townhall.com/tipsheet/guybenson/2020/10/01/trump-critics-ponder-should-joe-biden-boycott-the-next-two-debates-n2577214?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/guybenson/2020/10/01/trump-critics-ponder-should-joe-biden-boycott-the-next-two-debates-n2577214?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 100
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
         width: 650
         height: 340
         isCached: true

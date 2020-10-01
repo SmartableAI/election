@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-elect
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
     quality: 115
     images:
       - url: "https://media2.s-nbcnews.com/j/newscms/2020_06/3220181/prayer_campaign_2016_trump-jpeg-5d0da-maddowblog_53da12c3998f805b987c26f4cfc1e3fe.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Is Team Trump using the Food Box Program as a campaign prop?"
+    excerpt: "As Election Day draws closer, the Trump administration is requiring the Food Box Program to include signed letters from the president."
+    publishedDateTime: 2020-10-01T14:10:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-using-food-box-program-campaign-prop-ncna1241693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_16/3309381/200415-donald-trump-signature-cs-1216p_55fead8ecc4caed031149c3c02cffedf.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

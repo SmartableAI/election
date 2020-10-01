@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-committees-report-hunter-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
 type: article
 quality: 174
-heat: 354
+heat: 334
 published: true
 
 provider:
@@ -140,20 +140,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Biden: \"There Has Been No Indication Of A Conflict Of Interest\" With Hunter Biden In Ukraine"
-    excerpt: "Former Vice President Joe Biden spoke briefly to reporters at an October 2019 SEIU convention that President Trump was lying when he for suggested both Ukraine and China should investigate dealings with his son Hunter while Biden was in office."
-    publishedDateTime: 2020-09-25T09:51:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_there_has_been_no_indication_of_a_conflict_of_interest_with_hunter_biden_in_ukraine.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 54
-    images:
-      - url: "https://assets.realclear.com/images/52/522128.jpg"
-        width: 750
-        height: 562
         isCached: true
   - title: "Senate GOP report: Obama administration 'ignored the glaring warning signs' of Hunter Biden's dealings in Ukraine"
     excerpt: "The Senate Republicans’ controversial report on Joe and Hunter Biden was released on Wednesday, detailing allegations of problematic foreign business dealings by Biden’s son as the former vice president helped lead the Obama administration’s foreign policy."

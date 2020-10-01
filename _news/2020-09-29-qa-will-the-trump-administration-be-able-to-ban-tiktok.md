@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/qa-trump-administratio
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75d8262d7049fa994972ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D78%26cropY2%3D1765"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump administration slashes refugee program amid president's campaign attacks on immigrants"
+    excerpt: "In Obama's final year in office, the annual cap on refugees was 110,000. Trump has pared that down. In fiscal year 2021, the limit will be 15,000."
+    publishedDateTime: 2020-10-01T15:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/10/01/trump-moves-slash-refugee-resettlement-amid-campaign-attacks/3574637001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3574637001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3574637001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/08/USAT/0389e08b-9e09-41b0-a4cb-931332d3ac83-GTY_1162402975.JPG?auto=webp&crop=5472,3078,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

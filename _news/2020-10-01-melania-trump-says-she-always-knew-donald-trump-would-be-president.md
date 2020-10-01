@@ -412,6 +412,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "In Minnesota Biden would open 'flood gates' to terrorism, Trump says"
+    excerpt: "During a rally in Duluth, Minn., on Wednesday, President Trump said that Democratic presidential nominee Joe Biden would turn Minnesota into a \"refugee camp\" and open \"the flood gates to radical Islamic terrorism\" if elected."
+    publishedDateTime: 2020-10-01T15:08:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1Uy6_Vat6rc/minnesota-trump-biden-terrorism"
+    ampWebUrl: "https://www.foxnews.com/politics/minnesota-trump-biden-terrorism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minnesota-trump-biden-terrorism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/AP20224707259794.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Presidential debate aftermath: Election gamblers bet on Biden"
     excerpt: "Political bettors have placed their money, if not their support, on former Vice President Joe Biden following the first 2020 presidential debate Tuesday night with President Trump, according to Cloudbet, a cryptocurrency betting site."
     publishedDateTime: 2020-10-01T00:56:58Z
@@ -2313,6 +2329,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Trump Critics Ponder: Should Joe Biden Boycott the Next Two Debates?"
+    excerpt: "As the proceedings rapidly deteriorated on Tuesday night, a narrative began to congeal on social media: The event was such a disgrace that Joe Biden, already pursuing a 'prevent defense' electoral strategy,"
+    publishedDateTime: 2020-10-01T14:25:00Z
+    webUrl: "https://townhall.com/tipsheet/guybenson/2020/10/01/trump-critics-ponder-should-joe-biden-boycott-the-next-two-debates-n2577214"
+    ampWebUrl: "https://townhall.com/tipsheet/guybenson/2020/10/01/trump-critics-ponder-should-joe-biden-boycott-the-next-two-debates-n2577214?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/guybenson/2020/10/01/trump-critics-ponder-should-joe-biden-boycott-the-next-two-debates-n2577214?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 100
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "No Stamina? Joe Biden’s Break Requests Could Rehash Old Trump Attack Line"
     excerpt: "Okay, I know we should be expecting a somewhat functioning Joe Biden for tonight’s debate, but does this man have the stamina? It’s a 90-minute debate, and his team requested"
     publishedDateTime: 2020-09-29T17:25:00Z
@@ -2738,6 +2770,6 @@ related:
         height: 375
         isCached: true
 
-secured: "lRaD7/d3SjCdLfXiOGW8FQyMF0hikvnQsg5an5pbuAkjAJ4FZwLlfEd4bUFmmdcTRHvFYVJ3L/S28qr2aSxIf2vZ6hrNXX9B5/PBrztdWN1R4xJf5e3lc3+bYtPcjOKxLwFXGmuRWoTFjBWTF6utIwoM0D5SLpkkrCMiWAwzTIwdaaVV5EQjuscTgcpbFdJyuSZSm0x48w/zTh5CUww76rMCivGiAZecdjiT64fo86Tc4u+DlPRo4gcaKkybshz5wOrDfLFqsd2xdHhal1Yizo9EzuE7NP7DtZJ9NDNGQXVHmjiF3dmv3lORVZ2wOQdXfZ1RsT8S6F097351e7PqaI3n2tkUpUcBtLNE9tClpi4=;2FcRYBaV2uKG4Et29pzCEw=="
+secured: "WSDsCyTIs5VvyaB5otW6t/vkNO3AnxbKrl6daF+xG/S4/ywkE8MSdQx4uOidZuVrH0OePO9DFkIteWN3DS2Kkr+xQ2Db6V+L9CKbX1GVBFbCpL9bR+kCvGffwc1LhB2sEc2efpQQCGRAz+0rYo9+SQTC7nZohjQufWljfvAFogy3Uo1lzlesIDuCoQyffqEGzx6Up4msTGuWXOaAye7G9fD7VkkEzcJtwBBhEZqECCW5Lej2aj+PaXxcnm9h/aQyvwZKiNwYkmEYdCqnkLr8ksDSrEmug5HYv3HX5+4uvokxjxAp7l6wGkfGiGo1xWIQbSIujzhnYf4OojpTnK1FwKU3iQU0/bQedDkvg+REIhtlgvU28YTxSJeH593f74U0J7rblcaEDBhb57iK4K541OAp38AxhDkFNDj/JZCue6M8RL3KSJuqepKqagnJNZ6AFn7nP7d4ebFvDJWOekGBbTwTNxjSS2Rqns1lyvb72aKvRGv2U/djh2YMbEllWTZ9dbXrhvfdUOyD8mgTdIyOSg==;FUYznMtZApkD6kcTnDpn/g=="
 ---
 

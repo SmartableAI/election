@@ -898,6 +898,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Meet the 38 people on Biden's transition team preparing to demolish Trump's legacy next January"
+    excerpt: "Democratic insiders drafting plans for a Biden presidency might soon be in line for top administration jobs."
+    publishedDateTime: 2020-10-01T14:13:00Z
+    webUrl: "https://www.businessinsider.com/biden-transition-team-agencies-ted-kaufman-trump-legacy-obama-2020-9"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f75dc3f74fe5b0018a8e729?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How Donald Trump Turned The Presidency Into A Business"
     excerpt: "Forbes' senior editor Dan Alexander examines President Trump's sprawling business interests in his new book, 'White House, Inc.' Alexander says the president has broken a number of pledges he made about how he would conduct business while in office."
     publishedDateTime: 2020-09-27T04:17:00Z
@@ -1007,6 +1021,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVKP7H6DAJG4DA34MLAEJ4HR3I.jpg"
         width: 5749
         height: 3833
+        isCached: true
+  - title: "Joe Biden: Trump debate conduct was a 'national embarrassment'"
+    excerpt: "Joseph R. Biden said Wednesday that President Trump’s conduct during Tuesday’s debate in Cleveland was a “national embarrassment.”"
+    publishedDateTime: 2020-10-01T07:59:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/30/joe-biden-trump-debate-conduct-was-national-embarr/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/30/joe-biden-trump-debate-conduct-was-national-embarr/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/30/joe-biden-trump-debate-conduct-was-national-embarr/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/30/us_election_debate_global_reaction_27587_c359-0-5640-3081_s1200x700.jpg?49d2f71d0207c1500bbd2514dc3397c110ed9f80"
+        width: 1200
+        height: 700
         isCached: true
   - title: "The Latest: Trump says he 'enjoyed' debate with Biden"
     excerpt: "President Donald Trump says he “enjoyed” debating former Vice President Joe Biden, but he is falsely claiming that Biden is trying to get out of the next two debates. Trump spoke at a campaign rally in Duluth,"

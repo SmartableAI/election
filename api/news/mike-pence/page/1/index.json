@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-01-first-trailer-for-borat-2-is-a-whirlwind-of-crotch-masks-mike-pence-and-incest-jokes.md",
+      "title": "First trailer for Borat 2 is a whirlwind of crotch masks, Mike Pence, and incest jokes",
+      "excerpt": "Sacha Baron Cohen’s Borat character returns to induce cringeworthy terror upon unsuspecting interview subjects in a sequel to 2006’s Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.polygon.com/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "originalUrl": "https://www.polygon.com/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/amdlzm6QSrDbXRBmiDhhegCmo14=/0x0:1280x800/1400x933/filters:focal(488x184:692x388):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67564749/BORAT2.0.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.polygon.com/platform/amp/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "publishedDateTime": "2020-10-01T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon",
+        "domain": "polygon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-exclusive-vp-mike-pence-tells-channel-2-president-trump-won-tuesdays-debate-outright.md",
       "title": "EXCLUSIVE: VP Mike Pence tells Channel 2 President Trump won Tuesday’s debate ‘outright’",
       "excerpt": "Vice President Mike Pence is defending President Donald Trump’s performance following Tuesday night’s controversial debate and says he believes Trump won. Channel 2′s Richard Elliot spoke exclusively with Pence following his appearance at the Faith and Freedom Coalition conference that was held Wednesday at the Cobb Galleria Centre.",
@@ -296,48 +338,6 @@
       "provider": {
         "name": "The Forward",
         "domain": "forward.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-told-group-of-christians-how-he-said-excuse-me-when-mike-pence-asked-him-to-pray.md",
-      "title": "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray",
-      "excerpt": "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "publishedDateTime": "2020-09-29T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

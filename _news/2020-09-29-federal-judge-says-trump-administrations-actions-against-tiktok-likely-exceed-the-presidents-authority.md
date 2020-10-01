@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump administration slashes refugee program amid president's campaign attacks on immigrants"
+    excerpt: "In Obama's final year in office, the annual cap on refugees was 110,000. Trump has pared that down. In fiscal year 2021, the limit will be 15,000."
+    publishedDateTime: 2020-10-01T15:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/10/01/trump-moves-slash-refugee-resettlement-amid-campaign-attacks/3574637001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3574637001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3574637001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/08/USAT/0389e08b-9e09-41b0-a4cb-931332d3ac83-GTY_1162402975.JPG?auto=webp&crop=5472,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chevron orders staff worldwide to delete WeChat from their work phones, despite a judge blocking Trump's ban of the app"
     excerpt: "Chevron has asked staff to delete WeChat off their work phones, despite President Donald Trump's ban on the app being blocked by a federal court."
     publishedDateTime: 2020-09-23T20:37:00Z

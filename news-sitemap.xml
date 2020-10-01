@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cnbc.com/2020/10/01/former-afghanistan-commander-stanley-mcchrystal-endorses-joe-biden.html</loc>
+    <lastmod>2020-10-01T08:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/video/watch/idP2jA?now=true</loc>
+    <lastmod>2020-10-01T08:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.polygon.com/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election</loc>
+    <lastmod>2020-10-01T08:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/J18vGZrgGjI/biden-trump-media-comey-russia-investigation-senate-jason-chaffetz</loc>
+    <lastmod>2020-10-01T07:11:20-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.chicagotribune.com/election-2020/ct-nw-nyt-election-poll-watchers-voter-fraud-20201001-pvkh7urnmvhnbk6fxxlftmevv4-story.html</loc>
+    <lastmod>2020-10-01T07:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html</loc>
     <lastmod>2020-10-01T06:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -39,12 +69,6 @@
   <url>
     <loc>https://www.chicagotribune.com/election-2020/ct-debate-presidential-campaign-updates-20200930-v63ivhdknbeu7igudz3ufkq2b4-story.html</loc>
     <lastmod>2020-09-30T19:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532</loc>
-    <lastmod>2020-09-30T18:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -193,6 +217,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9</loc>
+    <lastmod>2020-09-30T06:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/</loc>
     <lastmod>2020-09-30T04:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -295,12 +325,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/</loc>
-    <lastmod>2020-09-29T14:27:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BvgpGE0CQOo/jewish-democrats-trumps-america-nazi-germany</loc>
     <lastmod>2020-09-29T14:05:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -327,12 +351,6 @@
   <url>
     <loc>https://forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/</loc>
     <lastmod>2020-09-29T11:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html</loc>
-    <lastmod>2020-09-29T10:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -735,12 +753,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch</loc>
     <lastmod>2020-09-26T09:21:54-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9</loc>
-    <lastmod>2020-09-26T07:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -130,7 +130,7 @@ related:
   - title: "When is the Mike Pence–Kamala Harris debate?"
     excerpt: "Mike Pence and Kamala Harris. Donald Trump’s vice president and Joe Biden’s running mate will face off against each other"
     publishedDateTime: 2020-09-30T20:15:00Z
-    webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
+    webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30?mod=hp_minor_pos20"
     ampWebUrl: "https://www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
     type: article
@@ -828,6 +828,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_09142019getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "A Justice Barrett would keep Biden's worst ideas in check"
+    excerpt: "This system of checks and balances provides each branch of government with powers to prevent any one from becoming too powerful."
+    publishedDateTime: 2020-10-01T15:30:00Z
+    webUrl: "https://thehill.com/opinion/immigration/519078-a-justice-barrett-would-keep-bidens-worst-ideas-in-check"
+    ampWebUrl: "https://thehill.com/opinion/immigration/519078-a-justice-barrett-would-keep-bidens-worst-ideas-in-check?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/immigration/519078-a-justice-barrett-would-keep-bidens-worst-ideas-in-check?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/barrettamyconey_trumpdonald_092620upi2_lead.jpg"
         width: 980
         height: 551
         isCached: true

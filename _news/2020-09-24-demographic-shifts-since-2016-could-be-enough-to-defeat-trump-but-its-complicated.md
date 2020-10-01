@@ -1706,6 +1706,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "IRS chief asks watchdog to review safeguards after leak of Trump's tax information"
+    excerpt: "IRS Commissioner Chuck Rettig has asked an inspector general to review the agency’s safeguarding of taxpayer information, following revelations that President Donald Trump has routinely paid little or no federal income tax."
+    publishedDateTime: 2020-10-01T15:29:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-tax-returns-irs-423183"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/29/trump-tax-returns-irs-423183"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/29/trump-tax-returns-irs-423183"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 129
+    images:
+      - url: "https://static.politico.com/ca/9c/5868148a44f3869a06b8387d8244/200526-irs-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Coalition backing TPS starts tour slamming Trump's 'racist' end to immigrant protections"
     excerpt: "\"The president and his administration ... do not care about the damage they are causing to our community,\" an immigrant rights advocate said."
     publishedDateTime: 2020-09-23T07:03:00Z

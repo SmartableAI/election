@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 1190
+heat: 1210
 published: true
 
 provider:
@@ -558,6 +558,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3415108/200925-joe-biden-face-mask-ac-451p_881c7b63d7bee2f6b5296fdbfb026c91.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Poll: Most voters didn’t enjoy Trump-Biden clash, say they should still keep debating"
+    excerpt: "Half of all voters who watched Tuesday's debate said Joe Biden outperformed Donald Trump in their first televised showdown, according to a POLITICO/Morning Consult poll, with an overwhelming majority of respondents blaming the president for what they described as a disruptive event and an overall unpleasant viewing experience."
+    publishedDateTime: 2020-10-01T15:05:00Z
+    webUrl: "https://www.politico.com/news/2020/10/01/poll-trump-biden-presidential-debate-424398"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/01/poll-trump-biden-presidential-debate-424398"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/01/poll-trump-biden-presidential-debate-424398"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 143
+    images:
+      - url: "https://static.politico.com/0c/22/97a4927b4a35a69dad9a73a57068/201001-presidential-debate-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "'Upsetting': Swing state voters appalled by Trump-Biden debate, but will it change minds?"
     excerpt: "\"I watched every minute and did not learn anything,\" said a Trump backer in Ohio, who urged the president to be calmer at the next face off."
