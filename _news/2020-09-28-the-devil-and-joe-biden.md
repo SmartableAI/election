@@ -1196,6 +1196,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McCarthy slams mute button suggestion for presidential debates, urges Trump to let Biden talk"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Ca., slammed the use of a \"mute button\" in reaction to the unruly first presidential debate on \"Fox & Friends.\""
+    publishedDateTime: 2020-10-01T18:30:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UojZYnfA2qc/presidential-debate-trump-biden-kevin-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-trump-biden-kevin-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-kevin-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Jr calls out Hunter Biden’s reported $3.5M wire transfer from Russian billionaire’s widow"
     excerpt: "President Trump on Sunday may have shown a preview of this week’s upcoming presidential debate when he asked reporters at the White House why -- in his opinion --  they have been reluctant to look into Joe Biden’s son Hunter Biden’s business involvement in Russia, Ukraine, and China while his father"
     publishedDateTime: 2020-09-28T04:34:32Z

@@ -223,6 +223,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Facebook removes Trump ads about Joe Biden, COVID-19 and refugees"
+    excerpt: "Facebook, which said they do not \"allow claims that people's physical safety, health, or survival is threatened by people on the basis of their national origin or immigration status.\""
+    publishedDateTime: 2020-10-01T19:33:00Z
+    webUrl: "https://www.cbsnews.com/news/facebook-removes-trump-ads-refugees-covid-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-removes-trump-ads-refugees-covid-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-removes-trump-ads-refugees-covid-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/28/79e7b83d-489b-422c-be0c-4e4012c06868/thumbnail/1200x630/6865fe35d90d98222f393e0623136e46/cbsn-fusion-attorney-breaks-down-pres-trumps-tax-returns-thumbnail-555586-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
     publishedDateTime: 2020-09-27T21:49:00Z

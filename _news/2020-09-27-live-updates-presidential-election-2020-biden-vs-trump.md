@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 3745
+heat: 3765
 published: true
 
 provider:
@@ -1173,6 +1173,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QBLXKuLkJcU/trump-biden-presidential-debate-tuesday-night-kayleigh-mcenany-cleveland-ohio"
     ampWebUrl: "https://www.foxnews.com/politics/trump-biden-presidential-debate-tuesday-night-kayleigh-mcenany-cleveland-ohio.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-presidential-debate-tuesday-night-kayleigh-mcenany-cleveland-ohio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McCarthy slams mute button suggestion for presidential debates, urges Trump to let Biden talk"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Ca., slammed the use of a \"mute button\" in reaction to the unruly first presidential debate on \"Fox & Friends.\""
+    publishedDateTime: 2020-10-01T18:30:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UojZYnfA2qc/presidential-debate-trump-biden-kevin-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-trump-biden-kevin-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-biden-kevin-mccarthy.amp"
     type: article
     provider:
       name: Fox News

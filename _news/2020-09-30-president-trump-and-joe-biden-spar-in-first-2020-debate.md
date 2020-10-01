@@ -781,6 +781,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden refocuses on economic populism"
+    excerpt: "It's hard to put aside the hundred things that make Donald Trump so abhorrent. But this is an argument Democrats always win."
+    publishedDateTime: 2020-10-01T18:57:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/01/joe-biden-refocuses-economic-populism/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/joe-biden-refocuses-economic-populism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/joe-biden-refocuses-economic-populism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XOYPEHADNQI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Joe Biden's odds improve on betting markets after first U.S. debate"
+    excerpt: "Democratic presidential candidate Joe Biden has gained ground in betting markets over President Donald Trump following their first debate of the 2020 U.S. election campaign, two betting market aggregators said."
+    publishedDateTime: 2020-10-01T17:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-odds-idUSKBN26M771"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M771"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M771"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535749048&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG904UD"
+        width: 902
+        height: 545
+        isCached: true
   - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
     excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
     publishedDateTime: 2020-09-23T14:46:00Z
@@ -970,6 +1002,20 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/26c64d8f-0ac2-4db6-8a8c-f4d63ec66f2f/thumbnail/1200x630/105ee779ce2e6d0b2a23c2a4b9b4eb4d/0929-cbsn-firstpresidentialdebate-full-556665-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump and Joe Biden battle for Latino support"
+    excerpt: "Both presidential candidates are making their appeals to Latino voters ahead of the election. Gen by Medium senior writer Andrea González-Ramírez joins CBSN to discuss what's wrong with some of the most common stereotypes about what Latino voters are looking for."
+    publishedDateTime: 2020-10-01T19:12:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-and-joe-biden-battle-for-latino-support/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/01/224b5e86-9af4-43ab-9b21-1c0287382969/thumbnail/1200x630/b77ea1d9200c800626a1e58e54461fa3/1001-cbsn-bxg-trumpbidenlatino-557824-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

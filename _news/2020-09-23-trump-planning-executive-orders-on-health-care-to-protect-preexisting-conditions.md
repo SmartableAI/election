@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "WV official corrects Trump's ballot-selling mailman story, says 'election will be safe, secure and fair'"
+    excerpt: "West Virginia's Republican Secretary of State Mac Warner clarified a false claim made by President Trump during Tuesday night's debate about a mailman who sold ballots, saying that the incident never happened and \"voters should be confident that this election will be safe, secure, and fair.\""
+    publishedDateTime: 2020-10-01T19:26:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJpJBDx99j0/trump-accuses-wv-mailman-of-selling-ballots-but-state-says-it-never-happened-reassures-voters-that-mail-in-ballots-are-being-closely-monitored-for-security"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-accuses-wv-mailman-of-selling-ballots-but-state-says-it-never-happened-reassures-voters-that-mail-in-ballots-are-being-closely-monitored-for-security.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-wv-mailman-of-selling-ballots-but-state-says-it-never-happened-reassures-voters-that-mail-in-ballots-are-being-closely-monitored-for-security.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ex-campaign aide claims Trump in 2016 used to talk about making Ivanka his running mate"
     excerpt: "President Donald Trump allegedly considered his daughter Ivanka to be his running mate during the 2016 presidential campaign, according to claims made in a forthcoming book by former Trump campaign official Rick Gates."
     publishedDateTime: 2020-09-28T21:55:07Z

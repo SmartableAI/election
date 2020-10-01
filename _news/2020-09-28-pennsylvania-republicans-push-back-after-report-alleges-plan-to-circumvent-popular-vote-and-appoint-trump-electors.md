@@ -79,6 +79,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
+    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button.\" "
+    publishedDateTime: 2020-10-01T18:41:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/97AE_d__ZEU/trump-debate-change-mute-button"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
+    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button."
+    publishedDateTime: 2020-10-01T18:50:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb5cdf00-5b6d-4af6-b264-c0ff6017ed79/c9002694-65a4-4cc7-8db6-e863b64a048b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "HSW7h7OJVfGWrCGz0at0qnkkRGfw/Fwb6YwSb/DjmAsJHE64xaxyyvRt+aw8JgT1SP5RoxMTD52RVjQXS61BF2rx8V2XBqY41uccnkq9V3zToYlXB+iFnw4PQtZEMdJwXWnyZUJMlviqG9/GHAlKsDQNoFCwS7tr+oDpp6vC9rhg7VKZ+qeXYvGOKdhtK5reLBauzaZ9Piy7j0UYXdZVp0iuHAUS95E9vS1eehIykakKeELNB9HIvqbsdz2vygIhP6onnqqiVjNV9D3yv8OlUL6T5mO1yZ036qsB9QSZ8jfRFrO+GVAwacktXuDkL1ew6yePOUS3pY21qpG4/Kj/lRnUpaVQjx3W61O++z3ggE0=;NMRa22E4Qk7emqC17BMA1A=="
 ---

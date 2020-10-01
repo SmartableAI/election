@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 1900
+heat: 1920
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/empty-debate-stage-rt-jef-200928_1601299546724_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Facebook removes Trump ads about Joe Biden, COVID-19 and refugees"
+    excerpt: "Facebook, which said they do not \"allow claims that people's physical safety, health, or survival is threatened by people on the basis of their national origin or immigration status.\""
+    publishedDateTime: 2020-10-01T19:33:00Z
+    webUrl: "https://www.cbsnews.com/news/facebook-removes-trump-ads-refugees-covid-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/facebook-removes-trump-ads-refugees-covid-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/facebook-removes-trump-ads-refugees-covid-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/28/79e7b83d-489b-422c-be0c-4e4012c06868/thumbnail/1200x630/6865fe35d90d98222f393e0623136e46/cbsn-fusion-attorney-breaks-down-pres-trumps-tax-returns-thumbnail-555586-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"

@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Vulnerable Republican senators split over Democratic effort to protect pre-existing conditions from Trump administration lawsuit"
+    excerpt: "Vulnerable Republican senators split over a bill to protect those with pre-existing conditions from a Trump administration lawsuit before the Supreme Court next month, underscoring the political potency of the issue as the country begins voting.\n    \n"
+    publishedDateTime: 2020-10-01T19:24:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYJ29H6k4fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128102733-01-joni-ernst-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "c773UeaIKiLsEImgitxARC44yTZSW8cvV2aTU3rqOgS7+J8keTIfCQ1TlLN1PoQOOxfYbv1UD4jyuandCDwMZfZn+Lxi4a5CPA0meO/28ZYyQcQrg5likwBr9m4OqYB6j/Pi1Z3nNuaA6EFKsSfekbnaNz5Aome9lIDebx5phWaA3tGqYGsWp4sA1qaN8n2NHAg26j6HhHCdx/p7CC8WnEwhTgfW0MtKhSh35hXCLzfE6P4Rw0CdCqF44/nmJiS+fYksl0+Wn2hHo1YDPIKNg6kftHoh3JLYQDSGyHomKdJQYwkgmYLmcMYngpjpMx8uL16SxIp7NTipie1XYkKYyUsMvBFrp0lwKr/71IkrZS4=;J0A27qLwWbDke7nb6Amb6Q=="
 ---

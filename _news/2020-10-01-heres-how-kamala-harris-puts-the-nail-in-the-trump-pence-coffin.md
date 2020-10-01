@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
 type: article
 quality: 175
-heat: 1755
+heat: 1775
 published: true
 
 provider:
@@ -416,6 +416,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XGNHHPXPQAI6TBUT6SD6IZ4EVI.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "'No wonder I didn't lose my hair!': Trump credits McDonald's fries for his hair"
+    excerpt: "Between a flurry of tweets about the coming election, President Donald Trump replied to an article suggesting McDonald's fries might cure baldness."
+    publishedDateTime: 2020-10-01T19:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f759d060ab50d00184ad7e7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
     excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
@@ -1198,6 +1214,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "7tDWSV4NAMRzayZpO2hHkQh+dF1z4KhzqX64OUuqorsakSi9sz4oZ0XNaItoXlsHe+fbWAPUf4DLMyrxHHiMNe6UAAWTPdLBBnAUeHhhamtszoKKrv0vb6o3301G7rMV+S8+t/uO1b4EmbEnk6D27quow3+W0HuWkKcxECnfJUsL8JqWTpsdiJ5uDspV1sxOM9z70BIKvqe7BEE2sa+p7RX4yzo5n/rt1p/8i8suGzVO5FoljUEezbJ4c5y8BKksKWjnq8Im62qxK3zt5BpJoVbTLn95IDqVKxzs6Jt+pYDMREiWuMmO5kf/NxrRX+gOKHXFNMDisugtLWfXzM46x+QekDhDHu2VRdhpfKt4nDI=;/ClcuRlWFl+4wnFxwwplQg=="
+secured: "tbO4ukAD6oWOequBysNPNkuDQr6I3nBT6OpnqMhU08+qTGPtupurnHap4vtqw9QRmzbhN3uwmP5ExKv8NF0WAEaByT5TOzyscfsDNDBa6tB4IkN5+RSnI7PaCLC4iPhkO/LMLQDNSWshpRHnTWIAM2SgUTB8gaDcWIVguqthPvnkA/A4NvpdL01QrJFvYhrO5/eqjuGf0UbIt9qEKXgw9v2nBnAcF0wyyGLsCjVtmMQ0dZUKLypPW93g2zKcmDMlvuv9ZTNv6WC8uZCkjQmTnWOk+CZuIXN68dEl9xqPbu38AohHdFwdSHcEqW5un4L7gNIM+wIfBhNrnQkHnl9Wc0a1dheuu9zjB0atBpuWqnWRSq4NnjDG/1RExTh8ZM0t7w85tMgWs3wWc6lm3oeLpYJNkIuNIhzuG/P4dwQnUWbEh3ZmAU39pUv/640s87NrYcUGEqBj/9HtsIEvybi9v0VBmqEsWqSzXIfqhmc7PlmqfTnYLA1EfzS6APtpgK02iTOp1RWasq6AzS3/53hxUw==;46E1pAOs+BQ+r0xHm43ZBQ=="
 ---
 

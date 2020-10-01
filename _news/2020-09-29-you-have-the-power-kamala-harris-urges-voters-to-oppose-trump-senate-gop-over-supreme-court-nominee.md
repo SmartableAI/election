@@ -427,6 +427,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'No wonder I didn't lose my hair!': Trump credits McDonald's fries for his hair"
+    excerpt: "Between a flurry of tweets about the coming election, President Donald Trump replied to an article suggesting McDonald's fries might cure baldness."
+    publishedDateTime: 2020-10-01T19:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f759d060ab50d00184ad7e7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
     excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
     publishedDateTime: 2020-09-18T19:03:00Z
@@ -1192,6 +1208,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "BsI+DTqdtFWXpONTCiVQj/xdbNTCTkGQleN1R7tXTabEGkaQtJLTSBHbXZHnN0J9L8L3zfWM6937NewQuAcRAoXBpLijnNO6MwPcZ8F9Cn02uultWQgFTZl409svsA/SE81MX6VGTCXmJ1zsLtglAB/eH06m8HwUE6BetRA5eHh8gj2BFyhQAs7/D4xfyhFaaksW6/q1f8q8XIqzJ5CKNzl/+blayMfbgGO4kP24gQnunYcJN+AxhwtUeMoM9MC6noPznXgx22dIu2oT2ozUPxP9PRovLHtIzPxgY1SlhhWAs45Hkf/+qzMjnH8TwA/zf+Z9N45hZUiahHDCMyN6QfoGH2ibKeD9YasHpOBo5wk=;WhXxQpIR5NHCqOT6rVHi+w=="
+secured: "dIFmCVPJCfSVkXgN9cfBVX2SfVUqOh9gyeuPjL8gJQJZhrNIGz0Ul3KK19ec8mXhqaFzAWsL8lQhbLTD6OhssQCERVtufoBYYyknN+K8j2+XVtVZaq98ZBtHWahudQXml6Xyabrbfv/GOVDaHad2gLrnsR0oz9nT9dp0q6xo6/ZtCnk/5fgbka+WDqAyJuATDECG4j/jXhX6e/tP3hZzUTnQmUUeaP2FBQHUITSllkdVa8dNWTqFzwCY0TOU849fJ0Ic9u6bIdaxt/8USLOozAGp43SRK+TvNd89MXOe5oaJTHEP2ajlWzhFCGp721ffb/IckAk2rmLtOOMKS+uuWiJml31lacs3B0mTNQLyhMY1oOxPCo8n+LtQDNk3ABH9Hm9TIWYvazXmIfOG4zfanacr017Ik3vTc3kmNSKqLWz3/SGAvqC6BVmfmzljzNEbC9+mIPm2lpohF6xMI2fTF1gpnFrS0rlPpMz5w1xc8uie4H5c/MCHn6WZyNTPaFULI1KgF7lXn7/EOnNh0HMWJg==;VSY7yoAYStEvJIP2t7TDbA=="
 ---
 

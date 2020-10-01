@@ -880,6 +880,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House shows no signs of backing down from Trump's refusal to condemn White supremacy"
+    excerpt: "The White House is showing no signs of backing down from President Donald Trump's refusal to condemn White supremacy during Tuesday night's presidential debate, despite pleas from some Republican allies to clarify his comments.\n    \n"
+    publishedDateTime: 2020-10-01T18:39:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oiiwgUwfSbc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/donald-trump-white-house-white-supremacy-proud-boys/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/donald-trump-white-house-white-supremacy-proud-boys/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001100032-01-trump-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Outgoing US ambassador to China blames Beijing for coronavirus as he heads home to help Trump"
     excerpt: "The outgoing United States Ambassador to China has denounced Beijing's initial handling of the coronavirus, saying that \"what could have been contained in Wuhan ended up becoming a worldwide pandemic.\"\n    \n"
     publishedDateTime: 2020-09-18T09:17:56Z
@@ -1071,6 +1087,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/24/us/24dc-military-2/24dc-military-2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump denounces mail-in voting and again casts doubt on the election outcome"
+    excerpt: "President Donald Trump railed against mail-in voting and unsubstantiated claims that ballots have been found in wastepaper baskets, even as former Vice President Joe Biden urged Americans to exercise their right to vote by any means necessary."
+    publishedDateTime: 2020-10-01T18:11:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/trump-mail-in-voting-423432"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/trump-mail-in-voting-423432"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/trump-mail-in-voting-423432"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 147
+    images:
+      - url: "https://static.politico.com/45/74/4c18628445b79d74ba2ba7c4a0dd/200930-trump-food-box-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Most voters say Biden-Trump debates won't move them. Here's why they could matter."
     excerpt: "The debate will feature two septuagenarians who are prone to verbal stumbles, and seeing them side by side could affect voter perceptions."
@@ -1471,6 +1503,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416289/200930-debate-broadcast-jm-0823_20e858bce0cd484a627a22fed369096e.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump indicates he's not open to rule changes at next debates"
+    excerpt: "President Donald Trump on Thursday suggested he would not agree to any rule changes for the second and third presidential debates a day after the debates' organizers vowed to adjust their formatting following Tuesday's chaotic faceoff."
+    publishedDateTime: 2020-10-01T19:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-indicates-he-s-not-open-rule-changes-next-debates-n1241726"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241726"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241726"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416725/201001-debate-cleveland-donald-trump-se-255p_d911b5232e10e9c23968f4be3a3d9468.jpg"
+        width: 2500
+        height: 1676
         isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"

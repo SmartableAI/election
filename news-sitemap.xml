@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee</loc>
+    <lastmod>2020-10-01T12:51:58-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wlhmrGHxCZQ/index.html</loc>
+    <lastmod>2020-10-01T12:35:31-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement</loc>
+    <lastmod>2020-10-01T12:04:41-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america</loc>
+    <lastmod>2020-10-01T12:01:51-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/</loc>
+    <lastmod>2020-10-01T12:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says</loc>
+    <lastmod>2020-10-01T11:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wthr.com/article/news/politics/howey-barretts-confirmation-would-be-a-pence-achievement/531-50c708f0-3362-4c64-bafe-c950a50feea6</loc>
     <lastmod>2020-10-01T10:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -97,12 +133,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.polygon.com/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election</loc>
-    <lastmod>2020-10-01T08:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nbcnews.com/feature/nbc-out/three-quarters-lgbtq-voters-back-joe-biden-glaad-poll-finds-n1241690</loc>
     <lastmod>2020-10-01T07:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -129,12 +159,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/tTSxeg_17nQ/biden-calls-first-debate-embarrassing</loc>
     <lastmod>2020-10-01T04:27:36-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238</loc>
-    <lastmod>2020-09-30T21:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -415,12 +439,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/</loc>
-    <lastmod>2020-09-29T11:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/</loc>
     <lastmod>2020-09-29T10:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -609,12 +627,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing</loc>
     <lastmod>2020-09-28T10:20:04-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nytimes.com/2020/09/28/business/media/fox-news-trump-taxes.html</loc>
-    <lastmod>2020-09-28T10:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
