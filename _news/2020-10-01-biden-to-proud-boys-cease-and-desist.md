@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
 webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
 type: article
 quality: 105
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 960
     height: 540
     isCached: true
+
+related:
+  - title: "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'"
+    excerpt: "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\"."
+    publishedDateTime: 2020-09-30T20:04:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-54363831"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 102
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08sztpk.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "rUZPh9Q1hjdsfFcin8RPsefZ70FwL8/bwZ0uzqwQ1Im3t4/dKXneGmYpGfNUmO0S2UTFgJybMN5i9Mt1Q0FKJmzdzKL0bdfubDZuGANyUhvZKq26+BfRu1Z0/T9UDINNRoihAVUWJoVVjAxL+yByESissGaT5xZQt7XTYigyEYLHGP3nqeIkWzTM/1Vp7OYwUBKRc4mKc68XddZFiVQt/HZ26akGs8aVuwSjP1aqkx+GtOeN6/Yz0I5uqShbTEydk86zhm+/9A57tgNGnoyKAQoYkM8tEJxvsBHz2TXggnznQ2/lepNjHi+4s1yBs7mmJ/Yg8pWHpttVQhoiqnqt1iw9FN2Dhy9peaVC8xtEYeTkI3cSSBzUJN3pZBRLnJWcw6ItRrHVW1bSloiixSnxtsuqHGvhYr4AoGu+3ok0XsS+Qo4Yp/PlRyStsRenqLXe5tJA3Rd1nOwen0okyNHXWgQLyAkL2SpllGah8WebBYYsZABY9Hf56TWU6bw5iOwAOEF7N8CcuECIRcb9J/fEVQ==;4MsRyJH2lZRairaFjlfo1g=="
 ---

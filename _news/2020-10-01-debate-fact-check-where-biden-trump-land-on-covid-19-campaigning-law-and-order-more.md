@@ -621,6 +621,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "'Vicious': Biden says Trump's debate attacks were what he expected, says Proud Boys should 'cease and desist'"
+    excerpt: "He did what I expected him to do last night,” Biden said in Ohio. “I think the phrase was: ‘Now he can become really vicious’ – that was his phrase.”"
+    publishedDateTime: 2020-10-01T02:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/joe-biden-embarks-train-tour-ohio-pennsylvania/3586229001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3586229001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3586229001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/d006e1a3-d0c9-40fe-af76-526e816237b2-biden_train.jpg?auto=webp&crop=7928,4460,x0,y273&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Compares Trump to Goebbels, Saying He’s Promoting a ‘Lie’"
     excerpt: "Democratic nominee Joe Biden compared Donald Trump to Joseph Goebbels, saying the president was repeating a “lie” in the same way the Nazi propagandist did in the 1930s and ‘40s."
     publishedDateTime: 2020-09-27T03:56:00Z
@@ -1216,6 +1232,6 @@ related:
         height: 560
         isCached: true
 
-secured: "h6PLsEyyR5Cax0/eW/F34j+PZGOXlvGLOyWudLT62ouf146F/FpmZ7+DHh8pvxnqPud1egl7YtObajGXIz5y0h8CQ65bAyCKvyNOCkByYvU2NyeMTovPr53naDZNh5s/EW0TjkiNnHhnxg3ux3l3e7bhtzlJARYFlcO9/ru3rldoFCDaARCsiOU0Id65tF/piIlOLRGLBf2XVd+qgyWKznxNRCk8mTJZANY+qq0uSlsii+7CrSiwBGhGazaEFdY8/E6IDEOubMKvjWHZcyBt6MPAl3IdRkeLP2bh9v9JWMGTexhO19xlo9HMQVCvFejuHHvQkW5JGDaGYuBXU5zxnIxUqdSDSPP9WG2ywKp3nak=;YAoXz4qymmejjKlpn521DA=="
+secured: "yLly/tL+DZcoKy0pbf8qBWymcIC3LC+WZKaoxJXWv3q4Ou1cLQsnsyBeYyrrwA18t1UZ2GJ5VJwOjZcqCaAtd+8pCvQz2RFmSjR8Ue7UPIzV1v4khj1dbYVabwSEZP+jLuo8vLlSAsl2iyAvl5z8xfkDD8ojIgAq2sl6P56FHzqLwv/XYPc75Cy/4FS48tAZTbfAq6yXEnsE9CvY7Eae9p7Ve2gcEYYFRfUelfpS9uOvmpEKz+rOO8hDpLK0jXEm3//PawEjsh4p83ajBGXy2XhjZTJV6CwwUAU+UqDOmXo1yt9J7Xsi77wJlgAskujWpcPHJ6Ei+z+U5buDvjKmThzEdsFIv8bq/tmnrVeWO9Oa6MvXWSCeVVB5KVHF+RGLJDnG1o0KdmFORRGVpqNDXkFVAfKZlh0LcozBrvEQN9M4rQTTL2odhRnlpjDdjGuZ0fbKGhfgEzEGyj++r3weZN4hOgZYTip5SWzhkKuwcsAi+QqIPB1XOa0wzQAfEv4geHdhuTMs2sT5OigQz5IjQQ==;8jVS/3hLplZwK3rXkTF8UA=="
 ---
 

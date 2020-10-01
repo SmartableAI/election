@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-15-late-night-fears-trump-fever-after-his-indoor-rally-in-nevada.md",
+      "title": "Late Night Fears ‘Trump Fever’ After His Indoor Rally in Nevada",
+      "excerpt": "It looks like the next long-term residency in Las Vegas will be the coronavirus,” Jimmy Fallon said on Monday’s “Tonight Show.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/arts/15latenight/15latenight-facebookJumbo.png",
+          "width": 885,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html",
+      "publishedDateTime": "2020-09-14T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-top-trump-health-appointee-michael-caputo-warns-of-armed-insurrection-after-election.md",
       "title": "Top Trump health appointee Michael Caputo warns of armed insurrection after election",
       "excerpt": "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event.",

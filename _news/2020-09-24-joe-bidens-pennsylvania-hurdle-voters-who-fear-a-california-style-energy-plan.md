@@ -82,9 +82,9 @@ related:
   - title: "Biden kicks off train tour through Ohio, Pennsylvania after raucous debate"
     excerpt: "Joe Biden is embarking on a roughly 200-mile train tour on Wednesday through Ohio and Pennsylvania, appealing to voters who have strayed from Democrats in recent years."
     publishedDateTime: 2020-09-30T19:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
+    webUrl: "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
     type: article
     provider:
       name: ABC

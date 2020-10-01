@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3547679001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001"
 type: article
 quality: 136
-heat: 396
+heat: 416
 published: true
 
 provider:
@@ -192,6 +192,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump senior campaign adviser Parscale steps down after arrest"
+    excerpt: "U.S. President Donald Trump's former campaign manager Brad Parscale has stepped down from a senior role at the campaign after his arrest at his home in Florida, a campaign official said on Wednesday."
+    publishedDateTime: 2020-10-01T03:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-parscale-idUSKBN26M49C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M49C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M49C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Bernie Sanders says there are a 'number of plans' to force Trump from office if he refuses to peacefully transfer power"
     excerpt: "There are a \"number of plans\" to force Donald Trump out if he refuses to allow a peaceful transfer of power after losing the election, Sanders said."
     publishedDateTime: 2020-09-27T10:55:00Z

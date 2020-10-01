@@ -1812,6 +1812,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump basks in cheers of Minnesota rally, far from debate criticism"
+    excerpt: "The president bragged about ratings for his matchup with Joe Biden, glossing over negative headlines about the lack of substantial discussion."
+    publishedDateTime: 2020-10-01T02:31:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/trump-debate-minnesota-rally-424308"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/51/a0/95e9ceca48a59806d2cb1a4a618c/200930-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump administration proposes bill to chip away at social media's legal protections"
     excerpt: "The Justice Department proposed legislation Wednesday to narrow a key set of legal protections that shield internet companies like Facebook and Google from lawsuits over their efforts to police speech online,"
     publishedDateTime: 2020-09-23T15:04:00Z

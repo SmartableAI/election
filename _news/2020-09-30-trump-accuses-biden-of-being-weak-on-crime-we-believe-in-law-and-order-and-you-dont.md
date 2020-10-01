@@ -735,6 +735,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Michelle Obama shares sympathy with viewers 'turned off' by Trump-Biden debate"
+    excerpt: "Former first lady Michelle Obama on Wednesday said she understood those who were “turned off” by President Trump’s behavior during Tuesday's first presidential debate."
+    publishedDateTime: 2020-10-01T03:46:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Sz8QaeqO9E/michelle-obama-shares-sympathy-with-viewers-turned-off-by-trump-biden-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/michelle-obama-shares-sympathy-with-viewers-turned-off-by-trump-biden-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michelle-obama-shares-sympathy-with-viewers-turned-off-by-trump-biden-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6994c738-93b9-4325-8d34-f924d201b486/c696b391-700d-4df4-81ea-a8fc737d83bc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Supreme Court battle adds new twist to Biden-Trump showdown ahead of first debate"
     excerpt: "The most bitterly partisan of all political battles – a Supreme Court nomination fight – has been added to an already toxic mix with just a month and a half to go until Election Day – and with the first presidential debate between Democratic nominee Joe Biden and President Trump just over a week out."
     publishedDateTime: 2020-09-21T17:58:25Z
@@ -1006,6 +1022,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump claims debate victory over Biden: 'I held Joe accountable for his 47 years of lies'"
+    excerpt: "President Trump declared victory over former VIce President Joe Biden after their first presidential debate, telling a rally in Duluth, Minnesota that they and other Americans won as well."
+    publishedDateTime: 2020-10-01T01:55:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6zgAWOQ1fuM/trump-debate-victory-biden-accountable"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-victory-biden-accountable.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-victory-biden-accountable.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02084a04-4267-45b9-bff1-20a991370e73/b8ca5717-15bf-4c99-afed-d3aee0a3345b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Giuliani on Trump’s debate prep: He’s better prepared against Biden than he was 4 years ago"
     excerpt: "Rudy Giuliani, President Trump's lawyer, previews Tuesday night's presidential debate against Joe Biden as he preps the commander-in-chief."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-doesnt-take-questions
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp"
 type: article
 quality: 193
-heat: 793
+heat: 813
 published: true
 
 provider:
@@ -466,6 +466,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Kamala Harris: Trump \"Denigrated The Office\" With Performance At First Debate"
+    excerpt: "Following the first presidential debate, Joe Biden's running mate, Senator Kamala Harris, said President Trump \"denigrated the office\" with his performance in an interview with CBS News."
+    publishedDateTime: 2020-09-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_trump_denigrated_the_office_with_performance_at_first_debate.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/52/522703.jpg"
+        width: 1048
+        height: 786
         isCached: true
   - title: "WATCH: Kamala Harris Attempts to Do Damage Control Following the First Presidential Debate"
     excerpt: "Kamala Harris (D-CA) attempted to clean up at least one of former Vice President Joe Biden's blunders that took place during the first presidential debate. Biden refused to answer whether or not he would support packing the Supreme Court,"

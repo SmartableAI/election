@@ -483,6 +483,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Kamala Harris: Trump \"Denigrated The Office\" With Performance At First Debate"
+    excerpt: "Following the first presidential debate, Joe Biden's running mate, Senator Kamala Harris, said President Trump \"denigrated the office\" with his performance in an interview with CBS News."
+    publishedDateTime: 2020-09-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_trump_denigrated_the_office_with_performance_at_first_debate.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/52/522703.jpg"
+        width: 1048
+        height: 786
+        isCached: true
   - title: "Kamala Harris Answers Question On Packing Supreme Court: \"People Are Already Voting\""
     excerpt: "Democratic vice-presidential nominee Sen. Kamala Harris condemned President Donald Trump and Senate Republicans trying to \"rush\" a Supreme Court appointment before the election and said it is important to remember that \"people are already voting."
     publishedDateTime: 2020-09-29T13:52:00Z

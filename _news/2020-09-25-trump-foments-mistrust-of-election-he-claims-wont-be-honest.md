@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 2590
+heat: 2610
 published: true
 
 provider:
@@ -1792,6 +1792,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/c6/a4/20172e3a4e918fe7b04b0662c0f9/a8ec67a0-9cdb-4b56-9070-030bf1acd837.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump basks in cheers of Minnesota rally, far from debate criticism"
+    excerpt: "The president bragged about ratings for his matchup with Joe Biden, glossing over negative headlines about the lack of substantial discussion."
+    publishedDateTime: 2020-10-01T02:31:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/trump-debate-minnesota-rally-424308"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/51/a0/95e9ceca48a59806d2cb1a4a618c/200930-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

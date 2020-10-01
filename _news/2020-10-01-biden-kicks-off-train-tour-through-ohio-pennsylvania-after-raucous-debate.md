@@ -3,10 +3,10 @@ category: news
 title: "Biden kicks off train tour through Ohio, Pennsylvania after raucous debate"
 excerpt: "Joe Biden is embarking on a roughly 200-mile train tour on Wednesday through Ohio and Pennsylvania, appealing to voters who have strayed from Democrats in recent years."
 publishedDateTime: 2020-09-30T19:58:00Z
-originalUrl: "https://abcnews.go.com/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
-webUrl: "https://abcnews.go.com/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
+originalUrl: "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
+webUrl: "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
 type: article
 quality: 123
 heat: -1
@@ -205,6 +205,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "CG/j9zczeCnXFvEE/GFDMBMpAvNJgVmXWzUshvl3xYZGCw3xmzc0wCG18x8/5IxUZSqKJVxgbPHt9pe6i+RzcNDhJZ7kzHXr5berPXyO8GQ+BxOm/AswC9NDaWsHLnCHTRniCXfli3QZmK/rCQzVRxHJ+mvFFB8xT2hWbDPUtWtxDdL1HJnqB7j6LBy7Nju3EcsPsBlmGA1pp8LLgfSGtUa0ZqgFKPxXhhZXBjFWfEoZ9Yz5dzZ0sdpJT8kESye/pW6PdlYk8xYXWCEoKJbo3iD+7v4aUdAeDJEP89NhQ/R9blXnyVPtnaoUHIeWaU+YA4DgHzUFWjpezmSQseuhZV5UnUHsIPvsasXPrdu4F/Nc3FZcoT7zAO8n3cLVNRJCN9+xvbAdWsKmx547yYIayIQsQ9mQzw6hUQn3czRgg/5H0J/UKXR0Mm2DloCBeXWrFVg4u8jJTfHVoruUklfMrx2xBg8su2JH3U02diKwliEM7jyfJA9g0bch0Ko6JNAtEbI4+7yR/SXYxScw+aFokQ==;8B8U/+cx01Z0Ixp4/Kt60Q=="
+secured: "mptxXWX7HOCrdPWY3coDPMhwPFzKx7fUznRmrI8bA8oMEQrPFFEyXgHBThQc/m+WDPkOT8z4v9QAFE0fQMIu1HASHDbhlNtPpqhgs6paspEDauajyGjcDoQ8j++cP/Izxay0ZLiL2qIn+D1l4x9py71ZqWvwsakHZdXo0xBs2sEsIRZjFJtsdLNBp8q6F4Ir7rQnHOi0BD5aJruaso4Du+1jWB/LqIgcmgYCBS2ZCOkGGBHmgNSQ215KktDxpt79S2YfqpxxqFRmJvNkLcej9o/hgchEvdldr6yDd9BAjFhbCEXHOinmIV3YxhrzCTNZsM8dUzVsqxv4FwJd9sMe8SkyL1KPl2EWk1Ol0NPLmL0=;PUqPZdKTDN5XYm+tDj87dA=="
 ---
 

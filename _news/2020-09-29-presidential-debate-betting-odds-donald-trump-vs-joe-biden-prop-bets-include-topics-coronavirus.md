@@ -638,6 +638,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "'Vicious': Biden says Trump's debate attacks were what he expected, says Proud Boys should 'cease and desist'"
+    excerpt: "He did what I expected him to do last night,” Biden said in Ohio. “I think the phrase was: ‘Now he can become really vicious’ – that was his phrase.”"
+    publishedDateTime: 2020-10-01T02:29:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/joe-biden-embarks-train-tour-ohio-pennsylvania/3586229001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3586229001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3586229001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/d006e1a3-d0c9-40fe-af76-526e816237b2-biden_train.jpg?auto=webp&crop=7928,4460,x0,y273&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Compares Trump to Goebbels, Saying He’s Promoting a ‘Lie’"
     excerpt: "Democratic nominee Joe Biden compared Donald Trump to Joseph Goebbels, saying the president was repeating a “lie” in the same way the Nazi propagandist did in the 1930s and ‘40s."
     publishedDateTime: 2020-09-27T03:56:00Z

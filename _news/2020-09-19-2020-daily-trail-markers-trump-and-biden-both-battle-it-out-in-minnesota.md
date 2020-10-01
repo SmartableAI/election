@@ -735,6 +735,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Insults and interruptions mar first Trump-Biden debate"
+    excerpt: "President Donald Trump and Democratic rival Joe Biden battled fiercely over Trump's record on the coronavirus pandemic, healthcare and the economy in a chaotic and bad-tempered first debate marked by personal insults and Trump's repeated interruptions."
+    publishedDateTime: 2020-10-01T03:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26K1O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26K1O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26K1O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535479749&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0AW"
+        width: 848
+        height: 545
+        isCached: true
   - title: "Election live updates: Trump and Biden heading to battleground states as Supreme Court drama plays out"
     excerpt: "President Trump is heading to Ohio while Joe Biden goes to Wisconsin, as debates over who will replace Ruth Bader Ginsburg on the Supreme Court, and how quickly, play out."
     publishedDateTime: 2020-09-21T11:29:00Z

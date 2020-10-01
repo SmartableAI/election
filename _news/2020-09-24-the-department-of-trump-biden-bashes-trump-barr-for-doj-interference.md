@@ -542,6 +542,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden, Trump return to campaign trail after chaotic debate"
+    excerpt: "Biden called Trump's debate performance a “a national embarrassment,” while the president attacked the Democratic nominee and debate moderator, Chris Wallace."
+    publishedDateTime: 2020-10-01T03:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-slams-trump-s-debate-showing-national-embarrassment-presses-commission-n1241593"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241593"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241593"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416397/200930-joe-biden-cleveland-jm-1341_a7bef22d9c2fadbc5a2c2cb0391d87e8.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump Faces Challenges Even in Red States, Poll Shows, as Women Favor Biden"
     excerpt: "Close races in Georgia, Iowa and Texas show President Trump’s vulnerability and suggest that Joseph Biden has assembled a formidable coalition, according to a New York Times/Siena College poll."
     publishedDateTime: 2020-09-25T00:31:00Z
@@ -921,6 +937,20 @@ related:
     quality: 124
     images:
       - url: "https://static.politico.com/70/ef/a57c539b46548129fd2a2736d9fe/gettyimages-1228789566-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Debates commission says it will add order to Trump and Biden’s remaining showdowns"
+    excerpt: "The two candidates clashed bitterly in their first debate, with the president repeatedly interrupting his opponent and the moderator."
+    publishedDateTime: 2020-10-01T03:08:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/debates-commission-says-it-will-roll-out-format-changes-for-trump-and-bidens-remaining-showdowns-423800"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 124
+    images:
+      - url: "https://static.politico.com/f2/9b/4a96493a4e6e945b3b52ef773abc/200930-debate-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true
