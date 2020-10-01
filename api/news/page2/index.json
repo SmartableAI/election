@@ -2,6 +2,330 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-trump-said-portlands-sheriff-supports-him-the-sheriff-disputes-that.md",
+      "title": "Trump said Portland's sheriff supports him. The sheriff disputes that.",
+      "excerpt": "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "originalUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/dbf8d5f7-cc73-41b9-81a0-053b416b4ac2/thumbnail/1200x630/55135e432af3c30438ab4da906fbdd7a/ap-20274041554822.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "publishedDateTime": "2020-09-30T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-snl-is-back-this-weekend-with-jim-carrey-as-joe-biden-chris-rock-as-host-and-a-whole-lot-of-restrictions-heres-what-to-expect.md",
+      "title": "SNL is back this weekend with Jim Carrey as Joe Biden, Chris Rock as host and a whole lot of restrictions. Here’s what to expect.",
+      "excerpt": "Live\" will return for its 46th season with more Alec Baldwin as Trump, Maya Rudolph as Kamala Harris and three new cast members.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/",
+      "originalUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5YMXTXXAE5AYZDIB7AP26UBZAU.JPG&w=1440",
+          "width": 1440,
+          "height": 1240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/?outputType=amp",
+      "publishedDateTime": "2020-09-30T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-matt-gorman-trump-has-a-new-running-mate-now.md",
+      "title": "Matt Gorman: Trump has a new running mate now",
+      "excerpt": "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
+      "originalUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94a65f6-5ffd-48bb-a83f-27cccf0be04a/265a668a-7607-4662-85c1-473e327e8464/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
+      "publishedDateTime": "2020-09-30T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.md",
+      "title": "Sheriff in Portland denies Trump's debate claim of winning his endorsement",
+      "excerpt": "The sheriff of Multnomah County, which includes Portland, Ore., emphatically denied supporting President Trump Tuesday evening shortly after the president made the claim.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/sheriff.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp",
+      "publishedDateTime": "2020-09-30T01:27:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-biden-hes-the-racist.md",
+      "title": "Biden: 'He's the racist'",
+      "excerpt": "During the first presidential debate, President Donald Trump claimed he ended racial sensitivity training because it was \"racist\" and Joe Biden responded that Trump is the racist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/biden-he-s-the-racist-92828741868",
+      "originalUrl": "https://www.nbcnews.com/video/biden-he-s-the-racist-92828741868",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden_trump_racist.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92828741868",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92828741868",
+      "publishedDateTime": "2020-09-29T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-ross-asked-if-ending-census-earlier-would-produce-numbers-in-trumps-current-term.md",
+      "title": "Ross asked if ending census earlier would produce numbers in Trump's current term",
+      "excerpt": "Commerce Secretary Wilbur Ross' surprise decision Monday evening to end 2020 census counting on October 5 risks an incomplete tally of as many as 10 states, including Florida and Georgia, according to Census Bureau officials.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yx-DcsbT2Gw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yx-DcsbT2Gw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918152213-01-census-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/29/politics/census-incomplete-count/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/census-incomplete-count/index.html",
+      "publishedDateTime": "2020-09-29T22:33:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-borat-sequel-with-pence-name-in-title-to-be-released-before-2020-election-by-amazon.md",
       "title": "'Borat' sequel -- with Pence name in title -- to be released before 2020 election by Amazon",
       "excerpt": "The 2006 original film, written and produced by Cohen, follows the titular character, a Kazakh television personality, as he explores America.",
@@ -176,7 +500,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/09/29/presidential-debate-biden-posts-headphones-mocking-earpiece-theory/3581631001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -991,312 +1315,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-facebook-and-twitter-keep-fact-checking-trump-on-voting-by-mail-hes-undeterred.md",
-      "title": "Facebook and Twitter keep fact-checking Trump on voting by mail. He's undeterred.",
-      "excerpt": "The president has taken full advantage of the policies of Twitter and Facebook to spread election misinformation, making warning labels seem quaint in comparison.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/facebook-twitter-keep-fact-checking-trump-voting-mail-he-s-n1241339",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/facebook-twitter-keep-fact-checking-trump-voting-mail-he-s-n1241339",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_40/3416056/200928-trump-twitter-main-mn-1335_6ba4260e0cd2d7ec3d8530d568032a84.jpg",
-          "width": 3120,
-          "height": 1796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241339",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241339",
-      "publishedDateTime": "2020-09-29T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-michelle-goldberg-column-does-donald-trump-need-a-bailout.md",
-      "title": "Michelle Goldberg column: Does Donald Trump need a bailout?",
-      "excerpt": "The New York Times' blockbuster exposé of Trump’s taxes makes clear that Trump’s taxes reveal no previously unreported financial link to Russia; the documents mostly “lack the specificity” required to do so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/L-BjTtTiuchRZ91Vvz4hZXI6zXg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK5A6UOHTGJGA67TK5KU33UZ3Q.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-29T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-save-the-children-extremist-conspiracy-movement-qanon-fabricates-pedophile-claims-against-joe-biden-as-election-looms.md",
-      "title": "Save the Children? Extremist conspiracy movement QAnon fabricates pedophile claims against Joe Biden as election looms",
-      "excerpt": "QAnon has hijacked the Save the Children movement to push baseless pedophilia claims against Joe Biden and other Democrats before the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/tech/2020/09/28/qanon-pedophile-claims-biden-trump-save-the-children-facebook-instagram/3522626001/",
-      "originalUrl": "https://www.palmbeachpost.com/story/tech/2020/09/28/qanon-pedophile-claims-biden-trump-save-the-children-facebook-instagram/3522626001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/24/USAT/7816fd70-f6e9-457f-8236-c459ddfbce36-GTY_1228159792.jpg?auto=webp&crop=5268,2964,x0,y336&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.palmbeachpost.com/amp/3522626001",
-      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3522626001",
-      "publishedDateTime": "2020-09-29T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-rep-kevin-brady-calls-for-probe-into-whether-trumps-tax-information-release-was-illegal.md",
-      "title": "Rep. Kevin Brady calls for probe into whether Trump's tax information release was 'illegal'",
-      "excerpt": "The top Republican on the House Ways and Means Committee, Texas Rep. Kevin Brady, this week called for an investigation into the source who released President Trump’s tax return information to The New York Times over the weekend, calling it “illegal” and for “political reasons.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WCeudPxcQw/kevin-brady-trump-tax-release",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1WCeudPxcQw/kevin-brady-trump-tax-release",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kevin-brady-trump-tax-release.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kevin-brady-trump-tax-release.amp",
-      "publishedDateTime": "2020-09-29T08:04:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-joe-biden-must-not-commit-major-gaffe-to-secure-successful-performance-says-debate-expert.md",
-      "title": "Joe Biden must not 'commit major gaffe' to secure successful performance, says debate expert",
-      "excerpt": "Aaron Kall, director of debate at the University of Michigan, addresses the baseline expectations for both candidates ahead of the first U.S. presidential debate on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2020/09/29/joe-biden-must-not-commit-major-gaffe-to-secure-successful-performance-says-debate-expert.html",
-      "originalUrl": "https://www.cnbc.com/video/2020/09/29/joe-biden-must-not-commit-major-gaffe-to-secure-successful-performance-says-debate-expert.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106721259-16013803403ED2-REQ-092920-SBEBidenGoal.jpg?v=1601380339",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-former-pence-adviser-appalled-at-pressure-white-house-placed-on-cdc-to-open-schools.md",
-      "title": "Former Pence Adviser 'Appalled' At Pressure White House Placed On CDC To Open Schools",
-      "excerpt": "Olivia Troye's latest comments confirm reports in New York Times about pressure from the White House to downplay the coronavirus' impact on children.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781",
-      "originalUrl": "https://www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/09/coronavirus-pandemic-new-guidelines-issued-cdc.jpg",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781?amp=1",
-      "publishedDateTime": "2020-09-29T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

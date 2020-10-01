@@ -2,6 +2,260 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-01-trump-falsely-claims-poll-watchers-blocked-from-observing-early-voting-sites-in-philadelphia.md",
+      "title": "Trump falsely claims 'poll watchers' blocked from observing early voting sites in Philadelphia",
+      "excerpt": "President Trump falsely claimed that \"poll watchers\" were blocked from entering early voting locations in Philadelphia, an issue his campaign and the RNC are litigating.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pennsylvania-election-01-gty-llr-200930_1601499860422_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "publishedDateTime": "2020-09-30T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-former-trump-campaign-manager-brad-parscale-steps-down-from-role-as-senior-adviser.md",
+      "title": "Former Trump campaign manager Brad Parscale steps down from role as senior adviser",
+      "excerpt": "Brad Parscale stepped down from his role as a senior adviser to President Donald Trump's campaign on Wednesday, two sources close to the campaign confirmed to CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200430103432-01-brad-parscale-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html",
+      "publishedDateTime": "2020-09-30T18:43:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-second-lady-karen-pence-makes-3-veteran-themed-stops-in-jacksonville-area.md",
+      "title": "Second lady Karen Pence makes 3 veteran-themed stops in Jacksonville area",
+      "excerpt": "Karen Pence, wife of Vice President Mike Pence, made three stops in Jacksonville, focused on veterans' issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/",
+      "originalUrl": "https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/30/NFTU/4ea6f2a0-019f-4279-8b50-56fa316692ef-FLJAX_093020_KarenPence_01.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.jacksonville.com/amp/3574834001",
+      "cdnAmpWebUrl": "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/3574834001",
+      "publishedDateTime": "2020-09-30T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Florida Times-Union",
+        "domain": "jacksonville.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-biden-mr-rogers-widow-joanne-hold-virtual-call-during-pennsylvania-campaign-stop.md",
+      "title": "Biden, Mr. Rogers' widow Joanne hold virtual call during Pennsylvania campaign stop",
+      "excerpt": "Rogers, 92, is an outspoken critic of President Trump and supporter of the Biden campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhMH2EpasXA/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhMH2EpasXA/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Facetime-Rogers-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
+      "publishedDateTime": "2020-09-30T17:46:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-sen-chuck-grassley-id-be-very-concerned-about-how-donald-trumps-tax-returns-got-out.md",
+      "title": "Sen. Chuck Grassley: 'I'd be very concerned' about how Donald Trump's tax returns got out",
+      "excerpt": "Asked about the substance of the New York Times' reporting that Trump paid $750 in income tax in 2016 and 2017, Grassley said he doesn't have enough evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/09/17/PDEM/80644d4b-a019-4ee7-a6b1-39785f7db425-grassley.jpg?auto=webp&crop=5999,3360,x0,y39&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5874449002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002",
+      "publishedDateTime": "2020-09-30T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-trump-returns-to-campaign-trail-with-minnesota-rally-after-widely-panned-debate.md",
       "title": "Trump returns to campaign trail with Minnesota rally after widely panned debate",
       "excerpt": "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls.",
@@ -742,6 +996,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-30-fact-check-joe-biden-did-not-say-he-attended-delaware-state-university.md",
+      "title": "Fact check: Joe Biden did not say he attended Delaware State University",
+      "excerpt": "Tens of thousands of social media users have been sharing posts that say Democratic presidential candidate Joe Biden lied about attending Delaware State University (DSU). This claim is false: Biden did not say that he attended DSU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535546722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T1V0",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26L2RD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD",
+      "publishedDateTime": "2020-09-30T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-floridas-top-city-for-cuban-exiles-goes-to-bat-for-gop-in-2020-trump-town.md",
       "title": "Florida's top city for Cuban exiles goes to bat for GOP in 2020: 'Trump Town'",
       "excerpt": "The city of Hialeah, outside Miami, is known for its Cuban American community of working families, tight incomes and friendships among neighbors -- and as the election nears, many say they're leaning strongly toward voting for President Trump.",
@@ -1012,330 +1317,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-said-portlands-sheriff-supports-him-the-sheriff-disputes-that.md",
-      "title": "Trump said Portland's sheriff supports him. The sheriff disputes that.",
-      "excerpt": "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
-      "originalUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/dbf8d5f7-cc73-41b9-81a0-053b416b4ac2/thumbnail/1200x630/55135e432af3c30438ab4da906fbdd7a/ap-20274041554822.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
-      "publishedDateTime": "2020-09-30T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-snl-is-back-this-weekend-with-jim-carrey-as-joe-biden-chris-rock-as-host-and-a-whole-lot-of-restrictions-heres-what-to-expect.md",
-      "title": "SNL is back this weekend with Jim Carrey as Joe Biden, Chris Rock as host and a whole lot of restrictions. Here’s what to expect.",
-      "excerpt": "Live\" will return for its 46th season with more Alec Baldwin as Trump, Maya Rudolph as Kamala Harris and three new cast members.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/",
-      "originalUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5YMXTXXAE5AYZDIB7AP26UBZAU.JPG&w=1440",
-          "width": 1440,
-          "height": 1240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/?outputType=amp",
-      "publishedDateTime": "2020-09-30T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-matt-gorman-trump-has-a-new-running-mate-now.md",
-      "title": "Matt Gorman: Trump has a new running mate now",
-      "excerpt": "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
-      "originalUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94a65f6-5ffd-48bb-a83f-27cccf0be04a/265a668a-7607-4662-85c1-473e327e8464/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
-      "publishedDateTime": "2020-09-30T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.md",
-      "title": "Sheriff in Portland denies Trump's debate claim of winning his endorsement",
-      "excerpt": "The sheriff of Multnomah County, which includes Portland, Ore., emphatically denied supporting President Trump Tuesday evening shortly after the president made the claim.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/sheriff.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp",
-      "publishedDateTime": "2020-09-30T01:27:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-biden-hes-the-racist.md",
-      "title": "Biden: 'He's the racist'",
-      "excerpt": "During the first presidential debate, President Donald Trump claimed he ended racial sensitivity training because it was \"racist\" and Joe Biden responded that Trump is the racist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/biden-he-s-the-racist-92828741868",
-      "originalUrl": "https://www.nbcnews.com/video/biden-he-s-the-racist-92828741868",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden_trump_racist.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92828741868",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92828741868",
-      "publishedDateTime": "2020-09-29T23:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-ross-asked-if-ending-census-earlier-would-produce-numbers-in-trumps-current-term.md",
-      "title": "Ross asked if ending census earlier would produce numbers in Trump's current term",
-      "excerpt": "Commerce Secretary Wilbur Ross' surprise decision Monday evening to end 2020 census counting on October 5 risks an incomplete tally of as many as 10 states, including Florida and Georgia, according to Census Bureau officials.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yx-DcsbT2Gw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yx-DcsbT2Gw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200918152213-01-census-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/29/politics/census-incomplete-count/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/census-incomplete-count/index.html",
-      "publishedDateTime": "2020-09-29T22:33:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

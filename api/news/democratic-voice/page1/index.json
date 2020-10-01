@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-01-former-trump-campaign-manager-brad-parscale-steps-down-from-role-as-senior-adviser.md",
+      "title": "Former Trump campaign manager Brad Parscale steps down from role as senior adviser",
+      "excerpt": "Brad Parscale stepped down from his role as a senior adviser to President Donald Trump's campaign on Wednesday, two sources close to the campaign confirmed to CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200430103432-01-brad-parscale-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html",
+      "publishedDateTime": "2020-09-30T18:43:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-federal-judge-refuses-to-stop-mail-in-voting-in-montana-blasts-trump-backed-fiction-of-massive-voter-fraud.md",
       "title": "Federal judge refuses to stop mail-in voting in Montana, blasts Trump-backed 'fiction' of massive voter fraud",
       "excerpt": "A federal judge in Montana rejected the Trump campaign's effort to stop an expansion of mail-in voting in the state.\n    \n",
@@ -1114,61 +1169,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-former-trump-campaign-manager-brad-parscale-hospitalized-following-reported-suicide-attempt.md",
-      "title": "Former Trump campaign manager Brad Parscale hospitalized following reported suicide attempt",
-      "excerpt": "President Donald Trump's former campaign manager Brad Parscale was hospitalized Sunday following reports of a suicide attempt at his Florida home, CNN has learned.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200430103423-02-brad-parscale-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html",
-      "publishedDateTime": "2020-09-27T18:50:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-27-new-york-times-trump-paid-no-income-taxes-in-10-out-of-15-years-beginning-in-2000.md",
       "title": "New York Times: Trump paid no income taxes in 10 out of 15 years beginning in 2000",
       "excerpt": "Donald Trump has paid no income taxes whatsoever in 10 of the past 15 years since 2017 as a result of reporting that he was losing significantly more than he made, according to an explosive report released Sunday by the New York Times.\n    \n",
@@ -1512,7 +1512,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1090,
+      "heat": 1130,
       "tags": null,
       "images": [
         {
@@ -1567,7 +1567,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2530,
+      "heat": 2590,
       "tags": null,
       "images": [
         {

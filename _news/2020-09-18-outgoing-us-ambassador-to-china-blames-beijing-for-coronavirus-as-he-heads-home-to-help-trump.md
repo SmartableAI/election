@@ -815,6 +815,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Almost every single one of Trump's debate claims about mail-in voting was wrong"
+    excerpt: "President Donald Trump lied about a wide variety of topics -- including health care, the economy and the coronavirus pandemic -- during Tuesday's presidential debate. But he was especially dishonest on the subject of voting by mail.\n    \n"
+    publishedDateTime: 2020-10-01T00:54:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uM94CipKMTg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/fact-check-trump-first-debate-mail-voting-fraud/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/fact-check-trump-first-debate-mail-voting-fraud/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001053-44-debate-clevelant-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-check: Team Trump capitalizes on Pennsylvania incident to baselessly accuse Democrats of 'stealing' the 2020 election"
     excerpt: "President Donald Trump and his campaign are spreading disinformation about an incident in Pennsylvania where nine ballots were improperly discarded, and are falsely claiming it proves widespread \"voter fraud\" and that Democrats are \"trying to steal the election.\"\n    \n"
     publishedDateTime: 2020-09-25T23:40:44Z
@@ -1327,6 +1343,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How Trump torpedoed the presidential debates"
+    excerpt: "The president has spent the past four years undermining the legitimacy of the ‘so-called Commission on P Debates.’"
+    publishedDateTime: 2020-10-01T00:41:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/trump-presidential-debate-commission-424181"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/trump-presidential-debate-commission-424181"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/trump-presidential-debate-commission-424181"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5f/b5/f3b1a03c4c14a3ebf06b56e2e0f4/200930-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump slightly shifts tone on Proud Boys"
     excerpt: "I can only say they have to stand down,” the president said of far-right extremists, after telling them during the presidential debate to “stand by.”"
     publishedDateTime: 2020-09-30T21:24:00Z
@@ -1390,6 +1422,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3415627/200928-donald-trump-mike-pence-ac-452p_dd329485287f4e551f126d1b1fa95868.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump Renews Fears of Voter Intimidation as G.O.P. Poll Watchers Mobilize"
+    excerpt: "Republicans are putting together what they call an army of Trump supporters to monitor election procedures. The group of Trump campaign officials came carrying cellphone cameras and a determination to help the president’s re-election efforts in Philadelphia."
+    publishedDateTime: 2020-10-01T00:12:00Z
+    webUrl: "https://www.nytimes.com/2020/09/30/us/trump-election-poll-watchers.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/30/us/trump-election-poll-watchers.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/30/us/trump-election-poll-watchers.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30POLLWATCHERS1/30POLLWATCHERS1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump administration shakes up HHS personnel office after tumultuous hires"
     excerpt: "The move leaves Health Secretary Alex Azar with more control over his department, which has been rocked by personnel scandals in recent weeks."

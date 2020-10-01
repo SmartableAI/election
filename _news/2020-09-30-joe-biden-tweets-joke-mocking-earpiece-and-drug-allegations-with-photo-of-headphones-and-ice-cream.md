@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3581631001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3581631001"
 type: article
 quality: 109
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
-    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
-    publishedDateTime: 2020-09-29T22:50:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "uCXMM/6KWqQvuuk4md7HMXni+NjglV22SDWL9w88nqV9ZpUe1qDVZNw5xcnp1Hqewcbt97RZ2Y9lJH9NPW0e+qBXhU5w1J6SLF1rebAvya6RJRgXT6PRHy5IB40zQ4Rx/vk93MSAlKtnT5l10MhtlW2fqkNd08dfxQncLF7aqKaWwDu0TLwddYZGFe9RkG1IOLAm/5NkilxovDvdqehTEQP/chDuYdegyH/yAvjTBttND29ysg0nI9U1lCbie3KG+bV0ssZD6q5zdWJ2MOIU9Rg0juViKB+2ZXOgjhT9OF3qz1fvp9527DyZHFQudT0hXUyDm+TA0NsVIvQcuvs8XGM5uGRnWlN2wLGnqJxe/XZN2EClPPPkZ+4Mn9yYQ5BgkTCLVl7AU+uE0czG4KQP5dKKi69pL1bRSIStGRzXXMCLLFYxbFzh5t6by+8UXBMzdl9V1yXAxWub1efYcuNKUMxTFk4vija1INEbehj/QCf6N91BNnGNjZkObadCaoivAH+IPXmT1ZVY9VtxwWrFlg==;VIU/iZ6JNZKCiKiLWCSMBw=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The debate showed that treating Trump ‘fairly’ only helps him cheat"
+    excerpt: "Tuesday night’s presidential debate perfectly illustrates how Donald Trump abuses our democratic institutions — and how feckless the media can be in the face of those violations. Since he first entered the presidential race,"
+    publishedDateTime: 2020-10-01T01:15:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUNGFGQDKUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
 
 secured: "BfQManORk/si5D/bQ4wxJJ7JyyjC8W2FhASfTMPuT56H8uZwy2Wt2+E7ITAbGZPqst6kyKGIDhEgaZ51VQuhNAmI7UCaPUOcm3d7rj1YMS17TTyanfKewlOkO9uIOIE3qHTyxud4MegFDplquYOIp7xeHwzV1Dio55exMDJn5+upsS2R1/W0jQ1RDST4oihQ0/WYjesIrg6a/+LSQJ4qGC8M5P4HeFNDk+xeBdVcT/wy/47E7gSKSKHkkwUiAGFYQUcfhpdrFfPypOglfGym5RsG7VLJ0IbgnBtbuEYDViejp6WZEHyHrsmjaFEYERa/vAD6j9vUl0SicTwidh25xmqOoqwvxLmi+GSNkszFrNBpc4KUt5/OKoy0jxEJfICpjb8YOfzGgCo5OJDoWJm4id/ERdnggcDfBSTxhq449OL6U2m4mRnnri4L7bfTPxehlxosqPrnLk/UBqP3GSuepaVI+K91rTFVslDV4RGx2+zMYfVEWAIH6ZPQH/uiZnnLZN3OSYoXw1sd6UIP7Gdt5A==;q5ROTDQRK1s0lzL8ZJIDBQ=="
 ---

@@ -110,7 +110,7 @@ related:
   - title: "Biden's debate use of Arabic phrase sparks conversation among Muslims"
     excerpt: "Former Vice President Joe Biden on Tuesday used a bit of Arabic slang that piqued the interest of Muslims on Twitter."
     publishedDateTime: 2020-09-30T22:04:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?ref=hvper.com"
+    webUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims"
     ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
     cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
     type: article

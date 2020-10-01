@@ -2,6 +2,113 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks.md",
+      "title": "Trump Tax Avoidance Scandal Exposes Poor Risk Management And Double Standards At Deutsche And Professional Banks",
+      "excerpt": "Trump may finally be the greatest at something, being the most leveraged president in U.S. history. Trump’s tax avoidance scandal showcases how banks apply credit standards differently to powerful borrowers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/",
+      "originalUrl": "https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721622f05720aa8fd4acf5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/amp/",
+      "publishedDateTime": "2020-09-28T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-fox-friends-with-donald-trump-jr-tries-to-dismiss-times-tax-article.md",
+      "title": "‘Fox & Friends,’ With Donald Trump Jr., Tries to Dismiss Times Tax Article",
+      "excerpt": "The Fox News morning show, a reliable forum for the president and his defenders, serves up criticism of the report and attacks on Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/28/business/media/fox-news-trump-taxes.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/28/business/media/fox-news-trump-taxes.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/28foxnews-taxes2/28foxnews-taxes2-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/28/business/media/fox-news-trump-taxes.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/business/media/fox-news-trump-taxes.amp.html",
+      "publishedDateTime": "2020-09-28T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-trump-says-he-will-approve-permit-for-canada-to-alaska-railway-to-free-landlocked-oil.md",
       "title": "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil",
       "excerpt": "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U.",
@@ -367,7 +474,7 @@
       "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1640,
+      "heat": 1660,
       "tags": null,
       "images": [
         {
@@ -1448,118 +1555,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
-      "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
-      "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "originalUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/17/89268b77457c8792773636190c2c/gettyimages-1269389480-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "publishedDateTime": "2020-09-24T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-telemundo-anchor-refutes-misleading-video-posted-by-eric-trump.md",
-      "title": "Telemundo anchor refutes misleading video posted by Eric Trump",
-      "excerpt": "Privacy Policy “In one moment the monitor went to black,” Diaz-Balart recounted, and Biden said, “‘I lost the lady.’” | Noam Galai/ Telemundo anchor José Díaz-Balart on Wednesday refuted an allegation by one of President Donald Trump’s sons that Democratic presidential nominee Joe Biden relied on a teleprompter in a recent interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "originalUrl": "https://www.politico.com/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/09/56/eaf6f5d7478891770c7351d075f7/20200923-jose-diaz-balart-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "publishedDateTime": "2020-09-23T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

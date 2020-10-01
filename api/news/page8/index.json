@@ -2,6 +2,265 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-24-if-joe-biden-wins-will-the-democrats-pack-the-supreme-court.md",
+      "title": "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?",
+      "excerpt": "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914",
+      "originalUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 625,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1",
+      "publishedDateTime": "2020-09-23T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-donald-trump-and-richard-nixon-exchanged-letters-in-the-80s-read-some-of-them-here.md",
+      "title": "Donald Trump and Richard Nixon exchanged letters in the 80s. Read some of them here.",
+      "excerpt": "I think that you are one of this country’s great men, and it was an honor to spend an evening with you,” Trump writes to Nixon in June 1982, less than eight years after Nix",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/dRmA3Z-OerO_mNQ_2cuYGF954mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IL2Q6GTPVLYRN273X7QD4NNRKA.aspx",
+          "width": 1200,
+          "height": 927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-23T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-said-jews-are-only-in-it-for-themselves-and-stick-together-according-to-a-new-report.md",
+      "title": "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report",
+      "excerpt": "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
+      "publishedDateTime": "2020-09-23T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-milwaukee-suburbs-could-be-key-for-trump-re-election.md",
+      "title": "Milwaukee suburbs could be key for Trump re-election",
+      "excerpt": "As more of American suburbia reportedly tilts toward Democratic presidential nominee Joe Biden ahead of the November election, the suburbs on the outskirts of Milwaukee remain a bulwark of support for President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 550,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/b468a97b-AP20247796882570-e1599575764803.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp",
+      "publishedDateTime": "2020-09-23T10:42:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-has-shady-political-motives-in-blaming-china-for-pandemic-beijing-official-says.md",
+      "title": "Trump has 'shady political motives' in blaming China for pandemic, Beijing official says",
+      "excerpt": "The attacks from China's foreign ministry come a day after Trump accused Beijing of allowing the virus to escape its borders and “infect the world.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/ada6adda-5826-4b6f-a434-e2abeef42892-AFP_AFP_1VP17Q.jpg?auto=webp&crop=4170,2346,x0,y211&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3502844001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502844001",
+      "publishedDateTime": "2020-09-23T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-pence-asks-governors-to-build-confidence-in-vaccine.md",
       "title": "Pence asks governors to build confidence in vaccine ",
       "excerpt": "Vice President Mike Pence and other federal health officials sought to impress upon governors Monday the importance of boosting confidence in an eventual coronavirus vaccine as President Donald Trump continues to suggest one will be available before the election.\n    \n",
@@ -766,7 +1025,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1060,247 +1319,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-vice-president-mike-pence-to-make-nh-campaign-stop-next-week.md",
-      "title": "Vice President Mike Pence to make NH campaign stop next week",
-      "excerpt": "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9",
-      "originalUrl": "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wtsp.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9",
-      "cdnAmpWebUrl": "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9",
-      "publishedDateTime": "2020-09-22T17:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTSP",
-        "domain": "wtsp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-biden-announces-cindy-mccain-will-endorse-him.md",
-      "title": "Biden announces Cindy McCain will endorse him",
-      "excerpt": "Cindy McCain, the widow of longtime Republican Sen. John McCain of Arizona, is set to endorse Joe Biden, the Democratic presidential nominee told donors Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5e99xX0hwmk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5e99xX0hwmk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190925120923-cindy-mccain-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
-      "publishedDateTime": "2020-09-22T17:32:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-donald-trump-announces-ban-on-sex-and-race-based-ideologies-extends-to-companies-with-government-contracts.md",
-      "title": "Donald Trump Announces Ban on 'Sex and Race-Based Ideologies' Extends to Companies With Government Contracts",
-      "excerpt": "\"Americans should be taught to take PRIDE in our Great Country,\" President Donald Trump tweeted, \"and if you don't, there's nothing in it for you!\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714",
-      "originalUrl": "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1641008/trump.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-announces-ban-sex-race-based-ideologies-extends-companies-government-contracts-1533714?amp=1",
-      "publishedDateTime": "2020-09-22T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-its-a-shame-trump-reacts-to-covid-19-death-toll-hitting-200000.md",
-      "title": "'It's a shame.' Trump reacts to COVID-19 death toll hitting 200,000",
-      "excerpt": "Asked about the 200,000 COVID-19 deaths as reported by Johns Hopkins as he left the White House on Tuesday, Trump said \"it’s a shame.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3493983001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3493983001",
-      "publishedDateTime": "2020-09-22T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday.md",
-      "title": "Pence tells rallygoers woman will be nominated to Supreme Court Saturday",
-      "excerpt": "Vice President Mike Pence told supporters at a rally in Gilford on Tuesday that a conservative woman will be Saturday to serve as a justice on the Supreme Court, and he promised the seat will be filled during an election year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
-      "originalUrl": "https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/ad764cd0-af6b-4924-adfd-ce867eba867c/ad764cd0-af6b-4924-adfd-ce867eba867c_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614",
-      "publishedDateTime": "2020-09-22T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

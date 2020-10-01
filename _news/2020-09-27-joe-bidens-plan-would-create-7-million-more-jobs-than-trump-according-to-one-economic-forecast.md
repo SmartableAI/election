@@ -416,6 +416,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Debate fact check: Where Biden, Trump land on COVID-19, campaigning, law and order, more"
+    excerpt: "A contentious first presidential debate was sprinkled with truth amid misleading statements and outright falsehoods."
+    publishedDateTime: 2020-10-01T01:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/30/debate-fact-check-biden-trump-covid-19-law-enforcement-more/3585342001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3585342001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585342001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden & Donald Trump debate in Cleveland"
     excerpt: "Watch \"Joe Biden & Donald Trump are facing off in their first presidential debate of 2020 Cleveland\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-30T02:56:00Z

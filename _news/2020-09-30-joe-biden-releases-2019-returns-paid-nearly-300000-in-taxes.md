@@ -249,6 +249,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
+    excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
+    publishedDateTime: 2020-10-01T01:09:00Z
+    webUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f74e45074fe5b0018a8e596?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
     excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."
     publishedDateTime: 2020-09-29T14:19:00Z

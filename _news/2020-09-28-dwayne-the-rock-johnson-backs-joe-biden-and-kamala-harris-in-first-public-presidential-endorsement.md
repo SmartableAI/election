@@ -2,11 +2,11 @@
 category: news
 title: "Dwayne \"The Rock\" Johnson backs Joe Biden and Kamala Harris in first public presidential endorsement"
 excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
-publishedDateTime: 2020-09-28T09:11:00Z
-originalUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
-webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-joe-biden-kamala-harris-endorsement/"
+publishedDateTime: 2020-09-28T12:19:00Z
+originalUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
+webUrl: "https://www.cbsnews.com/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/dwayne-johnson-the-rock-endorses-joe-biden-kamala-harris/"
 type: article
 quality: 125
 heat: -1
@@ -1129,6 +1129,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "When Are The Next Presidential Debates? Schedule Includes Two More Trump-Biden Showdowns, One Pence-Harris Faceoff"
+    excerpt: "Republican President Donald Trump and Democratic nominee Joe Biden are set to square off two more times in October, after a chaotic first debate on Tuesday."
+    publishedDateTime: 2020-10-01T01:36:00Z
+    webUrl: "https://www.ibtimes.com/when-are-next-presidential-debates-schedule-includes-two-more-trump-biden-showdowns-3054683"
+    ampWebUrl: "https://www.ibtimes.com/when-are-next-presidential-debates-schedule-includes-two-more-trump-biden-showdowns-3054683?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-are-next-presidential-debates-schedule-includes-two-more-trump-biden-showdowns-3054683?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 108
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/30/us-president-donald-trump-and-democratic-candidate-joe.jpg"
+        width: 1024
+        height: 690
+        isCached: true
   - title: "Cindy McCain endorses Joe Biden for president..."
     excerpt: "Watch \"Wife of late senator Cindy McCain endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-23T19:49:00Z
@@ -1198,6 +1214,22 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/09/30/story_07048583_1601424545.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Faith, state leaders hold Biden-Harris counter rally during Vice President Pence visit to Atlanta"
+    excerpt: "It happened only about five minutes away from the Cobb Galleria, where Pence held a campaign luncheon and speaking event."
+    publishedDateTime: 2020-10-01T01:02:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/joe-biden-supporters-hold-rally-during-mike-pence-atlanta-visit/85-87394bbc-3ce9-4d6c-a670-ce67ea9ca498"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/joe-biden-supporters-hold-rally-during-mike-pence-atlanta-visit/85-87394bbc-3ce9-4d6c-a670-ce67ea9ca498"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/joe-biden-supporters-hold-rally-during-mike-pence-atlanta-visit/85-87394bbc-3ce9-4d6c-a670-ce67ea9ca498"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 102
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/d5fbace7-3409-41d7-809a-c8125bcc322a/d5fbace7-3409-41d7-809a-c8125bcc322a_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "FACTBOX-Here are rules liberals think they could reverse under Biden presidency"
     excerpt: "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the"
@@ -1397,6 +1429,22 @@ related:
     quality: 88
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa406999-6364-41d2-b071-dfbde8ca69c1-AFP_AFP_8R23MK.jpg?auto=webp&crop=4542,2555,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live: President Trump and Joe Biden square off in first presidential debate"
+    excerpt: "President Donald Trump and former Vice President Joe Biden brawled over the economy, the coronavirus pandemic and the Supreme Court vacancy on Tuesday in one of the most chaotic,"
+    publishedDateTime: 2020-09-30T20:34:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/29/live-presidential-debate-updates-trump-and-joe-biden-square-off/3578155001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3578155001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578155001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 88
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df700a01-e606-4250-bc51-f473370dbfff-GTY_1277457739.jpg?auto=webp&crop=6086,3423,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -2265,6 +2313,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "Bczxqlyq5y32/4EGMfArGCzctwp62be+rZFRlEYzr429xvF0Fq3K2TH2NaI5aWzuuWHddgnQw793nEQe/utZHJwSBuBFQEuHHBZoarba09PiBRYf6OcNOfGD9GE1HhAehKrDcjguInQ4hVGt5Y8c4xlJck+3HRPydkGY7IxxwwFbEEOVvptUbK55r9nkqUqz/bJ1zImh/8xhmeTSTNtNPEBedv0QR4qBpQULz1ITs28tuzI52zS2epp8X0QfZSLL3UWLFYPYElthdWkBmV/J5663lsJR8G7bEzQsxd8+5yiQk6J4Jt460ae4eVVl5R4p29TnTU3RS6Dis/ujE3T+GdTZ7MQtVY8AJ/fTUuU/7b+ef3fLng9qLVcmElB/dJReIFoBi6xvdOKCRK4GEdWwCzeBddatvWWuuu1fIu3L5aGg040FeFlSfEBfNm/D+6Xo/D9zLdmrALn+dal+CSqIyrkw2QZtmMd6y8fXBvEzztYq4UhXvCncmhiWfD5YtZ6KZa5pzTwEk2aP2OPloVxhSw==;hnM2FJDdn256Y0+ZPIbgog=="
+secured: "xy91dkRNIVMHt56zq6cB27NSHHA2Z3iN6VzbSqSqOThc9Mkq+vlSNmR822KE7FL/Ej2WCxoMirGTsFWOZi7kISF/X23ypa45UwPJTzlIzPY+8bWMORd2qNg4BCRR33iTLy1Au03EYCS3d0amuCy7OpYAlgi0ScwsVPjoEffQVYW/K++tXeF9ZXrifKrW3j8LWX68MaGIxjQgLpF1tvOkHHx01jrZe2GIjXLs7SSYnbtWFij9Eotjy5+JPYDxRqwLgULDqL8l07PYyQQLAqIEp05nGmCfCeUxXw73DlnaUOmoDb5STu7dEnfL0H6dmImnhQ1/JbPY92EzCHENPsx0IIo1pP9M48L/P6raTcSiQ9o=;+vjua8GF7pZbzOgyZNP4gA=="
 ---
 

@@ -19,22 +19,49 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Democrats ramp up virtual campaign with NC ‘visits’ from Kamala Harris, Jill Biden | Charlotte Observer"
-    excerpt: "President Trump is making regular stops in NC and the Biden campaign is countering with virtual events from high-profile Democrats."
-    publishedDateTime: 2020-09-18T00:54:00Z
-    webUrl: "https://www.charlotteobserver.com/latest-news/article245803135.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/latest-news/article245803135.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/latest-news/article245803135.html"
+  - title: "Fact check: Joe Biden did not say he attended Delaware State University"
+    excerpt: "Tens of thousands of social media users have been sharing posts that say Democratic presidential candidate Joe Biden lied about attending Delaware State University (DSU). This claim is false: Biden did not say that he attended DSU."
+    publishedDateTime: 2020-09-30T15:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L2RD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/8dd160d4-750c-4437-88b7-70c19fe7d0e8/b3af9ac2-cb8d-46d9-bbaa-99e8b7980a99/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535546722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T1V0"
+        width: 818
+        height: 545
         isCached: true
+  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
+    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
+    publishedDateTime: 2020-09-29T22:50:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
+    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
+    publishedDateTime: 2020-09-24T14:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
     excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
     publishedDateTime: 2020-09-23T18:56:00Z

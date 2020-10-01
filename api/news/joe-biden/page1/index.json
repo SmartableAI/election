@@ -109,6 +109,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-30-fact-check-joe-biden-did-not-say-he-attended-delaware-state-university.md",
+      "title": "Fact check: Joe Biden did not say he attended Delaware State University",
+      "excerpt": "Tens of thousands of social media users have been sharing posts that say Democratic presidential candidate Joe Biden lied about attending Delaware State University (DSU). This claim is false: Biden did not say that he attended DSU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD",
+      "originalUrl": "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535546722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T1V0",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26L2RD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD",
+      "publishedDateTime": "2020-09-30T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-snl-is-back-this-weekend-with-jim-carrey-as-joe-biden-chris-rock-as-host-and-a-whole-lot-of-restrictions-heres-what-to-expect.md",
       "title": "SNL is back this weekend with Jim Carrey as Joe Biden, Chris Rock as host and a whole lot of restrictions. Here’s what to expect.",
       "excerpt": "Live\" will return for its 46th season with more Alec Baldwin as Trump, Maya Rudolph as Kamala Harris and three new cast members.",
@@ -224,7 +275,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/09/29/presidential-debate-biden-posts-headphones-mocking-earpiece-theory/3581631001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -526,7 +577,7 @@
       "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3140,
+      "heat": 3200,
       "tags": null,
       "images": [
         {
@@ -1285,7 +1336,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1478,62 +1529,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-biden-says-200-million-people-have-died-from-covid-19-as-campaign-gaffes-continue.md",
-      "title": "Biden says 200 million people have died from COVID-19 as campaign gaffes continue",
-      "excerpt": "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid",
-      "originalUrl": "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e399faa5-7321-4ef1-ad0a-9fb136724d51/a71c9efc-b954-4612-973b-61db04a24e42/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-200-million-die-from-covid.amp",
-      "publishedDateTime": "2020-09-20T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -448,6 +448,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "‘A national embarrassment’: Biden attacks Trump after messy debate"
+    excerpt: "The former vice president said that Trump’s performance “reinforced for me why I got in the race in the first place.”"
+    publishedDateTime: 2020-10-01T00:13:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/biden-turn-the-page-messy-debate-423718"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/biden-turn-the-page-messy-debate-423718"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/biden-turn-the-page-messy-debate-423718"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/57/ec/b055b5a643298032967ce3d3ef5a/0929debate3.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘An Embarrassment’: Trump, Biden and the Debate Fiasco"
     excerpt: "Readers express their consternation, calling the debate an “embarrassment” and urging a mute button. Re “ Trump’s Heckles Send First Debate Into Utter Chaos ” (front page, Sept. 30): The debate on Tuesday night was an embarrassment for the country and for the office of the president."
     publishedDateTime: 2020-09-30T17:15:00Z
@@ -649,6 +665,22 @@ related:
     quality: 130
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_29/3359351/200521-brad-parscale-al-1115_3d125fc3d20f06a06e4a43407badfe31.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Brad Parscale steps down from Trump campaign to get 'help' after police incident"
+    excerpt: "Parscale, 44, was taken to a hospital Sunday after his wife reported that he was armed and threatening to harm himself, authorities said."
+    publishedDateTime: 2020-10-01T01:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/brad-parscale-steps-down-trump-campaign-get-help-after-police-n1241631"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241631"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241631"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/2343566/180227-brad-parscale-ew-1225p_f3d2519a73d4820f1c7d6fb2fba6e47b.jpg"
         width: 2500
         height: 1667
         isCached: true

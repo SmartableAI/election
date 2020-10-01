@@ -25,47 +25,56 @@ topics:
   - Joe Biden
 
 related:
-  - title: "‘You can win this!’: how Beto O'Rourke is becoming Joe Biden’s greatest ally"
-    excerpt: "The El Paso politician is on a mission to take back Texas for the Democrats, urging Biden’s team to court the state’s many undecided voters"
-    publishedDateTime: 2020-09-23T09:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
+  - title: "Fact check: Joe Biden did not say he attended Delaware State University"
+    excerpt: "Tens of thousands of social media users have been sharing posts that say Democratic presidential candidate Joe Biden lied about attending Delaware State University (DSU). This claim is false: Biden did not say that he attended DSU."
+    publishedDateTime: 2020-09-30T15:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L2RD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/c63a765ef52204cdd445505513fbc7981ab30757/0_0_5472_3648/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2054f764993b62ddf0cdec7aaa7b6070"
-        width: 600
-        height: 400
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535546722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T1V0"
+        width: 818
+        height: 545
         isCached: true
-  - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
-    publishedDateTime: 2020-09-23T04:08:00Z
-    webUrl: "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669"
+  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
+    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
+    publishedDateTime: 2020-09-29T22:50:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 85
-  - title: "‘Bidin’ his time': Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again.On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at a subsequent press conference. When it was finally over,"
-    publishedDateTime: 2020-09-27T03:06:00Z
-    webUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
-    type: article
-    provider:
-      name: The Oklahoman
-      domain: oklahoman.com
-    quality: 75
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
     images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Joe Biden Campaigns in Charlotte, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
+    publishedDateTime: 2020-09-23T23:14:00Z
+    webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
+    excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
+    publishedDateTime: 2020-09-23T18:56:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245951550.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 30
 
 secured: "nI6dLPZzCML9jFnhOl1sWWAI35GJoNjeQV4NFEYp3G8wiEiwCsyqK7OTi9ySn1TmLogKFxklnnmAkdlpw8cUazExDV9nyzN8yx7S6IZqR0y3rYE7p8MszkB2bh8V3YKQF0qucr5ApfhbQFEAhfnP7j/sjlyPKq4luHE2AaPkfP5wzIL98X8Kx4PLbjXE6VWxWXKelq8CiXsuyz4kH6arCo6y8Brb7cW/synnUWfPT7UjcHl9r52sD7bYGm2kdLRQkUXt+2LSyXmKfN5mRUuanjyMTpdnorzq6c2OcYBULvsc7U5dUbuIPIRYe/ybKmkh6EUUqDvR72GOtcUAkJZBrsXa1a2ZJ80Bs8pMF2QZJLlEVTob/LFQblYM6kSW76vDBwCMLjZJSU38i1hsHu3PuUiOxJVD3VDqPg9VPFUZiwQn4ngYs5QNZvE5jYdNAI8kREp7Xct6ncQMLXaI8JjRvYlXo3z6l5NfTe7fc0aqqvIO8DZFs+Q1lX/xA+68UyANDy1F/VJSq9dhTTxRrKbDSQ==;E5CP4DOA1F3T6bMnW4tYEg=="
 ---

@@ -127,6 +127,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 97
+  - title: "Why Donald Trump's Former Housekeeper—and Millions of Other American Workers—Paid More in Federal Taxes Than Her Boss"
+    excerpt: "Sandra Diaz, Donald Trump's former housekeeper, is not alone in paying more federal income taxes than Trump before his presidency."
+    publishedDateTime: 2020-09-30T21:04:00Z
+    webUrl: "https://time.com/5894381/tax-code-wealthy/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 82
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-tax-wealthy.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "SxNZErlA+ZJm90c+ELyI+mrs+qa0o4d1M2mk8//ua9O6iCdIWLXgzFQwHG+M+rVSyR/QQkEQvEx8iN4mXiTzA7NWqvoEWRYRT9tCrI8f56wr8f0ViNebbuEp8exMP8V0kUNS42ugmOkmXyf+7oc8WXK4Uwg3Xc0IrRTapEXZjA/dY2qNLH1nPqfBLjWuAyzTEsEI74mT+NyNYT83eavyE/f+rVTfHKoTvXuYyQ97XkSDkBaHuBD2dyRnl3hoE5pVr1t1zz8+Yt3nGzj3kPadMjQJx2BSaE/G/VhlDqwOcXm+53ovinkO3rZwunqzr7z363rSmY+WUIeJTZ61Dz0rB+yHi6rSFLi1fX2ghAkzfMKPvZ4U27+v5LdBu1iaC2qugQbQP9FqLgq7VrQUSn8sQAqQCi/dBVLGBpxsPH+DTWydtfsXAyR5Q6mxnEB1Pp41+vqxWV5vDkWdrh94yC38y1alMqt4enrKw1c3etR0T5HjT4VqTNoW3whsjJpEexhZKKkFD0qmWSbSbtHo44vSRg==;b/yI5QlEbJ9nondmwFgJbw=="
 ---

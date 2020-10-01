@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532</loc>
+    <lastmod>2020-09-30T18:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html</loc>
+    <lastmod>2020-09-30T18:43:21-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/</loc>
+    <lastmod>2020-09-30T18:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhMH2EpasXA/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania</loc>
+    <lastmod>2020-09-30T17:46:27-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com</loc>
+    <lastmod>2020-09-30T16:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/</loc>
     <lastmod>2020-09-30T16:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -81,6 +111,12 @@
   <url>
     <loc>https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe</loc>
     <lastmod>2020-09-30T08:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD</loc>
+    <lastmod>2020-09-30T08:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -513,12 +549,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html</loc>
     <lastmod>2020-09-27T22:23:56-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html</loc>
-    <lastmod>2020-09-27T18:50:16-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

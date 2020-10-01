@@ -415,6 +415,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Presidential debate aftermath: Election gamblers bet on Biden"
+    excerpt: "Political bettors have placed their money, if not their support, on former Vice President Joe Biden following the first 2020 presidential debate Tuesday night with President Trump, according to Cloudbet, a cryptocurrency betting site."
+    publishedDateTime: 2020-10-01T00:56:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Foh9cfk-w2s/presidential-debate-aftermath-election-gamblers-bet-on-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-aftermath-election-gamblers-bet-on-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-aftermath-election-gamblers-bet-on-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-SPLIT-THUMB-3.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -1327,6 +1343,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Senior Democratic leadership urge Biden to continue with debates"
+    excerpt: "Senior congressional leadership has urged presidential candidate Joe Biden to continue with the next two previously scheduled debates, despite calls from some urging him to pull out."
+    publishedDateTime: 2020-10-01T01:43:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CYdfKAtC7CA/dem-leadership-biden-continue-future-debates"
+    ampWebUrl: "https://www.foxnews.com/politics/dem-leadership-biden-continue-future-debates.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-leadership-biden-continue-future-debates.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d86cdf6c-af46-4a4c-9745-1460e6e76ca3/b4152c4c-691b-43f7-8550-f2dfdd4612a3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s team commits to all presidential debates after Cleveland showdown"
     excerpt: ""
     publishedDateTime: 2020-09-30T07:46:49Z
@@ -1576,6 +1608,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09ea91db-7ea7-4313-ab0c-4912c2e32b83/53be425d-3e00-4998-81b0-3e8489f920cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump scored 'historic victory' in first presidential debate, campaign adviser claims"
+    excerpt: "President Trump was the \"dominant force\" in Tuesday night's presidential debate against Democratic nominee Joe Biden Trump 2020 Campaign Senior Adviser Jason Miller told “Special Report\" Wednesday."
+    publishedDateTime: 2020-10-01T01:39:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Ch-Y-3EIfg/presidential-debate-trump-historic-victory"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-trump-historic-victory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-trump-historic-victory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b882ebd6-9114-42ed-8b44-c1f6b8c9af72/c46d8994-0a49-4c88-a286-2ecade59b62b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -52,17 +52,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 85
-  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
-    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
-    publishedDateTime: 2020-09-24T14:57:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "AHT5nLpxWHuaVIbPUbGa/UEbDSukb1JEg8U3DT1t+13kA7UNpXv+6yDep8tpiiNQ2s3QBkmCCtyBGA4FsTHSjLHLPnd6tPMwcwoc5qYmJSWF+BCD+kvad/4QS679P2Z38os24tdRR77KEc/pLYJ2bslZDp4DqjraIIOsYgddZccbTJ8AbrRNgzGXSwUR0t9jHSQ7YA3xs6AxHYIhhR/SKT8P5/hAD5RXYh7HuSfg9L0Db7rXVlKIRZIm/q1ZidFmLYM1oePYMZZeZAnMuVVuJxkYf7Z5OOFpVxsBsMFfGieUEhxwsQ5KBKnil6e3ANam0+pPaUlIH+kPaNOBMh+/JKWy2Ek1wp2bLyLx5rnnlhxcrEorC4TNgeD+GwNkL7X20AOADsLe5fH2/paenSxBh+Fjusiv6+1yXqUyXo5n1jtq3hfdRIyzAIZLBb7Rmbe86pWLE8BtePVJbdDYNkJrdO+1qpNDhOtrMJ9ODDNf2rJKOncEIhpdv2B7elXJK8IbGbovO5V6g84pOP75xZBi1w==;sY8FbG0meVzcX+RPxb5YVw=="
 ---

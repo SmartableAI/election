@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-deni
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The debate showed that treating Trump ‘fairly’ only helps him cheat"
+    excerpt: "Tuesday night’s presidential debate perfectly illustrates how Donald Trump abuses our democratic institutions — and how feckless the media can be in the face of those violations. Since he first entered the presidential race,"
+    publishedDateTime: 2020-10-01T01:15:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUNGFGQDKUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
   - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
     excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."
     publishedDateTime: 2020-09-30T07:33:00Z

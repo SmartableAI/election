@@ -815,6 +815,22 @@ related:
         width: 2000
         height: 1345
         isCached: true
+  - title: "Kamala Harris made $464,500 from her writing last year"
+    excerpt: "Kamala Harris earned $464,500 from her books last year, as she and her husband reported a total of $3.02 million in taxable income. The couple paid $1.18 million in federal taxes, or about 39% of their earnings."
+    publishedDateTime: 2020-10-01T00:16:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246124585.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246124585.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246124585.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e24a9e94-12c3-454a-873e-0e9c2916d379/da956aac-77ef-469c-a259-8f538eb7b90e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
     publishedDateTime: 2020-09-28T20:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally"
 type: article
 quality: 122
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -56,17 +56,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
-    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
-    publishedDateTime: 2020-09-24T14:57:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "phuYGcd0UOFYglkaMyI30uXPS8cg9IfN1XHRAnL7p7Nn1wu7Es7ZFe0k/8Y/YNC/sc4AbBukUgDuwJEN9WKw59A6GRScJNFyjsnwEwXfyv4JggIpbh8htWIeCZQNGz72gqi+avAPpm5OloTizJTP4FzA9LNvTRcfOReFERDnxbsOEK4+TpX4iYeYbSx2W3hjlwx7EnqLe+Ymtiu8U5lHfQfl6EndAoxGr6vozAsg2fxiF5whOdja6CWTib+uxr8AkaP5zb4xn4/5aWBZ9NH+mKtRuKgPDgluKMtMkL1ILy1+mK6K42Z+mbfi2AOpjYrH85fDaFIOheXz62qvlZmP31gDHeTh9+ycEOZWfO/qBhKMe+lts1ewWG5CxTjBighMePsfkCwIzO6a6vBwDWjlVaibu4CjgRapk2kmzfowMcGFZ73jtEccYXfVruWxSc5/az+Jxo1XvX9VbdRnRWYSyV4hzXBvtJNnvO+bsNYV3PwgaNkJWZDUgroz+2XQK6VvIxztEkH3vqZ0b77CPlP6xw==;kDXCk4QWgtyAnq9YXviazQ=="
 ---
