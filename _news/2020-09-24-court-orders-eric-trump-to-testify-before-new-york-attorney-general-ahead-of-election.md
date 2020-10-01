@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
 type: article
 quality: 133
-heat: 653
+heat: 673
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/13286490-920c-4212-8cb2-6eceacf0444d/thumbnail/1200x630/8be04da2549cc820055f45a895510781/cbsn-fusion-pres-trump-blasts-china-in-speech-to-un-general-assembly-thumbnail-552575-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Senior U.S. lawmakers ask Trump to investigate Navalny poisoning"
+    excerpt: "The leaders of the U.S. Senate Foreign Relations Committee asked President Donald Trump on Wednesday to consider whether the Russian government poisoned Russian opposition politician Alexei Navalny with a chemical nerve agent,"
+    publishedDateTime: 2020-09-30T23:05:00Z
+    webUrl: "https://www.reuters.com/article/us-russia-politics-navalny-usa-idUSKBN26L3VQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L3VQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L3VQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535612433&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T2PR"
+        width: 814
+        height: 545
         isCached: true
   - title: "Lawyer for Trump's son Eric defends delayed questioning in New York probe"
     excerpt: "A New York judge on Wednesday ordered President Donald Trump's son Eric to make himself available by Oct. 7 to be interviewed under oath for a state probe into financing for properties owned by his family's company."

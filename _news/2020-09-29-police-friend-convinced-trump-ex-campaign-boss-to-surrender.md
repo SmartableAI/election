@@ -25,69 +25,95 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself"
-    excerpt: "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911."
-    publishedDateTime: 2020-09-28T09:08:00Z
-    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/"
-    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 109
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Former Trump 2020 campaign manager Brad Parscale hospitalized after threatening to harm himself, police say"
-    excerpt: "Brad Parscale, who served as President Trump's 2020 campaign manager until July, was taken to a mental health facility Sunday night after barricading himself in his home with weapons and threatening to harm himself,"
-    publishedDateTime: 2020-09-28T02:43:00Z
-    webUrl: "https://www.cbsnews.com/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 107
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/16/46ed62a6-d21e-4da4-9294-4e4cb6a1fd03/thumbnail/1200x630/61375f5315b9085385468e3dada55714/gettyimages-1168366652.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Reports: Former Donald Trump campaign manager Brad Parscale hospitalized after threatening to harm himself"
-    excerpt: "Multiple outlets reported former Donald Trump campaign manager Brad Parscale was taken to a hospital without incident after police were called."
-    publishedDateTime: 2020-09-28T02:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3557987001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557987001"
+  - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
+    excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
+    publishedDateTime: 2020-09-30T23:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3585336001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585336001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 107
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/14a80ae8-91ab-40af-9e4e-33a0a81364af-AP19227844022730.jpg?auto=webp&crop=5258,2958,x0,y267&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Body-camera footage shows Trump's former campaign manager Brad Parscale being tackled by police outside his Florida home"
-    excerpt: "Candice Parscale called 911 on Sunday, saying her husband had loaded a firearm and threatened to hurt himself, according to a police report."
-    publishedDateTime: 2020-09-29T05:12:00Z
-    webUrl: "https://www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9?amp"
+  - title: "Trump's failure to condemn white supremacy at debate part of a well-established pattern"
+    excerpt: "President Trump's failure to condemn white supremacists at Tuesday's debate is part of a well-established pattern in which he shows a reluctance to disavow racist groups."
+    publishedDateTime: 2020-09-30T15:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
     images:
-      - url: "https://i.insider.com/5f7233ab74fe5b0018a8dd04?width=1200&format=jpeg"
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday"
+    excerpt: "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\""
+    publishedDateTime: 2020-09-30T21:53:00Z
+    webUrl: "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday"
+    ampWebUrl: "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/22887410/20200930/125243/styles/patch_image/public/gettyimages-979770508___30125124036.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
+  - title: "President's daughter, Pence visit Minnesota"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order campaign message to Minneapolis today."
+    publishedDateTime: 2020-09-24T09:16:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/sep/24/presidents-daughter-pence-visit-minnesota/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 55
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196197612_196196292-326a6878a6fb45c9ab801fb10bd30956_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Minnesota governor activates National Guard for Pence visit"
+    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop at a Minneapolis hair salon left in rubble by the violence that followed George Floyd’s death. The campaign visit Thursday was aimed at driving home President Donald Trump’s law-and-order message."
+    publishedDateTime: 2020-09-25T03:59:00Z
+    webUrl: "https://ktiv.com/2020/09/24/minnesota-governor-activates-national-guard-for-pence-visit/"
+    type: article
+    provider:
+      name: KTIV
+      domain: ktiv.com
+    quality: 55
+    images:
+      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/4/2018/08/21141516/AP.jpg"
+        width: 950
+        height: 534
+        isCached: true
+  - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
+    excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
+    publishedDateTime: 2020-09-26T03:10:00Z
+    webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/1601076390_19535581+1mndt092620.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
 
 secured: "vvDlOdYmI2Gtmyn9lIfARI9iIWzB++xTmleeBCGx5iCYlIoMrFsshzs4YTQVCSdE872wtQTd++CsQhkLPvacq1kjtgdhDUoOw/qAH2zjYxpGs2tzuNbBd86NYl/Dr9fz+29JbUHvsW2OA1M1Vhh0UeP9XXg/OQcvQDmdRf9ZhNGpIJo+Vm9Q6O2jA+PPQ2m4gk3kc0HNmpjQstXBho61jBjyya2D7j8Q4EYW4bkbNGKnAWlCStQFlvuHfFYD3q4m2ADQRGVafMrsBFuoLf5CYredRPGda5G6D9rFO/c2BFkEyEFp729tvRoCIpjzbyQ5PV0Os+nW2lMj6TZ7laZBIHkrhe+1kO3azBTK4k52hWc=;qrd1ooJ9TNJyyUe51O6xfg=="

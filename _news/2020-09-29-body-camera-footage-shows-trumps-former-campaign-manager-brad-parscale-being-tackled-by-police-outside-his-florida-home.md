@@ -79,17 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Police: Friend convinced Trump ex-campaign boss to surrender"
-    excerpt: "A standoff between South Florida police and President Donald Trump’s former campaign manager Brad Parscale ended after an officer who was friends with Parscale convinced him to surrender, officials said."
-    publishedDateTime: 2020-09-29T07:57:00Z
-    webUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "ZCjf/o8t8c3aSLlimwAkWYImd6snPl7pk8CcIfAbKH1eFDBzmTU7nPjZygmLVzkNO93nr4KsvRbFB6ynCM/btytufBM+r2xCDsmOHL7cJdnzRr3n1jgKWKVBECnxpuqSWowzE/CcKMDEzsDq3O03FuFGX5VH790xBSSjPFWyULwEEtBnc0vvCdZrItqkZDcQ3DDo5SZ8vpSxjl8JNbcCO3rritsWanbGBDRCtUMcM/PHCM0wNotDYE/dskmdsUoc/9Urhl9zAZ5ijTMYXEjQAUXxkTUv7oOcHrx3jhs95MUH035tBTa1Fob75FAOce1pUnuGl0MSqrBdfxFxZfcsw+U+RJ5IIHiSGPR3pBGCOh5sxpcfTS6cQlBGPTx95fhwkwDQMjnVnl6+8xN3hxcytN2a9ddRvmmC/S0FJHszBRRLWK6PRkxrPGSaRHqETfi+uRlwZIJ84pLbvn+DgBA5faUgJXfobcbHew68rfPnEOMmM4xMqkdFFUvQN10uXXZYZq7X9KpCdTBPATBtRtTbrw==;xchNNa6KI/LcOakIAgFJvg=="
 ---

@@ -1144,6 +1144,17 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Joe Biden Calls Out President Trump Over \"Proud Boys\" Comments at Debate"
+    excerpt: "During a campaign stop in Greensburg, Pennsylvania, Democratic presidential candidate Joe Biden speaks about President Trump's comments during the first presidential debate where he refused to condemn white supremacists groups like the Proud Boys,"
+    publishedDateTime: 2020-09-30T23:29:00Z
+    webUrl: "https://www.c-span.org/video/?c4911205/joe-biden-calls-president-trump-proud-boys-comments-debate"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4911205"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4911205"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 69
   - title: "Trump, with his baseless attacks on Joe Biden’s mental status, may have set a trap for himself in the first debate"
     excerpt: "The misleading notion that Joe Biden is too addled for the presidency has been driven by President Trump since 2018, when he first started referring to him as Sleepy Joe."
     publishedDateTime: 2020-09-27T20:30:00Z
@@ -1189,6 +1200,6 @@ related:
         height: 560
         isCached: true
 
-secured: "FC3zaPsai+2pCHj+G4/qo50NSh2MHhyw6HWTtZV3wNqdLpc8ORzMFukzRmS+zhtps9PW/+XRBVtRz+pMdV6LmnfDUrx4KqvVBWi/cXV18EEUZ2F27X4tk67pzlFu1rk/k5luS5pjgczfl9ahR6pmNh6Q+NoYztcYO+BVyIN0OVcyZoynz+lVlaJtCh+V577kRvJUMwo/dEEBnSfld4xHWXIXZ665YA7LbIrekC28GpDA4Zx5FpovAiStGwYB3utY6hfYShhPkGgHwNXyNLlthQ49xlMnCCYNU8EL4LA/hyx7+6FKT2t/tUlNGWrFQ/QHdBejZEwQkwTxmhKrFLAJRWeXkwVnMLHTlypo4M7iCSE=;ih1AvH56/WSbwKvs6cQZ5g=="
+secured: "t24xyCUVR2ztq8YoDOpgfwsD6QvoF8N0OUPa/5XRTItEjC4lhHoqOi2G0ASghxffpB7K1LTJwUkdQ81zRDI8djZgmMCWXrjEM93VIYr/1g5FFhDUf0HQ8m8BG0Cch2dqTRhW0lhjdAfYt3sXqDFGbnTYnpJY3z8/O6rQxe+vlsp/ummLBvWfFOSO4NQsaUBHnDN3/W22a8cDgxzV6DWU+kbkr+YaE0my7Gk7KqAVGYvQNsTYRS3CLAkBBE2zj4yD/6RawMZmyh/KP6Was2AoaGxZyreEm1sciRYPz7QQjA82ns4fQrsUJG0EONbKZ6bOWqRQGL39iP0yDL4uSjZTuvW421PrV43RTUVMR5ltyMR4nc6eZ5yoXrjz1FKSIRjXnd/Mi73zaBRDe6duW8ic8viaJ5KZ655yitRrBw2/Q5rZHkLj4SrG7WTEutgAvyhwU4Ll45gbtV64NVnT1E22f0iGxS1XKcpr7KMK3pUNmKocATi1toi6bqzFWlmvTcn+OxDE4faODP6Dmv9mDdg5bQ==;CXbYi5WzuaCa6IGvt4wSSA=="
 ---
 

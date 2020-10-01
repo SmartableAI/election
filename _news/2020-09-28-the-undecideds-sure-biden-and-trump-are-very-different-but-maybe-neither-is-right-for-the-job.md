@@ -1144,6 +1144,17 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Joe Biden Calls Out President Trump Over \"Proud Boys\" Comments at Debate"
+    excerpt: "During a campaign stop in Greensburg, Pennsylvania, Democratic presidential candidate Joe Biden speaks about President Trump's comments during the first presidential debate where he refused to condemn white supremacists groups like the Proud Boys,"
+    publishedDateTime: 2020-09-30T23:29:00Z
+    webUrl: "https://www.c-span.org/video/?c4911205/joe-biden-calls-president-trump-proud-boys-comments-debate"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4911205"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4911205"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 69
   - title: "Trump, with his baseless attacks on Joe Biden’s mental status, may have set a trap for himself in the first debate"
     excerpt: "The misleading notion that Joe Biden is too addled for the presidency has been driven by President Trump since 2018, when he first started referring to him as Sleepy Joe."
     publishedDateTime: 2020-09-27T20:30:00Z

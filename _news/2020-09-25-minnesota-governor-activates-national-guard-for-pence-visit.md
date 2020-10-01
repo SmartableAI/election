@@ -25,62 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "Pence, Ivanka visit salon damaged by Minneapolis unrest"
-    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd's death, part of a campaign visit aimed at driving home President Donald Trump's law-and-order message in a key swing state."
-    publishedDateTime: 2020-09-25T05:52:00Z
-    webUrl: "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp"
+  - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
+    excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
+    publishedDateTime: 2020-09-30T23:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3585336001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585336001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's failure to condemn white supremacy at debate part of a well-established pattern"
+    excerpt: "President Trump's failure to condemn white supremacists at Tuesday's debate is part of a well-established pattern in which he shows a reluctance to disavow racist groups."
+    publishedDateTime: 2020-09-30T15:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Police: Friend convinced Trump ex-campaign boss to surrender"
+    excerpt: "A standoff between South Florida police and President Donald Trump’s former campaign manager Brad Parscale ended after an officer who was friends with Parscale convinced him to surrender, officials said."
+    publishedDateTime: 2020-09-29T07:57:00Z
+    webUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Pence and Ivanka Trump visit metro, pushing law-and-order message. Dems: What about the pandemic?"
-    excerpt: "Vice President Mike Pence and Ivanka Trump swung through the metro Thursday with a law-and-order message, seeking to frame the civil unrest following George Floyd’s killing as most notably"
-    publishedDateTime: 2020-09-25T01:23:00Z
-    webUrl: "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/"
-    ampWebUrl: "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/"
+  - title: "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday"
+    excerpt: "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\""
+    publishedDateTime: 2020-09-30T21:53:00Z
+    webUrl: "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday"
+    ampWebUrl: "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
     type: article
     provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 77
-    images:
-      - url: "https://www.twincities.com/wp-content/uploads/2020/09/Election_2020_Pence_Minnesota_19239.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
-    publishedDateTime: 2020-09-24T21:39:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: Patch
+      domain: patch.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/14/24/02/20005034/17/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
-    publishedDateTime: 2020-09-24T09:43:00Z
-    webUrl: "https://www.wsoctv.com/news/politics/pence-ivanka-bring/3KET4EULBN5V2CPVIYXFKL5TEY/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
-    images:
-      - url: "https://www.wsoctv.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg"
-        width: 1200
-        height: 628
+      - url: "https://patch.com/img/cdn20/getty/22887410/20200930/125243/styles/patch_image/public/gettyimages-979770508___30125124036.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
   - title: "President's daughter, Pence visit Minnesota"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order campaign message to Minneapolis today."
@@ -96,81 +98,17 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Gov. Tim Walz calls out National Guard for Pence visit in Minneapolis"
-    excerpt: "Gov. Tim Walz activated the Minnesota National Guard Thursday in anticipation of protests surrounding Vice President Mike Pence’s campaign stop in Minneapolis. “Out of an abundance of caution for the safety of Minnesotans,"
-    publishedDateTime: 2020-09-24T19:38:00Z
-    webUrl: "https://www.startribune.com/gov-tim-walz-calls-out-national-guard-for-pence-visit-in-minneapolis/572523491/"
+  - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
+    excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
+    publishedDateTime: 2020-09-26T03:10:00Z
+    webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
     type: article
     provider:
       name: StarTribune
       domain: startribune.com
     quality: 55
     images:
-      - url: "https://stmedia.stimg.co/ows_ec17e486-cf54-4450-9fb6-8c5049d29283.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Gov. Walz Activates National Guard For Pence Visit"
-    excerpt: "Minnesota's governor called in the National Guard on Thursday to help provide security and keep the peace during a visit by Vice President Mike Pence and Ivanka Trump to the city where George Floyd's death sparked angry protests that spread around the world."
-    publishedDateTime: 2020-09-24T23:33:00Z
-    webUrl: "https://minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 55
-  - title: "VP Pence, Ivanka Bring Law-And-Order Tour To Minneapolis"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
-    publishedDateTime: 2020-09-24T23:33:00Z
-    webUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 55
-  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
-    publishedDateTime: 2020-09-25T21:57:00Z
-    webUrl: "https://www.wfmj.com/story/42672370/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd"
-    type: article
-    provider:
-      name: WFMJ
-      domain: wfmj.com
-    quality: 55
-    images:
-      - url: "https://APPREMIUM.images.worldnow.com/images/19914411_G.jpg?lastEditedDate=1600872460000"
-        width: 512
-        height: 341
-        isCached: true
-  - title: "Pence to cops in Minneapolis: 'We’re with you'"
-    excerpt: "The vice president and President Donald Trump’s daughter came to Minneapolis Thursday with a clear message: They’re with the cops."
-    publishedDateTime: 2020-09-25T21:24:00Z
-    webUrl: "https://www.southernminn.com/le_sueur_county_news/news/state/article_7d64bf72-c8e3-58a7-bbee-f06530a97ff1.html"
-    type: article
-    provider:
-      name: Southern Minn
-      domain: southernminn.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/0/e0/0e0b753f-a8f6-59aa-b4a6-82fc4965a2f2/5f4985a7a9b51.image.jpg?crop=1721%2C968%2C0%2C117&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Vice President Mike Pence highlights Minneapolis destruction in wake of George Floyd's killing"
-    excerpt: "Vice President Mike Pence invited all the police officers in the audience to stand and be recognized with applause. Vice President Mike Pence and Ivanka Trump are holding a 'Cops for Trump' listening session in Minneapolis,"
-    publishedDateTime: 2020-09-25T03:57:00Z
-    webUrl: "https://www.startribune.com/pence-uses-visit-to-highlight-minneapolis-destruction-in-wake-of-george-floyd-s-killing/572523491/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 43
-    images:
-      - url: "https://stmedia.stimg.co/1600987531_19469741+2pence092520.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://stmedia.stimg.co/1601076390_19535581+1mndt092620.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
         isCached: true

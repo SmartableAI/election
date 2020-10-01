@@ -82,20 +82,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "President's daughter, Pence visit Minnesota"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order campaign message to Minneapolis today."
-    publishedDateTime: 2020-09-24T09:16:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/sep/24/presidents-daughter-pence-visit-minnesota/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196197612_196196292-326a6878a6fb45c9ab801fb10bd30956_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Gov. Walz Activates National Guard For Pence Visit"
     excerpt: "Minnesota's governor called in the National Guard on Thursday to help provide security and keep the peace during a visit by Vice President Mike Pence and Ivanka Trump to the city where George Floyd's death sparked angry protests that spread around the world."
     publishedDateTime: 2020-09-24T23:33:00Z
@@ -107,20 +93,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 55
-  - title: "Minnesota governor activates National Guard for Pence visit"
-    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop at a Minneapolis hair salon left in rubble by the violence that followed George Floyd’s death. The campaign visit Thursday was aimed at driving home President Donald Trump’s law-and-order message."
-    publishedDateTime: 2020-09-25T03:59:00Z
-    webUrl: "https://ktiv.com/2020/09/24/minnesota-governor-activates-national-guard-for-pence-visit/"
-    type: article
-    provider:
-      name: KTIV
-      domain: ktiv.com
-    quality: 55
-    images:
-      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/4/2018/08/21141516/AP.jpg"
-        width: 950
-        height: 534
-        isCached: true
   - title: "VP Pence, Ivanka Bring Law-And-Order Tour To Minneapolis"
     excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
     publishedDateTime: 2020-09-24T23:33:00Z

@@ -747,6 +747,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Rand Paul pitches debate format changes after 'exhausting' Trump-Biden clash"
+    excerpt: "The first presidential debate was an \"exhausting\" spectacle that provided little clarity to undecided voters, Sen. Rand Paul, R-Ky. told \"Your World\" on Wednesday."
+    publishedDateTime: 2020-09-30T22:30:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RpWsRbZtHsI/rand-paul-trump-biden-debate-format"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-trump-biden-debate-format.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-trump-biden-debate-format.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3322cea4-5394-4b3a-b756-a41027059c44/1a9eda94-0a8c-4e21-b72a-89b28a28eed6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump targets Hunter Biden's foreign business dealings during heated debate clash"
     excerpt: "“He didn’t have a job until you became vice president,” Trump said."
     publishedDateTime: 2020-09-30T03:01:20Z
@@ -1290,6 +1306,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Former RNC chairman endorses Joe Biden for president"
+    excerpt: "Marc Racicot, a former governor of Montana as well as a former chairman of the Republican National Committee, endorsed Democratic nominee Joe Biden for president in an interview this week."
+    publishedDateTime: 2020-09-30T22:45:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eK2YktaSWXg/former-rnc-chairman-endorses-joe-biden-for-president"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rnc-chairman-endorses-joe-biden-for-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rnc-chairman-endorses-joe-biden-for-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Marc-Racicot-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Presidential debate gets personal as Biden calls Trump a ‘clown,’ Trump tells Biden he’s not ‘smart’"
     excerpt: "The first presidential debate got personal right out the gate Tuesday night as Democratic presidential nominee Joe Biden called President Trump \"the worst president America has ever had\" and Trump said there is \"nothing smart\" about the former vice president. "

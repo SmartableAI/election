@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration planning to put up billboards of immigration violators ahead of election"
+    excerpt: "The Trump administration is considering putting up billboards of immigration violators, an unprecedented move in lockstep with the President's law-and-order message ahead of the election, according to two sources familiar with the proposal.\n    \n"
+    publishedDateTime: 2020-09-30T21:54:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tHL90-UCm2A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/immigration-sanctuary-city-billboards/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/immigration-sanctuary-city-billboards/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Vast majority of Senate campaign ads steer clear of linking Biden or Trump to their opponents "
     excerpt: "To Senate Republicans, Joe Biden isn't much of a bogeyman.\n    \n"
     publishedDateTime: 2020-09-29T17:36:26Z
@@ -540,6 +556,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225855-40-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's debate callout bolsters far-right Proud Boys "
+    excerpt: "Members of the far-right group the Proud Boys are celebrating comments made by President Donald Trump after he was asked ​to condemn White supremacists, and refused to do so, during Tuesday's presidential debate.\n    \n"
+    publishedDateTime: 2020-09-30T23:17:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2jnYpJFSB2o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/proud-boys-trump-debate-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/proud-boys-trump-debate-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212329-19-debate-cleveland-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -910,6 +942,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/28/business/27JPbensmith1-print/merlin_177641814_c0c2856c-17fd-4603-aad4-c534d1287c6d-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "How a false claim about anti-Trump bias at Philadelphia polling places jumped from Twitter to Trump's mouth at the debate"
+    excerpt: "It only took a few hours for a dubious claim from a Trump campaign staffer to make its way to the debate stage Tuesday night, where President Donald Trump falsely claimed Philadelphia Democrats were scheming against him by blocking supposed GOP poll watchers.\n    \n"
+    publishedDateTime: 2020-09-30T22:43:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_JNtOy3xCQQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/trump-pennsylvania-poll-watchers-false-claim/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/trump-pennsylvania-poll-watchers-false-claim/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001053-44-debate-clevelant-0929-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump and Pence push the Chamber of Commerce on Democratic endorsements."
     excerpt: "President Trump and Vice President Mike Pence pushed officials at the U.S. Chamber of Commerce in a phone call on Thursday for answers about why they have endorsed roughly two dozen freshman House Democrats,"

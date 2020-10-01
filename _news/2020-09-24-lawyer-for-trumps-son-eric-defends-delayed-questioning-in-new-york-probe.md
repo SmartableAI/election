@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Senior U.S. lawmakers ask Trump to investigate Navalny poisoning"
+    excerpt: "The leaders of the U.S. Senate Foreign Relations Committee asked President Donald Trump on Wednesday to consider whether the Russian government poisoned Russian opposition politician Alexei Navalny with a chemical nerve agent,"
+    publishedDateTime: 2020-09-30T23:05:00Z
+    webUrl: "https://www.reuters.com/article/us-russia-politics-navalny-usa-idUSKBN26L3VQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L3VQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L3VQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535612433&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T2PR"
+        width: 814
+        height: 545
+        isCached: true
   - title: "Trump, pressured over pandemic, says states to receive 150 million tests"
     excerpt: "President Donald Trump, under pressure over his handling of the coronavirus outbreak, announced on Monday the federal government would ship 150 million rapid tests to U.S. states for opening schools and ensuring safety at centers for senior citizens."
     publishedDateTime: 2020-09-28T21:22:00Z

@@ -159,6 +159,22 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "Donald Trump doesn’t really care about white supremacy and you’re not going to make him"
+    excerpt: "President Trump has been consistently clear about his view of white supremacists. If you expect him to spontaneously denounce them, you’ll be waiting for a while. If, however, you insist that he does so,"
+    publishedDateTime: 2020-09-30T18:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4DAO4XQAJQI6XMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All"
     excerpt: "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise."
     publishedDateTime: 2020-09-25T02:05:00Z
@@ -204,6 +220,6 @@ related:
         height: 632
         isCached: true
 
-secured: "ic1CccSWbkIOfq/3Nn1yCQqlsDCtl45nMlWkTOXACgk/g0rgjKQVx+hRrXiFwufVG9igF6Ns5mi04VBYdwP0H65tgvTvo4OAfGuV6jqEA6Pc/Nfn/lQRYaazV306cAbGUbxC5CDpDq4rUbt7UOrwwQWtgUdlrFx9dVQoGn5SCssOcWdmgygTc0QXBXaCM5TiDSFrBna6b3k0l1riuPTCPV09HmIJSkosyFFICxH5dBGJ7HJV2cjbSr8zyXro5LyLjgIRBQwqnTlVdskT25gTKgkKh16w/RH2JzISK9vnhUXZRicB7jR8edFxJEJxzORhOBWy1M3ERvQ2y1pnqOnei9UT86Ym9ICfjfhY+LM/vSs=;7Glv+XAgr5sldfOxt87nIQ=="
+secured: "8bQO1TCZvrSLWItwrhu0QlA8QMonfVhQlaUV5tJ2BcQtQtZ2E65b8YpHQzW+kVpetoWWbDHjOfXHuDZYchRtVjGBCQiguE1s0cSsB2/NoNlai0BCRkdpSeADe6wRRlKUVPvJevNoz4kQl0TbHKiIerXAsgQ1jRxz2Qkm89MF40A78SiblxQpQP6603dhbdJlByjcwatlh+8YlBlZN1aq2paLU4NgzkhLDm4WTr/VRMh/GeSxU3dHsNC4Vu1Zw6jBtNM4hImFL/k1/9Amitlt5SliCcVdVc93lnqiZOl7x2JW5yt4VhpvL4dFnj3qiAWtls8WXyU7jaq/tspOcFzpJHuzTr40zlHQh/pwSLRzoIez/kdK7PTXBqrmo214G02wd2fNxsUTY2RIPQz91gtTYZADc6Y/RTzFToTqMpvAcKS7SlfXXFE8gSjd3PzeO5nANgX+oDS3ur3qauAFon/cfVMPw9mWeM3a+V8Ln6/7nAeatTXei92ldgJrMPaTFH0JQmO6/+q7z8haYY9WA3O8kA==;+lhAzL+sy0sxZrIpgdC0hg=="
 ---
 

@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday</loc>
-    <lastmod>2020-09-30T14:53:00-07:00</lastmod>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/</loc>
+    <lastmod>2020-09-30T16:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJtvqCKvX4s/index.html</loc>
+    <lastmod>2020-09-30T15:28:29-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -13,7 +19,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/video/watch/biden-to-proud-boys-cease-and-desist-idOVCXVZ5CV?chan=6g5ka85</loc>
+    <loc>https://www.reuters.com/video/watch/idOVCXVZ5CV</loc>
     <lastmod>2020-09-30T14:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -33,6 +39,12 @@
   <url>
     <loc>https://www.thv11.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973</loc>
     <lastmod>2020-09-30T12:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216</loc>
+    <lastmod>2020-09-30T11:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -73,12 +85,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315</loc>
-    <lastmod>2020-09-30T08:42:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/67QDNdaEbf0/hialeah-florida-cubans-trump-republicans</loc>
     <lastmod>2020-09-30T08:22:58-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -103,8 +109,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.politico.com/news/2020/09/30/trump-mail-in-voting-423432</loc>
-    <lastmod>2020-09-30T06:08:00-07:00</lastmod>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/29/trump-debate-white-supremacists-stand-back-stand-by/3583339001/</loc>
+    <lastmod>2020-09-30T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

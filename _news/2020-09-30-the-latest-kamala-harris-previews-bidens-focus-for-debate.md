@@ -2,28 +2,28 @@
 category: news
 title: "The Latest: Kamala Harris previews Biden's focus for debate"
 excerpt: "The Latest on the 2020 presidential election (all times local): 5:50 p.m. Kamala Harris says her running mate, Joe Biden, will share his vision for tackling the coronavirus and rebuilding the nation’s economy during his presidential debate against President Donald Trump."
-publishedDateTime: 2020-09-29T23:00:00Z
-originalUrl: "https://www.sfchronicle.com/news/article/The-Latest-Trump-in-debate-prep-before-faceoff-15606123.php"
-webUrl: "https://www.sfchronicle.com/news/article/The-Latest-Trump-in-debate-prep-before-faceoff-15606123.php"
-ampWebUrl: "https://www.sfchronicle.com/news/amp/The-Latest-Trump-in-debate-prep-before-faceoff-15606123.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/The-Latest-Trump-in-debate-prep-before-faceoff-15606123.php"
+publishedDateTime: 2020-09-30T00:45:00Z
+originalUrl: "https://www.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
+webUrl: "https://www.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/14/32/33/20031221/5/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_15782_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -1240,17 +1240,17 @@ related:
         isCached: true
   - title: "Vice Presidential Debate: What to Expect When Harris, Pence Face Off"
     excerpt: "As the nation looks forward to the 2020 vice presidential debate between Kamala Harris and Mike Pence next week, here’s what you need to know."
-    publishedDateTime: 2020-09-30T21:15:00Z
-    webUrl: "https://www.nbcwashington.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2431875/"
-    ampWebUrl: "https://www.nbcwashington.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2431875/?amp"
-    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2431875/?amp"
+    publishedDateTime: 2020-09-30T21:52:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2644382/"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2644382/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2644382/?amp"
     type: article
     provider:
-      name: NBC Washington
-      domain: nbcwashington.com
+      name: NBC New York
+      domain: nbcnewyork.com
     quality: 100
     images:
-      - url: "https://media.nbcwashington.com/2020/09/pence-harris.jpg?fit=1200%2C675"
+      - url: "https://media.nbcnewyork.com/2020/09/pence-harris.jpg?fit=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -2143,6 +2143,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Boorish debate makes clear why Joe Biden is the only choice for president"
+    excerpt: "President Donald Trump's outlandishly boorish debate performance showed voters why Joe Biden must be elected this fall. Dignity and an ability to listen are sorely needed in the nation's highest office."
+    publishedDateTime: 2020-09-30T22:38:00Z
+    webUrl: "https://www.seattletimes.com/opinion/editorials/boorish-debate-makes-clear-why-joe-biden-is-the-only-choice-for-president/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/editorials/boorish-debate-makes-clear-why-joe-biden-is-the-only-choice-for-president/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/editorials/boorish-debate-makes-clear-why-joe-biden-is-the-only-choice-for-president/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
   - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
     excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
     publishedDateTime: 2020-09-29T12:55:00Z
@@ -2250,6 +2261,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "aXF/IIhDcm1CiQgiabbPNeo0yn32e2FGViv2FaRyvtd0E8Z5daMbPLDsAAM959Z9tCYXjQgRELpmcBGU9EKZr7pjmS0rid9N6qGSNVWa+5+31lY4m3e2J72adyOvR2lT/wD431VYjvZT/YKN4nOhZe8JB2JlK+GGiSc9u9XRZYXynykoCgokNEz0OUk+qvEOfdOyYnDWeQ1KYgSiRXgXIX7TIsx9Ss24x/S5vKAEVEl9h3iuCTDnhRkJAvmthh3Y0WltZ4qp09YhlldUfSLK5vX24ajH48ux+uztR0v2i0T5LKDqhNoHM4MAgMssgfvqrSRp1enD3Ym9LiagM0BncRg6qyNOCBMUhBSGpYiIUz0RqqD+lgJCL0KTC7RAfhW+8WRon6J6fqUpE7ybajsey6HuQFP47EotRvOO5+jIzMGiojwdA4KjM79gjY/vxaGPtJsNPrww4UJhuJ/IqxmPlz7sVxgbLSop7h0jgoH++QfbQQLVq8PNA0RkmLxcDCfTQuNK7NV9JB7mPZbk9U4PAg==;kQJ5kRwobX5b7xrtp6tmYQ=="
+secured: "lTZBPJ7sIXadpLPOsgO/IN4XN7V0mB/lZTcYrYqvPV5lsaYIGjT3ArzRvjxkFuW8bKu2pzNzaNQg4x8cf0MQ6nKCCNTZM4BphLLAtzLx5I81CHgJMVhrL7z4r4fsIYHuoYgt5HZhn2uby+4wGFg4PJmqKS4ZgmMSbc3iWI3SrOw4Bg7IgbvItKZN8VLu6YEMHBLD1w1veweC2yE9PFgiDUnRODDJjFFZcJELPCzIaQCl3obGIF4tVXCXvPCuLFa80qPkmyGHDrCZ2WdoQNrba16/YB7nTzuYBuhBK79ka/Hjbu3q7yVoD+JDfAPDVLZN9u6LLQHH4wl2K1R93dMW8YEBoYzTCIMXPg0xaAMOTi4=;FJJNevJEg/N58s3vqjhE+A=="
 ---
 

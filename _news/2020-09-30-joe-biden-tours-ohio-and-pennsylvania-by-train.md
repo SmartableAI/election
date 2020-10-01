@@ -190,6 +190,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Campaign Remarks in Greensburg, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden speaks about his plans for the economy at a campaign stop in Greensburg, Pennsylvania, as part of his day-long “Build Back Better Express Tour” through Ohio and the Keystone State."
+    publishedDateTime: 2020-09-30T23:14:00Z
+    webUrl: "https://www.c-span.org/video/?476408-1/joe-biden-takes-economic-message-greensburg-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Of8z0QxF5hGMMm1zSZ4QQBUEHzszRIXm01GzwNyuu6nl9/j4L9ZpAqUQ6N5OcsK3s2RhT9YSRpCy190+whhW+vxCD+wWRXRAuIosGQJ4f22WhE8PqQMQZZ2bN3mpOqcZv3HkgAqITo0UCqcoIqjVNmbpJQJ/o6aYUeLNHMT77hYrj5QAiwRj0hrS8gh49s4X4MLuQRg1BKEInpydaqOTHE2haGF45AcHQ8oTFK6E353frJVPPjjnTPwPATQThd6g1lTNcnO7XYdCdY0mGh0QLgvGd6CXxy8OS5KYIkHVg7UNj7i4WEJZk9jH9/EyIehwjp+PqrdiUNxBGy6rPFKu4/IK79+cNgjiGxzTXa6JNvSGclkY1Jg3cnS5nn522oWVmAWiPwajHDtxQyiITMVuygKXnUNIgvJsp16UxSaWuzLyBYQQMMby0PHQmaKFLSWHO2b5/3FQ5kr/r+xsXpa8ms/GBe4b7mQmzgTyll3ZqixRlJigX7CmHIv3if1J6DUpEdHN8lYGRaT3FZX2fbREVA==;kWvhYn5UGc0/I95cp2ZE9A=="
 ---

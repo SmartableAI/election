@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-wi
 cdnAmpWebUrl: "https://www-hollandsentinel-com.cdn.ampproject.org/c/s/www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
     quality: 55
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pence tries to shore up evangelical support with Georgia visit"
+    excerpt: "Vice President Mike Pence trekked to Atlanta on Wednesday with a mission of energizing conservative evangelicals in Georgia, the latest sign Republicans are intensifying their efforts to carry a state that had long been a GOP lock."
+    publishedDateTime: 2020-09-30T22:38:00Z
+    webUrl: "https://www.ajc.com/politics/pence-tries-to-shore-up-evangelical-support-with-georgia-visit/GGUHX7JH3NDIHD5HC36B7QOGQY/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/HMVT6dyV0_hUPIicRRTU2-hJLZY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/KGQOM2XQZ3DU22X5PSY4VV7LJY.jpg"
         width: 1200
         height: 630
         isCached: true

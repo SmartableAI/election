@@ -3,8 +3,8 @@ category: news
 title: "Biden to Proud Boys: 'Cease and desist'"
 excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
 publishedDateTime: 2020-09-30T21:01:00Z
-originalUrl: "https://www.reuters.com/video/watch/biden-to-proud-boys-cease-and-desist-idOVCXVZ5CV?chan=6g5ka85"
-webUrl: "https://www.reuters.com/video/watch/biden-to-proud-boys-cease-and-desist-idOVCXVZ5CV?chan=6g5ka85"
+originalUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
+webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
 type: article
 quality: 105
 heat: 105
@@ -28,6 +28,6 @@ images:
     height: 540
     isCached: true
 
-secured: "E8xabZv9Kw4ikcsMm1ZJ4gCexMhjT4WK0jnFwukt1W2t8hnL50kBvEImZlJ8DD0P/CR68Uo3mB+C5LWThGA4oS+lK+5R6T6uLB09e95DhGlTqsGvustSee37BlJfGSxWHge91EMtbhfRijsHoEIhpYrhU9TTkp9uH6Yu0qQGVFszjXBvQfb6n8GmHMBERUhmQgXmHx6e80H1ZWJDC7V3MPpcDHTJaaIeM4QLncqJ7OapgSFdqOZZcjF+dcaTwURG15llkWzgK6lNtHCI6ZGoWjEjexYtSJX/IPGswi3WghgFTR0ow9wzZZaDvUkWLdTtlTQElU43WngUJF5wQc18JJKPv17bChEzgX9LnWx3qeg=;jYG/UDdgSIwVHtW66SoOuw=="
+secured: "Wk/YfZXvuutem9iUeajjBnCryXiG19hWlyG8uPur0n0Xgt50W1qqtlePnEMCXvunrayg3xkvWwEnfHs9RKWlK20aAKlXZm+uTGjJ/JEtUxxxlkUhF3QYhE2LOR5VzteYTceXgYbar2mEWxFyPcL3QK8Adnwgxw+tE6Ozn+HMt6NHwd8oyzKGR+8YXqasAudJ2qineKVtcyhLxsXNCsmkCcmr77Y1ynciq6J3o+xEwPDhO987JGYNWExrDQwsdADJ9yHie4dBrCnsg9h8d7oDQkVL9Pc2riftTmQg+WBxTFQbWIZD4dzXTQP4y1Kn0KY2Qn/nzL4Ra18pc2jS54THsDtAZAvXY7hqusCo5pQcfMI=;Vv5L0Imnibv+ht+gCw3wwg=="
 ---
 

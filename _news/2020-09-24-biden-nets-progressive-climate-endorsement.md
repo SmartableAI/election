@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden's attempts to distance himself from the Green New Deal"
+    excerpt: "During Tuesday night's debate, Biden was asked by moderator Chris Wallace if he supported the Green New Deal, a wide-ranging joint, nonbinding resolution to combat climate change introduced by Rep. Alexandria Ocasio-Cortez and Sen. Ed Markey.\n    \n"
+    publishedDateTime: 2020-09-30T22:43:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KGIrT6wctoM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001519-46-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Trump and Joe Biden prepare for first debate"
     excerpt: "President Donald Trump and Democratic nominee Joe Biden face off in the first presidential debate in Ohio this Tuesday. National polls report that Biden is leading when it comes to his proposal for how to handle the pandemic,"
     publishedDateTime: 2020-09-27T23:02:00Z

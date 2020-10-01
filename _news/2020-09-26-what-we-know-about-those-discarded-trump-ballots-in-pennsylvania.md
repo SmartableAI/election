@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/what-we-know-abou
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/?outputType=amp"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -190,6 +190,15 @@ related:
     excerpt: "President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz, Pennsylvania. Vice President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz,"
     publishedDateTime: 2020-09-29T22:26:00Z
     webUrl: "https://www.c-span.org/video/?476356-1/vice-president-pence-hosts-debate-watch-party-lititz-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Campaign Remarks in Greensburg, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden speaks about his plans for the economy at a campaign stop in Greensburg, Pennsylvania, as part of his day-long “Build Back Better Express Tour” through Ohio and the Keystone State."
+    publishedDateTime: 2020-09-30T23:14:00Z
+    webUrl: "https://www.c-span.org/video/?476408-1/joe-biden-takes-economic-message-greensburg-pennsylvania"
     type: article
     provider:
       name: C-SPAN

@@ -1156,6 +1156,17 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Joe Biden Calls Out President Trump Over \"Proud Boys\" Comments at Debate"
+    excerpt: "During a campaign stop in Greensburg, Pennsylvania, Democratic presidential candidate Joe Biden speaks about President Trump's comments during the first presidential debate where he refused to condemn white supremacists groups like the Proud Boys,"
+    publishedDateTime: 2020-09-30T23:29:00Z
+    webUrl: "https://www.c-span.org/video/?c4911205/joe-biden-calls-president-trump-proud-boys-comments-debate"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4911205"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4911205"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 69
   - title: "Minnesota Poll: Joe Biden maintains lead over Donald Trump in presidential race"
     excerpt: "Former Vice President Joe Biden holds a six-point lead over President Donald Trump in Minnesota, while 8% of likely voters remain undecided, a new Star Tribune/MPR News/KARE 11 Minnesota Poll found."
     publishedDateTime: 2020-09-26T21:13:00Z

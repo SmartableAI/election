@@ -118,6 +118,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Biden's debate use of Arabic phrase sparks conversation among Muslims"
+    excerpt: "Former Vice President Joe Biden on Tuesday used a bit of Arabic slang that piqued the interest of Muslims on Twitter."
+    publishedDateTime: 2020-09-30T22:04:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?ref=hvper.com"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
     excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
     publishedDateTime: 2020-09-22T17:42:00Z

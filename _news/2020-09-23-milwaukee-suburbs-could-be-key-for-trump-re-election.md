@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp"
 type: article
 quality: 190
-heat: 530
+heat: 550
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87561d3a-7adc-4f80-8c6a-a1644fe11eaf/441512fd-f2a0-4cc0-8723-e2ba95c91dc3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump administration denied request to block 2020 census extension"
+    excerpt: "\"Given the extraordinary importance of the census, it is imperative that the Bureau conduct the census in a manner that is most likely to produce a workable report in which the public can have confidence,\" wrote Judges Johnnie Rawlinson and Morgan Christen in their order. \"The hasty and unexplained changes"
+    publishedDateTime: 2020-09-30T22:53:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X436WqVENgM/trump-administration-denied-request-2020-census"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-denied-request-2020-census.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-denied-request-2020-census.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b567acb-43c2-4657-bcb2-34fd30efcf69/f8106c38-b28b-4f2d-aec2-d7c4012bdb4f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

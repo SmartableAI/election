@@ -57,6 +57,20 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Pence tries to shore up evangelical support with Georgia visit"
+    excerpt: "Vice President Mike Pence trekked to Atlanta on Wednesday with a mission of energizing conservative evangelicals in Georgia, the latest sign Republicans are intensifying their efforts to carry a state that had long been a GOP lock."
+    publishedDateTime: 2020-09-30T22:38:00Z
+    webUrl: "https://www.ajc.com/politics/pence-tries-to-shore-up-evangelical-support-with-georgia-visit/GGUHX7JH3NDIHD5HC36B7QOGQY/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/HMVT6dyV0_hUPIicRRTU2-hJLZY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/KGQOM2XQZ3DU22X5PSY4VV7LJY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "D2A7bckJ2CuxaCWM+CGmMBoid42wCHGBhuQOucOPkxUxRV/tQgYDed7mIQ2SqevqljnZA+YQr6ObImF51R8nRmG+giLhRxMN+/yejTE8CA9eQ4H+ZmR/tp1jinvv6gbw1lkJdkEhdjRNwTz+amYIr0Y2JzXevPAQyDql5JustISI6PqhsXnQEBTogZqu8/xL09ltaWyPU34Vxuhu1a7cqH2qAgvZWtG5tEzO6SrDFuEeyPSdWc6X3bHooGgL+2D0OvCvQpfkkMVtgrAEtzzT8oJf1rHbzU1k7K8ICNmsT8phYYhE2b5tr9RCixOwXylinXWKEpJYhJeAMD+EQuDFg05TN2P053hWC7mIOJ2BbHE=;00DbLQtLdvQCvi1bSzsQXA=="
 ---

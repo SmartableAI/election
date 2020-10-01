@@ -191,6 +191,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump administration denied request to block 2020 census extension"
+    excerpt: "\"Given the extraordinary importance of the census, it is imperative that the Bureau conduct the census in a manner that is most likely to produce a workable report in which the public can have confidence,\" wrote Judges Johnnie Rawlinson and Morgan Christen in their order. \"The hasty and unexplained changes"
+    publishedDateTime: 2020-09-30T22:53:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X436WqVENgM/trump-administration-denied-request-2020-census"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-denied-request-2020-census.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-denied-request-2020-census.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b567acb-43c2-4657-bcb2-34fd30efcf69/f8106c38-b28b-4f2d-aec2-d7c4012bdb4f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vulnerable Dem Doug Jones says he will 'not support the confirmation' of any Trump nominee before election"
     excerpt: "Sen. Doug Jones, a vulnerable Democrat up for reelection in conservative Alabama, said he will not support the confirmation of any Supreme Court nominee from President Trump before the election. "
     publishedDateTime: 2020-09-25T17:39:47Z
