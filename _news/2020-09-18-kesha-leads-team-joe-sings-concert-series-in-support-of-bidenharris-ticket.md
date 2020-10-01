@@ -111,6 +111,22 @@ related:
         width: 372
         height: 545
         isCached: true
+  - title: "Kamala Harris: From historic to invisible"
+    excerpt: "If Kamala Harris were to be campaigning aggressively, not only could it draw the spotlight from President Trump, but it would inadvertently put it on Biden."
+    publishedDateTime: 2020-09-21T16:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible"
+    ampWebUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe2_08120202getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump says Kamala Harris 'can't' be the first woman president because she 'comes in through the backdoor'"
     excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
     publishedDateTime: 2020-09-18T19:03:00Z
@@ -122,22 +138,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 123
-    images:
-      - url: "https://i.insider.com/5f64e358323fc4001e0d722d?width=1200&format=jpeg"
-        width: 1019
-        height: 509
-        isCached: true
-  - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
-    excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
-    publishedDateTime: 2020-09-18T19:03:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
     images:
       - url: "https://i.insider.com/5f64e358323fc4001e0d722d?width=1200&format=jpeg"
         width: 1019
@@ -568,6 +568,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/AP20259741301188.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Supreme Court fight could elevate Kamala Harris’ profile | Raleigh News & Observer"
+    excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick."
+    publishedDateTime: 2020-09-21T16:15:00Z
+    webUrl: "https://www.newsobserver.com/news/article245896005.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article245896005.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article245896005.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/357e4ec8-fe39-477a-a2fa-11d402b31f04/425cb0cf-3973-4545-b702-f27e6c0d555f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award"
     excerpt: "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones."

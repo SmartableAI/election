@@ -25,99 +25,133 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Pence on honoring Ginsburg and moving forward with her replacement"
-    excerpt: "Vice President Mike Pence will play a key role in the nomination process and interview of each of the candidates President Trump is considering. Pence speaks with CBS News in this exclusive interview."
-    publishedDateTime: 2020-09-22T00:18:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/"
+  - title: "WATCH LIVE: Vice President Pence speaks at Iowa rallies"
+    excerpt: "Vice President Mike Pence will visit Carter Lake and Des Moines, Iowa Oct. 1, where he will speak at political rallies being held in the state."
+    publishedDateTime: 2020-10-01T17:01:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 100
+      name: PBS
+      domain: pbs.org
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/21/fd16145c-fa6d-43c0-b94e-05773864daab/thumbnail/1200x630/4f363a5682ba93d74d9a23557db931a5/0921-en-pence-odonnell-551647-640x360.jpg"
-        width: 1200
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/vote2020_tape7-1024x630.jpg"
+        width: 1024
         height: 630
         isCached: true
-  - title: "Vice President Mike Pence to visit Phoenix on Friday"
-    excerpt: "Vice President Pence will be headed to Phoenix to participate in a Libre Initiative Roundtable for Hispanic Heritage Month, according to White House officials. He will also take place in a Veterans for Trump event before returning to Washington D."
-    publishedDateTime: 2020-09-14T14:32:00Z
-    webUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday"
-    ampWebUrl: "https://www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/election-2020/vice-president-mike-pence-to-visit-phoenix-on-friday?_amp=true"
+  - title: "Pence returning to Iowa"
+    excerpt: "Vice President Mike Pence will return to Iowa on Oct. 1 to speak at 'Faith in Leadership, America's Need for Revival.' It will be his fifth visit this year."
+    publishedDateTime: 2020-09-25T01:29:00Z
+    webUrl: "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924"
+    ampWebUrl: "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml"
+    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml"
     type: article
     provider:
-      name: ABC15 Arizona
-      domain: abc15.com
+      name: The Gazette
+      domain: thegazette.com
     quality: 75
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/fb8f283/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.abc15.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.thegazette.com/storyimage/GA/20200924/ARTICLE/200929835/AR/0/AR-200929835.jpg&MaxH=300&MaxW=500"
+        width: 449
+        height: 300
         isCached: true
-  - title: "Vice President Mike Pence campaigns in Duluth"
-    excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
-    publishedDateTime: 2020-09-20T11:33:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+  - title: "Vice President Mike Pence to host debate watch party in Lititz"
+    excerpt: "Vice President Mike Pence will travel to Lititz on Tuesday, September 29 to host a 'Make America Great Again!' watch party of the Presidential Debate."
+    publishedDateTime: 2020-09-25T09:04:00Z
+    webUrl: "https://www.fox43.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 75
+    images:
+      - url: "https://media.tegna-media.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Vice President Mike Pence to make NH campaign stop next week"
+    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
+    publishedDateTime: 2020-09-26T12:44:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
     type: article
     provider:
       name: 11Alive
       domain: 11alive.com
     quality: 75
     images:
-      - url: "https://media.11alive.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
+      - url: "https://media.11alive.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Mike Pence campaigns in Duluth"
-    excerpt: "Fresh off the conclusion of the Republican National Convention, Vice President Mike Pence hit the campaign trail with Minnesota as his first stop. The vice president's plane touched down at Duluth International Airport shortly after noon on Friday,"
-    publishedDateTime: 2020-09-21T04:27:00Z
-    webUrl: "https://www.wtsp.com/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/elections/vice-president-mike-pence-campaigns-in-duluth/89-8df12349-2a36-4ff9-980e-158f5f828403"
+  - title: "Vice President Mike Pence to make NH campaign stop next week"
+    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
+    publishedDateTime: 2020-09-27T06:10:00Z
+    webUrl: "https://www.ksdk.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
+      name: KSDK
+      domain: ksdk.com
     quality: 75
     images:
-      - url: "https://media.wtsp.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_750x422.jpg"
+      - url: "https://media.ksdk.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Mike Pence makes campaign stop in Zanesville"
-    excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
-    publishedDateTime: 2020-09-22T01:34:00Z
-    webUrl: "https://www.kens5.com/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    ampWebUrl: "https://www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
-    cdnAmpWebUrl: "https://www-kens5-com.cdn.ampproject.org/c/s/www.kens5.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+  - title: "Here's what to know about Vice President Mike Pence's visit to Atlanta"
+    excerpt: "The finish line for the Nov. 3 presidential election is rapidly approaching, and campaigning is ramping up - especially here in Georgia, which is showing signs of becoming competitive for Democrats in 2020."
+    publishedDateTime: 2020-09-30T02:45:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
     type: article
     provider:
-      name: KENS
-      domain: kens5.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 75
     images:
-      - url: "https://media.kens5.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
+      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Mike Pence in Eau Claire"
-    excerpt: "Republican vice presidential candidate, Indiana Gov. Mike Pence greets the crowd before introducing Republican presidential candidate Donald Trump at a rally on August 5, 2016 in Green Bay, Wisconsin."
-    publishedDateTime: 2020-09-24T17:43:00Z
-    webUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/"
-    ampWebUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
-    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
+  - title: "Vice President Mike Pence to host debate watch party in Lititz"
+    excerpt: "LITITZ, Pa. — Vice President Mike Pence is traveling to Lancaster County next week to host a 'Make America Great Again!' watch party of the Presidential Debate. On Tuesday, September 29, Pence will travel to Meadow Spring Farm in Lititz ahead of the ..."
+    publishedDateTime: 2020-09-30T21:22:00Z
+    webUrl: "https://www.wbir.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    ampWebUrl: "https://www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
     type: article
     provider:
-      name: WTMJ
-      domain: wtmj.com
+      name: 10 News
+      domain: wbir.com
     quality: 75
     images:
-      - url: "https://wtmj.com/wp-content/uploads/2020/01/Pence-Milwaukee.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://media.wbir.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Vice President Pence speaks at debate campaign watch party"
+    excerpt: "LITITZ, Pa. — Vice President Mike Pence attended a debate watch party at Meadow Spring Farm in Ephrata Township Sept. 29. His visit comes amid a tight contest in the battleground state of Pennsylvania, which played a major role in deciding the 2016 ..."
+    publishedDateTime: 2020-09-30T21:07:00Z
+    webUrl: "https://www.wbir.com/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
+    ampWebUrl: "https://www.wbir.com/amp/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
+    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
+    type: article
+    provider:
+      name: 10 News
+      domain: wbir.com
+    quality: 75
+    images:
+      - url: "https://media.wbir.com/assets/WPMT/images/63353a4c-348a-4005-a9fd-4955d7c4ad81/63353a4c-348a-4005-a9fd-4955d7c4ad81_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
     excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
@@ -167,47 +201,37 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Vice President Mike Pence to visit Eau Claire"
-    excerpt: "With the reopening of Hobbs Ice Arena to the public starting this weekend, Eau Claire Parks, Recreation, and Forestry is offering some dry floor activities for community members."
-    publishedDateTime: 2020-09-19T09:06:00Z
-    webUrl: "https://www.weau.com/2020/09/17/vice-president-mike-pence-to-visit-eau-claire/"
+  - title: "Vice President Mike Pence to hold presidential debate watch party in Lititz"
+    excerpt: "Vice President Mike Pence will be back in the Susquehanna Valley next week.He plans to hold a presidential debate watch party Tuesday night in Lititz, Lancaster County.The event w"
+    publishedDateTime: 2020-09-25T16:41:00Z
+    webUrl: "https://www.wgal.com/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
+    ampWebUrl: "https://www.wgal.com/amp/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
+    cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
     type: article
     provider:
-      name: WEAU
-      domain: weau.com
-    quality: 55
+      name: WGAL
+      domain: wgal.com
+    quality: 73
     images:
-      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/W2DtwmpyvfW-VUvmh1r2Lapr0wk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/4JIURJEWDBERNBNF4SAHJHWKTI.jpg"
-        width: 980
-        height: 551
+      - url: "https://kubrick.htvapps.com/vidthumb/96bdbcd0-d328-4919-add6-7c1e3714e8c5/96bdbcd0-d328-4919-add6-7c1e3714e8c5_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Vice President Mike Pence visits Phoenix to attend campaign events"
-    excerpt: "Vice President Mike Pence touched down in Phoenix Friday. His visit marks the fourth visit from members of the Trump administration this week."
-    publishedDateTime: 2020-09-19T00:16:00Z
-    webUrl: "https://www.12news.com/video/news/politics/vice-president-mike-pence-visits-phoenix-to-attend-campaign-events/75-e63bbef7-2677-4880-9c96-b40048f2e404"
+  - title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
+    excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
+    publishedDateTime: 2020-09-28T01:49:00Z
+    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 55
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 72
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/c683078f-e2c4-436c-bcce-6747113fff8d/c683078f-e2c4-436c-bcce-6747113fff8d_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Vice President Mike Pence speaks to cadets at VMI"
-    excerpt: "Vice President Mike Pence spoke to cadets at the Virginia Military Institute in Lexington Thursday. Cadets and staff were on hand as Pence spoke of the history of VMI and thanked"
-    publishedDateTime: 2020-09-19T19:33:00Z
-    webUrl: "https://www.wdbj7.com/2020/09/10/vmi-prepares-for-visit-from-vice-president-mike-pence/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 55
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/q9sqm0DvW_dvQ__6CyyTVM-tKdo=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/MXDMRISLM5FRDKOHCJ5D6UGEVY.jpg"
-        width: 980
-        height: 734
+      - url: "https://i.dailymail.co.uk/1s/2020/09/28/04/33702662-0-image-a-4_1601263306386.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Vice President Mike Pence visiting Atlanta next week"
     excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
@@ -223,38 +247,77 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Pence promises swift replacement to Ginsberg"
-    excerpt: "With less than six weeks to go until Election Day in November, President Donald Trump has a new rallying cry for his supporters.Chants of “fill that seat” have broken out at campaign events the president’s held since the death a week ago of"
-    publishedDateTime: 2020-09-25T19:44:00Z
-    webUrl: "https://www.concordmonitor.com/On-the-Trail-by-Paul-Steinhauser-Ruth-Bader-Ginsburg-looms-large-in-New-Hampshire-politics-36449685"
+  - title: "Vice President Mike Pence's visit to Atlanta"
+    excerpt: "As part of the campaigning, Vice President Mike Pence will make a swing back through Georgia to energize Republican voters, less than a week after Pre"
+    publishedDateTime: 2020-09-30T16:12:00Z
+    webUrl: "https://www.11alive.com/video/news/live_breaking/mike-pence-in-atlanta-why-and-when-is-he-here/85-6e9ac6c4-9964-470e-bdf9-e19bce1f79bd"
     type: article
     provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 55
     images:
-      - url: "http://www.concordmonitor.com/getattachment/7ce87960-c2ca-44e3-8512-1c0a5ff2fa1e/attachment.aspx"
-        width: 499
-        height: 325
+      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
-    excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."
-    publishedDateTime: 2020-09-23T09:35:00Z
-    webUrl: "https://www.standard.co.uk/news/world/air-force-two-mike-pence-emergency-landing-a4554066.html"
+  - title: "Yes, That Is Vice President Mike Pence In The Borat 2 Trailer"
+    excerpt: "And, before you ask, yes, that does appear to be Vice President Pence himself in the trailer. The clip includes footage of Cohen crashing the Conservative Political Action Conference while dressed as Trump back in February."
+    publishedDateTime: 2020-10-01T16:55:00Z
+    webUrl: "https://www.bustle.com/entertainment/the-borat-2-trailer-tackles-covid-19-the-trump-administration"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 48
+      name: Bustle
+      domain: bustle.com
+    quality: 55
     images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/08/27/04/pence-27-08.jpg"
-        width: 2461
-        height: 1640
+      - url: "https://imgix.bustle.com/uploads/image/2020/10/1/8adc0f40-5596-4678-ac6b-9a5bec6336c5-screen-shot-2020-10-01-at-95021-am.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Vice President Pence Remarks on Nursing Homes Safety"
-    excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"
-    publishedDateTime: 2020-09-18T07:57:00Z
-    webUrl: "https://www.c-span.org/video/?475959-1/vice-president-pence-remarks-nursing-homes-safety"
+  - title: "WATCH LIVE: Vice President Mike Pence holds campaign event in western Iowa"
+    excerpt: "CARTER LAKE, Iowa (KTIV) -- Vice President Mike Pence is hosting a campaign event in western Iowa Thursday. Pence is holding a \"Make America Great Again\" event in Council Bluffs with him expected ..."
+    publishedDateTime: 2020-10-01T16:48:00Z
+    webUrl: "https://ktiv.com/2020/10/01/watch-live-vice-president-mike-pence-holds-campaign-event-in-western-iowa/"
+    type: article
+    provider:
+      name: KTIV
+      domain: ktiv.com
+    quality: 53
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/01/Mike-Pence-Hedshot.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Full coverage from Vice President Mike Pence's visit to Lititz for presidential debate watch party"
+    excerpt: "Vice President Mike Pence is in Lancaster County, as President Donald Trump and his Democratic challenger, former Vice President Joe Biden, debate for the first time. Pence touched down in Lititz ..."
+    publishedDateTime: 2020-09-30T07:12:00Z
+    webUrl: "https://lancasteronline.com/news/politics/full-coverage-from-vice-president-mike-pences-visit-to-lititz-for-presidential-debate-watch-party/article_96f78616-0286-11eb-abe2-5f363f07154b.html"
+    type: article
+    provider:
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/7c/37c4bdfa-02b1-11eb-9eec-9714b1336c56/5f73cccba1934.image.jpg?resize=849%2C630"
+        width: 849
+        height: 630
+        isCached: true
+  - title: "Exclusive: Vice President Mike Pence Talks About Pennsylvania Battleground, Philadelphia Gun Violence"
+    excerpt: "Eyewitness News spoke exclusively one-on-one with Pence, asking him about polling which shows President Trump behind 9 percentage points in Pennsylvania."
+    publishedDateTime: 2020-09-30T03:26:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 40
+  - title: "Vice President Pence Holds Rally in Council Bluffs, IA"
+    excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
+    publishedDateTime: 2020-10-01T09:01:00Z
+    webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-rally-council-bluffs-ia"
     type: article
     provider:
       name: C-SPAN

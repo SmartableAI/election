@@ -19,63 +19,116 @@ topics:
   - Kamala Harris
 
 related:
-  - title: "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism"
-    excerpt: "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans."
-    publishedDateTime: 2020-09-24T08:24:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-South-Asians-should-celebrate-Kamala-15591861.php"
-    ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php"
+  - title: "Kamala Harris Downplays Debate Skills as Buttigieg Stands In for Pence"
+    excerpt: "Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent, despite her withering attacks on Democratic rivals in earlier presidential primary debates."
+    publishedDateTime: 2020-09-24T05:32:00Z
+    webUrl: "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881"
+    ampWebUrl: "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 115
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/14/24/12/20005524/3/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1497882!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/pete-buttigieg-and-kamala-harris-photographers-martina-albertazzi-stefani-reynolds-bloomberg-photographer-martina-albertazzi-stefani-reynolds-bloomberg.jpg"
+        width: 620
+        height: 349
         isCached: true
-  - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
-    excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"
-    publishedDateTime: 2020-09-24T21:49:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/24/kamala-harris-misleads-covid-19-business-loans-while-michigan/3521225001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3521225001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3521225001"
+  - title: "Kamala Harris visits Flint businesses affected by COVID-19 pandemic"
+    excerpt: "Democratic vice presidential nominee Kamala Harris attracted hundreds of supporters to downtown Flint on Tuesday while visiting Black-owned businesses affected by the COVID-19 pandemic. Harris stopped to talk with business owners and supporters as she walked along Second Street to the Flint Farmers Market,"
+    publishedDateTime: 2020-09-23T19:54:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
+        width: 1300
+        height: 853
+        isCached: true
+  - title: "Kamala Harris: Path to victory 'runs straight through' Michigan"
+    excerpt: "Democratic vice presidential nominee Kamala Harris visited Flint and later warned Black voters in Detroit about Russian election meddling"
+    publishedDateTime: 2020-09-25T09:40:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/22/kamala-harris-visits-small-businesses-flint-detroit/5867934002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5867934002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5867934002"
     type: article
     provider:
       name: Detroit News
       domain: detroitnews.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTN/067a6d0d-27c4-44c3-8220-24a31532e7ac-AP20266743014459.jpg?auto=webp&crop=5349,3009,x0,y271&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTN/f95df250-a68a-49f1-8def-6a9599be9e2a-AP20266760989174.jpg?auto=webp&crop=5769,3245,x0,y243&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris plans two campaign events in Raleigh today | Charlotte Observer"
-    excerpt: "Kamala Harris will be in Raleigh on Monday, her first visit to North Carolina as the Democratic nominee for vice president. Harris, a U.S. senator from California and former attorney general, will give a speech Monday afternoon at Shaw University."
-    publishedDateTime: 2020-09-28T14:27:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246023330.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
+  - title: "Democrats' path to victory in 2020 election 'runs straight through Michigan,' Kamala Harris tells Detroit supporters"
+    excerpt: "The Democratic vice presidential nominee visited Black-owned businesses in Flint and rallied with supporters in Detroit during Tuesday campaign stop."
+    publishedDateTime: 2020-09-23T03:40:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/09/22/kamala-harris-michigan-voting-2020-election-detroit-flint/3499563001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3499563001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3499563001"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 72
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 67
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e24a9e94-12c3-454a-873e-0e9c2916d379/da956aac-77ef-469c-a259-8f538eb7b90e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTF/37567091-ad6c-4b57-8b10-857213d2b434-harris2.jpeg?auto=webp&crop=2389,1344,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "VP candidate Sen. Kamala Harris talks about holding off the Supreme Court nomination | Raleigh News & Observer"
-    excerpt: "Senator and vice presidential candidate Kamala Harris gives her remarks about the Supreme Court in Raleigh, North Carolina. She mentions Ruth Bader Ginsburg's wish to hold off the nomination until the next president is voted into office."
-    publishedDateTime: 2020-09-28T18:09:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article246070800.html"
+  - title: "Democrats' path to victory in 2020 election 'runs straight through Michigan,' Kamala Harris tells Detroit supporters"
+    excerpt: "The Democratic vice presidential nominee visited Black-owned businesses in Flint and rallied with supporters in Detroit during Tuesday campaign stop."
+    publishedDateTime: 2020-09-24T03:19:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/2020/09/22/kamala-harris-michigan-voting-2020-election-detroit-flint/3499563001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/3499563001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3499563001"
     type: article
     provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 15
+      name: Tennessean
+      domain: tennessean.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTF/37567091-ad6c-4b57-8b10-857213d2b434-harris2.jpeg?auto=webp&crop=2389,1344,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Buttigieg on Pence Debate: A ‘Professed Christian’ Will Have to Defend President Who Sent ‘Hush Money to a Porn Star’"
+    excerpt: "Pete Buttigieg said \"professed Christian\" Mike Pence will have to defend \"the character of a president who got caught sending hush money to a porn star\" during his debate with Kamala Harris next week."
+    publishedDateTime: 2020-09-29T23:49:00Z
+    webUrl: "https://www.mediaite.com/tv/buttigieg-on-pence-debate-a-professed-christian-will-have-to-defend-president-who-sent-hush-money-to-a-porn-star/"
+    ampWebUrl: "https://www.mediaite.com/tv/buttigieg-on-pence-debate-a-professed-christian-will-have-to-defend-president-who-sent-hush-money-to-a-porn-star/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/buttigieg-on-pence-debate-a-professed-christian-will-have-to-defend-president-who-sent-hush-money-to-a-porn-star/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 52
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/buttigieg-2-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pete Buttigieg secretly role-playing as Mike Pence to help Kamala Harris embarrass the vice homophobe on live TV"
+    excerpt: "Pete Buttigieg is spending his days impersonating Mike Pence to help Kamala Harris with vice presidential debate prep."
+    publishedDateTime: 2020-09-23T11:36:00Z
+    webUrl: "https://www.pinknews.co.uk/2020/09/23/pete-buttigieg-mike-pence-kamala-harris-debate-prep-vice-presidential/"
+    type: article
+    provider:
+      name: PinkNews
+      domain: pinknews.co.uk
+    quality: 34
+    images:
+      - url: "https://s31242.pcdn.co/wp-content/uploads/2020/09/GettyImages-1203018848.jpg"
+        width: 1610
+        height: 800
+        isCached: true
 
 secured: "R5LTb3tjubAVGKkkjbKA8KKoWq48EYRuQ6L2OqBmLGEcke7imziMAXIKNKiLd9pwTnAdNn5PHEQuQajkaQvcMIqlAq2pYvZAksHDVUXzBDEdQo40dyiitNJIiCgFRb5uoX1r5b7yHkulgoVxvHMIPH0YTcfJlHRr/0arCyF08imvpPjsVZ1UDVK7mPI+NTnJ+izgKzZKLYYC+wjLmUyBhBnh23T0djduB8i41Q6TwMrUuFWfUSsLCmGZLRoYpHKLHsk4qwPH8fXOy1Jyu+HUY8ZTnu9LxWiOfRJu8gtLW3FrwHB6MlZrKfTZcjle+N0I17Q3aJYzF5arPoNR23iQIxgBirO6rphF2mNqe8z1EHzn4mx3QO+qKdlyWikmprWhJ6vHRYGvhE5TbxJp0ehfPsjhUKSsfzg0pk6IFg8i+ZaRAa1yN7DTPsMiEV3SaNSUJzbIb7YoEP1V4fXnefG22E9c0vq412exkfzdvIqJsI4S6Jim8sR/4sd+5mbNVtO/MIbdbwVsOhoqcB0MpinK3A==;O+Q3IZHi8qQizzdi9Ofc+g=="
 ---

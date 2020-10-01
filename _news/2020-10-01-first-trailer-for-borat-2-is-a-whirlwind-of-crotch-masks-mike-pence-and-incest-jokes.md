@@ -9,7 +9,7 @@ ampWebUrl: "https://www.polygon.com/platform/amp/2020/10/1/21496969/borat-2-trai
 cdnAmpWebUrl: "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -41,7 +41,16 @@ related:
         width: 928
         height: 523
         isCached: true
+  - title: "Borat 2 Deals With Family, Pandemic, Trolling Mike Pence [TRAILER]"
+    excerpt: "Sacha Baron Cohen is back in all his gonzo glory in the latest trailer for Borat 2 for Amazon. Among his new targets: pandemic and Mike Pence."
+    publishedDateTime: 2020-10-01T16:17:00Z
+    webUrl: "https://bleedingcool.com/movies/borat-2-deals-with-family-pandemic-trolling-mike-pence-trailer/"
+    type: article
+    provider:
+      name: Bleeding Cool
+      domain: bleedingcool.com
+    quality: 35
 
-secured: "Tt6FfsclG8w6JhrqdShmPXWmImR9iJityT95R5Qoj5iLCJJpjycu1mxf2xaGZozhgs8OBRaGZC/QqxXN3H52Im7CkNfvNjwWz+zn25bFPuo6H0wMpHj+VWus+xW5G4Dm320PUdBA2i+eipj12CjZe+x+qDHirEcj1bFg05SLpbbNjDcmiWGCg24N6PYgFvOz6eWCQDbsd7x2BLyoKryMpm5qfUMVqbGJLGEM7ZTbrDcoAmzhak9AxXdn/aCW7NpCsR6KrqWxrikZKCx9Q3RvU6xL9Sn9FdWwdFebZkJI8gKBJH+1n4FTn1hX7cICyQQCSVNLaHf2hI2PZDrhEv3xHfW7LCNF/dr6Ns3iDrk4V+Q=;Xxh6RqftUeBcEhfaQB+fZQ=="
+secured: "Dk3v96CzBn6tesjhHBZZPHu5rFzmt5SMjVKB4QpUk2PU3maQEj0Sa1eCPCQssS8wWv6xrEqDDlSjSQjxI2FWCg6Rh78RU6C4fTWfapJa3mEBbjwFrWLaZKFsHt+IxMTz7W/4VrhPc+brZyXXWcEdRykWVsycWgBrYuTe30JoPPvP4TqSBVLEi7UXaFvgIQPtqqlFnDJtKKWzLkZ7l0B4IKsftxKWJ233Qgztedfrm1uYiw8tfdoSwCxdVOK+NQd3MIyncjBD6nWPD4ero8Dy5LdXheigzeE1XCkSacjc9K2v73FrRZSSFWa4n6v7UDlLjTdi00WEguMb2dY+YYBhen8syRv363PXEgg0fBonol5NwG/Rgeo4nRfT9SZK+1GP+Ou/pGh5v/vZnTqN0UXfVB9av7r0hRyZe233fw4n7GhGuQFAed6Gw6G1sinSKpoULwwJvv9bmpO36A3NGZi3wMltCt+BjOeYyQuBgjpseOul7s54Z+m30WD0mob65SP/0Zz6eq92Aj7qsx6G9dqEIw==;aqB8ZwmOIaGP8jmts3FATw=="
 ---
 

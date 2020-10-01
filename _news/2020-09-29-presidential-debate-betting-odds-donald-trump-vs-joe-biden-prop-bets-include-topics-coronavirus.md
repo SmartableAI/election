@@ -670,6 +670,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fight over Trump tax returns goes to appeals court — again"
+    excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
+    publishedDateTime: 2020-09-25T05:21:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden tacks to the center in fight with Trump over Rust Belt moderates. Will it drive away progressives?"
     excerpt: "Biden is emphasizing centrism to try court swing voters who favored Trump in 2016 in the crucial states of Michigan, Pennsylvania and Wisconsin."
     publishedDateTime: 2020-09-27T13:36:00Z
@@ -913,20 +929,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Donald Trump Turned The Presidency Into A Business"
-    excerpt: "Forbes' senior editor Dan Alexander examines President Trump's sprawling business interests in his new book, 'White House, Inc.' Alexander says the president has broken a number of pledges he made about how he would conduct business while in office."
-    publishedDateTime: 2020-09-27T04:17:00Z
-    webUrl: "https://www.npr.org/2020/09/22/915674694/how-donald-trump-turned-the-presidency-into-a-business"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
   - title: "In a state with one of the largest Somali communities, Trump claims Biden 'will turn Minnesota into a refugee camp' before attacking Rep. Omar again"
     excerpt: "\"How the hell did Minnesota elect her? What the hell is wrong with you people?\" Trump asked the crowd in reference to Rep. Ilhan Omar."
     publishedDateTime: 2020-10-01T06:38:00Z
@@ -1006,22 +1008,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/xlw5MTyf5yNbqKb-ufPEhTKH2rc=/0x0:5760x3240/1400x1050/filters:focal(2420x1160:3340x2080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67556686/Election_2020_Debate.0.jpg"
         width: 1400
         height: 1050
-        isCached: true
-  - title: "Vice President Mike Pence rallies Trump supporters in Lancaster"
-    excerpt: "Speaks to Trump supporters before the opening debate between President Donald J. Trump and Democratic nominee Joe Biden."
-    publishedDateTime: 2020-09-30T01:36:00Z
-    webUrl: "https://www.pennlive.com/news/2020/09/vice-president-mike-pence-rallies-trump-supporters-in-lancaster.html"
-    ampWebUrl: "https://www.pennlive.com/news/2020/09/vice-president-mike-pence-rallies-trump-supporters-in-lancaster.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/09/vice-president-mike-pence-rallies-trump-supporters-in-lancaster.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PBWHCUKAVNF3FOQCLNLOD37M6E.jpg"
-        width: 3300
-        height: 2284
         isCached: true
   - title: "Watch Joe Biden tell President Donald Trump to ‘shut up, man’"
     excerpt: "After 20 minutes of back and forth between President Donald Trump and Democratic nominee Joe Biden, the two got into a testy exchange over plans for the Supreme Court. After being cut off by Trump, Biden snapped “would you shut up,"

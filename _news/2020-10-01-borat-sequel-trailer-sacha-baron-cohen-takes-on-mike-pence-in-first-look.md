@@ -41,7 +41,16 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Borat 2 Deals With Family, Pandemic, Trolling Mike Pence [TRAILER]"
+    excerpt: "Sacha Baron Cohen is back in all his gonzo glory in the latest trailer for Borat 2 for Amazon. Among his new targets: pandemic and Mike Pence."
+    publishedDateTime: 2020-10-01T16:17:00Z
+    webUrl: "https://bleedingcool.com/movies/borat-2-deals-with-family-pandemic-trolling-mike-pence-trailer/"
+    type: article
+    provider:
+      name: Bleeding Cool
+      domain: bleedingcool.com
+    quality: 35
 
-secured: "ja7Gx0jVvFxY3dyX8oENE0+vCF3EgyPPt7KgoNmUpYbfu58S3IZ6yzKW2zC938Ki9UNR3CjAYnZsZlPkuifyOodq3s3JK3XozdQz8fc9iJZlMJiz4nKEtbaT/x2IRjeewpPaBtOi9WxK6t5O1SFnE7hiRqF4bsFZmf4QCBcGNfEqzbvG0VrlfuA7AYme2w5t42b1p55ql7ED+RdV7fFF4j92wcKJye4UH7lYircTxaiIuXQLJ24L6XiQrEoQPgJNHJ2/J01+kREgyKKqMnCpv1TeL4z45uhr72+Sz0NgB2vsbepr+VxqXjA5d+qlc9gbdsS+yozOmVXmBTWkA7Q9jopleojupCgzCizZ2D+6gIY=;NAhNFV+6EL1P8yT5Xi5jBQ=="
+secured: "dLXERXJSnohQYEqEe3Wwa5UXrGZ7uMhyWGsc364OqO67eN3Bt9C7X8lXx4yBSdOy5YqV79lqrsZZboID4VZRS6vHzmpZ7kZZQJLnRdi6UMPKx4As4rrDMon38f/xp8nDjh6BneP9Hn/qYKz2gfnfxovrJ1Br7Rle6zR0Nfxv7GF+0vjDrkTdO0RPwI515SwoxZuhivfS2cskbfsWyAUZEPTdsNdb9k9+jmbg+g432k7stMwa6YcaZxtAf8KJkzr0ZUt3bqoGtxl/edt0zDNEtUr9cxtSLG6YYNG+ykp8txWWvh16zarIyFc46tr9TtO62PFV5dA4iXvDTgmOssyTzJp7rIs9PidB7/q15Ijx26PTSAoXhKzrhRBieZDa78E25bzriBln7yDzzk5oC6wqEKpq0l+evauEoDMbO5rP9yr6JgIjPW98Vx5Y11DhsNEX8q7FEcEZTHYmFGvys8pXarvdywPkEQ2p5cXoTGxZhPXz3jdmxHhkXy5Uir5krU136sL738OHXCL5TF61cRyHgw==;ZssZkqdrL5qtSTYGfBgIzw=="
 ---
 

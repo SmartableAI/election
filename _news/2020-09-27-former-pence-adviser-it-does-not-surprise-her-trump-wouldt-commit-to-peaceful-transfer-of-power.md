@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3547679001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001"
 type: article
 quality: 136
-heat: 416
+heat: 396
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Former Pence aide says there were private meetings about the possibility of Trump refusing to accept election results"
-    excerpt: "Former aide to VP Mike Pence said Friday there were \"conversations behind closed doors\" about what would happen if Trump \"loses and refuses to leave.\""
-    publishedDateTime: 2020-09-26T13:54:00Z
-    webUrl: "https://www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 132
-    images:
-      - url: "https://i.insider.com/5f390fe7e89ebf001f0450b5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump can’t avoid a transfer of power. He just wants us to think he can."
     excerpt: "And so, on Wednesday, when a journalist asked President Trump if he would commit to making sure there’s a peaceful transfer of power after the election, Trump responded by saying, “We're going to have to see what happens."
     publishedDateTime: 2020-09-25T10:05:00Z

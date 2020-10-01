@@ -119,54 +119,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
-    excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
-    publishedDateTime: 2020-09-25T03:52:00Z
-    webUrl: "https://kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/"
-    ampWebUrl: "https://amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    type: article
-    provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 74
-    images:
-      - url: "https://kstp.com/kstpImages/repository/2020-09/800MikePenceMinneapolisAP.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
-    excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
-    publishedDateTime: 2020-09-24T22:21:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/09/24/vice-president-mike-pence-return-des-moines-christian-family-leader-event/3523396001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3523396001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3523396001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Vice President Mike Pence to make campaign stop in Carter Lake this week"
-    excerpt: "Vice President Mike Pence will visit Carter Lake on Thursday. The visit comes as a poll released Monday shows former Vice President Joe Biden leading President Donald Trump in Nebraska’s"
-    publishedDateTime: 2020-09-28T19:04:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
-    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 74
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
-        width: 512
-        height: 341
-        isCached: true
   - title: "Vice President Mike Pence to visit Eau Claire"
     excerpt: "With the reopening of Hobbs Ice Arena to the public starting this weekend, Eau Claire Parks, Recreation, and Forestry is offering some dry floor activities for community members."
     publishedDateTime: 2020-09-19T09:06:00Z
@@ -209,20 +161,6 @@ related:
         width: 980
         height: 734
         isCached: true
-  - title: "Vice President Mike Pence visiting Atlanta next week"
-    excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
-    publishedDateTime: 2020-09-25T16:13:00Z
-    webUrl: "https://www.wsbtv.com/news/local/vice-president-mike-pence-visiting-atlanta-next-week/HS7FVCTR5NBVPCC366K4VGGX5I/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 55
-    images:
-      - url: "https://www.wsbtv.com/resizer/cVtib_f5nbLdndrX5T-fqm997Fs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/KLEJHYU4DW4B65I7BBSA3B2UGY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Pence promises swift replacement to Ginsberg"
     excerpt: "With less than six weeks to go until Election Day in November, President Donald Trump has a new rallying cry for his supporters.Chants of “fill that seat” have broken out at campaign events the president’s held since the death a week ago of"
     publishedDateTime: 2020-09-25T19:44:00Z
@@ -236,20 +174,6 @@ related:
       - url: "http://www.concordmonitor.com/getattachment/7ce87960-c2ca-44e3-8512-1c0a5ff2fa1e/attachment.aspx"
         width: 499
         height: 325
-        isCached: true
-  - title: "Vice President Mike Pence to visit Iowa Thursday"
-    excerpt: "DES MOINES, Iowa (KWQC) - Vice President Mike Pence will visit Iowa on Thursday, October 1. Pence first plans on delivering remarks at a Trump Administration event in Carter Lake. During the event, he is expected to discuss Iowa’s unemployment rate and jobs."
-    publishedDateTime: 2020-09-28T18:01:00Z
-    webUrl: "https://www.kwqc.com/2020/09/28/vice-president-mike-pence-to-visit-iowa-thursday/"
-    type: article
-    provider:
-      name: KWQC
-      domain: kwqc.com
-    quality: 55
-    images:
-      - url: "https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/kcB7o0lw_jZrIAo0QwzBwDAxYDg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/47P4UKJBEJG2FECIEDGZ2PJ5YI.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Vice President Pence Remarks on Nursing Homes Safety"
     excerpt: "President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence participates in a meeting on safety and quality for nursing homes. Vice President Mike Pence met with Washington Governor Jay Inslee (D) in Tacoma,"

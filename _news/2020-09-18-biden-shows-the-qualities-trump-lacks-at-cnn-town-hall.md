@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1490
+heat: 1510
 published: true
 
 provider:
@@ -764,6 +764,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_38/3413096/200918-joe-biden-al-1014_d19a78f21d6920bc5b09b3f257a120dd.jpg"
         width: 2500
         height: 1381
+        isCached: true
+  - title: "In Joe Biden's response to Trump's attacks on Hunter Biden's drug use, I saw my own father"
+    excerpt: "My father has also shown his unwavering love and support during my recovery from addiction. This is the humanity we need from our next president."
+    publishedDateTime: 2020-10-01T16:14:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/joe-biden-s-response-trump-s-attacks-hunter-biden-s-ncna1241630"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241630"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241630"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416670/201001-hunter-joe-biden-mn-1135_40d23272b4793a220e9310508e06c432.jpg"
+        width: 2500
+        height: 1563
         isCached: true
   - title: "Poll: Biden up by 9 points in Arizona, tied with Trump in North Carolina"
     excerpt: "The New York Times/Siena College survey also shows Senate Republicans trailing in Arizona, Maine and North Carolina."

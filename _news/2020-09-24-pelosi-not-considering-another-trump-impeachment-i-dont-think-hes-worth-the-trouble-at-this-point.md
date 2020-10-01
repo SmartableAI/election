@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-no-trump-impeachment-scotus.
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-no-trump-impeachment-scotus.amp"
 type: article
 quality: 159
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Pelosi warns Trump 'ain't no light at the end of the tunnel' should election be decided in House"
+    excerpt: "Speaker Nancy Pelosi spelled out a dire prediction for President Trump should the election come down to the House to be decided."
+    publishedDateTime: 2020-10-01T17:50:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qb-3-3Bn6Ek/pelosi-election-outcome-no-light-for-trump-in-house"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/2f2219a9-AP20268562631818.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "AzM1r+g32oo1x0djuGTfTVt1Xlok+UwES8aHQh4bFJx4ky3SqgVBWUBjymbdF+7Wn5ebFHugQWMMdjA0hkLaFPOv0gOQt03QWJpHgFk/8g+U/9lh9aoUV9o3Xg4vukuz4Jl57zRYBHITLqX6rcY20cUqmqjpFwYReoWjs+jnpfnAM7BQnkHC2faYgC48cqOkG3+J5hgKcb3W7Aijd0aUvf1LugOopXQz857ShK7FiF47M+9+EP0r3/poydm7ZvFiaLhq8j1PiivsQJ9INpYwmfL0BETStzg+ruLi+q7oFXwgitsstIZK0ZuOLUIwV1C1AH4fOtmUruv8k16TYOVeyfJSvDjio/EJcU+kqlGW9bE=;jka0N0UIL8ED3VMU8D5sLQ=="
 ---

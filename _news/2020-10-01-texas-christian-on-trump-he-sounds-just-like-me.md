@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Texas Christian on Trump: 'he sounds just like me'"
-excerpt: "In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald Trump's record of opposing abortion and appointing conservative judges in their Texas community."
+excerpt: "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T"
 publishedDateTime: 2020-10-01T15:33:00Z
-originalUrl: "https://www.reuters.com/video/watch/idP2jA?now=true"
-webUrl: "https://www.reuters.com/video/watch/idP2jA?now=true"
+originalUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf"
+webUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf"
 type: article
 quality: 105
 heat: 145
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ajo.prod.reuters.tv/api/v2/img/5f75dd46e4b04f7ff7c2aaff-1601559878269?location=LANDSCAPE"
-    width: 1200
-    height: 675
+  - url: "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -62,6 +62,6 @@ related:
         height: 382
         isCached: true
 
-secured: "ef6bZU8aGHJfa9JbX1TGvaEPndyrQZA2VwtPUw45jMF67a76BjA6PyMj2blYiVjjVzNnO6ScDQwyF6ykZHQDBjNmAU10nllkiBxpE4N336ExkY+994SwnAznBn817d6z0RmDPATbPcAUUEpJCYa025Gz6Up6G8VOj5soHq4r3G88BknmenaIzckV9KbbodLrC7olpJayFQ1S6aNL1YmWNBys1zvv2DURiJ0ouRwvbBmLaDP4/rwD0KeeSPSAgwiQgyjm/XGqvdPHpbgz7uidZi+arqne5NIjKr0bUgnnw9ftfX5vgP5mZ84Q+LL9FdEUjJk4u+FdhS/d+HmhNhZyPNwLiPCVYqW9pHvafEHYxRE=;e5sjqYWXkgKiAO0P717I0Q=="
+secured: "fU68tnOa2S544j7Q/eWHVGGgvt0bEkd9e7LCC1KbpjpcWRhVLhyECllf2wV15T/pnWGIX8dz+eCcH5lLTPohuXPHLa5ZbIT9yY9NDrdjUwNzCXo/wNUVPbLsi1r0xz+8aBVxL1VvqaXYitSuVjIcU6nFbfAY6utzi2ml49N/KvwkjCIfEr8JswSUjnkmM4VqgZcq2MFVnMVc9f3bzPCsm3gb7FFF7xB+nA5QuF21/qBhwMOPyqyk2YELvu029a/v+OoR8PXqG3dVTUG9XoCW6vo/t+7nEPxzwNi7iUQfEPCBEgFcJgocBwB+5ZINnnSwQBN5MfPLQNe1i6AYyP/nSNeTvj7rQ7/3sUceQBaKAOM=;5hCRkXIzczKfVerCvErJOw=="
 ---
 

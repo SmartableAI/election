@@ -9,8 +9,8 @@ ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouse
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
 type: article
 quality: 73
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Townhall
@@ -30,6 +30,24 @@ images:
     width: 650
     height: 340
     isCached: true
+
+related:
+  - title: "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters"
+    excerpt: "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church"
+    publishedDateTime: 2020-10-01T17:10:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289"
+    ampWebUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 80
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "ltfGuL+MtoNACvxhps/PT88T5Xk1URAXUmf7XdzQ+7xog9TSfrYkdYFknIkYIfIQXH46X/9Vq0ZKyRO0hvGzV5I1eWkEWKIhiUcH2QOLjTizqNWBPgehrQbd1XC/dj92gio6RHyLMChsI7BVS+ZEObeBinGSpcJMxIelUDteo+34lGAcUt+tzMgXGwPDpJeKuAqMYRNMG4nhuQ09AP98mZdgvJUujm/Z0gyiX2dbzgFoy6M/mMSJWVPAISuEeHuayy93DTodJlnxTK1g547gfX4hJDTBy+beGl1g3F20hZaiOtiFc5ETSpWvI3H3PrGpuZ2oY7RSX9LcC+Vja5b3NZnOc8nfyI8YR+98LewCkw3BhgGjKAacxhhG18xaRqVckIfXL/tIvHyfiDNXv5oTaWHvvfmTXrwLl4W9esK45q45igvzX95BWiA7ypKo6VVuIr0WFt2KKPdBJQNfHUUGnWVhpi5t7GCRjF1vLUKekOjj57FdBGxAHzcWXy1p4aGxvxJPSz/ECIi3ltqpx+rACw==;4St8B30p6T0yxoH0riOWUg=="
 ---

@@ -45,22 +45,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump Will Create More Debt Than Obama"
-    excerpt: "Presidents’ have to deal with the cards they are dealt. Obama inherited the Great Recession, while Trump has had to deal with a pandemic. Trump will generate more debt in his four years than Obama did and will blow past Obama’s two terms if re-elected."
-    publishedDateTime: 2020-09-27T18:05:00Z
-    webUrl: "https://www.forbes.com/sites/chuckjones/2020/09/27/trump-will-create-more-debt-than-obama/"
-    ampWebUrl: "https://www.forbes.com/sites/chuckjones/2020/09/27/trump-will-create-more-debt-than-obama/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckjones/2020/09/27/trump-will-create-more-debt-than-obama/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1dea0ba854780006e87f10%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump says he's providing a $13 billion bailout to farmers as he seeks support from rural voters ahead of November"
     excerpt: "Polls show Joe Biden edging out Trump by several percentage points in the key battleground state of Wisconsin."
     publishedDateTime: 2020-09-18T19:40:00Z

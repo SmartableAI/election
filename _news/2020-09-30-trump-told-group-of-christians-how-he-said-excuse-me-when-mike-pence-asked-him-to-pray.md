@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Texas Christian on Trump: 'he sounds just like me'"
-    excerpt: "In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald Trump's record of opposing abortion and appointing conservative judges in their Texas community."
+    excerpt: "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T"
     publishedDateTime: 2020-10-01T15:33:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP2jA?now=true"
+    webUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f75dd46e4b04f7ff7c2aaff-1601559878269?location=LANDSCAPE"
-        width: 1200
-        height: 675
+      - url: "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Don’t be like Trump: Deducting hairstyling and home expenses from your taxes could get you in trouble with the IRS"
     excerpt: "Trump tax returns confirm that the rich are different from you and me. So, no, you cannot deduct the cost of getting your hair cut and styled"

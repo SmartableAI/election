@@ -2,6 +2,211 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-22-former-mueller-prosecutor-says-the-special-counsel-let-down-the-public-and-describes-trump-as-an-animal-in-new-book.md",
+      "title": "Former Mueller prosecutor says the special counsel let down the public and describes Trump as 'an animal' in new book",
+      "excerpt": "Asked whether Mueller had let down the American public, Andrew Weissmann told The Atlantic: \"Absolutely, yep.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
+      "originalUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f0a4381aee6a8700a49a134?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
+      "publishedDateTime": "2020-09-21T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-trump-im-so-angry-at-republicans.md",
+      "title": "Trump: ‘I’m so angry at Republicans’",
+      "excerpt": "The president says his fellow Republicans have let him it down when it comes to investigating Obama and the Bidens.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/21/trump-angry-republicans-419790",
+      "originalUrl": "https://www.politico.com/news/2020/09/21/trump-angry-republicans-419790",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/ca/00/b33a8de44c439fcd7d83230aad5f/20200921-donaldtrump-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790",
+      "publishedDateTime": "2020-09-21T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-watch-live-trump-holds-a-great-american-comeback-rally-in-swanton-ohio.md",
+      "title": "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Swanton, Ohio",
+      "excerpt": "President Donald Trump will hold a campaign rally at Toledo Express Airport in Swanton, Ohio on Monday. The rally is expected to begin at 8:00 pm ET.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/21/watch_live_trump_holds_a_great_american_comeback_rally_in_swanton_ohio.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/21/watch_live_trump_holds_a_great_american_comeback_rally_in_swanton_ohio.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521717.jpg",
+          "width": 1136,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-21-all-he-wants-is-his-name-on-a-check-nancy-pelosi-says-democrats-are-holding-out-for-a-bigger-stimulus-agreement-from-trump.md",
+      "title": "'All he wants is his name on a check': Nancy Pelosi says Democrats are holding out for a bigger stimulus agreement from Trump",
+      "excerpt": "Pelosi doubled down on her stimulus strategy, saying Republicans were refusing to spend the money necessary to combat the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9",
+      "originalUrl": "https://www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f1db677988ee355b3487cb6?width=1200&format=jpeg",
+          "width": 990,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-democrats-stimulus-agreement-trump-republicans-economy-bigger-waiting-2020-9?amp",
+      "publishedDateTime": "2020-09-21T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions.md",
       "title": "Trump Administration Labels NYC, Portland And Seattle ‘Anarchist Jurisdictions’",
       "excerpt": "Earlier this month, Trump issued a memo that threatened to yank federal funding for \"anarchist jurisdictions\" the administration finds \"disempowers or defunds police departments” — though it’s not clear what funds are going to be cut.",
@@ -270,7 +475,7 @@
       "originalUrl": "https://thehill.com/opinion/white-house/517312-can-donald-trump-maintain-new-momentum-until-this-november",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -479,7 +684,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -530,7 +735,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 371,
+      "heat": 391,
       "tags": null,
       "images": [
         {
@@ -781,7 +986,7 @@
       "originalUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -888,7 +1093,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285",
       "featuredContent": null,
       "highlight": null,
-      "heat": 660,
+      "heat": 740,
       "tags": null,
       "images": [
         {
@@ -1148,7 +1353,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1329,220 +1534,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-amy-dorris-friend-politics-not-behind-latest-sex-assault-accusation-against-trump.md",
-      "title": "Amy Dorris' friend: Politics not behind latest sex-assault accusation against Trump",
-      "excerpt": "Amy Dorris of Boca Raton, the latest woman to accuse Trump of sexually assaulting her, did not go public because of the election, a close friend says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/06e09ebbc9030e36308fda62ff21cf8c765f759c/c=0-124-2391-1469/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200819203-2fc69d16.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3491823001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491823001",
-      "publishedDateTime": "2020-09-18T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-oc-actress-samaire-armstrong-voices-support-for-trump-says-far-left-mob-has-silenced-americans.md",
-      "title": "'O.C.' actress Samaire Armstrong voices support for Trump, says 'far left mob' has silenced Americans",
-      "excerpt": "The O.C.” actress Samaire Armstrong posted a passionate video on Wednesday pledging her support for Donald Trump for the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Samaire-Armstrong.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/samaire-armstrong-support-donald-trump.amp",
-      "publishedDateTime": "2020-09-18T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-progress-not-peace-breaking-down-the-trump-brokered-deals-between-israel-arab-states.md",
-      "title": "Progress, not peace: Breaking down the Trump-brokered deals between Israel, Arab states",
-      "excerpt": "As dignitaries gathered on the White House's South Lawn on Tuesday to witness historic U.S.-brokered deals between Israel and two Gulf Arab states, the situation thousands of miles away on Israel's doorstep was less serene.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/progress-not-peace-breaking-down-trump-brokered-deals-between-israel-n1240298",
-      "originalUrl": "https://www.nbcnews.com/news/world/progress-not-peace-breaking-down-trump-brokered-deals-between-israel-n1240298",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3413011/200918-west-bank-protests-mc-12002_9b48d9fd8a1f106b6a9d1ea55c3f4a1a.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240298",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240298",
-      "publishedDateTime": "2020-09-18T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-watch-live-president-donald-trump-holds-wisconsin-rally.md",
-      "title": "WATCH LIVE: President Donald Trump holds Wisconsin rally",
-      "excerpt": "President is slated to hold a rally in Mosinee, Wis., on Thursday evening. The event is scheduled to begin at 9 p.m. EDT. Watch the live video above.  Tags Wisconsin Trump rally 2020 campaign 2020 ele",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally",
-      "originalUrl": "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald2_09112020.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp",
-      "publishedDateTime": "2020-09-17T18:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

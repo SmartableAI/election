@@ -205,6 +205,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump, asked to condemn white supremacists and militia during the debate, tells Proud Boys group to ‘stand back and stand by'"
+    excerpt: "President Donald Trump on Tuesday didn’t clearly condemn white supremacist groups and their role in violence in some American cities this summer, branding it solely a “left-wing” problem and telling one far-right extremist group to “stand back and stand by."
+    publishedDateTime: 2020-10-01T17:34:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/q4cHOxV-K4_t5dNpwY_iFVJfJJE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ELDAHI55RQAN3OMC6KPVEDJBIY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
     excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
     publishedDateTime: 2020-10-01T01:09:00Z

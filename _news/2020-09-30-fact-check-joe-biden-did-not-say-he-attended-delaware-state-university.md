@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L2RD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: Hunter Biden's military discharge was administrative, not dishonorable"
+    excerpt: "Posts on Facebook following the first 2020 presidential debate say Hunter Biden, the second and only surviving son of Democratic presidential nominee Joe Biden, received a dishonorable discharge from the U."
+    publishedDateTime: 2020-10-01T16:42:00Z
+    webUrl: "https://www.reuters.com/article/uk-fact-check-hunter-biden-not-dishonora-idUSKBN26M6QI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M6QI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M6QI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535722399&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG904KJ"
+        width: 821
+        height: 545
+        isCached: true
   - title: "Fact check: Joe Biden faces friendly fire – partly false – over age, pot, prisons and more"
     excerpt: "An Instagram user levels strong charges against former Vice President Joe Biden but says he will vote for him against Trump"
     publishedDateTime: 2020-10-01T12:40:00Z

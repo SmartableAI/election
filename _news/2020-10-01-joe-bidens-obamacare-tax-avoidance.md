@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Biden-Schumer-Pelosi would do more damage in 2 years than Obama did in 8: Ted Cruz"
+    excerpt: "A “Biden-Schumer-Pelosi government” would be a “nightmare,” Sen. Ted Cruz, R-Texas, said on Thursday as he encouraged Republicans to vote in the upcoming elections.  "
+    publishedDateTime: 2020-10-01T17:22:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "A3H1cl74gc+bg+FXkMt+MXgPwb1kSn6gfkGHWHKa7PV+3huOzsiy5MphllG6/EFYOZTMzvAKDmMptBa98lc4z/rBM8Sf3jlIsNfymIDbrriUI1O8FzqEfGhyMA+IqLw9HN+cqEZrkISlwTMnqYuuCvCJWJqZ8l1jLu6S8cHr8YIpoP1J5vZDKAMEWSMBV0I8yb3yvhFcEz6AwR+DB/OUKzHTDc92YhNsOYsw1EfoOR4WH/wdX98d47Fd69XIHZVcxkX/jaxWBA3MC6czE/PMa02g65sNX4AjkrRK2Q93nIjxVRCVwYqqJXe1Owa2egGDz2tQKtt/7lYa9dyoR1z/gRwh+lgNtaiNFSP6dGChvUCwgdLAYvjzsDwOBNE0dKchy2MT8ZnAIN+IBHxoRGyQL3ptgNBrv+xAgAIYo4o+Ue/6/8b+WuRkNMIK+cvmPoVAh+DXJuePWNovZRknDwhSuw7jrqz5ttRwWrDouxQZeEAIMTvV2loGzO+clx6gXENDnXv3r8jAKdav68LdGx5vgQ==;89Zyr5E8ITjN59UlwEpvbQ=="
 ---

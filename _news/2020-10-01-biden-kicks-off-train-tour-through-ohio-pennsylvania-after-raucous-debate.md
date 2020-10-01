@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-perform
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
 type: article
 quality: 133
-heat: 413
+heat: 393
 published: true
 
 provider:
@@ -127,22 +127,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/aa598b5/2147483647/strip/true/crop/1620x1058+0+11/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fcd%2F76f88178435ebe77c84b52336f13%2Fnewsom-presser-09-23-la-thmb.jpg"
         width: 320
         height: 209
-        isCached: true
-  - title: "Temporary contractor threw Trump mail-in ballots in trash, Pennsylvania county officials say"
-    excerpt: "An incident regarding \"a small number\" of discarded mail-in ballots in Pennsylvania -- which has sparked a Department of Justice investigation and drawn the attention of President Donald Trump-- appears to be rooted in an administrative error by a temporary contractor working at the Luzerne County Elections Bureau,"
-    publishedDateTime: 2020-09-26T13:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/temporary-contractor-threw-trump-mail-ballots-trash-pennsylvania/story?id=73251533"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/temporary-contractor-threw-trump-mail-ballots-trash-pennsylvania/story?id=73251533"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/temporary-contractor-threw-trump-mail-ballots-trash-pennsylvania/story?id=73251533"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 114
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-atlanta_hpMain_20200925-213303_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
     excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"

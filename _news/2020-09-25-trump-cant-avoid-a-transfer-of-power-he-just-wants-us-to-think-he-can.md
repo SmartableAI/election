@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Former Pence aide says there were private meetings about the possibility of Trump refusing to accept election results"
-    excerpt: "Former aide to VP Mike Pence said Friday there were \"conversations behind closed doors\" about what would happen if Trump \"loses and refuses to leave.\""
-    publishedDateTime: 2020-09-26T13:54:00Z
-    webUrl: "https://www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-pence-aide-says-private-meetings-trump-refusing-accept-election-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 132
-    images:
-      - url: "https://i.insider.com/5f390fe7e89ebf001f0450b5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Unanimous Senate commits to peaceful transfer of power after Trump refuses"
     excerpt: "The Senate on Thursday unanimously committed to a peaceful transfer of power after President Donald Trump refused to do so if he loses the November election."
     publishedDateTime: 2020-09-24T22:33:00Z

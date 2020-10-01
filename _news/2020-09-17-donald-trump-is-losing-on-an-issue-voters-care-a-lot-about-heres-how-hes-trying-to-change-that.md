@@ -205,6 +205,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump to Make Appeal to Black Voters, Who Largely Oppose Him"
+    excerpt: "President Donald Trump will make an appeal Friday to Black voters to help re-elect him in November, promising them money to expand small businesses and further criminal sentencing reductions."
+    publishedDateTime: 2020-09-25T00:18:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-make-appeal-to-black-voters-who-largely-oppose-him/2020/09/24/98d3b638-fec3-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLGSSFX6YMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
   - title: "Millions of poor Americans could get left out of Trump's legally dubious plan to send $200 drug discount cards to 33 million Medicare beneficiaries"
     excerpt: "Trump's legally dubious pledge could leave out 13 million low-income Americans receiving federal aid within Medicare."
     publishedDateTime: 2020-09-25T23:53:00Z

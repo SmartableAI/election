@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-02-howey-barretts-confirmation-would-be-a-pence-achievement.md",
+      "title": "HOWEY: Barrett’s confirmation would be a Pence achievement",
+      "excerpt": "INDIANAPOLIS — It stands to be a future framed picture in Vice President Mike Pence’s office: On Monday, he was climbing the U.S. Capitol steps with 7th Circuit Judge Amy Coney Barrett of South Bend. The tall, slender judge is adjusting her necklace ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wthr.com/article/news/politics/howey-barretts-confirmation-would-be-a-pence-achievement/531-50c708f0-3362-4c64-bafe-c950a50feea6",
+      "originalUrl": "https://www.wthr.com/article/news/politics/howey-barretts-confirmation-would-be-a-pence-achievement/531-50c708f0-3362-4c64-bafe-c950a50feea6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WTHR/images/4838f507-ee58-4933-a763-e651d9425d5e/4838f507-ee58-4933-a763-e651d9425d5e_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wthr.com/amp/article/news/politics/howey-barretts-confirmation-would-be-a-pence-achievement/531-50c708f0-3362-4c64-bafe-c950a50feea6",
+      "cdnAmpWebUrl": "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/howey-barretts-confirmation-would-be-a-pence-achievement/531-50c708f0-3362-4c64-bafe-c950a50feea6",
+      "publishedDateTime": "2020-10-01T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTHR",
+        "domain": "wthr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-watch-live-vice-president-pence-speaks-at-iowa-rallies.md",
+      "title": "WATCH LIVE: Vice President Pence speaks at Iowa rallies",
+      "excerpt": "Vice President Mike Pence will visit Carter Lake and Des Moines, Iowa Oct. 1, where he will speak at political rallies being held in the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 525,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/vote2020_tape7-1024x630.jpg",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "publishedDateTime": "2020-10-01T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-heres-how-kamala-harris-puts-the-nail-in-the-trump-pence-coffin.md",
+      "title": "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin",
+      "excerpt": "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1755,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
+      "publishedDateTime": "2020-10-01T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-first-trailer-for-borat-2-is-a-whirlwind-of-crotch-masks-mike-pence-and-incest-jokes.md",
       "title": "First trailer for Borat 2 is a whirlwind of crotch masks, Mike Pence, and incest jokes",
       "excerpt": "Sacha Baron Cohen’s Borat character returns to induce cringeworthy terror upon unsuspecting interview subjects in a sequel to 2006’s Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan later this month.",
@@ -10,7 +156,7 @@
       "originalUrl": "https://www.polygon.com/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -30,48 +176,6 @@
       "provider": {
         "name": "Polygon",
         "domain": "polygon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-exclusive-vp-mike-pence-tells-channel-2-president-trump-won-tuesdays-debate-outright.md",
-      "title": "EXCLUSIVE: VP Mike Pence tells Channel 2 President Trump won Tuesday’s debate ‘outright’",
-      "excerpt": "Vice President Mike Pence is defending President Donald Trump’s performance following Tuesday night’s controversial debate and says he believes Trump won. Channel 2′s Richard Elliot spoke exclusively with Pence following his appearance at the Faith and Freedom Coalition conference that was held Wednesday at the Cobb Galleria Centre.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsbtv.com/news/local/cobb-county/vice-president-pence-coming-metro-atlanta-wednesday/ICA2PVFKNVARLNBA5TGHVYMJOI/",
-      "originalUrl": "https://www.wsbtv.com/news/local/cobb-county/vice-president-pence-coming-metro-atlanta-wednesday/ICA2PVFKNVARLNBA5TGHVYMJOI/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wsbtv.com/resizer/3cU1r-TzlbfDb1z2UP0tv7fNz6s=/1200x628/d1hfln2sfez66z.cloudfront.net/09-30-2020/t_e8de92d95b634a1d89c08251ce986ed7_name_RAW_RE_PENCE_INTERVIEW_frame_27575.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSB-TV",
-        "domain": "wsbtv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -114,48 +218,6 @@
       "provider": {
         "name": "The Florida Times-Union",
         "domain": "jacksonville.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-vice-president-mike-pence-to-host-debate-watch-party-in-lititz.md",
-      "title": "Vice President Mike Pence to host debate watch party in Lititz",
-      "excerpt": "LITITZ, Pa. — Vice President Mike Pence is traveling to Lancaster County next week to host a 'Make America Great Again!' watch party of the Presidential Debate. On Tuesday, September 29, Pence will travel to Meadow Spring Farm in Lititz ahead of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbir.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433",
-      "originalUrl": "https://www.wbir.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wbir.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433",
-      "cdnAmpWebUrl": "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433",
-      "publishedDateTime": "2020-09-30T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "10 News",
-        "domain": "wbir.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -276,7 +338,7 @@
       "originalUrl": "https://www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -565,7 +627,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 416,
+      "heat": 396,
       "tags": null,
       "images": [
         {
@@ -617,7 +679,7 @@
       "originalUrl": "https://www.newsweek.com/franklin-graham-pence-lead-prayer-march-thanking-god-trump-scotus-nominee-1534451",
       "featuredContent": null,
       "highlight": null,
-      "heat": 376,
+      "heat": 356,
       "tags": null,
       "images": [
         {
@@ -786,48 +848,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-25-pence-returning-to-iowa.md",
-      "title": "Pence returning to Iowa",
-      "excerpt": "Vice President Mike Pence will return to Iowa on Oct. 1 to speak at 'Faith in Leadership, America's Need for Revival.' It will be his fifth visit this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924",
-      "originalUrl": "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thegazette.com/storyimage/GA/20200924/ARTICLE/200929835/AR/0/AR-200929835.jpg&MaxH=300&MaxW=500",
-          "width": 449,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml",
-      "cdnAmpWebUrl": "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml",
-      "publishedDateTime": "2020-09-24T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "thegazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-mike-pence-returns-to-wisconsin-for-campaign-bus-tour-and-event-at-eau-claire-manufacturing-plant.md",
       "title": "Mike Pence returns to Wisconsin for campaign bus tour and event at Eau Claire manufacturing plant",
       "excerpt": "Vice President Mike Pence stopped in western Wisconsin on Thursday to rally support for the Trump administration's efforts to revive the nation's economy clobbered by the coronavirus pandemic and to fight for voters in a politically unpredictable area of the state.",
@@ -856,6 +876,48 @@
       "provider": {
         "name": "Milwaukee Journal Sentinel",
         "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence.md",
+      "title": "Kamala Harris Downplays Debate Skills as Buttigieg Stands In for Pence",
+      "excerpt": "Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent, despite her withering attacks on Democratic rivals in earlier presidential primary debates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881",
+      "originalUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1497882!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/pete-buttigieg-and-kamala-harris-photographers-martina-albertazzi-stefani-reynolds-bloomberg-photographer-martina-albertazzi-stefani-reynolds-bloomberg.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html",
+      "publishedDateTime": "2020-09-23T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1022,7 +1084,7 @@
       "originalUrl": "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1148,7 +1210,7 @@
       "originalUrl": "https://www.investopedia.com/5-things-you-need-to-know-about-mike-pence-5077702",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1309,57 +1371,6 @@
         "name": "WMUR9",
         "domain": "wmur.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-super-pac-american-bridge-posts-pence-oppo-book-online-for-free-ahead-of-debates.md",
-      "title": "Super PAC American Bridge posts Pence oppo book online for free ahead of debates",
-      "excerpt": "Super PAC American Bridge has posted a Vice President Mike Pence opposition book online for free ahead of the debates.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "originalUrl": "https://abcnews.go.com/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/mike-pence-gty-jef-200921_1600697875742_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "publishedDateTime": "2020-09-22T03:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

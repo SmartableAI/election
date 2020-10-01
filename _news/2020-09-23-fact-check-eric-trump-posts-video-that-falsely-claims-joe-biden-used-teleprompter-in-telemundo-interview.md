@@ -765,6 +765,22 @@ related:
         width: 2500
         height: 1381
         isCached: true
+  - title: "In Joe Biden's response to Trump's attacks on Hunter Biden's drug use, I saw my own father"
+    excerpt: "My father has also shown his unwavering love and support during my recovery from addiction. This is the humanity we need from our next president."
+    publishedDateTime: 2020-10-01T16:14:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/joe-biden-s-response-trump-s-attacks-hunter-biden-s-ncna1241630"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241630"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241630"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416670/201001-hunter-joe-biden-mn-1135_40d23272b4793a220e9310508e06c432.jpg"
+        width: 2500
+        height: 1563
+        isCached: true
   - title: "Poll: Biden up by 9 points in Arizona, tied with Trump in North Carolina"
     excerpt: "The New York Times/Siena College survey also shows Senate Republicans trailing in Arizona, Maine and North Carolina."
     publishedDateTime: 2020-09-18T11:51:00Z

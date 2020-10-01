@@ -95,6 +95,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Watch live: Trump gives update on coronavirus testing after bombshell report on taxes"
+    excerpt: "President Trump is set to deliver remarks Monday on the nation's coronavirus testing strategy, one day after a bombshell report from the New York Times provided an in-depth look at the president's finances and revealed that he only paid $750 in federal income taxes in 2017."
+    publishedDateTime: 2020-09-28T13:12:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-press-conference-coronavirus-testing-update-live-stream-today-2020-09-28/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-press-conference-coronavirus-testing-update-live-stream-today-2020-09-28/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-press-conference-coronavirus-testing-update-live-stream-today-2020-09-28/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/28/34d99e88-e073-4b73-95ae-06de3025a6b2/thumbnail/1200x630/e8ff21516f338894fbc4bdf08926669f/gettyimages-1228757134.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Honor her wish': Trump jeered as he pays his respects to Ruth Bader Ginsburg at Supreme Court"
     excerpt: "Members of the public booed Trump as he approached the casket atop the marble steps of the Supreme Court building to honor Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-24T19:31:00Z

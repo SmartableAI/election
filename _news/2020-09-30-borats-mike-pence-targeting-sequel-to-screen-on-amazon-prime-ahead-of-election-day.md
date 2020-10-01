@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbr.com/borat-sequel-targets-mike-pence-election-day-ama
 cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
-    excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
-    publishedDateTime: 2020-09-28T01:49:00Z
-    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
-    ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 72
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/28/04/33702662-0-image-a-4_1601263306386.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Sacha Baron Cohen’s top secret Borat sequel ‘is FINISHED and targets Mike Pence’"
     excerpt: "SACHA Baron Cohen has secretly shot a follow up to the 2006 sensation Borat — and Mike Pence is in the firing line. The second outing as the Kazakh journalist reportedly targets the Vice President"
     publishedDateTime: 2020-09-27T23:23:00Z

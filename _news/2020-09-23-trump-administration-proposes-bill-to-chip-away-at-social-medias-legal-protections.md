@@ -574,6 +574,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Avlon: Proud Boys see Trump's comments as an endorsement"
+    excerpt: "CNN's John Avlon goes over President Trump's past chances to speak out against white supremacy in America, and how often he balked at opportunities, and did not like it when he actually did.\n    \n"
+    publishedDateTime: 2020-10-01T12:08:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMwzdBaAmNA/trump-white-supremacy-reality-check-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/01/trump-white-supremacy-reality-check-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/01/trump-white-supremacy-reality-check-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929215947-31-debate-cleveland-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration sets refugee cap at 15,000, a new historic low"
     excerpt: "The Trump administration has informed Congress it intends to accept only 15,000 refugees this fiscal year, a new historic low for the US.\n    \n"
     publishedDateTime: 2020-10-01T12:33:19Z
@@ -1977,6 +1993,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/45/74/4c18628445b79d74ba2ba7c4a0dd/200930-trump-food-box-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Court: Trump administration policing panel broke transparency law"
+    excerpt: "Privacy Policy A blue-ribbon law enforcement panel created at the direction of President Donald Trump broke a federal open meeting law and must halt its work until it comes into compliance with the statute,"
+    publishedDateTime: 2020-10-01T17:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/01/court-trump-administration-policing-panel-broke-transparency-law-424519"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/64/3b/fffef30c43e09fbc7c3bf3287daa/201001-william-barr-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

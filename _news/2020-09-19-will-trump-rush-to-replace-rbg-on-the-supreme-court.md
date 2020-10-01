@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GOP senators \"don't have to go lockstep\" with President Trump on Supreme Court pick, Amy Klobuchar says"
+    excerpt: "Democratic Senator Amy Klobuchar urged her Republican colleagues to \"look in their own souls\" and not consider a Supreme Court justice to replace Ruth Bader Ginsburg until after the November election."
+    publishedDateTime: 2020-09-21T17:35:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 109
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/21/477c31a7-11bc-4e33-98d5-2b3b1a10630c/thumbnail/1200x630/21442ad0dac4dae6509be91c16cb340c/cbsn-fusion-senator-klobuchar-on-justice-ruth-bader-ginsburg-and-upcoming-supreme-court-confirmation-battle-thumbnail-551043-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump says he sees no reason to delay TikTok decision"
     excerpt: "U.S. President Donald Trump said on Friday there was no need to delay a decision on a proposed deal for popular Chinese-owned social media app TikTok, adding he would be looking at it shortly."
     publishedDateTime: 2020-09-18T21:39:00Z
