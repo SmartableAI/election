@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump claimed he's going to send $200 cards to millions of people in the mail weeks before the election — but it's not clear he can actually do it"
-    excerpt: "Trump said Americans enrolled in Medicare will receive a $200 card in the mail so they can buy prescription drugs."
-    publishedDateTime: 2020-09-25T00:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Donald Trump Jr. explains President Trump's debate stance by saying he's \"a fighter\""
     excerpt: "In an interview with CBS News, Donald Trump Jr. explained the president's aggressive debate stance by saying he's \"a fighter\" and that \"he hasn't been treated fairly.\" Watch his remarks here."
     publishedDateTime: 2020-09-30T03:42:00Z
@@ -61,6 +45,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Facing Devastating Debt Load? Experts Say Not So Fast"
+    excerpt: "President Donald Trump reportedly must pay back more than $300 million in loans over the next four years, raising the possibility his lenders could face an unprecedented situation should he win a second term and not be able to raise the money: foreclosing on the leader of the free world."
+    publishedDateTime: 2020-09-29T21:05:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "cRXpPMe3siwwyBoWlvw3zIXjmDLorj47/qINE6DYbgUxFs/YEzR8gIbe62Vo3z8RDWFrergL/iuGdoPi1aUcjMbx4CgrCGPR3/WntuP99FGdkkaRHDvIUsph2abx2lEPrHE4dYLu4KjnU5cai/zvScKQM6FS2tgFlOKV8A+CtHys3P2s/Cu9cRY2njlB4eLatXwNgM+hQAfcl0dK2+LunL0Z+WCajBJUeAKbPXJBfRC6wMJY/ily6+PTwbm2cycwaalcoeKqCFayJZKe6JE58bPdLgtLjRgj9NACBSZzkynZXxnQpAXCgz1IYEc7LnFJxmA2S0E30k/akWzFdCygJZSS0GHAm7hoNUbDWYgxbp4=;pMny6+KGCSLe3JYpUIqPhA=="
 ---

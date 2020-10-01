@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html</loc>
+    <lastmod>2020-10-01T06:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/tTSxeg_17nQ/biden-calls-first-debate-embarrassing</loc>
     <lastmod>2020-10-01T04:27:36-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979</loc>
-    <lastmod>2020-10-01T02:11:00-07:00</lastmod>
+    <loc>https://www.wsbtv.com/news/local/cobb-county/vice-president-pence-coming-metro-atlanta-wednesday/ICA2PVFKNVARLNBA5TGHVYMJOI/</loc>
+    <lastmod>2020-09-30T22:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -99,6 +105,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/FfvgpRt-46w/wisconsin-governor-tony-evers-trump-coronavirus</loc>
     <lastmod>2020-09-30T13:16:50-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823</loc>
+    <lastmod>2020-09-30T12:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -313,6 +325,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/</loc>
+    <lastmod>2020-09-29T11:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html</loc>
     <lastmod>2020-09-29T10:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -477,6 +495,12 @@
   <url>
     <loc>https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081</loc>
     <lastmod>2020-09-28T13:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/</loc>
+    <lastmod>2020-09-28T12:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -721,20 +745,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9</loc>
-    <lastmod>2020-09-26T05:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html</loc>
     <lastmod>2020-09-26T04:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9</loc>
-    <lastmod>2020-09-26T03:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -789,12 +801,6 @@
   <url>
     <loc>https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland</loc>
     <lastmod>2020-09-25T10:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.washingtonpost.com/politics/2020/09/25/what-we-know-about-those-discarded-trump-ballots-pennsylvania/</loc>
-    <lastmod>2020-09-25T10:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1635,6 +1641,12 @@
   <url>
     <loc>https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly</loc>
     <lastmod>2020-09-19T07:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9</loc>
+    <lastmod>2020-09-19T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

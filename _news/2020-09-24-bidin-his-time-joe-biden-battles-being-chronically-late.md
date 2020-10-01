@@ -41,6 +41,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Fact check: Joe Biden faces friendly fire – partly false – over age, pot, prisons and more"
+    excerpt: "An Instagram user levels strong charges against former Vice President Joe Biden but says he will vote for him against Trump"
+    publishedDateTime: 2020-10-01T12:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/01/fact-check-joe-biden-friendly-fire-over-age-pot-prisons/3518767001"
+    ampWebUrl: "https://amp.usatoday.com/amp/3518767001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518767001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/fa27bf47-bcf7-4a05-86c4-f0cb21e75b8b-AP_Election_2020_Biden.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
     excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
     publishedDateTime: 2020-09-29T22:50:00Z

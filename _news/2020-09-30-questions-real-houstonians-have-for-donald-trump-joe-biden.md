@@ -730,6 +730,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2020 election updates: Trump signs bill to avert shutdown, COVID-19 stimulus talks find life, Trump and Biden campaign after first debate"
+    excerpt: "Trump signed a bill early Thursday to avert a government shutdown, stimulus talks continue and Biden and Trump campaign after the first debate."
+    publishedDateTime: 2020-10-01T12:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/2020-election-updates-trump-biden-campaign-stimulus-bill-stalled/3549579001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3549579001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3549579001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/2996b61d-468a-4144-96ce-e50fef429864-AFP_AFP_8R48HV.jpg?auto=webp&crop=5801,3264,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Can the stock market predict whether Joe Biden will be the next president or Donald Trump wins a second term?"
     excerpt: "The worst pandemic in a century and one of the sharpest downturns since the Great Depression are making the usual winning signs harder to read."
     publishedDateTime: 2020-09-28T09:51:00Z

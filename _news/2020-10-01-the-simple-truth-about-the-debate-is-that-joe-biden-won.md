@@ -2205,6 +2205,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Joe Biden endorsed by 50+ former GOP national security officials"
+    excerpt: "White House Democratic nominee Joe Biden is receiving the endorsements of more than 50 former Republican national security officials on Thursday."
+    publishedDateTime: 2020-10-01T13:47:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/joe-biden-endorsed-by-50-former-gop-national-security-officials/PQAIVGURENGGZFF7KAMG5GC7KQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/qnvFYQDluXks_13mXwsR1TIhQZk=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-25-2020/t_1a8e9bc3c5944b70b0ab5cd6dc3ec065_name_7332251da441492f87ddb778bbc30cd4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Boorish debate makes clear why Joe Biden is the only choice for president"
     excerpt: "President Donald Trump's outlandishly boorish debate performance showed voters why Joe Biden must be elected this fall. Dignity and an ability to listen are sorely needed in the nation's highest office."
     publishedDateTime: 2020-09-30T22:38:00Z

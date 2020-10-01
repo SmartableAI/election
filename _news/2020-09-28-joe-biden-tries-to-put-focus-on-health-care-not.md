@@ -2190,6 +2190,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Joe Biden endorsed by 50+ former GOP national security officials"
+    excerpt: "White House Democratic nominee Joe Biden is receiving the endorsements of more than 50 former Republican national security officials on Thursday."
+    publishedDateTime: 2020-10-01T13:47:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/joe-biden-endorsed-by-50-former-gop-national-security-officials/PQAIVGURENGGZFF7KAMG5GC7KQ/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 55
+    images:
+      - url: "https://www.ajc.com/resizer/qnvFYQDluXks_13mXwsR1TIhQZk=/1200x630/d1fegwn2wjh0cs.cloudfront.net/08-25-2020/t_1a8e9bc3c5944b70b0ab5cd6dc3ec065_name_7332251da441492f87ddb778bbc30cd4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Simple Truth About the Debate Is That Joe Biden Won"
     excerpt: "Last night there was a presidential debate between Joe Biden and Donald Trump. It was a real circus because Trump refused to follow the rules and ranted and raved like an unmedicated lunatic. Thanks to his chaotic rampage,"
     publishedDateTime: 2020-10-01T08:28:00Z

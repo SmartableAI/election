@@ -47,38 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
-    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
-    publishedDateTime: 2020-09-26T05:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "How Joe Biden can win Tuesday’s debate"
-    excerpt: "What Joe Biden needs from Tuesday’s opening debate with President Trump is, at one level, quite simple: Voters must see Biden as good enough. The Democratic nominee has enjoyed a steady lead in the polls."
-    publishedDateTime: 2020-09-28T12:06:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS5THVX52YI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Joe Scarborough urges Biden: 'Do not do anymore debates'"
     excerpt: "MSNBC's Joe Scarborough called on Joe Biden to \"not do anymore debates,\" tweeting that the first showdown between the current president and the former vice president was \"a disgrace.\""
     publishedDateTime: 2020-09-30T04:57:00Z
@@ -142,22 +110,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
-    excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
-    publishedDateTime: 2020-09-29T15:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7UMNRQQBYQI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "President Donald Trump, during debate, declares, 'I brought back Big Ten football'"
     excerpt: "While addressing debate topic of economy, President Donald Trump brought up the return of Big Ten football: \"It was me, and I'm very happy to do it.\""
@@ -223,22 +175,6 @@ related:
         width: 1440
         height: 971
         isCached: true
-  - title: "Election debate officials are considering muting candidates' mics, report says, after Trump interrupted 71 times in the chaotic first round"
-    excerpt: "The commission is considering allowing moderators to switch off mics to avoid a repeated of the chaos in the first debate."
-    publishedDateTime: 2020-10-01T10:05:00Z
-    webUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10"
-    ampWebUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5f759dd874fe5b0018a8e6b9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Joe Biden delivering remarks in Delaware"
     excerpt: "Watch \"Joe Biden delivering remarks in Delaware\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-27T16:29:00Z
@@ -252,22 +188,6 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/09/27/story_07015457_1601223785.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "'Standing by sir': Proud Boys praise Trump's comment telling them to 'stand by' during first presidential debate"
-    excerpt: "Members of the far-right group celebrated online over the president's statement during the first presidential debate on Tuesday evening."
-    publishedDateTime: 2020-09-30T05:45:00Z
-    webUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f73fb1674fe5b0018a8e246?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Joe and Jill Biden reported earning $16.5 million from book deals and speaking engagements since leaving the White House"
     excerpt: "The Bidens released their 2019 tax returns ahead of Biden's first presidential debate against Trump on Tuesday, September 29."
@@ -301,6 +221,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Who are the Proud Boys? Far-right group known for political brawls are in the spotlight after Trump tells them to ‘stand back and stand by.'"
+    excerpt: "President Trump at the first debate said the extremist organization should “stand back and stand by.” Some saw it as an endorsement."
+    publishedDateTime: 2020-10-01T12:09:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 90
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kRsm-krjMvssFaeh4m9LxoXLvfE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPXJMF6M6ZEF5M6MAJQCQ5FA5I.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
     excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
     publishedDateTime: 2020-09-29T17:07:00Z
@@ -314,22 +250,6 @@ related:
     quality: 75
     images:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/Election_2020_Biden_70169-2.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
-    excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."
-    publishedDateTime: 2020-09-29T14:19:00Z
-    webUrl: "https://www.cleveland.com/open/2020/09/joe-biden-to-include-stops-in-cleveland-alliance-on-campaign-tour-the-day-after-first-presidential-debate.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/09/joe-biden-to-include-stops-in-cleveland-alliance-on-campaign-tour-the-day-after-first-presidential-debate.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/joe-biden-to-include-stops-in-cleveland-alliance-on-campaign-tour-the-day-after-first-presidential-debate.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 57
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
         width: 1024
         height: 683
         isCached: true

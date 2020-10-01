@@ -590,6 +590,22 @@ related:
         width: 2500
         height: 1573
         isCached: true
+  - title: "Trump's winning the voter registration battle against Biden in key states"
+    excerpt: "It may not be enough to erase the former VP's polling lead but could boost the president if the race tightens."
+    publishedDateTime: 2020-10-01T13:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-s-winning-voter-registration-battle-against-biden-key-states-n1241674"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241674"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241674"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416577/201001-trump-voters-mc-1159_f6e348bd63436d84181ac705b4c93100.JPG"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "2020 Election Live Updates: Biden Calls Trump ‘Climate Arsonist’ in Speech on Wildfires and Global Warming"
     excerpt: "President Trump is visiting California and confronting a scientific reality he denies. The president’s focus on civil unrest is not translating into more support for him, a poll found."
     publishedDateTime: 2020-09-14T20:43:00Z

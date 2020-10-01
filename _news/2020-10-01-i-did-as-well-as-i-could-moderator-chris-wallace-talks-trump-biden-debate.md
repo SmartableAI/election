@@ -717,6 +717,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2020 election updates: Trump signs bill to avert shutdown, COVID-19 stimulus talks find life, Trump and Biden campaign after first debate"
+    excerpt: "Trump signed a bill early Thursday to avert a government shutdown, stimulus talks continue and Biden and Trump campaign after the first debate."
+    publishedDateTime: 2020-10-01T12:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/2020-election-updates-trump-biden-campaign-stimulus-bill-stalled/3549579001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3549579001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3549579001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/2996b61d-468a-4144-96ce-e50fef429864-AFP_AFP_8R48HV.jpg?auto=webp&crop=5801,3264,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Can the stock market predict whether Joe Biden will be the next president or Donald Trump wins a second term?"
     excerpt: "The worst pandemic in a century and one of the sharpest downturns since the Great Depression are making the usual winning signs harder to read."
     publishedDateTime: 2020-09-28T09:51:00Z
@@ -1376,6 +1392,6 @@ related:
         height: 560
         isCached: true
 
-secured: "PdjoL1/H47oX1ImVxrJZ1yn99YZkVaBYoDHk9Gyg3Veb9cwOK9bpblmycIpvz3a+ydWa8KlgX3V1CUxIc35P4qxakxBlXT+ShZIuR5pD8koMt9xI/SONSTUZo2p2JsxKcCEiTo5It7yczZ2xV/8WQc8S8C8OsIAP94etUkbXYWdV27f2W9q63hhHppAnnju2VSWOdh84nefb8Y18KI2zx7lDc67qOrdmMyY7c2pzYrd8UX69MxJa6JOk6zVdaX3eKMDf0aOVge8cE4l/ys1kkL6kVVfit1qPEIgxtUSB47FGmJ+7aISsIJkJil5RFfMODSkPhVrZ+ycAU9WfFx2jF2ftDJeabbi7okcr+6GDxVM=;Owz1B3zmxqEAGUkwZYFFhA=="
+secured: "/eVRG+mOHd6eSJCskDJj/B/AgoZeHeGvZI246Z5kQFV7s9gacBPactYYN/MtfL6ikGhKglA7XIGMeoKl8opkkt5/rS4d++qnCZBNNVx91t0M5s4wvGpI17zPzPwhwoOTt9qtc5gDzHyKxLC9n+yokDlp6dMPQbH0BPKOjlTy3G9dRTMHzN6QqXUoY+1lsR6v3VoSNKm4tKVy031LXgTG2BXsywLAh/hcbxzF4keAvNPXbHmYJ59/6dZWO7qjwJn6VfHOMM2hVQtg0pazveDQqiG4LaymzVjbCvtJp0Dt1eegSoMq7cpC8J1b44OoWjMcHT4AYoXmChAyoukJYsqMBQsGq0JjLihnfWbkkSCxV8K9z5fYZpqt6qekDI7T0D0TZpqqMFxzxRFm9uvNF+J7PHEDpCofyiS0IyT2VvXl8xpL6qPAvpzEJvpZ6f5x5HqYyooC+fKV2d7yi3FK86dfJEm/AveYvIXGBuiemn2RUJfAE9wmi3XRbAIrg8Ful8gwbvqgfhKnwDkxroHxXMdwBA==;6ZmrOydJc9wKox8mhuglgA=="
 ---
 

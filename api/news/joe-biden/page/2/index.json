@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-21-joe-biden-told-senate-republicans-to-follow-your-conscience-on-nominee-vote-to-fill-ruth-bader-ginsburgs-seat.md",
+      "title": "Joe Biden told Senate Republicans to 'follow your conscience' on nominee vote to fill Ruth Bader Ginsburg's seat",
+      "excerpt": "Democratic presidential nominee Joe Biden appealed to a \"handful\" of Republican senators that could block a Supreme Court nomination made by Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9",
+      "originalUrl": "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f67c7e357b7da001ee12aba?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-ruth-bader-ginsburg-supreme-court-senate-republicans-trump-2020-9?amp",
+      "publishedDateTime": "2020-09-20T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-biden-says-200-million-people-have-died-from-covid-19-as-campaign-gaffes-continue.md",
       "title": "Biden says 200 million people have died from COVID-19 as campaign gaffes continue",
       "excerpt": "Joe Biden had another major public gaffe on Sunday when he said an estimated 200 million people have already died from the coronavirus, even though the number of American casualties is closer to 200,000.",

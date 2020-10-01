@@ -1197,6 +1197,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden's campaign says it received record-breaking donations after his debate with Trump"
+    excerpt: "Biden's campaign raised $3.8 million in an hour on fundraising website Act Blue following his ill-tempered televised debate with Trump."
+    publishedDateTime: 2020-10-01T12:23:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-donations-record-breaking-campaign-donald-trump-debate-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-donations-record-breaking-campaign-donald-trump-debate-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-donations-record-breaking-campaign-donald-trump-debate-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/5f75c4a80ab50d00184ad81a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
     publishedDateTime: 2020-09-25T14:21:00Z

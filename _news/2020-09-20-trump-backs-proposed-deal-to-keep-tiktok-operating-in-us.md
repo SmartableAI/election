@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
 type: article
 quality: 125
-heat: 725
+heat: 705
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Trump promoting health care 'vision' in swing state NC"
-    excerpt: "More than three-and-a-half years into his presidency and 40 days from an election, President Donald Trump is launching what aides term a “vision” for health care heavy on unfulfilled aspirations"
-    publishedDateTime: 2020-09-25T01:28:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_96e5292d978b4d8fb9822a8ed93a156b_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Federal judge postpones Trump ban on popular app TikTok"
     excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight"

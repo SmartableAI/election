@@ -574,6 +574,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration sets refugee cap at 15,000, a new historic low"
+    excerpt: "The Trump administration has informed Congress it intends to accept only 15,000 refugees this fiscal year, a new historic low for the US.\n    \n"
+    publishedDateTime: 2020-10-01T12:33:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dOZpS2yK7b4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/us-refugee-cap-fy21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/us-refugee-cap-fy21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191011160006-statue-of-liberty-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z
@@ -1889,6 +1905,20 @@ related:
     quality: 115
     images:
       - url: "https://media1.s-nbcnews.com/j/newscms/2020_40/3416208/200929-presidential-debate-takeaways-v2-cs_f6b1e04caea442458e1b6b5f78be1f9d.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Pressed on white supremacists, Trump answers in a Trumpian way"
+    excerpt: "It'd be easy for Trump to go through the motions, denounce white supremacists, and leave others to speculate about his sincerity. But he doesn't want to."
+    publishedDateTime: 2020-10-01T12:10:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/pressed-white-supremacists-trump-answers-trumpian-way-ncna1241679"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_40/3416431/200930-donald-trump-ew-252p_3ec063319e269d40f1938b58b9693039.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump's $200 prescription cards won't hit mailboxes just yet"
-    excerpt: "If you're on Medicare, don't run to the mailbox looking for a $200 prescription drug card courtesy of President Donald Trump. Government officials said Friday that key details of Trump's election-year giveaway still have to be fleshed out,"
-    publishedDateTime: 2020-09-25T20:26:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
 
 secured: "XdnirPnXM2+6yC25iZT+ufFCB3iBFg74r4G+xCyl99bOuwVXX+x1k8ZT0PcIbXp8ainDgY/X/CAjxVG4atF2zKDysIs6rpkRuwObvwpliXNkLo1GDiZlgB0EC6hbMpALVfNB3TXoe4+AofjO5ZztKZ/vtFHlQertoXsdFZggmWKzN8faM3LHVOhaRA8mKqV1YxdZ5bXnse4cDI4yZmSbVn71lJdYd4PD7pXD2bEjr1IQ7uhFytvxADk3NWRFopTYc9Au9lrBGPKJCO9JOSXXoY8ToPfpm3H1NSLOrPTZny5a1tpVDIEkPCmeacqanxu/x5p3M3FRmcLhtmiq6723MvRwylNKcNr0/pXzdRrRqGersJRZ5I3Hq6HjaRIEqi+l3fFW2KhJ2d+/XUxTbnXybhXli0X7pZUu4d+L6bS1evm1jAS1JoFzbnLL/mq0MgOyw8qpkBtOCmC++zisbcBCdZ/KcOeP/FtiMBFol4rGuQlg67G5uYwrG5p2VQTDHwRh/AfUKqBJ1PC8PRixKPkjVQ==;Sj1hgZhUWojys+HvmQThOQ=="
 ---

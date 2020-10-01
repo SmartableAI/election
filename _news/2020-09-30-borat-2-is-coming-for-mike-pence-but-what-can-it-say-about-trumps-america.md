@@ -9,8 +9,8 @@ ampWebUrl: "https://forward.com/culture/455387/borat-2-trumps-america-sacha-baro
 cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/?gamp"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: The Forward
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Trump claimed he would mail $200 cards to millions of older Americans weeks before the election — but it's not clear he can actually do it"
-    excerpt: "Trump said Americans enrolled in Medicare would receive a $200 card in the mail so they could buy prescription drugs."
-    publishedDateTime: 2020-09-26T10:14:00Z
-    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+  - title: "‘Borat 2’ Has Another Hilariously Long Title, and Mike Pence Won’t Like It"
+    excerpt: "And whenever the recently revealed sequel arrives, it appears […] The post ‘Borat 2’ Has Another Hilariously Long Title, and Mike Pence Won’t Like It appeared first on /Film. Get the IMDb App"
+    publishedDateTime: 2020-09-28T14:42:00Z
+    webUrl: "https://www.imdb.com/news/ni63036973"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: IMDb
+      domain: imdb.com
+    quality: 33
 
 secured: "yHWR6h40v2o10Y3qd5klKgVDTvHIBD+yrpHl+fmnzEmD4kNjv08pJO4jUsb6mP0WkrU/SNIMc4QF4ApZNmLpCzXhTw+65YKS1dcpM5xHlseIOVLpqGAzV7FWfP+Ssp03otXzqG797hQKY2fHZzx3+hVkd0ua2gWdvWXEoTawNclgo1n/O4mdv2b1oukVJYmoTWFRGKwaT7SsMSuHlVHjwazsg1tiIaVU1mWIOsv08YLJ0WrodTPSMr7dJqG0gI7cr/iWLA5PgzP4o9JjcpuZJVA4raIKviNZiEqy5mOW8FVfqxAHb4huu7eSAp27m9bShw8UWs7HmMga2WQAt6W+GQYOD7DX7ePMWsQLyhmFDr36o+Lop8yDetfzjHSScjZ4kSvTPJr6Q8703qb4kGuYpDffLVIDyGr00Q0iv1V9+3wHIokC7+B06Hcaz3w7vk6BYQxan6xPQsuABiLOmbULfOxxb0x1NBJJvkPPmvtR1ghfD5H44O3+XpbDToezOvqrXi3ADpJpGYqdNu9iIJGGlg==;/IXMKYK/OiuAf6LmvtzjeA=="
 ---

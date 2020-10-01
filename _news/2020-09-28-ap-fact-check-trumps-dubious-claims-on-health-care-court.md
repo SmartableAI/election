@@ -31,210 +31,321 @@ images:
     isCached: true
 
 related:
-  - title: "The Health 202: Trump's new health-care plan isn't really a plan"
-    excerpt: "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,"
-    publishedDateTime: 2020-09-25T11:26:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
+  - title: "Check’s in the mail: Trump offering government aid, including cash, in weeks before the election"
+    excerpt: "In recent days, President Donald Trump has promised millions of Medicare recipients that — thanks to him — they’ll soon be getting an “incredible” $200 card in the mail to help them pay for prescriptions."
+    publishedDateTime: 2020-10-01T13:33:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 127
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.chicagotribune.com/resizer/X5INs9998mP2ElUdjqXfxI57agA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3MOZVLBQ2PFDPXLYALTZ5O3Z4M.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Trump is either a tax fraud or the world’s worst businessman"
-    excerpt: "In a 2015 filing with the Federal Election Commission, then-candidate Donald Trump claimed his net worth was $10 billion. The financial press was skeptical of that claim, but nonetheless, Trump listed assets totaling $1."
-    publishedDateTime: 2020-09-28T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NZP45IABOAI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump plans to slash refugee admissions to US to record low"
-    excerpt: "The Trump administration has proposed further slashing the number of refugees the United States accepts to a new record low number in the coming year"
-    publishedDateTime: 2020-10-01T09:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-set-miss-required-deadline-2021-refugee-quota-73351093"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-set-miss-required-deadline-2021-refugee-quota-73351093"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-set-miss-required-deadline-2021-refugee-quota-73351093"
+  - title: "Trump promoting health care 'vision' in swing state NC"
+    excerpt: "More than three-and-a-half years into his presidency and 40 days from an election, President Donald Trump is launching what aides term a “vision” for health care heavy on unfulfilled aspirations"
+    publishedDateTime: 2020-09-25T01:28:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-promoting-health-care-vision-swing-state-nc-73225013"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5f77f116102749488f5cafe5346ea292_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_96e5292d978b4d8fb9822a8ed93a156b_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Who are the Proud Boys, the far-right group that backs Donald Trump?"
-    excerpt: "The Proud boys are an extremist group with a history of street violence against its left-wing opponents. \"Proud Boys, stand back and stand by,\" said President Trump in response, after Chris Wallace asked whether he would condemn white supremacists during the first presidential debate of this election."
-    publishedDateTime: 2020-09-30T21:41:00Z
-    webUrl: "https://thehill.com/changing-america/respect/equality/518989-who-are-the-proud-boys-the-far-right-group-that-backs"
-    ampWebUrl: "https://thehill.com/changing-america/respect/equality/518989-who-are-the-proud-boys-the-far-right-group-that-backs?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/equality/518989-who-are-the-proud-boys-the-far-right-group-that-backs?amp"
+  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
+    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
+    publishedDateTime: 2020-09-26T05:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/ca_proudboys_93020getty.jpg"
-        width: 1440
-        height: 880
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "This crowd of RBG fans showed Trump what law and order really sounds like"
-    excerpt: "Donald Trump likes to present himself as a law-and-order president standing athwart an angry mob. On Thursday, he visited the U.S. Supreme Court and an angry mob confronted him, making it clear that they planned to thwart him in the most lawful,"
-    publishedDateTime: 2020-09-25T10:11:00Z
-    webUrl: "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/this-crowd-of-rbg-fans-showed-trump-what-law-and-order-really-sounds-like/2020/09/24/3c12a17e-fe88-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
+  - title: "Judge removes Trump public lands boss for serving unlawfully"
+    excerpt: "A federal judge has ruled that the Trump administration’s leading steward of public lands has been serving unlawfully and blocked him from continuing in the position"
+    publishedDateTime: 2020-09-27T06:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e7756cb4ba164798ad0f8c28c3bcb8c7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump's tax returns has many wondering what they're doing wrong"
+    excerpt: "Tax breaks for businesses likely helped cushion the tax bill for President Donald Trump, as the speculation continues about Trump's tax audit and tax returns."
+    publishedDateTime: 2020-09-29T11:18:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/29/donald-trump-tax-returns-income/3570417001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3570417001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3570417001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis"
+    excerpt: "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements."
+    publishedDateTime: 2020-10-01T09:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump signs stopgap bill to avoid government shutdown"
+    excerpt: "U.S. President Donald Trump signed a stopgap funding bill on Thursday that would keep the federal government open through December 11, the White House said in a statement."
+    publishedDateTime: 2020-10-01T06:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-idUSKBN26M4NP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M4NP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M4NP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535643193&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9037Q"
+        width: 791
+        height: 545
+        isCached: true
+  - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
+    excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
+    publishedDateTime: 2020-09-29T15:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QR6L6YH6ZMI6VHHLAYOWI3M4M4.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7UMNRQQBYQI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Donald Trump denies report he paid only $750 in income taxes in 2016 and 2017"
-    excerpt: "Trump told reporters \"actually I paid tax,\" but said he would not release returns on his own because they are under IRS audit."
-    publishedDateTime: 2020-09-27T22:34:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/donald-trump-denies-income-tax-report/3556287001/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/3556287001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3556287001"
+  - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
+    excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
+    publishedDateTime: 2020-09-24T19:01:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/09/24/donald-trump-niece-mary-trump-sues-him-fraud-after-book/3520817001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3520817001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3520817001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 122
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/a25eefe3-9bd6-42f3-85a7-2af10b05172a-GTY_1228756580.jpg?auto=webp&crop=5843,3287,x0,y421&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump denies report he paid only $750 in income taxes in 2016 and 2017"
-    excerpt: "Trump told reporters \"actually I paid tax,\" but said he would not release returns on his own because they are under IRS audit."
-    publishedDateTime: 2020-09-29T02:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/donald-trump-denies-income-tax-report/3556287001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3556287001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3556287001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/a25eefe3-9bd6-42f3-85a7-2af10b05172a-GTY_1228756580.jpg?auto=webp&crop=5843,3287,x0,y421&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "LSU Was the Donald Trump of College Football in 2019, Now They Both Want More in 2020"
-    excerpt: "There are many similarities to LSU's title run in 2019 and Trump's 2016 presidential election. Now, they both want to continue their winning streaks in the Fall of 2020."
-    publishedDateTime: 2020-09-22T22:26:00Z
-    webUrl: "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709"
-    ampWebUrl: "https://www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lsu-was-donald-trump-college-football-2019-now-they-both-want-more-2020-1533709?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1640966/lsu-donald-trump.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "The story of Trump's business career: Giant windfalls that he blows on bad investments"
-    excerpt: "Since his 1980s heyday as an Atlantic City bigshot, Trump's pattern is moving on despite big losses. The New York Times report adds to the picture."
-    publishedDateTime: 2020-09-29T13:05:00Z
-    webUrl: "https://www.businessinsider.com/the-story-of-trumps-business-career-his-taxes-and-his-debt-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/the-story-of-trumps-business-career-his-taxes-and-his-debt-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-story-of-trumps-business-career-his-taxes-and-his-debt-2020-9?amp"
+  - title: "Trump claimed he would mail $200 cards to millions of older Americans weeks before the election — but it's not clear he can actually do it"
+    excerpt: "Trump said Americans enrolled in Medicare would receive a $200 card in the mail so they could buy prescription drugs."
+    publishedDateTime: 2020-09-26T10:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 117
+    quality: 106
     images:
-      - url: "https://i.insider.com/5f578b5d7ed0ee001e25dde6?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
+      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Donald Trump doesn’t really care about white supremacy and you’re not going to make him"
-    excerpt: "President Trump has been consistently clear about his view of white supremacists. If you expect him to spontaneously denounce them, you’ll be waiting for a while. If, however, you insist that he does so,"
-    publishedDateTime: 2020-09-30T18:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
+  - title: "Election debate officials are considering muting candidates' mics, report says, after Trump interrupted 71 times in the chaotic first round"
+    excerpt: "The commission is considering allowing moderators to switch off mics to avoid a repeated of the chaos in the first debate."
+    publishedDateTime: 2020-10-01T10:05:00Z
+    webUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10"
+    ampWebUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4DAO4XQAJQI6XMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/5f759dd874fe5b0018a8e6b9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All"
-    excerpt: "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise."
-    publishedDateTime: 2020-09-25T02:05:00Z
-    webUrl: "https://time.com/5893032/donald-trump-health-care-plan/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-Health-Care-Preexisting-Conditions.jpg"
-        width: 3371
-        height: 2247
-        isCached: true
-  - title: "President Donald Trump lays out 'vision' for new health care plan while in North Carolina"
-    excerpt: "President Trump says the plan includes affordable prices, with lower prescription drug costs, more consumer choice and greater transparency."
-    publishedDateTime: 2020-09-24T23:24:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/09/24/president-trump-unveils-vision-new-health-care-plan/3524989001/"
+  - title: "'Mailmen selling ballots. Dumped in rivers. Found in creeks': Trump makes unfounded claims about mail-in voting"
+    excerpt: "From claiming mailmen are \"selling the ballots\" to arguing that mail ballots are being \"dumped in rivers,\" Trump ramped up his assault on mail-voting"
+    publishedDateTime: 2020-09-30T23:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/2020-debate-trump-makes-outrageous-claims-mail-voting/3586836001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3586836001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3586836001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 96
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/dd788f9c-3038-4141-8f98-efa5950921a1-VPC_TRUMP_HEALTHCARE_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/3c9be54e-1f1b-4489-bb6f-74160918199e-AP_US_Election_Debate_Global_Reaction.jpg?auto=webp&crop=5453,3067,x273,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Donald Trump Isn’t Broke. He’s a Very Rich Guy Who Doesn’t Pay Enough Taxes."
-    excerpt: "Some people are reading Trump’s taxes — or the New York Times’ account of what was in his taxes over the last 20 years — much too literally."
-    publishedDateTime: 2020-09-28T21:03:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/09/donald-trumps-taxes-show-hes-not-broke-just-tax-avoidant.html"
+  - title: "'Standing by sir': Proud Boys praise Trump's comment telling them to 'stand by' during first presidential debate"
+    excerpt: "Members of the far-right group celebrated online over the president's statement during the first presidential debate on Tuesday evening."
+    publishedDateTime: 2020-09-30T05:45:00Z
+    webUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 72
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/8a2/430/d2e00f3a8e99b6da36cc26ad17b16552b1-donald-trump-golf.1x.rsocial.w1200.jpg"
+      - url: "https://i.insider.com/5f73fb1674fe5b0018a8e246?width=1200&format=jpeg"
         width: 1200
-        height: 632
+        height: 600
         isCached: true
+  - title: "Mary Trump says her uncle will go 'farther than you can possibly imagine' to hold onto power if he loses the election as he's afraid of prosecution"
+    excerpt: "In a recent memoir, Mary Trump alleged that a damaged childhood has left the president with pathological personality traits."
+    publishedDateTime: 2020-09-25T12:26:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump claimed he's going to send $200 cards to millions of people in the mail weeks before the election — but it's not clear he can actually do it"
+    excerpt: "Trump said Americans enrolled in Medicare will receive a $200 card in the mail so they can buy prescription drugs."
+    publishedDateTime: 2020-09-25T00:20:00Z
+    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump's acting Bureau of Land Management director just got removed by a federal judge, who said he was serving unlawfully"
+    excerpt: "Willam Perry Pendley has been key to Trump's push to loosen environmental protections and has a long history of undermining Native Americans' rights."
+    publishedDateTime: 2020-09-26T12:17:00Z
+    webUrl: "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5f6e949874fe5b0018a8da33?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The Proud Boys are using Trump's 'stand by' remark as a recruiting tool, rebranding to incorporate what they see as his call to action"
+    excerpt: "On social media members of the far-right group celebrated the president's comments, and launched a renewed recruitment drive."
+    publishedDateTime: 2020-09-30T15:00:00Z
+    webUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f748ee40ab50d00184ad3ba?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
+    excerpt: "This ethnic group barely receives attention in American media and politics. The Midwest, home to many German Americans, is a battleground for the 2020 presidential election. Will this inconspicuous group yet again cast the deciding votes in the upcoming election?"
+    publishedDateTime: 2020-10-01T13:10:00Z
+    webUrl: "https://www.chron.com/news/article/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 82
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Trump's $200 prescription cards won't hit mailboxes just yet"
+    excerpt: "If you're on Medicare, don't run to the mailbox looking for a $200 prescription drug card courtesy of President Donald Trump. Government officials said Friday that key details of Trump's election-year giveaway still have to be fleshed out,"
+    publishedDateTime: 2020-09-25T20:26:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Judges Skeptical of Trump's Arguments Over Tax Returns"
+    excerpt: "A federal appeals court on Friday expressed deep skepticism toward Donald Trump's arguments against letting Manhattan's top prosecutor obtain his tax returns in connection with a criminal probe into the U."
+    publishedDateTime: 2020-09-26T21:23:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "YvW4+peGtcew6u/tYfLwP2leXAebfHB2tOC52Fj22Qe38F9gN9s9VVEHgFpRcY3pwHQV+rNNdSsKclhCWB+VqEvI8W04S9tpgyHFUux5SSPPjpNCqei7NPLfWzrOZifFDVlV+sSVWsjoh0Ub9mRIrobP6a2zb3kO6DulWOiL0252XaeHG/EQ9taSiYhAlyyuMkc3+PUgxqLuhJEGEBFIlXthjGVs76+d+abBdzr6YQ1kaClQQbAyDA6hQPjRcewU48RViTY/QJxodRuS2O6/DXFZsXswsR7/hM5xie6qqFZacjl4Y5u3Wj1Yfa6tzb0i2gSadnNY7mk7m1hu0ojJ5LMbw53Mr8TkX4BJ5bO1mGw=;/pGglQM53y1iZ4e6gHWgpA=="
 ---

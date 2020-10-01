@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 1860
+heat: 1880
 published: true
 
 provider:
@@ -714,6 +714,22 @@ related:
     quality: 122
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/045de2ed-c185-4793-8524-7551ec5897dd-XXX_IMG_XXX_JG_137685_BUSH_F_1_1_87NI1U22.JPG?auto=webp&crop=5263,2961,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "2020 election updates: Trump signs bill to avert shutdown, COVID-19 stimulus talks find life, Trump and Biden campaign after first debate"
+    excerpt: "Trump signed a bill early Thursday to avert a government shutdown, stimulus talks continue and Biden and Trump campaign after the first debate."
+    publishedDateTime: 2020-10-01T12:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/2020-election-updates-trump-biden-campaign-stimulus-bill-stalled/3549579001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3549579001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3549579001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/2996b61d-468a-4144-96ce-e50fef429864-AFP_AFP_8R48HV.jpg?auto=webp&crop=5801,3264,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

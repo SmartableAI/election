@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markjoyella/2020/09/19/trump-describes-journalist-hit-by-rubber-bullet-a-beautiful-sight/amp/"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://i.insider.com/5f671733323fc4001e0d74fe?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump's $200 prescription cards won't hit mailboxes just yet"
-    excerpt: "If you're on Medicare, don't run to the mailbox looking for a $200 prescription drug card courtesy of President Donald Trump. Government officials said Friday that key details of Trump's election-year giveaway still have to be fleshed out,"
-    publishedDateTime: 2020-09-25T20:26:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
 
 secured: "fsKRwEy2D6yUhqmjchj4FQo0WM+07S0i8rl+Rz6sn0392qcbgI2MeWLhn+QQIauf4/kn3uFgoOZH+dmZ+Pd6FS4T5PYpSuNe+8DY6nkCe9h1/epQwIJFZJdmNKcha6I25xuxmwQDq+S2plS9qJTyCu5nHP6sTFVEkror50LMCltBuyZ3SArO6pV6MrNMcH7Ah3SWpXptfGrzwHiR/l5yPvcYfeB34z46pNPopBVOvFRE1poAzfVEf2of4DiwgEB5P/g0Wqci5ltzf/fASSLAVm/BvM03Au8PBhkVC5JyJe5OZGGVsAksgNEAQglsRfoI7XZsXmizIc9HFeZMQdqp/Y+5cdAwg5laJyfbdrKKU/4FjOQmXjJ6T0TF2uVA3MyAmVfi0VwHlG48irc4APb7DFFntFqq/8+e1PJc05/3/aS4TIrcQhrxwEV3Z0Ft32gvcTQiJI3/gEU7aVDH5fGfgPb1R2eDEIn/YVltG+fTI+bJyVjO1xygxnNZfwrsJ+JF2naLfPbOUqZTfaaIfLqeEg==;0X2QZPjgcK6Rdyas0FDx8Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1470
+heat: 1490
 published: true
 
 provider:
@@ -572,6 +572,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414368/200923-joe-biden-al-1401_23d2f60d91d9e491c106329bf47c1d52.jpg"
         width: 2500
         height: 1573
+        isCached: true
+  - title: "Trump's winning the voter registration battle against Biden in key states"
+    excerpt: "It may not be enough to erase the former VP's polling lead but could boost the president if the race tightens."
+    publishedDateTime: 2020-10-01T13:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-s-winning-voter-registration-battle-against-biden-key-states-n1241674"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241674"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241674"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416577/201001-trump-voters-mc-1159_f6e348bd63436d84181ac705b4c93100.JPG"
+        width: 2500
+        height: 1668
         isCached: true
   - title: "Trump Faces Challenges Even in Red States, Poll Shows, as Women Favor Biden"
     excerpt: "Close races in Georgia, Iowa and Texas show President Trump’s vulnerability and suggest that Joseph Biden has assembled a formidable coalition, according to a New York Times/Siena College poll."

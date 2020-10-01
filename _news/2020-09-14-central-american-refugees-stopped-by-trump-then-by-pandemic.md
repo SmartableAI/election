@@ -46,22 +46,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Judge removes Trump public lands boss for serving unlawfully"
-    excerpt: "A federal judge has ruled that the Trump administration’s leading steward of public lands has been serving unlawfully and blocked him from continuing in the position"
-    publishedDateTime: 2020-09-27T06:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e7756cb4ba164798ad0f8c28c3bcb8c7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump pledges to make Juneteenth federal holiday in bid for Black voters"
     excerpt: "President Donald Trump made a series of promises at a campaign event in Atlanta on Friday in a bid to woo Black voters, including establishing Juneteenth, which commemorates the end of U.S. slavery, as a federal holiday."
     publishedDateTime: 2020-09-25T20:54:00Z
@@ -94,17 +78,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Judges Skeptical of Trump's Arguments Over Tax Returns"
-    excerpt: "A federal appeals court on Friday expressed deep skepticism toward Donald Trump's arguments against letting Manhattan's top prosecutor obtain his tax returns in connection with a criminal probe into the U."
-    publishedDateTime: 2020-09-26T21:23:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "sLxxhG3vsJYkd1NSKRYrV30HkViFEY/MEZkVChhC+H9tjgG8yQWi5/ekY1hw/8v16IVyiPM049XC6kGhfX8PVmv1e2cvgwsCE5ZnWQkJwEtW3OfJFk6Ff2YkqRyjoLJdKqnqQcHh9ZuFwOBE7CkLM8P7dxCGXM1aftBYq5vM2MrhjGyppY2fwsoRzaFsa67JstlqEMXPKCx1F1euGu4pmv4GKXs2g96nA0sxO09uvJsTPGkHSOoKsUw+mpl96e/rO2EbS5jjSDFrBtKZbAYs7SGYmW5sKSPvpNB1mt03iLyOEEnxAj7XcBium25/2GAn/+NMcO1HnQffYoLXAiiGHxYNUBKvzvBHwl9a2jDsL0ngC3rsgZjCi2DEKj3WDj3neuJkdM+2grx1J+8cRJeSAW7og5WpYqTSqTMhm0GJ9UfbCwo9bZm9Aod3+CPdWZc8unDXJdBJXaUyWg5fSR6GGpfXoX02BH744caq9MAV/j4m7BfYqc0n6z2UMvYlpCqA0SjChvq7P6Z+DB10O0hNqw==;pU+AJvsNuplq72G3EK2Cug=="
 ---

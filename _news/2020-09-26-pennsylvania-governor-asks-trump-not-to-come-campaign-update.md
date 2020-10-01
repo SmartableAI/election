@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden kicks off train tour through Ohio, Pennsylvania after raucous debate"
+    excerpt: "Joe Biden is embarking on a roughly 200-mile train tour on Wednesday through Ohio and Pennsylvania, appealing to voters who have strayed from Democrats in recent years."
+    publishedDateTime: 2020-09-30T19:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-train-campaign-01-gty-llr-200930_1601479889365_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What we know about those discarded Trump ballots in Pennsylvania"
     excerpt: "We don't know all the details, but it seems likely that it isn't Democrats who are seeking to skew the election."
     publishedDateTime: 2020-09-25T17:06:00Z
@@ -44,6 +60,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DO76MWX7CYI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "How Joe Biden can win Tuesday’s debate"
+    excerpt: "What Joe Biden needs from Tuesday’s opening debate with President Trump is, at one level, quite simple: Voters must see Biden as good enough. The Democratic nominee has enjoyed a steady lead in the polls."
+    publishedDateTime: 2020-09-28T12:06:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/how-joe-biden-can-win-tuesdays-debate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS5THVX52YI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden campaign raises record $3.8 million in second hour of debate"
+    excerpt: "Joe Biden's deputy campaign manager said the campaign set a new record for fundraising in the second half of the first debate."
+    publishedDateTime: 2020-09-30T14:21:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-record-debate/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/2a1a6315-027f-4c72-93ca-c4831b377fcc/thumbnail/1200x630/ed68bb5540f7b0481b6229e2e450c2c9/gettyimages-1228795810.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ex-Pennsylvania Gov. Ridge explains vote for Biden in Philadelphia paper"
     excerpt: "Tom Ridge, the former Republican governor of Pennsylvania and the first U.S. secretary of Homeland Security, has announced he will be backing former Vice President Joe Biden Joe Biden Biden says voters should choose who nominates Supreme Court justice Trump,"
@@ -77,22 +125,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden kicks off train tour through Ohio, Pennsylvania after raucous debate"
-    excerpt: "Joe Biden is embarking on a roughly 200-mile train tour on Wednesday through Ohio and Pennsylvania, appealing to voters who have strayed from Democrats in recent years."
-    publishedDateTime: 2020-09-30T19:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-train-campaign-01-gty-llr-200930_1601479889365_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Joe Biden’s Pennsylvania hurdle: Voters who fear a California-style energy plan"
     excerpt: "Joe Biden vows he won't ban fracking. But in Pennsylvania, many voters are skeptical, and Trump is exploiting their anxieties in a key battleground."
     publishedDateTime: 2020-09-24T02:24:00Z
@@ -125,17 +157,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Evangelicals at base of Trump hopes for Pennsylvania repeat"
-    excerpt: "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith."
-    publishedDateTime: 2020-09-19T13:55:00Z
-    webUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "A new poll shows Joe Biden leading in Pennsylvania ahead of the first debate"
     excerpt: "From \"The Daily 202\"podcast, Biden’s support stands at 54 percent to Trump’s 45 percent among the Keystone State’s likely voters. Biden’s current edge among likely voters appears sizable but is not definitive,"
     publishedDateTime: 2020-09-29T11:39:00Z
@@ -150,33 +171,38 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election"
-    excerpt: "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,"
-    publishedDateTime: 2020-09-23T05:18:00Z
-    webUrl: "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html"
-    ampWebUrl: "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp"
+  - title: "Joe Biden releases 2019 tax returns ahead of debate"
+    excerpt: "The Bidens’ returns show the couple paid almost $300,000 in federal taxes in 2019, including almost $288,000 in personal income tax."
+    publishedDateTime: 2020-09-29T19:05:00Z
+    webUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html"
+    ampWebUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 90
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
     images:
-      - url: "https://www.inquirer.com/resizer/17FY_6Z7BOnr4UHN0rhcqtE1d6A=/1200x0/center/middle/www.inquirer.com/resizer/xr235XbHiAcYmTRsNsechlj3Zmk=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/CKCPX27WHNHB3I5EZNYGAYZ6PU.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Exclusive: Vice President Mike Pence Talks About Pennsylvania Battleground, Philadelphia Gun Violence"
-    excerpt: "Eyewitness News spoke exclusively one-on-one with Pence, asking him about polling which shows President Trump behind 9 percentage points in Pennsylvania."
-    publishedDateTime: 2020-09-30T03:26:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
+  - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
+    excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."
+    publishedDateTime: 2020-09-29T14:19:00Z
+    webUrl: "https://www.cleveland.com/open/2020/09/joe-biden-to-include-stops-in-cleveland-alliance-on-campaign-tour-the-day-after-first-presidential-debate.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/09/joe-biden-to-include-stops-in-cleveland-alliance-on-campaign-tour-the-day-after-first-presidential-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/09/joe-biden-to-include-stops-in-cleveland-alliance-on-campaign-tour-the-day-after-first-presidential-debate.html?outputType=amp"
     type: article
     provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 40
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 57
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden Tours Ohio and Pennsylvania By Train"
     excerpt: "Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train. 2020 Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train."
     publishedDateTime: 2020-09-30T09:01:00Z

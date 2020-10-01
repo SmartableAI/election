@@ -2,6 +2,116 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-15-victor-davis-hanson-argues-biden-is-being-held-hostage-by-his-own-party.md",
+      "title": "Victor Davis Hanson argues Biden is being ‘held hostage’ by his own party",
+      "excerpt": "Hoover Institution Senior Fellow Victor Davis Hanson said Joe Biden is being held hostage by the Democrats as to not compromise his own campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7OJT3fGanG0/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7OJT3fGanG0/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5224f17a-7432-42b5-89fc-7104671097b6/98f54939-dac6-4dff-8fb7-23f7abc9cbb7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/victor-davis-hanson-argues-biden-being-held-hostage-by-his-own-party.amp",
+      "publishedDateTime": "2020-09-14T21:51:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-trump-administration-blocks-some-xinjiang-goods-from-china-suspected-of-being-made-with-slave-labor.md",
+      "title": "Trump administration blocks some Xinjiang goods from China suspected of being made with slave labor",
+      "excerpt": "The Trump administration issued new import restrictions on Monday against Chinese companies it accuses of using slave labor, including products from suspected mass prison camps in China's western Xinjiang region.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B_pAvY5aJl8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B_pAvY5aJl8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191126173635-01-xinjiang-camp-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/us-xinjiang-cotton-imports-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/us-xinjiang-cotton-imports-intl-hnk/index.html",
+      "publishedDateTime": "2020-09-14T20:20:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-steil-joined-vice-president-mike-pence-in-janesville.md",
       "title": "Steil Joined Vice President Mike Pence in Janesville",
       "excerpt": "Congressman Bryan Steil (R-Janesville) got to meet the Vice President Mike Pence in his hometown of Janesville on Monday.",
@@ -1203,117 +1313,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-la-mayor-instead-of-hitting-the-golf-course-trump-and-congress-should-ensure-wildfire-aid.md",
-      "title": "L.A. mayor: ‘Instead of hitting the golf course,’ Trump and Congress should ensure wildfire aid",
-      "excerpt": "He is going to come out here and probably tell us, ‘I'm going to send you rakes instead of more help,’” Garcetti said on CNN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "originalUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d6/58/f71ce4224d8fbb143ec87668114c/20200913-cawildfire-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "publishedDateTime": "2020-09-13T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-biden-argues-hes-in-better-shape-than-trump-just-look-at-us.md",
-      "title": "Biden argues he's in better shape than Trump: 'Just look at us'",
-      "excerpt": "Democratic presidential nominee Joe Biden went on the offensive on Sunday in the war of words between him and President Trump over who the fittest man – both mentally and physically – to lead the country.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k-aFK7wqpgs/biden-argues-he-in-better-shape-than-trump-just-look-at-us",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 950,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp",
-      "publishedDateTime": "2020-09-13T15:14:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

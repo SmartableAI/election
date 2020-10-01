@@ -123,22 +123,6 @@ related:
         width: 2048
         height: 1283
         isCached: true
-  - title: "Biden campaign raises record $3.8 million in second hour of debate"
-    excerpt: "Joe Biden's deputy campaign manager said the campaign set a new record for fundraising in the second half of the first debate."
-    publishedDateTime: 2020-09-30T14:21:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-record-debate/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/2a1a6315-027f-4c72-93ca-c4831b377fcc/thumbnail/1200x630/ed68bb5540f7b0481b6229e2e450c2c9/gettyimages-1228795810.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Joe Biden to Democrats: Keep focus on health care, not expanding Supreme Court"
     excerpt: "The former vice president sidestepped any talk of expanding the court to counter conservative gains should he win in November and Democrats regain a Senate majority."
     publishedDateTime: 2020-09-27T18:17:00Z
@@ -322,22 +306,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/29/Election_2020_Debate_44204.jpg-74e82_c0-209-4955-3099_s1200x700.jpg?997af342a35fcecbf52c74f7b08e1f8b029a3b03"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Joe Biden releases 2019 tax returns ahead of debate"
-    excerpt: "The Bidens’ returns show the couple paid almost $300,000 in federal taxes in 2019, including almost $288,000 in personal income tax."
-    publishedDateTime: 2020-09-29T19:05:00Z
-    webUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html"
-    ampWebUrl: "https://www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/business/2020/09/joe-biden-releases-2019-tax-returns-ahead-of-debate.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Joe Biden to visit Grand Rapids Friday"
     excerpt: "Joe Biden will visit Grand Rapids Friday, according to his campaign. Biden plans to discuss his “Build Back Better” economic plan, according to a release. The campaign has not released additional details about when or where the stop will be held."

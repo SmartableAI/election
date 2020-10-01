@@ -415,6 +415,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump in New Jersey, Biden in Delaware: The 2020 campaign trail"
+    excerpt: "With Election Day just a little over a month away, the showdown between President Trump and his Democratic challenger Joe Biden is coming to a head."
+    publishedDateTime: 2020-10-01T13:44:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/seUr9gR31tI/trump-in-new-jersey-biden-in-delaware-the-2020-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-in-new-jersey-biden-in-delaware-the-2020-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-in-new-jersey-biden-in-delaware-the-2020-campaign-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/576d770a-696a-426b-a2de-fc39c21ad669/b8359fd3-5cda-44aa-91e5-633c77dd35ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -1022,6 +1038,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden deflects yet again on court packing questions: 'I'm not going to play Trump's game'"
+    excerpt: "Democratic presidential nominee Joe Biden once again avoided giving a straight answer on whether he would support packing the Supreme Court if elected, after making clear during Tuesday’s debate that he would not address the issue."
+    publishedDateTime: 2020-10-01T13:05:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_F_1O2A6O00/biden-deflects-again-court-packing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-deflects-again-court-packing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deflects-again-court-packing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6790c4aa-5e51-4a0d-9e2f-47197a8a4d60/1796f7f2-14c1-46cf-8890-0f405133fc88/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump claims debate victory over Biden: 'I held Joe accountable for his 47 years of lies'"
     excerpt: "President Trump declared victory over former VIce President Joe Biden after their first presidential debate, telling a rally in Duluth, Minnesota that they and other Americans won as well."
@@ -2160,6 +2192,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Melania Trump says she always knew Donald Trump would be president"
+    excerpt: "First lady Melania Trump always believed her husband would win “if and when he ran” for president, she said in a rare interview. Melania opened up about Donald Trump’s"
+    publishedDateTime: 2020-10-01T12:34:00Z
+    webUrl: "https://nypost.com/2020/10/01/melania-trump-i-always-knew-donald-trump-would-be-president/"
+    ampWebUrl: "https://nypost.com/2020/10/01/melania-trump-i-always-knew-donald-trump-would-be-president/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/01/melania-trump-i-always-knew-donald-trump-would-be-president/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/melania-trump-89.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump says Biden 'should leave the campaign' after Senate GOP report on Hunter Biden's business dealings"
     excerpt: "President Trump on Thursday said his Democratic opponent Joe Biden “should leave the campaign” in the wake of the release of a Senate GOP report detailing Hunter Biden’s extensive overseas business dealings,"
     publishedDateTime: 2020-09-24T15:35:00Z
@@ -2622,6 +2670,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Biden's Most Important Answer of the Debate"
+    excerpt: "President Donald Trump’s performance at the first debate was bizarre, cruel, and at times, truly dangerous. For all those reasons, it probably had the net effect of making it likelier that Joe Biden wins the presidency — that’s certainly what the betting markets thought,"
+    publishedDateTime: 2020-10-01T12:49:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/01/bidens_most_important_answer_of_the_debate_525008.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/522747_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Joe Biden is Hiding His Supreme Court Picks, Senator Cotton Explains Why"
     excerpt: "Democrat presidential candidate and former Vice President Joe Biden is refusing to release a list of individuals he would nominate to the Supreme Court if he were to win the"
     publishedDateTime: 2020-09-22T17:30:00Z
