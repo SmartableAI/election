@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3583339001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583339001"
 type: article
 quality: 104
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,21 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Trump has repeatedly been endorsed by white supremacist groups and other far-right extremists, and they've looked to him as a source of encouragement"
-    excerpt: "Trump's refusal to explicitly condemn white supremacist groups during Tuesday night's debate follows a similar pattern."
-    publishedDateTime: 2020-09-30T21:40:00Z
-    webUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
+  - title: "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name"
+    excerpt: "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name."
+    publishedDateTime: 2020-10-01T02:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
     images:
-      - url: "https://i.insider.com/5f74dd1974fe5b0018a8e56a?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden to Proud Boys: 'Cease and desist'"
+    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
+    publishedDateTime: 2020-09-30T21:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'"
+    excerpt: "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\"."
+    publishedDateTime: 2020-09-30T20:04:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 102
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08sztpk.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "q9KTkRoCF6g8GpPk95GIckA+rRZFywf4CEZnUKPhXN7xAEEu+pGvl8IP4nlVjncatFx9/pEhDRHq0q1kdDWBIOc+2aD/ExmtS+Ui2QuLKN+4kDLWtzmXsmoMWHMv0rfG8M0PbdaQZYLMVs+06OjbcmuYyuW3Ld7HeNjhWx/hNSAhlnqqOE3YUCUr8PUqBIqPlS+3wg7vSxbEwfPmCY3A/YHLp/hb54R354BTe+UFAbSVDega4fOu4Xtda/3UEeAVXgLbf8lLRdtdHgyis41jiqvsRp6GgHDhzKR/4LIaU9xEnsbwM7/ZqoktmtMP8ZG5aofQL5Bt8+A6UGnK0SR0tbjbL4q7Hayp+RuonGadldo=;8hOWYNxZZzyO8Vcw+XjaEg=="

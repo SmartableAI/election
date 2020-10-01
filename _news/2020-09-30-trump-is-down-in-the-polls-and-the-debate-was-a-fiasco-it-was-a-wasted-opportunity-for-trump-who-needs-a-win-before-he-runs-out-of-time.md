@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump says he doesn't know Proud Boys, but 'they need to stand down,' as he faces backlash for not criticizing white supremacists"
+    excerpt: "Facing criticism for not denouncing white supremacist groups during the debate Tuesday, President Trump said he's \"always denounced any form of any of that.\""
+    publishedDateTime: 2020-10-01T04:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-says-he-doesnt-know-proud-boys-after-criticism-debate/5870564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5870564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5870564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ef4e9e12-fc35-4735-b7c5-3b2479d78a8e-AP_Election_2020_Debate.jpg?auto=webp&crop=4802,2701,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Y/vE1QhDb5vojF283DIwQhtbGZRJ5nnmZESmN9HVy/0z0QZ5uVlerFKwMnYb8fYugJb3GkedwCFXaL9caqjMYXBFRRWtxfmpZbEoSTxsOxqFngUNJiTQxdDheW9Ry5QT8aZw+kNxBvHeF0M1Wv9OdfZ8HJUxF7cb2rsH1zighlhbZ/Q1U/pQiAJsRvTQypozaHoRwBB1JjIP1fK72N1w7Rzk3hVbj2TvFWIcQPDkxe3LsrHn8BjzI7o2yKX9YvVJfmHboAHmKDQmGr7ob7pfW/AYrgJOgfMAXtROYXpUeZs4bL7qpzoP7ONyKcvLyoTzaQ9echWYQsVA+LmihF+OPd7uu+ehCB+HJytYjq7eH4Y=;TyBoZTPK2/9jXOqY89/Rtw=="
 ---

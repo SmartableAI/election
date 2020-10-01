@@ -2,37 +2,41 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-01-biden-to-proud-boys-cease-and-desist.md",
-      "title": "Biden to Proud Boys: 'Cease and desist'",
-      "excerpt": "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to",
+      "path": "_news/2020-10-01-joe-bidens-obamacare-tax-avoidance.md",
+      "title": "Joe Biden’s ObamaCare Tax Avoidance",
+      "excerpt": "In 2019 he and his wife legally dodged payroll levies on $228,703 in income.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVCXVZ5CV",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVCXVZ5CV",
+      "webUrl": "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381",
+      "originalUrl": "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2",
-          "width": 960,
-          "height": 540,
+          "url": "https://images.wsj.net/im-238687/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T14:01:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381",
+      "publishedDateTime": "2020-09-30T15:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +53,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Joe Biden",
+        "Republican Voice"
       ]
     },
     {
@@ -1178,7 +1183,7 @@
       "originalUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914",
       "featuredContent": null,
       "highlight": null,
-      "heat": 625,
+      "heat": 645,
       "tags": null,
       "images": [
         {

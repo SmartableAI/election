@@ -368,6 +368,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump-Biden brawl in Cleveland prompts debate commission to consider format changes"
+    excerpt: "During Tuesday's debate, moderator Chris Wallace often tried in vain to prevent interruptions, mostly by President Donald Trump."
+    publishedDateTime: 2020-10-01T05:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/debate-commission-weighs-new-tools-future-trump-biden-faceoffs/3587482001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3587482001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587482001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/03a98bcc-4479-4fe8-8680-ee1c9565736f-AP_Election_2020_Debate_3.jpg?auto=webp&crop=2895,1628,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Power Up: The unlikely state where Joe Biden is likely to flip a Trump electoral vote"
     excerpt: "Cook Political Report’s D avid Wasserman says, however, Biden is likely to pick up an electoral vote in the 2nd. This state and Maine are the only ones that award some of their"
     publishedDateTime: 2020-09-28T10:27:00Z
@@ -462,6 +478,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden calls Trump's debate performance a 'national embarrassment' as he kicks off train tour"
+    excerpt: "Joe Biden is embarking on a roughly 200-mile train tour on Wednesday through Ohio and Pennsylvania, appealing to voters who have strayed from Democrats in recent years."
+    publishedDateTime: 2020-10-01T03:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-kicks-off-train-tour-ohio-pennsylvania-raucous/story?id=73340823"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 129
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-train-campaign-01-gty-llr-200930_1601479889365_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "2020 Presidential Debate Odds: Bettors Picking Trump To Defeat Biden But ‘Over’ On ‘Non-Facts’"
     excerpt: "Back by popular demand, sportsbooks are pulling out all of the stops once again as the first Presidential Debate between President Donald Trump and Democratic nominee Joe Biden is scheduled to take place tomorrow night."
     publishedDateTime: 2020-09-29T01:02:00Z
@@ -493,6 +525,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-trump-debate-splt-gty-ps-200929_1601430833917_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Pro-Trump websites aren't buying the president's claim that Joe Biden really meant US troops are 'stupid bastards'"
+    excerpt: "It is extremely unlikely that Joe Biden maliciously disparaged US troops in a 2016 speech. His own son, Beau, served in the National Guard."
+    publishedDateTime: 2020-10-01T05:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-supporters-stupid-bastards-joe-biden-speech-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-supporters-stupid-bastards-joe-biden-speech-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-supporters-stupid-bastards-joe-biden-speech-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5f74bdd60ab50d00184ad52a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Undecideds: Sure, Biden and Trump are very different. But maybe neither is right for the job."
     excerpt: "Maybe the debates will help, but for now, Karen and Marlin Boltz remain genuinely stymied. The couple voted for Donald Trump four years ago, but they can’t stand how he’s divided the country and emboldened white supremacists."

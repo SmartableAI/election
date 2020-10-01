@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'"
 excerpt: "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\"."
 publishedDateTime: 2020-09-30T20:04:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-54363831"
-webUrl: "https://www.bbc.com/news/world-us-canada-54363831"
+originalUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
+webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
 type: article
 quality: 102
 heat: -1
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name"
+    excerpt: "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name."
+    publishedDateTime: 2020-10-01T02:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to Proud Boys: 'Cease and desist'"
     excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
     publishedDateTime: 2020-09-30T21:01:00Z
@@ -43,7 +59,23 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Donald Trump sidesteps call to condemn white supremacists — and the Proud Boys were 'extremely excited' about it"
+    excerpt: "Debate moderator Chris Wallace asked if Donald Trump would urge groups to stand down and avoid contributing to the violence. He sidestepped."
+    publishedDateTime: 2020-09-30T12:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/trump-debate-white-supremacists-stand-back-stand-by/3583339001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3583339001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583339001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/615b05e1-ec70-40f4-99c5-e7bec4e73719-AP_Election_2020_Debate_2.jpg?auto=webp&crop=5180,2914,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "0biuuSC5stt62+L+CDPfrhZbTIsbzU08XHH4PrEyppK2Df4q/oBwNRKo8S/+cGpfyWizw0IwmboxbZq0ugDCNf0wr3LZtksPI6WdAa1xGUoKPBBJaJGSy0k5ydm+NRa66+UJYAnL7sx43srV3SsBvDfo2VKcUmR+ZHJt5VEyECz/d8/BM4oMuwY6EOkPSeegqukm2n2t9GnGe9Oh1fXQyTAXfmQ3kSO7nN0VmNXGy4FL50ckTuXMDGGHkZw/sQUhVZk8vhJZpHYzClU/sAqX91CeHN+pwf3ESIUmBgZgDEQvKW/0Gdc8RSNFMbqjnntkYf0H5O/ocEwrerJ2Y/bqnrRUPvmOQU5VVgNdogP188I=;m/tsVsjIpcuT9FQh7OlAug=="
+secured: "Jui4BADPcErDgoBJSV4KJUbEISqJZeo3StGpbbQH2Iug7ahYEJ73IfAaaYjqFNjSDhy9nSiiuw8Fy96zRrElu0FXsSrzlInyinTe/wIC6HiPhMJuIcKYNjJkTuhgBZL5lwN6vrnknmZwfr8dlnCEqVWbRxQQ99Rv28WFYou4Tlzzs7uVHaLiWIapQad3HUdeEgoI/gZEEJuAssG73EcHatiAgiiD5A24d/VM/B5ppvVPKncBSdIxNWMBbxo41buPX3nR6BmQLT8Ggbc6vB0iwRxD3a3rM7YqT75ZiY5wB6BnZyaNEXBrrq8NBoZGDdmM+XEt5QbmqscxhABNt41XsSUMINmeP87nF5vbsINKQyY=;6XgV9WRQQAPclee1Rp8Xow=="
 ---
 

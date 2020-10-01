@@ -560,6 +560,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'Upsetting': Swing state voters appalled by Trump-Biden debate, but will it change minds?"
+    excerpt: "\"I watched every minute and did not learn anything,\" said a Trump backer in Ohio, who urged the president to be calmer at the next face off."
+    publishedDateTime: 2020-10-01T04:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/swing-state-voters-appalled-trump-biden-debate-will-it-change-n1241569"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241569"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241569"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 141
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416390/200930-debate-broadcast-se-109p_1ef40de6f77dc131517f482569d9bfd6.jpg"
+        width: 2500
+        height: 1683
+        isCached: true
   - title: "A High-Stakes Test for Joe Biden’s Love of Senate Tradition"
     excerpt: "He reveres custom and recognizes the courts’ essential role in shaping a policy agenda. Those dual instincts have perhaps never been in greater conflict as they are in this Supreme Court fight."
     publishedDateTime: 2020-09-26T18:25:00Z
@@ -607,6 +623,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415440/200928-donald-trump-mn-0821_d1fac2e4c777a6994293a94f4c45c6d2.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden smashes fundraising records during chaotic debate"
+    excerpt: "Democratic presidential nominee Joe Biden gestures while speaking during the first presidential debate on Tuesday at Case Western University in Cleveland. | Julio Cortez/AP Photo Joe Biden's campaign hauled in nearly $10 million during the first presidential debate Tuesday night — smashing its own single-hour fundraising record,"
+    publishedDateTime: 2020-09-30T20:54:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/joe-biden-debate-fundraising-423826"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/joe-biden-debate-fundraising-423826"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/joe-biden-debate-fundraising-423826"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/73/14/f6545e204c42b1d617ec4aad2435/200930-biden-debate-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
     excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."

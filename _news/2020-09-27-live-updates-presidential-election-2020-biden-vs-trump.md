@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 3585
+heat: 3605
 published: true
 
 provider:
@@ -2423,6 +2423,22 @@ related:
     quality: 85
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/273/ed2b43e7-9d41-4017-bb0d-1916ec16d4b7.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Joe Biden's Pastoral Charms"
+    excerpt: "Washington -- If I were a Democratic wheeler-dealer sitting atop the most left-wing major party in American history, I would be a little bit nervous. First, there is my party's"
+    publishedDateTime: 2020-10-01T04:01:00Z
+    webUrl: "https://townhall.com/columnists/emmetttyrrell/2020/10/01/joe-bidens-pastoral-charms-n2577235"
+    ampWebUrl: "https://townhall.com/columnists/emmetttyrrell/2020/10/01/joe-bidens-pastoral-charms-n2577235?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/emmetttyrrell/2020/10/01/joe-bidens-pastoral-charms-n2577235?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
         width: 650
         height: 340
         isCached: true

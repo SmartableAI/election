@@ -2441,6 +2441,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Joe Biden's Pastoral Charms"
+    excerpt: "Washington -- If I were a Democratic wheeler-dealer sitting atop the most left-wing major party in American history, I would be a little bit nervous. First, there is my party's"
+    publishedDateTime: 2020-10-01T04:01:00Z
+    webUrl: "https://townhall.com/columnists/emmetttyrrell/2020/10/01/joe-bidens-pastoral-charms-n2577235"
+    ampWebUrl: "https://townhall.com/columnists/emmetttyrrell/2020/10/01/joe-bidens-pastoral-charms-n2577235?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/emmetttyrrell/2020/10/01/joe-bidens-pastoral-charms-n2577235?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Ted Cruz advises Trump to stick to 'substance' in debate with Joe Biden"
     excerpt: "Texas Sen. Ted Cruz advised President Trump to stick to principles when debating former Vice President Joe Biden."
     publishedDateTime: 2020-09-30T00:05:00Z
