@@ -2205,6 +2205,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "The Simple Truth About the Debate Is That Joe Biden Won"
+    excerpt: "Last night there was a presidential debate between Joe Biden and Donald Trump. It was a real circus because Trump refused to follow the rules and ranted and raved like an unmedicated lunatic. Thanks to his chaotic rampage,"
+    publishedDateTime: 2020-10-01T08:28:00Z
+    webUrl: "https://www.motherjones.com/2020-elections/2020/09/the-simple-truth-about-the-debate-is-that-joe-biden-won/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 55
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/09/biden-trump-master.jpg?w=1000&h=563&crop=1"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Boorish debate makes clear why Joe Biden is the only choice for president"
     excerpt: "President Donald Trump's outlandishly boorish debate performance showed voters why Joe Biden must be elected this fall. Dignity and an ability to listen are sorely needed in the nation's highest office."
     publishedDateTime: 2020-09-30T22:38:00Z

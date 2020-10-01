@@ -542,6 +542,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "For the Sake of Democracy, Cancel the Trump-Biden Debates"
+    excerpt: "Little more than 12 hours after the conclusion of the most chaotic, counterproductive and outright offensive American presidential debate in my lifetime, the Commission on Presidential Debates promised unspecified format changes in the two remaining faceoffs between Donald Trump and Joe Biden so that the events would be more orderly,"
+    publishedDateTime: 2020-10-01T09:13:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/opinion/trump-biden-debates.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/opinion/trump-biden-debates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/opinion/trump-biden-debates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/opinion/sunday/01bruni-treated/01bruni-treated-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
     excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
     publishedDateTime: 2020-09-23T19:39:00Z

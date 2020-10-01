@@ -584,6 +584,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's latest punt on White supremacy shows a debate rebound will be tough"
+    excerpt: "President Donald Trump's failure yet again to unequivocally condemn White supremacy Wednesday -- to clear up a chilling moment from his debate clash with Democratic nominee Joe Biden -- shows how he may find it impossible to reboot for their next crucial contest.\n    \n"
+    publishedDateTime: 2020-10-01T08:47:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2ccN4Q-aijI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/donald-trump-debate-election-2020-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/donald-trump-debate-election-2020-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930163912-trump-white-house-south-lawn-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration to announce $13 billion in additional aid to Puerto Rico"
     excerpt: "The Trump administration on Friday is expected to announce $13 billion in additional aid to Puerto Rico to help with rebuilding in the aftermath of 2017's Hurricane Maria.\n    \n"
     publishedDateTime: 2020-09-18T15:21:13Z
@@ -1047,6 +1063,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415551/200928-debates-historical-mn-2x1-1350_fd4050a2bdc154bbf925d3af1001fbca.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump's debate refusal to discourage unrest after the election shows he doesn't get the U.S."
+    excerpt: "America isn't great just because of the brilliance of the U.S. Constitution, but because its leaders have chosen not to override it with the use of force."
+    publishedDateTime: 2020-10-01T08:36:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-debate-refusal-discourage-unrest-after-election-shows-he-ncna1241617"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241617"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241617"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 139
+    images:
+      - url: "https://media4.s-nbcnews.com/i/MSNBC/Components/Video/201801/th_termlimits_180109.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "How Culpable Is Trump, and How Dangerous is QAnon?"
     excerpt: "Charlie on Facebook’s outsized power, QAnon in Congress and why it’s the most dangerous conspiracy theory of the 21st century Ross on what isn’t Trump’s fault, and on Jeffrey Epstein and QAnon Michelle on Woodward’s revelations and her April 2018 article on QAnon I’ve been an Op-Ed columnist at The New York Times since 2017,"
@@ -1602,6 +1634,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "G.O.P. Alarmed by Trump’s Comments on Extremist Group, Fearing a Drag on the Party"
+    excerpt: "For the second time in two weeks, Republicans distanced themselves from the president, expressing unease about his failure to disavow a right-wing organization linked with white supremacy and acts of violence."
+    publishedDateTime: 2020-10-01T08:22:00Z
+    webUrl: "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30campaign-ledeall1/30campaign-ledeall1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Demographic shifts since 2016 could be enough to defeat Trump. But it's complicated."
     excerpt: "Trump's core demographic is declining. Our new interactive tool lets readers test how changes to the U.S. electorate might affect the election."
     publishedDateTime: 2020-09-24T06:33:00Z
@@ -1831,6 +1879,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/51/a0/95e9ceca48a59806d2cb1a4a618c/200930-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump requires food aid boxes to come with a letter from him"
+    excerpt: "The Agriculture Department last week began mandating that millions of boxes of surplus food for needy families include a letter from President Donald Trump claiming credit for the program. The USDA’s $4 billion Families to Farmers Food Box Program has distributed more than 100 million boxes to those in need since May,"
+    publishedDateTime: 2020-10-01T08:32:00Z
+    webUrl: "https://www.politico.com/news/2020/10/01/trump-letter-food-aid-boxes-424230"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/45/74/4c18628445b79d74ba2ba7c4a0dd/200930-trump-food-box-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

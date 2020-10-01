@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-angry-republicans
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Trump Attacked Rochester Protesters. Not All Local Republicans Agree."
+    excerpt: "In Western New York, the president’s vilification of Black Lives Matter protests has forced candidates to decide whether to line up behind him."
+    publishedDateTime: 2020-09-26T09:12:00Z
+    webUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/25/nyregion/00rochester-trump5/00rochester-trump5-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "mzz4X8Id3R4t3sG3L+nt9IgsYOmCG1V2sSP4Ognt8cElu67jkD0dnraHu6lYZyr/l7s0oEfxcU5Y3fGNGYtm39ScotMDtmgDmo2+sVEz20LF4G1I7DnIhrN/YKu1pO5+JxNgBUWqQtguVZ/Mn9lkcVKDQPHeUPipJWZ9TQbGK+b7y7mNDjfOylGGtDoEPsT0L7PbdNg5PzJh8baa9oP/FkZvOQDlstqrFAEDghawScavHa5SfsbOygkWhb7VGBwqiB9HDv4oKE8MoCW6eJ73M4i73ro1NOjr3/4Uo/UrYf8OiUByW1sb3ETtqSK6e9y9cP2oJ74Iwyv2uexA97e+BMHKXIwosIqNKaaFC8IzobGBPU9M9Liw0XmToevQDU/pyYlN+2X2MOMkOUiEVgRmZKeNRXxDQUKMW5UzuZagoSWlfvovb0QnwEDi+XCsOIT6rETwsmyeh3x3B00V1OpMCCHFB2NhsHwOCk4ayBWs5BlkKVXkELvzF7x4wSGFv11crksWP68GHTebpompzP63kg==;3LS8vlUptjxbK5/ut0y5mw=="
 ---

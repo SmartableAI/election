@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump takes his antidemocratic campaign to the people"
+    excerpt: "If you haven't yet read about how President Donald Trump bullied, badgered and interrupted his way through an excruciating 90-minute presidential debate Wednesday night, there's plenty of outrage to choose from.\n    \n"
+    publishedDateTime: 2020-10-01T04:20:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HyGFDzrRe5k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/what-matters-september-30/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/what-matters-september-30/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930134810-donald-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Employees of Big Four tech companies show lopsided support for Biden campaign"
     excerpt: "Political contributions from employees at some of the nation's largest technology companies to Democrat presidential nominee Joe Biden's campaign soared last month -- offering a snapshot of the way in which big tech is increasingly supporting his bid to oust President Donald Trump.\n    \n"
     publishedDateTime: 2020-09-28T17:47:44Z

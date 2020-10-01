@@ -2201,6 +2201,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "The Simple Truth About the Debate Is That Joe Biden Won"
+    excerpt: "Last night there was a presidential debate between Joe Biden and Donald Trump. It was a real circus because Trump refused to follow the rules and ranted and raved like an unmedicated lunatic. Thanks to his chaotic rampage,"
+    publishedDateTime: 2020-10-01T08:28:00Z
+    webUrl: "https://www.motherjones.com/2020-elections/2020/09/the-simple-truth-about-the-debate-is-that-joe-biden-won/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 55
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/09/biden-trump-master.jpg?w=1000&h=563&crop=1"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
     excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
     publishedDateTime: 2020-09-29T12:55:00Z

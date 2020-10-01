@@ -61,17 +61,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Facing Devastating Debt Load? Experts Say Not So Fast"
-    excerpt: "President Donald Trump reportedly must pay back more than $300 million in loans over the next four years, raising the possibility his lenders could face an unprecedented situation should he win a second term and not be able to raise the money: foreclosing on the leader of the free world."
-    publishedDateTime: 2020-09-29T21:05:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "99ethKNb1gG3RqjP0aurp8nLUQ0Tm32oHK+8rUP+KXromGzq/uonupynI6nq0NNLJJVtVvGzLeetr3LQGqPxroSkqcB1+1LJwLHxCzQpzqT9BjBM+iXPU8MIzli8VHc6ywILelPBjswsbO+qvwhVrN27tBUWnzQXF3FecaETHzo1UvYCv+cQ2JLktgJkGGCUt7iShEgu4ThDRYIrA1sKBcVsJS2q5FvDhFehNiRewfM+FqzprEmUblTBkVPgs08zZEGDLR9gYux1wJWe1/lHvThfqWTcRsWqdEtp69Bm8ca5JJLSgGqIjT85nxuVSqsdfvfpcLIh6/6Yxbbcr06yJxLgj23KxKttiKLKS7lC/pXP3w1TBp8wYnxp0fXqByUsXayankvJyPPSo+Eo+9muAeod9NyUxG7bHrqvzrVZRv3WniwgbG8vDZD/zst3ff9nUMgvNfsm2X0t0WXw2XCVa/40S5gg5JXtu2JhYjs51y3XXonXyYe2BCFyO6pAEheTMwZLLfE/9rrMayCX9jz76w==;MXZ2yb5b9r1jIBcZkyRxIA=="
 ---

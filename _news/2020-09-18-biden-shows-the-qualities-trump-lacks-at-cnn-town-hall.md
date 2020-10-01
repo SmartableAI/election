@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1450
+heat: 1470
 published: true
 
 provider:
@@ -540,6 +540,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416397/200930-joe-biden-cleveland-jm-1341_a7bef22d9c2fadbc5a2c2cb0391d87e8.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "For the Sake of Democracy, Cancel the Trump-Biden Debates"
+    excerpt: "Little more than 12 hours after the conclusion of the most chaotic, counterproductive and outright offensive American presidential debate in my lifetime, the Commission on Presidential Debates promised unspecified format changes in the two remaining faceoffs between Donald Trump and Joe Biden so that the events would be more orderly,"
+    publishedDateTime: 2020-10-01T09:13:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/opinion/trump-biden-debates.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/opinion/trump-biden-debates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/opinion/trump-biden-debates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/opinion/sunday/01bruni-treated/01bruni-treated-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
     excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."

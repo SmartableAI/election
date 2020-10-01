@@ -558,6 +558,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "For the Sake of Democracy, Cancel the Trump-Biden Debates"
+    excerpt: "Little more than 12 hours after the conclusion of the most chaotic, counterproductive and outright offensive American presidential debate in my lifetime, the Commission on Presidential Debates promised unspecified format changes in the two remaining faceoffs between Donald Trump and Joe Biden so that the events would be more orderly,"
+    publishedDateTime: 2020-10-01T09:13:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/opinion/trump-biden-debates.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/opinion/trump-biden-debates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/opinion/trump-biden-debates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/opinion/sunday/01bruni-treated/01bruni-treated-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Faces Challenges Even in Red States, Poll Shows, as Women Favor Biden"
     excerpt: "Close races in Georgia, Iowa and Texas show President Trump’s vulnerability and suggest that Joseph Biden has assembled a formidable coalition, according to a New York Times/Siena College poll."
     publishedDateTime: 2020-09-25T00:31:00Z

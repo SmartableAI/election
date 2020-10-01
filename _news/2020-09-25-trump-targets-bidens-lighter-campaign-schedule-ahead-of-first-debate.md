@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 1170
+heat: 1190
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929215946-30-debate-cleveland-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump takes his antidemocratic campaign to the people"
+    excerpt: "If you haven't yet read about how President Donald Trump bullied, badgered and interrupted his way through an excruciating 90-minute presidential debate Wednesday night, there's plenty of outrage to choose from.\n    \n"
+    publishedDateTime: 2020-10-01T04:20:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HyGFDzrRe5k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/what-matters-september-30/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/what-matters-september-30/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930134810-donald-trump-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

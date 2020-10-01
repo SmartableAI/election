@@ -115,6 +115,15 @@ related:
         width: 820
         height: 456
         isCached: true
+  - title: "Vice President Pence Holds Rally in Council Bluffs, IA"
+    excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
+    publishedDateTime: 2020-10-01T09:01:00Z
+    webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-rally-council-bluffs-ia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "xsi7SZVsK97ncwWi9AGWZOZ24PVP+K9DzUwWgvOA7pVaz/I3DGvo91gNzhhE2sXOfFow+3/wO5ZKl6I7bgoVYlhdoIGG8HBVVYwiNnYCsO81WmwAZx7NsCbQRlo24b3wxdPNpUfRRzNH4QAvJEIQjcEMYjK/C4KFl4fhUfxZFOmqQ/qrbuYdTR+4FRee/LZQIDuaCGgVdSG2eL1uvSSkS7b2LGaL2+o1kAk+LOCtT2lACNL/JKmnLBcTHOxDJqqCW73lvYg4x8NBRGZHtqfFeSQ6BL9XEQMQkc0LJ8+GwZKr9TZZg7nxbnVIAiKkmRTc0SGVEgQTgsigtw5RyNJ/FsUsiR/v3HLUMbTmfz5W524Rd5zMWMsK3HsqLUHYAd/CmiCj2TNdNjKVmp8qTDabVxtooAsaR+wU9DO/XCo7pxwJjID7TOD4CxioriaYcTXf7A0YBuMjRH45KGwSpc4dmKRsef0ymxSuHe6BYo3VVCbrFYZlWt/SvnoYwx7j0kXG4sI85UoJ5dlr/uceCL/glA==;HVd6EAmmX5ev785X/eSXPQ=="
 ---

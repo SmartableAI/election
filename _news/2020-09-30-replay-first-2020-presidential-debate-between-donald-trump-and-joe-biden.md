@@ -2473,6 +2473,20 @@ related:
       name: Townhall
       domain: townhall.com
     quality: 79
+  - title: "Replay: First 2020 Presidential Debate Between Donald Trump And Joe Biden"
+    excerpt: "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH"
+    publishedDateTime: 2020-10-01T09:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/watch_live_first_2020_presidential_debate_between_donald_trump_and_joe_biden.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 79
+    images:
+      - url: "https://assets.realclear.com/images/52/521211.jpg"
+        width: 2300
+        height: 1597
+        isCached: true
   - title: "Watch Live: First 2020 Presidential Debate Between Donald Trump And Joe Biden"
     excerpt: "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH"
     publishedDateTime: 2020-09-29T12:08:00Z

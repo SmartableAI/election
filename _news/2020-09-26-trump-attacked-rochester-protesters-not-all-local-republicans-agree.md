@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ross asked if ending census earlier would produce numbers in Trump's current term"
-    excerpt: "Commerce Secretary Wilbur Ross' surprise decision Monday evening to end 2020 census counting on October 5 risks an incomplete tally of as many as 10 states, including Florida and Georgia, according to Census Bureau officials.\n    \n"
-    publishedDateTime: 2020-09-30T05:33:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yx-DcsbT2Gw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/census-incomplete-count/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/census-incomplete-count/index.html"
+  - title: "Trump: ‘I’m so angry at Republicans’"
+    excerpt: "The president says his fellow Republicans have let him it down when it comes to investigating Obama and the Bidens."
+    publishedDateTime: 2020-09-22T01:03:00Z
+    webUrl: "https://www.politico.com/news/2020/09/21/trump-angry-republicans-419790"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918152213-01-census-2020-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static.politico.com/ca/00/b33a8de44c439fcd7d83230aad5f/20200921-donaldtrump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "PTGsgs+XTbQhPLypeKZIS03xigYkaqriMdV2hclwJVu19XqmD0moA54rADpI1NbUKFiWw7XifJxMyi2JEbi8NYOEMD+jTSRatr9Kmyr4cxE8SgFZwdx1DNZiTI64dysqMaNLLYY0yk/602w3VpDlm/DnC+gsQUHcGczPbACWaf9UfUqIOGXaIk6VGyMVwQUwP26uaslqclqSDIVvnwoBAZ6uvVorAD1R+ZyJysF1/aU5brA0u4UbylFLErYGSMlGztLyp9mtiJSli27MU4rINpMGSe1aoC7wYzWf33XU70O05mrxMF02NPNgiVcIGdMqFBAfXpiqvAwvcwycg4EUb5MXH5uow6Du1WcE8FeSmV4=;/IoCKuI/+lTvrVa2SlY0gQ=="

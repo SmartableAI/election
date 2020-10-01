@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-01-intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton.md",
+      "title": "Intelligence Officials Urged Trump Spy Chief Not to Disclose Unverified Russian Claims About Clinton",
+      "excerpt": "Officials at the Central Intelligence Agency and National Security Agency feared that sharing the information with Congress would give credence to unsubstantiated Kremlin-backed material.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238",
+      "originalUrl": "https://www.wsj.com/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-238792/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238",
+      "publishedDateTime": "2020-09-30T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-biden-mr-rogers-widow-joanne-hold-virtual-call-during-pennsylvania-campaign-stop.md",
       "title": "Biden, Mr. Rogers' widow Joanne hold virtual call during Pennsylvania campaign stop",
       "excerpt": "Rogers, 92, is an outspoken critic of President Trump and supporter of the Biden campaign.",
@@ -440,62 +496,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-comey-says-new-information-that-hillary-clinton-drummed-up-russia-controversy-to-vilify-trump-doesnt-ring-a-bell.md",
-      "title": "Comey says new information that Hillary Clinton drummed up Russia controversy to vilify Trump 'doesn’t ring a bell'",
-      "excerpt": "Former FBI Director James Comey on Wednesday said it didn’t “ring a bell” when asked whether he received an investigative referral on Hillary Clinton purportedly approving “a plan” attempting to tie President Trump to Russia and distract from her email scandal before the 2016 election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe",
-      "originalUrl": "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/643caea2-801c-428f-803c-0767482d777a/2655df2c-f2d9-4db1-b528-4570d1feb0f0/1280x720/match/image.jpg",
-          "width": 1082,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp",
-      "publishedDateTime": "2020-09-30T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },

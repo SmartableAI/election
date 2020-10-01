@@ -25,51 +25,53 @@ topics:
   - Donald Trump
 
 related:
-  - title: "President Trump Won’t Destroy Social Security—But He’s Not Going To Save It"
-    excerpt: "The Biden campaign claims the President Trump is cutting Social Security, and that if he gets his way, benefits could run out in “just three years.” While that claim is not true, the Trump administration has done next to nothing to fix Social Security’s long-term funding problems."
-    publishedDateTime: 2020-09-24T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/"
-    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/"
+  - title: "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis"
+    excerpt: "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements."
+    publishedDateTime: 2020-10-01T09:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is"
+    excerpt: "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep."
+    publishedDateTime: 2020-09-28T19:53:00Z
+    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/"
+    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 123
+    quality: 112
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bb199ea310c40d1f6baee%2F0x0.jpg"
-        width: 1199
-        height: 798
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f723ce187ec74e766144241%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Trump claimed he's going to send $200 cards to millions of people in the mail weeks before the election — but it's not clear he can actually do it"
-    excerpt: "Trump said Americans enrolled in Medicare will receive a $200 card in the mail so they can buy prescription drugs."
-    publishedDateTime: 2020-09-25T00:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+  - title: "'Mailmen selling ballots. Dumped in rivers. Found in creeks': Trump makes unfounded claims about mail-in voting"
+    excerpt: "From claiming mailmen are \"selling the ballots\" to arguing that mail ballots are being \"dumped in rivers,\" Trump ramped up his assault on mail-voting"
+    publishedDateTime: 2020-09-30T23:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/2020-debate-trump-makes-outrageous-claims-mail-voting/3586836001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3586836001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3586836001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/3c9be54e-1f1b-4489-bb6f-74160918199e-AP_US_Election_Debate_Global_Reaction.jpg?auto=webp&crop=5453,3067,x273,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump Jr. explains President Trump's debate stance by saying he's \"a fighter\""
-    excerpt: "In an interview with CBS News, Donald Trump Jr. explained the president's aggressive debate stance by saying he's \"a fighter\" and that \"he hasn't been treated fairly.\" Watch his remarks here."
-    publishedDateTime: 2020-09-30T03:42:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-jr-says-president-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 98
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/e37a821c-16fe-4f28-a940-a5d1e05788b0/thumbnail/1200x630/07b8728a4bd9bbe4806d3dda7a32ba37/cbsn-fusion-donald-trump-jr-says-president-trump-thumbnail-556615-640x360.jpg"
-        width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "Jg2RPjWKixLdgQigFd4+NUuXC91evJsxrHpJd1I0IYCbp+NEQuhCXgKJlkxXSOZ/YATQhlD7E+/4/69UJ1Gndeal3FAnvjMw2PZidvlL3KGILta6VgMIRN5/wUg9Zux2nXV8pJXQpCNQvKY+U6HIMru1Buf0P1dgnp232uj/qByhjGmf0W6czuNUhlmi8xHv9q8rfo9zbNbSHz01tefIfv79BORPBuepeGDEpJNH46u1OI9X5Poxni8v/EiBpSI0ea1gVXjqQIG95bmIQ3XAep85iv5/8SrlX+vcaicmlDkSpBEU5DS9WICDIIF/kI3idc7WuO3nl5QmqvMVOvjLre7ohLrgfarhQnipgGV1iLaAc5WngnahM2hXQZUt2JLDhCeSijVAWmbcWPCzM/HG76oVZ2WbeENu5/89bsOWswlOcoyi9QQcdgBF4RMZQ4mo2HhIbRpvO1Mx+VrSwjclsci2QBiRHcXEEqYnOapEXkxVLTH5/TQ4z/pwkehnxfKkZJ8Xg0/FtjhPM19LlY9Ffg==;owO/nn0OG6SS3D2Kup5YUw=="

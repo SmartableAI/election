@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbir.com/amp/article/news/local/vice-president-mike-penc
 cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
 type: article
 quality: 75
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
         width: 820
         height: 456
         isCached: true
+  - title: "Vice President Pence Holds Rally in Council Bluffs, IA"
+    excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
+    publishedDateTime: 2020-10-01T09:01:00Z
+    webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-rally-council-bluffs-ia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "l59uWS80w/3Irf96qAyR1PGiCKkcl8ahRyVpXrQxGgXfWEfqWTBniMMeRbnAvkqKRFAQjHJfct7+FnYgfAzR+/Bu0YQMCoVSOy4AcXT1aCTOsKPKTT1E1VOR3p7e+SN0c2xXDYbYFT8m4R7wTSaCbaf9/g9bowTahO8cAMBI9/t6PpsgIvoHH/mYXgM3V6FoaH4NBWa38t5kYR64K2ADsQAS9pzEmiyuB34DWMHnXBXaijM2QFmMpC2imZ6ylT2cHKLNb01Dakp/kHphdIyMvAT6HNO1WP/xc3VUxJ4MwEQG/8Ma+0QImNauveahbSY6OsZ6Y1Djg4QAfzuqnyTfLXOO8jEMbwDZyJC5inXktSdmGa8cU6R9xqb3iJ6UrserKk0G+KnsKivbAtqr0L1o6uRwGIr3GRgscA0uJef5+0PVEVDEt7u5cQb/5dutnELS+8ws0WCLFaYK8GvHZ3J58nd77sSmQSR697CWzDbcTMCi/hA2/2bJUilLDqxb2CkipyYp/X666rVvwTpZ8usCiw==;N91ayjanCIXPsjks/3bmQw=="
 ---

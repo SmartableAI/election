@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/"
 type: article
 quality: 112
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis"
+    excerpt: "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements."
+    publishedDateTime: 2020-10-01T09:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'Mailmen selling ballots. Dumped in rivers. Found in creeks': Trump makes unfounded claims about mail-in voting"
     excerpt: "From claiming mailmen are \"selling the ballots\" to arguing that mail ballots are being \"dumped in rivers,\" Trump ramped up his assault on mail-voting"
     publishedDateTime: 2020-09-30T23:15:00Z
@@ -47,6 +63,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Facing Devastating Debt Load? Experts Say Not So Fast"
+    excerpt: "President Donald Trump reportedly must pay back more than $300 million in loans over the next four years, raising the possibility his lenders could face an unprecedented situation should he win a second term and not be able to raise the money: foreclosing on the leader of the free world."
+    publishedDateTime: 2020-09-29T21:05:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "6EQdaHpuPWAW88/RRUXCjtJFcZ9OpAd1tPc4fzISYkMnRlbyv6Ul7ndytTMW0T0YsrSnl00uCIWc6rLs0+2bYhFLxKNawmaQ7dxjvcvCm8I9MlZVze+dhyZu6JXK1KBnwb2I8osyOjFLR/aZoqnKmYpT1LU4ifKby1bXn3wSSs79qDyfmAk7W20j0EpCzalXxzwBUSqL6EqV29DeuqDOSaAke+/DReAF9xhi2YtY/Ia8MGkeL+54pbjxMKPiyBriDkcZgZmNSgGeTudH14cXqJSmUEr48lW1NUT9LsxlVj2h5di7SsA18Cvu4yOPDfdv6KG/9poz8W6t6sa/k/+xGzGdQ7KjkTnJWpeiITd6dNA=;GoC90bbdOwO68ypec30OyQ=="
 ---
