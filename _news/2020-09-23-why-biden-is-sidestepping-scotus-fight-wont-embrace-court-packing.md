@@ -61,6 +61,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
+    excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
+    publishedDateTime: 2020-10-01T21:02:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p04scLuASzo/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
     excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
     publishedDateTime: 2020-09-30T10:07:00Z

@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is trying to divide the left. He's actually uniting it behind Biden."
+    excerpt: "When Joe Biden said on Tuesday night that he did not support the Green New Deal, President Donald Trump lit up.\n    \n"
+    publishedDateTime: 2020-10-01T21:41:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_5DM4lcNDR8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212326-18-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking Biden's attempts to distance himself from the Green New Deal"
     excerpt: "During Tuesday night's debate, Biden was asked by moderator Chris Wallace if he supported the Green New Deal, a wide-ranging joint, nonbinding resolution to combat climate change introduced by Rep. Alexandria Ocasio-Cortez and Sen. Ed Markey.\n    \n"
     publishedDateTime: 2020-09-30T22:43:44Z

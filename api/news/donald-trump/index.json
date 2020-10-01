@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-02-trump-bears-responsibility-for-debate-unraveling-chris-wallace-says.md",
+      "title": "Trump ‘Bears Responsibility’ For Debate Unraveling, Chris Wallace Says",
+      "excerpt": "Wallace cited a Fox News’ analysis that found President Trump interrupted Joe Biden’s answers or Wallace’s questions 145 times during the debate on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/",
+      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7642e63f7eca817c48ab4d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2896%26cropY1%3D62%26cropY2%3D1692",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/amp/",
+      "publishedDateTime": "2020-10-01T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says.md",
       "title": "Trump 'Will Not Accept Any Result That Is Not A Victory,' 'Atlantic' Writer Says",
       "excerpt": "Atlantic writer Barton Gellman says the 2020 election could trigger a constitutional crisis: \"This is not going to be a normal election. ... Preserving its legitimacy is going to take extra effort.\"",
@@ -326,7 +377,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1775,
+      "heat": 1815,
       "tags": null,
       "images": [
         {
@@ -481,7 +532,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 547,
+      "heat": 567,
       "tags": null,
       "images": [
         {
@@ -1470,57 +1521,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-chris-wallace-says-he-wants-to-be-invisible-as-debate-moderator-will-trump-let-him.md",
-      "title": "Chris Wallace says he wants to be ‘invisible’ as debate moderator. Will Trump let him?",
-      "excerpt": "The two have a history. But Democrats don’t expect the famously independent Fox anchor to go easy on Biden either.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/media/2020/09/29/chris-wallace-debate-trump/",
-      "originalUrl": "https://www.washingtonpost.com/media/2020/09/29/chris-wallace-debate-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJLV2MH5YQI6VMHEGUHE4YGMSE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/media/2020/09/29/chris-wallace-debate-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/media/2020/09/29/chris-wallace-debate-trump/?outputType=amp",
-      "publishedDateTime": "2020-09-29T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

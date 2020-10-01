@@ -541,6 +541,22 @@ related:
         width: 750
         height: 625
         isCached: true
+  - title: "Pressure mounts on Trump to clearly condemn white supremacy. The White House insists he already has"
+    excerpt: "President Donald Trump avoided reporters when departing the White House Thursday as the White House maintains he has nothing to clarify on his stance on white supremacy."
+    publishedDateTime: 2020-10-01T21:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/pressure-mounts-trump-condemn-white-supremacy-white-house/story?id=73369804"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/pressure-mounts-trump-condemn-white-supremacy-white-house/story?id=73369804"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pressure-mounts-trump-condemn-white-supremacy-white-house/story?id=73369804"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-1-gty-er-201001_1601578901341_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "WATCH: Trump Deliberately Mispronounces Kamala Harris, Says She’s ‘No Mike Pence’"
     excerpt: "President Donald Trump took a few shots at Senator Kamala Harris during a rally, deliberately butchering the pronunciation of her name and remarking that she's \"no Mike Pence.\""
     publishedDateTime: 2020-09-26T14:02:00Z
@@ -832,6 +848,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PBWHCUKAVNF3FOQCLNLOD37M6E.jpg"
         width: 3300
         height: 2284
+        isCached: true
+  - title: "Pence touts Trump administration in Iowa visit"
+    excerpt: "CARTER LAKE, Iowa — With a little more than a month before Election Day, Vice President Mike Pence encouraged a crowd of about 250 people in Carter Lake to get out the vote ahead of what shapes ..."
+    publishedDateTime: 2020-10-01T21:46:00Z
+    webUrl: "https://qctimes.com/news/national/govt-and-politics/pence-touts-trump-administration-in-iowa-visit/article_6e302abf-19f2-508c-9002-98211b3a259f.html"
+    ampWebUrl: "https://qctimes.com/news/national/govt-and-politics/pence-touts-trump-administration-in-iowa-visit/article_6e302abf-19f2-508c-9002-98211b3a259f.amp.html"
+    cdnAmpWebUrl: "https://qctimes-com.cdn.ampproject.org/c/s/qctimes.com/news/national/govt-and-politics/pence-touts-trump-administration-in-iowa-visit/article_6e302abf-19f2-508c-9002-98211b3a259f.amp.html"
+    type: article
+    provider:
+      name: Quad-City Times
+      domain: qctimes.com
+    quality: 90
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/2/4d/24d92a16-a627-5dad-a0c1-862bc8a8141a/5f764de1a87c0.image.jpg?resize=1024%2C723"
+        width: 1024
+        height: 723
         isCached: true
   - title: "Conservative begs Mike Pence to be more of an adult than Trump in VP debate"
     excerpt: "The bad news is there’s another debate coming up next week. The good news, however, is that President Donald Trump won’t be there, noted conservative columnist Jennifer Rubin in her Thursday column. Writing in the Washington Post,"

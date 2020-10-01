@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
+    excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
+    publishedDateTime: 2020-10-01T21:02:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p04scLuASzo/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing"
     excerpt: "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why."
     publishedDateTime: 2020-09-23T07:03:08Z

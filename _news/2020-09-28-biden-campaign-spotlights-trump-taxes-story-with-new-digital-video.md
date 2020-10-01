@@ -671,6 +671,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump sees approval rating increase, majority expect him to beat Biden: poll"
+    excerpt: "A poll conducted in the lead-up to Tuesday's presidential debate showed Americans giving President Trump his highest approval rating in months while a majority predicted he would defeat former Vice President Joe Biden in November."
+    publishedDateTime: 2020-10-01T21:18:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cU9xqrIevHg/poll-trump-approval-rating-september-2020"
+    ampWebUrl: "https://www.foxnews.com/politics/poll-trump-approval-rating-september-2020.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/poll-trump-approval-rating-september-2020.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92616b3f-462d-4e3a-8dee-8be37b8456fc/14a0de94-cf96-461d-8243-02f7cf9497a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says he assumes Biden's ‘going to do great’ at first presidential debate"
     excerpt: "President Trump said on Monday that he assumes Democratic presidential nominee Joe Biden’s “going to do great” during the first presidential debate scheduled for next week before going on to also slam the former vice president."
     publishedDateTime: 2020-09-21T15:21:09Z
@@ -2270,6 +2286,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Leslie Marshall: Biden proves he should be president — we now have more evidence than ever"
+    excerpt: "President Trump acted like a 5-year-old having a gigantic temper tantrum at his debate Tuesday with Joe Biden, leading the Commission on Presidential debates to seek format changes."
+    publishedDateTime: 2020-10-01T21:11:00Z
+    webUrl: "https://www.foxnews.com/opinion/presidential-debate-biden-trump-leslie-marshall"
+    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-biden-trump-leslie-marshall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-biden-trump-leslie-marshall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f7d5000-586e-4d8a-829a-9f932df4e4c1/bbb62ccc-2ac6-445b-b64b-449c250d4db8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tim Murtaugh: Presidential debate reminder -- Biden is a skilled debater. It's his record that's a failure"
     excerpt: "Inspired by past strong debate performances, Obama went with Biden. This background, and how Biden vaulted into national office, give a sense of what to expect in the first presidential debate on Tuesday night."
     publishedDateTime: 2020-09-29T22:48:00Z
@@ -2535,6 +2567,22 @@ related:
     quality: 85
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "'One and Done': Speaker Pelosi Says Biden Should Skip The Final Two Debates"
+    excerpt: "Speaker of the House Nancy Pelosi weighed in on the presidential debates, following Tuesday’s chaotic contest between President Trump and former Vice President Joe Biden, moderated by Fox News' Chris"
+    publishedDateTime: 2020-10-01T20:00:00Z
+    webUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/10/01/pelosi-on-debates-n2577305"
+    ampWebUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/10/01/pelosi-on-debates-n2577305?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/reaganmccarthy/2020/10/01/pelosi-on-debates-n2577305?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 83
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/209/fd9aec8a-50b9-456a-b90c-96ad0ef32011.jpg"
         width: 650
         height: 340
         isCached: true

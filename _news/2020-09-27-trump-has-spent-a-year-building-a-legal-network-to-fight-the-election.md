@@ -814,6 +814,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "State officials brace for conflict after Trump tells his supporters to go to the polls"
+    excerpt: "State and local officials across the country are scrambling to respond to the potential for voter intimidation and violence on Election Day in the wake of President Donald Trump's calls during Tuesday's debate for his supporters to \"go into the polls.\"\n    \n"
+    publishedDateTime: 2020-10-01T21:39:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ajVDfrbABQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/voting-polls-trump-intimidation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/voting-polls-trump-intimidation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924210438-01-voting-0811-connecticut-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: There's a historic insurrection against Donald Trump happening within the GOP"
     excerpt: "There's a revolution happening within the GOP right under our noses.\n    \n"
     publishedDateTime: 2020-09-28T16:07:32Z
@@ -1518,6 +1534,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump campaign attacks a new target: The debate commission"
+    excerpt: "President Donald Trump’s reelection campaign declared war on the Commission on Presidential Debates on Thursday, savaging it as a partisan outfit bent on undermining the president after Trump’s ultra-aggressive debate performance earlier this week."
+    publishedDateTime: 2020-10-01T21:46:00Z
+    webUrl: "https://www.politico.com/news/2020/10/01/trump-campaign-debate-commission-424633"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/01/trump-campaign-debate-commission-424633"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/01/trump-campaign-debate-commission-424633"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/02/25899b2244c9a226840f08edb3e0/201001-debate-commission-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump indicates he's not open to rule changes at next debates"
     excerpt: "President Donald Trump on Thursday suggested he would not agree to any rule changes for the second and third presidential debates a day after the debates' organizers vowed to adjust their formatting following Tuesday's chaotic faceoff."
     publishedDateTime: 2020-10-01T19:22:00Z
@@ -1595,6 +1627,22 @@ related:
     quality: 134
     images:
       - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30POLLWATCHERS1/30POLLWATCHERS1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Virtually Cuts Off Refugees as He Unleashes a Tirade on Immigrants"
+    excerpt: "The Trump administration said it would lower the annual cap on refugees further into rock-bottom record territory as President Trump pursues pre-election xenophobic attacks."
+    publishedDateTime: 2020-10-01T21:29:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/trump-refugees.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/trump-refugees.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/trump-refugees.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-refugees/01dc-refugees-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-02-as-pence-is-about-to-take-the-debate-stage-next-week-the-2024-primary-is-already-in-sight.md",
+      "title": "As Pence is about to take the debate stage next week, the 2024 primary is already in sight",
+      "excerpt": "Vice President Mike Pence takes center stage next week when he debates Senator Kamala Harris for the only time in the campaign. While the debate is less than a week away, Pence stopped by Iowa on Thursday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/pence-vice-presidential-debate-2024-republican-primaries/",
+      "originalUrl": "https://www.cbsnews.com/news/pence-vice-presidential-debate-2024-republican-primaries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/48abca91-ccc2-4c01-bf70-794a7156d1b2/thumbnail/1200x630/47440c54969d12ffd13188b98bf07fd3/ap-20275714567576.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/",
+      "publishedDateTime": "2020-10-01T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-borat-2-trailer-sacha-baron-cohen-dresses-as-trump-to-prank-mike-pence.md",
       "title": "Borat 2 Trailer: Sacha Baron Cohen Dresses As Trump To Prank Mike Pence",
       "excerpt": "The first trailer for the sequel to \"Borat\" dropped on Thursday and it appears Sacha Baron Cohen is up to his old tricks again.",
@@ -94,7 +145,7 @@
       "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 585,
       "tags": null,
       "images": [
         {
@@ -145,7 +196,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1775,
+      "heat": 1815,
       "tags": null,
       "images": [
         {
@@ -240,7 +291,7 @@
       "originalUrl": "https://www.thv11.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1042,7 +1093,7 @@
       "originalUrl": "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1329,57 +1380,6 @@
         "name": "WMUR9",
         "domain": "wmur.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-super-pac-american-bridge-posts-pence-oppo-book-online-for-free-ahead-of-debates.md",
-      "title": "Super PAC American Bridge posts Pence oppo book online for free ahead of debates",
-      "excerpt": "Super PAC American Bridge has posted a Vice President Mike Pence opposition book online for free ahead of the debates.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "originalUrl": "https://abcnews.go.com/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/mike-pence-gty-jef-200921_1600697875742_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
-      "publishedDateTime": "2020-09-22T03:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

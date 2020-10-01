@@ -447,6 +447,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Campaign suggests Trump may boycott next debates with Biden if new rules are imposed"
+    excerpt: "Donald Trump's re-election campaign opposes plans to put in place new rules for his next two debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-01T21:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-campaign-president-may-boycott-debates-biden/5884750002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5884750002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884750002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa10e6f7-8da7-4efd-b579-d8a503f84d0f-AP_Election_2020_Debate.jpg?auto=webp&crop=5563,3130,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As Trump continues to interrupt during the debate, Biden says, 'Will you shut up, man?'"
     excerpt: "Trump came out swinging, trying to needle his opponent, and he continued to interrupt even after being cautioned by moderator Chris Wallace."
     publishedDateTime: 2020-09-30T01:51:00Z
@@ -886,6 +902,22 @@ related:
     quality: 117
     images:
       - url: "https://i.insider.com/5f73dd1a74fe5b0018a8e233?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'That was a s---show': Pundits called the Biden-Trump debate an unwatchable failure that was mostly the president's fault"
+    excerpt: "The consensus came down to the debate being an embarrassment for America — and an acknowledgement that Trump was far more to blame."
+    publishedDateTime: 2020-10-01T20:56:00Z
+    webUrl: "https://www.businessinsider.com/reactions-to-biden-trump-debate-proud-boys-cnn-cable-news-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/reactions-to-biden-trump-debate-proud-boys-cnn-cable-news-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reactions-to-biden-trump-debate-proud-boys-cnn-cable-news-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f73f8ba0ab50d00184ad301?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -1379,6 +1411,20 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 69
+  - title: "Looking at photos of Joe Biden, Robert Byrd, Donald Trump and Rosa Parks"
+    excerpt: "The images in the post show Joe Biden and Robert Byrd at a campaign rally in October 2008, when Biden was a candidate for vice president, and Donald Trump and Rosa Parks at a 1986 ceremony for recipients of the Ellis Island Medal of Honor."
+    publishedDateTime: 2020-10-01T20:06:00Z
+    webUrl: "https://www.politifact.com/article/2020/oct/01/looking-photos-joe-biden-robert-byrd-donald-trump-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 69
+    images:
+      - url: "https://static.politifact.com/img/meter-barely-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "Trump, with his baseless attacks on Joe Biden’s mental status, may have set a trap for himself in the first debate"
     excerpt: "The misleading notion that Joe Biden is too addled for the presidency has been driven by President Trump since 2018, when he first started referring to him as Sleepy Joe."
     publishedDateTime: 2020-09-27T20:30:00Z
@@ -1424,6 +1470,6 @@ related:
         height: 560
         isCached: true
 
-secured: "wZP0mKhRxKvT26CsbKVhLfwv3OJ90IuDPjyn/36W4HiWdVqoSwhsKfL7tYIRbgiYZWpC3acwUOIfJCUGbjIop/0vpNPSWaCO9yt2R2llJGfB8oISfai2CJ30kwfE5x0saL0gsXRzV+yDyAsGoXnXlUjDaeFjOdaKUgKW2heUBV8OGB7q//2WMgi0Crg0eYBuoKZ1/VbwolaMucVo3ZvezUIsrLsU/KN2OE9gyrzGn+Dpvv+fRYRSCZgSRI2LICBZ53Yx/JpEYNh605DEJgzmW0LvVRTSb06XKizmYzYp9O9VQRjKvZKF08q2rO4Zou6syJVsmcI6vh+IvX80+mPsmiMRTgn00beqMW/ClasQUYw=;c/Jg1n/BN5x9lHxtFTrrLQ=="
+secured: "f9K1Jw+6sVHULBM49v0rlGN/1zp8RoLxfiLeRuN92DbDrOPP/KvCNr5T1fAdRjYwR2NafRNr7W5Bc3gOM5xAdABFZBOrHoyyHT833kmsVWRyvyROJd87rfmIwYqXWamzXMkDRdQwxn4U8hBaLcGqCrGZ/vW/yvWFwye91TOV1hNlAAFMyM7c2QAYEihLy3k4mlqTJD6pNuDmKYA7Ai9/KhZsGzqdKNXw6vVGaI7kDAGaUksZH8HguNlMFzokSxY4n43K1UlMIi6oJD2otVsAtzNmxRfhwZYtUAIlfIwhoQSFdcGUc91mMJ2I5Qdl13uMJt1NQlRpFMc+n9RRlIH9imDFE1ZDNc4/brgfXX78OuJlH3JISp3I0tsjpv4HMKlHGmaaIT0CCXDs/ube8Pl5BHDS8BYTWyBNSNzkJju9k4zhdjKviJFGjn+1iSp+Wzu4Xo8VyEVCQXY520+1rpzjy7Qts5N2BmsbkgLUB9GBFHxf0ipEpPlSJXuYZVESZirb1zJBzpkVAXUzxlbQ5ooGgw==;k44Wl0co3cdT6eqBUIlZGg=="
 ---
 

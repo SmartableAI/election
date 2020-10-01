@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-01-herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.md",
+      "title": "Herschel Walker claps back at Biden's Antifa is ‘an idea’ comment",
+      "excerpt": "Former NFL star Herschel Walker turned to Twitter Thursday to take issue with a Trump-Biden debate moment regarding far-left and far-right groups and the roles they play in unrest that has rocked cities across the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyER4odGVfE/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyER4odGVfE/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274148643710.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
+      "publishedDateTime": "2020-10-01T13:53:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-comey-blatantly-accused-trump-of-horrible-things-without-evidence-sen-mike-lee.md",
       "title": "Comey 'blatantly accused' Trump of 'horrible things' without evidence: Sen. Mike Lee",
       "excerpt": "Former FBI Director James Comey “blatantly accused the president of the United States” of “horrible things without any evidence,” Sen. Mike Lee, R-Utah, told “Fox & Friends” on Thursday.",
@@ -385,61 +440,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-dave-rubin-slams-biden-on-antifa-an-idea-doesnt-assault-people-on-the-street.md",
-      "title": "Dave Rubin slams Biden on Antifa: 'An idea doesn’t assault people on the street'",
-      "excerpt": "After Joe Biden called Antifa an \"idea, not an organization\" at the first presidential debate, Dave Rubin shared his firsthand experience with the far-left group's violent protests at his events on \"Fox & Friends.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uwhcRFR-w-Y/biden-antifa-idea-trump-dave-rubin",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uwhcRFR-w-Y/biden-antifa-idea-trump-dave-rubin",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-antifa-idea-trump-dave-rubin.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-trump-dave-rubin.amp",
-      "publishedDateTime": "2020-10-01T09:38:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },

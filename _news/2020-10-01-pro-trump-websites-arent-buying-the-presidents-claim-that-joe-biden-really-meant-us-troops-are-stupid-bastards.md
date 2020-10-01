@@ -464,6 +464,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Campaign suggests Trump may boycott next debates with Biden if new rules are imposed"
+    excerpt: "Donald Trump's re-election campaign opposes plans to put in place new rules for his next two debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-01T21:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-campaign-president-may-boycott-debates-biden/5884750002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5884750002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884750002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa10e6f7-8da7-4efd-b579-d8a503f84d0f-AP_Election_2020_Debate.jpg?auto=webp&crop=5563,3130,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As Trump continues to interrupt during the debate, Biden says, 'Will you shut up, man?'"
     excerpt: "Trump came out swinging, trying to needle his opponent, and he continued to interrupt even after being cautioned by moderator Chris Wallace."
     publishedDateTime: 2020-09-30T01:51:00Z
@@ -887,6 +903,22 @@ related:
     quality: 117
     images:
       - url: "https://i.insider.com/5f73dd1a74fe5b0018a8e233?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'That was a s---show': Pundits called the Biden-Trump debate an unwatchable failure that was mostly the president's fault"
+    excerpt: "The consensus came down to the debate being an embarrassment for America — and an acknowledgement that Trump was far more to blame."
+    publishedDateTime: 2020-10-01T20:56:00Z
+    webUrl: "https://www.businessinsider.com/reactions-to-biden-trump-debate-proud-boys-cnn-cable-news-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/reactions-to-biden-trump-debate-proud-boys-cnn-cable-news-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/reactions-to-biden-trump-debate-proud-boys-cnn-cable-news-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f73f8ba0ab50d00184ad301?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -1380,6 +1412,20 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 69
+  - title: "Looking at photos of Joe Biden, Robert Byrd, Donald Trump and Rosa Parks"
+    excerpt: "The images in the post show Joe Biden and Robert Byrd at a campaign rally in October 2008, when Biden was a candidate for vice president, and Donald Trump and Rosa Parks at a 1986 ceremony for recipients of the Ellis Island Medal of Honor."
+    publishedDateTime: 2020-10-01T20:06:00Z
+    webUrl: "https://www.politifact.com/article/2020/oct/01/looking-photos-joe-biden-robert-byrd-donald-trump-/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 69
+    images:
+      - url: "https://static.politifact.com/img/meter-barely-true.jpg"
+        width: 438
+        height: 392
+        isCached: true
   - title: "Trump, with his baseless attacks on Joe Biden’s mental status, may have set a trap for himself in the first debate"
     excerpt: "The misleading notion that Joe Biden is too addled for the presidency has been driven by President Trump since 2018, when he first started referring to him as Sleepy Joe."
     publishedDateTime: 2020-09-27T20:30:00Z

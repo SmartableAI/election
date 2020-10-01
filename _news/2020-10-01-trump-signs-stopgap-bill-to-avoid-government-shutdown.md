@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The most essential books of the Trump era are barely about Trump at all"
+    excerpt: "As the Washington Post’s nonfiction book critic, I’ve read well over 150 works covering Donald Trump and the major debates of his presidency, and that’s just a small fraction of the canon. Dissections of heartland voters."
+    publishedDateTime: 2020-10-01T19:52:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKM6GYHTOYI6VABFLU2IS5UKZA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z

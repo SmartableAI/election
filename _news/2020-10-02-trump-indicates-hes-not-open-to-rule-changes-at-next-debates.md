@@ -816,6 +816,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "State officials brace for conflict after Trump tells his supporters to go to the polls"
+    excerpt: "State and local officials across the country are scrambling to respond to the potential for voter intimidation and violence on Election Day in the wake of President Donald Trump's calls during Tuesday's debate for his supporters to \"go into the polls.\"\n    \n"
+    publishedDateTime: 2020-10-01T21:39:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ajVDfrbABQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/voting-polls-trump-intimidation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/voting-polls-trump-intimidation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924210438-01-voting-0811-connecticut-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: There's a historic insurrection against Donald Trump happening within the GOP"
     excerpt: "There's a revolution happening within the GOP right under our noses.\n    \n"
     publishedDateTime: 2020-09-28T16:07:32Z
@@ -1520,6 +1536,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump campaign attacks a new target: The debate commission"
+    excerpt: "President Donald Trump’s reelection campaign declared war on the Commission on Presidential Debates on Thursday, savaging it as a partisan outfit bent on undermining the president after Trump’s ultra-aggressive debate performance earlier this week."
+    publishedDateTime: 2020-10-01T21:46:00Z
+    webUrl: "https://www.politico.com/news/2020/10/01/trump-campaign-debate-commission-424633"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/01/trump-campaign-debate-commission-424633"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/01/trump-campaign-debate-commission-424633"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ea/02/25899b2244c9a226840f08edb3e0/201001-debate-commission-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"
     publishedDateTime: 2020-09-25T15:20:00Z
@@ -1581,6 +1613,22 @@ related:
     quality: 134
     images:
       - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30POLLWATCHERS1/30POLLWATCHERS1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Virtually Cuts Off Refugees as He Unleashes a Tirade on Immigrants"
+    excerpt: "The Trump administration said it would lower the annual cap on refugees further into rock-bottom record territory as President Trump pursues pre-election xenophobic attacks."
+    publishedDateTime: 2020-10-01T21:29:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/trump-refugees.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/trump-refugees.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/trump-refugees.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-refugees/01dc-refugees-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -2129,6 +2177,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "+EuNcBSfg0GMcC5aF83d0Vrt/LSrNvT28oEk0mz0ofva6aOiOKVgCu60JkDegtUTWVEBIbexcfkAaCLbTVNxH4jHbBjvu3/dDYTacSheklicbcRFZoqdLXGUKIKqJeHJzSzJQObV2GeoCuPR23m1YinGNt8nY2yeUryt8Mw/T2sCks1Jxjvp53hGrL2vE+mO9+icyt9Hgy9cwavXqpXBHWKSLt+B7qLpffSdsuizZtufRgHQB1WmUVaq+F0gOk4KrreZfzOnd3DWMZ6KJoi5awufVJUKPRKe4gyw9AdLFRspF/11bvNOHaxju1z/xqZPzLPAA9qDfRbC9ZbjVqUK0qJ2bgJmhQKqE3t1GT+5bE0=;nTsp8tYp+Q2zO7N8lTewfA=="
+secured: "s3cB4A+uGXtkYg1y6Z2doaN7sR4zUx6/f/m8M0qVekhzCeFHuA1bs3msEAzpcMlSyj+E0s6UmVhREYFFc1srnGZtwfPtJUmN0sf99K85CyI3aR4rss+ov1kDFgvDCTowy7LCOUyoRjHZqJaBLR9lZY9yMVbSxkSYhpudBiiKOgjALC38w3O2KFxgXbsA5nxE2FZYyrvNqTFTGMQBejzjHzyDQI2KDQdnKQxuVwroL/j5XSnicrKdYdHZXdcAEbbEeUZC9VPX2MQFS5oS+WCs44VaRyTm9N4j95dwJD4xAnaICvkLH0CzN+s1LWxqMZ7txaGnkWc2vcHskO6vS1ySLdT3Ph8lbSuMmDwZeieFYzr/jPig/KHIBFqy8EukULWPOPD794wfJBJ70URB88aSHrn+qKbDcSES1/z7Al7aZFJd9nEhh9M/Wa9Z9FWikmdXU2kwiilCES//V7rUTDjbD366XjlLUV7yqerProfqwS+a0nKmxx2G3mlpomJRs67LXCN1bGG6O5pIqOBP5UaolA==;dy4i287x/LtMKS/hjtWrGQ=="
 ---
 

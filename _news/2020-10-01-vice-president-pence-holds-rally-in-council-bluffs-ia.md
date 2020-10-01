@@ -227,6 +227,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Vice President Mike Pence lands in Des Moines to speak at Family Leader event"
+    excerpt: "Vice President Mike Pence landed in Des Moines Thursday afternoon and immediately headed to speak at an event hosted by the Family Leader Foundation. The trip is Pence's fifth to Iowa this year and comes just days before early voting begins Oct."
+    publishedDateTime: 2020-10-01T20:02:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/10/01/vp-mike-pence-lands-des-moines-iowa-speak-family-leader/5878444002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5878444002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5878444002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence visiting Atlanta next week"
     excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
     publishedDateTime: 2020-09-25T16:13:00Z
@@ -326,6 +342,15 @@ related:
     excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
     publishedDateTime: 2020-10-01T18:07:00Z
     webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-campaign-rally-council-bluffs-iowa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Remarks in Des Moines, Iowa"
+    excerpt: "President Mike Pence addresses a gathering in Des Moines, Iowa, hosted by the Family Leader Foundation. He’s introduced by Housing and Urban Development Secretary Dr. Ben Carson. Vice President Mike Pence addresses a gathering in Des Moines,"
+    publishedDateTime: 2020-10-01T21:30:00Z
+    webUrl: "https://www.c-span.org/video/?476509-1/vice-president-pence-remarks-des-moines-iowa"
     type: article
     provider:
       name: C-SPAN

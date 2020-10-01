@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Demands No Debate Changes As His Campaign Alleges Debate Commission Bias"
+    excerpt: "The Trump campaign said the president will participate in the remaining debates and described second debate moderator Steve Scully as ‘pretty fair’"
+    publishedDateTime: 2020-10-01T20:55:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76414d4b296e2b640e7395%2F0x0.jpg%3FcropX1%3D619%26cropX2%3D5463%26cropY1%3D292%26cropY2%3D2603"
+        width: 1200
+        height: 573
+        isCached: true
   - title: "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges"
     excerpt: "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race."
     publishedDateTime: 2020-09-28T11:22:00Z

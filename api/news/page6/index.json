@@ -2,6 +2,61 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-27-pompeo-claims-trump-foreign-policy-has-made-world-safer-americans-lives-more-secure.md",
+      "title": "Pompeo claims Trump foreign policy has made world safer, Americans' lives 'more secure'",
+      "excerpt": "The idea that President Trump is \"anti-military\" and is suspicious of U.S. intelligence agencies is an untrue \"media narrative,\" Secretary of State Mike Pompeo told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmtWVGLqS50/pompeo-trump-foreign-policy-safer-world",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HmtWVGLqS50/pompeo-trump-foreign-policy-safer-world",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2020/09/26/694940094001_6194720046001_6194725091001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-trump-foreign-policy-safer-world.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-trump-foreign-policy-safer-world.amp",
+      "publishedDateTime": "2020-09-27T04:30:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-trump-tells-fox-friends-he-wanted-to-choose-a-textualist-for-supreme-court.md",
       "title": "Trump tells 'Fox & Friends' he wanted to choose a textualist for Supreme Court",
       "excerpt": "President Donald Trump told Fox & Friends co-host Pete Hegseth that he thinks his nominee to the Supreme Court, Judge Amy Coney Barrett, will be a textualist. ",
@@ -69,7 +124,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3765,
+      "heat": 3825,
       "tags": null,
       "images": [
         {
@@ -315,7 +370,7 @@
       "originalUrl": "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1920,
+      "heat": 1980,
       "tags": null,
       "images": [
         {
@@ -1233,57 +1288,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results.md",
-      "title": "Trump campaign plotting ‘tremendously dangerous’ challenges to election results",
-      "excerpt": "President Donald Trump’s campaign is preparing for a brutal legal battle on the ground after ballots are cast in the Nov. 3 election. The president has refused to commit to a peaceful transition of power,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/",
-      "originalUrl": "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/09/trump-eyes-closed.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/",
-      "publishedDateTime": "2020-09-25T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

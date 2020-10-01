@@ -175,6 +175,22 @@ related:
         width: 791
         height: 545
         isCached: true
+  - title: "The most essential books of the Trump era are barely about Trump at all"
+    excerpt: "As the Washington Post’s nonfiction book critic, I’ve read well over 150 works covering Donald Trump and the major debates of his presidency, and that’s just a small fraction of the canon. Dissections of heartland voters."
+    publishedDateTime: 2020-10-01T19:52:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKM6GYHTOYI6VABFLU2IS5UKZA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
     excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
     publishedDateTime: 2020-09-24T19:01:00Z

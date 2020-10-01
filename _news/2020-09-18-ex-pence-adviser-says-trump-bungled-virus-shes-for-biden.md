@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5135
+heat: 5155
 published: true
 
 provider:
@@ -654,6 +654,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535479749&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0AW"
         width: 848
         height: 545
+        isCached: true
+  - title: "Joe Biden spoke for millions when he told Trump to ‘shut up, man’"
+    excerpt: "Trump has been barking lies and obscenities at the American people since June 16, 2015. What was breathtaking on Tuesday was the ferocity of his bullying. It was a Brett Kavanaugh-like performance that reeked of desperation."
+    publishedDateTime: 2020-10-01T20:28:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/01/joe-biden-spoke-millions-when-he-told-trump-shut-up-man/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/joe-biden-spoke-millions-when-he-told-trump-shut-up-man/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/joe-biden-spoke-millions-when-he-told-trump-shut-up-man/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S2YYI5ACYUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "World reacts with surprise, worry to 1st Biden-Trump debate"
     excerpt: "Many across the world looked on largely aghast as the first debate between President Donald Trump and Democratic challenger Joe Biden devolved into a verbal slugfest short on substance but heavy with implications for America’s international image."

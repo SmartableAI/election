@@ -1722,6 +1722,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden Is Just an Idea"
+    excerpt: "NRPLUS MEMBER ARTICLE L ost in the blinding gaslighting over Donald Trump’s remarks about white supremacists during the first presidential debate was the fact that Joe Biden proved again that he’s little more than a stand-in propped up by a compliant political press."
+    publishedDateTime: 2020-10-01T20:00:00Z
+    webUrl: "https://www.nationalreview.com/2020/10/joe-biden-is-just-an-idea/"
+    ampWebUrl: "https://www.nationalreview.com/2020/10/joe-biden-is-just-an-idea/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2020/10/joe-biden-is-just-an-idea/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/Joe-Biden-Debate.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious match-up in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
     publishedDateTime: 2020-09-28T17:22:00Z
@@ -2079,6 +2095,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "re7gQxnL7XGGBSOxp98eTlAvec3V2o1gjczJpVCYctw/scZ5KPLKJ3jFtcoCOlp203HVcjHbFMMx/pN11lbmCavVbIqKZt+mrR8E6MXK0uyqTZRICs6YbfxapR6y6C6GFKM8oDucbXAVi2fpANo/PTvPkFNBhDv2AIqz7XoyqGaZsmDVvJ76z+N5xXdjMg9VOAbmDGpc6by4Us41T7aG+Kq5vicwEQAgGU5qFGnz2Sy/H/8cu4bBSEmggUGpy3VgTw9ymwp1Jb7iDWj2oAP8k4BTrhuJc1AVlIuAzvcBGmhnLzEbV9MjwWBVLA5vNmo2yl9qP1Rm8isa7luQhLBkYj/48kRoqy/iG0Jyv2I+di8=;I4xmqcWBz0WTb1O56WS6Dw=="
+secured: "cCOLKRw3qkkdpW6roK9CIfE/tDjskCMqDNFTpJR2TX07LGixz4xFkxbOjeiWwxif6GufFGVXHOw7BWDoENITcueUTyEjMSSlZ3B9ZeWxFzUSuVZpZVoo+q5DwHqmxg8aYSwVX+3t1x5WJ1G9998oSaN4mCvbCRjv5mJokDk+pyiq4NcDc4zwwIc76YHVLjMz+/tUSu6h8s1icgoDiDcamkptT/4pRNt1JYiLMa24v4EgXltNaKV+dqbEnodOsmE0vvFW6CvC5TqJ/CrD3Z1AYqlKePzNtCAvbUG62H82YxO4MFZ9TXAku+dDcfiFdaCGu6Xqa7vpMokZT0NpyyVD3Bh5yVHmxTxYKPQfMVFXKgcMM5XldB7IPXkk7cFGo6weBE2qTELOVPvu9E1BpcOGHa+kxjHBSZpBzancOzQIt41fuvOZTyc8lziA+O43mREZPWbaFNVXS5GPsq9JeBg8GYNZRRA/imGWv1f2+Q5G4REzKxUBVTyf3hoX2koD+ey1t5VsJaqOyKawNXWjN9/lWA==;G/WGTxxiPBvueUvMCuSdJg=="
 ---
 
