@@ -238,6 +238,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Carrie Severino: Why is Biden still stonewalling on the Supreme Court?"
+    excerpt: "Tuesday night’s presidential debate—the first between Donald Trump and Joe Biden—began with a question about the Supreme Court, not surprisingly given the pending nomination of Judge Amy Coney Barrett."
+    publishedDateTime: 2020-10-01T11:04:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-stonewalling-supreme-court-carrie-severino"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-stonewalling-supreme-court-carrie-severino.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-stonewalling-supreme-court-carrie-severino.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc522e4f-df0d-43dd-b759-f3f69a66ab3c/17de812d-f314-4d9f-9f1f-19599ee7b752/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden condemns push to fast track Supreme Court confirmation as 'exercise in raw political power'"
     excerpt: "Joe Biden on Sunday made a personal appeal to the handful of Senate Republicans who will determine if President Trump’s pending Supreme Court nominee will go forward."
     publishedDateTime: 2020-09-20T20:15:00Z
@@ -283,6 +299,22 @@ related:
     quality: 120
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c21ff13-034d-41ff-b322-209c6ac326cc/44c56252-abcd-452a-9177-64471c67dc4b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mark Paoletta: Biden used character assassination in Senate to fight GOP Supreme Court nominees like Barrett"
+    excerpt: "As we head toward Judge Amy Coney Barrett’s Senate confirmation hearings on her nomination to the Supreme Court, let’s not forget that former Vice President Joe Biden is responsible for turning the high court confirmation process into a blood sport."
+    publishedDateTime: 2020-10-01T10:18:00Z
+    webUrl: "https://www.foxnews.com/opinion/amy-coney-barrett-biden-mark-paoletta"
+    ampWebUrl: "https://www.foxnews.com/opinion/amy-coney-barrett-biden-mark-paoletta.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/amy-coney-barrett-biden-mark-paoletta.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/21b451ca-3b9b-4537-8e35-c87ebbb8bcfc/da0af8be-b716-4203-98f0-8810e0846ee7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

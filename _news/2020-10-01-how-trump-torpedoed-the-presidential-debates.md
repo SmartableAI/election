@@ -1392,6 +1392,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How Trump Voters View His Position on Pre-existing Conditions"
+    excerpt: "Katz When Pamela Jean Locke votes in November, one issue she’ll be thinking about is protections for Americans with pre-existing health problems. “I think people should be able to have insurance even if they have pre-existing conditions,"
+    publishedDateTime: 2020-10-01T09:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/upshot/trump-pre-existing-conditions-polls.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/upshot/trump-pre-existing-conditions-polls.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/upshot/trump-pre-existing-conditions-polls.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/30/upshot/30up-trump-fans1/30up-trump-fans1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump slightly shifts tone on Proud Boys"
     excerpt: "I can only say they have to stand down,” the president said of far-right extremists, after telling them during the presidential debate to “stand by.”"
     publishedDateTime: 2020-09-30T21:24:00Z
@@ -1407,6 +1423,22 @@ related:
       - url: "https://static.politico.com/72/5d/78acbd6845e3bf3308a2747bacb3/20200930-donaldtrump-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump's last best tactic: Burn it all down"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2020-10-01T11:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-s-last-best-tactic-burn-it-all-down-n1241546"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241546"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241546"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416289/200930-debate-broadcast-jm-0823_20e858bce0cd484a627a22fed369096e.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"

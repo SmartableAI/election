@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-just
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-justice-florida-supreme-court/index.html"
 type: article
 quality: 152
-heat: 152
+heat: 172
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Florida remains top 2020 battleground — Trump's Proud Boys moment sparks Black outrage — DeSantis lets eviction moratorium expire"
+    excerpt: "Between Tuesday and Wednesday, the number of Florida coronavirus cases increased by 1,948 (nearly 0.3 percent), to 706,516; total hospitalizations went up 253 (nearly 0.6 percent), to 44,108; deaths rose by 172 (1."
+    publishedDateTime: 2020-10-01T11:05:00Z
+    webUrl: "https://www.politico.com/newsletters/florida-playbook/2020/10/01/florida-remains-top-2020-battleground-trumps-proud-boys-moment-sparks-black-outrage-desantis-lets-eviction-moratorium-expire-490491"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 86
+    images:
+      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
+        width: 900
+        height: 1165
+        isCached: true
 
 secured: "EQU0iuFgNVUDsCZhT7IpRobQB26/Knz9EYBnOgnQYI0lfLhG8QCTIYx7KwDkj32JECGaV26TwzWaW61gellDOuuBXYXs5wPVxuDpudp4HyGZMIsJP4omSHI/jKzjW+bgmehiDZzd4c8Oa5MMZBXiPAyDLsYdlhJoI7axJADzksP8Zb5AZOVeruYwrtqNg1ALG+26LAlrGJArtTMMWpAnIL/Eg30KlObRochQbF489cu2eTb6F3i7AM8+lG4X4Y1+6EBefsbdUB/lWkkhvNXo52i2wnqfM1DLfZwek83JJhlTK0gjyLPkntzMj9ccLBRwpwF1BfkO8VMqgTMPcFRhky005OnnhljrMEWx+TbnsZE=;GlYXUt1oVSrXgQSn7RggrQ=="
 ---

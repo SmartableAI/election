@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/tech/2020/09/30/trump-biden-presidential
 ampWebUrl: "https://amp.usatoday.com/amp/3587497001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587497001"
 type: article
-quality: 134
+quality: 144
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
@@ -2327,6 +2328,6 @@ related:
       domain: sacbee.com
     quality: 35
 
-secured: "1qMrMwXtP1hm7ktmsrglo6/rQWzHhGqP0W2UncNIl47xHABgFoHhHWVeL7irctv+PfopeybCbK5PMYc5I4GE84KcB6djE3G9A4ht+BYVsduJ6YDI0up7WtUSchdWsdvwto2mArxG7vaLqVTGQApG4MQB4qd09q7Ew7KLv0e7yXYpEY9sp9Fg/v2YPlaNt6TIKCefKkM0xL+9iNGp3jFHiFVUsJY/NgiQAebiIMNEOVFksIsLnLr8zYL9K6w8yF6aQrftrQSuRlKVKwWEJzpElXtm4b9BmmQ3zVBgA7m2zSN1y0BiEdZwRTb5KLCEB7WvctzlYg0TV85lXlodovDa3k7wdnTa4Ax/wGkrZkx6nuE=;1eyXmf0wi1RAk/vOxUmGmQ=="
+secured: "xGhVZPFxPA/xpEvzPmUGTmvyaOdLpEVOkXvOOExgEGukLqBIUv7G7V9PVuG2Rqa0kYsKNRB2fLGKjm1+nDryby6NVoYxUigAveMwBlKEmU+p8E44Cgcwa3wjHHHDOFYhMRCSOh0IhVI5HG8Z8sXs2hEQ76Ixgnym08BtvoM3T+PeE3XDOFdR9tWIZbNOmuEQd47JgwpH9CWNpEwCOdOUidTJa6d2LY/Ueme9n0uFpIDXUaw9CJSqEjYzfsGcFNqX6Gz61MdZugW8oZFcR5SqYzR2A3+5RkWcFrMUHZXJpQutcV3EiOubMqiIf62dkvWDV4gT4+VRzFYVVf2rv3QIiPoZzEwAZocbGtAvGKJuq/j8rYk/3z6RueGjEQDH3D2qg1VlVXwDbSlxBYj1MXTHpMwz+9RfLTbGG+4SHIVyRaAOYUfH6Xb45reEtE0NkrcZVUuhGrtq/8GeRfezNO1WPOmtKEbqhfirHipr6FHqYKDFjEpkaSr0TbICyhYJWqTQkcHDDmL2CYnSDdfPkk6TzA==;GdONBolbNVbuf4f2HXwB5A=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump plans to slash refugee admissions to US to record low"
+    excerpt: "The Trump administration has proposed further slashing the number of refugees the United States accepts to a new record low number in the coming year"
+    publishedDateTime: 2020-10-01T09:50:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-set-miss-required-deadline-2021-refugee-quota-73351093"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-set-miss-required-deadline-2021-refugee-quota-73351093"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-set-miss-required-deadline-2021-refugee-quota-73351093"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_5f77f116102749488f5cafe5346ea292_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "This crowd of RBG fans showed Trump what law and order really sounds like"
     excerpt: "Donald Trump likes to present himself as a law-and-order president standing athwart an angry mob. On Thursday, he visited the U.S. Supreme Court and an angry mob confronted him, making it clear that they planned to thwart him in the most lawful,"
     publishedDateTime: 2020-09-25T10:11:00Z

@@ -1,0 +1,53 @@
+---
+category: news
+title: "Column: What Trump said about the Proud Boys was unconscionable, and obscures a great American tragedy"
+excerpt: "What Americans witnessed in the chaotic dumpster fire of a debate was this: An angry, stubborn and inarticulate Trump, putting his metaphorical foot in his own mouth, and chomping down to leave the stump twitching on the floor."
+publishedDateTime: 2020-10-01T10:17:00Z
+originalUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-biden-debate-kass-20201001-osnvylujkzbklpfode7ozvm6mi-story.html"
+webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-biden-debate-kass-20201001-osnvylujkzbklpfode7ozvm6mi-story.html"
+ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-biden-debate-kass-20201001-osnvylujkzbklpfode7ozvm6mi-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-trump-biden-debate-kass-20201001-osnvylujkzbklpfode7ozvm6mi-story.html?outputType=amp"
+type: article
+quality: 109
+heat: -1
+published: false
+
+provider:
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://www.chicagotribune.com/resizer/8b83RQWxl9uBSBfCaUDcbrSH7AM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZOF2APIM3TBJEULDCUGDMRVNOA.jpg"
+    width: 1200
+    height: 802
+    isCached: true
+
+related:
+  - title: "Michelle Goldberg column: Does Donald Trump need a bailout?"
+    excerpt: "The New York Times' blockbuster exposé of Trump’s taxes makes clear that Trump’s taxes reveal no previously unreported financial link to Russia; the documents mostly “lack the specificity” required to do so."
+    publishedDateTime: 2020-09-29T16:05:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/L-BjTtTiuchRZ91Vvz4hZXI6zXg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK5A6UOHTGJGA67TK5KU33UZ3Q.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "wqXQdm5IN6iTxx4av1a0zkI8wmAsBz+E0uRdfQ8zEAuT//IGjvNBZCWn5PB1g5zmKkzVkL2N/xn/gibWdGx63qpa8lf5RIyECye3UnBmyLrvsox9cVTke33I3K1oQdCb72NJoWECBZ1MnMPQnf792Xi2tSHXWfpePgngS99S3oGBfRDIlItayMCD0oa3ctFw5uEoFYMvdVObKKOW80kXz8mRBBlvSRZEngakkp7C5HwrXBp7ZJbMQImmt+iQNqF75kafTSA5coIQDryLdvljv/1XmTgCEhUe/naXvlegfH7vt+mg3duVV7LzN7jL58i0zTjR2xwkLaUeExLHccHMgRJ/erEX/2Wr9IhBGAqzpS8=;Cv+zVFn7BKyTFp6LbX61HA=="
+---
+

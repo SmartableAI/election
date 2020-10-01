@@ -223,6 +223,22 @@ related:
         width: 1440
         height: 971
         isCached: true
+  - title: "Election debate officials are considering muting candidates' mics, report says, after Trump interrupted 71 times in the chaotic first round"
+    excerpt: "The commission is considering allowing moderators to switch off mics to avoid a repeated of the chaos in the first debate."
+    publishedDateTime: 2020-10-01T10:05:00Z
+    webUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10"
+    ampWebUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5f759dd874fe5b0018a8e6b9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden delivering remarks in Delaware"
     excerpt: "Watch \"Joe Biden delivering remarks in Delaware\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-27T16:29:00Z
@@ -318,6 +334,6 @@ related:
         height: 683
         isCached: true
 
-secured: "J9lDiZ7cDLBsJFFlA+T0m06MyMNsv4FpjuN4bJMlC3mB+34fZ++gNsDObf5UAzp7fM6pmVoaxPdSTFMxaBCamOd3f9HjRh+pTgUMgsbiwWbsnvIN0N8XwFeeli9Cb9AsOwX+f1R73p3ZBVX2IGTQKiYs0oNF7SyCL3REdmbb9zeJQPzKx3mc6pwSC+lXqHes6agENLCzIFX1pI8I2/oKorruXLOfhKUg7ZqGAoHnkohgYmY+LNsM1ii/wMLN3glLsSE1Vcu0fPmJ3uRtckHOuibTMUV01taTznTvGfv2KdXJ3IqaV3jAArhd4Yq877+HVlNdifIE5+3cMBxqYTd3cyX6RE50Nx48n1Woz6TlraA=;hFHRXJmN8xJWwfylm1dqRA=="
+secured: "slaSzXDhUNsdtIYfWKUKi3cd/+EM98z87UZPZGCXiQMoGhvPh5jChO1YBlSKaNrtDbEKZj5J9NPtiD3+9DTUP6iN4Z8cpq3JZcoM+W7TvO+s2mrPqTVfS5JpDPSOX4k0YdKdu9uCAt2a5cLF/IiDwPTV4qJM3NNrJjnk/cSPOE2vsdg/RS6t89bzBRkPcuuu2NDN4jio+qjbVwG8AARyzMJCV8SBwKsOGjmNW5joYPDDPMx3KrU7hrCsPumyBUE/7/c3CPgh6DMmQGVvlO3KXW/sokwuc33P9rqaDEuxHnYYuhS/0ndO8tdk5e7UD+c4BQFhv7lMTQ2k6R93mqyYgXVOyMeLcmTc9q0/7A6D5bp4tDyqz/eLz6neoo8UUhv48wQAdeDLMOxg5PcnwtEzPh0ji3pCUMpUabIQ8grG2fIMHwYIcRX70GEePMITi4JGNg5wqM4v4zZGJ//ZlSGSg/vZSPqnckaYyILJLGS/G7Y7JutToUwODTi2xqyxxd9mCn773dxFiOMJ60r5t8GUGA==;Klt1lqoZbC7iQga8Q9PsjA=="
 ---
 

@@ -208,6 +208,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump or Biden: Who won the first presidential debate? Social media picked a winner"
+    excerpt: "Social media was abuzz with reactions to Tuesday night's political debate, and data suggests that Americans weren't too impressed.  People fired off millions of election-related tweets and Facebook statuses during the heated faceoff between President Donald Trump and former Vice President Joe Biden."
+    publishedDateTime: 2020-09-30T21:01:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/09/30/trump-biden-presidential-debate-social-media-posts-winner/3587497001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3587497001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587497001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 144
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'The Rock' Endorses Joe Biden, Calls Vice Presidential Nominee Kamala Harris a 'Badass'"
     excerpt: "\"I've seen you in those hearings, and in my opinion you're a certified badass,\" Dwayne 'The Rock' Johnson told Senator Kamala Harris."
     publishedDateTime: 2020-09-27T14:05:00Z
@@ -413,22 +429,6 @@ related:
     quality: 137
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/ddcf2f9f-38a1-4f47-9f39-affb43a0f025-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4909,2762,x0,y249&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump or Biden: Who won the first presidential debate? Social media picked a winner"
-    excerpt: "Social media was abuzz with reactions to Tuesday night's political debate, and data suggests that Americans weren't too impressed.  People fired off millions of election-related tweets and Facebook statuses during the heated faceoff between President Donald Trump and former Vice President Joe Biden."
-    publishedDateTime: 2020-09-30T21:01:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/09/30/trump-biden-presidential-debate-social-media-posts-winner/3587497001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3587497001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587497001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 134
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -283,6 +283,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'I did as well as I could': Moderator Chris Wallace talks Trump-Biden debate"
+    excerpt: "Speaking about the debate, Chris Wallace said Wednesday that he \"never dreamt that it would go off the tracks the way it did.\""
+    publishedDateTime: 2020-10-01T11:11:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/09/30/chris-wallace-breaks-silence-trump-biden-debate/3589246001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3589246001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3589246001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/3d2d91d2-e4fd-4bc6-a017-a852c00b22e5-Chris_Wallace.jpg?auto=webp&crop=4095,2303,x0,y206&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'How you doing man?': Trump, Biden start debate with socially distant greeting"
     excerpt: "In the latest sign of how COVID-19 has upended the election, Trump and Biden skipped the handshake at the first presidential debate in Cleveland."
     publishedDateTime: 2020-09-30T01:29:00Z
@@ -987,6 +1003,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SVKP7H6DAJG4DA34MLAEJ4HR3I.jpg"
         width: 5749
         height: 3833
+        isCached: true
+  - title: "The Latest: Trump says he 'enjoyed' debate with Biden"
+    excerpt: "President Donald Trump says he “enjoyed” debating former Vice President Joe Biden, but he is falsely claiming that Biden is trying to get out of the next two debates. Trump spoke at a campaign rally in Duluth,"
+    publishedDateTime: 2020-10-01T11:11:00Z
+    webUrl: "https://www.chron.com/news/article/The-Latest-Biden-says-he-would-represent-all-15609365.php"
+    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-Biden-says-he-would-represent-all-15609365.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-Biden-says-he-would-represent-all-15609365.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "“Unhinged”: There’s No Going Back From the Trump–Biden Debate Train Wreck"
     excerpt: "From Donald Trump’s refusal to condemn white supremacists to Chris Wallace’s feeble interjections to Joe Biden’s clear exasperation (“Will you shut up, man?”), the Hive cringed its way through an excruciating 90 minutes."
