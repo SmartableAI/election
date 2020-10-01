@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/qa-trump-administratio
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump signs stopgap bill to avoid government shutdown"
+    excerpt: "U.S. President Donald Trump signed a stopgap funding bill on Thursday that would keep the federal government open through December 11, the White House said in a statement."
+    publishedDateTime: 2020-10-01T06:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-idUSKBN26M4NP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M4NP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M4NP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535643193&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9037Q"
+        width: 791
+        height: 545
+        isCached: true
   - title: "Federal judge says Trump administration's actions against TikTok 'likely exceed' the president's authority"
     excerpt: "The federal judge, who on Sunday blocked Trump's proposed ban, said TikTok would \"suffer irreparable harm\" if the order were to go into effect."
     publishedDateTime: 2020-09-28T21:44:00Z

@@ -203,6 +203,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fact-checking the first Trump-Biden presidential debate (part 2)"
+    excerpt: "There were so many false claims made by President Trump in the first debate we needed to produce a second report."
+    publishedDateTime: 2020-10-01T07:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/01/fact-checking-first-trump-biden-presidential-debate-part-2/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/01/fact-checking-first-trump-biden-presidential-debate-part-2/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/01/fact-checking-first-trump-biden-presidential-debate-part-2/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-30-2020/t_084e98e6f77344ba9aa60c2d4541a8bd_name_3ea1d082_02d3_11eb_b92e_029676f9ebec_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Trump, Biden compete for battleground Ohio ahead of 1st debate"
+    excerpt: "Democrats and advocates are battling Ohio's secretary of state in court over the number of ballot drop boxes in each county."
+    publishedDateTime: 2020-10-01T06:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-biden-compete-battleground-ohio-ahead-debate/story?id=73181790"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-compete-battleground-ohio-ahead-debate/story?id=73181790"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-compete-battleground-ohio-ahead-debate/story?id=73181790"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/empty-debate-stage-rt-jef-200928_1601299546724_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
     publishedDateTime: 2020-09-27T21:49:00Z
@@ -456,6 +488,22 @@ related:
     quality: 131
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump-Biden presidential debate ratings fall 13% from 2016's record-setting first debate"
+    excerpt: "Fox News Channel drew 17.8 million viewers, the most of any network, while ABC led the broadcast pack with 12.6 million viewers."
+    publishedDateTime: 2020-10-01T06:20:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/09/30/trump-biden-presidential-debate-drew-lower-ratings-than-2016-opener/5869777002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5869777002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5869777002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -827,6 +875,22 @@ related:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "In a state with one of the largest Somali communities, Trump claims Biden 'will turn Minnesota into a refugee camp' before attacking Rep. Omar again"
+    excerpt: "\"How the hell did Minnesota elect her? What the hell is wrong with you people?\" Trump asked the crowd in reference to Rep. Ilhan Omar."
+    publishedDateTime: 2020-10-01T06:38:00Z
+    webUrl: "https://www.businessinsider.com/trump-claims-biden-will-turn-minnesota-into-a-refugee-camp-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-claims-biden-will-turn-minnesota-into-a-refugee-camp-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-biden-will-turn-minnesota-into-a-refugee-camp-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5f7542c674fe5b0018a8e69b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Questions real Houstonians have for Donald Trump, Joe Biden"
     excerpt: "While the debate’s questions are already set in stone, we here at Chron.com thought that Houston voters should be able to ask the candidates, President Donald Trump and former vice president Joe Biden,"

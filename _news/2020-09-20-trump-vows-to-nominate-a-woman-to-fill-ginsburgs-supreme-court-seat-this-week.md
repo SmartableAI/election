@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump keeps hinting he may reject the election results. Is his true goal an immunity deal?"
+    excerpt: "By putting his peaceful departure into question, Trump may succeed in making it a bargaining chip he can trade in for protection from prosecution."
+    publishedDateTime: 2020-10-01T07:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/01/donald-trump-peaceful-departure-immunity-from-prosecution-column/3573454001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3573454001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3573454001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/d9074626-c4e0-4794-a818-5deb00ce9d9c-GTY_1157608706.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bio highlights of Amy Coney Barrett, Trump's high court pick"
     excerpt: "Here are some biographical details on Amy Coney Barrett, nominated by President Donald Trump for the U.S. Supreme Court"
     publishedDateTime: 2020-09-27T06:36:00Z

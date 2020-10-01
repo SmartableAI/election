@@ -1643,6 +1643,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Faces Torrent of Criticism From Fellow Republicans After Failing to Denounce White Supremacy"
+    excerpt: "The Commission on Presidential Debates plans to change the debate format after President Trump’s frequent interruptions threatened to derail the first debate. Mr. Trump’s attempts to sow doubts about the vote alarmed election experts."
+    publishedDateTime: 2020-10-01T06:09:00Z
+    webUrl: "https://www.nytimes.com/live/2020/09/30/us/presidential-debate"
+    ampWebUrl: "https://www.nytimes.com/live/2020/09/30/us/presidential-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/30/us/presidential-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 121
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30elections-briefing-trumpclinton/merlin_112331858_514c434b-0b7b-4b76-a125-3a515d99e7ce-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump team weighs whether to interview new candidates for high court"
     excerpt: "The president’s aides prepared for months for a potential election-year Supreme Court replacement. Now they’re considering other election considerations."
     publishedDateTime: 2020-09-19T18:25:00Z
