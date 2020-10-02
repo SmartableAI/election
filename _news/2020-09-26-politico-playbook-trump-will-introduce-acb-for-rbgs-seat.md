@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump condemns 'all White supremacists' after refusing to do so at presidential debate"
+    excerpt: "President Donald Trump condemned \"all White supremacists\" Thursday evening after pointedly refusing to do so at Tuesday's presidential debate and in the days since.\n    \n"
+    publishedDateTime: 2020-10-02T02:57:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A7HgllHeK_A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001221501-02-trump-1001-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump offered Amy Coney Barrett the SCOTUS job less than 72 hours after Ginsburg's death"
     excerpt: "President Donald Trump offered Judge Amy Coney Barrett the Supreme Court nomination on the same day he met with her, less than 72 hours after the death of Justice Ruth Bader Ginsburg, according to Barrett's Senate questionnaire released Tuesday.\n    \n"
     publishedDateTime: 2020-09-30T00:51:34Z

@@ -63,21 +63,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump Adviser Hope Hicks Tests Positive For The Coronavirus"
-    excerpt: "Hope Hicks, a close adviser to Donald Trump, has tested positive for the coronavirus and is showing symptoms, multiple media outlets reported Thursday. Hicks tested positive after traveling with Trump aboard Air Force One to and from the first presidential debate on Tuesday."
-    publishedDateTime: 2020-10-02T02:00:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/01/trump-adviser-hope-hicks-tests-positive-for-the-coronavirus/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/01/trump-adviser-hope-hicks-tests-positive-for-the-coronavirus/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/01/trump-adviser-hope-hicks-tests-positive-for-the-coronavirus/amp/"
+  - title: "Trump adviser Hope Hicks tests positive for the coronavirus"
+    excerpt: "Hope Hicks, a top adviser to President Donald Trump, has tested positive for the coronavirus, the president confirmed in an interview with Fox News on Thursday, adding that he has been tested and may have to quarantine."
+    publishedDateTime: 2020-10-02T02:19:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-hicks-idUSKBN26N05M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N05M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N05M"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f767924eae66b5a89ece1db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5692%26cropY1%3D439%26cropY2%3D3642"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535795364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9108Z"
+        width: 812
+        height: 545
         isCached: true
   - title: "CDC director contradicts Trump on coronavirus: 'We're nowhere near the end' - NBC"
     excerpt: "The head of a top U.S. government health agency gave a grim assessment of the coronavirus pandemic that contradicts that of President Donald Trump, saying \"We're nowhere near the end,\" NBC News reported on Monday."

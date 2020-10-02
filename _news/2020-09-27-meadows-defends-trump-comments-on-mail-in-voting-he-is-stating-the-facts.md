@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign sues Philadelphia in fight over mail-in voting offices"
+    excerpt: "“Bad things are happening in Philadelphia,” the campaign’s lawsuit said."
+    publishedDateTime: 2020-10-02T02:42:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UGQ1C4NgyME/trump-campaign-sues-philadelphia-mail-in-ballot-offices"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-sues-philadelphia-mail-in-ballot-offices.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-sues-philadelphia-mail-in-ballot-offices.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2533c8ad-3eee-409c-a43b-f7da26df407a/5901ed81-b438-4a23-a7d6-9d1abcb143c3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WV official corrects Trump's ballot-selling mailman story, says 'election will be safe, secure and fair'"
     excerpt: "West Virginia's Republican Secretary of State Mac Warner clarified a false claim made by President Trump during Tuesday night's debate about a mailman who sold ballots, saying that the incident never happened and \"voters should be confident that this election will be safe, secure, and fair.\""
     publishedDateTime: 2020-10-01T19:26:59Z

@@ -1,0 +1,163 @@
+---
+category: news
+title: "Trump campaign sues Philadelphia in fight over mail-in voting offices"
+excerpt: "“Bad things are happening in Philadelphia,” the campaign’s lawsuit said."
+publishedDateTime: 2020-10-02T02:42:22Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UGQ1C4NgyME/trump-campaign-sues-philadelphia-mail-in-ballot-offices"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UGQ1C4NgyME/trump-campaign-sues-philadelphia-mail-in-ballot-offices"
+ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-sues-philadelphia-mail-in-ballot-offices.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-sues-philadelphia-mail-in-ballot-offices.amp"
+type: article
+quality: 175
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2533c8ad-3eee-409c-a43b-f7da26df407a/5901ed81-b438-4a23-a7d6-9d1abcb143c3/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Trump continues to malign mail-in voting; says Dems attacking 'election integrity'"
+    excerpt: "President Trump continued on Sunday his attack on mail-in balloting and other alternative voting measures as the country enters the final month before this year’s presidential election."
+    publishedDateTime: 2020-09-28T00:00:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump campaign, RNC sue to block NC's mail-in voting changes"
+    excerpt: "The RNC accused North Carolina Democrats of \"a backroom deal to overhaul North Carolina’s election procedures just weeks before Election Day.\""
+    publishedDateTime: 2020-09-28T20:00:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F_gMPaJX-cw/north-carolina-lawsuit-absentee-ballot-voting-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-lawsuit-absentee-ballot-voting-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-lawsuit-absentee-ballot-voting-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269575652476.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump’s warning on voting by mail: 'This is not going to end well’"
+    excerpt: "A combustible debate Tuesday night between President Trump and Democratic presidential nominee Joe Biden concluded with a fiery exchange over the integrity of the election and ominous warning from the president."
+    publishedDateTime: 2020-09-30T05:01:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZuHg1yois4g/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-debate-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Meadows defends Trump comments on mail-in voting: 'He is stating the facts'"
+    excerpt: "White House Chief of Staff Mark Meadows defended President Trump's criticism of mail-in voting on Sunday, asserting that there is truth behind the president's concerns."
+    publishedDateTime: 2020-09-27T18:16:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8J28a07iEgA/meadows-defends-trump-comments-on-mail-in-voting"
+    ampWebUrl: "https://www.foxnews.com/politics/meadows-defends-trump-comments-on-mail-in-voting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-defends-trump-comments-on-mail-in-voting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1878cb4c-b211-41ba-adb8-93f301024e37/794ec594-2a9e-4999-8e68-9c801602f254/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "WV official corrects Trump's ballot-selling mailman story, says 'election will be safe, secure and fair'"
+    excerpt: "West Virginia's Republican Secretary of State Mac Warner clarified a false claim made by President Trump during Tuesday night's debate about a mailman who sold ballots, saying that the incident never happened and \"voters should be confident that this election will be safe, secure, and fair.\""
+    publishedDateTime: 2020-10-01T19:26:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJpJBDx99j0/trump-accuses-wv-mailman-of-selling-ballots-but-state-says-it-never-happened-reassures-voters-that-mail-in-ballots-are-being-closely-monitored-for-security"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-accuses-wv-mailman-of-selling-ballots-but-state-says-it-never-happened-reassures-voters-that-mail-in-ballots-are-being-closely-monitored-for-security.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-wv-mailman-of-selling-ballots-but-state-says-it-never-happened-reassures-voters-that-mail-in-ballots-are-being-closely-monitored-for-security.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Ex-campaign aide claims Trump in 2016 used to talk about making Ivanka his running mate"
+    excerpt: "President Donald Trump allegedly considered his daughter Ivanka to be his running mate during the 2016 presidential campaign, according to claims made in a forthcoming book by former Trump campaign official Rick Gates."
+    publishedDateTime: 2020-09-28T21:55:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mslgDPypor4/ex-campaign-aide-claims-trump-in-2016-used-to-talk-about-making-ivanka-his-running-mate"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-campaign-aide-claims-trump-in-2016-used-to-talk-about-making-ivanka-his-running-mate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-campaign-aide-claims-trump-in-2016-used-to-talk-about-making-ivanka-his-running-mate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20267052465066.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump fires back after Dems indicate impeachment could be used to block court nominee: ‘If they do that, we win’"
+    excerpt: "President Trump on Monday claimed he would win the presidential election if House Speaker Nancy Pelosi actually attempted to use impeachment as an option to block his eventual Supreme Court nominee from being confirmed to the seat vacated by the late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T13:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WeggLGU3r-Y/trump-dems-impeachment-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-dems-impeachment-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump planning executive orders on health care to protect preexisting conditions"
+    excerpt: "President Trump is preparing to issue a series of executive actions on health care \"in the weeks ahead\" as his administration fights to repeal ObamaCare in the Supreme Court."
+    publishedDateTime: 2020-09-23T17:57:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CpJYzbH5Wng/trump-planning-executive-orders-health-care-protect-preexisting-conditions"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20264005594957.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "MGkw9OuAtWmQ/Qhif53IzL/OcRfsNYvH7M00mn6ahqet8hsWgEdmJYSBniF19nc5p7Fr5ZoG3M/Xhemao9cWiphIZPfBLeC9L9QAH4aK0F/d9rTS0iBlZ7dojcP14CZNr5WMdPPyhBGpH6ewUtRU77EX1+9RS96cfIJUfF3uiBBgrxAsxShzAofvHssnB5+fL9FyZqPtJAK/JcAcc5lcWJ/d78L4blvvgIs51cDU030WZD+4D6inuBXjiZP4Awk2dnIDiKkW3yOAyXvbbk+qZ5F2K4wI0p5G56avFhHgGOK11c2/2m2JvlU+CDsM73q5anbndhFKenWmgaMtvNDhmi/gcpkbilLRb4zw882WiMg=;5YUQUjB5+XudN7jRjD3ekQ=="
+---
+

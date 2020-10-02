@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
 type: article
 quality: 175
-heat: 1835
+heat: 1855
 published: true
 
 provider:
@@ -752,6 +752,22 @@ related:
     quality: 100
     images:
       - url: "https://media.nbcnewyork.com/2020/09/pence-harris.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden, Kamala Harris to make campaign appearance in Arizona"
+    excerpt: "Joe Biden and running mate Sen. Kamala Harris are coming to Arizona to campaign Thursday just as early voting gets started. The Biden campaign announced the visit to Arizona late Thursday, hours after President Donald Trump announced he would return to the battleground state for his sixth and seventh visits on Monday and Tuesday."
+    publishedDateTime: 2020-10-02T03:11:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/01/joe-biden-kamala-harris-make-campaign-appearance-arizona/5890211002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5890211002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5890211002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

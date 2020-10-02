@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "Trump campaign slams plan to change debate rules after unruly Cleveland encounter"
+    excerpt: "President Donald Trump's re-election campaign on Thursday rejected calls for new rules to govern the next two debates between him and Democratic challenger Joe Biden, after a first matchup marred by constant interruptions and outbursts."
+    publishedDateTime: 2020-10-02T02:58:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idINKBN26M7DZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26M7DZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26M7DZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535768168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9054P"
+        width: 877
+        height: 545
+        isCached: true
   - title: "President Donald Trump, during debate, declares, 'I brought back Big Ten football'"
     excerpt: "While addressing debate topic of economy, President Donald Trump brought up the return of Big Ten football: \"It was me, and I'm very happy to do it.\""
     publishedDateTime: 2020-09-30T03:50:00Z

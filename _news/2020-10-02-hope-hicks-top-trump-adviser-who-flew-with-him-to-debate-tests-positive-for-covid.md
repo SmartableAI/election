@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump condemns 'all White supremacists' after refusing to do so at presidential debate"
+    excerpt: "President Donald Trump condemned \"all White supremacists\" Thursday evening after pointedly refusing to do so at Tuesday's presidential debate and in the days since.\n    \n"
+    publishedDateTime: 2020-10-02T02:57:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A7HgllHeK_A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001221501-02-trump-1001-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump offered Amy Coney Barrett the SCOTUS job less than 72 hours after Ginsburg's death"
     excerpt: "President Donald Trump offered Judge Amy Coney Barrett the Supreme Court nomination on the same day he met with her, less than 72 hours after the death of Justice Ruth Bader Ginsburg, according to Barrett's Senate questionnaire released Tuesday.\n    \n"
     publishedDateTime: 2020-09-30T00:51:34Z
@@ -109,6 +125,6 @@ related:
         height: 773
         isCached: true
 
-secured: "6Pl6D3aVIHgOtiIh2suwolesJFw9+cQD/Nnb5INSeLjjMKJ+1liVmofK21T2askh/wK+gDP6RGnDXWJ9URE/NX9+fLkb4qGrVpv+0WS3/cEorZsSFOdFW+jl+fBJK1vvFXwjop6u27Y8LqkZdVniE8eFtYK1mkCOpWIDI7kAYHMvAt7r09aZ7p0JvyF/bECbrenwa5xh3qth2EJdKgO/rIRBBN/I21KADnsUuGAOZqBA6ofnWaOI7Z1eYZGNWJRc0wM1GPf4DKgFeFPx44z9Uy5jkZLtnOZuUG/oUD3jiRhHv8J29Dz55FXdznI5SWblQTwePf3GQzsU3ygTM29czdbuiZ4I6oDmsvW9vvFsjMg=;sbZgOPDAMz/udski14TRGA=="
+secured: "oy1ZpCZzDJJ7rU95KRyNJq602FTdppc3PrZu5c33gSQB6ciSjLq21gl0pKy/WIqfRvvhYhoubK7sUtSfApI/24jiBuxUDYZbXo3kR+VHJwu0vqQCkYnvS0Tm4kr/3uvWJufWrolRk2a0xVxnApRTUOGtcWenZoT2A4nlg/LSPr1qbKdznlFnQIqnM72bo0f5YEwhx2XVtmMYFXEluH1ybfT2DHTcMVXvx1K49IP48GCDz9GJqexWfImlVZzr28utCO82WTIzMHPCdbHFGn8GFFM3FQWTbW60KdTIP0CSAySJbmAXXyEEg3s9MMA57Ds1eb/1XmOEPN02eZgfG2YhlaBjNqIHiYUaPrJ39fNPCoOcLVmGAldL/KEnQYE5/h/b4J4/iCTVI5NY8sitKnZXgubYFot9JlEptJmzbZbdJPCPSFV4bn+zvxuRMlMmOJKkMhQjueTnb7Qj4olqwBEc84dBJzz5iK2NdsbtPGwhGchtxDKp/xg24c/osRnL9VFWwi28PLH+tLPd/gZNlXPXNQ==;WoeJs2aAdRcqfF1pBPccqw=="
 ---
 

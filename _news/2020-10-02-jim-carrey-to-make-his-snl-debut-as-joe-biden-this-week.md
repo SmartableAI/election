@@ -783,6 +783,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden campaign to begin in-person canvassing"
+    excerpt: "Democratic presidential nominee Joe Biden's campaign will begin in-person canvassing in some battleground states starting early next week, his campaign told The Hill."
+    publishedDateTime: 2020-10-01T18:33:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519154-biden-campaign-to-begin-in-person-canvassing"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519154-biden-campaign-to-begin-in-person-canvassing?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519154-biden-campaign-to-begin-in-person-canvassing?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mreportbidentrain.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "Joe Biden refocuses on economic populism"
     excerpt: "It's hard to put aside the hundred things that make Donald Trump so abhorrent. But this is an argument Democrats always win."
     publishedDateTime: 2020-10-01T18:57:00Z
@@ -2111,6 +2127,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "jb7E7SszURPCzRg46iZGw6dOVOr3BTAo2Zz9z3Ru4g/aczH4RbmjeGt5p5ABClZ3AkPdaegHGD0Ldy7CexmbXqHXazkvU7j+L/PKF/4xzA+wGAtt729s8WjNKL4A4wfjcOEmpoxT+fsNyQBbV/gN+JPMeiyuIuL5nRQ8O6HaTloWQvcSFhn5/42JdsG1M/F8zxyYiKpFKOZblVauujPgeS0gFYybVjX9/0AHREiozHqFIJKmh31Pd75HpMPNWqu8IkPNKe2bFyMZCCp+Q+VByAPj3TcgnbGnQ+Ir9OLH+TcQDVKAQWc044553zV/OEcM8yRh1nZYQaetVs8pKXzrVKVFK3ZAlchqxPCQAeK/sl4=;yoETKvEBPvJGRZebspgZ8A=="
+secured: "/r0Yrw0BUeZOmLOAXZdn0aZSCD/Jjy9Rx22irTt0Xw7C12Y7TOHmfOpRm/wRzO6Ruem80vPYMekh8Cts0RLA/VG0FqLZWch/1Qbg066AvGGjyF2StiipBe6c8XC4a5oXHaoZd2X6P1unpn6R+hcupUxOtkwZj0tTqy9Xvk109WrU9jQOZciS2JZVHhaGzX7VEVLtz1Bm/BmPTHQ9LQZc3hKlSxIHjQGnXntvku0I8upvvSQSjS+Bi0KA6RSfXz1B7mlBNBX0hwKlfBDzyHLoQmhvEfwPaI9OWSrODIALit+J/Du+A2rM/iHqya9DPPf9N4++0acOlThJWZd9nWOniLQtRR36NpoO+KINkru0NFGeLixtgP3vko+E9MQB6UrBAVIVhT+gpvePzCTJhaz+9eYVma4OPjmSxswyF8AE4Ot4lgM3ggqQgMZymDf/+OrD+4143KoYjA1Bgk+NNZHhl1zndKA9pSQVOB0rW0iSmj43C3XZMEIfnhxGCHrRdt0VPJArSeuVyGhpsWQBCUqWKQ==;8JokeuDqKmmmWAG5D/m0Jg=="
 ---
 

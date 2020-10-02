@@ -783,6 +783,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden campaign to begin in-person canvassing"
+    excerpt: "Democratic presidential nominee Joe Biden's campaign will begin in-person canvassing in some battleground states starting early next week, his campaign told The Hill."
+    publishedDateTime: 2020-10-01T18:33:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519154-biden-campaign-to-begin-in-person-canvassing"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519154-biden-campaign-to-begin-in-person-canvassing?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519154-biden-campaign-to-begin-in-person-canvassing?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mreportbidentrain.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "Jim Carrey to make his SNL debut as Joe Biden this week"
     excerpt: "Live\" released a first-look on Thursday previewing actor Jim Carrey in full makeup to portray Democratic presidential nominee Joe Biden."
     publishedDateTime: 2020-10-02T01:47:00Z

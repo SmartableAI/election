@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bloomberg's Florida vote-buying scheme: Electing Joe Biden is not an end that justifies dubious mean"
+    excerpt: "By any means necessary” is a battle cry of the far left, coined by a Marxist philosopher on the Caribbean island of Martinique in 1960."
+    publishedDateTime: 2020-10-02T03:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/1/editorial-electing-joe-biden-is-not-an-end-that-ju/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/1/editorial-electing-joe-biden-is-not-an-end-that-ju/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/1/editorial-electing-joe-biden-is-not-an-end-that-ju/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 60
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/26/election_2020_debate_13227_c0-212-5082-3176_s1200x700.jpg?db917b09d8cbb24332b5ca6852b875bd774a8b48"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Joe Biden Hosts Veterans Roundtable in Tampa, Florida"
     excerpt: "Democratic presidential nominee Joe Biden hosted a roundtable discussion with veterans in Tampa, Florida. Mr. Biden and the attendees discussed many issues affecting veterans such as mental health treatment and educational opportunities."
     publishedDateTime: 2020-09-20T06:25:00Z

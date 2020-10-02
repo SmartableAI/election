@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Bloomberg's Florida vote-buying scheme: Electing Joe Biden is not an end that justifies dubious mean"
+    excerpt: "By any means necessary” is a battle cry of the far left, coined by a Marxist philosopher on the Caribbean island of Martinique in 1960."
+    publishedDateTime: 2020-10-02T03:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/1/editorial-electing-joe-biden-is-not-an-end-that-ju/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/1/editorial-electing-joe-biden-is-not-an-end-that-ju/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/1/editorial-electing-joe-biden-is-not-an-end-that-ju/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 60
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/26/election_2020_debate_13227_c0-212-5082-3176_s1200x700.jpg?db917b09d8cbb24332b5ca6852b875bd774a8b48"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
     excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"

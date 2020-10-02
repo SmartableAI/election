@@ -1008,6 +1008,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden's whistle-stop train tour to battleground states"
+    excerpt: "Joe Biden and his wife Jill take the stage in front of their campaign train during a campaign stop in Pittsburgh, Pennsylvania, September 30. REUTERS/Mike Segar"
+    publishedDateTime: 2020-10-01T22:40:00Z
+    webUrl: "https://www.reuters.com/news/picture/joe-bidens-whistle-stop-train-tour-to-ba-idUSRTX7ZBC0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535743609&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-01T174006Z_36816_MRPRC279J99RZR9_RTRMADP_0_USA-ELECTION-BIDEN"
+        width: 810
+        height: 540
+        isCached: true
   - title: "Questions real Houstonians have for Donald Trump, Joe Biden"
     excerpt: "While the debate’s questions are already set in stone, we here at Chron.com thought that Houston voters should be able to ask the candidates, President Donald Trump and former vice president Joe Biden,"
     publishedDateTime: 2020-09-30T00:14:00Z

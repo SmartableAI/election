@@ -1136,6 +1136,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Last monthly jobs report before election could help Trump win — or sink him"
+    excerpt: "If it’s the president's last month to demonstrate the voters should have confidence in him… it's maybe not the greatest start to the month for him,” one economist said."
+    publishedDateTime: 2020-10-02T03:33:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/last-monthly-jobs-report-election-could-help-trump-or-help-n1241606"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241606"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241606"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 148
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416719/201001-donald-trump-jm-1435_67bd21b3e045dd53b202b0c6f3fde635.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Trump denounces mail-in voting and again casts doubt on the election outcome"
     excerpt: "President Donald Trump railed against mail-in voting and unsubstantiated claims that ballots have been found in wastepaper baskets, even as former Vice President Joe Biden urged Americans to exercise their right to vote by any means necessary."
     publishedDateTime: 2020-10-01T18:11:00Z
@@ -1167,6 +1183,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415551/200928-debates-historical-mn-2x1-1350_fd4050a2bdc154bbf925d3af1001fbca.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "2020 Election Live Updates: Hope Hicks,Top Trump Adviser, Has Virus and Is Quarantined"
+    excerpt: "The Texas governor is reducing the number of ballot drop-off spots in each county to one. With Covid-19 cases rising in Wisconsin, a mayor begged the president to take a planned rally elsewhere. Right-wing operatives were charged in Michigan with several felonies in a scheme to intimidate minority voters."
+    publishedDateTime: 2020-10-02T02:41:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/01/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/01/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/01/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 142
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/world/01elections-briefing-hicks1/01elections-briefing-hicks1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump's debate refusal to discourage unrest after the election shows he doesn't get the U.S."
     excerpt: "America isn't great just because of the brilliance of the U.S. Constitution, but because its leaders have chosen not to override it with the use of force."
@@ -1568,6 +1600,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Hope Hicks, Senior Trump Adviser, Tests Positive for Coronavirus"
+    excerpt: "Ms. Hicks, the closest known person to the president to have contracted the virus, traveled with him this week aboard Air Force One."
+    publishedDateTime: 2020-10-02T01:57:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus-white-house.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus-white-house.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus-white-house.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-hicks/01dc-hicks-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump campaign attacks a new target: The debate commission"
     excerpt: "President Donald Trump’s reelection campaign declared war on the Commission on Presidential Debates on Thursday, savaging it as a partisan outfit bent on undermining the president after Trump’s ultra-aggressive debate performance earlier this week."
     publishedDateTime: 2020-10-01T21:46:00Z
@@ -1581,6 +1629,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/ea/02/25899b2244c9a226840f08edb3e0/201001-debate-commission-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump condemns white supremacist groups 48 hours after debate"
+    excerpt: "Trump condemned white supremacist groups Thursday, two days after he came under fire for his comments on the issue during a debate with Democratic candidate Joe Biden. \"I condemn the KKK. I condemn all white supremacists."
+    publishedDateTime: 2020-10-02T02:26:00Z
+    webUrl: "https://www.politico.com/news/2020/10/01/trump-condemns-white-supremacist-groups-2-days-after-debate-424801"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/01/trump-condemns-white-supremacist-groups-2-days-after-debate-424801"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/01/trump-condemns-white-supremacist-groups-2-days-after-debate-424801"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/6c/29/61a495ba4c3e8a1281da65979b1e/gettyimages-1228834563-1.jpg"
         width: 1160
         height: 773
         isCached: true

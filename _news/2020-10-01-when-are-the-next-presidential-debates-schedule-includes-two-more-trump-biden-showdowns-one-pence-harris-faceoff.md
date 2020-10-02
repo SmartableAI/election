@@ -754,6 +754,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden, Kamala Harris to make campaign appearance in Arizona"
+    excerpt: "Joe Biden and running mate Sen. Kamala Harris are coming to Arizona to campaign Thursday just as early voting gets started. The Biden campaign announced the visit to Arizona late Thursday, hours after President Donald Trump announced he would return to the battleground state for his sixth and seventh visits on Monday and Tuesday."
+    publishedDateTime: 2020-10-02T03:11:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/01/joe-biden-kamala-harris-make-campaign-appearance-arizona/5890211002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5890211002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5890211002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence and Ivanka Trump visit salon damaged in Minneapolis unrest"
     excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd’s death, part"
     publishedDateTime: 2020-09-25T00:38:00Z
