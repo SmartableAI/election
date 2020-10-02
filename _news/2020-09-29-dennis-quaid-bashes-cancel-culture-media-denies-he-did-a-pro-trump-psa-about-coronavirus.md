@@ -112,6 +112,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Michael Rapaport roasts President Trump after he contracts coronavirus: 'Bleach it out'"
+    excerpt: "Michael Rapaport is known for publicly bashing President Trump online and Friday was no different for the actor as he reacted to the news of the POTUS' positive coronavirus test with a steady stream of insults on Twitter."
+    publishedDateTime: 2020-10-02T15:25:00Z
+    webUrl: "https://www.foxnews.com/entertainment/michael-rapaport-president-trump-positive-coronavirus-bleach"
+    ampWebUrl: "https://www.foxnews.com/entertainment/michael-rapaport-president-trump-positive-coronavirus-bleach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/michael-rapaport-president-trump-positive-coronavirus-bleach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/rapaport-trump-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "QjUzq7FrqT+ebIogeUzCPmlF+m6eo1e5lLn9Bv7m8t8V7e7J9gwWfYOanqmHP6q8TxvLlXL6JSUGsNO6fllinEY3hSC8PYUP0qcf/pUYPz4dHeUNzcO3qUgDdlg2DC5LLFBv6ydCEZWpux9bP6XSvKIRvDdzo42H/q9NbAtEZbUHi1ds2Cmj2IpCW3FbELDqO0MpxLPtvzes6ptGq6hjmajbdMYxOgE5jqbpQlEN0mLu1ZsHZSTRIkB/9uCAn9Uxeo6Jzu87zMDJoMfEhXHH7hOSqt0JJEz1GD2Nub+Jn+jV2NkUV51iGXshVf+BA8KFiEirGWl2V7xiiaF6EIg2Ygfj+CoojkcQS7AbCj6o5eE=;QOOEd3F8/JiUxYIj66X0pw=="
 ---

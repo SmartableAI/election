@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 1310
+heat: 1330
 published: true
 
 provider:
@@ -850,6 +850,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/50/a5/685d9d2948b38e60ae7b091123b9/200929-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump campaign manager warns staffers about self-quarantining"
+    excerpt: "Bill Stepien's memo came less than 12 hours after Trump tweeted that he and the first lady had tested positive for Covid."
+    publishedDateTime: 2020-10-02T15:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/bill-stepien-trump-campaign-staffers-quarantine-425165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/72/da/de341a0e4af69106622c535a7480/201002-bill-stepien-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

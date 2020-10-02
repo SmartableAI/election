@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here are the Cabinet members and others around Trump who have been tested"
+    excerpt: "President Donald Trump's positive coronavirus diagnosis has raised questions about the health of those around him, including members of his cabinet and his Vice President.\n    \n"
+    publishedDateTime: 2020-10-02T15:20:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vjHiL3-chw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/covid-trump-cabinet-testing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/covid-trump-cabinet-testing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002101734-01-trump-rally-virginia-0925-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House residence staff 'nervous' after Trumps test positive for Covid-19, source says"
     excerpt: "Staff at the White House Executive Residence are feeling \"nervous\" over President Donald Trump and first lady Melania Trump testing positive for Covid-19, a source familiar with White House operations told CNN Friday.\n    \n"
     publishedDateTime: 2020-10-02T13:53:29Z

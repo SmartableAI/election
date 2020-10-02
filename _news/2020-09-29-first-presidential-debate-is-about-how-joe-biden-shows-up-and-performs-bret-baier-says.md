@@ -1805,6 +1805,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Where has President Trump been in the last week? Rallies, Rose Garden and a debate"
+    excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19."
+    publishedDateTime: 2020-10-02T15:21:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kmlqpf_3DuA/where-has-president-trump-been-rallies-rose-garden-debate-coronavirus-test"
+    ampWebUrl: "https://www.foxnews.com/politics/where-has-president-trump-been-rallies-rose-garden-debate-coronavirus-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/where-has-president-trump-been-rallies-rose-garden-debate-coronavirus-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "RNC chair wants to see Biden talk about policies during upcoming presidential debate"
     excerpt: "“I really want to hear Joe Biden talk about his policies” during the first presidential debate scheduled for Tuesday, Republican National Committee (RNC) Chairwoman Ronna McDaniel told “Fox & Friends Weekend” on Sunday."
     publishedDateTime: 2020-09-27T21:21:23Z
@@ -1848,6 +1864,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b882ebd6-9114-42ed-8b44-c1f6b8c9af72/c46d8994-0a49-4c88-a286-2ecade59b62b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump’s positive COVID test upends presidential race, thrusts spotlight back on coronavirus"
+    excerpt: "In a heartbeat, the spotlight in the presidential election has once again dramatically shifted."
+    publishedDateTime: 2020-10-02T15:48:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C26iE5SnRK4/trump-positive-coronavirus-presidential-race"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-positive-coronavirus-presidential-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-positive-coronavirus-presidential-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/733bbee6-725e-45af-8be0-5f183219ca5a/7ee68a20-dc42-44d9-848a-16c59548162b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1972,6 +2004,22 @@ related:
     quality: 156
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump party at presidential debate did not wear masks, refused offer from Cleveland Clinic for face coverings"
+    excerpt: "President Trump's party at the presidential debate on Tuesday refused to wear masks despite a requirement by the Cleveland Clinic venue that they do so, and they turned down an offer from a Cleveland Clinic staffer to give them face coverings. "
+    publishedDateTime: 2020-10-02T15:34:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GOttDk8iIuw/trump-party-debate-coronavirus-masks"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-party-debate-coronavirus-masks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-party-debate-coronavirus-masks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -2713,6 +2761,22 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Joe Biden Is Just an Idea"
+    excerpt: "Lost in the blinding gaslighting over Donald Trump's remarks about white supremacists during the first presidential debate was the fact that Joe Biden proved again that he's little more than"
+    publishedDateTime: 2020-10-02T15:27:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/02/joe_biden_is_just_an_idea_144350.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/02/joe_biden_is_just_an_idea_144350.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/02/joe_biden_is_just_an_idea_144350.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/522937_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "'One and Done': Speaker Pelosi Says Biden Should Skip The Final Two Debates"
     excerpt: "Speaker of the House Nancy Pelosi weighed in on the presidential debates, following Tuesday’s chaotic contest between President Trump and former Vice President Joe Biden, moderated by Fox News' Chris"

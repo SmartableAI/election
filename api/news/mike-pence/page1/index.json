@@ -2,48 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-02-vice-president-mike-pence-wife-test-negative-for-covid-19-after-president-tests-positive.md",
-      "title": "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive",
-      "excerpt": "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/",
-      "originalUrl": "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5892854002",
-      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5892854002",
-      "publishedDateTime": "2020-10-02T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Des Moines Register",
-        "domain": "desmoinesregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-vice-president-mike-pence-and-karen-pence-test-negative-for-coronavirus-spokesman-says.md",
       "title": "Vice President Mike Pence and Karen Pence test negative for coronavirus, spokesman says",
       "excerpt": "Vice President Mike Pence and second lady Karen Pence tested negative for Covid-19 Friday morning, according to a statement tweeted by spokesperson Devin O'Malley.\n    \n",
@@ -290,7 +248,7 @@
       "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 645,
       "tags": null,
       "images": [
         {
@@ -341,7 +299,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2155,
+      "heat": 2255,
       "tags": null,
       "images": [
         {
@@ -568,48 +526,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-30-trump-told-group-of-christians-how-he-said-excuse-me-when-mike-pence-asked-him-to-pray.md",
-      "title": "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray",
-      "excerpt": "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
-      "publishedDateTime": "2020-09-29T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-former-pence-adviser-appalled-at-pressure-white-house-placed-on-cdc-to-open-schools.md",
       "title": "Former Pence Adviser 'Appalled' At Pressure White House Placed On CDC To Open Schools",
       "excerpt": "Olivia Troye's latest comments confirm reports in New York Times about pressure from the White House to downplay the coronavirus' impact on children.",
@@ -715,7 +631,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 510,
+      "heat": 530,
       "tags": null,
       "images": [
         {
@@ -1381,6 +1297,104 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early.md",
+      "title": "‘Late January, We Knew’: Ex-Pence Aide Says White House Knew Virus Severity Early",
+      "excerpt": "Olivia Troye, a former adviser to Vice President Mike Pence who worked on the White House’s coronavirus task force but has since come out in support of Democratic presidential nominee Joe Biden, confirmed reporting by Washington Post columnist Bob ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/",
+      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a41911984527e515493de%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5010%26cropY1%3D48%26cropY2%3D2867",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/22/late-january-we-knew-ex-pence-aide-says-white-house-knew-virus-severity-early/amp/",
+      "publishedDateTime": "2020-09-22T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-mike-pences-plane-forced-to-return-to-new-hampshire-airport-after-striking-bird.md",
+      "title": "Mike Pence’s plane forced to return to New Hampshire airport after striking bird",
+      "excerpt": "Vice President Mike Pence’s plane was forced to return to a New Hampshire airport on Tuesday night soon after takeoff because it struck a bird, the White House said. Pence was on his way back to",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/",
+      "originalUrl": "https://nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/mike-pence-plane-hits-bird.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/amp/",
+      "publishedDateTime": "2020-09-22T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
       ]
     }
   ],

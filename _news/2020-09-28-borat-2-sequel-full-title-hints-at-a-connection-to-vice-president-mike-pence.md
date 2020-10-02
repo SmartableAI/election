@@ -233,22 +233,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
-    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
-    publishedDateTime: 2020-10-02T12:11:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5892840002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5892840002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vice President Mike Pence to hold presidential debate watch party in Lititz"
     excerpt: "Vice President Mike Pence will be back in the Susquehanna Valley next week.He plans to hold a presidential debate watch party Tuesday night in Lititz, Lancaster County.The event w"
     publishedDateTime: 2020-09-25T16:41:00Z

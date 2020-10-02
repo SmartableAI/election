@@ -169,6 +169,22 @@ related:
         width: 791
         height: 545
         isCached: true
+  - title: "AP PHOTOS: A busy week for Trump before positive virus test"
+    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House."
+    publishedDateTime: 2020-10-02T15:29:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Factbox: Reactions to Donald Trump testing positive for coronavirus"
     excerpt: "U.S. President Donald Trump said in a tweet on Friday he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election."
     publishedDateTime: 2020-10-02T06:55:00Z
@@ -296,6 +312,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/3c9be54e-1f1b-4489-bb6f-74160918199e-AP_US_Election_Debate_Global_Reaction.jpg?auto=webp&crop=5453,3067,x273,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Several of the military's top generals were at White House event days before Trump tested positive for COVID-19"
+    excerpt: "The chairman of the Joint Chiefs of Staff and the top Army and Air Force generals were at a Gold Star family event on Sunday, defense officials said."
+    publishedDateTime: 2020-10-02T15:29:00Z
+    webUrl: "https://www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5ed6e8e5f0f4192dbf3caba2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'Standing by sir': Proud Boys praise Trump's comment telling them to 'stand by' during first presidential debate"
     excerpt: "Members of the far-right group celebrated online over the president's statement during the first presidential debate on Tuesday evening."

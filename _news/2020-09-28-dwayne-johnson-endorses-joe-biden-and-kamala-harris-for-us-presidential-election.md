@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 2980
+heat: 2960
 published: true
 
 provider:
@@ -1784,22 +1784,6 @@ related:
     quality: 75
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-356-4265-2843_s1200x700.jpg?71a3494d6acf51eac834cec2b86da0ad7a3528a4"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Joe Biden Is Just an Idea"
-    excerpt: "NRPLUS MEMBER ARTICLE L ost in the blinding gaslighting over Donald Trump’s remarks about white supremacists during the first presidential debate was the fact that Joe Biden proved again that he’s little more than a stand-in propped up by a compliant political press."
-    publishedDateTime: 2020-10-01T20:00:00Z
-    webUrl: "https://www.nationalreview.com/2020/10/joe-biden-is-just-an-idea/"
-    ampWebUrl: "https://www.nationalreview.com/2020/10/joe-biden-is-just-an-idea/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2020/10/joe-biden-is-just-an-idea/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/Joe-Biden-Debate.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
         isCached: true

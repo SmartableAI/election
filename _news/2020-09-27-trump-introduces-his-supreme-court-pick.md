@@ -157,6 +157,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "White House says Trump 'not incapacitated,' working from isolation; Pence negative"
+    excerpt: "The White House tried to reassure Americans on Friday that President Donald Trump was still working from isolation, after his bombshell announcement that he had caught the coronavirus threw the administration and presidential election campaign into uncertainty."
+    publishedDateTime: 2020-10-02T15:14:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN26N0MX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26N0K4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N0K4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 144
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535828951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910W2"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
     excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
     publishedDateTime: 2020-09-13T21:21:00Z
@@ -221,22 +237,6 @@ related:
         width: 1200
         height: 809
         isCached: true
-  - title: "How Mike Pence could temporarily assume control if Trump becomes incapacitated"
-    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
-    publishedDateTime: 2020-10-02T09:13:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity-idUSKBN26N19X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N19X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N19X"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 136
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535824101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910S6"
-        width: 768
-        height: 545
-        isCached: true
   - title: "Former Pence aide: White House staffers discussed Trump refusing to leave office"
     excerpt: "A former aide to Vice President Pence said that White House staffers have privately discussed a scenario in which President Trump loses the November election and refuses to leave office."
     publishedDateTime: 2020-09-26T03:46:00Z
@@ -268,22 +268,6 @@ related:
       - url: "https://i.insider.com/5f390fe7e89ebf001f0450b5?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
-    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
-    publishedDateTime: 2020-10-02T08:49:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-incapaci-idUSKBN26N198"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 131
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535823594&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910RL"
-        width: 817
-        height: 545
         isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
@@ -445,6 +429,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Trump COVID infection thrusts world in uncharted territory"
+    excerpt: "News that U.S. President Donald Trump was infected with the world's most notorious disease is drawing shock, sympathy and some barbs for the American leader"
+    publishedDateTime: 2020-10-02T15:33:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/shock-sympathy-criticism-world-reacts-trump-infection-73384315"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/shock-sympathy-criticism-world-reacts-trump-infection-73384315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/shock-sympathy-criticism-world-reacts-trump-infection-73384315"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_b53f9831867643c9b3d78d925e946365_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -586,6 +586,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/29/daf5b565-8cd2-4f1e-930b-b9b320374df1/thumbnail/1200x630/838c7ceca12060ee70bf086a2627041a/0929-en-okeefe-556382-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How Mike Pence could temporarily assume control if Trump becomes incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T13:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity-idINKBN26N19X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201002&t=2&i=1535824101&r=LYNXMPEG910S6&w=800"
+        width: 800
+        height: 567
         isCached: true
   - title: "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism"
     excerpt: "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans."
@@ -849,6 +863,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris tests negative for COVID-19, joins Joe Biden in wishing President Donald Trump ‘full and speedy recovery’"
+    excerpt: "Harris was tested Thursday as part of the campaign’s routine testing. Her results came back negative, news outlets reported."
+    publishedDateTime: 2020-10-02T15:02:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/democratic-vp-candidate-sen-kamala-harris-tests-negative-for-covid-19-joins-running-mate-joe-biden-in-wishing-president-donald-trump-full-and-speedy-recovery.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/democratic-vp-candidate-sen-kamala-harris-tests-negative-for-covid-19-joins-running-mate-joe-biden-in-wishing-president-donald-trump-full-and-speedy-recovery.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/democratic-vp-candidate-sen-kamala-harris-tests-negative-for-covid-19-joins-running-mate-joe-biden-in-wishing-president-donald-trump-full-and-speedy-recovery.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 91
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/J6PQVLFDERCORGP7MEI3H56VX4.JPG"
+        width: 1300
+        height: 1011
+        isCached: true
   - title: "Mike Pence and Ivanka Trump visit salon damaged in Minneapolis unrest"
     excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd’s death, part"
     publishedDateTime: 2020-09-25T00:38:00Z
@@ -1089,6 +1119,22 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Could Mike Pence assume the presidency if Trump is sick? What the 25th Amendment says"
+    excerpt: "The answer lies in the 25th Amendment of the U.S. Constitution, which states the duties of the presidency could pass to the vice president. Vice President Mike Pence tested negative for COVID-19 Friday morning and is in “good health,"
+    publishedDateTime: 2020-10-02T14:30:00Z
+    webUrl: "https://www.sacbee.com/news/coronavirus/article246169925.html"
+    ampWebUrl: "https://amp.sacbee.com/news/coronavirus/article246169925.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/coronavirus/article246169925.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 83
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2807fc8e-e4fc-4144-81e4-93f737ce03cb/main/1280x720/27s722ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Borat pranks Mike Pence while dressed as Donald Trump in official trailer for new movie"
     excerpt: "The official trailer for Sacha Baron Cohen's long-awaited Borat sequel has been released, showing the fictional Kazakhstani journalist's return to America - this time with his daughter in tow. In the clip,"
     publishedDateTime: 2020-10-01T22:31:00Z
@@ -1265,6 +1311,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Could Mike Pence assume the presidency if Trump is sick? What the 25th Amendment says | Charlotte Observer"
+    excerpt: "The answer lies in the 25th Amendment of the U.S. Constitution, which states the duties of the presidency could pass to the vice president. Vice President Mike Pence tested negative for COVID-19 Friday morning and is in “good health,"
+    publishedDateTime: 2020-10-02T14:30:00Z
+    webUrl: "https://www.charlotteobserver.com/news/coronavirus/article246169925.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/coronavirus/article246169925.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/coronavirus/article246169925.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2807fc8e-e4fc-4144-81e4-93f737ce03cb/main/1280x720/27s722ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
     excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
     publishedDateTime: 2020-09-26T02:48:00Z
@@ -1369,6 +1431,17 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T15:23:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 61
   - title: "ZIP codes donating the most money to Donald Trump"
     excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
     publishedDateTime: 2020-10-01T11:22:00Z

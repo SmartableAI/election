@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The $750 Question: How Trump's Taxes Reveal The Deep Unfairness Of The U.S. Tax Code"
+    excerpt: "It also found that for the prior 10 out of 15 years, Trump paid no federal income taxes due to insurmountable losses claimed on his corporate tax returns."
+    publishedDateTime: 2020-10-02T15:22:00Z
+    webUrl: "https://www.forbes.com/sites/advisor/2020/10/02/the-750-question-how-trumps-taxes-reveal-the-deep-unfairness-of-the-us-tax-code/"
+    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/02/the-750-question-how-trumps-taxes-reveal-the-deep-unfairness-of-the-us-tax-code/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/the-750-question-how-trumps-taxes-reveal-the-deep-unfairness-of-the-us-tax-code/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 118
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f767678171081b47b0e73c1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3723%26cropY1%3D325%26cropY2%3D2418"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Yes, Donald Trump Is Still A Billionaire. That Makes His $750 Tax Payment Even More Scandalous."
     excerpt: "The bombshell New York Times report raises new questions about the president’s finances. One thing not in doubt: he remains very rich."
     publishedDateTime: 2020-09-28T14:19:00Z

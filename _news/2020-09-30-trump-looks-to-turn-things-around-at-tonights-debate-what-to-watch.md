@@ -854,6 +854,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump campaign manager warns staffers about self-quarantining"
+    excerpt: "Bill Stepien's memo came less than 12 hours after Trump tweeted that he and the first lady had tested positive for Covid."
+    publishedDateTime: 2020-10-02T15:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/bill-stepien-trump-campaign-staffers-quarantine-425165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/72/da/de341a0e4af69106622c535a7480/201002-bill-stepien-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Fox News Pundit Brit Hume: Joe Biden Is ‘Senile’ but Could Still Beat Trump in Debate"
     excerpt: "I don’t have any doubt Biden’s senile, but that doesn’t mean it’s going to show up tonight,” Brit Hume predicted."
     publishedDateTime: 2020-09-30T01:11:00Z

@@ -1904,6 +1904,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Heads of state send best wishes to Trump and first lady after Covid diagnosis"
+    excerpt: "The leaders of Israel, Britain, Russia, India and the European Union wished Trump and first lady Melania a quick recovery."
+    publishedDateTime: 2020-10-02T15:37:00Z
+    webUrl: "https://www.nbcnews.com/news/world/heads-state-send-best-wishes-trump-first-lady-after-covid-n1241776"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241776"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241776"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416907/201002-trump-covid-reax-mc-952_7ec783ecb14f32fb1fdea135f848fb17.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Trump Again Says He Would Welcome a ‘Smooth’ Transition. But He Has Conditions."
     excerpt: "The president warned his supporters of Democratic schemes to “cheat” their way to victory in November and said, “We’re not going to stand for it.”"
     publishedDateTime: 2020-09-26T14:14:00Z
