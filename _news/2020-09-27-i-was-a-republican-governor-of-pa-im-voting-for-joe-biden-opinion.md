@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
+    excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
+    publishedDateTime: 2020-10-01T23:22:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRZ2WVTVNNH53EO2BFXKHACEVQ.JPG"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "M2PZrkFkEGiL8i40QHIq/+Kaa0dSZdGlrajbDBWBTFupsgR1YJkk3R4J0ncv5Iz47hJ/TWnJiEOYtPais2a5mFpCkJ5Ao9qjUS0OmaJ7KD10U8njVlN16Hp4pfYsl6s163TG/rUOjf+/L9rroMFxKvKlKJOZDyDHtbm+g/j7xOE608YQUTCmuNjG6hq6wb9hrNh3ILagF1oQ5iZmyxlqmxl1uPYaJHSwWSVTAxQSzw5M0mcIccgC0yspRr1yIP4BaKUt7uH/jMpjwcFvGR4V34TmTB52nnks3sfckkWwQEoDMlEN2/1nBCfK9yOvVg/0tpAQ95wWxx1v73LWnc4ez/brGCv8V8GEaq0FrUA22ThXDHt91EdhI4ytnmqTcn9F4y1hNwI0ACf9XQlvsJ92ZvY95jWTULfmc16VL24ozVwuv+nVrj8KOT0LLOc0ypdxC3z82MdJ1lOkozA8ULLLDaeRf/apc/i2u0Cpqhv2QGwRQjfhqKrV4I2bg88FpIjk7i4c0I1lhKjEJ5nEDi6jnA==;Xn51azxGwRSBlcjma2L4Gw=="
 ---

@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump and aides oppose debate rule changes and hint they could put future debates at risk"
+    excerpt: "Donald Trump's re-election campaign opposes plans to put in place new rules for his next two debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-01T23:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-campaign-president-may-boycott-debates-biden/5884750002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5884750002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884750002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa10e6f7-8da7-4efd-b579-d8a503f84d0f-AP_Election_2020_Debate.jpg?auto=webp&crop=5563,3130,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Cybersecurity 202: Trump made a slew of false claims about mail voting during the first debate"
     excerpt: "President Trump closed the first 2020 presidential debate with a barrage of false claims about mail voting that are sure to give heartburn to officials trying to run an orderly election amid extremely difficult circumstances."
     publishedDateTime: 2020-09-30T11:22:00Z

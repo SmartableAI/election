@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump and aides oppose debate rule changes and hint they could put future debates at risk"
+    excerpt: "Donald Trump's re-election campaign opposes plans to put in place new rules for his next two debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-01T23:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-campaign-president-may-boycott-debates-biden/5884750002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5884750002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884750002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa10e6f7-8da7-4efd-b579-d8a503f84d0f-AP_Election_2020_Debate.jpg?auto=webp&crop=5563,3130,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Cybersecurity 202: Trump made a slew of false claims about mail voting during the first debate"
     excerpt: "President Trump closed the first 2020 presidential debate with a barrage of false claims about mail voting that are sure to give heartburn to officials trying to run an orderly election amid extremely difficult circumstances."
     publishedDateTime: 2020-09-30T11:22:00Z
@@ -286,6 +302,6 @@ related:
         height: 683
         isCached: true
 
-secured: "WsNqFx6qPOWP443JrzcJpHCK6mr2uwMoVSeq6asHn4PovxmVy9ZIjycDoP2DWEY6d5YPahXXrxdXJYySsaknPT5clepngWQcGkKhj+Do5xaoIlsI8kOyldjBVcz0zoEItYtY/UJSfA19lKPz11qx950gulXBi0Tu0s6vcraUQmrDKbPb8dms1V2QAiulhZD0e7+2IxNU8M97/H5BfvtRzf/bNIo+vWYDByl/4rZAlALuAd5liwxq64FqtYNqmRxgHfYZ3p/LCWtdz5nbnVfxZItV8t64WJU0BnKusAdVxhaIBSQVC5e6nL1YBBrJuBHo4z3sflWx2SASTFfxasQ4RipKZHQAty4NelmJPYB8Aco=;zk8f4vd1bGCVqaRafN/87A=="
+secured: "Y1r6H+agKgiY5uvaKFKkX73JM6E8cEzgcdmkTuvD21JJY9QGV5pLsd1Gi5x7g03cXbghZduZcuqK31t4AJSJNTAeDnke5YWmMYPKpRZjcnBVmr/V2FxWM9lXhBV8Y4AxPtc+tkd6gfz61fgDFUKMZSGVO9yz+HSGMw1kmpAuAoo5LY0UYO0Yo5DJmw3XKYO2a0hPMh9HOS2ZSmBYyEpkRPvXxy8ypcnZVm+U1FeXPJtm/cJVTshtH6oA6gJE21TMdkJu2G8Dt0RtfYvxMx3o2zvwad5LP1hzEuFMswWKH9/Tlb6m59rLmWVvOtP7K9511WvVpcNLuWYupzm/NxWj+edrLpm8hZKPzKlSJHBtAtHjfDI0WgOLh3yag2ZZgtAapPqSHr/3CdpsCHPQW4ktdIs5YFPkIE2dKl24vpLERF/Jag4ywCDsVy2kOvuigA35TOfr6XfTW7ijkQP/xWiRlA8JRV2dRIz8Ek9XkaPfPej0FVvt9eCvq69xigt2FH/6aD/oglU+NI6/l7nDv9z18Q==;oMJPgDjEJXcyy7jxhXeFcQ=="
 ---
 

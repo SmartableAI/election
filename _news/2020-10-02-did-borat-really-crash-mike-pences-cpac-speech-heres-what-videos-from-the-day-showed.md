@@ -91,6 +91,22 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "‘Borat’ Sequel Trailer: Sacha Baron Cohen Returns to Terrorize ‘Yankeeland,’ Mike Pence"
+    excerpt: "“The Democrats,” they reply. The preview also features a scene where Borat — in a Trump costume — attempts to deliver his daughter to a confused Mike Pence mid-speech. Along with the trailer, Amazon Prime — which recently acquired the comedy ..."
+    publishedDateTime: 2020-10-01T22:25:00Z
+    webUrl: "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/"
+    ampWebUrl: "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 67
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/10/borat-sequel-amazon.jpg"
+        width: 1800
+        height: 1013
+        isCached: true
   - title: "'Borat' Sequel Trailer: Sacha Baron Cohen Takes on Mike Pence in First Look"
     excerpt: "Directed by Larry Charles, the trailer teases Borat's move from Kazakhstan to the United States for a special mission — and includes a surprise convention drop-in during a Mike Pence speech. Disguised as Donald Trump and with a half-naked,"
     publishedDateTime: 2020-10-01T14:52:00Z

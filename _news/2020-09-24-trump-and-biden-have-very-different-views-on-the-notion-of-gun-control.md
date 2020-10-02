@@ -1849,6 +1849,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign says Commission on Presidential Debates 'not impartial,' amid talks of rules, format changes"
+    excerpt: "The Trump campaign on Thursday slammed the Commission on Presidential Debates as partisan, as the organization suggested it could modify the rules and format for the remaining presidential debates between President Trump and Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-01T22:28:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IgmgtGs7Pxk/trump-campaign-slams-commission-on-presidential-debates-partisan"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump camp seeks extra debate rule: Third party inspectors to look for electronic devices in candidates' ears"
     excerpt: "President Trump is asking for an additional ground rule ahead of Tuesday night’s first presidential debate between himself and Democratic presidential nominee Joe Biden."
     publishedDateTime: 2020-09-29T14:36:00Z
@@ -2317,6 +2333,22 @@ related:
     quality: 117
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98809806-4c7b-4706-94f3-7079ab0f27bd/222722b2-2f73-4d4e-acf6-1abf5fd9305b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign says Commission on Presidential Debates 'not impartial,' amid talks of rules, format changes"
+    excerpt: "The Trump campaign on Thursday slammed the Commission on  Debates as partisan, as the organization suggested it could modify the rules and format for the remaining presidential debates between President Trump and Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-01T22:33:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88600ec3-e5bf-4f6b-a350-056b34ddd34c/eca2b18a-d874-444a-8cfb-5d68829fdc5e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

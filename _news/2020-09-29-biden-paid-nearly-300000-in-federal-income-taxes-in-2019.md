@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Biden flip-flops on door-knocking with just 33 days left"
+    excerpt: "Biden's campaign announced plans to start door-to-door campaigning after insisting for months the strategy wasn't necessary."
+    publishedDateTime: 2020-10-01T23:16:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/01/biden-flip-flops-on-door-knocking-with-just-33-days-left-1319582"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/65/ac/d885bdd04d24856933469af10242/gettyimages-1277705292-1.jpg"
+        width: 1160
+        height: 774
+        isCached: true
 
 secured: "pO/uxA4XojjpHyJ/893blv2RYvDj4O73ZcyeNdrafFk2D2CFXLU9XiFnayfUDH/8Y3m5/CP6rWlmkGxSj1eHw1MBS2f+FWnp7tCqvSoKX+rwBaUVZpuFhGaldIxyyLf0s20ReWoWvPUOfEVqJ9lh7N6mV7gcd4SGqJWIhozgV9i7LK3UEKD+0IOPevWerEdUShDu5XvHHAF0MYEZqKLwHu4O2A3XjItOylaVL21PQX583r54ub/BqXGfkk7wLIbKDCGrYJ17MbPGxT/5WAUE5Wawjr3IyQFZsCqoOpSSbGPFtpjR/npihTvVUZwOE6bRcuScPBN+8eJrAbItJrgt8Yu5CNkDonxKJyF1XDA73Jk=;bE2AKiLwg21A7+Krp3qlZA=="
 ---

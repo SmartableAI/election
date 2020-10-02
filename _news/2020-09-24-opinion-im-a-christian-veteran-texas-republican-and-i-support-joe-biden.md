@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-C
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php"
 type: article
 quality: 123
-heat: 163
+heat: 183
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
         width: 1200
         height: 864
+        isCached: true
+  - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
+    excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
+    publishedDateTime: 2020-10-01T23:22:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRZ2WVTVNNH53EO2BFXKHACEVQ.JPG"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "xP3VrgrNeHwUc3aHMBNX2NC1C2tteiA8hkS6yVXbQmA/lxA+9WB4TCDbHo86Ocms1azdt+5JPcTxgRKU9et+Lgupo2LZatqXujO0Uq9m1mklJi2a03LLdQ0elSsZREUAHc6fBFZ1+k6USYXA5XYrT6yqibRH+w4mEy6OD7pxFTiR6QliSxT8gfOQHVjnpIK2pHR9GtMhyJ+fkd9Tz9vzTkpZSeBSJ3sogNTkYWDXEIn/ihY35LjJV16TUwSIcF5gD8+0Pk+pDx2sywyzsTJR1BDW5SuYGCy6ZnscbQ/mF4ls9TSUcfmHdQLjw7OeZ9hZ4fUdfk38tpEy9yCO4l8frcAjyW2RjqVhB450Z73RlAiGWT7nG27F5Ws8GDNsD6CtdTaOXVL8MFNGActNRPTDUlWyMgUvr9Pvw005pgIp8QZX4s2fuUOa2uzmSuZRSXUzTmJtZAM75rnxHzf22YAo4KbqYeik5vpP69fxCYGAg+42Z/GKwb/lDDVxG46Afv51q97ZDRCifu87R51nu2Rd5A==;m46NrTSIx7G6F4k41dUqqg=="

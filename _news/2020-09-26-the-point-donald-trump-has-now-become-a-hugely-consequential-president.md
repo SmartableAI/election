@@ -607,6 +607,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump campaign says it doesn't want changes to debate format "
+    excerpt: "President Donald Trump's reelection campaign said Thursday it opposes the Commission on Presidential Debates making changes to the format of the remaining debates after the commission said it would be adopting changes.\n    \n"
+    publishedDateTime: 2020-10-01T22:24:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/So_DFwEIbSw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-debate-changes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-debate-changes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's latest punt on White supremacy shows a debate rebound will be tough"
     excerpt: "President Donald Trump's failure yet again to unequivocally condemn White supremacy Wednesday -- to clear up a chilling moment from his debate clash with Democratic nominee Joe Biden -- shows how he may find it impossible to reboot for their next crucial contest.\n    \n"
     publishedDateTime: 2020-10-01T08:47:14Z
@@ -1518,6 +1534,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416289/200930-debate-broadcast-jm-0823_20e858bce0cd484a627a22fed369096e.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Facing Grim Polls, Trump Leans Into Playing the Victim"
+    excerpt: "Be it congressional Democrats, the news media, the standards enforcers at Twitter or, now, the debate commission, President Trump has repeatedly blamed others for problems and self-inflicted wounds."
+    publishedDateTime: 2020-10-01T23:28:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/trump-polls-victim.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/trump-polls-victim.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/trump-polls-victim.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01trump-victim1/merlin_177879381_b99a4b80-8e69-409b-97c8-21018efb0cfa-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump campaign attacks a new target: The debate commission"
     excerpt: "President Donald Trump’s reelection campaign declared war on the Commission on Presidential Debates on Thursday, savaging it as a partisan outfit bent on undermining the president after Trump’s ultra-aggressive debate performance earlier this week."

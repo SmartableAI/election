@@ -2,23 +2,29 @@
 category: news
 title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
 excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-publishedDateTime: 2020-09-29T12:55:00Z
-originalUrl: "https://www.kansascity.com/opinion/article246083820.html"
-webUrl: "https://www.kansascity.com/opinion/article246083820.html"
-ampWebUrl: "https://amp.kansascity.com/opinion/article246083820.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/article246083820.html"
+publishedDateTime: 2020-09-29T10:00:00Z
+originalUrl: "https://www.miamiherald.com/article246083820.html"
+webUrl: "https://www.miamiherald.com/article246083820.html"
+ampWebUrl: "https://amp.miamiherald.com/article246083820.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246083820.html"
 type: article
-quality: 53
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0354de2-2fc7-422c-89df-cc7516e2f05e/01b86a55-d427-45ba-b8a6-369275b0a37f/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
@@ -919,6 +925,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Borat pranks Mike Pence while dressed as Donald Trump in official trailer for new movie"
+    excerpt: "The official trailer for Sacha Baron Cohen's long-awaited Borat sequel has been released, showing the fictional Kazakhstani journalist's return to America - this time with his daughter in tow. In the clip,"
+    publishedDateTime: 2020-10-01T22:31:00Z
+    webUrl: "https://www.newshub.co.nz/home/entertainment/2020/10/borat-pranks-mike-pence-while-dressed-as-donald-trump-in-official-trailer-for-new-movie.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/entertainment/2020/10/borat-pranks-mike-pence-while-dressed-as-donald-trump-in-official-trailer-for-new-movie.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/entertainment/2020/10/borat-pranks-mike-pence-while-dressed-as-donald-trump-in-official-trailer-for-new-movie.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 82
+    images:
+      - url: "https://www.newshub.co.nz/home/entertainment/2018/07/sacha-baron-cohen-hints-at-new-donald-trump-movie/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1530832865284/GETTY_SACHA-BARON-COHEN_TRUMP_1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
     excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"
     publishedDateTime: 2020-09-24T21:49:00Z
@@ -1239,6 +1261,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "uBq1a2MePHEVuL5L8d8MWQsOw5P2GPKAPfSrk+QnhJztjuEhGMFH5t01tH4CXXIKUUor1om5rqpVngFYYL91pN3X/tGMzOHSlWBdGtgXcvGBD4Ef/8EtX7wwdqtqwHhCE2J0CmYj3A3QEL+UeSJA99vubAE3lyBipYIolfUcjPMmM038QRTiqqbQGL021KE094Spx16h5brhy5TldAwdpw9AJ85EEtVH90gDz0QENPrbEo5ZGUIBPAE4EaVjG7IVZH+qP5uKKgp+NWmdVetDYiZpCv+4WC7HPI3Sgrf/4axMlWKS4vtXzxktAcfjX6zyMccUbyccCn4uHEWpj3u6hV9rXHLdFeUvyrM60ESuJWre8wL4pFGBCTmCyJSEuCYNTYEYaRejBiQ8iby2pCXscMDRcXnvvJZOSFcWa1TeAy0yElOzRNchqiAeTyEptVdfOrtqGLP/GksGCK3LOfloN2gGzr/Ev42cHNzSsddKCKXAjm1WjLIL7whFB8tBdgJk5/7e3dfREupUd5EnlImqiA==;Xjdb6lue+RB3CPCz46WjqA=="
+secured: "Bf01duoz3qvji3gA1upXMlnrJbElMEwoXX4X1pm5QqkhfEdmMqzMjRqG/X5S9V8vnDXhWAO0b1ZcG1Pc31FJiB434ewwi22vDL+m634Qme6gRHugmdFR/y9aEot8NQdwdJZpKuoRvdC0ASC8jylR1J0RxXJ7+ZPWGqy+Y3O4MrC5QUy1OPMQbKmaC9F+2U5w8PLEFAFbjsh8W7w6qX+YelgjS/gmtBES8Ji5bTiHBB0lRVuwrpC1crEXe6fsXRJruHUU5UP08I4YmdbiLVR5QoDQfR+bQkRjohX6pjl/S/CMOMbjOeFW3EIiphepaxRqGev8lGc2JceVKtV6Rl033DJkrp+suY1Xb+inexFDTVo=;v9DdY2cURsasIzbkBmHczw=="
 ---
 

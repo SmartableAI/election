@@ -29,51 +29,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name"
-    excerpt: "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name."
-    publishedDateTime: 2020-10-01T02:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+  - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
+    excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
+    publishedDateTime: 2020-10-01T23:46:00Z
+    webUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins"
+    ampWebUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 114
+      name: The Hill
+      domain: thehill.com
+    quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Donald Trump sidesteps call to condemn white supremacists — and the Proud Boys were 'extremely excited' about it"
-    excerpt: "Debate moderator Chris Wallace asked if Donald Trump would urge groups to stand down and avoid contributing to the violence. He sidestepped."
-    publishedDateTime: 2020-09-30T12:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/trump-debate-white-supremacists-stand-back-stand-by/3583339001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3583339001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583339001"
+  - title: "Detroit pastor wants Biden to reach out more to Black community"
+    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
+    publishedDateTime: 2020-10-01T19:52:00Z
+    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/615b05e1-ec70-40f4-99c5-e7bec4e73719-AP_Election_2020_Debate_2.jpg?auto=webp&crop=5180,2914,x0,y263&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'"
-    excerpt: "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\"."
-    publishedDateTime: 2020-09-30T20:04:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 102
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08sztpk.jpg"
-        width: 400
-        height: 225
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy | Charlotte Observer"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T17:04:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
 
 secured: "rUZPh9Q1hjdsfFcin8RPsefZ70FwL8/bwZ0uzqwQ1Im3t4/dKXneGmYpGfNUmO0S2UTFgJybMN5i9Mt1Q0FKJmzdzKL0bdfubDZuGANyUhvZKq26+BfRu1Z0/T9UDINNRoihAVUWJoVVjAxL+yByESissGaT5xZQt7XTYigyEYLHGP3nqeIkWzTM/1Vp7OYwUBKRc4mKc68XddZFiVQt/HZ26akGs8aVuwSjP1aqkx+GtOeN6/Yz0I5uqShbTEydk86zhm+/9A57tgNGnoyKAQoYkM8tEJxvsBHz2TXggnznQ2/lepNjHi+4s1yBs7mmJ/Yg8pWHpttVQhoiqnqt1iw9FN2Dhy9peaVC8xtEYeTkI3cSSBzUJN3pZBRLnJWcw6ItRrHVW1bSloiixSnxtsuqHGvhYr4AoGu+3ok0XsS+Qo4Yp/PlRyStsRenqLXe5tJA3Rd1nOwen0okyNHXWgQLyAkL2SpllGah8WebBYYsZABY9Hf56TWU6bw5iOwAOEF7N8CcuECIRcb9J/fEVQ==;4MsRyJH2lZRairaFjlfo1g=="

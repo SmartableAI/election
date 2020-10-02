@@ -47,20 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to Proud Boys: 'Cease and desist'"
-    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
-    publishedDateTime: 2020-09-30T21:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'"
     excerpt: "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\"."
     publishedDateTime: 2020-09-30T20:04:00Z

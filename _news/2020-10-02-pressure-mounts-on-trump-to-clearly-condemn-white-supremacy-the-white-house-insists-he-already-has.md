@@ -913,6 +913,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Borat pranks Mike Pence while dressed as Donald Trump in official trailer for new movie"
+    excerpt: "The official trailer for Sacha Baron Cohen's long-awaited Borat sequel has been released, showing the fictional Kazakhstani journalist's return to America - this time with his daughter in tow. In the clip,"
+    publishedDateTime: 2020-10-01T22:31:00Z
+    webUrl: "https://www.newshub.co.nz/home/entertainment/2020/10/borat-pranks-mike-pence-while-dressed-as-donald-trump-in-official-trailer-for-new-movie.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/entertainment/2020/10/borat-pranks-mike-pence-while-dressed-as-donald-trump-in-official-trailer-for-new-movie.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/entertainment/2020/10/borat-pranks-mike-pence-while-dressed-as-donald-trump-in-official-trailer-for-new-movie.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 82
+    images:
+      - url: "https://www.newshub.co.nz/home/entertainment/2018/07/sacha-baron-cohen-hints-at-new-donald-trump-movie/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1530832865284/GETTY_SACHA-BARON-COHEN_TRUMP_1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
   - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
     excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"
     publishedDateTime: 2020-09-24T21:49:00Z
@@ -1024,6 +1040,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/E7EWO7O5E5HUXDEI4UH7XZ46OE.jpg"
         width: 2961
         height: 1974
+        isCached: true
+  - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
+    excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
+    publishedDateTime: 2020-09-29T10:00:00Z
+    webUrl: "https://www.miamiherald.com/article246083820.html"
+    ampWebUrl: "https://amp.miamiherald.com/article246083820.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246083820.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 73
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0354de2-2fc7-422c-89df-cc7516e2f05e/01b86a55-d427-45ba-b8a6-369275b0a37f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris to tour Flint small businesses Tuesday before events in Detroit"
     excerpt: "Democrats need high voter turnout in Detroit and Flint to win Michigan, a state Trump won by 10,704 votes in 2016."
@@ -1147,17 +1179,6 @@ related:
         width: 1200
         height: 704
         isCached: true
-  - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
-    excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-    publishedDateTime: 2020-09-29T12:55:00Z
-    webUrl: "https://www.kansascity.com/opinion/article246083820.html"
-    ampWebUrl: "https://amp.kansascity.com/opinion/article246083820.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/opinion/article246083820.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 53
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z
@@ -1244,6 +1265,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "YpqqD+lhz+TL3IO1uEQlhBcV9Ltj5RlUQ4xuEONVn9ktrU233BH+VqcK+5OIUnnxmt7H0t5vfAVBPhaBcJeKBwQcKxqUI8IUPGbZL/OvvAAC3TVR7n5vJ23YPzvreoKQw4aIjw2/4jRUqkzgr0qNM9n4wvUlgBX3IQFRbms8exnvlIz5puCUtl6ZpW191CUO1g+ovtQYqenCtug+iDeizmF/zFS3qXF+3fBYfl0fxDDEEIVvPMjbcP+Af/anoWg4ARjXyqVwUPZsB2uCGBmYYGiDA7Ab8ZKsLm02ZwWp5lKHFsVMW56en8PDLie4kwQ38+e2KvM1GM5nnRS7JwhXzzxCgTiyEZgWDjC6QmflDjQ=;RBXaUoglS3noMSJBkivfGg=="
+secured: "k2K8kUjBQCx5wlL0T3qLRL5u8++aUuSShFkzOC4ZUBynEIhM4/ZcvSiQpmf8GQwlOx0IOFrGm7JH7TDiZCq80Lnv0usOGdfXY6fFf7qmBP4Egn/XJkt7QXnWfnsnYHbI1xwS3FR4VA64YhtZ/O6Xn4nTOex9qJqlbH9GHjCWtKZp0YD4euS0kJiCgayJrgBjKrGjR93oOHOldOEqSZ7pXmhypw1i8dphb3Euh8kygwuHiMcDPDfVND5JzOdaCU/EcrjatuEGebQTTMukWNjcvS6ZFVfwTm9jvsoLDm1txBDSRyP5nSIxOvyhG74pfmnIPrkFL5Tt524tJHkRpaoCxG+E/2YvhimC0jGoC6+q2g/LedHclCyXRKBK+fxbgXlyCrfB2KBjyk49Ui1FQjwE5ZbC8YMgTCbOwXMslyAAMuGKYg4PYJMLo/FFDiBGYXxtpWP4+nMb3Zm2c57vxohrNkmMOVkS3tmsr087nh4yGYrsKcUhevq98hD+Nv7lHWmhBgY2ZSbF8HICPlQw/4YJ9g==;JX7TedfP/511AP4tM7pIvg=="
 ---
 

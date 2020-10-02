@@ -847,6 +847,22 @@ related:
         width: 3500
         height: 2245
         isCached: true
+  - title: "Trump, Biden debate was exchange of insults and incivility. See for yourself."
+    excerpt: "The first debate between Republican President Donald Trump and Democratic candidate Joe Biden will probably be remembered for the personal attacks, insults and incivility that surprised and dismayed even the most jaded viewers."
+    publishedDateTime: 2020-10-01T22:58:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/2020/10/01/2020-debate-trump-biden-presidential-debate-campaign/5879363002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5879363002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5879363002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/e5c5e019-0aac-446d-80d4-79f63e86b62d-Debate-recap-topper_promo_copy.jpg?auto=webp&crop=2025,1139,x612,y1361&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why Biden and Trump are both headed to Minnesota to battle for the middle class"
     excerpt: "Twin campaign visits to Minnesota Friday by President Donald Trump and Democrat Joe Biden will focus on who is more trusted on jobs and manufacturing."
     publishedDateTime: 2020-09-18T08:04:00Z
@@ -3495,6 +3511,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-biden-prepare-to-debate-at-a-time-of-mounting-crises"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-biden-prepare-to-debate-at-a-time-of-mounting-crises?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-29/trump-biden-prepare-to-debate-at-a-time-of-mounting-crises?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "After Bitter Debate, Trump, Biden to Speak at Charity Event"
+    excerpt: "Two days after their acrimonious debate, President Donald Trump and former Vice President Joe Biden are set to participate in an election season ritual designed to put political differences aside for one night for the sake of charity and comity."
+    publishedDateTime: 2020-10-01T22:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-01/after-bitter-debate-trump-biden-to-speak-at-charity-event"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-01/after-bitter-debate-trump-biden-to-speak-at-charity-event?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-01/after-bitter-debate-trump-biden-to-speak-at-charity-event?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

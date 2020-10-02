@@ -831,6 +831,22 @@ related:
         width: 3500
         height: 2245
         isCached: true
+  - title: "Trump, Biden debate was exchange of insults and incivility. See for yourself."
+    excerpt: "The first debate between Republican President Donald Trump and Democratic candidate Joe Biden will probably be remembered for the personal attacks, insults and incivility that surprised and dismayed even the most jaded viewers."
+    publishedDateTime: 2020-10-01T22:58:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/2020/10/01/2020-debate-trump-biden-presidential-debate-campaign/5879363002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5879363002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5879363002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/e5c5e019-0aac-446d-80d4-79f63e86b62d-Debate-recap-topper_promo_copy.jpg?auto=webp&crop=2025,1139,x612,y1361&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden promises Russia will 'pay a price' for election meddling while Trump rails against his own FBI director"
     excerpt: "Trump attacked FBI Director Christopher Wray for testifying on Thursday that Russia is interfering in the 2020 election to undermine Biden."
     publishedDateTime: 2020-09-18T02:56:00Z
@@ -3500,6 +3516,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "After Bitter Debate, Trump, Biden to Speak at Charity Event"
+    excerpt: "Two days after their acrimonious debate, President Donald Trump and former Vice President Joe Biden are set to participate in an election season ritual designed to put political differences aside for one night for the sake of charity and comity."
+    publishedDateTime: 2020-10-01T22:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-01/after-bitter-debate-trump-biden-to-speak-at-charity-event"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-01/after-bitter-debate-trump-biden-to-speak-at-charity-event?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-01/after-bitter-debate-trump-biden-to-speak-at-charity-event?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z
@@ -3849,6 +3876,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "w2iB2BmKEwDHZ2K20BQHLyLHqOrFOCK1L/JRWEYjH4vbjPtSsbZ6ioyfA2IcvnvviSlv9FpC+99aCYxc1BOheIPURTUYMpshR0vMRtki+VnfDyesVuz+zGwgQA0sSeTWDL8Ig/1atsbZ2iNxqEadA8N+bOKh2kwJ03vAxsfeRFiBtK46Wyh5VKQGRQYrUKmaPwrqyIx0Nu+T8qIkdcL4uNpxWCBMIgtCtd84Tv4OZLwNZ/LLXicwveJ3Y7/Zc819yMTajciBYB3t0SQxV7vL2o/eF36I0leptrn2BThN8PYhCoNwegTrh9uo5HgOcPYE0D4uPN8e/Qvp25fpkSlEBXvLpL8yuB24maar+BMIjhk=;UZwx3Gg2DNyWhQLwvzWB1g=="
+secured: "+Lv07AzlzpjDWbZkjf+psN2GolgQ63v9epUcbYk/qy7XunlXX+HaOkuk6gHmq8z7lHenDR6UhGxdkgdLytKdKU8DcizQ9l4/fIvrAfy7oqZGtc6jUr1fbiC7op+caj1lr+Dlk3eYJrirC6a+pU2T+DlB9lxsR5ZAYEB9m1++cf2ZmuUfV3iV83EauQbWhMidGd1bdZYRoyKcTtxVkcgaHDKPimNSN+2//AAInzRZ7zoUnm8tnRaBUgPhcb+uF92uh0S+JNQBA4aQAiE1EtUjVcj9fQQxIewjdeEB9N6ZT1ZG8od9TWwRgRZNEuqjiuqGelTS7T8CeSNPwrYckBdjj59eQ3J5bhWj5X7u1A7gJvffOidC5zHIeZK+ukGaE7e4pAyV2ARi7JotMKtOY7aFtAkreI6VK0Co1/olcVeXU2e9I+yWiUNnW1jw/WWnCizN2oeQocZqikl9nNmHtXxflr27HavXXncbcQAG7cGCFwZe/nnYMRiWPt4AzJ14rHWcsQCmUBq7v6Kunx2EQtrQpA==;OdUBB9lLN17aNog076/wfA=="
 ---
 

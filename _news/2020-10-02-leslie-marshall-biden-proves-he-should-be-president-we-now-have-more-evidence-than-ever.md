@@ -1864,6 +1864,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign says Commission on Presidential Debates 'not impartial,' amid talks of rules, format changes"
+    excerpt: "The Trump campaign on Thursday slammed the Commission on Presidential Debates as partisan, as the organization suggested it could modify the rules and format for the remaining presidential debates between President Trump and Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-01T22:28:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IgmgtGs7Pxk/trump-campaign-slams-commission-on-presidential-debates-partisan"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump camp seeks extra debate rule: Third party inspectors to look for electronic devices in candidates' ears"
     excerpt: "President Trump is asking for an additional ground rule ahead of Tuesday night’s first presidential debate between himself and Democratic presidential nominee Joe Biden."
     publishedDateTime: 2020-09-29T14:36:00Z
@@ -2316,6 +2332,22 @@ related:
     quality: 117
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/98809806-4c7b-4706-94f3-7079ab0f27bd/222722b2-2f73-4d4e-acf6-1abf5fd9305b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign says Commission on Presidential Debates 'not impartial,' amid talks of rules, format changes"
+    excerpt: "The Trump campaign on Thursday slammed the Commission on  Debates as partisan, as the organization suggested it could modify the rules and format for the remaining presidential debates between President Trump and Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-01T22:33:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-slams-commission-on-presidential-debates-partisan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88600ec3-e5bf-4f6b-a350-056b34ddd34c/eca2b18a-d874-444a-8cfb-5d68829fdc5e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -2838,6 +2870,6 @@ related:
         height: 375
         isCached: true
 
-secured: "rZ0FE3oCJywN0JxI+2TeZQ2EH6Cpwyg6/0qeToFKEeDNdxDaSonCD2tzEyaCONYN4cuRay4P0/fyR0hMs6BvFspFiHdfJXcmT39SAOp87GjX6N4bc+1WkP1YvRC2sKiFj/b9QtRV0ah5ewv85PdcUFVePGN4+MIt33WxesSIlpjkBNlIzlchytC7mxITCS0lSOP3tgwgzpeXjszbSwYtxCn90D1OR5+DrfXoE4covw/y/pP3aMOhe9vrX3lMD3EDpvIyyWVhMGc/d7WaDQgBzes7aD2nYEqgc8uq4tOVtQHLdwyKZBq+UHBkm8TR+ZtOI4M3ZHWGSct7ofiXaq6BO/7+O4Pni0No16AWiZGglB0=;xBOe/Fu/gLoT3zRz/TO79A=="
+secured: "Mtv/gQqJk3v1D0WVae1dNwFds4/N70/YRR+EVKwZrswv5Mn3X0mWlfzfvphqpiimxpZf+8hPFh6Is0ftSIEE9YrEwaq097N/lgModboIDWQE/yE4Qer2W7r37SdT6v2GW2AkdFavN8X97EVXY02dW0dVwliMz65VbHxj1TNy1xzwhhFF8H6TtH+lW9wzQ2xSh4NqDuddTwMdpyADXsaIiOXCbnhZMm4EoqOLxWgWw0ZHL7+qd3o+OIAG7jLPbISbN+JCcNPALex9izVKgZhXLTWFH1yoWpw6jh60n3OnAsHOWhr+ho1zO3bv8Da0V6BDjLQepcwW8auW5rUz099qwWv63+AwCPYb/iFKyob0tGleNSl0slUZStK589KRUhA8C8TpY3hEMaF4vP45K4zULzfo4UfH1z4rXxdhUF2PrJogAei8gsu4lxIXRdU21plYItr+eo7W6ObRr5wkbRu8zfGRfJBFinYx/Bq9qy7OFWNIgW9Byv8y3fB1TnBePmNOIDDR4gbnofaFxCyfB/3m4A==;VmtV/wst5atd50UyfIRKPA=="
 ---
 

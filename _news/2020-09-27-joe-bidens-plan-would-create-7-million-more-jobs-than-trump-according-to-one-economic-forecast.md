@@ -496,6 +496,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Only 2 Percent of Americans Said Donald Trump-Joe Biden Debate Changed Their Vote: Poll"
+    excerpt: "A new poll suggests that almost no voters are likely to change their vote after viewing the first debate between President Donald Trump and Democratic nominee Joe Biden, although most thought Biden won the debate."
+    publishedDateTime: 2020-10-01T23:47:00Z
+    webUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798"
+    ampWebUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1644891/trump-biden-debate-view-television.jpg"
+        width: 2500
+        height: 1632
+        isCached: true
   - title: "Biden can beat (and infuriate) Trump by being the adult on the presidential debate stage"
     excerpt: "Joe Biden’s campaign is based around being calm, rational and a healer. He shouldn't try to call more names or be more pugnacious than Donald Trump."
     publishedDateTime: 2020-09-28T10:06:00Z
@@ -873,6 +889,22 @@ related:
       - url: "https://i.insider.com/5f731b4574fe5b0018a8de30?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden campaign to begin door knocking after criticizing the Trump campaign for doing the same during the pandemic"
+    excerpt: "The move comes after Republicans have built an extensive in-person political operation during the pandemic, knocking on 19 million doors."
+    publishedDateTime: 2020-10-01T22:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-canvas-trump-pandemic/2020/10/01/15775ba8-041a-11eb-8879-7663b816bfa5_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-canvas-trump-pandemic/2020/10/01/15775ba8-041a-11eb-8879-7663b816bfa5_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-canvas-trump-pandemic/2020/10/01/15775ba8-041a-11eb-8879-7663b816bfa5_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ETXU3RQDOQI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "Trump, with his baseless attacks on Joe Biden’s mental status, may have set a trap for himself in the first debate"
     excerpt: "The misleading notion that Joe Biden is too addled for the presidency has been driven by President Trump since 2018, when he first started referring to him as Sleepy Joe."

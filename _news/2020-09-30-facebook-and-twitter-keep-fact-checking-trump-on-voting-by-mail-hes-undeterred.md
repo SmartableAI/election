@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241339"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241339"
 type: article
 quality: 130
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 3120
     height: 1796
     isCached: true
+
+related:
+  - title: "McMaster, Mostly Silent Until Now, Says Trump Is ‘Aiding and Abetting Putin’s Efforts’"
+    excerpt: "This sustained campaign of disruption, disinformation, and denial, is aided by any leader who doesn’t acknowledge it,” President Trump’s former national security adviser said."
+    publishedDateTime: 2020-10-01T23:11:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-mcmaster/01dc-mcmaster-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "QVYcbuMx1DV6t30KSHvGBMNRO3zl7VkqR6UQEzK6OBhYrZszdeukp9xdprnWpbjjBiIzMQJosPW6Nyx+QD21RZEZYak0hpBEStidXRiwyQE/DLtpsiho3fKwaa3k+s8nu1/MVnT8MNETBvpTUmk+gUw61OexOPCwMa4CDcRN8NhwHucMHe9uwPkiTKBoaNT9sv8CAmTbe3/j1STc94kd1DA/v/dgtotZfxP36bxXnpH5NBt3OKEnj4Zd3fPUoGRvDzxIcfyOzNGM8x2q1ToFvWCDtp38nOARJI+vFCynuaTcY0UPqL5OyD0QTzVod80Kt5+9YRJ/SzoNcs3xY/lNqmUPiUqqYYDaqO2TIXxLyHU=;PAzUwHVoyKBMltH5bJSAbw=="
 ---

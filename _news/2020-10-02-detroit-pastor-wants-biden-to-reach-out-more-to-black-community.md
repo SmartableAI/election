@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-
 webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
 type: article
 quality: 105
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,21 +29,69 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden must not 'commit major gaffe' to secure successful performance, says debate expert"
-    excerpt: "Aaron Kall, director of debate at the University of Michigan, addresses the baseline expectations for both candidates ahead of the first U.S. presidential debate on Tuesday."
-    publishedDateTime: 2020-09-29T14:52:00Z
-    webUrl: "https://www.cnbc.com/video/2020/09/29/joe-biden-must-not-commit-major-gaffe-to-secure-successful-performance-says-debate-expert.html"
+  - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
+    excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
+    publishedDateTime: 2020-10-01T23:46:00Z
+    webUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins"
+    ampWebUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 94
+      name: The Hill
+      domain: thehill.com
+    quality: 121
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106721259-16013803403ED2-REQ-092920-SBEBidenGoal.jpg?v=1601380339"
-        width: 1920
-        height: 1080
+      - url: "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden to Proud Boys: 'Cease and desist'"
+    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
+    publishedDateTime: 2020-09-30T21:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy | Charlotte Observer"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T17:04:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
 
-secured: "Gw6l4AuuIcoKMObqtv2OJpRNnoTE58eKHvsMkwwhf3sTmRAiZzwU7wMR9QfQoTdHJOEPcCHNYstvB1Y5bXgzbvf0RaSubWNBHQtDphfoYDiFP4Sb9/70jH3Nq3JnfprL45b9SMff2MFy9fGXiB9f9pqu6B/co9kUMfAoGRfTCzJjIRxAK9ymvuTBYyl/zOtWGr36AEIkFnF3XlidgHS0TpHWo7C30Ah9ntqeOtK9PucUK+oR5WQm2aWEYWQLwywu1MvLhuXGm2taKKJH7597jF0EsOGJrqDT2bmCghu+4WbQ4RxRHYH/l5EPxvEg196cxRZoYW3XXtGG9Rp+H3Kyb+AJTUfFmUlrd5gqR6v6dTo=;nyQ5EzxO6i44wRqMUNZ8/g=="
+secured: "qeojvsV/jgLA0r9t1zJDVDnTaN1SHTHjvdqZlqbrdqhbHxiuT+g6W9Pw/jzyj/FL+OE7IGzbWumwKupT9+Xjz3IHmkHHRqQmrahqJhvi6bEoTNgqHgTcIiM8Q+jJwHZqGrl2dnQ8GyTr771iIIIh77JTL33vQbj6ONitKeq6N+0EVJLIkmTKk8vWGMcOKtmBIzxs1Mb8bDcsWKD2JdLpQA3B991jdeSlMZHHONCl4YsOG+YRX9LIN6HMW+hGA/MmQZuiziJdOHILPjHZYHFnQw3IOs6O9eDpCVCFIMVNHlkTqADoa4YyQDxNM8zfF2xsvVZC0/Tp8CvEvmhwHFNvt6OmnN62S0Npr0DiUWFvL173CTwhpsuGqQyXC5BqS7p5rxZIi2gaR5N8lUD3olASF+duBofhKEX8ePx1EkKSgr+Ol/rJqNmofzZWMOd4qC8/sLtJyL++/exkGiAs/nVhXOE++QV+2UDuP1KuZty2q+7FjaDNBMdXCLAK/PJS+4fHr7rQ/+rawswq2KnCOhaz2Q==;Sf12qv2LARy7AKM8d3iuUA=="
 ---
 
