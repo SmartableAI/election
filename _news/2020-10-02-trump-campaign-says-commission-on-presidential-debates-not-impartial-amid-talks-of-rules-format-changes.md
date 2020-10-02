@@ -1600,6 +1600,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump and Biden abstain from roasting each other at Al Smith dinner, despite tradition and plenty of ammo"
+    excerpt: "Both President Trump and Democratic nominee Joe Biden delivered addresses at the  75th Annual Alfred E. Smith Memorial Foundation Dinner Virtual Event, but the pair broke the tradition of trading jabs in good humor, despite plenty of ammunition displayed most recently at the presidential debate. "
+    publishedDateTime: 2020-10-02T01:21:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s3dFswj7-FY/trump-biden-al-smith-dinner"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-al-smith-dinner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-al-smith-dinner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-SPLIT-THUMB-3.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Pelosi to Biden ahead of presidential debate: 'Be yourself. Save the planet'"
     excerpt: "House Speaker Nancy Pelosi urged Democratic presidential nominee Joe Biden to be himself on Tuesday night as the former vice president and President Trump face off for the first time, calling on him to “save the planet.”"
     publishedDateTime: 2020-09-29T17:02:51Z
@@ -2870,6 +2886,6 @@ related:
         height: 375
         isCached: true
 
-secured: "5WY/XDNvXNbEIKoH9LLOD62Qgkjgb5GXQdmM8jcj+xCvPns+5TdrofeUTGc2dG2zhpRHRHZeAv8pioRC8hIrb3i4PDfjOVWU2LBgPlLBbZROANUdTuQIV2yYm95RDUU8E1YPY1EmaqbGu+H1EVZSfTdBzHxxhUTKQVre195EnYgJOHbZ9F5F450e/mTLFCTpt5x6t+pbT0QsW31bzwNOksdhaQtzhtJd3OoivYkNVM5jQBU9MnD4aJgHf+wiv+MdOlIxORhqQbOwdm2WLNQq0vSVxlD1OOp0AiPwcOAZd5TlHwdNcuMsVPMKrCUJ9Szccf6qFQ+3QMcIFumkuLNbqe8bWHHwlalaYgg1i5vPYhs=;3BWa4PyRoiXw23sOHwcvzg=="
+secured: "RpnE7eDWdX6HW+YtySVZo+2AuLuudRQW3uKJ/XiLGyZizHd9IGP0q1XtiGSwPHtLG5tH7XfIf5Em7KSagjlbdz9Fl1YZsiPtUQbwUXvjD9csMBwQFKcqifOlUy4vGZ7wtIh9Z+UJ6T5Q+qq/7CERmk3BhiFkDkOFQL/aC8CqxW06PaTdmo7LR1a3/Yn3hawGWUhfy/kATTCWT/K4a52nq/IUn4y7g9EDe1tl3Jz90rl0hcGoSXyoeiZt5/6TMbdgd8vBCC6MEFxOsdLmBjEuwlf+/Dyb2JIjQ6Y+RShJX7+qO6bZghw5KchqbFY8PVZ8EuNgIfhJY1xNHjcAu+9mfbJu/zL8amO2Wz8BMGcJl387NJeMoPybq6w+cOtae/vETIl3npDaYoen4Zp7acvkyKUPfiCGN8Zf8Z4xjCAFTaVsyOg2d0TjfCqRVksf2UvyRU7UZJ8SuOyBRqRoBM4Fujy/aky0gbND2Hm2C4CHXapU2/zuFVaUHWxQipYwLiaj7Y06CckmGq3p1Lzje0jH0w==;DK7vic5sQ21MCthAnGL5Bw=="
 ---
 

@@ -656,6 +656,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Close Trump adviser Hope Hicks tests positive for coronavirus, sources say"
+    excerpt: "Hope Hicks, one of President Donald Trump's top aides, has tested positive for coronavirus, three sources told CNN on Thursday.\n    \n"
+    publishedDateTime: 2020-10-02T01:30:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fGoirqbT2VE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/hope-hicks-positive-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001205305-hope-hicks-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration to announce $13 billion in additional aid to Puerto Rico"
     excerpt: "The Trump administration on Friday is expected to announce $13 billion in additional aid to Puerto Rico to help with rebuilding in the aftermath of 2017's Hurricane Maria.\n    \n"
     publishedDateTime: 2020-09-18T15:21:13Z
@@ -2154,6 +2170,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump aide Hope Hicks, who traveled on Air Force One this week, tests positive for coronavirus"
+    excerpt: "Hope Hicks, one of President Donald Trump’s closest aides, has tested positive for the coronavirus. Hicks, who serves as counselor to the president and traveled with him to a Wednesday rally, tested positive Thursday,"
+    publishedDateTime: 2020-10-02T01:03:00Z
+    webUrl: "https://www.politico.com/news/2020/10/01/trump-hope-hicks-tests-positive-for-coronavirus-424781"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 103
+    images:
+      - url: "https://static.politico.com/4c/24/a651bd53432bac1d5e0a66e24680/20200110-hope-hicks-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Donald Trump, Batman, and How Badness Became Madness"
     excerpt: "In the shadow of “Batman Day,” understanding an archaic comic-book conceptualization of criminality can help us unlearn ableism."
     publishedDateTime: 2020-09-21T12:46:00Z
@@ -2209,6 +2239,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "HYSLY8zJjC+LQOQQj+MiPgShJhPHAikoFsF0ENqjKOtG/Cd6Zrfwj1TkJXK0ms8Dog3eV1NNPj4LvkskmstFBJdYAsxucEV4zfyAJo/moSvrIfc3CEIQoh0evZ4ELHRqRUxltRrBphfqMeZCH9AGD2MCda1FeYOCPwwWaJOs5vKEKNWYzSnoADQJYmjP0xxO8kuiJJkUn0hJLAGUY/9Sd3IbFpS1KsdN/UbKGaXbARrfrvb4TEuxTzjLxVRtoFlWTa3eSVAEckijdKJdLFJ2SoW63IUhOOMaZptDUGVEl2lXI8AA0J8I+ATuEH2JPgkMY4ABSo0nijAy+LWKnJenDmmdN236NMaS6KfG7o8NJPA=;kyRq1AArs5B8MLOZu2Bx+w=="
+secured: "O/Z/an6e7PsK16HhWNyCCZA4N2+nnJn+0Z1pxIlI+7+6vlBlpQnAHrTeG1kMCoayS9PFgl1oB63XXy2WyGC6/iXDqm78GhnWs6qGnaVN3NeyQc9OXVbj0sWLeFQN0HyWwdKoIzURrM09SqqM8gu/aX/6UAnZ/v9DvDkS0R1BolIZ1EQHvDjGfvyRvGuMVew4Q+Su6MtQm+O6zBiYsxBH7hzF/pJzyqltte45l48UddljNU1fsy/WrhNxD+QevL9TB+w47MIYDxMqArEpq1NNIjB4GLjBKKQ0NqjXeNwyXKFZdOTLkB2Wk+a5sBr3+7pmH4UtHAvy4PM7CR5Fa/2bNPkfCUELkT4lNXsDd20rC8SoQCkBxMZ2CF4klVIaow6GFGcsFTMWVNBzUnU+jLM0BymWfNrPCamwjLjtNCA/9gxCs4Q87iNHe1bWC9X5lBbzBSGeyridJUkBMtTRsJ16lYP4FNFqdvtquBnyriYwUNfXSieQChfcZRqLUxNrxQpg0b7Y+bf5P75Lh5prKEAO/w==;n8XvE8r4683Wb4EEu++Wjg=="
 ---
 

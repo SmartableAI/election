@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
 type: article
 quality: 109
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
     quality: 100
     images:
       - url: "https://i.insider.com/5f7233ab74fe5b0018a8dd04?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Former Trump campaign manager Brad Parscale told friends he was under federal investigation just days before meltdown"
+    excerpt: "Brad Parscale told others he was under federal investigation, days before he was detained by police at his Florida home, Trump advisers told Insider"
+    publishedDateTime: 2020-10-02T01:03:00Z
+    webUrl: "https://www.businessinsider.com/brad-parscale-told-friends-under-federal-investigation-before-meltdown-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/5f767a250ab50d00184adb74?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

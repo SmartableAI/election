@@ -149,6 +149,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Photos: Vice President Pence visits Carter Lake"
+    excerpt: "Vice President Mike Pence makes a campaign stop in Carter Lake, Iowa on Thursday. Vice President Mike Pence arrives at Eppley Airfield in Omaha on Thursday, Oct. 1, 2020. The vice president also spoke at PVS Structures,"
+    publishedDateTime: 2020-10-02T01:18:00Z
+    webUrl: "https://omaha.com/photos-vice-president-pence-visits-carter-lake/collection_a63db07c-1383-5e56-a28f-a8291614013b.html"
+    ampWebUrl: "https://omaha.com/photos-vice-president-pence-visits-carter-lake/collection_a63db07c-1383-5e56-a28f-a8291614013b.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/photos-vice-president-pence-visits-carter-lake/collection_a63db07c-1383-5e56-a28f-a8291614013b.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/b7/cb745a3a-a374-509a-b39a-9cfaa3ecedc8/5f76176ae246b.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
     excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
     publishedDateTime: 2020-09-25T03:52:00Z
@@ -333,6 +349,15 @@ related:
     excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
     publishedDateTime: 2020-10-01T09:01:00Z
     webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-rally-council-bluffs-ia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Campaign Rally in Carter Lake, Iowa"
+    excerpt: "2020-10-01T16:33:13-04:00https://images.c-span.org/Files/a9a/20201001164553002_hd.jpgVice President Mike Pence delivered remarks at a rally in support of his and President Trump’s reelection campaign held in Carter Lake, Iowa. Vice President Mike Pence ..."
+    publishedDateTime: 2020-10-02T01:53:00Z
+    webUrl: "https://www.c-span.org/event/?476385/c2020-vice-president-pence-holds-rally-carter-lake-ia"
     type: article
     provider:
       name: C-SPAN

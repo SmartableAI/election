@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-michelle-goldberg-column-does-donald-trump-need-a-bailout.md",
+      "title": "Michelle Goldberg column: Does Donald Trump need a bailout?",
+      "excerpt": "The New York Times' blockbuster exposé of Trump’s taxes makes clear that Trump’s taxes reveal no previously unreported financial link to Russia; the documents mostly “lack the specificity” required to do so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/L-BjTtTiuchRZ91Vvz4hZXI6zXg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SK5A6UOHTGJGA67TK5KU33UZ3Q.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-29T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-deeply-unpatriotic-mary-trump-slams-the-president-for-not-paying-taxes-for-years.md",
       "title": "'Deeply unpatriotic': Mary Trump slams the president for not paying taxes for years",
       "excerpt": "President Donald Trump's niece, Mary Trump, say the topic of her uncle not paying income taxes for 10 of the last 15 years must be “hammered on” during the first general election debate Tuesday night.",
@@ -331,7 +382,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -749,7 +800,7 @@
       "originalUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1491,62 +1542,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-says-da-is-using-speculation-and-innuendo-to-get-his-tax-returns.md",
-      "title": "Trump Says D.A. Is Using ‘Speculation and Innuendo’ to Get His Tax Returns",
-      "excerpt": "Prosecutors have suggested in court papers that an investigation into the president could focus on a range of possible crimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/24/nyregion/24nytrumptaxes/24nytrumptaxes-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html",
-      "publishedDateTime": "2020-09-24T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

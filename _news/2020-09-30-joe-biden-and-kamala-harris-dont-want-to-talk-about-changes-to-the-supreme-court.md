@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/joe-biden-court-packing/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/joe-biden-court-packing/index.html"
 type: article
 quality: 195
-heat: 715
+heat: 735
 published: true
 
 provider:
@@ -189,6 +189,22 @@ related:
     quality: 160
     images:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/ott_now_harris_200928_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
+    excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
+    publishedDateTime: 2020-10-02T00:08:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-2020-vice-presidential-debate-between-mike-pence-and-kamala-harris-92934725542"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92934725542"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92934725542"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 156
+    images:
+      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/100120_Vice_Pres_Debate_NOW-Youtube.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

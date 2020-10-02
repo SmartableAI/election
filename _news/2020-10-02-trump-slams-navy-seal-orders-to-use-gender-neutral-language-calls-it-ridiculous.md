@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-navy-seal-gender-neutral-langu
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10?amp"
 type: article
 quality: 119
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -47,7 +47,18 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump vows to reverse 'ridiculous' move to make Navy SEAL ethos gender-neutral"
+    excerpt: "President Donald Trump said on Thursday that a military decision to make the Navy SEAL ethos gender-neutral was \"ridiculous\" and vowed to overturn it, his latest move to intervene in lower-level military affairs ahead of the Nov."
+    publishedDateTime: 2020-10-02T01:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-military-idUSKBN26N02V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N02V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N02V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
 
-secured: "ptYOidUlQbFErXGN0LQ7Mw2/SHAJD9GnHusNI2ewtHgjbZcV5ohiS4w0tbUDLUPtw0AcBKNvkK2fU57zYNZ/DTX80yQqttomZo4Uwl3qwCQ8DVYTAPqnsZiEtwqkZ5H76iHqKvH+AR4a1AJu7gAbiuWX4Tl88hmU86lsgkoZJYCJrW+fIxiG4Syhsf0alc8lXdu5hrRRT6V6DXvJY8f9EB9WVDmXsaEClAfCigwVAzjVyvJKEew1GYekyVLz6FQFhqWLYQM1bvs/Lj54+zWg3IEneGOEfWT4Gv6ehXHi0WOEQpcLRMxx75Vvm9pY86meRXS87ZoJd0515ztiio//oMD8zq/8OC8T9DoPKj6x3J4=;iVdCIe5yzP8mtDEMnEpwEg=="
+secured: "cvHXCU5wSXekKZHORKnKkOLs5xNZhWY2JY+U+jTGeWkDQX1YoTu+P2o5i1YjPxh5YldIrdz+qGJAxnj7SDE6/+WLz80OZ2ltTB1rG23MOyAS7r9IMoEUkDFDqby08kLlhqxqhfYo1QQlUeMfCS3un5RFewyv3fP6ZK8Bd4vdFRCb0kZo9nmAPYpKnEgfIcQI0IMfSwpV1GZahyYlF0FWB643QnjFTeRBxSpzxI+iiE1Rmy2gBnMlqAiwU7ZjEBV6ZuJiq14aXccXwwA3nSaQVPc6+4/InKkBjERhGT21/rdUVbnNILUiLWqqt/In+mMgPgHVFIwwlG41epSNH4/P1FaezB0+oOu9qXMVLIc61/O47dbvYofRArnL/mhfmi5pZPmSUC0EE4JJPmG2pe9Q9kr8dLuGtEGcZQTyyRmZ/5QcHR7Yrov4cU1WlITDszE/evu4gH9bJHyIOzmA4zFZRBelNAFoUCq3XavSmgMDxzPKW9nvIXoNxLUC6vxmpR+c3lv5BUorjG2RXyusDYD0iQ==;kslXpgI4GRbF1u0rFSQrMw=="
 ---
 

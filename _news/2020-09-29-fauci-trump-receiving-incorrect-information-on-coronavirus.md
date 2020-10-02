@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump Adviser Hope Hicks Tests Positive For The Coronavirus"
+    excerpt: "Hope Hicks, a close adviser to Donald Trump, has tested positive for the coronavirus and is showing symptoms, multiple media outlets reported Thursday. Hicks tested positive after traveling with Trump aboard Air Force One to and from the first presidential debate on Tuesday."
+    publishedDateTime: 2020-10-02T02:00:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/01/trump-adviser-hope-hicks-tests-positive-for-the-coronavirus/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/01/trump-adviser-hope-hicks-tests-positive-for-the-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/01/trump-adviser-hope-hicks-tests-positive-for-the-coronavirus/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f767924eae66b5a89ece1db%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5692%26cropY1%3D439%26cropY2%3D3642"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CDC director contradicts Trump on coronavirus: 'We're nowhere near the end' - NBC"
     excerpt: "The head of a top U.S. government health agency gave a grim assessment of the coronavirus pandemic that contradicts that of President Donald Trump, saying \"We're nowhere near the end,\" NBC News reported on Monday."
     publishedDateTime: 2020-09-28T13:26:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/a4f56ede-1a22-4f11-ac75-97eff15f499f-AP_UN_General_Assembly.jpg?auto=webp&crop=2879,1620,x0,y86&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Hope Hicks, one of President Trump's closest advisers, tests positive for coronavirus"
+    excerpt: "Hope Hicks, one of President Donald Trump's closest advisers, has tested positive for the coronavirus, ABC News has confirmed. Hicks, who serves as counselor to the president and is among a tight group of advisers to the president,"
+    publishedDateTime: 2020-10-02T00:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/hope-hicks-president-trumps-closest-advisers-tests-positive/story?id=73377363"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/hope-hicks-ap-ps-190619_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Coronavirus updates: Trump calls 200K deaths a 'shame'; Miami schools to resume in-person classes; Sizzler files bankruptcy"
     excerpt: "Miami-Dade County schools will return to in-person instruction beginning Oct. 14. Donald Trump says U.S. death toll is \"a shame.\" Latest COVID news."

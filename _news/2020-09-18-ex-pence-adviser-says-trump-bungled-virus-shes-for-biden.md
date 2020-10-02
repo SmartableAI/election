@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5195
+heat: 5215
 published: true
 
 provider:
@@ -1813,6 +1813,20 @@ related:
     quality: 120
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3c10ab9e-2d2e-41ca-93ef-2d98cfbf5f91_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden, Trump talk faith, politics at fundraiser"
+    excerpt: "U.S. President Donald Trump and his Democratic challenger in November's presidential election addressed the annual Alfred E. Smith dinner on Thursday. The annual fundraising dinner for Catholic charities was held virtually for the first time because of the COVID-19 outbreak."
+    publishedDateTime: 2020-10-02T01:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/02/biden-trump-talk-faith-politics-fundraiser/5890080002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/92577a09-a5b5-4e00-8817-e5613c23c7db_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

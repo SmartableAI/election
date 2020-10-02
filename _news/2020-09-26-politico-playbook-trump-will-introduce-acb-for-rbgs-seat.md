@@ -94,6 +94,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
+    excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
+    publishedDateTime: 2020-10-02T00:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/hope-hicks-top-trump-adviser-who-flew-him-debate-tests-n1241751"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 109
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_40/3416833/201001-hope-hicks-2018-ac-842p_58ccf042fc6d35570ea1522bae16016e.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "c773UeaIKiLsEImgitxARC44yTZSW8cvV2aTU3rqOgS7+J8keTIfCQ1TlLN1PoQOOxfYbv1UD4jyuandCDwMZfZn+Lxi4a5CPA0meO/28ZYyQcQrg5likwBr9m4OqYB6j/Pi1Z3nNuaA6EFKsSfekbnaNz5Aome9lIDebx5phWaA3tGqYGsWp4sA1qaN8n2NHAg26j6HhHCdx/p7CC8WnEwhTgfW0MtKhSh35hXCLzfE6P4Rw0CdCqF44/nmJiS+fYksl0+Wn2hHo1YDPIKNg6kftHoh3JLYQDSGyHomKdJQYwkgmYLmcMYngpjpMx8uL16SxIp7NTipie1XYkKYyUsMvBFrp0lwKr/71IkrZS4=;J0A27qLwWbDke7nb6Amb6Q=="
 ---

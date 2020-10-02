@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Former Trump campaign manager Brad Parscale told friends he was under federal investigation just days before meltdown"
+    excerpt: "Brad Parscale told others he was under federal investigation, days before he was detained by police at his Florida home, Trump advisers told Insider"
+    publishedDateTime: 2020-10-02T01:03:00Z
+    webUrl: "https://www.businessinsider.com/brad-parscale-told-friends-under-federal-investigation-before-meltdown-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/5f767a250ab50d00184adb74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ZCjf/o8t8c3aSLlimwAkWYImd6snPl7pk8CcIfAbKH1eFDBzmTU7nPjZygmLVzkNO93nr4KsvRbFB6ynCM/btytufBM+r2xCDsmOHL7cJdnzRr3n1jgKWKVBECnxpuqSWowzE/CcKMDEzsDq3O03FuFGX5VH790xBSSjPFWyULwEEtBnc0vvCdZrItqkZDcQ3DDo5SZ8vpSxjl8JNbcCO3rritsWanbGBDRCtUMcM/PHCM0wNotDYE/dskmdsUoc/9Urhl9zAZ5ijTMYXEjQAUXxkTUv7oOcHrx3jhs95MUH035tBTa1Fob75FAOce1pUnuGl0MSqrBdfxFxZfcsw+U+RJ5IIHiSGPR3pBGCOh5sxpcfTS6cQlBGPTx95fhwkwDQMjnVnl6+8xN3hxcytN2a9ddRvmmC/S0FJHszBRRLWK6PRkxrPGSaRHqETfi+uRlwZIJ84pLbvn+DgBA5faUgJXfobcbHew68rfPnEOMmM4xMqkdFFUvQN10uXXZYZq7X9KpCdTBPATBtRtTbrw==;xchNNa6KI/LcOakIAgFJvg=="
 ---

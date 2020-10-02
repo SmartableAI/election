@@ -779,6 +779,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Jim Carrey to make his SNL debut as Joe Biden this week"
+    excerpt: "Live\" released a first-look on Thursday previewing actor Jim Carrey in full makeup to portray Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-10-02T01:47:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519274-jim-carrey-to-make-his-snl-debut-as-joe-biden-this-week"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519274-jim-carrey-to-make-his-snl-debut-as-joe-biden-this-week?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/519274-jim-carrey-to-make-his-snl-debut-as-joe-biden-this-week?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/carreyjim_10012020_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden refocuses on economic populism"
     excerpt: "It's hard to put aside the hundred things that make Donald Trump so abhorrent. But this is an argument Democrats always win."
     publishedDateTime: 2020-10-01T18:57:00Z

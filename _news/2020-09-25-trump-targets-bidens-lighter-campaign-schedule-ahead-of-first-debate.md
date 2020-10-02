@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 1230
+heat: 1250
 published: true
 
 provider:
@@ -284,6 +284,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001093329-joe-biden-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic Sen. Joe Manchin met with Trump's Supreme Court pick "
+    excerpt: "Sen. Joe Manchin of West Virginia met with Supreme Court nominee Amy Coney Barrett in the Capitol on Thursday evening, an aide told CNN, making him the first Democratic lawmaker to do so.\n    \n"
+    publishedDateTime: 2020-10-02T01:36:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WuatBISERsA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/amy-coney-barrett-joe-manchin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/amy-coney-barrett-joe-manchin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180124131356-joe-manchin-06-27-2017-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

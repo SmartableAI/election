@@ -1832,6 +1832,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden, Trump talk faith, politics at fundraiser"
+    excerpt: "U.S. President Donald Trump and his Democratic challenger in November's presidential election addressed the annual Alfred E. Smith dinner on Thursday. The annual fundraising dinner for Catholic charities was held virtually for the first time because of the COVID-19 outbreak."
+    publishedDateTime: 2020-10-02T01:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/02/biden-trump-talk-faith-politics-fundraiser/5890080002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/92577a09-a5b5-4e00-8817-e5613c23c7db_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "FBI Director Says No Evidence Of ‘National Voter Fraud Effort,’ Undercutting Trump"
     excerpt: "FBI Director Christopher Wray testified to Congress on Thursday that the agency has not historically seen “any kind of coordinated national voter fraud effort in a major election,” including through mail-in voting,"
     publishedDateTime: 2020-09-25T15:17:00Z

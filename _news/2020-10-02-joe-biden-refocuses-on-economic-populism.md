@@ -783,6 +783,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Jim Carrey to make his SNL debut as Joe Biden this week"
+    excerpt: "Live\" released a first-look on Thursday previewing actor Jim Carrey in full makeup to portray Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-10-02T01:47:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519274-jim-carrey-to-make-his-snl-debut-as-joe-biden-this-week"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519274-jim-carrey-to-make-his-snl-debut-as-joe-biden-this-week?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/519274-jim-carrey-to-make-his-snl-debut-as-joe-biden-this-week?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/carreyjim_10012020_getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden's odds improve on betting markets after first U.S. debate"
     excerpt: "Democratic presidential candidate Joe Biden has gained ground in betting markets over President Donald Trump following their first debate of the 2020 U.S. election campaign, two betting market aggregators said."
     publishedDateTime: 2020-10-01T17:59:00Z

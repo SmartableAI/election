@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump vows to reverse 'ridiculous' move to make Navy SEAL ethos gender-neutral"
+    excerpt: "President Donald Trump said on Thursday that a military decision to make the Navy SEAL ethos gender-neutral was \"ridiculous\" and vowed to overturn it, his latest move to intervene in lower-level military affairs ahead of the Nov."
+    publishedDateTime: 2020-10-02T01:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-military-idUSKBN26N02V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N02V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N02V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
 
 secured: "vHfiZ1UhtcIKYur6TUGLKsFo7KyUYSaoR3AtJW2659MzjiPMWD/A2g0K7KJNLCvVG+256P36bzAEjzShCBylBj9TluhzvJ+T8dv15QZs+VsqQ1tEGOsnC3T367aAGRBLatk4ozr+fTxSAxn60fe2+i6KNNy9jaiY7KQMDflt94yOX2k3OLE0ntD1bSShiYQ5/nzjNx6nwVAhmASkJ1fuahVAuzLaL9bHvigzUjnv352gDkNgnmH2/hXL2UzUvsxmI3XHpqaLTHvjcm/YtIz2URXZa4/Jms2AvmbpFPsA4/xkJ7SA3YDLySRU/yJmISn+Qh5rs+mxrMyMaOCJI6dT0tN6kEit7R0+ASjwZyiiEjw=;ILmJySTMKFw8Td74NFYZ3A=="
 ---

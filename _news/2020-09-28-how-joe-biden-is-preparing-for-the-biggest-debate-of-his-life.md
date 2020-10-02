@@ -208,6 +208,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
+    excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
+    publishedDateTime: 2020-10-02T00:08:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-2020-vice-presidential-debate-between-mike-pence-and-kamala-harris-92934725542"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92934725542"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92934725542"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 156
+    images:
+      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/100120_Vice_Pres_Debate_NOW-Youtube.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump and Biden Court Catholic Vote, in Very Different Ways"
     excerpt: "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers."
     publishedDateTime: 2020-09-25T09:09:00Z
