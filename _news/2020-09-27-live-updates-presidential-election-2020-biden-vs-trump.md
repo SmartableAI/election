@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 3885
+heat: 3905
 published: true
 
 provider:
@@ -444,6 +444,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/576d770a-696a-426b-a2de-fc39c21ad669/b8359fd3-5cda-44aa-91e5-633c77dd35ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live Updates: Biden, Trump campaigns heat up after first debate"
+    excerpt: "The campaign trail is heating up between President Trump and Joe Biden after both parties squared off during a highly anticipated debate on Tuesday in Ohio."
+    publishedDateTime: 2020-10-02T05:20:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSec60oKU5E/live-updates-biden-trump-campaigns-heat-up-after-first-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-campaigns-heat-up-after-first-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-campaigns-heat-up-after-first-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be284456-d6de-4336-b05f-6e40b55eab33/ca31ec19-7de0-4662-bb6d-a21760be1861/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

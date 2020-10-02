@@ -919,6 +919,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "How Mike Pence could assume control if Trump becomes incapacitated from COVID"
+    excerpt: "Trump on Thursday confirmed he and wife Melania tested positive for COVID-19 The two were forced to quarantine after Trump counselor Hope Hicks became ill Vice President Mike Pence could potentially assume presidential control if Trump were to become ..."
+    publishedDateTime: 2020-10-02T05:48:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8797293/amp/How-Mike-Pence-assume-control-Trump-incapacitated-COVID.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8797293/amp/How-Mike-Pence-assume-control-Trump-incapacitated-COVID.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8797293/amp/How-Mike-Pence-assume-control-Trump-incapacitated-COVID.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 87
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/02/06/33891392-0-image-a-3_1601617201248.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
     publishedDateTime: 2020-09-21T22:55:00Z
@@ -1200,6 +1216,20 @@ related:
       - url: "https://www.inquirer.com/resizer/Nj16sen8k4pmCLliM6pAXX7yilM=/1200x0/center/middle/www.inquirer.com/resizer/JAJ8DHISe_rGAL1UYat0HKLWGYU=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/SB7UQBXWD5B3XJHOKICRAMSWBA.png"
         width: 1200
         height: 704
+        isCached: true
+  - title: "President Trump's Claim About McDonald's Is Hair-Raising"
+    excerpt: "McDonald's (NYSE:MCD) received a light-hearted \"endorsement\" from President Donald Trump yesterday when he retweeted a tweet about a supposed link between a chemical found in french fries and hair-loss prevention."
+    publishedDateTime: 2020-10-02T05:26:00Z
+    webUrl: "https://www.ibtimes.com/president-trumps-claim-about-mcdonalds-hair-raising-3055583"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/22/gettyimages-672997214.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."

@@ -89,6 +89,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence makes campaign stop in Zanesville"
+    excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
+    publishedDateTime: 2020-10-02T05:46:00Z
+    webUrl: "https://www.ksdk.com/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+    type: article
+    provider:
+      name: KSDK
+      domain: ksdk.com
+    quality: 75
+    images:
+      - url: "https://media.ksdk.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "0PC6HBzp/ADB2yLRhz2jiWyzD/Q8A4P1owOCRxNxMdCig4TEtgL6tZrNhk9a2pDhyldIY1HbJxSjR8t8vlAV1uuPxL1rpy65UBQiBcJ0PDGOMiml2KrU++ZopsJxSB5H6rYTX9lb6EgaJXchm6inD3MiNVbiKulHoG/bvH96ksTnx6Zrhc7NADaeyzn9952iARldfmqqYbzV110d3Ww6amurvI+gM/aL/MHqIWzUeE4ooMbDe8g3p05we97NU9oYS0f3qFMQN4+y0ya4LNRFiy6R7bj9YVYQk2TlUBq6pY9/RSOTPYMrBb3xN93mIe++y0OkXmv+7DaSc+kkQCY6HqyurVdcKrOUtkKjjqDcODUpXqPfOEeFUZPaHoKKsOoc3bw62Lj3LVaWjHDOZxHNvxh3879SmhEKyIuxtrgjZHDzoh0r4ThYnU0dIn26Hii1PSgzZwKY2uFqxISmHPPOrtg7jIsdhCywpzPXZ3kaZEV158QglIavJrHdJzfKDnxIhhdmHz2pMsyIGk7HEBHEmw==;sa/IaM1BDwgUiNEqVBrbHQ=="
 ---

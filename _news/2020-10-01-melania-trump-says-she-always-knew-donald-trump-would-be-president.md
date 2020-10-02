@@ -460,6 +460,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Biden, Trump campaigns heat up after first debate"
+    excerpt: "The campaign trail is heating up between President Trump and Joe Biden after both parties squared off during a highly anticipated debate on Tuesday in Ohio."
+    publishedDateTime: 2020-10-02T05:20:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cSec60oKU5E/live-updates-biden-trump-campaigns-heat-up-after-first-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-campaigns-heat-up-after-first-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-campaigns-heat-up-after-first-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be284456-d6de-4336-b05f-6e40b55eab33/ca31ec19-7de0-4662-bb6d-a21760be1861/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z

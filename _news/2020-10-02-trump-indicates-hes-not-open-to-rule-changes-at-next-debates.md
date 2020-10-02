@@ -1664,6 +1664,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump, first lady test positive for Covid-19"
+    excerpt: "The announcement comes shortly after the president said he and the first lady were in the \"quarantine process\" following senior aide Hope Hicks' positive test."
+    publishedDateTime: 2020-10-02T05:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-first-lady-test-positive-covid-19-n1241769"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241769"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241769"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416857/201001-donald-trump-melania-trump-ac-1123p_b1ab744733ea864663110108fbc0eb0e.jpg"
+        width: 2500
+        height: 1677
+        isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"
     publishedDateTime: 2020-09-25T15:20:00Z

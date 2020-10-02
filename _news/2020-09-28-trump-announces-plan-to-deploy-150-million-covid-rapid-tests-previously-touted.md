@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coron
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
 type: article
 quality: 171
-heat: 231
+heat: 251
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172036-03-trump-0921-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Trump's doctor releases statement after the President and first lady test positive for Covid-19"
+    excerpt: "President Donald Trump and first lady Melania Trump tested positive for coronavirus, the President announced early Friday morning, an extraordinary development coming months into a global pandemic and in the final stretch of his reelection campaign.\n    \n"
+    publishedDateTime: 2020-10-02T05:49:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yDAopmnNIec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002010356-trump-melania-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

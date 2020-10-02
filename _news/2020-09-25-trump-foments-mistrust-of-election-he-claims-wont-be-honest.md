@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 3130
+heat: 3150
 published: true
 
 provider:
@@ -1646,6 +1646,22 @@ related:
       - url: "https://static.politico.com/6c/29/61a495ba4c3e8a1281da65979b1e/gettyimages-1228834563-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump, first lady test positive for Covid-19"
+    excerpt: "The announcement comes shortly after the president said he and the first lady were in the \"quarantine process\" following senior aide Hope Hicks' positive test."
+    publishedDateTime: 2020-10-02T05:04:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-first-lady-test-positive-covid-19-n1241769"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241769"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241769"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416857/201001-donald-trump-melania-trump-ac-1123p_b1ab744733ea864663110108fbc0eb0e.jpg"
+        width: 2500
+        height: 1677
         isCached: true
   - title: "Trump indicates he's not open to rule changes at next debates"
     excerpt: "President Donald Trump on Thursday suggested he would not agree to any rule changes for the second and third presidential debates a day after the debates' organizers vowed to adjust their formatting following Tuesday's chaotic faceoff."

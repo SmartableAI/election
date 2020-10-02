@@ -488,6 +488,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Donald Trump Wanted to Keep This Video Deposition Secret. We Got a Copy."
+    excerpt: "For indispensable reporting on the coronavirus crisis, the election, and more, subscribe to the Mother Jones Daily newsletter. During the 2016 campaign, Donald Trump was burdened with lawsuits ..."
+    publishedDateTime: 2020-09-18T00:00:00Z
+    webUrl: "https://www.motherjones.com/politics/2020/09/donald-trump-university-fraud-lawsuit-deposition-full-video/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 54
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/09/trump-hotmic_depo_master_2000.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "n1dvD19XpqEl980TQPJXYAEM846aes3owEDrHc/LwwNTfjVaQlXw/uwXALDzDeAJDJPmPTpG5C9+Tu2bxwWMxJFu4Xn9I3V4GupeXdpqox6dhXQvbSevaxMCN/WSZ+L+7sD2fBDLoblqztn7uk7aDisj0prByLQVQ+76Rt681sJ0zelbjlyc3bi2W5lBuAkzU9bM9i8AdYWaUHem4pGQJrm+1m/WacvSuhtNlrCZKjQ/uI8RYI/fUoOknw0fMCkuWx2n+E5Zgx6feojy8PwBYJyTFLzhrW7bxSXgwlBnCi48U2sQal2DMCLr3TUNGyEaAbUVhTwruFpFvGH3j8UHNPMcGbEmGnuEjKPWJ9Zkl/CaimLYFQYSc0iLiXkK9EyObd3vbExGjXvit4Y1RlwGjsZRzwoFGFWj8zMxGFLY6+f5uJZqOzmnV1b7BIwqIV9bJz0XDEGXDvZ/VlXfNSLGhSyNdKwFdj0hs5TGj/tAQV4UIDgI9m3RYZl57dCkY0pYCM8wRjIKbSvejWH0rhRnzQ==;82vPbDAH/ubSqITdJL5//Q=="
 ---

@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dow futures decline as stock investors worry as President Trump says he tested positive for COVID-19"
+    excerpt: "The stock market appeared headed for a sharp drop early Friday morning after President Donald Trump said he and his wife, Melania, had tested positive for COVID-19. Dow futures  w"
+    publishedDateTime: 2020-10-02T05:47:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/10/02/trump-covid-update-president-tests-positive-stock-futures-fall/5892109002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5892109002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892109002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1740,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump is down in the polls, and the debate was a fiasco. It was a wasted opportunity for Trump, who needs a win before he runs out of time."
     excerpt: "Trump is down in the polls and there are 35 days to go. The debate was a fiasco. Tomorrow Trump will still be down, and there will be 34 days to go."
     publishedDateTime: 2020-09-30T03:35:00Z

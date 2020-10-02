@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 2920
+heat: 2940
 published: true
 
 provider:
@@ -1322,6 +1322,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df700a01-e606-4250-bc51-f473370dbfff-GTY_1277457739.jpg?auto=webp&crop=6086,3423,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VP Mike Pence: Iowa voters must decide 'Joe Biden will never be president'"
+    excerpt: "Pence spoke to a crowd of about 275 people in a warehouse at PVS Structures in Carter Lake. He said “the road to victory runs straight through Iowa” and said"
+    publishedDateTime: 2020-10-02T04:10:00Z
+    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-iowa-voters-must-decide-joe-biden-will-never-be-president/article_b1159011-36b1-5079-ab15-98d73977890b.html"
+    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-iowa-voters-must-decide-joe-biden-will-never-be-president/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-iowa-voters-must-decide-joe-biden-will-never-be-president/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 88
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/83/683affe3-d479-598f-94ef-648f85849d4c/5f369a748c7d1.preview.png"
+        width: 699
+        height: 326
         isCached: true
   - title: "How to watch the first presidential debate between Donald Trump and Joe Biden"
     excerpt: "The presidential debate Tuesday will be hosted in Cleveland at Case Western Reserve University and the Cleveland Clinic."

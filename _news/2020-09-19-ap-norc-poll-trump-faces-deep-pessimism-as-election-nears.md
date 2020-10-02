@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-fac
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285"
 type: article
 quality: 140
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -487,6 +487,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/people-place-flowers-outside-of-the-us-supreme.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Donald Trump Wanted to Keep This Video Deposition Secret. We Got a Copy."
+    excerpt: "For indispensable reporting on the coronavirus crisis, the election, and more, subscribe to the Mother Jones Daily newsletter. During the 2016 campaign, Donald Trump was burdened with lawsuits ..."
+    publishedDateTime: 2020-09-18T00:00:00Z
+    webUrl: "https://www.motherjones.com/politics/2020/09/donald-trump-university-fraud-lawsuit-deposition-full-video/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 54
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/09/trump-hotmic_depo_master_2000.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dPaYWoHueFDoYG3Vmq6S6t70iK1aQyXOQAV1RHgDF+25AnPgf+I72pa2OJ1DvakkoHPMQD/mwhO7l4Yg9I/NTyWLFSyzPvLXbxo6954Bo/2N7Z5KMtzs5+W9vssYgShVJKsLLIs7XvVTae+mXlc1aQN13ESKr3qA3HmgLL+N472nTt2qAvZ3h/vO+xzUlHo3aTvWSfKvF4nwwoYjlk3RXyuOwK2zh4VTdVJ8ST+ywRQVpDuR9daOWSUure2H6ZmSBinw+tcZh1ELjtZvaELHnRboNboohX14NxMc7YmHhvfUwSZc2CloKT7iGx4UKpzVDHmH765MeExDGjQQC1vFWIotWpV+jXGMxR/FSrgGnWg=;Inc4jGudLVecrs9HN9nATw=="

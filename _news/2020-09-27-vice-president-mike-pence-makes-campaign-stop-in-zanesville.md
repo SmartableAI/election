@@ -75,6 +75,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence makes campaign stop in Zanesville"
+    excerpt: "ZANESVILLE, Ohio — Vice President Mike Pence made a campaign stop in Zanesville on Wednesday where the Trump campaign won handily back in 2016 capturing 65% of the vote. With less than 50 days until the November election, Pence’s speech focused on ..."
+    publishedDateTime: 2020-10-02T05:46:00Z
+    webUrl: "https://www.ksdk.com/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/elections/vice-president-mike-pence-to-visit-zanesville/530-b3d904dc-fe82-4840-a3d8-51b454d095f9"
+    type: article
+    provider:
+      name: KSDK
+      domain: ksdk.com
+    quality: 75
+    images:
+      - url: "https://media.ksdk.com/assets/WBNS/images/ee7beaad-0376-414b-89ec-b93d34179153/ee7beaad-0376-414b-89ec-b93d34179153_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "VP Mike Pence to speak in Janesville on Monday"
     excerpt: "According to a release from the Trump campaign, Pence will speak at a Make America Great Again! event at the Holiday Inn Conference Center in Janesville at 11 a.m. Monday. The release said doors open at 9 a."
     publishedDateTime: 2020-09-11T00:43:00Z

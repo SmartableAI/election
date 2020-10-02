@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Why Trump doesn’t want to talk about abortion rights"
+    excerpt: "President Donald Trump doesn’t want to talk about abortion. After years of saying he would appoint “pro-life” judges and bragging that the landmark Roe v. Wade decision would be overturned “automatically” if he won,"
+    publishedDateTime: 2020-10-02T05:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/why-trump-doesnt-want-to-talk-about-abortion-rights/2020/10/02/79580e82-046b-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/why-trump-doesnt-want-to-talk-about-abortion-rights/2020/10/02/79580e82-046b-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/why-trump-doesnt-want-to-talk-about-abortion-rights/2020/10/02/79580e82-046b-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z

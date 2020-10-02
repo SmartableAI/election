@@ -1322,6 +1322,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Mike Pence: Iowa voters must decide 'Joe Biden will never be president'"
+    excerpt: "Pence spoke to a crowd of about 275 people in a warehouse at PVS Structures in Carter Lake. He said “the road to victory runs straight through Iowa” and said"
+    publishedDateTime: 2020-10-02T04:10:00Z
+    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-iowa-voters-must-decide-joe-biden-will-never-be-president/article_b1159011-36b1-5079-ab15-98d73977890b.html"
+    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-iowa-voters-must-decide-joe-biden-will-never-be-president/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-iowa-voters-must-decide-joe-biden-will-never-be-president/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 88
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/83/683affe3-d479-598f-94ef-648f85849d4c/5f369a748c7d1.preview.png"
+        width: 699
+        height: 326
+        isCached: true
   - title: "How to watch the first presidential debate between Donald Trump and Joe Biden"
     excerpt: "The presidential debate Tuesday will be hosted in Cleveland at Case Western Reserve University and the Cleveland Clinic."
     publishedDateTime: 2020-09-29T15:08:00Z
@@ -2127,6 +2143,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "g3o876ehailgHXAOqgmRL5QQ7ZafqnPtlQmvxMzpo/cD+0864yS+BJsdIKx/QYCig+TmJVEW3BNfVwmZEkMAA/5/yWy28reLZJebkZv04QHi7m6Io56lZnZsAclj6CCNtZhA/0LhtDwt08KCkAsy/JsZItPzZ6MY6ZQfYNJmNo5FvdAMAx5PeynzANcw89KCaoRHWWgF22qqO1ar0NQjjzAfcfIldw28hLax5UWcAvMlwHJzGZF6BA7SQ0yHUNGD705yFdFfCoDmygPEMqotkefQLOlfg1lE1KD68FTMpcXYWs9gs480jU0QUtc34XHG6bXztfaP2Ik/fTd1paDel3eweLK9hxQmrPyt0P/W0zg=;/X73oN9Lk7CozspeiD5s7A=="
+secured: "GIFEFvCX13YiXUt2IAJtevIUi9yT8kxdslxDQlxcCahn72Cx3XHGEWYB5+mqjgqglKBhI59jDjRNmrVX/5VCYyBLXPZD2SultmqWf+W0bDkQDTQF0ZTtA5aBnA5/cNGdxntEBM1gm7/GUdkKKttnMeoXu2IBoGftXEM3pGgr1fTAA84Q/NPKNPceQwYXh58S2X9BAhUeHeRJ/oNZkDw5s/0+5J/2MrSDEFmN9sg8tOgJwdizm+NLPookbBEhBueq5DK5FBDKoLgkcxd3DG6YcNQOeozPj1Fh7WVfKcOGUicNXS70hiInGQXzZFGlfLefrwo72CFvG5JWclj4lzVElj49E1ZgdbwN9qgIpE38yIL1+idPSErDi6RaO9qUgPUEBE5M++K20kJgfbWnIw4jnscdIDpSWNFp5PRdhIEKfZayxlONM4WODfmzm2YeKxHCp2PZ0b84xRiiAtvyGS75t+KrmQIa1wjfxKdn86c+SS9AkFRbVMRygNBut2nbkRrgzFB6PDWhKaORUKJIigCRIw==;wZfaCUxi96S3yWOoETPceg=="
 ---
 

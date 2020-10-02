@@ -910,6 +910,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "How Mike Pence could assume control if Trump becomes incapacitated from COVID"
+    excerpt: "Trump on Thursday confirmed he and wife Melania tested positive for COVID-19 The two were forced to quarantine after Trump counselor Hope Hicks became ill Vice President Mike Pence could potentially assume presidential control if Trump were to become ..."
+    publishedDateTime: 2020-10-02T05:48:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8797293/amp/How-Mike-Pence-assume-control-Trump-incapacitated-COVID.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8797293/amp/How-Mike-Pence-assume-control-Trump-incapacitated-COVID.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8797293/amp/How-Mike-Pence-assume-control-Trump-incapacitated-COVID.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 87
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/02/06/33891392-0-image-a-3_1601617201248.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
     publishedDateTime: 2020-09-21T22:55:00Z
@@ -1192,6 +1208,20 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "President Trump's Claim About McDonald's Is Hair-Raising"
+    excerpt: "McDonald's (NYSE:MCD) received a light-hearted \"endorsement\" from President Donald Trump yesterday when he retweeted a tweet about a supposed link between a chemical found in french fries and hair-loss prevention."
+    publishedDateTime: 2020-10-02T05:26:00Z
+    webUrl: "https://www.ibtimes.com/president-trumps-claim-about-mcdonalds-hair-raising-3055583"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/22/gettyimages-672997214.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z
@@ -1278,6 +1308,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "2Y4jtQD37gJaNmQXboMBRg0EMWyAVUWx+s5J7QK6KMr9L2jwkTGGVfsoRvH+9jr8TqF6urCv9tHF+UtLrMY8OQAMC+7ZDvO7A9V8Mib7uyo9+fYX6G9PsTczCbuQWYMT44/xtM/luRA8WJwUpeyi6MgyX2W13ajXW7QbrisUaL1CXgYr9WFXBa5iYy9Fhj2wCPH+PWf8oQJTBK5D9ST1tMXJNYuZ59o/tyObW42+EeUrDbhTqDK1JIkKk2ZjZeKd6KOfmXCxo9P2WZm4OVv+dU1CDHIPqVRgEKxvNPZgmrrWEidReaqIVHHxYxFqQrwSRQe6b1eWNjzWmo6dLcdKbiXB+9Sn6H8wc5aGmPT4WRQ=;Wa9zOBxc/gyHd60FAaD4OA=="
+secured: "pBs3Ab1rSI+mkAawk+aXkgggmBUxWZ26/IhVLrzLdFhGVCH85PPnGXMZ9qYiWWZY/npd/K7EJ/XzwgcGiqyBRDqNbEvvjhRrNoAHV66BhFVMjWsCXXzjXpV28o795JB2ayRh2nC/baU7S5lNo4YI3EJIM6kcn6Pg/ShgsslVAqu86a5+fPvKGClwFvvIS2UR6pKl8dVFXqFBl/aJWB1lv8xmxEv9WNkE2T2FrYtXoHyLbyzB6sl4q5oj0TUtuXFnORSLwzVAmdx3ZjShURr9Z8FXgX8SfPOD6938saVHxOVKmlCotqLj6rUAJTzgH9m1tMcx+/uIgTs2GdVQ2RK7tuZjkzHTDxoC4CnF49wVk86P9hLqIMWPVtZYc3kJEpSM/2YsYVMD8bRsR/vCtLyX4EwQvk84yG4Y4Rp2Ky8gOV4vTswHIVNrVnmdH8GmnDUQTsnUaY89iu145r0TGkUOlxgX2tjTekU/NTFTH9flN7vDU3RSz21yWZsxjOCRxW9xqukwsWK6F3VsNwAcnz4gkA==;lR/1MkO7XzM2MYxaW/G/Pg=="
 ---
 
