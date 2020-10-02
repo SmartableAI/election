@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
 webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
 type: article
 quality: 102
-heat: 102
+heat: 122
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
+    publishedDateTime: 2020-10-02T19:32:00Z
+    webUrl: "https://www.c-span.org/video/?476523-1/joe-biden-campaign-remarks-grand-rapids-michigan&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Jui4BADPcErDgoBJSV4KJUbEISqJZeo3StGpbbQH2Iug7ahYEJ73IfAaaYjqFNjSDhy9nSiiuw8Fy96zRrElu0FXsSrzlInyinTe/wIC6HiPhMJuIcKYNjJkTuhgBZL5lwN6vrnknmZwfr8dlnCEqVWbRxQQ99Rv28WFYou4Tlzzs7uVHaLiWIapQad3HUdeEgoI/gZEEJuAssG73EcHatiAgiiD5A24d/VM/B5ppvVPKncBSdIxNWMBbxo41buPX3nR6BmQLT8Ggbc6vB0iwRxD3a3rM7YqT75ZiY5wB6BnZyaNEXBrrq8NBoZGDdmM+XEt5QbmqscxhABNt41XsSUMINmeP87nF5vbsINKQyY=;6XgV9WRQQAPclee1Rp8Xow=="
 ---

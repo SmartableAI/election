@@ -367,6 +367,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Misinformation spikes as Trump confirms COVID-19 diagnosis"
+    excerpt: "News that President Donald Trump and first lady Melania Trump had tested positive for COVID-19 sparked an explosion of rumors, misinformation and conspiracy theories that littered social media feeds"
+    publishedDateTime: 2020-10-02T19:45:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/misinformation-spikes-trump-confirms-covid-19-diagnosis-73392761"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/misinformation-spikes-trump-confirms-covid-19-diagnosis-73392761"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/misinformation-spikes-trump-confirms-covid-19-diagnosis-73392761"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_24e551a62c8d4ccf87770478bfb59991_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Some textbooks still parrot Donald Trump’s skewed version of U.S. history"
     excerpt: "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history."
     publishedDateTime: 2020-09-24T10:57:00Z

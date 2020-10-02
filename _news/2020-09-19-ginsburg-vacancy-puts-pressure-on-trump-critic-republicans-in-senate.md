@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp"
 type: article
 quality: 175
-heat: 415
+heat: 475
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Sen. Tom Cotton launches 'Supreme Court War Room' to defend Trump's nominee"
+    excerpt: "Arkansas Republican Sen. Tom Cotton announced the launch of a \"Supreme Court War Room\" on Friday to help Republicans fight back against Democratic attacks on President Trump's impending nomination to fill the High Court's seat left vacant after the death of Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-26T19:04:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_fY6qQE7mc/tom-cotton-launches-supreme-court-war-room-to-defend-trump-nominee"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-launches-supreme-court-war-room-to-defend-trump-nominee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-launches-supreme-court-war-room-to-defend-trump-nominee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20265121960713.jpg"
+        width: 4500
+        height: 3000
+        isCached: true
   - title: "Battle lines drawn over Ginsburg vacancy as Trump teases weekend announcement"
     excerpt: "The fight to replace Ginsburg on the highest court in the United States, with a justice who could potentially tip the balance of the tribunal for decades, promises to be one of the nastiest political fights in recent American history."
     publishedDateTime: 2020-09-21T13:22:45Z
@@ -111,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Dems’ DC, Puerto Rico statehood push could intensify if Trump gets another Supreme Court justice"
+    excerpt: "Republicans appear ready to move forward on confirming a new Supreme Court justice as soon as President Trump announces his nominee for filling the seat left vacant after the death of Justice Ruth Bader Ginsburg, but some Democrats are already looking to drastic measures of retaliation should this happen."
+    publishedDateTime: 2020-09-22T16:21:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z5r6rPhb0MU/dc-puerto-rico-statehood-trump-supreme-court-justice"
+    ampWebUrl: "https://www.foxnews.com/politics/dc-puerto-rico-statehood-trump-supreme-court-justice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-puerto-rico-statehood-trump-supreme-court-justice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87010661-7bcf-4223-84c2-223d25c3c7aa/d30ec482-7308-4677-a46f-3dac4cba19ff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Schumer and AOC call on voters to pressure GOP senators into delaying Trump's Supreme Court nominee"
     excerpt: "Sen. Chuck Schumer, D-N.Y., and Rep. Alexandria Ocasio-Cortez, D-N.Y., held a joint press conference on Sunday regarding the Supreme Court vacancy left behind by the late Ruth Bader Ginsburg and urged the country to pressure Republcians into delaying President Trump's potential nominees, until after"
     publishedDateTime: 2020-09-21T01:16:11Z
@@ -158,6 +190,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pelosi accuses Trump of rushing to fill Supreme Court vacancy to repeal ObamaCare"
+    excerpt: "House Speaker Nancy Pelosi accused President Trump of fast-tracking the confirmation of his pending Supreme Court nominee in order to repeal ObamaCare."
+    publishedDateTime: 2020-09-23T13:08:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8xJREAyRFw/pelosi-accuses-trump-of-rushing-to-fill-supreme-court-vacancy-to-repeal-obamacare"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20262595255307.jpg"
+        width: 5580
+        height: 3720
         isCached: true
   - title: "Robert De Niro calls Ruth Bader Ginsburg a 'great American,' labels Trump a 'criminal'"
     excerpt: "Robert De Niro is fearing for America's future now with the death of Supreme Court Justice Ruth Bader Ginsburg."

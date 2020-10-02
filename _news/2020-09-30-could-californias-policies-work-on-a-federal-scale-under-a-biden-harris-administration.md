@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/will-californias-policies-work-on-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp"
 type: article
 quality: 191
-heat: 251
+heat: 271
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 80
+  - title: "Uh, So What's With This Wife Beater Bail Out Fund Kamala Harris Promoted For Months"
+    excerpt: "Well, I don’t know how much of an impact this is going to have, but it appears Kamala Harris might have a wife beater problem. The Daily Caller News Foundation"
+    publishedDateTime: 2020-09-23T10:00:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "yEpqmV9AqHByC6jg2Zmt9g1PtVyFA/qkM9UZNTU7G75KKgtWS48KtJtZZiZyuC/3OxNZnPveL/E+hPOZVfxt8XfFOP69ld76opvCMmllJrdT7IM1So/V+osb2HeULx5OlZ3SvrD+Y1G8kh7hUoBBA/ufijQ29c+Zz/ce5VFCauVDlWsQXgT/bmudAytuqLPNoP7xn6IcydGKUnsVBJYurrwA/By1q/AC0YiWKaUx4sN1vc3xKeOZo9Qmi98SPNuAKzS4SXwywAHapUPT/tDcVBvnyUfMxPeDYd7RqlsrevI7F5KKz9MGwGW6TgMiUEelG9J7OSQU+VHB/ytQSu6Y9Cno8lfFhZ+Kizlrkgt0PfU=;2cBj/YCpgDWSG/Dnb0H9ZA=="
 ---

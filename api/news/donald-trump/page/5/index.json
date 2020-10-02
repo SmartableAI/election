@@ -2,6 +2,113 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-18-trump-very-happy-to-keep-tiktok-alive-if-security-issues-resolved.md",
+      "title": "Trump 'very happy' to keep TikTok alive if security issues resolved",
+      "excerpt": "President Donald Trump said Friday that he would be \"very happy\" to reach a deal that keeps the video-sharing app TikTok alive in the U.S. so long as security concerns with China can be resolved. Trump told reporters that he has spoken with executives at Oracle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/18/trump-tiktok-security-issues-us-417830",
+      "originalUrl": "https://www.politico.com/news/2020/09/18/trump-tiktok-security-issues-us-417830",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b2/f9/2d429fb14506abdb1786db2a21bf/200918-joe-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/18/trump-tiktok-security-issues-us-417830",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-tiktok-security-issues-us-417830",
+      "publishedDateTime": "2020-09-18T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-paul-krugman-column-what-is-it-with-trump-and-face-masks.md",
+      "title": "Paul Krugman column: What is it with Trump and face masks?",
+      "excerpt": "We know what works. Which makes it both bizarre and frightening that Donald Trump has apparently decided to spend the final weeks of his re-election campaign deriding and discouraging mask-wearing and other anti-pandemic precautions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/ECgXvxhTWJeoYFOE4Sp5uV_u5yw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OCUP5EWQ6GSR54YE2N4Y3BV27Q.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-18T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-amy-dorris-friend-politics-not-behind-latest-sex-assault-accusation-against-trump.md",
       "title": "Amy Dorris' friend: Politics not behind latest sex-assault accusation against Trump",
       "excerpt": "Amy Dorris of Boca Raton, the latest woman to accuse Trump of sexually assaulting her, did not go public because of the election, a close friend says.",

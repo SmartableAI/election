@@ -3,8 +3,8 @@ category: news
 title: "Joe and Jill Biden test negative for COVID-19, doctor says"
 excerpt: "Joe and Jill Biden tested negative for coronavirus Friday morning, after President Trump and First Lady Melania Trump tested positive."
 publishedDateTime: 2020-10-02T17:46:00Z
-originalUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/?intcid=CNI-00-10aaa3a"
-webUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/?intcid=CNI-00-10aaa3a"
+originalUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/"
+webUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/"
 ampWebUrl: "https://www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
 type: article
@@ -34,7 +34,7 @@ related:
   - title: "Donald Trump quarantines after positive Covid test; Mike Pence tests negative – live updates"
     excerpt: "President to quarantine days after taking part in TV debate and campaign rally in Minnesota; Vice president’s daily test comes back negative"
     publishedDateTime: 2020-10-02T12:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770aa68f084209b16b3551"
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770ef68f083836ec4c5483"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
     type: article
@@ -191,6 +191,22 @@ related:
         width: 1024
         height: 785
         isCached: true
+  - title: "Biden to hit the campaign trail after negative test for COVID-19"
+    excerpt: "Democratic presidential candidate Joe Biden plans to head to the battleground state of Michigan and resume campaigning on Friday after testing negative for coronavirus, hours after President Donald Trump was sidelined by contracting the virus."
+    publishedDateTime: 2020-10-02T18:58:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idCAKBN26N2UZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN26N2UZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN26N2UZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535923179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9120S"
+        width: 900
+        height: 545
+        isCached: true
   - title: "Factbox: Reactions to Donald Trump testing positive COVID-19"
     excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
     publishedDateTime: 2020-10-02T17:48:00Z
@@ -206,6 +222,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535902562&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910JT"
         width: 1380
         height: 545
+        isCached: true
+  - title: "Wall Street trims losses after Trump’s positive virus test"
+    excerpt: "Stocks are pulling lower Friday, as Wall Street’s first reaction to President Donald Trump’s testing positive for the coronavirus was to retrench."
+    publishedDateTime: 2020-10-02T19:17:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-trump-coronavirus-stocks-20201002-zsl33ktddfdarpts7kvltuppri-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-trump-coronavirus-stocks-20201002-zsl33ktddfdarpts7kvltuppri-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-coronavirus-stocks-20201002-zsl33ktddfdarpts7kvltuppri-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kCkLsUm5I0CAV3Ot9jKuYoNyEdk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEAOMVAHSCW5GEM4BZEB3KU2BI.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
     excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
@@ -447,6 +479,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Masks still won't be required in the White House after Trump's COVID-19 diagnosis, official says"
+    excerpt: "President Donald Trump has repeatedly flouted recommendations from top public health experts to wear a mask or face-covering."
+    publishedDateTime: 2020-10-02T19:46:00Z
+    webUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Dow futures decline as stock investors worry as President Trump says he tested positive for COVID-19"
     excerpt: "The stock market appeared headed for a sharp drop early Friday morning after President Donald Trump said he and his wife, Melania, had tested positive for COVID-19. Dow futures  w"
     publishedDateTime: 2020-10-02T05:47:00Z
@@ -541,6 +589,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
+    excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."
+    publishedDateTime: 2020-10-02T19:46:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-rally-int-idUSKBN26N39M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N39M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N39M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "Coronavirus live updates: Donald Trump, Melania test positive for COVID-19; 20,000 Amazon workers have tested positive"
     excerpt: "President Trump and First Lady Melania have tested positive for COVID-19. About 20K Amazon workers infected. Latest COVID-19 news."
     publishedDateTime: 2020-10-02T12:18:00Z
@@ -699,16 +758,32 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
-    excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
-    publishedDateTime: 2020-10-02T16:25:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892854002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892854002"
+  - title: "Fake ‘Simpsons’ Donald Trump Death Photo Resurfaces After President’s COVID-19 Announcement"
+    excerpt: "After President Donald Trump and First Lady Melania Trump confirmed their COVID-19 diagnosis early Friday, many began sharing a purported photo from “The Simpsons” which features the current POTUS. The image in question circulating on social media shows a cartoon version of the president lying in a coffin."
+    publishedDateTime: 2020-10-02T13:43:00Z
+    webUrl: "https://www.ibtimes.com/fake-simpsons-donald-trump-death-photo-resurfaces-after-presidents-covid-19-3055765"
+    ampWebUrl: "https://www.ibtimes.com/fake-simpsons-donald-trump-death-photo-resurfaces-after-presidents-covid-19-3055765?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fake-simpsons-donald-trump-death-photo-resurfaces-after-presidents-covid-19-3055765?amp=1"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/06/06/simpsons.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
+    excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
+    publishedDateTime: 2020-10-02T12:42:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5892854002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
@@ -743,18 +818,18 @@ related:
   - title: "White House: VP Mike Pence tests negative for COVID-19"
     excerpt: "Vice President Mike Pence tested negative for the virus on Friday morning and “remains in good health,\" his spokesman said. President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus,"
     publishedDateTime: 2020-10-02T12:28:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Alert-White-House-VP-Mike-Pence-tests-negative-15615282.php?src=sthpbrk"
+    webUrl: "https://www.stamfordadvocate.com/news/article/Alert-White-House-VP-Mike-Pence-tests-negative-15615282.php"
     type: article
     provider:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/14/36/77/20049899/27/rawImage.jpg"
+      - url: "https://s.hdnux.com/photos/01/14/36/77/20049899/115/rawImage.jpg"
         width: 2048
         height: 1369
         isCached: true
 
-secured: "QcjIErEy47nbw5fxlO8aYEmKLpiu2F3k3cLLDo+TGGpnL8gz3gyr1XkwjctHAe4/RfA1bqHfsO98uqTBDB6PHq2or0izJBuaVkKDtlg9XU5rbHgCuR6i2V4GL7fLmD2h9UnZLMO7L3XjxbOJrbamtWBb10ZgqXDxs7ip+Hb2Y00b5lcfYea8xWxUu1Z41JwEahsd12bZDWBu73N2VBkZo/NA/gvgyMGhyP83/EHSOyGthQltSf96HDbwL9QangWyFhcGhkuAqA65Uf9tIFvC5AUb/n/9ziiyP93vAlVRDXEl6dSnJ1Pq0BqtqFWJEWTaYR+wYKohtr3zjKloHw4txJxM9hsl+i2BGHPXDiUf4Do=;4Rd/hvPSIZ50ynyNxPKscA=="
+secured: "oAjuS7z2NX7Lig1kvLVSj5NzrxJHk4Qo/tdpNPkitd2mfBWvU/4wxLtesh5Xms24sQHJyvSknoVLSNez4rHn4tvRUQA6sp2sJUmr1LpeaRrpfMM42r6s1W2ib211AXQHyI3EI/T1gMHea0CgDPE72zee2S0sKh7SeSvW37CGZgAWi27cOYHojLBlqMRAuagcXaaU1aniLQUvP8jdRl5VgfVO+ukC1aJNN8HPDW4I8lITJD9wPEwpvMpDz5+QYPdKZH9BkIwJKLO1fZZI2quZUsMGoHKCN1fgJ+CoQlrZqL7GhB8SnyCO6ZpOh+Bsx13oM204dQ3/IDdqx+ZvNHkq6sO7rIaK1aY/gjxa2JARNyM=;6JCrq3f0NQtbdaoqiqwYVw=="
 ---
 

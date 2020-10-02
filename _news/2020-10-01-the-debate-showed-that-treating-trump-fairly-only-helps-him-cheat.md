@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Anyone can get it,' Trump supporters shocked at diagnosis, unwavering in support"
+    excerpt: "As Americans digested the news on Friday that President Donald Trump had tested positive for the novel coronavirus, some of his backers expressed surprise that he hadn't been safe from infection and said their support for him was not diminished."
+    publishedDateTime: 2020-10-02T19:20:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-voters-idUSKBN26N37J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N37J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N37J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535926755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9122K"
+        width: 794
+        height: 545
+        isCached: true
   - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
     excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."
     publishedDateTime: 2020-09-30T07:33:00Z

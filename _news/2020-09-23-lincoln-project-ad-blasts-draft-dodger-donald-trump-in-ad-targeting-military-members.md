@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Who is Allison Jones Rushing, possible Trump Supreme Court contender?"
+    excerpt: "In private practice Rushing spent a lot of time on Supreme Court litigation, filing approximately 47 briefs with the tribunal, according to her Judiciary Committee questionnaire."
+    publishedDateTime: 2020-09-21T18:47:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcSM5i63Upg/who-is-allison-jones-rushing-possible-trump-supreme-court-contender"
+    ampWebUrl: "https://www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Who is Judge Joan Larsen, possible Trump Supreme Court contender?"
     excerpt: "Judge Joan Larsen, 51, was a former law clerk for the late Justice Antonin Scalia."
     publishedDateTime: 2020-09-21T19:27:05Z
@@ -73,6 +89,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/756c1567-155b-4dfd-81ac-d5a73fa18de7/9e51be26-7d8b-4871-843f-db6360cc1c76/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Female judges come into spotlight as Trump says he’s narrowing his SCOTUS list"
+    excerpt: "At least four female judges are emerging as top contenders to replace late Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-21T17:11:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jk7E7UFJFQw/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list"
+    ampWebUrl: "https://www.foxnews.com/politics/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Sen. Cory Gardner commits to confirming Trump's SCOTUS nominee if criteria met"
     excerpt: "Sen. Cory Gardner, R-Colo., has committed to supporting President Trump's eventual Supreme Court nominee."

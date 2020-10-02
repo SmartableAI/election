@@ -34,14 +34,12 @@ related:
   - title: "Biden flip-flops on door-knocking with just 33 days left"
     excerpt: "Biden's campaign announced plans to start door-to-door campaigning after insisting for months the strategy wasn't necessary."
     publishedDateTime: 2020-10-01T23:16:00Z
-    webUrl: "https://www.politico.com/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/01/biden-flip-flops-on-door-knocking-with-just-33-days-left-1319582"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 115
     images:
       - url: "https://static.politico.com/65/ac/d885bdd04d24856933469af10242/gettyimages-1277705292-1.jpg"
         width: 1160

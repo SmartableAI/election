@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 962
         isCached: true
+  - title: "'Anyone can get it,' Trump supporters shocked at diagnosis, unwavering in support"
+    excerpt: "As Americans digested the news on Friday that President Donald Trump had tested positive for the novel coronavirus, some of his backers expressed surprise that he hadn't been safe from infection and said their support for him was not diminished."
+    publishedDateTime: 2020-10-02T19:20:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-voters-idUSKBN26N37J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N37J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N37J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535926755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9122K"
+        width: 794
+        height: 545
+        isCached: true
 
 secured: "BfQManORk/si5D/bQ4wxJJ7JyyjC8W2FhASfTMPuT56H8uZwy2Wt2+E7ITAbGZPqst6kyKGIDhEgaZ51VQuhNAmI7UCaPUOcm3d7rj1YMS17TTyanfKewlOkO9uIOIE3qHTyxud4MegFDplquYOIp7xeHwzV1Dio55exMDJn5+upsS2R1/W0jQ1RDST4oihQ0/WYjesIrg6a/+LSQJ4qGC8M5P4HeFNDk+xeBdVcT/wy/47E7gSKSKHkkwUiAGFYQUcfhpdrFfPypOglfGym5RsG7VLJ0IbgnBtbuEYDViejp6WZEHyHrsmjaFEYERa/vAD6j9vUl0SicTwidh25xmqOoqwvxLmi+GSNkszFrNBpc4KUt5/OKoy0jxEJfICpjb8YOfzGgCo5OJDoWJm4id/ERdnggcDfBSTxhq449OL6U2m4mRnnri4L7bfTPxehlxosqPrnLk/UBqP3GSuepaVI+K91rTFVslDV4RGx2+zMYfVEWAIH6ZPQH/uiZnnLZN3OSYoXw1sd6UIP7Gdt5A==;q5ROTDQRK1s0lzL8ZJIDBQ=="
 ---

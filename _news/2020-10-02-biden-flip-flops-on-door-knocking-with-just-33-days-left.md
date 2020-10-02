@@ -3,12 +3,10 @@ category: news
 title: "Biden flip-flops on door-knocking with just 33 days left"
 excerpt: "Biden's campaign announced plans to start door-to-door campaigning after insisting for months the strategy wasn't necessary."
 publishedDateTime: 2020-10-01T23:16:00Z
-originalUrl: "https://www.politico.com/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
-webUrl: "https://www.politico.com/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
-ampWebUrl: "https://www.politico.com/amp/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
-cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
+originalUrl: "https://www.politico.com/states/florida/story/2020/10/01/biden-flip-flops-on-door-knocking-with-just-33-days-left-1319582"
+webUrl: "https://www.politico.com/states/florida/story/2020/10/01/biden-flip-flops-on-door-knocking-with-just-33-days-left-1319582"
 type: article
-quality: 135
+quality: 115
 heat: -1
 published: false
 
@@ -49,6 +47,6 @@ related:
         height: 619
         isCached: true
 
-secured: "EvKpgWGrBqOWGsIUQLz1vBbHKyI1EDeP3x8G3I9eB9543LJW1ULCWGnWthh9SxfH19zPg/O76/8aEJfZ3lZok4L6OReTYA2bQ9tgC9lrXyOsaiP6khfNhpKRQAMZWQ5766WwSpZwlR/UFnykSC5UDNCZSdppNOxI6gSSjbP6Q3yl4CeGXyaazwFBXkIFg7W0lXVKrHueNp8f3c7JUr/CgmQgCcjIDSwdmV8zhmNf/RO1BQ/WFn3TElIy01+Gdunt7QB58nEOPOo9IRGnrA5Wd+o6aF4rI4KH8OOTDB4aGsWw4RrpAt3ig9FIgs+z4AFaSpGI3QId1AxwlzzWphpefvTCQe/wN8DKCG9ndfQpr+U=;/2UI3qdoxRXpgoNrXoI4zQ=="
+secured: "ceAiEnVyuD3fQK78FEGtfItuAmX9bzYpAEWUOynYu3FmoYvFZWwTxdNXJpdqfxZParpWmOEdHkifsFQOEqjvEILaC3UAd2Y6bBIpCC51jN/tQsdtvcTrwrOQOyQSXwvj6W3GLuQHUQ+murFmRnZgzGWR6J2ZpHGsPHtvsVH+LXjRh2wr45D47zdXziaY1iTJ/GOd6T6IdZA7mIDEqsuteaIXbDm68NDfyU75EvIHfq2vUNGuBe6qZITOWUHbbSRlrIOU18yzuqlMUpiKlNlz/XQy+6vejT9vQcMv+C5zRLeV9sgOyn6GLhfUDGkhPyjX/b1gBCdFdNxw2IERa6y4ZTlIvzKmP/6sxcRt/McM2lQ=;cwHB7QQTW9LTRV5uYey/ow=="
 ---
 

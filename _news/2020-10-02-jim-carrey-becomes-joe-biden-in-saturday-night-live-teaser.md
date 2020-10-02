@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 1240
         isCached: true
+  - title: "Jim Carrey Transforms Into Joe Biden In 1st Look At His Highly-Anticipated New ‘SNL’ Role — Watch"
+    excerpt: "Jim Carrey has managed to totally become Joe Biden’s twin for the upcoming season of ‘SNL.’ The funnyman showed off how he’s the Democratic presidential nominee’s"
+    publishedDateTime: 2020-10-01T20:46:00Z
+    webUrl: "https://hollywoodlife.com/2020/10/01/jim-carrey-as-joe-biden-snl-first-look-video/"
+    ampWebUrl: "https://hollywoodlife.com/2020/10/01/jim-carrey-as-joe-biden-snl-first-look-video/amp/"
+    cdnAmpWebUrl: "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/2020/10/01/jim-carrey-as-joe-biden-snl-first-look-video/amp/"
+    type: article
+    provider:
+      name: Hollywood Life
+      domain: hollywoodlife.com
+    quality: 62
+    images:
+      - url: "https://pmchollywoodlife.files.wordpress.com/2020/10/jim-carrey-transforms-into-joe-biden-nbc-ftr-1.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "EjB+LGGeUyM3UKiYEmGaRFc2yuQIXn9Sr6/u8BJFxpF913JVyH/gsrKFkMDEse0cD5oT0vYnDEGjQdAk0knkOigdiLYiA62Cocr9zOfZoK/nxCldo1DvY0LNY7KKGO4KmWxfSyRS7NWsl8hOSECsEK2Q8dW5JE2XjQ6ubXopOK54dGFIdq0d/cphB30sQ9Ur+vJZ6fHYlGIsqOvORQah0zNigmSuewRNRPB+JgoDUa/ssdGszVwP8xqUDYCGf7IW+rnPz5TZxFpojUcmFZx3oeWe7T2FXPawq7i4ylSZugIEkKGDAdFkBnFjJsLEGCxL4bp9A/xvklMofeJR4xWbtF0DxvwaY1Pz8w+OMPIGP0dkoXbRB+7wbYbPPnzx4VFhYzofaRLb65WEp8Ya9z/1thsYTURMBOnU2f1FiZKrRCc2Ycn8uvrK1jRu2bck8+otkLGiaxquCCUJBz9OGYEQrBFZW6yQhwNpQndN+M5eU5OvnCsQWy7youX9hroulayKTVLEyqAPWkTfbgo3WNJXDg==;W3fbQn+LoGnFij5IkHyx6w=="
 ---

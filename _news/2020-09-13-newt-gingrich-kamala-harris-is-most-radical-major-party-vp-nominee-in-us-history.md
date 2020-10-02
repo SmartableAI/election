@@ -64,21 +64,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris praises BLM, says ongoing protests are 'essential' for change in US"
-    excerpt: "Peaceful protests surrounding racial injustice are critical for the nation's progress and help to keep law enforcement in check, Sen. Kamala Harris, D-Calif., said on Friday."
-    publishedDateTime: 2020-09-25T23:37:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ue05HgA890k/kamala-harris-blm-protests-louisville"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-blm-protests-louisville.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-blm-protests-louisville.amp"
+  - title: "Harris makes misleading statement on COVID-19 business loans while campaigning in Michigan"
+    excerpt: "Democratic vice presidential nominee Kamala Harris made a misleading claim while campaigning in Michigan on Tuesday regarding the supposed disparities in COVID-19 relief funds to Black restaurant owners, according to a report."
+    publishedDateTime: 2020-09-25T01:19:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Itkf_Hf4cZE/harris-misleading-covid-19-business-loans-campaigning-michigan"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 150
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d539c59-bfa2-41d6-8f8d-7304216859f5/6caa7c64-5374-4cdb-b548-906493f1486a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20266824314690.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris accidentally touts plans under a 'Harris administration' during virtual roundtable"
     excerpt: "Kamala Harris raised eyebrows on Monday evening after she accidentally touted economic plans under a \"Harris administration.\""
@@ -95,22 +95,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a78fb24c-45b3-46b0-b374-c4b813a8cc6a/5266e132-6985-4925-822c-fba256a1a64d/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Pete Buttigieg reportedly posing as Mike Pence in Kamala Harris VP debate prep"
-    excerpt: "Vice presidential nominee Kamala Harris has tapped former 2020 Democratic primary candidate Pete Buttigieg to play Vice President Mike Pence as she prepares for their one and only debate ..."
-    publishedDateTime: 2020-09-23T17:28:00Z
-    webUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/"
-    ampWebUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 131
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/pence-buttigieg.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Hannity chides Kamala Harris for 'out of touch' joke about kids returning to school"
     excerpt: "Sean Hannity Thursday called Sen. Kamala Harris a “fake, out of touch, far-left swamp politician” for a joke she made about children returning to classrooms amid the coronavirus pandemic. During a Thursday campaign event in Pennsylvania,"
@@ -143,6 +127,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/Joe-Biden-DNC-AP-9.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Flashback: Kamala Harris was open to packing Supreme Court to shift balance away from conservatives"
+    excerpt: "2020 vice-presidential candidate Kamala Harris went on record last year saying she might support adding additional seats to the Supreme Court."
+    publishedDateTime: 2020-09-22T00:39:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-duw5lOFWaw/kamala-harris-packing-supreme-court-conservative-balance"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/kamala.jpg"
+        width: 4501
+        height: 2532
         isCached: true
   - title: "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate"
     excerpt: "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,"
@@ -206,17 +204,6 @@ related:
         width: 4500
         height: 3214
         isCached: true
-  - title: "Miami restaurant 'would've said no' to unannounced Kamala Harris visit"
-    excerpt: "A Doral restaurant owner who received an unannounced visit from Democratic vice presidential candidate Kamala Harris said he would have preferred she hadn't stopped by."
-    publishedDateTime: 2020-09-26T23:50:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/miami-restaurant-wouldve-said-no-to-unannounced-kamala-harris-visit"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/miami-restaurant-wouldve-said-no-to-unannounced-kamala-harris-visit?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/miami-restaurant-wouldve-said-no-to-unannounced-kamala-harris-visit?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
   - title: "Kamala Harris calls for inspector general investigation of John Durham's Russia inquiry"
     excerpt: "Democratic vice presidential nominee Kamala Harris joined the nine other Democratic members of the Senate Judiciary Committee in calling upon Justice Department Inspector General Michael Horowitz to investigate U."
     publishedDateTime: 2020-09-17T22:22:00Z
@@ -228,17 +215,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 57
-  - title: "'Besides myself?': Kamala Harris says she threw best 'shade' in Democratic primary debates"
-    excerpt: "Kamala Harris praised her own sharp debate swipe skills in a comment that hit an awkward note considering her famous debate attack at her running mate Joe Biden in 2019."
-    publishedDateTime: 2020-09-25T23:49:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/besides-myself-kamala-harris-says-she-threw-best-shade-in-democratic-primary-debates"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/besides-myself-kamala-harris-says-she-threw-best-shade-in-democratic-primary-debates?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/besides-myself-kamala-harris-says-she-threw-best-shade-in-democratic-primary-debates?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 55
   - title: "Venezuelan Restaurant In Florida Says Kamala Harris Is \"Unwelcome\" After Surprise Campaign Stop"
     excerpt: "Democratic vice presidential candidate Kamala Harris and her husband were told they were not welcome to visit after bringing their campaign retenue and security unannounced to a Venezuelan restaurant in Florida last week."
     publishedDateTime: 2020-09-16T16:52:00Z

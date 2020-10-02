@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Federal judge says Census count must keep going until Oct. 31 despite Trump administration efforts to cut it short"
+    excerpt: "A federal judge in California has ordered the Trump administration to continue counting for the 2020 Census through Oct. 31, overriding the administration's efforts to shorten the timeline to submit results."
+    publishedDateTime: 2020-10-02T19:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/Politics/census-2020-01-ap-llr-201002_1601660075177_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Chevron orders staff worldwide to delete WeChat from their work phones, despite a judge blocking Trump's ban of the app"
     excerpt: "Chevron has asked staff to delete WeChat off their work phones, despite President Donald Trump's ban on the app being blocked by a federal court."
     publishedDateTime: 2020-09-23T20:37:00Z

@@ -63,22 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
-    excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
-    publishedDateTime: 2020-10-02T12:52:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HUN01P3BWok/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 205
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "AOC warns libs Trump-Biden election a lifestyle changer: ‘There’s no going back to brunch’"
     excerpt: "Rep. Alexandria Ocasio-Cortez has braced her supporters for a very different future than they may have expected -- even if presidential nominee Joe Biden and other Democrats prevail in November."
     publishedDateTime: 2020-09-20T03:31:26Z
@@ -1566,6 +1550,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73d71629-3f28-4275-ba3f-4f8591657cf1/98650055-fe08-42b5-8661-7040337b06a4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The what-ifs of Trump’s infection"
+    excerpt: "First and foremost, our prayers are with our president and first lady."
+    publishedDateTime: 2020-10-02T20:00:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pvwPaUesMt4/the-what-ifs-of-trumps-infection"
+    ampWebUrl: "https://www.foxnews.com/politics/the-what-ifs-of-trumps-infection.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-what-ifs-of-trumps-infection.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump campaign postpones events involving president, family"
+    excerpt: "The Trump campaign announced Friday that President Trump’s events are being temporarily postponed, or moved to a virtual setting, after he and first lady Melania Trump tested positive for the novel coronavirus."
+    publishedDateTime: 2020-10-02T18:06:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rje_hUmKoOY/trump-campaign-postpones-events-involving-president-family"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-postpones-events-involving-president-family.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-postpones-events-involving-president-family.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden’s team commits to all presidential debates after Cleveland showdown"
     excerpt: ""

@@ -26,37 +26,101 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Kamala Harris pays tribute to RBG with Supreme Court pic"
-    excerpt: "Democratic Vice Presidential candidate Kamala Harris paid tribute to the passing of Supreme Court Justice Ruth Bader Ginsberg Saturday, calling the liberal icon a “titan.”"
-    publishedDateTime: 2020-09-19T21:52:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp"
+  - title: "Host of Pence-Harris VP debate says they still plan on holding event"
+    excerpt: "The vice presidential debate between Mike Pence and Sen. Kamala Harris is still going on as planned on Wednesday, despite President Trump’s positive Covid-19 test, a debate host spokesperson told Fox News. "
+    publishedDateTime: 2020-10-02T19:12:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 210
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Harris-Pence_AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
+    excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
+    publishedDateTime: 2020-10-02T12:52:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HUN01P3BWok/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris doesn't take questions after speech ripping Trump's Supreme Court push"
+    excerpt: "Harris ripped Trump and the GOP for attempting to appoint a Supreme Court justice during an election year."
+    publishedDateTime: 2020-09-29T00:45:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oP1Zl6z25WQ/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 193
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9710e7d0-b418-4817-851c-601c81b0ca58/45146b75-8b1a-4d4d-9517-26baa043d584/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Meadows says he believes Harris will be active in Barrett hearings: 'I think we'll see more of Kamala'"
+    excerpt: "White House Chief of Staff Mark Meadows said during a discussion about the Amy Coney Barrett Supreme Court confirmation process Thursday that he expects Democratic vice-presidential nominee Kamala Harris, who is also a senator on the Judiciary Committee, to play a visible role in what will likely be"
+    publishedDateTime: 2020-10-01T17:21:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eEwSLxIxzhQ/meadows-harris-barrett-hearings"
+    ampWebUrl: "https://www.foxnews.com/politics/meadows-harris-barrett-hearings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-harris-barrett-hearings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Kamala Harris names Tupac 'best rapper alive'"
+    excerpt: "Tupac's legacy lives on. So much so, that vice presidential candidate Kamala Harris named him the best rapper alive. "
+    publishedDateTime: 2020-09-26T18:37:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y3DxAr4_vCo/kamala-harris-names-tupac-best-rapper-alive"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-names-tupac-best-rapper-alive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-names-tupac-best-rapper-alive.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 160
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e4ffb8-2b45-4210-b6fb-e8d0e7172632/fc1e8122-6d22-4b0e-bd5d-bb49476cc1cd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Flashback: Kamala Harris said nationwide protests are 'not going to stop'"
-    excerpt: "Sen. Harris’ remarks came during an appearance on “The Late Show with Stephen Colbert” on June 17."
-    publishedDateTime: 2020-09-24T21:51:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mGOcy3c_UQA/flashback-kamala-harris-nationwide-protests-not-going-to-stop"
-    ampWebUrl: "https://www.foxnews.com/politics/flashback-kamala-harris-nationwide-protests-not-going-to-stop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-kamala-harris-nationwide-protests-not-going-to-stop.amp"
+  - title: "Harris says Ginsburg broke ‘barriers,’ clearing path for other women to follow"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris is praising the late Supreme Court Justice Ruth Bader Ginsburg for breaking gender barriers that cleared a path for women of the following generations to succeed."
+    publishedDateTime: 2020-09-25T17:36:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U4ZWsNHo_0A/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-says-ginsburg-broke-barriers-clearing-path-for-other-women-to-follow.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9710e7d0-b418-4817-851c-601c81b0ca58/45146b75-8b1a-4d4d-9517-26baa043d584/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269556745022.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris praises BLM, says ongoing protests are 'essential' for change in US"
     excerpt: "Peaceful protests surrounding racial injustice are critical for the nation's progress and help to keep law enforcement in check, Sen. Kamala Harris, D-Calif., said on Friday."
@@ -71,22 +135,6 @@ related:
     quality: 155
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d539c59-bfa2-41d6-8f8d-7304216859f5/6caa7c64-5374-4cdb-b548-906493f1486a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris accidentally touts plans under a 'Harris administration' during virtual roundtable"
-    excerpt: "Kamala Harris raised eyebrows on Monday evening after she accidentally touted economic plans under a \"Harris administration.\""
-    publishedDateTime: 2020-09-15T04:04:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MQuF9DuvsKQ/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-accidentally-touts-plans-in-a-harris-administration-during-virtual-roundtable.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a78fb24c-45b3-46b0-b374-c4b813a8cc6a/5266e132-6985-4925-822c-fba256a1a64d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -106,127 +154,137 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Newt Gingrich: Kamala Harris is most radical major party VP nominee in US history"
-    excerpt: "Historically, voters do not heavily consider the vice-presidential candidate, but it is essential this year to give Harris much more scrutiny than would normally be warranted."
-    publishedDateTime: 2020-09-12T21:02:00Z
-    webUrl: "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich"
-    ampWebUrl: "https://www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/kamala-harris-radical-newt-gingrich.amp"
+  - title: "Kamala Harris parrots Biden after debate, refuses to say whether they will ‘pack’ Supreme Court"
+    excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov."
+    publishedDateTime: 2020-09-30T12:59:00Z
+    webUrl: "https://www.foxnews.com/politics/debate-kamala-harris-biden-pack-supreme-court"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 130
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20ebabce-3341-4c5b-86f6-bfcc6f919ff7/eb1a14b9-fb26-4227-a285-4e4b070d31c7/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kamala-Harris.jpg"
         width: 1280
-        height: 720
+        height: 853
         isCached: true
-  - title: "Hannity chides Kamala Harris for 'out of touch' joke about kids returning to school"
-    excerpt: "Sean Hannity Thursday called Sen. Kamala Harris a “fake, out of touch, far-left swamp politician” for a joke she made about children returning to classrooms amid the coronavirus pandemic. During a Thursday campaign event in Pennsylvania,"
-    publishedDateTime: 2020-09-18T05:08:00Z
-    webUrl: "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school"
-    ampWebUrl: "https://www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-chides-kamala-harris-for-out-of-touch-joke-about-kids-returning-to-school.amp"
+  - title: "Kamala Harris under scrutiny in Supreme Court showdown following testy 2018 Kavanaugh hearings"
+    excerpt: "Democratic vice presidential nominee Kamala Harris is coming under increased scrutiny as the Supreme Court showdown comes to a tipping point ahead of November's election."
+    publishedDateTime: 2020-09-25T14:54:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-kavanaugh-hearings-2018-supreme-court-showdown.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 129
+    quality: 123
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e215642-f034-4266-81b3-2ff32750f24d/04a35bfe-c38c-4a69-8c9a-25aacff59b7d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris criticized for lack of press availability: ‘What are they afraid of?’"
-    excerpt: "It’s been well over a month since 2020 Democratic presidential nominee Joe Biden selected Sen. Kamala Harris as his running mate and critics on both sides of the aisle are starting to wonder why she hasn’t been more accessible to the media."
-    publishedDateTime: 2020-09-23T20:13:00Z
-    webUrl: "https://www.foxnews.com/media/kamala-harris-press-availability"
-    ampWebUrl: "https://www.foxnews.com/media/kamala-harris-press-availability.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kamala-harris-press-availability.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/Joe-Biden-DNC-AP-9.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/640/320/AP18346067568640.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Bail fund backed by Kamala Harris and Joe Biden staffers bailed out alleged child abuser, docs indicate"
-    excerpt: "A bail fund promoted by Democratic vice presidential nominee Kamala Harris and many staffers on Joe Biden's campaign to bail out rioters and violent protesters also helped release an accused child abuser,"
-    publishedDateTime: 2020-09-17T18:03:00Z
-    webUrl: "https://www.foxnews.com/politics/bail-fund-backed-by-kamala-harris-and-biden-staffers-bailed-out-alleged-child-abuser"
+  - title: "Meadows says he believes Harris will be active in Barrett hearings: 'I think we'll see more of Kamala'"
+    excerpt: "White House Chief of Staff Mark Meadows said during a discussion about the Amy Coney Barrett Supreme Court confirmation process Thursday that he expects Democratic vice-presidential nominee Kamala Harris,"
+    publishedDateTime: 2020-10-01T17:27:00Z
+    webUrl: "https://www.foxnews.com/politics/meadows-harris-barrett-hearings"
+    ampWebUrl: "https://www.foxnews.com/politics/meadows-harris-barrett-hearings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-harris-barrett-hearings.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 114
+    quality: 119
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29849dd8-f625-4758-ab9f-5b289b405717/f23922bb-04fd-4c1d-b408-031b30c89a7c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Kamala-Harris.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Devin Nunes on Why Kamala Harris Is 'Unqualified' to Be Vice President"
-    excerpt: "You may have thought the final impeachment vote in February would have been the end of the \"Russia, Russia, Russia\" narrative. But Sen. Kamala Harris (D-CA) brought the topic up"
-    publishedDateTime: 2020-09-14T13:30:00Z
-    webUrl: "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127"
-    ampWebUrl: "https://townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/cortneyobrien/2020/09/14/devin-nunes-kamala-harris-is-not-qualified-to-be-vice-president-n2576127?amp=true"
+  - title: "Kamala Harris Accuses GOP Senate of 'Ignoring Justice Ginsburg's Final Wish'"
+    excerpt: "Senator Kamala Harris (D-CA) hit the campaign trail on Monday, as Joe Biden continues to shield himself from the public eye. The newly-minted vice presidential nominee commemorated the life of"
+    publishedDateTime: 2020-09-28T20:00:00Z
+    webUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081"
+    ampWebUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 85
+    quality: 82
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2019/323/1b0ab253-b53e-4b2e-9a5e-3e2d709a244b.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/224/8599b041-4739-4730-b05c-b850ed0f980e.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Get Ready for President Kamala Harris and Vice President Nancy Pelosi"
-    excerpt: "It's time for President Trump to start telling the raw truth to the American people. He knows it. I know it. Most voters who don't suffer from \"Trump Derangement Syndrome\""
-    publishedDateTime: 2020-09-20T04:01:00Z
-    webUrl: "https://townhall.com/columnists/wayneallynroot/2020/09/20/get-ready-for-president-kamala-harris-and-vice-president-nancy-pelosi-n2576500"
-    ampWebUrl: "https://townhall.com/columnists/wayneallynroot/2020/09/20/get-ready-for-president-kamala-harris-and-vice-president-nancy-pelosi-n2576500?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/wayneallynroot/2020/09/20/get-ready-for-president-kamala-harris-and-vice-president-nancy-pelosi-n2576500?amp=true"
+  - title: "Joe Biden disavows New Green Deal co-sponsored by Kamala Harris"
+    excerpt: "Democratic nominee Joe Biden needs to have a sit-down with his running mate, Sen. Kamala Harris of California."
+    publishedDateTime: 2020-09-30T03:55:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-biden-disavows-new-green-deal-co-sponsored-by-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
+  - title: "Kamala Harris: Trump \"Denigrated The Office\" With Performance At First Debate"
+    excerpt: "Following the first presidential debate, Joe Biden's running mate, Senator Kamala Harris, said President Trump \"denigrated the office\" with his performance in an interview with CBS News."
+    publishedDateTime: 2020-09-29T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_trump_denigrated_the_office_with_performance_at_first_debate.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 77
+    images:
+      - url: "https://assets.realclear.com/images/52/522703.jpg"
+        width: 1048
+        height: 786
+        isCached: true
+  - title: "WATCH: Kamala Harris Attempts to Do Damage Control Following the First Presidential Debate"
+    excerpt: "Kamala Harris (D-CA) attempted to clean up at least one of former Vice President Joe Biden's blunders that took place during the first presidential debate. Biden refused to answer whether or not he would support packing the Supreme Court,"
+    publishedDateTime: 2020-09-30T03:55:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/29/watch-kamala-harris-attempts-to-do-damage-control-following-the-first-presidential-debate-n2577195"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/09/29/watch-kamala-harris-attempts-to-do-damage-control-following-the-first-presidential-debate-n2577195?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/09/29/watch-kamala-harris-attempts-to-do-damage-control-following-the-first-presidential-debate-n2577195?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 85
+    quality: 75
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/225/b20f9ac6-a52c-4b94-a115-59904259ac9b.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/223/774b3f5f-8a81-41f9-ab03-90e2360b614d.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Kamala Harris memorializes Ginsburg as a 'relentless defender of justice'"
-    excerpt: "Kamala Harris hailed Supreme Court Justice Ruth Bader Ginsburg as a “historic icon” and a “relentless defender of justice” following her death."
-    publishedDateTime: 2020-09-19T15:36:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-memorializes-ginsburg-as-a-relentless-defender-of-justice?_amp=true"
+  - title: "Kamala Harris Answers Question On Packing Supreme Court: \"People Are Already Voting\""
+    excerpt: "Democratic vice-presidential nominee Sen. Kamala Harris condemned President Donald Trump and Senate Republicans trying to \"rush\" a Supreme Court appointment before the election and said it is important to remember that \"people are already voting."
+    publishedDateTime: 2020-09-29T13:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/29/kamala_harris_answers_question_on_packing_supreme_court_people_are_already_voting.html#!"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 84
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/d43fe7b/2147483647/strip/true/crop/4500x3214+0+0/resize/4500x3214!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb9%2Faa%2F960f4cf54253a6251fe82eecb914%2Fap20263460728700.jpg"
-        width: 4500
-        height: 3214
+      - url: "https://assets.realclear.com/images/52/522630.jpg"
+        width: 750
+        height: 562
         isCached: true
-  - title: "Kamala Harris calls for inspector general investigation of John Durham's Russia inquiry"
-    excerpt: "Democratic vice presidential nominee Kamala Harris joined the nine other Democratic members of the Senate Judiciary Committee in calling upon Justice Department Inspector General Michael Horowitz to investigate U."
-    publishedDateTime: 2020-09-17T22:22:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-calls-for-inspector-general-investigation-of-john-durhams-russia-inquiry"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/kamala-harris-calls-for-inspector-general-investigation-of-john-durhams-russia-inquiry?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-calls-for-inspector-general-investigation-of-john-durhams-russia-inquiry?_amp=true"
+  - title: "Tucker Carlson: Kamala Harris Will Bring Black Lives Matter Agenda To The White House"
+    excerpt: "Tucker Carlson delivered a monologue Thursday night on how the Democratic party has fully embraced the Black Lives Matter movement and incorporated the organization's talking points in the party's platform."
+    publishedDateTime: 2020-10-02T16:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/02/tucker_carlson_kamala_harris_will_bring_black_lives_matter_agenda_to_the_white_house.html"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 57
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
+    images:
+      - url: "https://assets.realclear.com/images/51/517744.jpg"
+        width: 1142
+        height: 856
+        isCached: true
   - title: "'Besides myself?': Kamala Harris says she threw best 'shade' in Democratic primary debates"
     excerpt: "Kamala Harris praised her own sharp debate swipe skills in a comment that hit an awkward note considering her famous debate attack at her running mate Joe Biden in 2019."
     publishedDateTime: 2020-09-25T23:49:00Z
@@ -238,31 +296,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 55
-  - title: "Venezuelan Restaurant In Florida Says Kamala Harris Is \"Unwelcome\" After Surprise Campaign Stop"
-    excerpt: "Democratic vice presidential candidate Kamala Harris and her husband were told they were not welcome to visit after bringing their campaign retenue and security unannounced to a Venezuelan restaurant in Florida last week."
-    publishedDateTime: 2020-09-16T16:52:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/16/venezuelan_restaurant_in_florida_says_kamala_harris_is_unwelcome_after_surprise_campaign_stop.html"
+  - title: "Kamala Harris: Black Lives Matter Protests An \"Essential Component\" To Counter Racist Status Quo"
+    excerpt: "Democratic nominee for vice president Sen. Kamala Harris praised the \"brilliance\" of Black Lives Matter and said she will always interpret the ongoing protests \"as an essential component of evolution in our country\" at the NAACP convention on Friday."
+    publishedDateTime: 2020-09-26T05:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/25/kamala_harris_black_lives_matter_protests_an_essential_component_to_counter_racist_status_quo.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 53
+    quality: 52
     images:
-      - url: "https://assets.realclear.com/images/52/521452.jpg"
-        width: 750
-        height: 562
+      - url: "https://assets.realclear.com/images/52/522392.jpg"
+        width: 930
+        height: 696
         isCached: true
-  - title: "Man accused of raping young girl released from jail after help from bail fund touted by Kamala Harris"
-    excerpt: "A bail fund touted by Democratic vice presidential nominee Kamala Harris contributed to the release of a man accused of raping an 8-year-old girl."
-    publishedDateTime: 2020-09-17T19:10:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/man-accused-of-raping-young-girl-released-from-jail-after-help-from-bail-fund-touted-by-kamala-harris?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 50
 
 secured: "rxQ7Wi+RdVlp8j0njUoyYPclEIfOSIYci2QZK0TDrYbRplSpy3LjlTO53v6aJ5kV5qZCpYP6BPrQtOU5+hzoQUyi5ydUqdyyh25SbH+ou8QgzQ5/66XZbLZWYD3/MTObT7+9aO0JwhDfU9C3o22hqiV07juqwWzJMrZBT0sujgtsPXK9/iScLZORV56vsVb/FGX1XoijIzFKYH/EtOVlYPkZospjC6qeb5tATv42NdI+dZ94lNVRRY80OoDdx4q2fHzGutDOzcKXKbgDNlDDA9G/Kay5Y3T6Qmm16nEO6OXdiVVCl+ZYWU951xb+fEBD7PZPNVYuRJHBHM9fNK9olT6gCmEksRuJglNuKFsBEXvEv9rx4p8zn6n1kUWQWbC/y3Pn8M8wLusOP4ntOImnQbWK95I5pVNvb14Gi3UyMkNIg6LuFyTG6xwG6rKzhnt8CH1vdi6xINm3Z5YW4nIRC8ELox8jQtl7aANwANHopU0kEQFLGDdEjPnWEycYNbS4I+RKhcvwwoSdcvxeWk+PfQ==;sAFZtefaSh8FMeDEtFsh1A=="
 ---

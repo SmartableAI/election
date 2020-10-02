@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Federal judge says Census count must keep going until Oct. 31 despite Trump administration efforts to cut it short"
+    excerpt: "A federal judge in California has ordered the Trump administration to continue counting for the 2020 Census through Oct. 31, overriding the administration's efforts to shorten the timeline to submit results."
+    publishedDateTime: 2020-10-02T19:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/Politics/census-2020-01-ap-llr-201002_1601660075177_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "vAKnwasoLVwAtPuBA2BcEU5TPfVlH/hPBOS/+/Xa/Q3uAUpM2Hc7qF8nY66jBVVDiPGcWooTRmQbMnviyNJy6l19+SubvtvFSt4GVViHQeHBr6/0bRWowU5uwZEjLkJcDhrUNZquBUhYloEBsieS+5SmwUP1Rr1gQOh1WBSY0Afvm33uBHypoAiRx9JtapVDzNEu68+KkppZLidnuShTiGEcIn+8KSKxApXVZfcqHtUUJJD7PuBwFldkEqc2vhKGS3rSC2x4DezkQdmJCEP2j3kuakxPzOSSDr4jDGKrRWQLnL6cr0QgwKigPnbYlGpayUfRTnXufDlQaqCNpHXQrbxWuguAlPc5oUWjcNOEu7w=;DL9jfsIuJHMlKp53ud6dCg=="
 ---

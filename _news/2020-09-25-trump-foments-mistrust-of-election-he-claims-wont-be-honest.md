@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 3330
+heat: 3350
 published: true
 
 provider:
@@ -636,6 +636,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's what happens if Trump gets too sick to govern"
+    excerpt: "President Donald Trump has tested positive for Covid-19 and is quarantining with first lady Melania Trump.\n    \n"
+    publishedDateTime: 2020-10-02T16:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VT-xyIu-oRQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-covid-line-of-succession-governance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-covid-line-of-succession-governance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002083112-01-donald-melania-trump-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

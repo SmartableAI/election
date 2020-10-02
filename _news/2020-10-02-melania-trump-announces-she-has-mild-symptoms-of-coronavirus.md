@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/melania-trump-coronaviru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/melania-trump-coronavirus/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's Supreme Court nominee Amy Coney Barrett was diagnosed with coronavirus this summer"
+    excerpt: "Judge Amy Coney Barrett, the President's nominee for the US Supreme Court, was diagnosed with coronavirus late this summer but has recovered, according to three sources familiar with the matter.\n    \n"
+    publishedDateTime: 2020-10-02T18:20:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q00UIwRZh4I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/amy-coney-barrett-coronavirus-supreme-court-nominee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/amy-coney-barrett-coronavirus-supreme-court-nominee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926180611-09-trump-scotus-announcement-0926-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

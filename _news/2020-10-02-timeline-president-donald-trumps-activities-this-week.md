@@ -655,6 +655,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's what happens if Trump gets too sick to govern"
+    excerpt: "President Donald Trump has tested positive for Covid-19 and is quarantining with first lady Melania Trump.\n    \n"
+    publishedDateTime: 2020-10-02T16:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VT-xyIu-oRQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-covid-line-of-succession-governance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-covid-line-of-succession-governance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002083112-01-donald-melania-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z

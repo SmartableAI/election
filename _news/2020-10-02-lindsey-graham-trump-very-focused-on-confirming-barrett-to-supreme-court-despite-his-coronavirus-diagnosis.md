@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's Supreme Court nominee Amy Coney Barrett was diagnosed with coronavirus this summer"
+    excerpt: "Judge Amy Coney Barrett, the President's nominee for the US Supreme Court, was diagnosed with coronavirus late this summer but has recovered, according to three sources familiar with the matter.\n    \n"
+    publishedDateTime: 2020-10-02T18:20:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q00UIwRZh4I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/amy-coney-barrett-coronavirus-supreme-court-nominee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/amy-coney-barrett-coronavirus-supreme-court-nominee/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926180611-09-trump-scotus-announcement-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Secretly recorded tapes show Melania Trump's frustration at criticism for family separation policy and her bashing of Christmas decorations"
     excerpt: "First Lady Melania Trump was secretly recorded in the summer of 2018 expressing her frustration at being criticized for her husband's policy of separating families who illegally crossed the southern border while at the same time needing to perform traditional first lady duties, such as preparing for"
     publishedDateTime: 2020-10-02T03:09:59Z

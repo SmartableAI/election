@@ -265,6 +265,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
+    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
+    publishedDateTime: 2020-10-02T19:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debates/vice-presidential-debate-between-mike-pence-and-kamala-harris-still-on-idUSKBN26N38L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
     publishedDateTime: 2020-09-25T14:21:00Z
@@ -629,6 +640,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump, Pence to keep distance after president tests positive for coronavirus -official"
+    excerpt: "U.S. President Donald Trump and Vice President Mike Pence will work from separate residences, a senior White House official told Reuters on Friday, hours after the president announced he had tested positive for the coronavirus."
+    publishedDateTime: 2020-10-02T18:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-residenc-idINKBN26N23C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26N23C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26N23C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
   - title: "Mary Trump is suing the president and his family, claiming millions of dollars in lost inheritance"
     excerpt: "The lawsuit is similar to allegations that Mary Trump, the president's niece, presented in her damning tell-all memoir published in July."
     publishedDateTime: 2020-09-24T18:20:00Z
@@ -876,7 +898,7 @@ related:
   - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
     excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
     publishedDateTime: 2020-10-02T17:40:00Z
-    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/"
+    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/#!"
     ampWebUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
     cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
     type: article
@@ -1148,13 +1170,13 @@ related:
   - title: "Could Mike Pence assume the presidency if Trump is sick? What the 25th Amendment says"
     excerpt: "The answer lies in the 25th Amendment of the U.S. Constitution, which states the duties of the presidency could pass to the vice president. Vice President Mike Pence tested negative for COVID-19 Friday morning and is in “good health,"
     publishedDateTime: 2020-10-02T14:30:00Z
-    webUrl: "https://www.sacbee.com/news/coronavirus/article246169925.html"
-    ampWebUrl: "https://amp.sacbee.com/news/coronavirus/article246169925.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/coronavirus/article246169925.html"
+    webUrl: "https://www.miamiherald.com/news/coronavirus/article246169925.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/coronavirus/article246169925.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/coronavirus/article246169925.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 83
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2807fc8e-e4fc-4144-81e4-93f737ce03cb/main/1280x720/27s722ms/match/image.jpg"

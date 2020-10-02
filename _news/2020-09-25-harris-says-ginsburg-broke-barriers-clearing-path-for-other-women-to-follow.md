@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Host of Pence-Harris VP debate says they still plan on holding event"
+    excerpt: "The vice presidential debate between Mike Pence and Sen. Kamala Harris is still going on as planned on Wednesday, despite President Trump’s positive Covid-19 test, a debate host spokesperson told Fox News. "
+    publishedDateTime: 2020-10-02T19:12:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 210
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Harris-Pence_AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
+    excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
+    publishedDateTime: 2020-10-02T12:52:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HUN01P3BWok/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris doesn't take questions after speech ripping Trump's Supreme Court push"
     excerpt: "Harris ripped Trump and the GOP for attempting to appoint a Supreme Court justice during an election year."
     publishedDateTime: 2020-09-29T00:45:48Z
@@ -47,182 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:24:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E44YEN2ml1Q/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Who is Allison Jones Rushing, possible Trump Supreme Court contender?"
-    excerpt: "In private practice Rushing spent a lot of time on Supreme Court litigation, filing approximately 47 briefs with the tribunal, according to her Judiciary Committee questionnaire."
-    publishedDateTime: 2020-09-21T18:47:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZcSM5i63Upg/who-is-allison-jones-rushing-possible-trump-supreme-court-contender"
-    ampWebUrl: "https://www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/who-is-allison-jones-rushing-possible-trump-supreme-court-contender.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump announces Amy Coney Barrett as nominee for Supreme Court seat"
-    excerpt: "President Trump on Saturday announced he has chosen Amy Coney Barrett as his pick to fill the Supreme Court seat vacated by the late Justice Ruth Bader Ginsburg -- a move that could significantly shift the nation's highest court to the right if she's confirmed by the Senate."
-    publishedDateTime: 2020-09-26T21:03:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VMsmsUeExJY/trump-amy-coney-barrett-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-amy-coney-barrett-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-amy-coney-barrett-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump to meet with evangelicals ahead of Supreme Court announcement"
-    excerpt: "President Trump on Saturday will meet with evangelical faith leaders, hours before he is expected to announce that he is nominating Amy Coney Barrett to fill the vacancy on the Supreme Court."
-    publishedDateTime: 2020-09-26T15:56:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B89JQDG__4Y/trump-evangelical-faith-leaders-ahead-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump tax story no bombshell"
-    excerpt: "It’s hard for us to see how the revelations about Trump’s taxes are a major mover in the campaign."
-    publishedDateTime: 2020-09-28T20:19:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/76toIzH91dQ/trump-tax-story-no-bombshell"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tax-story-no-bombshell.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tax-story-no-bombshell.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump set to announce Barrett as Supreme Court pick, as Dems vow to fight"
-    excerpt: "Trump will announce his nominee to fill the seat of late Justice Ruth Bader Ginsburg at 5 p.m. ET on Saturday."
-    publishedDateTime: 2020-09-26T10:41:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bdW-8In8Co4/trump-set-to-announce-supreme-court-pick-dems-vow-fight"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-set-to-announce-supreme-court-pick-dems-vow-fight.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-set-to-announce-supreme-court-pick-dems-vow-fight.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Mitt Romney says he supports moving ahead with Trump Supreme Court nominee"
-    excerpt: "The senator, who voted to remove Trump from office earlier this year, said he would evaluate a Trump nominee based on her qualifications."
-    publishedDateTime: 2020-09-22T14:26:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fH3VUYoTJaQ/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee"
-    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. Tom Cotton launches 'Supreme Court War Room' to defend Trump's nominee"
-    excerpt: "Arkansas Republican Sen. Tom Cotton announced the launch of a \"Supreme Court War Room\" on Friday to help Republicans fight back against Democratic attacks on President Trump's impending nomination to fill the High Court's seat left vacant after the death of Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-26T19:04:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_fY6qQE7mc/tom-cotton-launches-supreme-court-war-room-to-defend-trump-nominee"
-    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-launches-supreme-court-war-room-to-defend-trump-nominee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-launches-supreme-court-war-room-to-defend-trump-nominee.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20265121960713.jpg"
-        width: 4500
-        height: 3000
-        isCached: true
-  - title: "Female judges come into spotlight as Trump says he’s narrowing his SCOTUS list"
-    excerpt: "At least four female judges are emerging as top contenders to replace late Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T17:11:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jk7E7UFJFQw/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list"
-    ampWebUrl: "https://www.foxnews.com/politics/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/female-judges-come-into-spotlight-as-trump-says-hes-narrowing-his-scotus-list.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ted Cruz predicts Senate Republicans will have votes to confirm Trump’s Supreme Court nominee before election"
-    excerpt: "Sen. Ted Cruz, R-Texas, appeared on Fox News Monday night to press the importance of filling the Supreme Court vacancy after Justice Ruth Bader Ginsburg's death."
-    publishedDateTime: 2020-09-22T14:14:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H2ObczPcK34/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the Supreme Court."
-    publishedDateTime: 2020-09-24T19:53:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VmfQoo2XeE/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Meadows says he believes Harris will be active in Barrett hearings: 'I think we'll see more of Kamala'"
     excerpt: "White House Chief of Staff Mark Meadows said during a discussion about the Amy Coney Barrett Supreme Court confirmation process Thursday that he expects Democratic vice-presidential nominee Kamala Harris, who is also a senator on the Judiciary Committee, to play a visible role in what will likely be"
     publishedDateTime: 2020-10-01T17:21:30Z
@@ -234,54 +90,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
-    excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T22:39:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drL1rH4Y3ss/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Dems’ DC, Puerto Rico statehood push could intensify if Trump gets another Supreme Court justice"
-    excerpt: "Republicans appear ready to move forward on confirming a new Supreme Court justice as soon as President Trump announces his nominee for filling the seat left vacant after the death of Justice Ruth Bader Ginsburg, but some Democrats are already looking to drastic measures of retaliation should this happen."
-    publishedDateTime: 2020-09-22T16:21:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z5r6rPhb0MU/dc-puerto-rico-statehood-trump-supreme-court-justice"
-    ampWebUrl: "https://www.foxnews.com/politics/dc-puerto-rico-statehood-trump-supreme-court-justice.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-puerto-rico-statehood-trump-supreme-court-justice.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87010661-7bcf-4223-84c2-223d25c3c7aa/d30ec482-7308-4677-a46f-3dac4cba19ff/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Barrett says Trump offered her Supreme Court nomination 3 days after Ruth Bader Ginsburg's death"
-    excerpt: "Supreme Court nominee Amy Coney Barrett said in a Senate Judiciary Committee questionnaire that President Trump offered her the nomination to the seat vacated by the late Justice Ruth Bader Ginsburg on Monday, Sept. 21, which is just three days after Ginsburg died and nearly a full week before Trump"
-    publishedDateTime: 2020-09-30T18:00:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vjcEePmkVcE/barrett-says-trump-offered-her-supreme-court-nomination-three-days-after-rbg-died"
-    ampWebUrl: "https://www.foxnews.com/politics/barrett-says-trump-offered-her-supreme-court-nomination-three-days-after-rbg-died.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-says-trump-offered-her-supreme-court-nomination-three-days-after-rbg-died.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
@@ -303,113 +111,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "House Republicans urge Trump to nominate Amy Coney Barrett to Supreme Court"
-    excerpt: "EXCLUSIVE: A number of House Republicans wrote to President Trump on Wednesday urging him to nominate Amy Coney Barrett to fill the Supreme Court vacancy left by the death of the Justice Ruth Bader Ginsburg last week."
-    publishedDateTime: 2020-09-23T21:15:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Il_9O83IZY4/house-republicans-trump-nominate-amy-coney-barrett-for-scotus-vacancy"
+  - title: "Kamala Harris praises BLM, says ongoing protests are 'essential' for change in US"
+    excerpt: "Peaceful protests surrounding racial injustice are critical for the nation's progress and help to keep law enforcement in check, Sen. Kamala Harris, D-Calif., said on Friday."
+    publishedDateTime: 2020-09-25T23:37:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ue05HgA890k/kamala-harris-blm-protests-louisville"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-blm-protests-louisville.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-blm-protests-louisville.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 155
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/07/08/694940094001_5806681233001_5806678412001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d539c59-bfa2-41d6-8f8d-7304216859f5/6caa7c64-5374-4cdb-b548-906493f1486a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Pelosi accuses Trump of rushing to fill Supreme Court vacancy to repeal ObamaCare"
-    excerpt: "House Speaker Nancy Pelosi accused President Trump of fast-tracking the confirmation of his pending Supreme Court nominee in order to repeal ObamaCare."
-    publishedDateTime: 2020-09-23T13:08:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w8xJREAyRFw/pelosi-accuses-trump-of-rushing-to-fill-supreme-court-vacancy-to-repeal-obamacare"
+  - title: "Pete Buttigieg reportedly posing as Mike Pence in Kamala Harris VP debate prep"
+    excerpt: "Vice presidential nominee Kamala Harris has tapped former 2020 Democratic primary candidate Pete Buttigieg to play Vice President Mike Pence as she prepares for their one and only debate ..."
+    publishedDateTime: 2020-09-23T17:28:00Z
+    webUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/"
+    ampWebUrl: "https://nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/23/pete-buttigieg-reportedly-posing-as-mike-pence-in-kamala-harris-vp-debate-prep/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
+      name: New York Post
+      domain: nypost.com
+    quality: 131
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20262595255307.jpg"
-        width: 5580
-        height: 3720
-        isCached: true
-  - title: "Harris makes misleading statement on COVID-19 business loans while campaigning in Michigan"
-    excerpt: "Democratic vice presidential nominee Kamala Harris made a misleading claim while campaigning in Michigan on Tuesday regarding the supposed disparities in COVID-19 relief funds to Black restaurant owners, according to a report."
-    publishedDateTime: 2020-09-25T01:19:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Itkf_Hf4cZE/harris-misleading-covid-19-business-loans-campaigning-michigan"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-misleading-covid-19-business-loans-campaigning-michigan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20266824314690.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:28:00Z
-    webUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 142
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f89e271-14f2-4b2d-b35b-66d85ecc2850/08496e09-dd30-41c0-8ba2-51f8885f8021/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Donald Trump Had Investments in Carrier Corp.’s Parent"
-    excerpt: "President-elect Donald Trump in recent years has had an investment of as much as $250,000 in United Technologies, the parent of the company he pushed to shelve plans to move its Indianapolis factory to Mexico."
-    publishedDateTime: 2020-09-26T16:52:00Z
-    webUrl: "https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://s.wsj.net/public/resources/images/BN-QK669_1025un_TOP_20161024144452.jpg"
-        width: 700
-        height: 350
-        isCached: true
-  - title: "Trump Would Double Down on Tax Cuts in Second Term"
-    excerpt: "President Trump and Republicans got much of the tax code they wanted in 2017. In a second term, he would face expiration dates on those and push for more tax cuts."
-    publishedDateTime: 2020-09-29T13:17:00Z
-    webUrl: "https://www.wsj.com/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237041/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the ."
-    publishedDateTime: 2020-09-24T19:56:00Z
-    webUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/pence-buttigieg.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris parrots Biden after debate, refuses to say whether they will ‘pack’ Supreme Court"
     excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov."
@@ -424,20 +156,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Kamala-Harris.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Flashback: Kamala Harris was open to packing Supreme Court to shift balance away from conservatives"
-    excerpt: "2020 vice-presidential candidate Kamala Harris went on record last year saying she might support adding additional seats to the Supreme Court."
-    publishedDateTime: 2020-09-22T00:39:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-duw5lOFWaw/kamala-harris-packing-supreme-court-conservative-balance"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/kamala.jpg"
-        width: 4501
-        height: 2532
         isCached: true
   - title: "Kamala Harris under scrutiny in Supreme Court showdown following testy 2018 Kavanaugh hearings"
     excerpt: "Democratic vice presidential nominee Kamala Harris is coming under increased scrutiny as the Supreme Court showdown comes to a tipping point ahead of November's election."
@@ -471,6 +189,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kamala Harris Accuses GOP Senate of 'Ignoring Justice Ginsburg's Final Wish'"
+    excerpt: "Senator Kamala Harris (D-CA) hit the campaign trail on Monday, as Joe Biden continues to shield himself from the public eye. The newly-minted vice presidential nominee commemorated the life of"
+    publishedDateTime: 2020-09-28T20:00:00Z
+    webUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081"
+    ampWebUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 82
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/224/8599b041-4739-4730-b05c-b850ed0f980e.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Joe Biden disavows New Green Deal co-sponsored by Kamala Harris"
     excerpt: "Democratic nominee Joe Biden needs to have a sit-down with his running mate, Sen. Kamala Harris of California."
     publishedDateTime: 2020-09-30T03:55:00Z
@@ -482,22 +216,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 80
-  - title: "Uh, So What's With This Wife Beater Bail Out Fund Kamala Harris Promoted For Months"
-    excerpt: "Well, I don’t know how much of an impact this is going to have, but it appears Kamala Harris might have a wife beater problem. The Daily Caller News Foundation"
-    publishedDateTime: 2020-09-23T10:00:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/23/uh-so-whats-with-this-wife-beater-bail-out-fund-kamala-harris-promoted-for-months-n2576724?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 79
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "Kamala Harris: Trump \"Denigrated The Office\" With Performance At First Debate"
     excerpt: "Following the first presidential debate, Joe Biden's running mate, Senator Kamala Harris, said President Trump \"denigrated the office\" with his performance in an interview with CBS News."
     publishedDateTime: 2020-09-29T00:00:00Z
@@ -528,6 +246,17 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Miami restaurant 'would've said no' to unannounced Kamala Harris visit"
+    excerpt: "A Doral restaurant owner who received an unannounced visit from Democratic vice presidential candidate Kamala Harris said he would have preferred she hadn't stopped by."
+    publishedDateTime: 2020-09-26T23:50:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/miami-restaurant-wouldve-said-no-to-unannounced-kamala-harris-visit"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/miami-restaurant-wouldve-said-no-to-unannounced-kamala-harris-visit?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/miami-restaurant-wouldve-said-no-to-unannounced-kamala-harris-visit?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "Kamala Harris Answers Question On Packing Supreme Court: \"People Are Already Voting\""
     excerpt: "Democratic vice-presidential nominee Sen. Kamala Harris condemned President Donald Trump and Senate Republicans trying to \"rush\" a Supreme Court appointment before the election and said it is important to remember that \"people are already voting."
     publishedDateTime: 2020-09-29T13:52:00Z
@@ -555,6 +284,31 @@ related:
       - url: "https://assets.realclear.com/images/51/517744.jpg"
         width: 1142
         height: 856
+        isCached: true
+  - title: "'Besides myself?': Kamala Harris says she threw best 'shade' in Democratic primary debates"
+    excerpt: "Kamala Harris praised her own sharp debate swipe skills in a comment that hit an awkward note considering her famous debate attack at her running mate Joe Biden in 2019."
+    publishedDateTime: 2020-09-25T23:49:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/besides-myself-kamala-harris-says-she-threw-best-shade-in-democratic-primary-debates"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/besides-myself-kamala-harris-says-she-threw-best-shade-in-democratic-primary-debates?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/besides-myself-kamala-harris-says-she-threw-best-shade-in-democratic-primary-debates?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
+  - title: "Kamala Harris: Black Lives Matter Protests An \"Essential Component\" To Counter Racist Status Quo"
+    excerpt: "Democratic nominee for vice president Sen. Kamala Harris praised the \"brilliance\" of Black Lives Matter and said she will always interpret the ongoing protests \"as an essential component of evolution in our country\" at the NAACP convention on Friday."
+    publishedDateTime: 2020-09-26T05:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/25/kamala_harris_black_lives_matter_protests_an_essential_component_to_counter_racist_status_quo.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 52
+    images:
+      - url: "https://assets.realclear.com/images/52/522392.jpg"
+        width: 930
+        height: 696
         isCached: true
 
 secured: "Aieh7jeEPmAr4WujSTp49lFCxiXkQTlzpKOKLcteWe0hS6UTFb/nvegxH71FRwi4hezaN+pz+WvCDIWZjltopycG0GUMvRgPqoWeOvNGBcVamg1yIMYvtQ0s6G1hZJHcEYX4qJmabWs5ZOZCLzR346BSVgEpAbhgraHs/k2f/7De8caf9O9oRDhYoWN/UNcFoEYiy5JkcHfuuEf5G2BKcC+0bJ0SnxuQbZb5DlcFa493x+pnIY/62KOHmtDhv3+jUtXPxArTUZ7fjkBMSkzHD7aQGOTbHgpfl2l2wNsTY0Y3CjAgvAP+bL2nZkNYL1OYbMUxe9RDxveROoziWd/hYX518r8vq21cjLkKHzEdRfA=;Kl4vn4soT8sDyX6fN0dZrQ=="
