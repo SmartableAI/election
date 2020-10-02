@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Oil drops 4% after Trump's positive coronavirus test"
+    excerpt: "Oil prices were down 4% on Friday after U.S. President Donald Trump tested positive for COVID-19 and negotiators failed to agree a U.S. stimulus package just as rising global oil output threatens to overwhelm a weak price recovery."
+    publishedDateTime: 2020-10-02T11:17:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int/oil-drops-3-after-trump-tests-positive-for-covid-19-idUSKBN26N05I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N05I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N05I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535810745&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9103Q"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump adviser Hope Hicks tests positive for the coronavirus"
     excerpt: "Hope Hicks, a top adviser to President Donald Trump, has tested positive for the coronavirus, the president confirmed in an interview with Fox News on Thursday, adding that he has been tested and may have to quarantine."
     publishedDateTime: 2020-10-02T02:19:00Z
@@ -77,6 +93,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535795364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9108Z"
         width: 812
+        height: 545
+        isCached: true
+  - title: "Trump and his wife Melania test positive for coronavirus"
+    excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-02T11:34:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-int-idUSKBN26N0LW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0LW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0LW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535811132&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910FI"
+        width: 826
         height: 545
         isCached: true
   - title: "Analysts' view: Trump goes into quarantine, awaits coronavirus test results"
@@ -175,6 +207,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "President Donald Trump's coronavirus infection draws international sympathy from Putin, Merkel"
+    excerpt: "\"I am certain that your inherent vitality, good spirits and optimism will help you cope,\" said Russia President Vladimir Putin."
+    publishedDateTime: 2020-10-02T10:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/10/02/trumps-coronavirus-infection-draws-sympathy-putin-merkel/5892529002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5892529002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892529002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump, Melania tests positive for coronavirus, president vows to bring quarantine 'immediately'"
     excerpt: "The revelation Trump and first lady Melania Trump tested positive for coronavirus came after a top aide announced she also had a positive test result."
     publishedDateTime: 2020-10-02T05:04:00Z
@@ -206,6 +254,20 @@ related:
       - url: "https://i.insider.com/5f768a3674fe5b0018a8e9f6?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Trump, first lady test positive for coronavirus days after first debate"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for COVID-19 and \"will begin our quarantine and recovery process immediately.\""
+    publishedDateTime: 2020-10-02T11:08:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/02/president-donald-trump-first-lady-test-positive-coronavirus/5892626002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f9c98f2a-76c0-49ad-9597-929b4bf1dc43-VPC_TRUMP_COVID_POSITIVE_DESK_THUMB.00_00_00_00.Still001.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Virginia Gov. Ralph Northam and his wife test positive for coronavirus as health officials warn against Trump's scheduled campaign rally"
     excerpt: "Trump is slated to host a Friday night campaign rally in Virginia with roughly 4,000 supporters. One local official called it a \"public health risk.\""

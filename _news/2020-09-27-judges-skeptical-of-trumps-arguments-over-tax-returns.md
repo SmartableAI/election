@@ -420,6 +420,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "UK PM Johnson's Battle With COVID-19 May Be a Warning for Trump"
+    excerpt: "Johnson's experience of trying to stay in charge while struggling with the disease may offer clues about the potential dangers ahead for U.S. President Donald Trump, now that he has tested positive. After being accused of initially failing to appreciate the gravity of coronavirus crisis for Britain,"
+    publishedDateTime: 2020-10-02T11:37:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-02/uk-pm-johnsons-battle-with-covid-19-may-be-a-warning-for-trump"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-02/uk-pm-johnsons-battle-with-covid-19-may-be-a-warning-for-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-02/uk-pm-johnsons-battle-with-covid-19-may-be-a-warning-for-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "7EPy+GkvIGtVvIbURmTPvnsO6wq4mVmZuL89H5457pa3uTeGv2+jb9dRsDnHE8wEbsrD7D3d8T51kThNv/yaPlXtcTtDGEZHgB8qGTQmasMa7/TT+la8sX0V8gjBsAdbfc84ySrZFR+z5voVcp8aplZYK78wcBvjnsszQLlk0w64L4J6H5FbCpplZhOOJ6Hu34XJSX8vXtZd3uHNc1tkUuVWtJ0TBvQ7s9pgyIa8nwnEvQqLvpOpXEoQVKXWg5FFhPmYR0wTEys1Lb6u3BpaUQvBgiujgkCqJGaL2t0oQNIGkCOB/zZOFouSYI8nxvbIf35n/258TnJVowwnMnXf43v9jJRn2QqAObifsJ1pSgNe+qKc9hxPwcm7nEckZnZ+YyeCJlNnEVyFcFP5PJF6tH8Dz/p61cNvKjgHNYgl7IR7j63hS1U4b8/CM8Ef6piV/PfMECKhN3Us5y0OsAcM92e4zB8k6dRvRXD91DPpHwMC6rW9TpUOJl4gGxwGdKb81mUyFtfaPuvhAoJgjHa9Sw==;z8zeqSgVwa4CB750mcYViQ=="
 ---

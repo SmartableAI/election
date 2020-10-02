@@ -768,6 +768,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Beto O'Rourke says Texas is \"Biden's to lose\" in presidential race"
+    excerpt: "Beto O'Rourke believes his one-time rival for the Democratic nomination for president, Joe Biden, can win Texas in the presidential election. \"My contention is that this is Biden's to lose. And we're not going to wait for the Biden campaign to wake up to that reality,"
+    publishedDateTime: 2020-10-02T10:24:00Z
+    webUrl: "https://www.cbsnews.com/news/beto-orourke-says-texas-is-bidens-to-lose-in-presidential-race/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/beto-orourke-says-texas-is-bidens-to-lose-in-presidential-race/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/beto-orourke-says-texas-is-bidens-to-lose-in-presidential-race/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/10/25/efbccab7-1451-4781-9709-6e007e806cee/thumbnail/1200x630/6b8b1279c5dda94d599a6e91d1b1353a/gettyimages-1179204853.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden campaign to begin in-person canvassing"
     excerpt: "Democratic presidential nominee Joe Biden's campaign will begin in-person canvassing in some battleground states starting early next week, his campaign told The Hill."
     publishedDateTime: 2020-10-01T18:33:00Z

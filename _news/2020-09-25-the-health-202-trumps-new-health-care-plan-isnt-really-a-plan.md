@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 117
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4DAO4XQAJQI6XMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "The Health 202: Trump tests positive for coronavirus, throwing into chaos final days of campaign"
+    excerpt: "President Trump and first lady Melania Trump have tested positive for the novel coronavirus. The situation is unprecedented and deeply ironic, as the virus Trump downplayed now threatens to upend the remaining 32 days of his campaign."
+    publishedDateTime: 2020-10-02T11:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQADIXAEUEI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

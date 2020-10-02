@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump tests positive for coronavirus: the timeline"
+    excerpt: "The president announced his positive test in a tweet and said that he and First Lady Melania Trump, who also tested positive for the disease, would quarantine together."
+    publishedDateTime: 2020-10-02T11:53:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GdOKqzpIK90/timeline-trump-tests-positive-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/timeline-trump-tests-positive-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/timeline-trump-tests-positive-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Mitch McConnell, Mitt Romney respond to Trump's peaceful transfer of power remarks"
     excerpt: "Sen. Mitt Romney, R-Utah, called President Trump's response to a question about peacefully transferring power after the election \"unthinkable.\""
     publishedDateTime: 2020-09-24T15:26:48Z

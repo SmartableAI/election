@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/01/trump-is-single-la
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/01/trump-is-single-largest-driver-of-covid-19-misinformation-cornell-study-finds/amp/"
 type: article
 quality: 120
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/5f76721b74fe5b0018a8e9e8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump Was in Maskless ‘Close Contact’ with Dozens of Donors After Hope Hicks Got Covid-19 Symptoms"
+    excerpt: "President Donald Trump was in \"close contact\" and not wearing a mask while interacting with \"dozens\" of donors and others in the hours after Hope Hicks developed symptoms of COVID-19."
+    publishedDateTime: 2020-10-02T11:27:00Z
+    webUrl: "https://www.mediaite.com/news/trump-was-in-maskless-close-contact-with-dozens-of-donors-after-hope-hicks-got-covid-19-symptoms/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-was-in-maskless-close-contact-with-dozens-of-donors-after-hope-hicks-got-covid-19-symptoms/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-was-in-maskless-close-contact-with-dozens-of-donors-after-hope-hicks-got-covid-19-symptoms/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 61
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1216200704.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ct6pnd3K/xEeO3xXIJ8bxOr5ry3RulT09aYkN9fP4EBq/blgq9vZ9XXXU357CjT793fQWqoQwgYgSl3a3WfnmKuPwaWfOMJfm1fqVjBgmlJtsZ4P9cwVlBA3W5daynsfXkmBzopPUFmRgM+3Zvsm5U3X2c86oXlazstyZp5WxyemSoBLP8uPwTMNB4hjk3+oP6pO9l19+Kl++RSgCdKK0xN5cqXTISCv4cMneS9tZKA5UhXN2LATEGeiKfwR7a31xDs8REwUxKeVni07Lu+h6C4cQaScQJenh3s8u+x5BKjMqX4rtfO4y5qp7ql7IDAGhjBUqmNSSmmtu8HJp/0GDMDLhj1Xmp5wBtO+UD3yLeI=;5HgaVCj46BuZKZGbcQ7hTA=="

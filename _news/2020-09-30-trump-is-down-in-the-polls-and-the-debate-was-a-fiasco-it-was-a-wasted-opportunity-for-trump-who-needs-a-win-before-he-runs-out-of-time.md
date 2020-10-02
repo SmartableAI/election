@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Donald Trump, First Lady test positive for COVID-19"
+    excerpt: "President Donald Trump announced early Friday that he and First Lady Melania Trump had tested positive for Covid-19, shortly after one of his closest aides, Hope Hicks, had fallen ill with the coronavirus."
+    publishedDateTime: 2020-10-02T11:17:00Z
+    webUrl: "https://www.chron.com/news/article/President-Donald-Trump-First-Lady-test-positive-15614971.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/71/55/19635036/3/rawImage.jpg"
+        width: 2048
+        height: 1306
+        isCached: true
 
 secured: "Y/vE1QhDb5vojF283DIwQhtbGZRJ5nnmZESmN9HVy/0z0QZ5uVlerFKwMnYb8fYugJb3GkedwCFXaL9caqjMYXBFRRWtxfmpZbEoSTxsOxqFngUNJiTQxdDheW9Ry5QT8aZw+kNxBvHeF0M1Wv9OdfZ8HJUxF7cb2rsH1zighlhbZ/Q1U/pQiAJsRvTQypozaHoRwBB1JjIP1fK72N1w7Rzk3hVbj2TvFWIcQPDkxe3LsrHn8BjzI7o2yKX9YvVJfmHboAHmKDQmGr7ob7pfW/AYrgJOgfMAXtROYXpUeZs4bL7qpzoP7ONyKcvLyoTzaQ9echWYQsVA+LmihF+OPd7uu+ehCB+HJytYjq7eH4Y=;TyBoZTPK2/9jXOqY89/Rtw=="
 ---

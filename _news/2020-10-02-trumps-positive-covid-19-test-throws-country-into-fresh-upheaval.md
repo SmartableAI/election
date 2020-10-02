@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://media4.s-nbcnews.com/j/newscms/2020_40/3416833/201001-hope-hicks-2018-ac-842p_58ccf042fc6d35570ea1522bae16016e.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "TRUMP tests positive for COVID — VIRUS cases INCREASE — Race-baiting ROBOCALL hits state rep race"
+    excerpt: "President Donald Trump announced early Friday that he has tested positive for the coronavirus, upending his presidency and the 2020 race just 32 days before Election Day. The 74-year-old president disclosed his diagnosis in a tweet at 12:54 a."
+    publishedDateTime: 2020-10-02T11:30:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/10/02/trump-tests-positive-for-covid-virus-cases-increase-race-baiting-robocall-hits-state-rep-race-490507"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 102
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "O3KGPJnp+mETFPeFti6asxw2Axql22nmL6yu4uopwlsKpkHrGVo13yJ3hB4NX5lTsV/ZWTCFki2sOc7U4KBHur9cbPBmqhwETbHRLRSPYuVC7sn6HW6rwpLBin0+DLeEYzWfjEvT7AaZKQtinh7alA78kiBBC+ODiVu+N8nY6GgQ8EuuJjZI0D2HxUBtqqVpdnnj7f0/MOSGemgH2cKwu82a7ady2B++7khMIjTf0NYJKcOBZBlcwNpyc8JXTedAAkip6wUv6wcwZzbCsJtQeG8bU98TyR/ydf4GApLNdYx2SXLFMmdQXyUnyvHCgFVcrQcBFjhOTOzM/iJTg81rmHN1oP/1oyREBMp5yROyyCU=;wV5GeGranuOKu1Z1TGe77g=="

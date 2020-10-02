@@ -2,6 +2,116 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-20-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.md",
+      "title": "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump",
+      "excerpt": "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp",
+      "publishedDateTime": "2020-09-19T19:09:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-kamala-harris-pays-tribute-to-rbg-with-supreme-court-pic.md",
+      "title": "Kamala Harris pays tribute to RBG with Supreme Court pic",
+      "excerpt": "Democratic Vice Presidential candidate Kamala Harris paid tribute to the passing of Supreme Court Justice Ruth Bader Ginsberg Saturday, calling the liberal icon a “titan.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 480,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e4ffb8-2b45-4210-b6fb-e8d0e7172632/fc1e8122-6d22-4b0e-bd5d-bb49476cc1cd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
+      "publishedDateTime": "2020-09-19T14:52:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.md",
       "title": "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate",
       "excerpt": "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators.",

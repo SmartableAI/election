@@ -3,8 +3,8 @@ category: news
 title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
 excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
 publishedDateTime: 2020-10-02T08:49:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-incapaci-idUSKBN26N198"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-incapaci-idUSKBN26N198"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
 type: article
@@ -961,6 +961,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence comments on President Trump’s positive COVID test"
+    excerpt: "Several members of Trump’s inner circle will be monitored closely after a busy week of travel and campaigning with the president."
+    publishedDateTime: 2020-10-02T10:46:00Z
+    webUrl: "https://www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/"
+    ampWebUrl: "https://www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/amp/"
+    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/amp/"
+    type: article
+    provider:
+      name: WAVY
+      domain: wavy.com
+    quality: 88
+    images:
+      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
+        width: 1280
+        height: 858
+        isCached: true
   - title: "How Mike Pence could assume control if Trump becomes incapacitated from COVID"
     excerpt: "Trump on Thursday confirmed he and wife Melania tested positive for COVID-19 The two were forced to quarantine after Trump counselor Hope Hicks became ill Vice President Mike Pence could potentially assume presidential control if Trump were to become ..."
     publishedDateTime: 2020-10-02T05:48:00Z
@@ -1243,17 +1259,17 @@ related:
         width: 1140
         height: 712
         isCached: true
-  - title: "Vice President Mike Pence comments on President Trump’s positive COVID test"
-    excerpt: "Karen and I send our love and prayers to our dear friends President @realDonaldTrump and @FLOTUS Melania Trump,” Vice President Mike Pence wrote in a tweet."
-    publishedDateTime: 2020-10-02T06:34:00Z
-    webUrl: "https://fox5sandiego.com/news/national-news/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/"
+  - title: "Vice President Mike Pence comments on President Trump’s positive coronavirus test"
+    excerpt: "(NEXSTAR) – Vice President Mike Pence tweeted a brief statement in response to the news late Thursday that President Donald Trump and First Lady Melania Trump have tested positive for the ..."
+    publishedDateTime: 2020-10-02T08:47:00Z
+    webUrl: "https://fox8.com/news/vice-president-mike-pence-comments-on-president-trumps-positive-coronavirus-test/"
     type: article
     provider:
-      name: Fox 5 San Diego
-      domain: fox5sandiego.com
-    quality: 68
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 65
     images:
-      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
         width: 1280
         height: 858
         isCached: true
@@ -1407,6 +1423,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "RfWEvNqFDDv93CJ1byZeJLr6K8tkBmodYv9fH77S/BmOlsGX9N8nkRmEPLPDO7pRVOkUY8hwI/f2djmRvCljhhLLn2Aioe+2dNBNbS1QIVMF87c3HJP6cgNjD/auQ3x8YMx0zMKPhdEsWoR2M5h8rxrf7baixo3sGr8c0paiiNYv2fVaRurOpM33/nWCDZKO4BwPEOqJ+ZH99A2pDX2X1aZnRqyZbPVw/8iRZhIpgK2DKh6jvbAp9AKaJin/TT5o2S8lmLUrvTlFHnN1xqQ4fthbLL09DsiXim90rlnVyDn33dl6q0zZBRwMiPri9zSVpFyAZKblW7FwT//nUxClE7M/bIkAnXi3cn3D9n9a4pg=;PQXAN83U7jWEQJV1QXJbCA=="
+secured: "wS7sQtsZNgM9YR9wttbaH5ky4jO5xEDiHz5LCwR6ALd0WeHJFQ7adkSNijbUfOZ3Qyuw5s/EFwn8KMSKzkyuY9d4lv62m10qmbJp8He/mOSzCTuSk5ti8uyQZP807RVqINy+oKYIMHEUqW5hfPJqTlbBaJDfbUghRImmZkgaSmDB4csnpKoD5NlPePHzPJeNNn3iSJ6sK+Quj/aknp9CxTAJjtBy8L9slhcQZnd6QcAgeehTGP5mfNM8HlwLU2bUqv1h1EknllnprspQC1jbRo8Elp9wqmQAGzYVYXCDH2eS//G69F6pcOtwwfcCy6DeCUFAUnJ7FWMGLWYUL7aWkiZc86z0yR4G3EdkbM5AZu4=;u+S4WNxKtY4xaXkJs16uDg=="
 ---
 

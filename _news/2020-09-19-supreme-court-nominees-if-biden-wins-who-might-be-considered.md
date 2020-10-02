@@ -1311,6 +1311,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump kept busy schedule -- including debate with Biden -- before testing positive for coronavirus"
+    excerpt: "President Trump kept a busy schedule in the last week of September, crisscrossing the country for campaign rallies, facing off with Democratic nominee Joe Biden and tending to the everyday duties of his office."
+    publishedDateTime: 2020-10-02T10:10:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o5VIyVSnZl0/trump-kept-busy-schedule-including-debate-with-biden-before-testing-positive-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-kept-busy-schedule-including-debate-with-biden-before-testing-positive-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-kept-busy-schedule-including-debate-with-biden-before-testing-positive-for-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c5b0fba-c968-4c31-835f-44c27cb291b6/d11f68f5-3ec3-448f-8e47-ff5939e38d33/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "At least seven military ballots for President Trump discarded in PA"
     excerpt: "The Justice Department is currently investigating what happened to nine military mail-in ballots which were discarded Pennsylvania. "
     publishedDateTime: 2020-09-24T21:35:23Z
@@ -2335,6 +2351,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Michael Keaton says Joe Biden should no longer participate in debates, criticizes Trump for being unprepared"
+    excerpt: "Michael Keaton suggested that Joe Biden refuse to engage in further presidential debates after he “won” the first one on Tuesday against Donald Trump."
+    publishedDateTime: 2020-10-01T12:38:00Z
+    webUrl: "https://www.foxnews.com/entertainment/michael-keaton-joe-biden-debate-trump-unprepared"
+    ampWebUrl: "https://www.foxnews.com/entertainment/michael-keaton-joe-biden-debate-trump-unprepared.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/michael-keaton-joe-biden-debate-trump-unprepared.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/MichaelKeaton1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Joe Biden Asks Voters: 'Do You Believe for a Moment' What Trump Says on Covid-19"
     excerpt: "Joe Biden accused the president of being ill-prepared to handle the coronavirus pandemic, latching on to President Trump’s previous comments about the death toll from the virus. Asked during a recent interview with Axios about the high U."

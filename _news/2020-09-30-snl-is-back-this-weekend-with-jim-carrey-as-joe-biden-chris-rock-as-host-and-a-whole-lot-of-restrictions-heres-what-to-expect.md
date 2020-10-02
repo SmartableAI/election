@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturda
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/?outputType=amp"
 type: article
 quality: 96
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1440
     height: 1240
     isCached: true
+
+related:
+  - title: "Jim Carrey becomes Joe Biden in 'Saturday Night Live' teaser"
+    excerpt: "Jim Carrey transforms into Democratic presidential nominee Joe Biden in a new teaser for \"Saturday Night Live\" Season 46."
+    publishedDateTime: 2020-10-02T11:40:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/2981601634909/2020/upi/c2043754f4b2fa79bed5d222b660c642/v1.5/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser.jpg?lg=2"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "7Ow39fm118WopLmmjkgsWlkfMbFAA81IFs4vFxoue/b/IYthm0LOVcuZljZnOnBb51c+HbRsSfnM9SyrryTWGib+RZwM+Xseloe2a2xkXCHFqxSF9tlcNwxjD1NadHLVi1VmQ02D/+bRPrQX+Yxb/cXOGBjL4S1+lqKSUS37xLB3I0phhV6BkDjA+I8jgjHibDoCMKJeVM+FDLbPviHNc9oX9X46u7rfxEiM2Fp9CANuGP65fSybOWbVBI+yT7muoLM/bYTqngh83AWkS5V88Zn5fAIxxtEsRO3lDwB520p7pU8QuTeV604RhxXWlhY0BGf3nK9SS3a1hP6g2V7vuBSyP0VIrPKelJG64vbl7LFHeQEZUca93VldYcC9XkXXS3Td26c1Gfvpf6G0ME88tk/6G/ti6tDVygV3y+syWMlB8lmSrRNb83MdxPLzXJE+t8MBByKtJVcvj8/XK6w6S0qoXb3Z/i7EDOsJGvs2j5nRRvSIuzJB6hDQZgre/RErODDJM0zm5ksriMmpsSWcmQ==;REOd0HLY0V/LL/S4uY1aKA=="
 ---

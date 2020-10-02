@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://i.insider.com/5f73f3d774fe5b0018a8e243?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Donald Trump, First Lady test positive for COVID-19"
+    excerpt: "President Donald Trump announced early Friday that he and First Lady Melania Trump had tested positive for Covid-19, shortly after one of his closest aides, Hope Hicks, had fallen ill with the coronavirus."
+    publishedDateTime: 2020-10-02T11:17:00Z
+    webUrl: "https://www.chron.com/news/article/President-Donald-Trump-First-Lady-test-positive-15614971.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/12/71/55/19635036/3/rawImage.jpg"
+        width: 2048
+        height: 1306
         isCached: true
 
 secured: "Ck4ehmTZxOfmOfY8+FxW4d8WbgRZ0XhwUBo1Zm7LwD7beD7k69zoCOrZcZUmYRT8KkMnEv1adD7NBRpQexwYOuMKtjPTopil9Q1t69gLr2/p1qv54/Nh5pCHZ1jiI42+M8iYSDkhlk6wDj7jd+xni+Y2LYarEZy/SQ7Q2lt3aPaQ0O2arN8Wwa/ev0+R4FGQJ8NDta7RCUP/rZZnZD4jyy/sJVeMb99YSy3Oy4eA6F3ePIC7NHHisu1fRwfNv4RdUn80LPS2p0/LX8JraAAreoEz5s+oRQhCM3ChIYDDmsOjdYa6a5J750+Ju25CI/zAMvWc8OZC5FXYg3d2tYH4EN/dw9Gph8AJwRgvyAE3ulA=;QZADqthyZxJzjkK30c08mg=="

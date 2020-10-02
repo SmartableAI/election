@@ -345,6 +345,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump says he and first lady tested positive for coronavirus"
+    excerpt: "President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus, a stunning announcement that plunges the country deeper into uncertainty just a month before the presidential election."
+    publishedDateTime: 2020-10-02T11:50:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-lady-tested-positive-coronavirus-73383252"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-lady-tested-positive-coronavirus-73383252"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-lady-tested-positive-coronavirus-73383252"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_7d01df0f67d6429b92ebbe0b734721de_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Some textbooks still parrot Donald Trump’s skewed version of U.S. history"
     excerpt: "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history."
     publishedDateTime: 2020-09-24T10:57:00Z

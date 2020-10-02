@@ -2,6 +2,53 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-22-mike-pences-plane-forced-to-return-to-new-hampshire-airport-after-striking-bird.md",
+      "title": "Mike Pence’s plane forced to return to New Hampshire airport after striking bird",
+      "excerpt": "Vice President Mike Pence’s plane was forced to return to a New Hampshire airport on Tuesday night soon after takeoff because it struck a bird, the White House said. Pence was on his way back to",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/",
+      "originalUrl": "https://nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/09/mike-pence-plane-hits-bird.jpg?quality=90&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/22/mike-pences-plane-returns-to-new-hampshire-airport-after-striking-bird/amp/",
+      "publishedDateTime": "2020-09-22T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-live-at-3-vp-mike-pence-holds-rally-in-gilford.md",
       "title": "Live at 3: VP Mike Pence holds rally in Gilford",
       "excerpt": "MORNING WITH MORE VICE PRESIDENT -- WITH MORE ON VICE PRESIDENT MIKE PENCE’S VISIT. RAY: GOOD MORNING. AROUND NINE HOURS FROM NOW VICE PRESIDENT PENCE BE AT THE LACONIA AIRPORT. HE IS SCHEDULED TO SPEAK TO VOTERS AT 3:00 THIS AFTERNOON. HIS VISIT IS ONE ...",

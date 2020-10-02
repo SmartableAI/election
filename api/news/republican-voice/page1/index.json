@@ -2,34 +2,136 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-02-trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.md",
-      "title": "Trump critics seize on president's positive coronavirus test to mock, lecture",
-      "excerpt": "While many on social media sent well wishes to President Trump and First Lady Melania Trump early Friday after the president confirmed they had both tested positive for the coronavirus, others took the time to criticize or make negative comments.  ",
+      "path": "_news/2020-10-02-boris-johnson-wishes-trump-speedy-recovery-from-covid-19.md",
+      "title": "Boris Johnson wishes Trump 'speedy recovery' from COVID-19",
+      "excerpt": "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2wZJXmtLXQ/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2wZJXmtLXQ/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S8RtvTbFBJo/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S8RtvTbFBJo/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 292,
+      "heat": 255,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa0f4910-4c22-4366-a6ea-9b34b4817ee8/df5cb6e2-c8e3-418a-9a3d-f1244df1e202/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp",
-      "publishedDateTime": "2020-10-02T00:47:12-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp",
+      "publishedDateTime": "2020-10-02T04:58:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.md",
+      "title": "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 224,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp",
+      "publishedDateTime": "2020-10-02T04:58:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-flight-of-boeing-e-6b-mercurys-amid-trumps-coronavirus-announcement-purely-coincidental-strategic-command.md",
+      "title": "Flight of Boeing E-6B Mercurys amid Trump's coronavirus announcement 'purely coincidental': Strategic Command",
+      "excerpt": "Two Boeing E-6B Mercury planes were detected flying along both coasts of the U.S. mainland early Friday, around the time President Trump announced he and first lady Melania Trump were diagnosed with coronavirus -- but the flights were “pre-planned” and the timing was “purely coincidental,” a U.S. Strategic",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMNzZz4Oknc/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMNzZz4Oknc/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane.amp",
+      "publishedDateTime": "2020-10-02T01:43:20-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1521,116 +1623,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
       "publishedDateTime": "2020-09-29T18:45:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.md",
-      "title": "Philly firefighters, paramedics union breaks with IAFF to endorse Trump",
-      "excerpt": "The firefighters and paramedics union in Philadelphia broke with the International Association of Fire Fighters to endorse President Trump in the upcoming election, according to a report.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOcoWa5OnY8/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOcoWa5OnY8/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.amp",
-      "publishedDateTime": "2020-09-29T17:55:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-netanyahu-says-trumps-critics-dead-wrong-on-middle-east-peace-efforts.md",
-      "title": "Netanyahu says Trump’s critics ‘dead wrong’ on Middle East peace efforts",
-      "excerpt": "Israeli Prime Minister Benjamin Netanyahu said Tuesday that President Trump’s critics were “dead wrong,” in predicting that the Trump administration’s attempts to bring peace to the Middle East would fail -- after a series of landmark U.S.-brokered deals were signed this month. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQAKQ-zwUeM/netanyahu-trumps-middle-east-peace",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQAKQ-zwUeM/netanyahu-trumps-middle-east-peace",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/netanyahu-trumps-middle-east-peace.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/netanyahu-trumps-middle-east-peace.amp",
-      "publishedDateTime": "2020-09-29T16:34:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

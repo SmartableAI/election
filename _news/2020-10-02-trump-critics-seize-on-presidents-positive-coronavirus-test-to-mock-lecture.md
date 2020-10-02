@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-critics-seize-on-presidents-p
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp"
 type: article
 quality: 172
-heat: 292
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Boris Johnson wishes Trump 'speedy recovery' from COVID-19"
+    excerpt: "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. "
+    publishedDateTime: 2020-10-02T11:58:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S8RtvTbFBJo/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Read: Memo from Trump's physician on positive coronavirus test"
+    excerpt: "President Trump and first lady Melania Trump tested positive for coronavirus."
+    publishedDateTime: 2020-10-02T11:05:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfGdVtuBXMI/read-memo-presidents-physician-positive-coronavirus-test"
+    ampWebUrl: "https://www.foxnews.com/politics/read-memo-presidents-physician-positive-coronavirus-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/read-memo-presidents-physician-positive-coronavirus-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/ca77f38e-7fd4-4256-98f1-91f567959c46.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pompeo tests negative for coronavirus, wishes Trump and first lady a 'speedy recovery'"
     excerpt: "Secretary of State Mike Pompeo early Friday morning said he has tested negative for coronavirus hours after President Trump announced he and the first lady have the virus."
     publishedDateTime: 2020-10-02T09:46:07Z
@@ -44,54 +76,6 @@ related:
     quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Scalise touts Trump coronavirus response, slams Democrats for 'working to undermine public faith'"
-    excerpt: "The top Republican on the House Subcommittee on the Coronavirus Crisis touted President Trump and his administration for their response to the pandemic, while slamming Democrats for “failing to acknowledge” that the president’s decisions “saved American lives.”"
-    publishedDateTime: 2020-10-02T01:00:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErSgTasnhfM/scalise-touts-trump-coronavirus-response-slams-democrats-for-actively-working-to-undermine-public-faith"
-    ampWebUrl: "https://www.foxnews.com/politics/scalise-touts-trump-coronavirus-response-slams-democrats-for-actively-working-to-undermine-public-faith.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-touts-trump-coronavirus-response-slams-democrats-for-actively-working-to-undermine-public-faith.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump, first lady begin the 'quarantine process' after Hope Hicks tests positive for coronavirus"
-    excerpt: "President Trump told Fox News host Sean Hannity on Thursday that he and First Lady Melania Trump are currently awaiting coronavirus test results."
-    publishedDateTime: 2020-10-02T02:01:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFc8idbvZM8/president-trump-awaiting-results-of-covid-test-after-top-aide-is-infected-he-tells-sean-hannity"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-awaiting-results-of-covid-test-after-top-aide-is-infected-he-tells-sean-hannity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-awaiting-results-of-covid-test-after-top-aide-is-infected-he-tells-sean-hannity.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be284456-d6de-4336-b05f-6e40b55eab33/ca31ec19-7de0-4662-bb6d-a21760be1861/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump coronavirus adviser Atlas fires back against Redfield criticisms, says advice based on 'current science'"
-    excerpt: "EXCLUSIVE: Special Adviser to President Trump Dr. Scott Atlas fired back at criticisms leveled against him and his role on the Coronavirus Task Force on Monday, defending his record and expertise while maintaining that his advice to the president is based on the current science."
-    publishedDateTime: 2020-09-28T19:41:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06cH5nnVpj0/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -110,22 +94,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c5b0fba-c968-4c31-835f-44c27cb291b6/d11f68f5-3ec3-448f-8e47-ff5939e38d33/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Dennis Quaid bashes 'cancel culture media,' denies he did a pro-Trump PSA about coronavirus"
-    excerpt: "Dennis Quaid shared a video on Instagram explaining that reports he participated in a pro-Trump ad campaign funded by taxpayers about the administration’s COVID-19 response are inaccurate."
-    publishedDateTime: 2020-09-29T12:41:00Z
-    webUrl: "https://www.foxnews.com/entertainment/dennis-quaid-cancel-culture-trump-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/entertainment/dennis-quaid-cancel-culture-trump-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dennis-quaid-cancel-culture-trump-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Dennis20Quaid20RT.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "s6jaSo7NpU80Sy/M1cgCSzT1bBbzLTGvebiVEy2LmZgIE3fWlvhoY/0NsgBcoeMv2PCxbLyOMQsFx6zjXTkfAq911x6kcpgN8UFohHzn9FXYMc9f/Yl90M8i2K5p2mmtkWLWo8Stv1zOUxIRjF+QAg7v+iesW1doFDopbQjWthT0f4KnPY6gPQv0kLYwztdv2DBzfbnsuHmJN2RhU48ZOG6KLQ7fBg2BSYINi13GR/z+tA+/OlICLesqrNyElPYju3cJdBvy+uLdvRhxZ9zdX92gRjraWNJz3sIZlEenbnl7/eulpMvIKoxTQHIKv8R8+I1LwlxA857OY442uCww2cJI05d87RbbyQtZT6RgO9k=;teigVqCJ4WyMuCJMIyNOrQ=="

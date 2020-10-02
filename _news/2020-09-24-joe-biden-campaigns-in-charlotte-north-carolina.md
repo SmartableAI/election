@@ -35,6 +35,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "In battleground Wisconsin, some Latinos feel ignored by Biden"
+    excerpt: "Cesar Hernandez says he has made thousands of phone calls since June urging Latinos in the battleground state of Wisconsin to support Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-02T11:06:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN26N1MZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N1MZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N1MZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535837932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9111I"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Fact check: Hunter Biden's military discharge was administrative, not dishonorable"
     excerpt: "Posts on Facebook following the first 2020 presidential debate say Hunter Biden, the second and only surviving son of Democratic presidential nominee Joe Biden, received a dishonorable discharge from the U."
     publishedDateTime: 2020-10-01T16:42:00Z

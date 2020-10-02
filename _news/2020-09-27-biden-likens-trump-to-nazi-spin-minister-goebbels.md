@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 2040
+heat: 2060
 published: true
 
 provider:
@@ -1337,6 +1337,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/d7e72001-6bde-40d2-8350-bea7dad490c8/01249e2c-313a-47d5-ae48-e33d41604730/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden to be tested for COVID after President Donald Trump reports positive result"
+    excerpt: "Democratic presidential nominee Joe Biden will be tested for coronavirus Friday morning, a source familiar with the plans confirmed."
+    publishedDateTime: 2020-10-02T11:48:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 83
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IUPOG3OCQVAHTEHC4DNZVN532Y.jpg"
+        width: 6000
+        height: 4333
         isCached: true
   - title: "Presidential Debate: Joe Biden Releases Tax Returns Ahead Of Showdown With Donald Trump"
     excerpt: "The Democratic nominee released his 2019 tax return Tuesday, showing he paid nearly $300,000 in federal taxes."

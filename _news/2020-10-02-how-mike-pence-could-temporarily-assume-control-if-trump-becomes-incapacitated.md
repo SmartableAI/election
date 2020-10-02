@@ -258,7 +258,7 @@ related:
   - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
     publishedDateTime: 2020-10-02T08:49:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-incapaci-idUSKBN26N198"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
     type: article
@@ -961,6 +961,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence comments on President Trump’s positive COVID test"
+    excerpt: "Several members of Trump’s inner circle will be monitored closely after a busy week of travel and campaigning with the president."
+    publishedDateTime: 2020-10-02T10:46:00Z
+    webUrl: "https://www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/"
+    ampWebUrl: "https://www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/amp/"
+    cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/amp/"
+    type: article
+    provider:
+      name: WAVY
+      domain: wavy.com
+    quality: 88
+    images:
+      - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
+        width: 1280
+        height: 858
+        isCached: true
   - title: "How Mike Pence could assume control if Trump becomes incapacitated from COVID"
     excerpt: "Trump on Thursday confirmed he and wife Melania tested positive for COVID-19 The two were forced to quarantine after Trump counselor Hope Hicks became ill Vice President Mike Pence could potentially assume presidential control if Trump were to become ..."
     publishedDateTime: 2020-10-02T05:48:00Z
@@ -1243,17 +1259,17 @@ related:
         width: 1140
         height: 712
         isCached: true
-  - title: "Vice President Mike Pence comments on President Trump’s positive COVID test"
-    excerpt: "Karen and I send our love and prayers to our dear friends President @realDonaldTrump and @FLOTUS Melania Trump,” Vice President Mike Pence wrote in a tweet."
-    publishedDateTime: 2020-10-02T06:34:00Z
-    webUrl: "https://fox5sandiego.com/news/national-news/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/"
+  - title: "Vice President Mike Pence comments on President Trump’s positive coronavirus test"
+    excerpt: "(NEXSTAR) – Vice President Mike Pence tweeted a brief statement in response to the news late Thursday that President Donald Trump and First Lady Melania Trump have tested positive for the ..."
+    publishedDateTime: 2020-10-02T08:47:00Z
+    webUrl: "https://fox8.com/news/vice-president-mike-pence-comments-on-president-trumps-positive-coronavirus-test/"
     type: article
     provider:
-      name: Fox 5 San Diego
-      domain: fox5sandiego.com
-    quality: 68
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 65
     images:
-      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
         width: 1280
         height: 858
         isCached: true
@@ -1407,6 +1423,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "jRficc5XjN1yuoIi0ZHTnAcvPh/8BF6LVdRf7QiZqugBjxJ/1w06Cx+QWcqM58nhaDYX4dQuOWm3gGo7W6aL/RE/ACkQgFLDsfEQ9whhHbONu1TEGNW7EZBksUYRGsUfCnJT5TtOhl5JXvl/68rgBKLQU5MIaMwJI+PDqaOz3iZEYthfII4iVP2B7jMb/pinmuV3LiOIM//5RpTDWqevSYloOHDBpXqgCnvdaZ+vkNPwMw7htAKfqiyzCQ7LxnlGKRR4zHYF1nfKKh0DRaD3IDbZ4fln3C3tdRx/dUMKSg9VnDPzwouHTwgJTAtaVbRqddq8IZPscCVQI8B0ikHHNl5ZtrDGmjNi2vlBAte2Ylc=;VPEG6EdsLIlPZdKI6HfOPA=="
+secured: "ixNs8el17nu5AlrMAWnx9kxGwhQ5+9C1+BfMvyK9KaCex0gNNn5lJd4g+XW2dqGcfH8Jj6ctUuL/ZydXeWfsh6cgH7F6m8v+L4Z2rnmkwId2KYkGxF4nYkDLS8dAyEAVBTlQSQiO7ih23aXDaFEu3pD93SnL370et3ObsEtC1T0rhM+ZoVINndT68oDeiA1+TRQa7grgoAs3xhAfMYc2c8IG7A6GBUo0I4BMYHp1atvybkd+HLlCOgOJnawqU5h9HBgcMhvN5NE8g9CbQNxMdcu1No20OEbVr7b6KeZC+6yzxI+51B6dYXe+73VSw+Bhu2kwzmRsfOamZ7pnBKs29y4LZDdx+Sndgs9Yrx+n/F/SXln/kcQqA2gHGV3q6Vw+X0Mds24RoEZuUCalkuK7gnYN9zSVUUBdBsiQShUpRcY2WnhkD+Xe4rxT22HPQ7HT4QOzE7qxvUb18N1cKBdLFWCeWXE4K+zk9lAE0UDMJecY4YzDUxT/7Ou2fnF6P7TwmXl2ms5F8pNsTWO8bIbgEw==;FH0ox8hWOCxTyAC+ktN/nQ=="
 ---
 

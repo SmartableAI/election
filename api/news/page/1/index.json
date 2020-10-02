@@ -2,6 +2,164 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-02-boris-johnson-wishes-trump-speedy-recovery-from-covid-19.md",
+      "title": "Boris Johnson wishes Trump 'speedy recovery' from COVID-19",
+      "excerpt": "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S8RtvTbFBJo/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S8RtvTbFBJo/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp",
+      "publishedDateTime": "2020-10-02T04:58:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.md",
+      "title": "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 224,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp",
+      "publishedDateTime": "2020-10-02T04:58:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-if-he-doesnt-win-ohio-its-over-trump-slips-in-the-heartland.md",
+      "title": "‘If He Doesn’t Win Ohio, It’s Over’: Trump Slips in the Heartland",
+      "excerpt": "Four years ago, the president easily won Ohio by building a balanced coalition among white voters across educational lines. But his support has waned since then, particularly in the suburbs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/us/02pollwatch-newsletter/02pollwatch-newsletter-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
+      "publishedDateTime": "2020-10-02T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-trumps-positive-covid-19-test-throws-country-into-fresh-upheaval.md",
       "title": "Trump's positive Covid-19 test throws country into fresh upheaval",
       "excerpt": "A country already unnerved by a devastating health catastrophe and a turbulent political season faced fresh upheaval Friday as Americans awoke to news President Donald Trump had contracted coronavirus.\n    \n",
@@ -14,7 +172,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -108,34 +266,34 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.md",
-      "title": "Trump critics seize on president's positive coronavirus test to mock, lecture",
-      "excerpt": "While many on social media sent well wishes to President Trump and First Lady Melania Trump early Friday after the president confirmed they had both tested positive for the coronavirus, others took the time to criticize or make negative comments.  ",
+      "path": "_news/2020-10-02-flight-of-boeing-e-6b-mercurys-amid-trumps-coronavirus-announcement-purely-coincidental-strategic-command.md",
+      "title": "Flight of Boeing E-6B Mercurys amid Trump's coronavirus announcement 'purely coincidental': Strategic Command",
+      "excerpt": "Two Boeing E-6B Mercury planes were detected flying along both coasts of the U.S. mainland early Friday, around the time President Trump announced he and first lady Melania Trump were diagnosed with coronavirus -- but the flights were “pre-planned” and the timing was “purely coincidental,” a U.S. Strategic",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2wZJXmtLXQ/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2wZJXmtLXQ/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMNzZz4Oknc/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMNzZz4Oknc/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 292,
+      "heat": 176,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa0f4910-4c22-4366-a6ea-9b34b4817ee8/df5cb6e2-c8e3-418a-9a3d-f1244df1e202/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp",
-      "publishedDateTime": "2020-10-02T00:47:12-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane.amp",
+      "publishedDateTime": "2020-10-02T01:43:20-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1160,168 +1318,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-donald-trump-made-an-unsuccessful-push-to-cash-out-his-800-million-stake-in-2-valuable-office-skyscrapers.md",
-      "title": "Donald Trump made an unsuccessful push to cash out his $800 million stake in 2 valuable office skyscrapers",
-      "excerpt": "The New York Times found Trump erased nearly all his federal taxes in the 15 years prior to the 2016 election. But he could be on the hook for an upcoming $100 million tax bill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-tried-sell-stake-manhattan-san-francisco-offices-vornado-taxes-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-tried-sell-stake-manhattan-san-francisco-offices-vornado-taxes-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f75f48374fe5b0018a8e7b3?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-biden-schumer-pelosi-would-do-more-damage-in-2-years-than-obama-did-in-8-ted-cruz.md",
-      "title": "Biden-Schumer-Pelosi would do more damage in 2 years than Obama did in 8: Ted Cruz",
-      "excerpt": "A “Biden-Schumer-Pelosi government” would be a “nightmare,” Sen. Ted Cruz, R-Texas, said on Thursday as he encouraged Republicans to vote in the upcoming elections.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp",
-      "publishedDateTime": "2020-10-01T10:22:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-biden-campaign-unveils-shameless-vapid-ad-campaign-directed-at-christian-voters.md",
-      "title": "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters",
-      "excerpt": "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289",
-      "originalUrl": "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true",
-      "publishedDateTime": "2020-10-01T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

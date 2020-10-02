@@ -142,6 +142,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "TRUMP tests positive for COVID — VIRUS cases INCREASE — Race-baiting ROBOCALL hits state rep race"
+    excerpt: "President Donald Trump announced early Friday that he has tested positive for the coronavirus, upending his presidency and the 2020 race just 32 days before Election Day. The 74-year-old president disclosed his diagnosis in a tweet at 12:54 a."
+    publishedDateTime: 2020-10-02T11:30:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/10/02/trump-tests-positive-for-covid-virus-cases-increase-race-baiting-robocall-hits-state-rep-race-490507"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 102
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "oy1ZpCZzDJJ7rU95KRyNJq602FTdppc3PrZu5c33gSQB6ciSjLq21gl0pKy/WIqfRvvhYhoubK7sUtSfApI/24jiBuxUDYZbXo3kR+VHJwu0vqQCkYnvS0Tm4kr/3uvWJufWrolRk2a0xVxnApRTUOGtcWenZoT2A4nlg/LSPr1qbKdznlFnQIqnM72bo0f5YEwhx2XVtmMYFXEluH1ybfT2DHTcMVXvx1K49IP48GCDz9GJqexWfImlVZzr28utCO82WTIzMHPCdbHFGn8GFFM3FQWTbW60KdTIP0CSAySJbmAXXyEEg3s9MMA57Ds1eb/1XmOEPN02eZgfG2YhlaBjNqIHiYUaPrJ39fNPCoOcLVmGAldL/KEnQYE5/h/b4J4/iCTVI5NY8sitKnZXgubYFot9JlEptJmzbZbdJPCPSFV4bn+zvxuRMlMmOJKkMhQjueTnb7Qj4olqwBEc84dBJzz5iK2NdsbtPGwhGchtxDKp/xg24c/osRnL9VFWwi28PLH+tLPd/gZNlXPXNQ==;WoeJs2aAdRcqfF1pBPccqw=="
 ---

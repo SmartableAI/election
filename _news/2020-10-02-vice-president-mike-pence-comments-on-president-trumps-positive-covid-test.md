@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Vice President Mike Pence comments on President Trump’s positive COVID test"
-excerpt: "Karen and I send our love and prayers to our dear friends President @realDonaldTrump and @FLOTUS Melania Trump,” Vice President Mike Pence wrote in a tweet."
-publishedDateTime: 2020-10-02T06:34:00Z
-originalUrl: "https://fox5sandiego.com/news/national-news/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/"
-webUrl: "https://fox5sandiego.com/news/national-news/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/"
+excerpt: "Several members of Trump’s inner circle will be monitored closely after a busy week of travel and campaigning with the president."
+publishedDateTime: 2020-10-02T10:46:00Z
+originalUrl: "https://www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/"
+webUrl: "https://www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/"
+ampWebUrl: "https://www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/amp/"
+cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/national/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/amp/"
 type: article
-quality: 68
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: Fox 5 San Diego
-  domain: fox5sandiego.com
+  name: WAVY
+  domain: wavy.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
+  - url: "https://www.wavy.com/wp-content/uploads/sites/3/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
     width: 1280
     height: 858
     isCached: true
@@ -268,7 +270,7 @@ related:
   - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
     publishedDateTime: 2020-10-02T08:49:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-incapaci-idUSKBN26N198"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
     type: article
@@ -1253,6 +1255,20 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "Vice President Mike Pence comments on President Trump’s positive coronavirus test"
+    excerpt: "(NEXSTAR) – Vice President Mike Pence tweeted a brief statement in response to the news late Thursday that President Donald Trump and First Lady Melania Trump have tested positive for the ..."
+    publishedDateTime: 2020-10-02T08:47:00Z
+    webUrl: "https://fox8.com/news/vice-president-mike-pence-comments-on-president-trumps-positive-coronavirus-test/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 65
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
+        width: 1280
+        height: 858
+        isCached: true
   - title: "Kamala Harris wants to speak to the Black community. Are we ready to listen? | Solomon Jones"
     excerpt: "Kamala Harris can’t be symbolic like Obama. She must be substantive, and she must be able to answer the tough questions so many of us have."
     publishedDateTime: 2020-09-30T12:45:00Z
@@ -1403,6 +1419,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "A38JAT+NehwgoVnnP2eiZwy2oIPhpvmwjEuvRFgLwibihc2slpvQeGWUXmDDrjtJbZtPk2U9ca/E3MNy4PrVSs3oW2CqG9NCHjNlr0DXLvg08rAFlkRsGjc0D0v9SOJX+Oj4iafYYB8Qo21aoPhjF7KWpfu7vgK96G3B6ltcJx5PLGRtVH00i0U5mDo6fkRQIWWMKysETRuzT2bcVz0NXo1aPB1Ocmi3mqA81n40QENkCmgWoDN+gnO+xOTrFmw5S2EIvAyab991wbouGwlL3+YFzQEOIG7o4jB4jJtTXsJAazPEkpEfdNuYCiWfh0Ihevi+MoIumIWIOaSPSaCMB6dYrkxrqWlxbcuu8JD6OrpykfrStFtGDQRV9JK5Uu+DOQqnnmzBDNyocir2V6eDhkkalF+l4fpRF4PFYhg9nYtVJNVQP+kyp+DJ31rhEKXPywvyw01V2YrHGU6Pyu2ignk4B57M2jfrKYfuXlrPFHt0Alq6nefVJIhOjieLQMebJIvzMtK33+YNogsAuDh+cA==;QL+OWE3w4LXwVVK1Q/2OCA=="
+secured: "trgS3lfoxsyo1PU5DJzWpHLTuOhfDAcgfw3q/XDTXevAknuoh6a4f2qyuS/VO7+BxtU/SgJotJR1oQ5ppDkNG7sl5vRoX95g5FgChhfTtA1NS6gq1vjP8d47RtUoXILUKo3pNFicKZ/rAphICYiIBIKCuMlaD9hbjPtATihGoDeIf04rYFu7GQKgEDny5q+4/HkgB6nP2qyBN6C2Y5BV4tGW08KxA8/mIFaVNwT/x7IEhOCOvt1Q+3PH2GTdmsxINBt/spVA8hdpQzBLdDPwuWYnxweoyBrWpHV0iVJ9bBCRfhM4aDQ29hiutNSDQ4vIzo6c/j8VEGlj5A2McLPziwdfOCklJ4DBRx0jkatCQLQ=;KObuIVt4bue0SHd+X7r/YA=="
 ---
 

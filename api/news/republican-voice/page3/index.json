@@ -2,6 +2,116 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-24-cuomo-whitmer-call-for-congress-to-investigate-trumps-response-to-covid-crisis.md",
+      "title": "Cuomo, Whitmer call for Congress to investigate Trump's response to COVID crisis",
+      "excerpt": "Two Democratic governors are calling for Congress to investigate the Trump administration’s handling of the coronavirus crisis, which they allege was politicized and impeded the U.S. response.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3xAHm4wzQSw/cuomo-whitmer-congress-investigate-trump-covid-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3xAHm4wzQSw/cuomo-whitmer-congress-investigate-trump-covid-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-whitmer-congress-investigate-trump-covid-crisis.amp",
+      "publishedDateTime": "2020-09-24T10:13:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-says-he-told-kentucky-governor-well-close-it-down-for-you-after-night-of-louisville-unrest.md",
+      "title": "Trump says he told Kentucky governor ‘we'll close it down for you’ after night of Louisville unrest",
+      "excerpt": "President Trump commended Kentucky's Democratic Gov. Andy Beshear for authorizing the partial deployment of the National Guard to quell unrest triggered by charges against a single Louisville police officer connected to the fatal shooting of Breonna Taylor. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S6MX_qxbDQc/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S6MX_qxbDQc/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-kentucky-governor-well-close-it-down-breonna-taylor-protests.amp",
+      "publishedDateTime": "2020-09-24T07:44:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-adam-schiff-urges-good-conscience-republicans-in-trump-administration-to-step-down-it-is-time-for-you-to-resign.md",
       "title": "Adam Schiff urges 'good conscience' Republicans in Trump administration to step down: 'It is time for you to resign'",
       "excerpt": "House Intelligence Committee Chairman Rep. Adam Schiff told MSNBC’s Rachel Maddow that “good conscience” Republicans should step down after President Trump told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. ",
@@ -1494,116 +1604,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp",
       "publishedDateTime": "2020-09-19T22:11:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.md",
-      "title": "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump",
-      "excerpt": "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp",
-      "publishedDateTime": "2020-09-19T19:09:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-kamala-harris-pays-tribute-to-rbg-with-supreme-court-pic.md",
-      "title": "Kamala Harris pays tribute to RBG with Supreme Court pic",
-      "excerpt": "Democratic Vice Presidential candidate Kamala Harris paid tribute to the passing of Supreme Court Justice Ruth Bader Ginsberg Saturday, calling the liberal icon a “titan.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 480,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e4ffb8-2b45-4210-b6fb-e8d0e7172632/fc1e8122-6d22-4b0e-bd5d-bb49476cc1cd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
-      "publishedDateTime": "2020-09-19T14:52:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

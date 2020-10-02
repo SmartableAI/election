@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/S8RtvTbFBJo/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus</loc>
+    <lastmod>2020-10-02T04:58:55-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says</loc>
+    <lastmod>2020-10-02T04:58:54-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html</loc>
+    <lastmod>2020-10-02T04:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgVIolT-fDc/index.html</loc>
     <lastmod>2020-10-02T02:29:52-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -13,8 +31,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/J2wZJXmtLXQ/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture</loc>
-    <lastmod>2020-10-02T00:47:12-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/eMNzZz4Oknc/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane</loc>
+    <lastmod>2020-10-02T01:43:20-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-02-if-he-doesnt-win-ohio-its-over-trump-slips-in-the-heartland.md",
+      "title": "‘If He Doesn’t Win Ohio, It’s Over’: Trump Slips in the Heartland",
+      "excerpt": "Four years ago, the president easily won Ohio by building a balanced coalition among white voters across educational lines. But his support has waned since then, particularly in the suburbs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/us/02pollwatch-newsletter/02pollwatch-newsletter-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
+      "publishedDateTime": "2020-10-02T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-trump-did-condemn-white-supremacists-too-bad-so-many-people-wont-listen.md",
       "title": "Trump did condemn white supremacists, too bad so many people won't listen",
       "excerpt": "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists.",
@@ -428,7 +484,7 @@
       "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/10/01/trump-is-single-largest-driver-of-covid-19-misinformation-cornell-study-finds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -479,7 +535,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2035,
+      "heat": 2055,
       "tags": null,
       "images": [
         {
@@ -583,7 +639,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 627,
+      "heat": 647,
       "tags": null,
       "images": [
         {
@@ -1272,7 +1328,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1501,62 +1557,6 @@
       "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241323",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241323",
       "publishedDateTime": "2020-09-29T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-does-trumps-tightening-financial-vise-create-a-security-risk.md",
-      "title": "Does Trump's 'tightening financial vise' create a security risk?",
-      "excerpt": "Trump holding onto power might be one of the few options he has remaining to prevent his creditors from seizing his personal assets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/j/newscms/2020_40/3415692/200928-donald-trump-2019-ac-900p_b16f83d9a1a7db503e80ee100742757f.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T06:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "NBC News",

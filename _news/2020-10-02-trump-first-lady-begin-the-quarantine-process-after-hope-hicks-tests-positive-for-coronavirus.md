@@ -31,53 +31,32 @@ images:
     isCached: true
 
 related:
-  - title: "Trump critics seize on president's positive coronavirus test to mock, lecture"
-    excerpt: "While many on social media sent well wishes to President Trump and First Lady Melania Trump early Friday after the president confirmed they had both tested positive for the coronavirus, others took the time to criticize or make negative comments.  "
-    publishedDateTime: 2020-10-02T07:47:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2wZJXmtLXQ/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp"
+  - title: "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says"
+    excerpt: ""
+    publishedDateTime: 2020-10-02T11:58:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa0f4910-4c22-4366-a6ea-9b34b4817ee8/df5cb6e2-c8e3-418a-9a3d-f1244df1e202/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pompeo tests negative for coronavirus, wishes Trump and first lady a 'speedy recovery'"
-    excerpt: "Secretary of State Mike Pompeo early Friday morning said he has tested negative for coronavirus hours after President Trump announced he and the first lady have the virus."
-    publishedDateTime: 2020-10-02T09:46:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ha_MXXgw6Ts/mike-pompeo-tested-negative-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-tested-negative-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-tested-negative-for-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Scalise touts Trump coronavirus response, slams Democrats for 'working to undermine public faith'"
-    excerpt: "The top Republican on the House Subcommittee on the Coronavirus Crisis touted President Trump and his administration for their response to the pandemic, while slamming Democrats for “failing to acknowledge” that the president’s decisions “saved American lives.”"
-    publishedDateTime: 2020-10-02T01:00:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErSgTasnhfM/scalise-touts-trump-coronavirus-response-slams-democrats-for-actively-working-to-undermine-public-faith"
-    ampWebUrl: "https://www.foxnews.com/politics/scalise-touts-trump-coronavirus-response-slams-democrats-for-actively-working-to-undermine-public-faith.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-touts-trump-coronavirus-response-slams-democrats-for-actively-working-to-undermine-public-faith.amp"
+    quality: 164
+  - title: "First lady Melania Trump says she and POTUS 'feeling good' after testing positive for coronavirus"
+    excerpt: "First lady Melania Trump said Friday that she and the president are \"quarantining\" after testing positive for COVID-19."
+    publishedDateTime: 2020-10-02T11:29:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sZZRGit5lOE/melania-trump-president-feeling-good-tweet-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-president-feeling-good-tweet-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-president-feeling-good-tweet-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f72eb6e-6d2e-4c08-aa10-151d5fb58830/00caa550-2b5d-4218-ad43-739194331d50/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump coronavirus adviser Atlas fires back against Redfield criticisms, says advice based on 'current science'"
     excerpt: "EXCLUSIVE: Special Adviser to President Trump Dr. Scott Atlas fired back at criticisms leveled against him and his role on the Coronavirus Task Force on Monday, defending his record and expertise while maintaining that his advice to the president is based on the current science."
@@ -94,38 +73,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Trump cancels travel schedule after testing positive for coronavirus, keeps phone call on virus aid for seniors"
-    excerpt: "President Trump cleared his Friday schedule except for a phone call on coronavirus support for vulnerable seniors after he and first lady Melania Trump confirmed they had tested positive for the virus in the early morning hours, multiple reports said. "
-    publishedDateTime: 2020-10-02T09:01:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BHo9v9L_7AE/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c5b0fba-c968-4c31-835f-44c27cb291b6/d11f68f5-3ec3-448f-8e47-ff5939e38d33/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Dennis Quaid bashes 'cancel culture media,' denies he did a pro-Trump PSA about coronavirus"
-    excerpt: "Dennis Quaid shared a video on Instagram explaining that reports he participated in a pro-Trump ad campaign funded by taxpayers about the administration’s COVID-19 response are inaccurate."
-    publishedDateTime: 2020-09-29T12:41:00Z
-    webUrl: "https://www.foxnews.com/entertainment/dennis-quaid-cancel-culture-trump-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/entertainment/dennis-quaid-cancel-culture-trump-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dennis-quaid-cancel-culture-trump-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Dennis20Quaid20RT.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
 
 secured: "oGyMvJxiQM9FisZKzp1V63BRIq8+rQK1Qbd19T8Zrbw4MF9aLJMoqBVUT/5FhTCJx1krQDBqUnqJKGpvzwB79Wgyykjlrkey1U7miJ8vu6ZKBlOAGFaWXciIe/hC+aM/O2l2neUX8SWVtLGvtcYf5ftmJI9ysflnPbjMAMa6WYcmtGRDyX5E4EJkjIMHnW/pqU1DV/aM0N/vgcylodY36Jcli436Q7KKGayuIqL4bE1N//Wa4tVaSkmSAWV6pUCaSamU+dkgrJOaiR9WHi54e81fdy/M0snNiG3564a2kC0xowTp2SFbaxb5IwVQCn3EpC3PNKRei8xNi8Pm4xpH92QgTCI2SzaVp//NokwxZLc=;GClZEGVrtsahiCGG+McJCg=="

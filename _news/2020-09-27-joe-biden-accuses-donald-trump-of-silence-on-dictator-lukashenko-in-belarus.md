@@ -385,6 +385,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence heads to Iowa, as Biden and Trump catch their breath and host fund-raisers."
+    excerpt: "Participates in a round table with supporters in Bedminster, N.J. 3:45 p.m.: Delivers remarks at a fund-raising committee reception. Former Vice President Joseph R. Biden Jr. Afternoon: Hosts online fund-raiser."
+    publishedDateTime: 2020-10-01T12:38:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/elections/pence-heads-to-iowa-as-biden-and-trump-catch-their-breath-and-host-fund-raisers.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/elections/pence-heads-to-iowa-as-biden-and-trump-catch-their-breath-and-host-fund-raisers.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/elections/pence-heads-to-iowa-as-biden-and-trump-catch-their-breath-and-host-fund-raisers.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How the Biden-Trump Debate Will Play on TV (Don’t Expect Fact-Checks)"
     excerpt: "My job is to be as invisible as possible,” said Chris Wallace of Fox News, the moderator of the opening matchup on Tuesday."
     publishedDateTime: 2020-09-28T16:09:00Z

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Was in Maskless ‘Close Contact’ with Dozens of Donors After Hope Hicks Got Covid-19 Symptoms"
+    excerpt: "President Donald Trump was in \"close contact\" and not wearing a mask while interacting with \"dozens\" of donors and others in the hours after Hope Hicks developed symptoms of COVID-19."
+    publishedDateTime: 2020-10-02T11:27:00Z
+    webUrl: "https://www.mediaite.com/news/trump-was-in-maskless-close-contact-with-dozens-of-donors-after-hope-hicks-got-covid-19-symptoms/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-was-in-maskless-close-contact-with-dozens-of-donors-after-hope-hicks-got-covid-19-symptoms/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-was-in-maskless-close-contact-with-dozens-of-donors-after-hope-hicks-got-covid-19-symptoms/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 61
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1216200704.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+48Mv3/+usMBzUJQUPujgHN+Lzq2ePN3x161QPIVmGcCBWxLYf5SavSe4K55QhH330+AbI2OalKaS95ltNWiV2eOYFk421Oiil+YveQKKCfCue1lZxKHd0g6bc4spyAdubjU5R62Z2qkKjfbZIct6aQYf0A6SWWT+Q2xozpbKiacdlB4ZKvfP27mwHK9Q1ILbBMxaBAfpkDQjH3xkXdPJIFH00p67lgcWh5/lAw2d32q+7Pc5IK2d6sEf8D2zvjf9F1VovRmzvLkc6W/lYx6naBbTagC2S3QwOQFBHU0QDDwd47sutC+8Jg2p7IEdyPsz2Q9XweBZa7ZZki6uECbt0sTQjpOEy/LLuvuCW4yb0s=;XIEdNwJ6xkT/hK6tA9ppvg=="
 ---

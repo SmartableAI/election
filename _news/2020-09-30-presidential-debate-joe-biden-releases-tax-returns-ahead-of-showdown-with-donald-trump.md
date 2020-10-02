@@ -1354,6 +1354,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden to be tested for COVID after President Donald Trump reports positive result"
+    excerpt: "Democratic presidential nominee Joe Biden will be tested for coronavirus Friday morning, a source familiar with the plans confirmed."
+    publishedDateTime: 2020-10-02T11:48:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 83
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IUPOG3OCQVAHTEHC4DNZVN532Y.jpg"
+        width: 6000
+        height: 4333
+        isCached: true
   - title: "Donald Trump denies report he paid $750 in federal income taxes, Joe Biden campaign jumps on story"
     excerpt: "President Trump on Monday denied the bombshell report that revealed he only paid $750 in federal income taxes in recent years, while Democratic presidential nominee Joe Biden’s campaign has"
     publishedDateTime: 2020-09-28T23:52:00Z
