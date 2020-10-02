@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 3150
+heat: 3170
 published: true
 
 provider:
@@ -1742,6 +1742,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30POLLWATCHERS1/30POLLWATCHERS1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Dow futures plunge 500 points as Trump says he tested positive for Covid"
+    excerpt: "Futures tied to the Dow Jones Industrial Average plummeted 500 points. S&P 500 futures and Nasdaq 100 futures were also in negative territory."
+    publishedDateTime: 2020-10-02T06:47:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/dow-futures-plunge-more-400-points-trump-says-he-tested-n1241770?share=facebook"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241770"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241770"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3414757/200924-donald-trump-ew-506p_d18730592e7d92cf390f4bf2f60888bd.jpg"
+        width: 2500
+        height: 1642
         isCached: true
   - title: "Trump Virtually Cuts Off Refugees as He Unleashes a Tirade on Immigrants"
     excerpt: "The Trump administration said it would lower the annual cap on refugees further into rock-bottom record territory as President Trump pursues pre-election xenophobic attacks."

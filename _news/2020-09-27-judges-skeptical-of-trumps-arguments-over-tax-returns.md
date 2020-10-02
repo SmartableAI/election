@@ -169,6 +169,22 @@ related:
         width: 791
         height: 545
         isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive for coronavirus"
+    excerpt: "U.S. President Donald Trump said in a tweet on Friday he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election."
+    publishedDateTime: 2020-10-02T06:55:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-for-coronavirus-idUSKBN26N0SW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535814584&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The most essential books of the Trump era are barely about Trump at all"
     excerpt: "As the Washington Post’s nonfiction book critic, I’ve read well over 150 works covering Donald Trump and the major debates of his presidency, and that’s just a small fraction of the canon. Dissections of heartland voters."
     publishedDateTime: 2020-10-01T19:52:00Z
@@ -393,6 +409,17 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Trump Joins Growing List of Virus-Infected World Leaders"
+    excerpt: "President Donald Trump has tested positive for the coronavirus, joining a small group of world leaders who have been infected."
+    publishedDateTime: 2020-10-02T06:48:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "7EPy+GkvIGtVvIbURmTPvnsO6wq4mVmZuL89H5457pa3uTeGv2+jb9dRsDnHE8wEbsrD7D3d8T51kThNv/yaPlXtcTtDGEZHgB8qGTQmasMa7/TT+la8sX0V8gjBsAdbfc84ySrZFR+z5voVcp8aplZYK78wcBvjnsszQLlk0w64L4J6H5FbCpplZhOOJ6Hu34XJSX8vXtZd3uHNc1tkUuVWtJ0TBvQ7s9pgyIa8nwnEvQqLvpOpXEoQVKXWg5FFhPmYR0wTEys1Lb6u3BpaUQvBgiujgkCqJGaL2t0oQNIGkCOB/zZOFouSYI8nxvbIf35n/258TnJVowwnMnXf43v9jJRn2QqAObifsJ1pSgNe+qKc9hxPwcm7nEckZnZ+YyeCJlNnEVyFcFP5PJF6tH8Dz/p61cNvKjgHNYgl7IR7j63hS1U4b8/CM8Ef6piV/PfMECKhN3Us5y0OsAcM92e4zB8k6dRvRXD91DPpHwMC6rW9TpUOJl4gGxwGdKb81mUyFtfaPuvhAoJgjHa9Sw==;z8zeqSgVwa4CB750mcYViQ=="
 ---

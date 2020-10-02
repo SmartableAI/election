@@ -114,7 +114,7 @@ related:
   - title: "When is the Mike Pence–Kamala Harris debate?"
     excerpt: "Mike Pence and Kamala Harris. Donald Trump’s vice president and Joe Biden’s running mate will face off against each other"
     publishedDateTime: 2020-09-30T20:15:00Z
-    webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30?mod=hp_minor_pos20"
+    webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
     ampWebUrl: "https://www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
     type: article
@@ -382,6 +382,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_proudboys_93020getty.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Reactions to Donald Trump testing positive for coronavirus"
+    excerpt: "U.S. President Donald Trump said in a tweet on Friday that he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election."
+    publishedDateTime: 2020-10-02T06:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idUSKBN26N0SM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535814667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IV"
+        width: 826
+        height: 545
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -865,6 +881,22 @@ related:
         width: 3300
         height: 2284
         isCached: true
+  - title: "Mike Pence sends prayers to Trumps after COVID news"
+    excerpt: "Vice President Mike Pence says he and his wife, Karen, are sending their “love and prayers” to President Donald Trump and first lady Melania Trump after the Trumps announced early Friday that they had tested positive for the coronavirus."
+    publishedDateTime: 2020-10-02T07:03:00Z
+    webUrl: "https://www.abc15.com/news/coronavirus/mike-pence-sends-prayers-to-trumps-after-covid-news"
+    ampWebUrl: "https://www.abc15.com/news/coronavirus/mike-pence-sends-prayers-to-trumps-after-covid-news?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/coronavirus/mike-pence-sends-prayers-to-trumps-after-covid-news?_amp=true"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 90
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c09085f/2147483647/strip/true/crop/0x0+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fmedia2.abc15.com%2Fphoto%2F2017%2F08%2F22%2FKNXV%20Trump%20and%20Pence%20in%20Phoenix_1503443555336_64666784_ver1.0_640_480.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pence touts Trump administration in Iowa visit"
     excerpt: "CARTER LAKE, Iowa — With a little more than a month before Election Day, Vice President Mike Pence encouraged a crowd of about 250 people in Carter Lake to get out the vote ahead of what shapes ..."
     publishedDateTime: 2020-10-01T21:46:00Z
@@ -1194,6 +1226,20 @@ related:
       - url: "https://www.fccnn.com/incoming/6677659-aey5v5-PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg/alternates/BASE_LANDSCAPE/PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg"
         width: 1140
         height: 712
+        isCached: true
+  - title: "Vice President Mike Pence comments on President Trump’s positive COVID test"
+    excerpt: "Karen and I send our love and prayers to our dear friends President @realDonaldTrump and @FLOTUS Melania Trump,” Vice President Mike Pence wrote in a tweet."
+    publishedDateTime: 2020-10-02T06:34:00Z
+    webUrl: "https://fox5sandiego.com/news/national-news/vice-president-mike-pence-comments-on-president-trumps-positive-covid-test/"
+    type: article
+    provider:
+      name: Fox 5 San Diego
+      domain: fox5sandiego.com
+    quality: 68
+    images:
+      - url: "https://fox5sandiego.com/wp-content/uploads/sites/15/2020/10/GettyImages-1210109520-trump-open-america-again-1.jpg?w=1280"
+        width: 1280
+        height: 858
         isCached: true
   - title: "Kamala Harris wants to speak to the Black community. Are we ready to listen? | Solomon Jones"
     excerpt: "Kamala Harris can’t be symbolic like Obama. She must be substantive, and she must be able to answer the tough questions so many of us have."

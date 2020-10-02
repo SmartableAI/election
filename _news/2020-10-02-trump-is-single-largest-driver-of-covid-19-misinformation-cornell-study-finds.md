@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/01/trump-is-single-la
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/01/trump-is-single-largest-driver-of-covid-19-misinformation-cornell-study-finds/amp/"
 type: article
 quality: 120
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1199
     height: 675
     isCached: true
+
+related:
+  - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
+    excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."
+    publishedDateTime: 2020-10-02T07:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-diagnosis-election-impact-running-out-of-time-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-diagnosis-election-impact-running-out-of-time-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-diagnosis-election-impact-running-out-of-time-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5f76cfb974fe5b0018a8ea08?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "ct6pnd3K/xEeO3xXIJ8bxOr5ry3RulT09aYkN9fP4EBq/blgq9vZ9XXXU357CjT793fQWqoQwgYgSl3a3WfnmKuPwaWfOMJfm1fqVjBgmlJtsZ4P9cwVlBA3W5daynsfXkmBzopPUFmRgM+3Zvsm5U3X2c86oXlazstyZp5WxyemSoBLP8uPwTMNB4hjk3+oP6pO9l19+Kl++RSgCdKK0xN5cqXTISCv4cMneS9tZKA5UhXN2LATEGeiKfwR7a31xDs8REwUxKeVni07Lu+h6C4cQaScQJenh3s8u+x5BKjMqX4rtfO4y5qp7ql7IDAGhjBUqmNSSmmtu8HJp/0GDMDLhj1Xmp5wBtO+UD3yLeI=;5HgaVCj46BuZKZGbcQ7hTA=="
 ---

@@ -1500,6 +1500,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: President Trump, first lady test positive for coronavirus"
+    excerpt: "President Trump and First Lady Melania Trump both tested positive for COVID-19 early Friday, and are set to quarantine and recover at the White House."
+    publishedDateTime: 2020-10-02T06:20:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpdEuSFic0U/coronavirus-in-the-white-house-president-and-first-lady-test-positive"
+    ampWebUrl: "https://www.foxnews.com/politics/coronavirus-in-the-white-house-president-and-first-lady-test-positive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coronavirus-in-the-white-house-president-and-first-lady-test-positive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73d71629-3f28-4275-ba3f-4f8591657cf1/98650055-fe08-42b5-8661-7040337b06a4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s team commits to all presidential debates after Cleveland showdown"
     excerpt: ""
     publishedDateTime: 2020-09-30T07:46:49Z

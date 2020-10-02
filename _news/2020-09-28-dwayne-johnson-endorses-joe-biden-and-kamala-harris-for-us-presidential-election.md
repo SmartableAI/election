@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 2940
+heat: 2960
 published: true
 
 provider:
@@ -1892,6 +1892,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/the-90-minute-debate-will-finally-give-americans.jpg"
         width: 921
         height: 768
+        isCached: true
+  - title: "Gen. McChrystal, Once Fired For Criticizing Biden, Endorses Biden on Morning Joe"
+    excerpt: "Gen. Stanley McChrystal, the commander of all U.S. and NATO forces in Afghanistan during the Obama administration who was fired after he criticized Joe Biden to a reporter, endorsed the former vice president in an appearance on Morning Joe Thursday."
+    publishedDateTime: 2020-10-01T14:43:00Z
+    webUrl: "https://www.mediaite.com/tv/gen-mcchrystal-once-fired-for-criticizing-biden-endorses-biden-on-morning-joe/"
+    ampWebUrl: "https://www.mediaite.com/tv/gen-mcchrystal-once-fired-for-criticizing-biden-endorses-biden-on-morning-joe/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/gen-mcchrystal-once-fired-for-criticizing-biden-endorses-biden-on-morning-joe/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Morning-Joe-07_44_25-AM-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Pete Buttigieg is portraying Mike Pence as Kamala Harris preps for VP debate: report"
     excerpt: "Former South Bend Mayor Pete Buttigieg is portraying fellow Indianan Mike Pence as Sen. Kamala Harris prepares for the vice presidential debate, according to a new report by Bloomberg News. “Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent,"

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump receives well wishes from top critics after coronavirus diagnosis"
+    excerpt: "Shortly after President Trump announced that he and First Lady Melania Trump had tested positive for COVID-19, a number of the president’s biggest critics appeared to be put their differences with him aside to wish him well as he battles a disease that has already left more than 205,000 Americans dead."
+    publishedDateTime: 2020-10-02T07:34:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZM2eohApLw/trump-receives-well-wishes-from-unlikely-sources-following-positive-coronavirus-test"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-receives-well-wishes-from-unlikely-sources-following-positive-coronavirus-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-receives-well-wishes-from-unlikely-sources-following-positive-coronavirus-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "10 guns confiscated from Trump aide Parscale’s home after call from wife: police"
     excerpt: "Police officers confiscated 10 guns from former Trump 2020 campaign manager Brad Parscale's home on Sunday."
     publishedDateTime: 2020-09-28T17:49:44Z
@@ -94,6 +110,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "GOP frustration mounts as Trump doggedly defends debate, blames media"
+    excerpt: "Such GOP stalwart allies as Mitch McConnell and Lindsey Graham are distancing themselves, with the majority leader (without naming Trump) calling it “unacceptable not to condemn white supremacists,” and “I do so in the strongest possible way."
+    publishedDateTime: 2020-10-02T07:09:00Z
+    webUrl: "https://www.foxnews.com/media/gop-frustration-mounts-as-trump-doggedly-defends-debate-blames-media"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/576d770a-696a-426b-a2de-fc39c21ad669/b8359fd3-5cda-44aa-91e5-633c77dd35ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "3YBjQ71G1MhDI9tlM5EPFE+quJ9NkuDH3QvZplvuBSuhZMz+qKP4nr0NI1oXrT+Lm34b4SggBXyRFrvvFVghisiseBIag7X8eCbTA2C2omUoOo9yGRXwDn1iKDH2ifzwU/lGYUWC5Xr7JrPX0M+am3X4q0cwHJ8lseybL9ruKshd722OoKTMsSuTBM4E1oegPKbgkQP5mAEnoeAXlCI1QDB2H6qj0ZAc0A3NShBRFPbL9cUFKcymmmawn68koFYRZ3iY0QWYk1rMe01ysNOx9xyYFGZTxEzNwpHp573XzItmQz9gzLDwX8y/84UL4bBYGRtyjoY9uKIVHxjx85BVqNoCCLpTIOk+dcz4zLtVH9s=;mEZhRKv6rVXh2SqDRdoMlg=="

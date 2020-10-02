@@ -1908,6 +1908,22 @@ related:
         width: 921
         height: 768
         isCached: true
+  - title: "Gen. McChrystal, Once Fired For Criticizing Biden, Endorses Biden on Morning Joe"
+    excerpt: "Gen. Stanley McChrystal, the commander of all U.S. and NATO forces in Afghanistan during the Obama administration who was fired after he criticized Joe Biden to a reporter, endorsed the former vice president in an appearance on Morning Joe Thursday."
+    publishedDateTime: 2020-10-01T14:43:00Z
+    webUrl: "https://www.mediaite.com/tv/gen-mcchrystal-once-fired-for-criticizing-biden-endorses-biden-on-morning-joe/"
+    ampWebUrl: "https://www.mediaite.com/tv/gen-mcchrystal-once-fired-for-criticizing-biden-endorses-biden-on-morning-joe/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/gen-mcchrystal-once-fired-for-criticizing-biden-endorses-biden-on-morning-joe/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Morning-Joe-07_44_25-AM-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Republican President Donald Trump and Democratic challenger Joe Biden are preparing for first presidential debate"
     excerpt: "Trump and Biden are scheduled to meet on the debate stage for the first time Tuesday night at Case Western Reserve University and the Cleveland Clinic in Cleveland, Ohio."
     publishedDateTime: 2020-09-28T09:16:00Z

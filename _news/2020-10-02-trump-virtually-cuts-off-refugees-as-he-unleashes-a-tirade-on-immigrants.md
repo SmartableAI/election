@@ -1760,6 +1760,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Dow futures plunge 500 points as Trump says he tested positive for Covid"
+    excerpt: "Futures tied to the Dow Jones Industrial Average plummeted 500 points. S&P 500 futures and Nasdaq 100 futures were also in negative territory."
+    publishedDateTime: 2020-10-02T06:47:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/dow-futures-plunge-more-400-points-trump-says-he-tested-n1241770?share=facebook"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241770"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241770"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3414757/200924-donald-trump-ew-506p_d18730592e7d92cf390f4bf2f60888bd.jpg"
+        width: 2500
+        height: 1642
+        isCached: true
   - title: "Trump administration shakes up HHS personnel office after tumultuous hires"
     excerpt: "The move leaves Health Secretary Alex Azar with more control over his department, which has been rocked by personnel scandals in recent weeks."
     publishedDateTime: 2020-09-21T19:25:00Z
