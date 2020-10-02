@@ -63,6 +63,49 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump quarantines after positive Covid test; Mike Pence tests negative – live updates"
+    excerpt: "President to quarantine days after taking part in TV debate and campaign rally in Minnesota; vice-president’s daily test comes back negative"
+    publishedDateTime: 2020-10-02T13:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f771d1e8f084209b16b36ed"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 109
+  - title: "VP Mike Pence tests negative and ‘remains in good health,’ after Trump tests positive for COVID-19"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump"
+    publishedDateTime: 2020-10-02T12:44:00Z
+    webUrl: "https://www.dallasnews.com/news/2020/10/02/vp-mike-pence-tests-negative-and-remains-in-good-health-after-trump-tests-positive-for-covid-19/"
+    ampWebUrl: "https://www.dallasnews.com/news/2020/10/02/vp-mike-pence-tests-negative-and-remains-in-good-health-after-trump-tests-positive-for-covid-19/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/2020/10/02/vp-mike-pence-tests-negative-and-remains-in-good-health-after-trump-tests-positive-for-covid-19/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 76
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LM9XrGK2MVdOkDzE926emKOkj8w=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/VINOODVTI3SYS65MECRXKA5Z4Q.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "President Trump COVID-19 Fake ‘Hoax’ & Wag the Dog Theories Hit Twitter"
+    excerpt: "Some people are spreading theories on Twitter that Trump's COVID-19 diagnosis is fake or a wag the dog style hoax."
+    publishedDateTime: 2020-10-02T13:43:00Z
+    webUrl: "https://heavy.com/news/president-trump-covid-19-fake-hoax-wag-the-dog/"
+    ampWebUrl: "https://heavy.com/news/president-trump-covid-19-fake-hoax-wag-the-dog/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/president-trump-covid-19-fake-hoax-wag-the-dog/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/trump-covid-19.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Trump Was in Maskless ‘Close Contact’ with Dozens of Donors After Hope Hicks Got Covid-19 Symptoms"
     excerpt: "President Donald Trump was in \"close contact\" and not wearing a mask while interacting with \"dozens\" of donors and others in the hours after Hope Hicks developed symptoms of COVID-19."
     publishedDateTime: 2020-10-02T11:27:00Z

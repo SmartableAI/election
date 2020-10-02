@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 1290
+heat: 1310
 published: true
 
 provider:
@@ -717,6 +717,22 @@ related:
     images:
       - url: "https://static.politico.com/73/14/f6545e204c42b1d617ec4aad2435/200930-biden-debate-ap-773.jpg"
         width: 1160
+        height: 773
+        isCached: true
+  - title: "‘This is the worst nightmare for the Trump campaign’"
+    excerpt: "A president who once seemed impervious to October surprises is suddenly confronting one big enough to alter the election outcome."
+    publishedDateTime: 2020-10-02T13:18:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/26/40/ef5ba0034829b61b1cc457a0793f/ap20274066443442.png"
+        width: 1158
         height: 773
         isCached: true
   - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"

@@ -309,6 +309,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
+    excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
+    publishedDateTime: 2020-10-02T12:49:00Z
+    webUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5f771bd90ab50d00184adbee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
     publishedDateTime: 2020-09-25T11:04:00Z
@@ -453,6 +469,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump debated like a conservative talk radio host. That’s why he failed."
+    excerpt: "Since the day he declared his candidacy in 2015, Donald Trump has been the talk-radio presidential candidate and then the talk-radio president. Nowhere was this clearer than in Tuesday’s. It was a pugilistic performance designed to thrill Trump’s biggest fans,"
+    publishedDateTime: 2020-10-02T13:03:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/02/radio-host-trump-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/02/radio-host-trump-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/02/radio-host-trump-debate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SCD43PAEDQI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "'No wonder I didn't lose my hair!': Trump credits McDonald's fries for his hair"
     excerpt: "Between a flurry of tweets about the coming election, President Donald Trump replied to an article suggesting McDonald's fries might cure baldness."
     publishedDateTime: 2020-10-01T19:29:00Z
@@ -468,6 +500,22 @@ related:
       - url: "https://i.insider.com/5f759d060ab50d00184ad7e7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Vice President Mike Pence and second lady test negative for coronavirus following Trump's positive diagnosis"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence have both tested negative for the coronavirus, Pence’s spokesman said Friday, hours after President Donald Trump announced he and the first lady tested positive."
+    publishedDateTime: 2020-10-02T12:08:00Z
+    webUrl: "https://www.cnbc.com/2020/10/02/vice-president-mike-pence-and-second-lady-test-negative-for-coronavirus-following-trumps-positive-diagnosis.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/02/vice-president-mike-pence-and-second-lady-test-negative-for-coronavirus-following-trumps-positive-diagnosis.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/02/vice-president-mike-pence-and-second-lady-test-negative-for-coronavirus-following-trumps-positive-diagnosis.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 121
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106727246-1601640022005-gettyimages-1269532533-775473710_trump_rnc_3726_20200829121240278.jpeg?v=1601640058"
+        width: 594
+        height: 401
         isCached: true
   - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
     excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
@@ -967,6 +1015,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Mike Pence, his wife test negative for COVID-19 after Trumps test positive"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the coronavirus."
+    publishedDateTime: 2020-10-02T12:42:00Z
+    webUrl: "https://www.nj.com/news/2020/10/mike-pence-his-wife-test-negative-for-covid-19-after-trumps-test-positive.html"
+    ampWebUrl: "https://www.nj.com/news/2020/10/mike-pence-his-wife-test-negative-for-covid-19-after-trumps-test-positive.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/news/2020/10/mike-pence-his-wife-test-negative-for-covid-19-after-trumps-test-positive.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 88
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LTD5WKR5CFAGLLLRJQBBRUS43M.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Vice President Mike Pence comments on President Trump’s positive COVID test"
     excerpt: "Several members of Trump’s inner circle will be monitored closely after a busy week of travel and campaigning with the president."
     publishedDateTime: 2020-10-02T10:46:00Z
@@ -1014,6 +1078,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Mike Pence tests negative for coronavirus hours after Donald Trump tests positive"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the coronavirus."
+    publishedDateTime: 2020-10-02T12:29:00Z
+    webUrl: "https://www.nola.com/news/coronavirus/article_f7a3f984-04a9-11eb-88b6-6b9c9132c563.html"
+    ampWebUrl: "https://www.nola.com/news/coronavirus/article_f7a3f984-04a9-11eb-88b6-6b9c9132c563.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/coronavirus/article_f7a3f984-04a9-11eb-88b6-6b9c9132c563.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 85
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/b/44/b4461aea-04aa-11eb-a7cd-1fa88234cebc/5f771d9bdc596.image.jpg?resize=1024%2C685"
+        width: 1024
+        height: 685
         isCached: true
   - title: "Borat pranks Mike Pence while dressed as Donald Trump in official trailer for new movie"
     excerpt: "The official trailer for Sacha Baron Cohen's long-awaited Borat sequel has been released, showing the fictional Kazakhstani journalist's return to America - this time with his daughter in tow. In the clip,"

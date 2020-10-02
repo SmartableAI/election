@@ -377,6 +377,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden Wishes Trump A ‘Swift Recovery’ After Opponent Tests Positive For Covid-19"
+    excerpt: "The White House immediately cleared all the in-person events from Trump’s schedule after he announced he tested positive for the virus."
+    publishedDateTime: 2020-10-02T13:26:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/02/biden-wishes-trump-a-swift-recovery-after-opponent-tests-positive-for-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/02/biden-wishes-trump-a-swift-recovery-after-opponent-tests-positive-for-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/02/biden-wishes-trump-a-swift-recovery-after-opponent-tests-positive-for-covid-19/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 135
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77039c628a8e8898fe3ec2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3147%26cropY1%3D107%26cropY2%3D1877"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump vs. Biden, coronavirus stimulus bill, MLB playoffs: 5 things to know Tuesday"
     excerpt: "The first presidential debate takes place in Cleveland, Major League Baseball playoffs begin and more news to start your Tuesday."
     publishedDateTime: 2020-09-29T07:22:00Z
@@ -711,6 +727,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'We continue to pray': Joe Biden offers thoughts, prayers to President Trump after coronavirus test"
+    excerpt: "Democratic presidential nominee Joe Biden offered his thoughts and prayers Friday after President Donald Trump tested positive for the coronavirus."
+    publishedDateTime: 2020-10-02T13:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/02/biden-trump-coronavirus-test-thoughts-prayers/5892920002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5892920002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892920002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/b51a7251-aa79-4e1d-a027-05a034264384-biden_al_smith.jpg?auto=webp&crop=5223,2938,x0,y265&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fight over Trump tax returns goes to appeals court — again"
     excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
     publishedDateTime: 2020-09-25T05:21:00Z
@@ -726,6 +758,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden says he's 'praying for the health and safety\" of Trump after the president's COVID-19 diagnosis"
+    excerpt: "\"Jill and I send our thoughts to President Trump and First Lady Melania Trump for a swift recovery,\" Biden said in a Friday morning statement."
+    publishedDateTime: 2020-10-02T13:13:00Z
+    webUrl: "https://www.businessinsider.com/biden-praying-for-health-and-safety-of-trump-covid-19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-praying-for-health-and-safety-of-trump-covid-19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-praying-for-health-and-safety-of-trump-covid-19-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden tacks to the center in fight with Trump over Rust Belt moderates. Will it drive away progressives?"
     excerpt: "Biden is emphasizing centrism to try court swing voters who favored Trump in 2016 in the crucial states of Michigan, Pennsylvania and Wisconsin."
@@ -1395,6 +1443,22 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/Trump_76125-1.jpg?w=1024&h=684"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Joe Biden wishes President Trump, Melania Trump a speedy recovery after testing positive for COVID"
+    excerpt: "Democratic presidential nominee Joe Biden took to Twitter Friday morning to wish President Donald Trump and First Lady Melania Trump good health."
+    publishedDateTime: 2020-10-02T13:18:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-wishes-president-trump-melania-trump-a-speedy-recovery-after-testing-positive-for-covid.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-wishes-president-trump-melania-trump-a-speedy-recovery-after-testing-positive-for-covid.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-wishes-president-trump-melania-trump-a-speedy-recovery-after-testing-positive-for-covid.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 76
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2BFWS67RLBDCFFICHFZIRV75KI.jpg"
+        width: 4584
+        height: 3060
         isCached: true
   - title: "WATCH: Trump Repeatedly Tells Mostly Maskless Rally Crowd That Joe Biden Will Perform Well in Debate"
     excerpt: "President Donald Trump repeatedly told a rally crowd that former Vice President Joe Biden will perform well in next week's debate, while also predicting that the media would praise Biden no matter the outcome of their first bout."

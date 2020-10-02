@@ -30,35 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's positive Covid-19 test throws country into fresh upheaval"
-    excerpt: "A country already unnerved by a devastating health catastrophe and a turbulent political season faced fresh upheaval Friday as Americans awoke to news President Donald Trump had contracted coronavirus.\n    \n"
-    publishedDateTime: 2020-10-02T09:29:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgVIolT-fDc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
+  - title: "Vice President Mike Pence and Karen Pence test negative for coronavirus, spokesman says"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for Covid-19 Friday morning, according to a statement tweeted by spokesperson Devin O'Malley.\n    \n"
+    publishedDateTime: 2020-10-02T12:21:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FbP2PIAZfSE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 177
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002021411-trump-1001-white-house-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump announces plan to deploy 150 million Covid rapid tests previously touted"
-    excerpt: "President Donald Trump formally announced a plan on Monday to disperse the 150 million rapid coronavirus tests first promoted by the White House in August.\n    \n"
-    publishedDateTime: 2020-09-28T21:16:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nZraVJpsqg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190116184541-karen-and-mike-pence-clay-cane-op-ed-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -78,53 +62,37 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Facebook removes Trump ads on refugees and Covid-19"
-    excerpt: "Facebook said Wednesday that it had taken down ads from the Trump campaign that claimed without evidence that accepting refugees from abroad would increase risks related to the coronavirus pandemic. “We rejected these ads because we don’t allow claims that people’s physical safety,"
-    publishedDateTime: 2020-09-30T21:46:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/facebook-removes-trump-ads-refugees-covid-19-n1241602"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241602"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241602"
+  - title: "Vice President Pence tests negative for Covid after Trump's diagnosis"
+    excerpt: "Pence, who was with Trump this week, is scheduled to debate Democratic Sen. Kamala Harris next week Salt Lake City."
+    publishedDateTime: 2020-10-02T12:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/vice-president-pence-tests-negative-covid-after-trump-s-diagnosis-n1241787"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241787"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241787"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2019_36/2737591/190201-trump-border-mc-901_9ead837eab538a44c958d642ab711e7e.JPG"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416916/201002-mike-pence-mc-1204_78bac30ec0c4f0f66330f46d019dc39c.JPG"
         width: 2500
-        height: 1666
+        height: 1672
         isCached: true
-  - title: "Dow futures plunge 500 points as Trump says he tested positive for Covid-19"
-    excerpt: "Futures tied to the Dow Jones Industrial Average plummeted 500 points. S&P 500 futures and Nasdaq 100 futures were also in negative territory."
-    publishedDateTime: 2020-10-02T09:37:00Z
-    webUrl: "https://www.nbcnews.com/business/markets/dow-futures-plunge-more-400-points-trump-says-he-tested-n1241770?amp/"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241770"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241770"
+  - title: "Pence tells Americans to 'anticipate that cases will rise' with more coronavirus testing"
+    excerpt: "Vice President Mike Pence said that \"the American people should anticipate that cases will rise\" as efforts for increased coronavirus testing are implemented and states in the Midwest are experiencing a surge."
+    publishedDateTime: 2020-09-28T20:47:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing-92734533538"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92734533538"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92734533538"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 133
+    quality: 126
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3414757/200924-donald-trump-ew-506p_d18730592e7d92cf390f4bf2f60888bd.jpg"
-        width: 2500
-        height: 1642
-        isCached: true
-  - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
-    excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."
-    publishedDateTime: 2020-10-02T07:33:00Z
-    webUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 128
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/02/world/02dc-virus-trump-ticktock-1/02dc-virus-trump-ticktock-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_dc_pence_cases_rise_200928_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump Says He’ll Begin ‘Quarantine Process’ After Hope Hicks Tests Positive for Coronavirus"
     excerpt: "Ms. Hicks, a senior aide and the closest known person to the president to have contracted the virus, traveled with him this week aboard Air Force One."
@@ -141,20 +109,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-hicks/01dc-hicks-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
-    excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
-    publishedDateTime: 2020-10-02T00:52:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/hope-hicks-top-trump-adviser-who-flew-him-debate-tests-n1241751"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 109
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2020_40/3416833/201001-hope-hicks-2018-ac-842p_58ccf042fc6d35570ea1522bae16016e.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "qD4CmF3ooU9hbidP4y4KawGXsHeQ33F7gAql1G7EInYnJDubo0EVhGzkLMJLZLFsaGwlG73CCGX2wg6t3RVnr3gGVHbEkfpwXDUr4xg7GMPA7a7A0xwKQ0MWiLXrAP7lratXLMTM1IbbCGxKhlNfWBLP4TUeOkF31EJ/rVkGOeJZC03oJmwJFHBIjbV4uB66dlQ9IPUabd2SnR+ZEqr8xwDeSuXd/GRsb+lbuVzvke5AIpt/lRVS+Z7K419dpJb5N+V6JnmXR8iYACBxV+sDjCWzXxYJNz/tS4dh2zyFMqOsmqpvZ5pofr7Qh6EywyZwcXTpD9F7Yvt29fcPrI7fYtp+E8mLEuQK/gtnA2NtTrU=;PF7e+Y5u+a5TM389UODZwg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 3170
+heat: 3250
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden being tested for coronavirus following Trump's positive test"
+    excerpt: "Democratic presidential nominee Joe Biden is being tested for coronavirus on Friday morning, following President Donald Trump's disclosure that he had tested positive just days after the first debate.\n    \n"
+    publishedDateTime: 2020-10-02T13:48:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/awQy7z3Y2fA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/joe-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/joe-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929171850-biden-arrives-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Biden prepare for a clash over voter fraud claims at Tuesday's debate"
     excerpt: "President Donald Trump is expected to wage an attack on the election itself at Tuesday night's debate with former Vice President Joe Biden by repeating his past claims that conflate and exaggerate problems with mail-in voting.\n    \n"
     publishedDateTime: 2020-09-29T14:46:27Z
@@ -172,6 +188,22 @@ related:
     quality: 184
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929092936-debate-stage-0928-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's diagnosis throws election into chaos, threatens governing crisis"
+    excerpt: "President Donald Trump's diagnosis with Covid-19 presents a stunning new twist in a tumultuous year, throwing an election that is only 32 days away into chaos and raising the grave possibility of more American crises over governance and national security at an already perilous moment.\n    \n"
+    publishedDateTime: 2020-10-02T13:45:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OG1bnEBfuKY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/donald-trump-positive-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/donald-trump-positive-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002084300-primera-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -604,6 +636,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Timeline: President Donald Trump's activities this week"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for coronavirus, along with one of Trump's top aides, Hope Hicks. Here is a timeline of their days before being diagnosed, along with who they may have been in contact with this week.\n    \n"
+    publishedDateTime: 2020-10-02T12:56:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tvx0jDgwQ7I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/timeline-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/timeline-trump-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001221501-02-trump-1001-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1614,6 +1662,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-hicks/01dc-hicks-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Markets swoon after Trump tests positive for Covid-19"
+    excerpt: "There remains a very real possibility that the market’s gains over the previous two quarters will steadily erode in the months ahead as we close out a year that many would like to forget,” said one economist."
+    publishedDateTime: 2020-10-02T13:41:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/markets-swoon-after-trump-tests-positive-covid-19-n1241805"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241805"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241805"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416965/201002-wall-street-ew-909a_c83db3152e34c51dbcef46e0c19c9ff3.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump campaign attacks a new target: The debate commission"
     excerpt: "President Donald Trump’s reelection campaign declared war on the Commission on Presidential Debates on Thursday, savaging it as a partisan outfit bent on undermining the president after Trump’s ultra-aggressive debate performance earlier this week."

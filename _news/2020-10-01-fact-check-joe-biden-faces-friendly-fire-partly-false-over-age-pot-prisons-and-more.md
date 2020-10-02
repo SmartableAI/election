@@ -50,7 +50,7 @@ related:
   - title: "In battleground Wisconsin, some Latinos feel ignored by Biden"
     excerpt: "Cesar Hernandez says he has made thousands of phone calls since June urging Latinos in the battleground state of Wisconsin to support Democratic presidential candidate Joe Biden."
     publishedDateTime: 2020-10-02T11:06:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN26N1MZ"
+    webUrl: "https://www.reuters.com/article/us-usa-election-latino-wisconsin/in-battleground-wisconsin-some-latinos-feel-ignored-by-biden-idUSKBN26N1MZ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N1MZ"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N1MZ"
     type: article

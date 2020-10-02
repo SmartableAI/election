@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ah
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_37/3411237/200910-donald-trump-se-421p_3ef31d1fd5ccf1d27585c0d37ddd77da.jpg"
         width: 2500
         height: 1629
+        isCached: true
+  - title: "From masks to disinfectants: Trump's coronavirus theories"
+    excerpt: "Here are several times that the president downplayed or endorsed theories dismissing the severity of the pandemic."
+    publishedDateTime: 2020-10-02T13:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/masks-disinfectants-trump-s-coronavirus-theories-n1241793"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241793"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241793"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416925/201003-trump-coronavirus-mn-0740_68feaad9839ca1bbfc3d8938263fd2d6.JPG"
+        width: 2500
+        height: 1406
         isCached: true
 
 secured: "WfwOvzsYk0BPoOzcBQtBdqZnB5+MMYt/ECl8mVQtZ1k3oFfUwI2C4zkwbm1yFUGKT7mJhRDnsLcJ5fZc3bQeTcf2v5x81TglLKQVYaxHmRxG99lnoeJr4dWxP86+9cFJiXumK1TNvRtWKd6E+ZIjx777jai0zogM5cggjkyys34wDqpfGlg1o1m58euuWI12pRSqOCUeiaWjVW4XpZyIA9qISxajYMUMBeHrJgR1J07tdDXFj/TRZ4/xL8YBuVroeLzo9aitUPnd5Kj7NSrHeCkMa3Q0o1V8a281renM3B1ieUB9NqNV7ioEKba1CynG0ponHmtA63skZsp2L7mepSJSh6etNSITOjyUbJBtVxE=;ljmQ6mvUuvulAABwzJFBkQ=="

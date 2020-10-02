@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
+    excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
+    publishedDateTime: 2020-10-02T12:52:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HUN01P3BWok/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-responds-to-trumps-positive-coronavirus-tests-jill-and-i-send-our-thoughts-for-a-swift-recovery.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden enters final stretch with huge cash advantage over Trump"
     excerpt: "Democratic presidential nominee Joe Biden holds a large financial over President Trump as the race for the White House enters its final weeks."
     publishedDateTime: 2020-09-21T02:42:53Z
@@ -1116,6 +1132,22 @@ related:
     quality: 181
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/02084a04-4267-45b9-bff1-20a991370e73/b8ca5717-15bf-4c99-afed-d3aee0a3345b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump halts campaign events after positive coronavirus test; Biden traveling to Michigan"
+    excerpt: "The November presidential election, just a little over a month away, was thrown into chaos early Friday when President Trump tweeted that he and the first lady tested positive for the coronavirus. "
+    publishedDateTime: 2020-10-02T12:14:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OlqYI41ZN2E/trump-halts-campaign-events-after-positive-coronavirus-test-biden-travels-to-michigan"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-halts-campaign-events-after-positive-coronavirus-test-biden-travels-to-michigan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-halts-campaign-events-after-positive-coronavirus-test-biden-travels-to-michigan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f72eb6e-6d2e-4c08-aa10-151d5fb58830/00caa550-2b5d-4218-ad43-739194331d50/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

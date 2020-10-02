@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92734533538"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92734533538"
 type: article
 quality: 126
-heat: 126
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,86 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Vice President Mike Pence and Karen Pence test negative for coronavirus, spokesman says"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for Covid-19 Friday morning, according to a statement tweeted by spokesperson Devin O'Malley.\n    \n"
+    publishedDateTime: 2020-10-02T12:21:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FbP2PIAZfSE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190116184541-karen-and-mike-pence-clay-cane-op-ed-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Trump's doctor releases statement after the President and first lady test positive for Covid-19"
+    excerpt: "President Donald Trump and first lady Melania Trump tested positive for coronavirus, the President announced early Friday morning, an extraordinary development coming months into a global pandemic and in the final stretch of his reelection campaign.\n    \n"
+    publishedDateTime: 2020-10-02T05:49:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yDAopmnNIec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002010356-trump-melania-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Vice President Pence tests negative for Covid after Trump's diagnosis"
+    excerpt: "Pence, who was with Trump this week, is scheduled to debate Democratic Sen. Kamala Harris next week Salt Lake City."
+    publishedDateTime: 2020-10-02T12:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/vice-president-pence-tests-negative-covid-after-trump-s-diagnosis-n1241787"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241787"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241787"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416916/201002-mike-pence-mc-1204_78bac30ec0c4f0f66330f46d019dc39c.JPG"
+        width: 2500
+        height: 1672
+        isCached: true
+  - title: "Trump Says He’ll Begin ‘Quarantine Process’ After Hope Hicks Tests Positive for Coronavirus"
+    excerpt: "Ms. Hicks, a senior aide and the closest known person to the president to have contracted the virus, traveled with him this week aboard Air Force One."
+    publishedDateTime: 2020-10-02T05:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-hicks/01dc-hicks-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "TRUMP tests positive for COVID — VIRUS cases INCREASE — Race-baiting ROBOCALL hits state rep race"
+    excerpt: "President Donald Trump announced early Friday that he has tested positive for the coronavirus, upending his presidency and the 2020 race just 32 days before Election Day. The 74-year-old president disclosed his diagnosis in a tweet at 12:54 a."
+    publishedDateTime: 2020-10-02T11:30:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/10/02/trump-tests-positive-for-covid-virus-cases-increase-race-baiting-robocall-hits-state-rep-race-490507"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 102
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "9KTxAVAQ6Vus/D9P8WCl8zUCA+ox1Pl8fR2zn0tNGcmY5CbIp5QKok2+XhcOcpe6B1QIFVbTeTEiC7U+kAvNgvJF1Ep79IvV06Uq3UOo+N4JfEgV5P8o6JcyD1silqqkFG1MNgkmtVbxuUH+Vi3dMK9kcrOcEbfck46X7sYJEf8CEZYmzb/R6eyB3MhcyPbCM4sgm7Q3rPmcjZZsutM0mfd1dvSTkkzh5DphcYU+0ijXB6vn+7nGY/OEYPQ6EWLimZQNFw4njyUISPrAyqnRc1UNvaPffgY6Sk3acXlsbckJw1byfKgxDureVb8TT1ghld/plTcmoUFnLyGxuKLgElkj0cXi6kbiiVqwqfE9DDPEJQ8qomgYX8Zz7h7FEZ5LFcD698Nbwxvs2sbhbRfaQp/y2lpMkpRxSSf4U0oI3/ZAlKoMuympDcnxFfTrrUEwl8xbW7tT1tfFITtsvfWQiaKy09xB/oKGhmCGLoJz5bCVEL/JNZ3dZiKyvqWHZS0xbHmkfEqDWM7HuIym/sGhTw==;WwlW9aJ4JWfpb/jLoDJW8g=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 630
         isCached: true
+  - title: "Vice President Mike Pence tests negative for Covid-19"
+    excerpt: "CNBC's Eamon Javers reports on Vice President Mike Pence's negative coronavirus test and former FDA commissioner Dr. Scott Gottlieb offers insight into how the White House may proceed with screenings and testing."
+    publishedDateTime: 2020-10-02T12:18:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/02/vice-president-mike-pence-tests-negative-for-covid-19.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 105
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106679939-1598497365582-abcc.jpg?v=1598497410"
+        width: 1041
+        height: 694
+        isCached: true
   - title: "Vice President Mike Pence to host debate watch party in Lititz"
     excerpt: "Vice President Mike Pence will travel to Lititz on Tuesday, September 29 to host a 'Make America Great Again!' watch party of the Presidential Debate."
     publishedDateTime: 2020-09-25T09:04:00Z
@@ -202,6 +216,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
         width: 512
         height: 341
+        isCached: true
+  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
+    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
+    publishedDateTime: 2020-10-02T12:11:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5892840002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence to hold presidential debate watch party in Lititz"
     excerpt: "Vice President Mike Pence will be back in the Susquehanna Valley next week.He plans to hold a presidential debate watch party Tuesday night in Lititz, Lancaster County.The event w"

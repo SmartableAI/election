@@ -720,6 +720,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "‘This is the worst nightmare for the Trump campaign’"
+    excerpt: "A president who once seemed impervious to October surprises is suddenly confronting one big enough to alter the election outcome."
+    publishedDateTime: 2020-10-02T13:18:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/26/40/ef5ba0034829b61b1cc457a0793f/ap20274066443442.png"
+        width: 1158
+        height: 773
+        isCached: true
   - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
     excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."
     publishedDateTime: 2020-09-22T08:36:00Z

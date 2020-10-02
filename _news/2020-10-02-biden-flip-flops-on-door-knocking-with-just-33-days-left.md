@@ -3,10 +3,12 @@ category: news
 title: "Biden flip-flops on door-knocking with just 33 days left"
 excerpt: "Biden's campaign announced plans to start door-to-door campaigning after insisting for months the strategy wasn't necessary."
 publishedDateTime: 2020-10-01T23:16:00Z
-originalUrl: "https://www.politico.com/states/florida/story/2020/10/01/biden-flip-flops-on-door-knocking-with-just-33-days-left-1319582"
-webUrl: "https://www.politico.com/states/florida/story/2020/10/01/biden-flip-flops-on-door-knocking-with-just-33-days-left-1319582"
+originalUrl: "https://www.politico.com/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
+webUrl: "https://www.politico.com/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
+ampWebUrl: "https://www.politico.com/amp/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/01/biden-flip-flops-on-door-knocking-with-33-days-left-424642"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
@@ -47,6 +49,6 @@ related:
         height: 619
         isCached: true
 
-secured: "zVWldfaFMNe3JYDdRCx7Xn96mlanzRwbv62OpU9An/eNTNdBI5p3WkE5sBU1mbHagjL0Onu8g+tjLYfbXkHBTjck+W/QD88+t6jpyoDM0lEptmOOLp2vXHvesP3p+w968sVgxBiOcsvP5OXG0p4EVooXYWbgzx2F1cmnrKwA9LUBNAQYG4nLR8h/ttuxKBJfuQMlSplKGDrxJ4Y+xpvUMuMVkZp6fitpWn6nggxeVU4FIC6lYcIm1+SF5MrfXqQJbEqJDqr0uovnIvddlbq6cwsQ9+9WRHG9k9NwJ6/6vesrb04FVCtMnDM165QwSg9+ghTVTTdd8x0b2D3NVOrAOYaN6L/OeYlpJtCJ+uCox6xYtmX/s7sayhc/XeGaKyj+4g6Q9PDvIq1fcO9ocPVQtuKnrl1FNGP7USGbqM9r1S3Wy3nOt/tYLHCtXWfcLikHHFokZrxlftqjD3wHwfGQR9CImXT6/kcKYBbugbstR68H6srDH172aR2eLvRr/Xp4jElbpgUvFifa20lCOLRKlQ==;ahfts7vCHfMK60hGnI0qMA=="
+secured: "EvKpgWGrBqOWGsIUQLz1vBbHKyI1EDeP3x8G3I9eB9543LJW1ULCWGnWthh9SxfH19zPg/O76/8aEJfZ3lZok4L6OReTYA2bQ9tgC9lrXyOsaiP6khfNhpKRQAMZWQ5766WwSpZwlR/UFnykSC5UDNCZSdppNOxI6gSSjbP6Q3yl4CeGXyaazwFBXkIFg7W0lXVKrHueNp8f3c7JUr/CgmQgCcjIDSwdmV8zhmNf/RO1BQ/WFn3TElIy01+Gdunt7QB58nEOPOo9IRGnrA5Wd+o6aF4rI4KH8OOTDB4aGsWw4RrpAt3ig9FIgs+z4AFaSpGI3QId1AxwlzzWphpefvTCQe/wN8DKCG9ndfQpr+U=;/2UI3qdoxRXpgoNrXoI4zQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "After Trump’s positive coronavirus test, Chris Wallace says he will get tested"
+    excerpt: "Fox News' Chris Wallace told \"Fox & Friends\" he is getting tested for the coronavirus after President Trump and first lady Melania Trump tested positive for COVID-19 just days after the first presidential debate in Cleveland."
+    publishedDateTime: 2020-10-02T13:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tLgY7AIXfic/trump-coronavirus-positive-test-chris-wallace-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-positive-test-chris-wallace-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-positive-test-chris-wallace-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pompeo tests negative for coronavirus, wishes Trump and first lady a 'speedy recovery'"
     excerpt: "Secretary of State Mike Pompeo early Friday morning said he has tested negative for coronavirus hours after President Trump announced he and the first lady have the virus."
     publishedDateTime: 2020-10-02T09:46:07Z
@@ -96,6 +112,6 @@ related:
         height: 720
         isCached: true
 
-secured: "31YtQ73WqAYSmC5pCxUATqRYJLSyN7RbNms1bx27NPD1AYwu8uAbtmH8mbuWClU4Rg1pZcmLIIV+Waezg6j9DJ/FonUwk35RmqVnv0ZkeZTM/9wEFU5ULSQvodHbLKFpQgo8TY6rVQQWwGBMH9/IJ6BC/+WzVmZ60Z1z02ulZt09vCsczhaSW86n+3P1w7hOHf0CMqFyLHsCuDBwc5X/hjFp4jTyDA12JzGpa8xKJclzsFyd5hdZgBZwD1DYgIEZtCjw02rBKTB7CLgR/UCru5lnWtl2u3OlJslZDNH0DICpzsaIxFO8tLMXy1ju/F05/JF3dAMhnJx5Pq+/CliG2ytTN2fElRAic+7MujFa7Ac=;DCFbS5cX+6ZrkHZUYWGPvA=="
+secured: "KzMz6EYYBt73wHZLLx85THWXr4OU6aCNl9kstYrA+J/VRY8vbepLBwyKL4NYOyuenh/RevQzAnggvBevAMSG2JBQaFW01zjbEtA9kaMmowEq8Eh0qUx5ZUUt9orVqrIbJmJAAl8MRVICwrU9r17xmzFQT3tswfsqcHRO2bAv0AJLbi1Fr0ib2XQ6OcAqJ+RZs1GnmNLm83a1rX9ANtmSbGc+mzqf7lwlFbFWyKp3j2QCZrVpHM9tL7Hp0g0a7PR4FvC/CqzAnYg8/vILXtk0sOWtrIyKb4zuZTGhS8Fg1gxC0tZTPkKzqL4h4LPVh1fFNP9mwodsPlsxqdVUiEDAYeqTfByRd2Kqr9B/rmMltIg=;Ag3PDyq89GmJ54WamIz6kQ=="
 ---
 

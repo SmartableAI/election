@@ -136,6 +136,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Trump Condemns ‘All White Supremacists’ and Proud Boys After Days of Odd Comments"
+    excerpt: "President Donald Trump condemned “all white supremacists,” including the Proud Boys during an interview with Fox News host Sean Hannity on Thursday night. Trump’s remarks come after days of odd comments from both him and White House press secretary Kayleigh McEnany,"
+    publishedDateTime: 2020-10-02T13:01:00Z
+    webUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/"
+    ampWebUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Hannity-09_40_28-PM-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "fU68tnOa2S544j7Q/eWHVGGgvt0bEkd9e7LCC1KbpjpcWRhVLhyECllf2wV15T/pnWGIX8dz+eCcH5lLTPohuXPHLa5ZbIT9yY9NDrdjUwNzCXo/wNUVPbLsi1r0xz+8aBVxL1VvqaXYitSuVjIcU6nFbfAY6utzi2ml49N/KvwkjCIfEr8JswSUjnkmM4VqgZcq2MFVnMVc9f3bzPCsm3gb7FFF7xB+nA5QuF21/qBhwMOPyqyk2YELvu029a/v+OoR8PXqG3dVTUG9XoCW6vo/t+7nEPxzwNi7iUQfEPCBEgFcJgocBwB+5ZINnnSwQBN5MfPLQNe1i6AYyP/nSNeTvj7rQ7/3sUceQBaKAOM=;5hCRkXIzczKfVerCvErJOw=="
 ---

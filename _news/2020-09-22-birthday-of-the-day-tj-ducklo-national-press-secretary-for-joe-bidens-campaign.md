@@ -736,6 +736,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "‘This is the worst nightmare for the Trump campaign’"
+    excerpt: "A president who once seemed impervious to October surprises is suddenly confronting one big enough to alter the election outcome."
+    publishedDateTime: 2020-10-02T13:18:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/26/40/ef5ba0034829b61b1cc457a0793f/ap20274066443442.png"
+        width: 1158
+        height: 773
+        isCached: true
   - title: "‘He’s sort of like Goebbels’: Biden compares Trump to Nazi propagandist"
     excerpt: "Democratic presidential nominee Joe Biden on Saturday compared Donald Trump to a German Nazi propagandist for the president's barrage of attacks against him on the campaign trail. When Biden was asked during an interview with MSNBC’s Stephanie Ruhle how he would combat Trump’s repeated claim that he was pushing a socialist agenda,"
     publishedDateTime: 2020-09-27T03:11:00Z

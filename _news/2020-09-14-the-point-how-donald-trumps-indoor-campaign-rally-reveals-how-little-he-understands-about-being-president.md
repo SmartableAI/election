@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1629
         isCached: true
+  - title: "From masks to disinfectants: Trump's coronavirus theories"
+    excerpt: "Here are several times that the president downplayed or endorsed theories dismissing the severity of the pandemic."
+    publishedDateTime: 2020-10-02T13:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/masks-disinfectants-trump-s-coronavirus-theories-n1241793"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241793"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241793"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416925/201003-trump-coronavirus-mn-0740_68feaad9839ca1bbfc3d8938263fd2d6.JPG"
+        width: 2500
+        height: 1406
+        isCached: true
 
 secured: "YWGWlLCR51g4kksYvdVyzDiAi8V4R90Y5sAlIoLnFFwPWG7gBMYOOWu02xVV35kG4F/7scf7B4Y51kzv1dC3GNRUM29TqDfGRutEPU6SN3FVV1GkVIwIeTNPKeqN5UotDuBTg1QbBidCkM2zZlKKE+Zjbe/MP1Wttb5Gp6zjIO/9iCUfCImbWG9b1oMbiCc+FQ/I7soXbP7yQjKzQF3cJ0ZmfHqI0vyTFtDUEHWw1/Jn7JueHbsUKqt6QD5hMEEQreFHFcIfcSimrY1kKKb5162fPNaYhsj3DoAUCODVUbgXUTR2k4ARS0zq8HSgUz9CGHS1x/l2XDmf4Q8RVNdbArQxeTje99wwYbUDwjdrpig=;lCBTTwZNDNFtQQOfsjb91g=="
 ---
