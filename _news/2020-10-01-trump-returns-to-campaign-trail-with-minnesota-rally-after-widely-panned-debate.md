@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3585336001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585336001"
 type: article
 quality: 121
-heat: 241
+heat: 201
 published: true
 
 provider:
@@ -31,33 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's failure to condemn white supremacy at debate part of a well-established pattern"
-    excerpt: "President Trump's failure to condemn white supremacists at Tuesday's debate is part of a well-established pattern in which he shows a reluctance to disavow racist groups."
-    publishedDateTime: 2020-09-30T15:42:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Police: Friend convinced Trump ex-campaign boss to surrender"
-    excerpt: "A standoff between South Florida police and President Donald Trump’s former campaign manager Brad Parscale ended after an officer who was friends with Parscale convinced him to surrender, officials said."
-    publishedDateTime: 2020-09-29T07:57:00Z
-    webUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday"
     excerpt: "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\""
     publishedDateTime: 2020-09-30T21:53:00Z

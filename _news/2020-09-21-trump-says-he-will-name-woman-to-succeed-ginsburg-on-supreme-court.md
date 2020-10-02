@@ -367,6 +367,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "What Trump's COVID-19 diagnosis means for the election, his presidency, and the Supreme Court opening"
+    excerpt: "The US is in uncharted territory, and Trump's diagnosis raises a slew of questions coming a month before Election Day."
+    publishedDateTime: 2020-10-02T17:33:00Z
+    webUrl: "https://www.businessinsider.com/what-does-trump-coronavirus-mean-election-presidency-succession-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/what-does-trump-coronavirus-mean-election-presidency-succession-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-does-trump-coronavirus-mean-election-presidency-succession-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5b32bb4642e1cc29bb040f3f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Some textbooks still parrot Donald Trump’s skewed version of U.S. history"
     excerpt: "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history."
     publishedDateTime: 2020-09-24T10:57:00Z
@@ -574,6 +590,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/d583c4c2-503d-4ac8-bfe4-1e7b11d3407f-AP_Election_2020_Biden_2.jpg?auto=webp&crop=2184,1229,x1,y83&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trumpworld delighted in cruelty. Now that Trump has COVID, it demands empathy."
+    excerpt: "Trump supporters love how he owns the libs, mocks the afflicted, and makes no apologies. Now they're aghast that some critics are being \"mean\" to him."
+    publishedDateTime: 2020-10-02T17:16:00Z
+    webUrl: "https://www.businessinsider.com/trumpworld-delighted-cruelty-trump-positive-covid-test-demands-empathy-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trumpworld-delighted-cruelty-trump-positive-covid-test-demands-empathy-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumpworld-delighted-cruelty-trump-positive-covid-test-demands-empathy-coronavirus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f77531774fe5b0018a8ebfc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump: Election will 'end up in the Supreme Court'"
     excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."
@@ -876,6 +908,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/nany-pelosi-rbg-memorial-gty-jef-200920_1600611307003_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Sen. Mike Lee, who met with Trump Supreme Court pick Amy Coney Barrett, tests positive for COVID-19"
+    excerpt: "Utah, a member of the Senate Judiciary Committee, announced in a statement Friday he received a positive COVID-19 test."
+    publishedDateTime: 2020-10-02T17:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/covid-19-mike-lee-tests-positive-gop-seeks-barrett-confirmation/3590455001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3590455001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3590455001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/da1ee30e-b77d-42da-909d-b6d919492ddf-GTY_1228790928.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Trump administration insists UN sanctions on Iran are restored. No, they're not, says United Nations"
     excerpt: "Trump administration declares that UN sanctions eased against Iran as part of a nuclear accord have been reimposed. It is virtually alone in this."

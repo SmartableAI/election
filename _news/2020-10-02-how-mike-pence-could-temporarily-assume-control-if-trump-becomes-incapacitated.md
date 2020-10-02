@@ -863,6 +863,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
+    excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
+    publishedDateTime: 2020-10-02T17:40:00Z
+    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/"
+    ampWebUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 94
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2FJoJo.jpg"
+        width: 1500
+        height: 783
+        isCached: true
   - title: "Kamala Harris tests negative for COVID-19, joins Joe Biden in wishing President Donald Trump ‘full and speedy recovery’"
     excerpt: "Harris was tested Thursday as part of the campaign’s routine testing. Her results came back negative, news outlets reported."
     publishedDateTime: 2020-10-02T15:02:00Z
@@ -1492,6 +1508,17 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 52
+  - title: "Kamala Harris wants to speak to the Black community — are we ready to listen?"
+    excerpt: "Hours before a presidential debate that erased the boundaries of political decorum, I spoke to the Democratic vice presidential nominee, Sen. Kamala Harris. I asked her about the concerns of Black Philadelphians — a community that could very well"
+    publishedDateTime: 2020-10-01T09:36:00Z
+    webUrl: "https://www.seattletimes.com/opinion/kamala-harris-wants-to-speak-to-the-black-community-are-we-ready-to-listen/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/kamala-harris-wants-to-speak-to-the-black-community-are-we-ready-to-listen/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/kamala-harris-wants-to-speak-to-the-black-community-are-we-ready-to-listen/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 52
   - title: "What happens if Donald Trump dies or gets seriously ill? President Mike Pence"
     excerpt: "Karen and I send our love and prayers to our dear friends President Donald Trump and First Lady Melania Trump,” Mr Pence said in a statement after Mr Trump’s positive test. “We join millions across America praying for their full and swift recovery."
     publishedDateTime: 2020-10-02T08:59:00Z
@@ -1557,6 +1584,24 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 35
+  - title: "Sen. Kamala Harris (D-CA) Campaigns in Las Vegas"
+    excerpt: "Sen. Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, participated in a virtual conversation on"
+    publishedDateTime: 2020-10-02T16:51:00Z
+    webUrl: "https://www.c-span.org/video/?476524-1/sen-kamala-harris-d-ca-campaigns-las-vegas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaign Remarks in Las Vegas"
+    excerpt: "Watch LIVE On October 02 | 6:30pm ET | C-SPAN 2020-10-02T18:30:00-04:00 vice presidential candidate Senator Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas. 2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas."
+    publishedDateTime: 2020-10-02T16:41:00Z
+    webUrl: "https://www.c-span.org/video/?476524-1/senator-kamala-harris-campaign-remarks-las-vegas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Sen. Kamala Harris (D-CA) Delivers Remarks in Raleigh, NC on the Supreme Court"
     excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
     publishedDateTime: 2020-09-28T12:29:00Z
@@ -1576,6 +1621,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "8VT7Z+EP04l6A29YxnjXWri1g9p7xu0RNigRt7bn7xsP0RDWIKCEpBGr92nAtPvGPYaFW9hzSzIbvF3xGNQSnVu2WDI1fb1OhXkPpOaOhvqycvZtxdBuFDZ27RPWpm5yEbSyyIz0Nk4ikWBp+yMbPrNAMXlxJHfP69hRpAiEZ9kVlX2mSWwYtNCwdDbtT/uMg0bOP19xRHgBt2p+b/WH54j0rE4YoqbkO/a/YhHcr8goeiRmkVtuOn5LZ1jR4fqS6map+s+9dDgVJ1YpLSD2mi95iiZe/R99TFvs5qWtOCS+v0AHJN39XtC2QgmT396TInB2IC/pOCq4jRspdoTRQn4ASy7tdM7HFvkwEt4aRGE=;EvZ42w/VaeGW+sGLofrGbg=="
+secured: "ozJDh0WK2L4IIfjHkk6AJYi9SIUb+w8QNLPqeT+JyCH+MzTM39iLuv6lRTO6nGNXrhEjkcwHwFiyfGYLz3uhO7N6x622fGO7mMOJPrSjS49IA0Xagao7EteBJl9Rz4u5DHGLXeevV8Xak/WSXGD06eO8LhjJvHBRBAUT0gVByZ7/5BP+mTJeIVO8eQE56OIdC8obORb6gWeo4C1C4ybibAZYnraHFmb+4BWJCfF1rImZiKe636avZ5f4ELvA3ovEUuSsc0DwSd7qgOOVhbijOyf4pH/10DZVbNuk14cKvuXQIpFw/ZE7ZvK8sD3ldpO+GsQ7/Yvs1h+Bt3KDnC13nlgQoDViadsssfZessrlGs4+mUds33ZcL0DVdydhjTZbATBr/+vu9ElbX1YHESsRR4tqtxy91P+/1TwY0RPoWk4qfkW9aHlJNTrTvNFRwh/scvnKD/B/qDNnrxIaiYKwUMgz7+yPkhCGW0PDKfHPO9+8mYuXCBnF3RnYGrQ5cMpIMwhJ47DZcys+voVtShLVTg==;L8PfumZdXAlkttme5/oyPQ=="
 ---
 

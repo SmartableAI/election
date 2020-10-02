@@ -3030,6 +3030,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Democrat Joe Biden tests negative for coronavirus after President Trump reports positive test"
+    excerpt: "Democrat Joe Biden has tested negative for coronavirus, his doctor announced Friday, hours after President Donald Trump announced a positive test"
+    publishedDateTime: 2020-10-02T17:47:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/joe-biden-covid-test-negative-after-donald-trump-positive-test/5894403002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5894403002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5894403002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 79
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/5ed782da-be1d-4a65-aa1e-9447c68fca90-biden_train_boarding.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence says in Zanesville that Donald Trump fought for the country and Ohio State football"
     excerpt: "Vice President Mike Pence addressed a few hundred supporters Wednesday at a Trump campaign event in Zanesville."
     publishedDateTime: 2020-09-16T23:12:00Z

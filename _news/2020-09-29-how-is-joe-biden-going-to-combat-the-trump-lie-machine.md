@@ -313,6 +313,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Concern over Biden's possible exposure to COVID-19 after Trump tests positive"
+    excerpt: "New concerns have surfaced about former Vice President Joe Biden's possible exposure to COVID-19 following President Trump's positive diagnosis announced early Friday."
+    publishedDateTime: 2020-10-02T17:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-debate-1-gty-er-200929_1601428943927_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'How you doing man?': Trump, Biden start debate with socially distant greeting"
     excerpt: "In the latest sign of how COVID-19 has upended the election, Trump and Biden skipped the handshake at the first presidential debate in Cleveland."
     publishedDateTime: 2020-09-30T01:29:00Z
@@ -694,6 +710,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLLZJWAACYI6XMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 961
+        isCached: true
+  - title: "Donald and Melania Trump showing 'mild' Covid symptoms as Joe and Jill Biden test negative – live"
+    excerpt: "White House confirms president has mild symptoms, while Biden campaign confirms Democratic nominee and his wife, Jill Biden, tested negative"
+    publishedDateTime: 2020-10-02T17:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f7759718f080b5d569e31c5"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 127
+    images:
+      - url: "https://i.guim.co.uk/img/media/f78cc710812578b72c2fc54f125bf12d5253baaa/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b504a8e21fed6a4594d4cbb1edeccd7"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump says he's 'strongly demanding' Biden is drug tested ahead of their first presidential debate"
     excerpt: "Trump has speculated that Biden's past debate performance was enhanced by drugs. In 2016, he made similar accusations against Hillary Clinton."
@@ -1591,6 +1623,17 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Joe Biden, Jill Biden Test Negative for Coronavirus"
+    excerpt: "The negative test results for the Democratic presidential nominee come hours after President Donald Trump received a positive diagnosis."
+    publishedDateTime: 2020-10-02T17:47:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-02/joe-biden-jill-biden-test-negative-for-coronavirus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "KTbBk7wuIr30o58Roo7dv6UQigNXI+gqjaDN4hMrnVv/Hi7L+kdsO1/heeFTSK0WBfnBkpHAFyyubm2foL14DszyjCGUKsYX4XDnkZ5EGoGKrOsz8GXZe0q4ylLPzBHnB9ygCQ2zgeIg3E0qRa2xFvLZD1Q/MlEv+856MulJBVU9epkD7X49U4rsfzbKK8M5ByNFMnBb38e+dyRWAS3uAk8NXnzRyo0Ggjv3KcpDskG/tSwEWChEXVuI2mK27hS5knY9qst2gN5SICG9+7b2M87Y0Gswp6QEvp0ASQv7jnpf2Vc2dWTAX6fcsnyMM5MBtdWVlhxN+XnQ4PxqBghtA2wOD4AHiO4766HUXwshYvrgCVroRRL/f4gijSClwWkLLEx+ExbGqZv0TtVtMtZlwJEUchbv5cezAS2l/omehcHEbGOlXflIsi47gOcNZfA/1/vOIWG8aH0g2hiQUE0sNkSVny25xBSTVUefFIBn4xGJFhqWG1Yqj1zW4FdH7ZoAihRHsG7/YVLwTjgxzCMtHg==;h8631kyb+FUXkbs81a92YA=="
 ---

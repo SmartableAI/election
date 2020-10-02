@@ -543,6 +543,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Tucker Carlson: Kamala Harris Will Bring Black Lives Matter Agenda To The White House"
+    excerpt: "Tucker Carlson delivered a monologue Thursday night on how the Democratic party has fully embraced the Black Lives Matter movement and incorporated the organization's talking points in the party's platform."
+    publishedDateTime: 2020-10-02T16:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/02/tucker_carlson_kamala_harris_will_bring_black_lives_matter_agenda_to_the_white_house.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
+    images:
+      - url: "https://assets.realclear.com/images/51/517744.jpg"
+        width: 1142
+        height: 856
+        isCached: true
 
 secured: "AVDTTr/A4SoO1S32pc5ee6887marRrl+8SHCPI9zDIgDD+9UWyV4KC4+GHWMbGFzkUG1gJJ9/I7X2/w56q1D+O9sO/hNUgqAjoieHE+oBe911a0RabQ163iw5jLRsxOHqxRtMaYHHnkFQYdHsqbdor+jPYVvnN+OK3KNfhlMdJcWO16wYG7hVrCaiBSZXaMbsDsouX/THUclVmlN9jKsaK8FQEVCIbFuiyD6uR9rBhZvUKFXvBG+5Kr04RR19dly4qZUbgGe6IPRLteeqrNHnAJ/DUJ0CCp92R0jAaTsATSH8X4IjIcbXpAssA4tPuf2KBqZA0NPPJEqAHMtJw5rAu8Ps6FFSp8j+bgPuLD3dqApXzckZhbsjmWHobsqs+iuXuWSl83H9eXkPw47n1Dmxu+vD5k4ONdP9uIK92HZ89jv3Kg0KiluzU+ZRBp1HlUJzd8G78Lj+3Nh/hawsdnlYnM87gdob8Cibujq4+ecnElkx+tPIdYRBOo1FRh2SBLNsHV0ZU9vHMugsjJPpphoUQ==;YMDBwJWBLIPo1fsy72q9KA=="
 ---

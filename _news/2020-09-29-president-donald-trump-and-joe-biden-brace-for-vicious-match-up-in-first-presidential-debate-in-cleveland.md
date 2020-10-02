@@ -1181,6 +1181,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democrat Biden, wife test negative for COVID-19, doctor says"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife Jill have tested negative for coronavirus, their doctor said in a statement on Friday."
+    publishedDateTime: 2020-10-02T17:41:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUKKBN26N2UZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26N31K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N31K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "FACTBOX-Here are rules liberals think they could reverse under Biden presidency"
     excerpt: "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the"
     publishedDateTime: 2020-09-21T11:28:00Z
@@ -1798,6 +1809,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden Tests Negative For COVID-19, His Physician Says"
+    excerpt: "Democratic vice presidential nominee Kamala Harris also received a negative diagnosis. Sen. Mike Lee, R-Utah, and Notre Dame president test positive."
+    publishedDateTime: 2020-10-02T17:24:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-tests-negative-covid-19-his-physician-says-3055880"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-tests-negative-covid-19-his-physician-says-3055880?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-tests-negative-covid-19-his-physician-says-3055880?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/democrat-joe-biden-goes-into-his-first-debate.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
     publishedDateTime: 2020-09-29T03:28:00Z
@@ -1951,6 +1978,22 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B896%2C294%5D&w=1600&h=838&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F09%2F25%2Frbg-3.jpg"
         width: 1600
         height: 838
+        isCached: true
+  - title: "Democratic presidential candidate Joe Biden tests negative for COVID-19 | Raleigh News & Observer"
+    excerpt: "A campaign aide said “as of now” Biden is still expected to go ahead with his planned trip to Grand Rapids, Mich. on Friday."
+    publishedDateTime: 2020-10-02T17:30:00Z
+    webUrl: "https://www.newsobserver.com/news/coronavirus/article246170960.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/coronavirus/article246170960.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/coronavirus/article246170960.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 62
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557041001/5d6d8793-ed64-4f21-87b1-12ca45b6470d/c90833b7-ca74-4967-9cb4-553f6915b86b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Presidential debate: Campaigns for President Donald Trump, Joe Biden hurl accusations of lies, distractions hours before showdown"
     excerpt: "Hours before President Donald Trump and former Vice President Joe Biden took the stage in the first of three presidential debates before Election Day, the campaigns for both men accused each other of lying."

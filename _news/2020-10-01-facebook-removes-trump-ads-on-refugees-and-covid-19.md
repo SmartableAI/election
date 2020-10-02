@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump announces plan to deploy 150 million Covid rapid tests previously touted"
-    excerpt: "President Donald Trump formally announced a plan on Monday to disperse the 150 million rapid coronavirus tests first promoted by the White House in August.\n    \n"
-    publishedDateTime: 2020-09-28T21:16:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nZraVJpsqg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "White House residence staff 'nervous' after Trumps test positive for Covid-19, source says"
     excerpt: "Staff at the White House Executive Residence are feeling \"nervous\" over President Donald Trump and first lady Melania Trump testing positive for Covid-19, a source familiar with White House operations told CNN Friday.\n    \n"
     publishedDateTime: 2020-10-02T13:53:29Z
@@ -93,6 +77,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200822112815-01-white-house-rose-garden-renovation-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP senator on Judiciary panel tests positive for Covid-19 days after meeting with Trump's nominee"
+    excerpt: "Sen. Mike Lee, a Utah Republican, announced Friday he tested positive for Covid-19, just days after meeting in person with Supreme Court nominee Amy Coney Barrett on Tuesday.\n    \n"
+    publishedDateTime: 2020-10-02T16:22:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C9Plh__y_jk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/mike-lee-tests-positive-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/mike-lee-tests-positive-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002115304-01-mike-lee-amy-coney-barrett-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

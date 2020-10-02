@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: This Republican senator is the early leader for worst take on Trump's coronavirus diagnosis"
+    excerpt: "Hours after President Donald Trump announced that he and his wife, first lady Melania Trump, had tested positive for Covid-19, Georgia Sen. Kelly Loeffler decided that the world needed to hear her take on the matter.\n    \n"
+    publishedDateTime: 2020-10-02T15:39:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JY9JEyYgVCU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/kelly-loeffler-donald-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/kelly-loeffler-donald-trump-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200716171623-01-kelly-loeffler-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Vice President Pence tests negative for Covid after Trump's diagnosis"
     excerpt: "Pence, who was with Trump this week, is scheduled to debate Democratic Sen. Kamala Harris next week Salt Lake City."
     publishedDateTime: 2020-10-02T12:25:00Z
@@ -79,6 +95,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416916/201002-mike-pence-mc-1204_78bac30ec0c4f0f66330f46d019dc39c.JPG"
         width: 2500
         height: 1672
+        isCached: true
+  - title: "Mike Pence and his wife tested negative Friday morning."
+    excerpt: "Vice President Mike Pence announced Friday that he and his wife, Karen, had tested negative for the coronavirus, just hours after President Trump and the first lady announced they had both tested positive and were quarantining at the White House."
+    publishedDateTime: 2020-10-02T14:14:00Z
+    webUrl: "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/02/multimedia/02elections-briefing-pence/02elections-briefing-pence-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump Says He’ll Begin ‘Quarantine Process’ After Hope Hicks Tests Positive for Coronavirus"
     excerpt: "Ms. Hicks, a senior aide and the closest known person to the president to have contracted the virus, traveled with him this week aboard Air Force One."

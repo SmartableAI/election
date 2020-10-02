@@ -47,22 +47,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Rick Santorum said asking Trump to condemn right-wing extremists is unfair because they're his base"
-    excerpt: "The president had told the right-wing Proud Boys group to \"stand back and stand by\" after host Chris Wallace asked him to denounce white supremacy."
-    publishedDateTime: 2020-09-30T09:14:00Z
-    webUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f7440b10ab50d00184ad31a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "f20iUt1zT1eA173gIPp/5aZ5Ylx8M13rFUDnA1SdKEKchzyQA/SOn0+XTA1PZs006eoTr1Z52COpWbpNiDiepsfcTA9/W54QZ3Gg2BASUdgaxGhKI7Pv9mFpOMnREau/hR+p9EAB4VCJe+iosxN2t4XNHeAvFvidfWKK6dmV/DDNZiP+DcHlwN5pE2JGPHl4GTnzOh1XyMfgdOtzZF67Lgc2k5rWkM91rzKTLzlmbe1WtnbAoaiyXgCZbR1i09mQwcZVwe0k4h3Bsdtb95JwcmGa4hwl0r4iSl+bbZG9lCB7zkMJpkuVELiKu0ceg3sD1m3QXNzncDqWCFcAES71wpSApeW9SqMRF2UA0alh3fY=;mVawaSsOhJDveDW6kHmChA=="
 ---

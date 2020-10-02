@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-doesnt-take-questions
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp"
 type: article
 quality: 193
-heat: 853
+heat: 873
 published: true
 
 provider:
@@ -542,6 +542,20 @@ related:
       - url: "https://assets.realclear.com/images/52/522630.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "Tucker Carlson: Kamala Harris Will Bring Black Lives Matter Agenda To The White House"
+    excerpt: "Tucker Carlson delivered a monologue Thursday night on how the Democratic party has fully embraced the Black Lives Matter movement and incorporated the organization's talking points in the party's platform."
+    publishedDateTime: 2020-10-02T16:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/02/tucker_carlson_kamala_harris_will_bring_black_lives_matter_agenda_to_the_white_house.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
+    images:
+      - url: "https://assets.realclear.com/images/51/517744.jpg"
+        width: 1142
+        height: 856
         isCached: true
 
 secured: "UO1e/apMmdh46lAe2YA8C4R1h/CDsrMery6E3UW5Ejh1xX853mMxrUOTYzUe8HH7IKIfiVT5ImZaLpQ0Bf3zWh4WZYyh27gDPBaQUdhzVbHghd3xEepf+etZi/CerU4UAMbSsmL+rqoat7SufGrp2y13VtUmDHOBokqcL0NHkv1GfIJog+tpXmY5hghVeN0eTl8/o3zxOwda+PRKORuyHJlucIUSosueQGMwMDZOKmY4wlgqVLcKD305aB1FWLrEiLFmwrzu0kWaLes2e38erKKGxn+6Q5gEHTNkIdfasY17eg/+LLfY/5/bfSH502bKqNd3h5xnT4rNTvMyIzJQBApfSqJtScq/L8eav9p634E=;GNMaXIh3IBU+E6sH/nJWSg=="

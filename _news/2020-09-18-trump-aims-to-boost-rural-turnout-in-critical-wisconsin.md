@@ -233,22 +233,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "WATCH LIVE: President Trump Holds Campaign Rally in Virginia"
-    excerpt: "President Donald Trump is campaigning in Newport News, Virginia Friday night. The president’s latest campaign rally comes as a prelude to his much-expected announcement of Judge Amy Coney Barrett to the Supreme Court on Saturday."
-    publishedDateTime: 2020-09-26T02:00:00Z
-    webUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 75
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1228603949-1200x706.jpg"
-        width: 1200
-        height: 706
-        isCached: true
 
 secured: "6V8nbwmUiyUO9vNhK68SiOSPh/F63kuoAyAlX4r32OK5qvIA2BSrVkymB6wog6smWPJggvvKfQJSrxavvBFhX+cZ/PSJmt7aiYxCMYYZ4qu4nFOk5u47EZf/ZsALCOkCIoxcGUlADiHzKQHOAvxJs7a2IsnC4v6uB4V2TOoM0pDK/aPnCu/UQdl3fk+SuLA+yVTnKUzaD/QPm3tdg1ZucO8fowarOsEW0kyAjddKZRz2jeqGuOucrWcdpNW6Y0jL0M/q7CCHfv16Pgb0qDKHKIFNjT9YPVZ2OVtV1GRGmb2DZK4Pg05GG4ZYcIdn4kdfqL+UzczBPP3JDqPuIzXipBxNHdOPIA0ZQ4mE0NNIyq4hogBkX4BxulvliqC8bvCkwC1cv6/VD3tjMlRX6Xg+FOeIBpP4AHjAbZPX81c2/VqLy25ZVI1kk5j0p1UFzzipESl/1cYOKg/+EpoUq/aKgOebdb5S3OxrYMTTXPBUyHHbmkz79eRC2uP7JUyo6f0vlCY4bCQHWNTctpDQBwQhWA==;0N5K+JjcBEpIOoKu1Pby5g=="
 ---

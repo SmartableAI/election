@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
 type: article
 quality: 141
-heat: 181
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,33 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "McMaster sees Trump 'aiding and abetting' Russia's election efforts"
-    excerpt: "Former White House National Security Adviser H.R. McMaster has been careful not to criticize Donald Trump. That's just now starting to change."
-    publishedDateTime: 2020-10-01T17:09:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcmaster-sees-trump-aiding-abetting-russia-s-election-efforts-ncna1241719"
+  - title: "Melania Trump announces she has 'mild symptoms' of coronavirus"
+    excerpt: "First lady Melania Trump said Friday that she is experiencing \"mild symptoms\" but is \"looking forward to a speedy recovery\" following her Covid-19 diagnosis.\n    \n"
+    publishedDateTime: 2020-10-02T16:04:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x4lMT8xICDg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/melania-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/melania-trump-coronavirus/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2017_08/1909856/170221-hr-mcmaster-ok-1740_8a4068104f198e67d87aee45b8e4ac69.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002010216-02-trump-melania-0911-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Obama education chief: Trump sounding 'dog whistle' for 'white nationalists' in bashing 1619 Project"
-    excerpt: "President Donald Trump’s demands for \"patriotic education\" are a “dog whistle” for “white nationalists,\" former Obama Education Secretary John B. King Jr. said Thursday. L"
-    publishedDateTime: 2020-09-24T19:10:00Z
-    webUrl: "https://www.politico.com/news/2020/09/24/trump-dog-whistle-1619-421238"
+  - title: "Trump announces plan to deploy 150 million Covid rapid tests previously touted"
+    excerpt: "President Donald Trump formally announced a plan on Monday to disperse the 150 million rapid coronavirus tests first promoted by the White House in August.\n    \n"
+    publishedDateTime: 2020-09-28T21:16:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nZraVJpsqg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 100
+      name: CNN
+      domain: cnn.com
+    quality: 171
     images:
-      - url: "https://static.politico.com/0c/7f/98e591a34c1f8eb305597cb609cf/education-secretary-king-gty-1160.jpg"
-        width: 1160
-        height: 629
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Lindsey Graham: Trump 'very focused' on confirming Barrett to Supreme Court despite his coronavirus diagnosis"
+    excerpt: "Senate Judiciary Chairman Lindsey Graham said Friday that President Trump is \"very focused\" on getting Amy Coney Barrett onto the Supreme Court and said that confirmation hearings remain \"on track\" after the news of the President's coronavirus diagnosis.\n    \n"
+    publishedDateTime: 2020-10-02T17:28:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Loixqa7GIkI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/lindsey-graham-coronavirus-barrett-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/lindsey-graham-coronavirus-barrett-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200915195604-01-lindsey-graham-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "/pQGiBacJPs8mNJVXIP/GUaBAElOnZeTafjqWj5z/EwJanZfvvnWjiG/7btIYDgRERSs97iG155UcbB1OJCJt5g+jkfN1BqaufRmCX4r1A1uX85AoBlW3AYbEQxCDUinBjBlHqdwy0PGEYiT5tdm2GiybBkhgZWpATecJsRecs3IDlimat6oahYqZT4HPxVAWVHPHN7+yCBWt01eFEySge59KiI6j+oc2qRSRT/xF8Y27lWgQULq5tZC5pGQqebOfCB24h3hfRVUEaZMpvXJpUgteeG93BqvV/u3VL1sr9wt1Hqzyy+hhnVAXTqFU0q88HJQG49zVtWvsIre+ZwvdPnyyMVzlRtcY/l5jHgYB8A=;QmSk15FSci1xiz1kuO9yEQ=="

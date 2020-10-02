@@ -847,6 +847,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Trump's coronavirus diagnosis guarantees this election will be about everything he has tried to avoid"
+    excerpt: "President Donald Trump has spent months trying to move the country's focus away from the coronavirus. He's purposely downplayed the threat it poses to Americans, pushed unscientific treatments and ensured the country that a vaccine would be arriving any day. In pre-recorded remarks at the annual Al Smith"
+    publishedDateTime: 2020-10-02T15:57:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_PVAnpbnKSE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/donald-trump-coronavirus-covid-19-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/donald-trump-coronavirus-covid-19-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002090934-trump-leavng-air-force-one-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump makes false claims about his record on manufacturing and coal jobs"
     excerpt: "President Donald Trump delivered a meandering speech in Ohio on Monday that was officially about fighting for American workers.\n    \n"
     publishedDateTime: 2020-09-23T20:59:19Z
@@ -1052,6 +1068,22 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923204731-trump-press-conference-0923-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "White House chief of staff defends briefing reporters without a mask despite Trump's coronavirus test"
+    excerpt: "White House chief of staff Mark Meadows addressed reporters outside the White House Friday, hours after President Donald Trump's positive coronavirus diagnosis, blatantly disregarding guidelines on mask usage despite his close contact with the President this week.\n    \n"
+    publishedDateTime: 2020-10-02T16:46:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ETp5hQ2GpZY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/mark-meadows-mask-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/mark-meadows-mask-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002104915-mark-meadows-wh-pool-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1742,6 +1774,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416725/201001-debate-cleveland-donald-trump-se-255p_d911b5232e10e9c23968f4be3a3d9468.jpg"
         width: 2500
         height: 1676
+        isCached: true
+  - title: "Trump just became Exhibit A in the case that he failed on coronavirus"
+    excerpt: "Now the president has to square his assertion that he tamed the crisis with his positive test and an economy showing slower signs of recovery."
+    publishedDateTime: 2020-10-02T17:08:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-just-became-exhibit-case-he-failed-coronavirus-n1241845"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241845"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241845"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417003/201002-analysis-donald-trump-covid-rally-se-1050a_5b601510fb1ceb9a1dd044033b545236.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
     excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"

@@ -2,6 +2,117 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-30-borat-sequel-with-pence-name-in-title-to-be-released-before-2020-election-by-amazon.md",
+      "title": "'Borat' sequel -- with Pence name in title -- to be released before 2020 election by Amazon",
+      "excerpt": "The 2006 original film, written and produced by Cohen, follows the titular character, a Kazakh television personality, as he explores America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/borat-sequel-pence-amazon",
+      "originalUrl": "https://www.foxnews.com/entertainment/borat-sequel-pence-amazon",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-161269464.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/borat-sequel-pence-amazon.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/borat-sequel-pence-amazon.amp",
+      "publishedDateTime": "2020-09-29T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.md",
+      "title": "Trump campaign says president has ‘continuously denounced’ white supremacists, amid criticism",
+      "excerpt": "The Trump campaign on Tuesday told Fox News that President Trump has “continuously denounced” white supremacists, including during the first presidential debate, when they say he did so “twice.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lihaWHDq-ew/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lihaWHDq-ew/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp",
+      "publishedDateTime": "2020-09-29T22:18:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-dana-perinos-debate-verdict-biden-cleared-the-very-low-bar-that-had-been-set-for-him.md",
       "title": "Dana Perino's debate verdict: 'Biden cleared the very low bar that had been set for him'",
       "excerpt": "Democrats concerned about Joe Biden's performance on a debate stage could breathe a sigh of relief Tuesday night following the fractious and bad-tempered first confrontation in Cleveland, former White House press secretary Dana Perino said.",
@@ -472,61 +583,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-29-jill-biden-shuts-down-question-about-husbands-gaffes-you-cant-even-go-there.md",
-      "title": "Jill Biden shuts down question about husband's gaffes: 'You can't even go there'",
-      "excerpt": "Asked by CNN's Jake Tapper about Democratic presidential nominee Joe Biden's reputation for sometimes misspeaking, Jill Biden said: 'You cannot even go there'",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YVKfLbtwOYQ/biden-campaign-voters-ignore-gaffes-debate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YVKfLbtwOYQ/biden-campaign-voters-ignore-gaffes-debate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2923e83-59b6-4ea1-964d-b7b5da9b2200/5a9805d6-aed0-45e0-b736-307e90588a0a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp",
-      "publishedDateTime": "2020-09-29T15:16:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-jewish-group-compares-trump-administration-to-1930s-nazi-germany.md",
       "title": "Jewish group compares Trump administration to 1930s Nazi Germany",
       "excerpt": "The Jewish Democratic Council for America compared the nation under President Trump to Germany under Adolf Hitler in the 1930s in a new ad targeting Jewish voters in swing states. ",
@@ -696,7 +752,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -736,6 +792,48 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-told-group-of-christians-how-he-said-excuse-me-when-mike-pence-asked-him-to-pray.md",
+      "title": "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray",
+      "excerpt": "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html",
+      "publishedDateTime": "2020-09-29T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -1204,113 +1302,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-does-trumps-tightening-financial-vise-create-a-security-risk.md",
-      "title": "Does Trump's 'tightening financial vise' create a security risk?",
-      "excerpt": "Trump holding onto power might be one of the few options he has remaining to prevent his creditors from seizing his personal assets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/j/newscms/2020_40/3415692/200928-donald-trump-2019-ac-900p_b16f83d9a1a7db503e80ee100742757f.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-29T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-reportedly-raked-in-427-million-from-the-apprentice-handing-him-a-financial-lifeline-amid-big-losses.md",
-      "title": "Trump reportedly raked in $427 million from 'The Apprentice,' handing him a financial lifeline amid big losses",
-      "excerpt": "Trump earned $427 million from starring on reality TV show \"The Apprentice,\" boosting his image and finances as his other businesses lost money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f73075a0ab50d00184ace9e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9?amp",
-      "publishedDateTime": "2020-09-29T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

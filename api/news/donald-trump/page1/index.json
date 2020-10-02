@@ -2,37 +2,37 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-02-trump-has-covid-what-could-it-mean-for-the-economy.md",
-      "title": "Trump Has COVID. What Could It Mean For The Economy?",
-      "excerpt": "President Donald Trump and First Lady Melania Trump have tested positive for Covid-19, the president announced on Twitter early Friday morning. Here's what to watch out for when it comes to the economy.",
+      "path": "_news/2020-10-03-trump-has-more-in-common-with-lincoln-than-you-might-think.md",
+      "title": "Trump has more in common with Lincoln than you might think",
+      "excerpt": "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
-      "originalUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
+      "webUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
+      "originalUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77137720c9b79466fe3ec8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://thehill.com/sites/default/files/trump_lincoln_08042020_1.jpg",
+          "width": 980,
+          "height": 552,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
-      "publishedDateTime": "2020-10-02T08:41:00-07:00",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
+      "publishedDateTime": "2020-10-02T10:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,6 +50,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-this-was-avoidable-trump-has-been-downplaying-the-virus-from-the-start.md",
+      "title": "'This was avoidable': Trump has been downplaying the virus from the start",
+      "excerpt": "In recent weeks, Trump has put himself and others at risk by holding mass gatherings, some indoors, and shunning mask use while claiming the end of the virus was just around the corner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_40/3416883/201002-donald-trump-melania-trump-ew-202a_2aef1d6bb1b9e1b977edd6d985618f74.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241775",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241775",
+      "publishedDateTime": "2020-10-02T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -106,6 +162,57 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-trump-did-condemn-white-supremacists-too-bad-so-many-people-wont-listen.md",
+      "title": "Trump did condemn white supremacists, too bad so many people won't listen",
+      "excerpt": "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/10/02/trump-and-white-supremacy-he-did-condemn-and-has-repeatedly-column/5883336002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/02/trump-and-white-supremacy-he-did-condemn-and-has-repeatedly-column/5883336002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/01/USAT/bdc7ac76-4564-45b8-a102-9e26fb927601-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4895,2753,x0,y248&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5883336002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5883336002",
+      "publishedDateTime": "2020-10-02T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -425,6 +532,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-mcmaster-sees-trump-aiding-and-abetting-russias-election-efforts.md",
+      "title": "McMaster sees Trump 'aiding and abetting' Russia's election efforts",
+      "excerpt": "Former White House National Security Adviser H.R. McMaster has been careful not to criticize Donald Trump. That's just now starting to change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcmaster-sees-trump-aiding-abetting-russia-s-election-efforts-ncna1241719",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcmaster-sees-trump-aiding-abetting-russia-s-election-efforts-ncna1241719",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2017_08/1909856/170221-hr-mcmaster-ok-1740_8a4068104f198e67d87aee45b8e4ac69.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-nato-insiders-believe-trumps-tax-and-debt-problems-make-him-vulnerable-to-blackmail-by-foreign-powers.md",
       "title": "NATO insiders believe Trump's tax and debt problems make him vulnerable to blackmail by foreign powers",
       "excerpt": "\"Everything about his finances smells like blood and we are trained to be sharks,\" one source told Insider.",
@@ -484,7 +647,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2255,
+      "heat": 2335,
       "tags": null,
       "images": [
         {
@@ -525,57 +688,6 @@
         "Election",
         "Kamala Harris",
         "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-texas-christian-on-trump-he-sounds-just-like-me.md",
-      "title": "Texas Christian on Trump: 'he sounds just like me'",
-      "excerpt": "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf",
-      "originalUrl": "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     },
@@ -639,7 +751,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 687,
+      "heat": 607,
       "tags": null,
       "images": [
         {
@@ -662,57 +774,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-trump-denies-knowing-who-proud-boys-are-again-declines-to-condemn-white-supremacy-by-name.md",
-      "title": "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name",
-      "excerpt": "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "originalUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "publishedDateTime": "2020-09-30T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -843,7 +904,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -866,57 +927,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-trump-has-repeatedly-been-endorsed-by-white-supremacist-groups-and-other-far-right-extremists-and-theyve-looked-to-him-as-a-source-of-encouragement.md",
-      "title": "Trump has repeatedly been endorsed by white supremacist groups and other far-right extremists, and they've looked to him as a source of encouragement",
-      "excerpt": "Trump's refusal to explicitly condemn white supremacist groups during Tuesday night's debate follows a similar pattern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f74dd1974fe5b0018a8e56a?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp",
-      "publishedDateTime": "2020-09-30T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1216,7 +1226,7 @@
       "originalUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1374,7 +1384,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 245,
       "tags": null,
       "images": [
         {

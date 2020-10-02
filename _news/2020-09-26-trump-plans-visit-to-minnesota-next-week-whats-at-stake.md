@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "3 Minnesota congressmen flew on Air Force One to Trump rally Wednesday"
+    excerpt: "Three Minnesota congressmen flew on Air Force One with President Trump and Hope Hicks on Wednesday to attend a rally in Duluth."
+    publishedDateTime: 2020-10-02T16:13:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dy-F5ku7YpQ/minnesota-congressmen-trump-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/minnesota-congressmen-trump-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minnesota-congressmen-trump-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275156282844-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Replay: Trump Holds A \"Great American Comeback\" Rally In Bemidji, Minnesota"
     excerpt: "President Donald Trump holds a Great American Comeback Event in Bemidji, Minnesota. The event is expected to begin 7:00 pm at the Bemidji airport."
     publishedDateTime: 2020-09-19T08:04:00Z

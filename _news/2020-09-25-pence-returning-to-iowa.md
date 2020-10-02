@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 630
         isCached: true
-  - title: "Vice President Mike Pence tests negative for Covid-19"
-    excerpt: "CNBC's Eamon Javers reports on Vice President Mike Pence's negative coronavirus test and former FDA commissioner Dr. Scott Gottlieb offers insight into how the White House may proceed with screenings and testing."
-    publishedDateTime: 2020-10-02T12:18:00Z
-    webUrl: "https://www.cnbc.com/video/2020/10/02/vice-president-mike-pence-tests-negative-for-covid-19.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 105
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106679939-1598497365582-abcc.jpg?v=1598497410"
-        width: 1041
-        height: 694
-        isCached: true
   - title: "Vice President Mike Pence to host debate watch party in Lititz"
     excerpt: "Vice President Mike Pence will travel to Lititz on Tuesday, September 29 to host a 'Make America Great Again!' watch party of the Presidential Debate."
     publishedDateTime: 2020-09-25T09:04:00Z

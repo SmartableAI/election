@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-t
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp"
 type: article
 quality: 123
-heat: 163
+heat: 143
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rick Santorum said asking Trump to condemn right-wing extremists is unfair because they're his base"
-    excerpt: "The president had told the right-wing Proud Boys group to \"stand back and stand by\" after host Chris Wallace asked him to denounce white supremacy."
-    publishedDateTime: 2020-09-30T09:14:00Z
-    webUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f7440b10ab50d00184ad31a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'Too hot': GOP allies urge Trump to change tactics for next debate. It's not clear he'll heed the advice"
     excerpt: "With some Republican allies giving Trump tepid reviews for his first debate against Biden, the question for his campaign is whether to switch strategy."
     publishedDateTime: 2020-10-01T21:24:00Z

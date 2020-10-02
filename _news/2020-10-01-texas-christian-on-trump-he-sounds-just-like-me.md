@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-so
 webUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf"
 type: article
 quality: 105
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,37 +29,128 @@ images:
     isCached: true
 
 related:
-  - title: "Don’t be like Trump: Deducting hairstyling and home expenses from your taxes could get you in trouble with the IRS"
-    excerpt: "Trump tax returns confirm that the rich are different from you and me. So, no, you cannot deduct the cost of getting your hair cut and styled"
-    publishedDateTime: 2020-09-29T21:27:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp"
+  - title: "Trump did condemn white supremacists, too bad so many people won't listen"
+    excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
+    publishedDateTime: 2020-10-02T08:44:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/02/trump-and-white-supremacy-he-did-condemn-and-has-repeatedly-column/5883336002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5883336002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5883336002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/bdc7ac76-4564-45b8-a102-9e26fb927601-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4895,2753,x0,y248&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray"
-    excerpt: "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals."
-    publishedDateTime: 2020-09-29T17:49:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
+  - title: "Trump's failure to condemn white supremacy at debate part of a well-established pattern"
+    excerpt: "President Trump's failure to condemn white supremacists at Tuesday's debate is part of a well-established pattern in which he shows a reluctance to disavow racist groups."
+    publishedDateTime: 2020-09-30T15:42:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 81
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg"
-        width: 636
-        height: 382
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name"
+    excerpt: "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name."
+    publishedDateTime: 2020-10-01T02:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Rick Santorum said asking Trump to condemn right-wing extremists is unfair because they're his base"
+    excerpt: "The president had told the right-wing Proud Boys group to \"stand back and stand by\" after host Chris Wallace asked him to denounce white supremacy."
+    publishedDateTime: 2020-09-30T09:14:00Z
+    webUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f7440b10ab50d00184ad31a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Police: Friend convinced Trump ex-campaign boss to surrender"
+    excerpt: "A standoff between South Florida police and President Donald Trump’s former campaign manager Brad Parscale ended after an officer who was friends with Parscale convinced him to surrender, officials said."
+    publishedDateTime: 2020-09-29T07:57:00Z
+    webUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Donald Trump sidesteps call to condemn white supremacists — and the Proud Boys were 'extremely excited' about it"
+    excerpt: "Debate moderator Chris Wallace asked if Donald Trump would urge groups to stand down and avoid contributing to the violence. He sidestepped."
+    publishedDateTime: 2020-09-30T12:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/trump-debate-white-supremacists-stand-back-stand-by/3583339001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3583339001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583339001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/615b05e1-ec70-40f4-99c5-e7bec4e73719-AP_Election_2020_Debate_2.jpg?auto=webp&crop=5180,2914,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump has repeatedly been endorsed by white supremacist groups and other far-right extremists, and they've looked to him as a source of encouragement"
+    excerpt: "Trump's refusal to explicitly condemn white supremacist groups during Tuesday night's debate follows a similar pattern."
+    publishedDateTime: 2020-09-30T21:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5f74dd1974fe5b0018a8e56a?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Trump Condemns ‘All White Supremacists’ and Proud Boys After Days of Odd Comments"
+    excerpt: "President Donald Trump condemned “all white supremacists,” including the Proud Boys during an interview with Fox News host Sean Hannity on Thursday night. Trump’s remarks come after days of odd comments from both him and White House press secretary Kayleigh McEnany,"
+    publishedDateTime: 2020-10-02T13:01:00Z
+    webUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/"
+    ampWebUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Hannity-09_40_28-PM-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "fU68tnOa2S544j7Q/eWHVGGgvt0bEkd9e7LCC1KbpjpcWRhVLhyECllf2wV15T/pnWGIX8dz+eCcH5lLTPohuXPHLa5ZbIT9yY9NDrdjUwNzCXo/wNUVPbLsi1r0xz+8aBVxL1VvqaXYitSuVjIcU6nFbfAY6utzi2ml49N/KvwkjCIfEr8JswSUjnkmM4VqgZcq2MFVnMVc9f3bzPCsm3gb7FFF7xB+nA5QuF21/qBhwMOPyqyk2YELvu029a/v+OoR8PXqG3dVTUG9XoCW6vo/t+7nEPxzwNi7iUQfEPCBEgFcJgocBwB+5ZINnnSwQBN5MfPLQNe1i6AYyP/nSNeTvj7rQ7/3sUceQBaKAOM=;5hCRkXIzczKfVerCvErJOw=="

@@ -42,6 +42,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "3 Minnesota congressmen flew on Air Force One to Trump rally Wednesday"
+    excerpt: "Three Minnesota congressmen flew on Air Force One with President Trump and Hope Hicks on Wednesday to attend a rally in Duluth."
+    publishedDateTime: 2020-10-02T16:13:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dy-F5ku7YpQ/minnesota-congressmen-trump-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/minnesota-congressmen-trump-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minnesota-congressmen-trump-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275156282844-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "tdc5onPWGFBy/8sZjDyp7YS7brzwov46SlrSc8raWaTIOFoo4yWjOnD+BUAirsw/OrYtsGtUNaiTHZdcb04yo+rKbLtGgmOQyax1aYA7zXROlpMS5fqOcp+o20OhegKydIkoQH7igdjlCvF8gV+YqdRJFRpfiAVt31pOD+nq3L70FdKycUxB8ucbrTSQPY022CvEZw+2Bx/rS0ZiZcjm6Tvygz6tOFg1SJbOGjahEmp3TbVdBiQatnJ2TzQ4f79x4DuaAT6VJ6pE+oIsCsZE7/r7wmOZTW+Isiw9PTP9dO5ItnoJl1zafh0guBMdA6IsoggPCMTkQWTGztj+jnIRJji6EyGLPISTcM2E85C9jFw=;HfzeCSdrNGjeQbMckA8BHw=="
 ---

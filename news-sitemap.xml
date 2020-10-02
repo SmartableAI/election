@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/</loc>
-    <lastmod>2020-10-02T08:41:00-07:00</lastmod>
+    <loc>https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think</loc>
+    <lastmod>2020-10-02T10:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775</loc>
+    <lastmod>2020-10-02T10:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/bRzKYb_-f_M/pelosi-trump-saner-approach-coronavirus</loc>
+    <lastmod>2020-10-02T10:16:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/OhJp4wC_DIw/joe-biden-jill-negative-covid-19</loc>
+    <lastmod>2020-10-02T09:22:39-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x4lMT8xICDg/index.html</loc>
+    <lastmod>2020-10-02T09:04:52-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -13,14 +37,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/tf9UY7IG3pY/squad-dem-tlaib-slams-trump-after-coronavirus-diagnosis</loc>
-    <lastmod>2020-10-02T06:21:57-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ulHuutIv0IY/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson</loc>
+    <lastmod>2020-10-02T05:39:01-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ulHuutIv0IY/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson</loc>
-    <lastmod>2020-10-02T05:39:01-07:00</lastmod>
+    <loc>https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770aa68f084209b16b3551</loc>
+    <lastmod>2020-10-02T05:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -37,12 +61,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says</loc>
-    <lastmod>2020-10-02T04:58:54-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html</loc>
     <lastmod>2020-10-02T04:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -55,14 +73,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/</loc>
-    <lastmod>2020-10-01T20:47:00-07:00</lastmod>
+    <loc>https://www.usatoday.com/story/opinion/2020/10/02/trump-and-white-supremacy-he-did-condemn-and-has-repeatedly-column/5883336002/</loc>
+    <lastmod>2020-10-02T01:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPz8Dz5NMls/index.html</loc>
-    <lastmod>2020-10-01T20:09:59-07:00</lastmod>
+    <loc>https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/</loc>
+    <lastmod>2020-10-01T20:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -187,6 +205,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nbcnews.com/msnbc/rachel-maddow-show/mcmaster-sees-trump-aiding-abetting-russia-s-election-efforts-ncna1241719</loc>
+    <lastmod>2020-10-01T10:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10</loc>
     <lastmod>2020-10-01T10:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -223,12 +247,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf</loc>
-    <lastmod>2020-10-01T08:33:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nbcnews.com/feature/nbc-out/three-quarters-lgbtq-voters-back-joe-biden-glaad-poll-finds-n1241690</loc>
     <lastmod>2020-10-01T07:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -261,12 +279,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGjy995Eutc/index.html</loc>
     <lastmod>2020-09-30T21:53:59-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275</loc>
-    <lastmod>2020-09-30T19:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -313,14 +325,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9</loc>
-    <lastmod>2020-09-30T14:40:00-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/FfvgpRt-46w/wisconsin-governor-tony-evers-trump-coronavirus</loc>
+    <lastmod>2020-09-30T13:16:50-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/FfvgpRt-46w/wisconsin-governor-tony-evers-trump-coronavirus</loc>
-    <lastmod>2020-09-30T13:16:50-07:00</lastmod>
+    <loc>https://www.bbc.com/news/av/world-us-canada-54363831</loc>
+    <lastmod>2020-09-30T13:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -505,12 +517,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/YVKfLbtwOYQ/biden-campaign-voters-ignore-gaffes-debate</loc>
-    <lastmod>2020-09-29T15:16:58-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BvgpGE0CQOo/jewish-democrats-trumps-america-nazi-germany</loc>
     <lastmod>2020-09-29T14:05:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -531,6 +537,12 @@
   <url>
     <loc>https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313</loc>
     <lastmod>2020-09-29T11:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html</loc>
+    <lastmod>2020-09-29T10:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -675,6 +687,12 @@
   <url>
     <loc>https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/</loc>
     <lastmod>2020-09-28T12:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/06cH5nnVpj0/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science</loc>
+    <lastmod>2020-09-28T12:41:49-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1029,6 +1047,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression</loc>
     <lastmod>2020-09-24T12:19:48-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/09/24/trump-dog-whistle-1619-421238</loc>
+    <lastmod>2020-09-24T12:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1953,12 +1977,6 @@
   <url>
     <loc>https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/</loc>
     <lastmod>2020-09-17T19:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/aA5aQfXMTBo/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous</loc>
-    <lastmod>2020-09-17T18:31:24-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

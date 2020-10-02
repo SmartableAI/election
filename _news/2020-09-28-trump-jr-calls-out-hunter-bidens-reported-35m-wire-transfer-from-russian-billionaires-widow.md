@@ -1279,6 +1279,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cleveland Clinic says guests had 'low risk of exposure' to coronavirus at Trump-Biden debate"
+    excerpt: "The health advisor to the Commission on Presidential Debates said Friday that they believe there was “low risk of exposure” to COVID-19 for guests at Tuesday’s debate, after President Trump and first lady Melania Trump tested positive for the novel coronavirus."
+    publishedDateTime: 2020-10-02T16:39:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dRnqJDyIGvs/cleveland-clinic-guests-low-exposure-risk-covid-19-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/cleveland-clinic-guests-low-exposure-risk-covid-19-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cleveland-clinic-guests-low-exposure-risk-covid-19-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Jr. predicts Biden debate performance will be 'decent', questions former VP's 'vitality'"
     excerpt: "Joe Biden should give a \"decent\" performance in Tuesday's presidential debate, but his lack of campaigning raises questions about whether he would be able to keep up with the demands of the presidency, Donald Trump Jr. told “Fox & Friends” Monday."
     publishedDateTime: 2020-09-28T19:06:38Z

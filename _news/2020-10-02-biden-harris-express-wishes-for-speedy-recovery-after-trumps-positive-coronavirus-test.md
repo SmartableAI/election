@@ -1264,6 +1264,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cleveland Clinic says guests had 'low risk of exposure' to coronavirus at Trump-Biden debate"
+    excerpt: "The health advisor to the Commission on Presidential Debates said Friday that they believe there was “low risk of exposure” to COVID-19 for guests at Tuesday’s debate, after President Trump and first lady Melania Trump tested positive for the novel coronavirus."
+    publishedDateTime: 2020-10-02T16:39:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dRnqJDyIGvs/cleveland-clinic-guests-low-exposure-risk-covid-19-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/cleveland-clinic-guests-low-exposure-risk-covid-19-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cleveland-clinic-guests-low-exposure-risk-covid-19-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump Jr calls out Hunter Biden’s reported $3.5M wire transfer from Russian billionaire’s widow"
     excerpt: "President Trump on Sunday may have shown a preview of this week’s upcoming presidential debate when he asked reporters at the White House why -- in his opinion --  they have been reluctant to look into Joe Biden’s son Hunter Biden’s business involvement in Russia, Ukraine, and China while his father"
     publishedDateTime: 2020-09-28T04:34:32Z

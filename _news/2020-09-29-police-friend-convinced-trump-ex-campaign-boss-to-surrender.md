@@ -25,19 +25,19 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
-    excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
-    publishedDateTime: 2020-09-30T23:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3585336001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585336001"
+  - title: "Trump did condemn white supremacists, too bad so many people won't listen"
+    excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
+    publishedDateTime: 2020-10-02T08:44:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/02/trump-and-white-supremacy-he-did-condemn-and-has-repeatedly-column/5883336002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5883336002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5883336002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 121
+    quality: 124
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/bdc7ac76-4564-45b8-a102-9e26fb927601-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4895,2753,x0,y248&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -57,63 +57,99 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday"
-    excerpt: "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\""
-    publishedDateTime: 2020-09-30T21:53:00Z
-    webUrl: "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday"
-    ampWebUrl: "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
+  - title: "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name"
+    excerpt: "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name."
+    publishedDateTime: 2020-10-01T02:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
     images:
-      - url: "https://patch.com/img/cdn20/getty/22887410/20200930/125243/styles/patch_image/public/gettyimages-979770508___30125124036.jpg?width=984"
-        width: 984
-        height: 738
+      - url: "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "President's daughter, Pence visit Minnesota"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order campaign message to Minneapolis today."
-    publishedDateTime: 2020-09-24T09:16:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/sep/24/presidents-daughter-pence-visit-minnesota/"
+  - title: "Rick Santorum said asking Trump to condemn right-wing extremists is unfair because they're his base"
+    excerpt: "The president had told the right-wing Proud Boys group to \"stand back and stand by\" after host Chris Wallace asked him to denounce white supremacy."
+    publishedDateTime: 2020-09-30T09:14:00Z
+    webUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
     type: article
     provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/196197612_196196292-326a6878a6fb45c9ab801fb10bd30956_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Minnesota governor activates National Guard for Pence visit"
-    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop at a Minneapolis hair salon left in rubble by the violence that followed George Floyd’s death. The campaign visit Thursday was aimed at driving home President Donald Trump’s law-and-order message."
-    publishedDateTime: 2020-09-25T03:59:00Z
-    webUrl: "https://ktiv.com/2020/09/24/minnesota-governor-activates-national-guard-for-pence-visit/"
-    type: article
-    provider:
-      name: KTIV
-      domain: ktiv.com
-    quality: 55
-    images:
-      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/4/2018/08/21141516/AP.jpg"
-        width: 950
-        height: 534
-        isCached: true
-  - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
-    excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
-    publishedDateTime: 2020-09-26T03:10:00Z
-    webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
-    images:
-      - url: "https://stmedia.stimg.co/1601076390_19535581+1mndt092620.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://i.insider.com/5f7440b10ab50d00184ad31a?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
+        isCached: true
+  - title: "Texas Christian on Trump: 'he sounds just like me'"
+    excerpt: "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T"
+    publishedDateTime: 2020-10-01T15:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Donald Trump sidesteps call to condemn white supremacists — and the Proud Boys were 'extremely excited' about it"
+    excerpt: "Debate moderator Chris Wallace asked if Donald Trump would urge groups to stand down and avoid contributing to the violence. He sidestepped."
+    publishedDateTime: 2020-09-30T12:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/trump-debate-white-supremacists-stand-back-stand-by/3583339001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3583339001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583339001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/615b05e1-ec70-40f4-99c5-e7bec4e73719-AP_Election_2020_Debate_2.jpg?auto=webp&crop=5180,2914,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump has repeatedly been endorsed by white supremacist groups and other far-right extremists, and they've looked to him as a source of encouragement"
+    excerpt: "Trump's refusal to explicitly condemn white supremacist groups during Tuesday night's debate follows a similar pattern."
+    publishedDateTime: 2020-09-30T21:40:00Z
+    webUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5f74dd1974fe5b0018a8e56a?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Trump Condemns ‘All White Supremacists’ and Proud Boys After Days of Odd Comments"
+    excerpt: "President Donald Trump condemned “all white supremacists,” including the Proud Boys during an interview with Fox News host Sean Hannity on Thursday night. Trump’s remarks come after days of odd comments from both him and White House press secretary Kayleigh McEnany,"
+    publishedDateTime: 2020-10-02T13:01:00Z
+    webUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/"
+    ampWebUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Hannity-09_40_28-PM-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "vvDlOdYmI2Gtmyn9lIfARI9iIWzB++xTmleeBCGx5iCYlIoMrFsshzs4YTQVCSdE872wtQTd++CsQhkLPvacq1kjtgdhDUoOw/qAH2zjYxpGs2tzuNbBd86NYl/Dr9fz+29JbUHvsW2OA1M1Vhh0UeP9XXg/OQcvQDmdRf9ZhNGpIJo+Vm9Q6O2jA+PPQ2m4gk3kc0HNmpjQstXBho61jBjyya2D7j8Q4EYW4bkbNGKnAWlCStQFlvuHfFYD3q4m2ADQRGVafMrsBFuoLf5CYredRPGda5G6D9rFO/c2BFkEyEFp729tvRoCIpjzbyQ5PV0Os+nW2lMj6TZ7laZBIHkrhe+1kO3azBTK4k52hWc=;qrd1ooJ9TNJyyUe51O6xfg=="

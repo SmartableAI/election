@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
 type: article
 quality: 125
-heat: 645
+heat: 625
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence tests negative for Covid-19"
-    excerpt: "CNBC's Eamon Javers reports on Vice President Mike Pence's negative coronavirus test and former FDA commissioner Dr. Scott Gottlieb offers insight into how the White House may proceed with screenings and testing."
-    publishedDateTime: 2020-10-02T12:18:00Z
-    webUrl: "https://www.cnbc.com/video/2020/10/02/vice-president-mike-pence-tests-negative-for-covid-19.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 105
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106679939-1598497365582-abcc.jpg?v=1598497410"
-        width: 1041
-        height: 694
-        isCached: true
   - title: "Pence returning to Iowa"
     excerpt: "Vice President Mike Pence will return to Iowa on Oct. 1 to speak at 'Faith in Leadership, America's Need for Revival.' It will be his fifth visit this year."
     publishedDateTime: 2020-09-25T01:29:00Z

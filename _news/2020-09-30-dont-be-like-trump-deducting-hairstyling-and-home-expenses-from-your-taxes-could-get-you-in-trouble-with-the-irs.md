@@ -31,36 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Texas Christian on Trump: 'he sounds just like me'"
-    excerpt: "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T"
-    publishedDateTime: 2020-10-01T15:33:00Z
-    webUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf"
+  - title: "Trump has more in common with Lincoln than you might think"
+    excerpt: "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since."
+    publishedDateTime: 2020-10-02T17:41:00Z
+    webUrl: "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think"
+    ampWebUrl: "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trump_lincoln_08042020_1.jpg"
+        width: 980
+        height: 552
+        isCached: true
+  - title: "Pandemic overwhelms Trump's message in critical N. Carolina"
+    excerpt: "President Donald Trump is fighting to fill a Supreme Court vacancy, howling with unsubstantiated claims of voter fraud and warning that violent mobs are infiltrating the suburbs."
+    publishedDateTime: 2020-09-28T06:44:00Z
+    webUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray"
-    excerpt: "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals."
-    publishedDateTime: 2020-09-29T17:49:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 81
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "rLNksJTcS3yPdZHH0znAZLX3H0rTIRDK40LekFkxpfl5zqMactQpyA9V/WgkfRBi/VI6+gYJ16x0WmAWO7CtfC6iXmBrU9Otgkc4jmeesDmchkoEtl6Z2xKNNWQw5CambYB6XmnV8kefKU8TKo9kp3VfdQslHI1FlWHX2QufBsIIXT7KA/QipPVaI0rFsCDvaHydnUeiB08Zt4e35Ip67/ZMXa+MBXbpq7RFIlZ5lFp/hdAkwKBQmi7UENO0Up+qJ8hS7K1t7FVBk26xns72hyzNnmUaLaW34MOQVn91PYnv1jGxorI0O5D1ik7uRehANpCWSS4fs+2OYdM2FIelGJxwgnvt7cYmdRGw3usLpA8=;IqEqZrqWk3FbeV3qV3tfwg=="
 ---
