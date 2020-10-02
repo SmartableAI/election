@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/02/trump-may-have-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/02/trump-may-have-serious-risk-factors-for-covid-19-complications-health-experts-say/amp/"
 type: article
 quality: 118
-heat: 158
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Was in Maskless ‘Close Contact’ with Dozens of Donors After Hope Hicks Got Covid-19 Symptoms"
-    excerpt: "President Donald Trump was in \"close contact\" and not wearing a mask while interacting with \"dozens\" of donors and others in the hours after Hope Hicks developed symptoms of COVID-19."
-    publishedDateTime: 2020-10-02T11:27:00Z
-    webUrl: "https://www.mediaite.com/news/trump-was-in-maskless-close-contact-with-dozens-of-donors-after-hope-hicks-got-covid-19-symptoms/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-was-in-maskless-close-contact-with-dozens-of-donors-after-hope-hicks-got-covid-19-symptoms/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-was-in-maskless-close-contact-with-dozens-of-donors-after-hope-hicks-got-covid-19-symptoms/amp/"
+  - title: "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID"
+    excerpt: "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result."
+    publishedDateTime: 2020-10-02T14:34:00Z
+    webUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855"
+    ampWebUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 61
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1216200704.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "What if Mike Pence gets infected? White House COVID-19 outbreak could set off constitutional chaos"
-    excerpt: "NBC News reporter Ken Dilanian laid out the possible chain of events if Vice President Mike Pence also tests positive for the coronavirus. President Donald Trump announced that he and first lady Melania Trump had been infected, along with senior adviser ..."
-    publishedDateTime: 2020-10-02T11:44:00Z
-    webUrl: "https://www.rawstory.com/2020/10/what-if-mike-pence-gets-infected-white-house-19-outbreak-could-set-off-constitutional-chaos/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/what-if-mike-pence-gets-infected-white-house-19-outbreak-could-set-off-constitutional-chaos/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/what-if-mike-pence-gets-infected-white-house-19-outbreak-could-set-off-constitutional-chaos/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
-        width: 800
-        height: 412
+      - url: "https://d.newsweek.com/en/full/1644994/speaker-house-nancy-pelosi.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "phj8QJh8CfIwBBgAWorZuSx+RHw9ku2zr1IYc/DvuKBD9pxMpUf1lLZENUGrpiBlmgq04wmItTLwyZ7f8fkwJnS7C9GVDlCFx9q9kPLn7yvI3xdHL1ml8TgeIO+AerDTwAzEkNv9Ka1u+aayz5mNee8SXM0vJ2JHdNzGOLTy+uAnjh7eTqsZtmdvfVqHdjJF8ijnRBIkz7X2IDWWH1M6FR+rBPI0hwajdnO1AeZIONMVCjgufqORcdQu0/oRUNzxJBvsLDyRATqBEyJUBFAXplvQSJ5Sfw/AZK6JOC6oZEt8FIqiWuznqZKF4eojOqX9UHd1D5R9+9V/HjBqrvTbTP8W+FLXaMlL7L8yoy2hNyw=;1SnRWT850dqVypCuZ3xs4A=="

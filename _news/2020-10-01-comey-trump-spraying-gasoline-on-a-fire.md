@@ -29,37 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Jeff Daniels On Donald Trump And Becoming James Comey In ‘The Comey Rule’"
-    excerpt: "We hoped that it would be okay. He’ll have ten guys around him who won’t let him do anything crazy. That’s where the country was in 2016. Well, those ten guys are gone. And now look where we are.”"
-    publishedDateTime: 2020-09-24T22:03:00Z
-    webUrl: "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/"
-    ampWebUrl: "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/"
+  - title: "Commentary: What happens if Trump is ‘unable’ to govern"
+    excerpt: "For some imaginable health outcomes, especially those associated with COVID-19, the 25th Amendment is ambiguous."
+    publishedDateTime: 2020-10-02T21:34:00Z
+    webUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html?outputType=amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 124
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cbe4b325b91c6fcc8a873%2F0x0.jpg"
+      - url: "https://www.chicagotribune.com/resizer/-lhwol4kj9AqzQiaSHRO5HEJYCg=/1200x0/left/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7IK6LRFWZBWDJ7GPE4AA2QZJY.jpg"
         width: 1200
-        height: 799
-        isCached: true
-  - title: "Trump's draft memo firing James Comey was 'tinfoil helmet material,' according to a former Mueller prosecutor's upcoming book"
-    excerpt: "The memo was \"incoherent\" and \"you could almost feel the spittle coming off the paper,\" according to Andrew Weissmann's new memoir."
-    publishedDateTime: 2020-09-28T21:52:00Z
-    webUrl: "https://www.businessinsider.com/trump-memo-firing-comey-tinfoil-helmet-material-andrew-weissmann-book-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-memo-firing-comey-tinfoil-helmet-material-andrew-weissmann-book-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-memo-firing-comey-tinfoil-helmet-material-andrew-weissmann-book-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5f72417d74fe5b0018a8dd62?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+        height: 800
         isCached: true
 
 secured: "ViFVui4G16pLwcwAH8Q70B/7o+/mAECnMdlEjjKYOWLszLJ0oMdR1ap6ZfNEiTv3QrYibbq9QbMIuD4qaK8wN3dKNlEWirIl30yl040ueHt+sBYtpT/shpcs3Yel2zhAQfODx37Tlftl5+ooYFf7XqQoNuTE7JMGPUN3+kaoEkBLr3WryL9bhWWwj1wbGD4MFZgIcChFTG+9OCoDl0W4YqmXVShgzC6T3rH9CIg8X23U7ECxJWJZcB2uETndZT2TNtdTqN8L8skUGq5LlbHN5jm7kAJWtJH5Bq/oCLDnR7rvxSNYx5vn0KnWxYkl2adxYC+D2HGVrNEHMgActFyrOUAg557b95PmUjsGu+edRZQ=;Dd3AOAwUusmr0XxACDjVSQ=="

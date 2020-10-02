@@ -763,6 +763,22 @@ related:
         width: 1440
         height: 974
         isCached: true
+  - title: "Trump hit with COVID-19: Anyone can get sick. Anyone can spread the deadly disease."
+    excerpt: "As we surge towards a quarter-million COVID-19 deaths, some Americans believe prevention strategies like masks are not worth it. They're wrong."
+    publishedDateTime: 2020-10-02T21:36:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/02/trump-get-covid-stark-reminder-weve-all-vulnerable-column/5895932002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5895932002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5895932002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ef4e9e12-fc35-4735-b7c5-3b2479d78a8e-AP_Election_2020_Debate.jpg?auto=webp&crop=4802,2701,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pelosi on possible second Trump impeachment in lame duck session — ‘We have our options’"
     excerpt: "House Speaker Nancy Pelosi on Sunday did not rule out impeaching President Trump or Attorney General William Barr if the Senate tries to push through a Supreme Court nomination during a lame-duck session if Joe Biden wins the November election."
     publishedDateTime: 2020-09-20T21:46:00Z
@@ -1112,6 +1128,20 @@ related:
       - url: "https://i.insider.com/5f6faea274fe5b0018a8da9a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump to be moved to hospital for treatment after COVID-19 diagnosis"
+    excerpt: "U.S. President Donald Trump is moving to a military hospital for treatment after being diagnosed with COVID-19, a White House official said on Friday, as his administration and election campaign scrambled to adjust to an extraordinary twist in his turbulent presidency."
+    publishedDateTime: 2020-10-02T21:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN26N0K4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201002&t=2&i=1535828951&r=LYNXMPEG910W2&w=800"
+        width: 800
+        height: 533
         isCached: true
   - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
     excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."

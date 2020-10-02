@@ -142,6 +142,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Who Came in Contact With Donald Trump When He Was Potentially Contagious?"
+    excerpt: "President Donald Trump announced early Friday morning that he and first lady Melania Trump had tested positive for COVID-19. The White House has indicated that the Trumps were likely infected by senior aide Hope Hicks,"
+    publishedDateTime: 2020-10-02T15:51:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/10/trump-contact-coronavirus-biden-debate-list.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/10/trump-contact-coronavirus-biden-debate-list.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/10/trump-contact-coronavirus-biden-debate-list.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 84
+    images:
+      - url: "https://compote.slate.com/images/50759b2d-f632-4b4e-a34b-9f82a30c64df.jpeg?width=780&height=520&rect=4978x3319&offset=0x0"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "oy1ZpCZzDJJ7rU95KRyNJq602FTdppc3PrZu5c33gSQB6ciSjLq21gl0pKy/WIqfRvvhYhoubK7sUtSfApI/24jiBuxUDYZbXo3kR+VHJwu0vqQCkYnvS0Tm4kr/3uvWJufWrolRk2a0xVxnApRTUOGtcWenZoT2A4nlg/LSPr1qbKdznlFnQIqnM72bo0f5YEwhx2XVtmMYFXEluH1ybfT2DHTcMVXvx1K49IP48GCDz9GJqexWfImlVZzr28utCO82WTIzMHPCdbHFGn8GFFM3FQWTbW60KdTIP0CSAySJbmAXXyEEg3s9MMA57Ds1eb/1XmOEPN02eZgfG2YhlaBjNqIHiYUaPrJ39fNPCoOcLVmGAldL/KEnQYE5/h/b4J4/iCTVI5NY8sitKnZXgubYFot9JlEptJmzbZbdJPCPSFV4bn+zvxuRMlMmOJKkMhQjueTnb7Qj4olqwBEc84dBJzz5iK2NdsbtPGwhGchtxDKp/xg24c/osRnL9VFWwi28PLH+tLPd/gZNlXPXNQ==;WoeJs2aAdRcqfF1pBPccqw=="
 ---

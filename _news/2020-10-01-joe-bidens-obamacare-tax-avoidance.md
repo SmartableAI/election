@@ -32,20 +32,36 @@ images:
     isCached: true
 
 related:
-  - title: "Biden-Schumer-Pelosi would do more damage in 2 years than Obama did in 8: Ted Cruz"
-    excerpt: "A “Biden-Schumer-Pelosi government” would be a “nightmare,” Sen. Ted Cruz, R-Texas, said on Thursday as he encouraged Republicans to vote in the upcoming elections.  "
-    publishedDateTime: 2020-10-01T17:22:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp"
+  - title: "Sanders to host socially distant rally for Biden in New Hampshire"
+    excerpt: "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. "
+    publishedDateTime: 2020-10-02T21:16:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire"
+    ampWebUrl: "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
-        width: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Sanders-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters"
+    excerpt: "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church"
+    publishedDateTime: 2020-10-01T17:10:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289"
+    ampWebUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 80
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
+        width: 650
         height: 340
         isCached: true
 

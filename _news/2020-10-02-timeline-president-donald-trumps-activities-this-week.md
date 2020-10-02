@@ -671,6 +671,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President Donald Trump going to Walter Reed medical center"
+    excerpt: "President Donald Trump will be taken to Walter Reed National Military Medical Center, according to the White House.\n    \n"
+    publishedDateTime: 2020-10-02T21:47:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TNOHTVNrNYc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002092919-03-trump-1001-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z
@@ -1790,6 +1806,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416725/201001-debate-cleveland-donald-trump-se-255p_d911b5232e10e9c23968f4be3a3d9468.jpg"
         width: 2500
         height: 1676
+        isCached: true
+  - title: "The Tragedy of Donald Trump"
+    excerpt: "Last week, just two short days before Donald Trump tested positive for the coronavirus, several of my colleagues wrote a story about the early days of the pandemic, and the strong global public health consensus at the time that open borders and free movement of peoples should not be suspended,"
+    publishedDateTime: 2020-10-02T21:16:00Z
+    webUrl: "https://www.nytimes.com/2020/10/02/opinion/donald-trump-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/opinion/donald-trump-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/opinion/donald-trump-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/02/opinion/sunday/02Douthat/merlin_177934623_3abbd24e-350b-4868-b420-f69baa303428-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump just became Exhibit A in the case that he failed on coronavirus"
     excerpt: "Now the president has to square his assertion that he tamed the crisis with his positive test and an economy showing slower signs of recovery."

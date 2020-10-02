@@ -745,6 +745,22 @@ related:
         width: 1158
         height: 773
         isCached: true
+  - title: "Live updates: Trump tests positive for Covid-19"
+    excerpt: "A White House official told NBC News that Trump is experiencing \"mild symptoms.\" Trump becomes the latest world leader to be diagnosed with the virus just weeks ahead of the election and in the midst of a busy campaign schedule for him and Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-02T21:23:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416982/201002-donald-trump-melania-trump-ew-956a_cb5d986f4bf0c016415535cb244a4ef3.jpg"
+        width: 2500
+        height: 1584
+        isCached: true
   - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
     excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."
     publishedDateTime: 2020-09-22T08:36:00Z

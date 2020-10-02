@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp"
 type: article
 quality: 169
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Joe Biden’s ObamaCare Tax Avoidance"
-    excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
-    publishedDateTime: 2020-09-30T22:53:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-238687/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "g4ejjqMPPpsBNpgzdR2pPgOl77COf5RW1m+44XmAm0aHsZN458CIlHVG3D+XO78RFeW4+5by26eeAFxqIPsW+DFw3YgM6zf3/OL4QeUtCtO0xabvWjdCBmJvdjC5xFo6udKg0gMxBU3AFuo4ClOyMnPxlkEhEEnIzj/K9JRDjfAfCXyM8HvpKUNOd+WbeCs1f0otZ9elC88ag0wthth8/+dY6J98MJxyt/DEMRylcHNQIjP1q6LLGfRclK+jOBgKNCnULiByxjb2qljYExuhLh5zhQsGVNP9VQacC/lA5V+A4bgv0oo9NW+2RfCkXSahzKOTAb2QC4nEAlXjcNWcpv5kOnUxLElF/ys0gKLQxRw=;pBik2yYOWhQ7RWMXt+rkCQ=="
 ---

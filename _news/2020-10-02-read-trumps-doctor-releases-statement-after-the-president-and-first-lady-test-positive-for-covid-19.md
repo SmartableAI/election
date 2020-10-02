@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "An 'exhausted' Trump's long path to coronavirus "
+    excerpt: "When President Donald Trump stepped into the dining room of his golf club in New Jersey on Thursday, high-dollar attendees gathered for a fundraiser there thought he seemed a little off.\n    \n"
+    publishedDateTime: 2020-10-02T21:44:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/alEIB7jj-64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002142052-02-trump-melania-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: This Republican senator is the early leader for worst take on Trump's coronavirus diagnosis"
     excerpt: "Hours after President Donald Trump announced that he and his wife, first lady Melania Trump, had tested positive for Covid-19, Georgia Sen. Kelly Loeffler decided that the world needed to hear her take on the matter.\n    \n"
     publishedDateTime: 2020-10-02T15:39:33Z

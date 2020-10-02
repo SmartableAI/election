@@ -155,6 +155,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Kamala Harris Wishes Donald Trump a 'Full and Speedy' Recovery From COVID"
+    excerpt: "Following the president's announcement that he tested positive for COVID-19 on Thursday, Kamala Harris has wished him and the first lady her well-wishes."
+    publishedDateTime: 2020-10-02T14:37:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-donald-trump-covid-coronavirus-1535960"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-donald-trump-covid-coronavirus-1535960?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-donald-trump-covid-coronavirus-1535960?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 149
+    images:
+      - url: "https://d.newsweek.com/en/full/1645144/kamala-harris.jpg"
+        width: 1024
+        height: 703
+        isCached: true
   - title: "White House says Trump 'not incapacitated,' working from isolation; Pence negative"
     excerpt: "The White House tried to reassure Americans on Friday that President Donald Trump was still working from isolation, after his bombshell announcement that he had caught the coronavirus threw the administration and presidential election campaign into uncertainty."
     publishedDateTime: 2020-10-02T15:14:00Z
@@ -1465,6 +1481,20 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "VP Mike Pence claims he was with President Trump in Oval Office hours before debate"
+    excerpt: "Vice President Mike Pence, at a debate watch event in Lititz, Pa., on Tuesday, says he met President Trump in the Oval Office just hours before."
+    publishedDateTime: 2020-10-02T20:35:00Z
+    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/ae72be46-bc69-48a1-b5be-e5285dad28f3-AP_APTOPIX_Supreme_Court_Barrett.jpg?quality=10"
+        width: 4363
+        height: 2909
+        isCached: true
   - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
     publishedDateTime: 2020-10-02T15:23:00Z
@@ -1639,6 +1669,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "8CvGMAmJjWVpe0MeXfWOrSTKoppO38zV7leU9+W5HNXVeIjKhx/gXb3SfNW7HtojrTm+EjUXagoHRL2Qcxt7ePYP99VMIB3n5dxUtzgAUQ64xp9wcA0Tc14kFUFB+jeLo6x+1mA78YiAODgwSmKLV+a0j6CaFMXuYDbsQSeVpKgjNqkzYqZ2aFXL+aJUX7rehp+sz9Bw7hhdGG15uirNDPunXZgRRJjGDIiU8HziC5P4tbiaj5GNb55vG+LDneRSEZJU+aw0Wx2WTp61TNX4ussdd2aGFokTcBUMU+5qlWFv2ARzgYBaStYbDj65nqPlGLWgZx1jgUy5nfIpgP00StLf9q9pg4BABbY1WYZJ17I=;4ldk/1SK26NqXzCRrq+v3g=="
+secured: "LTNOyRufoq0z5IA1TM9EP/Wh03EppBibGhgElpJ+BLEiLkNCh1eljTlPHWH92x8aEdtTCC43/gHymfUQARJXs/fb0vb4r3jss+VQxmV6qhjpkt/zuEoLl5aC2OL41ZbgnHngVE7iDZMBWedppvyaR6SGRvIR1n1FYaFv7HXxCO6c2o/TUzQDhcFOg562D0bLg9aDVtSVuK65dKzTVYqERHEtiW5I0sZow+OaD6HptxkBtPc0KejT3TixQ6m+S+8PdHhUp0aDfHM3qokxFA6Y2MO7u5lBLUGmm3RjPZCxgspLQxMtkn9g9w0F31UQ/LE9s/pvuU6lLeI+rXt9ZMGNHZSC8IjNkEHviFsMbu8/ltyScUZN2wjyqUI/Vxv32n6bk9MkH4fYXKIgevF5mCbRDmIktLgY5dGypVP73eWR9CzZ2TBl4nDsKiD60CIWGOJf2a9cM7EszjqslMmIt3FWvv+yJlTgySL+iW3ulB5/50Joz2QD3Mbf/hP+sepYT9k0J1jPFzR7duzBRXAjsnQKSA==;fdJAU0mitX2fisDqw8tp5w=="
 ---
 

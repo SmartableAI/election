@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-joe-biden-legal-team
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-joe-biden-legal-team-election-20200915-7ptubhfb6jcwbksheopc2fi34q-story.html?outputType=amp"
 type: article
 quality: 140
-heat: 460
+heat: 480
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/3klB_ohaCYH1f4gIIiP-Y5AgQ1k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZXPD4QA7XRDLHD6VHHG5ZO25OU.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Where Is Joe Biden On Public Education?"
+    excerpt: "Joe Biden’s education positions have been evolving back and forth across the educational landscape, to the point that one has to ask where, exactly he stands these days. Candidate Biden offered ..."
+    publishedDateTime: 2020-09-12T19:54:00Z
+    webUrl: "https://www.forbes.com/sites/petergreene/2020/09/12/where-is-joe-biden-on-public-education/"
+    ampWebUrl: "https://www.forbes.com/sites/petergreene/2020/09/12/where-is-joe-biden-on-public-education/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petergreene/2020/09/12/where-is-joe-biden-on-public-education/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5d216e8e86f0c2e6ef8e58%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Watch Live: Joe Biden to deliver remarks on wildfires"
     excerpt: "Joe Biden is speaking from Wilmington, Del., on Monday about the wildfires in California, Oregon and Washington.The event starts at 12:45 p.m. EDT. Watch the live video above."

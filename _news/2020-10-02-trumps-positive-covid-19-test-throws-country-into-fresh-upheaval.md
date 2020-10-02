@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://media4.s-nbcnews.com/j/newscms/2020_40/3416833/201001-hope-hicks-2018-ac-842p_58ccf042fc6d35570ea1522bae16016e.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Who Came in Contact With Donald Trump When He Was Potentially Contagious?"
+    excerpt: "President Donald Trump announced early Friday morning that he and first lady Melania Trump had tested positive for COVID-19. The White House has indicated that the Trumps were likely infected by senior aide Hope Hicks,"
+    publishedDateTime: 2020-10-02T15:51:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/10/trump-contact-coronavirus-biden-debate-list.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/10/trump-contact-coronavirus-biden-debate-list.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/10/trump-contact-coronavirus-biden-debate-list.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 84
+    images:
+      - url: "https://compote.slate.com/images/50759b2d-f632-4b4e-a34b-9f82a30c64df.jpeg?width=780&height=520&rect=4978x3319&offset=0x0"
+        width: 780
+        height: 520
         isCached: true
 
 secured: "O3KGPJnp+mETFPeFti6asxw2Axql22nmL6yu4uopwlsKpkHrGVo13yJ3hB4NX5lTsV/ZWTCFki2sOc7U4KBHur9cbPBmqhwETbHRLRSPYuVC7sn6HW6rwpLBin0+DLeEYzWfjEvT7AaZKQtinh7alA78kiBBC+ODiVu+N8nY6GgQ8EuuJjZI0D2HxUBtqqVpdnnj7f0/MOSGemgH2cKwu82a7ady2B++7khMIjTf0NYJKcOBZBlcwNpyc8JXTedAAkip6wUv6wcwZzbCsJtQeG8bU98TyR/ydf4GApLNdYx2SXLFMmdQXyUnyvHCgFVcrQcBFjhOTOzM/iJTg81rmHN1oP/1oyREBMp5yROyyCU=;wV5GeGranuOKu1Z1TGe77g=="

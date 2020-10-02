@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 4125
+heat: 4145
 published: true
 
 provider:
@@ -2365,6 +2365,22 @@ related:
     quality: 143
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign calls out second debate moderator who interned for Biden, worked for Ted Kennedy"
+    excerpt: "The second debate between President Trump and former Vice President Joe Biden will be moderated by a former intern for the latter."
+    publishedDateTime: 2020-10-01T23:29:00Z
+    webUrl: "https://www.foxnews.com/media/moderator-for-second-presidential-debate-interned-for-biden-worked-for-ted-kennedy"
+    ampWebUrl: "https://www.foxnews.com/media/moderator-for-second-presidential-debate-interned-for-biden-worked-for-ted-kennedy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/moderator-for-second-presidential-debate-interned-for-biden-worked-for-ted-kennedy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88600ec3-e5bf-4f6b-a350-056b34ddd34c/eca2b18a-d874-444a-8cfb-5d68829fdc5e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

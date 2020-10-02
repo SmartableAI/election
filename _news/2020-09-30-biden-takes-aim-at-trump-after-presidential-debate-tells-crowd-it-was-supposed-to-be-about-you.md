@@ -2385,6 +2385,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign calls out second debate moderator who interned for Biden, worked for Ted Kennedy"
+    excerpt: "The second debate between President Trump and former Vice President Joe Biden will be moderated by a former intern for the latter."
+    publishedDateTime: 2020-10-01T23:29:00Z
+    webUrl: "https://www.foxnews.com/media/moderator-for-second-presidential-debate-interned-for-biden-worked-for-ted-kennedy"
+    ampWebUrl: "https://www.foxnews.com/media/moderator-for-second-presidential-debate-interned-for-biden-worked-for-ted-kennedy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/moderator-for-second-presidential-debate-interned-for-biden-worked-for-ted-kennedy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88600ec3-e5bf-4f6b-a350-056b34ddd34c/eca2b18a-d874-444a-8cfb-5d68829fdc5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Team Biden expects Trump to 'lie through his teeth' at debate, downplays showdown's impact on race"
     excerpt: "Team Biden says they expect President Trump will “lie through his teeth” at the first presidential debate between the two nominees, while downplaying the significance it could have on the race as Trump and Democratic nominee Joe Biden face off for the first time next week."
     publishedDateTime: 2020-09-23T15:52:00Z

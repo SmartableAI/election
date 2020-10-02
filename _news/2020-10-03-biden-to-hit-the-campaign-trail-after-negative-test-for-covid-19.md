@@ -287,6 +287,22 @@ related:
         width: 4475
         height: 2977
         isCached: true
+  - title: "Vice President Mike Pence to continue campaigning while Trump quarantines after testing positive for COVID"
+    excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
+    publishedDateTime: 2020-10-02T21:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892854002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump begins quarantine as close aide Hope Hicks tests positive for coronavirus"
     excerpt: "Hope Hicks, a close adviser to President Trump who traveled with him several times this week aboard Air Force One, has tested positive for the coronavirus, a senior administration official confirmed Thursday."
     publishedDateTime: 2020-10-02T05:53:00Z
@@ -447,6 +463,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Now that Trump has COVID-19, will shoppers be more compliant with mask mandates at stores?"
+    excerpt: "With President Donald Trump testing positive for COVID-19, will shoppers be more willing to mask up before heading into stores?"
+    publishedDateTime: 2020-10-02T21:29:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/10/02/trump-coronavirus-mask-mandates-consumer-compliance-resistance/5893316002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5893316002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5893316002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/eb69e2d4-d811-4488-894a-9373d66ee7d6-trumpmask.jpg?auto=webp&crop=4825,2714,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump, Melania tests positive for coronavirus, president vows to bring quarantine 'immediately'"
     excerpt: "The revelation Trump and first lady Melania Trump tested positive for coronavirus came after a top aide announced she also had a positive test result."
     publishedDateTime: 2020-10-02T05:04:00Z
@@ -573,6 +605,17 @@ related:
         width: 1041
         height: 694
         isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive for COVID-19"
+    excerpt: "U.S. President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-02T20:21:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idINKBN26N0SM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26N0SM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26N0SM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z
@@ -629,6 +672,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f9c98f2a-76c0-49ad-9597-929b4bf1dc43-VPC_TRUMP_COVID_POSITIVE_DESK_THUMB.00_00_00_00.Still001.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump will go to Walter Reed Medical Center for a 'few days' after testing positive for COVID-19, developing a fever and cough"
+    excerpt: "The president is on his way to the medical center to perform tests and will remain there for a few days, according to the White House."
+    publishedDateTime: 2020-10-02T21:37:00Z
+    webUrl: "https://www.businessinsider.com/trump-walter-reed-medical-center-hospital-covid-fever-cough-19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-walter-reed-medical-center-hospital-covid-fever-cough-19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-walter-reed-medical-center-hospital-covid-fever-cough-19-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5f7799872400440019129ca3?width=1200&format=jpeg"
+        width: 1102
+        height: 551
         isCached: true
   - title: "Daywatch: Trump tests positive for COVID-19, inside Democratic Speaker Michael Madigan’s job machine and a guide to the Midwest’s fall foliage"
     excerpt: "Late Thursday night, President Trump tweeted that he and Melania Trump tested positive for COVID-19. Earlier in the evening, Trump said that he and the First Lady were beginning the “quarantine process” as they awaited their test results after one of his closest aides,"
@@ -776,14 +835,14 @@ related:
         isCached: true
   - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
     excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
-    publishedDateTime: 2020-10-02T12:42:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5892854002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5892854002"
+    publishedDateTime: 2020-10-02T16:25:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892854002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
@@ -830,6 +889,6 @@ related:
         height: 1369
         isCached: true
 
-secured: "EfNmYqj6PfCbRNz/MJOuOli+Cyr19XQi0zKL7fLl127IGZpxQUwWPZQpw5QbPt0KT5TqUuhVPezOS+VHw4SOGGVpBer8EdyNzDus7CLr9k7bMQ6Yg9+zq0oo4XRFynXHwaIeoPGF4T5JyV/Ygir62iH1XTJ8zbQ047gw5PC/YZfH8FCOpJsj57Ikp8fxtnCosNAqq3xGCZ/NeL1+79YM+UeFb2Nv4+NtfPjmjV7liXggQlPGW6ERrG0scz4G/XJNmfMqjXHXE3JD8FSdujdpu4h3pEAyay2Lt4QTyctEW+d6NVzJVltIsAzBCOF49knlMWyKFfcsVwX0nNcxuB65k+UWZuaAtmSUkvytaL0oDps=;w1+0sKOF5tIGQqWU/ovNCQ=="
+secured: "7afIwNebplTP6TTArVMY6o8cWqIDxBs81AMvcVQEA22sTLjDJINF5x2uk13ZrchP4aZm6TuXBRHcC8Q8nGYVKMlj+w9PNKRahmuKqIgGcWrjGgC46HrO+nk6kQOeXelMJwXw60exR7w/oSEY54k5Ouzd9P8uA6bVnVDb3qG9ku9ZQL3/gfpBJ2X76GCu5C2FvT06MSBGTMWo6W99YUxKYLYkpCyzndv+D7mcu6XzgCtVOQzpgA2ZYCOMXLUcnODi6jIvewNwnjthy9jBshdPHaBNzNsr5thK+T8CNJXfuz8V3iELW3Fa/+FNOCLTRpKvOO0o7F94VykkGeJnGuvWrmjyAvsTpBoijKoNUkrOzLQijjgiqkgLu6YCWbl8a2iY8tdkQy3QSfC926hG1OYjKw2S42Q57R1r4UJF5wqKeXsN0Is7uLuqLKf7u010eUxXsMLnQEELdChI6qFeRmre5RnbJIAuwb/7mgUWRMc7NJa1HnMCSoCmyFiehDhjs/eu4fYTMlMUhACzcqsiOgpeNQ==;Je74Vgqr257eteagTCUapQ=="
 ---
 

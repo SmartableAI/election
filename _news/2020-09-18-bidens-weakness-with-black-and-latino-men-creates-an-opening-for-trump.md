@@ -430,6 +430,22 @@ related:
         width: 4554
         height: 3034
         isCached: true
+  - title: "Does Biden Need a Higher Gear? Some Democrats Think So"
+    excerpt: "“Joe Biden is working to earn every vote with a groundbreaking campaign that meets this moment,” said Andrew Bates, a Biden campaign spokesman. “And he’s doing it in the way he would ..."
+    publishedDateTime: 2020-09-17T09:44:00Z
+    webUrl: "https://www.nytimes.com/2020/09/17/us/politics/joe-biden-campaign.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/17/us/politics/joe-biden-campaign.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/17/us/politics/joe-biden-campaign.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/16/us/politics/16Biden-campaign1/16Biden-campaign1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "The Biden Campaign Isn’t Door-Knocking. Don’t Freak Out."
     excerpt: "The idea behind deep canvassing is that people are more responsive to emotions than campaign issues, so persuasion requires getting them to open up about their lives and those closest to them. A well-trained deep canvasser,"
     publishedDateTime: 2020-09-18T09:07:00Z
