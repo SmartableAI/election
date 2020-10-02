@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capito
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html"
 type: article
 quality: 174
-heat: 294
+heat: 274
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://static.politico.com/fd/20/809079974eb989686ded0ecfc336/gettyimages-1228692602.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
-    excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
-    publishedDateTime: 2020-10-02T00:52:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/hope-hicks-top-trump-adviser-who-flew-him-debate-tests-n1241751"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 109
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2020_40/3416833/201001-hope-hicks-2018-ac-842p_58ccf042fc6d35570ea1522bae16016e.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "hr+bSAMK7KQjh7BrfvneAOaK2I8oft2WbMZVUiKpITkjZZFV86jaNF54WKw4V/LID2QIUCib+djTPSOqPvXL7jKABanMYKFIBCzHj8NVw9CGfJmgr9lghgYOpFpUyEmBbiDTOKHJlRoqCQQd+1hudGhZVMdIDnqxkPoHtvzj/fp4JN99EAelVbsWCQPJLkHcV/iuQ+N+5G04jbsap6V5e2kC2RuVr8faY1oDT2eWRVY35My5eJh10q0rumDXI/D3cFvFMWNmMtFdPFXg/oIWl46qxgs9+fhGMq2AJNzb9/quEp6GujX2CzSqK5jELD5Ba4KjC3Ff6wmcKnv8oo/5KOzJcTAXChTV9I3Gfl2TCho=;ZPGwLqXBFvxe/fCBLZxHhg=="

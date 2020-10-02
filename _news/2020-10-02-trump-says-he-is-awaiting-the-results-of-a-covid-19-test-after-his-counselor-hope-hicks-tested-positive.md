@@ -1,0 +1,69 @@
+---
+category: news
+title: "Trump says he is awaiting the results of a COVID-19 test after his counselor Hope Hicks tested positive"
+excerpt: "Hicks reportedly traveled with President Donald Trump on Air Force One to and from the first debate on Tuesday."
+publishedDateTime: 2020-10-02T09:07:00Z
+originalUrl: "https://www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10"
+webUrl: "https://www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10"
+ampWebUrl: "https://www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10?amp"
+type: article
+quality: 109
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://i.insider.com/5f76721b74fe5b0018a8e9e8?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "Trump Is 'Single Largest Driver' Of Covid-19 Misinformation, Cornell Study Finds"
+    excerpt: "Misinformation about the coronavirus is a pressing threat to public health, and according to researchers at Cornell University who analyzed over 38 million articles about the pandemic published in English-language media around the world,"
+    publishedDateTime: 2020-10-01T17:03:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/01/trump-is-single-largest-driver-of-covid-19-misinformation-cornell-study-finds/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/01/trump-is-single-largest-driver-of-covid-19-misinformation-cornell-study-finds/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/01/trump-is-single-largest-driver-of-covid-19-misinformation-cornell-study-finds/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 120
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f760a8f471ab63c7148ab4f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5765%26cropY1%3D292%26cropY2%3D3537"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
+    excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."
+    publishedDateTime: 2020-10-02T07:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-diagnosis-election-impact-running-out-of-time-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-diagnosis-election-impact-running-out-of-time-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-diagnosis-election-impact-running-out-of-time-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5f76cfb974fe5b0018a8ea08?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "G0OBX4loeFtS17GHBD+IUH4X8jyf8iiOgoC2olaRTDdinK6cuzhr9umKKZU/cZv93Js+DNpuvLf34SyQbJL8zOHk17/woWTqeegFs0T77Bt5HtO0Dt9NQqlEswodN9QDGbCjVr8l723V0GgfxC2kKmA6a3GM2tUIbGkYjgS6SAKJbZFm1esc9moflh8SrYBfUl5+5cjZxywzaNoiPfLZUy8onga0tYQbPZB4WAeKlXaOkvhzvX0gPS98wAZuVP8QEFo+ZtaUiIwHVxghHXD+bNF6eWM731Mdd/Ds/pw6JUA/QTaODkqb+g+Ylfd0yV81pd6ZGZ3zpiNrUoWQiofOUWWWRcpy3MBwm14S+kB6SZE=;S/1bGvV/Sktyz3XQQZeKaw=="
+---
+

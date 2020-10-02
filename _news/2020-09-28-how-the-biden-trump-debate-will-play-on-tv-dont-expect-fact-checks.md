@@ -849,6 +849,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 58
+  - title: "Biden Just Isn't Closing the Deal With Young Black Voters"
+    excerpt: "Biden let Trump get the better of him during the debate when the topic was the 1994 crime bill. If he wants enthusiasm, he'll have to do better."
+    publishedDateTime: 2020-10-02T08:42:00Z
+    webUrl: "https://www.thedailybeast.com/biden-just-isnt-closing-the-deal-with-young-black-voters"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "1Spl90VKYxTlyHkD2B7+BqBDewWNGWAi/eJYVelAGvlgOmy/mdrJbWVQsERJSGUww66AQt4rF65kngJ+Evu0Cm2/i22C9QfEojSTZrxG5vt4CkN3/w9s3zLpNGahKQ8I5HBDhBtwiOFRY0qN5aGwoFfTOlk9z9hoWr/zc01JSJ18JuS/O3am9Ax6Z1wVW9vsntqjcaSfq/iE5kWgNfOgVh4EBGi1IRNkagTusLj1ArTArpHkdkzQPfktgzzOUmYmgttW4PWwzReW2ZHA2YFt7PVvv3WVu1dvCuNkS691uDmelyAbdUwsuXWLETcKOfLkJxefJxQorsa2LwyFPGLDo5xzXmAd67IQK+gF2CIaJ0c=;XgghZWTiP+eXH1J6nJ2hJw=="
 ---

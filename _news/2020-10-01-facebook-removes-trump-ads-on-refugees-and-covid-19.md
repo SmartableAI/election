@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's positive Covid-19 test throws country into fresh upheaval"
+    excerpt: "A country already unnerved by a devastating health catastrophe and a turbulent political season faced fresh upheaval Friday as Americans awoke to news President Donald Trump had contracted coronavirus.\n    \n"
+    publishedDateTime: 2020-10-02T09:29:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgVIolT-fDc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002021411-trump-1001-white-house-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump announces plan to deploy 150 million Covid rapid tests previously touted"
     excerpt: "President Donald Trump formally announced a plan on Monday to disperse the 150 million rapid coronavirus tests first promoted by the White House in August.\n    \n"
     publishedDateTime: 2020-09-28T21:16:13Z
@@ -45,22 +61,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "With an eye on a tight Florida race, Trump announces new restrictions on Cuban hotels, cigars and rum"
-    excerpt: "President Donald Trump on Wednesday announced a new series of economic sanctions on Cuba that ban US citizens from buying Cuban cigars as well as rum and staying at Cuban government-owned hotels on the communist-run island.\n    \n"
-    publishedDateTime: 2020-09-23T17:50:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172036-03-trump-0921-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -80,15 +80,68 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "‘That’s on You!’: Whoopi Goldberg Blasts Trump Fans for Spreading COVID"
-    excerpt: "If Trump supporters “weren’t smart enough to put a mask on” at one of the president’s rallies, “The View” moderator said they only have themselves to blame."
-    publishedDateTime: 2020-09-23T16:51:00Z
-    webUrl: "https://www.thedailybeast.com/the-views-whoopi-goldberg-blasts-trump-fans-for-spreading-covid-19-at-rallies"
+  - title: "Dow futures plunge 500 points as Trump says he tested positive for Covid-19"
+    excerpt: "Futures tied to the Dow Jones Industrial Average plummeted 500 points. S&P 500 futures and Nasdaq 100 futures were also in negative territory."
+    publishedDateTime: 2020-10-02T09:37:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/dow-futures-plunge-more-400-points-trump-says-he-tested-n1241770?amp/"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241770"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241770"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3414757/200924-donald-trump-ew-506p_d18730592e7d92cf390f4bf2f60888bd.jpg"
+        width: 2500
+        height: 1642
+        isCached: true
+  - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
+    excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."
+    publishedDateTime: 2020-10-02T07:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/02/world/02dc-virus-trump-ticktock-1/02dc-virus-trump-ticktock-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Says He’ll Begin ‘Quarantine Process’ After Hope Hicks Tests Positive for Coronavirus"
+    excerpt: "Ms. Hicks, a senior aide and the closest known person to the president to have contracted the virus, traveled with him this week aboard Air Force One."
+    publishedDateTime: 2020-10-02T05:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-hicks/01dc-hicks-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
+    excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
+    publishedDateTime: 2020-10-02T00:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/hope-hicks-top-trump-adviser-who-flew-him-debate-tests-n1241751"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 109
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_40/3416833/201001-hope-hicks-2018-ac-842p_58ccf042fc6d35570ea1522bae16016e.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5JpLeGRPkor7bZMAXSP9pVHR/k/rq0kBqAZQvGLdFCithMSYQVHAYZaGUpb+m9CnBzPAsh5NWGq1Ys/9YjigULXkxLWc2MWZQJQfzsnEmiY8HF17CgBg+LkapH/OFwXs72EsMRcMDyKIXPliO/fVXHwIbLc93B6QaS9h7jo1Gn4KqTUjtjLY/ofgc6EhQ+jYQkwKFZCc3qW0kI50DKTzP6e3u1p5n2/BeIFASODmeivJHrzFDcOOpC62YSbhlSmmAyByvL4OZLphn+3rXtCt3LIsnotjT7/6z+Lje1jddp2d+bpP+vrAaBpQ2B4mp04scUlB+D2kpRx+UzMAsNQBCZJ+w9LclaIEzb4HWjpzwK4=;kgo6x4zNaC2QUpgx6pWo+w=="
 ---

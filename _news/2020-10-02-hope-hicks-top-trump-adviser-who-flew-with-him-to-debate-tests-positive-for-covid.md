@@ -30,99 +30,117 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's Supreme Court pick on Capitol Hill for meeting with GOP senators"
-    excerpt: "President Donald Trump's nominee for the Supreme Court, Judge Amy Coney Barrett, will meet Republican senators throughout Tuesday on Capitol Hill, as the party finalizes plans for a quick confirmation process ahead of the November presidential election.\n    \n"
-    publishedDateTime: 2020-09-29T10:05:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzqe4VLh7as/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html"
+  - title: "Trump's positive Covid-19 test throws country into fresh upheaval"
+    excerpt: "A country already unnerved by a devastating health catastrophe and a turbulent political season faced fresh upheaval Friday as Americans awoke to news President Donald Trump had contracted coronavirus.\n    \n"
+    publishedDateTime: 2020-10-02T09:29:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgVIolT-fDc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-coronavirus-positive-test/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926175044-barrett-for-opinion-roundup-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002021411-trump-1001-white-house-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump condemns 'all White supremacists' after refusing to do so at presidential debate"
-    excerpt: "President Donald Trump condemned \"all White supremacists\" Thursday evening after pointedly refusing to do so at Tuesday's presidential debate and in the days since.\n    \n"
-    publishedDateTime: 2020-10-02T02:57:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A7HgllHeK_A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html"
+  - title: "Trump announces plan to deploy 150 million Covid rapid tests previously touted"
+    excerpt: "President Donald Trump formally announced a plan on Monday to disperse the 150 million rapid coronavirus tests first promoted by the White House in August.\n    \n"
+    publishedDateTime: 2020-09-28T21:16:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nZraVJpsqg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001221501-02-trump-1001-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump offered Amy Coney Barrett the SCOTUS job less than 72 hours after Ginsburg's death"
-    excerpt: "President Donald Trump offered Judge Amy Coney Barrett the Supreme Court nomination on the same day he met with her, less than 72 hours after the death of Justice Ruth Bader Ginsburg, according to Barrett's Senate questionnaire released Tuesday.\n    \n"
-    publishedDateTime: 2020-09-30T00:51:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM5hGkaX8to/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/barrett-trump-questionnaire/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/barrett-trump-questionnaire/index.html"
+  - title: "READ: Trump's doctor releases statement after the President and first lady test positive for Covid-19"
+    excerpt: "President Donald Trump and first lady Melania Trump tested positive for coronavirus, the President announced early Friday morning, an extraordinary development coming months into a global pandemic and in the final stretch of his reelection campaign.\n    \n"
+    publishedDateTime: 2020-10-02T05:49:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yDAopmnNIec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 160
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929152232-08-barrett-capitol-hill-0929-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002010356-trump-melania-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's former national security adviser: The President is 'making it easy' for Putin by promoting election conspiracies "
-    excerpt: "President Donald Trump's former national security adviser H.R. McMaster said Tuesday that the President and other lawmakers are \"making it easy\" for Russian President Vladimir Putin by promoting conspiracy theories about US election integrity and Democratic nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-09-22T23:54:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IrZ3KEpHmSM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+  - title: "Facebook removes Trump ads on refugees and Covid-19"
+    excerpt: "Facebook said Wednesday that it had taken down ads from the Trump campaign that claimed without evidence that accepting refugees from abroad would increase risks related to the coronavirus pandemic. “We rejected these ads because we don’t allow claims that people’s physical safety,"
+    publishedDateTime: 2020-09-30T21:46:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/facebook-removes-trump-ads-refugees-covid-19-n1241602"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241602"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241602"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media3.s-nbcnews.com/i/newscms/2019_36/2737591/190201-trump-border-mc-901_9ead837eab538a44c958d642ab711e7e.JPG"
+        width: 2500
+        height: 1666
         isCached: true
-  - title: "Vulnerable Republican senators split over Democratic effort to protect pre-existing conditions from Trump administration lawsuit"
-    excerpt: "Vulnerable Republican senators split over a bill to protect those with pre-existing conditions from a Trump administration lawsuit before the Supreme Court next month, underscoring the political potency of the issue as the country begins voting.\n    \n"
-    publishedDateTime: 2020-10-01T19:24:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYJ29H6k4fk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
+  - title: "Dow futures plunge 500 points as Trump says he tested positive for Covid-19"
+    excerpt: "Futures tied to the Dow Jones Industrial Average plummeted 500 points. S&P 500 futures and Nasdaq 100 futures were also in negative territory."
+    publishedDateTime: 2020-10-02T09:37:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/dow-futures-plunge-more-400-points-trump-says-he-tested-n1241770?amp/"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241770"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241770"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 146
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128102733-01-joni-ernst-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3414757/200924-donald-trump-ew-506p_d18730592e7d92cf390f4bf2f60888bd.jpg"
+        width: 2500
+        height: 1642
         isCached: true
-  - title: "POLITICO Playbook: Trump will introduce ACB for RBG’s seat"
-    excerpt: "NOW, WE ARE 38 DAYS from Election Day, and at 5 p.m. today, President DONALD TRUMP will introduce AMY CONEY BARRETT as his nominee for the Supreme Court in the Rose Garden. IF ACB IS CONFIRMED, TRUMP and Senate Majority Leader MITCH MCCONNELL will have succeeded in a massive overhaul of the federal judiciary,"
-    publishedDateTime: 2020-09-26T14:13:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/26/trump-will-introduce-acb-for-rbgs-seat-490449"
+  - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
+    excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."
+    publishedDateTime: 2020-10-02T07:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
     images:
-      - url: "https://static.politico.com/fd/20/809079974eb989686ded0ecfc336/gettyimages-1228692602.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/10/02/world/02dc-virus-trump-ticktock-1/02dc-virus-trump-ticktock-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Says He’ll Begin ‘Quarantine Process’ After Hope Hicks Tests Positive for Coronavirus"
+    excerpt: "Ms. Hicks, a senior aide and the closest known person to the president to have contracted the virus, traveled with him this week aboard Air Force One."
+    publishedDateTime: 2020-10-02T05:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-hicks/01dc-hicks-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "oy1ZpCZzDJJ7rU95KRyNJq602FTdppc3PrZu5c33gSQB6ciSjLq21gl0pKy/WIqfRvvhYhoubK7sUtSfApI/24jiBuxUDYZbXo3kR+VHJwu0vqQCkYnvS0Tm4kr/3uvWJufWrolRk2a0xVxnApRTUOGtcWenZoT2A4nlg/LSPr1qbKdznlFnQIqnM72bo0f5YEwhx2XVtmMYFXEluH1ybfT2DHTcMVXvx1K49IP48GCDz9GJqexWfImlVZzr28utCO82WTIzMHPCdbHFGn8GFFM3FQWTbW60KdTIP0CSAySJbmAXXyEEg3s9MMA57Ds1eb/1XmOEPN02eZgfG2YhlaBjNqIHiYUaPrJ39fNPCoOcLVmGAldL/KEnQYE5/h/b4J4/iCTVI5NY8sitKnZXgubYFot9JlEptJmzbZbdJPCPSFV4bn+zvxuRMlMmOJKkMhQjueTnb7Qj4olqwBEc84dBJzz5iK2NdsbtPGwhGchtxDKp/xg24c/osRnL9VFWwi28PLH+tLPd/gZNlXPXNQ==;WoeJs2aAdRcqfF1pBPccqw=="

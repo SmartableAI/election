@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 1250
+heat: 1270
 published: true
 
 provider:
@@ -848,6 +848,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 58
+  - title: "Biden Just Isn't Closing the Deal With Young Black Voters"
+    excerpt: "Biden let Trump get the better of him during the debate when the topic was the 1994 crime bill. If he wants enthusiasm, he'll have to do better."
+    publishedDateTime: 2020-10-02T08:42:00Z
+    webUrl: "https://www.thedailybeast.com/biden-just-isnt-closing-the-deal-with-young-black-voters"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "ngYCEa4UH72BsU1MvRX03jQsXiI1NZ+VU9CvgoJDhGobdD9wUcF7ka9lNt3CXXjD8ALwlSBpLHuIuLKbPk0ZWYjB7crQytTHFG5XMtlBGJIKvXx+IG4rF/sC08WDLPr6qOFrJDTahoMn1F5iLP651P0PHrFOUbIIJ+xQgZmHTPW/DE31r7TQ/oDZow7hPHRE0sArX7OCD0HpNa8nZYasArrG62lFwtGlaG+vuesaY8GSKllPo8xqpjMBwDpkPU9J+CgsoxN/+2bAErD2EL4vR8JGU3b3GUDuDTBbjF+3axi88md3OaLgynAcgw+e0KT9gS2TJT3O8mbma3izMEKIRGze54205rKNNs34tlnR9FU=;DZ8p/R5WW9JuUYEXgSJxaA=="
 ---

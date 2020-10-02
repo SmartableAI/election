@@ -40,22 +40,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Says He’ll Begin ‘Quarantine Process’ After Hope Hicks Tests Positive for Coronavirus"
-    excerpt: "Ms. Hicks, a senior aide and the closest known person to the president to have contracted the virus, traveled with him this week aboard Air Force One."
-    publishedDateTime: 2020-10-02T05:27:00Z
-    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/hope-hicks-coronavirus.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 125
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-hicks/01dc-hicks-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "‘Fox & Friends’ Trashes Trump for Blowing the Debate Over White Supremacists"
     excerpt: "Host Brian Kilmeade delivered a rare criticism of Trump, saying he completely failed to deal with Chris Wallace’s challenge to condemn white supremacy."
     publishedDateTime: 2020-09-30T15:44:00Z

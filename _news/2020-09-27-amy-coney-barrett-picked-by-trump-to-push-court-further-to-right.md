@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Positive Covid Test Upends Key Reelection Arguments Shortly Before Election"
+    excerpt: "Trump has frequently claimed the pandemic is in its final stages and that the economy is surging, but his diagnosis and its aftermath contradict both claims."
+    publishedDateTime: 2020-10-02T09:48:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/02/trump-positive-covid-test-upends-key-reelection-arguments-shortly-before-election/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/02/trump-positive-covid-test-upends-key-reelection-arguments-shortly-before-election/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/02/trump-positive-covid-test-upends-key-reelection-arguments-shortly-before-election/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 135
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76f017c1898c6631453cfd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4988%26cropY1%3D442%26cropY2%3D3248"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Senate Republicans ready quick push on Trump's Supreme Court pick Barrett"
     excerpt: "U.S. Senate Republicans on Sunday prepared a concerted push toward quickly confirming President Donald Trump's third Supreme Court nominee, Amy Coney Barrett, despite strenuous objections by Democrats who appear powerless to stop them."
     publishedDateTime: 2020-09-27T10:21:00Z

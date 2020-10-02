@@ -108,7 +108,7 @@ related:
   - title: "When is the Mike Pence–Kamala Harris debate?"
     excerpt: "Mike Pence and Kamala Harris. Donald Trump’s vice president and Joe Biden’s running mate will face off against each other"
     publishedDateTime: 2020-09-30T20:15:00Z
-    webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
+    webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30?mod=hp_minor_pos20"
     ampWebUrl: "https://www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
     cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
     type: article
@@ -217,6 +217,22 @@ related:
         width: 1200
         height: 809
         isCached: true
+  - title: "How Mike Pence could temporarily assume control if Trump becomes incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T09:13:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity-idUSKBN26N19X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N19X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N19X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535824101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910S6"
+        width: 768
+        height: 545
+        isCached: true
   - title: "Former Pence aide: White House staffers discussed Trump refusing to leave office"
     excerpt: "A former aide to Vice President Pence said that White House staffers have privately discussed a scenario in which President Trump loses the November election and refuses to leave office."
     publishedDateTime: 2020-09-26T03:46:00Z
@@ -248,6 +264,22 @@ related:
       - url: "https://i.insider.com/5f390fe7e89ebf001f0450b5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T08:49:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535823594&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910RL"
+        width: 817
+        height: 545
         isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
@@ -392,22 +424,6 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_proudboys_93020getty.jpg"
         width: 1440
         height: 880
-        isCached: true
-  - title: "Reactions to Donald Trump testing positive for coronavirus"
-    excerpt: "U.S. President Donald Trump said in a tweet on Friday that he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election."
-    publishedDateTime: 2020-10-02T06:53:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idUSKBN26N0SM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535814667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IV"
-        width: 826
-        height: 545
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -1253,6 +1269,20 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "ZIP codes donating the most money to Donald Trump"
+    excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
+    publishedDateTime: 2020-10-01T11:22:00Z
+    webUrl: "https://www.chron.com/lavoz/news/article/Zip-codes-donating-the-most-money-to-Donald-Trump-15606027.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/32/77/20033524/3/rawImage.jpg"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "President Trump's Claim About McDonald's Is Hair-Raising"
     excerpt: "McDonald's (NYSE:MCD) received a light-hearted \"endorsement\" from President Donald Trump yesterday when he retweeted a tweet about a supposed link between a chemical found in french fries and hair-loss prevention."
     publishedDateTime: 2020-10-02T05:26:00Z
@@ -1267,6 +1297,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Reactions to Donald Trump Testing Positive for Coronavirus"
+    excerpt: "U.S. President Donald Trump said in a tweet on Friday that he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election. Trump's tweet revealing that America's First Couple had tested positive reverberated through world media and financial markets."
+    publishedDateTime: 2020-10-02T06:29:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z
@@ -1278,6 +1319,15 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 52
+  - title: "What happens if Donald Trump dies or gets seriously ill? President Mike Pence"
+    excerpt: "Karen and I send our love and prayers to our dear friends President Donald Trump and First Lady Melania Trump,” Mr Pence said in a statement after Mr Trump’s positive test. “We join millions across America praying for their full and swift recovery."
+    publishedDateTime: 2020-10-02T08:59:00Z
+    webUrl: "https://www.couriermail.com.au/lifestyle/health/what-happens-if-donald-trump-dies-or-gets-seriously-ill-president-mike-pence/news-story/5c6b3198f9bf3f1784f6db5aad7b66d6"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 47
   - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight | Charlotte Observer"
     excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
     publishedDateTime: 2020-09-29T14:17:00Z

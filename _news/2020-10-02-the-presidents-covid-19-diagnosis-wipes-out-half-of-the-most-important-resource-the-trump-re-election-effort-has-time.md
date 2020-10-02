@@ -47,6 +47,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Trump says he is awaiting the results of a COVID-19 test after his counselor Hope Hicks tested positive"
+    excerpt: "Hicks reportedly traveled with President Donald Trump on Air Force One to and from the first debate on Tuesday."
+    publishedDateTime: 2020-10-02T09:07:00Z
+    webUrl: "https://www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f76721b74fe5b0018a8e9e8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "+48Mv3/+usMBzUJQUPujgHN+Lzq2ePN3x161QPIVmGcCBWxLYf5SavSe4K55QhH330+AbI2OalKaS95ltNWiV2eOYFk421Oiil+YveQKKCfCue1lZxKHd0g6bc4spyAdubjU5R62Z2qkKjfbZIct6aQYf0A6SWWT+Q2xozpbKiacdlB4ZKvfP27mwHK9Q1ILbBMxaBAfpkDQjH3xkXdPJIFH00p67lgcWh5/lAw2d32q+7Pc5IK2d6sEf8D2zvjf9F1VovRmzvLkc6W/lYx6naBbTagC2S3QwOQFBHU0QDDwd47sutC+8Jg2p7IEdyPsz2Q9XweBZa7ZZki6uECbt0sTQjpOEy/LLuvuCW4yb0s=;XIEdNwJ6xkT/hK6tA9ppvg=="
 ---

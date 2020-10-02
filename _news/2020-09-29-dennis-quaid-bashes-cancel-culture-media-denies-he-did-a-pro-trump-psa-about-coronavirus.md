@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pompeo tests negative for coronavirus, wishes Trump and first lady a 'speedy recovery'"
+    excerpt: "Secretary of State Mike Pompeo early Friday morning said he has tested negative for coronavirus hours after President Trump announced he and the first lady have the virus."
+    publishedDateTime: 2020-10-02T09:46:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ha_MXXgw6Ts/mike-pompeo-tested-negative-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-tested-negative-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-tested-negative-for-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Scalise touts Trump coronavirus response, slams Democrats for 'working to undermine public faith'"
     excerpt: "The top Republican on the House Subcommittee on the Coronavirus Crisis touted President Trump and his administration for their response to the pandemic, while slamming Democrats for “failing to acknowledge” that the president’s decisions “saved American lives.”"
     publishedDateTime: 2020-10-02T01:00:47Z
@@ -95,6 +111,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump cancels travel schedule after testing positive for coronavirus, keeps phone call on virus aid for seniors"
+    excerpt: "President Trump cleared his Friday schedule except for a phone call on coronavirus support for vulnerable seniors after he and first lady Melania Trump confirmed they had tested positive for the virus in the early morning hours, multiple reports said. "
+    publishedDateTime: 2020-10-02T09:01:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BHo9v9L_7AE/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c5b0fba-c968-4c31-835f-44c27cb291b6/d11f68f5-3ec3-448f-8e47-ff5939e38d33/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "QjUzq7FrqT+ebIogeUzCPmlF+m6eo1e5lLn9Bv7m8t8V7e7J9gwWfYOanqmHP6q8TxvLlXL6JSUGsNO6fllinEY3hSC8PYUP0qcf/pUYPz4dHeUNzcO3qUgDdlg2DC5LLFBv6ydCEZWpux9bP6XSvKIRvDdzo42H/q9NbAtEZbUHi1ds2Cmj2IpCW3FbELDqO0MpxLPtvzes6ptGq6hjmajbdMYxOgE5jqbpQlEN0mLu1ZsHZSTRIkB/9uCAn9Uxeo6Jzu87zMDJoMfEhXHH7hOSqt0JJEz1GD2Nub+Jn+jV2NkUV51iGXshVf+BA8KFiEirGWl2V7xiiaF6EIg2Ygfj+CoojkcQS7AbCj6o5eE=;QOOEd3F8/JiUxYIj66X0pw=="
