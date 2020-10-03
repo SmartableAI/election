@@ -72,6 +72,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Swing state voters weigh in on Trump's Covid-19 diagnosis"
+    excerpt: "CNN's Jeff Zeleny speaks to voters in Michigan, a state President Trump narrowly won in 2016, in the wake of the President's coronavirus diagnosis.\n    \n"
+    publishedDateTime: 2020-10-03T13:16:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SnWIioZLIHY/michigan-voters-trump-coronavirus-diagnosis-zeleny-dnt-ndwknd.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/03/michigan-voters-trump-coronavirus-diagnosis-zeleny-dnt-ndwknd.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/03/michigan-voters-trump-coronavirus-diagnosis-zeleny-dnt-ndwknd.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003091039-michigan-voter-zeleny-pkg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "With Trump hospitalized, more Covid cases emerge in White House and campaign "
     excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center early Friday evening less than 24 hours after news broke of his Covid-19 diagnosis, plunging the country into a deepening crisis as the circle of current and former aides to the President testing positive rapidly widened.\n"
     publishedDateTime: 2020-10-03T09:45:57Z
@@ -248,6 +264,17 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
+    publishedDateTime: 2020-10-03T15:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
     publishedDateTime: 2020-10-02T00:52:00Z

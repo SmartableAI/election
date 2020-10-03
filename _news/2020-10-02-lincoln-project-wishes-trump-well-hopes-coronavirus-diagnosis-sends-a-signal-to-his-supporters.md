@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Chinese President Xi Jinping wishes Trump, Melania a 'fast recovery' after COVID diagnosis"
+    excerpt: "Chinese President Xi Jinping wished President Trump and Melania Trump a \"fast recovery,\" according to state TV."
+    publishedDateTime: 2020-10-03T14:43:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S38Wf2euCEE/xi-jinping-trump-melania-coronavirus-message"
+    ampWebUrl: "https://www.foxnews.com/politics/xi-jinping-trump-melania-coronavirus-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/xi-jinping-trump-melania-coronavirus-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/b4ae6462-AP20070377919994.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump cancels travel schedule after testing positive for coronavirus, keeps phone call on virus aid for seniors"
     excerpt: "President Trump cleared his Friday schedule except for a phone call on coronavirus support for vulnerable seniors after he and first lady Melania Trump confirmed they had tested positive for the virus in the early morning hours, multiple reports said. "
     publishedDateTime: 2020-10-02T09:01:05Z

@@ -2,13 +2,13 @@
 category: news
 title: "Trump, Pence to keep distance after president tests positive for coronavirus -official"
 excerpt: "U.S. President Donald Trump and Vice President Mike Pence will work from separate residences, a senior White House official told Reuters on Friday, hours after the president announced he had tested positive for the coronavirus."
-publishedDateTime: 2020-10-02T18:31:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-residenc-idINKBN26N23C"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-residenc-idINKBN26N23C"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26N23C"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26N23C"
+publishedDateTime: 2020-10-02T18:10:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-residenc/trump-pence-to-keep-distance-after-president-tests-positive-for-coronavirus-official-idUSKBN26N23C"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-residenc/trump-pence-to-keep-distance-after-president-tests-positive-for-coronavirus-official-idUSKBN26N23C"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N23C"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N23C"
 type: article
-quality: 112
+quality: 132
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535864371&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911AX"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
@@ -296,6 +302,22 @@ related:
       - url: "https://i.insider.com/5f390fe7e89ebf001f0450b5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T08:49:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535823594&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910RL"
+        width: 817
+        height: 545
         isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
     excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
@@ -1190,6 +1212,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Vice President Mike Pence to continue campaigning despite Trump COVID diagnosis"
+    excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
+    publishedDateTime: 2020-10-03T13:59:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5892854002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 86
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
     publishedDateTime: 2020-09-21T22:55:00Z
@@ -1548,17 +1586,6 @@ related:
         width: 4363
         height: 2909
         isCached: true
-  - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
-    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
-    publishedDateTime: 2020-10-02T15:23:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 61
   - title: "ZIP codes donating the most money to Donald Trump"
     excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
     publishedDateTime: 2020-10-01T11:22:00Z
@@ -1722,6 +1749,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "r429y4lyUfqfI0JeRz36i/mb7Jjuzk11mpAPwzCRA9qgTZFvOLItsoH7Mu5Qnma/l7uJl+CBWj2ANAUVP+QZk8dQZrbzwgib8saNZp2wTYGk1EZgxpr0ixDb2yMNszx/zT+YCAp7T2F1fdFo2W0VAPQjhwtnau7qUvlMM311Ie6/3bT0Srs9s9nz+kIdLxkZLfp48UyCLbjAINn5CYMpjb1u4ZmKNR4AgU6XK2KGro3qNkRRHwQ7RLWEKCC6d93fIlEWiryNQdAbHWVLjZK/+FLrH+JDdU5kh4Nm96zrvIf7SctaHWiOIoBInVMzCd5VHsm51utR4JO1Hway9Xm8NNZ/sb3I5ewyZOhjUAy07gQNekoAAl2uob6TbGHLCM6PXnnrXwJb4z4kgfirFYs7MlR/v9KYyy/zRFagYpgTVa2b8xPyMt2bdmCY0uOsLcDmXqopz9hypyKsDTY5dqOKswKhM/FmIpClMPu+uPLJc3jjGgLtrLZjG3g1lsY5gl6a+1i3rBhSP5YRCbqKAFAPPQ==;3UbuTQsnTG3iRXuqig9p+A=="
+secured: "XQMhg8pAWHA54MpdLqxD471o/RetSztGXskWwMcSdbIvjFWt2ElAQmPHUrNcAQC/KW05JCgV0bQH9etlEw0cqckKeTPLqy5yCa3jFCTbhqTZ/NgAo73PdT/lnliXua8ThQnQV3fQf+42oDWKCK31ktzaiAQaYrXvLdhvQ4satS0MFGOeY0vfhgRBgTsd7R0xRiUwxVYBygQd+Y0n3IYYsODxJwtdSJO8ndz2ox1lW7Oi3aKC37X8CGiq4Uc23LYz/PQM8rT7TrLGyd//O+6ZgmvT2auHfNryTjCWvn/kE97KvAyP1xqMh+i/Z1Vv6WHJnlgMkH1mKKI2+nl0k8aE6FMpX3uLhAqzmBh3pGNryvo=;cfQTQmXAQhs+OHYKrlHSCQ=="
 ---
 

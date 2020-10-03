@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.html"
 type: article
 quality: 177
-heat: 337
+heat: 357
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002142052-02-trump-melania-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's diagnosis brings coronavirus back to the forefront of a caustic campaign "
+    excerpt: "President Donald Trump for months has stubbornly tried to change the subject, hoping to make his bid for reelection focused on anything but coronavirus.\n    \n"
+    publishedDateTime: 2020-10-03T15:26:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/68M7uPX3COg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/michigan-voters-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/michigan-voters-trump-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003091039-michigan-voter-zeleny-pkg-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

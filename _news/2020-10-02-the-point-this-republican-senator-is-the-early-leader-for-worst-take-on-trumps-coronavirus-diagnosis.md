@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's diagnosis brings coronavirus back to the forefront of a caustic campaign "
+    excerpt: "President Donald Trump for months has stubbornly tried to change the subject, hoping to make his bid for reelection focused on anything but coronavirus.\n    \n"
+    publishedDateTime: 2020-10-03T15:26:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/68M7uPX3COg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/michigan-voters-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/michigan-voters-trump-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003091039-michigan-voter-zeleny-pkg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Mike Pence and his wife tested negative Friday morning."
     excerpt: "Vice President Mike Pence announced Friday that he and his wife, Karen, had tested negative for the coronavirus, just hours after President Trump and the first lady announced they had both tested positive and were quarantining at the White House."
     publishedDateTime: 2020-10-02T14:14:00Z

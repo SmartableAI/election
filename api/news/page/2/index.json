@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-02-ex-white-house-physician-trump-is-asymptomatic-will-be-ready-for-next-debate.md",
+      "title": "Ex-White House physician: Trump is ‘asymptomatic,’ will be ready for next debate",
+      "excerpt": "President Trump will \"absolutely\" be ready before the next presidential debate against Joe Biden, his former White House physician tells \"Fox & Friends.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ulHuutIv0IY/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ulHuutIv0IY/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson.amp",
+      "publishedDateTime": "2020-10-02T05:39:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-vice-president-mike-pence-and-karen-pence-test-negative-for-coronavirus-spokesman-says.md",
       "title": "Vice President Mike Pence and Karen Pence test negative for coronavirus, spokesman says",
       "excerpt": "Vice President Mike Pence and second lady Karen Pence tested negative for Covid-19 Friday morning, according to a statement tweeted by spokesperson Devin O'Malley.\n    \n",
@@ -14,7 +69,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 337,
+      "heat": 357,
       "tags": null,
       "images": [
         {
@@ -70,7 +125,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1274,57 +1329,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-nato-insiders-believe-trumps-tax-and-debt-problems-make-him-vulnerable-to-blackmail-by-foreign-powers.md",
-      "title": "NATO insiders believe Trump's tax and debt problems make him vulnerable to blackmail by foreign powers",
-      "excerpt": "\"Everything about his finances smells like blood and we are trained to be sharks,\" one source told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
-      "originalUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f589478e6ff30001d4e7a7e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp",
-      "publishedDateTime": "2020-10-01T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

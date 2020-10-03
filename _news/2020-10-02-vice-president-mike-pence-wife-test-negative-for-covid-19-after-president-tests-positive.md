@@ -2,19 +2,19 @@
 category: news
 title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
 excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
-publishedDateTime: 2020-10-02T15:53:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-ampWebUrl: "https://amp.freep.com/amp/5892854002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5892854002"
+publishedDateTime: 2020-10-02T16:25:00Z
+originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+ampWebUrl: "https://amp.palmbeachpost.com/amp/5892854002"
+cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892854002"
 type: article
 quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Palm Beach Post
+  domain: palmbeachpost.com
 
 topics:
   - Election
@@ -248,6 +248,38 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/eb69e2d4-d811-4488-894a-9373d66ee7d6-trumpmask.jpg?auto=webp&crop=4825,2714,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's Hollywood star vandalized with a pickaxe hours after he tests positive for COVID-19"
+    excerpt: "A person dressed in a Hulk costume smashed President Trump's Hollywood Walk of Fame star with a pickaxe on Friday."
+    publishedDateTime: 2020-10-03T15:08:00Z
+    webUrl: "https://www.businessinsider.com/a-person-dressed-as-the-hulk-vandalized-trumps-hollywood-star-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/a-person-dressed-as-the-hulk-vandalized-trumps-hollywood-star-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/a-person-dressed-as-the-hulk-vandalized-trumps-hollywood-star-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f788132282c500018c7871a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fact check: Claim that Trump's positive COVID-19 test result is a 'con' has no basis in fact"
+    excerpt: "A claim suggesting President Trump will politically leverage his positive test result includes speculations that aren't proven. We rate the claim false."
+    publishedDateTime: 2020-10-03T14:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/03/fact-check-false-claim-trumps-covid-19-test-result-con/5894945002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894945002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894945002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f9c98f2a-76c0-49ad-9597-929b4bf1dc43-VPC_TRUMP_COVID_POSITIVE_DESK_THUMB.00_00_00_00.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -547,6 +579,22 @@ related:
         width: 800
         height: 412
         isCached: true
+  - title: "White House Chief Of Staff Mark Meadows Says Donald Trump In ‘Good Spirits’ Despite COVID-19 Diagnosis"
+    excerpt: "White House Chief of Staff Mark Meadows did not reveal whether President Donald Trump is taking any treatment for the virus."
+    publishedDateTime: 2020-10-02T16:16:00Z
+    webUrl: "https://www.ibtimes.com/white-house-chief-staff-mark-meadows-says-donald-trump-good-spirits-despite-covid-19-3055841"
+    ampWebUrl: "https://www.ibtimes.com/white-house-chief-staff-mark-meadows-says-donald-trump-good-spirits-despite-covid-19-3055841?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-chief-staff-mark-meadows-says-donald-trump-good-spirits-despite-covid-19-3055841?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/06/north-carolina-representative-mark-meadows-pictured-november-2019.jpg"
+        width: 1024
+        height: 685
+        isCached: true
   - title: "White House: VP Mike Pence tests negative for COVID-19"
     excerpt: "Vice President Mike Pence tested negative for the virus on Friday morning and “remains in good health,\" his spokesman said. President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus,"
     publishedDateTime: 2020-10-02T12:28:00Z
@@ -562,6 +610,6 @@ related:
         height: 1369
         isCached: true
 
-secured: "y7zhJX4p8rA4SNpzcXxq0jwcS3MfenJxDZ18atVLTYjr3tQ6WoFvjfZxP5BxHnGlUzFCkMEFQ8HPly5lAeuGFogyrIpBwzEjOSe+UgrSDdqtCVkxtRlBjLSlC4n8Lzq7THycCRVNLihp3BvJTSGogwVa6NtLmt0PDsd0Kh/avI5PKRB9T2sAaltXGH48+Y34o0bcYowUn6bVB95FaUn+bm3VOPvCu9ZLia2t4KOWBtEvNANbb6WOvO8v6tOVkgGLlMwBws+yAmACraD7KOC2+2XfvMdhjoJRAkShBJnNOStVaRZAAM7rij2PA5zAzSlImFu7uMSluOZtbOIhw9z06+caUZNlrCqCnvPfgH9fbBE=;TN2Nr/TYFFr5PNZcDJEPEw=="
+secured: "dWM6bOKkeIHT4hjLvsc11yZMRYLDgKaOFhKkRI+9pV/2K6kUa2fS8sEgT1JCx3C0uCKsXhAYelVyVPXotx/9s54P7Em2s8SC8DzHuDtryuXCW5U1UxoZPEe85xRNGpFI1vcG7mIDZZ7SM9lj2AP+XpbXIfVhftBt0QjM3wZSPR6yT69M97InH0/EPE+qhTdwZk4OX8BrYxZJtRqnXFFoFfanNItIL5ZKVJtOupAuXRCT7hfDOJB0PWTH9HGYWA+2vnY4Dva7gzt4qpj9bJgygJbhLCUsUUPrDM353uSjBY6BGmOrrhMKTjPOwiN3a5i6eKuIhTM88+pP8hjRQosEvpfCcJE1lK/V9EVAf6Kchrg=;DI1cATeG1gabrF0GiaUZBA=="
 ---
 

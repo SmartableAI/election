@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 2260
+heat: 2280
 published: true
 
 provider:
@@ -796,6 +796,22 @@ related:
       - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Trump taken to Walter Reed Medical Center"
+    excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
+    publishedDateTime: 2020-10-03T15:13:00Z
+    webUrl: "https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+    ampWebUrl: "https://abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-8-rt-er-201002_1601678432669_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden tacks to the center in fight with Trump over Rust Belt moderates. Will it drive away progressives?"
     excerpt: "Biden is emphasizing centrism to try court swing voters who favored Trump in 2016 in the crucial states of Michigan, Pennsylvania and Wisconsin."

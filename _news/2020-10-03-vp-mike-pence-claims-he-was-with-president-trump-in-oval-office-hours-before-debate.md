@@ -297,6 +297,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump, Pence to keep distance after president tests positive for coronavirus -official"
+    excerpt: "U.S. President Donald Trump and Vice President Mike Pence will work from separate residences, a senior White House official told Reuters on Friday, hours after the president announced he had tested positive for the coronavirus."
+    publishedDateTime: 2020-10-02T18:10:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-residenc/trump-pence-to-keep-distance-after-president-tests-positive-for-coronavirus-official-idUSKBN26N23C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N23C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N23C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535864371&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911AX"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T08:49:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535823594&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910RL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
     excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
     publishedDateTime: 2020-10-02T19:35:00Z
@@ -690,17 +722,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump, Pence to keep distance after president tests positive for coronavirus -official"
-    excerpt: "U.S. President Donald Trump and Vice President Mike Pence will work from separate residences, a senior White House official told Reuters on Friday, hours after the president announced he had tested positive for the coronavirus."
-    publishedDateTime: 2020-10-02T18:31:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-residenc-idINKBN26N23C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26N23C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26N23C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
   - title: "Mary Trump is suing the president and his family, claiming millions of dollars in lost inheritance"
     excerpt: "The lawsuit is similar to allegations that Mary Trump, the president's niece, presented in her damning tell-all memoir published in July."
     publishedDateTime: 2020-09-24T18:20:00Z
@@ -1201,6 +1222,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Vice President Mike Pence to continue campaigning despite Trump COVID diagnosis"
+    excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
+    publishedDateTime: 2020-10-03T13:59:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5892854002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 86
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
     publishedDateTime: 2020-09-21T22:55:00Z
@@ -1545,17 +1582,6 @@ related:
         width: 1200
         height: 704
         isCached: true
-  - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
-    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
-    publishedDateTime: 2020-10-02T15:23:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 61
   - title: "ZIP codes donating the most money to Donald Trump"
     excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
     publishedDateTime: 2020-10-01T11:22:00Z
@@ -1719,6 +1745,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "Z2OX9bSDndcqpzHadbH15ceCO+4fxMjYRQ9/yegmfVErKvXbKQIWXs6Z2+BnKBFZFQiWWhujvvrMLd6yg/jFd5VSIeG/Z2txKnFzUgBhvYLBdBxRQqQ0JHzzFngP1X3dIvrFn/e+4AX1yptrj2oLLoXgCRJnpOrHRKD9kD3CeDsayYHU/T6PzOs0zanWVtgP/eZMi4pdS7glwDGdNT3xt35Zm8SWU57gd1taX1/c18qpPGgA/5AiKeOZKmzNKkkjO+hTwwXgrkDx1JnUUt5Tq3Xuv58SdLg6TWvxxXMMwcGSQWtq4isw86lM4TBYJe1mic3hWw8/MNpt6WK8LfD6UH4DwsI/I+344ZwvM9i+nKQ=;KjHAxD6fuA0xtfZdP73Ntg=="
+secured: "SotVB5sUam3z9jnICCmjgdKGRNDFoecml67nKpcB6SrQ2Zt36UR6QYBnep132c2sr7riEHu2E/TdMMCsK378ogS67k30lmPMcZN5z9KVTshxcy7m4KrwTkxykemspFQG7mkJaqjljK9J2WOXMCgDw8wV1jlB1S+ZTspR9tE3WH6w43q6yDfygSxpd1lkyr9gc8sNZB+qBDk3XsFkreP5P+rXmYw06OrKWDNeNcuOlPwV/4lAUrY4a3wOVKNcW+D/UDh6wMhDFt1EPi9Ecm4oSK83jd6MkKq6aC56V35vttzonbilcTG26cmqxJG03GGJphwnr3Cd1A1m6/PGAiQFYV2Ji+tuY1CJ6z0YDbdvOtTBUZLVdATMD2FH2jfT/S9kepRXFcdSI7dJyBYiL+a296UD3BYQPPc5veqwUYaQmEVnF48qKsOFNOKOSSGtkHfRca/2f0dzR4MSIQpmXT3LO0E6Lha6pazbayIDBZgZAjBo7fTxcgbThy5f+RdlxI5BMjNeP6QNAOp7VGqYvoH4aA==;M+lnYBxfQ1Yd961lvDmOow=="
 ---
 

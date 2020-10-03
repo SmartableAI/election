@@ -807,6 +807,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President Trump taken to Walter Reed Medical Center"
+    excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
+    publishedDateTime: 2020-10-03T15:13:00Z
+    webUrl: "https://abcnews.go.com/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+    ampWebUrl: "https://abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/president-trump-lady-test-positive-covid-19/story?id=73380448"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-8-rt-er-201002_1601678432669_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden tacks to the center in fight with Trump over Rust Belt moderates. Will it drive away progressives?"
     excerpt: "Biden is emphasizing centrism to try court swing voters who favored Trump in 2016 in the crucial states of Michigan, Pennsylvania and Wisconsin."
     publishedDateTime: 2020-09-27T13:36:00Z

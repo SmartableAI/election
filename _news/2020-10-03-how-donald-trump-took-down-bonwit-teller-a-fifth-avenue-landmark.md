@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
+    excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
+    publishedDateTime: 2020-10-03T14:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73402267"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
     excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
     publishedDateTime: 2020-09-29T03:37:00Z
@@ -171,6 +187,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "White House official says it's better Trump was hospitalized while he could still walk to avoid images of him being carried"
+    excerpt: "The White House said Trump was hospitalized \"out of an abundance of caution.\" One official said it could help his political image, the New York Times reported."
+    publishedDateTime: 2020-10-03T15:05:00Z
+    webUrl: "https://www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5f7884402400440019129d21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump says he doesn't know Proud Boys, but 'they need to stand down,' as he faces backlash for not criticizing white supremacists"
     excerpt: "Facing criticism for not denouncing white supremacist groups during the debate Tuesday, President Trump said he's \"always denounced any form of any of that.\""
     publishedDateTime: 2020-10-01T04:12:00Z
@@ -227,6 +259,6 @@ related:
         height: 1306
         isCached: true
 
-secured: "sgZK+ubvkUw5GMYU6WULzhAEsxuNqoJ7xI215gQv1YuTBBjo/n3D50JgPh/esQs7KK0b/848U7WhUMP1X8bUXI9R09BNySLUhngO/kaJuoPy//vM2t86vHg7t1zEJpqleGoy65p1dC9RJq3GJnk7whEPvIfVR2ddGip6gUwZClWCXFUutq2SLWWXZjN8cUTOF6pN7/tZqdSApf5Oo2PvhNUfSR8QUOBG8TIUnyydeGLQ8kMfduwOWxpnJkOZDqafj6shmKYJN50pvjNFeQI559sN10nVOjpYHGIIOdZKrwGPVAECytU9NDnQw9C1GGpXcpGePVrmuoioLDiCMB9m0dLyC+BTMq9KmDH1X4cPr2U=;zQ+yBBHkfF97OzYup0/q4g=="
+secured: "zL4v+ZzyTxecnh/nn7XQH0iX5TVoGfX2GwsR2lVxKpZKruIByVS+uWibBygZvBhxfr3vy1Pjn9e6qHCb6az+ndXgboFdfVP2KzWMp7kb0dwdSAu/xptGgCIVCwvLLTQQCw80SVqIs5yh47+xaoFhl+hl+fIJkaF9q71EG0a/A/j34AUile2a5T1spFdU0o9Vn5WtMMTdSghwqRXug/r6YtPTb6Z3ziMqeiRtnXGFvNqPogXM0GTqvF7Kw/PLQTrDDK9PqWFGbQEeGuLvQ3Sjxl/cFP2ngdJQ/+gMKUdOa4I7WR/oWN/LWPoUonYBTyi0dChGmr9Wtzfei2iI+RHBIb6rIO5C3xx/v2VR5UU9S5EC0W053I9nuyXpGDijg+EnMwD02diCLJH0qAKYVdNn/rOyqlxXU6RztRVHo+83+JkcOXVfNPwXa+QC3/o3NClAv0fmdOOgUYxOk8IlC4Sf6rg5GgIevWSbQL3FBYlpfakMkXTJa1tHwx5Au5GTt1JmRqZMfkfgsTHMZfLqF/5ukw==;pRIv4q/wSOaOul0BXblHkw=="
 ---
 

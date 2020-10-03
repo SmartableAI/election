@@ -247,6 +247,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's Hollywood star vandalized with a pickaxe hours after he tests positive for COVID-19"
+    excerpt: "A person dressed in a Hulk costume smashed President Trump's Hollywood Walk of Fame star with a pickaxe on Friday."
+    publishedDateTime: 2020-10-03T15:08:00Z
+    webUrl: "https://www.businessinsider.com/a-person-dressed-as-the-hulk-vandalized-trumps-hollywood-star-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/a-person-dressed-as-the-hulk-vandalized-trumps-hollywood-star-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/a-person-dressed-as-the-hulk-vandalized-trumps-hollywood-star-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f788132282c500018c7871a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fact check: Claim that Trump's positive COVID-19 test result is a 'con' has no basis in fact"
+    excerpt: "A claim suggesting President Trump will politically leverage his positive test result includes speculations that aren't proven. We rate the claim false."
+    publishedDateTime: 2020-10-03T14:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/03/fact-check-false-claim-trumps-covid-19-test-result-con/5894945002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894945002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894945002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f9c98f2a-76c0-49ad-9597-929b4bf1dc43-VPC_TRUMP_COVID_POSITIVE_DESK_THUMB.00_00_00_00.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump given remdesivir to fight his COVID-19 infection. Here's what you need to know about it"
     excerpt: "President Trump's doctors are already employing remdesivir in the fight against the coronavirus to help shorten his illness."
     publishedDateTime: 2020-10-03T08:03:00Z
@@ -504,14 +536,14 @@ related:
         isCached: true
   - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
     excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
-    publishedDateTime: 2020-10-02T15:53:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-    ampWebUrl: "https://amp.freep.com/amp/5892854002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5892854002"
+    publishedDateTime: 2020-10-02T16:25:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892854002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
@@ -549,6 +581,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
         width: 800
         height: 412
+        isCached: true
+  - title: "White House Chief Of Staff Mark Meadows Says Donald Trump In ‘Good Spirits’ Despite COVID-19 Diagnosis"
+    excerpt: "White House Chief of Staff Mark Meadows did not reveal whether President Donald Trump is taking any treatment for the virus."
+    publishedDateTime: 2020-10-02T16:16:00Z
+    webUrl: "https://www.ibtimes.com/white-house-chief-staff-mark-meadows-says-donald-trump-good-spirits-despite-covid-19-3055841"
+    ampWebUrl: "https://www.ibtimes.com/white-house-chief-staff-mark-meadows-says-donald-trump-good-spirits-despite-covid-19-3055841?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/white-house-chief-staff-mark-meadows-says-donald-trump-good-spirits-despite-covid-19-3055841?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/06/north-carolina-representative-mark-meadows-pictured-november-2019.jpg"
+        width: 1024
+        height: 685
         isCached: true
   - title: "White House: VP Mike Pence tests negative for COVID-19"
     excerpt: "Vice President Mike Pence tested negative for the virus on Friday morning and “remains in good health,\" his spokesman said. President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus,"
