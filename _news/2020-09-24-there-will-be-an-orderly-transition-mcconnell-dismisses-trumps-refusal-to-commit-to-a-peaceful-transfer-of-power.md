@@ -2492,6 +2492,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump campaign manager tests positive for Covid-19"
+    excerpt: "Bill Stepien's diagnosis is the latest blow to a reeling campaign. He says he will manage the campaign from home."
+    publishedDateTime: 2020-10-03T03:46:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-manager-tests-positive-for-covid-19-425722"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/32/ce/171c4c4945f49393a0ea065cc4be/190412-bill-stepien-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump administration proposes bill to chip away at social media's legal protections"
     excerpt: "The Justice Department proposed legislation Wednesday to narrow a key set of legal protections that shield internet companies like Facebook and Google from lawsuits over their efforts to police speech online,"
     publishedDateTime: 2020-09-23T15:04:00Z

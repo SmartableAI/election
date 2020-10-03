@@ -2484,6 +2484,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump campaign manager tests positive for Covid-19"
+    excerpt: "Bill Stepien's diagnosis is the latest blow to a reeling campaign. He says he will manage the campaign from home."
+    publishedDateTime: 2020-10-03T03:46:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-manager-tests-positive-for-covid-19-425722"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/32/ce/171c4c4945f49393a0ea065cc4be/190412-bill-stepien-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
     excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
     publishedDateTime: 2020-09-24T14:51:00Z

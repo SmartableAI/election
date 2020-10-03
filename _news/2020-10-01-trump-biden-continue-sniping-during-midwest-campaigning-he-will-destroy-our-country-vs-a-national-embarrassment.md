@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-debate-presidential-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-debate-presidential-campaign-updates-20200930-v63ivhdknbeu7igudz3ufkq2b4-story.html?outputType=amp"
 type: article
 quality: 116
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Tribune
@@ -29,6 +29,203 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Biden to hit the campaign trail after negative test for COVID-19"
+    excerpt: "Democratic presidential candidate Joe Biden plans to head to the battleground state of Michigan and resume campaigning on Friday after testing negative for coronavirus, hours after President Donald Trump was sidelined by contracting the virus."
+    publishedDateTime: 2020-10-02T18:58:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idCAKBN26N2UZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN26N2UZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN26N2UZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535923179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9120S"
+        width: 900
+        height: 545
+        isCached: true
+  - title: "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID"
+    excerpt: "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result."
+    publishedDateTime: 2020-10-02T14:34:00Z
+    webUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855"
+    ampWebUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1644994/speaker-house-nancy-pelosi.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Democratic nominee Joe Biden campaigns in Michigan after testing negative for coronavirus"
+    excerpt: "The former vice president delayed his scheduled trip to the battleground state in order to take two coronavirus tests Friday morning."
+    publishedDateTime: 2020-10-03T01:39:00Z
+    webUrl: "https://www.cnbc.com/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 116
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106712128-16007764692020-09-21t201730z_1749449824_rc283j97mwkc_rtrmadp_0_usa-election-biden.jpeg?v=1600776508"
+        width: 3500
+        height: 2334
+        isCached: true
+  - title: "Biden to Proud Boys: 'Cease and desist'"
+    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
+    publishedDateTime: 2020-09-30T21:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Detroit pastor wants Biden to reach out more to Black community"
+    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
+    publishedDateTime: 2020-10-01T19:52:00Z
+    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'"
+    excerpt: "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\"."
+    publishedDateTime: 2020-09-30T20:04:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 102
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08sztpk.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
+    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
+    publishedDateTime: 2020-09-27T09:19:00Z
+    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
+    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 75
+    images:
+      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
+        width: 1200
+        height: 864
+        isCached: true
+  - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
+    excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
+    publishedDateTime: 2020-10-01T23:22:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRZ2WVTVNNH53EO2BFXKHACEVQ.JPG"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Vice President Mike Pence and second lady Karen Pence test negative for coronavirus"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the"
+    publishedDateTime: 2020-10-02T12:31:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/02/the-latest-pence-and-his-wife-test-negative-for-covid-19-2/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 69
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/AP20255534450048.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
+    excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
+    publishedDateTime: 2020-10-01T19:05:00Z
+    webUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/"
+    ampWebUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 63
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
+        width: 1500
+        height: 785
+        isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy | Charlotte Observer"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T17:04:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 59
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
+    publishedDateTime: 2020-10-02T19:32:00Z
+    webUrl: "https://www.c-span.org/video/?476523-1/joe-biden-campaign-remarks-grand-rapids-michigan&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "um7yALT0uqheYn1hsgi6AJb4wCJjm2JSC7NCbzkyzZuwgVBo55u2GSHvYyQYrVQGXpB9tO4rNdszam8IL9jUbXzMybKRGIcoHdheRdKQe/5MTmxOQqYPp6YxR/j4nhbgdc7s4c8m2PqWJPzoroXWDu010zNcSfb/y7R5zYZfmwY2kK3lYxLXTaztzfvnFwW+yhMuw48rDlDeJzk2QN0ISAYHuENJ67a8/Fevu5KkoqnHwzILXyKNLM9nK6MpGSVo1P/T40sfyvWbczpUIwiMkHmw+WLn+jB+Amqc2VeIsRtDsIpBfyfbMMrSOBbjx3g5wmeY8RR/hIW7si1eVAwxKCin7pQ4fZMmVyfE1xCwAnk=;tTuq66GoC7xEcWhaPyTt1Q=="
 ---

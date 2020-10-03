@@ -175,6 +175,38 @@ related:
         width: 791
         height: 545
         isCached: true
+  - title: "AP PHOTOS: A busy week for Trump before positive virus test"
+    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House."
+    publishedDateTime: 2020-10-02T15:29:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive for coronavirus"
+    excerpt: "U.S. President Donald Trump said in a tweet on Friday he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election."
+    publishedDateTime: 2020-10-02T06:55:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-for-coronavirus-idUSKBN26N0SW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535814584&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The most essential books of the Trump era are barely about Trump at all"
     excerpt: "As the Washington Post’s nonfiction book critic, I’ve read well over 150 works covering Donald Trump and the major debates of his presidency, and that’s just a small fraction of the canon. Dissections of heartland voters."
     publishedDateTime: 2020-10-01T19:52:00Z
@@ -238,6 +270,38 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_386951b5013d4be194086fac35bd2267_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump is being treated with an experimental drug cocktail for COVID-19. Here's what it is."
+    excerpt: "The White House announced Mr. Trump received a dose of Regeneron's antibody cocktail before he was transported to Walter Reed Medical Center."
+    publishedDateTime: 2020-10-02T23:07:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/02/b59722df-d9e8-4c46-8280-be603279d3ed/thumbnail/1200x630g2/2bf44e50dfde63019f9141ba8ad055d1/gettyimages-1228854672.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Masks still won't be required in the White House after Trump's COVID-19 diagnosis, official says"
+    excerpt: "President Donald Trump has repeatedly flouted recommendations from top public health experts to wear a mask or face-covering."
+    publishedDateTime: 2020-10-02T19:46:00Z
+    webUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
     excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
@@ -303,6 +367,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Several of the military's top generals were at White House event days before Trump tested positive for COVID-19"
+    excerpt: "The chairman of the Joint Chiefs of Staff and the top Army and Air Force generals were at a Gold Star family event on Sunday, defense officials said."
+    publishedDateTime: 2020-10-02T15:29:00Z
+    webUrl: "https://www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5ed6e8e5f0f4192dbf3caba2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive for COVID-19"
+    excerpt: "U.S. President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-02T20:21:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idINKBN26N0SM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26N0SM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26N0SM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "'Standing by sir': Proud Boys praise Trump's comment telling them to 'stand by' during first presidential debate"
     excerpt: "Members of the far-right group celebrated online over the president's statement during the first presidential debate on Tuesday evening."
     publishedDateTime: 2020-09-30T05:45:00Z
@@ -316,6 +407,22 @@ related:
     quality: 104
     images:
       - url: "https://i.insider.com/5f73fb1674fe5b0018a8e246?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "A running list of all the people Trump came into contact with in the days before he tested positive for COVID-19"
+    excerpt: "First lady Melania Trump, top aide Hope Hicks, Sen. Mike Lee, and RNC chairwoman Ronna McDaniel are among those who have tested positive so far."
+    publishedDateTime: 2020-10-02T23:03:00Z
+    webUrl: "https://www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f7778842400440019129bcb?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -432,6 +539,17 @@ related:
     webUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders"
     ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "UK PM Johnson's Battle With COVID-19 May Be a Warning for Trump"
+    excerpt: "Johnson's experience of trying to stay in charge while struggling with the disease may offer clues about the potential dangers ahead for U.S. President Donald Trump, now that he has tested positive. After being accused of initially failing to appreciate the gravity of coronavirus crisis for Britain,"
+    publishedDateTime: 2020-10-02T11:37:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-02/uk-pm-johnsons-battle-with-covid-19-may-be-a-warning-for-trump"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-02/uk-pm-johnsons-battle-with-covid-19-may-be-a-warning-for-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-02/uk-pm-johnsons-battle-with-covid-19-may-be-a-warning-for-trump?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

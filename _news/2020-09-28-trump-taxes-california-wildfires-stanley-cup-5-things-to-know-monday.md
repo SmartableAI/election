@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3530752001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3530752001"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 116
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/18/USAT/9dcbdbce-c6ee-4aef-8688-8b99680ca442-vote-by-mail.png?auto=webp&crop=1911,1075,x294,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "On Monday, Trump updated the nation on coronavirus strategy. By Friday, he tested positive."
+    excerpt: "Trump interacted with scores of staff members, donors and supporters this week. It is unclear how many other aides who had come into close contact with him had tested positive."
+    publishedDateTime: 2020-10-02T08:40:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7cuN1FZK5fALhAuqpH7vAFylQrs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SCW4TW76LFBM3C2RAJC7UPNQY4.jpg"
         width: 1200
         height: 675
         isCached: true

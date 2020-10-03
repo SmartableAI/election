@@ -47,38 +47,6 @@ related:
         width: 2048
         height: 1501
         isCached: true
-  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
-    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
-    publishedDateTime: 2020-09-27T09:19:00Z
-    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
-    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 75
-    images:
-      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
-        width: 1200
-        height: 864
-        isCached: true
-  - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
-    excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
-    publishedDateTime: 2020-10-01T23:22:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRZ2WVTVNNH53EO2BFXKHACEVQ.JPG"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "9BpEw3H49Rbdqz/Ra+wyzGxwrngRYq6QfzzZ2nryb6vfprBJ0/qUlZBKfOZlzf67me7V2zygH/4acHDP76zrWtPD8VLnUL3pkjTvd2ASlArkNyQIU7bzUTDFwWyxPRCeME9VvErizAcBEDaiTpMWw9G/btOS9nSVSwE3i1hsbBYu3JCd8ls8cRP5jtb6CgN8+S4BIR8o6QMuajWcp7RWDhO4ZWqGG4ha3Xfb/TjbeO1FfvWbN35KiudVc8Qvg7RF1XSsTaCjr7J2vtC86dYGvGirWT/2kkFHJnC7Sy+QhqcExCai883Bonul1IEjzjS/hUnrFdGsCjx10T9DmqF1gq1PwUvhO7LRucwDX+ZnodTOXxQ2eKrAkyYf358MrzoDdW7uohyfDh2P2i8qxTG7mC4LjuH/Pz6xA8ryGOgxprUF5cuBKM1+r6uR+XsmvZslhlAaaUbHuEEPbYFvJozdemd20HYTIWd456Mifdb/bmjSJ/WQ+Tz8VmmT2iwUyR+EPPUlMIIDlythg1XZVRkkwg==;rgeNbDQZik7N+jQFKd2ing=="
 ---

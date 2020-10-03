@@ -63,6 +63,33 @@ related:
         width: 1440
         height: 962
         isCached: true
+  - title: "Global shares and oil tumble after Donald Trump tests positive for COVID-19"
+    excerpt: "US stock futures dropped almost 2%, oil plunged 4%, while gold and Treasuries benefitted from investors fleeing risk assets."
+    publishedDateTime: 2020-10-02T06:41:00Z
+    webUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f365bbab4bb1c001df533d5?format=jpeg"
+        width: 4475
+        height: 2977
+        isCached: true
+  - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
+    excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."
+    publishedDateTime: 2020-10-02T19:46:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-rally-int-idUSKBN26N39M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N39M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N39M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
   - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
     excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."
     publishedDateTime: 2020-09-30T07:33:00Z

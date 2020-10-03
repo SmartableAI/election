@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
   - Mike Pence
+  - Kamala Harris
 
 related:
   - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
@@ -904,7 +904,7 @@ related:
   - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
     excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
     publishedDateTime: 2020-10-02T17:40:00Z
-    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/#!"
+    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/"
     ampWebUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
     cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
     type: article
@@ -1662,9 +1662,9 @@ related:
       domain: c-span.org
     quality: 35
   - title: "Senator Kamala Harris Campaign Remarks in Las Vegas"
-    excerpt: "Watch LIVE On October 02 | 6:30pm ET | C-SPAN 2020-10-02T18:30:00-04:00 vice presidential candidate Senator Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas. 2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas."
+    excerpt: "Sen. Kamala Harris (D-CA) campaigned at a drive-in voter mobilization event in Las Vegas."
     publishedDateTime: 2020-10-02T16:41:00Z
-    webUrl: "https://www.c-span.org/video/?476524-1/senator-kamala-harris-campaign-remarks-las-vegas"
+    webUrl: "https://www.c-span.org/event/?476524/c2020-sen-kamala-harris-dca-campaigns-las-vegas"
     type: article
     provider:
       name: C-SPAN
@@ -1689,6 +1689,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "1Yr24wN7kea6MVLIyP0o7PwV6op9LAjpxKv7o0eqYs/Xp/SEnGTCLKIPfUlnx4QXot2uo+fZLbyCB5EbRS2fFg8RkvkPwEE4k1qRLFdXqCQ6QJ8NRQd5cd6ZHGCfjhLChMzdHp8P77U06V0xCBAA8mGJK+TM+1FBUvRUhqKhrRSb9Gm3oE4MeHCv1/VIJoMo8/lle65SNZD3nV6V7pDO7puOaLQIuffXcjOXk3yzxvggGybbTzWmK0l0Sdk7B5XyD6eXhh4JvOLC8jjD+GQTty9q4NOwi3Ssq3yq+2oFcgTtus0ijiQwIgfEAlNptZwvzyPjROlncxrdkxF04+jNJlDAvebMF8VdZs2Ka3wUaHVX9l7pNyim2ubUZYzvQnzge23iG8fNmfPexAPg4p+I/pOznGY9fGr5rtsC67Qg2ulc4va+X6JowSSIxgYXE1ym91al6a/iFnZv2X12gAvWOyDiuOE+gMTLj6aQlh53zOe2lCgM21B2f7xiZwnYK6MPeZRxjjk3QjIDrXKVNkBMSA==;sdELe+K2R6Yb0055BktUJA=="
+secured: "M6eHcNK2HGU/EKeELX1+Rql/i77bJeJj2thgYnCfxDiY3OyweU1Ogi5pamVcu/Y1ZWtyowwGmnyiWp+hd6FAvwqZqV4r4lEbcvsJs4iVdN81RybGmZnAxLFEwHHo3dr4yez/IV/A1OZlOpSRiHvSUERndZgorcgcri+YFFqW83l3vgJKYk2k9+WUBLMUIbGucnRJvMkU/i6xRzUV03zcxuqNf0AmvSX9vonpd1sXzRiQG9NvvdEzgYN8YehRDDQE09JJNRGyoGAOIPbzvssvggWVVnlQ7acUU0AjO3reIvHfWvj3OxeSWamzmNCRO6QZGht5BeCj6qqaJsk8h/Gjiczsp45M+WuVw02kkdiynnWEXPizywUJS6fUgEXPKLA5H51/xDu4ygjlmHBzzT3MWmQgEJYtBu/LWyyhhz9sq02Vl9377RkYrbMWvq9Tq6+4If+D6sHSXiXNZ5DjciCrAxguMgyrBljiXHIdiLy4r5CyzBT0P4bIjV273nv/SG3E0uo+03J+RHUkyLN5KpKREg==;LqJGRS+2msgfimdDsuhwxA=="
 ---
 

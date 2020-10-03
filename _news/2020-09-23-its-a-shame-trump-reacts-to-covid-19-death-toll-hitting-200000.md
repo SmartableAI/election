@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3493983001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3493983001"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RE5PGUABCQI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 932
+        isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive COVID-19"
+    excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-02T17:48:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-covid-19-idUSKBN26N0T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535902562&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910JT"
+        width: 1380
+        height: 545
         isCached: true
   - title: "Trump calls his handling of pandemic 'phenomenal' as US death toll nears 200K"
     excerpt: "President Donald Trump on Monday called his handling of the pandemic \"phenomenal\" even as the death toll neared 200,000."

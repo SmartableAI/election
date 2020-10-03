@@ -71,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 165,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -330,57 +330,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-trump-has-better-odds-against-covid-19-than-most-americans-because-he-is-white-wealthy-with-access-to-the-best-care.md",
-      "title": "Trump has better odds against COVID-19 than most Americans because he is white, wealthy, with access to the best care",
-      "excerpt": "The president's weight, sex, and age put him at high risk of severe COVID-19, but his race, wealth, job, and access to top doctors act in his favor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trumps-wealth-race-access-to-care-good-odds-against-covid-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trumps-wealth-race-access-to-care-good-odds-against-covid-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f516a4f7ed0ee001e25d6a0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trumps-wealth-race-access-to-care-good-odds-against-covid-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-wealth-race-access-to-care-good-odds-against-covid-2020-10?amp",
-      "publishedDateTime": "2020-10-02T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-03-white-house-says-trump-remains-fatigued-amid-reports-he-has-fever.md",
       "title": "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever",
       "excerpt": "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA.",
@@ -444,7 +393,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 555,
+      "heat": 575,
       "tags": null,
       "images": [
         {
@@ -655,6 +604,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-03-biden-to-hit-the-campaign-trail-after-negative-test-for-covid-19.md",
+      "title": "Biden to hit the campaign trail after negative test for COVID-19",
+      "excerpt": "Democratic presidential candidate Joe Biden plans to head to the battleground state of Michigan and resume campaigning on Friday after testing negative for coronavirus, hours after President Donald Trump was sidelined by contracting the virus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idCAKBN26N2UZ",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idCAKBN26N2UZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535923179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9120S",
+          "width": 900,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN26N2UZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN26N2UZ",
+      "publishedDateTime": "2020-10-02T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-trumps-campaign-may-be-more-focused-and-disciplined-without-in-person-events-karl-rove.md",
       "title": "Trump’s campaign ‘may be more focused and disciplined’ without in-person events: Karl Rove",
       "excerpt": "President Trump being forced to hold virtual campaign events after testing positive for coronavirus may cause him to be more \"focused and disciplined\" in his messaging, Fox News contributor Karl Rove suggested on Friday.",
@@ -707,57 +707,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-trump-has-more-in-common-with-lincoln-than-you-might-think.md",
-      "title": "Trump has more in common with Lincoln than you might think",
-      "excerpt": "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
-      "originalUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trump_lincoln_08042020_1.jpg",
-          "width": 980,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
-      "publishedDateTime": "2020-10-02T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -927,6 +876,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-trump-has-covid-what-could-it-mean-for-the-economy.md",
+      "title": "Trump Has COVID. What Could It Mean For The Economy?",
+      "excerpt": "President Donald Trump and First Lady Melania Trump have tested positive for Covid-19, the president announced on Twitter early Friday morning. Here's what to watch out for when it comes to the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
+      "originalUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 745,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77137720c9b79466fe3ec8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
+      "publishedDateTime": "2020-10-02T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-no-one-wore-a-mask-during-trump-debate-prep-chris-christie-says.md",
       "title": "No one wore a mask during Trump debate prep, Chris Christie says",
       "excerpt": "Former N.J. Gov. Chris Christie revealed that no one in the room was wearing a mask when a small group of people gathered in the White House's map room on Monday to help prep President Trump for the first debate. ",
@@ -982,57 +982,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-nancy-pelosi-says-donald-trumps-actions-were-brazen-invitation-to-catch-covid.md",
-      "title": "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID",
-      "excerpt": "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855",
-      "originalUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1644994/speaker-house-nancy-pelosi.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1",
-      "publishedDateTime": "2020-10-02T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-ex-white-house-physician-trump-is-asymptomatic-will-be-ready-for-next-debate.md",
       "title": "Ex-White House physician: Trump is ‘asymptomatic,’ will be ready for next debate",
       "excerpt": "President Trump will \"absolutely\" be ready before the next presidential debate against Joe Biden, his former White House physician tells \"Fox & Friends.\"",
@@ -1085,57 +1034,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-donald-trump-quarantines-after-positive-covid-test-mike-pence-tests-negative-live-updates.md",
-      "title": "Donald Trump quarantines after positive Covid test; Mike Pence tests negative – live updates",
-      "excerpt": "President to quarantine days after taking part in TV debate and campaign rally in Minnesota; Vice president’s daily test comes back negative",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770ef68f083836ec4c5483",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770ef68f083836ec4c5483",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1489,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f78cc710812578b72c2fc54f125bf12d5253baaa/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5b504a8e21fed6a4594d4cbb1edeccd7",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news",
-      "publishedDateTime": "2020-10-02T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -1358,6 +1256,103 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-brian-howey-barrett-confirmation-would-be-a-pence-achievement.md",
+      "title": "Brian Howey: Barrett confirmation would be a Pence achievement",
+      "excerpt": "It stands to be a future framed picture in Vice President Mike Pence’s office: On Monday, he was climbing the U.S. Capitol steps with 7th Circuit Judge Amy Coney Barrett of South Bend. The tall, slender judge is adjusting her necklace;",
+      "sourceUrl": null,
+      "webUrl": "https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/",
+      "originalUrl": "https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/0a79383d066b2c97ceaee4ee7c4fc9ed864b8dfc/c=0-278-2398-1633/local/-/media/2018/01/18/INGroup/Evansville/636518704926298184-Howey2011.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.courierpress.com/amp/5891503002",
+      "cdnAmpWebUrl": "https://amp-courierpress-com.cdn.ampproject.org/c/s/amp.courierpress.com/amp/5891503002",
+      "publishedDateTime": "2020-10-01T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Evansville Courier & Press",
+        "domain": "courierpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-trump-pledges-to-overturn-navy-seal-gender-neutral-ethos-calls-it-ridiculous.md",
+      "title": "Trump pledges to overturn Navy SEAL gender-neutral ethos, calls it 'ridiculous'",
+      "excerpt": "“Man” and “brotherhood” were replaced with gender-neutral phrases such as “warrior” and “group of maritime warriors.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa5DowdHOEA/trump-overturn-navy-seal-ethos-gender-neutral",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa5DowdHOEA/trump-overturn-navy-seal-ethos-gender-neutral",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89963ae4-e6e1-4130-8e7d-c06d0c680d1a/912dcb7d-b04b-447d-849e-877687f59fed/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-overturn-navy-seal-ethos-gender-neutral.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-overturn-navy-seal-ethos-gender-neutral.amp",
+      "publishedDateTime": "2020-10-01T18:23:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

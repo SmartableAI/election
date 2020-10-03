@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-w
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
 type: article
 quality: 165
-heat: 165
+heat: 166
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 619
     isCached: true
 
-secured: "AYmc/useRutOU9RsoUk38eZEhOegE6pinOJFocLmrCFuYe1F8WbnMiPQmsJihjEXQJdEHLmhIk0CoK0ma0F17Wc6DUvjOUjJpb5iz23ugMs6bOlgztEGq6Ei2mnzX2haPix7VIJKkk+QpCaSWEQUFWw9zwnoZmZgIOjS1cNGxHxzJ/DELnzk4Olx+DH8ZRIAA8aOstpjBe72m9VqfXFLD8RwHdT0nIiIWJrxFzoWnSxZ0QF1KnAjS7qge+DSQY24GZpOWbNC15athrDsaC+W43G+wWl0T7JCSEyYc8qgO9PjA8FJ9uMY2mTq6ly3wQNTZaXtKBKHXSiAD3ZJnHs/bfpqpwQDVFbU0oOCZgBqYzk=;1c+TSonQ90hV70rlkglSkA=="
+secured: "JgaYThjJiFWhXRBTvgj6x8Qz7CzGwaYrxcK5Rffk9iC9WoKeX/Lno0qBIgbDSxc5/WYdFdPH7hBbskCvp30wHD8z1LqeoZlt1KfqUPmtYOXOJmlmb139RCXB6z0xW0w8CR15In6q5PoKTS7j+u+eMBz6lLcl3SYdrPAcPWCVmJyhmJcyD8Gn1c32o1R2konudf+iORMFYgVYZfgeZQiefzIGpP9SjscXjWIRfmEnmXuYtX9/OXc4bLmtEGPsKk/XMYfLkHKbNRyZDEmYT462c3HQks67zM9Y51CtjqAmvBfOfsmxEUfMdLaE6wV6TZs+J4xenrV6FPJcPR1ERyTR3GAFEn+e3EByBhllrwtWhjI=;VOgBY9yM3/erE4DHXa0Wnw=="
 ---
 

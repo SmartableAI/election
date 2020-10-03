@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 932
         isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive COVID-19"
+    excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-02T17:48:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-covid-19-idUSKBN26N0T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535902562&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910JT"
+        width: 1380
+        height: 545
+        isCached: true
   - title: "Trump Says Coronavirus 'Affects Virtually Nobody,' As U.S. Has World's Highest Death Toll"
     excerpt: "At a campaign event on Monday, Joe Biden struck a different tone to the president, stating the number of dead cannot become \"background noise.\""
     publishedDateTime: 2020-09-22T07:53:00Z

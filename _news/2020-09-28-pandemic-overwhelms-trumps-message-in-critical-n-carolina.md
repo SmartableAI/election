@@ -25,37 +25,21 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump has more in common with Lincoln than you might think"
-    excerpt: "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since."
-    publishedDateTime: 2020-10-02T17:41:00Z
-    webUrl: "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think"
-    ampWebUrl: "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp"
+  - title: "Trump has 'shady political motives' in blaming China for pandemic, Beijing official says"
+    excerpt: "The attacks from China's foreign ministry come a day after Trump accused Beijing of allowing the virus to escape its borders and “infect the world.”"
+    publishedDateTime: 2020-09-23T17:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3502844001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502844001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://thehill.com/sites/default/files/trump_lincoln_08042020_1.jpg"
-        width: 980
-        height: 552
-        isCached: true
-  - title: "Don’t be like Trump: Deducting hairstyling and home expenses from your taxes could get you in trouble with the IRS"
-    excerpt: "Trump tax returns confirm that the rich are different from you and me. So, no, you cannot deduct the cost of getting your hair cut and styled"
-    publishedDateTime: 2020-09-29T21:27:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/ada6adda-5826-4b6f-a434-e2abeef42892-AFP_AFP_1VP17Q.jpg?auto=webp&crop=4170,2346,x0,y211&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "p9D6GSMm8+5DqR6Twi662BnlyE1z5bk/KnFuhk7cAIe8MemqiTyv3FuZoTxU7F5YcsWVbJcuIknWtkMS+H/p0W9cHcR2XecnJLU37njoDbzBXpyCUndKof+a6FSJuhzGrdEw+xEUZvwODHsmatGMxAOebiT2ZmGZg/jh6/L8b6km1HzgIYKoxkCJnAxUA2e7/9KMSFe3BnRrpnapy66doe/s+rCDgU/j0sHeuXIgT1LRv3Lkhsp92jUiELRTiOzbskHJhcocOayWc++zDE7TRkMp6R/it/yTWQyrLlrvvUD4DxhG57S2u7XcFcr6dLO8K46M6YYkzl1/pzgQ8k6Fpfw3QH3v2dsbUE3SbvjSTQM=;SUc49tt8X47dugV3TMeA5w=="

@@ -37,12 +37,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/trumps-wealth-race-access-to-care-good-odds-against-covid-2020-10</loc>
-    <lastmod>2020-10-02T14:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/</loc>
     <lastmod>2020-10-02T14:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -73,14 +67,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove</loc>
-    <lastmod>2020-10-02T11:49:39-07:00</lastmod>
+    <loc>https://www.reuters.com/article/us-health-coronavirus-usa-biden-idCAKBN26N2UZ</loc>
+    <lastmod>2020-10-02T11:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think</loc>
-    <lastmod>2020-10-02T10:41:00-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove</loc>
+    <lastmod>2020-10-02T11:49:39-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -103,26 +97,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/</loc>
+    <lastmod>2020-10-02T08:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says</loc>
     <lastmod>2020-10-02T07:46:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855</loc>
-    <lastmod>2020-10-02T07:34:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ulHuutIv0IY/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson</loc>
     <lastmod>2020-10-02T05:39:01-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770ef68f083836ec4c5483</loc>
-    <lastmod>2020-10-02T05:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -147,12 +135,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QgVIolT-fDc/index.html</loc>
     <lastmod>2020-10-02T02:29:52-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.usatoday.com/story/opinion/2020/10/02/trump-and-white-supremacy-he-did-condemn-and-has-repeatedly-column/5883336002/</loc>
-    <lastmod>2020-10-02T01:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -319,6 +301,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf</loc>
+    <lastmod>2020-10-01T08:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nbcnews.com/feature/nbc-out/three-quarters-lgbtq-voters-back-joe-biden-glaad-poll-finds-n1241690</loc>
     <lastmod>2020-10-01T07:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -355,8 +343,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.chicagotribune.com/election-2020/ct-debate-presidential-campaign-updates-20200930-v63ivhdknbeu7igudz3ufkq2b4-story.html</loc>
-    <lastmod>2020-09-30T19:09:00-07:00</lastmod>
+    <loc>https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275</loc>
+    <lastmod>2020-09-30T19:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -397,8 +385,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/av/world-us-canada-54363831</loc>
-    <lastmod>2020-09-30T13:04:00-07:00</lastmod>
+    <loc>https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9</loc>
+    <lastmod>2020-09-30T14:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -609,12 +597,6 @@
   <url>
     <loc>https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313</loc>
     <lastmod>2020-09-29T11:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html</loc>
-    <lastmod>2020-09-29T10:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2091,6 +2073,12 @@
   <url>
     <loc>https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday</loc>
     <lastmod>2020-09-17T12:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theguardian.com/us-news/2020/sep/17/amy-dorris-donald-trump-women-who-accuse-sexual-misconduct</loc>
+    <lastmod>2020-09-17T12:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

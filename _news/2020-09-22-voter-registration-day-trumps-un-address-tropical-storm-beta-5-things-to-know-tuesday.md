@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "On Monday, Trump updated the nation on coronavirus strategy. By Friday, he tested positive."
+    excerpt: "Trump interacted with scores of staff members, donors and supporters this week. It is unclear how many other aides who had come into close contact with him had tested positive."
+    publishedDateTime: 2020-10-02T08:40:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7cuN1FZK5fALhAuqpH7vAFylQrs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SCW4TW76LFBM3C2RAJC7UPNQY4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "uxVPlWBszSd5n2uvFBOnTQQ4e+5qrNA8pyEuvcUSEOkY+/6OMIIC//mPbopeL5QfR7ErnmquqUkzilH3DMF3kcwFexxJx/3bfUMB9KfoEuNpqgEd2TeLDOgf7a9c+QhJWS+o2IdNMK+2gNmeAWCWVG+avHJta2cCWXmJkRa4YiBlBdUIXR6hj7QFEGKPruqI/AGM0EknRmnk5p98dO8r4l/LQD6yfGSuL5lnH+Iv6Gn6KQFR6STH2t1VV1AAAwA2d9o9ByeWv0AfJT3N1kpgSKrofsI+jgCoChmVV1B2uoQ/TObCoH6GK2iTTDb40ns7x/LRu0ZTGwFnTAd1eaGj6ATdU7f4/9pbDCDNlCUkNR0=;rBiEAeGb52D2BqsgsEyaBA=="
 ---

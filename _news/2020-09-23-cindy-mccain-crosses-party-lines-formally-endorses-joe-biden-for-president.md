@@ -879,6 +879,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Judge tosses defamation suit filed by former Biden aide"
+    excerpt: "A Delaware judge has dismissed a defamation lawsuit filed by a longtime adviser and former Senate aide to Joe Biden over a county official’s comments about the formation of a local stock exchange"
+    publishedDateTime: 2020-10-03T01:58:00Z
+    webUrl: "https://www.washingtonpost.com/business/judge-tosses-defamation-suit-filed-by-former-biden-aide/2020/10/02/4758b31a-04f1-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/judge-tosses-defamation-suit-filed-by-former-biden-aide/2020/10/02/4758b31a-04f1-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/judge-tosses-defamation-suit-filed-by-former-biden-aide/2020/10/02/4758b31a-04f1-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Nearly 500 former senior military, civilian leaders signal support for Biden"
     excerpt: "The former vice president has “the character, principles, wisdom and leadership necessary to address a world on fire,” they say in a letter backing the Democratic presidential candidate."
     publishedDateTime: 2020-09-24T09:47:00Z

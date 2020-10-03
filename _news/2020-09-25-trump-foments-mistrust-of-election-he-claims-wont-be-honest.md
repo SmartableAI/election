@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 3470
+heat: 3490
 published: true
 
 provider:
@@ -2472,6 +2472,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/64/3b/fffef30c43e09fbc7c3bf3287daa/201001-william-barr-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump campaign manager tests positive for Covid-19"
+    excerpt: "Bill Stepien's diagnosis is the latest blow to a reeling campaign. He says he will manage the campaign from home."
+    publishedDateTime: 2020-10-03T03:46:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-manager-tests-positive-for-covid-19-425722"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/32/ce/171c4c4945f49393a0ea065cc4be/190412-bill-stepien-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -910,7 +910,7 @@ related:
   - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
     excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
     publishedDateTime: 2020-10-02T17:40:00Z
-    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/#!"
+    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/"
     ampWebUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
     cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
     type: article
@@ -1657,9 +1657,9 @@ related:
       domain: c-span.org
     quality: 35
   - title: "Senator Kamala Harris Campaign Remarks in Las Vegas"
-    excerpt: "Watch LIVE On October 02 | 6:30pm ET | C-SPAN 2020-10-02T18:30:00-04:00 vice presidential candidate Senator Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas. 2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas."
+    excerpt: "Sen. Kamala Harris (D-CA) campaigned at a drive-in voter mobilization event in Las Vegas."
     publishedDateTime: 2020-10-02T16:41:00Z
-    webUrl: "https://www.c-span.org/video/?476524-1/senator-kamala-harris-campaign-remarks-las-vegas"
+    webUrl: "https://www.c-span.org/event/?476524/c2020-sen-kamala-harris-dca-campaigns-las-vegas"
     type: article
     provider:
       name: C-SPAN

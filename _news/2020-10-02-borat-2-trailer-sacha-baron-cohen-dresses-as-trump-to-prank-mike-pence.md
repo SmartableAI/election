@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-
 cdnAmpWebUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/"
 type: article
 quality: 90
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Borat 2’ is coming for Mike Pence — but what can it say about Trump’s America?"
+    excerpt: "What might it mean to bring Borat back? In retrospect, it’s clear that Baron Cohen’s gray-suited provocateur served as a canary in the coal mine when he pulled stunts like singing the fake Romanian folk ballad “Throw the Jew Down the Well” in an Arizona dive bar."
+    publishedDateTime: 2020-09-29T18:00:00Z
+    webUrl: "https://forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/"
+    ampWebUrl: "https://forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/?gamp"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/culture/455387/borat-2-trumps-america-sacha-baron-cohen-pranks/?gamp"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 86
+    images:
+      - url: "https://images.forwardcdn.com/image/303x227/center/images/cropped/gettyimages-628229246-1593454823.jpg"
+        width: 303
+        height: 227
+        isCached: true
   - title: "Sacha Baron Cohen’s top secret Borat sequel ‘is FINISHED and targets Mike Pence’"
     excerpt: "SACHA Baron Cohen has secretly shot a follow up to the 2006 sensation Borat — and Mike Pence is in the firing line. The second outing as the Kazakh journalist reportedly targets the Vice President"
     publishedDateTime: 2020-09-27T23:23:00Z

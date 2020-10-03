@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Senator Kamala Harris Campaign Remarks in Las Vegas"
-excerpt: "Watch LIVE On October 02 | 6:30pm ET | C-SPAN 2020-10-02T18:30:00-04:00 vice presidential candidate Senator Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas. 2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas."
+excerpt: "Sen. Kamala Harris (D-CA) campaigned at a drive-in voter mobilization event in Las Vegas."
 publishedDateTime: 2020-10-02T16:41:00Z
-originalUrl: "https://www.c-span.org/video/?476524-1/senator-kamala-harris-campaign-remarks-las-vegas"
-webUrl: "https://www.c-span.org/video/?476524-1/senator-kamala-harris-campaign-remarks-las-vegas"
+originalUrl: "https://www.c-span.org/event/?476524/c2020-sen-kamala-harris-dca-campaigns-las-vegas"
+webUrl: "https://www.c-span.org/event/?476524/c2020-sen-kamala-harris-dca-campaigns-las-vegas"
 type: article
 quality: 35
 heat: -1
@@ -908,7 +908,7 @@ related:
   - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
     excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
     publishedDateTime: 2020-10-02T17:40:00Z
-    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/#!"
+    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/"
     ampWebUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
     cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
     type: article
@@ -1684,6 +1684,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "WhyQ6qra9sBtY0Dybk6ZLGE5CfGd7gCAc06kw8nV9U5pamc2VGLSpLYUeLW2jkez4H9nNnILibztT0tikHLtM3kkEVuf1a0QFKEgf7N/5GM7WmjfQzLnwSBhiy7zah0PF1q1Bi/nG0cS47JkLg8C0hKkWb7jYKrVhwPAQx6k+S5KMAXiMNy4v8RTfCRQnymnhkLIWCYQbZVUTvYb3/1FeMenYP0A9XLjytfkQ7x7Q+4aPVdTIR7DFj8/KDVb+DvplmhEYtTpevjgziHUgzzFanDKG8sUZwfRWx4vkk+ja/CI02Vym6B6zfsuwD+e1L7QEZi33Xh49Q3INp4MRQ62UBk4ntKDSwryXdu1egx8X3V1g+4zU2g9mNMp6VxUWnQG9q5i17vncwSAJArsEhwL71xWXIXPdiO9E2pePnu5YBr3ObqUnPDj2arDFoC6OFbNnq90B5YAsstW7vE9CAMrXlv4Ds+hbCQW/AeyGffzZB/C3kW87wqQdzSPdr4FibSoO3nxtqH3HiHXPNSmMpfnZw==;pIaJMeRUWT9RGmK0SoF2uA=="
+secured: "caig7GXPQG9USoLfZCRp1PCC7oMchAvFueZ7nPHuqz3xsIn5NeJL7MZBQTM6Mf45YMEnTCHPCZhj6Y1nlaI3WEsFFTbob+Vs06e/J69w7+jIROpnvuBTV8UBUAiEZrVNqNIPvGHYR5/T4kH7pR4eSXtBmDm/WnUi0OOFZV4HwBaRb848CGXcVqo5HWH/kPSi3mEHH3p8KfjvUI3Ve81IUy13fJONhOCGVFKAHwiTHSr//HZrtfZ3sZucQeUihKZX0pWPUEvi/zIt1tnZRzNfHlnkN5hTKzFR2+tp3AgeKVRRZeyHR/M4aSjEc3mqoFsZHz9Js8D0DvhxwqULSUZYfzHD34FnF+sWrzSPh6g8zvJwHQeA+uWZldyYDwwbchEiwFF0AA9HZfjCStDWBcitnzc6LczQo5HC/8ZhlSGoaIkFq+a0wGpPpGZkIGByicRbVlMH1BHq/HRDqIxjAXSbKsLzV1kQAwTHW1yqCcmVdyhbmyi9PwwUpejta+BcRcLYo2vRhj3ykRGVU9gW+gUgQw==;rV4DVQ8D3uC0hD9LD1gvWw=="
 ---
 
