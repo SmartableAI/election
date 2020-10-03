@@ -344,6 +344,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden's attempts to distance himself from the Green New Deal"
+    excerpt: "During Tuesday night's debate, Biden was asked by moderator Chris Wallace if he supported the Green New Deal, a wide-ranging joint, nonbinding resolution to combat climate change introduced by Rep. Alexandria Ocasio-Cortez and Sen. Ed Markey.\n    \n"
+    publishedDateTime: 2020-09-30T22:43:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KGIrT6wctoM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001519-46-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Employees of Big Four tech companies show lopsided support for Biden campaign"
     excerpt: "Political contributions from employees at some of the nation's largest technology companies to Democrat presidential nominee Joe Biden's campaign soared last month -- offering a snapshot of the way in which big tech is increasingly supporting his bid to oust President Donald Trump.\n    \n"
     publishedDateTime: 2020-09-28T17:47:44Z
@@ -664,6 +680,38 @@ related:
         width: 2500
         height: 1683
         isCached: true
+  - title: "Joe Biden’s Stutter Is His Superpower"
+    excerpt: "Embracing a lifelong struggle to overcome a stutter, and the stumbles that have happened along the way, Uncle Joe is a hard man to dislike. In that same vein, Biden has finally gone where Hillary Clinton would not,"
+    publishedDateTime: 2020-09-25T09:06:00Z
+    webUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/25/opinion/25eganWeb/25eganWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How the new Supreme Court could stymie a Biden presidency"
+    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
+    publishedDateTime: 2020-09-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "A High-Stakes Test for Joe Biden’s Love of Senate Tradition"
     excerpt: "He reveres custom and recognizes the courts’ essential role in shaping a policy agenda. Those dual instincts have perhaps never been in greater conflict as they are in this Supreme Court fight."
     publishedDateTime: 2020-09-26T18:25:00Z
@@ -695,6 +743,22 @@ related:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_sru_nbc_exclusive_biden_intvu_200926_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How Joe Biden Is Preparing for the Biggest Debate of His Life"
+    excerpt: "The first debate between Joseph R. Biden Jr. and President Trump on Tuesday represents one of the president’s last, best chances to move a race that polls show him losing. There are risks for Mr. Biden,"
+    publishedDateTime: 2020-09-28T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28biden-debateprep1/28biden-debateprep1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump tax records show duplicity. That's devastating for his campaign."
     excerpt: "The New York Times report comes at a time when Trump is already on the defensive about his trustworthiness. That's bad positioning for victory."
@@ -791,6 +855,22 @@ related:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_holt_TH_monday.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "More Democrats Embrace Structural Change. They’re Ready to Press Joe Biden."
+    excerpt: "A party that is increasingly seeking to play by different rules is led by a figure who helped create the current ones. The outcome of the fight will help define the Democratic Party going forward."
+    publishedDateTime: 2020-09-28T18:20:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28progressives-top/28progressives-top-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "BIRTHDAY OF THE DAY: TJ Ducklo, national press secretary for Joe Biden’s campaign"
     excerpt: "How/where are you celebrating your birthday and with whom? “There are 42 days until Election Day, so celebrate is a strong word, but I plan to observe my birthday with a few friends tonight before probably going back to work after."

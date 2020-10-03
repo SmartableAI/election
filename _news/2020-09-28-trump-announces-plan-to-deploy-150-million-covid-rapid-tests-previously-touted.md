@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama wishes Trump a 'speedy recovery' following coronavirus diagnosis"
+    excerpt: "Former President Barack Obama wished President Donald Trump and first lady Melania Trump good care and \"a speedy recovery\" on Friday after they were diagnosed with Covid-19.\n    \n"
+    publishedDateTime: 2020-10-03T00:32:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BpQ0NHfkGDA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/obama-trump-speedy-recovery-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/obama-trump-speedy-recovery-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001113457-barack-obama-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's Supreme Court nominee Amy Coney Barrett was diagnosed with coronavirus this summer"
     excerpt: "Judge Amy Coney Barrett, the President's nominee for the US Supreme Court, was diagnosed with coronavirus late this summer but has recovered, according to three sources familiar with the matter.\n    \n"
     publishedDateTime: 2020-10-02T18:20:49Z

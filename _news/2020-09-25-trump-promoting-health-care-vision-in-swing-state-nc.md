@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's virus hospitalization rocks final stage of campaign"
+    excerpt: "An election year already defined by a cascade of national crises is descending further into uncharted territory, with President Donald Trump heading to a military hospital with the coronavirus after c"
+    publishedDateTime: 2020-10-03T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_386951b5013d4be194086fac35bd2267_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "10 false or misleading claims Biden and Trump make about each other"
+    excerpt: "President Donald Trump and his Democratic opponent Joe Biden have spent the past few months attacking each other on several fronts. While Trump has leveled numerous baseless accusations against Biden, often exaggerating for effect, Biden has also made misleading and false claims about Trump, at times"
+    publishedDateTime: 2020-09-29T21:56:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZJrhByHCxtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/biden-trump-attacks-debate-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/biden-trump-attacks-debate-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929102828-primera-debate-biden-trump-hoy-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What it means if Donald Trump loses the election"
     excerpt: "CNN's John Avlon breaks down the stakes for President Donald Trump in the upcoming 2020 US election and what it could mean if he loses.\n    \n"
     publishedDateTime: 2020-09-29T15:20:22Z
@@ -956,6 +972,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916192921-03-trump-press-briefing-0916-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's illness raises national security concerns as Pentagon looks to reassure public"
+    excerpt: "Military leaders moved quickly to reassure the American public Friday that it was business as usual at the Pentagon despite President Donald Trump's announcement that he tested positive for coronavirus, making it clear in the hours that followed there was no indication of an immediate threat to the US"
+    publishedDateTime: 2020-10-03T00:03:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A3ZrAZTuGNk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-national-security-concerns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-national-security-concerns/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002183014-trump-virus-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2046,6 +2078,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/25/multimedia/25dc-trump-3/merlin_177600342_5dfff7e7-5111-47bc-8bf4-747daabf50d5-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump plans to name conservative activist Tom Fitton to court oversight agency"
+    excerpt: "The founder of Judicial Watch would sit on the D.C. Commission on Judicial Disabilities and Tenure, which has the power to remove certain judges for misconduct."
+    publishedDateTime: 2020-10-03T01:25:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/tom-fitton-trump-court-oversight-425674"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/tom-fitton-trump-court-oversight-425674"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/tom-fitton-trump-court-oversight-425674"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 131
+    images:
+      - url: "https://static.politico.com/5b/2f/2781a5054bdeb5f8fad86b29dc81/201002-tom-fitton-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "'An easy selection': Trump settled quickly on Barrett"
     excerpt: "Even as Trump world tried to draw out the process and float other names, the Supreme Court decision was mostly made: Amy Coney Barrett."

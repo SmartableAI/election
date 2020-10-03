@@ -930,6 +930,22 @@ related:
         width: 1500
         height: 783
         isCached: true
+  - title: "This chart shows the dozens of high-level officials Trump has interacted with over the past week and the results of their COVID-19 tests"
+    excerpt: "Trump was in contact with dozens of high-level government officials in the days prior to testing positive for COVID-19."
+    publishedDateTime: 2020-10-03T01:47:00Z
+    webUrl: "https://www.businessinsider.com/chart-who-trump-interacted-with-their-covid-19-test-results-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/chart-who-trump-interacted-with-their-covid-19-test-results-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chart-who-trump-interacted-with-their-covid-19-test-results-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f77cc98282c500018c786dd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Mike Pence and Ivanka Trump visit salon damaged in Minneapolis unrest"
     excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd’s death, part"
     publishedDateTime: 2020-09-25T00:38:00Z

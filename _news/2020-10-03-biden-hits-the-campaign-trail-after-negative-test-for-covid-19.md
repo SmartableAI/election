@@ -3,8 +3,8 @@ category: news
 title: "Biden hits the campaign trail after negative test for COVID-19"
 excerpt: "Democratic presidential candidate Joe Biden said President Donald Trump's coronavirus diagnosis is a \"bracing reminder\" that the pandemic needs to be taken seriously, as he campaigned on Friday in the battleground state of Michigan."
 publishedDateTime: 2020-10-02T18:50:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-biden-int-idUSKBN26N2XX"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-biden-int-idUSKBN26N2XX"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/after-trumps-covid-19-diagnosis-biden-says-masks-not-about-being-a-tough-guy-idUSKBN26N2UZ"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/after-trumps-covid-19-diagnosis-biden-says-masks-not-about-being-a-tough-guy-idUSKBN26N2UZ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2XX"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2XX"
 type: article
@@ -233,6 +233,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden and his wife test negative for coronavirus"
+    excerpt: "Biden recently attended a presidential debate against President Donald Trump, and Trump later tested positive for the virus."
+    publishedDateTime: 2020-10-03T01:11:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f77304f0ab50d00184adc56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Wall Street trims losses after Trump’s positive virus test"
     excerpt: "Stocks are pulling lower Friday, as Wall Street’s first reaction to President Donald Trump’s testing positive for the coronavirus was to retrench."
     publishedDateTime: 2020-10-02T19:17:00Z
@@ -248,6 +264,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/kCkLsUm5I0CAV3Ot9jKuYoNyEdk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEAOMVAHSCW5GEM4BZEB3KU2BI.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Wall Street closes sharply lower as Trump tests positive for coronavirus"
+    excerpt: "U.S. stocks closed lower on Friday as news that U.S. President Donald Trump tested positive for COVID-19 put investors in a risk-off mood and added to mounting uncertainties surrounding the looming election."
+    publishedDateTime: 2020-10-03T01:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-stocks-idUSKBN26N1W8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N1W8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N1W8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535864109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9116Y"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
     excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
@@ -489,6 +521,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Democratic nominee Joe Biden campaigns in Michigan after testing negative for coronavirus"
+    excerpt: "The former vice president delayed his scheduled trip to the battleground state in order to take two coronavirus tests Friday morning."
+    publishedDateTime: 2020-10-03T01:39:00Z
+    webUrl: "https://www.cnbc.com/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 116
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106712128-16007764692020-09-21t201730z_1749449824_rc283j97mwkc_rtrmadp_0_usa-election-biden.jpeg?v=1600776508"
+        width: 3500
+        height: 2334
+        isCached: true
   - title: "On Monday, Trump updated the nation on coronavirus strategy. By Friday, he tested positive."
     excerpt: "Trump interacted with scores of staff members, donors and supporters this week. It is unclear how many other aides who had come into close contact with him had tested positive."
     publishedDateTime: 2020-10-02T08:40:00Z
@@ -584,6 +632,22 @@ related:
       - url: "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump, 10 others test positive for COVID: A running list of everyone being tested and their results"
+    excerpt: "White House officials said Friday that President Donald Trump is feeling only \"mild symptoms\" following the announcement that he and first lady Melania Trump have tested positive for COVID-19. Trump announced his positive test early Friday morning,"
+    publishedDateTime: 2020-10-03T01:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/eb69e2d4-d811-4488-894a-9373d66ee7d6-trumpmask.jpg?auto=webp&crop=4825,2714,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Dow futures decline as stock investors worry as President Trump says he tested positive for COVID-19"
     excerpt: "The stock market appeared headed for a sharp drop early Friday morning after President Donald Trump said he and his wife, Melania, had tested positive for COVID-19. Dow futures  w"
@@ -701,6 +765,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump's COVID-19 diagnosis doesn't stop 2020 fundraising"
+    excerpt: "Partisans continue searching for every financial and political advantage possible despite President Trump's coronavirus diagnosis."
+    publishedDateTime: 2020-10-03T01:39:00Z
+    webUrl: "https://www.businessinsider.com/trump-covid-coronavirus-diagnosis-not-stopping-republicans-democrats-fundraising-money-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5f775a7374fe5b0018a8ec3d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z
@@ -757,6 +835,22 @@ related:
     quality: 101
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/6000d549-6f0f-4dd7-b2d2-820321df3c1e-AFP_AFP_8QZ69N.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Cowboys' Jerry Jones calls Donald Trump 'hardest worker you've ever seen,' is confident he can govern through COVID-19"
+    excerpt: "Cowboys owner Jerry Jones on Friday shared his concern for the president but said the \"hardest worker\" Donald Trump could govern through COVID-19."
+    publishedDateTime: 2020-10-02T18:13:00Z
+    webUrl: "https://www.usatoday.com/story/sports/nfl/cowboys/2020/10/02/donald-trump-covid-cowboys-jerry-jones-calls-him-hardest-worker/3592332001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592332001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592332001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/12/USAT/ee4221ac-e138-4a58-aac7-a775e2933690-USATSI_13255671.jpg?auto=webp&crop=3931,2211,x0,y154&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -936,14 +1030,14 @@ related:
         isCached: true
   - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
     excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
-    publishedDateTime: 2020-10-02T16:25:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892854002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892854002"
+    publishedDateTime: 2020-10-02T12:42:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5892854002"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
@@ -990,6 +1084,6 @@ related:
         height: 1369
         isCached: true
 
-secured: "2UPcWhdXNb0g7XXOkbWWKK31VmXtbvwxJLyEi/OXyOXAzPG8TkA7ari/Q2qJ7OWvtyj67ZktHeYn73Jon/UxSwnuoJiiXz3j/qSJakioXgTd/hY8WOiRQbVzBstPnjTaRKGz3llOJiLPDSetKsJjY9fePgMRrVP8s+/MMDWUgpYoImqoTzu/hQ5sE9aR91mNcDR2gm1bB45gLkz0i3Rce+tkk93TY7zQuWevX/Y/Ja4CA70swFN3kbvEN6hmqPMS8cUi2rNhRAQwAVLyMMh8q6bcy1tDBapHkAj+6BAzt9UaWG/cz216wk/yklBdtKU+FQ4jo7uTtZ9sRcvuZkEpvWnId5T3ETHenWX5ndj8b2BUQuG2w9qgke0JDZASH2geMB6KczTwfNnYSlovxkS53k94JP3OcO9Lz3Lfpqnmyaj3OM3jUH105rxzd8JkjDIqU4mIqazAOs9VpUv+B2IgIKJMwbKapIg5GBNFIhneCaNc0oumTGRaYfaJ7peLA+hL/kj0nd5pDyPbdZF9+e0Tyg==;zzHFkijLTweVD7r9evXbkQ=="
+secured: "A1rN/3ooY7LTN4rGG9MtThzMg+ZqsDjaWFl1umQpYtZDVD91uZ3HWMw2MGDgxKUcMP8VWdYKRNoaBnqWd44j11Mm+VGxL+DerOf2WGkw5u6ZF4gBvtOCG6xuHmqhGlvBWQiARUrJPX7iom3U1zPZJXF3bhuVw9arQDfHOXc7sc2w0v0om9Yp6TEJi5GiAijH5ObjtbO1A/gDiwFbPvI4EAuS8g+HV2cdRbxd6XtnZ1d03DyCbz4MG7TEJ8xJeTDwx74xr5a1DK4xYyzT3tZTAm3w5tA/duFRIjAjE7b1sQv0sMTEQ2hDXbA7HPo2n7ebTYCzyJcL7W0gwYkTdT7JpbNlpsfbr7JfbW6ikOH3BUH0DrMXj5jrAt4Fl9DF4giJxv4b8gAozzNRy6LTgbR69lQgp1+AEsZu2uqQ/lE3mrZWNSE9EeNWVisv9ptEriboA7j2XrNK/4dUxdPL9MQ0E/mSqNP6R0+KqF5Led6sQl+xhGcuqOrn7OqK2yiUbXxRHcy2JRM3noUpllax4dz04g==;/XMemsAWXgjx5XnyVa0xyQ=="
 ---
 
