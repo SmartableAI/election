@@ -501,6 +501,20 @@ related:
         width: 1102
         height: 551
         isCached: true
+  - title: "You Asked, We Answered: What to know about President Donald Trump's COVID-19 diagnosis"
+    excerpt: "USA TODAY breaking news reporter Grace Hauck answers some of your biggest questions after President Donald Trump tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T18:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/president-donald-trumps-covid-19-diagnosis-you-asked-we-answered/3609967001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?quality=10"
+        width: 2883
+        height: 1922
+        isCached: true
   - title: "Trump told journalist Bob Woodward: 'I'm not' worried about contracting COVID-19"
     excerpt: "President Donald Trump told journalist Bob Woodward in April that he did not fear contracting COVID-19 despite recognizing the disease's threat."
     publishedDateTime: 2020-10-03T10:26:00Z

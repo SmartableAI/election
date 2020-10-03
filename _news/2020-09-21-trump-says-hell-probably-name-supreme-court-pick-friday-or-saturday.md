@@ -176,22 +176,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Top Trump officials seen not wearing masks or social distancing at White House Supreme Court announcement"
-    excerpt: "Many of the guests for President Donald Trump's Supreme Court nomination announcement arrived at Saturday's event with masks on, but as the Rose Garden event got underway, masks were virtually non-existent.\n    \n"
-    publishedDateTime: 2020-09-26T23:44:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9oGIjYHlwGI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/trump-officials-not-wearing-masks-supreme-court-event/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/trump-officials-not-wearing-masks-supreme-court-event/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926165327-10-trump-scotus-announcement-0926-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "What Trump Supreme Court nominee Amy Coney Barrett means for Roe v. Wade"
     excerpt: "It’s time to start thinking very seriously about what will happen next if we find ourselves in a post-Roe, or practically post-Roe, America.."
     publishedDateTime: 2020-09-27T09:12:00Z

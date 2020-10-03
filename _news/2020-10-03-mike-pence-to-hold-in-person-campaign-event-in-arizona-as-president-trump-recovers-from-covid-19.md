@@ -570,6 +570,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "White House chief of staff says Trump is doing very well"
+    excerpt: "White House Chief of Staff Mark Meadows said on Saturday that President Donald Trump is doing \"very well\" and that doctors are pleased with his vital signs."
+    publishedDateTime: 2020-10-03T19:28:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-meadows-idUSKBN26O0WW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0WW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0WW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1536044872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG920Q4"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -1276,6 +1292,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to continue campaigning despite Trump COVID diagnosis"
+    excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
+    publishedDateTime: 2020-10-03T17:55:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5892854002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 86
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
     publishedDateTime: 2020-09-21T22:55:00Z
@@ -1797,6 +1829,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "8gU+oeORWXI78mmfxB9Ney3hDK1TqBrQH+U6y0NNnkhy9fj2kknSQIwcv1Rv7xbkjdAbO9RfPAUtA6mqqL8T9m0mpavroOnesv4H7mSzp7XTAHXEPQGMmSjTjs4f4cX5TBONU/9xkYf9x3fHPqygisAgW6ynrVwRbSzL370DJDjoAOTDH7Z9DP1RySvQfHwVJN6cfCKU5YhnsJaaUXsd03ZvVWqMj5qQDNXl8TIJKa/mDilV/mqEB60E6gr2mV0gQEVmR8gTMbIWsMSoeIfJd+cr5BcYtYSGNmQselPEIN9y6nCw1zE72doWZNY7FDCTJgssGw8l4yXoPxM6zlqFrrqMijTWWP9B3VkxaTpD1H8=;vsPWb9iKLTSG8nwreP6tZA=="
+secured: "Av5Sk02sY9OB4b1WuI+BKGK83p25bpXZreh5MTkJrWsg4sexQa9/ENYiiwTwBv2XB1hyfeDqxiNr0gxzD17z2vWAUaKQU2lBlKOZhTVe5bk3EYk5a7fm9rsuILJqv/5D87p5akj2eKlq4VBwCqvjMqfG28CxmAdpi0MqCmjNYJVToYRTwU7h6PGJbBbRMojRcq/kFWeA7/pKnuddp8+Bxz5lrIDI1rTwFC9RDHq4AaV4aDBqXlwPe2E59moG5fmocQ/6EAPzHcFNIf6qxA+vdms33kiP5Uc9YW5q/+8NoPsnTya0u/4J+HuvUpxpFPO08ZAK1PnLheChjzYLeoPMmBvVOvobu4E32ZvTVA3FCNCswIKod+fXBaDeFygIZWNmKARnIaf1bC7+Q/2C0bjNJlmXBYOHEUDYvPpvP6SMLbkk9KVRC/V1/INxpck6sSYUHelmxt+KOy/jZDwZUbXazTTDhloAfBHalpNUXfOXVAYZm+hlUQvBRailSwk0QYfh8jS6+1eb9FtDoJ9WV6wPwg==;51ILe5m5n1jO2lODm42iYg=="
 ---
 

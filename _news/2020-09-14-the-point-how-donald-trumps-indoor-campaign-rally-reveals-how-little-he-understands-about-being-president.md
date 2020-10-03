@@ -31,50 +31,111 @@ images:
     isCached: true
 
 related:
-  - title: "What Matters: What the most epic pardon of all time tells us about Trump"
-    excerpt: "Forty-six years ago this month, President Gerald Ford made one of the most controversial announcements in American political history: He pardoned Richard Nixon.\n    \n"
-    publishedDateTime: 2020-09-13T11:04:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qOnDOqKojEw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/gerald-ford-richard-nixon-pardon-wolf-what-matters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/gerald-ford-richard-nixon-pardon-wolf-what-matters/index.html"
+  - title: "The Point: Trump's coronavirus problem isn't getting better"
+    excerpt: "With just 51 days until the 2020 election, it will be here before you know it. Every Sunday, I deliver to your inbox the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-09-13T17:44:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200708150529-pardons-explainer-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump goes after Black Lives Matter, ‘toxic propaganda’ in schools"
-    excerpt: "Speaking from the National Archives, the president positioned himself as a defender of American exceptionalism against activists trying to destroy the country’s sense of self."
-    publishedDateTime: 2020-09-18T04:18:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/trump-black-lives-matter-1619-project-417162"
+  - title: "An 'exhausted' Trump's long path to coronavirus "
+    excerpt: "When President Donald Trump stepped into the dining room of his golf club in New Jersey on Thursday, high-dollar attendees gathered for a fundraiser there thought he seemed a little off.\n    \n"
+    publishedDateTime: 2020-10-02T21:44:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/alEIB7jj-64/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/b399655f-bb8b-4dbf-8b62-3469aeff5cd2/ed400a91-b97a-4054-8369-a50fcca3e4e0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002142052-02-trump-melania-0929-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "NEW: What Trump will say about a Covid-19 vaccine"
-    excerpt: "SNEAK PEEK … PRESIDENT DONALD TRUMP will hold a news conference at 2 p.m. and is expected to give an update on vaccines. He is expected to say the U.S. is on track to have 100 million doses of an approved vaccine distributed by year end -- the distribution plan,"
-    publishedDateTime: 2020-09-18T17:20:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/09/18/new-what-trump-will-say-about-a-covid-19-vaccine-490376"
+  - title: "Fact check: Trump says his coronavirus deception was Churchillian. Scholars of Churchill say he's wrong"
+    excerpt: "President Donald Trump argued Thursday that his decision to mislead Americans about the severity of the coronavirus threat wasn't just the right thing to do -- it was positively Churchillian.\n    \n"
+    publishedDateTime: 2020-09-13T14:26:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-IcolBZnTA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://static.politico.com/82/65/eee9c1784cd78a6208da56872dbd/200918-trump-ap-773.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911203714-donald-trump-winston-churchill-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence aide blasts former coronavirus task force member who criticized Trump"
+    excerpt: "Retired Gen. Keith Kellogg, the vice president’s national security adviser, said he was “not proud of Olivia Troye.”"
+    publishedDateTime: 2020-09-22T15:23:00Z
+    webUrl: "https://www.politico.com/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 148
+    images:
+      - url: "https://static.politico.com/c0/dd/d809e0514280ba562d91c7a20674/200922-keith-kellogg-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump: 'I didn't lie' to Americans about coronavirus risks"
+    excerpt: "President Donald Trump on Thursday insisted \"I didn't lie\" to the American public about the severity of coronavirus, despite having told journalist Bob Woodward in March that he'd been ..."
+    publishedDateTime: 2020-09-10T23:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-says-he-didn-t-lie-americans-about-coronavirus-risks-n1239809"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239809"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239809"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_37/3411237/200910-donald-trump-se-421p_3ef31d1fd5ccf1d27585c0d37ddd77da.jpg"
+        width: 2500
+        height: 1629
+        isCached: true
+  - title: "From masks to disinfectants: Trump's coronavirus theories"
+    excerpt: "Here are several times that the president downplayed or endorsed theories dismissing the severity of the pandemic."
+    publishedDateTime: 2020-10-02T13:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/masks-disinfectants-trump-s-coronavirus-theories-n1241793"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241793"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241793"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416925/201003-trump-coronavirus-mn-0740_68feaad9839ca1bbfc3d8938263fd2d6.JPG"
+        width: 2500
+        height: 1406
+        isCached: true
+  - title: "2020 Election Live Updates: President Trump Is Hospitalized With Coronavirus"
+    excerpt: "Mr. Trump is currently at the Walter Reed National Military Medical Center in Bethesda, Md., where officials said he will be monitored for “a few days,” strictly as a precaution. Mr."
+    publishedDateTime: 2020-10-03T11:34:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/03/us/trump-vs-biden"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 107
 
 secured: "YWGWlLCR51g4kksYvdVyzDiAi8V4R90Y5sAlIoLnFFwPWG7gBMYOOWu02xVV35kG4F/7scf7B4Y51kzv1dC3GNRUM29TqDfGRutEPU6SN3FVV1GkVIwIeTNPKeqN5UotDuBTg1QbBidCkM2zZlKKE+Zjbe/MP1Wttb5Gp6zjIO/9iCUfCImbWG9b1oMbiCc+FQ/I7soXbP7yQjKzQF3cJ0ZmfHqI0vyTFtDUEHWw1/Jn7JueHbsUKqt6QD5hMEEQreFHFcIfcSimrY1kKKb5162fPNaYhsj3DoAUCODVUbgXUTR2k4ARS0zq8HSgUz9CGHS1x/l2XDmf4Q8RVNdbArQxeTje99wwYbUDwjdrpig=;lCBTTwZNDNFtQQOfsjb91g=="
 ---

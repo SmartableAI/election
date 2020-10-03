@@ -1450,6 +1450,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Curley: Joe Biden’s decency act has grown tiresome as Democrats wish death on Trump"
+    excerpt: "The Democrats quickly went from bemoaning President Trump’s disregard for Justice Ruth Bader Ginsburg’s dying wish to wishing death on the president."
+    publishedDateTime: 2020-10-03T19:31:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/03/curley-joe-bidens-decency-act-has-grown-tiresome-as-democrats-wish-death-on-trump/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/03/curley-joe-bidens-decency-act-has-grown-tiresome-as-democrats-wish-death-on-trump/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/curley-joe-bidens-decency-act-has-grown-tiresome-as-democrats-wish-death-on-trump/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 84
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/09/AP20261043790859.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Donald Trump Accuses Joe Biden Of Drug Use, Twitter Shades Him With Adderall Comments"
     excerpt: "Donald Trump appears to be upping the ante when it comes to insults he is trying to sling at Joe Biden ahead of the two meeting for the first Presidential Debate this week. However, his latest attempt to smear his political opponent may have backfired."
     publishedDateTime: 2020-09-27T15:55:00Z
@@ -1719,6 +1735,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "xXQG0MdAB7SQq9rfh8xePbO4fge5GmzaDDUgiwhdj2DpYGl+YoEXWDtvR0epYymUqC6Rx6LN1IklFtSLHyQ/t5+7hn0fA0RUkw6xl+uz0e/UFlOHzcki1Vnis01TmECq4KCxmq0xq77Y8ZFCBj/YVuW6kLYBw5A1H5zMZj7Y+cIE1FvaTu31RmJsIauxDw2CJPvRLngxezIp9dW4u3RT+9swvVQiplG6Ei/Y3vXHnEXktjXrwVRCJKacUZYgtZLmBU5HmJh72RhY6d6CHRUF1vTvo6KLN/TTVqeewmQQdHiOdGVinA+4XSu890LSmNzXtZ/OJWcP3SumhDu7qSPZqQJyhLD2vP3IwS2mKQM3KZA=;HcEK89AW2L52TX/YrKclVQ=="
+secured: "1V0SSZxL8P5Rvvi+quVLttqghG/eWbTDVkrZuVwrRipQVK0cq8XqvtlWuZYlknxOFVSCGYKchOMYgIn4nSD59TxToblc8T3FuoeG/fPDApcztoWiVp5aXg3Tdrz1WfEUGli3qIGzPkb9aBponVP6A7O67ScAhXYzMB7vhBoSNtLlZGrRG7U0RA2C8lTk/ibvjwcaea+UUPq8Dr3VtxAX75tLkncdKzp/TycQaoGXqn2daFu/yFb4/uazuxhnTipsfK00ZXdjlse3QrLHFYWy2F/of4hA2cStk+zk8b3xY7ugxnrKr7fpT8T5WnqE0JI20SAZbUJeNVZ30HnUq3XEMid3wuio0coFTbiTE8zGoGdG/jgwwFmWGzNtdTaoJJLd6rvIU9mV66xNi4k84HCsMZ+pZez+V3tfO/2Eo/P898zhjOauLK8Z0r0dDNOfzHav9DoO1RFRCr2huNfm39eifPU78rQ3/gV0gKJfRUoCbqBvdO6iX5nxYPobMieMnuQAi24EWQaZPU/HqKjjmMIenw==;CSJBV3M1ueZioD115yXruQ=="
 ---
 

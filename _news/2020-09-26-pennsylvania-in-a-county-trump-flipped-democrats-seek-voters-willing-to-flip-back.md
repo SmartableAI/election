@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Secretly recorded tapes show Melania Trump's frustration at criticism for family separation policy and her bashing of Christmas decorations"
-    excerpt: "First Lady Melania Trump was secretly recorded in the summer of 2018 expressing her frustration at being criticized for her husband's policy of separating families who illegally crossed the southern border while at the same time needing to perform traditional first lady duties, such as preparing for"
-    publishedDateTime: 2020-10-02T03:09:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPz8Dz5NMls/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 141
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "P5iQbtTA4JfSJjJHhTvyDk2GYGgdqif1qPAlX3n7bV4fuaEggUTnp4NrX1BkGQOzvwr4x8LDYo1edBnGB+qgW1RCRr5WJ6c+MuJRP9n7t0ZPiWarta8kYjMkpu58zrZgw1C/gWk+k4VAJVWGjUxCE9rXCWincWA44kEhWhuiOzqf7wgySRcRri59rh3Mbx1rYgJWUuytrmXFGDhAH7xslUw3z0FRWoYSFswZcpB9gn/xTjWoyQo31m9Mmgkm20/wyRPp3jkOTmZCZXb8IVYHUGSd8jdJyKqPudw+yjmxV73dx6/HhyEC1NArqxkXazFhrwmMwt9+c1RBbLlABWVYepdpCQELWf1cv5ONhWwyLLD74Nc11gtLRoO54u4BBje+aFWLEI4F31l4KXw13VVZZsv4VkMB5McHwLLhodkr3zujeEQpUPY0+gG5CbGScf/Ystg1IeSWRgIcMKVbQ3vE2PrKHt6u/EA8Gr22YJozC+nLp3hFqhKjObIUkMs9Ue3xaT7rXCs+fNSRngnynodvSA==;0tiE9AnLlUs4JzJf6wFhDQ=="
 ---

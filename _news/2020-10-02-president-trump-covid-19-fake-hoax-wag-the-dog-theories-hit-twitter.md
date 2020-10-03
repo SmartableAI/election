@@ -497,6 +497,20 @@ related:
         width: 1102
         height: 551
         isCached: true
+  - title: "You Asked, We Answered: What to know about President Donald Trump's COVID-19 diagnosis"
+    excerpt: "USA TODAY breaking news reporter Grace Hauck answers some of your biggest questions after President Donald Trump tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T18:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/president-donald-trumps-covid-19-diagnosis-you-asked-we-answered/3609967001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?quality=10"
+        width: 2883
+        height: 1922
+        isCached: true
   - title: "Daywatch: Trump tests positive for COVID-19, inside Democratic Speaker Michael Madigan’s job machine and a guide to the Midwest’s fall foliage"
     excerpt: "Late Thursday night, President Trump tweeted that he and Melania Trump tested positive for COVID-19. Earlier in the evening, Trump said that he and the First Lady were beginning the “quarantine process” as they awaited their test results after one of his closest aides,"
     publishedDateTime: 2020-10-02T11:24:00Z

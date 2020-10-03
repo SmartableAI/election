@@ -64,22 +64,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Trump's taxes raise IRS red flags. But his flouting of civic duty is equally concerning."
-    excerpt: "Taxes pay for all that we do together. We need them. They matter. But our president calls into question the very nature of that collective effort."
-    publishedDateTime: 2020-10-01T08:43:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-taxes-raise-irs-red-flags-his-flouting-civic-ncna1241623"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241623"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241623"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416490/200930-donald-trump-1989-ac-657p_ea32ad4656a4da3a6147911405a83890.jpg"
-        width: 2013
-        height: 1262
-        isCached: true
 
 secured: "ILgfaV/oD7/vQIM5Ups5aaq+ot5xdSeMAPfb8MaO2EPvnnuj886+g6cXzemeifEfp8qo1dBWi52sKOa7OPFMNUX+TKR/buP65BCUhpc/ecmzlCvFOZy+11oGM1E6frvENvPKVsKm+vRBncrf8Ad25FFvr33pOBH5Q/MQ2HX00ClcQaslkR2OGB7M1DMdEUjqpJ7Yrhg14GE7nl0hjCLdff8/b8I9zEMpOKUaJxd5Wha8diMP4O2BBNC+Yr9nmGTOtXFpxC7GDPlej1A7B90AxB481J/KuE+KtQjK3FjBl9y7SHelR+7veogGOoUyAIsdvCejFNqKn8D6reWpBFilPhbCkF5blJUsNH8r3DeObXY=;pof2thSstnVHVRgyq69yMQ=="
 ---

@@ -24,31 +24,38 @@ topics:
   - Democratic Voice
 
 related:
-  - title: "Engage or Proceed? Debating Trump, the Unpredictable Aggressor"
-    excerpt: "Joe Biden has the scouting report of the president’s past debates and four years in office. One way to use it? Respond to unpredictability with a simple, “Here’s my stability plan.”"
-    publishedDateTime: 2020-09-28T18:59:00Z
-    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/debating-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/debating-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/debating-trump.amp.html"
+  - title: "Twitter bans posts wishing for Trump death. The Squad wonders where that policy was for them"
+    excerpt: "The four progressive Democratic congresswomen known as \"The Squad\" expressed surprise on Friday night when Twitter posted about its policy against wishing harm or death to someone in light of President Trump's Covid-19 diagnosis.\n    \n"
+    publishedDateTime: 2020-10-03T18:21:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5EP6Kmbcxto/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 164
     images:
-      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28lessons1/28lessons1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190714042443-tlaib-ocasio-cortez-pressley-omar-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Viktor Orban Joins Despot All-Stars Backing Trump 2020"
-    excerpt: "The far-right Hungarian prime minister endorsed the U.S. president, chiding Democrats for pushing “moral imperialism” on the world’s conservative leaders."
-    publishedDateTime: 2020-09-21T11:48:00Z
-    webUrl: "https://www.thedailybeast.com/viktor-orban-joins-despot-all-stars-backing-trump-2020"
+  - title: "Bipartisan 'get well soon' wishes for Trump, but some Democrats send pointed message"
+    excerpt: "Bipartisan 'get well soon' wishes for Trump, but some Democrats have a pointed message WASHINGTON — Messages for a quick recovery from lawmakers and world leaders began flooding in Friday, reacting to the news that President Donald Trump and first lady Melania Trump have tested positive for Covid-19."
+    publishedDateTime: 2020-10-02T19:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/bipartisan-get-well-soon-wishes-trump-some-democrats-have-pointed-n1241777"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241777"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241777"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416929/201002-trump-covid-mc-12384_203f8fcf21e8fa4132ee87a76159b3c4.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "MPnL7hbMKp5QlMe6+AyKisfjZ8w00wqpA+rZQJhxbZlzCH64modsS1ui0W+t1LsePklpjLoGgWDpKnGztx4aoV8zrsrBA1T4BRKiuiULK9VWxo4orBGX0nSXy5jzWYJ+bMaeeo1eXJG7r41PFkvjPxJORc6WBGJEUuZ+8VgXFIBNu19exu2BrwJAnF7GdZF/tk5//Xt/lE2c/TpRg/mWJb94f5MEKO9b5sUcgAz9QxiOjx1sICwscPLbAFbTcV4mwRjc6G042efy+AB6Iuhjxf7msL1NgCL0xlX8XbRJ60rTi147iciRlJcsFEmb5DptMiqu15w6QmZcuIidImV8wqlNGx/cXpZy8m5tOAXnhYVFMbg+Qc2vxXsrOdBBU5YajHYWQ1Figy2ld3zeyocBIAlgOqN4VUpWmt0Gkp5k4d6sOYR5C9ao3A4FLI8uLm56RvSvhIlSVWlOEeCHu6AqmnpUqbhWv6cal+KGg3a1xX71vXVGdK3wN/tAWvxNOKDiRZrJY4munAlLmFRiBWvbgA==;4sbhhYfCauSmBrLdC57XOA=="
 ---

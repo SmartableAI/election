@@ -485,6 +485,20 @@ related:
         width: 1102
         height: 551
         isCached: true
+  - title: "You Asked, We Answered: What to know about President Donald Trump's COVID-19 diagnosis"
+    excerpt: "USA TODAY breaking news reporter Grace Hauck answers some of your biggest questions after President Donald Trump tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T18:50:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/president-donald-trumps-covid-19-diagnosis-you-asked-we-answered/3609967001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?quality=10"
+        width: 2883
+        height: 1922
+        isCached: true
   - title: "Daywatch: Trump tests positive for COVID-19, inside Democratic Speaker Michael Madigan’s job machine and a guide to the Midwest’s fall foliage"
     excerpt: "Late Thursday night, President Trump tweeted that he and Melania Trump tested positive for COVID-19. Earlier in the evening, Trump said that he and the First Lady were beginning the “quarantine process” as they awaited their test results after one of his closest aides,"
     publishedDateTime: 2020-10-02T11:24:00Z
@@ -678,6 +692,6 @@ related:
         height: 1369
         isCached: true
 
-secured: "jJ8d0rHMPiRf/a8D8dycmy3ctlbaEaWz7glkiWjQmdxOtf9zykPAGp/GQMU2T0qfrlKYIBB1c/YNWtBO6564KdjhLv9bVKd07eaLK/uLpeelrjWlk+ALee30NHLSyYsjzgsdwCXVMfH2Y2cvH7U9wcJ6qiD6HVrQgFZxvW0EfSkLTzwp7OhN0J9GZb0MjDWPtIDLLoQnr1oCnGd2Mt3mwYTx23Tc4x4ga17b2WsgxHfykqgyMXdDGwOxioZ9sL2zcp8iZbdbHIsoH98Jnbw96xIrBYAYFY/3/MVoNwfccgzFMWQm+t2KlhdWf2vMlzRbK/9mPXzseH/SpkzVV97E2SYYiEp8iJyY9aBH/tRCfCM=;2YKNPMRhIt49oxLsx55pvA=="
+secured: "CsR0PKpBLz6xGJ+Mr7QDdDgmPqj/DsAFiSX5Nru5D3hD2rZYYo5ueAwJekuxZZlAIVymUe7UVUV/vIfQum48FP3GJVLtJt9+5gYH9zYo1PFe3XXSwV5gAumjVRUA9pvFuloLfZssT9edq9j4g0LBM1sNKd0J7T0avsZTx51y5+uVxKWYT90uEy3FlcUGafU3W6hKY2s0phNAYkzXu0kT8uji4jKRIS7JKAd6lmks0ZfoFq8gzDGSxAw5XK8bnM3TQAHwL5/mtKO2Ou7p7vOdochqbxC+INj8S4ej0oMOkQFetV1g1P4kULLTBf4XvJj15Unbd9tP4NI1XtGtpBMWXMo8VTXHTPHETud2LcM2exaafDUj+BvTumGSpSSY6q0CdPiQ6zrwbhdapBgOBAKyOx8K9ecnIOKilnfpzI2Y2lJzcQFoaixkV9Y2vUpfFnYZS00UuhkbJ7Wu2xDFb0f47f43HM5wg1UYF4yZdg/u/ZEAN/z7fwLmpaqLD0Hvj2JE9iIpy8hwuH7fn3l3CrunlQ==;kwAvcbI93bsRGfZf58/hOQ=="
 ---
 

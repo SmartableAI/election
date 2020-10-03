@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's performance was a gift to American democracy"
+    excerpt: "If Trump’s questionable display brought us one step closer to seeing the reality of who he is and what he means for the country, then Trump unwittingly offered us all a gift — a clarion call to step up now and save democracy itself."
+    publishedDateTime: 2020-10-03T19:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy"
+    ampWebUrl: "https://thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdebate_getty.jpg"
+        width: 645
+        height: 363
+        isCached: true
   - title: "Trump says he expects to have coronavirus vaccine for every American by April"
     excerpt: "President Donald Trump said on Friday he expects to have available enough doses of a coronavirus vaccine for every American by April."
     publishedDateTime: 2020-09-18T19:48:00Z
@@ -216,6 +232,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLGSSFX6YMI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 959
+        isCached: true
+  - title: "The American People Deserve to Know More About President Trump's Condition"
+    excerpt: "T he world’s attention turned to U.S. President Donald Trump on Friday, when we learned via his early morning tweet that he and First Lady Melania Trump had tested positive for"
+    publishedDateTime: 2020-10-03T19:39:00Z
+    webUrl: "https://time.com/5895970/trump-covid-19-health/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 103
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/trump-health-covid-19.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Donald Trump Is Losing On An Issue Voters Care A Lot About. Here's How He's Trying to Change That"
     excerpt: "With nearly 200,000 Americans dead from COVID-19 and millions more who lost their health insurance when they lost their jobs this year, President Donald Trump tried this week—as he has done throughout his presidency—to change the conversation."

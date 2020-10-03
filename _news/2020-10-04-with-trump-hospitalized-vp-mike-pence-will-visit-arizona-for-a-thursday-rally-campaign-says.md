@@ -2,23 +2,29 @@
 category: news
 title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
 excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
-publishedDateTime: 2020-10-03T17:40:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3608558001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3608558001"
+publishedDateTime: 2020-10-03T18:08:00Z
+originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+ampWebUrl: "https://amp.indystar.com/amp/3608558001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3608558001"
 type: article
-quality: 59
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
@@ -123,6 +129,6 @@ related:
         height: 630
         isCached: true
 
-secured: "CQdCgLivXnU1jSgE/Q1RKnKNbWjorS8pIXd8Q5n3qaDftwH9GgWW1TjtManikREKYo4djMNta1cs6NxnQsuOL92Zuwf8Rtmj/FNhuwsAVhgbFaQArVjPh8T07KGuf5ukSbrt+dGH6oCEOpdbMrPt1IIcTTSfXB6vJEUcmdYaIss9cs3QCWNaq2h2giLb9dUNMP5HtEyN6hbBPanvvhlIEO+HeKQlrwLdKHMfgSMdnGyD+HQwvuDEMU/QNGETgnx0kcBfgfUZiDSrgH337QP5PHwJLLFY/LroVCbST+r0Ga9Ljv5s1miYbmptfStKvpCztyA+XerGpffbIipP5Hxdc3mflOZz8ietvWVNQEXmllByK4sNaWzwHs71Kn5p0crvl26/AQ3goh/wAyA2Cxb+OwjplOrN2Y8QYUXMfMwqX5GKhO1KhRSJdkE5GeBWBKQR64ealNL21nzfWRGnQKccCBShjqDzKiZMc/Q306Q1USFfgKk/cGk7CxSVwnXnb0PHY2xmiNwcs9vfKP4Z/nk5wg==;Gy7VYp3Ku0Dh8aA+njRLSw=="
+secured: "ybQGEHHmWuYCSEAXJ2ARDR+R8ugJJr3d4wcIFLYi7EvqBHTqZHcyAWZfn0MwOsKrPkWFcSPStJal+YQV3KmTITyVtDzTePRfhcnr8EgTS8klctkzwwhd4U4SMRsYKsS2RX1/E3L9p3HoDJpSr5aiiIzeBbbpn5VV/vNz1spUYKOtXvmgcXvQ1O8IjyditbOV5Nk0pNswhlvJ3aYpP652MxI24bNTqp9rIYiY/m/j3kz2IQgkIdM1y9O3ihnxm04GVojHcAuXxahQvOyWraOFyENouzzF2ArWXUHM+E+C/7UxY3sNt4NV52+kL1yH10rVJETM+2LXicGqvyUqhrA3+tyQwg95aqSu7age66slpG8=;1J3QNWFdAU/zGPbt6juRgQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboar
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html"
 type: article
 quality: 170
-heat: 210
+heat: 190
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Secretly recorded tapes show Melania Trump's frustration at criticism for family separation policy and her bashing of Christmas decorations"
-    excerpt: "First Lady Melania Trump was secretly recorded in the summer of 2018 expressing her frustration at being criticized for her husband's policy of separating families who illegally crossed the southern border while at the same time needing to perform traditional first lady duties, such as preparing for"
-    publishedDateTime: 2020-10-02T03:09:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPz8Dz5NMls/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 141
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Pennsylvania: In a county Trump flipped, Democrats seek voters willing to flip back."
     excerpt: "Democrats are hoping to reverse Mr. Trump’s resounding win four years ago in northeastern Pennsylvania’s Luzerne County, but they have a mountain to clim"
     publishedDateTime: 2020-09-26T13:04:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241777"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241777"
 type: article
 quality: 128
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,33 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Twitter bans posts wishing for Trump death. The Squad wonders where that policy was for them"
+    excerpt: "The four progressive Democratic congresswomen known as \"The Squad\" expressed surprise on Friday night when Twitter posted about its policy against wishing harm or death to someone in light of President Trump's Covid-19 diagnosis.\n    \n"
+    publishedDateTime: 2020-10-03T18:21:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5EP6Kmbcxto/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190714042443-tlaib-ocasio-cortez-pressley-omar-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "‘Fox & Friends’ Trashes Trump for Blowing the Debate Over White Supremacists"
+    excerpt: "Host Brian Kilmeade delivered a rare criticism of Trump, saying he completely failed to deal with Chris Wallace’s challenge to condemn white supremacy."
+    publishedDateTime: 2020-09-30T15:44:00Z
+    webUrl: "https://www.thedailybeast.com/fox-and-friends-trashes-trump-for-blowing-the-debate-over-white-supremacists"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 42
 
 secured: "LpWYLtefSo5lh2p463x22AkzkG66X68Wt5xtB2Mjs4GDBq0ksOo4336W+VzyNYPJQzPGPR+Y4nva/sjbZjYsipqNQS9oUL46UbOIK2lzD5dnu/iqn9lpBq7cjC0Zopzg1KQ7tQfbjtK3CPrPihcr50VvB3KeYGzTmbBBBwyGH8zSijKurtnpHoy4RQAxbRxD8oC9xWrcpYXFhuwGIiUSiUqlsIX7y8YuDChAvNIkBVR3J8fkNQtf7qHhgGsGlZzTQzgdIvw1AnnejV1Bcg5kW9NR6VQMXngldKHihkfOvLFzIs095u6Ia3HYzSDNGvQi6+tPj5DqJ1az+RX9TERW3CasyBvN+CT/iV6nL2hQ9OY=;sb0voxIEHMFIbmrmfOjDkQ=="
 ---

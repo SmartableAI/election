@@ -126,6 +126,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Barr accused of 'working hand in glove' with Team Trump, White House"
+    excerpt: "One former federal prosecutor said of Barr, \"The attorney general is working hand in glove with the White House and the Trump re-election campaign.\""
+    publishedDateTime: 2020-09-29T18:49:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3413850/200921-donald-trump-william-barr-profile-2019-ac-851p_2cfe3612ae4433cdb3e04d5d1f7d57a6.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris Wore Timberlands. The Internet Responded."
     excerpt: "Vice Presidential nominee Kamala Harris stepped off a plane to tour the scene of a devastating California wildfire in Timberland boots. Cue a social media chorus of boos and yays."
     publishedDateTime: 2020-09-16T22:49:00Z

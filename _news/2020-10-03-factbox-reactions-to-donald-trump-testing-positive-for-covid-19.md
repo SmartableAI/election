@@ -271,6 +271,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "GOP faces reckoning over Trump's virus strategy, diagnosis"
+    excerpt: "President Donald Trump ’s coronavirus diagnosis was a moment of reckoning for his Republican Party, whose leaders largely adopted his strategy of playing down the disease but are now confronted with a stark political nightmare a month from Election Day."
+    publishedDateTime: 2020-10-03T17:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b646160b63fb44cc87cda580de0d383c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z
@@ -602,6 +618,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "w950tdFKBEm/kyAW/YXF/nPIEcj+CKVyh+2rPxDvIGUCSCONLFKUkMCf1T0AaudbaehRJ2Vf/cYM0M3NTmTr4jbSwMbn5F+OUJm8ZdoE2oohI6VtaYHx/cuUEvo2YxYCuI9xnX/AnYz0Lx/HQTNNYQJNm1hNUEiar1peeHlfdfhzBa9kiaO2aUATbtLXSsKWJSWpgONOBRF0ItbraQ+AhUtkZowzlG08ubueqMnRHwCUQQdsYJrARsqxTwPACBFyF9S9YvTcp6k4lvs29gdC/kSHptVjMxljDqy3BeCvSDGnD06HKi3jMbAGUZHPSZJ2iTY0Hyez2nXDtpA5PojSPXhsYCGN8HUlhgc3pBOmZkE=;LjW3izaBQR/lXMZ/3dm9Rw=="
+secured: "nbd7DINvFhaFjLAVtK2bRCurb9pUXSKE7Hv+vnQtjGqRFy2Uj8qzN784rCMyNJ93qq7EQKutplmEB4Lzs8D6NI70uQBFO3XsPqmrB9W/B+gNSMk09+03O/0Jhoq1mmKjt8xrD16xbWSljNwiPPfOCDhmmFm8WUkMg4srem3pWREPxcxuDU5ZR2KfI750SnCqHSnNRc9eOW40nT956lpxRKYxpobETR8UjhO+Y14UR2M9xcez4QTIm062igcymaBko0s6KxDfHsoFk4Vn+HKq56R87/6hFjCaMkZlEUV3jiGQdfAsht35j96MZ5ttr+f6re6UvV01/RvlnBsA73nfUKpwZOK2NrziK5X5ORARszvYzJ6rpQTUboQStrtotwJ7Hpgb6R83EJPS+kEzcEx84bD4PIrqHKM5pOrSOQGB6BYSozop3TmyD5SitiCdahVi8CFQ3Yd/9vCClYcKpp5HZG5kCArCHqVPJOlBzbSEXxj0QmAEekciLDQlDtzEFVxChusexP1SiT5JV3iFULezrw==;DncNK0OIvOdDt4thrl4Qrw=="
 ---
 

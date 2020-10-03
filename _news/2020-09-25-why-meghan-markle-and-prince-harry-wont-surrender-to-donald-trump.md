@@ -40,22 +40,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Former Trump campaign manager Brad Parscale hospitalized following reported suicide attempt"
-    excerpt: "President Donald Trump's former campaign manager Brad Parscale was hospitalized Sunday following reports of a suicide attempt at his Florida home, CNN has learned.\n    \n"
-    publishedDateTime: 2020-09-28T01:50:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200430103423-02-brad-parscale-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "/uK9sa/ngxKg5VL0Ro1oDpb0EzDjN1Rr32K2ouJhFrbP68KAV6hGZHltGBH2bPa54Ers3ha3L11xy/bafTs60aLErOHrvvpdhWcmWf5kMtQF8xhBFmCwKE8z23E5z21CuFqfNMFvRn0Va1lumUkRinVPJ+MzuMdWWO9aa7YfYhlRgKvXH+6RsCaI7cjGMsuz6M0mJPPXhKCJGzEDdMGPEXhKj/LTRa48Z3RxG+cTXaHc/D1ZJgMT6stad3Z/jHB533s6DJjLYE7YUog2kiee0FLADfgL8rH4OaAWh+09IFb4MJV6zXj2gF8MYlcsE5XctgItHKhVPSXzjFwaOsCkb2WdrW/MKeC5KrKJ/pFry9xLPyi/Rz/ta65p3Z0+aAhJKI2S8zXltmPLVfuqRp8OGdUAVgzeEOqKV7TkWDqm73oO7RvFPfezXDACv3QACHre1BzTZAnTIAjOS7S5u8cAYaPpngwX5yTb4fGldizdFibgpuwNLkFKyY9NSOXIyOaeafdc27cLDanQfkD2oIYEhQ==;0qfHFv4ZR2SdBAY/wRCJ/A=="
 ---
