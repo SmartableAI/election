@@ -159,6 +159,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Trump's COVID-19 symptoms 'very concerning', next 48 hours critical, source says"
+    excerpt: "President Donald Trump is not yet on a clear path to recovery from COVID-19 and some of his vital signs over the last 24 hours were very concerning, a person familiar with his health said on Saturday."
+    publishedDateTime: 2020-10-03T21:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-int/trumps-covid-19-symptoms-very-concerning-next-48-hours-critical-source-idUSKBN26O0YF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0YF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0YF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1536048213&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9202O"
+        width: 854
+        height: 545
+        isCached: true
   - title: "White House: VP Mike Pence tests negative and 'remains in good health,' after Trump tests positive for COVID-19"
     excerpt: "VP Mike Pence tests negative and 'remains in good health,' after Trump tests positive for COVID-19. 24/7 coverage of breaking news and live events"
     publishedDateTime: 2020-10-03T17:25:00Z

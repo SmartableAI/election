@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BSVNSqZwsnk/trump-campaign-pence-coronavirus</loc>
+    <lastmod>2020-10-03T14:46:48-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z3m0YPCtKZ4/index.html</loc>
+    <lastmod>2020-10-03T14:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/</loc>
+    <lastmod>2020-10-03T13:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10</loc>
+    <lastmod>2020-10-03T13:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ig9EkUahAYU/index.html</loc>
+    <lastmod>2020-10-03T12:48:23-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980</loc>
+    <lastmod>2020-10-03T12:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/G0crzoDI7mw/ilhan-omar-shames-biden-for-pulling-negative-campaign-ads-get-it-together</loc>
     <lastmod>2020-10-03T12:12:15-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,12 +79,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.politico.com/news/2020/10/03/mike-parson-missouri-covid-trump-425741</loc>
-    <lastmod>2020-10-03T04:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.usatoday.com/story/news/politics/2020/10/03/president-trump-covid-19-barack-obama-speedy-recovery/3606381001/</loc>
     <lastmod>2020-10-02T23:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -75,12 +105,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ut2ExXTcjVE/index.html</loc>
     <lastmod>2020-10-02T17:53:28-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TNOHTVNrNYc/index.html</loc>
-    <lastmod>2020-10-02T17:47:55-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -115,12 +139,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/huu4u9Ns2PA/herschel-walker-reaction-trump-coronavirus</loc>
-    <lastmod>2020-10-02T13:58:08-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/85pFVFkLklI/trump-team-thinks-nevada-is-in-play-is-it</loc>
     <lastmod>2020-10-02T13:04:46-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -135,12 +153,6 @@
   <url>
     <loc>https://www.reuters.com/article/us-health-coronavirus-usa-biden-idCAKBN26N2UZ</loc>
     <lastmod>2020-10-02T11:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove</loc>
-    <lastmod>2020-10-02T11:49:39-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -397,12 +409,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html</loc>
-    <lastmod>2020-09-30T18:43:21-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/</loc>
     <lastmod>2020-09-30T18:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -559,12 +565,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/lihaWHDq-ew/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism</loc>
-    <lastmod>2020-09-29T22:18:45-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden</loc>
     <lastmod>2020-09-29T21:41:50-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -627,6 +627,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BvgpGE0CQOo/jewish-democrats-trumps-america-nazi-germany</loc>
     <lastmod>2020-09-29T14:05:41-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Pqo7T72J4m4/judge-emmet-sullivan-hears-arguments-over-whether-to-dismiss-flynn-case</loc>
+    <lastmod>2020-09-29T13:09:17-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -907,12 +913,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court</loc>
-    <lastmod>2020-09-27T03:01:26-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/64JBNvTZ6u0/live-updates-presidential-election-2020-biden-vs-trump</loc>
     <lastmod>2020-09-26T21:53:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -921,12 +921,6 @@
   <url>
     <loc>https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/</loc>
     <lastmod>2020-09-26T20:43:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house</loc>
-    <lastmod>2020-09-26T18:36:25-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1549,6 +1543,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/h2T-RgvD-w0/trump-supreme-court-pick-to-be-announced-saturday-at-white-house</loc>
+    <lastmod>2020-09-22T06:48:24-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UlYz9b4bz_Y/index.html</loc>
     <lastmod>2020-09-22T06:47:20-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1785,12 +1785,6 @@
   <url>
     <loc>https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529</loc>
     <lastmod>2020-09-19T23:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/8JbEbSQDm8A/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms</loc>
-    <lastmod>2020-09-19T22:11:57-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

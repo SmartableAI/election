@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McConnell says Trump ‘sounds well’ after call to discuss pandemic, Amy Coney Barrett"
+    excerpt: "Senate Majority Leader Mitch McConnell said on Saturday that President Trump “sounds well and says he’s feeling good” -- after a phone call in which the two Republican leaders talked about issues including the COVID-19 pandemic and confirming Judge Amy Coney Barrett to the Supreme Court."
+    publishedDateTime: 2020-10-03T20:53:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FGrbVqBf-u0/mcconnell-trump-call-pandemic-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-call-pandemic-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-call-pandemic-amy-coney-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Dems slam Barrett nomination over health care, 'illegitimate process' after Trump nomination"
     excerpt: "Democrats took to social media to slam President Trump's choice of Judge Amy Coney Barrett for the Supreme Court nominee after the president's announcement Saturday night -- with one senator claiming the nomination is the result of an \"illegitimate process.\""
     publishedDateTime: 2020-09-27T00:25:49Z
@@ -202,22 +218,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Amy Coney Barrett tested negative for coronavirus, last had contact with Trump on Saturday, White House says"
-    excerpt: "Judge Amy Coney Barrett, President Trump's Supreme Court nominee, last had direct contact with President Trump on Saturday as Trump officially announced her nomination, according to the White House. "
-    publishedDateTime: 2020-10-02T14:19:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zXoADu1Gcrw/judge-barrett-tested-coronavirus-daily-last-had-contact-trump-saturday-white-house-says"
-    ampWebUrl: "https://www.foxnews.com/politics/judge-barrett-tested-coronavirus-daily-last-had-contact-trump-saturday-white-house-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-barrett-tested-coronavirus-daily-last-had-contact-trump-saturday-white-house-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340

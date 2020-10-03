@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mitch McConnell, Mitt Romney respond to Trump's peaceful transfer of power remarks"
+    excerpt: "Sen. Mitt Romney, R-Utah, called President Trump's response to a question about peacefully transferring power after the election \"unthinkable.\""
+    publishedDateTime: 2020-09-24T15:26:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus"
+    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "gPuhzDrQPvZvBqUwx14S3HAT8/HOLPyZqphvqLAYuMjYXM1Ypz87uHOEVISsaXQ6QzMjMOHE8JX+KZ5jXurGNlF/QcbSiW00z2z1i26geIfLNA9B2590yDTiAMN4ipw0qjp0Dnw+/Bz4pRNscFGnPGCJmUCsKOX4+m8mY10e7V6mJWfLLUu8Qb/JZIcf/dim77xXrAtSnGIjHtY87X1YPYt+ajKtc4CKXb3teeU0CtJ0zVpsEWaT+hDMMAMO5UzkG58QOGluCeCdAgG8ARoVg2tKqeNO632Pe5BMrA5TLOFpVby82260EN87kmosaaUBr1Mm0jAHYUW0Vn8deJp8rYhkEB/DZtkCl0edXX/Q1MU=;gLqNJcngklit6hV6GG8Q1g=="
 ---

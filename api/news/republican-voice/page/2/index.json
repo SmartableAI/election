@@ -2,61 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-30-biden-says-at-debate-he-doesnt-support-green-new-deal-but-his-campaign-website-calls-it-crucial-framework.md",
-      "title": "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'",
-      "excerpt": "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7770338-6f00-45d5-b73c-f483671ead37/96618aa6-16e0-4aa8-b103-de0e0b8c3bce/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
-      "publishedDateTime": "2020-09-30T10:46:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-30-former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-trump-affair.md",
       "title": "Former Playboy Playmate Karen McDougal says she’s ‘been forgiven by Jesus’ for alleged Trump affair",
       "excerpt": "During the 2016 election, National Enquirer parent company American Media Inc. paid McDougal $150,000 for the rights to her story, which it never published. The company eventually acknowledged the purchase was a “catch-and-kill” maneuver to boost Trump's presidential prospects.",
@@ -291,7 +236,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -386,61 +331,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.md",
-      "title": "Trump campaign says president has ‘continuously denounced’ white supremacists, amid criticism",
-      "excerpt": "The Trump campaign on Tuesday told Fox News that President Trump has “continuously denounced” white supremacists, including during the first presidential debate, when they say he did so “twice.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lihaWHDq-ew/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lihaWHDq-ew/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp",
-      "publishedDateTime": "2020-09-29T22:18:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -803,6 +693,61 @@
       "ampWebUrl": "https://www.foxnews.com/politics/jewish-democrats-trumps-america-nazi-germany.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jewish-democrats-trumps-america-nazi-germany.amp",
       "publishedDateTime": "2020-09-29T14:05:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-flynn-lawyer-in-fiery-hearing-tells-judge-to-recuse-self-over-abject-bias-says-she-asked-trump-not-to-pardon.md",
+      "title": "Flynn lawyer in fiery hearing tells judge to recuse self over 'abject bias,' says she asked Trump not to pardon",
+      "excerpt": "Former national security adviser Michael Flynn's attorney admitted in court Tuesday that she has spoken to President Trump about Flynn's criminal case, but that she requested that Trump not grant him a pardon.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pqo7T72J4m4/judge-emmet-sullivan-hears-arguments-over-whether-to-dismiss-flynn-case",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pqo7T72J4m4/judge-emmet-sullivan-hears-arguments-over-whether-to-dismiss-flynn-case",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9104d171-3d0a-4adc-aaa2-28dcf12f0fd8/20d61489-587a-47cc-880a-3116f235afb3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/judge-emmet-sullivan-hears-arguments-over-whether-to-dismiss-flynn-case.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-emmet-sullivan-hears-arguments-over-whether-to-dismiss-flynn-case.amp",
+      "publishedDateTime": "2020-09-29T13:09:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1227,7 +1172,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 344,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -1380,61 +1325,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-27-trump-tells-fox-friends-he-wanted-to-choose-a-textualist-for-supreme-court.md",
-      "title": "Trump tells 'Fox & Friends' he wanted to choose a textualist for Supreme Court",
-      "excerpt": "President Donald Trump told Fox & Friends co-host Pete Hegseth that he thinks his nominee to the Supreme Court, Judge Amy Coney Barrett, will be a textualist. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b167b0c-6ad3-49af-a657-da79edaded76/61f20eff-373e-4a29-a410-a8d394e09a57/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-fox-friends-amy-coney-barrett-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-friends-amy-coney-barrett-supreme-court.amp",
-      "publishedDateTime": "2020-09-27T03:01:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-27-live-updates-presidential-election-2020-biden-vs-trump.md",
       "title": "Live updates: presidential election 2020: Biden vs. Trump",
       "excerpt": "The campaign trail is starting to heat up between President Trump and Joe Biden, a week before the first presidential debate is scheduled to take place in Cleveland and just six weeks before Election Day. ",
@@ -1487,62 +1377,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-former-pence-aide-says-staffers-discussed-trumps-potential-refusal-to-leave-the-white-house.md",
-      "title": "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House",
-      "excerpt": "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 590,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4038064b-35fc-4824-99d4-216a9efd5066/d40d945d-725c-4ef8-93c4-939239bdd047/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp",
-      "publishedDateTime": "2020-09-26T18:36:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     },
     {
@@ -1629,6 +1463,171 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
       "publishedDateTime": "2020-09-26T13:39:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-pennsylvania-sheriff-lifelong-dem-decides-to-back-trump-amid-unrest.md",
+      "title": "Pennsylvania sheriff, lifelong Dem, decides to back Trump amid unrest",
+      "excerpt": "A Pennsylvania sheriff switched from Democrat to Republican amid unrest.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp",
+      "publishedDateTime": "2020-09-26T09:21:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-trumps-work-for-black-community-unparalleled-to-any-other-president-of-past-50-years-dem-lawmaker.md",
+      "title": "Trump's work for Black community 'unparalleled to any other president' of past 50 years: Dem lawmaker",
+      "excerpt": "President Trump's commitment to the African-American community is \"unparalleled to any other president, Democrat or Republican, in the past 50 years,\" Georgia Democratic lawmaker Vernon Jones told \"Special Report\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QP8h7ka8Vk4/trump-black-community-vernon-jones-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QP8h7ka8Vk4/trump-black-community-vernon-jones-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8424b00-3af0-4cb8-b9dc-608c88c17441/e23afb00-c312-4c97-8b7d-adfd22a1018a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-black-community-vernon-jones-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-black-community-vernon-jones-biden.amp",
+      "publishedDateTime": "2020-09-25T17:32:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-500b-black-america-plan-designates-kkk-antifa-as-terrorist-organizations.md",
+      "title": "Trump $500B Black America plan designates KKK, Antifa as 'terrorist organizations'",
+      "excerpt": "President Trump’s plan for Black America will list the KKK and Antifa as terrorist organizations and make lynching a national hate crime, while pledging to increase access to capital in Black communities by nearly $500 billion, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gFwkuYpOhFg/trump-plan-for-black-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gFwkuYpOhFg/trump-plan-for-black-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/479f7157-c1e3-4267-9931-3441e32c2082/1bf4f7c3-3c16-4b43-a8ab-f0fa71ae1ae9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T09:47:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

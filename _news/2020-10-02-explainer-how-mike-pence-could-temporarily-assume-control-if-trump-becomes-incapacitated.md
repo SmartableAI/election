@@ -2,9 +2,9 @@
 category: news
 title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
 excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
-publishedDateTime: 2020-10-02T08:49:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
+publishedDateTime: 2020-10-02T13:24:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-incapaci-idUSKBN26N198"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-incapaci-idUSKBN26N198"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
 type: article
@@ -524,10 +524,10 @@ related:
         isCached: true
   - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
     excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
-    publishedDateTime: 2020-10-03T06:45:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence-idUKKBN26N226"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26N226"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N226"
+    publishedDateTime: 2020-10-03T07:05:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-1-u-s-vice-president-pence-next-in-line-behind-trump-tests-negative-for-covid-19-idUSL1N2GT0VB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2BS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2BS"
     type: article
     provider:
       name: Reuters
@@ -570,6 +570,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Timeline of Trump's reported COVID diagnosis and treatment"
+    excerpt: "White House officials were forced to attempt to clarify a timeline of President Donald Trump's coronavirus diagnosis and treatment Saturday after the president's doctor made statements that did not align with public information."
+    publishedDateTime: 2020-10-03T20:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/timeline-trumps-reported-covid-diagnosis-treatment/story?id=73406821"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/timeline-trumps-reported-covid-diagnosis-treatment/story?id=73406821"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/timeline-trumps-reported-covid-diagnosis-treatment/story?id=73406821"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/marine-one-liftsoff-ap-ps-201002_1601678603855_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House chief of staff says Trump is doing very well"
     excerpt: "White House Chief of Staff Mark Meadows said on Saturday that President Donald Trump is doing \"very well\" and that doctors are pleased with his vital signs."
     publishedDateTime: 2020-10-03T19:28:00Z
@@ -585,6 +601,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1536044872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG920Q4"
         width: 816
         height: 545
+        isCached: true
+  - title: "With Donald Trump Hospitalized With COVID-19, Mike Pence Steps Into the Spotlight"
+    excerpt: "A s the questions about President Donald Trump’s coronavirus diagnosis and subsequent hospitalization at Walter Reed continue to grow, so too do the challenges facing his understudy, Vice President Mike Pence."
+    publishedDateTime: 2020-10-03T21:06:00Z
+    webUrl: "https://time.com/5895996/mike-pence-trump-hospitalized/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 125
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-fundraiser-hosted-qanon-supporters.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -775,6 +805,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-atlanta_hpMain_20200925-213303_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "VP Mike Pence claims he was with President Trump in Oval Office hours before debate"
+    excerpt: "Vice President Mike Pence, at a debate watch event in Lititz, Pa., on Tuesday, says he met President Trump in the Oval Office just hours before."
+    publishedDateTime: 2020-10-02T19:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/ae72be46-bc69-48a1-b5be-e5285dad28f3-AP_APTOPIX_Supreme_Court_Barrett.jpg?quality=10"
+        width: 4363
+        height: 2909
         isCached: true
   - title: "Mary Trump is suing the president and his family, claiming millions of dollars in lost inheritance"
     excerpt: "The lawsuit is similar to allegations that Mary Trump, the president's niece, presented in her damning tell-all memoir published in July."
@@ -1652,20 +1696,6 @@ related:
         width: 1200
         height: 704
         isCached: true
-  - title: "VP Mike Pence claims he was with President Trump in Oval Office hours before debate"
-    excerpt: "Vice President Mike Pence, at a debate watch event in Lititz, Pa., on Tuesday, says he met President Trump in the Oval Office just hours before."
-    publishedDateTime: 2020-10-02T20:35:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/ae72be46-bc69-48a1-b5be-e5285dad28f3-AP_APTOPIX_Supreme_Court_Barrett.jpg?quality=10"
-        width: 4363
-        height: 2909
-        isCached: true
   - title: "ZIP codes donating the most money to Donald Trump"
     excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
     publishedDateTime: 2020-10-01T11:22:00Z
@@ -1829,6 +1859,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "EarK2Oy32U0n44aBLPkUSagBodcKpCV9906Absu1gl7S1nZwPidmGvp8z29WzmyNi5KUl7gTM2jf1sH0lJCOfIpOmq6iOQUWRWlrSdG6I8BG3xd+RhAoVGqk63R0KipPtIHspAWzwiFcRek/mA4oDYErhxFY7KTxJ926a055BJUxJQrGkXToBjsbWS1lHfywE38UH3DWZNVNSGvaHhkSU4HLHkNV5y904xKFxETKOMZyG3ePoR3VeaFjlpkU7WzsNMzSqUJ7jD32LomdZR0DVjNfktASDVVMPEzhKRM5pthVNwgwRR7D8J3JEfS2p9cZUx4z+tFyQo1JWe8uTVe+E+ZfyDjmCAqtPeraPKR6ADnT29U4RIPJ41+fnzYJFbXwDoYaQCaAsRAG/l+0+WsBaPwzt7cM1IWiEuPn3heN35LBqVd3OmUFl60AfYW/aUgi75AGmIaM1OmHLNkipqYkwI+9rYnoIGIslattPwrX1BnZohRUTn40nbmjsKuDZihxmWghL2QcJBBvGJ8FbzpsEw==;T/HSD7dxMPob68Ky5Pnh2w=="
+secured: "NlOO0gr66S3ON9nHZcIbxAYlZ1c6YW3RYoMao+9+GGjPlixkcHHhRDEiE4D4wz+0wWMbRtpTMEOHkxVhpxNJlI66ZoPzMfygDa4YJmYS3cFRWNBA9rx8MFO8un0la5KM9ZXit+0FqEv8jLiJe5a3eXeqLJih0MPHrnGbrNDU4ExrtRxZRLeuKHW2PY56loQiOgHb8tXVP3IXdfXMlDj3QEjz1LzZAWECsA6cEGAB+DXWlYTXwItTrgvMHAFn5whRiAs1YGfgvZYZJIVCB8H7WjQbH1ad+qujIQrLRSe4hXqVbTxZ7rHemutnQP7Rv4AGlF4/6EJxJZhCz2r/A1oEZCCIzKbHH0dCU1buXcbEh20=;aXRJDYIgYsCmNRB4RQLGXA=="
 ---
 

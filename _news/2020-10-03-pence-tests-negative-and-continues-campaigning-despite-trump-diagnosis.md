@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
 type: article
 quality: 200
-heat: 3220
+heat: 3300
 published: true
 
 provider:
@@ -608,6 +608,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden will get tested more frequently and continue in-person campaigning"
+    excerpt: "Joe Biden will be tested more frequently for Covid-19 and intends to move forward with in-person campaigning, following news of President Donald Trump and several individuals in his orbit testing positive, sources tell CNN.\n    \n"
+    publishedDateTime: 2020-10-03T21:42:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mn0soEl9KzU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/joe-biden-campaign-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/joe-biden-campaign-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002150006-01-biden-1002-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's latest punt on White supremacy shows a debate rebound will be tough"
     excerpt: "President Donald Trump's failure yet again to unequivocally condemn White supremacy Wednesday -- to clear up a chilling moment from his debate clash with Democratic nominee Joe Biden -- shows how he may find it impossible to reboot for their next crucial contest.\n    \n"
     publishedDateTime: 2020-10-01T08:47:14Z
@@ -861,6 +877,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200822112815-01-white-house-rose-garden-renovation-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's doctors paint a rosy -- but vague -- picture of his health during Covid-19 treatment"
+    excerpt: "President Donald Trump's physicians on Saturday painted a rosy, but vague, picture of his health as he underwent treatment for coronavirus, saying he was doing well even as they declined to say how high his fever went and whether he ever needed supplemental oxygen.\n    \n"
+    publishedDateTime: 2020-10-03T19:54:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mSsFZtcwj2c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/health/trump-health-walter-reed-doctors-briefing-bn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/health/trump-health-walter-reed-doctors-briefing-bn/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003122844-01-trump-doctors-presser-1003-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1838,6 +1870,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Live updates: Trump's doctor walks back '72 hours' Covid diagnosis timeline"
+    excerpt: "Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
+    publishedDateTime: 2020-10-03T19:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Arizona: A Donald Trump Jr. event is full of people and conspiracy theories."
     excerpt: "In 2016, Trump won the state by 3.5 percentage points. In 2020, it’s rated Lean Democratic. CHANDLER, Ariz. — More than 800 people lined up early on Tuesday morning to se Charlie Kirk, the 26-year-old founder of Turning Point USA,"
     publishedDateTime: 2020-09-26T17:10:00Z
@@ -2321,6 +2369,22 @@ related:
     quality: 84
     images:
       - url: "https://compote.slate.com/images/50759b2d-f632-4b4e-a34b-9f82a30c64df.jpeg?width=780&height=520&rect=4978x3319&offset=0x0"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Everything We Know About When Trump Got Sick, His Treatment, And How He Is Now"
+    excerpt: "He is currently being treated at Walter Reed medical center. How exactly is he doing and how long has he been ill? That is more up in the air than I think most American citizens would prefer! Here’s everything we know—and everything we don’t—regarding the timeline of when he was diagnosed,"
+    publishedDateTime: 2020-10-03T20:23:00Z
+    webUrl: "https://slate.com/technology/2020/10/trump-covid-timeline-questions.html"
+    ampWebUrl: "https://slate.com/technology/2020/10/trump-covid-timeline-questions.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/10/trump-covid-timeline-questions.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 81
+    images:
+      - url: "https://compote.slate.com/images/59762ffc-7a8b-48da-be82-7f52858f9245.jpeg?width=780&height=520&rect=3864x2576&offset=136x0"
         width: 780
         height: 520
         isCached: true

@@ -269,6 +269,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "World leaders react after President Trump, first lady test positive for coronavirus"
+    excerpt: "World leaders expressed their hope for a swift recovery for President Donald Trump after he announced that he and the first lady tested positive for COVID-19 overnight."
+    publishedDateTime: 2020-10-03T20:23:00Z
+    webUrl: "https://abcnews.go.com/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    ampWebUrl: "https://abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/world-leaders-react-president-trump-lady-test-positive/story?id=73382673"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/International/Boris_Johnson_201_hpMain_20201002-062128_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
     excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
     publishedDateTime: 2020-09-22T16:17:00Z

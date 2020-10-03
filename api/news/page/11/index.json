@@ -2,48 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-09-23-5-things-you-need-to-know-about-mike-pence.md",
-      "title": "5 Things You Need to Know About Mike Pence",
-      "excerpt": "Republican Vice President Mike Pence will debate Democratic Vice-Presidential candidate, Kamala Harris Oct. 7, 2020, in Salt Lake City, and the 2020 election is just around the corner. Here are five things you should know about Pence, his personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/5-things-you-need-to-know-about-mike-pence-5077702",
-      "originalUrl": "https://www.investopedia.com/5-things-you-need-to-know-about-mike-pence-5077702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/aF-pBxgRB3LgjRb5NvOzwmdKvsM=/1024x683/filters:fill(auto,1)/GettyImages-468209888-578a33593df78c09e9b807fd.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.investopedia.com/amp/5-things-you-need-to-know-about-mike-pence-5077702",
-      "cdnAmpWebUrl": "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/5-things-you-need-to-know-about-mike-pence-5077702",
-      "publishedDateTime": "2020-09-22T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-trumps-ex-russia-adviser-fiona-hill-us-increasingly-seen-as-object-of-pity.md",
       "title": "Trump's ex-Russia adviser Fiona Hill: US increasingly seen as 'object of pity'",
       "excerpt": "President Donald Trump's former top Russia adviser said Tuesday that the United States is increasingly seen as \"an object of pity\" and its standing on the world stage is eroding.\n    \n",
@@ -406,6 +364,61 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-trump-supreme-court-pick-to-be-announced-saturday-at-white-house.md",
+      "title": "Trump: Supreme Court pick to be announced Saturday at White House",
+      "excerpt": "President Trump tweeted Tuesday morning that he'll announce his choice for the Supreme Court this coming Saturday at the White House.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2T-RgvD-w0/trump-supreme-court-pick-to-be-announced-saturday-at-white-house",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2T-RgvD-w0/trump-supreme-court-pick-to-be-announced-saturday-at-white-house",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c51eaf2-9c26-496a-a80b-f17479d0a667/25261a6e-5290-46c7-8d0d-d702cbe69a15/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp",
+      "publishedDateTime": "2020-09-22T06:48:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -1137,7 +1150,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": [
         {

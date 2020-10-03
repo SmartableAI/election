@@ -2,61 +2,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_news/2020-09-14-trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.md",
-      "title": "Trump campaign returns to economy with 8-figure ad buy, calls it ‘defining issue in this race’",
-      "excerpt": "The Trump campaign is set to release a mid-eight-figure ad buy Tuesday touting the economy during President Trump's first term after a recent emphasis on \"law and order\" messaging, saying the economy is the \"defining issue\" of the 2020 presidential race, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCqJbFaBac8/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCqJbFaBac8/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp",
-      "publishedDateTime": "2020-09-14T12:27:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-joe-biden-says-us-is-facing-one-of-the-most-difficult-moments-in-our-history.md",
       "title": "Joe Biden says US is facing 'one of the most difficult moments in our history' ",
       "excerpt": "Democratic presidential nominee Joe Biden said Monday that the United States is facing one of the most difficult moments in the nation's history, with \"four historic crises all at the same time.\" \n    \n",
@@ -592,7 +537,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 950,
+      "heat": 910,
       "tags": null,
       "images": [
         {
@@ -1323,6 +1268,62 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-how-kamala-harriss-immigrant-parents-found-a-home-and-each-other-in-a-black-study-group.md",
+      "title": "How Kamala Harris’s Immigrant Parents Found a Home, and Each Other, in a Black Study Group",
+      "excerpt": "Donald Harris and Shyamala Gopalan grew up under British colonial rule on different sides of the planet. They were each drawn to Berkeley, and became part of an intellectual circle that shaped the rest of their lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/12/us/politics/12harris-parents-india/12harris-parents-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+          "width": 600,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/13/us/kamala-harris-parents.amp.html",
+      "publishedDateTime": "2020-09-13T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
         "Democratic Voice"
       ]
     }

@@ -176,22 +176,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump tells UN to hold China accountable for coronavirus pandemic"
-    excerpt: "President Trump on Tuesday told the United Nations that it must hold China accountable for its failure to contain the coronavirus in the early days of the pandemic -- and declared the World Health Organization \"controlled\" by Beijing."
-    publishedDateTime: 2020-09-22T14:19:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1en8l1vZLAw/trump-un-china-accountable-coronavirus-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-un-china-accountable-coronavirus-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump praises Kentucky governor's request for National Guard"
     excerpt: "President Trump on Wednesday praised Kentucky’s Democratic Gov. Andy Beshear for calling in the National Guard just hours before a police officer was shot during protests following the grand jury decision in the Breonna Taylor case."
     publishedDateTime: 2020-09-24T01:53:13Z
@@ -207,22 +191,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87561d3a-7adc-4f80-8c6a-a1644fe11eaf/441512fd-f2a0-4cc0-8723-e2ba95c91dc3/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump tax story no bombshell"
-    excerpt: "It’s hard for us to see how the revelations about Trump’s taxes are a major mover in the campaign."
-    publishedDateTime: 2020-09-28T20:19:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/76toIzH91dQ/trump-tax-story-no-bombshell"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tax-story-no-bombshell.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tax-story-no-bombshell.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump administration denied request to block 2020 census extension"
     excerpt: "\"Given the extraordinary importance of the census, it is imperative that the Bureau conduct the census in a manner that is most likely to produce a workable report in which the public can have confidence,\" wrote Judges Johnnie Rawlinson and Morgan Christen in their order. \"The hasty and unexplained changes"
@@ -414,22 +382,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Donald Trump Had Investments in Carrier Corp.’s Parent"
-    excerpt: "President-elect Donald Trump in recent years has had an investment of as much as $250,000 in United Technologies, the parent of the company he pushed to shelve plans to move its Indianapolis factory to Mexico."
-    publishedDateTime: 2020-09-26T16:52:00Z
-    webUrl: "https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://s.wsj.net/public/resources/images/BN-QK669_1025un_TOP_20161024144452.jpg"
-        width: 700
-        height: 350
-        isCached: true
   - title: "Judge Removes Trump Public Lands Boss for Serving Unlawfully"
     excerpt: "A federal judge ruled that President Trump’s leading steward of public lands has been serving unlawfully, blocking him from continuing in the position."
     publishedDateTime: 2020-09-26T02:34:00Z
@@ -443,22 +395,6 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-237121/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump Would Double Down on Tax Cuts in Second Term"
-    excerpt: "President Trump and Republicans got much of the tax code they wanted in 2017. In a second term, he would face expiration dates on those and push for more tax cuts."
-    publishedDateTime: 2020-09-29T13:17:00Z
-    webUrl: "https://www.wsj.com/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237041/social"
         width: 1280
         height: 640
         isCached: true

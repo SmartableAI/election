@@ -273,6 +273,61 @@
       ]
     },
     {
+      "path": "_news/2020-09-29-flynn-lawyer-in-fiery-hearing-tells-judge-to-recuse-self-over-abject-bias-says-she-asked-trump-not-to-pardon.md",
+      "title": "Flynn lawyer in fiery hearing tells judge to recuse self over 'abject bias,' says she asked Trump not to pardon",
+      "excerpt": "Former national security adviser Michael Flynn's attorney admitted in court Tuesday that she has spoken to President Trump about Flynn's criminal case, but that she requested that Trump not grant him a pardon.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pqo7T72J4m4/judge-emmet-sullivan-hears-arguments-over-whether-to-dismiss-flynn-case",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pqo7T72J4m4/judge-emmet-sullivan-hears-arguments-over-whether-to-dismiss-flynn-case",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9104d171-3d0a-4adc-aaa2-28dcf12f0fd8/20d61489-587a-47cc-880a-3116f235afb3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/judge-emmet-sullivan-hears-arguments-over-whether-to-dismiss-flynn-case.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-emmet-sullivan-hears-arguments-over-whether-to-dismiss-flynn-case.amp",
+      "publishedDateTime": "2020-09-29T13:09:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-biden-paid-nearly-300000-in-federal-income-taxes-in-2019.md",
       "title": "Biden paid nearly $300,000 in federal income taxes in 2019 ",
       "excerpt": "Joe Biden released his 2019 tax returns on Tuesday, which show he and his wife, Jill, paid nearly $300,000 in federal income tax last year and had an adjusted gross income of about $985,000.\n    \n",
@@ -387,7 +442,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1225,7 +1280,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 765,
+      "heat": 785,
       "tags": null,
       "images": [
         {
@@ -1248,57 +1303,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes.md",
-      "title": "Santorum: Not illegal for Trump 'to do everything he can not to pay taxes'",
-      "excerpt": "Former Sen. Rick Santorum (R-Pa.) said in a new interview that it's not illegal for Trump \"to do everything he can not to pay taxes\" while discussin",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes",
-      "originalUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/santorumrick_092517gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp",
-      "publishedDateTime": "2020-09-28T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

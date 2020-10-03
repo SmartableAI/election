@@ -31,149 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Milwaukee suburbs could be key for Trump re-election"
-    excerpt: "As more of American suburbia reportedly tilts toward Democratic presidential nominee Joe Biden ahead of the November election, the suburbs on the outskirts of Milwaukee remain a bulwark of support for President Trump."
-    publishedDateTime: 2020-09-23T17:42:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FR7kKS4SAyY/milwaukee-suburbs-could-be-key-for-trump-re-election"
-    ampWebUrl: "https://www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/milwaukee-suburbs-could-be-key-for-trump-re-election.amp"
+  - title: "Trump campaign says Pence expected to add more events as president deals with coronavirus"
+    excerpt: "Vice President Mike Pence will step up on the campaign trail as President Trump deals with a case of the coronavirus."
+    publishedDateTime: 2020-10-03T21:46:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSVNSqZwsnk/trump-campaign-pence-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 191
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da4fefe0-619b-413c-8314-ecabc05fc010/18684257-14cd-4416-a6ae-4cc575d57702/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House"
+    excerpt: "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election."
+    publishedDateTime: 2020-09-27T01:36:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/b468a97b-AP20247796882570-e1599575764803.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Eric Trump must testify in New York AG probe before election, judge rules"
-    excerpt: "A judge ruled Wednesday that Eric Trump must testify before the election in response to a subpoena from the New York attorney general’s office as part of an investigation into whether the Trump organization improperly valued real estate assets in statements. "
-    publishedDateTime: 2020-09-23T21:41:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wtd1RaHAhso/eric-trump-testify-new-york-ag-probe"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-testify-new-york-ag-probe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-testify-new-york-ag-probe.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4038064b-35fc-4824-99d4-216a9efd5066/d40d945d-725c-4ef8-93c4-939239bdd047/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump calls mail-in voting a scam, says Democrats are setting up election 'mess'"
-    excerpt: "President Trump called mail-in voting a “scam” during a Friday press conference, attempting to draw a line between people that specifically request absentee ballots, and states where mail-in ballots are being widely issued."
-    publishedDateTime: 2020-09-18T23:00:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jh9-JWO7Ul4/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-mail-in-voting-a-scam-says-democrats-are-teeing-up-a-mess.amp"
+  - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
+    excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people.” "
+    publishedDateTime: 2020-09-17T23:27:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0oBfwy4aM/pence-adviser-trump-coronavirus-response"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 185
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b7a5395-373c-4466-b5b1-fb7d2097fca0/f9d08c62-2a3d-4db1-9f26-0bfc479cd5e2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "GOP's Scott, Baker don't want Trump to fill Supreme Court vacancy before election"
-    excerpt: "\"The Supreme Court is too important to rush and must be removed from partisan political infighting,\" Gov. Charlie Baker wrote."
-    publishedDateTime: 2020-09-20T16:28:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GWsgmzBvK5M/goveror-charlie-baker-phil-scott-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/goveror-charlie-baker-phil-scott-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Ruth-Bader5.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Eric Trump says his father would concede election 'if he got blown out of the water'"
-    excerpt: "President Trump’s son Eric addressed his father’s remarks about a peaceful transfer of power, saying Trump would concede the election if Joe Biden wins big."
-    publishedDateTime: 2020-09-25T21:34:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FngZ-ExEw9c/eric-trump-joe-biden-trump-election"
-    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-trump-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/eric-trump.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:24:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E44YEN2ml1Q/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 182
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Andy McCarthy explains why Arizona Senate election could make or break Trump SCOTUS pick"
-    excerpt: "The outcome of the Arizona Senate race between Republican Martha McSally and Democrat Mark Kelly could determine whether President Trump's nominee to replace late Supreme Court Justice Ruth Bader Ginsburg makes it through the Senate, former federal prosecutor Andy McCarthy told \"Bill Hemmer Reports\""
-    publishedDateTime: 2020-09-21T21:27:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZVi2RL5VtnY/scotus-mcsally-kelly-election-trump-andy-mccarthy"
-    ampWebUrl: "https://www.foxnews.com/politics/scotus-mcsally-kelly-election-trump-andy-mccarthy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scotus-mcsally-kelly-election-trump-andy-mccarthy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8787f76-c2a8-4579-a924-cd5a468ba41f/e096de67-6981-4c74-9848-06679fad9b7e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fight over Trump’s Supreme Court nominee will hinge on timing, math"
-    excerpt: "The confirmation of the next Supreme Court justice will hinge on two things: timing and math."
-    publishedDateTime: 2020-09-19T22:44:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/otrNEOGrRWk/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math"
-    ampWebUrl: "https://www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fight-over-trumps-supreme-court-nominee-will-hinge-on-timing-math.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Dems threaten to pack Supreme Court if Trump gets nominee confirmed"
-    excerpt: "As President Trump moves to nominate a candidate to fill the seat of Justice Ruth Bader Ginsburg, who died Friday, a growing number of Democrats are threatening to implement a radical strategy and pack the Supreme Court if they take control of the White House and the Senate."
-    publishedDateTime: 2020-09-20T18:47:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DkFMjRW9vlM/dems-back-supreme-court-packing"
-    ampWebUrl: "https://www.foxnews.com/politics/dems-back-supreme-court-packing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-back-supreme-court-packing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Trump tells UN to hold China accountable for coronavirus pandemic"
     excerpt: "President Trump on Tuesday told the United Nations that it must hold China accountable for its failure to contain the coronavirus in the early days of the pandemic -- and declared the World Health Organization \"controlled\" by Beijing."
@@ -191,209 +95,721 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump praises Kentucky governor's request for National Guard"
-    excerpt: "President Trump on Wednesday praised Kentucky’s Democratic Gov. Andy Beshear for calling in the National Guard just hours before a police officer was shot during protests following the grand jury decision in the Breonna Taylor case."
-    publishedDateTime: 2020-09-24T01:53:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s9pNpS286kQ/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-praises-kentucky-governors-request-for-national-guard-hours-before-breonna-taylor-protests-turn-violent.amp"
+  - title: "Trump to meet with evangelicals ahead of Supreme Court announcement"
+    excerpt: "President Trump on Saturday will meet with evangelical faith leaders, hours before he is expected to announce that he is nominating Amy Coney Barrett to fill the vacancy on the Supreme Court."
+    publishedDateTime: 2020-09-26T15:56:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B89JQDG__4Y/trump-evangelical-faith-leaders-ahead-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87561d3a-7adc-4f80-8c6a-a1644fe11eaf/441512fd-f2a0-4cc0-8723-e2ba95c91dc3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump administration denied request to block 2020 census extension"
-    excerpt: "\"Given the extraordinary importance of the census, it is imperative that the Bureau conduct the census in a manner that is most likely to produce a workable report in which the public can have confidence,\" wrote Judges Johnnie Rawlinson and Morgan Christen in their order. \"The hasty and unexplained changes"
-    publishedDateTime: 2020-09-30T22:53:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X436WqVENgM/trump-administration-denied-request-2020-census"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-denied-request-2020-census.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-denied-request-2020-census.amp"
+  - title: "Herschel Walker 'praying' for Trump after coronavirus diagnosis"
+    excerpt: "“Praying for @POTUS, @FLOTUS, America and the World affected by the COVID virus,” Walker wrote on Twitter."
+    publishedDateTime: 2020-10-02T20:58:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/huu4u9Ns2PA/herschel-walker-reaction-trump-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-reaction-trump-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-reaction-trump-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b567acb-43c2-4657-bcb2-34fd30efcf69/f8106c38-b28b-4f2d-aec2-d7c4012bdb4f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "President Trump to push for Juneteenth to become national holiday: report"
-    excerpt: "President Trump will reportedly push toward the creation of a federal holiday for Juneteenth. "
-    publishedDateTime: 2020-09-25T12:17:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VndrpQva72E/trump-juneteenth-national-holiday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-juneteenth-national-holiday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-juneteenth-national-holiday.amp"
+  - title: "Hold China accountable for Trump contracting coronavirus: Sen. Loeffler"
+    excerpt: "Georgia Sen. Kelly Loeffler says China is to blame for President Trump and first lady Melania Trump contracting COVID-19."
+    publishedDateTime: 2020-10-02T19:14:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dYeRrXUqCS8/trump-coronavirus-china-accountable-loeffler"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-china-accountable-loeffler.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-china-accountable-loeffler.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a175930-bab9-4c07-9d9c-3dd7bfb5d77c/f3522944-ba24-489e-ad21-c194b80d4974/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ivanka Trump, Jared Kushner test negative for coronavirus, source says"
+    excerpt: "President Trump’s eldest daughter and senior adviser Ivanka Trump and her husband, White House adviser Jared Kushner tested negative for COVID-19 on Friday, after President Trump and first lady Melania Trump tested positive for the novel coronavirus."
+    publishedDateTime: 2020-10-02T13:50:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7FsOepmk2Ss/ivanka-trump-jared-kushner-negative-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-jared-kushner-negative-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-jared-kushner-negative-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden says he and Jill Biden tested negative for coronavirus"
+    excerpt: "Joe Biden confirmed Friday that he and his wife, Jill, tested negative for the coronavirus, days after the former vice president appeared on the debate stage with President Trump, and hours after Trump revealed he and first lady Melania Trump tested positive."
+    publishedDateTime: 2020-10-02T16:22:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OhJp4wC_DIw/joe-biden-jill-negative-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-jill-negative-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-jill-negative-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Read: Memo from Trump's physician on positive coronavirus test"
+    excerpt: "President Trump and first lady Melania Trump tested positive for coronavirus."
+    publishedDateTime: 2020-10-02T11:05:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfGdVtuBXMI/read-memo-presidents-physician-positive-coronavirus-test"
+    ampWebUrl: "https://www.foxnews.com/politics/read-memo-presidents-physician-positive-coronavirus-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/read-memo-presidents-physician-positive-coronavirus-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/ca77f38e-7fd4-4256-98f1-91f567959c46.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump diagnosis renews calls for Capitol Hill coronavirus testing"
+    excerpt: "President Trump's positive coronavirus test overnight has reignited calls for a coronavirus testing regime on Capitol Hill that would screen members of Congress, staff, reporters and others that work in the U.S. Capitol and its surrounding office buildings. "
+    publishedDateTime: 2020-10-02T20:32:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SRbanYaj-kk/trump-diagnosis-renews-calls-for-capitol-hill-coronavirus-testing"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-diagnosis-renews-calls-for-capitol-hill-coronavirus-testing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-diagnosis-renews-calls-for-capitol-hill-coronavirus-testing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump receives well wishes from top critics after coronavirus diagnosis"
+    excerpt: "Shortly after President Trump announced that he and First Lady Melania Trump had tested positive for COVID-19, a number of the president’s biggest critics appeared to be put their differences with him aside to wish him well as he battles a disease that has already left more than 205,000 Americans dead."
+    publishedDateTime: 2020-10-02T07:34:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bZM2eohApLw/trump-receives-well-wishes-from-unlikely-sources-following-positive-coronavirus-test"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-receives-well-wishes-from-unlikely-sources-following-positive-coronavirus-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-receives-well-wishes-from-unlikely-sources-following-positive-coronavirus-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump tests positive for coronavirus: the timeline"
+    excerpt: "The president announced his positive test in a tweet and said that he and First Lady Melania Trump, who also tested positive for the disease, would quarantine together."
+    publishedDateTime: 2020-10-02T11:53:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GdOKqzpIK90/timeline-trump-tests-positive-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/timeline-trump-tests-positive-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/timeline-trump-tests-positive-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "President Trump leads Facebook ad spending in Arizona"
+    excerpt: "President Trump has spent more money on Facebook advertising in Arizona and other parts of the Sun Belt than any other candidate, campaign or business. "
+    publishedDateTime: 2020-10-03T16:51:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u34Jr-tiLQA/president-trump-leads-facebook-ad-spending-in-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Trump-Biden-THUMB-3.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "After Trump COVID diagnosis, Pentagon says alert levels remain unchanged"
+    excerpt: "The U.S. military's command and control structure is 'in no way' affected by the news, DoD says."
+    publishedDateTime: 2020-10-02T20:26:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9gAQjhybBg/pentagon-alert-levels-trump-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/pentagon-alert-levels-trump-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pentagon-alert-levels-trump-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP_20171711065020.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad8366fb-f669-4c3a-8674-b2673df74e02/05f73ca2-b30f-49f4-be7b-931f67db5197/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Mitt Romney says he supports moving ahead with Trump Supreme Court nominee"
-    excerpt: "The senator, who voted to remove Trump from office earlier this year, said he would evaluate a Trump nominee based on her qualifications."
-    publishedDateTime: 2020-09-22T14:26:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fH3VUYoTJaQ/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee"
-    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-says-he-supports-moving-ahead-with-trump-supreme-court-nominee.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Vulnerable Dem Doug Jones says he will 'not support the confirmation' of any Trump nominee before election"
-    excerpt: "Sen. Doug Jones, a vulnerable Democrat up for reelection in conservative Alabama, said he will not support the confirmation of any Supreme Court nominee from President Trump before the election. "
-    publishedDateTime: 2020-09-25T17:39:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9dr-GR7S00g/doug-jones-not-support-supreme-court-confirmation-trump-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/doug-jones-not-support-supreme-court-confirmation-trump-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doug-jones-not-support-supreme-court-confirmation-trump-nominee-before-election.amp"
+  - title: "Trump critics seize on president's positive coronavirus test to mock, lecture"
+    excerpt: "While many on social media sent well wishes to President Trump and First Lady Melania Trump early Friday after the president confirmed they had both tested positive for the coronavirus, others took the time to criticize or make negative comments.  "
+    publishedDateTime: 2020-10-02T07:47:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2wZJXmtLXQ/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Doug-Jones-GettyImages-1048880412.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa0f4910-4c22-4366-a6ea-9b34b4817ee8/df5cb6e2-c8e3-418a-9a3d-f1244df1e202/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Schiff, Schumer blast Trump for casting doubt on Ginsburg’s reported dying wish"
-    excerpt: "Top congressional Democrats are pushing back against President Trump for casting doubt on the late Supreme Court Justice Ruth Bader Ginsburg’s reported dying wish that her vacancy on the high court be filled by whoever wins November's presidential election."
-    publishedDateTime: 2020-09-21T19:00:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OBeq9j9UNVI/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish"
-    ampWebUrl: "https://www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schiff-schumer-blast-trump-for-casting-doubt-on-ginsburgs-dying-wish.amp"
+  - title: "After Trump’s positive coronavirus test, Chris Wallace says he will get tested"
+    excerpt: "Fox News' Chris Wallace told \"Fox & Friends\" he is getting tested for the coronavirus after President Trump and first lady Melania Trump tested positive for COVID-19 just days after the first presidential debate in Cleveland."
+    publishedDateTime: 2020-10-02T13:49:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tLgY7AIXfic/trump-coronavirus-positive-test-chris-wallace-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-positive-test-chris-wallace-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-positive-test-chris-wallace-debate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f42fcd-6ef5-4bc7-900a-e57677d66b77/8abe44f1-dab9-44f2-8130-5444fb24efa6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ted Cruz predicts Senate Republicans will have votes to confirm Trump’s Supreme Court nominee before election"
-    excerpt: "Sen. Ted Cruz, R-Texas, appeared on Fox News Monday night to press the importance of filling the Supreme Court vacancy after Justice Ruth Bader Ginsburg's death."
-    publishedDateTime: 2020-09-22T14:14:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H2ObczPcK34/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-senate-republicans-have-the-votes-to-confirm-trumps-supreme-court-nominee-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Senate should consider Trump's Supreme Court nominee 'as early as possible': Burr"
-    excerpt: "Republican Sen. Richard Burr defended President Trump on Tuesday by saying he has “every right under the Constitution” to nominate an individual to the Supreme Court vacancy left by late Justice Ruth Bader Ginsburg, adding that he believes the Senate should consider that nominee “as early as possible.”"
-    publishedDateTime: 2020-09-22T19:08:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pivTsaYPXmM/burr-says-senate-should-consider-trump-supreme-court-nominee-as-early-as-possible"
-    ampWebUrl: "https://www.foxnews.com/politics/burr-says-senate-should-consider-trump-supreme-court-nominee-as-early-as-possible.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/burr-says-senate-should-consider-trump-supreme-court-nominee-as-early-as-possible.amp"
+  - title: "Top Republicans say they are praying for Trump after positive coronavirus test"
+    excerpt: "Senate Majority Leader Mitch McConnell, House Minority Leader Kevin McCarthy and Minority Whip Steve Scalise said they are praying for President Trump and First Lady Melania Trump on Friday morning after the couple tested positive for the coronavirus overnight."
+    publishedDateTime: 2020-10-02T13:00:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5VecGEqZgkU/top-republicans-ask-say-they-are-praying-for-trump-after-positive-coronavirus-test"
+    ampWebUrl: "https://www.foxnews.com/politics/top-republicans-ask-say-they-are-praying-for-trump-after-positive-coronavirus-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-republicans-ask-say-they-are-praying-for-trump-after-positive-coronavirus-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "House chaplain: Trump's positive coronavirus test creates 'heightened vigilance'"
+    excerpt: "President Trump's announcement early Friday that he tested positive for the coronavirus has created \"heightened vigilance\" around the virus, House Chaplain Rev. Patrick Conroy said in his morning prayer."
+    publishedDateTime: 2020-10-02T17:17:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/slJt03S7MTw/house-chaplain-trumps-positive-coronavirus-test-heightened-awareness-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/house-chaplain-trumps-positive-coronavirus-test-heightened-awareness-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-chaplain-trumps-positive-coronavirus-test-heightened-awareness-covid-19.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53137776-988f-402b-ad6b-fbaecb489f80/5a721f67-4014-4d8e-82bf-3ba5df2b4580/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the Supreme Court."
-    publishedDateTime: 2020-09-24T19:53:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2VmfQoo2XeE/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
+  - title: "Trump hard at work, in good spirits after positive coronavirus test, McEnany says"
+    excerpt: "President Trump is “feeling good” and is in “good spirits” despite experiencing \"mild symptoms\" after testing positive for the coronavirus, White House Press Secretary Kayleigh McEnany told Fox News on Friday."
+    publishedDateTime: 2020-10-02T19:16:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qQ1Yx1icNpU/trump-coronavirus-test-positive-mcenany"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-test-positive-mcenany.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-test-positive-mcenany.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Bill Stepien, President Trump's campaign manager, tests positive for coronavirus"
+    excerpt: "Trump’s campaign manager, Bill Stepien, tested positive for the coronavirus Friday evening, a campaign official told Fox News, hours after the president and first lady confirmed they had contracted the virus."
+    publishedDateTime: 2020-10-03T04:55:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tjsb2oEODrs/bill-stepien-president-trumps-campaign-manager-tests-positive-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/bill-stepien-president-trumps-campaign-manager-tests-positive-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-stepien-president-trumps-campaign-manager-tests-positive-for-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Bill-Stepien.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Murkowski loosens stance on Supreme Court nominee, says she may vote for Trump's pick"
-    excerpt: "Alaska Republican Sen. Lisa Murkowski now says she cannot rule out voting to confirm a Trump nominee to the Supreme Court, days after she said she would not support filling the  vacancy so close to an election. "
-    publishedDateTime: 2020-09-23T21:50:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a-fS1i93eWA/murkowski-supreme-court-nominee-may-vote-trumps-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-supreme-court-nominee-may-vote-trumps-pick.amp"
+  - title: "Obama sends Trump 'best wishes' over coronavirus diagnosis: 'We’re all Americans'"
+    excerpt: "Former President Obama seemed to strive for a unifying tone Friday during a virtual fundraiser for Democratic presidential nominee Joe Biden. He said he and former first lady Michelle Obama were sending their “best wishes” to President Trump as he undergoes treatment for the coronavirus."
+    publishedDateTime: 2020-10-03T07:17:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y5g7gvUPyrU/obama-sends-trump-best-wishes-over-coronavirus-diagnosis-were-all-americans"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-sends-trump-best-wishes-over-coronavirus-diagnosis-were-all-americans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-sends-trump-best-wishes-over-coronavirus-diagnosis-were-all-americans.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20269505462906.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump tests positive for coronavirus: Here's who else is positive, and who's negative"
+    excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19 -- raising immediate questions about who else in the administration could be positive."
+    publishedDateTime: 2020-10-02T15:49:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Czb2vn0RWAk/trump-positive-coronavirus-heres-who-else-positive-whos-negative"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-positive-coronavirus-heres-who-else-positive-whos-negative.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-positive-coronavirus-heres-who-else-positive-whos-negative.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/Lisa20Murkowski.jpg"
-        width: 876
-        height: 493
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
-    excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-21T22:39:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drL1rH4Y3ss/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reiterates-vow-to-nominate-woman-to-supreme-court-says-vetting-process-underway.amp"
+  - title: "Pompeo tests negative for coronavirus, wishes Trump and first lady a 'speedy recovery'"
+    excerpt: "Secretary of State Mike Pompeo early Friday morning said he has tested negative for coronavirus hours after President Trump announced he and the first lady have the virus."
+    publishedDateTime: 2020-10-02T09:46:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ha_MXXgw6Ts/mike-pompeo-tested-negative-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-tested-negative-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-tested-negative-for-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Ohio Sen. Portman, Lordstown Motors executives tested for coronavirus after Trump meeting"
+    excerpt: "Trump met with Portman and Lordstown Motors CEO Steve Burns on Monday for an outdoor event at the White House."
+    publishedDateTime: 2020-10-02T22:53:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fPo49SGcFyM/ohio-rob-portman-lordstown-motors-executives-tested-coronavirus-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-rob-portman-lordstown-motors-executives-tested-coronavirus-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-rob-portman-lordstown-motors-executives-tested-coronavirus-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/103ebcf6-47b1-4c23-b415-50a83152e39e/10a711bd-65be-4739-b746-8cf853625d83/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Squad' Dem Tlaib slams Trump after coronavirus diagnosis: 'He only cares about himself'"
+    excerpt: "Rep. Rashida Tlaib, D-Minn., slammed President Trump on Friday after news that he and first ;ady Melania Trump had both tested positive for coronavirus. "
+    publishedDateTime: 2020-10-02T13:21:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tf9UY7IG3pY/squad-dem-tlaib-slams-trump-after-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-dem-tlaib-slams-trump-after-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-dem-tlaib-slams-trump-after-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "President Trump, first lady test positive for coronavirus, set to quarantine at White House"
+    excerpt: "President Trump and First Lady Melania Trump both tested positive for COVID-19 early Friday, and are set to quarantine and recover at the White House. "
+    publishedDateTime: 2020-10-02T05:13:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2TR-4_Ur-oA/president-trump-confirms-he-first-lady-melania-trump-tested-positive-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-confirms-he-first-lady-melania-trump-tested-positive-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-confirms-he-first-lady-melania-trump-tested-positive-for-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump’s campaign ‘may be more focused and disciplined’ without in-person events: Karl Rove"
+    excerpt: "President Trump being forced to hold virtual campaign events after testing positive for coronavirus may cause him to be more \"focused and disciplined\" in his messaging, Fox News contributor Karl Rove suggested on Friday."
+    publishedDateTime: 2020-10-02T18:49:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump taking Regeneron, Remdesivir therapy for coronavirus diagnosis: ex-WH doctor explains"
+    excerpt: "President Trump is taking experimental coronavirus drugs Remsdesivir and Regeneron after being diagnosed with COVID-19 this week, his former White House physician told \"Fox & Friends Weekend.\""
+    publishedDateTime: 2020-10-03T12:56:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6mjjuT8eYvI/trump-coronavirus-treatment-walter-reed-regeneron-remsdesivir-dr-ronny-jackson"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-treatment-walter-reed-regeneron-remsdesivir-dr-ronny-jackson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-treatment-walter-reed-regeneron-remsdesivir-dr-ronny-jackson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump campaign says president has ‘continuously denounced’ white supremacists, amid criticism"
+    excerpt: "The Trump campaign on Tuesday told Fox News that President Trump has “continuously denounced” white supremacists, including during the first presidential debate, when they say he did so “twice.”"
+    publishedDateTime: 2020-09-30T05:18:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lihaWHDq-ew/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dems say Trump diagnosis should be a 'wake up call' on administration's handling of coronavirus"
+    excerpt: "Several top Democrats Friday said that they hope President Trump and first lady Melania Trump recover quickly from the coronavirus while adding that the diagnosis should be \"a wake up call\" for the president to take \"a saner approach\" in his pandemic response that Democrats have been critical of for"
+    publishedDateTime: 2020-10-02T17:42:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VHTJIHM5PCY/dems-say-trump-diagnosis-should-be-a-wake-up-call-on-administration-handling-of-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-say-trump-diagnosis-should-be-a-wake-up-call-on-administration-handling-of-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-say-trump-diagnosis-should-be-a-wake-up-call-on-administration-handling-of-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Voters divided over ructions to Trump's coronavirus diagnosis, but most won't change their vote"
+    excerpt: "Voters largely reported feeling 'worried' or 'sad,' but some even said they were 'happy.'"
+    publishedDateTime: 2020-10-03T21:23:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q03HaYPfrZY/voters-divided-over-ructions-to-trumps-coronavirus-diagnosis-but-most-wont-change-their-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/voters-divided-over-ructions-to-trumps-coronavirus-diagnosis-but-most-wont-change-their-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/voters-divided-over-ructions-to-trumps-coronavirus-diagnosis-but-most-wont-change-their-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/340/340/peter-aitken.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "First lady Melania Trump says she and POTUS 'feeling good' after testing positive for coronavirus"
+    excerpt: "First lady Melania Trump said Friday that she and the president are \"quarantining\" after testing positive for COVID-19."
+    publishedDateTime: 2020-10-02T11:29:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sZZRGit5lOE/melania-trump-president-feeling-good-tweet-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-president-feeling-good-tweet-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-president-feeling-good-tweet-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f72eb6e-6d2e-4c08-aa10-151d5fb58830/00caa550-2b5d-4218-ad43-739194331d50/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lincoln Project wishes Trump well, hopes coronavirus diagnosis \"sends a signal\" to his supporters"
+    excerpt: "The Lincoln Project, a group of current and former Republicans who oppose Trump, wished the president and the first lady well Friday after they tested positive for COVID-19, while also saying that they hope the diagnosis \"sends a signal\" to his supporters to take the pandemic seriously. "
+    publishedDateTime: 2020-10-02T20:36:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fxFgpADXB_Q/lincoln-project-wishes-trump-well-hopes-covid-19-diagnosis-sends-a-signal-to-his-supporters"
+    ampWebUrl: "https://www.foxnews.com/politics/lincoln-project-wishes-trump-well-hopes-covid-19-diagnosis-sends-a-signal-to-his-supporters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-wishes-trump-well-hopes-covid-19-diagnosis-sends-a-signal-to-his-supporters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a175930-bab9-4c07-9d9c-3dd7bfb5d77c/f3522944-ba24-489e-ad21-c194b80d4974/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Scalise touts Trump coronavirus response, slams Democrats for 'working to undermine public faith'"
+    excerpt: "The top Republican on the House Subcommittee on the Coronavirus Crisis touted President Trump and his administration for their response to the pandemic, while slamming Democrats for “failing to acknowledge” that the president’s decisions “saved American lives.”"
+    publishedDateTime: 2020-10-02T01:00:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErSgTasnhfM/scalise-touts-trump-coronavirus-response-slams-democrats-for-actively-working-to-undermine-public-faith"
+    ampWebUrl: "https://www.foxnews.com/politics/scalise-touts-trump-coronavirus-response-slams-democrats-for-actively-working-to-undermine-public-faith.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-touts-trump-coronavirus-response-slams-democrats-for-actively-working-to-undermine-public-faith.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump, first lady begin the 'quarantine process' after Hope Hicks tests positive for coronavirus"
+    excerpt: "President Trump told Fox News host Sean Hannity on Thursday that he and First Lady Melania Trump are currently awaiting coronavirus test results."
+    publishedDateTime: 2020-10-02T02:01:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WFc8idbvZM8/president-trump-awaiting-results-of-covid-test-after-top-aide-is-infected-he-tells-sean-hannity"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-awaiting-results-of-covid-test-after-top-aide-is-infected-he-tells-sean-hannity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-awaiting-results-of-covid-test-after-top-aide-is-infected-he-tells-sean-hannity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be284456-d6de-4336-b05f-6e40b55eab33/ca31ec19-7de0-4662-bb6d-a21760be1861/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
+    excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people."
+    publishedDateTime: 2020-09-17T23:37:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "New Jersey governor urges Trump fundraiser attendees to get coronavirus test, 'take full precautions'"
+    excerpt: "New Jersey Gov. Phil Murphy urged people who attended President Trump's fundraiser in the state to get tested for the coronavirus after Trump's positive diagnosis. "
+    publishedDateTime: 2020-10-02T16:40:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3J_sS-aKUkU/after-trump-tests-positive-for-coronavirus-nj-governor-urges-attendees-of-bedminster-fundraiser-to-get-tested"
+    ampWebUrl: "https://www.foxnews.com/politics/after-trump-tests-positive-for-coronavirus-nj-governor-urges-attendees-of-bedminster-fundraiser-to-get-tested.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/after-trump-tests-positive-for-coronavirus-nj-governor-urges-attendees-of-bedminster-fundraiser-to-get-tested.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d682c8a8-9861-4330-997b-1c24e5a6479a/c6014e8f-867f-4542-99d3-ad3ce7399fab/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sean Hannity on Trump's positive coronavirus test: 'Sad' but 'predictable' that it will be politicized"
+    excerpt: "Reacting to news President Trump and first lady Melania Trump tested positive for the coronavirus, Sean Hannity offered his prayers to the first family."
+    publishedDateTime: 2020-10-02T16:17:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CZg-3pxxD-I/trump-coronavirus-test-positive-sean-hannity-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-test-positive-sean-hannity-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-test-positive-sean-hannity-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House says Trump experiencing 'mild symptoms' after positive coronavirus test, 'in good spirits'"
+    excerpt: "White House chief of staff Mark Meadows said Friday that President Trump is experiencing “mild symptoms” of COVID-19 after the president and first lady Melania Trump tested positive for the novel coronavirus."
+    publishedDateTime: 2020-10-02T15:29:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CUOVpY2A4MI/white-house-says-trump-experiencing-mild-symptoms-after-positive-coronavirus-test-say-he-is-in-good-spirits"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-says-trump-experiencing-mild-symptoms-after-positive-coronavirus-test-say-he-is-in-good-spirits.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-says-trump-experiencing-mild-symptoms-after-positive-coronavirus-test-say-he-is-in-good-spirits.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Amy Coney Barrett tested negative for coronavirus, last had contact with Trump on Saturday, White House says"
+    excerpt: "Judge Amy Coney Barrett, President Trump's Supreme Court nominee, last had direct contact with President Trump on Saturday as Trump officially announced her nomination, according to the White House. "
+    publishedDateTime: 2020-10-02T14:19:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zXoADu1Gcrw/judge-barrett-tested-coronavirus-daily-last-had-contact-trump-saturday-white-house-says"
+    ampWebUrl: "https://www.foxnews.com/politics/judge-barrett-tested-coronavirus-daily-last-had-contact-trump-saturday-white-house-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-barrett-tested-coronavirus-daily-last-had-contact-trump-saturday-white-house-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Flight of Boeing E-6B Mercurys amid Trump's coronavirus announcement 'purely coincidental': Strategic Command"
+    excerpt: "Two Boeing E-6B Mercury planes were detected flying along both coasts of the U.S. mainland early Friday, around the time President Trump announced he and first lady Melania Trump were diagnosed with coronavirus -- but the flights were “pre-planned” and the timing was “purely coincidental,” a U.S. Strategic"
+    publishedDateTime: 2020-10-02T08:43:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eMNzZz4Oknc/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-positive-coronavirus-test-prompts-pentagon-to-deploy-nuclear-command-plane.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Sanders says there ‘will be a number of plans’ to make sure Trump leaves office if he loses election"
-    excerpt: "Bernie Sanders, I-Vt., couldn't nail down a plan for what lawmakers should do if President Trump refuses to concede the White House if he loses in November, but said there will be a \"number of plans\" if that scenario were to take place."
-    publishedDateTime: 2020-09-26T21:34:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aeov6ijDBuM/sanders-warns-voters-dont-brush-it-off-trump-refusal-concede-white-house"
+  - title: "Trump delivers video message saying he thinks he is 'doing very well,' after testing positive for coronavirus"
+    excerpt: ""
+    publishedDateTime: 2020-10-02T22:52:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FMEm5-N0A6U/trump-says-he-thinks-he-is-doing-very-well-after-testing-positive-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-thinks-he-is-doing-very-well-after-testing-positive-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-thinks-he-is-doing-very-well-after-testing-positive-for-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump coronavirus adviser Atlas fires back against Redfield criticisms, says advice based on 'current science'"
+    excerpt: "EXCLUSIVE: Special Adviser to President Trump Dr. Scott Atlas fired back at criticisms leveled against him and his role on the Coronavirus Task Force on Monday, defending his record and expertise while maintaining that his advice to the president is based on the current science."
+    publishedDateTime: 2020-09-28T19:41:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06cH5nnVpj0/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Bernie-Sanders-AP.jpg"
-        width: 1024
-        height: 576
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Larry Hogan says Senate should not confirm Trump Supreme Court nominee before election"
-    excerpt: "Hogan is the third Republican governor to oppose the Senate's plan to move a Trump nominee before the election."
-    publishedDateTime: 2020-09-23T18:28:00Z
-    webUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/larry-hogan-says-senate-should-not-confirm-trump-supreme-court-nominee-before-election.amp"
+  - title: "Trump cancels travel schedule after testing positive for coronavirus, keeps phone call on virus aid for seniors"
+    excerpt: "President Trump cleared his Friday schedule except for a phone call on coronavirus support for vulnerable seniors after he and first lady Melania Trump confirmed they had tested positive for the virus in the early morning hours, multiple reports said. "
+    publishedDateTime: 2020-10-02T09:01:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BHo9v9L_7AE/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 142
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f89e271-14f2-4b2d-b35b-66d85ecc2850/08496e09-dd30-41c0-8ba2-51f8885f8021/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c5b0fba-c968-4c31-835f-44c27cb291b6/d11f68f5-3ec3-448f-8e47-ff5939e38d33/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "White House coronavirus adviser Scott Atlas reacts to Trump's coronavirus diagnosis, says 'zero reason to panic'"
+    excerpt: "Special adviser on coronavirus to President Trump Dr. Scott Atlas said he expects the president and first lady will make a “complete, full and rapid recovery,” after the two tested positive for COVID-19, saying “there is zero reason to panic.”"
+    publishedDateTime: 2020-10-02T13:16:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wsVvvwm4I2A/white-house-coronavirus-adviser-dr-atlas-expects-trump-full-rapid-recovery-says-zero-reason-to-panic"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-coronavirus-adviser-dr-atlas-expects-trump-full-rapid-recovery-says-zero-reason-to-panic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-coronavirus-adviser-dr-atlas-expects-trump-full-rapid-recovery-says-zero-reason-to-panic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House"
+    excerpt: "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election."
+    publishedDateTime: 2020-09-28T10:51:00Z
+    webUrl: "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4038064b-35fc-4824-99d4-216a9efd5066/d40d945d-725c-4ef8-93c4-939239bdd047/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dr. Marc Siegel: Trump coronavirus treatment likely 'precautionary', may continue for 'several days'"
+    excerpt: "The course of medication given to President Trump for treatment of COVID-19 is \"being done for precautionary reasons\" and \"may continue for the next several days,\" Fox News medical contributor Dr. Marc Siegel told \"Fox News @ Night\" Friday. "
+    publishedDateTime: 2020-10-03T05:59:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I81P97pv3K4/dr-marc-siegel-trump-coronavirus-treatment"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/image-2020-10-03T011636.021.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pence, Ivanka Trump visit Minneapolis salon destroyed in riots as state calls in National Guard"
+    excerpt: "Vice President Mike Pence and presidential adviser Ivanka Trump visited a Black-owned Minneapolis salon destroyed by rioters in May during their Thursday trip to Minnesota."
+    publishedDateTime: 2020-09-27T05:27:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-ivanka-trump-salon-minneapolis"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-ivanka-trump-salon-minneapolis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-ivanka-trump-salon-minneapolis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be31a497-3a36-49ea-87a4-31a1080ca77c/8fecd526-1c5e-4753-831b-047755f1cf17/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -413,38 +829,6 @@ related:
         width: 700
         height: 350
         isCached: true
-  - title: "Judge Removes Trump Public Lands Boss for Serving Unlawfully"
-    excerpt: "A federal judge ruled that President Trump’s leading steward of public lands has been serving unlawfully, blocking him from continuing in the position."
-    publishedDateTime: 2020-09-26T02:34:00Z
-    webUrl: "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    ampWebUrl: "https://www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237121/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Judges Removes Trump Public Lands Boss for Serving Unlawfully"
-    excerpt: "A federal judge ruled that President Trump’s leading steward of public lands has been serving unlawfully, blocking him from continuing in the position."
-    publishedDateTime: 2020-09-26T01:23:00Z
-    webUrl: "https://www.wsj.com/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738?mod=latest_headlines"
-    ampWebUrl: "https://www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/judges-removes-trump-public-lands-boss-for-serving-unlawfully-11601081738"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237121/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump Would Double Down on Tax Cuts in Second Term"
     excerpt: "President Trump and Republicans got much of the tax code they wanted in 2017. In a second term, he would face expiration dates on those and push for more tax cuts."
     publishedDateTime: 2020-09-29T13:17:00Z
@@ -461,19 +845,92 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
-    excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the ."
-    publishedDateTime: 2020-09-24T19:56:00Z
-    webUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-says-this-is-what-donald-trump-is-looking-for-in-a-supreme-court-pick.amp"
+  - title: "Trump signs short-term spending bill to prevent government shutdown"
+    excerpt: "President Donald Trump signed a spending bill early Thursday to prevent an imminent government shutdown. The Senate voted 84-10 to pass the bipartisan bill, extending federal agency funding to"
+    publishedDateTime: 2020-10-01T06:43:00Z
+    webUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/"
+    ampWebUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/AP20275174301260.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Joe Biden says he and Jill Biden tested negative for coronavirus"
+    excerpt: "Joe Biden confirmed Friday that he and his wife, Jill, tested negative for the coronavirus, days after the former vice president appeared on the debate stage with President Trump, and hours after Trump revealed he and first lady Melania Trump tested positive."
+    publishedDateTime: 2020-10-03T02:19:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-jill-negative-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-jill-negative-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-jill-negative-covid-19.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 129
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20261444399167-1.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/411ded46-fab5-4df0-9f88-5d2b9f7fcded/345bce17-1e9d-4093-8913-a8af021c6091/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump White House, Congress facing unclear coronavirus implications"
+    excerpt: "President Trump, several top White House aides and Republican lawmakers have tested positive for the coronavirus, -- likely restructuring the final weeks of the presidential campaign, the race to confirm Trump's Supreme Court pick and even the day-to-day workings of the federal government."
+    publishedDateTime: 2020-10-03T10:07:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7K2S9DamTvQ/trump-white-house-congress-facing-unclear-coronavirus-implications"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+  - title: "Trump campaign keeping at ‘full speed’ as president fights COVID-19"
+    excerpt: "The campaign is launching \"Operation MAGA,\" which features virtual events ahead of the VP debate, and resumes in-person events with Pence, members of Trump family."
+    publishedDateTime: 2020-10-03T19:44:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bcfbf85-4fee-4d63-a075-4a07d3b0cf37/01fcde80-46af-4c80-8839-34cfe61ac6bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Michael Rapaport roasts President Trump after he contracts coronavirus: 'Bleach it out'"
+    excerpt: "Michael Rapaport is known for publicly bashing President Trump online and Friday was no different for the actor as he reacted to the news of the POTUS' positive coronavirus test with a steady stream of insults on Twitter."
+    publishedDateTime: 2020-10-02T15:25:00Z
+    webUrl: "https://www.foxnews.com/entertainment/michael-rapaport-president-trump-positive-coronavirus-bleach"
+    ampWebUrl: "https://www.foxnews.com/entertainment/michael-rapaport-president-trump-positive-coronavirus-bleach.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/michael-rapaport-president-trump-positive-coronavirus-bleach.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/rapaport-trump-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Dennis Quaid bashes 'cancel culture media,' denies he did a pro-Trump PSA about coronavirus"
+    excerpt: "Dennis Quaid shared a video on Instagram explaining that reports he participated in a pro-Trump ad campaign funded by taxpayers about the administration’s COVID-19 response are inaccurate."
+    publishedDateTime: 2020-09-29T12:41:00Z
+    webUrl: "https://www.foxnews.com/entertainment/dennis-quaid-cancel-culture-trump-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/entertainment/dennis-quaid-cancel-culture-trump-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dennis-quaid-cancel-culture-trump-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Dennis20Quaid20RT.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

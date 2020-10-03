@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535948470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9126O"
         width: 808
         height: 545
+        isCached: true
+  - title: "7 crucial questions Trump's doctor has declined to answer — and what he said instead"
+    excerpt: "We don't know for sure when Trump's last negative test was, whether he's received supplemental oxygen, how how high his fever has gotten."
+    publishedDateTime: 2020-10-03T21:24:00Z
+    webUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f78c360282c500018c78754?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
         isCached: true
   - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
     excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""

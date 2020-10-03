@@ -155,6 +155,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The Latest: Trump’s Diagnosis a Reminder US Cases on Rise"
+    excerpt: "The news of President Donald Trump’s coronavirus diagnosis serves as a reminder of the pervasive spread of the coronavirus in the United States."
+    publishedDateTime: 2020-10-03T21:31:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "SxNZErlA+ZJm90c+ELyI+mrs+qa0o4d1M2mk8//ua9O6iCdIWLXgzFQwHG+M+rVSyR/QQkEQvEx8iN4mXiTzA7NWqvoEWRYRT9tCrI8f56wr8f0ViNebbuEp8exMP8V0kUNS42ugmOkmXyf+7oc8WXK4Uwg3Xc0IrRTapEXZjA/dY2qNLH1nPqfBLjWuAyzTEsEI74mT+NyNYT83eavyE/f+rVTfHKoTvXuYyQ97XkSDkBaHuBD2dyRnl3hoE5pVr1t1zz8+Yt3nGzj3kPadMjQJx2BSaE/G/VhlDqwOcXm+53ovinkO3rZwunqzr7z363rSmY+WUIeJTZ61Dz0rB+yHi6rSFLi1fX2ghAkzfMKPvZ4U27+v5LdBu1iaC2qugQbQP9FqLgq7VrQUSn8sQAqQCi/dBVLGBpxsPH+DTWydtfsXAyR5Q6mxnEB1Pp41+vqxWV5vDkWdrh94yC38y1alMqt4enrKw1c3etR0T5HjT4VqTNoW3whsjJpEexhZKKkFD0qmWSbSbtHo44vSRg==;b/yI5QlEbJ9nondmwFgJbw=="
 ---

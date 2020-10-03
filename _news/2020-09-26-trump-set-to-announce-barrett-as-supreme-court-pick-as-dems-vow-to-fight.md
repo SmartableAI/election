@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump to meet with evangelicals ahead of Supreme Court announcement"
-    excerpt: "President Trump on Saturday will meet with evangelical faith leaders, hours before he is expected to announce that he is nominating Amy Coney Barrett to fill the vacancy on the Supreme Court."
-    publishedDateTime: 2020-09-26T15:56:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B89JQDG__4Y/trump-evangelical-faith-leaders-ahead-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "IBt/kKJyz4uIBq/gehD0D3IEH5ExPNqTLM7uf6gYMkCJpREvn3TwF5+oZfib2wFQYzq9gmIj+Hrm7tcjIFIYinQnTmbkxHfMAgp3QhiA3TR9VSWCr5OqkDZZFvlToVec4/ad/JbhPqZNZZUS6Cw7S5ElDRQfbPVO7S70QUkMsPvI4VEaAoNpgJFx+/X9xWXAraEvrKUp6RdxktPtuwIqIjxw/tCEKjMf/jTpo13K7pXXS91aDxmB/aKwArx1Kzu2gx7jU4UFPd4Tcyz/+GUDgW6Ex7x0IEO8ij8YjNxkPHrVMVamv9L1Jvsqi5igWW+u5BnmQCD3HwW5qV6hoUVI4ILvVeM6EfrB09GaULRtBrA=;82d+XIriC6B7gwlqUhDQEw=="
 ---

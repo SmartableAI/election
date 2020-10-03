@@ -145,6 +145,17 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "The Latest: Trump’s Diagnosis a Reminder US Cases on Rise"
+    excerpt: "The news of President Donald Trump’s coronavirus diagnosis serves as a reminder of the pervasive spread of the coronavirus in the United States."
+    publishedDateTime: 2020-10-03T21:31:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
     excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
     publishedDateTime: 2020-09-29T06:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-election-outcome-no-light-fo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp"
 type: article
 quality: 177
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump White House can't end census early, judge rules"
+    excerpt: "President Trump won't be allowed to end this year's census a month early after new evidence presented by Census Bureau officials indicates that an early deadline could lead to severe undercounts, a federal judge ruled Friday. "
+    publishedDateTime: 2020-09-25T14:49:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvXlueNm6oI/trump-white-house-cant-end-census-early"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pelosi not considering another Trump impeachment: ‘I don’t think he’s worth the trouble at this point’"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., now says she’s not considering a fresh round of impeachment charges against President Trump to delay a Supreme Court confirmation vote. "
     publishedDateTime: 2020-09-24T17:57:24Z

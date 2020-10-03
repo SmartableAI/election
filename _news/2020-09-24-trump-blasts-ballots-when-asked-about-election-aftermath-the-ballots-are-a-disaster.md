@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp"
 type: article
 quality: 182
-heat: 182
+heat: 202
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Pelosi slams Trump over transfer of power comments, says he’s trying to have Constitution 'swallow Clorox'"
+    excerpt: "House Speaker Nancy Pelosi criticized President Trump after he refused to commit to ensuring a peaceful transfer of power, saying he is trying to “have the Constitution swallow Clorox.” "
+    publishedDateTime: 2020-09-24T17:14:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Np8IHXcOCU/pelosi-trump-election-constitution-clorox"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-election-constitution-clorox.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/pelosi-trump-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "l3tq7PayHb8YCbtL1xPfEdpB/sok1GdpNkvPAOHPV6HO22p2zuFXgeBtQfUxZ2DAD4VhXa1+TvjUVMOdrDoqjgD8C5pSK4MJBdINMxBPntFRSKWpd5uaSzFzRtzZ2BrvnBtUyytoQc5vxI71W1ySFM7/oWT88n9bmYY7XtqXeTuhfV3QuQ/kudzFaVX5d3KkGjCPaR2OC8oYzkGYCs1pykslHpkxmO5BndW9X40tFI4lv106ahz7jJqjf11lXzJlzvLV3g3kqCsq1okpDtNvF8R986u0rzlhNQPRHmsqTeSZNDk6CLIw99kYKw9Ra2u2i73c1vBX2pa14RgyD4RkncBUh4s//Z0CaWUxYzQ/KvA=;VpJIOoA2wjqAL9PEgUWUOw=="
 ---

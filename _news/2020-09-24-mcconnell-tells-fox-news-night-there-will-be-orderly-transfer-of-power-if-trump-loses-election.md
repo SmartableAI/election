@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-transfer-of-power-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mccconnell.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Mitch McConnell, Mitt Romney respond to Trump's peaceful transfer of power remarks"
+    excerpt: "Sen. Mitt Romney, R-Utah, called President Trump's response to a question about peacefully transferring power after the election \"unthinkable.\""
+    publishedDateTime: 2020-09-24T15:26:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lpWpxddJbtc/mitt-romney-peaceful-transfer-power-trump-belarus"
+    ampWebUrl: "https://www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitt-romney-peaceful-transfer-power-trump-belarus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/mitt-romney-2-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

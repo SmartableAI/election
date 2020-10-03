@@ -2,17 +2,21 @@
 category: news
 title: "VP Mike Pence claims he was with President Trump in Oval Office hours before debate"
 excerpt: "Vice President Mike Pence, at a debate watch event in Lititz, Pa., on Tuesday, says he met President Trump in the Oval Office just hours before."
-publishedDateTime: 2020-10-02T20:35:00Z
-originalUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
-webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
+publishedDateTime: 2020-10-02T19:59:00Z
+originalUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
+webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
 type: article
-quality: 64
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -315,8 +319,8 @@ related:
         isCached: true
   - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
-    publishedDateTime: 2020-10-02T08:49:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
+    publishedDateTime: 2020-10-02T13:24:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-incapaci-idUSKBN26N198"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
     type: article
@@ -534,10 +538,10 @@ related:
         isCached: true
   - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
     excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
-    publishedDateTime: 2020-10-03T06:45:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence-idUKKBN26N226"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26N226"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N226"
+    publishedDateTime: 2020-10-03T07:05:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-1-u-s-vice-president-pence-next-in-line-behind-trump-tests-negative-for-covid-19-idUSL1N2GT0VB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2BS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2BS"
     type: article
     provider:
       name: Reuters
@@ -580,6 +584,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Timeline of Trump's reported COVID diagnosis and treatment"
+    excerpt: "White House officials were forced to attempt to clarify a timeline of President Donald Trump's coronavirus diagnosis and treatment Saturday after the president's doctor made statements that did not align with public information."
+    publishedDateTime: 2020-10-03T20:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/timeline-trumps-reported-covid-diagnosis-treatment/story?id=73406821"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/timeline-trumps-reported-covid-diagnosis-treatment/story?id=73406821"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/timeline-trumps-reported-covid-diagnosis-treatment/story?id=73406821"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/marine-one-liftsoff-ap-ps-201002_1601678603855_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House chief of staff says Trump is doing very well"
     excerpt: "White House Chief of Staff Mark Meadows said on Saturday that President Donald Trump is doing \"very well\" and that doctors are pleased with his vital signs."
     publishedDateTime: 2020-10-03T19:28:00Z
@@ -595,6 +615,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1536044872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG920Q4"
         width: 816
         height: 545
+        isCached: true
+  - title: "With Donald Trump Hospitalized With COVID-19, Mike Pence Steps Into the Spotlight"
+    excerpt: "A s the questions about President Donald Trump’s coronavirus diagnosis and subsequent hospitalization at Walter Reed continue to grow, so too do the challenges facing his understudy, Vice President Mike Pence."
+    publishedDateTime: 2020-10-03T21:06:00Z
+    webUrl: "https://time.com/5895996/mike-pence-trump-hospitalized/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 125
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-fundraiser-hosted-qanon-supporters.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -1825,6 +1859,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "SotVB5sUam3z9jnICCmjgdKGRNDFoecml67nKpcB6SrQ2Zt36UR6QYBnep132c2sr7riEHu2E/TdMMCsK378ogS67k30lmPMcZN5z9KVTshxcy7m4KrwTkxykemspFQG7mkJaqjljK9J2WOXMCgDw8wV1jlB1S+ZTspR9tE3WH6w43q6yDfygSxpd1lkyr9gc8sNZB+qBDk3XsFkreP5P+rXmYw06OrKWDNeNcuOlPwV/4lAUrY4a3wOVKNcW+D/UDh6wMhDFt1EPi9Ecm4oSK83jd6MkKq6aC56V35vttzonbilcTG26cmqxJG03GGJphwnr3Cd1A1m6/PGAiQFYV2Ji+tuY1CJ6z0YDbdvOtTBUZLVdATMD2FH2jfT/S9kepRXFcdSI7dJyBYiL+a296UD3BYQPPc5veqwUYaQmEVnF48qKsOFNOKOSSGtkHfRca/2f0dzR4MSIQpmXT3LO0E6Lha6pazbayIDBZgZAjBo7fTxcgbThy5f+RdlxI5BMjNeP6QNAOp7VGqYvoH4aA==;M+lnYBxfQ1Yd961lvDmOow=="
+secured: "pTloqQLEkQr+PUSw43nfUZg9v+hgvczULIgACC2rtN/1G9S3+TFgglTQmRRKs3/wtJdBcUoTvkF9ga9XtPYUtP5U58N/5O1mG+S1vNSEpO2sqRAvzEpJPAEeLII3URYE/IYHy8V9lbKRRwWdnz/3c4KSiqdgWy986YtyWnH56As9GqAWI9nttPhyfB9K822pxBVc3OkXfj98tFA6Zc8HuXyGTi2mifGZwQDqyCLEznYVsXYoVXYnBcmH6sAYjnLOrDBOEhPcTnS4cctPg7gbzbsZx12wCEq/NhteE2b4OR5evvzFUdAFHw6PEdC08dEGcJqDqLEViYCGny0ZgjGXR777NwleNwNFehIGpiV5f5E=;E4ntfelKGn1KfJCqKxOQ4A=="
 ---
 

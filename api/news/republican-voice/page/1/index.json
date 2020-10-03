@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-03-trump-campaign-says-pence-expected-to-add-more-events-as-president-deals-with-coronavirus.md",
+      "title": "Trump campaign says Pence expected to add more events as president deals with coronavirus",
+      "excerpt": "Vice President Mike Pence will step up on the campaign trail as President Trump deals with a case of the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSVNSqZwsnk/trump-campaign-pence-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSVNSqZwsnk/trump-campaign-pence-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1331,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da4fefe0-619b-413c-8314-ecabc05fc010/18684257-14cd-4416-a6ae-4cc575d57702/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp",
+      "publishedDateTime": "2020-10-03T14:46:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-ilhan-omar-shames-biden-for-pulling-negative-campaign-ads-get-it-together.md",
       "title": "Ilhan Omar shames Biden for pulling negative campaign ads: 'Get it together'",
       "excerpt": "Rep. Ilhan Omar, D-Minn., called out former Vice President Joe Biden for pulling negative campaign ads after President Trump's coronavirus diagnosis, arguing that the president wouldn't have offered the same courtesy.",
@@ -389,61 +445,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-herschel-walker-praying-for-trump-after-coronavirus-diagnosis.md",
-      "title": "Herschel Walker 'praying' for Trump after coronavirus diagnosis",
-      "excerpt": "“Praying for @POTUS, @FLOTUS, America and the World affected by the COVID virus,” Walker wrote on Twitter.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/huu4u9Ns2PA/herschel-walker-reaction-trump-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/huu4u9Ns2PA/herschel-walker-reaction-trump-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 615,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49cd9545-8d20-42fb-a18a-f2dee89ff05f/aa598eef-8742-4fa8-b656-699b26d681b7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-reaction-trump-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-reaction-trump-coronavirus.amp",
-      "publishedDateTime": "2020-10-02T13:58:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-trump-team-thinks-nevada-is-in-play-is-it.md",
       "title": "Trump team thinks Nevada is in play. Is it?",
       "excerpt": "The Trump campaign has been hitting Nevada harder than ever this election season, and they seem certain the state might be President Trump’s for the taking this November. ",
@@ -456,7 +457,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -553,61 +554,6 @@
         "Republican Voice",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trumps-campaign-may-be-more-focused-and-disciplined-without-in-person-events-karl-rove.md",
-      "title": "Trump’s campaign ‘may be more focused and disciplined’ without in-person events: Karl Rove",
-      "excerpt": "President Trump being forced to hold virtual campaign events after testing positive for coronavirus may cause him to be more \"focused and disciplined\" in his messaging, Fox News contributor Karl Rove suggested on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
-      "publishedDateTime": "2020-10-02T11:49:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -788,7 +734,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 475,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -1173,7 +1119,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 197,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -1631,6 +1577,61 @@
       "ampWebUrl": "https://www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp",
       "publishedDateTime": "2020-09-30T11:16:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-biden-says-at-debate-he-doesnt-support-green-new-deal-but-his-campaign-website-calls-it-crucial-framework.md",
+      "title": "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'",
+      "excerpt": "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7770338-6f00-45d5-b73c-f483671ead37/96618aa6-16e0-4aa8-b103-de0e0b8c3bce/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
+      "publishedDateTime": "2020-09-30T10:46:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

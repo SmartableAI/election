@@ -175,6 +175,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump's COVID-19 symptoms 'very concerning', next 48 hours critical, source says"
+    excerpt: "President Donald Trump is not yet on a clear path to recovery from COVID-19 and some of his vital signs over the last 24 hours were very concerning, a person familiar with his health said on Saturday."
+    publishedDateTime: 2020-10-03T21:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-int/trumps-covid-19-symptoms-very-concerning-next-48-hours-critical-source-idUSKBN26O0YF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0YF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0YF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1536048213&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9202O"
+        width: 854
+        height: 545
+        isCached: true
   - title: "Donald Trump Tests Positive For COVID—And America’s Nuclear Doomsday Planes Launch"
     excerpt: "U.S. president Donald Trump tested positive for the novel-coronavirus on Friday morning. Shortly after the news broke, the U.S. Navy’s doomsday planes launched on both American coasts. The E-6B Mercury is one of the Pentagon’s airborne nuclear command posts."
     publishedDateTime: 2020-10-02T07:21:00Z

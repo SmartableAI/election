@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-30-trump-says-he-doesnt-know-who-proud-boys-are-says-let-law-enforcement-do-their-work.md",
+      "title": "Trump says he doesn't know who Proud Boys are, says 'let law enforcement do their work'",
+      "excerpt": "President Trump on Wednesday tried to clear up confusion after telling the right-wing men’s group the Proud Boys to “stand back and stand by,” saying he didn’t know who the group was but they should let law enforcement do their job. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20274113905862.jpg",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
+      "publishedDateTime": "2020-09-30T12:55:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-vp-mike-pence-visits-atlanta-for-cobb-county-event.md",
       "title": "VP Mike Pence visits Atlanta for Cobb County event",
       "excerpt": "As part of the campaigning, Vice President Mike Pence will make a swing back through Georgia to energize Republican voters, less than a week after President Trump's visit. Here's what we know about the vice president's visit. According to the schedule from ...",
@@ -760,7 +815,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -967,61 +1022,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.md",
-      "title": "Trump campaign says president has ‘continuously denounced’ white supremacists, amid criticism",
-      "excerpt": "The Trump campaign on Tuesday told Fox News that President Trump has “continuously denounced” white supremacists, including during the first presidential debate, when they say he did so “twice.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lihaWHDq-ew/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lihaWHDq-ew/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp",
-      "publishedDateTime": "2020-09-29T22:18:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },

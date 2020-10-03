@@ -198,6 +198,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
+    excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
+    publishedDateTime: 2020-10-03T18:52:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
     excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
     publishedDateTime: 2020-10-01T16:10:00Z

@@ -63,69 +63,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Read: Memo from Trump's physician on positive coronavirus test"
-    excerpt: "President Trump and first lady Melania Trump tested positive for coronavirus."
-    publishedDateTime: 2020-10-02T11:05:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WfGdVtuBXMI/read-memo-presidents-physician-positive-coronavirus-test"
-    ampWebUrl: "https://www.foxnews.com/politics/read-memo-presidents-physician-positive-coronavirus-test.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/read-memo-presidents-physician-positive-coronavirus-test.amp"
+  - title: "Bernie Sanders wishes Trump and First Lady 'full and speedy recovery'"
+    excerpt: "Sen. Bernie Sanders, I-Vt., on Saturday wished President Trump and First Lady Melania Trump a “full and speedy recovery’ from COVID-19, after they were diagnosed with the virus earlier this week."
+    publishedDateTime: 2020-10-03T20:04:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YmEizUmbPws/bernie-sanders-trump-first-lady-recovery"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-trump-first-lady-recovery.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-trump-first-lady-recovery.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/ca77f38e-7fd4-4256-98f1-91f567959c46.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump critics seize on president's positive coronavirus test to mock, lecture"
-    excerpt: "While many on social media sent well wishes to President Trump and First Lady Melania Trump early Friday after the president confirmed they had both tested positive for the coronavirus, others took the time to criticize or make negative comments.  "
-    publishedDateTime: 2020-10-02T07:47:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J2wZJXmtLXQ/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-critics-seize-on-presidents-positive-coronavirus-test-to-mock-lecture.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa0f4910-4c22-4366-a6ea-9b34b4817ee8/df5cb6e2-c8e3-418a-9a3d-f1244df1e202/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "After Trump’s positive coronavirus test, Chris Wallace says he will get tested"
-    excerpt: "Fox News' Chris Wallace told \"Fox & Friends\" he is getting tested for the coronavirus after President Trump and first lady Melania Trump tested positive for COVID-19 just days after the first presidential debate in Cleveland."
-    publishedDateTime: 2020-10-02T13:49:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tLgY7AIXfic/trump-coronavirus-positive-test-chris-wallace-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-positive-test-chris-wallace-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-positive-test-chris-wallace-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Bill Stepien, President Trump's campaign manager, tests positive for coronavirus"
-    excerpt: "Trump’s campaign manager, Bill Stepien, tested positive for the coronavirus Friday evening, a campaign official told Fox News, hours after the president and first lady confirmed they had contracted the virus."
-    publishedDateTime: 2020-10-03T04:55:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tjsb2oEODrs/bill-stepien-president-trumps-campaign-manager-tests-positive-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-stepien-president-trumps-campaign-manager-tests-positive-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-stepien-president-trumps-campaign-manager-tests-positive-for-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/Bill-Stepien.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Trump praises staff at Walter Reed, says he is 'feeling well' as he fights COVID-19"
     excerpt: "President Trump on Saturday praised the staff at Walter Reed National Military Medical Center, and said he is \"feeling well,\" a day after he was transferred to the center after testing positive for COVID-19."
@@ -143,21 +95,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump tests positive for coronavirus: Here's who else is positive, and who's negative"
-    excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19 -- raising immediate questions about who else in the administration could be positive."
-    publishedDateTime: 2020-10-02T15:49:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Czb2vn0RWAk/trump-positive-coronavirus-heres-who-else-positive-whos-negative"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-positive-coronavirus-heres-who-else-positive-whos-negative.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-positive-coronavirus-heres-who-else-positive-whos-negative.amp"
+  - title: "Michael Cohen responds to Trump’s positive COVID-19 test: 'This was all preventable'"
+    excerpt: "President Trump’s former attorney Michael Cohen blasted the chief executive’s COVID-19 diagnosis Friday, claiming that the White House is to blame."
+    publishedDateTime: 2020-10-03T20:33:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cHjSvTPTw_s/michael-cohen-trump-covid-19-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/michael-cohen-trump-covid-19-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-cohen-trump-covid-19-diagnosis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Michael-Cohen-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump campaign keeping at ‘full speed’ with 'Operation MAGA' as Trump fights COVID-19"
     excerpt: "The campaign is launching \"Operation MAGA,\" which features virtual events ahead of the VP debate, and resumes in-person events with Pence, members of Trump family."
@@ -172,22 +124,6 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pompeo tests negative for coronavirus, wishes Trump and first lady a 'speedy recovery'"
-    excerpt: "Secretary of State Mike Pompeo early Friday morning said he has tested negative for coronavirus hours after President Trump announced he and the first lady have the virus."
-    publishedDateTime: 2020-10-02T09:46:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ha_MXXgw6Ts/mike-pompeo-tested-negative-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/mike-pompeo-tested-negative-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-tested-negative-for-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -206,54 +142,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/b4ae6462-AP20070377919994.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Lincoln Project wishes Trump well, hopes coronavirus diagnosis \"sends a signal\" to his supporters"
-    excerpt: "The Lincoln Project, a group of current and former Republicans who oppose Trump, wished the president and the first lady well Friday after they tested positive for COVID-19, while also saying that they hope the diagnosis \"sends a signal\" to his supporters to take the pandemic seriously. "
-    publishedDateTime: 2020-10-02T20:36:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fxFgpADXB_Q/lincoln-project-wishes-trump-well-hopes-covid-19-diagnosis-sends-a-signal-to-his-supporters"
-    ampWebUrl: "https://www.foxnews.com/politics/lincoln-project-wishes-trump-well-hopes-covid-19-diagnosis-sends-a-signal-to-his-supporters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-wishes-trump-well-hopes-covid-19-diagnosis-sends-a-signal-to-his-supporters.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a175930-bab9-4c07-9d9c-3dd7bfb5d77c/f3522944-ba24-489e-ad21-c194b80d4974/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump cancels travel schedule after testing positive for coronavirus, keeps phone call on virus aid for seniors"
-    excerpt: "President Trump cleared his Friday schedule except for a phone call on coronavirus support for vulnerable seniors after he and first lady Melania Trump confirmed they had tested positive for the virus in the early morning hours, multiple reports said. "
-    publishedDateTime: 2020-10-02T09:01:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BHo9v9L_7AE/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-travel-schedule-after-testing-positive-for-coronavirus-keeps-phone-call-on-virus-aid-for-seniors.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c5b0fba-c968-4c31-835f-44c27cb291b6/d11f68f5-3ec3-448f-8e47-ff5939e38d33/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign keeping at ‘full speed’ as president fights COVID-19"
-    excerpt: "The campaign is launching \"Operation MAGA,\" which features virtual events ahead of the VP debate, and resumes in-person events with Pence, members of Trump family."
-    publishedDateTime: 2020-10-03T19:44:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bcfbf85-4fee-4d63-a075-4a07d3b0cf37/01fcde80-46af-4c80-8839-34cfe61ac6bf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Ron Johnson's 'Big Idea': Don't stop investigating Trump-Russia probe 'until we have uncovered the truth'"
     excerpt: "The Big Idea is a series that asks top lawmakers and figures to discuss their moonshot – what’s the one proposal, if politics and polls and even price tag were not an issue, they’d implement to change the country for the better? "
