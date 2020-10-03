@@ -367,6 +367,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden tests negative for coronavirus"
+    excerpt: "Democratic presidential nominee Joe Biden said he and his wife Jill tested negative for coronavirus on Friday. “I’m happy to report that Jill and I have tested negative,” Biden said on Twitter. “Thank you to everyone for your messages of concern."
+    publishedDateTime: 2020-10-03T12:22:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-tests-negative-for-coronavirus-15616211.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/37/26/20051343/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z
@@ -459,22 +473,24 @@ related:
         width: 911
         height: 455
         isCached: true
-  - title: "Joe Biden tests negative for coronavirus before events in Grand Rapids"
-    excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden tested negative for the coronavirus Friday morning, hours before he is scheduled to campaign in Michigan. Bidens"
-    publishedDateTime: 2020-10-02T17:46:00Z
-    webUrl: "https://www.cleveland.com/news/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html"
-    ampWebUrl: "https://www.cleveland.com/news/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html?outputType=amp"
+  - title: "A Fox News host has cast Trump as a war hero who got the coronavirus because he 'put himself on the line'"
+    excerpt: "Fox News host Greg Gutfeld compared Trump's coronavirus diagnosis to a solider's sacrifice on the battlefield while speaking on \"The Five\" talk."
+    publishedDateTime: 2020-10-03T11:31:00Z
+    webUrl: "https://www.businessinsider.com/fox-news-host-greg-gutfeld-trump-covid-19-for-us-2020-10"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QLMBVTYCF5HYBHMXDQIC5X33KU.jpg"
-        width: 2466
-        height: 1645
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+  - title: "Joe Biden tests negative for coronavirus before events in Grand Rapids"
+    excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden tested negative for the coronavirus Friday morning, hours before he is scheduled to campaign in Michigan. Bidens"
+    publishedDateTime: 2020-10-03T04:25:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 35
 
 secured: "5i9yTxLt5hn3Og+gbC+78SgPgDI7+GWKoBr7mfUBgfv7MBPwIF4lnsfd4FLAFpXvIJDsYqsw7PuZ+MjXR2UX2JYL0N7TCovm+OCOHxq7ovPsMzfrmwhDYdSq+DZoZenq6hCJEwzwBMTZZ90w3gDahHgixMdewZNAsqyDZ9zcPi5e4d16+zNje3y7pvNw1bmb85caymBmUUVeQuN7ldKJpvGhAwks67T7ZlvlhZLxjy5JrTt3lOlQnVsJux2eqxRJBdnPut50KAhXMWSeWbhfJB9eRgDjFRUQ83K757PrMznPUfXRE7ENrvE6GwfEhSF8DvDNOxOwsOTabfXyFp2atb+r/rYVct91HbkZQcwHzhOSYPMk5cb2kRAUCCGithJkWqJZydkrHnXUXxGRGoHjFoL8XFWTf3WcQNBnPCXMkK/axCmcW+o5MFVqHt+1kodIbabPl8nmxzj+U8IIkjz3QCthZ6rXII4YzPSBy1DN++uK4Kb41diDL81OKrd7sNlt2nz03Z5SlSKLgkS0DNMX6Q==;d0TH3jfStN5MgO4qqymHrA=="
 ---

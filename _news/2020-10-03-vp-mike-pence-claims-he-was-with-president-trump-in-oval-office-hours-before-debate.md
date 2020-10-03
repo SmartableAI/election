@@ -2,21 +2,17 @@
 category: news
 title: "VP Mike Pence claims he was with President Trump in Oval Office hours before debate"
 excerpt: "Vice President Mike Pence, at a debate watch event in Lititz, Pa., on Tuesday, says he met President Trump in the Oval Office just hours before."
-publishedDateTime: 2020-10-02T19:59:00Z
-originalUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
-webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
+publishedDateTime: 2020-10-02T20:35:00Z
+originalUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
+webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
 type: article
-quality: 114
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -253,6 +249,22 @@ related:
         width: 1200
         height: 809
         isCached: true
+  - title: "How Mike Pence could temporarily assume control if Trump becomes incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T09:13:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity-idUSKBN26N19X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N19X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N19X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535824101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910S6"
+        width: 768
+        height: 545
+        isCached: true
   - title: "Former Pence aide: White House staffers discussed Trump refusing to leave office"
     excerpt: "A former aide to Vice President Pence said that White House staffers have privately discussed a scenario in which President Trump loses the November election and refuses to leave office."
     publishedDateTime: 2020-09-26T03:46:00Z
@@ -288,9 +300,9 @@ related:
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
     excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
     publishedDateTime: 2020-10-02T19:35:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debates/vice-presidential-debate-between-mike-pence-and-kamala-harris-still-on-idUSKBN26N38L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38N"
+    webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
     type: article
     provider:
       name: Reuters
@@ -630,19 +642,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Mike Pence could temporarily assume control if Trump becomes incapacitated"
-    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
-    publishedDateTime: 2020-10-02T13:28:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity-idINKBN26N19X"
+  - title: "China had mocked Trump for not taking the pandemic seriously. Now it's very personal."
+    excerpt: "China is riveted by news of Trump’s positive coronavirus test, even as senior officials remain reserved in their public comments."
+    publishedDateTime: 2020-10-03T13:34:00Z
+    webUrl: "https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-trump-xi/2020/10/03/b2b848e6-04b5-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/coronavirus-china-trump-xi/2020/10/03/b2b848e6-04b5-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/coronavirus-china-trump-xi/2020/10/03/b2b848e6-04b5-11eb-b92e-029676f9ebec_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201002&t=2&i=1535824101&r=LYNXMPEG910S6&w=800"
-        width: 800
-        height: 567
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6YJXZSQFPMI6XCL5HJRADVTEH4.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism"
     excerpt: "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans."
@@ -1705,6 +1719,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "rgnuskp1wViDuLm7NiSO3a09N3dYdaH1ovo9F1jRMPHm8TQVb2QHb5UZhHTdQ0AqZhapIgwJN8gfBA8PkP/zYZ5zKMNsDWl8h/SGCsshUBhcGqtYbZ13Na3gWy0QcM9dzljfpqZvAPtZmJ4gsfYUt270jU0omvWBgWfKRtJjI07zi1dmwv8YnrxfEkc4B9rDXllRRMysbZsXTHn6woGcwcfvVcjq7IKxa38oYzSj7cBTgOU/SN/Qs+c35hSBA+M4C+9gdKdjVH1qUus6Ph38Ay4wcvbKlIWbVG4fKA0vusuqKDkpQVoWfDCs4x2o6CBaWhm+2Lm4Uj4OihwMrUBeucAg6gq/a/hWKFa/zriO3yE=;yntqx2eWpq5IDaSVSmyzBg=="
+secured: "Z2OX9bSDndcqpzHadbH15ceCO+4fxMjYRQ9/yegmfVErKvXbKQIWXs6Z2+BnKBFZFQiWWhujvvrMLd6yg/jFd5VSIeG/Z2txKnFzUgBhvYLBdBxRQqQ0JHzzFngP1X3dIvrFn/e+4AX1yptrj2oLLoXgCRJnpOrHRKD9kD3CeDsayYHU/T6PzOs0zanWVtgP/eZMi4pdS7glwDGdNT3xt35Zm8SWU57gd1taX1/c18qpPGgA/5AiKeOZKmzNKkkjO+hTwwXgrkDx1JnUUt5Tq3Xuv58SdLg6TWvxxXMMwcGSQWtq4isw86lM4TBYJe1mic3hWw8/MNpt6WK8LfD6UH4DwsI/I+344ZwvM9i+nKQ=;KjHAxD6fuA0xtfZdP73Ntg=="
 ---
 

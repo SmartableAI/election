@@ -157,6 +157,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark"
+    excerpt: "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,"
+    publishedDateTime: 2020-10-03T13:03:00Z
+    webUrl: "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76773dd654b423dfece1b5%2F0x0.jpg"
+        width: 1199
+        height: 797
+        isCached: true
   - title: "Trump says he doesn't know Proud Boys, but 'they need to stand down,' as he faces backlash for not criticizing white supremacists"
     excerpt: "Facing criticism for not denouncing white supremacist groups during the debate Tuesday, President Trump said he's \"always denounced any form of any of that.\""
     publishedDateTime: 2020-10-01T04:12:00Z
@@ -189,6 +203,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Live updates on Trump and COVID-19: President in hospital for extended stay; many infected at White House gathering"
+    excerpt: "President Trump is at hospital after a positive COVID-19 test. The Bidens wish him well. Campaigning ahead of Election Day has shifted. Latest news."
+    publishedDateTime: 2020-10-03T10:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/trump-covid-updates-president-gets-remdesivir-walter-reed-hospital/3592595001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 63
   - title: "President Donald Trump, First Lady test positive for COVID-19"
     excerpt: "President Donald Trump announced early Friday that he and First Lady Melania Trump had tested positive for Covid-19, shortly after one of his closest aides, Hope Hicks, had fallen ill with the coronavirus."
     publishedDateTime: 2020-10-02T11:17:00Z

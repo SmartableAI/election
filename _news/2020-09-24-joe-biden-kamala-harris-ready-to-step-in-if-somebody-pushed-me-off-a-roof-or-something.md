@@ -1225,6 +1225,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Former VP Joe Biden pulls all negative campaign ads"
+    excerpt: "NBC News' Mike Memoli reports the Biden campaign has decided to pull all negative advertising in light of President Trump's Covid-19 diagnosis."
+    publishedDateTime: 2020-10-03T06:31:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/02/former-vp-joe-biden-pulls-all-negative-campaign-ads.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 105
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106728123-16016768131601676810-11717776718-1080pnbcnews.jpg?v=1601676813"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "FACTBOX-Here are rules liberals think they could reverse under Biden presidency"
     excerpt: "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the"
     publishedDateTime: 2020-09-21T11:28:00Z
@@ -2203,6 +2217,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "‘SNL' Releases Teaser of Jim Carrey, Maya Rudolph as Joe Biden, Kamala Harris"
+    excerpt: "Live” returns with new shows this weekend and on Thursday night, “SNL” gave viewers a preview of Jim Carrey as Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-02T04:31:00Z
+    webUrl: "https://www.nbcnewyork.com/entertainment/entertainment-news/snl-releases-teaser-of-jim-carrey-maya-rudolph-as-joe-biden-kamala-harris/2647690/"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 47
   - title: "Kamala Harris Campaigns in Detroit"
     excerpt: "Senator Kamala Harris (D-CA) spoke at a voter mobilization event in Detroit."
     publishedDateTime: 2020-09-24T02:27:00Z

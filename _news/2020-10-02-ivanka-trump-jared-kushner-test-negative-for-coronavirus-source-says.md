@@ -319,6 +319,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump White House, Congress facing unclear coronavirus implications"
+    excerpt: "President Trump, several top White House aides and Republican lawmakers have tested positive for the coronavirus, -- likely restructuring the final weeks of the presidential campaign, the race to confirm Trump's Supreme Court pick and even the day-to-day workings of the federal government."
+    publishedDateTime: 2020-10-03T10:07:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7K2S9DamTvQ/trump-white-house-congress-facing-unclear-coronavirus-implications"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
 
 secured: "YQUD2eztL1VuQE+Hxs3lgXCrtN8mqX5N4uVdxN+W0FpQgovfUr95Qe+E0QpUU5gxftJj0YHoDKxxNhIycxjq8rcWoZ/gYjLIRpnjrWlADRmpL+3nP/S7tg2SASqB643jchSy3yNgT2n6juZOW+x8lasue/t6N6V0bGNBU9sPFIGfK7o+C+lzjImojbkPppbDIEh8NzRCGU/jCl1BWXI8zVSqZQQG1EQfjilVAwyIJ/xNG69W2M9NKj/xjUBNKwDwmHen0oVPBT/Kq1wpBbrbh88hK5Gm+VMWgHyKYnNsiBsdLzgGO+gSbqqZ9qm56kEWT3r33yccfzeetnivZchOZ94cu0jU/ELWDG8bOnG56wM=;F1DlMqzxr4iY8NYBzCiHhg=="
 ---

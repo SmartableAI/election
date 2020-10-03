@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3606381001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3606381001"
 type: article
 quality: 117
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "China's Xi wishes Trump speedy recovery: Chinese state media"
+    excerpt: "Chinese President Xi Jinping sent a message to U.S. President Donald Trump and his wife Melania on Saturday, wishing them a speedy recovery from the coronavirus, Chinese state television reported."
+    publishedDateTime: 2020-10-03T10:46:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-xi/chinas-xi-wishes-trump-speedy-recovery-chinese-state-media-idUSKBN26O0F7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
 
 secured: "VzhmqzyQf5n2pDXEAFlCh34wH6WjA/A2ZxKdJF7QA8d5fIdMrI+Elq24Nk0cXOiLERfchR0pGa0ZIpjg/pPTsW/AbJuAr6inOEJONls+obAdpAJqtcm4gNdw87VdpezYhAxIMpKBPlYI2WHsjW9cOTCw7DdgXaqO8HJurRt07GD+dcOc/2z4Sgh0an1cdNAG+n/ydmzY9AgwO2QVcBiW5JI6Ylhl55W6ZFNpn67e63ZjNuuMmcMMvl7drYggb8HkNGmqYYQCWcJsLWJOXZNczc21tlbyK5eaXlQy+J7YuPAoX/v+d2ZT+TvZZF3jqatb1TtCSgvuo2rzKZYkwO95+orKy4J29SwDDVqzimg1nEI=;aw/WIIcoaFNabIJYe0pdvg=="
 ---

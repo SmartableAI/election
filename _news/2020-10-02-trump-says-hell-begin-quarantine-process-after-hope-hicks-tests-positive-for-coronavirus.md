@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "READ: Trump's doctor releases statement after the President and first lady test positive for Covid-19"
-    excerpt: "President Donald Trump and first lady Melania Trump tested positive for coronavirus, the President announced early Friday morning, an extraordinary development coming months into a global pandemic and in the final stretch of his reelection campaign.\n    \n"
-    publishedDateTime: 2020-10-02T05:49:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yDAopmnNIec/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-doctor-covid-statement/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002010356-trump-melania-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Point: This Republican senator is the early leader for worst take on Trump's coronavirus diagnosis"
     excerpt: "Hours after President Donald Trump announced that he and his wife, first lady Melania Trump, had tested positive for Covid-19, Georgia Sen. Kelly Loeffler decided that the world needed to hear her take on the matter.\n    \n"
     publishedDateTime: 2020-10-02T15:39:33Z
@@ -95,22 +79,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200716171623-01-kelly-loeffler-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Vice President Pence tests negative for Covid after Trump's diagnosis"
-    excerpt: "Pence, who was with Trump this week, is scheduled to debate Democratic Sen. Kamala Harris next week Salt Lake City."
-    publishedDateTime: 2020-10-02T12:25:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/vice-president-pence-tests-negative-covid-after-trump-s-diagnosis-n1241787"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241787"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241787"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416916/201002-mike-pence-mc-1204_78bac30ec0c4f0f66330f46d019dc39c.JPG"
-        width: 2500
-        height: 1672
         isCached: true
   - title: "Mike Pence and his wife tested negative Friday morning."
     excerpt: "Vice President Mike Pence announced Friday that he and his wife, Karen, had tested negative for the coronavirus, just hours after President Trump and the first lady announced they had both tested positive and were quarantining at the White House."
@@ -176,20 +144,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "TRUMP tests positive for COVID — VIRUS cases INCREASE — Race-baiting ROBOCALL hits state rep race"
-    excerpt: "President Donald Trump announced early Friday that he has tested positive for the coronavirus, upending his presidency and the 2020 race just 32 days before Election Day. The 74-year-old president disclosed his diagnosis in a tweet at 12:54 a."
-    publishedDateTime: 2020-10-02T11:30:00Z
-    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2020/10/02/trump-tests-positive-for-covid-virus-cases-increase-race-baiting-robocall-hits-state-rep-race-490507"
+  - title: "2020 Election Live Updates: President Trump Is Hospitalized With Coronavirus"
+    excerpt: "Mr. Trump is currently at the Walter Reed National Military Medical Center in Bethesda, Md., where officials said he will be monitored for “a few days,” strictly as a precaution. Mr."
+    publishedDateTime: 2020-10-03T11:34:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/03/us/trump-vs-biden"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 102
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
+      name: New York Times
+      domain: nytimes.com
+    quality: 107
 
 secured: "0ypPTMaqmysO7rRtzh33RrOpcYRuTHq0NUTNFfHAPpyPycaOCQ0Bv+szVSpqMmSb+9pbJrvhzkckgQhdOHEDCr4+tyEuZn0b+it5vZoEP1ydJgfQ+X8hwl/xAf4l8xbg7/RFB73eW6yquZ74XV6SUCdbmbpiniJmF2fJ/ka4OIGIHAvyH3fQuLhcNmMb9hR1xim4qoPZCUZeJq9dwkhRVk4TyuGFVzuU8gVxFefGTqbYj8v9nBfa+aSbIn6AybnYyp8VX40AnEjK+iGBdA42OuaDIb3LGWmQwlf9NKUfUzAWE9AfuNbVjJRLpWxVsmmurmlTYTCG4R7MoSMcd+X3thQg8ts6RY9oiQxrDPaPfHg=;WAVcydA/LpTMsEXhiETQKw=="
 ---

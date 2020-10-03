@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -175,6 +175,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ron Johnson's 'Big Idea': Don't stop investigating Trump-Russia probe 'until we have uncovered the truth'"
+    excerpt: "The Big Idea is a series that asks top lawmakers and figures to discuss their moonshot – what’s the one proposal, if politics and polls and even price tag were not an issue, they’d implement to change the country for the better? "
+    publishedDateTime: 2020-10-03T11:51:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ESbV59rfqcA/ron-johnsons-big-idea-continue-investigating-trump-russia-probe-until-we-have-uncovered-the-truth"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
 
 secured: "KzMz6EYYBt73wHZLLx85THWXr4OU6aCNl9kstYrA+J/VRY8vbepLBwyKL4NYOyuenh/RevQzAnggvBevAMSG2JBQaFW01zjbEtA9kaMmowEq8Eh0qUx5ZUUt9orVqrIbJmJAAl8MRVICwrU9r17xmzFQT3tswfsqcHRO2bAv0AJLbi1Fr0ib2XQ6OcAqJ+RZs1GnmNLm83a1rX9ANtmSbGc+mzqf7lwlFbFWyKp3j2QCZrVpHM9tL7Hp0g0a7PR4FvC/CqzAnYg8/vILXtk0sOWtrIyKb4zuZTGhS8Fg1gxC0tZTPkKzqL4h4LPVh1fFNP9mwodsPlsxqdVUiEDAYeqTfByRd2Kqr9B/rmMltIg=;Ag3PDyq89GmJ54WamIz6kQ=="
 ---

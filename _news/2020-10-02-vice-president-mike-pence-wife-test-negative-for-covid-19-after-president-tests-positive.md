@@ -2,19 +2,19 @@
 category: news
 title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
 excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
-publishedDateTime: 2020-10-02T12:42:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/5892854002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5892854002"
+publishedDateTime: 2020-10-02T15:53:00Z
+originalUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+ampWebUrl: "https://amp.freep.com/amp/5892854002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5892854002"
 type: article
 quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -417,6 +417,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump told journalist Bob Woodward: 'I'm not' worried about contracting COVID-19"
+    excerpt: "President Donald Trump told journalist Bob Woodward in April that he did not fear contracting COVID-19 despite recognizing the disease's threat."
+    publishedDateTime: 2020-10-03T10:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/03/president-donald-trump-coronavirus-bob-woodward-audio-recording/3607185001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 80
+  - title: "White House: VP Mike Pence tests negative and 'remains in good heath,' after Trump tests positive for COVID-19"
+    excerpt: "VP Mike Pence tests negative and 'remains in good heath,' after Trump tests positive for COVID-19."
+    publishedDateTime: 2020-10-02T20:06:00Z
+    webUrl: "https://www.businessinsider.com/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
   - title: "VP Mike Pence tests negative and ‘remains in good health,’ after Trump tests positive for COVID-19"
     excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump"
     publishedDateTime: 2020-10-02T12:44:00Z
@@ -544,6 +562,6 @@ related:
         height: 1369
         isCached: true
 
-secured: "zYWXip6xD1QRHCHw2aPXykQch9k1WsICbTNSwx3yNDNDu5oGwilIK4yBY9+IquhQQmbcXu9IzcvWt5zQ4VtT7k8E5h6C3g1lpnBeG9luw+iu/4qwnL9tXAAJBH7mplhlKKdC6aWwKUARlwA93MfngkXGFA6RXTTualFVh+RRTiT9bWcSP1T7zfTsFH1yX89SzhmiCzv6m80MpxgCK7Qc3T2UIy11fZzePK+7M7DkjH0wzz7/cJZgPtn/dW7zL6bshdPi5BrtEjuGro/tlGQY/5zhGWh7ZMsGebP+A5vjBNv6oh8HffbsI+0NPkZ9W7lJw9gA+JUDvRtepjXw9tEj8VaIgkPwXPwMfe4CaT6/LS1FwhRtsGlebiHH5S5dhrUh036IMcWrmTKg+jkDf9MEfJyFA32hC8kDFbC+iHJ9/GsS7cNMYIpsfXUT9bZ7GEZSyvS7Kbphn+3HZ46b40IZQoPJLBay7rq9iclVW/rBJyDquf+IAiBkUPelKSsZYMctrO5EDJ5EXsGuEK/w6r2DmA==;acBDz+Ma2ScooM+vWox6Bw=="
+secured: "y7zhJX4p8rA4SNpzcXxq0jwcS3MfenJxDZ18atVLTYjr3tQ6WoFvjfZxP5BxHnGlUzFCkMEFQ8HPly5lAeuGFogyrIpBwzEjOSe+UgrSDdqtCVkxtRlBjLSlC4n8Lzq7THycCRVNLihp3BvJTSGogwVa6NtLmt0PDsd0Kh/avI5PKRB9T2sAaltXGH48+Y34o0bcYowUn6bVB95FaUn+bm3VOPvCu9ZLia2t4KOWBtEvNANbb6WOvO8v6tOVkgGLlMwBws+yAmACraD7KOC2+2XfvMdhjoJRAkShBJnNOStVaRZAAM7rij2PA5zAzSlImFu7uMSluOZtbOIhw9z06+caUZNlrCqCnvPfgH9fbBE=;TN2Nr/TYFFr5PNZcDJEPEw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html"
 type: article
 quality: 160
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/2180696/ss-171006-twip-22_7607aec2d647d9aa65488040a7aadb8f.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Newsom bans new gas cars — and begs Trump for a fight"
+    excerpt: "The Democratic governor announced he is directing the California Air Resources Board to establish regulations requiring that all new cars and passenger trucks sold in California in 2035 be zero-emission vehicles."
+    publishedDateTime: 2020-09-24T00:00:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/09/23/newsom-bans-new-gas-cars-and-begs-trump-for-a-fight-1317947"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/f00273f6-6c5b-40ad-ba25-7102aa8168a0/216cfcff-5c66-4716-aa6b-a7757b14653a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "bu1SA1sHWAjhX475stp7yA/IOFIcKW9x0ZRCUTtUTxT/aEk4prHNhO7gBPdNsDeeabFvknrsp6PJwSblwYjaRltvnh6ha2wIRmcBDcjxsqvOp5fgXXPw4bH0z8xhgeO6P6xe9IXvoUeuhcKgZ5v9PROK46iF+eEfLBMVQEhFPyIVXYXY4lR3sBbBtTuPqyh1D4smQ76rb2Cpo1831nyQ2GoBk/ZelsFjSgkIN4CEf14795KduFDF9bdwlc/gT7HTFFvw71Ft4Kk2ifpazrBw3NQlcbqodGBNDFTgmFxSaaq49/PQaLqu3E6Jge5fhUkJ4U2RuRfL/6TOxMlBjSAh3AMl+6WxfF0da8TZ4rXdTYI=;Uv71gyJxHXjn428LKPurVw=="

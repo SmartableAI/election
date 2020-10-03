@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241570"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241570"
 type: article
 quality: 127
-heat: 147
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,19 +32,145 @@ images:
     isCached: true
 
 related:
-  - title: "Florida remains top 2020 battleground — Trump's Proud Boys moment sparks Black outrage — DeSantis lets eviction moratorium expire"
-    excerpt: "Between Tuesday and Wednesday, the number of Florida coronavirus cases increased by 1,948 (nearly 0.3 percent), to 706,516; total hospitalizations went up 253 (nearly 0.6 percent), to 44,108; deaths rose by 172 (1."
-    publishedDateTime: 2020-10-01T11:05:00Z
-    webUrl: "https://www.politico.com/newsletters/florida-playbook/2020/10/01/florida-remains-top-2020-battleground-trumps-proud-boys-moment-sparks-black-outrage-desantis-lets-eviction-moratorium-expire-490491"
+  - title: "Here are the Cabinet members and others around Trump who have been tested"
+    excerpt: "President Donald Trump's positive coronavirus diagnosis has raised questions about the health of those around him, including members of his cabinet and his Vice President.\n    \n"
+    publishedDateTime: 2020-10-02T15:20:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vjHiL3-chw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/covid-trump-cabinet-testing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/covid-trump-cabinet-testing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002101734-01-trump-rally-virginia-0925-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and his envoys have trashed Europe's confidence in the US. The damage might be irreparable"
+    excerpt: "It's no secret that Donald Trump is no big fan of the European Union. Over the past four years, the US President has talked positively about Brexit and claimed that the bloc was created in order to \"take advantage of the United States.\"\n    \n"
+    publishedDateTime: 2020-09-26T04:02:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lEQBD1TGo20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/trump-european-union-diplomacy-intl-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/trump-european-union-diplomacy-intl-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200703112839-01-trump-europe-relations-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Attacked Rochester Protesters. Not All Local Republicans Agree."
+    excerpt: "In Western New York, the president’s vilification of Black Lives Matter protests has forced candidates to decide whether to line up behind him."
+    publishedDateTime: 2020-09-26T09:12:00Z
+    webUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/25/nyregion/00rochester-trump5/00rochester-trump5-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Donald Trump Was the Real Winner of ‘The Apprentice’"
+    excerpt: "The reality show temporarily revived his business fortunes by creating the illusion that he was already doing great."
+    publishedDateTime: 2020-09-28T21:14:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/arts/28apprentice1/28apprentice1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "'This was avoidable': Trump has been downplaying the virus from the start"
+    excerpt: "In recent weeks, Trump has put himself and others at risk by holding mass gatherings, some indoors, and shunning mask use while claiming the end of the virus was just around the corner."
+    publishedDateTime: 2020-10-02T17:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241775"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241775"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416883/201002-donald-trump-melania-trump-ew-202a_2aef1d6bb1b9e1b977edd6d985618f74.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Contact tracers scramble to find people infected by Trump and his entourage"
+    excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
+    publishedDateTime: 2020-10-02T23:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 86
+    quality: 133
     images:
-      - url: "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg"
-        width: 900
-        height: 1165
+      - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
+    excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."
+    publishedDateTime: 2020-10-02T07:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/02/world/02dc-virus-trump-ticktock-1/02dc-virus-trump-ticktock-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "What Trump reportedly says in private about his Christian supporters"
+    excerpt: "Trump often presents himself as a hero to people of faith, most notably Christian conservatives. In private, it's apparently a very different story."
+    publishedDateTime: 2020-09-29T15:49:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/what-trump-reportedly-says-private-about-his-christian-supporters-ncna1241335"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_06/3220181/prayer_campaign_2016_trump-jpeg-5d0da-maddowblog_53da12c3998f805b987c26f4cfc1e3fe.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Long concealed records show chronic losses and years of income tax avoidance for President Trump"
+    excerpt: "Trump paid $750 in federal taxes in 2016 and 2017, and paid none in 10 of the previous 15 years."
+    publishedDateTime: 2020-09-27T23:25:50Z
+    webUrl: "https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 102
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "H1UoUyLDw/tIG3fUNSQNZ6SpWHH+QxlRxFFtLoItrB0W0B1v/KXbaboQ4yPvoZHfqfNUVcdZ9of62B/4oUm+fyrEUv3zWLIlVsLLhkt7MLVMhlM0O5xxr/ZdqMRrghe8zZHvsYQHqCxCzGZIvaa6uUW01kvYErabO9Uk9FN2f6k67wltx8PiQC4L7ue0xLkiIY6Oo4l7d66dHBPaSKA0Wc/dKcD53vBLv3qFtuXCTFUhFTs59I5qIw+GkVldGN2k0XCkb45zS9lWLFPHCJOiOOqAub47qeMLIgcRDgbtKNk0WqNH99kK4wXEnHxX/90SsGOADrB5AyqGZ8VQ5mudI2vp2FYbRSodmmp2UC0AKZg=;IMFibYHiBdrP/BcWnN2x+Q=="

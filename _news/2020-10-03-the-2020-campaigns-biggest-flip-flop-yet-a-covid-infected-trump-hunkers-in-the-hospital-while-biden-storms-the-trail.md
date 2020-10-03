@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-02T23:23:00Z
 originalUrl: "https://www.businessinsider.com/trump-coronavirus-covid-hospital-biden-campaign-trail-2020-10"
 webUrl: "https://www.businessinsider.com/trump-coronavirus-covid-hospital-biden-campaign-trail-2020-10"
 type: article
-quality: 96
+quality: 106
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://i.insider.com/5f77a8c22400440019129cc1?width=1200&format=jpeg"
@@ -1675,6 +1676,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "As04hshSHrX2olQNvN6lqKJsVoRTgP/H4f1acZeGgHkS7oa8hyclGK0RRgj1BmnoJ9X2dfqrC2ylV2uIi87nF2cjOe/bfP8cWg4wz7wmTo06CEiMv2oOtNUI6SLiWKgjRtU8/BOS9Zr4XDZaW+jLkI8SlX0muSirjKMBaDxlUtz/xX7yNBSaYdUp+OadHk2uXegumgKjJddNEk/VU41d1OhQJbvt3WquECzN0y2Et7X2E6MPFj9fS2a/s8ZxXItvE+Obj8KzGlQV0pyHU5KCeF4lgLlAdlKfnlo29zvbKV7WsQ0VQ3vPj22hBMWiA108AjA38UCEHYbZYdlQpy0eDsP6vBFhR7/my086w5ZaPWU=;RyQXLAbtwOsWDTuyNCngTw=="
+secured: "5aXUmkkkC3yggjQMajuaU04wWN9Bz9WYLsCPj7ZL7hUiqrqhNbGAwIpJFeLkMLBkXy3mgq1g3gccrFDJQ62pRmxp1FiyzuTi+h4bn721W5MQCRuRS+XqGy4SXTXS+Dw3TUH45/r3f8WXAzGYM7D1wv0Bwoh8PtJoUFN1w/B6v9YK7NHd9K2+v0XD03E74sWwOElUViINnqPsE4zjx2Sbm5c0809ux9vFg3ldbtkG8IhTsi1+Bx5IMHLwxsxyVATg6wvSAMcyuRpqq556uX2X/YclyzsT3JpZYd1WwYaYK6GNTv5kfK0A/IzC5USkHbmY9EI70gt928mWjjRtMyTaqwCXRiRnOfItzYV3Uol4dby2QxS4n5m0bfaqh94zwKRWWHchFu5ob4rfHiB+mHGhuZfOAwhiuA7vKcOGJ9fcs7TU2YQD0CFx/NdqKJlCgI86IRnh5KAKWFXhcFZ8mPoe92S05WQ9/ouTG+zD0QyYsC3sxNZgUi+2+1eq9rDVomhw/h7bNqRja9sa00CZpOC0xA==;f0Pm/s6x1/PnmTHNxP4pgw=="
 ---
 

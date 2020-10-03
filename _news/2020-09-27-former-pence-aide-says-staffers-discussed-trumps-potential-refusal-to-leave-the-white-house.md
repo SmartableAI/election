@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-le
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp"
 type: article
 quality: 190
-heat: 550
+heat: 570
 published: true
 
 provider:
@@ -320,6 +320,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump White House, Congress facing unclear coronavirus implications"
+    excerpt: "President Trump, several top White House aides and Republican lawmakers have tested positive for the coronavirus, -- likely restructuring the final weeks of the presidential campaign, the race to confirm Trump's Supreme Court pick and even the day-to-day workings of the federal government."
+    publishedDateTime: 2020-10-03T10:07:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7K2S9DamTvQ/trump-white-house-congress-facing-unclear-coronavirus-implications"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
 
 secured: "ZNDVuCJFiJTwvOb5vD+DFo4/qILJacA0jN23Rbujd9Xqn8aNDz5OVWG0qjjVwyDk10dB57231q+u4tQm+OVJXs7UkOE5KcaZclgdvkHahwfi4BfJ8RLAl/cECfDqzNE7Y1uqDbirCuPCGuSyGcVD1S6ePUO9ayN0s2+O9BmhFSzRr5nSjZ9KJRjVEO0mfd2nMKIMIQiwoJrq4W9YhDwkcdnR49mGMZwvMjDsjg8Mj+/KMLC000PqZpLEUUCW+1k6yy5GJ+pRCUKQHHaJg8RR+VPUZxa7Q5fN1nmJVEvjPbcR+Y65n/G7dZOh4BJwaeQdlvvuVbkwo01VIv9L7EL+KiiwgH8tYbEoIL1GZ6yQmmg=;r70BF5+2tIcKANuO/tr0NQ=="
 ---

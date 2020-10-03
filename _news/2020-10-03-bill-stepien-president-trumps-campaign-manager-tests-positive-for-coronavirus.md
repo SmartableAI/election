@@ -175,6 +175,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ron Johnson's 'Big Idea': Don't stop investigating Trump-Russia probe 'until we have uncovered the truth'"
+    excerpt: "The Big Idea is a series that asks top lawmakers and figures to discuss their moonshot – what’s the one proposal, if politics and polls and even price tag were not an issue, they’d implement to change the country for the better? "
+    publishedDateTime: 2020-10-03T11:51:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ESbV59rfqcA/ron-johnsons-big-idea-continue-investigating-trump-russia-probe-until-we-have-uncovered-the-truth"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
 
 secured: "cKNm4qKn9OKQ9WqZrgjaXa8JpGNebJiQ7CePpOblySrSYqpp/UQl51V7PDEZlWk/B123v7Ge9YA5YBC+43DIjU1q8a7Qj8VChFqZ3XXuGwRabOgoZ58ign4b6xbn8QaB1616lAv9uxS2yUh8d3EjpvPqi2vrZFf/PA3JhbKqcEUYufN79j/PaVIHng5imoH5eXgycW9iFwjY+htl6zrB1Hc7LgXA1mPyu2SrtjTNfEu6K6rrcy8hjzhxdiQt8OjU6E0EEvtOgrw1wVvEwEaUzJRCoPka5Zjh6EEDiFVqdBc0fIRhwYqYJHK7qyQTaRJ3TKF0X1EKTuf1xpHDFLsc7+QX1hMKjDk3QXXEIjlc8sk=;LAVVwiGC8BESwX+ttDzn4A=="
 ---

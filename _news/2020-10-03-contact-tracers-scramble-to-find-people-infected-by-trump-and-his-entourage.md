@@ -32,131 +32,117 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Tax bombshell reveals Trump's image is a sham"
-    excerpt: "It was the moment when Donald Trump's \"Art of the Deal\" fabulism, billionaire tycoon bluster and populist standard-bearing for forgotten Americans was revealed to be what it always looked like: a sham.\n    \n"
-    publishedDateTime: 2020-09-28T05:23:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927181158-02-trump-press-briefing-0927-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Trump relishes his role as a divider as he vows to be 'vicious'"
-    excerpt: "Taking the stage at a rally in Nevada Saturday night, President Donald Trump didn't hold back.\n    \n"
-    publishedDateTime: 2020-09-13T14:49:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XuwDjmXtx2Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
+  - title: "Here are the Cabinet members and others around Trump who have been tested"
+    excerpt: "President Donald Trump's positive coronavirus diagnosis has raised questions about the health of those around him, including members of his cabinet and his Vice President.\n    \n"
+    publishedDateTime: 2020-10-02T15:20:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vjHiL3-chw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/covid-trump-cabinet-testing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/covid-trump-cabinet-testing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200908191141-02-trump-nc-0908-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002101734-01-trump-rally-virginia-0925-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
-    excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
-    publishedDateTime: 2020-09-14T21:06:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5zU9tawExY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
+  - title: "Trump and his envoys have trashed Europe's confidence in the US. The damage might be irreparable"
+    excerpt: "It's no secret that Donald Trump is no big fan of the European Union. Over the past four years, the US President has talked positively about Brexit and claimed that the bloc was created in order to \"take advantage of the United States.\"\n    \n"
+    publishedDateTime: 2020-09-26T04:02:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lEQBD1TGo20/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/trump-european-union-diplomacy-intl-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/trump-european-union-diplomacy-intl-analysis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913235654-03-wildfires-california-0909-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200703112839-01-trump-europe-relations-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump's tax returns reveal why he *really* ran for president"
-    excerpt: "Donald Trump needed a new act.\n    \n"
-    publishedDateTime: 2020-09-28T14:11:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HqjVlGpKWqs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tax-returns-new-york-times/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tax-returns-new-york-times/index.html"
+  - title: "Trump Attacked Rochester Protesters. Not All Local Republicans Agree."
+    excerpt: "In Western New York, the president’s vilification of Black Lives Matter protests has forced candidates to decide whether to line up behind him."
+    publishedDateTime: 2020-09-26T09:12:00Z
+    webUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/nyregion/rochester-trump-protests-election.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/150701114048-donald-trump-escalator-super-tease.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Point: The *real* secret of Donald Trump's success revealed by his tax returns"
-    excerpt: "President Donald Trump likes to tell people he made his fortune building things.\n    \n"
-    publishedDateTime: 2020-09-29T14:14:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yhTkq_2MfTQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "For a tired nation, Trump's Covid-19 diagnosis provides a wake-up call"
-    excerpt: "The president's coronavirus case is a turning point not seen since March. But politicization of the pandemic means it might not matter."
-    publishedDateTime: 2020-10-03T08:43:00Z
-    webUrl: "https://www.nbcnews.com/science/science-news/tired-nation-trump-s-covid-19-diagnosis-provides-wake-call-n1241903"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241903"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241903"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3417092/201002-wake-up-call-trump-main-cover-cs_f89e67da9c3de4e47cb21523bc8ebf23.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://static01.nyt.com/images/2020/09/25/nyregion/00rochester-trump5/00rochester-trump5-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "New York Times' Trump taxes bombshell reveals massive national security threat"
-    excerpt: "The revelations of the president’s tax records must become part of a larger and still unresolved investigation into Trump’s potential compromise by foreign powers."
-    publishedDateTime: 2020-09-29T19:06:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/new-york-times-trump-taxes-bombshell-reveals-massive-national-security-ncna1241363"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241363"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241363"
+  - title: "Donald Trump Was the Real Winner of ‘The Apprentice’"
+    excerpt: "The reality show temporarily revived his business fortunes by creating the illusion that he was already doing great."
+    publishedDateTime: 2020-09-28T21:14:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/arts/28apprentice1/28apprentice1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "'This was avoidable': Trump has been downplaying the virus from the start"
+    excerpt: "In recent weeks, Trump has put himself and others at risk by holding mass gatherings, some indoors, and shunning mask use while claiming the end of the virus was just around the corner."
+    publishedDateTime: 2020-10-02T17:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241775"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241775"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 131
+    quality: 134
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416080/200928-donald-trump-mn-1510_69cbbd57bea01db5a9d2fc17f67d75ab.JPG"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416883/201002-donald-trump-melania-trump-ew-202a_2aef1d6bb1b9e1b977edd6d985618f74.jpg"
         width: 2500
-        height: 1405
+        height: 1667
         isCached: true
-  - title: "Newsom bans new gas cars — and begs Trump for a fight"
-    excerpt: "The Democratic governor announced he is directing the California Air Resources Board to establish regulations requiring that all new cars and passenger trucks sold in California in 2035 be zero-emission vehicles."
-    publishedDateTime: 2020-09-24T00:00:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/09/23/newsom-bans-new-gas-cars-and-begs-trump-for-a-fight-1317947"
+  - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
+    excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."
+    publishedDateTime: 2020-10-02T07:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-virus.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/f00273f6-6c5b-40ad-ba25-7102aa8168a0/216cfcff-5c66-4716-aa6b-a7757b14653a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static01.nyt.com/images/2020/10/02/world/02dc-virus-trump-ticktock-1/02dc-virus-trump-ticktock-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump's Proud Boys 'stand back and stand by' debate moment was more than a dog whistle"
+    excerpt: "There are not two sides to white supremacy, just as there are not two sides to homophobia, anti-Semitism or any other type of hate. That is, apparently, unless your name is Donald J. Trump."
+    publishedDateTime: 2020-09-30T16:51:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241570"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241570"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416378/200930-proud-boys-portland-jm-1217_0_4aead6db0f14f95b2d194d823f968045.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "What Trump reportedly says in private about his Christian supporters"
     excerpt: "Trump often presents himself as a hero to people of faith, most notably Christian conservatives. In private, it's apparently a very different story."
@@ -169,20 +155,6 @@ related:
     quality: 115
     images:
       - url: "https://media2.s-nbcnews.com/j/newscms/2020_06/3220181/prayer_campaign_2016_trump-jpeg-5d0da-maddowblog_53da12c3998f805b987c26f4cfc1e3fe.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Is Team Trump using the Food Box Program as a campaign prop?"
-    excerpt: "As Election Day draws closer, the Trump administration is requiring the Food Box Program to include signed letters from the president."
-    publishedDateTime: 2020-10-01T14:10:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-using-food-box-program-campaign-prop-ncna1241693"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_16/3309381/200415-donald-trump-signature-cs-1216p_55fead8ecc4caed031149c3c02cffedf.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -200,16 +172,7 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "H.R. McMaster Tries to Wish Away His Old Boss Donald Trump"
-    excerpt: "Don’t look to the former national security adviser’s new book for revelations about his time serving Trump. Look to it for its evasions—which explain that service to Trump so well."
-    publishedDateTime: 2020-09-20T09:09:00Z
-    webUrl: "https://www.thedailybeast.com/hr-mcmaster-tries-to-wish-away-his-old-boss-donald-trump"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
 
-secured: "fd8vc9LPT7v/MS1ZWrQ3wQiWaFPpYLef1H5SxlwfjvKpmIDtLmhgyMFnPDffHSmBj9V80BgjoXTnaFazJjsCyA2qN1rRwJ7bI2TZ9+lC7o2boPATIsW9b8faPvuSW6dz4L2PQFzcOcnWrS8aAQMclATNACMh6xZK+y5du2W7QxG05kBBhvfVl8t7HHn1v9lFMzsXz5sJxKJlWVbxkWX2bX5MUHKuuM0QkJz0LcpRmMuArLcizp8Q5M2V0EEvsj3/0ljpLJlnV5UHtOZKoYamicFmH4z8RXc3Bg8z9U61tM7EMKOGuBXUB+NxqaoEQw0lwldsBEGK5OELEFlXG3TughS+Xf2Ly84tM1LL6TWyyfU=;YYsd0Lj6fX09L2a2t8wq3Q=="
+secured: "0X3Q6ZoywxFB/Yw6gezs0aUjFDMr85jEsr9AjiDovbrJIEdnAv7ZV2NnIw2s8MooIn/RyEfd0uITTQiB5FnMur0WYPNplBOwlFREh7tt8NOcHnqcDiQxzqrmmINbcJKY7/Ys6CZ9n8DGo6T6VBoXneDXCV7soH49QxHm6CHAjq5+RrO39Jc4fGhic0eH/NrIfsP6XptQlSxKK0C1vVG39h6OnTMrNyvrq98cHABQmDjQQNbVU4o++orj9lVnuypHp/hg+4lmSW1xA9hUapaHgQicU1bXNxSjau9I6k9euGeQIifTxaB43+CEPMEgxuoGaLYc2QeADlRGZCvsP5gdd7YvxdGLO7utp9sgSjj7HkLQN3kxlUYhhr0fYzmec4GV1gnsmkd0z9gywjdj1QxuSl3yNSdNRvwMVHTDU8byHOpCPmQSYEFheSL3e2Cx46LcvyViM9R/vJul5E0fm/nLdpeucyF14XvAnrnjzGfBycoS7/mjNQ6LH6oqTYogNV/fX3tTB0CJoKjoZUPh6PxoDQ==;Jl6hcNV2l6u+BjdW2/QMfQ=="
 ---
 

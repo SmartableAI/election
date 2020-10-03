@@ -147,6 +147,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Biden campaign sees opportunity in military women, spouses and people of color"
+    excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
+    publishedDateTime: 2020-10-03T11:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 81
   - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
     excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
     publishedDateTime: 2020-09-27T09:19:00Z
@@ -178,6 +187,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRZ2WVTVNNH53EO2BFXKHACEVQ.JPG"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Why Joe Biden can't expect to automatically get the Latino vote"
+    excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
+    publishedDateTime: 2020-10-03T13:14:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3533570001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 677
         isCached: true
   - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
     excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
@@ -269,6 +294,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "bLBp/PbygpTo+X+0o4DaKUbLaC7e4Rji4NyvP2//QpPoJ/b5qOFhTL7u0M2KXKNTclEQg11OevhJ/pjhhGdtConi9CpkDfdLVX3r4EtkuC/jJx/nmFxhSOBg+TnW4qXX99EvJwkE9LPByB30HNrVFAlXj6xwN9Iqcn6uYyz4Gb/Aa8qNNyAlzBnGkEYUCPSaFoEs+gTm70CKgUjbccFqDb84hgAugHUaZdpgdXyy6hOHDoDzr4t8XaRgVZSs62D4kMAO+QSSAHN4zljDec/KyAI6dK7wnv2xqdZqGhv5KnnkrIBrPFsQWrRQhLwo1Piv/lCbdGplWVWC9gV6L8TA6qNnGYpcdYTglV0NeR96idk=;aKLJCyWw0iXag8Xi2bnxpw=="
+secured: "/12be+GfFTYLhljx/0e6Ri/bP75qI3qb4epSjas34RFbFkktFdUjkIHMz/ikLE9kTIeBlS83Y5I/G0LIYtm5/iol4qFXxGRIs61iyEGOOliFlLhWr8By78MQPsl+g3Hz9NdOrHDM/GpO/RbrGPOa/H5SY8JY+mjU42G+DSYZtCTB+VAi23obF5aMiqoWYFSHOSSw12dYY77SPjlZ99gIeaVXumwkGxOAvbmYELUZOU6v0DChJKeu7ToAj+Rgs8qNO4xUGJbyD07QmncPRXGUQAA/CmFnCcWChzlP8ocly19Gw/12fe4RaoB0FJFc/idnmYH7dv5HQUYdXS6M7dW1ZufvEKt5LjJ7VgsNiTPlg8JdUcNljLr4JOR3LSAEmwMPKjG7CTishFGp3wQKs08sWZzSCqDkIdNFEe207iDf0QjfwusfPJrOKECTDMMZMplj0Vwqrx3zAtkZveMvEbLMhO5M5tCkz2PXJlubOtGUQbSPNOs9pImngJdNCnLDtyOnTG+5mL6i2iePij4hSuI2tA==;40sMtsD4EvaVSvi+1fT24g=="
 ---
 

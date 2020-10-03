@@ -1631,6 +1631,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live updates: President Trump tests positive for the novel coronavirus"
+    excerpt: "President Trump was taken to Walter Reed Medical Center for treatment Friday after confirming he had tested positive for the coronavirus."
+    publishedDateTime: 2020-10-03T12:47:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s1fIjLV9BIE/live-updates-president-trump-tests-positive-for-the-novel-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-president-trump-tests-positive-for-the-novel-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-president-trump-tests-positive-for-the-novel-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/d7e6ffd7-AP20276816093779.jpg"
+        width: 5116
+        height: 3411
+        isCached: true
   - title: "Biden’s team commits to all presidential debates after Cleveland showdown"
     excerpt: ""
     publishedDateTime: 2020-09-30T07:46:49Z
@@ -2619,6 +2635,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09f73244-77a8-4bad-b12a-b52849c7681e/73fbae9a-6d03-49a8-ab17-d9ec30312e91/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Here's Who Traveled With Trump On Air Force One This Week"
+    excerpt: "President Trump's positive test for Covid-19 has scrambled campaign plans for the next week, sparked discussions about changing coronavirus protocols in the West Wing, and sent White House doctors rushing to trace the president's contacts."
+    publishedDateTime: 2020-10-03T13:14:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-tests-positive-covid/card/3UBeDGZ2GuTBmBwS2Dap"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 115
+    images:
+      - url: "https://images.wsj.net/im-240165?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Unlike Joe Biden, We Know President Donald Trump Has Our Backs"
     excerpt: "Editor's Note: This piece was co-authored by Kevin Dang and Anh Tu Do.After the fall of Saigon in April 1975, the unbearable oppression from the Vietnamese Communist regime forced nearly half a"

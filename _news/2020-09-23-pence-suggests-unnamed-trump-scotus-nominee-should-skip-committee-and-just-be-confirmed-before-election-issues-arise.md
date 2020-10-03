@@ -1333,6 +1333,15 @@ related:
       name: Time
       domain: time.com
     quality: 85
+  - title: "China's Xi sends sympathy message to Trump over infection"
+    excerpt: "Chinese President Xi Jinping has sent a message of sympathy to U.S. President Donald Trump and First Lady Melania Trump following their coronavirus diagnosis"
+    publishedDateTime: 2020-10-03T11:15:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/chinas-xi-sends-sympathy-message-trump-infection-73402883"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 85
   - title: "Trump says he will name woman to succeed Ginsburg on Supreme Court"
     excerpt: "With less than two months to go before the US election, galvanized Democrats are pushing back furiously on Trump’s desire to ‘to move quickly’ on the nomination process US President Donald Trump on Saturday said he would nominate a woman to succeed late Supreme Court Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-20T22:40:00Z

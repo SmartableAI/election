@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Is Team Trump using the Food Box Program as a campaign prop?"
+    excerpt: "As Election Day draws closer, the Trump administration is requiring the Food Box Program to include signed letters from the president."
+    publishedDateTime: 2020-10-01T14:10:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-using-food-box-program-campaign-prop-ncna1241693"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_16/3309381/200415-donald-trump-signature-cs-1216p_55fead8ecc4caed031149c3c02cffedf.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yOpPk/nexnksOKmpjbpoEn+1dXS9X5j4nlfFMKVB8rukkH8IepsJcTaT6zZ3YJNySJ7oAoSuWbGTKSSo64qq7xDRTkHhNShjwVEbXzj5qlTJ3HDCmdcrSzVwRTCVud8picbMYLikDzJeTxB9ga7kojX9JQ0n2AZRneXmyjqlv/foSneQjpHQZ2D7y9S+xy7UNWgHmAba4qa3mrbzewRPrlqWfn900HnEAs4qqoxCpykGUVF+0vdH52537+nXBGDeh/6YKFUaSlPDolU3c42Yd/wcwYZNA6dJlR+TOFA+ucYk8Sbw0RrOFCUm0LzblpHdcBdCkE4CFT/F1xW7A7/Q4aM4FulxEJHej0CmHmr6eJs=;YYlIeh9Ha53VDBuv0R4Ewg=="
 ---

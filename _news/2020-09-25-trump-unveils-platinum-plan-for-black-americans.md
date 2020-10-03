@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empow
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 295
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/3412907/200917-donald-trump-us-open-1997-ew-656p_5cbf87619e6146632ee5430a73247b0a.jpg"
         width: 2220
         height: 1480
-        isCached: true
-  - title: "Why are Americans so confused about Covid-19? Blame Trump, Cornell study says"
-    excerpt: "Mississippi ends mask mandate, new jobless claims paint grim picture for pandemic recovery, no cruise ships in U.S. waters for another month."
-    publishedDateTime: 2020-10-01T17:36:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/why-are-americans-so-confused-about-covid-19-blame-trump-n1241707"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241707"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241707"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416660/201001-donald-trump-coronavirus-briefing-se-1103a_bb92697c9eb92755d27da3dbe94b42bf.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Trump Makes America More Like Russia Every Day"
     excerpt: "Russian spies have undermined America for nearly a century. Their goals during and after the cold war were the same: Subvert the United States, sabotage its power, poison the body politic. They used the weapons of political warfare: deception,"

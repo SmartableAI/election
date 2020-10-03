@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
+    excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
+    publishedDateTime: 2020-10-03T06:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241899"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241899"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417089/201002-donald-trump-cs-405p_f7ec29fb41e9828b420a325e8de84b79.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "8V7fFg8OVQQpiA2ZMaakgk77Lth0A4/Duk+CcoSyK1C2GzWJpU9cfNNxfVOqJoUlSmtxouPijAOsMiKzvo+r73eHBDuPeKDY5iyVgHSqV5GlbZPTbJ5ab6Z/jFBlWvLoajRtEZWSyltxo7GSKhlfrNc0zzpGvSRqIioCw3hX+c5cbg7W+1K9Z7XWzpTy9Epsn9nuepyXVcystFlDvpVkPxWHlgtlzAGm3aE27Wa6YhMxMnzyE8o5HNvJNir5+SHO5qJeVWmJIDTrv0GBDnmd/K6NlZIXbzzH/ttR6IoQvsN+wKjxcQRfFJ2GBnpm3Ry3GcHkQK8Tyr7gCwqa4hI4s9EPeqCxQkWQveWnTjXWUPE=;h6PaBL+b+np0zuL6fuZHcg=="
 ---

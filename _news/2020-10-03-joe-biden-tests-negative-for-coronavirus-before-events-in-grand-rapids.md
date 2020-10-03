@@ -2,29 +2,21 @@
 category: news
 title: "Joe Biden tests negative for coronavirus before events in Grand Rapids"
 excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden tested negative for the coronavirus Friday morning, hours before he is scheduled to campaign in Michigan. Bidens"
-publishedDateTime: 2020-10-02T17:46:00Z
-originalUrl: "https://www.cleveland.com/news/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html"
-webUrl: "https://www.cleveland.com/news/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html"
-ampWebUrl: "https://www.cleveland.com/news/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html?outputType=amp"
-cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html?outputType=amp"
+publishedDateTime: 2020-10-03T04:25:00Z
+originalUrl: "https://www.mlive.com/public-interest/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html"
+webUrl: "https://www.mlive.com/public-interest/2020/10/joe-biden-tests-negative-for-coronavirus-before-events-in-grand-rapids.html"
 type: article
-quality: 75
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Cleveland.com
-  domain: cleveland.com
+  name: MLive
+  domain: mlive.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QLMBVTYCF5HYBHMXDQIC5X33KU.jpg"
-    width: 2466
-    height: 1645
-    isCached: true
 
 related:
   - title: "Fauci: Trump Receiving ‘Incorrect’ Information On Coronavirus"
@@ -379,6 +371,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden tests negative for coronavirus"
+    excerpt: "Democratic presidential nominee Joe Biden said he and his wife Jill tested negative for coronavirus on Friday. “I’m happy to report that Jill and I have tested negative,” Biden said on Twitter. “Thank you to everyone for your messages of concern."
+    publishedDateTime: 2020-10-03T12:22:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-tests-negative-for-coronavirus-15616211.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 105
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/37/26/20051343/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z
@@ -471,7 +477,16 @@ related:
         width: 911
         height: 455
         isCached: true
+  - title: "A Fox News host has cast Trump as a war hero who got the coronavirus because he 'put himself on the line'"
+    excerpt: "Fox News host Greg Gutfeld compared Trump's coronavirus diagnosis to a solider's sacrifice on the battlefield while speaking on \"The Five\" talk."
+    publishedDateTime: 2020-10-03T11:31:00Z
+    webUrl: "https://www.businessinsider.com/fox-news-host-greg-gutfeld-trump-covid-19-for-us-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
 
-secured: "KLi2EqEr+POyEPOETp0lrQJbay6AkEw3tH4L0PZcro/dUZARmbZSRVR+l93FVokVn08CSOl1Bki4iSlbOpq56Gay15TW5VVka8K+2J8Foil/xdG/kAu+ywXcKYc5X8AeW4C1YcgeQHYxMiR/07PleuVGsHwiAqFpQOXA498P7LeE3kitMgwwkuQ4Gstm5llu0pZhsJwIxVdqKCiPktURzR+HzqdFt6VVTRjMXfc6Ln7FCHcIGxp0/zE2+Xr/JCMsD2d9q2P7iamcK+TqAiBWGzbQCRL6Xy1C1zR5CYU3VNUp6ROndjA+EbkTygXdWyzVvUwMIckKmlfk7A9CewAUC7dqTyNBP6D+WSA+NFqxk7c=;0VXSLZNntQP5T4nwhlwFcA=="
+secured: "DQ73s9Cy92/6a4xOrAksXmY8aR+3Xp9CgpkLrAOxqD5immKBS45nsyppJDp1BA1JztiLsTkCEdbiwODOoCa8AT7da2opB1EBqCubbOc6wymqritSSFuUEBcZbDbQMbR75xEms4VegaZjZxQLZgYyCuRcbfLn50kXmKyBIkLiZW5gBe2m/TNtJf8S2rTZ0hPYgrbadrHBMeirHk8S7kijzmXPRDti+2S0OeH3JXI4MRBcHbAPOGL0OTI7nckORhf2/6AF9tziiDUnTroGItkpFJwS94NAJ3zmv3CBJI7NQlTR1Xd9cbJtJxD+TqhjmyqjmfLb2KFK5x8ESdvIbNJczNMSavqISKd4YkcQE1KnXSHEebvS2VKDx6OIjwEgPpadUYMMf3pchh3shx095Tksyp4Oe+PPVdGHLfudnkYZdVLFTUrq4c+bn+DoK5PILB3k2ToiVmtZIrvgZjSkK67JX2eJPj25pdYPSf6By7/JU4CcSbP+d1nvmmoq84Nji2oi1CZcSoP9IBVBsGozcyYoJQ==;FzE5FdAY2fgUI9vMHYSyWA=="
 ---
 
