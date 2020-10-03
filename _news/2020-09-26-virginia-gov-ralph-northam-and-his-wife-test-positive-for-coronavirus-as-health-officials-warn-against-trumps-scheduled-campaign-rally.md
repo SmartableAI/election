@@ -319,6 +319,22 @@ related:
         width: 811
         height: 545
         isCached: true
+  - title: "Explained: Donald Trump's coronavirus symptoms, including a cough, mild fever, and lethargy"
+    excerpt: "President Trump is reportedly experiencing mild symptoms of the coronavirus, including a cough and mild fever. Mild cases can turn severe."
+    publishedDateTime: 2020-10-02T21:54:00Z
+    webUrl: "https://www.businessinsider.com/what-to-know-about-trumps-coronavirus-symptoms-cough-fatigue-fever-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/what-to-know-about-trumps-coronavirus-symptoms-cough-fatigue-fever-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-to-know-about-trumps-coronavirus-symptoms-cough-fatigue-fever-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f774a3974fe5b0018a8ebb7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Donald Trump's coronavirus infection draws international sympathy from Putin, Merkel"
     excerpt: "\"I am certain that your inherent vitality, good spirits and optimism will help you cope,\" said Russia President Vladimir Putin."
     publishedDateTime: 2020-10-02T10:43:00Z

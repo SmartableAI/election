@@ -1880,6 +1880,22 @@ related:
         width: 2500
         height: 1676
         isCached: true
+  - title: "The latest on Trump's Covid diagnosis"
+    excerpt: "President Trump and first lady Melania Trump have both tested positive for Covid-19. Follow here for the latest."
+    publishedDateTime: 2020-10-03T04:39:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-covid-19-updates-saturday/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-covid-19-updates-saturday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-covid-19-updates-saturday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002160118-us-president-donald-trump-walks-from-marine-one-after-arriving-on-the-south-lawn-of-the-white-house-in-washington-dc-october-1-2020-following-campaign-events-in-new-jersey--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Tragedy of Donald Trump"
     excerpt: "Last week, just two short days before Donald Trump tested positive for the coronavirus, several of my colleagues wrote a story about the early days of the pandemic, and the strong global public health consensus at the time that open borders and free movement of peoples should not be suspended,"
     publishedDateTime: 2020-10-02T21:16:00Z

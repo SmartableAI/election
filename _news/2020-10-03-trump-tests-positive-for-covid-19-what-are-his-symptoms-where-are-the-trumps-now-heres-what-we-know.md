@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Explainer: What is the treatment plan for President Trump's COVID-19?"
+    excerpt: "U.S. President Donald Trump on Friday said he and his wife Melania had tested positive for COVID-19, and the White House said he was given an experimental treatment designed to combat the virus as well as a small array of treatments including aspirin and Vitamin D."
+    publishedDateTime: 2020-10-03T05:28:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-treatments-e-idUSKBN26N38D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1535975425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9123P"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Joe and Jill Biden test negative for COVID-19, doctor says"
     excerpt: "Joe and Jill Biden tested negative for coronavirus Friday morning, after President Trump and First Lady Melania Trump tested positive."
     publishedDateTime: 2020-10-02T17:46:00Z
@@ -516,6 +532,6 @@ related:
         height: 1369
         isCached: true
 
-secured: "fiUVI7oIiaAgJ+mjbuZpYLmBX/Z5W5/tTGxMN2BZIxqAGk2lSfn4ZMhv0+2gPtbo4tMkvQ5IUmnLFDuOG1iSC+kqniHb66w0u63+D4Ivi8DFrzcHgGZK8S0Q6+rNXoMH9jntsyZabahjP/xRM78wipXfD7A3NKWpZKpPVqbYODWSqxSaTn78fBK6FIgBnBIQzHE5cs+887gxtXY9CgsMDC6Bv0OmaFUMIn7mpXolFlB6wYeXM/nF/y3U4MvnlGO0+647Pdiu9idRvn0gCU/pnNu16zMqgE2AHqgd51JXydAvaFQ8b17n1FLV3/uCuxqrij7a2swBeEKZ6q7jc94kaE/TOaiLWfH89E9u1o7EBx0=;P4yXNpvavM4CUqr+PGhNyA=="
+secured: "KBZG+QZzYQy0qOaxk3S2A3qi3KLRpUbiS9L7bMxZsksdfN0M5mHwT5GV7FCXE4dmCZ47Ss8rpQIXeNY/rba9VaZ+NegfQxHNg0bsI9JPytQSKxJh6eWn+IB/minXCsRG1BOxCTkzJkMBQBdtTyq529dIRonE0AODpWYZuhhzUWx8H6f7fO71nZmPdi3GO62lX9dXIqQ9NhPBXA3SZrh6ckvJxhrfNDX2IMHOMmOmyXSzs5fCkYe/Ib0pbtqnW2mghKn6pR2zTMCWBbWIUrHfMnlUZlcAaFrJBeqxq6iyurkxDGvfv+ieeJYeDTOE/IK+VJg6ObXES3fDrFLANT8b0hUiQR+zy+3B5Gn6tWsHlgdjCFLEwB30Ajzc06sdWb5pb8ilBI4HJrZCCbZxrgveYInoXyRnR9PvP81hAUgxqpQnnpS4o6CWwIiCx41nHOWbyR74mGCR/TSREoRUFDuzylk9GQ3B6gaU2MhPF3Tfn5/mjVnVJ0OlzWKCQ77rdUgoZnT3PnS+duMmYy8jpaG7ZQ==;4tJ1cOd9UH+ngFa3laurvQ=="
 ---
 

@@ -845,6 +845,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What the White House and Trump allies said about his condition over the course of the day"
+    excerpt: "For the public, though, the scale of Trump’s illness only became apparent Friday afternoon, when the White House announced that the president would be headed to Walter Reed for several days. Since the diagnosis was made public early that morning,"
+    publishedDateTime: 2020-10-03T07:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALK34XQFAUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Daily 202: Trump says Supreme Court pick could decide election while refusing to commit to peaceful transfer of power"
     excerpt: "Internal GOP polling suggests pushing to confirm a justice before the election could hurt the president more than help."
     publishedDateTime: 2020-09-24T17:00:00Z
