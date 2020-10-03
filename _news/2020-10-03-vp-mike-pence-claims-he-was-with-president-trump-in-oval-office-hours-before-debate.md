@@ -2,17 +2,21 @@
 category: news
 title: "VP Mike Pence claims he was with President Trump in Oval Office hours before debate"
 excerpt: "Vice President Mike Pence, at a debate watch event in Lititz, Pa., on Tuesday, says he met President Trump in the Oval Office just hours before."
-publishedDateTime: 2020-10-02T20:35:00Z
-originalUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
-webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
+publishedDateTime: 2020-10-02T19:59:00Z
+originalUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
+webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/02/mike-pence-claims-he-met-president-trump-hours-before-debate/3594543001/"
 type: article
-quality: 64
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -280,22 +284,6 @@ related:
       - url: "https://i.insider.com/5f390fe7e89ebf001f0450b5?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
-    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
-    publishedDateTime: 2020-10-02T08:49:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-incapacity/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated-idUSL1N2GT07T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 131
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535823594&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910RL"
-        width: 817
-        height: 545
         isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
     excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
@@ -1543,6 +1531,17 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
+    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+    publishedDateTime: 2020-10-02T15:23:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 61
   - title: "ZIP codes donating the most money to Donald Trump"
     excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
     publishedDateTime: 2020-10-01T11:22:00Z
@@ -1706,6 +1705,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "JMvUYrPywMtns4zySNr51FmEQnHUgS5/w8e+Ej/vxZJxeF7KvO3V7mbrJazAl089CWPQx1W8uaUkwvwje3Gksi359bfAxxL/II9c08DsS1EKoIIYtTQiMDNtfLOiUUNYbLADKgo/Zryqm5G3J5vfYg6tf94arwhgzaOsRx9ctMQEulL44+1heCFb+c+XIWYIKajnAYLXdhp891iiQ/z/kCGzOxd8uW7b6Dt8qfMoEHE1CQMX/HUDp7mo9h7kBHf9YMgogvMCxcKvsSyzgxBOglyXp6x9AtgTBgWRDjfZOi0Jtm0PdUZn6L6ft51MUOfI9R5pjc5tMxRppaliPUxOIP0JlYTV3nsULViAjdcEVDGokKbGdkKvFRJcmz6Goerz/r90CbJshEO88Oxv8VHwgFdhiOceonzvw26tl9owgRR/98iFQ9QKon2ZUe7B/a4aWi1ulLS+GFfewgH8wtr+Me0WnhkYNHlst4wmlbz0PKSVYE+ks7T1IyJRb1pYCO9on413xAn+lkP24b1Cn5O8ZA==;uSAC0XR7h7rCBisAORCgyw=="
+secured: "rgnuskp1wViDuLm7NiSO3a09N3dYdaH1ovo9F1jRMPHm8TQVb2QHb5UZhHTdQ0AqZhapIgwJN8gfBA8PkP/zYZ5zKMNsDWl8h/SGCsshUBhcGqtYbZ13Na3gWy0QcM9dzljfpqZvAPtZmJ4gsfYUt270jU0omvWBgWfKRtJjI07zi1dmwv8YnrxfEkc4B9rDXllRRMysbZsXTHn6woGcwcfvVcjq7IKxa38oYzSj7cBTgOU/SN/Qs+c35hSBA+M4C+9gdKdjVH1qUus6Ph38Ay4wcvbKlIWbVG4fKA0vusuqKDkpQVoWfDCs4x2o6CBaWhm+2Lm4Uj4OihwMrUBeucAg6gq/a/hWKFa/zriO3yE=;yntqx2eWpq5IDaSVSmyzBg=="
 ---
 

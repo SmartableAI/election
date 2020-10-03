@@ -429,6 +429,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Campaign Manager, Kellyanne Conway Are Latest To Test Positive For Coronavirus"
+    excerpt: "Stepien took over Trump's campaign in July and attended the debate on Tuesday. Although Conway no longer works at the White House, she recently attended an event at the Rose Garden."
+    publishedDateTime: 2020-10-03T08:31:00Z
+    webUrl: "https://www.npr.org/sections/latest-updates-trump-covid-19-results/2020/10/03/919821048/trump-campaign-manager-kellyanne-conway-are-latest-to-test-positive-for-coronavi"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/03/ap_20233729964769_wide-8408f37dfac959679b411484ec8fbc0d2fa04d50.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Virginia Gov. Ralph Northam and his wife test positive for coronavirus as health officials warn against Trump's scheduled campaign rally"
     excerpt: "Trump is slated to host a Friday night campaign rally in Virginia with roughly 4,000 supporters. One local official called it a \"public health risk.\""
     publishedDateTime: 2020-09-26T03:22:00Z
@@ -462,6 +476,6 @@ related:
         height: 1645
         isCached: true
 
-secured: "UjqHq9yF1sEkJOuR+PAEba9jsOTSY3scVTJ22kkJKFj3S/yP26kekwkruMyEmuKjVgQEOtGFH+4Ed9mWlJ6tMy9WYBQ8nuGzBDORhNFkbunjNeKrQ+PqYhOPm4PgJYvvb/aqOjhhWHItgwRfambgPhxF786/fnZ83mK9wmMHY15fYopyu4MV/ML8/r+M4aG+5oYR2Bs6rq6JvcdoPTW5q4WuADwzmtUNslpbT9O9v5QVMW9EwKDIvTRvz5XNM5TVr7we9IU+JWnN8hTI1zCHFfLomKP2VHQJtXY8P2WDb76DO77e2OT13LI7Y/XgL62VTtNzOBTUHOLH+mpJ/bHOqS5JvrF8zwRw0kwFMayFxeA=;TrTIUxnSmUaXufYeoxxKfw=="
+secured: "jyqKnDZW5LdqTO6F1xDqS2dtmbT6Zn5112XxoX6rE4m6jAk3KxBAHqL2jHVyutI2DJZTjOyhgWJoUEusgoD4m3I/khp4CtSrzWnJ5gyHY/uie+UAA0u5KfcS6KbmuMjzHycAabguudimAQjb0NvWe9jpp+KGkcWE4akZ6DeQo7iQ/UPGHIrl5MAPgBIqxwWOkH+aappJeNP8a5Zdkf0mMmTkhk6htTg8hXS9ZRzXALDELZUuW6I3gETqu+YVr88iMIhskje8rzuwxEkn+3opNVzytquEWgZVJGhyRUklYEZSEpj4rTpwEuGhX1aAyosHnBrYn5G5bp9YctXI+rvqfwdlZ99qtMqEEbknMxu0REBIFCyL/Wxlf+TYb5tetAw2uwvm6TM5fIBGIucjj0ir6oTRTPwoBaBZfKiNaWhh/LPppQ3HWtt+GV9NAFmxe34ZKBDk1RVN5jvgKo5s6mYvomIhsSGNgI5hPEaUjDeiUBo/FvTYCWzPU68G1fcVvJU0niDfzbHUrhj+qH4+ta6xVg==;GE66hrRHZUXT6G+SwjUzvg=="
 ---
 

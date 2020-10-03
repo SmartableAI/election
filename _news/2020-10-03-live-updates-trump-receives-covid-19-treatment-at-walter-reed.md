@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With Trump hospitalized, more Covid cases emerge in White House and campaign "
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center early Friday evening less than 24 hours after news broke of his Covid-19 diagnosis, plunging the country into a deepening crisis as the circle of current and former aides to the President testing positive rapidly widened.\n"
+    publishedDateTime: 2020-10-03T09:45:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f9Lwy-3eb-g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/donald-trump-coronavirus-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/donald-trump-coronavirus-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002203231-white-house-night-1003-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House residence staff 'nervous' after Trumps test positive for Covid-19, source says"
     excerpt: "Staff at the White House Executive Residence are feeling \"nervous\" over President Donald Trump and first lady Melania Trump testing positive for Covid-19, a source familiar with White House operations told CNN Friday.\n    \n"
     publishedDateTime: 2020-10-02T13:53:29Z
@@ -191,6 +207,6 @@ related:
         height: 520
         isCached: true
 
-secured: "gQt9P8Qn0ol9s9gZxOc7gNQdTAuhewKFPhk30VaTkL1lCb88tGWD0DtqRo4ouTADFs7ySijxgRVr9ue7hVp2DCbHMeBV3D9JihigajchKXQg83FZyntVmHJ8gGTuI+DViGSqvLPvKfeOtAJTpeAcNSeuFtaa94mKu6G5nFscTUBfG37K1mDV6XnI42Y2ollYS/6as1mrF+/wUkSW9lG8emAAq/BVrD8S+0gey230mjhLJmbLWmyEvcN++FHnYPamGNE0uGbZr8DaQl7/DiTEmgD+zrCDc8ZqpRXwJhCKOpmz+uFwkdGDBkZrD/9xzvWw48Y4bZ7o0Vmoj07P4NRRJD14ZkdsgVpKp4zn24MCJOc=;zOfYB0TfoD26ek/3U/Nkng=="
+secured: "afVvqTl1RRrd2P0IgfC6VtVR9PFa00ihUnp1kPSSvZkyBopN7KymTukOmUc915Sn/LJUlEhmba7Ms+KNrYYZcYaOE/r8mF6CG0h6+kx5rjLJeiKByT9q60++ggD6OSXC2uigcqLPjBXLHACa0gMV2slCTxv1OL9Gviqlk8EjDWFnbWAuSgF139m3brk8KkqOW/qjXyMnHv0f8RoxRqM9BY450F1o88z2trAPCaolwRVSdQMKChsJVqodZyjow7lJbZXiQh1gVprRPjgm1NyCvpz+svI2eYQ4qKgMDjev22a/0BmBKYk010wicc/wFgDQugSSNKydKch0FqVJOMP70oJ/YFjAEtzUsi6F67wWYvQy4Fqb2QxatyIiIxBmFCkcmJHCeZaqicPdXE+s47McTl+sO+O3KtBIbxr6fSDLWdsrnY9IgZTjC0CTWuThsFtDDDklkYPTfwHfpPgzSAQ8MxpnvGOw+cFssmAMZJpxkp25Ud+8aPvY7ezVZBdG/bKpsmL3Lifo/MJUvfcK3nvFlQ==;Mh1iANDrT6KkDfTc1Z/QWQ=="
 ---
 

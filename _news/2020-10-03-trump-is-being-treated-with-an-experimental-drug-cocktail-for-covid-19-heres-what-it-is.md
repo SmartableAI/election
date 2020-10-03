@@ -287,6 +287,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "More than half of Americans disapprove of President Trump's handling of race, survey says"
+    excerpt: "According to a survey from the Democracy Fund + UCLA Nationscape Project, 56% of Americans disapprove of the president's handling of race – a six-percentage point increase from February, When broken down by race and ethnicity,"
+    publishedDateTime: 2020-10-03T09:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/survey-more-than-half-americans-disapprove-trumps-handling-race/5881109002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5881109002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5881109002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Masks still won't be required in the White House after Trump's COVID-19 diagnosis, official says"
     excerpt: "President Donald Trump has repeatedly flouted recommendations from top public health experts to wear a mask or face-covering."
     publishedDateTime: 2020-10-02T19:46:00Z

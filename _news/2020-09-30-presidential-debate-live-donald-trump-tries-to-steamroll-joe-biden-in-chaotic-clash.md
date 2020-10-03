@@ -249,22 +249,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden: Trump diagnosis is ‘bracing reminder’ of virus stakes"
-    excerpt: "Democrat Joe Biden is offering sympathy to President Donald Trump over his coronavirus diagnosis while casting the moment as a reminder of the health crisis facing the United States"
-    publishedDateTime: 2020-10-02T23:32:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
     publishedDateTime: 2020-09-27T21:49:00Z
@@ -979,6 +963,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden: Trump diagnosis is 'bracing reminder' of virus stakes"
+    excerpt: "Democrat Joe Biden offered sympathy to President Donald Trump over his coronavirus diagnosis on Friday while casting the moment as a reminder of the worldwide health crisis that has hit the United States particularly hard."
+    publishedDateTime: 2020-10-03T08:08:00Z
+    webUrl: "https://www.businessinsider.com/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Joe Biden's campaign declared war on Facebook, accusing it of failing to live up to its promises to rein in Trump"
     excerpt: "Joe Biden accused Facebook of failing to live up to its own promises to stop misinformation when dealing with posts from President Donald Trump."
     publishedDateTime: 2020-09-29T12:18:00Z
@@ -1059,6 +1054,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "After Trump's COVID-19 diagnosis, Biden says masks not about being a 'tough guy'"
+    excerpt: "Democratic presidential nominee Joe Biden said on Friday that President Donald Trump's coronavirus diagnosis shows the importance of taking the pandemic seriously, telling Americans that wearing masks is more important than being a \"tough guy."
+    publishedDateTime: 2020-10-03T05:58:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-biden-int-idUSKBN26N2XX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2XX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2XX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
   - title: "Presidential debate: How Donald Trump and Joe Biden greeted wives Melania and Jill at the end"
     excerpt: "After a rancorous first debate, US presidential candidates Donald Trump and Joe Biden were joined on stage by their wives Melania and Jill. Some viewers noticed a difference between the greetings. How Trump and Biden greeted their wives after debate."
     publishedDateTime: 2020-09-30T16:39:00Z

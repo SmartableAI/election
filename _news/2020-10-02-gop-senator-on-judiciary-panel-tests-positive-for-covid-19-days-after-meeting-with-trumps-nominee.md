@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With Trump hospitalized, more Covid cases emerge in White House and campaign "
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center early Friday evening less than 24 hours after news broke of his Covid-19 diagnosis, plunging the country into a deepening crisis as the circle of current and former aides to the President testing positive rapidly widened.\n"
+    publishedDateTime: 2020-10-03T09:45:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f9Lwy-3eb-g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/donald-trump-coronavirus-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/donald-trump-coronavirus-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002203231-white-house-night-1003-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "White House residence staff 'nervous' after Trumps test positive for Covid-19, source says"
     excerpt: "Staff at the White House Executive Residence are feeling \"nervous\" over President Donald Trump and first lady Melania Trump testing positive for Covid-19, a source familiar with White House operations told CNN Friday.\n    \n"
     publishedDateTime: 2020-10-02T13:53:29Z

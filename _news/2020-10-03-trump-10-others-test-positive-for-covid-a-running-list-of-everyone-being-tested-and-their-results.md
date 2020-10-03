@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump given remdesivir to fight his COVID-19 infection. Here's what you need to know about it"
+    excerpt: "President Trump's doctors are already employing remdesivir in the fight against the coronavirus to help shorten his illness."
+    publishedDateTime: 2020-10-03T08:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/03/president-donald-trump-remdesivir-coronavirus-treatment/3606497001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3606497001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3606497001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/5761a5644dbbbc0d07f1118b0a22ef5d2dbaa88b/c=0-54-1024-630/local/-/media/2020/08/18/USATODAY/usatsports/ghows-TX-200729805-a27cf4b3.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Your questions about Trump and COVID-19, answered: When did he test positive? Does he have symptoms?"
     excerpt: "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions."
     publishedDateTime: 2020-10-02T15:21:00Z

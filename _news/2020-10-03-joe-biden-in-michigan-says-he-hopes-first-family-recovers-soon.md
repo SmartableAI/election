@@ -201,6 +201,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden, in Grand Rapids, wearing a mask, urges Americans to follow COVID safety rules"
+    excerpt: "Biden's comments were his first since President Trump announced he and the first lady tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T09:28:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/joe-biden-masked-touts-covid-safety-rules-grand-rapids-speech/3592260001/"
+    ampWebUrl: "https://amp.freep.com/amp/3592260001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3592260001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PDTF/fc02fc8e-bdd9-48db-91c3-0f4dc84fe5ae-AP20276746861930.jpg?auto=webp&crop=5548,3121,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
     excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
     publishedDateTime: 2020-10-01T19:05:00Z
@@ -233,6 +249,20 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
+    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
+    publishedDateTime: 2020-10-03T09:13:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
     publishedDateTime: 2020-10-02T19:32:00Z
@@ -243,6 +273,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "0EDsMho7mfzS2IlOICT9WS3rRdRim4eRg8D2hymhD7dqAhyMibCtdh855UF9SJXPxf+2pxHRRuEuJpXoEfhgCJTi1bZYAu6TyfC+GSct62/PBnp5v4fvOEtcaqVqr1JNbz4MYVN7xTdtpK61ZFjwhCNby+VG4mtsqOmYcYSaUGfMzeQfY4MgLmpZNNVvczBQ1YVmFdAm7B7OdHrNCt238riH3LL5TlCvfgm1HuFRvVqnkgR/nOeViK6rkEPZSgJXcvcCTL6ESd4EJk/4jHY+yY4KQwNpQ/W4dj2sQkI9LM6fPj0PjS0Lr9WSOw47dwpB1rRFnciIt2dJ6hsy4H1sTcc8DCvheePYRA4nacMmPSo=;ohSXH0xv5tspGsIU/NmTiA=="
+secured: "SysgkQQU3bZ7YgXDDgXMBYMAV5odKwKY3gm4PR+0Vy7CmPFWJ5n17dnzDG7U1rx7G1cepFYIYHTTd7MAsNgS+wQVYNr8WvMcV93D1pLsSnWAyNIYCQisoP65fQcn4C0PbDwc9/suZ5Vu9/JYP+z6JEHohKm7/Aw8aQeymz/pIYERPzFAaksKyRC5ONxI+N+qXMvr36VWCVMkBaqf2p2od810zboda280VCxMp3uhF4CN4M4NgEpSqsBI6NQENOVexZvkNSF9rTc6Uc9ylacFJRvpbk53yWto+RH0ZipNVyaisRfQmpIdt65AL3BzZxEzt8N9zS903JkngyoMIbWf0sIqkadcDzpDxyQIO3kSyyphAf+e46p87wGzpjIRE8l6oXmJf+0Z0Ddj4MyrY0w3Q3Z+f9UONNPJazuyz3zO3Sr4CJoncVWf4T0wQkZgXiiaJNQszhxOyc5Q0YWsofkUT8NAg/pMOHVTR6yfBjcLj/hSSzRybTO9FH3q3aDtDjTkVtGhWaXR2cBMe0cKS2epVA==;DvZaxn2MSX5cVnqKccifnw=="
 ---
 

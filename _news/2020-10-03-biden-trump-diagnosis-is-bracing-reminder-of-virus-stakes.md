@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden: Trump diagnosis is ‘bracing reminder’ of virus stakes"
-excerpt: "Democrat Joe Biden is offering sympathy to President Donald Trump over his coronavirus diagnosis while casting the moment as a reminder of the health crisis facing the United States"
-publishedDateTime: 2020-10-02T23:32:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+title: "Biden: Trump diagnosis is 'bracing reminder' of virus stakes"
+excerpt: "Democrat Joe Biden offered sympathy to President Donald Trump over his coronavirus diagnosis on Friday while casting the moment as a reminder of the worldwide health crisis that has hit the United States particularly hard."
+publishedDateTime: 2020-10-03T08:08:00Z
+originalUrl: "https://www.businessinsider.com/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes-2020-10"
+webUrl: "https://www.businessinsider.com/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes-2020-10"
+ampWebUrl: "https://www.businessinsider.com/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes-2020-10?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes-2020-10?amp"
 type: article
-quality: 140
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden Likens Trump To Nazi Spin Minister Goebbels"
@@ -1049,6 +1043,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "After Trump's COVID-19 diagnosis, Biden says masks not about being a 'tough guy'"
+    excerpt: "Democratic presidential nominee Joe Biden said on Friday that President Donald Trump's coronavirus diagnosis shows the importance of taking the pandemic seriously, telling Americans that wearing masks is more important than being a \"tough guy."
+    publishedDateTime: 2020-10-03T05:58:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-biden-int-idUSKBN26N2XX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2XX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2XX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
   - title: "Presidential debate live: Donald Trump tries to steamroll Joe Biden in chaotic clash"
     excerpt: "Candidates faced off in Cleveland, Ohio, with Chris Wallace of Fox News moderating the bitterly personal showdown"
     publishedDateTime: 2020-09-30T11:01:00Z
@@ -1669,6 +1674,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "2GgYMN38iov+JNaJ10fw5ZFFCvQ669bZuGm9rbC0pez8mGJwhd2ZmTcHwi0eNs+JX0E+yHkmKq0iCxz/tJoasSPBxPp2UBxiZHmwLshV11hxsStG7lwSBvjroxZ3YZAoYEWPJO+y41M/SHvCeNLuJlVPmkNDeMm0X6uA9W9iEepaRiz0bkYIkFD31N5o+c99F59xmLe7cosseXnXeYHgf8zomqp+NBYpNB/Rl72C5VpMcXHLsuCBoDRtejKs9K+HSJ7IRUsdIQnoyCP6dtEqYjWHBdlHEMg2GfqKmUNqyIK7VgJVYQVCfqfTVCJQXAdXfhZrm391oJMa+kRRsrHu1QE/+MhsDhiZyWnxISKSSOk=;+36l6g1qUQ1FRrPBbaMCHw=="
+secured: "4Vp2H577e4hbCAjVCKRjaimfskRbVKxqT/OSkbq+Hl/M+oHtZjTG/D+MUv8Gzz3+AmjVb7zXbI8bUy0ydPW5rJkf3cuVtx5fVVAs8vnTiOWiDQzwPr+zE4huytBEjibj99ybhFNGPg7ZcFN/cdAXp97JM4Fux8jf/niG4cQt7j9jyoypylBHiYaxBoMMwdArAucMp48wit3V69TLucDKFDUXQCN5wSk7C63+I6fM7Mr7IqHrqTD/KSuPldA3nxdLiCCkDIKXp0QbiF5epVjVDxQpRAG+QS3XVuKWJ7pmIzgQPVVWmr/yLfLm2gG0o3eVj+wdb7AUOCwtbhrGirJb+1m7V/q5+mXg+TEjsFXW2/M=;jPflnhQ6uvmrE+g7dB6dSA=="
 ---
 

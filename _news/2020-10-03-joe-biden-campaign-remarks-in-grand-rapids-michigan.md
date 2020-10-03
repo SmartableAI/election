@@ -205,6 +205,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden, in Grand Rapids, wearing a mask, urges Americans to follow COVID safety rules"
+    excerpt: "Biden's comments were his first since President Trump announced he and the first lady tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T09:28:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/joe-biden-masked-touts-covid-safety-rules-grand-rapids-speech/3592260001/"
+    ampWebUrl: "https://amp.freep.com/amp/3592260001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3592260001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PDTF/fc02fc8e-bdd9-48db-91c3-0f4dc84fe5ae-AP20276746861930.jpg?auto=webp&crop=5548,3121,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
     excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
     publishedDateTime: 2020-10-01T19:05:00Z
@@ -236,6 +252,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
         width: 1280
         height: 719
+        isCached: true
+  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
+    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
+    publishedDateTime: 2020-10-03T09:13:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "8NK5zEIHHbNgOYZwjOR6ZMIg6OUk/JhnxkMAe1cSyS1VzJhGi2NxEH1uSqQG1LturRQ1m2zVx1W03pSGooSZ8ueLmoJhItrfD+dxI/6MLGx4Nt7ky+E+x4QkRIXXPNJ0h/kvDAxZZNtDK3EPa7wj6zMqquBlL59dumiBYqNmcFfDV+KKstq//EjHPUwnXFwHe+BaClEsCTE9uI3bRts9gzXabVmBxFJSwavA0dHByTcmaaBwIB7RBf551UPWTiiGGXe6BLfQxbaNwjNWEL/htz/9wLs4QaVRUs3YYdHnuBq8OygxJ3wpHtG5xW3CLeGf+lW4X58Q42vuY5708NQKxlbvuRCKLNuu3RpzrygXovkIRhawZupk9et0DYdbP0B/x60LhMkY+H0pJhS8gqQUuTW3UQIYOF8IJugrj5KP+Yz8CKXaRTWkUHrZZAk/BSiXwA9xaeiRrJV0YHzWO30emVl5K1q6Xhd7rLakZ0dv9n7v7RdUCm39pvhqrX+wEHGhkdutGDl6w05EId6CjeCD2g==;icyVzdLidiIidx+Rlpv8Ng=="

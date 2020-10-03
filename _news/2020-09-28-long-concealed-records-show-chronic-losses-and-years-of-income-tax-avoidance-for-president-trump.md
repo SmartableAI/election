@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "For a tired nation, Trump's Covid-19 diagnosis provides a wake-up call"
+    excerpt: "The president's coronavirus case is a turning point not seen since March. But politicization of the pandemic means it might not matter."
+    publishedDateTime: 2020-10-03T08:43:00Z
+    webUrl: "https://www.nbcnews.com/science/science-news/tired-nation-trump-s-covid-19-diagnosis-provides-wake-call-n1241903"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241903"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241903"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3417092/201002-wake-up-call-trump-main-cover-cs_f89e67da9c3de4e47cb21523bc8ebf23.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Contact tracers scramble to find people infected by Trump and his entourage"
     excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
     publishedDateTime: 2020-10-02T23:10:00Z

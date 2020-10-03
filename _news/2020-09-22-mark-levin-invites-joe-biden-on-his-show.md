@@ -1630,6 +1630,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live updates: President Trump tests positive for the coronavirus"
+    excerpt: "President Trump was taken to Walter Reed Medical Center for treatment Friday after confirming he had tested positive for the coronavirus. "
+    publishedDateTime: 2020-10-03T08:10:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dybJUYCfvc/live-updates-president-trump-tests-positive-for-the-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-president-trump-tests-positive-for-the-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-president-trump-tests-positive-for-the-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82f3e369-0281-4286-b266-7e969d9535ad/4633ee8c-7de0-4405-ade3-4a262f95503b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s team commits to all presidential debates after Cleveland showdown"
     excerpt: ""
     publishedDateTime: 2020-09-30T07:46:49Z

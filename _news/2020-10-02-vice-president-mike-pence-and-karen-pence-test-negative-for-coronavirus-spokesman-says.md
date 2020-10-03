@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/pence-coronavirus/index.html"
 type: article
 quality: 177
-heat: 357
+heat: 377
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/03/opinion/02moyerNew/02moyerNew-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump Tests Positive for Coronavirus: This Week in the 2020 Race"
+    excerpt: "A year of surprises had its biggest one yet — a coronavirus diagnosis for President Trump that has thrown the White House and the November presidential race into flux."
+    publishedDateTime: 2020-10-03T09:02:00Z
+    webUrl: "https://www.nytimes.com/2020/10/03/us/politics/trump-tests-positive-for-coronavirus-this-week-in-the-2020-race.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/03/us/politics/trump-tests-positive-for-coronavirus-this-week-in-the-2020-race.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/03/us/politics/trump-tests-positive-for-coronavirus-this-week-in-the-2020-race.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/03/us/politics/03MOMENTS1/03MOMENTS1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Pence tells Americans to 'anticipate that cases will rise' with more coronavirus testing"
     excerpt: "Vice President Mike Pence said that \"the American people should anticipate that cases will rise\" as efforts for increased coronavirus testing are implemented and states in the Midwest are experiencing a surge."
