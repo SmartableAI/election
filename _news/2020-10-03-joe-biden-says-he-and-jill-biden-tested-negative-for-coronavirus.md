@@ -160,17 +160,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says"
-    excerpt: ""
-    publishedDateTime: 2020-10-02T11:58:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
   - title: "Dems say Trump diagnosis should be a 'wake up call' on administration's handling of coronavirus"
     excerpt: "Several top Democrats Friday said that they hope President Trump and first lady Melania Trump recover quickly from the coronavirus while adding that the diagnosis should be \"a wake up call\" for the president to take \"a saner approach\" in his pandemic response that Democrats have been critical of for"
     publishedDateTime: 2020-10-02T17:42:31Z
@@ -348,6 +337,6 @@ related:
         height: 320
         isCached: true
 
-secured: "rGl3rg/KQRyClMRjQmJHZ+aQp2Ljo811AVC3AQsrryoj9pR2xhMK2P7xOYEkP0kJ9CfMJSLiNLVVbfgvlQg+J2f2OZMlaz+CcKfWGfz27fGcrR4z2aprEf+3maHJ5bOwo4qnfjqgFr44g6Tl9qgQNEv3ewNAwmZj74ARzdJyyYltqHWFoch51C9Es/JXvLM94+37GlLAmbPLVpr3PjfSw1BRSsRE7/5jVxyfxS10OzaLJFH26ItQxIpY+Z7wA0zHks5Pb8jeFCV1aD4Zw6re6hvDpivr2jeXrZI42rU4bhpafEw83FXkHlp5cnfq5/kYI8VRAJz4p9rQa4toHdzkddMhjFflaOyto8dsEeB1TiY=;KzM5U0W0sKvoM+2NZZbu7w=="
+secured: "5Q3k8zZAvzfIP/WaQR0FGwFBrQVdTHM95V+QiRFVQs3EoYAsGg+Rr4Rrd4+iIXIvDO01j9pxgBPZBp9y5hG9RKRJzMyy6BgiuTGLcAqVZKVF9C/epwTGGYguw99zdDgPcEqzBK8nDMRecRF5KAbfZqCN32P438o553LRf/qkmGEggQOm5799mOUo1VKID1TligbrWC7Q4H5rYWvXOkNjiJ4xEZftxd1P37x/UlAZOlFZ7eu3eXQwjDIMm8JVXg9MJMRsgG3a9T8J4ofYAAErZ+LxQyPnS28x0IAkd/2qv87jJWXLQVwTRDjueMud5cPwCpuiWyiXGwlarMYPJqBABgaX50TlhX3I8upktfnDiLizupUP5lEl9fiq2FpvkEAGorVdkAuYrpxSZkp6sEvXr54nQeUrLO7a5q1q5HF9/KBiDg6WGBMFWYSR2Q/mxw0M8CcG1mrhhn19KHVZAZ2oFd855utrzDXEOMMSiWTGPSZeYfvsCzla2UAmAih7yVsZln5u1pY8hjeLkAbPCkVMJw==;lk+KUMSNyTgNfn6d4+gprg=="
 ---
 

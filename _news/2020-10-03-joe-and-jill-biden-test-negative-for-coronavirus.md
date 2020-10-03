@@ -159,6 +159,22 @@ related:
         width: 1024
         height: 785
         isCached: true
+  - title: "Coronavirus diagnosis of Donald Trump raises number of 'what ifs'"
+    excerpt: "We are experiencing a potential crisis in the coming election for which our Constitution provides no clear resolution. A multitude of “what ifs” could occur between now and Inauguration Day, Jan."
+    publishedDateTime: 2020-10-02T19:00:00Z
+    webUrl: "https://thehill.com/opinion/judiciary/519367-coronavirus-diagnosis-of-donald-trump-raises-number-of-what-ifs"
+    ampWebUrl: "https://thehill.com/opinion/judiciary/519367-coronavirus-diagnosis-of-donald-trump-raises-number-of-what-ifs?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519367-coronavirus-diagnosis-of-donald-trump-raises-number-of-what-ifs?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_09242020_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Wall Street closes sharply lower as Trump tests positive for coronavirus"
     excerpt: "U.S. stocks closed lower on Friday as news that U.S. President Donald Trump tested positive for COVID-19 put investors in a risk-off mood and added to mounting uncertainties surrounding the looming election."
     publishedDateTime: 2020-10-03T01:21:00Z

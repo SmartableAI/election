@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-reaction-trump-coro
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-reaction-trump-coronavirus.amp"
 type: article
 quality: 175
-heat: 575
+heat: 555
 published: true
 
 provider:
@@ -143,17 +143,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says"
-    excerpt: ""
-    publishedDateTime: 2020-10-02T11:58:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
   - title: "Dems say Trump diagnosis should be a 'wake up call' on administration's handling of coronavirus"
     excerpt: "Several top Democrats Friday said that they hope President Trump and first lady Melania Trump recover quickly from the coronavirus while adding that the diagnosis should be \"a wake up call\" for the president to take \"a saner approach\" in his pandemic response that Democrats have been critical of for"
     publishedDateTime: 2020-10-02T17:42:31Z

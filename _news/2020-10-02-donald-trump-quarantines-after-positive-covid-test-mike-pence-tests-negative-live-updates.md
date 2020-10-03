@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump quarantines after positive Covid test; Mike Pence tests negative – live updates"
 excerpt: "President to quarantine days after taking part in TV debate and campaign rally in Minnesota; Vice president’s daily test comes back negative"
 publishedDateTime: 2020-10-02T12:33:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770aa68f084209b16b3551"
-webUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770aa68f084209b16b3551"
+originalUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770ef68f083836ec4c5483"
+webUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770ef68f083836ec4c5483"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
 type: article
@@ -515,6 +515,6 @@ related:
         height: 1369
         isCached: true
 
-secured: "9RpNfAwldZHTNDwgLvRqw8BzxCITs6W9ixL+2OwNb4+hqg0ypfBA3wuoqGWjZuehqq0Y141lLpw3JDkMkvywYrYifm0HSZ8YUoou2d+gdxKkknUZWThjL1DoyQFqckO+lH/MsJlm6sOqDnwnSMJ75soySlz8yyoPymD9subCf67fqDIapBU8Ax/lcaUYDTFeWjkWTwr28Uh6gkfnbpGPUH/PVPypY1Ct3jV6rDCBASRysMR9YWvFkpxyKasj15PuuYx3u39+mDZCuTHSSfW1YxRLpvUPcJf0GccWuu2GwlAqiNcZED+74tHBkMVRwC1VjNEOPS/D9+sZQa8FBY6hXlV75pKRY4I6EhGFyhiZin5Lch48VcUorFblTiCrFypSrC/sC7Gc9oLLU+oeuey+JgzX5Qgwnl17W1QMX7u4dEzwBdECTbYEYosz6Cl+BPcVYVkJzoKpf9Fdmxw7+EiqOBhPl8/xXcW/0oPVOKIaOxYjHy7dWFDhLiOxrDvuNNtQ39yvOp4ZkAcbv5xAowlZ6A==;rqwaM9dw/rqbK0KSoRNAtw=="
+secured: "qnf61mPmLQ6F9GJ25VjeJilD22ALAfe/vBdCSkxOYNb4l9kJHXh9HTXwhxX48ZMKQMeD28tj+7tpNXJqFT5aYlFKg7Yr8oql4PE9/ECe5MkmlWj2T/+7Hb5Jgi+wn9nV/QsLMGQf/q00u2W2DfQeMLDdVIgMDgHW9q403iIx0tHdsKaxP5oRH9EOC9w5pRyGSwYggO6kn0TgndSX6GinGGe4JtFmX6KCrd2KyvmXR5hYGQ/dGlq2wEorffmeB31Mp1FJauqoYcMtSmPyb+RlsA5TfCmw5slwDuMPI9ZEP7ZuqDgabwGgm/8rMHuOSn31zw19fYbi51GrGtXRoqp7+O31F0RXl6FILWTkP2WK4j8ctvxnYnHADgeKwpbEuBcCti8g0WfDBUn1THZ9XP+mdUaqA2AR1/f+uWPbf+n1sPF1y+18F9yt0RY+fiHyetUFLjdbUlXm2fAphKgx4HE9UK9iWDLRE3jg5MRU2ig+J0skC0tXTt5CV5t761jy0uUMxunthz93N1vhQdSkSpvEuQ==;YEoCyQ49Aq2cedtekimMpw=="
 ---
 

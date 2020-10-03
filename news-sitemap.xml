@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ut2ExXTcjVE/index.html</loc>
-    <lastmod>2020-10-02T17:53:28-07:00</lastmod>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iwdEuHQHqeg/index.html</loc>
+    <lastmod>2020-10-02T21:43:22-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TNOHTVNrNYc/index.html</loc>
-    <lastmod>2020-10-02T17:47:55-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/-exACPwwo0U/trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think</loc>
+    <lastmod>2020-10-02T21:00:14-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ut2ExXTcjVE/index.html</loc>
+    <lastmod>2020-10-02T17:53:28-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

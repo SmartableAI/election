@@ -735,6 +735,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's campaign manager tests positive for Covid-19"
+    excerpt: "President Donald Trump's campaign manager Bill Stepien has tested positive for coronavirus, according to a senior official.\n    \n"
+    publishedDateTime: 2020-10-03T05:05:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ElQeDP-lhZo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-manager-tests-positive/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-manager-tests-positive/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003000225-bill-stepien-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's latest punt on White supremacy shows a debate rebound will be tough"
     excerpt: "President Donald Trump's failure yet again to unequivocally condemn White supremacy Wednesday -- to clear up a chilling moment from his debate clash with Democratic nominee Joe Biden -- shows how he may find it impossible to reboot for their next crucial contest.\n    \n"
     publishedDateTime: 2020-10-01T08:47:14Z

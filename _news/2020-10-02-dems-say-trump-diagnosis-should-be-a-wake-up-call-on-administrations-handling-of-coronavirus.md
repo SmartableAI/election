@@ -159,17 +159,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says"
-    excerpt: ""
-    publishedDateTime: 2020-10-02T11:58:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/x-9prL6ndWk/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says"
-    ampWebUrl: "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
   - title: "First lady Melania Trump says she and POTUS 'feeling good' after testing positive for coronavirus"
     excerpt: "First lady Melania Trump said Friday that she and the president are \"quarantining\" after testing positive for COVID-19."
     publishedDateTime: 2020-10-02T11:29:25Z

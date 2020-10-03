@@ -140,6 +140,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence have tested negative for COVID-19, Pence Press Secretary Devin O'Malley announced Friday morning, hours after President Trump, first lady Melania Trump and White House adviser Hope Hicks confirmed they'd tested positive."
+    publishedDateTime: 2020-10-02T12:02:00Z
+    webUrl: "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kamala Harris parrots Biden after debate, refuses to say whether they will ‘pack’ Supreme Court"
     excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov."
     publishedDateTime: 2020-09-30T12:59:00Z

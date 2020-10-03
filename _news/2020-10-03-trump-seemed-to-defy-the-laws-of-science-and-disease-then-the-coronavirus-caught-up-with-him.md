@@ -159,6 +159,22 @@ related:
         width: 1024
         height: 785
         isCached: true
+  - title: "Coronavirus diagnosis of Donald Trump raises number of 'what ifs'"
+    excerpt: "We are experiencing a potential crisis in the coming election for which our Constitution provides no clear resolution. A multitude of “what ifs” could occur between now and Inauguration Day, Jan."
+    publishedDateTime: 2020-10-02T19:00:00Z
+    webUrl: "https://thehill.com/opinion/judiciary/519367-coronavirus-diagnosis-of-donald-trump-raises-number-of-what-ifs"
+    ampWebUrl: "https://thehill.com/opinion/judiciary/519367-coronavirus-diagnosis-of-donald-trump-raises-number-of-what-ifs?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519367-coronavirus-diagnosis-of-donald-trump-raises-number-of-what-ifs?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_09242020_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe and Jill Biden test negative for coronavirus"
     excerpt: "Democratic nominee and his wife underwent PCR testing for Covid-19 after Trump announced he has coronavirus"
     publishedDateTime: 2020-10-02T17:15:00Z
@@ -430,6 +446,6 @@ related:
         height: 1645
         isCached: true
 
-secured: "57dMaCsFurKFCfjHx/8CxGpxA1lcR58bHCn3xxt/BGpvvbsMagk9FZjCTwmbdcnc1qoKhSTwGSydhGcE6+fQUc0VL7RWoXtjoEEd2/VeRKYwk413OVqjjol0ms0+DjklPPdD84aHkscpyNN8KXytnmnsmXHN9qwzIiYlpOJYpfNzJB2byG/YtBwe0N8wbon2h+bDglvUfIja/UPYdCUSnk2Z00eOzLEEZT0fkehECWSXlR3zd+l7E2rbffGAJCvc18f+WtVEYMd9R7nztxvwu8XnnCGVSgLDzLL70lVZGoAk+N8IPZlrnHbpejJoDvAstg5buD4wdldtAYte2AvOIGikuqITAJWTG+1Xud06RHc=;yeR+CDKaHYHaQSD3puuRSQ=="
+secured: "Ly3bZnVlZ5J8jyu036lD5aNYBiGqvg9QrEfoRX5NeeCHRxDP2rLhUqv+nnk1I4bNk8TBROtPmIBY7/PmxWfCn0y56X/zzTpKYi3eLr/3+EC0lPX/g1NjuaiZk0oRyltnrijVwj4X2aUpMtcr04b3jE7SirbsGQGwUlCVNGfJTvFLELVS9AfiVOmv6/zRhe+Y1oly3U8KolAhNrdx9OhyBb+SB08qnQ+328Q6BOUUur1+LJ/EKjNfZwnIWSS7mRQyj+slR3tb+gaOl/sae4zcVL0sQCVydoQWfXG1PK2UKCpF3S3AZIIx6DJNd6DzerUW8AobmLn2YB2rl4TLDbKEjH9RbSTvupJ3rwcNcH5A5xcm7KRaWbXWeEUYwY7DONhYZRq8JL9ofPmMI6bwk0oZ6WA2VdH2rWdBBaBeTGZkonK5YxEsZ3SzgN1ZL+8zvqXFnruJ5Dn9WsxinBQ8VGMe5OJV0HIg3AHnk8nvdHZ1RuWgtZOQD0C3Ozb6/gdF3vpFYokf9FBSw5Zfr+mrkE6zaA==;pBYN1YC4hSYW6ZF9BEuRmQ=="
 ---
 
