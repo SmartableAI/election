@@ -394,6 +394,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
+    excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
+    publishedDateTime: 2020-10-03T16:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608249001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608249001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
     publishedDateTime: 2020-09-25T11:04:00Z
@@ -519,6 +535,38 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_b53f9831867643c9b3d78d925e946365_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
+    excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
+    publishedDateTime: 2020-10-03T06:45:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence-idUKKBN26N226"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26N226"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N226"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1535982410&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911FZ"
+        width: 711
+        height: 545
+        isCached: true
+  - title: "Chris Christie is the latest in Trump orbit to get virus"
+    excerpt: "Chris Christie tested positive for COVID-19, he tweeted Saturday morning — the latest in a string of virus cases connected to President Donald Trump's inner circle. Christie said that he will be receiving medical attention and “will keep the necessary folks apprised of my condition."
+    publishedDateTime: 2020-10-03T17:15:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_947b45dfec594eaf9655cd8486013db8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

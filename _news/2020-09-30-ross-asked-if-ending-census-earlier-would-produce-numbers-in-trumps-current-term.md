@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump spends first night at Walter Reed for Covid-19 treatment"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
+    publishedDateTime: 2020-10-03T17:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1241780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416998/201002-trump-coronavirus-live-blog-v1-cs_904f7b984ef5c0d42181c87feca0c72f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
 
 secured: "FMUc20ZORUWWzklisPcW+wYrUVzEt/iAT1PYZcEqjUWbSnNgprbBES2d0hBRflmLwXWjUvIuRLMLWb4/kfVmWhQUpv1H4A89C6SBC5gS+mXbWt9/Tow4CPZm4NZ/29b7FEOULWLiWfqStXr5TjJdxi+2kvmHPxV8LgwsnXSO1iLZRKvU7wE0T+VH1AUvLFjvi8Uz9W5aU+ADOGUCJezRMRl7rDu8fTJZKKhBIFqbNZ0utAwial19dq4BHE2JE/vMoo4K90dYfV/u7zGsZ46JiEQbuQ44JgMgtgtrOe6zCWNbKpqPfvSTsPZ6etOjJURUSHTgEjIbdJZQEtNo6VoMIwsWiKpk5fY1WUC+hUOEFqo=;rj1LlHG080z+aMdNodsIww=="
 ---

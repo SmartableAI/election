@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "President Trump leads Facebook ad spending in Arizona"
+    excerpt: "President Trump has spent more money on Facebook advertising in Arizona and other parts of the Sun Belt than any other candidate, campaign or business. "
+    publishedDateTime: 2020-10-03T16:51:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u34Jr-tiLQA/president-trump-leads-facebook-ad-spending-in-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Trump-Biden-THUMB-3.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "sf634FjPxOBeGATMGDEsMhAyJy/DG4BqK40c9hrIZfSOVUKmgk0DzINcdWVFk0eyLAG+XyTJux0hoH7u1EKCH70k3LkVCy6x+Xm18/txS8NZVTAQHtyvd5uh8tQqW4F5Ku7VKACin4VTQrTC5Bw5VD+rkRGif3BGqv1KJ9NRSkdyTmBY/NX5DwY7NKBk+j9+feNJy8Ku911Px1tWaQ7nvuJj3Y0U7dNLhEk/u66ScY79BPyUC6ea+18R6gpvVltrT4o/5KYcQFWvibpyYweKVhzXEWg6KDR5HI176W+u5wZkjFZ3CZl7pj4cg6BLdlfcxywikEDRLoqLn3dqIqpk5DEr1/axT1o8PwCb9gK0CtU=;gNlGjij7wbEIAQumhJwdEg=="
 ---

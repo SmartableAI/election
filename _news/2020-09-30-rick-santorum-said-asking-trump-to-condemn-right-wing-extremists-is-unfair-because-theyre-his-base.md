@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Doctors say Trump doing 'very well' at hospital"
+    excerpt: "Doctors say US President Donald Trump is doing “very well” as he spends the weekend at a military hospital for treatment of COVID-19. (Oct. 3)"
+    publishedDateTime: 2020-10-03T17:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/03/doctors-say-trump-doing-very-well-hospital/3609245001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6202483-2d89-4536-b228-2432ce9d25ba_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "q4THZUI1T9dcHZfPWvyCo04+fsjBud3PyWhS7PEiKvntV6oN+y2xjdMODI+1loTnwf2rgS/LNsi+Qcj1E3Ndn8vtKG3lTHbmsjny9qOut+Qru2ttCrnM+LFLAotZ27kK2VS39DfclTQT7b5ucLQjT1RVrzTguy3b3IGBSvlRNKHZRzXVRbxG6y9qedTa9dfoj7M5MNW1F22Mm2E7I0KNqbYLCC4yz6fvOucjhUMGF49MjHEUiTH08BPQFo9DwjUsmH3TlAftmme310WBgnQN3yGE/lJmiCrN1j5FCp8uUXXzUuS7oSLuQIL/EXtzc03AQpYD5wofyhpuME5gC1CRor8zX+0WRdhb9ErZboXNd5E=;XzoRfXDsUlLgPvxMqBhWRQ=="
 ---

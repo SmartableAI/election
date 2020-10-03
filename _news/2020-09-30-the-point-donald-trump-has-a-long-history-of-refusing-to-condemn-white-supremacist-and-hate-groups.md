@@ -47,19 +47,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Is Team Trump using the Food Box Program as a campaign prop?"
-    excerpt: "As Election Day draws closer, the Trump administration is requiring the Food Box Program to include signed letters from the president."
-    publishedDateTime: 2020-10-01T14:10:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-using-food-box-program-campaign-prop-ncna1241693"
+  - title: "Vice President Pence tests negative for Covid after Trump's diagnosis"
+    excerpt: "Pence, who was with Trump this week, is scheduled to debate Democratic Sen. Kamala Harris next week Salt Lake City."
+    publishedDateTime: 2020-10-02T12:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/vice-president-pence-tests-negative-covid-after-trump-s-diagnosis-n1241787"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241787"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241787"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 115
+    quality: 150
     images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_16/3309381/200415-donald-trump-signature-cs-1216p_55fead8ecc4caed031149c3c02cffedf.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416916/201002-mike-pence-mc-1204_78bac30ec0c4f0f66330f46d019dc39c.JPG"
+        width: 2500
+        height: 1672
         isCached: true
 
 secured: "yOpPk/nexnksOKmpjbpoEn+1dXS9X5j4nlfFMKVB8rukkH8IepsJcTaT6zZ3YJNySJ7oAoSuWbGTKSSo64qq7xDRTkHhNShjwVEbXzj5qlTJ3HDCmdcrSzVwRTCVud8picbMYLikDzJeTxB9ga7kojX9JQ0n2AZRneXmyjqlv/foSneQjpHQZ2D7y9S+xy7UNWgHmAba4qa3mrbzewRPrlqWfn900HnEAs4qqoxCpykGUVF+0vdH52537+nXBGDeh/6YKFUaSlPDolU3c42Yd/wcwYZNA6dJlR+TOFA+ucYk8Sbw0RrOFCUm0LzblpHdcBdCkE4CFT/F1xW7A7/Q4aM4FulxEJHej0CmHmr6eJs=;YYlIeh9Ha53VDBuv0R4Ewg=="

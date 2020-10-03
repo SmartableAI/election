@@ -120,6 +120,22 @@ related:
         width: 2220
         height: 1480
         isCached: true
+  - title: "Why are Americans so confused about Covid-19? Blame Trump, Cornell study says"
+    excerpt: "Mississippi ends mask mandate, new jobless claims paint grim picture for pandemic recovery, no cruise ships in U.S. waters for another month."
+    publishedDateTime: 2020-10-01T17:36:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/why-are-americans-so-confused-about-covid-19-blame-trump-n1241707"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241707"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241707"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416660/201001-donald-trump-coronavirus-briefing-se-1103a_bb92697c9eb92755d27da3dbe94b42bf.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "dE7L+sDd3fnZ7NIHCZbS2RpvLgrao4IxxelAd1ZIe+LkNoBkodpYXDxj4ekuCpkH8H+JUaipmBTm4znn45FO5668jFcA6stP0Ahx3SyXtv91fNuRsK6JwNGmfj5SL7BKmgMn0WD0ykgW2/oadwrvGOQAE4FASbXRdDDoY4+ZJAe1+U+VDXxUOAh8LHQarOzBv62garmZ7U+T5K5SKR8lVorkrHk0HavuGnG3LXx8G3uVgUELhS9NwHkPSkXjwfskebGgehUd2umdnakRO2irtipI6FO1f3cZG+3t3gv/rywDuNYhaVms5W+4bCAETegExH2HFFu0iHvMXALAbEJjYiBCgh20wM8mLm93ZyxZ7D74VNMyvG33JxWexesxqnB4MBeBnbVAby6dudk3MUEdAV1GpBjh3twhtOSBKwKE+U2+Be8TUWR4fNieZK9ctGhnSTdOM/UgaPz4bBDxFDTrsOtJuuGo2uCQMcZRju0rbrwvzFTDDoCh6Ui9oeCdIVhvT3XnIjBCD1x1yCPqII4ltA==;x022UhRutn0vopSc2UWbQA=="
 ---

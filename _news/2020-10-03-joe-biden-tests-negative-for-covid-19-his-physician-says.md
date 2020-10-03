@@ -1859,6 +1859,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden and Jill Biden test negative for coronavirus"
+    excerpt: "The Democratic presidential nominee and his wife were tested earlier in the day after news of President Donald Trump’s infection was announced."
+    publishedDateTime: 2020-10-02T19:47:00Z
+    webUrl: "https://www.al.com/news/2020/10/biden-and-his-wife-test-negative-for-coronavirus.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/biden-and-his-wife-test-negative-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/biden-and-his-wife-test-negative-for-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KCJ4KJTCJNEILMOZW4WOHM5P2M.jpg"
+        width: 4938
+        height: 3292
+        isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious match-up in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
     publishedDateTime: 2020-09-28T17:22:00Z

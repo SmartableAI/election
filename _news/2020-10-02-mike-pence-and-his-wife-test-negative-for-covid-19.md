@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kim Jong Un Wishes Donald Trump a Speedy Recovery From COVID-19"
+    excerpt: "Kim Jong Un \"offered his sympathy to the president and the first lady\" while saying \"they will surely overcome it\" on Friday night."
+    publishedDateTime: 2020-10-02T23:13:00Z
+    webUrl: "https://www.newsweek.com/kim-jong-un-wishes-donald-trump-speedy-recovery-covid-19-1536125"
+    ampWebUrl: "https://www.newsweek.com/kim-jong-un-wishes-donald-trump-speedy-recovery-covid-19-1536125?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kim-jong-un-wishes-donald-trump-speedy-recovery-covid-19-1536125?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1645698/trump-kim.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump has more in common with Lincoln than you might think"
     excerpt: "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since."
     publishedDateTime: 2020-10-02T17:41:00Z
@@ -154,6 +170,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "White House: VP Mike Pence tests negative and 'remains in good health,' after Trump tests positive for COVID-19"
+    excerpt: "VP Mike Pence tests negative and 'remains in good health,' after Trump tests positive for COVID-19. 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-10-03T17:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/white-house-vp-mike-pence-tests-negative-remains-73384072"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/white-house-vp-mike-pence-tests-negative-remains-73384072"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/white-house-vp-mike-pence-tests-negative-remains-73384072"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Donald Trump Tests Positive For COVID—And America’s Nuclear Doomsday Planes Launch"
     excerpt: "U.S. president Donald Trump tested positive for the novel-coronavirus on Friday morning. Shortly after the news broke, the U.S. Navy’s doomsday planes launched on both American coasts. The E-6B Mercury is one of the Pentagon’s airborne nuclear command posts."
@@ -299,6 +331,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump Tests Positive For COVID—And America’s Nuclear Doomsday Planes Launch Controversy"
+    excerpt: "President Donald Trump tested positive for the novel coronavirus on Friday morning. Shortly before the news broke, the U.S. Navy’s doomsday planes launched on both American coasts. It may not be a coincidence."
+    publishedDateTime: 2020-10-03T17:20:00Z
+    webUrl: "https://www.forbes.com/sites/davidaxe/2020/10/02/donald-trump-tests-positive-for-covid-and-americas-nuclear-doomsday-planes-launch/"
+    ampWebUrl: "https://www.forbes.com/sites/davidaxe/2020/10/02/donald-trump-tests-positive-for-covid-and-americas-nuclear-doomsday-planes-launch/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2020/10/02/donald-trump-tests-positive-for-covid-and-americas-nuclear-doomsday-planes-launch/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 113
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76d26c313d5c11f3e9d070%2F0x0.jpg%3FcropX1%3D51%26cropX2%3D831%26cropY1%3D0%26cropY2%3D439"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Trump, 10 others test positive for COVID: A running list of everyone being tested and their results"
     excerpt: "White House officials said Friday that President Donald Trump is feeling only \"mild symptoms\" following the announcement that he and first lady Melania Trump have tested positive for COVID-19. Trump announced his positive test early Friday morning,"
     publishedDateTime: 2020-10-03T01:19:00Z
@@ -357,6 +405,22 @@ related:
       - url: "https://i.insider.com/5f76721b74fe5b0018a8e9e8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Republicans Sad and Worried, Democrats Happy and Indifferent Over Donald Trump's COVID Diagnosis: Poll"
+    excerpt: "All respondents said they're more concerned about the economy than the president's well-being following his announcement."
+    publishedDateTime: 2020-10-02T23:15:00Z
+    webUrl: "https://www.newsweek.com/republicans-sad-worried-democrats-happy-indifferent-over-donald-trumps-covid-diagnosis-poll-1536114"
+    ampWebUrl: "https://www.newsweek.com/republicans-sad-worried-democrats-happy-indifferent-over-donald-trumps-covid-diagnosis-poll-1536114?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/republicans-sad-worried-democrats-happy-indifferent-over-donald-trumps-covid-diagnosis-poll-1536114?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 109
+    images:
+      - url: "https://d.newsweek.com/en/full/1645688/donald-trump-covid-19-diagnosis-republican-democrat-reactions.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Trump tests positive for COVID-19: What are his symptoms? Where are the Trumps now? Here's what we know."
     excerpt: "President Donald Trump revealed early Friday that he has tested positive for COVID-19, the disease caused by the coronavirus."
@@ -533,14 +597,14 @@ related:
         isCached: true
   - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
     excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
-    publishedDateTime: 2020-10-02T16:25:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892854002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892854002"
+    publishedDateTime: 2020-10-02T12:42:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5892854002"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 3100
+heat: 3120
 published: true
 
 provider:
@@ -1843,6 +1843,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-356-4265-2843_s1200x700.jpg?71a3494d6acf51eac834cec2b86da0ad7a3528a4"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Joe Biden and Jill Biden test negative for coronavirus"
+    excerpt: "The Democratic presidential nominee and his wife were tested earlier in the day after news of President Donald Trump’s infection was announced."
+    publishedDateTime: 2020-10-02T19:47:00Z
+    webUrl: "https://www.al.com/news/2020/10/biden-and-his-wife-test-negative-for-coronavirus.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/biden-and-his-wife-test-negative-for-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/biden-and-his-wife-test-negative-for-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KCJ4KJTCJNEILMOZW4WOHM5P2M.jpg"
+        width: 4938
+        height: 3292
         isCached: true
   - title: "Joe Biden Tests Negative For COVID-19, His Physician Says"
     excerpt: "Democratic vice presidential nominee Kamala Harris also received a negative diagnosis. Sen. Mike Lee, R-Utah, and Notre Dame president test positive."

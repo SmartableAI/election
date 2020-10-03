@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/4koNUqllL0I/intel-community-military-trump-covid-diagnosis</loc>
+    <lastmod>2020-10-03T10:55:37-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Nv4s0u3hqc8/index.html</loc>
+    <lastmod>2020-10-03T10:06:04-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.washingtonpost.com/world/national-security/vp-pence-ordered-borders-closed-after-cdc-experts-refused/2020/10/03/70f0bb66-057b-11eb-b92e-029676f9ebec_story.html</loc>
     <lastmod>2020-10-03T06:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,12 +21,6 @@
   <url>
     <loc>https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX</loc>
     <lastmod>2020-10-03T05:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cydJ7FrjlvA/index.html</loc>
-    <lastmod>2020-10-03T03:45:25-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -121,14 +127,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/bRzKYb_-f_M/pelosi-trump-saner-approach-coronavirus</loc>
-    <lastmod>2020-10-02T10:16:38-07:00</lastmod>
+    <loc>https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775</loc>
+    <lastmod>2020-10-02T10:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x4lMT8xICDg/index.html</loc>
-    <lastmod>2020-10-02T09:04:52-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/bRzKYb_-f_M/pelosi-trump-saner-approach-coronavirus</loc>
+    <lastmod>2020-10-02T10:16:38-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -139,26 +145,20 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8vjHiL3-chw/index.html</loc>
-    <lastmod>2020-10-02T08:20:01-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says</loc>
     <lastmod>2020-10-02T07:46:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ulHuutIv0IY/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson</loc>
-    <lastmod>2020-10-02T05:39:01-07:00</lastmod>
+    <loc>https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html</loc>
+    <lastmod>2020-10-02T07:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FbP2PIAZfSE/index.html</loc>
-    <lastmod>2020-10-02T05:21:24-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ulHuutIv0IY/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson</loc>
+    <lastmod>2020-10-02T05:39:01-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -373,12 +373,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.politico.com/newsletters/florida-playbook/2020/10/01/florida-remains-top-2020-battleground-trumps-proud-boys-moment-sparks-black-outrage-desantis-lets-eviction-moratorium-expire-490491</loc>
-    <lastmod>2020-10-01T04:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGjy995Eutc/index.html</loc>
     <lastmod>2020-09-30T21:53:59-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -477,6 +471,12 @@
   <url>
     <loc>https://www.nbcnews.com/msnbc/rachel-maddow-show/why-did-trump-s-intel-chief-launch-dubious-pre-debate-ncna1241578</loc>
     <lastmod>2020-09-30T10:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570</loc>
+    <lastmod>2020-09-30T09:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -751,6 +751,24 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nZraVJpsqg/index.html</loc>
+    <lastmod>2020-09-28T14:16:13-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.html</loc>
+    <lastmod>2020-09-28T14:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/video/pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing-92734533538</loc>
+    <lastmod>2020-09-28T13:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909</loc>
     <lastmod>2020-09-28T13:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -771,6 +789,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html</loc>
     <lastmod>2020-09-28T10:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7oyO5eO_YhM/index.html</loc>
+    <lastmod>2020-09-28T10:45:12-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -799,12 +823,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HqjVlGpKWqs/index.html</loc>
-    <lastmod>2020-09-28T07:11:45-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election</loc>
     <lastmod>2020-09-28T03:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -819,6 +837,12 @@
   <url>
     <loc>https://www.usatoday.com/story/news/2020/09/28/trump-taxes-california-wildfires-stanley-cup-5-things-know-monday/3530752001/</loc>
     <lastmod>2020-09-27T23:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html</loc>
+    <lastmod>2020-09-27T22:23:56-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -975,6 +999,12 @@
   <url>
     <loc>https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9</loc>
     <lastmod>2020-09-26T01:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lEQBD1TGo20/index.html</loc>
+    <lastmod>2020-09-25T21:02:12-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1273,12 +1303,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html</loc>
-    <lastmod>2020-09-23T10:50:14-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9</loc>
     <lastmod>2020-09-23T10:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1417,6 +1441,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883</loc>
+    <lastmod>2020-09-22T18:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9</loc>
     <lastmod>2020-09-22T17:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1443,12 +1473,6 @@
   <url>
     <loc>https://www.wmur.com/article/pence-tells-rallygoers-woman-will-be-nominated-to-supreme-court-saturday/34115614</loc>
     <lastmod>2020-09-22T15:40:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cExtPYra-aw/index.html</loc>
-    <lastmod>2020-09-22T15:37:18-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1903,6 +1927,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto-rico-infusing-politics-apparent-play-florida-n1240491</loc>
+    <lastmod>2020-09-18T15:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Jqf22z9oKIY/trump-fbi-christopher-wray-replaced-antifa-russia-china</loc>
     <lastmod>2020-09-18T15:00:51-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2323,12 +2353,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html</loc>
-    <lastmod>2020-09-13T10:44:03-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWPbatwd39g/index.html</loc>
     <lastmod>2020-09-13T10:34:28-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2349,12 +2373,6 @@
   <url>
     <loc>https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by</loc>
     <lastmod>2020-09-13T09:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XuwDjmXtx2Y/index.html</loc>
-    <lastmod>2020-09-13T07:49:19-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

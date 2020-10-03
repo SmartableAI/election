@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP senator on Judiciary panel tests positive for Covid-19 days after meeting with Trump's nominee"
+    excerpt: "Sen. Mike Lee, a Utah Republican, announced Friday he tested positive for Covid-19, just days after meeting in person with Supreme Court nominee Amy Coney Barrett on Tuesday.\n    \n"
+    publishedDateTime: 2020-10-02T16:22:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C9Plh__y_jk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/mike-lee-tests-positive-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/mike-lee-tests-positive-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002115304-01-mike-lee-amy-coney-barrett-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "POLITICO Playbook: Trump will introduce ACB for RBG’s seat"
     excerpt: "NOW, WE ARE 38 DAYS from Election Day, and at 5 p.m. today, President DONALD TRUMP will introduce AMY CONEY BARRETT as his nominee for the Supreme Court in the Rose Garden. IF ACB IS CONFIRMED, TRUMP and Senate Majority Leader MITCH MCCONNELL will have succeeded in a massive overhaul of the federal judiciary,"
     publishedDateTime: 2020-09-26T14:13:00Z
@@ -108,6 +124,20 @@ related:
       - url: "https://static.politico.com/fd/20/809079974eb989686ded0ecfc336/gettyimages-1228692602.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
+    excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
+    publishedDateTime: 2020-10-02T00:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/hope-hicks-top-trump-adviser-who-flew-him-debate-tests-n1241751"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 109
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_40/3416833/201001-hope-hicks-2018-ac-842p_58ccf042fc6d35570ea1522bae16016e.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "cXOxQ9H1vTSytf00HKZCPV/PNUMykUzRSha5HDtiZmRtlPFZWYNOhfg6z8r8jThDJWYP0iXFv6upJR+/RxLv55tpwxlVC8gtCfJYom7v1XOTTpsJ1zSc21Bf14YpU1XjtZCLMj9t5c6EAgdEIjSwHQMVduwkmdZXH5rz+AwS5sFyMr6HIYcLwjv7VFQ7D3O+HlSA1bnK9N8qTcbrYlSncLCooR4PNTHFBaz+rHYeWO5zOwXram22fwvOFn12x+zMV8nrja1UPp5ZOPbRjJ27MEWNv/2O5UW/bu9xajpDtH+H9lF1aUgi0Uex+2KygD706qDovEz1cqSYfGY8jfE819fhjYU8OjvPy81BpwxmvjA=;/P/ZDGhITiA6c7g9Uy/W/g=="

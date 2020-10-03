@@ -30,54 +30,155 @@ images:
     isCached: true
 
 related:
-  - title: "With an eye on a tight Florida race, Trump announces new restrictions on Cuban hotels, cigars and rum"
-    excerpt: "President Donald Trump on Wednesday announced a new series of economic sanctions on Cuba that ban US citizens from buying Cuban cigars as well as rum and staying at Cuban government-owned hotels on the communist-run island.\n    \n"
-    publishedDateTime: 2020-09-23T17:50:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html"
+  - title: "Analysis: Tax bombshell reveals Trump's image is a sham"
+    excerpt: "It was the moment when Donald Trump's \"Art of the Deal\" fabulism, billionaire tycoon bluster and populist standard-bearing for forgotten Americans was revealed to be what it always looked like: a sham.\n    \n"
+    publishedDateTime: 2020-09-28T05:23:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IxedFhXWNDQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 160
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172036-03-trump-0921-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927181158-02-trump-press-briefing-0927-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Former Florida Supreme Court chief justice during 2000 recount warns Trump poses 'grave and real threat to democracy'"
-    excerpt: "The former chief justice of the Florida Supreme Court is warning that President Donald Trump poses a \"grave and real threat to our democracy\" because of his threat to not accept the outcome of the election.\n    \n"
-    publishedDateTime: 2020-09-28T17:45:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7oyO5eO_YhM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-justice-florida-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-justice-florida-supreme-court/index.html"
+  - title: "Analysis: Trump relishes his role as a divider as he vows to be 'vicious'"
+    excerpt: "Taking the stage at a rally in Nevada Saturday night, President Donald Trump didn't hold back.\n    \n"
+    publishedDateTime: 2020-09-13T14:49:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XuwDjmXtx2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/2020-election-donald-trump-division-joe-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928124713-charles-t-wells-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200908191141-02-trump-nc-0908-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump announces aid for Puerto Rico, infusing politics in an apparent play for Florida voters"
-    excerpt: "Polling shows Trump and Biden are tied in Florida, where thousands of Puerto Ricans relocated after Hurricane Maria."
-    publishedDateTime: 2020-09-18T22:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto-rico-infusing-politics-apparent-play-florida-n1240491"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240491"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240491"
+  - title: "Analysis: Trump reignites climate fight in visit to fire-ravaged West Coast"
+    excerpt: "For weeks, President Donald Trump was largely silent on the wildfires that have charred more than 3.3 million acres in California, triggered Oregon officials to prepare for a potential \"mass fatality incident,\" and created apocalyptic orange skies and clouds raining ash that have drifted across cities"
+    publishedDateTime: 2020-09-14T21:06:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C5zU9tawExY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-california-fires/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200913235654-03-wildfires-california-0909-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump's tax returns reveal why he *really* ran for president"
+    excerpt: "Donald Trump needed a new act.\n    \n"
+    publishedDateTime: 2020-09-28T14:11:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HqjVlGpKWqs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tax-returns-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tax-returns-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/150701114048-donald-trump-escalator-super-tease.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "The Point: The *real* secret of Donald Trump's success revealed by his tax returns"
+    excerpt: "President Donald Trump likes to tell people he made his fortune building things.\n    \n"
+    publishedDateTime: 2020-09-29T14:14:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yhTkq_2MfTQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Contact tracers scramble to find people infected by Trump and his entourage"
+    excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
+    publishedDateTime: 2020-10-02T23:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "New York Times' Trump taxes bombshell reveals massive national security threat"
+    excerpt: "The revelations of the president’s tax records must become part of a larger and still unresolved investigation into Trump’s potential compromise by foreign powers."
+    publishedDateTime: 2020-09-29T19:06:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/new-york-times-trump-taxes-bombshell-reveals-massive-national-security-ncna1241363"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241363"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241363"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 124
+    quality: 131
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/2180696/ss-171006-twip-22_7607aec2d647d9aa65488040a7aadb8f.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416080/200928-donald-trump-mn-1510_69cbbd57bea01db5a9d2fc17f67d75ab.JPG"
         width: 2500
-        height: 1666
+        height: 1405
         isCached: true
+  - title: "What Trump reportedly says in private about his Christian supporters"
+    excerpt: "Trump often presents himself as a hero to people of faith, most notably Christian conservatives. In private, it's apparently a very different story."
+    publishedDateTime: 2020-09-29T15:49:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/what-trump-reportedly-says-private-about-his-christian-supporters-ncna1241335"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_06/3220181/prayer_campaign_2016_trump-jpeg-5d0da-maddowblog_53da12c3998f805b987c26f4cfc1e3fe.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Long concealed records show chronic losses and years of income tax avoidance for President Trump"
+    excerpt: "Trump paid $750 in federal taxes in 2016 and 2017, and paid none in 10 of the previous 15 years."
+    publishedDateTime: 2020-09-27T23:25:50Z
+    webUrl: "https://www.nytimes.com/interactive/2020/09/27/us/donald-trump-taxes.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 102
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/27/multimedia/thing-promo/thing-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "H.R. McMaster Tries to Wish Away His Old Boss Donald Trump"
+    excerpt: "Don’t look to the former national security adviser’s new book for revelations about his time serving Trump. Look to it for its evasions—which explain that service to Trump so well."
+    publishedDateTime: 2020-09-20T09:09:00Z
+    webUrl: "https://www.thedailybeast.com/hr-mcmaster-tries-to-wish-away-his-old-boss-donald-trump"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "Ur5Y6itB2scApEwREy+xb1nJLx3R//YuDtARsZttSYqwR4U48BhdWO71H68L/DxRREYpT14UEZKj1P1xV73uv11T7qJyavu8Pr3f3K5dsmm9MKB7vpjVkG3wSRFlRlbDhsR1G85xdM2slSgtIn8OXkq3XJNWJIIjzfcTUVlVyfWDMwxbms1TDdzIsKsc9ZM1L/oXmhoYT0FKZ+eMdc6xmesS6MnyK8uHyripHa5juPUAtLWzirpWQ9/peohJmpQcO0YZf82pufBCK5fWnzncezy8EGnjGx/j+DYlm7tlsj1yE+NCf5dgzPKJdFrEDXateVYGi2p7hki8PLZK02D6NalgBS/2WWne38KkCuRT/6cNDv/6jjOh7JK2DAVDh4SpDqHzhupfgzXx3CoKk1EpFyYQBgpy7Sc+01pvqyvuVhZzmzlS94AQMdxemA1ml9sIvtQyoXpR706G2qyj7FBfKPDzzflDMvxygHDqYPxSSmazM8I5fqytbMULwbae1vlPHXXiNoLQpjphG2qTVE1BiQ==;peCwH/UTnJ2alpCkWNU3FA=="
 ---

@@ -2,13 +2,13 @@
 category: news
 title: "Factbox: Reactions to Donald Trump testing positive for COVID-19"
 excerpt: "U.S. President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
-publishedDateTime: 2020-10-02T20:21:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idINKBN26N0SM"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idINKBN26N0SM"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26N0SM"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26N0SM"
+publishedDateTime: 2020-10-03T05:54:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idUSKBN26N0SM"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idUSKBN26N0SM"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SM"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SM"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535905929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IV"
+    width: 826
+    height: 545
+    isCached: true
 
 related:
   - title: "Check’s in the mail: Trump offering government aid, including cash, in weeks before the election"
@@ -596,6 +602,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "9lm/1fWbllEO6h+Yhga/lJLrRODbeEge+tretBvEMFw/Kxmk+1qUq2pdjPrQkyOPhn3g5oFwUfBkfY5k3rXq0HxlxpW6JqHdue/0yIi/GpdxPH/HWDk9nh+jPcTbfk7h7uDxgw8gG1PQRePGyXDpFqSMvdVbW2D88muSxtWSNi+8H/t9PiOWT1r2ccN6KCky2vlFjIYyUEZB0rzImmYAyV7NOcUKqRsycF9MqVbJsVvJc42D67fGZQyxQFgJJOoXrmFcXBGoEOLPjkJqdcuy9FX9o02EK3htlnxE/9HOVfNf8uQ6qVz+NteL9a8D+mFKzXtLJloPwwzjoPFajNFqdnP111rXEZRHk1RPkowtCiQ=;L3JBwM+d6TjKKPdefGRpPg=="
+secured: "w950tdFKBEm/kyAW/YXF/nPIEcj+CKVyh+2rPxDvIGUCSCONLFKUkMCf1T0AaudbaehRJ2Vf/cYM0M3NTmTr4jbSwMbn5F+OUJm8ZdoE2oohI6VtaYHx/cuUEvo2YxYCuI9xnX/AnYz0Lx/HQTNNYQJNm1hNUEiar1peeHlfdfhzBa9kiaO2aUATbtLXSsKWJSWpgONOBRF0ItbraQ+AhUtkZowzlG08ubueqMnRHwCUQQdsYJrARsqxTwPACBFyF9S9YvTcp6k4lvs29gdC/kSHptVjMxljDqy3BeCvSDGnD06HKi3jMbAGUZHPSZJ2iTY0Hyez2nXDtpA5PojSPXhsYCGN8HUlhgc3pBOmZkE=;LjW3izaBQR/lXMZ/3dm9Rw=="
 ---
 
