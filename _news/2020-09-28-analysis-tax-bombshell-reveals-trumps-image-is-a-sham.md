@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-elect
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-taxes-election-2020-joe-biden-debate/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Contact tracers scramble to find people infected by Trump and his entourage"
+    excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
+    publishedDateTime: 2020-10-02T23:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "New York Times' Trump taxes bombshell reveals massive national security threat"
     excerpt: "The revelations of the president’s tax records must become part of a larger and still unresolved investigation into Trump’s potential compromise by foreign powers."

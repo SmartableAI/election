@@ -207,6 +207,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump gets experimental drug aimed at curbing severe illness"
+    excerpt: "The experimental antibody drug given to President Donald Trump has been called one of the most promising approaches to preventing serious illness from a COVID-19 infection"
+    publishedDateTime: 2020-10-02T23:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_765454725e2a4d1cafa0c309fa21f42a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z

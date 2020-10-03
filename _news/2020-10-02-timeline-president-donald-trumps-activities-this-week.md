@@ -687,6 +687,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See Trump's busy week before his Covid-19 diagnosis"
+    excerpt: "Before President Donald Trump tested positive for Covid-19 he had a busy week, traveling from Washington, DC, to Pennsylvania, Ohio, Minnesota and New Jersey.\n    \n"
+    publishedDateTime: 2020-10-02T22:32:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kqMo-dJSV2E/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002140502-21-trump-unf-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z

@@ -628,6 +628,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "‘Keep back!’: How the Biden campaign obsesses over Covid"
+    excerpt: "WILMINGTON, Del. — Joe Biden’s chartered airplanes and SUVs are meticulously sprayed with disinfectant and scrubbed. The microphones, lecterns and folders he uses are wiped down in the moments ..."
+    publishedDateTime: 2020-09-14T11:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/14/joe-biden-bubble-coronavirus-412306"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f4/7c/a169c60240fc806832eebfbc31fc/webp.net-resizeimage%20(7).jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "How K Street sees a Biden presidency"
     excerpt: "The memo also lays out what Biden might do on health care, taxes, education, financial services, the minimum wage, trade, energy and the environment, among other policy areas. A second memo outlines what Biden might do on taxes if Democrats retake the Senate."
     publishedDateTime: 2020-09-18T18:47:00Z

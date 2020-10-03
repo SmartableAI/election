@@ -351,6 +351,38 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Factbox: Trump White House, campaign staff who have tested positive for COVID-19"
+    excerpt: "News of President Donald Trump's COVID-19 diagnosis has upended the U.S. presidential election campaign entering its final month and roiled stock markets, raising questions about succession and prompting White House aides to insist that Trump would keep a busy,"
+    publishedDateTime: 2020-10-02T23:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-staff-fa-idUSKBN26N3FB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N3FB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N3FB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535948470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9126O"
+        width: 808
+        height: 545
+        isCached: true
+  - title: "Trump's COVID-19 diagnosis centers presidency and campaign on pandemic: ANALYSIS"
+    excerpt: "His silence amid the shockwaves served as a chilling reminder that everything about his presidency -- and perhaps even about the nation's stability -- was suddenly at stake. A presidency that has so often devolved into pettiness and name-calling now confronts a deeply personal crisis that expands into the nation's health and security."
+    publishedDateTime: 2020-10-02T23:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-covid-19-diagnosis-centers-presidency-campaign-pandemic/story?id=73395891"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-covid-19-diagnosis-centers-presidency-campaign-pandemic/story?id=73395891"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-covid-19-diagnosis-centers-presidency-campaign-pandemic/story?id=73395891"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump Tests Positive For COVID—And America’s Nuclear Doomsday Planes Launch"
     excerpt: "U.S. president Donald Trump tested positive for the novel-coronavirus on Friday morning. Shortly after the news broke, the U.S. Navy’s doomsday planes launched on both American coasts. The E-6B Mercury is one of the Pentagon’s airborne nuclear command posts."
     publishedDateTime: 2020-10-02T07:21:00Z
@@ -495,6 +527,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump is being treated with an experimental drug cocktail for COVID-19. Here's what it is."
+    excerpt: "The White House announced Mr. Trump received a dose of Regeneron's antibody cocktail before he was transported to Walter Reed Medical Center."
+    publishedDateTime: 2020-10-02T23:07:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/02/b59722df-d9e8-4c46-8280-be603279d3ed/thumbnail/1200x630g2/2bf44e50dfde63019f9141ba8ad055d1/gettyimages-1228854672.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump, Melania tests positive for coronavirus, president vows to bring quarantine 'immediately'"
     excerpt: "The revelation Trump and first lady Melania Trump tested positive for coronavirus came after a top aide announced she also had a positive test result."
     publishedDateTime: 2020-10-02T05:04:00Z
@@ -591,6 +639,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump tests positive for COVID-19: What are his symptoms? Where are the Trumps now? Here's what we know."
+    excerpt: "President Donald Trump revealed early Friday that he has tested positive for COVID-19, the disease caused by the coronavirus."
+    publishedDateTime: 2020-10-02T23:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/02/president-trump-tests-positive-covid-19-heres-what-we-know/5892425002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5892425002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892425002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f6784f92-f0b7-4073-82e2-5aa83da1946e-AFP_AFP_8R92JT.jpg?auto=webp&crop=3999,2250,x0,y348&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Several of the military's top generals were at White House event days before Trump tested positive for COVID-19"
     excerpt: "The chairman of the Joint Chiefs of Staff and the top Army and Air Force generals were at a Gold Star family event on Sunday, defense officials said."
     publishedDateTime: 2020-10-02T15:29:00Z
@@ -621,6 +685,17 @@ related:
         width: 1041
         height: 694
         isCached: true
+  - title: "Biden hits the campaign trail after negative test for COVID-19"
+    excerpt: "Democratic presidential candidate Joe Biden said President Donald Trump's coronavirus diagnosis is a \"bracing reminder\" that the pandemic needs to be taken seriously, as he campaigned on Friday in the battleground state of Michigan."
+    publishedDateTime: 2020-10-02T18:50:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-biden-int-idUSKBN26N2XX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2XX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2XX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Factbox: Reactions to Donald Trump testing positive for COVID-19"
     excerpt: "U.S. President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
     publishedDateTime: 2020-10-02T20:21:00Z
@@ -632,6 +707,33 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump moved to military hospital after COVID-19 diagnosis"
+    excerpt: "U.S. President Donald Trump moved to a military hospital for treatment on Friday after being diagnosed with COVID-19 as his administration and election campaign scrambled to adjust to an extraordinary twist in his turbulent presidency."
+    publishedDateTime: 2020-10-02T23:02:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump/update-16-trump-to-be-moved-to-military-hospital-after-covid-19-diagnosis-idUSL1N2GT1OV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0K4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0K4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "A running list of all the people Trump came into contact with in the days before he tested positive for COVID-19"
+    excerpt: "First lady Melania Trump, top aide Hope Hicks, Sen. Mike Lee, and RNC chairwoman Ronna McDaniel are among those who have tested positive so far."
+    publishedDateTime: 2020-10-02T23:03:00Z
+    webUrl: "https://www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/5f7778842400440019129bcb?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
     excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."
     publishedDateTime: 2020-10-02T19:46:00Z

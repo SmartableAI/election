@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
 type: article
 quality: 190
-heat: 3390
+heat: 3410
 published: true
 
 provider:
@@ -668,6 +668,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002092919-03-trump-1001-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "See Trump's busy week before his Covid-19 diagnosis"
+    excerpt: "Before President Donald Trump tested positive for Covid-19 he had a busy week, traveling from Washington, DC, to Pennsylvania, Ohio, Minnesota and New Jersey.\n    \n"
+    publishedDateTime: 2020-10-02T22:32:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kqMo-dJSV2E/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002140502-21-trump-unf-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

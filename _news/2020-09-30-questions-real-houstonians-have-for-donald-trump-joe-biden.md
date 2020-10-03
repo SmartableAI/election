@@ -252,6 +252,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden: Trump diagnosis is ‘bracing reminder’ of virus stakes"
+    excerpt: "Democrat Joe Biden is offering sympathy to President Donald Trump over his coronavirus diagnosis while casting the moment as a reminder of the health crisis facing the United States"
+    publishedDateTime: 2020-10-02T23:32:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-trump-diagnosis-is-bracing-reminder-of-virus-stakes/2020/10/02/95f01184-0506-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "What The Trump-Clinton Debates Suggests About The First Trump-Biden Tussle"
     excerpt: "Expect Trump to play the same head games with Biden as he did Hillary Clinton. Don’t expect much in the way of contrition (Trump doesn’t do apologies). If you need a drinking game, Trump ripping Fox News’ Chris Wallace – the entire media,"
     publishedDateTime: 2020-09-27T21:49:00Z
@@ -1112,6 +1128,20 @@ related:
     quality: 101
     images:
       - url: "https://i.insider.com/5f7542c674fe5b0018a8e69b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The 2020 campaign's biggest flip-flop yet: A COVID-infected Trump hunkers in the hospital while Biden storms the trail."
+    excerpt: "There's no small irony in President Donald Trump getting sidelined by the coronavirus and leaving cautious Democrat Joe Biden to own the campaign trail."
+    publishedDateTime: 2020-10-02T23:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-covid-hospital-biden-campaign-trail-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f77a8c22400440019129cc1?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

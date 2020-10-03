@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 3020
+heat: 3040
 published: true
 
 provider:
@@ -847,6 +847,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535749048&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG904UD"
         width: 902
         height: 545
+        isCached: true
+  - title: "Biden, in change, speaks with mask on at campaign event"
+    excerpt: "When Joe Biden delivered remarks in Michigan on Friday, there was one major difference from his previous speeches: He spoke with a mask the entire time. Biden usually removes his mask before making remarks during campaign events or as he did earlier this week in a presidential debate."
+    publishedDateTime: 2020-10-02T22:32:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519408-biden-in-change-speaks-with-mask-on-at-campaign-event"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519408-biden-in-change-speaks-with-mask-on-at-campaign-event?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519408-biden-in-change-speaks-with-mask-on-at-campaign-event?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
     excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"

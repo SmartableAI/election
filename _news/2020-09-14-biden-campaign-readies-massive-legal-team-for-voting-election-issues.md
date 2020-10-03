@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/biden-election-voting/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/biden-election-voting/index.html"
 type: article
 quality: 190
-heat: 970
+heat: 990
 published: true
 
 provider:
@@ -616,6 +616,20 @@ related:
     quality: 130
     images:
       - url: "https://static.politico.com/5c/84/0ee71c3548e38c136a678d51183c/200921-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "‘Keep back!’: How the Biden campaign obsesses over Covid"
+    excerpt: "WILMINGTON, Del. — Joe Biden’s chartered airplanes and SUVs are meticulously sprayed with disinfectant and scrubbed. The microphones, lecterns and folders he uses are wiped down in the moments ..."
+    publishedDateTime: 2020-09-14T11:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/14/joe-biden-bubble-coronavirus-412306"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f4/7c/a169c60240fc806832eebfbc31fc/webp.net-resizeimage%20(7).jpg"
         width: 1160
         height: 773
         isCached: true

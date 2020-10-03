@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Tested Negative. He Could Still Have the Coronavirus."
+    excerpt: "President Trump and the first lady have tested positive for the coronavirus. Now everyone who has been anywhere near them will need to be tested too, ideally multiple times. That includes Joe Biden. He tested negative today,"
+    publishedDateTime: 2020-10-02T22:22:00Z
+    webUrl: "https://www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/03/opinion/02moyerNew/02moyerNew-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Says He’ll Begin ‘Quarantine Process’ After Hope Hicks Tests Positive for Coronavirus"
     excerpt: "Ms. Hicks, a senior aide and the closest known person to the president to have contracted the virus, traveled with him this week aboard Air Force One."
     publishedDateTime: 2020-10-02T05:27:00Z

@@ -111,6 +111,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Tested Negative. He Could Still Have the Coronavirus."
+    excerpt: "President Trump and the first lady have tested positive for the coronavirus. Now everyone who has been anywhere near them will need to be tested too, ideally multiple times. That includes Joe Biden. He tested negative today,"
+    publishedDateTime: 2020-10-02T22:22:00Z
+    webUrl: "https://www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/opinion/trump-positive-coronavirus-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/03/opinion/02moyerNew/02moyerNew-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Pence tells Americans to 'anticipate that cases will rise' with more coronavirus testing"
     excerpt: "Vice President Mike Pence said that \"the American people should anticipate that cases will rise\" as efforts for increased coronavirus testing are implemented and states in the Midwest are experiencing a surge."
     publishedDateTime: 2020-09-28T20:47:00Z

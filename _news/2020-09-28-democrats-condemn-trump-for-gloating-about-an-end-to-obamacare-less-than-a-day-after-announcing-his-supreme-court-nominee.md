@@ -1232,6 +1232,22 @@ related:
         width: 5093
         height: 3395
         isCached: true
+  - title: "Trump and Sen. Mike Lee's positive COVID-19 tests spark worries over Amy Coney Barrett confirmation, but GOP moving forward anyway"
+    excerpt: "Democrats say Supreme Court hearings are \"premature\" after GOP Sen. Mike Lee tested positive for COVID-19 following a meeting with Amy Coney Barrett."
+    publishedDateTime: 2020-10-02T23:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/amy-coney-barrett-covid-19-not-slowing-down-confirmation-process/3592280001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592280001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592280001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/da1ee30e-b77d-42da-909d-b6d919492ddf-GTY_1228790928.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Pence suggests Trump SCOTUS nominee should skip committee to be confirmed before ‘election issues’ arise"
     excerpt: "Vice President Mike Pence is in full campaign mode now, making the rounds on news channels and holding re-election rallies. On Tuesday the Indiana Republican told Fox News Business’ Lou Dobbs that perhaps President Donald Trump’s yet-to-be-named Supreme Court nominee should just skip the usual Judiciary Committee hearings and get confirmed by the U."
     publishedDateTime: 2020-09-22T22:57:00Z

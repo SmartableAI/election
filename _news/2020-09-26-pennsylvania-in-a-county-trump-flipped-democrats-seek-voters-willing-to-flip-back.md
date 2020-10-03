@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "White House touts unusual Justice Department announcement about 'discarded' Trump ballots in Pennsylvania"
-    excerpt: "The Justice Department said Thursday that it is investigating \"potential issues with mail-in ballots\" in the swing state of Pennsylvania and, in a highly unusual disclosure, revealed that several ballots marked for President Donald Trump were \"discarded.\"\n    \n"
-    publishedDateTime: 2020-09-24T21:25:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9hHZhBbYMtY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/doj-trump-ballots-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/doj-trump-ballots-pennsylvania/index.html"
+  - title: "Trump administration puts up billboards of immigration violators in Pennsylvania"
+    excerpt: "The Trump administration has put up billboards in Pennsylvania of immigration violators, an unprecedented move taken in a swing state a month before the presidential election.\n    \n"
+    publishedDateTime: 2020-10-02T23:19:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HA0c-zY776s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924074304-donald-trump-0923-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

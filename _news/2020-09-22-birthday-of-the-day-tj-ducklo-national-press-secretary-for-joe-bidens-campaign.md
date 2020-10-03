@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump campaign runs Facebook ads featuring fake image of Biden wearing earpiece"
+    excerpt: "President Donald Trump's campaign has been serially dishonest on social media, repeatedly using altered or deceptively clipped videos and images to try to make opponent Joe Biden appear senile.\n    \n"
+    publishedDateTime: 2020-10-02T22:16:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i6Owg379vZw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/fact-check-trump-facebook-biden-earpiece/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/fact-check-trump-facebook-biden-earpiece/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Calm, steady, strong': Jill Biden says her husband is ready for first debate with Trump this week"
     excerpt: "Jill Biden, the wife of Democratic presidential nominee Joe Biden, said her husband is \"ready\" to face Donald Trump in the first presidential debate this week and accused the President of trying to distract with smears during the tense campaign.\n    \n"
     publishedDateTime: 2020-09-27T14:49:47Z
@@ -768,6 +784,22 @@ related:
         width: 2500
         height: 1584
         isCached: true
+  - title: "Watch live: NBC News Town Hall with Joe Biden"
+    excerpt: "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday, October 5th in Miami, Fla. A socially-distanced audience of undecided voters will be asking Biden where he stands on the critical issues impacting their lives."
+    publishedDateTime: 2020-10-02T19:59:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-nbc-news-town-hall-with-joe-biden-93026373600"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93026373600"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93026373600"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_holt_TH_monday.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘He’s sort of like Goebbels’: Biden compares Trump to Nazi propagandist"
     excerpt: "Democratic presidential nominee Joe Biden on Saturday compared Donald Trump to a German Nazi propagandist for the president's barrage of attacks against him on the campaign trail. When Biden was asked during an interview with MSNBC’s Stephanie Ruhle how he would combat Trump’s repeated claim that he was pushing a socialist agenda,"
     publishedDateTime: 2020-09-27T03:11:00Z
@@ -883,6 +915,20 @@ related:
       - url: "https://static.politico.com/72/da/de341a0e4af69106622c535a7480/201002-bill-stepien-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "‘There’s no joy in being right’: Biden makes cautious return to the campaign trail"
+    excerpt: "Friday was a day of “hibernation,” as one Biden adviser put it, an approach designed to allow the news cycle to burn on its own fuel. Campaign advisers said that the public would come to its own conclusion that the president’s failure to protect the nation or take the pandemic seriously enough had come back to haunt him,"
+    publishedDateTime: 2020-10-02T17:41:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/10/02/biden-tests-negative-for-coronavirus-1319844"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/65/ac/d885bdd04d24856933469af10242/gettyimages-1277705292-1.jpg"
+        width: 1160
+        height: 774
         isCached: true
   - title: "Fox News Pundit Brit Hume: Joe Biden Is ‘Senile’ but Could Still Beat Trump in Debate"
     excerpt: "I don’t have any doubt Biden’s senile, but that doesn’t mean it’s going to show up tonight,” Brit Hume predicted."

@@ -207,6 +207,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump gets experimental drug aimed at curbing severe illness"
+    excerpt: "The experimental antibody drug given to President Donald Trump has been called one of the most promising approaches to preventing serious illness from a COVID-19 infection"
+    publishedDateTime: 2020-10-02T23:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_765454725e2a4d1cafa0c309fa21f42a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
     excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
     publishedDateTime: 2020-09-24T19:01:00Z

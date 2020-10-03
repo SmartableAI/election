@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Contact tracers scramble to find people infected by Trump and his entourage"
+    excerpt: "The possibility that the president and his entourage have become traveling superspreaders is a nightmare scenario for officials in the four states he visited in the last week."
+    publishedDateTime: 2020-10-02T23:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/trump-campaign-contact-tracing-425622"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/14/83/e0cf91bd4b3887707e2a394d5fb1/201002-trump-pa-rally-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Newsom bans new gas cars — and begs Trump for a fight"
     excerpt: "The Democratic governor announced he is directing the California Air Resources Board to establish regulations requiring that all new cars and passenger trucks sold in California in 2035 be zero-emission vehicles."
     publishedDateTime: 2020-09-24T00:00:00Z

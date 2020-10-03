@@ -688,6 +688,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See Trump's busy week before his Covid-19 diagnosis"
+    excerpt: "Before President Donald Trump tested positive for Covid-19 he had a busy week, traveling from Washington, DC, to Pennsylvania, Ohio, Minnesota and New Jersey.\n    \n"
+    publishedDateTime: 2020-10-02T22:32:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kqMo-dJSV2E/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002140502-21-trump-unf-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Timeline: President Donald Trump's activities this week"
     excerpt: "President Donald Trump and first lady Melania Trump have tested positive for coronavirus, along with one of Trump's top aides, Hope Hicks. Here is a timeline of their days before being diagnosed, along with who they may have been in contact with this week.\n    \n"
     publishedDateTime: 2020-10-02T12:56:02Z
@@ -2511,6 +2527,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "uQ2BZkU48PuUxzAXSwKzADu+b+sh/2a+Wsr9RN+3sjC1QMsQaONcJHiW6JkR5RioTFnhISwyv6PXMJxQC7i496yht/cubTwtL3+07DLttRhdI8tbuMx7cQsZ2IToUv3eYwjs3gEC9hJTYqc7HoEy83UJf91tQi1kDMOgDdVJ0OzUkf8FYSO9g3URh/OHVisMJoSEA9IbUBUwDqgR8xe2KlkKSyf6HYEI+4wVJuVO3Hw9XlRkV1BuPIZnCwyEDC3SaT+AzqK/qm4XqNC8dGVMR7xVseui6d6f92oSiK6089MlVo55X4nfXN64f6ykTlJcQW1CJSLlOOnpZWNqraJbggvZlXI+nlugsa0SpkAKvFo=;QJkwCP5AJvQ/cQN1KzzTxw=="
+secured: "LbJHzd7kDDHxZxHCoJVe3P8QhJsDpyYZSIYl9HSYz0pDvNSROIFHQSOijRW1wLR6vxEvis5RakI4+ZvOnemOZlhuJ8xFYKvfP2/WM5kwsm1Z27GGQxtZizJeU7yS5UzXrNxzWb0Pqm5VpVqXCDjH97266Ac5inO8/4KC9/rBwUyjGRtG0ew4nAT18Hq6wDKs35TCKQ7LpVdkTOnWPS+Uti5ruuDnaUTwLUfBsHeI+hzmqWqCCTdKk8b15Dv7kIp83vjxXPTNzDHPynmCs4cdh8lzu4+kihdJWks0m0hzbb+iP20vhQT0QEdNb9BVNl1j6SvU8FWUCuwLbtRnrPTdLAxdnu1ALNQ57OqM7UXu41LrNRgbKRkOv41PVL44cZUDT7WtgWuGmIc9gCAh9GCEprr2+S9e2ToLLmMnv9MwDZhzTwvgy3gulXZdkhbuv4kVBIZBqG1by2/kNoI/HCipigJgBE+TYYgThNI4u+914Xv9Sq7Qb1zMzUz3zOPh5S6kym1/khxz08l9grZxgc65/g==;Iyz/fu11hHWMTf/8f0QTOg=="
 ---
 

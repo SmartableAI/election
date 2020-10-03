@@ -586,6 +586,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden makes new push for mask mandate after Trump tests positive for COVID"
+    excerpt: "On the campaign trail for the first time since President Trump announced that he and first lady Melania Trump had tested positive for COVID-19, Democratic presidential nominee Joe Biden once again urged Americans to wear “a mask in public” and once again called for “masking mandates nationwide”"
+    publishedDateTime: 2020-10-02T22:31:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-d19l5DgNHY/biden-mask-mandate-trump-covid-positive"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mask-mandate-trump-covid-positive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mask-mandate-trump-covid-positive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/c7561bbe-Madeleine_Rivera-e1545231028644.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Karl Rove breaks down Trump, Biden's pursuit of Midwest working-class voters"
     excerpt: "President Trump and Joe Biden spent Monday making campaign appearances in different Midwestern states to court the working-class vote, former George W. Bush adviser Karl Rove explained on \"Bill Hemmer Reports\" Tuesday."
     publishedDateTime: 2020-09-22T22:05:49Z
@@ -999,6 +1015,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/61c64581-87f3-42e8-b819-ff990711f57b/686a9eec-b575-4a83-a722-330d47f036dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden weighs in after Trump heads to the hospital: ‘This cannot be a partisan moment’"
+    excerpt: "Democratic nominee delivered a message of unity after reports that President Trump would be taken to Walter Reed Medical Center following his Covid-19 diagnosis. "
+    publishedDateTime: 2020-10-02T23:40:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KMkzEaNFDqM/biden-trump-hospital-cannot-be-partisan-moment"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-hospital-cannot-be-partisan-moment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-hospital-cannot-be-partisan-moment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-Debate-Mute-thumb-2.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -2859,6 +2891,17 @@ related:
     webUrl: "https://www.washingtonexaminer.com/news/ted-cruz-advises-trump-to-stick-to-substance-in-debate-with-joe-biden"
     ampWebUrl: "https://www.washingtonexaminer.com/news/ted-cruz-advises-trump-to-stick-to-substance-in-debate-with-joe-biden?_amp=true"
     cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/ted-cruz-advises-trump-to-stick-to-substance-in-debate-with-joe-biden?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 80
+  - title: "How Mike Pence's movements will reflect President Trump's health"
+    excerpt: "Considering the news that a coronavirus-positive President Trump is being moved to Walter Reed military hospital, Vice President Mike Pence's movements over the next few days will offer the best guide as to Trump's health status."
+    publishedDateTime: 2020-10-02T22:33:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/how-mike-pences-movements-will-reflect-president-trumps-health"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/how-mike-pences-movements-will-reflect-president-trumps-health?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/how-mike-pences-movements-will-reflect-president-trumps-health?_amp=true"
     type: article
     provider:
       name: Washington Examiner
