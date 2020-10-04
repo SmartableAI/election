@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html"
 type: article
 quality: 210
-heat: 350
+heat: 370
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
     quality: 160
     images:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/ott_now_harris_200928_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Sen. Kamala Harris and VP Mike Pence 2020 debate preview"
+    excerpt: "The 2020 vice presidential candidates’ debate, between Democratic candidate Sen. Kamala Harris and Republican incumbent Vice President Mike Pence, will see Pence having to defend the record of the Trump administration,"
+    publishedDateTime: 2020-10-04T18:27:00Z
+    webUrl: "https://www.msnbc.com/am-joy/watch/sen-kamala-harris-and-vp-mike-pence-2020-debate-preview-93118021982"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo93118021982"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo93118021982"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/n_joy_debatepreview_201004_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

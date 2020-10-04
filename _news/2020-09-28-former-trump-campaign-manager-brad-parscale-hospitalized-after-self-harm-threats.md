@@ -688,6 +688,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's who has tested positive and negative for Covid-19 in Trump's circle"
+    excerpt: "A least 10 people in President Donald Trump's family, the US government and circle of advisers and recent contacts have recently tested positive for Covid-19.\n    \n"
+    publishedDateTime: 2020-10-04T19:39:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IsydOpCpePM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/trump-circle-covid-cases/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/trump-circle-covid-cases/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004121732-20201004-sunday-morning-covid-positive-negative-cases-v2-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Revelations on Trump's tax returns stoke long-held national security concerns"
     excerpt: "The likelihood that President Donald Trump personally owes unknown creditors hundreds of millions of dollars has raised concerns about how the President's financial entanglements could influence his national security decisions, former officials and experts say.\n    \n"
     publishedDateTime: 2020-09-29T03:06:52Z
@@ -1374,6 +1390,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "2020 Election Live Updates: Trump Campaign Defends President’s Flouting of Public Health Rules"
+    excerpt: "Campaign officials said the president took “reasonable precautions” despite his holding large, mask-free rallies and his derision of masks. Nearly two-thirds of Americans believe the president could have avoided catching the coronavirus,"
+    publishedDateTime: 2020-10-04T18:43:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/04/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/04/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/04/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 138
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/04/business/04election-brieifng-promo/merlin_177879480_b193fe79-406b-4318-9d1c-a5c3b2bc45c2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "18 Revelations From a Trove of Trump Tax Records"
     excerpt: "Times reporters have obtained decades of tax information the president has hidden from public view. Here are some of the key findings."
     publishedDateTime: 2020-09-27T21:18:00Z
@@ -2013,6 +2045,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/30/us/politics/00portsmouth-scrolltest1/merlin_177712542_ffe13476-8ba5-4d11-8075-d4bc1e9798e5-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "'A bit of a red flag': Trump receives steroid treatment for Covid-19"
+    excerpt: "The White House physician said on Sunday that President Donald Trump is now taking another drug for Covid-19, adding to his growing list of treatments for his illness. Dr. Sean Conley said the president was given a steroid called dexamethasone following “two episodes of transient drops in his oxygen saturation,"
+    publishedDateTime: 2020-10-04T18:31:00Z
+    webUrl: "https://www.nbcnews.com/health/health-news/bit-red-flag-trump-receives-steroid-treatment-covid-19-n1242069"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242069"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242069"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_25/3390382/200616-dexamethasone-al-1354_8fa7f50045bd54e384cc04a4191c4926.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "E.P.A. to Promote Lead Testing Rule As Trump Tries to Burnish His Record"
     excerpt: "The E.P.A. will tout a new rule on testing lead in drinking water as President Trump's latest environmental achievement, but water experts see only modest improvements at best."

@@ -425,7 +425,23 @@ related:
         width: 3771
         height: 2514
         isCached: true
+  - title: "Joe Biden surges to 14-point lead against President Donald Trump in national poll after Tuesday’s debate"
+    excerpt: "Joe Biden surged from an 8-point lead to a 14-point lead after the debate, according to the latest Wall Street Journal/NBC News poll."
+    publishedDateTime: 2020-10-04T19:20:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/I6HIPLLATNAHZM6MIDADJ6WHKE.png"
+        width: 1696
+        height: 916
+        isCached: true
 
-secured: "Xb2n/Fb/evGsM1C+Y5xzIzyiOzbwPGGWRw/+N0YeTt1m/KPh1sJ3gwRat8W4x34bUMeSgGQvqvEfGQAYY7g0Qs+Srzhxc33b6nc5/NFSVvY6xccIMfI0O1gMDP81/IzhNNJ3UpO0NcgUshmraE1RmEtkhdtLwQ7O14BwDm9xobV1dJzs5rJhtPct9szJpLn+69HIYvQBFxBVbNseZExiuP/eWd9SJ5S0DNnxLXDGiy41q9WILQ3gzkuwJNnq6n+RjtbblknJGHnf6gV+wMf+VekX/wiK0FCqcUVV5Q27+U2Sl0Lc/H5c11A/8NHQevE335HE08RwnJ5VXUrX/ZVyuL5cJAqA528AqiVPkL8crIc=;VVGxShLNtZRLtVVjhVhN1Q=="
+secured: "V6ScW4SxPSOUNdYQPBapP3Lhp7GJMoIhnV3QBOEAia81mxXlNwbuhziMGGPvkyjYanWhg8fytWAZvU5fFL5EyjiZzGh64C4uTYgGAlVJHDv55d4nJ6ote+kyr8ccbolWRpDebxF/qT3rUqmlswNmK4AOCyc5bvKOtlBc2mMPt4Ahqkf379KiAeKv05XbfAXu9vIE1LN0DkUpnhCkfPVrOFKBOJhiUEaCa+BkbJLrnDnHeoV3Q0cipq+yKG4iWuqMaG7XSWENy/mvsdbSo9SMA4Kx7/BmEGwkagLrmehF3NGLaW0ggFmIySw/BX2OuzbpVHftOSNIPD6HUnm+KhEjDz/ZAGuHUd2Ul+ZzeaaTIO1wUAP2xduPRgh60MVlCCfCKZ5CnFGE59u5jnXu44J2CYvu58tLzaOBd9dD18xwYa6HmL32BUdcVEpWXjYbcNwaHM7GJR1FPCAjzBT6TrIbO4CayikiW+RfFPh8sLp8HLWK5GlkkQGEQCKUOtdZ+1YVcdNPzgyTB9XYkXDG26w9qg==;qboYEDnpBwH26GGiqXsD+g=="
 ---
 

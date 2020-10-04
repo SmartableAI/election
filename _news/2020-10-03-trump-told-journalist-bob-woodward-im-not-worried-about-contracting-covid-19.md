@@ -375,6 +375,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact check: Trump could have been exposed to COVID-19 before Sept. 29 presidential debate"
+    excerpt: "A claim suggesting Trump caught COVID-19 from the 'left' during the Sept. 29 debate is conspiratorial with no basis in fact. We rate it false."
+    publishedDateTime: 2020-10-04T18:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/04/fact-check-trump-could-have-been-exposed-covid-19-before-debate/3608785001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608785001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608785001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/6b35ef4d-e79a-4c45-aa1c-639fa321c900-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5844,3288,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Now that Trump has COVID-19, will shoppers be more compliant with mask mandates at stores?"
     excerpt: "With President Donald Trump testing positive for COVID-19, will shoppers be more willing to mask up before heading into stores?"
     publishedDateTime: 2020-10-02T21:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/supporters-gather-for-prayer-vigil-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trump-supporters-walter-reed1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "A Strange Thing Happened to President Trump's Star on the Hollywood Walk of Fame"
+    excerpt: "While President Donald Trump battles the Wuhan coronavirus at the Walter Reed Medical Center, someone who despises the president decided to destroy his star on the Hollywood Walk of Fame."
+    publishedDateTime: 2020-10-04T18:24:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/a-strange-thing-happened-to-president-trumps-star-on-the-hollywood-walk-of-fame-n2577439"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 60
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2017/52/63d298b0-c2be-4ddf-b084-6001db337308.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "hOXRVGbLMVEQ6tYywoUXAMIf3ZfvHkjy2GHk9sVKsUNiQM6N2wHkvmXd1CUgdhA5yS2vNHsh44ceqts0NTQnczBcf8BmPo9aLCd4yPplZgSJQLpnYX/nJVIRnTU+ryZAiYNib97sOAn29gbvS+j5v+ot0QVDUtKudpV6X5mPgCK1bIOZ5OG4tGLZXM/MWJPIaEn+U+330tkiw+rxnwoihMv7N3yVcJNcEL4Ycv5TEFuN5x5MeUPAeOjT8WRMyPtmVY8DM6dz6NmBCttpFCk3+5sM7/MTA437KIab/v/PSjp3OmiI0uaN9Ilw4TYaEDiGgNQcZB3HMRnMHtKB9D5sSY+g25Utgs7v0RNV5d9DjM8=;HP/IKhqtc51nEukEr4lssA=="

@@ -367,6 +367,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact check: Trump could have been exposed to COVID-19 before Sept. 29 presidential debate"
+    excerpt: "A claim suggesting Trump caught COVID-19 from the 'left' during the Sept. 29 debate is conspiratorial with no basis in fact. We rate it false."
+    publishedDateTime: 2020-10-04T18:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/04/fact-check-trump-could-have-been-exposed-covid-19-before-debate/3608785001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608785001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608785001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/6b35ef4d-e79a-4c45-aa1c-639fa321c900-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5844,3288,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Now that Trump has COVID-19, will shoppers be more compliant with mask mandates at stores?"
     excerpt: "With President Donald Trump testing positive for COVID-19, will shoppers be more willing to mask up before heading into stores?"
     publishedDateTime: 2020-10-02T21:29:00Z
@@ -973,6 +989,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "/WI/VRHN4LT1WndH3VC5me5ll7i/neuisYZZ8UwnJEpqLfIBGkl0wMcpAJVer5F6gU23dXvzFfDZHtHY1j8vNzgvwoB6ifUHS5n8PECUuivI14sgDvDFLbx8QnT6v2g5zVhyZeKBTOSbnPa2fQwt7FuJ50lgJv1AlRSpph1eFC4ssclPSRz5DsYQwrjXXn45BIlHEYM7H/eCCfQNmU6scsEMyZ+63fm/rQC0DOIesO271eP86GfCGlhwA8tei7yl3so3r/GhAsEL+qvSfaOy8/tS8W2eQaL3feiVkBQE9e/QUv2frEo9VazHoMhzwDWy1M+we00e6DZcq5smBL9NN8jqcKQGaFexssiyvtap16A=;sc184Sc3m/eRBrJpoBcsOA=="
+secured: "wIa6tUYYDayacfxEFoRO59PAP0bJ0qxad1dppz6Om9zon5dSMInuA0+OjpdP7fBdpVnNvRFOKbfIo10s8X0nbRZyZAfFt371QgrfrP5+Yv22fCVXSNpmqD/5zV/6GAgk75LewVKkR4JvDbq8J/cCuavLVBTWOTZvfUtHaJBAFbmkrZmU5lpn6YP3c/cY1SmI6hqe9ROw3YecI/F1lUIrIfP6zWWzRuoCsUBRDSHYghqYc3HuVxeWstJO+Loliwp9LOViTQxFp28FML/K2kJomJLQxsQTEo47v/qW4bi9d+hzWKNhus95MgUb7W2tnmMhKDjhCWfWk6+z8rQEXY8Kech6FA1LPul4q5YHDb9XwLczrfqwORiQqVMcOdMXdsy11TvycKNIwQLfI2xDZWi3cysN/NZfinhIkeEHX+2P+/HQTC2Z8yfXPTh/GZZs6yK2EeCMXvGK5uE3BSaB/ZioVJ1mATJRZl2rfTJmLjmPQLtfCx3zzl9jj8V30Ac8OXsYxZsQZv1HqgH1x+6tAJM4lQ==;HYM4mpsnETr5wR3QHpFtWg=="
 ---
 

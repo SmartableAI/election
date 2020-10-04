@@ -79,6 +79,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "A Strange Thing Happened to President Trump's Star on the Hollywood Walk of Fame"
+    excerpt: "While President Donald Trump battles the Wuhan coronavirus at the Walter Reed Medical Center, someone who despises the president decided to destroy his star on the Hollywood Walk of Fame."
+    publishedDateTime: 2020-10-04T18:24:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/a-strange-thing-happened-to-president-trumps-star-on-the-hollywood-walk-of-fame-n2577439"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 60
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2017/52/63d298b0-c2be-4ddf-b084-6001db337308.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jm2PxbI4oj3oqyx8e8NsGL3V7SiPdIuM3PKwzRPTg7Vd5+5hHsPbAtu0S7mJwTEWYY6MjQa2HC3XSmabmkfJioxiFpFOQJh3cezP4sUTLaNLvg6f4XwQBQg+G0mQK12slO3cK7r+Mmty/+U6fFqwCbgxFAkH9D1rL7PoB2SK0r0YR9tMMJoO5qu5FF4BEjHL8g/oPYHMsoiugQham60qUz0Z4rjV+b1OmLRepoC05Zi1t6Y8E3lRJE7cXP73ElMwyCILTKmMfR6lihags1oKs0gm7MdFhsi+3ZynWkOTzKIkR1O8zPkO02BXFfHAFjVt8Wm/rsl6pPdB61iOfjTwMZCn2C3BYsnVzWTvjJ15o+8=;uxdTnCO3qvFvU5WHsZKmRw=="
 ---

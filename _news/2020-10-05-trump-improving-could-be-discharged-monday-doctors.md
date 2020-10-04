@@ -747,6 +747,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's condition improving, received steroid in COVID-19 treatment, doctors say"
+    excerpt: "President Donald Trump's condition is improving as he is being treated for COVID-19 at a military hospital, his medical team said on Sunday, as they provided more details of the toll the lung illness has taken on him."
+    publishedDateTime: 2020-10-04T18:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-test/trumps-covid-19-condition-improving-received-supplemental-oxygen-thursday-and-friday-idUSKBN26P046"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P04A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P04A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536131103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930RX"
+        width: 798
+        height: 545
+        isCached: true
   - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
     excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
     publishedDateTime: 2020-09-21T20:45:00Z
@@ -1582,6 +1598,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "O3fvVruqvYfUHrRYquJ34bdiEUbQ1zzZvfgSguvi8MggAdVRNYiSfs8KlFmBeL1hKTmifLRXANUON7buqWExMaeznhDnqpqeaMpskm0paF5guZxG2fBTuTNE7xez4RweU7PkhuQzSUDhpawKrNnHgQhOyamnC66XLFjmk5/cNETIHOxfHTlogVFTuQEJJ0WlPnh6Mbm3fjMRD/R4EHLZPCHJdFM8tOrigfYLydNBdY/cdV8SOoHdhUyj0pCVz5bIPW7AS/Y5NRK2ClVQJGaVYcuIJsoQSgnJiGFu/JEWAw8CICNfVu3tPsHrf7J+/1ikrFZGPTy4MUD6gD5M8mf67FZONh2snEybkcs0Z12cJR8=;BtF4YBXUMRM9oJSHcDaNeQ=="
+secured: "PkOX/7c4A9+mxHeM78zpbQneS/iOI9XA7rXoQNMgZJSxZvE3WqCQezdZ7LIDc7++7JQaulDhk2EpQz8mP6ic3XzdlX19NyRWC/VVdKHBLIvS7/Ihw5MB3sqRO6DyHSX0MPbu5ecTgVS+uMKO+biZ4NGyP6ifqrvh2yUOQ7IQxcSvKa24xYNym9N0iBoKFUKysG/m96tiE493Ln8khh2tS1nLev8lw0Z6YWv9Wkn2GUmg7F2D1t5vvsMtgmQ4UCN8273/VzUIwTKZNOrBLt7xUJWRgTIjU5Vi69ZJuvuw3aNoi3dGTrkU5xLyvkPldZuJesfrnKddbYFytomuG4RXaPjctkewmcH3J8rCr0g0GIuS3spJKCIDwZA7HL59sAMAVGNl9X1q3JDMbn8z+3zLgjlecdSJ+Nn/D3p7Dis/D/ZrWP7dTFShIZa3idKUVlpSMH31D0waajbwQUHEah87abm0Mc1AmxJ6pWPciXkwP8Xqnjl3Uhu6EZGS2gABl4x7Rj3TOFP6H9vW5R9puiGuLg==;m7vfut9S80JDkywxiys89w=="
 ---
 

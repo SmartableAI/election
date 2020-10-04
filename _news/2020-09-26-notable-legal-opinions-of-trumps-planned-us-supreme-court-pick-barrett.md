@@ -733,6 +733,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's condition improving, received steroid in COVID-19 treatment, doctors say"
+    excerpt: "President Donald Trump's condition is improving as he is being treated for COVID-19 at a military hospital, his medical team said on Sunday, as they provided more details of the toll the lung illness has taken on him."
+    publishedDateTime: 2020-10-04T18:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-test/trumps-covid-19-condition-improving-received-supplemental-oxygen-thursday-and-friday-idUSKBN26P046"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P04A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P04A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536131103&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930RX"
+        width: 798
+        height: 545
+        isCached: true
   - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
     excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
     publishedDateTime: 2020-09-21T20:45:00Z

@@ -429,6 +429,22 @@ related:
         width: 3771
         height: 2514
         isCached: true
+  - title: "Joe Biden surges to 14-point lead against President Donald Trump in national poll after Tuesday’s debate"
+    excerpt: "Joe Biden surged from an 8-point lead to a 14-point lead after the debate, according to the latest Wall Street Journal/NBC News poll."
+    publishedDateTime: 2020-10-04T19:20:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/I6HIPLLATNAHZM6MIDADJ6WHKE.png"
+        width: 1696
+        height: 916
+        isCached: true
 
 secured: "uvZhT8SJBftOKS3E6o9+FpIjd7cUMd8XERMS7daQrsSDeezc3Mw5PYVfeJP7E9oAggO+oL/AyByrrakcNcVRPhesc+iFFq9zWHDOChez5uBGJwy/8wMeH5aOHTYPUMJP5XzmLpe7vG6Mp/q9T6q1HAIrrMEbIP7jcg3U/Cxt82NDIz7ax5idHurO2WLr7nfXfOstGLUGDLh/HsdA2ujptBpe2JcIQCFaguooaCvITe4fFJ7WafrDnvAtctVVfDqn/04MeVuQH2zydes7EWjVHynbBPJT3U/5pkN9sKi5pPk7ebJyxRg+Uhc0bRVd3VBL5IDG54Iy1oKGo5NNmAgRpftZja7j0e97E6p1kH9RyuNQlX37XCydRQKBpuvbD8grW70rJ6ob0pcxXSrQ3zKMU0NpYzKTd3J4Iue3HZ4+0oJcMZBwmJXdnp/W9MX72+jMcUd34oe6i9etisVet9nxciNuOSxOWOsytCQEZzdt7sA7IA/GZTJmqplpaZrkdtkSQmIsvjYdc6VJ4x1+zEiMuQ==;MJTCKpwOMUwUohUi74srHw=="
 ---

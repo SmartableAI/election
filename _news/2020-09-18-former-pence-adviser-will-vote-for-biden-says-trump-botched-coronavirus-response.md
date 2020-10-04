@@ -80,6 +80,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden plans to attend next debate, hopes Trump will be able to participate, campaign says"
+    excerpt: "Democratic presidential nominee Joe Biden will travel to Florida to participate in the next debate and hopes that President Trump will be able to join him despite the president testing positive for the novel coronavirus late last week."
+    publishedDateTime: 2020-10-04T19:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMlnViM9Gsw/biden-plans-to-attend-next-debate-hopes-trump-will-be-able-to-participate-campaign-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plans-to-attend-next-debate-hopes-trump-will-be-able-to-participate-campaign-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plans-to-attend-next-debate-hopes-trump-will-be-able-to-participate-campaign-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump tells UN to hold China accountable for coronavirus pandemic"
     excerpt: "President Trump on Tuesday told the United Nations that it must hold China accountable for its failure to contain the coronavirus in the early days of the pandemic -- and declared the World Health Organization \"controlled\" by Beijing."
     publishedDateTime: 2020-09-22T14:19:51Z
@@ -783,6 +799,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rep. McCarthy rips Pelosi for 'unbecoming' reaction to Trump coronavirus diagnosis: 'rather disgusting'"
+    excerpt: "GOP Leader Rep. Kevin McCarthy recalls a recent conversation with President Trump and discusses developments regarding Russian intelligence."
+    publishedDateTime: 2020-10-04T17:55:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z-cE5aF6Pnc/mccarthy-rips-pelosi-trump-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-rips-pelosi-trump-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-rips-pelosi-trump-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20277668845505.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump campaign senior adviser Steve Cortes says Trump 'upbeat and assertive' after coronavirus diagnosis"
     excerpt: "The president was flown to Walter Reed National Military Medical Center on Friday after testing positive for the coronavirus overnight Thursday into Friday."

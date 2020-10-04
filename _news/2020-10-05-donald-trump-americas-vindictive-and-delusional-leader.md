@@ -1,0 +1,64 @@
+---
+category: news
+title: "Donald Trump: America's Vindictive and Delusional Leader"
+excerpt: "Although arrogant men have often occupied the Oval Office, the nation has never suffered a presidential ego quite so expansive as Donald Trump’s. In his mind, he is the state, his interests indistinguishable from those of the nation."
+publishedDateTime: 2020-10-04T18:12:00Z
+originalUrl: "https://www.realclearpolitics.com/2020/10/04/donald_trump_americas_vindictive_and_delusional_leader_525225.html#!"
+webUrl: "https://www.realclearpolitics.com/2020/10/04/donald_trump_americas_vindictive_and_delusional_leader_525225.html#!"
+type: article
+quality: 65
+heat: -1
+published: false
+
+provider:
+  name: RealClearPolitics
+  domain: realclearpolitics.com
+
+topics:
+  - Election
+  - Donald Trump
+  - Republican Voice
+
+images:
+  - url: "https://assets.realclear.com/images/52/523120_5_.jpg"
+    width: 750
+    height: 500
+    isCached: true
+
+related:
+  - title: "Trump team thinks Nevada is in play. Is it?"
+    excerpt: "The Trump campaign has been hitting Nevada harder than ever this election season, and they seem certain the state might be President Trump’s for the taking this November. "
+    publishedDateTime: 2020-10-02T20:04:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/85pFVFkLklI/trump-team-thinks-nevada-is-in-play-is-it"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/donald-trump-nevada-2-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Wisconsin gov tells Trump to require masks at state rallies — or skip them"
+    excerpt: "Gov. Tony Evers suggested President Trump not come to Wisconsin for two campaign rallies this weekend, as the state struggles with record-breaking numbers of hospitalizations and new coronavirus cases."
+    publishedDateTime: 2020-09-30T20:16:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FfvgpRt-46w/wisconsin-governor-tony-evers-trump-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-governor-tony-evers-trump-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-governor-tony-evers-trump-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+
+secured: "QT+N2MdDA3H3kgwQdcvSMVBtRe7+6eJk059ksN4VsJC1CjvGobLKyYt8gCrlkUsgDDGdWZ0b/aY28OkogqlEt+chcjnUDvDYRNsFTTIh3/56DWSYx6nzLLM+swbykCAImbo3ROFuzX6aBZy25FXJA3COP9c6NYX1Bk2hxvUEYOx/cuH5wo+oGmF0eIOyk65g8fQqY405ddnE07FXPA+Z45U9dV/dkGZaXzVHepGnLCxCdrOY3Wz6VNjwRlTtMfIXfZXD/vziwPNJdef1V56HisusezS08DAjSrlntoi77ibrij+4XByNkmNCnZfxh/t4HJP3VC3KBIUqQlPuO4VSIrUK3sdCxmlKpGvuIooCe6E=;PvVWb7atyXNdfg+ZCBjJ2g=="
+---
+

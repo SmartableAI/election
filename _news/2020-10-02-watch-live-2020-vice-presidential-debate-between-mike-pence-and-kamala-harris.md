@@ -97,6 +97,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sen. Kamala Harris and VP Mike Pence 2020 debate preview"
+    excerpt: "The 2020 vice presidential candidates’ debate, between Democratic candidate Sen. Kamala Harris and Republican incumbent Vice President Mike Pence, will see Pence having to defend the record of the Trump administration,"
+    publishedDateTime: 2020-10-04T18:27:00Z
+    webUrl: "https://www.msnbc.com/am-joy/watch/sen-kamala-harris-and-vp-mike-pence-2020-debate-preview-93118021982"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo93118021982"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo93118021982"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/n_joy_debatepreview_201004_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
     excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
     publishedDateTime: 2020-09-28T21:04:00Z

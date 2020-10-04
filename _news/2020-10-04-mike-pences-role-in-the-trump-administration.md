@@ -2,21 +2,17 @@
 category: news
 title: "Mike Pence's role in the Trump administration"
 excerpt: "Mike Pence's role in the Trump administration has been forced more into the spotlight with the president's illness from coronavirus. Here's a look back at Pence's career."
-publishedDateTime: 2020-10-04T11:55:00Z
-originalUrl: "https://www.usatoday.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
-webUrl: "https://www.usatoday.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
+publishedDateTime: 2020-10-04T13:19:00Z
+originalUrl: "https://www.cincinnati.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
+webUrl: "https://www.cincinnati.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
 type: article
-quality: 120
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -1527,6 +1523,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence ramping up his public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-04T19:07:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3615907001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
     excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"
     publishedDateTime: 2020-09-24T21:49:00Z
@@ -1622,6 +1634,22 @@ related:
       - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228774543-e1601766932483.jpg?quality=65&strip=all"
         width: 4800
         height: 2712
+        isCached: true
+  - title: "Kamala Harris Superfan Is Getting Plastic Surgery To Look More Like Her"
+    excerpt: "In other 2020 news... A 33 year old Houston woman named Cynthia Anne will be undergoing a series of procedures in order to make herself look more like Democratic vice presidential nominee Kamala Harris."
+    publishedDateTime: 2020-10-04T18:45:00Z
+    webUrl: "https://www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 75
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601835602_c78f4d7725bf01ada66dda7b037cc311.jpg/7bac4c72765958e3770472613f1ce7c4/1601835602_35a963e82449ae5c9c997e817819d6d0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
@@ -2000,6 +2028,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "b0pMosboB2I+0o2XmQo1VTNcRsMmQp2Dag3uCpiCGctlDrF1dP5hn+T+qkMtISAU6d/NKXx2llXhlrF6Jup3pLrKSS0cA+Q6AB0rS6qG4+hrJlpezf3F45+CqiH0+CBXxG2pZn2xAvQDylkPNFpPYIa0PbaYMG1jAVgQFJwcb4t/c44Yb3mEyRRRdrsZq/aNxpNz+40q4DjU+svqCuhhdDAtEEG10fwFikAi9DfSGwL79kW5L4yFskaC16apSfCYI1pP6nMIKK1QDbCF9hqhRI0MtN7loeLezfmBC9M8C9SJzhpn+jgNiTInLk/cYseM0AKxgWeWN5UfeWvP2CRl/4vbOX7r0jTzYWmNLZmMFs4=;EhAl7T/cD7fSwOoos5434w=="
+secured: "DdXDhWOH4rxlXyitm9jSNWpK/lS29CAaCWR60D/eIartBZ/R4Me4eL+1BFzEVK2XF/qFuQJjn3ipFTt4jyXGM9D0hwzQQTtRB3szalYsFjNAY6Bt8jFGbNfAYYZrqQlU127iUfSWzNxQULmSL8RQHldIJXyGMzkDMeRvdAt5DSLU7kdVdMCWTXhsbIGb1LydqXc+nwwV8CpdzZun9oLgUAdoefxpKuxlHnWr5OWjik30F0axRv/Oj6x7FeNZLdK0JNKYPhfXLsijl20pX8gcttiWqOKlk78XNYiNURX/QMY6eHhv5L7tkYndKWBF9UiEa3QbY+mW1GSgI1UdWWT0yD96uZorKO34UvjEyuYYwk8=;uGMkhvA3h8QFqi+A40kK9A=="
 ---
 
