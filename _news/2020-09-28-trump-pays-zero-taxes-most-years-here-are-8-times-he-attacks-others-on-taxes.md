@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Eric Trump slated to talk with NY investigators via video"
+    excerpt: "President Donald Trump’s son Eric is scheduled to speak via video on Monday with New York state investigators probing his family’s business practices"
+    publishedDateTime: 2020-10-04T01:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2a0e023fb4df4fcf852406d1c17116bd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The $750 Question: How Trump's Taxes Reveal The Deep Unfairness Of The U.S. Tax Code"
     excerpt: "It also found that for the prior 10 out of 15 years, Trump paid no federal income taxes due to insurmountable losses claimed on his corporate tax returns."
     publishedDateTime: 2020-10-02T15:22:00Z

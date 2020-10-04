@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 2360
+heat: 2380
 published: true
 
 provider:
@@ -1641,6 +1641,22 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/trump_debate_lies.jpg?itok=gbMHZ9zc"
         width: 1260
         height: 560
+        isCached: true
+  - title: "‘SNL’ Kicks Off New Season With POTUS Debate AKA Alec Baldwin’s Trump & Jim Carrey’s Biden Go “Off The Rails.”"
+    excerpt: "As Donald Trump sits in a military hospital receiving treatment for the coronavirus, Saturday Night Live decided to stick with skewering the first Presidential debate of September 29. “Even though"
+    publishedDateTime: 2020-10-04T05:13:00Z
+    webUrl: "https://deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/#!"
+    ampWebUrl: "https://deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-donald-trump-covid-jim-carrey-joe-biden-alec-baldwin-presidential-debate-maya-rudolph-1234590926/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 70
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/snl-s-46-biden-trump-1.jpg?w=1024"
+        width: 1024
+        height: 518
         isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."

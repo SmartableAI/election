@@ -206,6 +206,22 @@ related:
         width: 1200
         height: 677
         isCached: true
+  - title: "‘Saturday Night Live’ returns with Jim Carrey as Joe Biden (video)"
+    excerpt: "Jim Carrey took on the role of Democratic candidate Joe Biden with Alec Baldwin returning to play Trump — a role that earned him an Emmy Award and the president’s ire. “I’ve got the beginning of 46 good ideas that I may or may not have access to."
+    publishedDateTime: 2020-10-04T04:31:00Z
+    webUrl: "https://www.masslive.com/entertainment/2020/10/saturday-night-live-returns-with-jim-carrey-as-joe-biden-video.html"
+    ampWebUrl: "https://www.masslive.com/entertainment/2020/10/saturday-night-live-returns-with-jim-carrey-as-joe-biden-video.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/entertainment/2020/10/saturday-night-live-returns-with-jim-carrey-as-joe-biden-video.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P6GG27TJQZGGVBF4DD7R5XZX4Q.jpg"
+        width: 2576
+        height: 1427
+        isCached: true
   - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
     excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
     publishedDateTime: 2020-10-01T16:10:00Z

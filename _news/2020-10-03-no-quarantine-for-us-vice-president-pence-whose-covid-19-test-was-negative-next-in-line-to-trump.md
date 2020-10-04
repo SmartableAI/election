@@ -3,10 +3,10 @@ category: news
 title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
 excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
 publishedDateTime: 2020-10-03T07:05:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-3-u-s-vice-president-pence-next-in-line-behind-trump-tests-negative-for-covid-19-idUSL1N2GT0VB"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-3-u-s-vice-president-pence-next-in-line-behind-trump-tests-negative-for-covid-19-idUSL1N2GT0VB"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2BS"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2BS"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence-idUSKBN26N226"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence-idUSKBN26N226"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N226"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N226"
 type: article
 quality: 125
 heat: -1
@@ -1907,6 +1907,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "OOW5GQAcHRr+oax+puGcj0rrePFCk3Hh9uiV5cobW3sJ0Zlk75rWXJhgNoXPoWEmaEEvIwN0B+Yke0n1vczDAWKj8y3crf2x/vm8P4ZhApEGfJNb+gjftdOrhirs9muvLBvrF7HKMLTCn8llxUeYAAaEUbHTzaXqq66DelX7wKS6JnrxF/DWYmegrPT4maIKSE99B8JYewAVHLbDLOR97PVuCriBMTYxB9PhrKmhze7IF08OIA15YhCnaVdtmTQqnjJQl3IRjWoOFo6efJzgaJbszZUkTySwXtLsZb+EK60fpERbL+RdzxAUdr1wiKtuaeuTKju5tIxrlCYj08m0dRRB1KBRfpyE3mDSgVSsdI4=;l1Qhrq/mWZUXuPLr2y0aqQ=="
+secured: "UlGYxmX5ToBVMr5SB/M4YSMHj7n3drKH4TObxasr5fHNZjAG9TlBng70+UtXgVi8FTY4h11bsck77LERC13e9pj/RvmIr1prl3eGbotvZC1vj15jrT0uMcv+CsgwKs+p3E48z5uIRxQC/8STSKQ8CuswAz7kyuCvCxBvlLAjAexDT65qTQoh+7owfNuMd0/6RmegePFuooaay7a3eldBZgHGQxS2ncpm8DE9D69V6In5BA28C853Z37JRyHrY9XZZQh8OxlaK+YrcXLV8riiJUIWsWTLI8CsCygJ4lX1LaFGAj3rw90a3qhpHf/fLhdDquGn6aEp/xC1ex2Tw47R6ajZhsZZLJ5P9+T1b98DphA=;YTjP4Hvre7WmimkerHdtKQ=="
 ---
 

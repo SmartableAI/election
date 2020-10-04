@@ -537,9 +537,9 @@ related:
   - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
     excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
     publishedDateTime: 2020-10-03T07:05:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-3-u-s-vice-president-pence-next-in-line-behind-trump-tests-negative-for-covid-19-idUSL1N2GT0VB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2BS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2BS"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence-idUSKBN26N226"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N226"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N226"
     type: article
     provider:
       name: Reuters

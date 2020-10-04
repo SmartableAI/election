@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-75
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/US/WireAP_853c33da0fb54d1f84d43da23887a16e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Eric Trump slated to talk with NY investigators via video"
+    excerpt: "President Donald Trump’s son Eric is scheduled to speak via video on Monday with New York state investigators probing his family’s business practices"
+    publishedDateTime: 2020-10-04T01:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2a0e023fb4df4fcf852406d1c17116bd_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

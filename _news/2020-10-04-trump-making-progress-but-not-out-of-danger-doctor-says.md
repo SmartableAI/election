@@ -3,8 +3,8 @@ category: news
 title: "Trump making progress but not out of danger, doctor says"
 excerpt: "U.S. President Donald Trump is free of fever and improving after being hospitalized with COVID-19 but is not yet out of danger, his physician, Dr. Sean Conley, said late on Saturday."
 publishedDateTime: 2020-10-04T01:51:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-trump-evening-idINKBN26P02D"
-webUrl: "https://www.reuters.com/article/health-coronavirus-trump-evening-idINKBN26P02D"
+originalUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-evening/trump-making-progress-but-not-out-of-danger-doctor-says-idUSKBN26P01Z"
+webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-evening/trump-making-progress-but-not-out-of-danger-doctor-says-idUSKBN26P01Z"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20201004&t=2&i=1536071390&r=LYNXMPEG9301L&w=800"
+  - url: "https://static.reuters.com/resources/r/?m=02&d=20201004&t=2&i=1536069379&r=LYNXMPEG93016&w=800"
     width: 800
-    height: 432
+    height: 499
     isCached: true
 
 related:
@@ -1541,6 +1541,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "fYzb4iTjTwjfVpFrpco7UAvb0OpJFYg286H3WOY1WwLCrU/jJEnHRVXurRf8y2Bo1UUmc+kRtoDhYT5NliuIFpKPJd+ZxOsA8TegLkLKwGF5ty7CmkyksqpjWvxy9lXpLR+NEoj7/7+nGaELy48CLQNcSgNrIqVRna5RC/9OQVh2/qUCBAUVl4whQM5CdAyaVqSaYjyIs9gNEwur67TaN9eIcT6vGiOge2vMAGWlfvs/QJUe1dQCH4sw/vgWeaCW+hKoti/sMww/bwP66Gfw2vc+HvboZ1khWPXExFxj3UWXPW3He+Gr/voBhLTV9v83JSR66D2eNRkimclFnzhbc4Dkup+qiwJYSPUa7LaE2lw=;5lvyLASQo/czlK5jpWdD/Q=="
+secured: "cPobS5uelCln9Qj8W9LR7PlMbbHfGuwq1txCYwfE2ILUFH8TacJ7KIxPUmpT2WsIdl1ASyoeFAzvVnruhW2O5So2aLd6/RfqTmFS1k2pS5YMuBMCV+u36I75tppnhXvyjcp5W69+4Ww/7fGc29+Ga0VTQVVI9Amg0tJlPJc8Kg3+CLi8QeUA0Tu1CZi80MocGtS5ILDLOXJl8xpCR+TCHC3x74hLHKbBQ8CffbHlUZg3LUFkoC+fbpExSiTjyf+H+Q9/UhV/x1fEdp/Rmw/QsooYTLBbFBnaR+3mp1uxLIOvpwgAh7TG/fhWvl3FctyCMGKsbLhmI0DZryCXMxedaNyG2M9GTmErLwyMWOKGWXU=;Ay/Xo1pEDaU7NOQtwf2HYA=="
 ---
 

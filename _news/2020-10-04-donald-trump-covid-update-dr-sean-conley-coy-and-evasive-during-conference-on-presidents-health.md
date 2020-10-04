@@ -287,6 +287,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says 'real test' ahead in his COVID fight after mixed messages from White House"
+    excerpt: "President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" of his treatment for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his condition."
+    publishedDateTime: 2020-10-04T04:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house-idUSKBN26P04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P049"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P049"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536074415&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG93029"
+        width: 1009
+        height: 545
+        isCached: true
   - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
     excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."
     publishedDateTime: 2020-10-02T07:42:00Z
@@ -804,6 +820,6 @@ related:
         height: 1369
         isCached: true
 
-secured: "xTtbLRt0yd7s+qJJ90FhZ/MsE67yEwiPJbjGVALNP+GT6I6RbruIvJXdR9k+7UurDH5fF8MEEyiVIB6rHbbHT0s+y1QcwSOwc9HQ/gBbxfYkrJ0cemeJFVoQN2B33f25B4LTyXsvCGU0ZhS9GkPdMACQamd3Rf/nLhxxQsF8l8mLtgka/s3IS3KIRaj9+QF27LUQnxa7Gxg+lUI2B4WjSjnOJMGfDCGiXYIPSt7g1TeEuoHIa2QRRCELJBDX2+vXjpSX+CQ8+vWyJIvug7IMWeGJNbNVHejK3NIf7lMqULW3GsGynf7qA7jpRNH0E79/HdEa/rThueWbxCHvwVFyf7AdFELM7LvD+iM6TDOeras=;7/upvNeaOEYjIRfRh9Z4oQ=="
+secured: "RWpDtWnQWmATjaYKUFL2M077rayTHY8jLqXTqMBePxhn9f1gFKeYNYccWf0WcuJOXA7MjCEmoKZ4Xnoh7VLsXb8gDUZ6tnGCLA/QqN8zIEvOoBbSXYm8YNGNfmU0SIL13BchPa8PSvF+koL/5Mz6I1Gb9R/6N9nHFZ3tSZugLusbWQmELzM1wHDuPt3vNuEFG+iSBf3IoyOC/0tdE6l6tlGe5WJyXUHW5p5uyiFcIluhdezOFlUY7fgw5bo9MIhfHGapNeLrqWTXbciTexwMUgD3V2AGH0cQ7NOmTJ66WIq+YcTpBfzcBX+iwpr57oy4aOtyqMEzeVefDPB2qlOS5YkPUIXzwqUgCKw+Y7agZWNOMC552TWE1a2yj1WbPC1ucoN6j1QyyT8yhEd+2/OH4mNoTdTRxCr0rhFTAp6We8WQdpiF2xfOiFh1usEPvUpzjAeTgdNvAmO7NuXmKZS61jkwqbkQCF9WOvyDu47KqS39bdebppUe2ICrhlxo75bosP4vjz4pDoldQyN4GMi4ZA==;U41UEv8nQxcLxTs8Hw4H7w=="
 ---
 

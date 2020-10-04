@@ -412,6 +412,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL"
+    excerpt: "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others."
+    publishedDateTime: 2020-10-04T05:23:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/tv/h-aqttywddi-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 127
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cc38a37/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh-aqTtywDDI%2Fhqdefault.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Supreme Court fight could elevate Kamala Harris' profile"
     excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick"
     publishedDateTime: 2020-09-21T19:55:00Z
@@ -2041,6 +2055,22 @@ related:
       - url: "https://www.dailypress.com/resizer/tSDNCSfSA2xd0Kt3wjzuha4geis=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/YZDK27UBWNEDNI3NJYONMLU6XY.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Debuting Joe Biden impression on ‘SNL,’ Jim Carrey hesitates and rallies for self-control"
+    excerpt: "The former VP, in Carrey’s take, urges himself ‘to just stand here and look lucid.’  NBC Jim Carrey unveiled his take on Joe Biden on Saturday, playing the presidential nominee as subdued, hesitant and determined not to lose his temper when provoked by his combative opponent."
+    publishedDateTime: 2020-10-04T04:11:00Z
+    webUrl: "https://chicago.suntimes.com/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 66
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/eX4eH1FqUvdZILA7P1L5_5nqHJg=/0x0:2942x2052/1400x1050/filters:focal(1224x531:1694x1001):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67577730/Screen_Shot_2020_10_03_at_11.20.33_PM.7.png"
+        width: 1400
+        height: 1050
         isCached: true
   - title: "Ruth Bader Ginsburg Makes History One Last Time as Joe Biden, Kamala Harris Pay Their Respects"
     excerpt: "\"It is with profound sorrow and deep sympathy to the Ginsburg family that I have the high honor to welcome Justice Ruth Bader Ginsburg to lie in state in the Capitol of the United"

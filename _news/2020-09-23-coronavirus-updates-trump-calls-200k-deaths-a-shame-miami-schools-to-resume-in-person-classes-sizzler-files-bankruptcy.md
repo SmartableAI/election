@@ -459,6 +459,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Your questions about Trump and COVID-19, answered: Who gave Trump coronavirus? What is the Regeneron antibody 'cocktail'?"
+    excerpt: "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions."
+    publishedDateTime: 2020-10-04T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/02/trump-tests-positive-coronavirus-reader-questions-answers/5893893002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5893893002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5893893002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Campaign Manager, Kellyanne Conway Are Latest To Test Positive For Coronavirus"
     excerpt: "Stepien took over Trump's campaign in July and attended the debate on Tuesday. Although Conway no longer works at the White House, she recently attended an event at the Rose Garden."
     publishedDateTime: 2020-10-03T08:31:00Z

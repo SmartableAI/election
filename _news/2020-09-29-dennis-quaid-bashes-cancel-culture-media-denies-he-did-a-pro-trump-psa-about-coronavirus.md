@@ -967,6 +967,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "The Day Covid-19 Came to Donald Trump's White House"
+    excerpt: "Donald Trump’s calendar for October 1 showed a typical day for the president: time for tweeting in the morning, and a trip to his Bedminster, New Jersey, golf course in the afternoon to raise money for his cash-strapped re-election campaign."
+    publishedDateTime: 2020-10-03T17:17:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/03/the_day_covid-19_came_to_donald_trumps_white_house_525296.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/523075_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "QjUzq7FrqT+ebIogeUzCPmlF+m6eo1e5lLn9Bv7m8t8V7e7J9gwWfYOanqmHP6q8TxvLlXL6JSUGsNO6fllinEY3hSC8PYUP0qcf/pUYPz4dHeUNzcO3qUgDdlg2DC5LLFBv6ydCEZWpux9bP6XSvKIRvDdzo42H/q9NbAtEZbUHi1ds2Cmj2IpCW3FbELDqO0MpxLPtvzes6ptGq6hjmajbdMYxOgE5jqbpQlEN0mLu1ZsHZSTRIkB/9uCAn9Uxeo6Jzu87zMDJoMfEhXHH7hOSqt0JJEz1GD2Nub+Jn+jV2NkUV51iGXshVf+BA8KFiEirGWl2V7xiiaF6EIg2Ygfj+CoojkcQS7AbCj6o5eE=;QOOEd3F8/JiUxYIj66X0pw=="
 ---

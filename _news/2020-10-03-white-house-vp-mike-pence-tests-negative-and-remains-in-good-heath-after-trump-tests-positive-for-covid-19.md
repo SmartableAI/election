@@ -279,6 +279,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says 'real test' ahead in his COVID fight after mixed messages from White House"
+    excerpt: "President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" of his treatment for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his condition."
+    publishedDateTime: 2020-10-04T04:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house-idUSKBN26P04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P049"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P049"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536074415&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG93029"
+        width: 1009
+        height: 545
+        isCached: true
   - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
     excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."
     publishedDateTime: 2020-10-02T07:42:00Z

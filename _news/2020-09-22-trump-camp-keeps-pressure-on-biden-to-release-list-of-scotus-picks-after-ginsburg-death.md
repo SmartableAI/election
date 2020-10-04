@@ -1039,6 +1039,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign blasts Biden for running negative ads while president is hospitalized"
+    excerpt: "President Trump's campaign blasted Joe Biden for continuing to air negative ads while the president is fighting COVID-19 at Walter Reed National Military Medical Center in Maryland."
+    publishedDateTime: 2020-10-04T04:03:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GLYDagILG5U/trump-campaign-blasts-biden-for-running-negative-ads-while-president-is-hospitalized"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-blasts-biden-for-running-negative-ads-while-president-is-hospitalized.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-blasts-biden-for-running-negative-ads-while-president-is-hospitalized.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Debate coach Brett O'Donnell reviews what could trip Trump up during debate with Biden"
     excerpt: "Brett O'Donnell, a top GOP political debate coach said Wednesday that President Trump should be vigilant in his upcoming debate with Joe Biden, by steering clear of certain issues which might tank his White House reelection chances. "
     publishedDateTime: 2020-09-24T00:01:03Z

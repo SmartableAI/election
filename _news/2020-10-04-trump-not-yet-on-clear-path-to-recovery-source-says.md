@@ -1220,16 +1220,16 @@ related:
   - title: "Trump making progress but not out of danger, doctor says"
     excerpt: "U.S. President Donald Trump is free of fever and improving after being hospitalized with COVID-19 but is not yet out of danger, his physician, Dr. Sean Conley, said late on Saturday."
     publishedDateTime: 2020-10-04T01:51:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-evening-idINKBN26P02D"
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-evening/trump-making-progress-but-not-out-of-danger-doctor-says-idUSKBN26P01Z"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201004&t=2&i=1536071390&r=LYNXMPEG9301L&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201004&t=2&i=1536069379&r=LYNXMPEG93016&w=800"
         width: 800
-        height: 432
+        height: 499
         isCached: true
   - title: "Trump to nominate anti-abortion conservative Amy Coney Barrett to replace Ruth Bader Ginsburg on the Supreme Court"
     excerpt: "Barrett's addition to the Court would shift the ideological balance of the Court sharply to the right, giving conservatives a 6-3 majority."

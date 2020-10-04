@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp"
 type: article
 quality: 191
-heat: 1371
+heat: 1391
 published: true
 
 provider:
@@ -966,6 +966,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Dennis20Quaid20RT.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "The Day Covid-19 Came to Donald Trump's White House"
+    excerpt: "Donald Trump’s calendar for October 1 showed a typical day for the president: time for tweeting in the morning, and a trip to his Bedminster, New Jersey, golf course in the afternoon to raise money for his cash-strapped re-election campaign."
+    publishedDateTime: 2020-10-03T17:17:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/03/the_day_covid-19_came_to_donald_trumps_white_house_525296.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/523075_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "NZfIFNtjqWDNAWGdG8gB00pvVfvT3u9GPsL02Asub7xu5QM71GIZgX0Dl7tdB3fqDz+KymgZP7gI7GyviB+08Jrv1Unugw2XOgJGLjxf2RLri0ue6eHZWV69fS7h1N0qy8qztnnN347UwGC9auZklkvKabpIfv6PwIPxRrv8XDyoawUUMjVU2BQQChGm712rwVeg+GDgMRC7MJ5OXa025C5wjmRS32tAm8ZAXLM/e4u68JsL0xKQ24jrXtgFkCK8UIFjokibxccIYVbeuTx+cKE5qBSUQMYtwz84i4+5PvR9n5G+Xd4veG9My2Tr1l6huHKH2+XcOp/oZ1uZl38IgY2kOxCASTJfqRP0VfoggGg=;FHl0dkf+L8Ny9vgz24PAJA=="

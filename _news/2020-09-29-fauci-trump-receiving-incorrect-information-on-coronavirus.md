@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/"
 type: article
 quality: 125
-heat: 785
+heat: 805
 published: true
 
 provider:
@@ -442,6 +442,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f9c98f2a-76c0-49ad-9597-929b4bf1dc43-VPC_TRUMP_COVID_POSITIVE_DESK_THUMB.00_00_00_00.Still001.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Your questions about Trump and COVID-19, answered: Who gave Trump coronavirus? What is the Regeneron antibody 'cocktail'?"
+    excerpt: "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions."
+    publishedDateTime: 2020-10-04T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/02/trump-tests-positive-coronavirus-reader-questions-answers/5893893002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5893893002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5893893002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Coronavirus updates: Trump calls 200K deaths a 'shame'; Miami schools to resume in-person classes; Sizzler files bankruptcy"
     excerpt: "Miami-Dade County schools will return to in-person instruction beginning Oct. 14. Donald Trump says U.S. death toll is \"a shame.\" Latest COVID news."

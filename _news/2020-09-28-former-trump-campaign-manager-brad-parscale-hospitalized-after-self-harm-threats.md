@@ -592,6 +592,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Personal assistant to Trump tests positive for coronavirus"
+    excerpt: "One of the White House aides who works closest to President Donald Trump has tested positive for coronavirus, a White House official confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-10-04T04:19:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kuMOFZOxngc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/nicholas-luna-body-man-trump-positive-test/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/nicholas-luna-body-man-trump-positive-test/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004001356-36-trump-covid-circle-nicholas-luna-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z
@@ -829,6 +845,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002183014-trump-virus-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's alternate reality of Covid-19 crumbles as the White House obfuscates"
+    excerpt: "Some seven months into a pandemic that has killed more than 200,000 Americans, the nation is now facing a grave governing crisis with its commander in chief hospitalized -- his condition hinging on his progress over the coming days -- as the White House events of the past week serve as a textbook example"
+    publishedDateTime: 2020-10-04T05:01:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTTNqiRG08k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003213715-national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx-00000512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1837,6 +1869,54 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/03/us/politics/03dc-virus-lies-pix/03dc-virus-lies-pix-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "'I am feeling well!': Trump gives update on Twitter"
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center on Friday, the same day he announced he and first lady Melania Trump had tested positive for Covid-19. The president was \"doing very well\" and did not require supplemental oxygen,"
+    publishedDateTime: 2020-10-04T03:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "The latest on Trump's Covid-19 diagnosis"
+    excerpt: "President Trump and first lady Melania Trump have both tested positive for Covid-19. Follow here for the latest."
+    publishedDateTime: 2020-10-04T04:00:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/trump-covid-19-updates-sunday/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/trump-covid-19-updates-sunday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/trump-covid-19-updates-sunday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002160118-us-president-donald-trump-walks-from-marine-one-after-arriving-on-the-south-lawn-of-the-white-house-in-washington-dc-october-1-2020-following-campaign-events-in-new-jersey--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Tracking Covid-19 infections among President Donald Trump's contacts"
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center on Friday, the same day he announced he and first lady Melania Trump had tested positive for Covid-19. The president was \"doing very well\" and did not require supplemental oxygen,"
+    publishedDateTime: 2020-10-04T04:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1242000"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump's physician raises questions over diagnosis timeline"
     excerpt: "Dr. Sean Conley raised some significant questions as to when President Donald Trump was diagnosed with the coronavirus."
