@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboar
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vulnerable Republican senators split over Democratic effort to protect pre-existing conditions from Trump administration lawsuit"
+    excerpt: "Vulnerable Republican senators split over a bill to protect those with pre-existing conditions from a Trump administration lawsuit before the Supreme Court next month, underscoring the political potency of the issue as the country begins voting.\n    \n"
+    publishedDateTime: 2020-10-01T19:24:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYJ29H6k4fk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 146
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128102733-01-joni-ernst-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pennsylvania: In a county Trump flipped, Democrats seek voters willing to flip back."
     excerpt: "Democrats are hoping to reverse Mr. Trump’s resounding win four years ago in northeastern Pennsylvania’s Luzerne County, but they have a mountain to clim"
     publishedDateTime: 2020-09-26T13:04:00Z

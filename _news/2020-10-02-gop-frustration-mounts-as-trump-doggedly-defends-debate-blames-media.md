@@ -62,22 +62,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "White House physician to give update on Trump's condition after COVID diagnosis"
-    excerpt: "White House physician Sean Conley will give an update on President Trump’s condition on Saturday, a day after Trump tested positive for COVID-19 and was moved to Walter Reed National Military Medical Center."
-    publishedDateTime: 2020-10-03T14:50:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/033BTYmLTSs/white-house-physician-update-trumps-condition-covid-walter-reed"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-physician-update-trumps-condition-covid-walter-reed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-physician-update-trumps-condition-covid-walter-reed.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "10 guns confiscated from Trump aide Parscale’s home after call from wife: police"
     excerpt: "Police officers confiscated 10 guns from former Trump 2020 campaign manager Brad Parscale's home on Sunday."
     publishedDateTime: 2020-09-28T17:49:44Z

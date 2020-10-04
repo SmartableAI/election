@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-v
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935"
 type: article
 quality: 130
-heat: 130
+heat: 150
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "POLITICO Playbook: Trump will introduce ACB for RBG’s seat"
+    excerpt: "NOW, WE ARE 38 DAYS from Election Day, and at 5 p.m. today, President DONALD TRUMP will introduce AMY CONEY BARRETT as his nominee for the Supreme Court in the Rose Garden. IF ACB IS CONFIRMED, TRUMP and Senate Majority Leader MITCH MCCONNELL will have succeeded in a massive overhaul of the federal judiciary,"
+    publishedDateTime: 2020-09-26T14:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/26/trump-will-introduce-acb-for-rbgs-seat-490449"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/fd/20/809079974eb989686ded0ecfc336/gettyimages-1228692602.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "VCmbXDp6oJPPAV79QBHGdNAi4ftdhsX9ALcYem5EaDlz4rDIGYyqYKmH1PSC1QG4P8We5PH4gteebJ3cIN1tbOq7STTPiSK0epmKN9Nk4vPCABACgVbCdzefsvgOTxQIKjwizGrWvzLfRSGrlbu+Laqd0KN+NWt8m/eUQRv8QcdQRjmu1zQYe3NudUQO06wkAuatdLes2JG2WfwLu3IulQJLQ7Wja7Y6dRE8aVW+mDQTMMuQk3qE6yls/U3sQGFHZ4RyWj6/3Sk39V13Ee2y4H5lNWTGwdf7ahEZmuwzyQsn3wN3J/m2ZRr971w+GnDsu7dj57ntA4rDEVPw6G3aqjmIWx5N3JP8VzdF7oru63I=;L5SChZWvvddHfg8Ftj3upA=="
 ---

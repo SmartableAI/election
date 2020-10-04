@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Former Trump campaign manager Brad Parscale steps down from role as senior adviser"
-    excerpt: "Brad Parscale stepped down from his role as a senior adviser to President Donald Trump's campaign on Wednesday, two sources close to the campaign confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-10-01T01:43:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200430103432-01-brad-parscale-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump taken to Walter Reed medical center and will be hospitalized 'for the next few days'"
     excerpt: "President Donald Trump will be taken to Walter Reed National Military Medical Center, according to the White House.\n    \n"
     publishedDateTime: 2020-10-03T00:47:55Z
@@ -80,49 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Live updates: Trump receives Covid-19 treatment at Walter Reed"
-    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center as what was described as a precautionary measure on Friday, the same day he announced he and wife Melania had tested positive for Covid-19."
-    publishedDateTime: 2020-10-03T07:30:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-10-03-trump-covid-n1241952"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
-    excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
-    publishedDateTime: 2020-10-03T06:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241899"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241899"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417089/201002-donald-trump-cs-405p_f7ec29fb41e9828b420a325e8de84b79.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
-    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
-    publishedDateTime: 2020-10-03T15:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-02-trump-covid-n1241780"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241780"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241780"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 112
 
 secured: "PTGsgs+XTbQhPLypeKZIS03xigYkaqriMdV2hclwJVu19XqmD0moA54rADpI1NbUKFiWw7XifJxMyi2JEbi8NYOEMD+jTSRatr9Kmyr4cxE8SgFZwdx1DNZiTI64dysqMaNLLYY0yk/602w3VpDlm/DnC+gsQUHcGczPbACWaf9UfUqIOGXaIk6VGyMVwQUwP26uaslqclqSDIVvnwoBAZ6uvVorAD1R+ZyJysF1/aU5brA0u4UbylFLErYGSMlGztLyp9mtiJSli27MU4rINpMGSe1aoC7wYzWf33XU70O05mrxMF02NPNgiVcIGdMqFBAfXpiqvAwvcwycg4EUb5MXH5uow6Du1WcE8FeSmV4=;/IoCKuI/+lTvrVa2SlY0gQ=="
 ---

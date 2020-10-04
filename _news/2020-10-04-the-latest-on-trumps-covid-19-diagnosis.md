@@ -800,6 +800,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump furious at chief of staff for contradicting White House physician, sources say"
+    excerpt: "President Donald Trump is furious with chief of staff Mark Meadows after the top West Wing official contradicted the White House physician's assessment Saturday of the President's health, two sources with knowledge of the situation told CNN on Sunday.\n    \n"
+    publishedDateTime: 2020-10-04T17:49:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bOun6CZXDUs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/trump-mark-meadows-chief-of-staff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/trump-mark-meadows-chief-of-staff/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002125747-03-mark-meadows-1002-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump tries to turn first presidential debate into a campaign rally by talking over Biden and steamrolling moderator"
     excerpt: "President Donald Trump heads into Tuesday's first presidential debate trailing former Vice President Joe Biden in the polls and on defense about his handling of a pandemic that has killed more than 200,000 Americans and led some 30 million people to file unemployment claims.\n    \n"
     publishedDateTime: 2020-09-30T01:47:22Z
@@ -1120,6 +1136,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DeWine says White House did not contact him about possible Covid-19 exposure to Ohioans after Trump diagnosis"
+    excerpt: "Ohio Gov. Mike Dewine said Sunday that he has not been contacted by the White House about potential Covid-19 exposure in his state after President Donald Trump tested positive for the virus days after his Cleveland debate.\n    \n"
+    publishedDateTime: 2020-10-04T15:30:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a1O61N_8VG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/ohio-mike-dewine-trump-coronavirus-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/ohio-mike-dewine-trump-coronavirus-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200710125719-mike-dewine-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Wants to Discredit the Election. This Nerd Could Stop Him."
     excerpt: "Fox News, the president’s favored network, will face enormous pressure to call the election for Mr. Trump. The outcome rests on a little-known 65-year-old wonk who will declare the winner."
     publishedDateTime: 2020-09-27T23:18:00Z
@@ -1325,6 +1357,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29vid-debate-trump-2/29vid-debate-trump-2-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Top Trump campaign official ridicules Joe Biden's mask-wearing after president, allies infected"
+    excerpt: "A top adviser to President Donald Trump's campaign on Sunday ridiculed 2020 Democratic presidential nominee Joe Biden's mask-wearing even as President Donald Trump remains hospitalized with Covid-19."
+    publishedDateTime: 2020-10-04T14:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/top-trump-campaign-official-ridicules-joe-biden-s-mask-wearing-n1242041"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242041"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242041"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417375/201004-jason-miller-nbc-mtp-jm-1120_51996a489e320063ba7030e9fc079abf.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "18 Revelations From a Trove of Trump Tax Records"
     excerpt: "Times reporters have obtained decades of tax information the president has hidden from public view. Here are some of the key findings."
@@ -1887,20 +1935,36 @@ related:
         height: 1667
         isCached: true
   - title: "Tracking Covid-19 infections among President Donald Trump's contacts"
-    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center on Friday, the same day he announced he and first lady Melania Trump had tested positive for Covid-19. The president was \"doing very well\" and did not require supplemental oxygen,"
-    publishedDateTime: 2020-10-04T04:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1242000"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    excerpt: "NBC.COM THINK Here's what we know about the Covid-19 status of people who have been around the president recently. What we know: President Donald Trump and first lady Melania Trump tested positive for Covid-19 after White House aide Hope Hicks was diagnosed."
+    publishedDateTime: 2020-10-04T05:18:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/tracking-covid-19-infections-among-president-trump-s-contacts-n1241877"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241877"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241877"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416993/ss-201002-twip-add_314efebf639cb656e4a70228debcce74.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump campaign adviser spars with Chris Wallace over debate"
+    excerpt: "A senior campaign adviser to President Donald Trump accused \"Fox News Sunday\" host Chris Wallace of not being a neutral moderator during last week's presidential debate. \"He had to debate not just Joe Biden,"
+    publishedDateTime: 2020-10-04T14:26:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/trump-debate-wallace-cortes-425992"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/trump-debate-wallace-cortes-425992"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/trump-debate-wallace-cortes-425992"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/66/41/3375f88b4d5190ebda54b2ae25be/200929-chris-wallace-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump's physician raises questions over diagnosis timeline"
     excerpt: "Dr. Sean Conley raised some significant questions as to when President Donald Trump was diagnosed with the coronavirus."
@@ -2326,6 +2390,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump's Covid diagnosis spawned conspiracy theories and showed the limits of 'the resistance'"
+    excerpt: "It has been easy for some liberals to make the fight solely about defeating Donald Trump. But that absolves us of responsibility for what comes after him."
+    publishedDateTime: 2020-10-04T08:35:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-covid-diagnosis-spawned-conspiracy-theories-showed-limits-resistance-ncna1241995"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241995"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241995"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3417239/201003-donald-trump-walter-reed-jm-0944_0c66757de5217988a173bd6472543645.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Connecting Supreme Court, health care, Trump boosts Dems' strategy"
     excerpt: "Trump has decided to mindlessly endorse the Democrats' 2020 framing, telling voters that everything his opponents are saying about health care is true."
     publishedDateTime: 2020-09-28T13:05:00Z
@@ -2508,6 +2588,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump could be discharged as early as Monday, doctors say"
+    excerpt: "President Donald Trump could be discharged “as early as tomorrow” from the hospital as he battles the coronavirus, his medical team said on Sunday, while acknowledging Trump experienced concerning drops in his oxygen saturation levels both Friday and Saturday."
+    publishedDateTime: 2020-10-04T16:27:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/trump-covid-condition-walter-reed-426013"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/3b88a5dc-37a9-4a23-9edc-0b1426d65fb7/42a236c9-0bf5-4bbc-896d-e4b37456e9a3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
     publishedDateTime: 2020-10-02T00:52:00Z
@@ -2658,6 +2752,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "SoPN3dG0KNNHStyvqDFei2PZqLvIH6c/vFrXVIzBTslq8P3zTQyJBiDTVUy3nwkSPH++zoALPpnAC0NB7EpoS9SFhU2rGB50JgBdRXttjLcPCLjO2HnBwIOfEH98pvEYtakOEtqjYtxH34DmxK8KAqjiDu03lIi1SVOnUkWyf68k8CMiUDHMdcG2H4x1aJm3zVVHfqLr6uV6pLhCcFQQ2R3MY6f5zX7F7BooLAEmmjm2d52IIgD9h4WFQ6G1XOSZBwvj9srXGdLD4A/g6Ao7omS2t+lbDnFWyobA8K7+YO+fjfYwlgpqFKDQbL89u0ZGDJUp7aMMBG2QLJetLiIVjYpPgJAlVCoHP1+JjThv4uY=;GTbVrnG2A3DxyVTGc4UshQ=="
+secured: "qKZrEh0RdnSVB0c/KNXRVTjXizmz+YYQyHjP692cJpv5hmEL3NOtx4CvdlJ9nF0zVJLZB5HPoA172ELkSPy6wjBx4h+z9nNySyKDUJaVLY83EKt2SQNp7PWolxrCGyohFsDvEaWT9PBGHC2KgPCoGFrWfiuQXhbu5KO/yY41X6VysVX0eJB7SIc9ct3CafRbUiHvclcEDkWpAPtxEpLuq6C/kHcqpiwkhP3qGGLmyhE22EE4ardAS8uuM8MSClAZpvKqsd+kIZqAKZqVmaWdLHmuSePWik2609WOplli/ZBiFPivxyHstpQ4twUwAG7Y7vbddFriL+epeEBhZb/UX2uROqcQFO94BQCZeEwDdnrqlaqkQiJbdkOWGJznxvXpDLUlvau0F0mBAUDpD+BFVzzpvLkKg8RZAsW4Z5Ns+kUPxaQXTX2q3wmiMSiqYdXPH6w7Ru4EVHL7zn1J9LxnYjnISHMweIuVGU4iiYcHrhWR6Qe+CcJcNY1tRcqL+1zO8Q1zE0m6Hd75ULiWispfZw==;3zRCOoinOKV90+360/2kig=="
 ---
 

@@ -103,6 +103,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump COVID-19 live updates: Bodyman for Trump tests positive"
+    excerpt: "The mystery surrounding President Donald Trump's COVID-19 diagnosis and condition deepened Saturday after confusing and contradictory information from the White House."
+    publishedDateTime: 2020-10-04T12:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Trump-Coronavirus-Twitter-_hpMain_20201004-043059_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
     excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
     publishedDateTime: 2020-10-03T14:47:00Z
@@ -198,6 +214,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1740,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "3 congressmen flew on a commercial Delta flight after a journey on Air Force One with President Trump"
+    excerpt: "The Republican politicians have been criticized after they flew on a Delta flight to Washington DC, hours after Trump tested positive for COVID-19."
+    publishedDateTime: 2020-10-04T15:47:00Z
+    webUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5f79a8fc2400440019129d95?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark"
     excerpt: "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,"
@@ -316,6 +348,26 @@ related:
         width: 2048
         height: 1306
         isCached: true
+  - title: "The Latest: Doctor Giving Trump Health Update Sunday Morning"
+    excerpt: "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19."
+    publishedDateTime: 2020-10-04T15:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "President Makes Progress, Not 'Out of the Woods': Trump Update"
+    excerpt: "President Donald Trump has made “substantial progress” but still isn’t “out of the woods,” his physician Sean Conley said in a Saturday evening update. Trump completed a second dose of Remdesivir and remains fever free,"
+    publishedDateTime: 2020-10-04T17:19:00Z
+    webUrl: "https://www.chron.com/business/article/Johnson-Becomes-Third-Senator-to-Test-Positive-15618806.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 35
 
 secured: "gsXrlShXvao4kdMCNdZIJwv/cLF+xZVGCrHlcdpAtvsSpIfOnEMohxEY4xOYlWKJLOJ5lWNXDvwwvMceFQ7hwpwtYVaNRpQxvVYplVc74Ze/miBLrNhxYp4P/udkGHxET3QgWnqr/T1jamRfyNqkZXNXqTjwoeCAmTCbMgE1FeW775z81bmKkHgIbzEtHGOgfCrZqeHHf7m+Y2tqlVthwyH4jYr6r0p/Noa2tXWUTRr+UOKK6mAFM0wwQMq0xsTrFNUO3+9By9S5/ViRByrvEKt7Kt45rSJnxXGIyrWbhYw1TTvUbZve5Pcqqkn8SP1v4c0RhygWvOLogAaoEDVyXOfKEehem2zTSz0fZ13rBzY7TfhLvJ84DD7rdVYLgmcaUW0hrw4JaplSATap8OP5qtoCRuKKVU+SD/6oPSBmK8TEVT2LGawoZDVK/rJv4/AtCYuMmzkeLzich6MhiKvwabhIPS2X2EIfoQgFpLsN4T00oFr+aZH59pt7EFdCPwtuTYcVCZ1DeMqqrjvXFILv2w==;36cQY67y8yAarX1naX3J8Q=="
 ---

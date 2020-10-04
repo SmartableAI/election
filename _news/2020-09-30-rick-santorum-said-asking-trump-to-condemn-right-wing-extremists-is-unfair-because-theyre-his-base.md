@@ -31,38 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Santorum: Not illegal for Trump 'to do everything he can not to pay taxes'"
-    excerpt: "Former Sen. Rick Santorum (R-Pa.) said in a new interview that it's not illegal for Trump \"to do everything he can not to pay taxes\" while discussin"
-    publishedDateTime: 2020-09-28T22:50:00Z
-    webUrl: "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes"
-    ampWebUrl: "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp"
+  - title: "Trump said to be improving but next 48 hours 'critical'"
+    excerpt: "President Donald Trump says in a video from his hospital quarters that he is feeling better as he battles the novel coronavirus and hopes to “be back soon.”"
+    publishedDateTime: 2020-10-04T06:28:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/santorumrick_092517gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Health/WireAP_d2b4023d2f934b70b528779f972f8185_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "'Too hot': GOP allies urge Trump to change tactics for next debate. It's not clear he'll heed the advice"
-    excerpt: "With some Republican allies giving Trump tepid reviews for his first debate against Biden, the question for his campaign is whether to switch strategy."
-    publishedDateTime: 2020-10-01T21:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-must-decide-whether-change-gears-next-debate-biden/5871363002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5871363002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5871363002"
+  - title: "In First Video From Hospital, Trump Says He Feels ‘Much Better,’ But Next Few Days Will Be ‘The Real Test’"
+    excerpt: "President Donald Trump Saturday night said in a video from Walter Reed Medical Center he is feeling “much better now” after White House officials gave conflicting accounts about his condition throughout the day."
+    publishedDateTime: 2020-10-03T23:54:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
+      name: Forbes
+      domain: forbes.com
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ef4e9e12-fc35-4735-b7c5-3b2479d78a8e-AP_Election_2020_Debate.jpg?auto=webp&crop=4802,2701,x0,y125&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f790ccb33b8b5974bcf95f6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3530%26cropY1%3D179%26cropY2%3D2165"
         width: 1200
         height: 675
         isCached: true
+  - title: "Pandemic overwhelms Trump's message in critical N. Carolina"
+    excerpt: "President Donald Trump is fighting to fill a Supreme Court vacancy, howling with unsubstantiated claims of voter fraud and warning that violent mobs are infiltrating the suburbs."
+    publishedDateTime: 2020-09-28T06:44:00Z
+    webUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Doctors say Trump doing 'very well' at hospital"
     excerpt: "Doctors say US President Donald Trump is doing “very well” as he spends the weekend at a military hospital for treatment of COVID-19. (Oct. 3)"
     publishedDateTime: 2020-10-03T17:30:00Z

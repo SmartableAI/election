@@ -127,6 +127,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "COVID-19 in DC: Who's tested positive and negative so far in Trump's orbit"
+    excerpt: "Since it was revealed that White House adviser Hope Hicks had tested positive for COVID-19, nearly a dozen other cases in Washington, D.C., have come to light -- including that of President Donald Trump."
+    publishedDateTime: 2020-10-04T06:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/covid-19-dc-positive-negative/story?id=73406477"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/covid-19-dc-positive-negative/story?id=73406477"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/covid-19-dc-positive-negative/story?id=73406477"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/hope-hicks-rt-ps-201002_1601616556785_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "For some high-dollar Trump donors, Bedminster hobnobbing now means COVID tests"
+    excerpt: "Several supporters of President Donald Trump who just days before had been toasting him at a fundraiser at his Bedminster, New Jersey, golf club said they are now quarantining themselves and going for coronavirus tests."
+    publishedDateTime: 2020-10-04T16:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/high-dollar-trump-donors-bedminster-hob-knobbing-now/story?id=73409992"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/high-dollar-trump-donors-bedminster-hob-knobbing-now/story?id=73409992"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/high-dollar-trump-donors-bedminster-hob-knobbing-now/story?id=73409992"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-national-bedminster_hpMain_20201003-190841_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Is 'Single Largest Driver' Of Covid-19 Misinformation, Cornell Study Finds"
     excerpt: "Misinformation about the coronavirus is a pressing threat to public health, and according to researchers at Cornell University who analyzed over 38 million articles about the pandemic published in English-language media around the world,"
     publishedDateTime: 2020-10-01T17:03:00Z
@@ -142,6 +174,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f760a8f471ab63c7148ab4f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5765%26cropY1%3D292%26cropY2%3D3537"
         width: 1199
         height: 675
+        isCached: true
+  - title: "White House: VP Mike Pence tests negative and ‘remains in good heath,’ after Trump tests positive for COVID-19"
+    excerpt: "VP Mike Pence tests negative and ‘remains in good heath,’ after Trump tests positive for COVID-19. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-10-02T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19/2020/10/02/64b20a0a-04a7-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19/2020/10/02/64b20a0a-04a7-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19/2020/10/02/64b20a0a-04a7-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump's COVID-19 diagnosis centers presidency and campaign on pandemic: ANALYSIS"
     excerpt: "His silence amid the shockwaves served as a chilling reminder that everything about his presidency -- and perhaps even about the nation's stability -- was suddenly at stake. A presidency that has so often devolved into pettiness and name-calling now confronts a deeply personal crisis that expands into the nation's health and security."
@@ -287,6 +335,22 @@ related:
         width: 1009
         height: 545
         isCached: true
+  - title: "After mixed messages from White House, Trump says 'real test' ahead in his COVID fight"
+    excerpt: "President Donald Trump said from his hospital room on Saturday that he felt \"much better\" but the next few days will be \"the real test\" of his treatment for COVID-19, capping a day of contradictory messages from the White House about his condition."
+    publishedDateTime: 2020-10-04T09:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump/trump-says-next-days-of-covid-19-treatment-will-be-real-test-idUSKBN26O03M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O03M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O03M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536069234&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9301B"
+        width: 1009
+        height: 545
+        isCached: true
   - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
     excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."
     publishedDateTime: 2020-10-02T07:42:00Z
@@ -398,6 +462,38 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76d26c313d5c11f3e9d070%2F0x0.jpg%3FcropX1%3D51%26cropX2%3D831%26cropY1%3D0%26cropY2%3D439"
         width: 780
         height: 439
+        isCached: true
+  - title: "Anatomy of a White House response: Timeline of what officials said about Trump's COVID-19 battle"
+    excerpt: "Since Trump announced he tested positive for COVID-19, the White House has sent mixed signals about his condition. Here's a timeline of what we know."
+    publishedDateTime: 2020-10-04T13:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/04/trump-and-coronavirus-timeline-how-white-house-responded/3609794001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3609794001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3609794001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'This cannot be a partisan moment': Obama, Biden, and the Clintons offer prayers for Trump after he tests positive for COVID-19"
+    excerpt: "\"We wish the President and First Lady a speedy recovery,\" said Hillary Clinton, who competed against President Donald Trump in the 2016 election."
+    publishedDateTime: 2020-10-04T12:01:00Z
+    webUrl: "https://www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f77aec5282c500018c786ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump, 10 others test positive for COVID: A running list of everyone being tested and their results"
     excerpt: "White House officials said Friday that President Donald Trump is feeling only \"mild symptoms\" following the announcement that he and first lady Melania Trump have tested positive for COVID-19. Trump announced his positive test early Friday morning,"
@@ -517,6 +613,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump says 'real test' ahead in his COVID fight"
+    excerpt: "Posted . President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" o"
+    publishedDateTime: 2020-10-04T12:27:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2y2?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f79befce4b04d445762f7a0-1601814268494?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump has better odds against COVID-19 than most Americans because he is white, wealthy, with access to the best care"
     excerpt: "The president's weight, sex, and age put him at high risk of severe COVID-19, but his race, wealth, job, and access to top doctors act in his favor."
     publishedDateTime: 2020-10-02T21:14:00Z
@@ -677,6 +787,22 @@ related:
         width: 2000
         height: 1020
         isCached: true
+  - title: "Corporate America first: Trump fails to un-rig the U.S. economy"
+    excerpt: "In the middle of the last century, a General Motors president told Congress that what was good for GM was good for America and vice versa. As U.S. president, Donald Trump — who as a candidate promised to put the economy back on the side of the little guy — has revised the old saw: What’s good for big business,"
+    publishedDateTime: 2020-10-04T14:48:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/mFC1sYjf2HtE6o-8Z641B3SProM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VG7IIGPOMRFKNPULBIBXSLHQ7E.JPG"
+        width: 1200
+        height: 706
+        isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
     publishedDateTime: 2020-10-02T12:11:00Z
@@ -687,6 +813,22 @@ related:
     provider:
       name: Indianapolis Star
       domain: indystar.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
+    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
+    publishedDateTime: 2020-10-04T11:33:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5892840002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
@@ -819,6 +961,17 @@ related:
         width: 2048
         height: 1369
         isCached: true
+  - title: "Trump Says 'Real Test' Lies Ahead in His COVID-19 Fight"
+    excerpt: "President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" of his treatment for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his condition."
+    publishedDateTime: 2020-10-04T13:18:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-04/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-04/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-04/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "LNCgJCr1LU8vh2VbuQWnstee3w4WeWL4ivnW8pWmoEyDOiz4KxXIws0ClPSH3S55sEx7oVa3ckAxERuBtmGai7OstJ7+jLBSgik3C1RrwHow/hAKdTdaFxcSKAHMeff/ybf5c8WiH8y0n63G6O2Sqf60jVxyxYYhynl5NieSKDOtVRDt9+cKxAKPBblpg3HrdOr9W3yHCZ0deUfj+Wd3w+JvmrpYxpOOWIJ5KKDgPQp+6+JMvGfoxLbiNqw3uRDUkW8E+7NqWoyqZXPqaLBncAGoiqx8SJabQnkmSSB1bX9Hh903iAL2cpFQqVFS0s38vHLzv8wfgzyRjFz2nkCBF0Ui+H9anAXhspaOpuoEC9Z3hJegkiSeXE4P0LLIRJKdvOhd6bCXNZ8wZJ83FFtg4nYjDy9vaA+8vrdnlcYijmrdbYr9cz6KFSs+y0MatCfUoTKnJwBqqfY57vMHr9BOwdOkx2Po2ps71jupFc/BM9J6oGeGseNfe2eLEyYbiQMy2dRDVXtO2u3IPwu6iu7yEw==;riSP/GFqvUM1Eih3AXWI0Q=="
 ---

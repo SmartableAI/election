@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/supporters-gather-for-prayer-vigil-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Hundreds of Trump supporters gather outside Trump Tower in NYC, briefly shut down Fifth Avenue"
+    excerpt: "Hundreds of President Trump supporters lined up outside Trump Tower in New York City early Sunday, briefly shutting down Manhattan’s Fifth Avenue, to show support after the president’s recent coronavirus diagnosis."
+    publishedDateTime: 2020-10-04T16:32:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9WpgNM9QjYI/trump-tower-supporters-coronavirus-nyc"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trump-supporters-walter-reed1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "hOXRVGbLMVEQ6tYywoUXAMIf3ZfvHkjy2GHk9sVKsUNiQM6N2wHkvmXd1CUgdhA5yS2vNHsh44ceqts0NTQnczBcf8BmPo9aLCd4yPplZgSJQLpnYX/nJVIRnTU+ryZAiYNib97sOAn29gbvS+j5v+ot0QVDUtKudpV6X5mPgCK1bIOZ5OG4tGLZXM/MWJPIaEn+U+330tkiw+rxnwoihMv7N3yVcJNcEL4Ycv5TEFuN5x5MeUPAeOjT8WRMyPtmVY8DM6dz6NmBCttpFCk3+5sM7/MTA437KIab/v/PSjp3OmiI0uaN9Ilw4TYaEDiGgNQcZB3HMRnMHtKB9D5sSY+g25Utgs7v0RNV5d9DjM8=;HP/IKhqtc51nEukEr4lssA=="

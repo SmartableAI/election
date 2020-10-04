@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Lessons the American people can learn from President Trump's illness"
+    excerpt: "While the nation waits to see how President Donald Trump will fare as he's treated for COVID-19, doctors say there are lessons to be learned."
+    publishedDateTime: 2020-10-04T11:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/president-donald-trump-covid-19/3615029001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615029001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615029001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PGRF/f813fdac-edea-4378-937a-3e71eb33cc1e-AP20276510432758.jpg?auto=webp&crop=3209,1805,x853,y222&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's performance was a gift to American democracy"
     excerpt: "If Trump’s questionable display brought us one step closer to seeing the reality of who he is and what he means for the country, then Trump unwittingly offered us all a gift — a clarion call to step up now and save democracy itself."
     publishedDateTime: 2020-10-03T19:00:00Z

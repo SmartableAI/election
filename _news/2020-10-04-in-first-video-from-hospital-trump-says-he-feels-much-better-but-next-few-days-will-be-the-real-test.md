@@ -31,21 +31,62 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
-    excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
-    publishedDateTime: 2020-10-03T02:31:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
+  - title: "Trump said to be improving but next 48 hours 'critical'"
+    excerpt: "President Donald Trump says in a video from his hospital quarters that he is feeling better as he battles the novel coronavirus and hopes to “be back soon.”"
+    publishedDateTime: 2020-10-04T06:28:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg"
-        width: 2500
-        height: 1535
+      - url: "https://s.abcnews.com/images/Health/WireAP_d2b4023d2f934b70b528779f972f8185_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Rick Santorum said asking Trump to condemn right-wing extremists is unfair because they're his base"
+    excerpt: "The president had told the right-wing Proud Boys group to \"stand back and stand by\" after host Chris Wallace asked him to denounce white supremacy."
+    publishedDateTime: 2020-09-30T09:14:00Z
+    webUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f7440b10ab50d00184ad31a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pandemic overwhelms Trump's message in critical N. Carolina"
+    excerpt: "President Donald Trump is fighting to fill a Supreme Court vacancy, howling with unsubstantiated claims of voter fraud and warning that violent mobs are infiltrating the suburbs."
+    publishedDateTime: 2020-09-28T06:44:00Z
+    webUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pandemic-overwhelms-trumps-message-in-critical-n-carolina-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Doctors say Trump doing 'very well' at hospital"
+    excerpt: "Doctors say US President Donald Trump is doing “very well” as he spends the weekend at a military hospital for treatment of COVID-19. (Oct. 3)"
+    publishedDateTime: 2020-10-03T17:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/03/doctors-say-trump-doing-very-well-hospital/3609245001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6202483-2d89-4536-b228-2432ce9d25ba_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "TlKVCu8mRyOpnZG/fZj+l/RiOqC2tTjPJzEBrjrfze3LK3nBnTPL3CtCJaQMaMRbgKzZrmnvsrErVot6jxtT+b8UmUqSj/W/pbIgdkdLm8HWz8siE8I5XEEgEvYzNZHCKc6vbc0LBnukeH5LyV4lrU29e6/Jc+lFkTcl6R+NChh9dAUtCGkbp7Qzw6lz+9eVOhj3nP1Pl1iQ+rsRZLDq/Kd+EFduNN0aYP57uuUkyjs0fvJMObMTfbPb3dD+lwNv9Afsadf02zeR31pSqnjVK5AAgY4Lv8MB7jgICywGjMAY0+NtKt4sIwObT+w+t6gAsMXXi6hF2t0nstgaLERBu6VqEnjFVOQVGzkJNuhshDM=;3mIzlVKQlTP5KfydxpWpRA=="

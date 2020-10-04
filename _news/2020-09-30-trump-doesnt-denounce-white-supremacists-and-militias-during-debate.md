@@ -365,6 +365,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
+    excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."
+    publishedDateTime: 2020-10-04T15:12:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3616228001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3616228001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
+    excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."
+    publishedDateTime: 2020-10-04T17:23:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3616228001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3616228001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
     excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
     publishedDateTime: 2020-09-29T17:07:00Z
@@ -380,6 +412,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/Election_2020_Biden_70169-2.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
+    excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."
+    publishedDateTime: 2020-10-03T22:54:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
+        width: 3771
+        height: 2514
         isCached: true
 
 secured: "SEh+sSlw4M/X8xvvhOqfPa+2G3i43S0n9IJvyxAgiDEx2QdGgbKBWi8uJjqcQar6lBZbvcl41wUBo65iZLUcyc3FzaJkAGy+xX9mq+OMnP+8RWoiG+xPu/uKNuUB+a0aD2GqmlMaOptOCODUNht3Y+Rz5zNVsWkMoQSEojcKYxR24wsKTRoCvBKu/+cRz57lcBPK4TBTw1v+eCfpt44PPg6uhnkJVSebuZ9z8WdjThvnaMOWSs2oxY2PyhhnZSGZkuaRzh5pv4poYq87ZOR5tlTX82xVabrL8yuroKy38ktWKHrI7HLO4CGRpXwRrKXCmCxhGFTrI82uq6zNLVwIFctmy5B477Mo7XPAQsF048E=;CFoRVN1gYS6BXLB9dgn22A=="

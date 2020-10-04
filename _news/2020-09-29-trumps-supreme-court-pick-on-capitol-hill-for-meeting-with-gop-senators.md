@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capito
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html"
 type: article
 quality: 174
-heat: 274
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,84 +31,168 @@ images:
     isCached: true
 
 related:
-  - title: "Trump condemns 'all White supremacists' after refusing to do so at presidential debate"
-    excerpt: "President Donald Trump condemned \"all White supremacists\" Thursday evening after pointedly refusing to do so at Tuesday's presidential debate and in the days since.\n    \n"
-    publishedDateTime: 2020-10-02T02:57:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A7HgllHeK_A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html"
+  - title: "Trump campaign adviser claims Biden's mask is a 'prop' as President hospitalized with Covid-19"
+    excerpt: "A senior adviser to President Donald Trump's reelection campaign claimed that Democratic presidential nominee Joe Biden uses face masks as a \"prop,\" two days after the President was hospitalized after contracting the coronavirus.\n    \n"
+    publishedDateTime: 2020-10-04T14:34:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c5tcOMzxGw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 178
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001221501-02-trump-1001-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002150006-01-biden-1002-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump offered Amy Coney Barrett the SCOTUS job less than 72 hours after Ginsburg's death"
-    excerpt: "President Donald Trump offered Judge Amy Coney Barrett the Supreme Court nomination on the same day he met with her, less than 72 hours after the death of Justice Ruth Bader Ginsburg, according to Barrett's Senate questionnaire released Tuesday.\n    \n"
-    publishedDateTime: 2020-09-30T00:51:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM5hGkaX8to/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/barrett-trump-questionnaire/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/barrett-trump-questionnaire/index.html"
+  - title: "Former Trump campaign manager Brad Parscale steps down from role as senior adviser"
+    excerpt: "Brad Parscale stepped down from his role as a senior adviser to President Donald Trump's campaign on Wednesday, two sources close to the campaign confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-10-01T01:43:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929152232-08-barrett-capitol-hill-0929-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200430103432-01-brad-parscale-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's former national security adviser: The President is 'making it easy' for Putin by promoting election conspiracies "
-    excerpt: "President Donald Trump's former national security adviser H.R. McMaster said Tuesday that the President and other lawmakers are \"making it easy\" for Russian President Vladimir Putin by promoting conspiracy theories about US election integrity and Democratic nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-09-22T23:54:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IrZ3KEpHmSM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+  - title: "Trump took photos, had roundtable with donors at Bedminster fundraiser hours before announcing Covid diagnosis"
+    excerpt: "President Donald Trump's big-dollar fundraiser at his New Jersey golf club went on as planned Thursday night despite the President and staff knowing he had been exposed to coronavirus.\n    \n"
+    publishedDateTime: 2020-10-03T19:48:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ig9EkUahAYU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/bedminister-trump-fundraiser-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/bedminister-trump-fundraiser-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003134236-donald-trump-morristown-new-jersey-1001-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Vulnerable Republican senators split over Democratic effort to protect pre-existing conditions from Trump administration lawsuit"
-    excerpt: "Vulnerable Republican senators split over a bill to protect those with pre-existing conditions from a Trump administration lawsuit before the Supreme Court next month, underscoring the political potency of the issue as the country begins voting.\n    \n"
-    publishedDateTime: 2020-10-01T19:24:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYJ29H6k4fk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
+  - title: "Washington Post: Trump considered daughter Ivanka as 2016 vice presidential pick, according to book by former campaign aide"
+    excerpt: "President Donald Trump floated his daughter Ivanka Trump as a vice presidential running mate during the 2016 election, according to a report by The Washington Post on Monday.\n    \n"
+    publishedDateTime: 2020-09-28T12:42:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gg2gCjstCxk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 146
+    quality: 149
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128102733-01-joni-ernst-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181105192613-trump-ivanka-rally-cleveland-ohio-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "POLITICO Playbook: Trump will introduce ACB for RBG’s seat"
-    excerpt: "NOW, WE ARE 38 DAYS from Election Day, and at 5 p.m. today, President DONALD TRUMP will introduce AMY CONEY BARRETT as his nominee for the Supreme Court in the Rose Garden. IF ACB IS CONFIRMED, TRUMP and Senate Majority Leader MITCH MCCONNELL will have succeeded in a massive overhaul of the federal judiciary,"
-    publishedDateTime: 2020-09-26T14:13:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2020/09/26/trump-will-introduce-acb-for-rbgs-seat-490449"
+  - title: "Live updates: Trump receives Covid-19 treatment at Walter Reed"
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center as what was described as a precautionary measure on Friday, the same day he announced he and wife Melania had tested positive for Covid-19."
+    publishedDateTime: 2020-10-03T07:30:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-10-03-trump-covid-n1241952"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Senior adviser: Biden to be tested again Sunday"
+    excerpt: "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly."
+    publishedDateTime: 2020-10-04T16:46:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://static.politico.com/fd/20/809079974eb989686ded0ecfc336/gettyimages-1228692602.jpg"
+      - url: "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg"
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump spends first night at Walter Reed for Covid-19 treatment"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
+    publishedDateTime: 2020-10-03T17:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1241780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416998/201002-trump-coronavirus-live-blog-v1-cs_904f7b984ef5c0d42181c87feca0c72f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
+    excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
+    publishedDateTime: 2020-10-03T06:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241899"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241899"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417089/201002-donald-trump-cs-405p_f7ec29fb41e9828b420a325e8de84b79.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "‘I Don’t Want to Be Attacking the President,’ Joe Biden Says"
+    excerpt: "In a town hall for union workers, Mr. Biden was asked about how he would handle the pandemic, but he said he did not want to take shots at President Trump."
+    publishedDateTime: 2020-10-03T22:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007376626/biden-trump-coronavirus.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/03/us/politics/03election-biden-vidcover/03election-biden-vidcover-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
+    publishedDateTime: 2020-10-03T15:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
+  - title: "2020 Election Live Updates: President Trump Is Hospitalized With Coronavirus"
+    excerpt: "Mr. Trump is currently at the Walter Reed National Military Medical Center in Bethesda, Md., where officials said he will be monitored for “a few days,” strictly as a precaution. Mr."
+    publishedDateTime: 2020-10-03T11:34:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/03/us/trump-vs-biden"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 107
 
 secured: "hr+bSAMK7KQjh7BrfvneAOaK2I8oft2WbMZVUiKpITkjZZFV86jaNF54WKw4V/LID2QIUCib+djTPSOqPvXL7jKABanMYKFIBCzHj8NVw9CGfJmgr9lghgYOpFpUyEmBbiDTOKHJlRoqCQQd+1hudGhZVMdIDnqxkPoHtvzj/fp4JN99EAelVbsWCQPJLkHcV/iuQ+N+5G04jbsap6V5e2kC2RuVr8faY1oDT2eWRVY35My5eJh10q0rumDXI/D3cFvFMWNmMtFdPFXg/oIWl46qxgs9+fhGMq2AJNzb9/quEp6GujX2CzSqK5jELD5Ba4KjC3Ff6wmcKnv8oo/5KOzJcTAXChTV9I3Gfl2TCho=;ZPGwLqXBFvxe/fCBLZxHhg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/fiona-hill-foreign-view-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/fiona-hill-foreign-view-of-us/index.html"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's former national security adviser: The President is 'making it easy' for Putin by promoting election conspiracies "
+    excerpt: "President Donald Trump's former national security adviser H.R. McMaster said Tuesday that the President and other lawmakers are \"making it easy\" for Russian President Vladimir Putin by promoting conspiracy theories about US election integrity and Democratic nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-09-22T23:54:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IrZ3KEpHmSM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ignoring reality, Trump gets Russian interference backward (again)"
     excerpt: "Trump acknowledged Russian interference in our 2016 elections. The bad news: he thinks Russia tried to undermine him, reality be damned."
     publishedDateTime: 2020-09-28T22:40:00Z

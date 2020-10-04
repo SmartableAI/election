@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Putin offers 'sincere support' to Trump after positive COVID-19 test"
-    excerpt: "Russian President Vladimir Putin expressed his “sincere support in this difficult moment\" to President Trump and First Lady Melania Trump after the two tested positive for COVID-19 on Friday."
-    publishedDateTime: 2020-10-02T18:09:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xmq6iDoNKJo/putin-offers-sincere-support-to-trump-after-positive-covid-19-test"
-    ampWebUrl: "https://www.foxnews.com/politics/putin-offers-sincere-support-to-trump-after-positive-covid-19-test.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/putin-offers-sincere-support-to-trump-after-positive-covid-19-test.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Bill Clinton wishes Trump well after COVID diagnosis"
     excerpt: "Former President Bill Clinton and 2016 Democratic nominee Hillary Clinton wished President Trump and Melania Trump well after they tested positive for COVID-19."
     publishedDateTime: 2020-10-03T16:17:43Z

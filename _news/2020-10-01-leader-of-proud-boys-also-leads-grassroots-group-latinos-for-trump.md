@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latino
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "'This election is about Donald Trump, up or down': Focus group pollsters"
+    excerpt: "Peter Hart, Democratic Pollster, Hart Research Associates, and Nicole McCleskey, Republican Pollster, Public Opinion Strategies, talk to Chuck Todd about a post-debate focus group they conducted for Meet the Press."
+    publishedDateTime: 2020-10-04T12:59:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/-this-election-is-about-donald-trump-up-or-down-focus-group-pollsters-93106245716"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93106245716"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93106245716"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_full_focus_201004.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hlb+prD1b6xxgtrbgdSArHe9oivx1hoHGTTt/7PezBPNewmZypNtwAZBKZ9xLrrr1pKnQKZxwtydIp8wHjJV8rS1aZ1Xq6Rh8w7XLeLY1oCdm3CA5f1E+Zlx8Hah0FHEz+eX50ce2iQEsDQsKoPkDUSPLybnc7f6TyVIpqdYpeTIZEp7HbbC9fc5Yp+nudEuBze8FKK1od3isnIqBRdoEvpT3htQOtySlS6Fd9bY+MVN8ECRw08KL938364qk0Qvfh85/YOrEAShPkHXYEKllpSvtMH+DiAOV8HKOZTZ1p5bDCzSREby5qbUdDXsnFVIng8RIQ7saYOrgT55Nz1XuKLi5ThbqucLI3NNPz576xY=;uz8Dfx3ryXgPW0SSDx4dWA=="
 ---

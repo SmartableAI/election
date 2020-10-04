@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ah
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 295
 published: true
 
 provider:
@@ -127,15 +127,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "2020 Election Live Updates: President Trump Is Hospitalized With Coronavirus"
-    excerpt: "Mr. Trump is currently at the Walter Reed National Military Medical Center in Bethesda, Md., where officials said he will be monitored for “a few days,” strictly as a precaution. Mr."
-    publishedDateTime: 2020-10-03T11:34:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/03/us/trump-vs-biden"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 107
 
 secured: "WfwOvzsYk0BPoOzcBQtBdqZnB5+MMYt/ECl8mVQtZ1k3oFfUwI2C4zkwbm1yFUGKT7mJhRDnsLcJ5fZc3bQeTcf2v5x81TglLKQVYaxHmRxG99lnoeJr4dWxP86+9cFJiXumK1TNvRtWKd6E+ZIjx777jai0zogM5cggjkyys34wDqpfGlg1o1m58euuWI12pRSqOCUeiaWjVW4XpZyIA9qISxajYMUMBeHrJgR1J07tdDXFj/TRZ4/xL8YBuVroeLzo9aitUPnd5Kj7NSrHeCkMa3Q0o1V8a281renM3B1ieUB9NqNV7ioEKba1CynG0ponHmtA63skZsp2L7mepSJSh6etNSITOjyUbJBtVxE=;ljmQ6mvUuvulAABwzJFBkQ=="
 ---

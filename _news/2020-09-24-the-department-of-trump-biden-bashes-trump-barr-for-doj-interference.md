@@ -542,6 +542,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden surges ahead of Trump after first debate"
+    excerpt: "Joe Biden leads Donald Trump among registered voters by 14 points, his biggest lead in our poll so far: Oct. 4, 2020"
+    publishedDateTime: 2020-10-04T13:22:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/biden-surges-ahead-of-trump-after-first-debate-93107269908"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93107269908"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93107269908"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_clip_a2_201004_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's winning the voter registration battle against Biden in key states"
     excerpt: "It may not be enough to erase the former VP's polling lead but could boost the president if the race tightens."
     publishedDateTime: 2020-10-01T13:35:00Z

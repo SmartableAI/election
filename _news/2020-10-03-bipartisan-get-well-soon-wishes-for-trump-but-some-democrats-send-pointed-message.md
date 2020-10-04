@@ -48,15 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "‘Fox & Friends’ Trashes Trump for Blowing the Debate Over White Supremacists"
-    excerpt: "Host Brian Kilmeade delivered a rare criticism of Trump, saying he completely failed to deal with Chris Wallace’s challenge to condemn white supremacy."
-    publishedDateTime: 2020-09-30T15:44:00Z
-    webUrl: "https://www.thedailybeast.com/fox-and-friends-trashes-trump-for-blowing-the-debate-over-white-supremacists"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 42
 
 secured: "LpWYLtefSo5lh2p463x22AkzkG66X68Wt5xtB2Mjs4GDBq0ksOo4336W+VzyNYPJQzPGPR+Y4nva/sjbZjYsipqNQS9oUL46UbOIK2lzD5dnu/iqn9lpBq7cjC0Zopzg1KQ7tQfbjtK3CPrPihcr50VvB3KeYGzTmbBBBwyGH8zSijKurtnpHoy4RQAxbRxD8oC9xWrcpYXFhuwGIiUSiUqlsIX7y8YuDChAvNIkBVR3J8fkNQtf7qHhgGsGlZzTQzgdIvw1AnnejV1Bcg5kW9NR6VQMXngldKHihkfOvLFzIs095u6Ia3HYzSDNGvQi6+tPj5DqJ1az+RX9TERW3CasyBvN+CT/iV6nL2hQ9OY=;sb0voxIEHMFIbmrmfOjDkQ=="
 ---

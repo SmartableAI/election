@@ -431,6 +431,22 @@ related:
         width: 1008
         height: 545
         isCached: true
+  - title: "Trump's whirlwind week, disdain for masks, ended with COVID"
+    excerpt: "The week leading up to President Donald Trump's COVID-19 illness was a busy one that placed him often at the center of attention, and close to many other people"
+    publishedDateTime: 2020-10-04T15:31:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/abundance-risk-caution-trumps-diagnosis-73398232"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/abundance-risk-caution-trumps-diagnosis-73398232"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/abundance-risk-caution-trumps-diagnosis-73398232"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_920bba7530054ba69b9cbfb3e936553a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Some textbooks still parrot Donald Trump’s skewed version of U.S. history"
     excerpt: "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history."
     publishedDateTime: 2020-09-24T10:57:00Z
@@ -1248,6 +1264,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "UK PM Johnson, who had COVID, says sure Trump will be fine"
+    excerpt: "British Prime Minister Boris Johnson said on Sunday he was sure U.S. President Donald Trump, who has COVID-19, would be fine and was receiving the best possible care."
+    publishedDateTime: 2020-10-04T09:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-britain-idUSKBN26P0AZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P0AZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P0AZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "President Donald Trump delivers update on his health as he fights COVID-19"
     excerpt: "President Donald Trump thanked Walter Reed National Military Medical Center staff and even cracked a joke about his age."
     publishedDateTime: 2020-10-04T00:22:00Z
@@ -1517,6 +1544,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Improving, Could Be Discharged Monday: Doctors"
+    excerpt: "US President Donald Trump has \"continued to improve\" as he is treated for Covid-19, his doctors said Sunday, revealing he could be discharged as early as Monday. His medical team said his oxygen levels had dropped twice briefly in recent days and he is being treated with steroids,"
+    publishedDateTime: 2020-10-04T17:01:00Z
+    webUrl: "https://www.ibtimes.com/trump-improving-could-be-discharged-monday-doctors-3056521"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/white-house-physician-sean-conley-answers-questions-surrounded.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump Set To Announce Supreme Court Pick, Republicans Eye Quick Confirmation"
     excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg -- and his Republican party vowed a quick vote to confirm the nominee."
     publishedDateTime: 2020-09-22T20:16:00Z

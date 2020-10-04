@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
 type: article
 quality: 164
-heat: 204
+heat: 184
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "‘Fox & Friends’ Trashes Trump for Blowing the Debate Over White Supremacists"
-    excerpt: "Host Brian Kilmeade delivered a rare criticism of Trump, saying he completely failed to deal with Chris Wallace’s challenge to condemn white supremacy."
-    publishedDateTime: 2020-09-30T15:44:00Z
-    webUrl: "https://www.thedailybeast.com/fox-and-friends-trashes-trump-for-blowing-the-debate-over-white-supremacists"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 42
 
 secured: "r+0UOdDD95Dl8V0Tu8j7SZ1biVhR0UArYegfohVLjorGtUBUDeTIxrnEjFJFkcT8LLYK/fk65+UbVVd6nGwX0ipjw3mTdULlIhEpc5+dVxylStqBQ8PopLLoPI/mS0eoENX1WwxD8wyisX82kLRGlDDgVJgEeZihHhiDfc31N5mwP0I0XNuCFFcyjxAbOwC48diozBH/jReEuOGQujKWfxDko+pfLaZOqLWXqV5v58mxafC0Crh+s7x5e3DwOWh+bwzF7IXWdkuo0iAHcs29dtcQGCjX+R1ybvidXAExZGJbxOCQvjApLV8j2tgar8ZRP/lPrp+IALQyBIqP3KPoe7x/A8lE+5du5vN7TyTE3Ns=;bWh2IFCAtEOdJ95JUE9XrA=="
 ---

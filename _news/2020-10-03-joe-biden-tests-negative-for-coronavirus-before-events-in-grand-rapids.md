@@ -179,6 +179,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "What Mike Pence needs to tell us about coronavirus"
+    excerpt: "Vice President Mike Pence was present at the Sept. 26 event at the White House introducing Judge Amy Coney Barrett as President Trump’s Supreme Court nominee. Among the several attendees who have subsequently tested positive for the novel coronavirus are Sen."
+    publishedDateTime: 2020-10-04T14:05:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/04/what-mike-pence-needs-tell-us/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/04/what-mike-pence-needs-tell-us/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/04/what-mike-pence-needs-tell-us/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWTBPOAAIII6XMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Wall Street closes sharply lower as Trump tests positive for coronavirus"
     excerpt: "U.S. stocks closed lower on Friday as news that U.S. President Donald Trump tested positive for COVID-19 put investors in a risk-off mood and added to mounting uncertainties surrounding the looming election."
     publishedDateTime: 2020-10-03T01:21:00Z
@@ -550,6 +566,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
+  - title: "Kanye West Sends Prayers To Donald And Melania Trump After Both Tested Positive For Coronavirus"
+    excerpt: "Kanye West sent well-wishes to President Donald Trump and first lady Melania Trump after they tested positive for COVID-19."
+    publishedDateTime: 2020-10-04T09:40:00Z
+    webUrl: "https://www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370"
+    ampWebUrl: "https://www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kanye-west-sends-prayers-donald-melania-trump-after-both-tested-positive-coronavirus-3056370?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/04/26/donald-trump-kanye-west.jpg"
+        width: 1024
+        height: 759
+        isCached: true
 
 secured: "DQ73s9Cy92/6a4xOrAksXmY8aR+3Xp9CgpkLrAOxqD5immKBS45nsyppJDp1BA1JztiLsTkCEdbiwODOoCa8AT7da2opB1EBqCubbOc6wymqritSSFuUEBcZbDbQMbR75xEms4VegaZjZxQLZgYyCuRcbfLn50kXmKyBIkLiZW5gBe2m/TNtJf8S2rTZ0hPYgrbadrHBMeirHk8S7kijzmXPRDti+2S0OeH3JXI4MRBcHbAPOGL0OTI7nckORhf2/6AF9tziiDUnTroGItkpFJwS94NAJ3zmv3CBJI7NQlTR1Xd9cbJtJxD+TqhjmyqjmfLb2KFK5x8ESdvIbNJczNMSavqISKd4YkcQE1KnXSHEebvS2VKDx6OIjwEgPpadUYMMf3pchh3shx095Tksyp4Oe+PPVdGHLfudnkYZdVLFTUrq4c+bn+DoK5PILB3k2ToiVmtZIrvgZjSkK67JX2eJPj25pdYPSf6By7/JU4CcSbP+d1nvmmoq84Nji2oi1CZcSoP9IBVBsGozcyYoJQ==;FzE5FdAY2fgUI9vMHYSyWA=="
 ---

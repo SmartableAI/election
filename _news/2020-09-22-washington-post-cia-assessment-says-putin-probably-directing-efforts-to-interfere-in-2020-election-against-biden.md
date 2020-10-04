@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/2020-election-cia-putin-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/2020-election-cia-putin-russia-operation-biden/index.html"
 type: article
 quality: 168
-heat: 188
+heat: 168
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Washington Post: Trump considered daughter Ivanka as 2016 vice presidential pick, according to book by former campaign aide"
-    excerpt: "President Donald Trump floated his daughter Ivanka Trump as a vice presidential running mate during the 2016 election, according to a report by The Washington Post on Monday.\n    \n"
-    publishedDateTime: 2020-09-28T12:42:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gg2gCjstCxk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 149
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181105192613-trump-ivanka-rally-cleveland-ohio-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "gDbaYV9UthDwKDrAYL2Ox35O2zLa65UhOcLFDykyIcMWoBXDezFYRmkr6rnQphI8KVQZFf0r4D6MA6GR3jlIWwYuXZuNEZM2CeTbTAj3ZiLI5/RKMgizKdoA26NZk4w0ecGM6KdG7NoJr+tCktoq7KOEYcOkdcKbN2/UfRJ6Aj3/x0XgApwj0VYUIoaHcI+IgFclYdOP3a6Xl/2RNKgMmRwYABt8Vsok9I7P2IrZLmLBN0nZL3FnVI7TQALw+S/MdtZfRYbhgDNq0tvHzNaO0xpZ9PWBfUgrBRlhpOtw16cn3COtkoZfTSEKJzdXH2mLo3oUJxc/5OEv+9d8l8DcKHnBcVtbkp9lbLl/3JW6Nlk=;YYYMzx01+Kaz8FGm1sCjgA=="
 ---

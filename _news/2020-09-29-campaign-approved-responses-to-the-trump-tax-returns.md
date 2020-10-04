@@ -31,225 +31,178 @@ images:
     isCached: true
 
 related:
-  - title: "'It's a shame.' Trump reacts to COVID-19 death toll hitting 200,000"
-    excerpt: "Asked about the 200,000 COVID-19 deaths as reported by Johns Hopkins as he left the White House on Tuesday, Trump said \"it’s a shame.\""
-    publishedDateTime: 2020-09-22T22:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/22/donald-trump-200-000-covid-19-deaths-its-shame/3493983001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3493983001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3493983001"
+  - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
+    excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
+    publishedDateTime: 2020-10-04T11:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608558001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608558001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 139
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/21/USAT/4308ed0f-ac3d-4420-9278-e87feee6b420-AP_Election_2020_Trump_1.jpg?auto=webp&crop=4146,2333,x0,y211&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Factbox: What Trump's taxes are reported to show"
-    excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
-    publishedDateTime: 2020-09-28T05:22:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-factbox-idUSKBN26J00L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J00L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J00L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535135271&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R00I"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Factbox: Reactions to Donald Trump testing positive COVID-19"
-    excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
-    publishedDateTime: 2020-10-02T17:48:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-covid-19-idUSKBN26N0T0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0T0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0T0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535902562&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910JT"
-        width: 1380
-        height: 545
-        isCached: true
-  - title: "Trump calls his handling of pandemic 'phenomenal' as US death toll nears 200K"
-    excerpt: "President Donald Trump on Monday called his handling of the pandemic \"phenomenal\" even as the death toll neared 200,000."
-    publishedDateTime: 2020-09-21T18:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-handling-pandemic-phenomenal-death-toll-nears/story?id=73147130"
+  - title: "Trump's virus hospitalization rocks final stage of campaign"
+    excerpt: "An election year already defined by a cascade of national crises is descending further into uncharted territory, with President Donald Trump heading to a military hospital with the coronavirus after c"
+    publishedDateTime: 2020-10-03T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 122
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/trump-departs-rt-ps-200918_1600461748289_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_386951b5013d4be194086fac35bd2267_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump Says Coronavirus 'Affects Virtually Nobody,' As U.S. Has World's Highest Death Toll"
-    excerpt: "At a campaign event on Monday, Joe Biden struck a different tone to the president, stating the number of dead cannot become \"background noise.\""
-    publishedDateTime: 2020-09-22T07:53:00Z
-    webUrl: "https://www.newsweek.com/trump-covid-virtually-nobody-rally-ohio-1533452"
-    ampWebUrl: "https://www.newsweek.com/trump-covid-virtually-nobody-rally-ohio-1533452?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-covid-virtually-nobody-rally-ohio-1533452?amp=1"
+  - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
+    excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
+    publishedDateTime: 2020-09-30T23:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3585336001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585336001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
     images:
-      - url: "https://d.newsweek.com/en/full/1640302/donald-trump-toledo-express-airport-swanton-ohiogetty.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "‘It affects virtually nobody’: Trump incorrectly claims covid-19 isn’t a risk for young people"
-    excerpt: "In front of a large crowd of mostly maskless supporters not adhering to social distancing in Swanton, Ohio, Trump again publicly downplayed the pandemic."
-    publishedDateTime: 2020-09-22T09:03:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/09/22/trump-coronavirus-young-people/?outputType=amp"
+  - title: "President Trump could be released from hospital as early as Monday, doctors say"
+    excerpt: "The President is reported to be stable and in good spirits at Walter Reed Medical Hospital, while continuing to take doses of the drug, remdesivir."
+    publishedDateTime: 2020-10-04T16:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f79f55b2400440019129dc3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil"
+    excerpt: "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U."
+    publishedDateTime: 2020-09-28T16:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2O3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "The Health 202: Trump tests positive for coronavirus, throwing into chaos final days of campaign"
+    excerpt: "President Trump and first lady Melania Trump have tested positive for the novel coronavirus. The situation is unprecedented and deeply ironic, as the virus Trump downplayed now threatens to upend the remaining 32 days of his campaign."
+    publishedDateTime: 2020-10-02T11:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 112
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7DQDNH4OUI6VMHEGUHE4YGMSE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQADIXAEUEI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Ex-FDA commissioners, including former Trump advisor, warn against White House efforts to 'tip the scales' on COVID-19 vaccine"
-    excerpt: "Trump's first commissioner, and six others, suggest he's manipulating the FDA and undermining trust in any future coronavirus vaccine."
-    publishedDateTime: 2020-09-30T05:41:00Z
-    webUrl: "https://www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9?amp"
+  - title: "Former Trump 2020 campaign manager Brad Parscale hospitalized after threatening to harm himself, police say"
+    excerpt: "Brad Parscale, who served as President Trump's 2020 campaign manager until July, was taken to a mental health facility Sunday night after barricading himself in his home with weapons and threatening to harm himself,"
+    publishedDateTime: 2020-09-28T02:43:00Z
+    webUrl: "https://www.cbsnews.com/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
     images:
-      - url: "https://i.insider.com/5f73ebf174fe5b0018a8e241?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'It's a low bar to be not Donald Trump': Young Democratic activists explain the vision of the future driving first-time voters to the polls"
-    excerpt: "But will movements like March for Our Lives and the global climate strike translate to the ballot box?"
-    publishedDateTime: 2020-09-24T20:09:00Z
-    webUrl: "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/first-time-voters-polls-what-motivates-them-2020-election-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/5f5c2cc5e6ff30001d4e878f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "CDC guidelines discouraging people from getting COVID-19 tests was published by Trump officials despite objections from scientists, report says"
-    excerpt: "The CDC previously denied that the controversial advisory was the result of political meddling, but new evidence from The New Times says otherwise."
-    publishedDateTime: 2020-09-18T13:17:00Z
-    webUrl: "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cdc-coronavirus-testing-guidance-trump-officials-wrote-ignored-scientists-nyt-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/5f649951323fc4001e0d70ba?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump Administration Trampled Over Science Again With COVID Testing Guidance; Report"
-    excerpt: "The CDC revised its guidelines regarding asymptomatic people despite its own scientists’ objections, according to the Times. Well, Trump has said he wanted testing slowed down."
-    publishedDateTime: 2020-09-18T16:50:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/trump-administration-trampled-over-science-again-with-covid-testing-guidance-report/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 68
-    images:
-      - url: "https://media.vanityfair.com/photos/5f64cf97ff5dee9bb494a517/master/pass/Trump9.18.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
-  - title: "Jake Tapper Goes Off to Covid Testing Czar: Trump Is ‘Constantly Undermining Your Message About Mask Wearing’"
-    excerpt: "CNN's Jake Tapper confronted Admiral Brett Giroir, the White House coronavirus testing czar, on Sunday over failures in the U.S. covid response and President Donald Trump \"undermining\""
-    publishedDateTime: 2020-09-20T15:11:00Z
-    webUrl: "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/"
-    ampWebUrl: "https://www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/jake-tapper-goes-off-to-covid-testing-czar-trump-is-constantly-undermining-your-message-about-mask-wearing/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 56
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/tapper-giroir.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/16/46ed62a6-d21e-4da4-9294-4e4cb6a1fd03/thumbnail/1200x630/61375f5315b9085385468e3dada55714/gettyimages-1168366652.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Neighborhood Sign Reminds VP Pence that 200,000 have died to COVID-19"
-    excerpt: "A boy cicycles past a handmade sign that reminds Vice President Mike Pence that the United States has lost 200,000 citizens to the Cocid-19 pandemic, in the Woodley Park neighborhood of Washington, DC on Monday,"
-    publishedDateTime: 2020-09-21T20:38:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c6fb08512518abb48213925c87f65c13/Neighborhood-Sign-Reminds-VP-Pence-that-200000-have-died-to-COVID-19/"
+  - title: "Trump's reported tax methods would be par for the course for the rich, experts say"
+    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to file zero-liability tax returns."
+    publishedDateTime: 2020-09-29T05:56:00Z
+    webUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+  - title: "Hospitalized with COVID-19, Trump thanks supporters, says his 'real test' lies ahead"
+    excerpt: "President Donald Trump tweeted thanks to his supporters on Sunday from the hospital where he is being treated for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his health."
+    publishedDateTime: 2020-10-04T14:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSKBN26P04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P04A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P04A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+  - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
+    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
+    publishedDateTime: 2020-09-28T21:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-taxes-wealth-idUSL1N2GP1TI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GP1TI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GP1TI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+  - title: "EXCLUSIVE: VP Mike Pence tells Channel 2 President Trump won Tuesday’s debate ‘outright’"
+    excerpt: "Vice President Mike Pence is defending President Donald Trump’s performance following Tuesday night’s controversial debate and says he believes Trump won. Channel 2′s Richard Elliot spoke exclusively with Pence following his appearance at the Faith and Freedom Coalition conference that was held Wednesday at the Cobb Galleria Centre."
+    publishedDateTime: 2020-10-01T05:43:00Z
+    webUrl: "https://www.wsbtv.com/news/local/cobb-county/vice-president-pence-coming-metro-atlanta-wednesday/ICA2PVFKNVARLNBA5TGHVYMJOI/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 61
+    images:
+      - url: "https://www.wsbtv.com/resizer/3cU1r-TzlbfDb1z2UP0tv7fNz6s=/1200x628/d1hfln2sfez66z.cloudfront.net/09-30-2020/t_e8de92d95b634a1d89c08251ce986ed7_name_RAW_RE_PENCE_INTERVIEW_frame_27575.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Vice President Mike Pence to visit Iowa Thursday"
+    excerpt: "DES MOINES, Iowa (KWQC) - Vice President Mike Pence will visit Iowa on Thursday, October 1. Pence first plans on delivering remarks at a Trump Administration event in Carter Lake. During the event, he is expected to discuss Iowa’s unemployment rate and jobs."
+    publishedDateTime: 2020-09-28T18:01:00Z
+    webUrl: "https://www.kwqc.com/2020/09/28/vice-president-mike-pence-to-visit-iowa-thursday/"
+    type: article
+    provider:
+      name: KWQC
+      domain: kwqc.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/c6fb08512518abb48213925c87f65c13/PENCE-VIRUS.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Coronavirus: Mike Pence recognizes grim milestone of 200,000 U.S. COVID-19 deaths"
-    excerpt: "President Mike Pence recognized the United States’ grim milestone of reaching 200,000 deaths due to the novel coronavirus. While he did not say the number by name, he described it as a “heartbreaking” moment and milestone,"
-    publishedDateTime: 2020-09-22T22:50:00Z
-    webUrl: "https://globalnews.ca/video/7351936/coronavirus-mike-pence-recognizes-grim-milestone-of-200000-u-s-covid-19-deaths/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 50
-    images:
-      - url: "https://i0.wp.com/media.globalnews.ca/videostatic/news/aofr4b62rg-d7atcfvij0/edit_here.00_00_04_18.Still810.jpg?w=500&quality=70&strip=all"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Google searches to buy chloroquine spiked by 442% following Donald Trump and Elon Musk’s endorsements of the drug for treating COVID-19"
-    excerpt: "A study published in JAMA Internal Medicine suggests that the American public is highly susceptible to endorsements from public leaders regarding unproven COVID-19 drug therapies — even when such drugs have been linked to fatal poisonings."
-    publishedDateTime: 2020-09-20T12:53:00Z
-    webUrl: "https://www.rawstory.com/2020/09/google-searches-to-buy-chloroquine-spiked-by-442-following-donald-trump-and-elon-musks-endorsements-of-the-for-treating-19/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/google-searches-to-buy-chloroquine-spiked-by-442-following-donald-trump-and-elon-musks-endorsements-of-the-for-treating-19/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/google-searches-to-buy-chloroquine-spiked-by-442-following-donald-trump-and-elon-musks-endorsements-of-the-for-treating-19/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 43
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/1667033-origin_1-658x430.jpg"
-        width: 658
-        height: 430
+      - url: "https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/kcB7o0lw_jZrIAo0QwzBwDAxYDg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/47P4UKJBEJG2FECIEDGZ2PJ5YI.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "++kX9I8UJRv+JelgkNK3vhdPQ1mXF26mzBx5SmzxF6Jd56kojJBOux5a02YMi4MY9f63whuclezTlVASAKKwuJotjjl/hKf8dYbdeyedkuE4Z+dTLOvPzZrA0vK0EoqD4W5suZTHS7lyV9E7mQZpswOru0ATyxUrpS2KId3yeqlRGTyyWFjEasWRlteYO4rAp4nUiWHhkRGynuqlFmIth6mNRyKfc4GBFMIHpXy6oNfsQcrSbK9wUVsogSMQfIrhr24L38+QeNiaVoWjbKds6jPEGlgRvPgAJ0vr2ih0aNQPdPZ0YzhLyBiuDNkY64x29LvPgdmaOsOBlI+ndRTLzldtVvEtz305/l0pB4yeU9o=;D7uVEruOobMm4OETOShBnQ=="

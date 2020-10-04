@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's former national security adviser: The President is 'making it easy' for Putin by promoting election conspiracies "
+    excerpt: "President Donald Trump's former national security adviser H.R. McMaster said Tuesday that the President and other lawmakers are \"making it easy\" for Russian President Vladimir Putin by promoting conspiracy theories about US election integrity and Democratic nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-09-22T23:54:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IrZ3KEpHmSM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/mcmaster-trump-putin-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170720095417-01-hr-mcmaster-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "N0HNhU6fHJHBvXj6MnW5/Agy4+C+jgrr3AMoDOoZZDyWXCfxS7wB7TwtbEUGekTWg/5Dxniru6N6higR2wywRFtWBvAglVxHdpX2GPVGRisYzaRFJEjinm2Tw2a6REyS3XUla0/qg2xqh24F3Iog1SUKA4blhnZuiG3TWfdXoI3SGS/pAJ8YMzI0d97NRno8Xz4/io8MLLsgv/42phFfDmCcstt8C6dTyeYE5Sj3KfW/B1AMTz5T0TufZTFy77+AlGDH2DCPYsvlPvRurALgoRAStmZtmuhjIiGDF7ZWh2ULuLKz8CxsoYHFsRlmG9I2Z5ohbIUzFIHWv8q9GSCP/F3BM0gKwhP5p4PmtD/UxO4=;c7ySLw1u6Eb2qRwVNLDH0g=="
 ---

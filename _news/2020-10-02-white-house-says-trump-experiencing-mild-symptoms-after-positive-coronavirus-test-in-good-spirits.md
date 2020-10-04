@@ -271,6 +271,70 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden campaign pledges to disclose the result of every coronavirus test"
+    excerpt: "Joe Biden's campaign pledged to disclose the results of every coronavirus test the Democratic presidential nominee takes in the wake of President Trump's positive COVID-19 diagnosis last week.  "
+    publishedDateTime: 2020-10-04T13:10:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GkBsmAI_XHo/biden-campaign-pledges-to-disclose-the-result-of-every-coronavirus-test"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-pledges-to-disclose-the-result-of-every-coronavirus-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-pledges-to-disclose-the-result-of-every-coronavirus-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5284e193-460b-446f-83b3-021ccec35d0d/7cc4cb76-725a-4613-a702-6275c6ee1d67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Guests at Trump's New Jersey fundraiser dismiss coronavirus concerns"
+    excerpt: "Attendees of President Trump's fundraiser in New Jersey expressed few public concerns about contracting COVID-19 despite potential exposure to the virus during the commander-in-chief's re-election event."
+    publishedDateTime: 2020-10-04T15:05:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6mC-147j_34/guests-at-trumps-new-jersey-fundraiser-dismiss-coronavirus-concerns"
+    ampWebUrl: "https://www.foxnews.com/politics/guests-at-trumps-new-jersey-fundraiser-dismiss-coronavirus-concerns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/guests-at-trumps-new-jersey-fundraiser-dismiss-coronavirus-concerns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8ff68ed0-db08-4b56-9d73-5307027171de/d2f5ceb2-2678-4dc8-a581-c330417e36d7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: President Trump undergoes coronavirus treatment"
+    excerpt: "President Trump released a video from Walter Reed Medical Center Saturday evening, informing Americans that he felt \"much better\" after entering the facility and was committed to defeating the coronavirus."
+    publishedDateTime: 2020-10-04T08:07:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ch3L8JTgvqk/live-updates-president-trump-undergoes-coronavirus-treatment"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-president-trump-undergoes-coronavirus-treatment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-president-trump-undergoes-coronavirus-treatment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eddb0a52-da9c-49eb-b5f1-582148b22a9f/bae9b83b-6eaa-4e08-985b-2b45346ca5f9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump health update expected at Walter Reed Medical Center"
+    excerpt: "President Trump’s medical team is expected to give an update on his health Sunday morning, as members of the White House press pool head to the Walter Reed Medical Center to be briefed on his condition."
+    publishedDateTime: 2020-10-04T15:26:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bPgBX6_YUVA/trump-coronavirus-health-update-sunday-walter-reed"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "After Trump COVID diagnosis, Pentagon says alert levels remain unchanged"
     excerpt: "The U.S. military's command and control structure is 'in no way' affected by the news, DoD says."
     publishedDateTime: 2020-10-02T20:26:16Z
@@ -511,6 +575,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pelosi says she hopes Trump's 'heart will be opened' and he'll change course on coronavirus"
+    excerpt: "House Speaker Nancy Pelosi said Sunday on CBS' \"Face the Nation\" that she hopes the fact President Trump has fallen sick to the coronavirus will cause the White House and congressional Republicans to change their stance on how to handle the pandemic and \"listen to the science\" after Democrats have criticized"
+    publishedDateTime: 2020-10-04T15:50:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3igRFcgLKdM/pelosi-cbs-face-the-nation-trump-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-cbs-face-the-nation-trump-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-cbs-face-the-nation-trump-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump's COVID diagnosis thrusts coronavirus pandemic back to forefront of White House race"
+    excerpt: "While Democratic presidential nominee Joe Biden heads to the crucial battleground state of Florida on Monday, President Trump is hospitalized at Walter Reed National Military Medical Center after being diagnosed with COVID-19."
+    publishedDateTime: 2020-10-04T12:16:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3DQsW6Yy1n4/trump-covid-diagnosis-coronavirus-pandemic-forefront-white-house-race"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-covid-diagnosis-coronavirus-pandemic-forefront-white-house-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-covid-diagnosis-coronavirus-pandemic-forefront-white-house-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20276823992960.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign says president has ‘continuously denounced’ white supremacists, amid criticism"
     excerpt: "The Trump campaign on Tuesday told Fox News that President Trump has “continuously denounced” white supremacists, including during the first presidential debate, when they say he did so “twice.”"
     publishedDateTime: 2020-09-30T05:18:45Z
@@ -623,6 +719,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Giuliani, Trump converse over coronavirus diagnosis: He’s the ‘strongest and healthiest guy I know’"
+    excerpt: "Former New York City Mayor Rudy Giuliani gives an update on President Trump's coronavirus diagnosis."
+    publishedDateTime: 2020-10-04T12:45:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ggWxrtvrulY/giuliani-trump-converse-over-coronavirus-diagnosis-hes-the-strongest-and-healthiest-guy-i-know"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-trump-converse-over-coronavirus-diagnosis-hes-the-strongest-and-healthiest-guy-i-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-trump-converse-over-coronavirus-diagnosis-hes-the-strongest-and-healthiest-guy-i-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20276823992960.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
     excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people."
     publishedDateTime: 2020-09-17T23:37:00Z
@@ -668,6 +780,22 @@ related:
     quality: 159
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump campaign senior adviser Steve Cortes says Trump 'upbeat and assertive' after coronavirus diagnosis"
+    excerpt: "The president was flown to Walter Reed National Military Medical Center on Friday after testing positive for the coronavirus overnight Thursday into Friday."
+    publishedDateTime: 2020-10-04T13:16:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajY4TaizzNY/campaign-steve-cortes-fox-news-sunday-trump-walter-reed-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/campaign-steve-cortes-fox-news-sunday-trump-walter-reed-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/campaign-steve-cortes-fox-news-sunday-trump-walter-reed-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -934,6 +1062,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ivana Trump says ex Donald’s COVID-19 diagnosis is ‘a very difficult time’"
+    excerpt: "The president’s first wife said she’s “going to be afraid until he gets well and he gets out of it” — but she had no doubt about his reelection prospects."
+    publishedDateTime: 2020-10-04T05:57:00Z
+    webUrl: "https://nypost.com/2020/10/04/ivana-trump-says-ex-donalds-covid-19-diagnosis-is-a-very-difficult-time/"
+    ampWebUrl: "https://nypost.com/2020/10/04/ivana-trump-says-ex-donalds-covid-19-diagnosis-is-a-very-difficult-time/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/04/ivana-trump-says-ex-donalds-covid-19-diagnosis-is-a-very-difficult-time/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Ivana_Trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Michael Rapaport roasts President Trump after he contracts coronavirus: 'Bleach it out'"
     excerpt: "Michael Rapaport is known for publicly bashing President Trump online and Friday was no different for the actor as he reacted to the news of the POTUS' positive coronavirus test with a steady stream of insults on Twitter."
     publishedDateTime: 2020-10-02T15:25:00Z
@@ -966,6 +1110,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump's Physician Reveals When Trump Could Be Released From Walter Reed"
+    excerpt: "The doctors at Walter Reed Medical Center on Sunday offered an update on President Donald Trump's battle with the Wuhan coronavirus. According to Dr. Sean Dooley, Trump continues to improve. \"He has remained without fever since Friday morning."
+    publishedDateTime: 2020-10-04T16:25:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/277/eb5d690a-a1de-4c62-bfe4-fcb0669bf3aa.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "The Day Covid-19 Came to Donald Trump's White House"
     excerpt: "Donald Trump’s calendar for October 1 showed a typical day for the president: time for tweeting in the morning, and a trip to his Bedminster, New Jersey, golf course in the afternoon to raise money for his cash-strapped re-election campaign."
     publishedDateTime: 2020-10-03T17:17:00Z
@@ -979,6 +1139,20 @@ related:
       - url: "https://assets.realclear.com/images/52/523075_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Trump Deputy Campaign Manager David Bossie Explains the Campaign's Thoughts on the Second Debate"
+    excerpt: "\"Any reason to believe the debate doesn't happen? Anything going forward that you think change?\" Pete Hegseth, one of the co-hosts of \"Fox and Friends\" asked on Saturday. According to Trump's Deputy Campaign Manager David Bossie,"
+    publishedDateTime: 2020-10-04T14:05:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/trump-deputy-campaign-manager-david-bossie-explains-the-campaigns-thoughts-on-th-n2577433"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 52
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/273/5c52f075-d685-4b81-9987-6db4f37c6c92.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "V6dNVwdSQJLfbMg7FTySIjix/Hul53Pca5o9p2IXpheyBvNf1YiNn1iC8DrtbAjilA2DgRLleLhxyLc9IPQq4OWIGc9D2IOKatxDV58SHERd04ErlGpx8gvJUswDpLqqeu3euRQKD5VzpmuKzq69HNoA1GUG3m+AT2MUYG85Cb+FVz86nFAiPf8mQRYTFbWEnTOkWyDSZ7nUIIXQABzpUdOz8h08oCLVNCvqVXjM0pto+KBQbME/YmN8xgdApwjE+kl8LOS0SMIUHVY+p57JlI6JLz+jUU+dmbnumSWiksrjjynVE0XZJqJ4GwUuVqZkGySsdgqhXUHuBenTHFqlqNL8jAbPTxLRqBOIgHBWG7Y=;rdNfo+7gUgDr4MFnkh9dug=="

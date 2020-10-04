@@ -335,33 +335,20 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
-    excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
-    publishedDateTime: 2020-10-02T13:24:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-incapaci-idUSKBN26N198"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N198"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N198"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 131
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535823594&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910RL"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
-    publishedDateTime: 2020-10-02T19:35:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
+    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
+    publishedDateTime: 2020-10-03T00:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
+        width: 810
+        height: 285
+        isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
     publishedDateTime: 2020-09-25T14:21:00Z
@@ -525,7 +512,7 @@ related:
   - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
     excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
     publishedDateTime: 2020-10-03T07:05:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence-idUSKBN26N226"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence/no-quarantine-for-u-s-vice-president-pence-whose-covid-19-test-was-negative-next-in-line-to-trump-idUSKBN26N226"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N226"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N226"
     type: article
@@ -664,6 +651,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Vice President Mike Pence has 'no concerns' about staying on the campaign trail and debating in person, Trump campaign says"
+    excerpt: "Lawmakers have proposed having a remote debate, but the Trump campaign said Vice President Mike Pence is not worried about contracting the disease."
+    publishedDateTime: 2020-10-04T15:16:00Z
+    webUrl: "https://www.businessinsider.com/pence-has-no-concerns-about-continuing-campaigning-debating-in-person-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/pence-has-no-concerns-about-continuing-campaigning-debating-in-person-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-has-no-concerns-about-continuing-campaigning-debating-in-person-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5f79d950282c500018c7878a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'No wonder I didn't lose my hair!': Trump credits McDonald's fries for his hair"
     excerpt: "Between a flurry of tweets about the coming election, President Donald Trump replied to an article suggesting McDonald's fries might cure baldness."
     publishedDateTime: 2020-10-01T19:29:00Z
@@ -758,6 +761,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence's role in the Trump administration"
+    excerpt: "Mike Pence's role in the Trump administration has been forced more into the spotlight with the president's illness from coronavirus. Here's a look back at Pence's career."
+    publishedDateTime: 2020-10-04T11:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e3bab1f8-81e3-4fd2-b844-0f0af5276b68_poster.jpg?quality=10"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "China had mocked Trump for not taking the pandemic seriously. Now it's very personal."
     excerpt: "China is riveted by news of Trump’s positive coronavirus test, even as senior officials remain reserved in their public comments."
     publishedDateTime: 2020-10-03T13:34:00Z
@@ -835,6 +852,20 @@ related:
       - url: "https://i.insider.com/5f1401c83f73706e8e109b43?width=750&format=jpeg&auto=webp"
         width: 750
         height: 625
+        isCached: true
+  - title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
+    excerpt: "U.S. Vice President Mike Pence speaks, with White House Counsel Pat Cipollone and White House Chief of Staff Mark Meadows behind him, during a meeting with Judge Amy Coney Barrett, U.S. President Dona"
+    publishedDateTime: 2020-10-02T13:24:00Z
+    webUrl: "https://www.reuters.com/news/picture/explainer-how-mike-pence-could-temporari-idUSKBN26N198"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535823594&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG910RL"
+        width: 810
+        height: 540
         isCached: true
   - title: "Pressure mounts on Trump to clearly condemn white supremacy. The White House insists he already has"
     excerpt: "President Donald Trump avoided reporters when departing the White House Thursday as the White House maintains he has nothing to clarify on his stance on white supremacy."
@@ -1063,6 +1094,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mike Pence vs. Kamala Harris: The Most Important Vice Presidential Debate Ever?"
+    excerpt: "As Trump combats Coronavirus, it’s unclear if the presidential debates will proceed. In the event that Trump opts out of the next two debates, the vice presidential debate will be critical, putting pressure on Pence and Harris to persuade supporters to back their respective campaigns."
+    publishedDateTime: 2020-10-04T15:12:00Z
+    webUrl: "https://nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142"
+    ampWebUrl: "https://nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142?amp"
+    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142?amp"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 96
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-09-28T194007Z_595349806_RC2V7J9A8LUP_RTRMADP_3_USA-ELECTION-HARRIS.JPG"
+        width: 1200
+        height: 837
         isCached: true
   - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
     excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
@@ -1432,6 +1479,22 @@ related:
         width: 768
         height: 438
         isCached: true
+  - title: "Mike Pence's lack of quarantining concerns experts after Trump's coronavirus diagnosis"
+    excerpt: "Mike Pence on Saturday tested negative for COVID-19 after President Donald Trump and first lady Melania Trump said they tested positive for the virus."
+    publishedDateTime: 2020-10-04T09:15:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/04/mike-pence-and-covid-why-isnt-vp-isolating-after-exposure-experts-ask/3597974001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3597974001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3597974001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
     excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
     publishedDateTime: 2020-10-03T16:39:00Z
@@ -1445,6 +1508,22 @@ related:
     quality: 77
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence ramping up his public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-04T15:43:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3615907001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -1814,6 +1893,20 @@ related:
       name: The Courier-Mail
       domain: couriermail.com.au
     quality: 47
+  - title: "'Let’s put our shoulders to the wheel': Sen. Kamala Harris arrives in Utah for VP debate"
+    excerpt: "The Democratic vice presidential nominee, California Sen. Kamala Harris, is already in Utah for Wednesday night’s debate with Vice President Mike Pence at the University of Utah."
+    publishedDateTime: 2020-10-03T20:46:00Z
+    webUrl: "https://www.ksl.com/article/50024554/lets-put-our-shoulders-to-the-wheel-sen-kamala-harris-arrives-in-utah-for-vp-debate"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 46
+    images:
+      - url: "https://img.ksl.com/slc/2540/254033/25403361.jpg?filter=ksl/responsive_story_lg"
+        width: 614
+        height: 345
+        isCached: true
   - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight | Charlotte Observer"
     excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
     publishedDateTime: 2020-09-29T14:17:00Z

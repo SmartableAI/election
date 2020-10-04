@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/rXdgDG2TZEI/vp-pence-second-lady-negative-covid-again</loc>
+    <lastmod>2020-10-04T10:52:56-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQQGDZdKZeM/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn</loc>
+    <lastmod>2020-10-04T09:41:56-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c5tcOMzxGw/index.html</loc>
+    <lastmod>2020-10-04T07:34:33-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/</loc>
+    <lastmod>2020-10-04T04:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940</loc>
+    <lastmod>2020-10-04T01:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712</loc>
+    <lastmod>2020-10-03T23:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234</loc>
     <lastmod>2020-10-03T20:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -61,12 +97,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ig9EkUahAYU/index.html</loc>
-    <lastmod>2020-10-03T12:48:23-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980</loc>
     <lastmod>2020-10-03T12:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -105,6 +135,12 @@
   <url>
     <loc>https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX</loc>
     <lastmod>2020-10-03T05:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/10/03/mike-parson-missouri-covid-trump-425741</loc>
+    <lastmod>2020-10-03T04:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -237,6 +273,12 @@
   <url>
     <loc>https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/</loc>
     <lastmod>2020-10-01T20:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A7HgllHeK_A/index.html</loc>
+    <lastmod>2020-10-01T19:57:26-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -433,12 +475,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275</loc>
-    <lastmod>2020-09-30T19:31:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/</loc>
     <lastmod>2020-09-30T18:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -457,20 +493,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/</loc>
-    <lastmod>2020-09-30T16:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJtvqCKvX4s/index.html</loc>
     <lastmod>2020-09-30T15:28:29-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9</loc>
-    <lastmod>2020-09-30T14:40:00-07:00</lastmod>
+    <loc>https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday</loc>
+    <lastmod>2020-09-30T14:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -525,6 +555,12 @@
   <url>
     <loc>https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570</loc>
     <lastmod>2020-09-30T09:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315</loc>
+    <lastmod>2020-09-30T08:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -751,12 +787,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzqe4VLh7as/index.html</loc>
-    <lastmod>2020-09-29T03:05:47-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226</loc>
     <lastmod>2020-09-29T02:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -771,6 +801,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation</loc>
     <lastmod>2020-09-28T21:10:24-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3</loc>
+    <lastmod>2020-09-28T18:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -825,12 +861,6 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/28/business/media/fox-news-trump-taxes.html</loc>
     <lastmod>2020-09-28T10:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3</loc>
-    <lastmod>2020-09-28T09:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

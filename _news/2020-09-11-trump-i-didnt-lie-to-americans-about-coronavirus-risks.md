@@ -128,15 +128,6 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "2020 Election Live Updates: President Trump Is Hospitalized With Coronavirus"
-    excerpt: "Mr. Trump is currently at the Walter Reed National Military Medical Center in Bethesda, Md., where officials said he will be monitored for “a few days,” strictly as a precaution. Mr."
-    publishedDateTime: 2020-10-03T11:34:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/03/us/trump-vs-biden"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 107
 
 secured: "NuzJqaqKl2fPfQ/BzQe4lEOiRGPj7V+bVhpIWuutm+b/Dlrdqg04IoPRgzGo+JFj1QDHXi6IAdru41TRpYLQuKoVDhw3nfxwb6iQibXehbJko5+oYWHP7n91hHhCkrAVJ5qDYEABO6idHY9TkMsAibLWawcHCjHH6tjpoQQzBnYmKseIYUzcbpQ+aiiqeJhE4oVSEvjJQ07zkvLgV8JJd5Xh5fFWjLy/MlIPBCV1tEQaoMWbJLgWA1KNzdnVh1Ffg0OpymEsbNsfTPT+8zpOZuS7nUJwYZn6NIxE3suN0ByxI+TY1s/SLOYUuQmwXsMckveZvgbIiUm+XJ3dp3gezSt3c5mzNgn6QzZl0FvLHB4=;tvdJLqykyCpXcac4QBXdjA=="
 ---

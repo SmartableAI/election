@@ -24,118 +24,175 @@ topics:
   - Democratic Voice
 
 related:
-  - title: "The Point: Trump's coronavirus problem isn't getting better"
-    excerpt: "With just 51 days until the 2020 election, it will be here before you know it. Every Sunday, I deliver to your inbox the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
-    publishedDateTime: 2020-09-13T17:44:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
+  - title: "Trump campaign adviser claims Biden's mask is a 'prop' as President hospitalized with Covid-19"
+    excerpt: "A senior adviser to President Donald Trump's reelection campaign claimed that Democratic presidential nominee Joe Biden uses face masks as a \"prop,\" two days after the President was hospitalized after contracting the coronavirus.\n    \n"
+    publishedDateTime: 2020-10-04T14:34:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c5tcOMzxGw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 178
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002150006-01-biden-1002-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "An 'exhausted' Trump's long path to coronavirus "
-    excerpt: "When President Donald Trump stepped into the dining room of his golf club in New Jersey on Thursday, high-dollar attendees gathered for a fundraiser there thought he seemed a little off.\n    \n"
-    publishedDateTime: 2020-10-02T21:44:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/alEIB7jj-64/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
+  - title: "Trump's Supreme Court pick on Capitol Hill for meeting with GOP senators"
+    excerpt: "President Donald Trump's nominee for the Supreme Court, Judge Amy Coney Barrett, will meet Republican senators throughout Tuesday on Capitol Hill, as the party finalizes plans for a quick confirmation process ahead of the November presidential election.\n    \n"
+    publishedDateTime: 2020-09-29T10:05:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzqe4VLh7as/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002142052-02-trump-melania-0929-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926175044-barrett-for-opinion-roundup-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Trump says his coronavirus deception was Churchillian. Scholars of Churchill say he's wrong"
-    excerpt: "President Donald Trump argued Thursday that his decision to mislead Americans about the severity of the coronavirus threat wasn't just the right thing to do -- it was positively Churchillian.\n    \n"
-    publishedDateTime: 2020-09-13T14:26:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-IcolBZnTA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
+  - title: "Former Trump campaign manager Brad Parscale steps down from role as senior adviser"
+    excerpt: "Brad Parscale stepped down from his role as a senior adviser to President Donald Trump's campaign on Wednesday, two sources close to the campaign confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-10-01T01:43:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911203714-donald-trump-winston-churchill-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200430103432-01-brad-parscale-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: How Donald Trump's indoor campaign rally reveals how little he understands about being president"
-    excerpt: "President Donald Trump's most basic calculation -- in, well, everything he does -- boils down to this: How does this affect me?\n    \n"
-    publishedDateTime: 2020-09-14T20:14:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/js8T5reVyxk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-nevada-rally-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-nevada-rally-2020/index.html"
+  - title: "Trump took photos, had roundtable with donors at Bedminster fundraiser hours before announcing Covid diagnosis"
+    excerpt: "President Donald Trump's big-dollar fundraiser at his New Jersey golf club went on as planned Thursday night despite the President and staff knowing he had been exposed to coronavirus.\n    \n"
+    publishedDateTime: 2020-10-03T19:48:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ig9EkUahAYU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/bedminister-trump-fundraiser-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/bedminister-trump-fundraiser-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 157
+    quality: 155
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914095325-02-trump-rally-nevada-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003134236-donald-trump-morristown-new-jersey-1001-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence aide blasts former coronavirus task force member who criticized Trump"
-    excerpt: "Retired Gen. Keith Kellogg, the vice president’s national security adviser, said he was “not proud of Olivia Troye.”"
-    publishedDateTime: 2020-09-22T15:23:00Z
-    webUrl: "https://www.politico.com/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
+  - title: "Washington Post: Trump considered daughter Ivanka as 2016 vice presidential pick, according to book by former campaign aide"
+    excerpt: "President Donald Trump floated his daughter Ivanka Trump as a vice presidential running mate during the 2016 election, according to a report by The Washington Post on Monday.\n    \n"
+    publishedDateTime: 2020-09-28T12:42:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gg2gCjstCxk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
     type: article
     provider:
-      name: YAHOO!
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181105192613-trump-ivanka-rally-cleveland-ohio-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Live updates: Trump receives Covid-19 treatment at Walter Reed"
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center as what was described as a precautionary measure on Friday, the same day he announced he and wife Melania had tested positive for Covid-19."
+    publishedDateTime: 2020-10-03T07:30:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-10-03-trump-covid-n1241952"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Senior adviser: Biden to be tested again Sunday"
+    excerpt: "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly."
+    publishedDateTime: 2020-10-04T16:46:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
+    type: article
+    provider:
+      name: Politico
       domain: politico.com
-    quality: 148
+    quality: 135
     images:
-      - url: "https://static.politico.com/c0/dd/d809e0514280ba562d91c7a20674/200922-keith-kellogg-ap-773.jpg"
+      - url: "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump: 'I didn't lie' to Americans about coronavirus risks"
-    excerpt: "President Donald Trump on Thursday insisted \"I didn't lie\" to the American public about the severity of coronavirus, despite having told journalist Bob Woodward in March that he'd been ..."
-    publishedDateTime: 2020-09-10T23:25:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-says-he-didn-t-lie-americans-about-coronavirus-risks-n1239809"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239809"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239809"
+  - title: "Trump spends first night at Walter Reed for Covid-19 treatment"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
+    publishedDateTime: 2020-10-03T17:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1241780"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_37/3411237/200910-donald-trump-se-421p_3ef31d1fd5ccf1d27585c0d37ddd77da.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416998/201002-trump-coronavirus-live-blog-v1-cs_904f7b984ef5c0d42181c87feca0c72f.jpg"
         width: 2500
-        height: 1629
+        height: 1250
         isCached: true
-  - title: "From masks to disinfectants: Trump's coronavirus theories"
-    excerpt: "Here are several times that the president downplayed or endorsed theories dismissing the severity of the pandemic."
-    publishedDateTime: 2020-10-02T13:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/masks-disinfectants-trump-s-coronavirus-theories-n1241793"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241793"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241793"
+  - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
+    excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
+    publishedDateTime: 2020-10-03T06:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241899"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241899"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 126
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416925/201003-trump-coronavirus-mn-0740_68feaad9839ca1bbfc3d8938263fd2d6.JPG"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417089/201002-donald-trump-cs-405p_f7ec29fb41e9828b420a325e8de84b79.jpg"
         width: 2500
-        height: 1406
+        height: 1666
         isCached: true
+  - title: "‘I Don’t Want to Be Attacking the President,’ Joe Biden Says"
+    excerpt: "In a town hall for union workers, Mr. Biden was asked about how he would handle the pandemic, but he said he did not want to take shots at President Trump."
+    publishedDateTime: 2020-10-03T22:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007376626/biden-trump-coronavirus.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/03/us/politics/03election-biden-vidcover/03election-biden-vidcover-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
+    publishedDateTime: 2020-10-03T15:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
 
 secured: "Z3Qe7yzNUmncQ9t22fE9klmzmxTYnQIbNusd99u7bvEJJ2NfweKRiky42DiE+YnX/fxNdae2TnQuriKXFOty79j5EVrsKfqFzdx7ugoHdd9ekXZskpBVtziQiy6IqtaRO57zafei76yOEvPevcokghqM8xOJ8Nx4Wop52OtGsnds4UuqUHh1M1jC4mzlPuDhWuvBBbtJq7xq29KsXRS1ep+bskFmkCgiLTfdhg3vNrufrgSoe6VTZclLrbZJNUV8aFXqybz7Ev0JY9vbckycAO/jX51PZq69k9L+11PvYWOzTOjWROxhDS+crWHlx023zRRNdmROad87ijBYUWg5byrxb9+hkg2kP12f369gnXjlYBBtDH+Tmkou9ckmFJjICxv14Qq5AS3AA9CCR6Otc7Us81WJ8f5OLc2DwLB/ZVBv5/plMUUDiBFxQroO1YV3GUOqPnI7NwvS9vIm/kXlX9ZZOARkGFzjkLdmLtu4rJ426vXBAco1EOYEtROGkesou11JN9/95tn6mlsbpNDfOw==;zyM+eT2OnhtQ4lRt3UiO7w=="
 ---

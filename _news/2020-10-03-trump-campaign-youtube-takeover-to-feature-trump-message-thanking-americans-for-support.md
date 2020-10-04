@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hundreds of Trump supporters gather outside Trump Tower in NYC, briefly shut down Fifth Avenue"
+    excerpt: "Hundreds of President Trump supporters lined up outside Trump Tower in New York City early Sunday, briefly shutting down Manhattan’s Fifth Avenue, to show support after the president’s recent coronavirus diagnosis."
+    publishedDateTime: 2020-10-04T16:32:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9WpgNM9QjYI/trump-tower-supporters-coronavirus-nyc"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trump-supporters-walter-reed1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "MCbCto2LHzD1GylNPcU+lAPrGTzMTvpgg6gEctrVxKf4F0fPEn7wrncKEPWsGvEe+RGI9QTPEfgYJ6MIwmx7VS+g2011yoWSV3B07rHRadxvs4ghY6ND0gmDCjnUVaEH+nnslRPQYVad5kaB+UYbbiviGzaWgaUQTj4TlWUwVhIkgW7nI5p1+O+tt5cc2ZniLVQYeyCuNmKYjkW2+w3kWuJFnqLL3sVxE7rNQHMlAWObhirtiPjZn5UizMoWklk/VR2/CY6xpaanJ5fBDEZ8S1sXC3jdQytaMs5Rk/ken0PO+GXI5mEJj4Og4dt+sYvEAAODO4cnUgPVrc6/7SM4NIv2AY/3v7LCDYQIGvXtabc=;4SCH56RRNBy0BiSBQR+Vhg=="
 ---

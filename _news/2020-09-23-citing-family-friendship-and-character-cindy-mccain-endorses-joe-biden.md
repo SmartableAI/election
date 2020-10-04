@@ -905,6 +905,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Supreme Court could threaten Biden agenda"
+    excerpt: "The Supreme Court is looming as a roadblock for Democrats as they plot an ambitious wish list if they gain control of the White House and Congress for the first time in a decade."
+    publishedDateTime: 2020-10-04T11:00:00Z
+    webUrl: "https://thehill.com/homenews/senate/519425-supreme-court-could-threaten-biden-agenda"
+    ampWebUrl: "https://thehill.com/homenews/senate/519425-supreme-court-could-threaten-biden-agenda?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/519425-supreme-court-could-threaten-biden-agenda?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/barrettamyconey_092920gn5_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
     excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
     publishedDateTime: 2020-09-23T14:46:00Z
@@ -1501,6 +1517,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "\"SNL\" Gives Sneak-Peek Of Jim Carrey As Joe Biden, Maya Rudolph As Kamala Harris"
+    excerpt: "Ahead of tomorrow's 'Saturday Night Live' season premiere, the show shared a teaser clip featuring Jim Carrey and Maya Rudolph as Joe Biden and Kamala Harris. S.N.L is returning tomorrow night for its first live episode since the start of the COVID-19 pandemic in March,"
+    publishedDateTime: 2020-10-03T02:53:00Z
+    webUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 85
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601661847_d2b1086c31d907151d23dce6970a5e02.jpg/0232a7f3f125a3597b97b33ed1941b66/1601661847_8938d8a81a9303511c14efe9777758ba.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
     excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
     publishedDateTime: 2020-09-27T17:22:00Z
@@ -1644,6 +1676,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/0e32aD7nMJhR5A4-HXXQ9fDNYag=/0x0:7000x6000/1400x1050/filters:focal(2940x2440:4060x3560):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67553607/1228768908.jpg.0.jpg"
         width: 1400
         height: 1050
+        isCached: true
+  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
+    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
+    publishedDateTime: 2020-10-04T14:23:00Z
+    webUrl: "https://www.jsonline.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3615416001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3615416001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris visiting Flint and Detroit for voter registration push"
     excerpt: "Democratic vice presidential nominee Kamala Harris will visit Flint and Detroit Tuesday on a campaign swing through Michigan. Harris will make her first visit to Michigan since becoming the running mate of Democratic presidential nominee Joe Biden."
@@ -1884,6 +1932,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/democrat-joe-biden-goes-into-his-first-debate.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "What would your tax rate be under Joe Biden's proposed plan?"
+    excerpt: "Presidential candidate Joe Biden has announced that, if elected, his goal will be to make major changes to tax rules, mostly by raising taxes on the wealthy as well as on corporations. In fact, the Penn Wharton model,"
+    publishedDateTime: 2020-10-04T16:00:00Z
+    webUrl: "https://www.azcentral.com/story/money/taxes/2020/10/04/what-would-your-tax-rate-be-under-bidens-plan/114216908/"
+    ampWebUrl: "https://amp.azcentral.com/amp/114216908"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/114216908"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious match-up in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
@@ -2244,6 +2308,17 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Jim Carrey plays Joe Biden in ‘SNL’ season premiere"
+    excerpt: "Live” returned to 30 Rockefeller Plaza this week to kickoff its 46th season featuring host Chris Rock with musical guest Megan Thee Stallion. It was the show’s first live broadcast in over six months after filming from home due to the coronavirus pandemic."
+    publishedDateTime: 2020-10-04T12:39:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/04/arts/jim-carrey-plays-joe-biden-snl-season-premiere/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/04/arts/jim-carrey-plays-joe-biden-snl-season-premiere/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/04/arts/jim-carrey-plays-joe-biden-snl-season-premiere/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "Boorish debate makes clear why Joe Biden is the only choice for president"
     excerpt: "President Donald Trump's outlandishly boorish debate performance showed voters why Joe Biden must be elected this fall. Dignity and an ability to listen are sorely needed in the nation's highest office."
     publishedDateTime: 2020-09-30T22:38:00Z

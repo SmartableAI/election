@@ -47,20 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "‘I Don’t Want to Be Attacking the President,’ Joe Biden Says"
-    excerpt: "In a town hall for union workers, Mr. Biden was asked about how he would handle the pandemic, but he said he did not want to take shots at President Trump."
-    publishedDateTime: 2020-10-03T22:31:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007376626/biden-trump-coronavirus.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/03/us/politics/03election-biden-vidcover/03election-biden-vidcover-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "tdOugd3RS/NhM+j9+NpfAB//MuTNGTjZEFbwAKHKrTTGojvm3psWt9z2al9dvY3IPiza+XTBRBqrOrncXLQ61FaYYR/xBuBhqboQEcyWB1tpOg5zXeEctwVntMb8YzgkEH5mdvRozu56fybTAJzpCYezn8YLwFLm4jhttTsTzPhasddDmZk0s1nV0fFFtsKQ837BuBnga9OOjBJC7/A9Tk2mn4vbwlYSfRb3GrSmz8FiuUiPbuYu9X0fWPbo0sIS493N2dyTI7u3ecNmKrhsNN7Vc8Es2fwfoGb2XbGk/BaFJ7c0UE41Wjoa6OQRvaHW9DCeUGLq0rtsR+FuCbSNRNNkID/9YgwyZtYxkquLuzs=;qRr7fTfEaNC/fjTCEMmfUA=="
 ---
