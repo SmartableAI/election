@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump thanks supporters gathered outside hospital: 'I'm about to make a little surprise visit''"
+    excerpt: "President Trump tweeted out his thanks on Sunday to the supporters who have gathered outside Walter Reed Medical Center in Maryland over the weekend, where the president is battling a case of the novel coronavirus. "
+    publishedDateTime: 2020-10-04T19:57:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-szueN4JBw/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "A Strange Thing Happened to President Trump's Star on the Hollywood Walk of Fame"
     excerpt: "While President Donald Trump battles the Wuhan coronavirus at the Walter Reed Medical Center, someone who despises the president decided to destroy his star on the Hollywood Walk of Fame."
     publishedDateTime: 2020-10-04T18:24:00Z

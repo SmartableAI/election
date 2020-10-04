@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Leaves Hospital To Greet Well-Wishers Outside"
+    excerpt: "Trump left Walter Reed Medical Center, where he is being treated for coronavirus, Sunday and was driven by Secret Service agents past well-wishers who had lined up outside the medical facility, as part of a spontaneous makeshift parade that occurred just hours after doctors disclosed the president had been treated with oxygen and steroids."
+    publishedDateTime: 2020-10-04T21:46:00Z
+    webUrl: "https://www.forbes.com/sites/carlieporterfield/2020/10/04/trump-leaves-hospital-to-greet-well-wishers-outside/"
+    ampWebUrl: "https://www.forbes.com/sites/carlieporterfield/2020/10/04/trump-leaves-hospital-to-greet-well-wishers-outside/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2020/10/04/trump-leaves-hospital-to-greet-well-wishers-outside/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a3edb67b18f569170968c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D156%26cropY2%3D1844"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Trump could be released from hospital as early as Monday, doctors say"
     excerpt: "The President is reported to be stable and in good spirits at Walter Reed Medical Hospital, while continuing to take doses of the drug, remdesivir."
     publishedDateTime: 2020-10-04T16:25:00Z
@@ -220,6 +236,17 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump Leaves Hospital Briefly to Greet Supporters Outside"
+    excerpt: "President Donald Trump briefly left the hospital Sunday in his car to wave to supporters gathered outside. The president's visit came shortly after he promised his supporters “a surprise” in a video posted a video on social media."
+    publishedDateTime: 2020-10-04T21:47:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "x2hM4HsdekJgpijR1o1G5xGCgMWgy2RUetnkRQITQfaj0TSXn745oAtxAxLK2QaW2+P4rWc7e3eR1oPP+bmF61hQg/fakDED8U2gfwAreco676f1Xt2NtG9hHhlrTzp6q4IK/DZdfyptV3+gbMIR4scCnfLC9A3omMncHrkMN/co0Ik0KhdU6M87m4LKo9DtUwHUGOS90+N0faOmDLxaczD6DP50gh7e1P0lQ+b6QxUM+KmRJU0zvuU5l2vsLjEjTcqsgj0sOSTKcA5RokfZtoPFLNzH6bejLlGwl+YkNnGDjucW7zp1hSIsX5iAnuIJ+NqBwfJKGE8bQTSoTh1W2qNDKTxEzGIWdhFfegrb/n4=;CdaTlsjcBF0dWNbj2IfRhA=="
 ---

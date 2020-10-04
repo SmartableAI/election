@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 932
         isCached: true
+  - title: "Trump Leaves Hospital To Greet Well-Wishers Outside"
+    excerpt: "Trump left Walter Reed Medical Center, where he is being treated for coronavirus, Sunday and was driven by Secret Service agents past well-wishers who had lined up outside the medical facility, as part of a spontaneous makeshift parade that occurred just hours after doctors disclosed the president had been treated with oxygen and steroids."
+    publishedDateTime: 2020-10-04T21:46:00Z
+    webUrl: "https://www.forbes.com/sites/carlieporterfield/2020/10/04/trump-leaves-hospital-to-greet-well-wishers-outside/"
+    ampWebUrl: "https://www.forbes.com/sites/carlieporterfield/2020/10/04/trump-leaves-hospital-to-greet-well-wishers-outside/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2020/10/04/trump-leaves-hospital-to-greet-well-wishers-outside/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a3edb67b18f569170968c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D156%26cropY2%3D1844"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
     excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
     publishedDateTime: 2020-09-30T23:13:00Z
@@ -220,6 +236,17 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump Leaves Hospital Briefly to Greet Supporters Outside"
+    excerpt: "President Donald Trump briefly left the hospital Sunday in his car to wave to supporters gathered outside. The president's visit came shortly after he promised his supporters “a surprise” in a video posted a video on social media."
+    publishedDateTime: 2020-10-04T21:47:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "k0Ozolm2PtQNHS45XT2lFJ2rYfmPutrj7QqTY0MtuRS6/V73E49Sb9Ug63dffUX7hTsuTraBB6OjGyeTLcpaYKVjMO7ag0Lrn7Z7YoL8aPTy3S0IbOo5m5OPVIsVIwlgknGnzqNGoPKVTiiIe2AqiIcp5+IHvUzuk2DF5U+FuARZtplA2oBURG4SiGl8iXuVjE+9iJAb8u+AuXWBS0gud3DWF+e4S0fqy/qshf/UmurO9q3ge243vZS9dSbSLrUYX+iOOUgMP8ODF9CwSGnqUyq3D1y4Ihs8Iup0NE0oR+b+nk3V4X0KPsOMI2O9mstKktIPuCAMR5R37k0n9OgOX0bvPkoNVCmCLjoco3/8Xvg=;kmuSGbaxwp2y2zFvsM+oEA=="
 ---

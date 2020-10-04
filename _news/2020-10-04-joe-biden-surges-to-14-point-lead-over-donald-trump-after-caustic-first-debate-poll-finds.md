@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
 excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."
-publishedDateTime: 2020-10-04T15:12:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3616228001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3616228001"
+publishedDateTime: 2020-10-04T15:34:00Z
+originalUrl: "https://www.freep.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
+webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
+ampWebUrl: "https://amp.freep.com/amp/3616228001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3616228001"
 type: article
 quality: 80
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -442,6 +442,6 @@ related:
         height: 916
         isCached: true
 
-secured: "f7qUfE7klUtB7A9LU4Ll5QQOzMNvrKrDdcRQE0fmTsQEPz8TfCT1KWev5KRRpnttQ/ImL5tGFkS14HGhzOskxFm0w6/SRA5+zIYUUFtP10EYmQ6/HKr+ScU7+NVkI5WLaTRGfy+eMvXyM0uzO6biOzGAjwrEX+aFXaZtOdzViXsxXtn+LE1bTGeoIz+mTC+3GGrmXv1F7kKss18qNkFG2u5QJMJnKgJptpK8mCCJz9XPXn33BfjAeeeDByC2k5HwOCJKuwW5QJBzqrckr2/fKS+gGpLRBnO99CCywUmvXoWjeutKQDaunktxL56KFQHxBrnChbaH7tcVYdNgPrvjaWsBdPqzwVKo5qqMr3dcegg=;7p06EUKDEM1Fc6hWEDzO9w=="
+secured: "b4tX1Jtg2ToNFOCnIuC4sLtWadrE/axojdOXPXrjCqpAyvA1DkguRoGNUhgirBAAoSgVhaOeJKqs1BNpUyDm2BeYLURRrBmUEu90QJfrcubWiBjrDdedWVVN9Eq7pi2QxKrGD4AmOHWwZjARY873VuXnmWDlMs+wUQCeTuS26lehUm/YKGafPpWLYFXYMQ5pSgm3NSvF5QFtSpEeZ5lUEYxHWv7xA9xPOm2zkpLq0pm6WEE3S8pv30wMlnF8stziRd2+Xwnzntg+29CDa8qj6G3rvXMROfp+19zkA98ylh+8IULw7Bo+s6XgpgA6xfBdU5GAos/WrVXwxVXWcmJTv4P8quyiOey2XvT5E8LdneU=;oeu3IBch1hnBHNts9MD2RQ=="
 ---
 

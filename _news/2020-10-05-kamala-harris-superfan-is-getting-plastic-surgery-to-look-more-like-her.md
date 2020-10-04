@@ -1018,6 +1018,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
+    excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
+    publishedDateTime: 2020-10-04T15:57:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 104
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/kamala_pence.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Democrats hammer Trump's Supreme Court pick, say could jeopardize Obamacare"
     excerpt: "Democratic presidential candidate Joe Biden and others in his party on Saturday blasted President Donald Trump's choice of conservative judge Amy Coney Barrett for the Supreme Court, focusing in particular on the threat they said she would pose to healthcare for"
     publishedDateTime: 2020-09-27T04:35:00Z
@@ -1488,6 +1504,22 @@ related:
       name: Indianapolis Star
       domain: indystar.com
     quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-04T21:41:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.freep.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3615907001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 80
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
         width: 1200
@@ -2028,6 +2060,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "fGPHLNgCQPQJ1Z2rQ+jOTBTM69RXZBkSXwh01BVK039TTVlEbDB6QgBjsGKfqJHnmb93tAP2Bqb7aFY5V0InvWcUGn53q8FS3D3sM48x7lSTR4GKaHw+tacS0YF67ZPoyCPB8pcxj4NL0Avu7HOYFENN+gFt3wvC88heJnLkP+y7NzXkKpTx+/miDDtXH8GJcu4YJXAvh3lgJfT++th5UnvUrpSgUFCvwHX8W40XjcpUag5nm9kuuwI06P3J2Kf0CBdDSYhRhiAh7/73O5XQyLTqu00yuZ9lzfVqYhN61dBEY/znVIy8iF3oLXw6GBcmZJd7Aoy6yQgaJsD/wmYIFFxcf5wuK2DvPWynLzr/FcY=;IQqaxeOtaaOvC/Vi3XXggg=="
+secured: "SaDN8gLA7YXELDUhOyyuJ4r0c1WJQof/9Ti1wq3B/Tg4q04tVBA/MECRVlEZLhJ7qjqk4J0cowDRnKdx310jDSEH77FPqEbz4DDidDh8AT/ud5g0/GCf8G0rc05RLP3qymFwQW5SGAX1RafO6DnkPl4KLePMwVVvaMMx0ISjOZZWA9GUqwnYx0dDwd3gFDXERFcrlh61QEtDAQ9Oytabl0HjiKgLdxOTQgI9R3boMetyzHeMu8csk6vzUUMRnu7I7WqqBo0WjsjcZ8UxkHN3/gSKNkSTAfuCbpIRfDLGQbSdtoUgRqRNzEbI9p6d7QzgotX/M6an5DQRKRbCCkvrmImsvbP/vkODmneSBH8b1ZMT6++YbMj+lx6yI4iHQQupDSUUx/y5JWcAiAL68MiafkLt9mGH85QQ33HmBbbufJyvswKe7OQcoAzgmOK6+Mh8WEUVP3OBDfo0KKKiQkhHacU3KXaGy3CGO7LRlH9vycFg1kzhjz18eo0dChXncJ/EdgbIdyawwIosfrIUM1HFhQ==;gKoyj4nQwxphmzbQ4fWpsw=="
 ---
 

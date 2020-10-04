@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence to maintain 'aggressive schedule' as Trump remains in hospital, campaign adviser says"
+    excerpt: "A senior Trump campaign adviser said on Sunday that Vice President Mike Pence will maintain “a very full aggressive schedule” while the president is being treated in the hospital for COVID-19."
+    publishedDateTime: 2020-10-04T20:15:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQeLpeCdLwo/pence-maintain-aggressive-campaign-schedule-trump-hospital"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275781881586.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden plans to attend next debate, hopes Trump will be able to participate, campaign says"
     excerpt: "Democratic presidential nominee Joe Biden will travel to Florida to participate in the next debate and hopes that President Trump will be able to join him despite the president testing positive for the novel coronavirus late last week."
     publishedDateTime: 2020-10-04T19:34:11Z
@@ -815,6 +831,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign hosts 'Call to Prayer' for President Trump and first lady amid their coronavirus diagnoses"
+    excerpt: "President Trump’s campaign team held a “call to prayer” for President Donald Trump outside the White House on Sunday as the president and First Lady Melania Trump are being treated for COVID-19."
+    publishedDateTime: 2020-10-04T21:04:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T4HVzrZ9j7g/trump-campaign-hosts-call-to-prayer-for-president-trump-and-first-lady-amid-their-coronavirus-diagnoses"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-hosts-call-to-prayer-for-president-trump-and-first-lady-amid-their-coronavirus-diagnoses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-hosts-call-to-prayer-for-president-trump-and-first-lady-amid-their-coronavirus-diagnoses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907094d8-dcd0-4725-b021-4c8f31e05361/db794f14-3ee9-4bd5-a75b-d6190d4318c6/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Trump campaign senior adviser Steve Cortes says Trump 'upbeat and assertive' after coronavirus diagnosis"
     excerpt: "The president was flown to Walter Reed National Military Medical Center on Friday after testing positive for the coronavirus overnight Thursday into Friday."
     publishedDateTime: 2020-10-04T13:16:58Z
@@ -973,6 +1005,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pence to maintain 'aggressive schedule' as Trump remains in hospital, campaign adviser says"
+    excerpt: "A senior Trump campaign adviser said on Sunday that Vice President Mike Pence will maintain “a very full aggressive schedule” while the president is being treated in the hospital for COVID-19."
+    publishedDateTime: 2020-10-04T20:20:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275781881586.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pence, Ivanka Trump visit Minneapolis salon destroyed in riots as state calls in National Guard"
     excerpt: "Vice President Mike Pence and presidential adviser Ivanka Trump visited a Black-owned Minneapolis salon destroyed by rioters in May during their Thursday trip to Minnesota."
     publishedDateTime: 2020-09-27T05:27:00Z
@@ -1110,6 +1158,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Dr. Inglesby: Recent updates on Trump's coronavirus condition 'encouraging'"
+    excerpt: "The country in a state of uncertainty after President Trump contracts the coronavirus and ends up in the hospital. (BEGIN VIDEOTAPE) WALLACE: This hour, we're monitoring the health of the president after he,"
+    publishedDateTime: 2020-10-04T18:12:00Z
+    webUrl: "https://www.foxnews.com/transcript/dr-inglesby-recent-updates-on-trumps-coronavirus-condition-encouraging"
+    ampWebUrl: "https://www.foxnews.com/transcript/dr-inglesby-recent-updates-on-trumps-coronavirus-condition-encouraging.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/dr-inglesby-recent-updates-on-trumps-coronavirus-condition-encouraging.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75214fc5-57e1-4674-bae5-58de6bc2980f/a251111e-c14f-4626-b05d-81387724bd9c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Michael Rapaport roasts President Trump after he contracts coronavirus: 'Bleach it out'"
     excerpt: "Michael Rapaport is known for publicly bashing President Trump online and Friday was no different for the actor as he reacted to the news of the POTUS' positive coronavirus test with a steady stream of insults on Twitter."
     publishedDateTime: 2020-10-02T15:25:00Z
@@ -1141,6 +1205,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Dennis20Quaid20RT.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump campaign hosts 'Call to Prayer' for President Trump and first lady amid their coronavirus diagnoses"
+    excerpt: "President Trump’s campaign team held a “call to prayer” for President Donald Trump outside the White House on Sunday as the president and First Lady Melania Trump are being treated for COVID-19."
+    publishedDateTime: 2020-10-04T21:17:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-hosts-call-to-prayer-for-president-trump-and-first-lady-amid-their-coronavirus-diagnoses"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-hosts-call-to-prayer-for-president-trump-and-first-lady-amid-their-coronavirus-diagnoses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-hosts-call-to-prayer-for-president-trump-and-first-lady-amid-their-coronavirus-diagnoses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907094d8-dcd0-4725-b021-4c8f31e05361/db794f14-3ee9-4bd5-a75b-d6190d4318c6/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "Trump's Physician Reveals When Trump Could Be Released From Walter Reed"
     excerpt: "The doctors at Walter Reed Medical Center on Sunday offered an update on President Donald Trump's battle with the Wuhan coronavirus. According to Dr. Sean Dooley, Trump continues to improve. \"He has remained without fever since Friday morning."

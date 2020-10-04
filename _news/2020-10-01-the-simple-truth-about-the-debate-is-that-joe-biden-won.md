@@ -1947,6 +1947,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "‘SNL’ season premiere with Chris Rock: See Jim Carrey as Joe Biden and Maya Rudolph as Kamala Harris"
+    excerpt: "This weekend, “SNL” is live once again and back onstage at Studio 8H with host Chris Rock. Here’s what to expect for the 46th season premiere of “SNL.\" For Chris Rock, “Saturday Night Live” is always something of a homecoming."
+    publishedDateTime: 2020-10-03T20:37:00Z
+    webUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html"
+    ampWebUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VTRDUHBP3FDJHMGJDGVL46HLOA.jpg"
+        width: 1260
+        height: 846
+        isCached: true
   - title: "What would your tax rate be under Joe Biden's proposed plan?"
     excerpt: "Presidential candidate Joe Biden has announced that, if elected, his goal will be to make major changes to tax rules, mostly by raising taxes on the wealthy as well as on corporations. In fact, the Penn Wharton model,"
     publishedDateTime: 2020-10-04T16:00:00Z
@@ -1957,6 +1973,22 @@ related:
     provider:
       name: The Arizona Republic
       domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What would your tax rate be under Joe Biden's proposed plan?"
+    excerpt: "Presidential candidate Joe Biden has announced that, if elected, his goal will be to make major changes to tax rules, mostly by raising taxes on the wealthy as well as on corporations. In fact, the Penn Wharton model,"
+    publishedDateTime: 2020-10-04T20:38:00Z
+    webUrl: "https://www.cincinnati.com/story/money/taxes/2020/10/04/what-would-your-tax-rate-be-under-bidens-plan/114216908/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/114216908"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/114216908"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
@@ -2308,17 +2340,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Jim Carrey plays Joe Biden in ‘SNL’ season premiere"
-    excerpt: "Live” returned to 30 Rockefeller Plaza this week to kickoff its 46th season featuring host Chris Rock with musical guest Megan Thee Stallion. It was the show’s first live broadcast in over six months after filming from home due to the coronavirus pandemic."
-    publishedDateTime: 2020-10-04T12:39:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/04/arts/jim-carrey-plays-joe-biden-snl-season-premiere/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/04/arts/jim-carrey-plays-joe-biden-snl-season-premiere/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/04/arts/jim-carrey-plays-joe-biden-snl-season-premiere/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
   - title: "Boorish debate makes clear why Joe Biden is the only choice for president"
     excerpt: "President Donald Trump's outlandishly boorish debate performance showed voters why Joe Biden must be elected this fall. Dignity and an ability to listen are sorely needed in the nation's highest office."
     publishedDateTime: 2020-09-30T22:38:00Z
