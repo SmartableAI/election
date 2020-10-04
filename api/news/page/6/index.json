@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-09-29-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes.md",
-      "title": "Santorum: Not illegal for Trump 'to do everything he can not to pay taxes'",
-      "excerpt": "Former Sen. Rick Santorum (R-Pa.) said in a new interview that it's not illegal for Trump \"to do everything he can not to pay taxes\" while discussin",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes",
-      "originalUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/santorumrick_092517gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp",
-      "publishedDateTime": "2020-09-28T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-qa-will-the-trump-administration-be-able-to-ban-tiktok.md",
       "title": "Q&A: Will the Trump administration be able to ban TikTok?",
       "excerpt": "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. app stores",
@@ -653,7 +602,7 @@
       "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3120,
+      "heat": 3140,
       "tags": null,
       "images": [
         {
@@ -1322,6 +1271,61 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-analysis-what-americas-european-allies-want-from-a-biden-presidency.md",
+      "title": "Analysis: What America's European allies want from a Biden presidency",
+      "excerpt": "Should Joe Biden win the upcoming US presidential election, his first and overwhelming foreign policy challenge will be winning back the trust of America's allies. With the planet in its most chaotic period since World War II, a steady Biden leadership could potentially reset the world order -- but only",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e-7juHUcZjg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e-7juHUcZjg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923145318-01-biden-nc-0923-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/27/politics/biden-americas-european-allies-analysis-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/biden-americas-european-allies-analysis-intl/index.html",
+      "publishedDateTime": "2020-09-27T06:30:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

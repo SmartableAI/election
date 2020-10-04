@@ -89,6 +89,22 @@ related:
         width: 794
         height: 545
         isCached: true
+  - title: "Democrats wish Trump a swift recovery from COVID-19, and hope it changes his policies on the virus"
+    excerpt: "\"I hope he recovers fully. He needs to face justice,\" a Democrat from California said on his campaign Twitter account."
+    publishedDateTime: 2020-10-03T22:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f76c1f974fe5b0018a8ea04?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
     excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."
     publishedDateTime: 2020-09-30T07:33:00Z

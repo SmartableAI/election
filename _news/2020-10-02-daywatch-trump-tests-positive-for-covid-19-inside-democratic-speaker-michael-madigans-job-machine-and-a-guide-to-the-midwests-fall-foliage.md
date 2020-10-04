@@ -271,6 +271,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Starting to feel good.' Trump releases new video from Walter Reed amid COVID battle"
+    excerpt: "Trump's latest video came as the White House has struggled to offer a consistent message about the president's condition since he tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T23:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/trump-tweets-video-walter-reed-feeling-much-better-covid/3613162001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3613162001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3613162001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
     excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."
     publishedDateTime: 2020-10-02T07:42:00Z

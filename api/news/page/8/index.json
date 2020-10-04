@@ -2,57 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-09-25-the-health-202-trumps-new-health-care-plan-isnt-really-a-plan.md",
-      "title": "The Health 202: Trump's new health-care plan isn't really a plan",
-      "excerpt": "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
-      "publishedDateTime": "2020-09-25T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-25-trump-targets-bidens-lighter-campaign-schedule-ahead-of-first-debate.md",
       "title": "Trump targets Biden's lighter campaign schedule ahead of first debate",
       "excerpt": "Joe Biden's campaign at 9:20 a.m. ET on Thursday called a \"lid\" -- a term used to inform reporters that the Democratic presidential nominee wouldn't be making any public appearances for the rest of the day.\n    \n",
@@ -1325,6 +1274,57 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-opinion-im-a-christian-veteran-texas-republican-and-i-support-joe-biden.md",
+      "title": "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden",
+      "excerpt": "I am casting my vote for Joe Biden because of, not in spite of, my beliefs and experiences as a veteran, a Christian, a conservative and a native rural Texan. In many ways, the president sits atop what sociologist Robert Bellah called our American “civil religion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/24/20/20005899/4/rawImage.jpg",
+          "width": 2048,
+          "height": 1501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "publishedDateTime": "2020-09-24T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     }
   ],

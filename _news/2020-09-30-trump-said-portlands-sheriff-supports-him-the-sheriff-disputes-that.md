@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-deni
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535926755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9122K"
         width: 794
         height: 545
+        isCached: true
+  - title: "Democrats wish Trump a swift recovery from COVID-19, and hope it changes his policies on the virus"
+    excerpt: "\"I hope he recovers fully. He needs to face justice,\" a Democrat from California said on his campaign Twitter account."
+    publishedDateTime: 2020-10-03T22:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f76c1f974fe5b0018a8ea04?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
     excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."

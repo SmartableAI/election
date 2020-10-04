@@ -1923,6 +1923,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sen. Bernie Sanders is coming to Michigan on Monday to stump for Joe Biden"
+    excerpt: "Former Democratic presidential candidate and U.S. Sen. Bernie Sanders is coming to Michigan on Monday to stump for Joe Biden. The Independent Vermont senator will visit Ann Arbor"
+    publishedDateTime: 2020-10-03T22:20:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/03/bernie-sanders-joe-biden-trump-election-michigan/3608274001/"
+    ampWebUrl: "https://amp.freep.com/amp/3608274001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3608274001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/07/PDTF/2d58c6fc-fe03-4840-9bf9-e210c3ff5ccf-AP_Election_2020_Bernie_Sand.jpg?auto=webp&crop=5081,2858,x0,y335&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Donald Trump and challenger Joe Biden clashed in first TV debate of US election campaign"
     excerpt: "It got heated last night as President Donald Trump and challenger Joe Biden clashed in first TV debate of US election campaign."
     publishedDateTime: 2020-09-30T12:40:00Z

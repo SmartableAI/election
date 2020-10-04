@@ -1960,6 +1960,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "President Trump releases update, says he's feeling 'much better' after hospitalization"
+    excerpt: "President Trump released a video from Walter Reed Medical Center Saturday evening, informing Americans that he felt \"much better\" after entering the facility and was committed to defeating the virus."
+    publishedDateTime: 2020-10-03T22:59:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/04B88szc_Gw/president-trump-releases-update-says-hes-feeling-much-better-after-hospitalization"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-releases-update-says-hes-feeling-much-better-after-hospitalization.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-releases-update-says-hes-feeling-much-better-after-hospitalization.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2738da37-1419-4682-9089-68409501409d/96dde887-984b-47d6-ab6a-a2c7703711bd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "First presidential debate 'is about how Joe Biden shows up' and performs, Bret Baier says"
     excerpt: "It won't be long before the metaphorical gloves come off and rhetorical punches are thrown at Tuesday's first presidential debate between President Trump and Joe Biden, \"Special Report\" host and Fox News chief political anchor Bret Baier predicted Tuesday."
     publishedDateTime: 2020-09-29T22:45:41Z
@@ -2524,6 +2540,22 @@ related:
       - url: "https://images.wsj.net/im-238622/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump blames Democrats for nationwide civil unrest"
+    excerpt: "Breaking tonight, President Trump is taking election year aim at what he calls a crusade against the American history using toxic propaganda and ideological poison in his words.  The president said during a history event this afternoon at the National Archives here in Washington,"
+    publishedDateTime: 2020-10-03T21:59:00Z
+    webUrl: "https://www.foxnews.com/transcript/trump-blames-democrats-for-nationwide-civil-unrest"
+    ampWebUrl: "https://www.foxnews.com/transcript/trump-blames-democrats-for-nationwide-civil-unrest.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/trump-blames-democrats-for-nationwide-civil-unrest.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c679cf6a-02a9-4860-a18e-3230904bd517/d6147c7c-91c2-42b3-8580-7cecc49827bb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump says Biden 'should leave the campaign' after Senate GOP report on Hunter Biden's business dealings"
     excerpt: "President Trump on Thursday said his Democratic opponent Joe Biden “should leave the campaign” in the wake of the release of a Senate GOP report detailing Hunter Biden’s extensive overseas business dealings,"

@@ -2,53 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-09-22-watch-live-trump-holds-a-great-american-comeback-rally-in-swanton-ohio.md",
-      "title": "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Swanton, Ohio",
-      "excerpt": "President Donald Trump will hold a campaign rally at Toledo Express Airport in Swanton, Ohio on Monday. The rally is expected to begin at 8:00 pm ET.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/09/21/watch_live_trump_holds_a_great_american_comeback_rally_in_swanton_ohio.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/21/watch_live_trump_holds_a_great_american_comeback_rally_in_swanton_ohio.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521717.jpg",
-          "width": 1136,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-barbara-lagoa-one-of-trumps-top-contenders-for-the-supreme-court.md",
       "title": "Barbara Lagoa, one of Trump's top contenders for the Supreme Court",
       "excerpt": "President Donald Trump said he plans to select a woman to replace the late Justice Ruth Bader Ginsburg, a feminist icon who helped lead the Supreme Court's liberal wing for years. Among the people on his short list is Barbara Lagoa, a 52-year-old conservative judge he appointed to the 11th US Circuit",
@@ -1321,6 +1274,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-trump-supporters-disrupt-early-voting-in-virginia.md",
+      "title": "Trump Supporters Disrupt Early Voting in Virginia",
+      "excerpt": "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "publishedDateTime": "2020-09-19T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

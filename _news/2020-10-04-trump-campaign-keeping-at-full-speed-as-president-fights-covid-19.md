@@ -784,6 +784,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign says Pence expected to add more events as president deals with coronavirus"
+    excerpt: "Vice President Mike Pence will step up on the campaign trail as President Trump deals with a case of the coronavirus."
+    publishedDateTime: 2020-10-03T22:00:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da4fefe0-619b-413c-8314-ecabc05fc010/18684257-14cd-4416-a6ae-4cc575d57702/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House"
     excerpt: "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election."
     publishedDateTime: 2020-09-28T10:51:00Z
@@ -903,6 +919,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 135
+  - title: "CDC director contradicts Trump on coronavirus guidance, vaccine timing"
+    excerpt: "RealClearPolitics' Tom Bevan, RX Saver Chairman Harold Ford Jr. and Washington Examiner's Byron York weigh in on CDC Director Dr. Robert Redfield contradicting President Trump's coronavirus guidance."
+    publishedDateTime: 2020-10-03T22:00:00Z
+    webUrl: "https://www.foxnews.com/transcript/cdc-director-contradicts-trump-on-coronavirus-guidance-vaccine-timing"
+    ampWebUrl: "https://www.foxnews.com/transcript/cdc-director-contradicts-trump-on-coronavirus-guidance-vaccine-timing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/cdc-director-contradicts-trump-on-coronavirus-guidance-vaccine-timing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6bd12aab-3e33-4dad-b97b-e6477c6774d8/c9714ed9-92ad-41af-a8d3-8788169548fb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Michael Rapaport roasts President Trump after he contracts coronavirus: 'Bleach it out'"
     excerpt: "Michael Rapaport is known for publicly bashing President Trump online and Friday was no different for the actor as he reacted to the news of the POTUS' positive coronavirus test with a steady stream of insults on Twitter."
     publishedDateTime: 2020-10-02T15:25:00Z

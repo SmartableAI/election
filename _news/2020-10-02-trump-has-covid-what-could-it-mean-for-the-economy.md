@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/"
 type: article
 quality: 125
-heat: 1005
+heat: 1025
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 118
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f776156cc87b821f703b80d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D316%26cropY2%3D3448"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Starting to feel good.' Trump releases new video from Walter Reed amid COVID battle"
+    excerpt: "Trump's latest video came as the White House has struggled to offer a consistent message about the president's condition since he tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T23:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/trump-tweets-video-walter-reed-feeling-much-better-covid/3613162001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3613162001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3613162001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

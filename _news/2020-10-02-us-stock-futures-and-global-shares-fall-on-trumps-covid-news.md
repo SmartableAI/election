@@ -79,6 +79,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Minnesota congressmen flew Delta after flying with Trump"
+    excerpt: "Three Minnesota congressmen are facing backlash over taking a commercial flight home from Washington, D.C., on Friday night just two days after they shared Air Force One with President Donald Trump. U."
+    publishedDateTime: 2020-10-03T22:53:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/201003_abcnl_spev_trump_6pm_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
     excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
     publishedDateTime: 2020-10-03T14:47:00Z
@@ -203,6 +219,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Futures sink as Trump tests positive for COVID-19"
+    excerpt: "U.S. stock index futures tumbled on Friday after President Donald Trump tested positive for COVID-19 weeks before the election, with Washington's failure to reach a new fiscal stimulus deal also hurting sentiment."
+    publishedDateTime: 2020-10-03T22:54:00Z
+    webUrl: "https://www.businessinsider.com/futures-sink-as-trump-tests-positive-for-covid-19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/futures-sink-as-trump-tests-positive-for-covid-19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/futures-sink-as-trump-tests-positive-for-covid-19-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "White House official says it's better Trump was hospitalized while he could still walk to avoid images of him being carried"
     excerpt: "The White House said Trump was hospitalized \"out of an abundance of caution.\" One official said it could help his political image, the New York Times reported."
     publishedDateTime: 2020-10-03T15:05:00Z
@@ -250,6 +277,22 @@ related:
       - url: "https://i.insider.com/5f73f3d774fe5b0018a8e243?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Staten Island Ridiculed On Twitter For Pro-Trump ‘Super Spreader’ Rally"
+    excerpt: "Staten Island was mocked on Twitter for a rally to support President Trump, after he was hospitalized with COVID-19."
+    publishedDateTime: 2020-10-03T22:11:00Z
+    webUrl: "https://ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238"
+    ampWebUrl: "https://www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/26/donald-trump-fires-up-his-supporters-at-a.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Live updates on Trump and COVID-19: President in hospital for extended stay; many infected at White House gathering"
     excerpt: "President Trump is at hospital after a positive COVID-19 test. The Bidens wish him well. Campaigning ahead of Election Day has shifted. Latest news."

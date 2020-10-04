@@ -895,6 +895,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's doctor walks backs comments on timing of President's Covid-19 diagnosis and treatment"
+    excerpt: "Doctors treating President Donald Trump for Covid-19 created confusion on Saturday with remarks during a briefing that appeared to shift the timeline of Trump's positive coronavirus test and treatment. Trump's physician, Dr. Sean Conley, released a statement afterward to try to clarify the comments.\n"
+    publishedDateTime: 2020-10-03T23:13:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t7k1iAq1zvM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-doctor-timeline-confusion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-doctor-timeline-confusion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003122957-02-trump-doctors-presser-1003-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's doctors paint a rosy -- but vague -- picture of his health during Covid-19 treatment"
     excerpt: "President Donald Trump's physicians on Saturday painted a rosy, but vague, picture of his health as he underwent treatment for coronavirus, saying he was doing well even as they declined to say how high his fever went and whether he ever needed supplemental oxygen.\n    \n"
     publishedDateTime: 2020-10-03T19:54:13Z
@@ -2054,6 +2070,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30campaign-ledeall1/30campaign-ledeall1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "After concerning early Covid symptoms, Trump faces critical days ahead, sources say"
+    excerpt: "The president praised medical professionals treating him at Walter Reed, writing on Twitter, \"With their help, I am feeling well!\""
+    publishedDateTime: 2020-10-03T23:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-physician-provide-details-about-president-s-covid-19-condition-n1241973"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241973"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241973"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417259/201003-walter-reed-doctors-jm-1152_bc61361ccb1a2cefc800c37f890e2115.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
     excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."

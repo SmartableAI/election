@@ -2,61 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-30-former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-trump-affair.md",
-      "title": "Former Playboy Playmate Karen McDougal says she’s ‘been forgiven by Jesus’ for alleged Trump affair",
-      "excerpt": "During the 2016 election, National Enquirer parent company American Media Inc. paid McDougal $150,000 for the rights to her story, which it never published. The company eventually acknowledged the purchase was a “catch-and-kill” maneuver to boost Trump's presidential prospects.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBR_0knqAXw/former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-affair-with-trump-regrets-not-coming-forward-sooner",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBR_0knqAXw/former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-affair-with-trump-regrets-not-coming-forward-sooner",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-affair-with-trump-regrets-not-coming-forward-sooner.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-affair-with-trump-regrets-not-coming-forward-sooner.amp",
-      "publishedDateTime": "2020-09-30T10:31:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-30-floridas-top-city-for-cuban-exiles-goes-to-bat-for-gop-in-2020-trump-town.md",
       "title": "Florida's top city for Cuban exiles goes to bat for GOP in 2020: 'Trump Town'",
       "excerpt": "The city of Hialeah, outside Miami, is known for its Cuban American community of working families, tight incomes and friendships among neighbors -- and as the election nears, many say they're leaning strongly toward voting for President Trump.",
@@ -1282,7 +1227,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1337,7 +1282,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 4265,
+      "heat": 4305,
       "tags": null,
       "images": [
         {
@@ -1628,6 +1573,61 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-25T09:47:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-says-dems-war-on-cops-puts-police-lives-in-danger-calls-for-end-to-bidens-anti-police-crusade.md",
+      "title": "Trump says Dems' 'war on cops' puts 'police lives in danger,' calls for end to Biden's 'anti-police crusade'",
+      "excerpt": "President Trump says Joe Biden's \"anti-police crusade must stop.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/plF-KI8ElJk/trump-biden-police-jacksonville",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/plF-KI8ElJk/trump-biden-police-jacksonville",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20269039921497-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-police-jacksonville.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-police-jacksonville.amp",
+      "publishedDateTime": "2020-09-25T06:30:58-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
