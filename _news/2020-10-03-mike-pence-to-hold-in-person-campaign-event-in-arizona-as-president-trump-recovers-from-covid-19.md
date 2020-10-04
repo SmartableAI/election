@@ -2,23 +2,19 @@
 category: news
 title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
 excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
-publishedDateTime: 2020-10-03T16:36:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3608249001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608249001"
+publishedDateTime: 2020-10-03T16:39:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3608249001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3608249001"
 type: article
-quality: 127
+quality: 77
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -286,6 +282,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumppence_03092020getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Mike Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
+    excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
+    publishedDateTime: 2020-10-04T00:30:00Z
+    webUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
+    images:
+      - url: "https://i.insider.com/5f771bd90ab50d00184adbee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Former Pence aide says there were private meetings about the possibility of Trump refusing to accept election results"
     excerpt: "Former aide to VP Mike Pence said Friday there were \"conversations behind closed doors\" about what would happen if Trump \"loses and refuses to leave.\""
@@ -1240,6 +1252,22 @@ related:
         width: 1024
         height: 723
         isCached: true
+  - title: "Vice President Mike Pence to vote early in Indiana, Trump campaign says"
+    excerpt: "According to President Donald Trump's campaign, Vice President Mike Pence plans to vote early in Indiana after an event in Arizona."
+    publishedDateTime: 2020-10-04T00:11:00Z
+    webUrl: "https://www.indystar.com/story/news/local/2020/10/03/trump-campaign-vice-president-pence-vote-early-indiana-head-key-states/3611828001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3611828001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3611828001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Conservative begs Mike Pence to be more of an adult than Trump in VP debate"
     excerpt: "The bad news is there’s another debate coming up next week. The good news, however, is that President Donald Trump won’t be there, noted conservative columnist Jennifer Rubin in her Thursday column. Writing in the Washington Post,"
     publishedDateTime: 2020-10-01T15:59:00Z
@@ -1859,6 +1887,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "Av5Sk02sY9OB4b1WuI+BKGK83p25bpXZreh5MTkJrWsg4sexQa9/ENYiiwTwBv2XB1hyfeDqxiNr0gxzD17z2vWAUaKQU2lBlKOZhTVe5bk3EYk5a7fm9rsuILJqv/5D87p5akj2eKlq4VBwCqvjMqfG28CxmAdpi0MqCmjNYJVToYRTwU7h6PGJbBbRMojRcq/kFWeA7/pKnuddp8+Bxz5lrIDI1rTwFC9RDHq4AaV4aDBqXlwPe2E59moG5fmocQ/6EAPzHcFNIf6qxA+vdms33kiP5Uc9YW5q/+8NoPsnTya0u/4J+HuvUpxpFPO08ZAK1PnLheChjzYLeoPMmBvVOvobu4E32ZvTVA3FCNCswIKod+fXBaDeFygIZWNmKARnIaf1bC7+Q/2C0bjNJlmXBYOHEUDYvPpvP6SMLbkk9KVRC/V1/INxpck6sSYUHelmxt+KOy/jZDwZUbXazTTDhloAfBHalpNUXfOXVAYZm+hlUQvBRailSwk0QYfh8jS6+1eb9FtDoJ9WV6wPwg==;51ILe5m5n1jO2lODm42iYg=="
+secured: "DgO70iidQA58pMAzs4pJ22Y36Q1itbEUfyYofkJ38wpfYvOq50zsLu0QLPJdqk/tGhVS4NvYLnnZeSFVkfDp0P7AZRKbBSllDhhqLM7olO2ZJU1G4xfLSXZPTM4H/OoS6p5RllUkerXyEdwvyWGj10s3lbpJZVRVdrgO4j+sS+NId7tVk8z04RA5sX5GHKtntAFqe2bGn2pNq0kN4i9K3cOj4vPMxKZyFUWmlcWcvD8PIAtSAqMyrHT1pa8OmnQko/wVqo+XVRDDSj9OYv0wcdUr/5VbhgJW4iUzufPNnxYL9NGu428XD1bWt27K29jMS0kzbaDEIyF4wiVn/GGlLQ+uPU0XWx28N61Y3sjzkSU=;t3e+pOf9V2hy0qFPHHizjQ=="
 ---
 

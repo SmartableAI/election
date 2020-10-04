@@ -288,6 +288,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Mike Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
+    excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
+    publishedDateTime: 2020-10-04T00:30:00Z
+    webUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-coronavirus-test-negative-will-be-president-if-trump-incapacitated-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 134
+    images:
+      - url: "https://i.insider.com/5f771bd90ab50d00184adbee?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Former Pence aide says there were private meetings about the possibility of Trump refusing to accept election results"
     excerpt: "Former aide to VP Mike Pence said Friday there were \"conversations behind closed doors\" about what would happen if Trump \"loses and refuses to leave.\""
     publishedDateTime: 2020-09-26T13:54:00Z
@@ -394,22 +410,6 @@ related:
       - url: "https://i.insider.com/5f771bd90ab50d00184adbee?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
-    excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
-    publishedDateTime: 2020-10-03T16:36:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3608249001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608249001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 127
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
@@ -1241,6 +1241,22 @@ related:
         width: 1024
         height: 723
         isCached: true
+  - title: "Vice President Mike Pence to vote early in Indiana, Trump campaign says"
+    excerpt: "According to President Donald Trump's campaign, Vice President Mike Pence plans to vote early in Indiana after an event in Arizona."
+    publishedDateTime: 2020-10-04T00:11:00Z
+    webUrl: "https://www.indystar.com/story/news/local/2020/10/03/trump-campaign-vice-president-pence-vote-early-indiana-head-key-states/3611828001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3611828001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3611828001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Conservative begs Mike Pence to be more of an adult than Trump in VP debate"
     excerpt: "The bad news is there’s another debate coming up next week. The good news, however, is that President Donald Trump won’t be there, noted conservative columnist Jennifer Rubin in her Thursday column. Writing in the Washington Post,"
     publishedDateTime: 2020-10-01T15:59:00Z
@@ -1416,6 +1432,22 @@ related:
       - url: "https://www.newshub.co.nz/home/entertainment/2018/07/sacha-baron-cohen-hints-at-new-donald-trump-movie/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1530832865284/GETTY_SACHA-BARON-COHEN_TRUMP_1120.jpg"
         width: 768
         height: 438
+        isCached: true
+  - title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
+    excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
+    publishedDateTime: 2020-10-03T16:39:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3608249001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3608249001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
     excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"

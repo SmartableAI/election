@@ -331,6 +331,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump's condition 'very concerning' over past day, official says on day of mixed messaging"
+    excerpt: "Trump remained at Walter Reed hospital Saturday after he and first lady Melania Trump tested positive for COVID-19 and were experiencing symptoms"
+    publishedDateTime: 2020-10-04T00:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/trump-doing-very-well-says-white-house-physician-sean-conley/3607711001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3607711001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3607711001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/6c05a9a9-6a2c-48db-93b6-701f4f6eb42d-AFP_AFP_8RB43N.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Claim that Trump's positive COVID-19 test result is a 'con' has no basis in fact"
     excerpt: "A claim suggesting President Trump will politically leverage his positive test result includes speculations that aren't proven. We rate the claim false."
     publishedDateTime: 2020-10-03T14:53:00Z
@@ -625,6 +641,22 @@ related:
         width: 780
         height: 439
         isCached: true
+  - title: "Stephen Colbert Takes The High Road on Donald Trump's COVID Comeuppance"
+    excerpt: "Sounding, at first, a little like Dante from Clerks, Stephen Colbert opened Friday night's monologue reminding us he wasn't even supposed to be there. (The show rarely tapes on Friday.) But the Late Show host rose to the challenge of remaining funny and maintaining opposition to Donald Trump without seeming indecent after news broke of the president testing positive for coronavirus."
+    publishedDateTime: 2020-10-03T15:18:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2020/10/stephen-colbert-takes-the-high-road-on-donald-trumps-covid-comeuppance"
+    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/10/stephen-colbert-takes-the-high-road-on-donald-trumps-covid-comeuppance/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/10/stephen-colbert-takes-the-high-road-on-donald-trumps-covid-comeuppance/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/5f788c09d070eec8d50f0d1f/master/pass/stephen-colbert.jpg"
+        width: 2000
+        height: 1020
+        isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
     publishedDateTime: 2020-10-02T12:11:00Z
@@ -656,6 +688,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/06/06/simpsons.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Is Trump really 'doing very well’ with COVID-19? Reports raise questions about president’s health"
+    excerpt: "Trump was admitted Friday to Walter Reed National Military Medical Center after testing positive for the coronavirus."
+    publishedDateTime: 2020-10-04T00:37:00Z
+    webUrl: "https://www.al.com/news/2020/10/white-house-doctor-says-trump-doing-very-well-at-hospital.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/white-house-doctor-says-trump-doing-very-well-at-hospital.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/white-house-doctor-says-trump-doing-very-well-at-hospital.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 62
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CHWIHOFER5AFNGSKGF43ZWOZQE.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Trump Was in Maskless ‘Close Contact’ with Dozens of Donors After Hope Hicks Got Covid-19 Symptoms"
     excerpt: "President Donald Trump was in \"close contact\" and not wearing a mask while interacting with \"dozens\" of donors and others in the hours after Hope Hicks developed symptoms of COVID-19."

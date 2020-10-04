@@ -399,6 +399,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump says next days of COVID-19 treatment will be 'real test'"
+    excerpt: "President Donald Trump said in a video from his hospital room on Saturday that he felt \"much better\" and hoped to be \"back soon,\" after a day of contradictory messages from the White House about his condition following his COVID-19 diagnosis."
+    publishedDateTime: 2020-10-04T00:26:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idINKBN26O0BH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26O0BH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26O0BH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536067628&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG93015"
+        width: 1008
+        height: 545
+        isCached: true
   - title: "Some textbooks still parrot Donald Trump’s skewed version of U.S. history"
     excerpt: "Last week, he even held a conference on U.S. history assailing “decades of left-wing indoctrination in our schools” and intending to launch a commission to promote “pro-American curriculum that celebrates the truth about our nation’s great history."
     publishedDateTime: 2020-09-24T10:57:00Z
@@ -1201,6 +1217,20 @@ related:
       - url: "https://i.insider.com/5f69220357b7da001ee12f6d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Donald Trump delivers update on his health as he fights COVID-19"
+    excerpt: "President Donald Trump thanked Walter Reed National Military Medical Center staff and even cracked a joke about his age."
+    publishedDateTime: 2020-10-04T00:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/president-donald-trump-delivers-update-his-health-he-fights-covid-19/3613477001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump is leaning toward Amy Coney Barrett as nominee to replace Ruth Bader Ginsburg on Supreme Court, GOP sources say"
     excerpt: "While Barrett, 48, has been the front-runner for the nomination all along, the sources said she has become the sole focus of the process."

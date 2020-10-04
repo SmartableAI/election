@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pompeo-trump-foreign-policy-safer-w
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-trump-foreign-policy-safer-world.amp"
 type: article
 quality: 167
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump campaign YouTube takeover to feature Trump message thanking Americans for support"
-    excerpt: "EXCLUSIVE: The Trump campaign is taking over the YouTube.com masthead for 24 hours beginning at midnight, Fox News has learned, featuring the video of President Trump as he was departing the White House for Walter Reed Military Medical Center to be treated for COVID-19."
-    publishedDateTime: 2020-10-03T23:43:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LPFwnLg3R78/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "ItR19r00g8sxTGox0NjbEoMbOG4G0AVu0th4prghSmiaSOQiMdHgIWtfTmAZvLbN4UGd0jRS5EeVK++qaDMpoOrbAYpipiG1/cDGLYlVK+egbEIr4ffbznk8npevIbN64ETnrNQyTjIYb6ESuu3Hv3DkP4mNi1aD4aa1+ooDKkBNSK95A6yAg5TJ7HdMZzb51zAwgWcyuQsGKy6jh+D81lcSeBOXSkxkYjV/EdEFCXri6To5O1d/fZ0NhTuhGtb/ZS9VgnWqb9VlJWzl/VB7FNsZAfYR0VAkJttLM/+YONDbwJ+kkOse5tT0ZEY6cTQdD8hgWAjKFAPH2nDSwli8A/gcS1zGTMQ16aPDtlH0FJ0=;Y05YG+cWWUSORz68oupfog=="
 ---

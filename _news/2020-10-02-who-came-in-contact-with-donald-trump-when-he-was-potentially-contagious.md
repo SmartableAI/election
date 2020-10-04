@@ -1056,6 +1056,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House sows confusion about Trump's condition as source tells reporters next 48 hours will be critical"
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center early Friday evening less than 24 hours after news broke of his Covid-19 diagnosis, plunging the country into a deepening crisis as the circle of current and former aides to the President testing positive rapidly widened.\n"
+    publishedDateTime: 2020-10-04T01:52:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f9Lwy-3eb-g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/donald-trump-coronavirus-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/donald-trump-coronavirus-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002180249-walter-reed-national-military-medical-center-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Lindsey Graham: Trump 'very focused' on confirming Barrett to Supreme Court despite his coronavirus diagnosis"
     excerpt: "Senate Judiciary Chairman Lindsey Graham said Friday that President Trump is \"very focused\" on getting Amy Coney Barrett onto the Supreme Court and said that confirmation hearings remain \"on track\" after the news of the President's coronavirus diagnosis.\n    \n"
     publishedDateTime: 2020-10-02T17:28:34Z
@@ -1806,6 +1822,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "For Trump, the Only Medical News Is Good Medical News"
+    excerpt: "Conflicting accounts of the president’s condition underline the fact that the public does not have a definitive answer about the president’s health."
+    publishedDateTime: 2020-10-04T01:02:00Z
+    webUrl: "https://www.nytimes.com/2020/10/03/us/politics/white-house-trump-health.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/03/us/politics/white-house-trump-health.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/03/us/politics/white-house-trump-health.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/03/us/politics/03dc-virus-lies-pix/03dc-virus-lies-pix-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's physician raises questions over diagnosis timeline"
     excerpt: "Dr. Sean Conley raised some significant questions as to when President Donald Trump was diagnosed with the coronavirus."
     publishedDateTime: 2020-10-03T17:44:00Z
@@ -1821,6 +1853,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Why a Pro-Trump Town No Longer Sees Him as a Rescuer"
+    excerpt: "Portsmouth, Ohio, was facing hard times when our reporter spent a week there leading up to Election Day 2016. She went back to find the town rebounding, and loyal to President Trump. But its residents no longer tie their fortunes to him."
+    publishedDateTime: 2020-10-04T00:14:00Z
+    webUrl: "https://www.nytimes.com/2020/10/03/us/politics/ohio-election-trump-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/03/us/politics/ohio-election-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/03/us/politics/ohio-election-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/30/us/politics/00portsmouth-scrolltest1/merlin_177712542_ffe13476-8ba5-4d11-8075-d4bc1e9798e5-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "E.P.A. to Promote Lead Testing Rule As Trump Tries to Burnish His Record"
     excerpt: "The E.P.A. will tout a new rule on testing lead in drinking water as President Trump's latest environmental achievement, but water experts see only modest improvements at best."
@@ -2120,6 +2168,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump defends actions in lead up to Covid diagnosis in video posted from Walter Reed"
+    excerpt: "President Donald Trump on Saturday addressed his health and defended his actions in the lead up to his Covid-19 diagnosis in a video recorded from a Walter Reed hospital room. “I just didn’t want to stay in the White House."
+    publishedDateTime: 2020-10-03T23:55:00Z
+    webUrl: "https://www.politico.com/news/2020/10/03/trump-says-doing-much-better-in-new-video-425892"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/03/trump-says-doing-much-better-in-new-video-425892"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/03/trump-says-doing-much-better-in-new-video-425892"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/fc38fbab-13a6-4391-8b07-e78c2b79737a/8b9885fa-5de5-4533-9335-3cf4d7748571/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump's taxes raise IRS red flags. But his flouting of civic duty is equally concerning."
     excerpt: "Taxes pay for all that we do together. We need them. They matter. But our president calls into question the very nature of that collective effort."
     publishedDateTime: 2020-10-01T08:43:00Z
@@ -2403,6 +2467,22 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
+        isCached: true
+  - title: "Trump Says He Is “Starting to Feel Good” in Video From Walter Reed"
+    excerpt: "After a day of confusion and conflicting information about President Donald Trump’s health, the commander in chief tweeted out a video message from Walter Reed saying his condition has improved. But he also made clear that he is well aware he’s far from being given the all-clear and will have to see how his treatment develops."
+    publishedDateTime: 2020-10-04T00:22:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/10/trump-starting-feel-good-video-walter-reed-coronavirus.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/10/trump-starting-feel-good-video-walter-reed-coronavirus.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/10/trump-starting-feel-good-video-walter-reed-coronavirus.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 85
+    images:
+      - url: "https://compote.slate.com/images/551350a5-d40e-4cdf-8186-83db94062aaa.png?width=780&height=520&rect=840x560&offset=64x0"
+        width: 780
+        height: 520
         isCached: true
   - title: "Everything We Know About When Trump Got Sick, His Treatment, And How He Is Now"
     excerpt: "He is currently being treated at Walter Reed medical center. How exactly is he doing and how long has he been ill? That is more up in the air than I think most American citizens would prefer! Here’s everything we know—and everything we don’t—regarding the timeline of when he was diagnosed,"
