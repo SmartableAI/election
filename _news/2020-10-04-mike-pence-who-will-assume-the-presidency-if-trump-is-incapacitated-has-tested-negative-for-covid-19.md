@@ -526,7 +526,7 @@ related:
   - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
     excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
     publishedDateTime: 2020-10-03T07:05:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-1-u-s-vice-president-pence-next-in-line-behind-trump-tests-negative-for-covid-19-idUSL1N2GT0VB"
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-3-u-s-vice-president-pence-next-in-line-behind-trump-tests-negative-for-covid-19-idUSL1N2GT0VB"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2BS"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2BS"
     type: article
@@ -1529,6 +1529,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "SNL: Who Is Playing Kamala Harris on Saturday Night Live?"
+    excerpt: "Kamala Harris (D-CA) delivers remarks at Shaw University on September 28, 2020. On October 3, 2020, Saturday Night Live will be returning to NBC for the premiere of its 46th season. The host will be Chris Rock and rapper Megan Thee Stallion will be performing as the musical guest."
+    publishedDateTime: 2020-10-04T01:25:00Z
+    webUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/"
+    ampWebUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228774543-e1601766932483.jpg?quality=65&strip=all"
+        width: 4800
+        height: 2712
+        isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
     publishedDateTime: 2020-09-28T20:51:00Z
@@ -1892,6 +1908,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "ockePHwwGogItyXOGs6QgjqLx57Oe4KbCJwHIoNtYW+PTqLu4WcI29/gyyqGJfJ2d80HcPsCInFVku7h6C5KKrqDGrLAWoyCW86QmABr2jdfL4SOuYjkSKZ5Dcw8tp4RTJ0IYQJRYvPMJJYl1OxIJOIynhrcFEVMnvcKKkeshKgyFahMSsngUGbYLADr5870iQKa7go2FRxHxPfKTuhH+yvX4/M6kMGg6jxePa7x4Cg5yy7RIHp+ONqM0qKy7zdRyBt3Rs3G7Ep+AVamA1KzV+A1DwQQ3qVsygrXkOyORDYweSP4EWXFOM3cmgl7Ognk8gv2WZA603PsM78sBrWHUnwEGFX3v9Bp9LZh3t4rtwI=;wSy/n4K31eruUxYRy6TXUA=="
+secured: "kD0S1CbcYB7m32utAPMhQGRD/AaZH4EntmNBI2ZPW7EiNm99X9LynmL4R2tc1v4espNa2jIdAwqKXuBPCbUDdHc/IJA0ng5lHvA2dkhZ1qQEcTuh5HfBWL5PqVAgnX3Wounnyvzh8Op/YGnWMmBnhMQ0vqL+zdyQcdzPf8MMMnNP1C831+1LXu2X1PkplhuYbLQuyrXtX1bIRdE9PNlzpng+EwNaEqx5VAGlx3rIoA2yVL4LLe7OjxZMPKp8kxizHkj8uJ6eENMauMC7UgDot9fFkZ3nsNs8wL6J8NQvJzemTuICI0Pl2ZfouTCxPlin7KHW2kDnbNBUa4DjGYj68oMpH71fgZvO9CGot28ORJBOJCUuHB3JedtyelqUQn+c1dLrHzk7LRpmu9R0LhT8tje31YpsUbPPDsc+y7XYNAolMFKThLADJQ3Bxw8lkoPfLXPUF1kdyA+b1ghP4MUzRdKbz3sJvIz9yjK32TytYGnHc1h43tb4D/rc/o0pSR2SxVcbrGC6a7RyYH8mRm/8LQ==;+/d5MlxSb4EA0gqk6kJd2g=="
 ---
 

@@ -45,22 +45,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray"
-    excerpt: "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals."
-    publishedDateTime: 2020-09-29T17:49:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 81
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "rLNksJTcS3yPdZHH0znAZLX3H0rTIRDK40LekFkxpfl5zqMactQpyA9V/WgkfRBi/VI6+gYJ16x0WmAWO7CtfC6iXmBrU9Otgkc4jmeesDmchkoEtl6Z2xKNNWQw5CambYB6XmnV8kefKU8TKo9kp3VfdQslHI1FlWHX2QufBsIIXT7KA/QipPVaI0rFsCDvaHydnUeiB08Zt4e35Ip67/ZMXa+MBXbpq7RFIlZ5lFp/hdAkwKBQmi7UENO0Up+qJ8hS7K1t7FVBk26xns72hyzNnmUaLaW34MOQVn91PYnv1jGxorI0O5D1ik7uRehANpCWSS4fs+2OYdM2FIelGJxwgnvt7cYmdRGw3usLpA8=;IqEqZrqWk3FbeV3qV3tfwg=="
 ---

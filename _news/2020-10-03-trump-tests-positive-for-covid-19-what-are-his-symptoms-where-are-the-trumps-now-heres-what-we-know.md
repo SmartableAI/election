@@ -474,6 +474,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Trump reports feeling better, but here's why the next few days are 'the real test' in his COVID-19 battle"
+    excerpt: "Several days after symptoms of COVID-19 appear, the body's immune system must make a critical switch to fight the virus with precision."
+    publishedDateTime: 2020-10-04T02:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/trump-covid-19-update-why-next-days-crucial-presidents-health/3613288001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3613288001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3613288001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump moved to military hospital after COVID-19 diagnosis"
     excerpt: "U.S. President Donald Trump moved to a military hospital for treatment on Friday after being diagnosed with COVID-19 as his administration and election campaign scrambled to adjust to an extraordinary twist in his turbulent presidency."
     publishedDateTime: 2020-10-02T23:02:00Z
@@ -740,6 +756,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
         width: 800
         height: 412
+        isCached: true
+  - title: "Donald Trump COVID Update: Dr. Sean Conley 'Coy And Evasive’ During Conference On President’s Health"
+    excerpt: "His update outside Walter Reed Medical Center was supposed to provide more answers about President Donald Trump’s current status following his COVID-19 diagnosis and hospitalization, but Dr. Sean Conley appeared to leave the American public with more questions instead after speaking with reporters."
+    publishedDateTime: 2020-10-03T17:49:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-covid-update-dr-sean-conley-coy-evasive-during-conference-presidents-3056216"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-covid-update-dr-sean-conley-coy-evasive-during-conference-presidents-3056216?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-covid-update-dr-sean-conley-coy-evasive-during-conference-presidents-3056216?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 60
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/03/dr-sean-conley.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "White House Chief Of Staff Mark Meadows Says Donald Trump In ‘Good Spirits’ Despite COVID-19 Diagnosis"
     excerpt: "White House Chief of Staff Mark Meadows did not reveal whether President Donald Trump is taking any treatment for the virus."

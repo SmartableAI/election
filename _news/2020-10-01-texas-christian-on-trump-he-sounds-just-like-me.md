@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-so
 webUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf"
 type: article
 quality: 105
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump told group of Christians how he said 'excuse me?' when Mike Pence asked him to pray"
-    excerpt: "Donald Trump told a group of Christians he said 'excuse me' when Mike Pence asked him to pray with him at their first meeting, a new recording reveals."
-    publishedDateTime: 2020-09-29T17:49:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8786015/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8786015/amp/Trump-told-group-Christians-said-excuse-Mike-Pence-asked-pray.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 81
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/29/17/33774130-0-image-a-39_1601397417770.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "fU68tnOa2S544j7Q/eWHVGGgvt0bEkd9e7LCC1KbpjpcWRhVLhyECllf2wV15T/pnWGIX8dz+eCcH5lLTPohuXPHLa5ZbIT9yY9NDrdjUwNzCXo/wNUVPbLsi1r0xz+8aBVxL1VvqaXYitSuVjIcU6nFbfAY6utzi2ml49N/KvwkjCIfEr8JswSUjnkmM4VqgZcq2MFVnMVc9f3bzPCsm3gb7FFF7xB+nA5QuF21/qBhwMOPyqyk2YELvu029a/v+OoR8PXqG3dVTUG9XoCW6vo/t+7nEPxzwNi7iUQfEPCBEgFcJgocBwB+5ZINnnSwQBN5MfPLQNe1i6AYyP/nSNeTvj7rQ7/3sUceQBaKAOM=;5hCRkXIzczKfVerCvErJOw=="

@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Texas Christian on Trump: 'he sounds just like me'"
-    excerpt: "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T"
-    publishedDateTime: 2020-10-01T15:33:00Z
-    webUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf"
+  - title: "'The Squad' Responds to Twitter Policy Banning Posts Wishing for Trump's Death: 'Excuse Me?'"
+    excerpt: "\"So... you mean to tell us you could've done this the whole time?\" Congresswoman Alexandria Ocasio-Cortez tweeted."
+    publishedDateTime: 2020-10-04T03:21:00Z
+    webUrl: "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234"
+    ampWebUrl: "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Don’t be like Trump: Deducting hairstyling and home expenses from your taxes could get you in trouble with the IRS"
-    excerpt: "Trump tax returns confirm that the rich are different from you and me. So, no, you cannot deduct the cost of getting your hair cut and styled"
-    publishedDateTime: 2020-09-29T21:27:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d.newsweek.com/en/full/1645787/squad.jpg"
+        width: 3000
+        height: 2192
         isCached: true
 
 secured: "X6Jd1sc+lq8E4A7E33XrsUeILWpuVZZZbIk2MBAUPF+pjYAB3JGm1zR8fC6CI1kD9i2SqLcRkodEooHL0GOc55h+JLJCvx/bLwNbmzbnsMByZIOyCIGW/78LP5AxYiXm1vk7FuJ0KrFq0duyVpeNgyg8fPLaJ2oWQKfLJkrRZs8xWbqJu7uBJKgHfgP6WyQNbIQyP9uHLcyhH/t0IJmx3jPAO28UXxlVvnwByWsHu2UBJprUSUmimjQaWidQZRTOFDp6kPoXLJNDjyeB2/zssko9hNeXvc/rSWQVE3bGi0hwCBFG+uMdcITqlQtGGjamRHnnnbQpNZNyifEvkJdrG+UggO9pVpW8xOibj2FAtW8=;FWOxpONAB+ym8tEfSih7lA=="

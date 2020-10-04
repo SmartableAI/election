@@ -507,6 +507,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Donald Trump Doing 'Well,' But 'Not Yet Out of the Woods,' White House Says"
+    excerpt: "The president's physician sent a memo Saturday night with updates on Trump's condition, saying he's fever-free, and has completed his second dose of Remdesivir."
+    publishedDateTime: 2020-10-04T01:41:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1645785/donald-trump.jpg"
+        width: 3525
+        height: 2350
+        isCached: true
   - title: "Trump Uses Curve Gesture While Saying He'll Nominate a Woman to Supreme Court"
     excerpt: "President Donald Trump said Saturday that he will \"most likely\" nominate a woman as his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg—but it's a hand gesture he made that drew his critics to accuse him of misogyny."
     publishedDateTime: 2020-09-20T14:49:00Z
@@ -1202,6 +1218,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20201002&t=2&i=1535828951&r=LYNXMPEG910W2&w=800"
         width: 800
         height: 533
+        isCached: true
+  - title: "Trump making progress but not out of danger, doctor says"
+    excerpt: "U.S. President Donald Trump is free of fever and improving after being hospitalized with COVID-19 but is not yet out of danger, his physician, Dr. Sean Conley, said late on Saturday."
+    publishedDateTime: 2020-10-04T01:51:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-evening-idINKBN26P02D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201004&t=2&i=1536071390&r=LYNXMPEG9301L&w=800"
+        width: 800
+        height: 432
         isCached: true
   - title: "Trump not yet on clear path to recovery, source says"
     excerpt: "President Donald Trump is not yet on a clear path to recovery from COVID-19 and some of his vital signs over the last 24 hours were very concerning, a person familiar with the situation told reporters on Saturday."

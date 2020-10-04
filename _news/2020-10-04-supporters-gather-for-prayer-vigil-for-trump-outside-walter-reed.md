@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/supporters-gather-for-prayer-vigil-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Virginia Senate debate sees Warner, Gade clash on Trump, race, health care"
+    excerpt: "Democratic incumbent U.S. Sen. Mark Warner and his Republican challenger shared the debate stage Saturday night in their second meeting ahead of Election Day in Norfolk, Va. "
+    publishedDateTime: 2020-10-04T03:29:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEY8SY4FPcg/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care"
+    ampWebUrl: "https://www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20277814149900.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign YouTube takeover to feature Trump message thanking Americans for support"
     excerpt: "EXCLUSIVE: The Trump campaign is taking over the YouTube.com masthead for 24 hours beginning at midnight, Fox News has learned, featuring the video of President Trump as he was departing the White House for Walter Reed Military Medical Center to be treated for COVID-19."
     publishedDateTime: 2020-10-03T23:43:16Z
@@ -48,6 +64,6 @@ related:
         height: 340
         isCached: true
 
-secured: "wpgb726zb3NORdmZLxhiRFIcOrY79GTjw8On73A2cfP3SVG+PpxN0R+s9tiMw77JdMtAWT/Nz50YT00xmUfFOvzHKB1PdmZNXwPnLkU2eS3j3UBAHdG9A5BPGcpLOFIFbNBwIB21qBtVqOU+g0rfdMWosVWIDEiSN9iOvY5ZoEJVesG5yh11hvwjkiSWXKJqPivE5pSK43AL5LO45p7HXS73BN1fhfZTqRrtU60+eNWr2iQPm/NXuTvA/jpBfqzpfhR9nwNYPDGG6doDvj/XrVbqnfFdDcFSecHawwPyy6GxwdF24IObtmBslSp1QdcmdAjL6wkkadKnGdEWPKAaZGv8QBt0X4Z7FZkljmisoMY=;1kznRtAX1IbEhn79A5ctuA=="
+secured: "hOXRVGbLMVEQ6tYywoUXAMIf3ZfvHkjy2GHk9sVKsUNiQM6N2wHkvmXd1CUgdhA5yS2vNHsh44ceqts0NTQnczBcf8BmPo9aLCd4yPplZgSJQLpnYX/nJVIRnTU+ryZAiYNib97sOAn29gbvS+j5v+ot0QVDUtKudpV6X5mPgCK1bIOZ5OG4tGLZXM/MWJPIaEn+U+330tkiw+rxnwoihMv7N3yVcJNcEL4Ycv5TEFuN5x5MeUPAeOjT8WRMyPtmVY8DM6dz6NmBCttpFCk3+5sM7/MTA437KIab/v/PSjp3OmiI0uaN9Ilw4TYaEDiGgNQcZB3HMRnMHtKB9D5sSY+g25Utgs7v0RNV5d9DjM8=;HP/IKhqtc51nEukEr4lssA=="
 ---
 

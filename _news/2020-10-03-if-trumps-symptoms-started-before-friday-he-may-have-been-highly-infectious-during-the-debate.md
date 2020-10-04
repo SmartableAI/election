@@ -351,6 +351,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump, 14 others positive for COVID: A running list of those being tested and their results"
+    excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
+    publishedDateTime: 2020-10-04T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Masks still won't be required in the White House after Trump's COVID-19 diagnosis, official says"
     excerpt: "President Donald Trump has repeatedly flouted recommendations from top public health experts to wear a mask or face-covering."
     publishedDateTime: 2020-10-02T19:46:00Z
