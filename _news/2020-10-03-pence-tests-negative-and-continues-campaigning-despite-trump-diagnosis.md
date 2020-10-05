@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
 type: article
 quality: 200
-heat: 3960
+heat: 3980
 published: true
 
 provider:
@@ -2141,6 +2141,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_25/3390382/200616-dexamethasone-al-1354_8fa7f50045bd54e384cc04a4191c4926.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Hear what these Trump supporters say about Covid and the president"
+    excerpt: "Donald Trump's coronavirus case received a sympathetic response from his supporters rallying on Maryland's Choptank River."
+    publishedDateTime: 2020-10-05T10:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-briefly-leaves-hospital-drive-supporters-n1242088/ncrd1242091"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3417432/201005-trump-cavalcade-mc-909_442fae005aa65d204c8c6cf3ad2cb39e.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump makes surprise appearance outside hospital"
     excerpt: "The masked president was captured on video waving from inside a black SUV, which passed cheering people standing close together, many of them not wearing masks."

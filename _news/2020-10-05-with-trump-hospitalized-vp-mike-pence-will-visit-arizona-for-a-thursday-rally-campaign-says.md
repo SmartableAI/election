@@ -2,19 +2,19 @@
 category: news
 title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
 excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
-publishedDateTime: 2020-10-04T23:01:00Z
-originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
-webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
-ampWebUrl: "https://amp.palmbeachpost.com/amp/3608558001"
-cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3608558001"
+publishedDateTime: 2020-10-04T19:23:00Z
+originalUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+ampWebUrl: "https://amp.tennessean.com/amp/3608558001"
+cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3608558001"
 type: article
 quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - Election
@@ -72,6 +72,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_386951b5013d4be194086fac35bd2267_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "One month out, battered Trump campaign faces big challenges"
+    excerpt: "President Donald Trump and his reelection campaign have had one challenging week: His long-hidden tax returns leaked out"
+    publishedDateTime: 2020-10-05T07:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_f70a4a123ffc4358a91b7bfa117e0ce8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -218,6 +234,22 @@ related:
         width: 5568
         height: 3712
         isCached: true
+  - title: "Trump criticized for leaving hospital to greet supporters"
+    excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"
+    publishedDateTime: 2020-10-05T11:28:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP-1.jpg"
+        width: 619
+        height: 413
+        isCached: true
   - title: "EXCLUSIVE: VP Mike Pence tells Channel 2 President Trump won Tuesday’s debate ‘outright’"
     excerpt: "Vice President Mike Pence is defending President Donald Trump’s performance following Tuesday night’s controversial debate and says he believes Trump won. Channel 2′s Richard Elliot spoke exclusively with Pence following his appearance at the Faith and Freedom Coalition conference that was held Wednesday at the Cobb Galleria Centre."
     publishedDateTime: 2020-10-01T05:43:00Z
@@ -258,6 +290,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "Egwtv+Hez76WCWeFLq/xdImzFBA/hJ/sKylzIJJpd4TaAXQfz0L9W7Fel/4rBFzEOHrZ0AZDKnwVsSE+Eg894kD9O7LWdEoNhnLRvkRP9FCX7xkRZN6KHuA8v10tBMvxcynMfN1N+Rgx2Pv1h53R2Sas3rRsQHe5MXdNZu7sc//x1hU6TjW9hjcQ1QMP6olyqCVlSDQ5ElnSQMuZ4+F7MRrOXvGSo1whj7K2JoVeDkggoEJSBT1BI1keMSYVd32uoXQJLDtQrl93SOS8wnNjuXTVQ8MkPgCK0uWJEgtJY6igMPLA2sNm008LZC+ZXUEEhQiZeAHAS3KRJx+vyztVUoYpo/CFx9XdCs3eqLMEKUyc0Vy1B8nGnQGNYN/qKs96V6KnV5uC49QW+nopwEI075ViMZUnwYCuW73SuLNnPjaF81pKOg5GLTClQqQqu1g9HPvkKAGVO/1RXhg6008CroA3FA/0XzdxLH8qkj9wMBJY7K5JYugzDu18/Lm/ymKXpEecGLlrHoIA20ahBe+Z0Q==;H0wnoOXp04CmBOvJ1u22Yg=="
+secured: "mDellYNq5qhV9rx19kPdNb9AJFqw26d7rF4uqRCE5IiJY09U4iqg1nYSLsJMa8WsUrG91oMua2bBLzhJJUGuWydmNJDzse9oRWHJoGAMjNhrLD3rZS2uwSrT1ZBkD9eJH1gtQEzO5zJbA31jCHemEi+7CsvsvW4K9IaKFdrbHvcAJlpO9rxt+7GLaxdbFV3yC8KDTt9d80njk6icfzYsvP5n5ugTftmScTA1dxCqKGxIjxEpENIgf1+9S0M9CM7pvjQ5CqFjAYZrzaQZEyDdF6nlTKnrU5TryKrCK2yShZr63qLDzPkRRQzIUGRvNt+HtF6gH6Xdb1RBbpZBU0f1e7IPkek6acW3UeFIPXI6pEo=;riC5fzPKTtj3A5bslXjcsA=="
 ---
 

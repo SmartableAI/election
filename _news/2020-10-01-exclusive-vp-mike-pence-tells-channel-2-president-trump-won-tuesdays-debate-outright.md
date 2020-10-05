@@ -73,6 +73,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "One month out, battered Trump campaign faces big challenges"
+    excerpt: "President Donald Trump and his reelection campaign have had one challenging week: His long-hidden tax returns leaked out"
+    publishedDateTime: 2020-10-05T07:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_f70a4a123ffc4358a91b7bfa117e0ce8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Leaves Hospital To Greet Well-Wishers Outside"
     excerpt: "Trump left Walter Reed Medical Center, where he is being treated for coronavirus, Sunday and was driven by Secret Service agents past well-wishers who had lined up outside the medical facility, as part of a spontaneous makeshift parade that occurred just hours after doctors disclosed the president had been treated with oxygen and steroids."
     publishedDateTime: 2020-10-04T21:46:00Z
@@ -218,19 +234,35 @@ related:
         isCached: true
   - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
     excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
-    publishedDateTime: 2020-10-04T23:01:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/3608558001"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3608558001"
+    publishedDateTime: 2020-10-04T19:23:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/3608558001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3608558001"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: Tennessean
+      domain: tennessean.com
     quality: 79
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump criticized for leaving hospital to greet supporters"
+    excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"
+    publishedDateTime: 2020-10-05T11:28:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP-1.jpg"
+        width: 619
+        height: 413
         isCached: true
   - title: "Vice President Mike Pence to visit Iowa Thursday"
     excerpt: "DES MOINES, Iowa (KWQC) - Vice President Mike Pence will visit Iowa on Thursday, October 1. Pence first plans on delivering remarks at a Trump Administration event in Carter Lake. During the event, he is expected to discuss Iowa’s unemployment rate and jobs."

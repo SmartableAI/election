@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-t
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -261,6 +261,17 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 105
+  - title: "Oil rebounds on Trump health update, Norway shutdowns"
+    excerpt: "Oil prices rose on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
+    publishedDateTime: 2020-10-05T11:07:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN26Q060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q060"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q060"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
   - title: "White House official says it's better Trump was hospitalized while he could still walk to avoid images of him being carried"
     excerpt: "The White House said Trump was hospitalized \"out of an abundance of caution.\" One official said it could help his political image, the New York Times reported."

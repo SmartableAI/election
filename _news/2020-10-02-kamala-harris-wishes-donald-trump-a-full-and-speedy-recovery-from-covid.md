@@ -160,6 +160,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
+    excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris. Date: Wednesday, October 7, 2020. Location: Universi"
+    publishedDateTime: 2020-10-05T11:05:00Z
+    webUrl: "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 146
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/04/19def6a2-ce46-4d7c-aef0-ef22b057d114/thumbnail/1200x630/81909c8d04ab0054ef6b66ffc61d14a9/ap-20276586203171.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "White House says Trump 'not incapacitated,' working from isolation; Pence negative"
     excerpt: "The White House tried to reassure Americans on Friday that President Donald Trump was still working from isolation, after his bombshell announcement that he had caught the coronavirus threw the administration and presidential election campaign into uncertainty."
     publishedDateTime: 2020-10-02T15:14:00Z
@@ -337,18 +353,29 @@ related:
         height: 545
         isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
-    publishedDateTime: 2020-10-03T00:08:00Z
-    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
+    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
+    publishedDateTime: 2020-10-02T19:35:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 130
+  - title: "Vice President Pence, Sen. Kamala Harris set to face off in VP debate"
+    excerpt: "CNBC's Andrew Ross Sorkin takes a look at what's ahead for the week, including some news from the Fed and the vice presidential debates."
+    publishedDateTime: 2020-10-05T11:15:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/05/vice-president-pence-sen-kamala-harris-set-to-face-off-in-vp-debate.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 130
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
-        width: 810
-        height: 285
+      - url: "https://image.cnbcfm.com/api/v1/image/106729766-16018947981601894796-11764345025-1080pnbcnews.jpg?v=1601894798"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
@@ -777,20 +804,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/29/daf5b565-8cd2-4f1e-930b-b9b320374df1/thumbnail/1200x630/838c7ceca12060ee70bf086a2627041a/0929-en-okeefe-556382-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Mike Pence's role in the Trump administration"
-    excerpt: "Mike Pence's role in the Trump administration has been forced more into the spotlight with the president's illness from coronavirus. Here's a look back at Pence's career."
-    publishedDateTime: 2020-10-04T11:55:00Z
-    webUrl: "https://www.usatoday.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e3bab1f8-81e3-4fd2-b844-0f0af5276b68_poster.jpg?quality=10"
-        width: 1280
-        height: 720
         isCached: true
   - title: "China had mocked Trump for not taking the pandemic seriously. Now it's very personal."
     excerpt: "China is riveted by news of Trump’s positive coronavirus test, even as senior officials remain reserved in their public comments."
@@ -1903,6 +1916,20 @@ related:
       - url: "https://www.fccnn.com/incoming/6677659-aey5v5-PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg/alternates/BASE_LANDSCAPE/PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg"
         width: 1140
         height: 712
+        isCached: true
+  - title: "Mike Pence's role in the Trump administration"
+    excerpt: "Mike Pence's role in the Trump administration has been forced more into the spotlight with the president's illness from coronavirus. Here's a look back at Pence's career."
+    publishedDateTime: 2020-10-04T13:19:00Z
+    webUrl: "https://www.cincinnati.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e3bab1f8-81e3-4fd2-b844-0f0af5276b68_poster.jpg?quality=10"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Maya Rudolph Nails Her Return to SNL as Kamala Harris — Down to the Converse Sneakers"
     excerpt: "Maya Rudolph is stepping into Sen. Kamala Harris's shoes once again for Saturday Night Live. Maya, a former SNL cast member, made her return to 30 Rockefeller Plaza on Oct. 3 to reprise her role as the Democratic vice presidential nominee. Naturally ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3518403001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518403001"
 type: article
 quality: 126
-heat: 646
+heat: 666
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/kRsm-krjMvssFaeh4m9LxoXLvfE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPXJMF6M6ZEF5M6MAJQCQ5FA5I.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds"
+    excerpt: "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,"
+    publishedDateTime: 2020-10-05T11:40:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246216955.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246216955.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246216955.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 83
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f4761fca-22cf-457b-bb5b-25c8c5877932/dc6ba712-84ad-49d0-be23-fb3df9b27dff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
     excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."

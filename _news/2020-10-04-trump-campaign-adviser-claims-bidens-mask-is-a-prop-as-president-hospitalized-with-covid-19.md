@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
 type: article
 quality: 178
-heat: 438
+heat: 478
 published: true
 
 provider:
@@ -156,6 +156,38 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/af/b6/f1d573e448078b263ca5a7a960af/webp.net-resizeimage.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump lets the tweets fly from inside Walter Reed hospital"
+    excerpt: "The president hasn't been this active on the social media platform in days as he's undergone treatment for Covid-19."
+    publishedDateTime: 2020-10-05T11:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-lets-tweets-fly-inside-walter-reed-hospital-n1242094"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242094"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242094"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417453/201005-trump-health-mc-1204_06e8020cbda3d2e9487750ac644a07f1.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump official pressured CDC to change report on Covid and kids"
+    excerpt: "Amid Trump’s push to reopen schools, Michael Caputo’s science adviser asked that the health agency alter its warning about a study of pediatric coronavirus."
+    publishedDateTime: 2020-10-05T10:14:00Z
+    webUrl: "https://www.politico.com/news/2020/10/05/trump-cdc-coronavirus-report-change-425538"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/05/trump-cdc-coronavirus-report-change-425538"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/trump-cdc-coronavirus-report-change-425538"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/cc/37/77fa5dcd4ca08a5710b9f8491a79/gettyimages-1277364658-1.jpg"
         width: 1160
         height: 773
         isCached: true

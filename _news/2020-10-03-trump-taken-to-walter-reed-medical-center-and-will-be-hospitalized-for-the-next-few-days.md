@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'That should never have happened': Inside Trump's Walter Reed parade"
+    excerpt: "Pacing the well-appointed presidential suite at Walter Reed National Military Medical Center between intravenous doses of remdesivir and near-hourly checks of his vitals, President Donald Trump has told more than one well-wisher he's desperate to fly the coop.\n    \n"
+    publishedDateTime: 2020-10-05T11:02:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GRLp57TfTbY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/trump-secret-service-trip/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-secret-service-trip/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004173307-02-trump-walter-reed-motorcade-1004-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Attacked Rochester Protesters. Not All Local Republicans Agree."
     excerpt: "In Western New York, the president’s vilification of Black Lives Matter protests has forced candidates to decide whether to line up behind him."
     publishedDateTime: 2020-09-26T09:12:00Z

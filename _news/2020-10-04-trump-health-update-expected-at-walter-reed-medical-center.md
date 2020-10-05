@@ -351,6 +351,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump's coronavirus diagnosis, recovery"
+    excerpt: "White House physician Sean Conley said President Trump's condition improved on Sunday after the president experienced significant oxygen drops on Friday and Saturday."
+    publishedDateTime: 2020-10-05T08:34:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ux-vt-B1czQ/live-updates-trumps-coronavirus-diagnosis-recovery"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-coronavirus-diagnosis-recovery.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-coronavirus-diagnosis-recovery.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5723dd6-dd6b-499d-9be1-e4e2122781c1/bfed0156-cf47-4aa3-adf5-71824ca53dbf/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "After Trump COVID diagnosis, Pentagon says alert levels remain unchanged"
     excerpt: "The U.S. military's command and control structure is 'in no way' affected by the news, DoD says."
     publishedDateTime: 2020-10-02T20:26:16Z

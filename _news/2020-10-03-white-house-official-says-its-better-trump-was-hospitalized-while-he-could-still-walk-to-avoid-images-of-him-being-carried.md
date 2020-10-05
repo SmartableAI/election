@@ -278,6 +278,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Oil rebounds on Trump health update, Norway shutdowns"
+    excerpt: "Oil prices rose on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
+    publishedDateTime: 2020-10-05T11:07:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN26Q060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q060"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q060"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump says he doesn't know Proud Boys, but 'they need to stand down,' as he faces backlash for not criticizing white supremacists"
     excerpt: "Facing criticism for not denouncing white supremacist groups during the debate Tuesday, President Trump said he's \"always denounced any form of any of that.\""
     publishedDateTime: 2020-10-01T04:12:00Z
