@@ -227,6 +227,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump Announces He’s Leaving Walter Reed Hospital to Infect the Rest of White House"
+    excerpt: "He claims to feel better than he did 20 years ago and told people not to let the deadly virus “dominate” their lives."
+    publishedDateTime: 2020-10-05T20:46:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 65
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7b78a06cac71ad7f787f72/master/pass/donaldtrumphospital.jpg"
+        width: 2000
+        height: 1281
+        isCached: true
   - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
     excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
     publishedDateTime: 2020-09-29T06:26:00Z

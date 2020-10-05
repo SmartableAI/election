@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 3440
+heat: 3460
 published: true
 
 provider:
@@ -2519,6 +2519,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Joe Biden campaigns in Little Haiti"
+    excerpt: "Democratic presidential nominee Joe Biden stops in Little Haiti to speak to Haitian-American leaders and ask for support on Nov. 3 as he seeks the U.S. presidency against President Donald Trump."
+    publishedDateTime: 2020-10-05T21:37:00Z
+    webUrl: "https://www.miamiherald.com/news/local/community/miami-dade/article246242950.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 35
 
 secured: "Kpl4MoYsC5MLhKavFC3kt7ilpEvC3dst15ZgnYI7oLPWm24Dq6teFy0gBaQm3wm7I7pRee8URWHkTa5bSbRickx/f+/cYYzbAoKywfC3drz5wGRlnNAOjZWEEZur0HFJdv9nempFz6Yh4o7W16rCGn7uTZSPKDknEgD2f9a84ufcetWQ/oMVBI0hMSA/4V8GXUA6m84WfDDiu00yN9QBq6VFW0vs6PzFcJgAb/HBLwJa8n+xX6npXg36iJam4qm4sPJ3FlYUCTTQT4vL6NMWb/RqiC1sU8I9RlP1vBkYpS1FHx2viCA0/q/2NKquZLO0Gnk7Rr8XBqFiZZv25QINdt1K1WtEr3dOGlEhHA31t4CqEvD/rUjGCvJGXUTUk5LjfqjNQnbzILwnvAqlvZT/nTuhNbHpZZ8dsJk0UhuHwzl6cocyubKi3acydhwJL2Cj633BmXQ8KMStCbFwoULBHAju3AYSitYsDgq0MRLyrDMyVtIChgqNXwfE6MsVdv1QmAwELVxew4zGlCnP/Ap1tQ==;aQjR0pFFyTx3QGQ9H18BDA=="

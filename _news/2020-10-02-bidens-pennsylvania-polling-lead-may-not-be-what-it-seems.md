@@ -42,6 +42,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Despite Trump’s wishful thinking, left is standing with Biden"
+    excerpt: "Sen. Bernie Sanders is making it clear to his legions of younger and progressive supporters whom they should vote for in the presidential election."
+    publishedDateTime: 2020-10-05T20:14:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhC2WF-cYGc/despite-trumps-wishful-thinking-the-left-is-standing-with-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/despite-trumps-wishful-thinking-the-left-is-standing-with-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/despite-trumps-wishful-thinking-the-left-is-standing-with-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcd6f131-8bb7-497e-b830-1df8e24e0b05/d06f284d-0636-4e9c-abf7-0050dc54c8e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden up 14 points on Trump following chaotic debate, new poll indicates"
     excerpt: "A new poll shows Joe Biden with a 14 point lead nationally over President Trump, following the first presidential debate last week. "
     publishedDateTime: 2020-10-04T22:21:29Z
@@ -153,6 +169,22 @@ related:
       - url: "https://images.wsj.net/im-239971/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "'Disgusting': Joe Biden Tells His Tens of Followers About His Trump 'Death Blow' Fantasy"
+    excerpt: "Joe Biden’s campaign said they would pull negative ads upon news that President Trump had tested positive for coronavirus and was being admitted to Walter Reed Medical Center. I mean,"
+    publishedDateTime: 2020-10-05T20:25:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 91
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Joe Biden and the Green New Deal"
     excerpt: "When asked by moderator Chris Wallace during the first presidential debate of the 2020 campaign season if he supports the Green New Deal (GND), Joe Biden said, “No, I don’t"

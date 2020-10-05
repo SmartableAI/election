@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris and Mike Pence to be separated by plexiglass at Wednesday's debate"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will be separated by plexiglass at Wednesday night's debate, a source familiar with the preparations tells CNN, as the White House continues to be gripped by a coronavirus outbreak.\n    \n"
+    publishedDateTime: 2020-10-05T21:12:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ym6qI8Tn_YM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/vp-debate-plexiglass/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/vp-debate-plexiglass/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 205
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930151257-02-commission-on-presidential-debates-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden and Kamala Harris don't want to talk about changes to the Supreme Court"
     excerpt: "Joe Biden and Kamala Harris made it clear on Tuesday night that they don't want to talk about changes to the Supreme Court, including expanding the current nine-justice bench.\n    \n"
     publishedDateTime: 2020-09-30T17:06:00Z
@@ -111,6 +127,22 @@ related:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/n_joy_debatepreview_201004_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Pence-Harris V.P. Debate Now Has Big Consequences"
+    excerpt: "Vice-presidential debates can often be afterthoughts in a presidential race. But with President Trump in the hospital, Mike Pence and Kamala Harris will now face an unusual amount of scrutiny, and a tricky balancing act."
+    publishedDateTime: 2020-10-05T21:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/04/us/04elections-Veep-pence/04elections-Veep-pence-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
@@ -193,6 +225,6 @@ related:
         height: 550
         isCached: true
 
-secured: "7JnuaV0QDZ6Bn/mKC4loeVQ1tYE6fkKvzm1bRjTn5Qoaq7XGDweR8/XJlK4xqQYG673fQ6PQ0jAsQlPwPtBHKsExIMgZsFPqPdU885jRp+9FnANYWSuLB1afoZUBp5xrAEMdYgMFnfGF1t65mH4gHjW4s6VK5eKFimIqDfKKj2XeHhjAsf8bCxByBnWhpqHhInMDh6HPx1lFMEOM2kXB7bTppwA3Vz+k/1ZXSXOrg0sbaJRxTCWouw10IMPcO+/YwxzHyF9bGLzmEWJcnDRTKOwAL8J3e1W3U6TtVdwUgIaGwu58LNe5GEwU/EmeNEHm4nfLQNHPcQTTCPAmRHXsV0FahRx1PseVo1ngBkUDjiw=;9EvrFtgoyM/X/5neq9tcxA=="
+secured: "hxs948vV9ijZH0Mz/Y2RCog9MHceJClDT1v5k14oIO7Vjc6j/hpKBQjt8qi2LZGQNGZXWzG60ajXsYOTEjUJ+qJ6w3tnEJrJCKjyCCnmJ/+PT5t0lYXtFqCbYYcViD71m9FMIJQNGC11nLr/bEQ5XcN/3c1zr1cxAwiIckEpljgmvACdbUkAE+QI1fEtr2Q82DJhj3K0BzBXHMTHhBN9iYNIglgYkGcqhjcYLWAqjICyaMWJfmQ+LrikYZyanzGwq7BO0VS3q/bxBSw5PQ/K08Lg8UodYbWAqUFztapfVe4zH98iuFV458e4suKz4o8qnKc3bfd1EByaqw7AcJk/Jx3+atxs1Ztk6Kee1xNIxCqynRv9sHB2mTMOGuEwUxJYj4+AB5liXAzVWo+zRAyXMDG0Zasb9lkAprizilNVXglUi1lUEQxSmepW/D1C5hx+M8jOo4Huwh62Yshl2QiVoQxeOfhIbzOq0iyggSWYoLDbwTNnzGKxrH7G2HCUIjvRKM71tpYvEddkE8L2Kv2VTQ==;NTNRkbubBt4ltVN3TGRIOA=="
 ---
 

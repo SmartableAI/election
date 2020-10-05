@@ -2514,6 +2514,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden campaigns in Little Haiti"
+    excerpt: "Democratic presidential nominee Joe Biden stops in Little Haiti to speak to Haitian-American leaders and ask for support on Nov. 3 as he seeks the U.S. presidency against President Donald Trump."
+    publishedDateTime: 2020-10-05T21:37:00Z
+    webUrl: "https://www.miamiherald.com/news/local/community/miami-dade/article246242950.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 35
 
 secured: "FW++vPgtLpVaQIuaX70HwIz+ioGfXy3b6TNN3DeNfS3ZaOmxmcxTdN9ajeUqSmdCMvPlR+Q8TX9b04W1tj9LrpKrmRMG3k3nGJTIS3EEhEEKTP1p8QmfQsXPViAyK878J78jNCJTpfcwJPjk1gz9KsP0a48wtploCjWHaeGSieksHNLlcF6/kXhRMX2n/kRu3Yv3fW0K9K7ek3rzHFXuAe5MYC3hd7QAdZVpIQFbJMohZjdQQz5FGDXjVRpNBq6wjeoTAHTcqBIE0/7wErTYHcGQwdkJhntxumoIvkytZuMgIu5aQT7sRvRivwmkDUAx/Uq1K7mByyvShdTVCwuC/xuebKpEYWRZLu2f+TD2r5zVCy8OYxByXKqhlELblRbn6EyQ8kIED9kZO/1nyPS8t3H1ngEJPMXOb2kH+wUvEH9Ie8o7a0VW7gncNPYJOrB4r8WVwP9UvCIriKF2zouA+Vlk1NVjzMC71epIGcvbFkSuAgeD+jbi4Pp+GE5lr7AO63ElEbCZcCIQtNtuH6pXqQ==;0+v4VYtggGtflXdifoVzRw=="
 ---

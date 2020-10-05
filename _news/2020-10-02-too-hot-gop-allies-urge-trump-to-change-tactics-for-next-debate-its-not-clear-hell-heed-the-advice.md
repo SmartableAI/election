@@ -47,6 +47,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Doctors: Trump 'not entirely be out of the woods'"
+    excerpt: "President Donald Trump's medical team says the president \"may not entirely be out of the woods yet\" as he heads back home to the White House. Dr. Sean Conley, the president's physician, delivered an update on the president's health Monday."
+    publishedDateTime: 2020-10-05T20:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/doctors-trump-not-entirely-out-woods/3629960001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/395788b2-2df3-4c6a-86fa-60427e99bafb_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "f20iUt1zT1eA173gIPp/5aZ5Ylx8M13rFUDnA1SdKEKchzyQA/SOn0+XTA1PZs006eoTr1Z52COpWbpNiDiepsfcTA9/W54QZ3Gg2BASUdgaxGhKI7Pv9mFpOMnREau/hR+p9EAB4VCJe+iosxN2t4XNHeAvFvidfWKK6dmV/DDNZiP+DcHlwN5pE2JGPHl4GTnzOh1XyMfgdOtzZF67Lgc2k5rWkM91rzKTLzlmbe1WtnbAoaiyXgCZbR1i09mQwcZVwe0k4h3Bsdtb95JwcmGa4hwl0r4iSl+bbZG9lCB7zkMJpkuVELiKu0ceg3sD1m3QXNzncDqWCFcAES71wpSApeW9SqMRF2UA0alh3fY=;mVawaSsOhJDveDW6kHmChA=="
 ---

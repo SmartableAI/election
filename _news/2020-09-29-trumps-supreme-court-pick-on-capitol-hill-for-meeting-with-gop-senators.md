@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How Trump's Covid-19 treatment is far different from what most American patients get"
+    excerpt: "If you get sick with Covid-19, don't expect to get the same treatment as President Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-05T21:06:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ucHxPuXPqiU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/health/donald-trump-hospital-treatment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/health/donald-trump-hospital-treatment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003122957-02-trump-doctors-presser-1003-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump took photos, had roundtable with donors at Bedminster fundraiser hours before announcing Covid diagnosis"
     excerpt: "President Donald Trump's big-dollar fundraiser at his New Jersey golf club went on as planned Thursday night despite the President and staff knowing he had been exposed to coronavirus.\n    \n"
     publishedDateTime: 2020-10-03T19:48:23Z

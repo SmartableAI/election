@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New York attorney general's office deposing Eric Trump in tax investigation: report"
+    excerpt: "President Trump's son Eric Trump is being deposed Monday as part of an investigation into whether or not the value of certain Trump Organization assets were improperly inflated in order to gain tax benefits."
+    publishedDateTime: 2020-10-05T21:34:00Z
+    webUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax"
+    ampWebUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 119
+    images:
+      - url: "https://thehill.com/sites/default/files/trumperic2_082520getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "President Trump's taxes already at center of at least two New York state investigations"
     excerpt: "Even before The New York Times' major report, President Trump's taxes were at the center of at least two major New York state investigations."
     publishedDateTime: 2020-09-29T04:33:00Z

@@ -80,6 +80,22 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 81
+  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
+    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
+    publishedDateTime: 2020-10-05T20:50:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/10/AP_20279708089124.jpg?crop=0px%2C168px%2C5364px%2C3017px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bankole: Joe Biden claims he is campaigning in Michigan, but can voters really tell?"
     excerpt: "When you drive around Detroit's most underserved areas to the most stabilized there are few Biden signs dotting those neighborhoods, Bankole writes."
     publishedDateTime: 2020-09-21T03:12:00Z
@@ -134,6 +150,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "YImGeM5iGmp16Gy32lomjW3HR9WfNGiLB4z6pxylAx7GzqYCrFwkfxTN92fcKF6Y9DZGaTD91INMaf04VDiutWmHNI896DHUOPf2iF+DdRlJKICT9/g58iBYI5vVgWBqNc5+mk0lNKtTOICdF1OKrMqRH/iPL8cgaJPgn67izKZwIOIO3z4oAJsWly9jxtxOg7h71uOJjxGBoKhffEiNJCE4Ex+ivu3IbhW2zMpppyVlZQkGfPxRz/5UUXWpVvuSjoPaFxOgbPcIdSENRqNX8xaVTJRyUmz3xoVrdL0id1y+u/IbumcMs1FWBUGuCw+cdlwSr7KBjeXcJ9SUR72P48/FOT3TbKLg4hdd53m6//w=;M+zQj28ubEJvTEfQQVLG/A=="
+secured: "p7U4GGU1YQeaee2h9QhHXrUz6tgofa8YUyFzb7iOuF8ay41LgsEniEO98jNSzxduzJdKkHV3UjVclwDxwbm/VtB/Le+Tt/QKKKGkdoj7/PEhykB4ElzDfHg5epMFyJL9Pl613I06E8RuDCZd9kzRPmR+B6q2y1daMJswnVH2Oof/RucVXFUNNQs5qDoqJfWxQAIUMyE4uqSEBpfr2GEzs8Uzox960dRVLZvJPSe9yTfFEG1LIqsr44aSA2N7Z3MT0c+egf/SPIGltZITPhIG63eIAoYOxeiiKVA6/e3rCPLNMAVI5G0gRBHyGlmIl5zPsKx8X3mLAViklqzlXQgv1MCVx9xMdh2Qat0rPbz59NMYTnobKRRe9kUoK2+4k/rV8ugY3djur7+Sa5AHcVvpjP+cB5QiNZdfcXhF+qMMKH3Jl6FOmKzsdh5SJ0jebQAimvLM6odQy0YBVsQEvg+4KgnCIizE5BaxIjiQWIUj4LccufAkpS786yS6gaVGG0PsMebr5Nt4LwJDtyKAcezfLg==;I3oMkueRecQb/4iiArJ2Iw=="
 ---
 

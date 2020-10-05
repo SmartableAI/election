@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -216,6 +216,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/trump-tax-wealthy.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Donald Trump Announces He’s Leaving Walter Reed Hospital to Infect the Rest of White House"
+    excerpt: "He claims to feel better than he did 20 years ago and told people not to let the deadly virus “dominate” their lives."
+    publishedDateTime: 2020-10-05T20:46:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 65
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7b78a06cac71ad7f787f72/master/pass/donaldtrumphospital.jpg"
+        width: 2000
+        height: 1281
         isCached: true
   - title: "The Latest: Trump’s Diagnosis a Reminder US Cases on Rise"
     excerpt: "The news of President Donald Trump’s coronavirus diagnosis serves as a reminder of the pervasive spread of the coronavirus in the United States."

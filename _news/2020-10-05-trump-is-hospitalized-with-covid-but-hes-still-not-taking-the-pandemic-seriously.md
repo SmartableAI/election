@@ -863,6 +863,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Most Americans say Trump acted irresponsibly and distrust White House on his health"
+    excerpt: "Two-thirds of Americans say President Donald Trump handled the risk of coronavirus infection to others around him irresponsibly, according to a new CNN Poll conducted by SSRS in the days following the announcement that the President had contracted the virus that has disrupted everyday life for millions"
+    publishedDateTime: 2020-10-05T21:13:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kzUkCc3XO9g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/cnn-poll-coronavirus-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/cnn-poll-coronavirus-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003134236-donald-trump-morristown-new-jersey-1001-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump furious at chief of staff for contradicting White House physician, sources say"
     excerpt: "President Donald Trump is furious with chief of staff Mark Meadows after the top West Wing official contradicted the White House physician's assessment Saturday of the President's health, two sources with knowledge of the situation told CNN on Sunday.\n    \n"
     publishedDateTime: 2020-10-04T17:49:16Z
@@ -2204,6 +2220,22 @@ related:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202010/-BOATERS.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Live updates: Trump to leave Walter Reed hospital Monday night"
+    excerpt: "President Donald Trump tweeted Monday afternoon that, after three days, he would be departing the hospital where he has been receiving treatment for Covid-19 at around 6:30 p.m. ET. White House physician Sean Conley said in a briefing with reporters after Trump's announcement that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released from Walter Reed National Military Medical Center later in the day for continued treatment at the White House."
+    publishedDateTime: 2020-10-05T21:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/2020-10-05-trump-covid-n1242088"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/nbc_spec_doctors_discharge_201005_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump says he's leaving hospital Monday evening"
     excerpt: "\"Don’t be afraid of Covid,\" Trump added of the virus that has killed more than 211,000 Americans so far this year."

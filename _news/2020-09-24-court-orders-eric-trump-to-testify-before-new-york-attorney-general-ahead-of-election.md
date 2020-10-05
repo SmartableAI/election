@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/"
 type: article
 quality: 133
-heat: 673
+heat: 693
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/23/NFTU/b647233f-080a-4cf7-84c2-97af9391e035-Election_2020_Trump.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "New York attorney general's office deposing Eric Trump in tax investigation: report"
+    excerpt: "President Trump's son Eric Trump is being deposed Monday as part of an investigation into whether or not the value of certain Trump Organization assets were improperly inflated in order to gain tax benefits."
+    publishedDateTime: 2020-10-05T21:34:00Z
+    webUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax"
+    ampWebUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 119
+    images:
+      - url: "https://thehill.com/sites/default/files/trumperic2_082520getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump attorney fights to block disclosure of tax returns but judges appear skeptical"
     excerpt: "The president's attorney argued that a grand jury subpoena seeking his tax returns was a overly broad fishing expedition and was issued in bad faith."

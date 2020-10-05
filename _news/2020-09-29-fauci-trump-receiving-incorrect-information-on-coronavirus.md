@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/"
 type: article
 quality: 125
-heat: 985
+heat: 1005
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://s.abcnews.com/images/International/Boris_Johnson_201_hpMain_20201002-062128_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump COVID-19 live updates: Doctor won't comment on Trump tweet about coronavirus"
+    excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he is able to leave the hospital on Monday."
+    publishedDateTime: 2020-10-05T20:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
     excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."

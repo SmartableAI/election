@@ -329,6 +329,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump COVID-19 live updates: Doctor won't comment on Trump tweet about coronavirus"
+    excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he is able to leave the hospital on Monday."
+    publishedDateTime: 2020-10-05T20:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
     excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
     publishedDateTime: 2020-09-22T16:17:00Z
@@ -694,6 +710,6 @@ related:
       domain: mlive.com
     quality: 35
 
-secured: "iVW0ViG+3Al01xUeE/JgZSG4VqnobMl43jwsoUYba00j6weojvBQ/fsq7fj/gAt3WrJvXEwJVBv0BP8FZcfwByUqqU/+HhGGX4OVbxlQxMR4bVQDzbbfEDdoMxxPFxJKCb9+mQx4vbYDd6oFVmZTk+hnY4bHTf93ppV4UY2LKyFzg3WAMLnrqyD1NMNDMxi2vC+wHr/gFJQ5N9MZabU+HI6wa1UkaxXo/FjmEbx+9OMPJUxgBi8u5etT5vpR4R67r2PfQX6owZN/ON+xMsqZtGP7jx1r5Vok9s6DlYgtTNRiaFqj5aRRl1RQ/dWoBslQmEpibHGikF9tKsrKEtg13qo39gHj4kjCgRaK6L1OWSU=;Wm3wGZKT4sClUzGACXBgbQ=="
+secured: "lfVprAVKo3x2ykWEcd9a8iHOzfa052iQhJqPAZaMZM72NG091lwA4VmdjhVv0CpA4PJ+tyvnIKXC1RbjzjyiiTlUZsbShrB9QubTMc6OfR5r73Xj7uWTwl64d+7Jpk+jzZ2WIGM7hbLd+Uq2Lv90D1E1DhZ840kwfG6GMci33bL68SG34q/OCaRa7JC6F/hiaOCrmd6GJlhVxPZgK3IY3SuCpZDs6f+eFUjw4k3B7ugPCPvideL98WSf7xMJRqfCeZkK2OlTZ8im+zTCTKhDbBss2bqIN2eVFAk9rdD38TBXOXGGEDVCO/RXQ8JP3wZy/418UiaJ54UR3xlzJFb+S1r2Rwz1wqTEOOltQKuD6mAGQ2/WMYjJbFFTPnCcFDoErfj1+si6bdgAwiuje08jaCzsupgo/sHbxwn0/ngY1wBZCmjQXhSJ0nuJtooE6yveP0nKAF3j14QrkAFr4s9oaBTJQS+hfSaZU6/fOrtjRDQ9bJL6yugKuPbsxOA7Z3vUquvXP9a9ufqghKN56nWjQQ==;SM3D7Bc4j2k4P0+SRDAMmg=="
 ---
 

@@ -405,6 +405,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-05T21:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615907001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
     publishedDateTime: 2020-10-05T17:32:00Z
@@ -600,9 +616,9 @@ related:
   - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
     excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
     publishedDateTime: 2020-10-03T07:05:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence-idUSKBN26N2BS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2BS"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2BS"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence/u-s-vice-president-pence-next-in-line-behind-trump-tests-negative-for-covid-19-idUSKBN26N226"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N226"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N226"
     type: article
     provider:
       name: Reuters
@@ -803,6 +819,22 @@ related:
         width: 594
         height: 401
         isCached: true
+  - title: "Kamala Harris should boost the ratings of this year’s vice presidential debate"
+    excerpt: "If the vice presidential debate happens, TV networks will have to thank Kamala Harris for what will likely be an improvement in ratings from prior years."
+    publishedDateTime: 2020-10-05T19:51:00Z
+    webUrl: "https://qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/"
+    ampWebUrl: "https://qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 121
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/10/kamala-harris-2020-vp-e1601914206329.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 788
+        isCached: true
   - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
     excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
     publishedDateTime: 2020-09-18T19:03:00Z
@@ -926,6 +958,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/ae72be46-bc69-48a1-b5be-e5285dad28f3-AP_APTOPIX_Supreme_Court_Barrett.jpg?quality=10"
         width: 4363
         height: 2909
+        isCached: true
+  - title: "Dow Jumps More Than 450 Points After President Trump Says He’s Being Discharged From The Hospital"
+    excerpt: "Stocks jumped Monday afternoon after President Donald Trump announced he would be discharged from Walter Reed Medical Center at 6:30 p.m., with all of the main indexes adding close to 2%, as Wall Street eyes President Trump's Covid-19 recovery and the ongoing potential for successful stimulus negotiations."
+    publishedDateTime: 2020-10-05T21:05:00Z
+    webUrl: "https://www.forbes.com/sites/jonathanponciano/2020/10/05/dow-climbs-200-points-draftkings-slumps-and-bristol-myers-bridgebio-pharma-announce-acquisitions/"
+    ampWebUrl: "https://www.forbes.com/sites/jonathanponciano/2020/10/05/dow-climbs-200-points-draftkings-slumps-and-bristol-myers-bridgebio-pharma-announce-acquisitions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2020/10/05/dow-climbs-200-points-draftkings-slumps-and-bristol-myers-bridgebio-pharma-announce-acquisitions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 112
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b7c213aa150cd97f572d8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2313%26cropY1%3D0%26cropY2%3D1301"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mary Trump is suing the president and his family, claiming millions of dollars in lost inheritance"
     excerpt: "The lawsuit is similar to allegations that Mary Trump, the president's niece, presented in her damning tell-all memoir published in July."
@@ -1239,6 +1287,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP debate will have plexiglass shield between Mike Pence, Kamala Harris"
+    excerpt: "Harris campaign requested a plexiglass shield for Wednesday's debate, and the Commission on Presidential Debates agreed to it."
+    publishedDateTime: 2020-10-05T21:48:00Z
+    webUrl: "https://6abc.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
+    ampWebUrl: "https://6abc.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
+    type: article
+    provider:
+      name: 6abc News
+      domain: 6abc.com
+    quality: 100
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6669222_093020-cc-getty-debate-stage-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How to Watch Kamala Harris and Mike Pence's First Vice Presidential Debate"
     excerpt: "As we approach the final weeks of the 2020 presidential campaign cycle, incumbent vice president Mike Pence and Senator Kamala Harris will soon take the stage for their first and only vice presidential debate before the election,"
     publishedDateTime: 2020-10-05T14:36:00Z
@@ -1476,6 +1540,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How to Watch Wednesday Night’s Debate Between Mike Pence and Kamala Harris—and What to Expect"
+    excerpt: "The debate, which will take place at 9 p.m. on Wednesday, will feature increased social distancing protocols, including greater distance between the two candidates and plexiglass shields in front of each of their lecterns."
+    publishedDateTime: 2020-10-05T21:35:00Z
+    webUrl: "https://www.vogue.com/article/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris"
+    ampWebUrl: "https://www.vogue.com/article/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris/amp"
+    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris/amp"
+    type: article
+    provider:
+      name: Vogue
+      domain: vogue.com
+    quality: 89
+    images:
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Conservative begs Mike Pence to be more of an adult than Trump in VP debate"
     excerpt: "The bad news is there’s another debate coming up next week. The good news, however, is that President Donald Trump won’t be there, noted conservative columnist Jennifer Rubin in her Thursday column. Writing in the Washington Post,"
@@ -1891,6 +1971,22 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Art gets political at new Trump gallery in Katy"
+    excerpt: "Two ardent supporters of President Donald Trump have taken an artistic approach to backing the commander-in-chief’s reelection efforts. Longtime friends Bruce Badeau and Andy Valadez have opened a Trump-themed art gallery in homage to the president."
+    publishedDateTime: 2020-10-05T20:37:00Z
+    webUrl: "https://www.chron.com/neighborhood/katy/news/article/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
+    ampWebUrl: "https://www.chron.com/neighborhood/katy/news/amp/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/neighborhood/katy/news/amp/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/42/31/20063862/3/375x250.jpg"
+        width: 333
+        height: 250
+        isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
     publishedDateTime: 2020-09-28T20:51:00Z
@@ -2075,6 +2171,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice Presidential Debate: Kamala Harris, Mike Pence Reportedly Being Separated By Plexiglass"
+    excerpt: "SALT LAKE CITY (CBS SF) – Vice President Mike Pence and Sen. Kamala Harris will reportedly be separated by plexiglass at Wednesday’s Vice Presidential Debate amid concerns about the ..."
+    publishedDateTime: 2020-10-05T21:47:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2020/10/05/vice-presidential-debate-kamala-harris-mike-pence-reportedly-being-separated-by-plexiglass/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/10/05/vice-presidential-debate-kamala-harris-mike-pence-reportedly-being-separated-by-plexiglass/amp/"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/10/05/vice-presidential-debate-kamala-harris-mike-pence-reportedly-being-separated-by-plexiglass/amp/"
+    type: article
+    provider:
+      name: CBS SF BayArea
+      domain: cbslocal.com
+    quality: 69
   - title: "Maya Rudolph Nails Her Return to SNL as Kamala Harris — Down to the Converse Sneakers"
     excerpt: "Maya Rudolph is stepping into Sen. Kamala Harris's shoes once again for Saturday Night Live. Maya, a former SNL cast member, made her return to 30 Rockefeller Plaza on Oct. 3 to reprise her role as the Democratic vice presidential nominee. Naturally ..."
     publishedDateTime: 2020-10-04T19:50:00Z

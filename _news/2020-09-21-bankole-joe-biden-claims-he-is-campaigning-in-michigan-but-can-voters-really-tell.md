@@ -82,6 +82,22 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 81
+  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
+    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
+    publishedDateTime: 2020-10-05T20:50:00Z
+    webUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/10/AP_20279708089124.jpg?crop=0px%2C168px%2C5364px%2C3017px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Second lady Karen Pence rallies with evangelicals in Michigan"
     excerpt: "\"You've seen it for yourself,\" Pence said. \"You've all seen it for yourself, President Trump and Vice President (Mike) Pence are staunch defenders of religious liberty here at home and around the world.\" Evangelical voters were a key facet of Trump's ..."
     publishedDateTime: 2020-09-26T03:12:00Z
