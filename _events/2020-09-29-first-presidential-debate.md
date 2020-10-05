@@ -7,6 +7,8 @@ startDateTime: 2020-09-30T01:00:00Z
 endDateTime: 2020-09-30T02:30:00Z
 location: "Cleveland, OH"
 
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wW1lY5jFNcQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
 provider:
   name: CPD
   domain: debates.org

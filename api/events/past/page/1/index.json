@@ -11,6 +11,7 @@
       "webUrl": "https://smartable.ai/apps/election/event/2020-09-29-first-presidential-debate/",
       "originalUrl": "https://www.youtube.com/watch?v=wW1lY5jFNcQ",
       "name": "First Presidential Debate",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wW1lY5jFNcQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "type": "conference",
       "startDateTime": "2020-09-29T18:00:00-07:00",
       "endDateTime": "2020-09-29T19:30:00-07:00",
