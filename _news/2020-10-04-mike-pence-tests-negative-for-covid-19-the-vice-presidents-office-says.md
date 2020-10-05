@@ -379,6 +379,22 @@ related:
         width: 1009
         height: 545
         isCached: true
+  - title: "Trump COVID-19 live updates: President did not disclose 1st positive test, sources say"
+    excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he may be able to leave the hospital as early as Monday."
+    publishedDateTime: 2020-10-05T09:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-_hpMain_20201004-231013_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
     excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."
     publishedDateTime: 2020-10-02T07:42:00Z
@@ -1065,6 +1081,6 @@ related:
         height: 675
         isCached: true
 
-secured: "6bAyf1pwSp1ZnF52BD/VAx+NYfcZFTarh2nMGMPrZqFS2Q+sOTS/jF88/xc/E4v0RY19YXmt0Ap5BcYUaL8m5gG8cdoPQojr97gW13CD7xdg6eWsc7HSow/xIPeXDMPvS5xTqyHXKSUxws8TOW5ZNLPvdIUBM2IeL+ezufuu+4Z9Nt3a/IDMUENmV4otAG+C7iPjHq6eWS0D7tz8G5lrEoEiEfmUV5/dNKQKc8vMwhWZekndeSrxfRfInRaNxr/rSgEkSJlElU97b+PvV3pxwi/rOjHhjKt47ThiHjjyEQMQ99+bNna0aTExm56zNKvX3REvpXSE6aJjUh340IiMPewxJQ2kw+TpjkQKfTJzv/M=;YV71qMzJgcFku990IJIaTw=="
+secured: "Grcymqeh5tY6u/ulcVtAJm1dLD5revA701uTV8v8dAijy+8069ky5HT8Ohctu83Ms2uviTEOzr3683/dop+ONmmZa/xchI3d+ei2103uxpkmgS4BR45tKaJuNDNXaiv1/dxxJxqAHwPPvMWFP8dHozjXsSNIfkzCBWdf/hZwJMcapYKOjWthpJQGCABkY/CyMtaXgCW3EkOjJVywCQMtmbU21q24jkJZVNlxEKD93toQS6USz7MgZ2CcOIQte6ww8k9/F6dmXPzue+60v9VqQ7I6jBwmaiRj74Qd68ASBuAm3ftaw/BghaVjxb4GfOoZ6GKS6dMnP/SrBhfAdMyE5VnpxItL7rXRF/Zlr0EVRfaWfh0xHLJ1lhD+HQsYV5IGUwJbL99mgTlXL1NDQvEGXOm9UYYmkTu+o8ytfjYq5XBjYpI+3U2PEIFkhxvAjmDQgRWvwxp9NPt+fZ/jrQkk/lmaElVToMjqiHzCsns+3fPkUM99WkqhyOsBxi0aOprD347VYNq6RnDyWi8zw8xPUA==;zZUGdCYDMPDLUkKaCR0MgQ=="
 ---
 

@@ -73,6 +73,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump trip from hospital to wave at fans endangers others, doctor warns"
+    excerpt: "U.S. President Donald Trump briefly left the military hospital where he is being treated for COVID-19 in a motorcade on Sunday to wave to supporters gathered outside, sparking criticism that he was putting others at risk for a political stunt."
+    publishedDateTime: 2020-10-05T05:52:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-motorcade-idUSL1N2GV0CB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q01T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q01T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536150501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400V"
+        width: 885
+        height: 545
+        isCached: true
   - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
     excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
     publishedDateTime: 2020-09-28T07:29:00Z

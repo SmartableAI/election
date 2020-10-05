@@ -3,10 +3,10 @@ category: news
 title: "Scoop: Inside Kamala Harris' new strategy for the VP debate"
 excerpt: "Kamala Harris waves during an event at the University of Nevada, Las Vegas, Oct. 2. Photo: Ethan Miller/ President Trump’s hospitalization has changed the game plan for Sen. Kamala Harris for Wednesday's debate."
 publishedDateTime: 2020-10-04T21:55:00Z
-originalUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html?ref=upstract.com&curator=upstract.com"
-webUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html?ref=upstract.com&curator=upstract.com"
-ampWebUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html?ref=upstract.com&curator=upstract.com"
-cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html?ref=upstract.com&curator=upstract.com"
+originalUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+webUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+ampWebUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
 type: article
 quality: 75
 heat: -1
@@ -348,16 +348,19 @@ related:
         height: 545
         isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
-    publishedDateTime: 2020-10-02T19:35:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
+    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
+    publishedDateTime: 2020-10-03T00:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
+        width: 810
+        height: 285
+        isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
     publishedDateTime: 2020-09-25T14:21:00Z
@@ -1942,6 +1945,22 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "Maya Rudolph Nails Her SNL Return as Kamala Harris, in the Senator's Signature Sneakers, No Less"
+    excerpt: "Maya Rudolph brought back her impression of vice presidential nominee Kamala Harris for Saturday Night Live's Oct. 3 episode."
+    publishedDateTime: 2020-10-04T20:46:00Z
+    webUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505"
+    ampWebUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 62
+    images:
+      - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ZIP codes donating the most money to Donald Trump"
     excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
     publishedDateTime: 2020-10-01T11:22:00Z
@@ -2119,6 +2138,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "z/vw01dhg/HjA0xqhSl11DS2mnlrD3W1GdvnDWhy29h/MVnpm11zx/ivHHJjuYyxInMBOw/JGaesdvGT+/QcSvGIWVOfQGY8WTgzqWjW5gganmvqA+ZUgsj4wpuAdgIMRC6wDGk2sdu9HCZgAY+hqBQQYDj/QrNU71CFR0u/fs2YmRLmW12e08TzgN//fxCoF8lIeuRBjDTxPcmudBkCvUCwCmhf8P1RE5lXsJViVsoCsitMSbhaY7cgFc19iF1hhd6TWkJk0qfbytmGFzFtUQbyMJ8YOE8tqvYQYpnZUJgWl2QPIXveiN8riMa1ayV4lww6qDe6QnIeV9qMYKP307VQFTz1zZ6BwyX7cCBmUYSyFBUmfI8TmM1b7ZwbkhlvgACKdF7c3xLcBk6qWSwjb7XJ1F6JM2Z1TcPsNAERlMrIrB1LIP0LyWDs96AbIDao3XlnTK0NmrTN05HDXTI8xhqbu2hI6kaMA26cIxqIbX8b+MHg5JOICauFfMkfptf0sbB4s9kwdpWl6cgosrVatA==;CZXoE/pTMzf7LjHeKq/SEw=="
+secured: "C3x2W6i9VNKmLfQvVHUkIKC99hkCEihrvpiTmQWkaP/uMz/enLx1etn1f7uOkTx8fNYz+EemEbFVBQawMPTRkmCAkIMKX9xdV0gc1oqgClCH4vMbQGsmQYslYYCTmhA8fuoqqLmXcwqSnXJF+52Q5wC9ugvsunUIZuspG04V9Vjkq6kyj1u4yVAewJchhmjWf2w4eor/KHYGqBQ8V7YfC2dwVYti6esmt458xJiHVh6sar4AYtoBWZSzo1feztGuTgfuCY5lAAn2BCAOHftwlgFN9ck1IDIlugXBfDAU4MHSDpCtoq7U6qYZLg/uM/4c0GT9RxF8P4E9k+7b0nHXRH2KLs3/6VgqoaqVM45UuAU=;EoGF9MwHYSzUtrOiVf7M5A=="
 ---
 

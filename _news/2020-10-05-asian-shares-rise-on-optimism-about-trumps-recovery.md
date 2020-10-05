@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump trip from hospital to wave at fans endangers others, doctor warns"
+    excerpt: "U.S. President Donald Trump briefly left the military hospital where he is being treated for COVID-19 in a motorcade on Sunday to wave to supporters gathered outside, sparking criticism that he was putting others at risk for a political stunt."
+    publishedDateTime: 2020-10-05T05:52:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-motorcade-idUSL1N2GV0CB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q01T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q01T"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536150501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400V"
+        width: 885
+        height: 545
+        isCached: true
   - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
     excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
     publishedDateTime: 2020-09-28T07:29:00Z
@@ -162,6 +178,6 @@ related:
       domain: usnews.com
     quality: 51
 
-secured: "OqW38Yx2pXckh5xSUlNtzjCKPJix/kH0E937bPGO6GAIKiMsqDEm7zNyd+KKvPFzg8zlZIqfeOCDbtDfT1yVLvqeC4dzUdGR1Z/M/kjFRrt1yC6hUL7hChm4XXmmK73bnGshi5blAx+JokxBDwdnUWkjp+xtpzkKd9xuvY9bqXYUfngf9ohHPT3SJ7wHVwqt9a3q9Ga4JUy9iV2zqZ2AprQXTL+3ePW3FkU2RMG59Qs6NQECHtD0npdBMeUuEBUOmLZ/QuK2Ac3plT2ddQaokK2oqDYyd7bIGcsQd30dwNyFCnWPgjf5jY0S3rGhaS8oor8UJI6QmsEsZGaQikSL8ntqBUjK83axFDBthbfesg8=;qS5mMXDE8KSLmOWQI2xSMg=="
+secured: "tzQ55sK0nbdQyfRx7o0fYHuqui/VFxkBmPwzFxTdRLIj+malOkodstfDwDTqCY6GlrqNolKm8cIHK2RZrlv4W2jdZhYmegcn3tY9H1lGrFd79icZ6suRHFWh4UyxMV196XEXHarUO1cDV3uG7wMp/RCk3elImQiTktcMLxZ6CuxaQ4IMrZ+OlvHt8kAFbDahA50KG0uEjYJ3GhWJrDqZr0dG4brcNr5qrFCLnTD1yapPhFwXM5v3s/2zGmN4n2FmC1NBpCwRVM74tkoBKa5Yw2RuujEEo2GVwbnmk/0c7R3PZvC4eVJ+18RarjktIW/9zl6qC8r8ccQ2ICXVbJgUSdBJheLxwMeD4DWCIiNK1q0eTI9ihg2dHXWu+0LKfWwDzOp0jMThgVEFDS8lTJmod1+9L/TUvMkV+ftcYbCI2qjKweHRRYDopNyuYojgmU3A86FSO7zm4RjQrae4rffs4bhwzPNc/GAD1jt/pMb7ux1Qqa+ynrruCfi9mvqxFMZqNoO4ts2Swdack63IRIAe0w==;UNzSvMwB26zq9KZNTe0FXA=="
 ---
 
