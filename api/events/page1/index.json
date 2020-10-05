@@ -109,10 +109,10 @@
     {
       "path": "_events/2020-09-29-first-presidential-debate.md",
       "title": "First Presidential Debate",
-      "excerpt": "The first debate is scheduled to be held on Tuesday, September 29, 2020, at the Health Education Campus (HEC) Samson Pavilion at Case Western Reserve University in Cleveland. Chris Wallace of Fox News will moderate the first debate.",
+      "excerpt": "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH.",
       "sourceUrl": "https://smartableai.github.io/election/api/events/2020-09-29-first-presidential-debate/index.json",
       "webUrl": "https://smartable.ai/apps/election/event/2020-09-29-first-presidential-debate/",
-      "originalUrl": "https://my.clevelandclinic.org/debate",
+      "originalUrl": "https://www.youtube.com/watch?v=wW1lY5jFNcQ",
       "name": "First Presidential Debate",
       "type": "conference",
       "startDateTime": "2020-09-29T18:00:00-07:00",

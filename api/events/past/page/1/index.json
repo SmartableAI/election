@@ -4,6 +4,34 @@
   "page": 1,
   "value": [
     {
+      "path": "_events/2020-09-29-first-presidential-debate.md",
+      "title": "First Presidential Debate",
+      "excerpt": "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH.",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-09-29-first-presidential-debate/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-09-29-first-presidential-debate/",
+      "originalUrl": "https://www.youtube.com/watch?v=wW1lY5jFNcQ",
+      "name": "First Presidential Debate",
+      "type": "conference",
+      "startDateTime": "2020-09-29T18:00:00-07:00",
+      "endDateTime": "2020-09-29T19:30:00-07:00",
+      "location": "Cleveland, OH",
+      "provider": {
+        "name": "CPD",
+        "domain": "debates.org"
+      },
+      "topics": [
+        "Election"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wW1lY5jFNcQ/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ]
+    },
+    {
       "path": "_events/2020-08-24-republican-national-convention.md",
       "title": "Republican National Convention",
       "excerpt": "The Republican National Convention is a series of presidential nominating conventions held every four years since 1856 by the United States Republican Party. They are administered by the Republican National Committee. ",
