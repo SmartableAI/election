@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump steroid treatment for COVID-19 raises potential side effect risk"
+    excerpt: "U.S. President Donald Trump is being treated for COVID-19 with a steroid that is recommended for severe cases of the illness and that comes with risks of serious side effects, including mood swings, aggression and confusion."
+    publishedDateTime: 2020-10-05T18:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-steroid/trump-steroid-treatment-for-covid-19-raises-potential-side-effect-risk-idUSKBN26Q2S4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q2S4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q2S4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536258848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941UC"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Global shares and oil tumble after Donald Trump tests positive for COVID-19"
     excerpt: "US stock futures dropped almost 2%, oil plunged 4%, while gold and Treasuries benefitted from investors fleeing risk assets."
     publishedDateTime: 2020-10-02T06:41:00Z
@@ -286,6 +302,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/e9ea8b74-8f7c-4fd9-a5b0-cfed92e8df34-trump_doctor.jpg?auto=webp&crop=5567,3131,x0,y403&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fact check: Photo of Trump family with face masks predates Trump’s COVID-19 diagnosis"
+    excerpt: "A post on social media features a photograph of the Trump family wearing face masks on the night of the first presidential debate on Sept 29. The post misleadingly implies the image was taken after President Donald Trump and Melania Trump tested positive for the new"
+    publishedDateTime: 2020-10-05T19:24:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-trump-family-masks-idUSKBN26Q2QT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q2QT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q2QT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536256658&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941TD"
+        width: 760
+        height: 545
         isCached: true
   - title: "President Trump And First Lady Test Positive For Covid-19 Coronavirus, What This Means"
     excerpt: "Apparently he and the First Lady, Melania Trump, This Tweet came just two days after both had appeared on stage at the first Presidential debate in Cleveland without face masks. Well, Trump did have a face mask,"

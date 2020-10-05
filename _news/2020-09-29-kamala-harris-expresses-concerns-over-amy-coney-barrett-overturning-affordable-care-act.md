@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How Geraldine Ferraro and Sarah Palin set the stage for Kamala Harris"
+    excerpt: "Thomas Balcerski writes that in order to win the VP debate on Wednesday, Kamala Harris will likely need to triangulate herself between the toughness of Geraldine Ferraro in 1984 and the likability of Sarah Palin in 2008."
+    publishedDateTime: 2020-10-05T18:01:00Z
+    webUrl: "https://www.cnn.com/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005124223-ferraro-palin-harris-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris is expected to address Judge Barrett’s nomination and the Supreme Court in North Carolina."
     excerpt: "On a trip to North Carolina where she is expected to speak about Judge Amy Coney Barrett, Senator Kamala Harris will take a rare turn in the campaign spotlight today."
     publishedDateTime: 2020-09-28T19:08:00Z

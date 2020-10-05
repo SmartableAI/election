@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump will return to the White House after three days fighting COVID at Walter Reed"
+    excerpt: "Trump's doctors signaled the possibility the president could be released from Walter Reed hospital if his COVID-19 symptoms continued to improve."
+    publishedDateTime: 2020-10-05T18:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/05/trump-return-white-house-despite-battle-covid-19/3620877001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?crop=1911,1075,x8,y0&width=1600&height=800&fit=bounds"
+        width: 1422
+        height: 800
+        isCached: true
   - title: "Rose Garden announcement of Supreme Court nominee potential 'super spreader' event, with Trump plus seven others getting COVID"
     excerpt: "Trump and Hicks may have exposed scores of other people to COVID-19, including his top advisers, his campaign donors and his Democratic rival Joe Biden."
     publishedDateTime: 2020-10-03T02:59:00Z

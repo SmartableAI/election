@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/"
 type: article
 quality: 125
-heat: 965
+heat: 985
 published: true
 
 provider:
@@ -673,6 +673,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/04/26/donald-trump-kanye-west.jpg"
         width: 1024
         height: 759
+        isCached: true
+  - title: "Mike Pence, Karen Pence test negative as White House coronavirus cases climb"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence both tested negative Monday as a number of new cases were confirmed in the nation's capital."
+    publishedDateTime: 2020-10-05T18:47:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/05/mike-pence-tests-negative-covid-19-white-house-coronavirus-trump/3626064001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/26/PIND/f459176d-794d-415b-b2f4-9a80abebd0f8-Pence1.JPG?crop=2735,1539,x0,y0&width=1600&height=800&fit=bounds"
+        width: 1422
+        height: 800
         isCached: true
   - title: "Joe Biden tests negative for coronavirus before events in Grand Rapids"
     excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden tested negative for the coronavirus Friday morning, hours before he is scheduled to campaign in Michigan. Bidens"

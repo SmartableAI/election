@@ -3,8 +3,8 @@ category: news
 title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
 excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
 publishedDateTime: 2020-10-03T07:05:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-4-no-quarantine-for-u-s-vice-president-pence-whose-covid-19-test-was-negative-next-in-line-to-trump-idUSL1N2GT0VB"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-4-no-quarantine-for-u-s-vice-president-pence-whose-covid-19-test-was-negative-next-in-line-to-trump-idUSL1N2GT0VB"
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence-idUSKBN26N2BS"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence-idUSKBN26N2BS"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2BS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2BS"
 type: article
@@ -384,16 +384,19 @@ related:
         height: 675
         isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
-    publishedDateTime: 2020-10-02T19:35:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
+    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
+    publishedDateTime: 2020-10-03T00:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
+        width: 810
+        height: 285
+        isCached: true
   - title: "Vice President Pence, Sen. Kamala Harris set to face off in VP debate"
     excerpt: "CNBC's Andrew Ross Sorkin takes a look at what's ahead for the week, including some news from the Fed and the vice presidential debates."
     publishedDateTime: 2020-10-05T11:15:00Z
@@ -1683,6 +1686,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "These Kamala Harris Quotes About Mike Pence Don't Hold Back"
+    excerpt: "As soon as Sen. Kamala Harris (D-California) was announced as former Vice President Joe Biden’s running mate for the 2020 presidential election, it was quickly followed by discussion of the vice presidential debate."
+    publishedDateTime: 2020-10-05T18:54:00Z
+    webUrl: "https://www.elitedaily.com/p/these-kamala-harris-quotes-about-mike-pence-dont-hold-back-33860669"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 80
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2020/10/5/fd8319bd-a69f-41e5-bdb9-379d19c5fe4b-untitled-design-2020-10-05t114458422.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
     excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
     publishedDateTime: 2020-10-03T16:39:00Z
@@ -2325,6 +2342,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "DRYfIpnHZZSwWebRdcXjBJDf2pHveYR5ddCz22MVfmZWOxgNoBQGyYQtDPd1vX3oMiX68ztOzGcI+1NpA687xqodEQtS/KeyN7jkhR0xyC90qUofs6KNKw5e5Rmh3i5z2kQ8/Thir6tar02LbIhgbw2heNXIy7uKxTDpG3DVNIIcQw5wH56QQVglujWTIIenztkj/PlsiYxwz2pgVSe1Kt40c6IRCAgeVnIN2qtg6j6t95garntAOPObjC+smIUEAXXUvzJBBZ+FJqfsehwTKdBFzTD+ByEHvuK6TIbP1u9+aScJtSUEXDX2DpqBXeo/Yw+cFiJ9NB5HkShZARMS0bmvNOIYSvV4UEa5rsLV07o=;xioqRBZ9EjuHD7YR+KhK/A=="
+secured: "VA6BXMhzcwZONfkmW+dd7SUYfybL41OxlxsPnvK5TM+XRXVktFUO9jmyrVMuUlEjVIGAeItWT80JMK9qh/xVNNChrDeAkWCMA//yFEdxpt4+iWrhI0pHX5yHyQK6I1/P/pVPOMwixzrxr7C4+oTCHyXWZV+upui4/Pa9ofyyYMPf9ToVzqOEaAkWDqcb1GhWG4Pzwt8jR9xSFc0BRiWk70nw9/ONWxNllAAMBXwk9/ABsELsi5Bq8dKz2HxzhZl2m7o4PKcCppEEh+6AGyKR0JsULhpUnBTAVL2lbUx0RbmOjEyozrZPr0rT39QI7dCmjBSwI1C9gcEG0jd7FDxpTmKm0oZSlKt6QLiM8kNSBGE=;fy4K6ibMuemxqSKSILPQWQ=="
 ---
 

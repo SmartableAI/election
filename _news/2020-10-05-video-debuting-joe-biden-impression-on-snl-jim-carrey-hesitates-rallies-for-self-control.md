@@ -1469,6 +1469,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Election 2020: How to watch NBC Joe Biden town hall on Monday night"
+    excerpt: "NBC on Monday night will host Democratic presidential nominee Joe Biden in a town hall event in the battleground state of Florida. Biden’s event also comes two days before a scheduled vice presidential debate between Vice President Mike Pence and Biden’s running mate,"
+    publishedDateTime: 2020-10-05T19:35:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/election-2020-how-to-watch-nbc-joe-biden-town-hall-on-monday-night.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/election-2020-how-to-watch-nbc-joe-biden-town-hall-on-monday-night.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/election-2020-how-to-watch-nbc-joe-biden-town-hall-on-monday-night.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IU2G66MIKZDJNAEM2EE7S7SAGE.JPG"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Live: President Trump and Joe Biden square off in first presidential debate"
     excerpt: "The debate also will be aired on most major networks and cable news channels, including Fox News, CNN, ABC, CBS, NBC, MSNBC, PBS and C-SPAN. The debate is scheduled to start at 9 p.m. ET.  Presidential debate city: In the COVID era,"
     publishedDateTime: 2020-09-29T23:48:00Z
@@ -2500,6 +2516,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "1TknPhqiIw6AKGgHZJF1OlPg52aCvqHPSYCf9oiLM5Wdyz2bIG5yHThDLQpfCAUbgMPYC19Z1Ag35d0jE2lcgl9D9gTDPoFMwjxAzHu1cNEeuwQWODDnV+PRzt2PfDrGKR2u8mmyix/pFzgU0kEFulKI0QfpVDc1mM5HBuxWzyIfli5hoj8GiT5qXuYqo+LxXN6AnZ9mbSAAo0t852n/0iNWbgLhIE+FL+XnC7IeGkEIdvfnCoENkNIr8YZq9DpSgxJirVYPP8NT4aSwvveC73C1S8H14myty5Cbc5BhOJ3TOLT2ZN8vunYsSORVMZnOPDPRSNFNxOgropEB6HzEyl/yEU3vEljCsPaVBc2jX7I=;Ku1KX54FNKiutzI1W0oNCw=="
+secured: "PISaKSntKTbO5AD3pG3t59jcYI4E+JcD6blnIBNvOFCgiEw4oeiWXwhOYzD5Dxd+vZdD+H6AKCILTNXA/M8Tb4hHpA5auZpFTJF8smAoAx4L8RuVFNh6KpNnq/EmzA26G51wSIVWLVSwXSeWlDRgo597051b8PYAsDSjOi+7lxpTdQCxkIdxzsT9HigtkgnkBmfYTpw5TkIrfV/+LGD1M1J06g0W+rbQapG7aXxm79Tk9zkRtAmjGGXDNGqdyDuprgPWusI7uKyNC/HtVugNU1+B/aCqqEUCzT4+YHPOi9Ynsqar9E8OaGtzO0+iTT604Cc1ZjPvJ90e8Mqf4vWNS8tCuf8GE9pJqgq8rNRGgDIuriSB81W1Koi1UeQfHM77BHZ1bEa+P013lpDMcCxmVHfh05Q7lWklSPq/Pl8NKb3dVd1QohOFUcYr8KCfDNk1oHCMMzWM0JY5X1NqJrSZlXP5twXxRmkxwWtTW0WVh4n461o2iwGoFRxyMZOVycRmhpGNcenvfjVdHgYt7QEyAw==;ILO+IDDF6SBPI9de+5Px4g=="
 ---
 

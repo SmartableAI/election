@@ -559,6 +559,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Nevada Democrats worry coronavirus pandemic may weaken Biden's hold on the state"
+    excerpt: "The Cook Political Report in September moved Nevada from \"Likely Democrat\" to \"Lean Democrat.\""
+    publishedDateTime: 2020-10-05T19:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fxhIpXwderY/biden-nevada-democrat-republican-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nevada-democrat-republican-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nevada-democrat-republican-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275707253516.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Pompeo: US 'fully prepared' against 'malign actors' as Trump battles coronavirus"
     excerpt: "Secretary of State Mike Pompeo said Monday the U.S. is \"fully prepared\" for any action that \"rogue actors\" may take while President Trump is in the hospital battling the coronavirus."
     publishedDateTime: 2020-10-05T16:22:58Z
@@ -958,6 +974,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907094d8-dcd0-4725-b021-4c8f31e05361/db794f14-3ee9-4bd5-a75b-d6190d4318c6/1280x720/match/image.jpg"
         width: 1280
         height: 719
+        isCached: true
+  - title: "White House physician says Trump 'may not entirely be out of the woods yet' in fight against coronavirus"
+    excerpt: "White House physician Dr. Sean Conley said that President Trump \"may not entirely be out of the woods yet\" in his fight against the novel coronavirus, but said that the \"clinical status\" supports his discharge from Walter Reed Military Medical Center and a safe return to the White House. "
+    publishedDateTime: 2020-10-05T19:18:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzXF3p-MWjE/white-house-physician"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-physician.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-physician.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Meadows 'optimistic' Trump will leave Walter Reed, return to White House Monday after coronavirus treatment"
     excerpt: "White House Chief of Staff Mark Meadows said the administration is “optimistic” President Trump will be able to return to the White House on Monday after spending several days at Walter Reed National Military Medical Center being treated for coronavirus, saying Trump's health improved overnight and the"

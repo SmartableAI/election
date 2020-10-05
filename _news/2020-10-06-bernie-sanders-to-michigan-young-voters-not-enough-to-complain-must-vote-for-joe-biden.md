@@ -1,0 +1,139 @@
+---
+category: news
+title: "Bernie Sanders to Michigan young voters: 'Not enough to complain,' must vote for Joe Biden"
+excerpt: "The Sanders visit comes with less than 30 days before Election Day and as both presidential contenders vie for Michigan voters."
+publishedDateTime: 2020-10-05T19:02:00Z
+originalUrl: "https://www.freep.com/story/news/politics/elections/2020/10/05/bernie-sanders-job-biden-donald-trump-presidential-campaign/3623526001/"
+webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/05/bernie-sanders-job-biden-donald-trump-presidential-campaign/3623526001/"
+type: article
+quality: 45
+heat: -1
+published: false
+
+provider:
+  name: Detroit Free Press
+  domain: freep.com
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2020/03/07/PDTF/2d58c6fc-fe03-4840-9bf9-e210c3ff5ccf-AP_Election_2020_Bernie_Sand.jpg?crop=5081,2858,x0,y335&width=3200&height=1680&fit=bounds"
+    width: 2987
+    height: 1680
+    isCached: true
+
+related:
+  - title: "Joe Biden in Michigan says he hopes first family recovers soon"
+    excerpt: "Joe Biden wished President Trump and the first lady a speedy recovery from COVID-19 on Friday, speaking from the campaign trail in Michigan after his own campaign announced that Biden tested negative for the coronavirus."
+    publishedDateTime: 2020-10-02T22:52:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/02/809a3b2d-989b-4c5e-8e10-c328091be6dd/thumbnail/1200x630/00122e40fc004343e7f45d2515e23b92/gettyimages-1278091226.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden's small business outreach shows he's ready to spark America's strongest recovery ever"
+    excerpt: "We need to turn this recovery into America’s renaissance, and that starts with sending Joe Biden and Kamala Harris to the White House."
+    publishedDateTime: 2020-10-05T15:48:00Z
+    webUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas"
+    ampWebUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 113
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden and his wife, Jill, paid nearly $300,000 in federal income taxes, newly released returns show"
+    excerpt: "The release served as a contrast to President Trump, after new reports that he has paid minimal or no federal taxes in recent years."
+    publishedDateTime: 2020-09-30T00:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-taxes/2020/09/29/d7afe3a8-027a-11eb-b7ed-141dd88560ea_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 89
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EKSGUWQCRII6XN7NCQO5RBLA5I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden campaign sees opportunity in military women, spouses and people of color"
+    excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
+    publishedDateTime: 2020-10-03T11:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 81
+  - title: "Bankole: Joe Biden claims he is campaigning in Michigan, but can voters really tell?"
+    excerpt: "When you drive around Detroit's most underserved areas to the most stabilized there are few Biden signs dotting those neighborhoods, Bankole writes."
+    publishedDateTime: 2020-09-21T03:12:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/2020/09/21/bankole-can-voters-tell-joe-biden-campaigning-detroit-michigan-election-trump/5824238002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5824238002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5824238002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/PDTN/3b2b9265-56f7-494e-97c1-b3598e58d1f5-Biden_Detroit.jpg?auto=webp&crop=3795,2135,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Second lady Karen Pence rallies with evangelicals in Michigan"
+    excerpt: "\"You've seen it for yourself,\" Pence said. \"You've all seen it for yourself, President Trump and Vice President (Mike) Pence are staunch defenders of religious liberty here at home and around the world.\" Evangelical voters were a key facet of Trump's ..."
+    publishedDateTime: 2020-09-26T03:12:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/second-lady-karen-pence-rallies-with-evangelicals-in-michigan/article_f2152a25-4eae-5aea-af2d-31b5b9cf6414.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
+    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
+    publishedDateTime: 2020-10-03T09:13:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
+    publishedDateTime: 2020-10-02T19:32:00Z
+    webUrl: "https://www.c-span.org/video/?476523-1/joe-biden-campaign-remarks-grand-rapids-michigan&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+
+secured: "YImGeM5iGmp16Gy32lomjW3HR9WfNGiLB4z6pxylAx7GzqYCrFwkfxTN92fcKF6Y9DZGaTD91INMaf04VDiutWmHNI896DHUOPf2iF+DdRlJKICT9/g58iBYI5vVgWBqNc5+mk0lNKtTOICdF1OKrMqRH/iPL8cgaJPgn67izKZwIOIO3z4oAJsWly9jxtxOg7h71uOJjxGBoKhffEiNJCE4Ex+ivu3IbhW2zMpppyVlZQkGfPxRz/5UUXWpVvuSjoPaFxOgbPcIdSENRqNX8xaVTJRyUmz3xoVrdL0id1y+u/IbumcMs1FWBUGuCw+cdlwSr7KBjeXcJ9SUR72P48/FOT3TbKLg4hdd53m6//w=;M+zQj28ubEJvTEfQQVLG/A=="
+---
+

@@ -559,6 +559,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Nevada Democrats worry coronavirus pandemic may weaken Biden's hold on the state"
+    excerpt: "The Cook Political Report in September moved Nevada from \"Likely Democrat\" to \"Lean Democrat.\""
+    publishedDateTime: 2020-10-05T19:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fxhIpXwderY/biden-nevada-democrat-republican-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-nevada-democrat-republican-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nevada-democrat-republican-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275707253516.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump tests positive for coronavirus: Here's who else is positive, and who's negative"
     excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19 -- raising immediate questions about who else in the administration could be positive."
     publishedDateTime: 2020-10-02T15:49:31Z
@@ -956,6 +972,22 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House physician says Trump 'may not entirely be out of the woods yet' in fight against coronavirus"
+    excerpt: "White House physician Dr. Sean Conley said that President Trump \"may not entirely be out of the woods yet\" in his fight against the novel coronavirus, but said that the \"clinical status\" supports his discharge from Walter Reed Military Medical Center and a safe return to the White House. "
+    publishedDateTime: 2020-10-05T19:18:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kzXF3p-MWjE/white-house-physician"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-physician.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-physician.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

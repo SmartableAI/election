@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Bernie Sanders to Michigan young voters: 'Not enough to complain,' must vote for Joe Biden"
+    excerpt: "The Sanders visit comes with less than 30 days before Election Day and as both presidential contenders vie for Michigan voters."
+    publishedDateTime: 2020-10-05T19:02:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/05/bernie-sanders-job-biden-donald-trump-presidential-campaign/3623526001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/07/PDTF/2d58c6fc-fe03-4840-9bf9-e210c3ff5ccf-AP_Election_2020_Bernie_Sand.jpg?crop=5081,2858,x0,y335&width=3200&height=1680&fit=bounds"
+        width: 2987
+        height: 1680
         isCached: true
   - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"

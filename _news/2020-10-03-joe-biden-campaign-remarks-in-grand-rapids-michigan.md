@@ -118,6 +118,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Bernie Sanders to Michigan young voters: 'Not enough to complain,' must vote for Joe Biden"
+    excerpt: "The Sanders visit comes with less than 30 days before Election Day and as both presidential contenders vie for Michigan voters."
+    publishedDateTime: 2020-10-05T19:02:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/05/bernie-sanders-job-biden-donald-trump-presidential-campaign/3623526001/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 45
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/07/PDTF/2d58c6fc-fe03-4840-9bf9-e210c3ff5ccf-AP_Election_2020_Bernie_Sand.jpg?crop=5081,2858,x0,y335&width=3200&height=1680&fit=bounds"
+        width: 2987
+        height: 1680
+        isCached: true
 
 secured: "8NK5zEIHHbNgOYZwjOR6ZMIg6OUk/JhnxkMAe1cSyS1VzJhGi2NxEH1uSqQG1LturRQ1m2zVx1W03pSGooSZ8ueLmoJhItrfD+dxI/6MLGx4Nt7ky+E+x4QkRIXXPNJ0h/kvDAxZZNtDK3EPa7wj6zMqquBlL59dumiBYqNmcFfDV+KKstq//EjHPUwnXFwHe+BaClEsCTE9uI3bRts9gzXabVmBxFJSwavA0dHByTcmaaBwIB7RBf551UPWTiiGGXe6BLfQxbaNwjNWEL/htz/9wLs4QaVRUs3YYdHnuBq8OygxJ3wpHtG5xW3CLeGf+lW4X58Q42vuY5708NQKxlbvuRCKLNuu3RpzrygXovkIRhawZupk9et0DYdbP0B/x60LhMkY+H0pJhS8gqQUuTW3UQIYOF8IJugrj5KP+Yz8CKXaRTWkUHrZZAk/BSiXwA9xaeiRrJV0YHzWO30emVl5K1q6Xhd7rLakZ0dv9n7v7RdUCm39pvhqrX+wEHGhkdutGDl6w05EId6CjeCD2g==;icyVzdLidiIidx+Rlpv8Ng=="
 ---

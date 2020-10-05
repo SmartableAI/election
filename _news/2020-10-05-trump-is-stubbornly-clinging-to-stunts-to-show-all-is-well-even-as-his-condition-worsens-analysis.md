@@ -655,6 +655,22 @@ related:
         width: 1200
         height: 774
         isCached: true
+  - title: "Donald Trump Jr thinks his father is ‘acting crazy’ and is desperate to rein him in: report"
+    excerpt: "President Donald Trump’s hospital joyride and his manic Monday-morning tweets aren’t just being panned by political pundits — they’re also reportedly freaking out some in the president’s own family. According to Vanity Fair’s Gabriel Sherman,"
+    publishedDateTime: 2020-10-05T17:46:00Z
+    webUrl: "https://www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 65
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2016/10/Trump-645x430.jpg"
+        width: 645
+        height: 430
+        isCached: true
   - title: "Judges Skeptical of Trump's Arguments Over Tax Returns"
     excerpt: "A federal appeals court on Friday expressed deep skepticism toward Donald Trump's arguments against letting Manhattan's top prosecutor obtain his tax returns in connection with a criminal probe into the U."
     publishedDateTime: 2020-09-26T21:23:00Z

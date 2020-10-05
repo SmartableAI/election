@@ -78,6 +78,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says he will be discharged from Walter Reed, return to White House Monday evening"
+    excerpt: "President Trump said he will be discharged from Walter Reed National Military Medical Center Monday evening and will return to the White House. "
+    publishedDateTime: 2020-10-05T18:40:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zim5ZZjbxnQ/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hundreds of Trump supporters gather outside Trump Tower in NYC, briefly shut down Fifth Avenue"
     excerpt: "Hundreds of President Trump supporters lined up outside Trump Tower in New York City early Sunday, briefly shutting down Manhattan’s Fifth Avenue, to show support after the president’s recent coronavirus diagnosis."
     publishedDateTime: 2020-10-04T16:32:44Z
@@ -109,6 +125,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Alyssa Milano blasts Donald Trump's drive-by to fans outside Walter Reed Medical Center"
+    excerpt: "Alyssa Milano revealed that a friend’s uncle recently died due to COVID-19 after lambasting President Donald Trump over his drive-by to fans outside Walter Reed National Military Medical Center, where he is being treated for the virus."
+    publishedDateTime: 2020-10-05T18:01:00Z
+    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed"
+    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/GettyImages-1078617590.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "5kiXkXB829DU2iWNQT6j6d31uQn6JBX1KNyY5MiPgfis8i8nKu9FeW9Q3sqwIXr6HR7o06+LCUPT1DSP/rorFjzUPE/5XGHqx64F+zk8WEhK/nH42ZFh9N0d2P90sSjNIIXVRsHdc0ahlSQd6cjWIvhKPJofvPmnDftPuT7OCTF6MToXXpIEy4lb7cAGksYp2wqNK01u57reIKaRma2HQ4mDHONp3bbiJxkCFOxkow1rPMMUwWLv1zUbfo8iPUH8i+sYRh4tCR7HRMjh2Ni9TpNgUVC6MIXqPflXY9/LlkK3N9QWFArV5MxhjTfA+/uzgGEZLfqu8uDkRZMfvMl14aoXJE703zxid+936F5Xbio=;GpkySuUjG5+Mj6+LLy50Hg=="

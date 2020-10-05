@@ -678,6 +678,20 @@ related:
         width: 1024
         height: 759
         isCached: true
+  - title: "Mike Pence, Karen Pence test negative as White House coronavirus cases climb"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence both tested negative Monday as a number of new cases were confirmed in the nation's capital."
+    publishedDateTime: 2020-10-05T18:47:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/05/mike-pence-tests-negative-covid-19-white-house-coronavirus-trump/3626064001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/26/PIND/f459176d-794d-415b-b2f4-9a80abebd0f8-Pence1.JPG?crop=2735,1539,x0,y0&width=1600&height=800&fit=bounds"
+        width: 1422
+        height: 800
+        isCached: true
 
 secured: "DQ73s9Cy92/6a4xOrAksXmY8aR+3Xp9CgpkLrAOxqD5immKBS45nsyppJDp1BA1JztiLsTkCEdbiwODOoCa8AT7da2opB1EBqCubbOc6wymqritSSFuUEBcZbDbQMbR75xEms4VegaZjZxQLZgYyCuRcbfLn50kXmKyBIkLiZW5gBe2m/TNtJf8S2rTZ0hPYgrbadrHBMeirHk8S7kijzmXPRDti+2S0OeH3JXI4MRBcHbAPOGL0OTI7nckORhf2/6AF9tziiDUnTroGItkpFJwS94NAJ3zmv3CBJI7NQlTR1Xd9cbJtJxD+TqhjmyqjmfLb2KFK5x8ESdvIbNJczNMSavqISKd4YkcQE1KnXSHEebvS2VKDx6OIjwEgPpadUYMMf3pchh3shx095Tksyp4Oe+PPVdGHLfudnkYZdVLFTUrq4c+bn+DoK5PILB3k2ToiVmtZIrvgZjSkK67JX2eJPj25pdYPSf6By7/JU4CcSbP+d1nvmmoq84Nji2oi1CZcSoP9IBVBsGozcyYoJQ==;FzE5FdAY2fgUI9vMHYSyWA=="
 ---

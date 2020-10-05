@@ -1458,6 +1458,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Election 2020: How to watch NBC Joe Biden town hall on Monday night"
+    excerpt: "NBC on Monday night will host Democratic presidential nominee Joe Biden in a town hall event in the battleground state of Florida. Biden’s event also comes two days before a scheduled vice presidential debate between Vice President Mike Pence and Biden’s running mate,"
+    publishedDateTime: 2020-10-05T19:35:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/election-2020-how-to-watch-nbc-joe-biden-town-hall-on-monday-night.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/election-2020-how-to-watch-nbc-joe-biden-town-hall-on-monday-night.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/election-2020-how-to-watch-nbc-joe-biden-town-hall-on-monday-night.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IU2G66MIKZDJNAEM2EE7S7SAGE.JPG"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Live: President Trump and Joe Biden square off in first presidential debate"
     excerpt: "The debate also will be aired on most major networks and cable news channels, including Fox News, CNN, ABC, CBS, NBC, MSNBC, PBS and C-SPAN. The debate is scheduled to start at 9 p.m. ET.  Presidential debate city: In the COVID era,"
     publishedDateTime: 2020-09-29T23:48:00Z

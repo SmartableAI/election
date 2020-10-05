@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/qa-trump-administratio
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75d8262d7049fa994972ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D78%26cropY2%3D1765"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Trump will be discharged from Walter Reed, doctors say"
+    excerpt: "Dr. Sean Conley said the president \"may not be out of the woods yet,\" but he is healthy enough to return to the White House."
+    publishedDateTime: 2020-10-05T19:27:00Z
+    webUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f7b3460282c500018c78907?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump administration slashes refugee program amid president's campaign attacks on immigrants"
     excerpt: "In Obama's final year in office, the annual cap on refugees was 110,000. Trump has pared that down. In fiscal year 2021, the limit will be 15,000."
@@ -110,6 +126,22 @@ related:
       - url: "https://i.insider.com/5f6b1ce939ab3b001192c7cd?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Trump administration is handling the White House COVID-19 outbreak in the same disastrous way it approached the country's"
+    excerpt: "There's been little to no transparency, mixed messaging, and a continued lack of respect for public health recommendations despite an evolving crisis."
+    publishedDateTime: 2020-10-05T19:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7b674d282c500018c78ab8?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "lIr0sui6OkskU4sT8TYepvvNYmWPXYBJ84PXdC0FY0xNb0xdFfNas2nWKQxWpFFJuUREopfTgzCoNLcKxA1mMvK+EU1tHLGhKYk8GBVEja+fD69CtXeRZftUYxCFdq9BgPXzLSmPltSiFJCLnDBg0E98Qc2Ev+J/ojge7X2bbI/spTg09wYpWMsYICCiizmCUR3XvOfdb7HAXmyJs9vme7obBLpS5GFWdGCKJd4nSsin/T/W2N6lHjD78+Pf22VQAAuC/bqUqCxYpjwxd+M+hxcfzKfB8AZaQXqMwZAHvwwe0vNC/A++YobQo53yAKJ/J/W7U23AIndG2sDZ1jbyZ0BaeVeStWdY2ah2Y5DCU6G4luN20gGGPi8LSQEM7Vma1Wx2O+kVkGcCdmpFdDOnlJC/DEbpL5pNhmYRuxNesc5OemKKQFWHWvi9XEJ2pDsA+Po5/56Ubf0aWGpz7dmcMQSx/IEGW1qsn3f5xdJ9mBxCYQ2ZFzRmojEjYKHyrhFB1Te7FZ7Roif2jSn3AKEyNQ==;ma1Y2HaoNj8SkXcJgkoDZA=="

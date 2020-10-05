@@ -692,6 +692,22 @@ related:
         width: 2000
         height: 1020
         isCached: true
+  - title: "Vulnerable GOP senator says Trump ‘let his guard down’ about COVID-19"
+    excerpt: "A vulnerable Republican senator on Monday broke with President Donald Trump and suggested that he botched his messaging of the COVID-19 pandemic. In an interview with the Houston Chronicle editorial board,"
+    publishedDateTime: 2020-10-05T19:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/vulnerable-gop-senator-says-trump-let-his-guard-down-about-19/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/vulnerable-gop-senator-says-trump-let-his-guard-down-about-19/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/vulnerable-gop-senator-says-trump-let-his-guard-down-about-19/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/John-Cornyn.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
     publishedDateTime: 2020-10-02T12:11:00Z
@@ -726,14 +742,14 @@ related:
         isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
-    publishedDateTime: 2020-10-04T19:21:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5892840002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5892840002"
+    publishedDateTime: 2020-10-04T23:11:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892840002"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
@@ -785,6 +801,22 @@ related:
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "BREAKING: Trump Announces He’s Leaving Walter Reed Tonight, Adds ‘Don’t Be Afraid of Covid’"
+    excerpt: "I will be leaving the great Walter Reed Medical Center today at 6:30 P.M,” Trump wrote. “Feeling really good! Don’t be afraid of Covid. Don’t let it dominate your life. We have developed, under the Trump Administration,"
+    publishedDateTime: 2020-10-05T19:12:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-announces-hes-feeling-really-good-and-leaving-walter-reed-tonight-dont-be-afraid-of-covid/"
+    ampWebUrl: "https://www.mediaite.com/trump/trump-announces-hes-feeling-really-good-and-leaving-walter-reed-tonight-dont-be-afraid-of-covid/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-announces-hes-feeling-really-good-and-leaving-walter-reed-tonight-dont-be-afraid-of-covid/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 65
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
         width: 1200
         height: 675
         isCached: true

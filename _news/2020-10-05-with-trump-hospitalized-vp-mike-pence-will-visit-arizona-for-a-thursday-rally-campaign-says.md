@@ -2,19 +2,19 @@
 category: news
 title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
 excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
-publishedDateTime: 2020-10-04T19:23:00Z
-originalUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
-webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
-ampWebUrl: "https://amp.tennessean.com/amp/3608558001"
-cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3608558001"
+publishedDateTime: 2020-10-04T23:01:00Z
+originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+ampWebUrl: "https://amp.palmbeachpost.com/amp/3608558001"
+cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3608558001"
 type: article
 quality: 79
 heat: -1
 published: false
 
 provider:
-  name: Tennessean
-  domain: tennessean.com
+  name: Palm Beach Post
+  domain: palmbeachpost.com
 
 topics:
   - Election
@@ -322,6 +322,6 @@ related:
         height: 675
         isCached: true
 
-secured: "2x7IEC9+BUtuB2p9yeTaXZFkYyXDPbV+iRj9bhNsjuGcf2bvBx1jivmxx9whvsw2AcGYC5zVwrB6TpKlYIkE+WBKzOhaeQusOYdI/V4h/vE8Z/RM6nPTKpZ47vP8V/RZdl7R3AputMpHWNA1RjsjGoDF26GxZRK/WUUnp7f5nb2IRmvAwH6XyAXa+eallMXkAE5vFpMsqa+heEbSi1UZDLLIj43lPZcXy8Jg0urVkVKWVctwJvFmNpYGCVaGp996WO+5ch9KnlYHFC1mbt9Rv13/oygliOpqSspANK6Fv9vQGWPCTfHNyL3Y996D3+QVTH2LJBS+hj4jNVk40GNjOwaZB4x6sACDsqUKzEAaEKKseIgRE5MflZzqazmLikb4trzZaAmQb8NzqLYLBe28OGS8evj7g1QzqE4of2ZMGU2gcMtuGKUrGXlKRdkXattsqJwYVs0oyJiGtM96bsyTX/h5YAqmzeueS5P4uCR9mQGakZNGis8+n9F/q1Hg3EncXiqN1nnLAg6I6UpnZnSCOg==;kpQujPbrgF9Il4k7VqnVtA=="
+secured: "JxyEGN1Xzl6sSDv78UOJp2zdb/MV8DAMf1UxzJoE4oyfJ2dI+H7t8/VXPed9l/2nr+zSiXyBg7+mrmANcJ5GR7Wlgxt7DPIjSqMD/vafZsNBq+zZfEunv63ek4644SD7UfoIGsqhDgZXY8O7Z3AsCGCz8U3rxBeY+fMC3pEUCj4gA41EdDh7K0082l1ahTIv4Os/OB6iv+xQsGydnirDwVIlngU9QaEIMMeWeaOv2xXERD9WJCbkayIJWN8s5EGWzlCY0dcxzc0l+GM+eMRTWM1ZCw56b5e6NCl/H3vVJ/7cKuiW5EurkesZNjEIJG8sLwPMcOTDYyi5ULbheU2swtZOFmu32ElVXLxekZeioFg=;++b6KboTiyESg7SGrszn0g=="
 ---
 

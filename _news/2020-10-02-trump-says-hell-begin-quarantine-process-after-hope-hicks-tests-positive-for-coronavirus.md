@@ -2222,6 +2222,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump says he's leaving hospital Monday evening"
+    excerpt: "\"Don’t be afraid of Covid,\" Trump added of the virus that has killed more than 211,000 Americans so far this year."
+    publishedDateTime: 2020-10-05T18:55:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-says-he-s-leaving-hospital-monday-evening-n1242172"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242172"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242172"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_41/3417500/201005-trump-cavalcade-mc-1424_e2821d13758f3c2f6c87f1dcfaee5ec0.focal-1000x563.JPG"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "E.P.A. to Promote Lead Testing Rule As Trump Tries to Burnish His Record"
     excerpt: "The E.P.A. will tout a new rule on testing lead in drinking water as President Trump's latest environmental achievement, but water experts see only modest improvements at best."
     publishedDateTime: 2020-09-27T09:00:00Z

@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump will return to the White House after three days fighting COVID at Walter Reed"
+    excerpt: "Trump's doctors signaled the possibility the president could be released from Walter Reed hospital if his COVID-19 symptoms continued to improve."
+    publishedDateTime: 2020-10-05T18:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/05/trump-return-white-house-despite-battle-covid-19/3620877001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?crop=1911,1075,x8,y0&width=1600&height=800&fit=bounds"
+        width: 1422
+        height: 800
+        isCached: true
   - title: "Marine One helicopter departs the White House as Trump heads to Walter Reed Medical Center"
     excerpt: "President Trump was taken by helicopter from the White House to Walter Reed National Military Medical Center on October 2 after testing positive for the coronavirus."
     publishedDateTime: 2020-10-03T17:31:00Z

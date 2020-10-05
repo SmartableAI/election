@@ -381,16 +381,19 @@ related:
         height: 675
         isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
-    publishedDateTime: 2020-10-02T19:35:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
+    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
+    publishedDateTime: 2020-10-03T00:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
+        width: 810
+        height: 285
+        isCached: true
   - title: "Vice President Pence, Sen. Kamala Harris set to face off in VP debate"
     excerpt: "CNBC's Andrew Ross Sorkin takes a look at what's ahead for the week, including some news from the Fed and the vice presidential debates."
     publishedDateTime: 2020-10-05T11:15:00Z
@@ -600,7 +603,7 @@ related:
   - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
     excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
     publishedDateTime: 2020-10-03T07:05:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-4-no-quarantine-for-u-s-vice-president-pence-whose-covid-19-test-was-negative-next-in-line-to-trump-idUSL1N2GT0VB"
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence-idUSKBN26N2BS"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2BS"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2BS"
     type: article
@@ -1680,6 +1683,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "These Kamala Harris Quotes About Mike Pence Don't Hold Back"
+    excerpt: "As soon as Sen. Kamala Harris (D-California) was announced as former Vice President Joe Biden’s running mate for the 2020 presidential election, it was quickly followed by discussion of the vice presidential debate."
+    publishedDateTime: 2020-10-05T18:54:00Z
+    webUrl: "https://www.elitedaily.com/p/these-kamala-harris-quotes-about-mike-pence-dont-hold-back-33860669"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 80
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2020/10/5/fd8319bd-a69f-41e5-bdb9-379d19c5fe4b-untitled-design-2020-10-05t114458422.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
     excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
     publishedDateTime: 2020-10-03T16:39:00Z
@@ -2322,6 +2339,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "XuMUvMLgbc9NF+4E1ZeY/suTf7j2hfg0kheWmByiGw+TXsGnqyP0E995zWX2ZAJZBt/EfbZDq8LkQdfp9ZzzGLk3SRHJBdBG1SlnjV8SSJ/lMw6rHQf9ABwFxT1JW7kw+ag/wQJ76CSCMbYAxYy5YSCEh+PuMNnLXkrY2qtb21048U7fRZ4DC7QHlFbaI8/tbw7xQ09/p+vSN7OHseG89WUaVZfFNYTftLtavtydELDBfc4S2YqK/hqA5JhgZR5t/T4068ZVVjisu7GycGmyxKCyK7AXtjzLeBiI32zN2hnKkLwz8oCR+S+JxzxOVQZwSPhk0dp+jnvUsj6MWBuEfyiiVrS4nZ4AMpq5ZHLBhk0=;n6m5LGxc/kHKpiKUb0vxpg=="
+secured: "lSe5ygriAN9fd8Rbhn+cgbJi6zIvXDGcJ4xFucSH9x61Ov5126DRDJBJNDHGJ0Nw02tCCZx3giXzQEiReWwZqE5REGQmgu5lD7N83vCnKJElzSJbK8yc9wQU5NilpNkZ3aEvWcfM0z7SYTudj7CEYwffj66uh6XhSdYIbl87MX5D6blY3xKMtL+fvSzU8M6GVbrdaiLrqgJqjF9BCfsUxdieMi4GO6ksT5xFUBfWnQcUXt7YElF8M95A+dB18xH9RrciAEzR+Vh7oYEylXHOERA96tcs7hW/yzpgd3oKzpHFTWd8KJAe/GfTxuP2CkNSq2P38VEl3RDP1X80RyBaE0H3vaIatK4DaScWP8roJ6YXzMdMgkO8RcLtJKWz4iL5/gsnd0FUzE93xaQ5dPs0hiUhwoKAPOMiOLM5AJ6YmqkxjWmWMgtYdtg4dVqVxOgNfRGbueW8THdK7SRQS+uVNBWLhiVD3uYIFmAB3jUwsDMphU69EIllQhEln3ftXOGsWEn9JD9Sjf8S2nAzaylRxQ==;Z0b0azEqpovLdgIixHGvfg=="
 ---
 
