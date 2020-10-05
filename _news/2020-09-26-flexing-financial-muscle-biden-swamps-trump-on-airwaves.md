@@ -443,6 +443,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
+    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
+    publishedDateTime: 2020-10-05T14:23:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615416001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615416001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Supreme Court fight could elevate Kamala Harris' profile"
     excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick"
     publishedDateTime: 2020-09-21T19:55:00Z

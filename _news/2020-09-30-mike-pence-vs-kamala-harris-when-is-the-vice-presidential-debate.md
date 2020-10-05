@@ -368,17 +368,22 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
-    publishedDateTime: 2020-10-02T19:35:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
+  - title: "Mike Pence's lack of quarantining concerns experts after Trump's coronavirus diagnosis"
+    excerpt: "Mike Pence on Saturday tested negative for COVID-19 after President Donald Trump and first lady Melania Trump said they tested positive for the virus."
+    publishedDateTime: 2020-10-05T14:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/04/mike-pence-and-covid-why-isnt-vp-isolating-after-exposure-experts-ask/3597974001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3597974001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3597974001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 130
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Pence, Sen. Kamala Harris set to face off in VP debate"
     excerpt: "CNBC's Andrew Ross Sorkin takes a look at what's ahead for the week, including some news from the Fed and the vice presidential debates."
     publishedDateTime: 2020-10-05T11:15:00Z
@@ -1052,6 +1057,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Risk assets rise on stimulus hopes and Trump's health progress"
+    excerpt: "Stocks and oil prices rose on Monday as stimulus hopes and suggestions Donald Trump's health was improving brought relief to markets after last week's rush to safety on uncertainty over the impact of the U."
+    publishedDateTime: 2020-10-05T14:15:00Z
+    webUrl: "https://www.reuters.com/article/us-global-markets-idUKKBN26Q00L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26Q00L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26Q00L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "US President Donald Trump leaves hospital by car"
     excerpt: "President Donald Trump briefly left the hospital Sunday in his car to wave to supporters gathered outside. Earlier in the day, Trump's doctor said he \"continued to improve.\" (Oct. 4)"
     publishedDateTime: 2020-10-04T23:30:00Z
@@ -1152,6 +1168,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Fabricated Kamala Harris tweet on removing cop account from Instagram"
+    excerpt: "Social media users are circulating a fabricated tweet allegedly from vice presidential candidate Kamala Harris, in which she asks for an account called “@cops.page” to be removed and says the focus should be on defunding the police,"
+    publishedDateTime: 2020-10-05T14:28:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-police-tweet-idUSKBN26Q220"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q220"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q220"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
   - title: "Vice President Pence, Harris prep for debate with higher stakes"
     excerpt: "NBC NEWS – Vice President Mike Pence and Senator Kamala Harris are expected to face off in a debate on Wednesday night against an extraordinary backdrop that has raised the stakes of the event."
     publishedDateTime: 2020-10-05T13:43:00Z
@@ -1568,6 +1595,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice Presidential Debate Between Mike Pence and Kamala Harris Still On"
+    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
+    publishedDateTime: 2020-10-02T19:27:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/vice-presidential-debate-between-mike-pence-and-kamala-harris-still-on"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/vice-presidential-debate-between-mike-pence-and-kamala-harris-still-on?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/vice-presidential-debate-between-mike-pence-and-kamala-harris-still-on?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 80
   - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
     excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
     publishedDateTime: 2020-10-04T23:00:00Z
@@ -1727,6 +1765,22 @@ related:
       - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228774543-e1601766932483.jpg?quality=65&strip=all"
         width: 4800
         height: 2712
+        isCached: true
+  - title: "Debate Squad: Meet Kamala Harris’s Closest Family Supporters"
+    excerpt: "Kamala Harris will debate Vice President Mike Pence—with six additional feet of distance between them—on Wednesday in Salt Lake City. Based on Harris's prosecutorial past and her tough lines of questioning for Brett Kavanaugh and attorney general Bill Barr in the Senate,"
+    publishedDateTime: 2020-10-05T15:30:00Z
+    webUrl: "https://www.vogue.com/article/kamala-harris-family-everything-you-need-to-know"
+    ampWebUrl: "https://www.vogue.com/article/kamala-harris-family-everything-you-need-to-know/amp"
+    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/kamala-harris-family-everything-you-need-to-know/amp"
+    type: article
+    provider:
+      name: Vogue
+      domain: vogue.com
+    quality: 75
+    images:
+      - url: "https://assets.vogue.com/photos/5f79406417ef50f396f17d9b/master/pass/GettyImages-1267250943.jpg"
+        width: 6464
+        height: 4662
         isCached: true
   - title: "Kamala Harris Superfan Is Getting Plastic Surgery To Look More Like Her"
     excerpt: "In other 2020 news... A 33 year old Houston woman named Cynthia Anne will be undergoing a series of procedures in order to make herself look more like Democratic vice presidential nominee Kamala Harris."

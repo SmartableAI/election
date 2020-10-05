@@ -720,6 +720,22 @@ related:
         width: 1200
         height: 774
         isCached: true
+  - title: "Trump is stubbornly clinging to stunts to show all is well — even as his condition worsens: analysis"
+    excerpt: "Writing for Vox, correspondent German Lopez slammed President Donald Trump for his ongoing series of stunts to prove that everything in the country is normal and there is nothing to be afraid of or criticize his government for — even as COVID-19 has made him very sick."
+    publishedDateTime: 2020-10-05T15:45:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 60
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-793x430.jpg"
+        width: 793
+        height: 430
+        isCached: true
   - title: "Trump Joins Growing List of Virus-Infected World Leaders"
     excerpt: "President Donald Trump has tested positive for the coronavirus, joining a small group of world leaders who have been infected."
     publishedDateTime: 2020-10-02T06:48:00Z

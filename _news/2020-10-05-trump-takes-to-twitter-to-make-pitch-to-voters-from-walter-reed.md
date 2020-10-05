@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Dan Rather criticizes Trump over Walter Reed 'photo ops'"
+    excerpt: "Veteran news anchor Dan Rather on Sunday issued a pair of tweets criticizing President Trump for his brief appearance in an SUV outside Walter Reed Medical Center as just the latest in a series of what Rather referred to as “photo ops."
+    publishedDateTime: 2020-10-05T15:56:00Z
+    webUrl: "https://thehill.com/homenews/media/519614-dan-rather-criticizes-trump-over-photo-ops"
+    ampWebUrl: "https://thehill.com/homenews/media/519614-dan-rather-criticizes-trump-over-photo-ops?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/519614-dan-rather-criticizes-trump-over-photo-ops?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_100420getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump trip from hospital to wave at fans endangers others, doctor warns"
     excerpt: "U.S. President Donald Trump briefly left the military hospital where he is being treated for COVID-19 in a motorcade on Sunday to wave to supporters gathered outside, sparking criticism that he was putting others at risk for a political stunt."
     publishedDateTime: 2020-10-05T05:52:00Z

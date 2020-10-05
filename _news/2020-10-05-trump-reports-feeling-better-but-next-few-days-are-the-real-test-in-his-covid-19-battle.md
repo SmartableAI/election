@@ -769,6 +769,20 @@ related:
         width: 2883
         height: 1922
         isCached: true
+  - title: "Age of distrust: Surge in social media posts doubting truth of Trump's COVID diagnosis"
+    excerpt: "A Cornell University study found 38% of online posts and articles containing coronavirus misinformation included references to President Donald Trump. After the president himself was diagnosed, there was a surge in posts doubting his illness."
+    publishedDateTime: 2020-10-05T14:41:00Z
+    webUrl: "https://www.cbsnews.com/video/covid-19-social-media-doubting-trump-coronavirus-diagnosis/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/05/8390c7ae-98b7-4990-8ee2-7654b1f35cbe/thumbnail/1200x630/cf88e9acd1bdcb1d1d814807545436be/cbsn-fusion-covid-19-social-media-doubting-trump-coronavirus-diagnosis-thumbnail-559927-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Daywatch: Trump tests positive for COVID-19, inside Democratic Speaker Michael Madigan’s job machine and a guide to the Midwest’s fall foliage"
     excerpt: "Late Thursday night, President Trump tweeted that he and Melania Trump tested positive for COVID-19. Earlier in the evening, Trump said that he and the First Lady were beginning the “quarantine process” as they awaited their test results after one of his closest aides,"
     publishedDateTime: 2020-10-02T11:24:00Z
@@ -1133,6 +1147,6 @@ related:
         height: 675
         isCached: true
 
-secured: "qPMAkxo02jxcEIOMHchIuAWMpC7/jY4oqqJ+KuGLq8gThbuvPMWUvBiMMA4Vh9QGFQtmaVn/l6s7Jgu6n5k7fpNpo6jKFKyWO2WkdgxaEEYoIJ6k4VMCaIUXcjtlCd+aKIV2dNJuec33sfk8O5QdYkNS5ihfrwYdBe1LYgOK9f3Q3yPRsi73hvXQ2IEXkomAxg4pE0ej8ubxEJIGMVCKEuR5PAJhtECVX1/GjNVuKDK3T4wx1/WkTHHZosbU0ID7GHfUnuJc/u/hEJTr7FFqr9qzrep1CGmIHCb4H0r0DSnoCw/G0MKWtBTZGWqtvrT+pa5KBxymg4gAwl9NaoTcmSDSG3/pb+Xmb3Z4ShZshrw=;x/2zbtHyVToNtAcjXnfHig=="
+secured: "lCTIehiaFDX30BGW6D/0exD+7bHvbJb//n9iGg1zIxLCBzjbaluNVa7GRqqW/tnxQYovhDJpBVvNpAHUNXempmTN+j7CvSzAX2W3qYWw27W3pL56L2h27VazelIefUFibwWP6Zi2fzmWkRsQjhppw5qkGNwilEai6Hp0fCrhKQp3gzubKbDRKF6w9/aoDeT3gEEl0RX6uCSU4lG26B8tELfVzSzPCzwsVKWgkRt2iUmaM0o9DGsv5G7ug/nb7WxFU3mI4i5rUTFARcIY2+BXvGJMQJJQYFciz6a/zpWCG1VEd8BU4gBqT8BMOtgCRkta9/53TarKQC0al4AFzik+Bkp4cpj/t6ZQ68iZgB79Vp+e3hjn2mScxA+yEM/OMLYJ0ZDX/VmhY1kUDfcFZZtIQeVdWTaa+0Bffsyjj473ZaazK8cSo0AJ4+SbFkKKxk/eue36Njq5XzBRyo6f2U7E9h/zhtCs9H48A5PkNYX02XBswojG2A3lZ7a2OnccpV0zkkH0Ch18J0MrMTBcpifV8g==;KySHIF2E/ekAEGS4Kh7rVA=="
 ---
 

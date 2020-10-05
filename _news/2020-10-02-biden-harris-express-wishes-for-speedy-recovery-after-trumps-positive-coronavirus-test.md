@@ -48,6 +48,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "When is the vice presidential debate between Pence and Harris?"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris will face off in their highly anticipated debate on Wednesday at University of Utah in Salt Lake City."
+    publishedDateTime: 2020-10-05T15:40:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8YWJKMINbBg/pence-harris-vice-presidential-debate-what-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-harris-vice-presidential-debate-what-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vice-presidential-debate-what-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 210
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/pence-campaigning.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris doesn't take questions after speech ripping Trump's Supreme Court push"
     excerpt: "Harris ripped Trump and the GOP for attempting to appoint a Supreme Court justice during an election year."
     publishedDateTime: 2020-09-29T00:45:48Z

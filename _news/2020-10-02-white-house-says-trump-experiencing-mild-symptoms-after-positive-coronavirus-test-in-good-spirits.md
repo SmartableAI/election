@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump in Walter Reed hospital battling coronavirus; Biden traveling to Florida"
+    excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending their time on Monday, Oct. 5, 2020, just 29 days away from the election. "
+    publishedDateTime: 2020-10-05T14:11:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeidCF_d2ZU/trump-walter-reed-hospital-coronavirus-biden-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-walter-reed-hospital-coronavirus-biden-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-walter-reed-hospital-coronavirus-biden-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7921c6e-2149-4167-9e1e-a32af7e74ea0/7e0d79ef-bc9f-4a83-a99a-e56d63d079be/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
     excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people.” "
     publishedDateTime: 2020-09-17T23:27:22Z
@@ -831,6 +847,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Melania Trump gives update as she battles coronavirus: 'Feeling good & will continue to rest at home'"
+    excerpt: "First lady Melania Trump on Monday said she is “feeling good” and is continuing to rest after testing positive for the novel coronavirus."
+    publishedDateTime: 2020-10-05T15:21:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hL50n7QpN20/melania-trump-says-she-is-feeling-good-continuing-to-rest-amid-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-says-she-is-feeling-good-continuing-to-rest-amid-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-says-she-is-feeling-good-continuing-to-rest-amid-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Sean Hannity on Trump's positive coronavirus test: 'Sad' but 'predictable' that it will be politicized"
     excerpt: "Reacting to news President Trump and first lady Melania Trump tested positive for the coronavirus, Sean Hannity offered his prayers to the first family."
     publishedDateTime: 2020-10-02T16:17:23Z
@@ -1221,6 +1253,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/75214fc5-57e1-4674-bae5-58de6bc2980f/a251111e-c14f-4626-b05d-81387724bd9c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump campaign sends pizzas to supporters outside Walter Reed Medical Center"
+    excerpt: "The Trump campaign sent pizza to supporters gathered outside Walter Reed National Military Medical Center as the commander-in-chief continues his battle against coronavirus inside. Video captured"
+    publishedDateTime: 2020-10-05T15:36:00Z
+    webUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/"
+    ampWebUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-hospital-pizza-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Michael Rapaport roasts President Trump after he contracts coronavirus: 'Bleach it out'"
     excerpt: "Michael Rapaport is known for publicly bashing President Trump online and Friday was no different for the actor as he reacted to the news of the POTUS' positive coronavirus test with a steady stream of insults on Twitter."

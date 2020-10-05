@@ -250,6 +250,22 @@ related:
         width: 619
         height: 413
         isCached: true
+  - title: "Vice President Mike Pence should be in quarantine not visiting Arizona"
+    excerpt: "The president has COVID-19 and the vice president needs to stay safe and keep others safe. Campaigning should be a distant second."
+    publishedDateTime: 2020-10-05T14:25:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/05/vice-president-mike-pence-should-quarantine-not-visiting-arizona/3619318001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3619318001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3619318001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "EXCLUSIVE: VP Mike Pence tells Channel 2 President Trump won Tuesday’s debate ‘outright’"
     excerpt: "Vice President Mike Pence is defending President Donald Trump’s performance following Tuesday night’s controversial debate and says he believes Trump won. Channel 2′s Richard Elliot spoke exclusively with Pence following his appearance at the Faith and Freedom Coalition conference that was held Wednesday at the Cobb Galleria Centre."
     publishedDateTime: 2020-10-01T05:43:00Z
@@ -289,6 +305,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Failed to Tell Sean Hannity About His Coronavirus Status During Thursday Interview — After Testing Positive"
+    excerpt: "President Donald Trump reportedly failed to tell Fox News host Sean Hannity about his coronavirus test status on Thursday just hours after he tested positive."
+    publishedDateTime: 2020-10-05T14:36:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/"
+    ampWebUrl: "https://www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 54
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "2x7IEC9+BUtuB2p9yeTaXZFkYyXDPbV+iRj9bhNsjuGcf2bvBx1jivmxx9whvsw2AcGYC5zVwrB6TpKlYIkE+WBKzOhaeQusOYdI/V4h/vE8Z/RM6nPTKpZ47vP8V/RZdl7R3AputMpHWNA1RjsjGoDF26GxZRK/WUUnp7f5nb2IRmvAwH6XyAXa+eallMXkAE5vFpMsqa+heEbSi1UZDLLIj43lPZcXy8Jg0urVkVKWVctwJvFmNpYGCVaGp996WO+5ch9KnlYHFC1mbt9Rv13/oygliOpqSspANK6Fv9vQGWPCTfHNyL3Y996D3+QVTH2LJBS+hj4jNVk40GNjOwaZB4x6sACDsqUKzEAaEKKseIgRE5MflZzqazmLikb4trzZaAmQb8NzqLYLBe28OGS8evj7g1QzqE4of2ZMGU2gcMtuGKUrGXlKRdkXattsqJwYVs0oyJiGtM96bsyTX/h5YAqmzeueS5P4uCR9mQGakZNGis8+n9F/q1Hg3EncXiqN1nnLAg6I6UpnZnSCOg==;kpQujPbrgF9Il4k7VqnVtA=="
 ---
