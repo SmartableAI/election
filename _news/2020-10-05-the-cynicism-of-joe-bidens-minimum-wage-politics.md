@@ -2,9 +2,9 @@
 category: news
 title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
 excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
-publishedDateTime: 2020-10-05T01:23:00Z
-originalUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018?mod=opinion_lead_pos9"
-webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018?mod=opinion_lead_pos9"
+publishedDateTime: 2020-10-04T23:47:00Z
+originalUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
 type: article
@@ -300,6 +300,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden and the Green New Deal"
+    excerpt: "When asked by moderator Chris Wallace during the first presidential debate of the 2020 campaign season if he supports the Green New Deal (GND), Joe Biden said, “No, I don’t"
+    publishedDateTime: 2020-10-05T04:01:00Z
+    webUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385"
+    ampWebUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Biden's Pennsylvania polling lead may not be what it seems"
     excerpt: "At first glance, 2020 Democratic presidential nominee Joe Biden seems well positioned should his Nov. 3 election against President Trump come down to Pennsylvania."
     publishedDateTime: 2020-10-02T10:17:00Z
@@ -312,6 +328,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "S/rJIr/2C8JPzyD049LH+l7dzLn8CYJij5nazOLnGNOuDkxmHdPNPaqsdh7eKE4Owct5CXE0QB+tdLEkD2Psw6vjV2YiO1imXegGVIY1HeR2mXH3zTrVgTEvMaBGC3I/BVEh09G1LkmY09kfKF9iGDvmiD2dHj+5Rsm2LLQN4oMo0GUKsX4S6XiJS6vaY9OvpUhZM5+2GxXtGHYHwm5hpotOhNYZk+/yrXTp1o4Q0VsIbJTMSw0VtQsN47lTuTezH5HrpE8qnpCZxdGmLGztnt/cJZ8ua4QwOpN0JC8xjPI5/q/iMAh9am/zaxZpPC4dqqYksIMqrrVPRmxt1Z7KV4s/P/Upg93qFdw89LKNeYRNCSwFkUG5UJP2E3Evpvc8B5MOJsU1po/HapKTuOtuQcZwoUEl6MfhKBg2c4WBB5BiGiwDn2njk1xvPqp2NtCNBCFiGyRjgqgQKg21DcsEsI8xLeFjybG3YffkihFs86BoxAtHK8SLAe66VS7Nj4WzIC4TmFcNMDNgAlcRYj0Tww==;c8lqW+mFEx0jo6Zt1SEuRQ=="
+secured: "fcmYfkZnN2mtlpJ5tNArq84GJC5orzZuds0DLgl1wOvViU/IrcHTdXYQ+Ec70zWg1f7DvrnRXRynNMBf3HJXA8+osR5sBy0oP7dijF+8/Odq5m9ZCZ5aqKUQ9Ap9VOhpAJr0XYQkhQfmHrdiB6LWEVWCrb4RyodUT6i212aWsi34LDC3t9D33qbdLlUdKEkCScTFFuSc79numfdAMRwEt2tCChXB4oEG1QJ2Awhz6RuO70tKJ5sOXQqMU7Qmn9jaqXhxN48EvXIYXnZKJ6dd5cBdMNDys63pNWudoC4eKGJGVqTLZIM/Sj0cPncl3oEmBQmJUNB/8TVohWIyG7hagRTGAuGz9pmLJ9Et+moR9i8=;Y/WsrDlOaGfVGuClcLNUOQ=="
 ---
 

@@ -610,6 +610,22 @@ related:
         width: 1024
         height: 646
         isCached: true
+  - title: "Trump Suffering From 'Severe' Case of Coronavirus? Doctors Question Use Of Dexamethasone"
+    excerpt: "Medical experts are concerned about the president's use of dexamethasone, a steroid normally reserved for more serious cases."
+    publishedDateTime: 2020-10-05T05:32:00Z
+    webUrl: "https://www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687"
+    ampWebUrl: "https://www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-suffering-severe-case-coronavirus-doctors-question-use-dexamethasone-3056687?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 66
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/donald-trump-tweeted-from-hospital-calling-for-us.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden tests negative for coronavirus before events in Grand Rapids"
     excerpt: "Democratic presidential nominee Joe Biden and his wife Jill Biden tested negative for the coronavirus Friday morning, hours before he is scheduled to campaign in Michigan. Bidens"
     publishedDateTime: 2020-10-03T04:25:00Z

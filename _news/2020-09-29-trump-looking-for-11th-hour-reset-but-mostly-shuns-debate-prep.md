@@ -847,6 +847,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is hospitalized with Covid, but he's still not taking the pandemic seriously"
+    excerpt: "President Donald Trump's fight with Covid-19 has so far not convinced him to prioritize a responsible approach to a pandemic that has killed 209,000 Americans over his own political needs.\n    \n"
+    publishedDateTime: 2020-10-05T05:54:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57_qlbB9m10/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-hospitalized-coronavirus-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-hospitalized-coronavirus-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003213715-national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx-00000512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump furious at chief of staff for contradicting White House physician, sources say"
     excerpt: "President Donald Trump is furious with chief of staff Mark Meadows after the top West Wing official contradicted the White House physician's assessment Saturday of the President's health, two sources with knowledge of the situation told CNN on Sunday.\n    \n"
     publishedDateTime: 2020-10-04T17:49:16Z

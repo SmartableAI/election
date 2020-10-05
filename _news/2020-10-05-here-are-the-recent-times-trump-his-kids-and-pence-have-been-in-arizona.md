@@ -336,16 +336,19 @@ related:
         height: 545
         isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
-    publishedDateTime: 2020-10-02T19:35:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
+    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
+    publishedDateTime: 2020-10-03T00:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
+        width: 810
+        height: 285
+        isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
     publishedDateTime: 2020-09-25T14:21:00Z
@@ -2123,6 +2126,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "RiJaz41D5ipI+yYx91W+uZ3I5Q7UrCQHYH4qxyOH+EbqUJvIUEtjSntW8S/Y06iXceqWhDTBklIy3oCkgUeRd2zcQ2CNREH0W0Qiel/I8f2WMZjwfk7gXnKakMCUBejymAuiu8Dga0s34ZLYyUTTy+ftLrnrkLOTufH6cApRs32fBIG6dFyGceFj2iPzLMatK/y6zwjStk0tkVdJ0DCvNhiVgicj5/67Y4LyWaj5hsK0DeLzwCK48vlQKMFnSXp3DJqPHkLorEWG71NSk2w+bYWdY7A3Lpfklzx9QIthgS6rXwOYj3iHuEPstD15DZYUFtJ5smkNyyDmSIix2eLlm4JRtJxMwzfeccWmqyuXbnI=;HmXxm925yAorFiKh7hD/zg=="
+secured: "JmnenkkfUyOTpe1Wo2tzN1sj40FvjC5SmxR7Ahf6QQyy+P0ir85KVUW97i1ejKlv2ofQOgAj7xAxnDUwxvfc6Ak2RGjTJ0alCKowUNCCilZOarsrrXUzLN64+BOaWrzaW2N6cWQKG/U8wwZTg1f+BgbNbEqvJTgFDwPDJYi04XLd+wAa4uOLjQO+W3ZaXv0KsocsXgX0W+Nj4uyLFoQiA56eO1L3jn7KrQA8c+5DALxGNkW+sWNphEGZ4ndy6AH/SHA0RdmSE2xWV3jq7oUNH0KWp8P8OG2Tj2qSiAQfHaN5rQ0CrDxkXg896PJohymO8Xp3C56hqr41KzM6OKtlJs99h2ml5cQ327bcgIZThwdbxU2rnJMRgcMWrCEp32yg1Q18Qhk4g1w2r1VztsLgC/9I4W3XOs/yECKgsKm5WeawkKNXBKGGo2Wvn2cQbxdvWjRQZbpJv+IXkpezPxao93oJI5HqnqlI5gx2ZzrzLiSL/WO87YVtfAUt76aflP1vgoJFqtqbveTf2h1hku+jbw==;DFml3zld/OyXlo3V+UjSYQ=="
 ---
 

@@ -287,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Global stocks rise as signs of Trump's improving health calm markets"
+    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
+    publishedDateTime: 2020-10-05T04:27:00Z
+    webUrl: "https://www.reuters.com/article/global-markets-idINKBN26Q03N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26Q03N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26Q03N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536147605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400A"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Stocks rise as signs of Trump's improving health calm markets"
     excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
     publishedDateTime: 2020-10-05T02:19:00Z
@@ -712,6 +728,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "/CDaKp2n9T068hc+U8sSZQcx1mw9dABWE6EXBWoLy37BEJc22l086eSp65SCaKJ23IstEDx1pvoLbdcLjqAdbD50/S22nXUcVPiiFiOB/BPyVFfQf743Ew8NQ0lv5EkgDd07Fl5yjxL0YQFgBt1K1dVd8ojeVERE4XM6B2nCmWhf7ltEDsUGBAdP+qkC7f0H4RzxqiiNBnbNEjCRJ33KYjiTcZN6DsG/yRSeVvy1jrYBF5bu/u+zYIwYO/8GtxyvCe+QlZfozGvmXmLfTXC5QkeQuRe/06lF0I5sZld2omBWg2NgaJc0O0EvSKbw7XSFD8nHxnDH5BqRDyEP1bINNxxACqJKFfqzL7perxt0Vlo=;D9CEXNVr6qOvcTH+Ume58A=="
+secured: "3jKuJG0HbnMaJvVb/S0Sopt9FOZr3LScg52mRKTDpFKr0vGAC+Ai0mncZrbhLHn9GMM86fA6p3eJC+DvmcoRqVrFoeaHpQ6xUFjR9LhSk/F3YR7gfzDM598Kg8XL/r4JGHlh34gxLh3+Yxlc9rOX9ZZR8RkvfsFE0WQGyOe+U+WfWY59TpbLwzHP5B1UKOSV2nuJ1EuaU56Bk2LCfp2d9WziSPxA+BiTgAwyBmQzCR/I3pmBhvA7S3KiFoKbpAvQoqLa4pZ+TTWaAl2I3gg8X747cEE4bOdSjMMuf7vTQH9VbtF6u+vBr34IyGXfL9cHy4W4OGZagC1GH+2epkbCc1ZV4gOHx2cbgDmgYV8XGnry50TWMrb+xnwmsKLiUfqqsF7BZCyLq+qim8A9NT7OG88G2iUItb2NzqDthZAHNbblDFDc6UHhtuVyDb11pw5qdKj6Zrx7x6fAHKtf5gPhXkGUDKZUyNnFauEAhbxinWW7O3puIjOXjn2PhjDHUngbEedwnaYU+SLASQRXRbnlIA==;edyiCnZKxty2AFWg0cPKOg=="
 ---
 

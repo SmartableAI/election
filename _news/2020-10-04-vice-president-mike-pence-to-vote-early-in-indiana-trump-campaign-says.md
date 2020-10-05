@@ -348,16 +348,19 @@ related:
         height: 545
         isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-    excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
-    publishedDateTime: 2020-10-02T19:35:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
+    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
+    publishedDateTime: 2020-10-03T00:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
+        width: 810
+        height: 285
+        isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
     publishedDateTime: 2020-09-25T14:21:00Z

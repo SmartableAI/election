@@ -47,6 +47,22 @@ related:
         width: 838
         height: 545
         isCached: true
+  - title: "Trump seizes on small election issues to spread concern"
+    excerpt: "In the run-up to Election Day, President Donald Trump is seizing on small, potentially routine voting issues to suggest the election is rigged"
+    publishedDateTime: 2020-10-05T05:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-seizes-on-small-election-issues-to-spread-concern/2020/10/05/658d9ffc-06c8-11eb-8719-0df159d14794_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-seizes-on-small-election-issues-to-spread-concern/2020/10/05/658d9ffc-06c8-11eb-8719-0df159d14794_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-seizes-on-small-election-issues-to-spread-concern/2020/10/05/658d9ffc-06c8-11eb-8719-0df159d14794_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump doubles down on questioning the transfer of power if he loses the election"
     excerpt: "The president continued to spin a narrative of ballot fraud. \"We're not going to stand for it,\" he told supporters."
     publishedDateTime: 2020-09-26T14:06:00Z
@@ -670,6 +686,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/27/USAT/d583c4c2-503d-4ac8-bfe4-1e7b11d3407f-AP_Election_2020_Biden_2.jpg?auto=webp&crop=2184,1229,x1,y83&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump's medical status unclear as doctors say he could be discharged on Monday"
+    excerpt: "President Donald Trump could be discharged from the hospital where he is being treated for COVID-19 as soon as Monday, according to his doctors, although his condition remains unclear and outside experts warn that his case may be severe."
+    publishedDateTime: 2020-10-05T04:30:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-int-idUSKBN26Q0DQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q0DQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q0DQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536164705&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9407O"
+        width: 785
+        height: 545
         isCached: true
   - title: "Trump: Election will 'end up in the Supreme Court'"
     excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."

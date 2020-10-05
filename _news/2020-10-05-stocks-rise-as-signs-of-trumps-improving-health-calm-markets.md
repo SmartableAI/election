@@ -287,6 +287,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Global stocks rise as signs of Trump's improving health calm markets"
+    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
+    publishedDateTime: 2020-10-05T04:27:00Z
+    webUrl: "https://www.reuters.com/article/global-markets-idINKBN26Q03N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26Q03N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26Q03N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536147605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400A"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z

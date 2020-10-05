@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
 type: article
 quality: 127
-heat: 1007
+heat: 1027
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b646160b63fb44cc87cda580de0d383c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Global stocks rise as signs of Trump's improving health calm markets"
+    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
+    publishedDateTime: 2020-10-05T04:27:00Z
+    webUrl: "https://www.reuters.com/article/global-markets-idINKBN26Q03N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26Q03N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26Q03N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536147605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400A"
+        width: 817
+        height: 545
         isCached: true
   - title: "Stocks rise as signs of Trump's improving health calm markets"
     excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-jumps-to-14-point-lead-nation
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jumps-to-14-point-lead-nationally-after-debate-poll.amp"
 type: article
 quality: 189
-heat: 549
+heat: 569
 published: true
 
 provider:
@@ -223,8 +223,8 @@ related:
         isCached: true
   - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
     excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
-    publishedDateTime: 2020-10-05T01:23:00Z
-    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018?mod=opinion_lead_pos9"
+    publishedDateTime: 2020-10-04T23:47:00Z
+    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     type: article
@@ -298,6 +298,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/576d770a-696a-426b-a2de-fc39c21ad669/b8359fd3-5cda-44aa-91e5-633c77dd35ee/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden and the Green New Deal"
+    excerpt: "When asked by moderator Chris Wallace during the first presidential debate of the 2020 campaign season if he supports the Green New Deal (GND), Joe Biden said, “No, I don’t"
+    publishedDateTime: 2020-10-05T04:01:00Z
+    webUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385"
+    ampWebUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Biden's Pennsylvania polling lead may not be what it seems"
     excerpt: "At first glance, 2020 Democratic presidential nominee Joe Biden seems well positioned should his Nov. 3 election against President Trump come down to Pennsylvania."

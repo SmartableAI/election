@@ -863,6 +863,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is hospitalized with Covid, but he's still not taking the pandemic seriously"
+    excerpt: "President Donald Trump's fight with Covid-19 has so far not convinced him to prioritize a responsible approach to a pandemic that has killed 209,000 Americans over his own political needs.\n    \n"
+    publishedDateTime: 2020-10-05T05:54:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57_qlbB9m10/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-hospitalized-coronavirus-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-hospitalized-coronavirus-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003213715-national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx-00000512-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump tries to turn first presidential debate into a campaign rally by talking over Biden and steamrolling moderator"
     excerpt: "President Donald Trump heads into Tuesday's first presidential debate trailing former Vice President Joe Biden in the polls and on defense about his handling of a pandemic that has killed more than 200,000 Americans and led some 30 million people to file unemployment claims.\n    \n"
     publishedDateTime: 2020-09-30T01:47:22Z
