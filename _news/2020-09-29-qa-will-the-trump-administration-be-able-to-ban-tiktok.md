@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/qa-trump-administratio
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 125
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75d8262d7049fa994972ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D78%26cropY2%3D1765"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "On President Donald Trump and COVID-19, just tell the truth to the American people"
-    excerpt: "Dr. Sean Conley says he'd 'rather not' disclose specifics on Donald Trump. Dr. Conley, the American people would rather know more than less."
-    publishedDateTime: 2020-10-03T19:26:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/03/donald-trump-covid-transparency-honesty-national-security-editorials-debates/3594411001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3594411001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3594411001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/e9ea8b74-8f7c-4fd9-a5b0-cfed92e8df34-trump_doctor.jpg?auto=webp&crop=5567,3131,x0,y403&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

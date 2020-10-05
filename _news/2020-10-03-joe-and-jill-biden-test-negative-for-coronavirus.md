@@ -175,6 +175,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden and his wife test negative for coronavirus"
+    excerpt: "Biden recently attended a presidential debate against President Donald Trump, and Trump later tested positive for the virus."
+    publishedDateTime: 2020-10-03T01:11:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f77304f0ab50d00184adc56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "What Mike Pence needs to tell us about coronavirus"
     excerpt: "Vice President Mike Pence was present at the Sept. 26 event at the White House introducing Judge Amy Coney Barrett as President Trump’s Supreme Court nominee. Among the several attendees who have subsequently tested positive for the novel coronavirus are Sen."
     publishedDateTime: 2020-10-04T14:05:00Z
@@ -582,6 +598,22 @@ related:
     quality: 86
     images:
       - url: "https://i.insider.com/5f78a48b282c500018c78734?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'That makes no sense': Doctors say Trump is either getting overtreated for coronavirus, which could be risky, or he's more seriously ill than we know"
+    excerpt: "The decision to give the president steroids raises questions about how severe his coronavirus infection is, doctors say."
+    publishedDateTime: 2020-10-05T17:29:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-treatments-prognosis-puzzle-doctors-remdesivir-dexamethasone-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 86
+    images:
+      - url: "https://i.insider.com/5f78cb9e2400440019129d78?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

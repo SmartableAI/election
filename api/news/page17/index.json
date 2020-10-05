@@ -2,6 +2,380 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-14-fact-check-trump-makes-four-false-claims-in-one-sentence.md",
+      "title": "Fact check: Trump makes four false claims in one sentence",
+      "excerpt": "In what may be a new record for President Donald Trump, he made four false claims in one sentence of a tweet on Saturday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qD6NTCpCkeQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qD6NTCpCkeQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200913233244-05-trump-rally-0913-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/fact-check-trump-mccabe-clinton-mcauliffe/index.html",
+      "publishedDateTime": "2020-09-14T13:00:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-trump-says-football-is-boring-as-hell-at-nevada-rally-continuing-his-grievance-against-racial-injustice-protests.md",
+      "title": "Trump says 'football is boring as hell' at Nevada rally, continuing his grievance against racial injustice protests",
+      "excerpt": "At a weekend rally in Nevada, the president continued his attacks on NFL players who protest racial injustice and police brutality on the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5fc40c57b7da001ee1180e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-rally-football-nfl-racial-injustice-police-brutality-nevada-2020-9?amp",
+      "publishedDateTime": "2020-09-14T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.md",
+      "title": "Trump campaign returns to economy with 8-figure ad buy, calls it ‘defining issue in this race’",
+      "excerpt": "The Trump campaign is set to release a mid-eight-figure ad buy Tuesday touting the economy during President Trump's first term after a recent emphasis on \"law and order\" messaging, saying the economy is the \"defining issue\" of the 2020 presidential race, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCqJbFaBac8/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCqJbFaBac8/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp",
+      "publishedDateTime": "2020-09-14T12:27:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-joe-biden-says-us-is-facing-one-of-the-most-difficult-moments-in-our-history.md",
+      "title": "Joe Biden says US is facing 'one of the most difficult moments in our history' ",
+      "excerpt": "Democratic presidential nominee Joe Biden said Monday that the United States is facing one of the most difficult moments in the nation's history, with \"four historic crises all at the same time.\" \n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6u9_WTQsBS4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6u9_WTQsBS4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200914134408-01-biden-climate-change-0914-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/joe-biden-wildfires-climate-crisis/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/joe-biden-wildfires-climate-crisis/index.html",
+      "publishedDateTime": "2020-09-14T12:19:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week.md",
+      "title": "GOP chairman to release interim report on Biden probe 'in about a week'",
+      "excerpt": "Senate Homeland Security Chairman Ron Johnson (R-Wis.) said on Monday that he will soon release an interim report from his months-long probe involving the Obama administration and Hunter Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week",
+      "originalUrl": "https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/johnsonron_072120gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week?amp",
+      "publishedDateTime": "2020-09-14T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.md",
+      "title": "Pence cancels a plan to attend a fund-raiser hosted by QAnon supporters.",
+      "excerpt": "Vice President Mike Pence has called off plans to attend a fund-raiser in Bozeman, Mont., on Monday evening hosted by a couple who have shown support for QAnon, the convoluted conspiracy theory built around the notion of a deep-state cabal of Satan-worshiping pedophiles and their powerful Democratic backers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/14/us/14live-pence/14live-pence-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.amp.html",
+      "publishedDateTime": "2020-09-14T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win.md",
+      "title": "In her three elections, Kamala Harris has learned to adapt — and win",
+      "excerpt": "Electoral innovation has consequences, and Kamala Harris has adapted three times to different ways of winning elections.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
+      "originalUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/harriskamala_08122020_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
+      "publishedDateTime": "2020-09-14T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-biden-campaign-readies-massive-legal-team-for-voting-election-issues.md",
       "title": "Biden campaign readies massive legal team for voting, election issues",
       "excerpt": "Joe Biden's campaign has assembled an extensive legal team to focus on voting and election issues.\n    \n",
@@ -213,7 +587,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -646,7 +1020,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 98,
       "tags": null,
       "images": null,
       "type": "article",
@@ -946,380 +1320,6 @@
         "Election",
         "Republican Voice",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-trump-called-him-my-african-american-his-life-hasnt-been-the-same-since.md",
-      "title": "Trump called him 'my African American.' His life hasn't been the same since",
-      "excerpt": "If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. Hear how his life was transformed after Trump called him \"My African-American.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/26YZY7DcoPc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/26YZY7DcoPc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200909135548-01-gregory-cheadle-june-2016-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html",
-      "publishedDateTime": "2020-09-13T06:00:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-what-matters-what-the-most-epic-pardon-of-all-time-tells-us-about-trump.md",
-      "title": "What Matters: What the most epic pardon of all time tells us about Trump",
-      "excerpt": "Forty-six years ago this month, President Gerald Ford made one of the most controversial announcements in American political history: He pardoned Richard Nixon.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qOnDOqKojEw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qOnDOqKojEw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200708150529-pardons-explainer-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/13/politics/gerald-ford-richard-nixon-pardon-wolf-what-matters/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/gerald-ford-richard-nixon-pardon-wolf-what-matters/index.html",
-      "publishedDateTime": "2020-09-13T04:04:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-how-kamala-harriss-immigrant-parents-found-a-home-and-each-other-in-a-black-study-group.md",
-      "title": "How Kamala Harris’s Immigrant Parents Found a Home, and Each Other, in a Black Study Group",
-      "excerpt": "Donald Harris and Shyamala Gopalan grew up under British colonial rule on different sides of the planet. They were each drawn to Berkeley, and became part of an intellectual circle that shaped the rest of their lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/12/us/politics/12harris-parents-india/12harris-parents-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-          "width": 600,
-          "height": 484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/13/us/kamala-harris-parents.amp.html",
-      "publishedDateTime": "2020-09-13T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-mike-pence-backs-out-of-fundraiser-hosted-by-qanon-supporters.md",
-      "title": "Mike Pence backs out of fundraiser hosted by QAnon supporters",
-      "excerpt": "At least one Republican congressional candidate, Georgia's Marjorie Taylor Greene, supports the QAnon conspiracy theory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html",
-      "originalUrl": "https://www.aljazeera.com/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/9/12/c444ddc01a5345fd89f2ea24d008e048_18.jpg",
-          "width": 583,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/09/mike-pence-backs-fundraiser-hosted-qanon-supporters-200912171621142.html",
-      "publishedDateTime": "2020-09-12T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-12-new-voters-in-battleground-north-carolina-provide-a-critical-test-for-trump.md",
-      "title": "New voters in battleground North Carolina provide a critical test for Trump",
-      "excerpt": "Jamie Oswald doesn't like President Donald Trump's tone, his temper or his tweets, but she hasn't ruled out voting for him this fall.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R359Yw4txZI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R359Yw4txZI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911175834-north-carolina-business-owner-zeleny-pkg-vpx-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/12/politics/north-carolina-2020-election/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/north-carolina-2020-election/index.html",
-      "publishedDateTime": "2020-09-12T07:10:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-blitzer-to-fauci-who-should-we-trust-you-or-president-trump.md",
-      "title": "Blitzer to Fauci: Who should we trust, you or President Trump?",
-      "excerpt": "President Trump claims the US is turning the corner in the Covid-19 pandemic. Dr. Anthony Fauci disagrees and implores everyone to look at the data.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4wemZNcxP0/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4wemZNcxP0/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911173201-wolf-blitzer-anthony-fauci-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
-      "publishedDateTime": "2020-09-11T14:42:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-joe-biden-and-mike-pence-exchange-elbow-bump-at-nyc-911-memorial-event.md",
-      "title": "Joe Biden And Mike Pence Exchange Elbow Bump At NYC 9/11 Memorial Event",
-      "excerpt": "Vice President Mike Pence and former Vice President Joe Biden greeted each other at the annual ceremony commemorating 9/11 in New York, a calm respite from a bitter 2020 election campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/09/11/joe_biden_and_mike_pence_exchange_elbow_bump_at_nyc_911_memorial_event.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/11/joe_biden_and_mike_pence_exchange_elbow_bump_at_nyc_911_memorial_event.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521025.jpg",
-          "width": 750,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-11T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

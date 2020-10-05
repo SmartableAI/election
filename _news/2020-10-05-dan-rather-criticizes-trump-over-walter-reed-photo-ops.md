@@ -111,6 +111,22 @@ related:
         width: 885
         height: 545
         isCached: true
+  - title: "Trump campaign slams plan to change debate rules after unruly Cleveland encounter"
+    excerpt: "President Donald Trump's re-election campaign on Thursday rejected calls for new rules to govern the next two debates between him and Democratic challenger Joe Biden, after a first matchup marred by constant interruptions and outbursts."
+    publishedDateTime: 2020-10-02T02:58:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idINKBN26M7DZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26M7DZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26M7DZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535768168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9054P"
+        width: 877
+        height: 545
+        isCached: true
   - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
     excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
     publishedDateTime: 2020-09-28T07:29:00Z
@@ -210,6 +226,6 @@ related:
       domain: usnews.com
     quality: 51
 
-secured: "FttRu5Mt8dQC76zvJHJKlUw7/Qd1c8zVpt23YHk/giIBEUB7qEM3Yu3s52/igtZ7UXVNPc/gdkqvNc4+jl1QhsvNE0j04a2LOYzA9cmGAib0bPwiptNLg9dL2VkXeE0rT4Hso5du/7O239XlW9A6yLV8wR29BPmCsKidfnUiokITE11D9AlWXDZFaQgC7w5/yXe4MwY6q5DeIuYIKPytQiqb9Y1fyE7OzHCQTejW8XRNCIB5ZM3gzvD8eKt5HBmGHAvXA43R9v+bNtYwQyvv4UjBRyxzq5zNIsh0hJykLXaDK+z6FeWT35nX2+FmcXDVj/rZTdzl/g9KtXifl7c3wNaMFjzT8+jgCQKswcrH1Uk=;IRZR9BTmUeGqldFa2avN9Q=="
+secured: "pBjaUUyFU0GVxPO+K1AYATgHatUKnNnCa58t72SsbClHjJzIHuwObTm8zwKdtk01wpdl3xfW0gsbtFGVxjuiwtWwtWEpwoa8kmFbgC8m1UU56AZO6gE/ixRAUARROlv92zG96kaCiWN9DrvrOeEm76CqjmhYbYQgCMTdyLYaxDA4RsKY0gsvqRcii9m288R+17k5wGS2JP+KJXpd7FEQvBO7NnFftACv0sAmlEHzV6Mg/cGTs49xddUlYSihV37BFypcUWKxy8Fxa8Op354cnrzS+/FWG3gHEOR2hvCLhAoO2dwOBCe/p1TRm6x0H9kiGy4p1Jp3xvoXOS0+k9OVO0GKT1wLYXXexgPn3CRuWk537DphtjoRUmVSrS97ZGti5rv1l3DyOy+Njy2Pqaz+dnlJoDP7O8atT+/RPF/AbFpLKa//m8QsV0hT6+3ILCUnugxh7UmlBdPot2CzAZbLv9V9Ia118A1uVheAg0DuWvJGzNyzPAVgEvx5sPsiJKzNvAq/T4skzALc2Ry46E7lcg==;O4PASSBUti1nx5JCVRLjQg=="
 ---
 

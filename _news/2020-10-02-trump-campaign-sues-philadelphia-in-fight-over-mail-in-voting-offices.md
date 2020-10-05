@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Nevada AG says Trump is urging supporters to intimidate voters at polls"
+    excerpt: "Nevada’s Democratic Attorney General Aaron Ford claimed Wednesday that President Trump was telling supporters during the debate to intimidate voters at polling locations. "
+    publishedDateTime: 2020-09-30T22:50:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjrPhllOmEc/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/a379f4f2-Florida.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Meadows defends Trump comments on mail-in voting: 'He is stating the facts'"
     excerpt: "White House Chief of Staff Mark Meadows defended President Trump's criticism of mail-in voting on Sunday, asserting that there is truth behind the president's concerns."
     publishedDateTime: 2020-09-27T18:16:40Z

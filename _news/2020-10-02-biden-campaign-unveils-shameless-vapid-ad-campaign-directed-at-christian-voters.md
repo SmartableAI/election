@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Beto on Biden's chances in Texas: It's his to lose"
+    excerpt: "Former Texas Rep. Beto O’Rourke believes that Democratic presidential nominee Joe Biden can win Texas’ 38 electoral votes this November – a move that would mark a drastic change for a state once considered firmly in the hands of the Republican Party."
+    publishedDateTime: 2020-10-04T22:46:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pLkDpKGaTTM/beto-on-bidens-chances-in-texas-its-his-to-lose"
+    ampWebUrl: "https://www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
     excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
     publishedDateTime: 2020-10-01T21:02:23Z
@@ -63,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Joe Biden’s ObamaCare Tax Avoidance"
+    excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
+    publishedDateTime: 2020-09-30T22:53:00Z
+    webUrl: "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-238687/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "WzuqqUfh5k/GpXEFuDx0bzj2Cp0AWw8OHh4hKWy0X3+nTnWHveDglgpSq4P8pY/8ozH5m3TdCpTQ/9dSvufIMMEetgdtvTHNz/FTXlgHGrBkq08T7oK7TvVSSesn3IeKn+8cOQWchIbMnK1UJI8zvsvU8VYb3dqLrNDYJIjnna+V/6ynX13QyVxRlJzGOdNajdFC/bGUYmJB6BIZlNtDsUIGUY30sZgPGtqm8s0obL9pdM7tvBYfnwLkJpcrV+JGQAcBwJ16zaogTQlEotCmCyWMIJxHhjXJwA2xi7tts6hEk7/dyenYnWCIzWzlXuCKzhCv+DZP339m1hXAKUXnbUsZbxlF7qydjslsOqdiB2aSzeAhe5CERhu/OSM7n8nhMrjymhifa8+a6gOtcO/+10ZX81Y4qqE/MAYt+DHOKEtYW/95XvxW+ur7oQNhGNYDKLo+2rVvwu73pp0SPLq0n4g3fEiATrR23gGFyleKohW9UwOBsJKzK+gER/EkJEwCujT+hihvszeNrx1hz3spiw==;sqKVqMBV8aYuUVMFMYf7Iw=="

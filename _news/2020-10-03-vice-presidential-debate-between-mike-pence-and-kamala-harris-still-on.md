@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Vice Presidential Debate Between Mike Pence and Kamala Harris Still On"
+title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
 excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
-publishedDateTime: 2020-10-02T19:27:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/vice-presidential-debate-between-mike-pence-and-kamala-harris-still-on"
-webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/vice-presidential-debate-between-mike-pence-and-kamala-harris-still-on"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/vice-presidential-debate-between-mike-pence-and-kamala-harris-still-on?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/vice-presidential-debate-between-mike-pence-and-kamala-harris-still-on?context=amp"
+publishedDateTime: 2020-10-02T19:35:00Z
+originalUrl: "https://www.reuters.com/article/idUSKBN26N38L"
+webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
 type: article
-quality: 80
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Mike Pence
+  - Kamala Harris
 
 related:
   - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
@@ -392,6 +392,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
+    excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
+    publishedDateTime: 2020-10-05T17:32:00Z
+    webUrl: "https://www.newsweek.com/it-would-real-mistake-kamala-harris-underestimate-mike-pences-debating-skills-says-pete-1536450"
+    ampWebUrl: "https://www.newsweek.com/it-would-real-mistake-kamala-harris-underestimate-mike-pences-debating-skills-says-pete-1536450?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/it-would-real-mistake-kamala-harris-underestimate-mike-pences-debating-skills-says-pete-1536450?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 129
+    images:
+      - url: "https://d.newsweek.com/en/full/1646102/pete-buttigieg.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
     publishedDateTime: 2020-09-25T14:21:00Z
@@ -661,6 +677,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/trump-fundraiser-hosted-qanon-supporters.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Kamala Harris’s husband Doug Emhoff to campaign in Texas today"
+    excerpt: "The Joe Biden-Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border, where he will campaign in Edinburg ..."
+    publishedDateTime: 2020-10-05T17:49:00Z
+    webUrl: "https://www.houstonchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/election/amp/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/election/amp/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/42/07/20062665/12/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -1205,6 +1237,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to Watch Kamala Harris and Mike Pence's First Vice Presidential Debate"
+    excerpt: "As we approach the final weeks of the 2020 presidential campaign cycle, incumbent vice president Mike Pence and Senator Kamala Harris will soon take the stage for their first and only vice presidential debate before the election,"
+    publishedDateTime: 2020-10-05T14:36:00Z
+    webUrl: "https://www.tvguide.com/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
+    ampWebUrl: "https://www.tvguide.com/amp/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
+    cdnAmpWebUrl: "https://www-tvguide-com.cdn.ampproject.org/c/s/www.tvguide.com/amp/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
+    type: article
+    provider:
+      name: TV Guide
+      domain: tvguide.com
+    quality: 98
+    images:
+      - url: "https://tvguide1.cbsistatic.com/i/r/2020/10/03/c84537b1-beee-4623-a0a7-4004673e3f92/thumbnail/1300x867/c5cc7998a0ff8ddeb925ee4019f1fda3/201002-mikepencekamalaharris-news.jpg"
+        width: 1300
+        height: 867
+        isCached: true
   - title: "Mike Pence vs. Kamala Harris: The Most Important Vice Presidential Debate Ever?"
     excerpt: "As Trump combats Coronavirus, it’s unclear if the presidential debates will proceed. In the event that Trump opts out of the next two debates, the vice presidential debate will be critical, putting pressure on Pence and Harris to persuade supporters to back their respective campaigns."
     publishedDateTime: 2020-10-04T15:12:00Z
@@ -1220,6 +1268,20 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/2020-09-28T194007Z_595349806_RC2V7J9A8LUP_RTRMADP_3_USA-ELECTION-HARRIS.JPG"
         width: 1200
         height: 837
+        isCached: true
+  - title: "Kamala Harris’s husband Doug Emhoff to campaign in Texas today, including San Antonio stop"
+    excerpt: "The Joe Biden-Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border, where he will campaign in Edinburg ..."
+    publishedDateTime: 2020-10-05T17:47:00Z
+    webUrl: "https://www.houstonchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-s-husband-Doug-Emhoff-to-campaign-15622333.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 95
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/42/06/20062603/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
     excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
@@ -1607,14 +1669,14 @@ related:
         isCached: true
   - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
     excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
-    publishedDateTime: 2020-10-04T23:00:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/3615907001"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3615907001"
+    publishedDateTime: 2020-10-04T21:41:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.freep.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3615907001"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 80
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
@@ -2043,6 +2105,22 @@ related:
         width: 1200
         height: 704
         isCached: true
+  - title: "Kamala Harris faces intense pressure, double standards leading into vice presidential debate"
+    excerpt: "Those who know California Sen. Kamala Harris say she will come prepared to face off with Vice President Mike Pence."
+    publishedDateTime: 2020-10-05T13:00:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 64
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/Election_2020_Biden_Harris_27250-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Maya Rudolph Nails Her SNL Return as Kamala Harris, in the Senator's Signature Sneakers, No Less"
     excerpt: "Maya Rudolph brought back her impression of vice presidential nominee Kamala Harris for Saturday Night Live's Oct. 3 episode."
     publishedDateTime: 2020-10-04T20:46:00Z
@@ -2247,6 +2325,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "BMDtJeElV2+gHecWdqkVRQBr93QGD0Vwprkg4+hilfH8judNN+Sh+BvDNlhj9wl2Jbz9nLC0dE6LKr2eJYh17qrXHDWJfpMotd7hsZTvThl/8/ZofcL0WskRZNg96IU8KVBn8Q9bPNnQfoWHl0hFFgPynB3gBYxOSbr4hj/Svgd/QEYV2Vxjy0EXXLq50I9zDThTo74LxQXu7FebSrgDeix4RWtvDmtQOn/yWNhSEgoSnYIobdR16NSaiQYO+ORDrCCP5VAGIpehQ3eF5WGpDpZuCDOE79Go1GPS9XrFGa89KmUYIMgscCosrztZSXO+yn5GPazoegXayjNwczOWtDy4O2vSVXKwMEU7f05GbV5URZAkT7vVK/6p12qsGdioSPi/aoorqBQihIiCmKqy3zZ6+4inNsu8DHJVCHU4DaDHkueXgNoeMumrNsV8E/qfPUQn4DqtoaYgaZjhdTLsx6CxbD6CsJpjlSQL/fHNR2rzyMO/meqoz4YlgWU44yXtDbPx+CrycmWaqGlePsvXDg==;C+bSfau9N5tyq27xJNOklw=="
+secured: "lwhu/qbBoLx7Ohr4XLhK7jSdOZpMMc1T3JIotm7D4U+N/4DT5u7AWwWDQV872kZTw5vodi5zL5hc1IH1svTS+vquQ3tc5mxMoOxA8l5ITAR3nGf10tVQtBs/y2AoBIY6Lb6TTA/u+/EJNM7vT9l0J4Jq3KTT73iALMURto5yQJ0PvANHqe4qtTug45kKuGqgSDO+WAltOjcHchZ9zWGtGrEWuOZLyb32KkvBwhtHXYTUKH47WcfqeLKJx1K1NfphyjMoVKj4G1NL+2iX+k+qTlH5SPTWtCgJ+30bIwzPh2htkufrJqsj/c3nDmPFtSsi4bVMSvHxpFjF6+KQNboN6ZFo1Fnt43/eZvHOktPUdbOWqaRIVpaU4bFbHFe7K/VCfEMeEJsxPn3xEm7UMHt7YH7UhTPkb05IqT9WPWxKqhBx94WTiJD27ktb00yOIcTyTHLNtcWENSdT/Rc6rPp9E4WyMf8xB7+Pet4RM/ErzAwoNgx1FhAG/JEq5GmhlKCOebJ1YTX8sNHsQuL8lBKeVg==;341mY3HTtdrymbXNroahDg=="
 ---
 

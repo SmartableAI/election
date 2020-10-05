@@ -2247,6 +2247,22 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "VIDEO: Debuting Joe Biden impression on ‘SNL,’ Jim Carrey hesitates, rallies for self-control"
+    excerpt: "The former VP, in Carrey’s take, urges himself ‘to just stand here and look lucid.’  NBC Jim Carrey unveiled his take on Joe Biden on Saturday, playing the presidential nominee as subdued, hesitant and determined not to lose his temper when provoked by his combative opponent."
+    publishedDateTime: 2020-10-05T16:38:00Z
+    webUrl: "https://chicago.suntimes.com/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 64
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/a7NJUwClBEu4NX0brCqHDlFvvwI=/76x0:871x585/1400x1050/filters:focal(413x26:573x186):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67577730/NUP_191888_0024.14.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Democratic presidential candidate Joe Biden tests negative for COVID-19 | Raleigh News & Observer"
     excerpt: "A campaign aide said “as of now” Biden is still expected to go ahead with his planned trip to Grand Rapids, Mich. on Friday."
     publishedDateTime: 2020-10-02T17:30:00Z

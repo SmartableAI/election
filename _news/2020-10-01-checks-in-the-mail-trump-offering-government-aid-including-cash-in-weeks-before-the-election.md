@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
 type: article
 quality: 127
-heat: 1067
+heat: 947
 published: true
 
 provider:
@@ -367,22 +367,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump is being treated with an experimental drug cocktail for COVID-19. Here's what it is."
-    excerpt: "The White House announced Mr. Trump received a dose of Regeneron's antibody cocktail before he was transported to Walter Reed Medical Center."
-    publishedDateTime: 2020-10-02T23:07:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-covid-regeneron-antibody-cocktail-experimental-treatment/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/02/b59722df-d9e8-4c46-8280-be603279d3ed/thumbnail/1200x630g2/2bf44e50dfde63019f9141ba8ad055d1/gettyimages-1228854672.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump, 14 others positive for COVID: A running list of those being tested and their results"
     excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
     publishedDateTime: 2020-10-04T02:17:00Z
@@ -430,22 +414,6 @@ related:
       - url: "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp"
         width: 750
         height: 500
-        isCached: true
-  - title: "Masks still won't be required in the White House after Trump's COVID-19 diagnosis, official says"
-    excerpt: "President Donald Trump has repeatedly flouted recommendations from top public health experts to wear a mask or face-covering."
-    publishedDateTime: 2020-10-02T19:46:00Z
-    webUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
     excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
@@ -527,20 +495,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Relying on testing to ward off COVID put Trump White House at risk"
-    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
-    publishedDateTime: 2020-10-04T03:24:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-testing-insi-idCAKBN26O0FR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201003&t=2&i=1536018686&r=LYNXMPEG9209A&w=800"
-        width: 800
-        height: 527
-        isCached: true
   - title: "'Standing by sir': Proud Boys praise Trump's comment telling them to 'stand by' during first presidential debate"
     excerpt: "Members of the far-right group celebrated online over the president's statement during the first presidential debate on Tuesday evening."
     publishedDateTime: 2020-09-30T05:45:00Z
@@ -554,22 +508,6 @@ related:
     quality: 104
     images:
       - url: "https://i.insider.com/5f73fb1674fe5b0018a8e246?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "A running list of all the people Trump came into contact with in the days before he tested positive for COVID-19"
-    excerpt: "First lady Melania Trump, top aide Hope Hicks, Sen. Mike Lee, and RNC chairwoman Ronna McDaniel are among those who have tested positive so far."
-    publishedDateTime: 2020-10-02T23:03:00Z
-    webUrl: "https://www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-trump-was-in-contact-with-before-coronavirus-diagnosis-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f7778842400440019129bcb?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -637,15 +575,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Relying on testing to ward off COVID put Trump White House at risk"
-    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
-    publishedDateTime: 2020-10-03T11:30:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-testing-insi-idUSKBN26O0G5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 85
   - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
     excerpt: "This ethnic group barely receives attention in American media and politics. The Midwest, home to many German Americans, is a battleground for the 2020 presidential election. Will this inconspicuous group yet again cast the deciding votes in the upcoming election?"
     publishedDateTime: 2020-10-01T13:10:00Z
@@ -743,17 +672,6 @@ related:
     webUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders"
     ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "UK PM Johnson's Battle With COVID-19 May Be a Warning for Trump"
-    excerpt: "Johnson's experience of trying to stay in charge while struggling with the disease may offer clues about the potential dangers ahead for U.S. President Donald Trump, now that he has tested positive. After being accused of initially failing to appreciate the gravity of coronavirus crisis for Britain,"
-    publishedDateTime: 2020-10-02T11:37:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-02/uk-pm-johnsons-battle-with-covid-19-may-be-a-warning-for-trump"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-02/uk-pm-johnsons-battle-with-covid-19-may-be-a-warning-for-trump?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-02/uk-pm-johnsons-battle-with-covid-19-may-be-a-warning-for-trump?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

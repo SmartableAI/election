@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Drugmaker says White House doctor described Trump treatment inaccurately"
+    excerpt: "Dr. Sean Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
+    publishedDateTime: 2020-10-05T17:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241998"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "d7Ie6ALDMBi4n5gKTVBhWu1LJi3WibKj2qn8+AUP+E7EcgWo/rfOJThG3CGaq+Fj1t6Drbw4/tpqYjRkw2gaT0pJkAHH6m6nSHfFnd7t+CJVDzLeIyKrJbwQM3tT13Tz7QGeEL5XyRiobOJrcewLfIqs+JNcV0/evfns9gJoSgjcjsQ4AsoeP+wLjOfb9E76Xc6Eb/lqe5AttCcguCO1Oah0UsWcLhEB11HmNZdVGhpGW7raGIT47sTM/xHTsh1nkk5NAKx3HyIsWEx+P1kdM87WSUA1+qvmm3DgmqY+8ySyjs1kvHmrXMvthWkDP6vlF8wKpD7bSXxzsdHTWK8w2pm7mUFJavaAFtBboWZTeh4=;4BfMrrVz1IAzhFx56KMieQ=="
 ---

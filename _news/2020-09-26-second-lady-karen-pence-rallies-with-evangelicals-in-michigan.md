@@ -25,52 +25,100 @@ images:
     isCached: true
 
 related:
-  - title: "Karen Pence rallies with evangelicals in Holland"
-    excerpt: "Second Lady Karen Pence rallied in Holland Friday in an effort to energize the evangelical base which played a key role in elevating"
-    publishedDateTime: 2020-09-25T17:45:00Z
-    webUrl: "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland"
-    ampWebUrl: "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart"
-    cdnAmpWebUrl: "https://www-hollandsentinel-com.cdn.ampproject.org/c/s/www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart"
+  - title: "Joe Biden in Michigan says he hopes first family recovers soon"
+    excerpt: "Joe Biden wished President Trump and the first lady a speedy recovery from COVID-19 on Friday, speaking from the campaign trail in Michigan after his own campaign announced that Biden tested negative for the coronavirus."
+    publishedDateTime: 2020-10-02T22:52:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
     type: article
     provider:
-      name: Holland Sentinel
-      domain: hollandsentinel.com
-    quality: 75
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://www.hollandsentinel.com/apps/pbcsi.dll/bilde?Site=MI&Date=20200925&Category=NEWS&ArtNo=200929455&Ref=AR"
-        width: 2684
-        height: 1825
-        isCached: true
-  - title: "Mike Pence calls his wife Karen 'mother' and refuses to drink booze without her"
-    excerpt: "Mike Pence is standing alongside Donald Trump in the upcoming US election, where he hopes to be elected Vice President for a second term"
-    publishedDateTime: 2020-09-23T15:36:00Z
-    webUrl: "https://www.mirror.co.uk/news/politics/mike-pence-calls-wife-karen-22716769"
-    ampWebUrl: "https://www.mirror.co.uk/news/politics/mike-pence-calls-wife-karen-22716769.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/politics/mike-pence-calls-wife-karen-22716769.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 71
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article22703889.ece/ALTERNATES/s615/0_President-Trump-Welcomes-Australian-Prime-Minister-Scott-Morrison-To-Washington-On-State-Visit.jpg"
-        width: 615
-        height: 409
-        isCached: true
-  - title: "Pence tries to shore up evangelical support with Georgia visit"
-    excerpt: "Vice President Mike Pence trekked to Atlanta on Wednesday with a mission of energizing conservative evangelicals in Georgia, the latest sign Republicans are intensifying their efforts to carry a state that had long been a GOP lock."
-    publishedDateTime: 2020-09-30T22:38:00Z
-    webUrl: "https://www.ajc.com/politics/pence-tries-to-shore-up-evangelical-support-with-georgia-visit/GGUHX7JH3NDIHD5HC36B7QOGQY/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 55
-    images:
-      - url: "https://www.ajc.com/resizer/HMVT6dyV0_hUPIicRRTU2-hJLZY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/KGQOM2XQZ3DU22X5PSY4VV7LJY.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/02/809a3b2d-989b-4c5e-8e10-c328091be6dd/thumbnail/1200x630/00122e40fc004343e7f45d2515e23b92/gettyimages-1278091226.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden's small business outreach shows he's ready to spark America's strongest recovery ever"
+    excerpt: "We need to turn this recovery into America’s renaissance, and that starts with sending Joe Biden and Kamala Harris to the White House."
+    publishedDateTime: 2020-10-05T15:48:00Z
+    webUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas"
+    ampWebUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 113
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden and his wife, Jill, paid nearly $300,000 in federal income taxes, newly released returns show"
+    excerpt: "The release served as a contrast to President Trump, after new reports that he has paid minimal or no federal taxes in recent years."
+    publishedDateTime: 2020-09-30T00:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-taxes/2020/09/29/d7afe3a8-027a-11eb-b7ed-141dd88560ea_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 89
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EKSGUWQCRII6XN7NCQO5RBLA5I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden campaign sees opportunity in military women, spouses and people of color"
+    excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
+    publishedDateTime: 2020-10-03T11:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 81
+  - title: "Bankole: Joe Biden claims he is campaigning in Michigan, but can voters really tell?"
+    excerpt: "When you drive around Detroit's most underserved areas to the most stabilized there are few Biden signs dotting those neighborhoods, Bankole writes."
+    publishedDateTime: 2020-09-21T03:12:00Z
+    webUrl: "https://www.detroitnews.com/story/opinion/2020/09/21/bankole-can-voters-tell-joe-biden-campaigning-detroit-michigan-election-trump/5824238002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5824238002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5824238002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/10/PDTN/3b2b9265-56f7-494e-97c1-b3598e58d1f5-Biden_Detroit.jpg?auto=webp&crop=3795,2135,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
+    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
+    publishedDateTime: 2020-10-03T09:13:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
+    publishedDateTime: 2020-10-02T19:32:00Z
+    webUrl: "https://www.c-span.org/video/?476523-1/joe-biden-campaign-remarks-grand-rapids-michigan&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "D2A7bckJ2CuxaCWM+CGmMBoid42wCHGBhuQOucOPkxUxRV/tQgYDed7mIQ2SqevqljnZA+YQr6ObImF51R8nRmG+giLhRxMN+/yejTE8CA9eQ4H+ZmR/tp1jinvv6gbw1lkJdkEhdjRNwTz+amYIr0Y2JzXevPAQyDql5JustISI6PqhsXnQEBTogZqu8/xL09ltaWyPU34Vxuhu1a7cqH2qAgvZWtG5tEzO6SrDFuEeyPSdWc6X3bHooGgL+2D0OvCvQpfkkMVtgrAEtzzT8oJf1rHbzU1k7K8ICNmsT8phYYhE2b5tr9RCixOwXylinXWKEpJYhJeAMD+EQuDFg05TN2P053hWC7mIOJ2BbHE=;00DbLQtLdvQCvi1bSzsQXA=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 780
         height: 439
         isCached: true
+  - title: "Ex-Pence Aide Fires Back After White House Attacked Her in Briefing: ‘Telling a Bald Faced Lie to Protect the President’"
+    excerpt: "Olivia Troye, who served as a former top advisor to Vice President Mike Pence's until she left last month, took to Twitter to fact check General Keith Kellogg after he said he fired her, calling"
+    publishedDateTime: 2020-09-22T20:50:00Z
+    webUrl: "https://www.mediaite.com/politics/ex-pence-aide-fires-back-after-white-house-attacked-her-in-briefing-telling-a-bald-faced-lie-to-protect-the-president/"
+    ampWebUrl: "https://www.mediaite.com/politics/ex-pence-aide-fires-back-after-white-house-attacked-her-in-briefing-telling-a-bald-faced-lie-to-protect-the-president/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/politics/ex-pence-aide-fires-back-after-white-house-attacked-her-in-briefing-telling-a-bald-faced-lie-to-protect-the-president/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 50
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-18-at-6.51.19-AM-1200x700.jpg"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "bAvjM4/8uZsHZrMM3AexS47j6un0k+mUsR+kllEKKTgnTpsFIT7MG1250ZYYKIcebQcG0AecpxzFGCkABhpYA6wYd69EMcYwkVcYUORuzks9lrmmomSTGpXFWIWYECDyJ25v2X41hrfDRLYVeE538s1EtaUE7TG3UNB0yj+8J6iqOGYcmoQPkBUlr3I4bK175CxWFRVLSgjN2MluqQtiQgnLECGvujuli0dw6ZV4fsxFQHy0NIosoQQJDMvSllKtzl3NHAy3OUclTXQtPgWTKWWtzUWSl38NvoksJADumWSuMzZV/9b7ifNnKZoCgynRcOEERL/Cg456wkNjNxQQGdzJyEmI58GqMedI4/ftHEk=;O+8hN3v/dn04+RIDS6f9RA=="
 ---

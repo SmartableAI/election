@@ -42,6 +42,36 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing"
+    excerpt: "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why."
+    publishedDateTime: 2020-09-23T07:03:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d3GnjXtTdo/why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cc26de3-0e85-40c8-8ace-aed10ffbeb63/20192085-93ff-4170-8533-66ec760513ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Does Joe Biden and His Party Care About Real Science?"
+    excerpt: "Science must be free from bias, but it rarely works out that way. A flurry of mainstream media reporters and left-leaning politicians, led by Joe Biden, Kamala Harris, and Nancy"
+    publishedDateTime: 2020-09-26T04:01:00Z
+    webUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956"
+    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
+        width: 650
+        height: 340
+        isCached: true
   - title: "McEnany to Biden: We Don't Know Who Is On Your Supreme Court List, Tell Voters Where You Stand"
     excerpt: "Well look the former Vice President and all due respect, instead of telling the current president what to do, he needs to tell voters where he stands. We don't know who is on his Supreme Court list. We don't know what kind of justices he would nominate."
     publishedDateTime: 2020-09-20T04:23:00Z

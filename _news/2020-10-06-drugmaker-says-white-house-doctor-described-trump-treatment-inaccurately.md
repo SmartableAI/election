@@ -1,0 +1,70 @@
+---
+category: news
+title: "Drugmaker says White House doctor described Trump treatment inaccurately"
+excerpt: "Dr. Sean Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
+publishedDateTime: 2020-10-05T17:22:00Z
+originalUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241998"
+webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241998"
+ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+type: article
+quality: 134
+heat: -1
+published: false
+
+provider:
+  name: NBC News
+  domain: nbcnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+  - Democratic Voice
+
+images:
+  - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+    width: 2500
+    height: 1667
+    isCached: true
+
+related:
+  - title: "Dr. Sanjay Gupta: Trump shouldn't be discharged tomorrow"
+    excerpt: "CNN's Dr. Sanjay Gupta reacts to a presser given by President Trump's medical team in which one of the doctors said Trump might be discharged from Walter Reed medical center as early as tomorrow, despite the fact that the President has had at least two concerning drops in oxygen levels.\n    \n"
+    publishedDateTime: 2020-10-04T16:41:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQQGDZdKZeM/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004121844-gupta-10042020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump hopes for Monday discharge as Americans wonder about his health"
+    excerpt: "It's been more than two days since President Donald Trump was airlifted to Walter Reed National Military Medical Center, but Americans remain largely in the dark about the trajectory of his infection with Covid-19 and the specifics of his condition as the White House tries to control the optics of his"
+    publishedDateTime: 2020-10-05T13:18:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Mz23KP1Wmo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004234718-04-trump-walter-reed-morotcade-1004-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "0Rfhz94vAIia7zeUhgblmF14Z8I5kvMJJRKLdlhyK0g8irj6SGNnbVLPd6xNJqooZLZ1W90vJbwf8Hgpk59UrKCt3RVqbUd8MHU27s41AkL6v7tsH9nm88SNF868CocTJwrqFUqA6EU5hHhEUM1tq1okEWUNBLg69yw8xrwIhM/tIJuxsNByA4WEo6qMuI1RYOZptjWJkqTkfAfA8QCKdFBzaH6Y+b4qlWPpg75ul/2LnTVDyybiJZLuTu/KZbPJ/baT71j25vQkiu85P/NN3NhZiEBnYUgNBTIjvLxdMaoLlcT+3+GSRpcyVdU1v1sGfq4dUkjfN+z4ccmdGfLs7HobUTKP9hR0lm4sV/3Nvwo=;hVYFbbsKno+CM1X+FzalDg=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp"
 type: article
 quality: 191
-heat: 1891
+heat: 1931
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Democrats press Biden to resume negative campaign ads, despite Trump's hospitalization"
+    excerpt: "With the election less than one month away and early voting begun in some states, Democratic strategists have argued that Biden should resume his critiques of the president."
+    publishedDateTime: 2020-10-05T17:42:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M3Uyzwx9tOU/dems-press-biden-to-resume-negative-campaign-ads-despite-trumps-hospitalization"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-press-biden-to-resume-negative-campaign-ads-despite-trumps-hospitalization.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-press-biden-to-resume-negative-campaign-ads-despite-trumps-hospitalization.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden plans to attend next debate, hopes Trump will be able to participate, campaign says"
     excerpt: "Democratic presidential nominee Joe Biden will travel to Florida to participate in the next debate and hopes that President Trump will be able to join him despite the president testing positive for the novel coronavirus late last week."
@@ -527,6 +543,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20269505462906.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Pompeo: US 'fully prepared' against 'malign actors' as Trump battles coronavirus"
+    excerpt: "Secretary of State Mike Pompeo said Monday the U.S. is \"fully prepared\" for any action that \"rogue actors\" may take while President Trump is in the hospital battling the coronavirus."
+    publishedDateTime: 2020-10-05T16:22:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hy-hP2D1xJM/pompeo-us-fully-prepared-against-maligned-actors-as-trump-battles-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-us-fully-prepared-against-maligned-actors-as-trump-battles-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-us-fully-prepared-against-maligned-actors-as-trump-battles-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7921c6e-2149-4167-9e1e-a32af7e74ea0/7e0d79ef-bc9f-4a83-a99a-e56d63d079be/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump tests positive for coronavirus: Here's who else is positive, and who's negative"
     excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19 -- raising immediate questions about who else in the administration could be positive."

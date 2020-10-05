@@ -31,227 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Biden up 14 points on Trump following chaotic debate, new poll indicates"
-    excerpt: "A new poll shows Joe Biden with a 14 point lead nationally over President Trump, following the first presidential debate last week. "
-    publishedDateTime: 2020-10-04T22:21:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZLph9B1wAb8/biden-jumps-to-14-point-lead-nationally-after-debate-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-jumps-to-14-point-lead-nationally-after-debate-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jumps-to-14-point-lead-nationally-after-debate-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7eef60c1-c037-44f3-91f3-ab7f0a5f168e/b4f53350-6bcb-4585-bab6-ebe95093d432/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump and Biden supporters out in force across the swing state of Florida with election one month away"
-    excerpt: "Supporters of President Trump and Democratic presidential nominee Joe Biden held rallies throughout the swing state of Florida on Saturday, as the November election fast approaches. "
-    publishedDateTime: 2020-10-04T22:44:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_ppFbEgQ6w/trump-and-biden-supporters-out-in-force-across-the-swing-state-of-florida-with-election-one-month-away"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-biden-supporters-out-in-force-across-the-swing-state-of-florida-with-election-one-month-away.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-biden-supporters-out-in-force-across-the-swing-state-of-florida-with-election-one-month-away.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7eef60c1-c037-44f3-91f3-ab7f0a5f168e/b4f53350-6bcb-4585-bab6-ebe95093d432/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden’s whistle-stop: Democratic nominee taking post-debate train swing"
-    excerpt: "Democratic presidential nominee Joe Biden is hitting the rails once the first presidential debate is over."
-    publishedDateTime: 2020-09-28T17:20:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
+  - title: "Pennsylvania sheriff, lifelong Dem, decides to back Trump amid unrest"
+    excerpt: "A Pennsylvania sheriff switched from Democrat to Republican amid unrest."
+    publishedDateTime: 2020-09-26T16:21:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271543058705.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Chicago Mayor Lightfoot slams Trump after he blasts Windy City violence"
-    excerpt: "Democratic Chicago Mayor Lori Lightfoot fired back at President Trump on Tuesday night after he skewered her city during a presidential campaign debate against Joe Biden as a hotbed of crime and violence."
-    publishedDateTime: 2020-09-30T18:16:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence"
-    ampWebUrl: "https://www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp"
+  - title: "Ohio Dem backs Trump after history of feuds with her party"
+    excerpt: "Democratic Ohio state Rep. Bernadine Kennedy Kent endorsed President Trump on Tuesday after a history of feuding with Ohio Democrats."
+    publishedDateTime: 2020-09-30T15:30:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KlPJnhfEkQs/ohio-dem-backs-trump-after-history-party-feuds"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fb66182-ac8a-497e-ac3a-bf667a87f5b8/34ab8c88-9cbd-4877-81a3-a089af7c4ff3/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db4210bf-8b0d-46c7-9cdd-da299ddc0cdf/3d2bbdb7-c69a-4e2e-9c66-c483d52aa989/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Nevada AG says Trump is urging supporters to intimidate voters at polls"
-    excerpt: "Nevada’s Democratic Attorney General Aaron Ford claimed Wednesday that President Trump was telling supporters during the debate to intimidate voters at polling locations. "
-    publishedDateTime: 2020-09-30T22:50:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjrPhllOmEc/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/a379f4f2-Florida.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump’s warning on voting by mail: 'This is not going to end well’"
-    excerpt: "A combustible debate Tuesday night between President Trump and Democratic presidential nominee Joe Biden concluded with a fiery exchange over the integrity of the election and ominous warning from the president."
-    publishedDateTime: 2020-09-30T05:01:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZuHg1yois4g/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-debate-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Sheriff in Portland denies Trump's debate claim of winning his endorsement"
-    excerpt: "The sheriff of Multnomah County, which includes Portland, Ore., emphatically denied supporting President Trump Tuesday evening shortly after the president made the claim."
-    publishedDateTime: 2020-09-30T08:27:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement"
-    ampWebUrl: "https://www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
+  - title: "Trump heads to Pennsylvania for the second time in a week: What's at stake"
+    excerpt: "President Trump is in Pennsylvania on Saturday for the second time in a week, in an effort to court some of the same rural and White working-class voters who supported him four years ago."
+    publishedDateTime: 2020-09-26T14:24:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMO1_9FnhnU/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/sheriff.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/Trump-PA-AP-2.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
-    excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
-    publishedDateTime: 2020-09-30T01:51:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5dxXvOBdIu4/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
+  - title: "Dem 'Squad' accuses Twitter of shielding Trump from hate-tweets after dismissing attacks on them"
+    excerpt: "Democratic Reps. Rashida Tlaib and Alexandria Ocasio-Cortez are complaining that Twitter has gone the extra mile to shield President Trump from tweets wishing him harm or death after the platform failed to protect others. "
+    publishedDateTime: 2020-10-03T15:29:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8j34q_yq790/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them"
+    ampWebUrl: "https://www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79e49bf7-b944-49eb-905b-4594b0fa8bc0/19832c56-70c3-4add-a268-662177528c18/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden endorsed by more than 120 former GOP national security officials"
-    excerpt: "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump."
-    publishedDateTime: 2020-10-01T19:04:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement"
+  - title: "Pennsylvania Republicans push back after report alleges plan to circumvent popular vote and appoint Trump electors"
+    excerpt: "Top Republicans in Pennsylvania are pushing back after a report by The Atlantic alleged that they are planning to potentially have the state legislature disregard the popular vote and appoint electors for the state in the case that election returns are disputed or delayed, saying the report took their"
+    publishedDateTime: 2020-09-28T19:47:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/14tVlDr-r7o/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 153
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Where Trump and Biden Stand on Climate and Energy Policy"
-    excerpt: "The 2020 presidential election pits one candidate making climate change integral throughout his platform against another who dismisses its importance and pledges to keep pushing a deregulatory agenda."
-    publishedDateTime: 2020-10-04T11:27:00Z
-    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-climate-and-energy-policy-11601809200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-climate-and-energy-policy-11601809200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-climate-and-energy-policy-11601809200"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-239971/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
-    excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
-    publishedDateTime: 2020-09-28T13:15:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237079/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
-    excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
-    publishedDateTime: 2020-09-28T21:32:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237079/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
-    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
-    publishedDateTime: 2020-10-04T23:47:00Z
-    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-240436/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
-    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
-    publishedDateTime: 2020-09-30T10:07:00Z
-    webUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
     excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button."
@@ -269,63 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "CNN’s Don Lemon suggests Trump was ‘hopped up’ on performance-enhancing drugs during debate"
-    excerpt: "CNN’s Don Lemon suggested that President Trump appeared to be “hopped up” on a performance-enhancing drug during Tuesday night’s presidential debate."
-    publishedDateTime: 2020-09-30T13:41:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Lemon-Trump_CNN-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "GOP frustration mounts as Trump doggedly defends debate, blames media"
-    excerpt: "Such GOP stalwart allies as Mitch McConnell and Lindsey Graham are distancing themselves, with the majority leader (without naming Trump) calling it “unacceptable not to condemn white supremacists,” and “I do so in the strongest possible way."
-    publishedDateTime: 2020-10-02T07:09:00Z
-    webUrl: "https://www.foxnews.com/media/gop-frustration-mounts-as-trump-doggedly-defends-debate-blames-media"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/576d770a-696a-426b-a2de-fc39c21ad669/b8359fd3-5cda-44aa-91e5-633c77dd35ee/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden and the Green New Deal"
-    excerpt: "When asked by moderator Chris Wallace during the first presidential debate of the 2020 campaign season if he supports the Green New Deal (GND), Joe Biden said, “No, I don’t"
-    publishedDateTime: 2020-10-05T04:01:00Z
-    webUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385"
-    ampWebUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Biden's Pennsylvania polling lead may not be what it seems"
-    excerpt: "At first glance, 2020 Democratic presidential nominee Joe Biden seems well positioned should his Nov. 3 election against President Trump come down to Pennsylvania."
-    publishedDateTime: 2020-10-02T10:17:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
 
 secured: "m95CNr7ZoB2NrSeA6ERj0oJ9I4ufu+KO6MP5moK8q2WXkJ6hOg1qJ2sUWLXyVaGN1HL6WYMbC3bQJSljSbvIuoMxWV5MmtmOi68A0WuZQ6c/L5hsfBqMyGBaRY8zwq/F25F/y2DKrdLPSqbR65pxt9FIuMLghDSm2lhs2t47bh3zEZPVUcReRBge0EX6jWHE8B+a96TJ1zHie1oBL25iY2v1Ypf1kCGg/5pKDtv5jEHS6Hc/yZcvy2rsxey4eNq3WZYio1YJ77ehBdSsF2GDXMJSjsvYSOgw6KNBaL98JC/XYKsKdoz3TJn4tqf12OYxH67I5pRbscE2JeMumD8+rCcYzxvg+JCCCwCoVt5BPf4=;MqENqOf+RNa0jB8JrMyM3w=="
 ---

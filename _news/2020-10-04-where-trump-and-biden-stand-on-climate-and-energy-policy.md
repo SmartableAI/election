@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden on debating Trump next week: ‘I’ll do whatever the experts say’"
+    excerpt: "Democratic presidential nominee Joe Biden says he’ll listen to what the experts say to determine whether it’s safe for him to face off next week against President Trump – who’s battling COVID-19 - at the second of three scheduled general election debates."
+    publishedDateTime: 2020-10-05T17:02:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHdHy5RYZIA/biden-on-debating-trump-next-week-ill-do-whatever-the-experts-say"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-on-debating-trump-next-week-ill-do-whatever-the-experts-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-debating-trump-next-week-ill-do-whatever-the-experts-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20279567095505.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden up 14 points on Trump following chaotic debate, new poll indicates"
     excerpt: "A new poll shows Joe Biden with a 14 point lead nationally over President Trump, following the first presidential debate last week. "
     publishedDateTime: 2020-10-04T22:21:29Z
@@ -80,37 +96,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Chicago Mayor Lightfoot slams Trump after he blasts Windy City violence"
-    excerpt: "Democratic Chicago Mayor Lori Lightfoot fired back at President Trump on Tuesday night after he skewered her city during a presidential campaign debate against Joe Biden as a hotbed of crime and violence."
-    publishedDateTime: 2020-09-30T18:16:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence"
-    ampWebUrl: "https://www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp"
+  - title: "Biden says Antifa is just an idea, but here's what we know about it"
+    excerpt: "Democratic nominee Joe Biden, during the first presidential debate on Tuesday, dismissed Antifa as “an idea” when asked to condemn left-wing violent extremism – but that claim is highly disputed by Republicans, and some who have covered them up-close."
+    publishedDateTime: 2020-09-30T17:03:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ntitUMG3Uk/biden-antifa-idea-what-we-know"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fb66182-ac8a-497e-ac3a-bf667a87f5b8/34ab8c88-9cbd-4877-81a3-a089af7c4ff3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Nevada AG says Trump is urging supporters to intimidate voters at polls"
-    excerpt: "Nevada’s Democratic Attorney General Aaron Ford claimed Wednesday that President Trump was telling supporters during the debate to intimidate voters at polling locations. "
-    publishedDateTime: 2020-09-30T22:50:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjrPhllOmEc/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/a379f4f2-Florida.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump’s warning on voting by mail: 'This is not going to end well’"
     excerpt: "A combustible debate Tuesday night between President Trump and Democratic presidential nominee Joe Biden concluded with a fiery exchange over the integrity of the election and ominous warning from the president."
@@ -128,38 +128,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Sheriff in Portland denies Trump's debate claim of winning his endorsement"
-    excerpt: "The sheriff of Multnomah County, which includes Portland, Ore., emphatically denied supporting President Trump Tuesday evening shortly after the president made the claim."
-    publishedDateTime: 2020-09-30T08:27:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement"
-    ampWebUrl: "https://www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/sheriff.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
-    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button.\" "
-    publishedDateTime: 2020-10-01T18:41:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/97AE_d__ZEU/trump-debate-change-mute-button"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
     excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
     publishedDateTime: 2020-09-30T01:51:26Z
@@ -173,130 +141,6 @@ related:
     quality: 162
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79e49bf7-b944-49eb-905b-4594b0fa8bc0/19832c56-70c3-4add-a268-662177528c18/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden endorsed by more than 120 former GOP national security officials"
-    excerpt: "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump."
-    publishedDateTime: 2020-10-01T19:04:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-4.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
-    excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
-    publishedDateTime: 2020-09-28T13:15:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237079/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
-    excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
-    publishedDateTime: 2020-09-28T21:32:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237079/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
-    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
-    publishedDateTime: 2020-10-04T23:47:00Z
-    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-240436/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
-    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
-    publishedDateTime: 2020-09-30T10:07:00Z
-    webUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
-    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button."
-    publishedDateTime: 2020-10-01T18:50:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb5cdf00-5b6d-4af6-b264-c0ff6017ed79/c9002694-65a4-4cc7-8db6-e863b64a048b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "CNN’s Don Lemon suggests Trump was ‘hopped up’ on performance-enhancing drugs during debate"
-    excerpt: "CNN’s Don Lemon suggested that President Trump appeared to be “hopped up” on a performance-enhancing drug during Tuesday night’s presidential debate."
-    publishedDateTime: 2020-09-30T13:41:00Z
-    webUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs"
-    ampWebUrl: "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Lemon-Trump_CNN-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "GOP frustration mounts as Trump doggedly defends debate, blames media"
-    excerpt: "Such GOP stalwart allies as Mitch McConnell and Lindsey Graham are distancing themselves, with the majority leader (without naming Trump) calling it “unacceptable not to condemn white supremacists,” and “I do so in the strongest possible way."
-    publishedDateTime: 2020-10-02T07:09:00Z
-    webUrl: "https://www.foxnews.com/media/gop-frustration-mounts-as-trump-doggedly-defends-debate-blames-media"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/576d770a-696a-426b-a2de-fc39c21ad669/b8359fd3-5cda-44aa-91e5-633c77dd35ee/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

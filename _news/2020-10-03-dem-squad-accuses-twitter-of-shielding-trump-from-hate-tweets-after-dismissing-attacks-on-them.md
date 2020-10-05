@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
+    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button.\" "
+    publishedDateTime: 2020-10-01T18:41:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/97AE_d__ZEU/trump-debate-change-mute-button"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Pennsylvania Republicans push back after report alleges plan to circumvent popular vote and appoint Trump electors"
     excerpt: "Top Republicans in Pennsylvania are pushing back after a report by The Atlantic alleged that they are planning to potentially have the state legislature disregard the popular vote and appoint electors for the state in the case that election returns are disputed or delayed, saying the report took their"
     publishedDateTime: 2020-09-28T19:47:01Z
@@ -94,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
+    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button."
+    publishedDateTime: 2020-10-01T18:50:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb5cdf00-5b6d-4af6-b264-c0ff6017ed79/c9002694-65a4-4cc7-8db6-e863b64a048b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "hmq/c7o1isqmHcwXut7OeqdPz79Xsj2YE1pxU/nDIaPlKJqEJpLFlNde7rvfthCm7A6C1RMZziC1oT1MhVjV5JRK9nCKIdpUMXHgZ3a8AdYSC6Trtkvw/Goi2hqJ7bODilPaRalSlQ1CeXowDngMTs2881fcc4Z5EtFQnCtoliw2E6AoU77MT4w6bTYf1qup40zBqOAtzHBYlvFUyBzvOutnlB5T/59M9ayrFKUIyS6ILBVS5Xq+XgU1xRTVv3fP3DnBYx4d0XWWZz7Do1bmJg1gFLMZjo8VpFh4eS0lqNoGD4tUFgCbm9TbCnaa8pOksHpPaNbl5EqRl5pCkz68ReYci90m+rzdBb44IHzRB80=;DL+ojJN7+LcfnRGuKs6qIg=="

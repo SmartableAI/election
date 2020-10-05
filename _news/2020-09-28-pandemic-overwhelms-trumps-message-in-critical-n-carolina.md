@@ -41,22 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Rick Santorum said asking Trump to condemn right-wing extremists is unfair because they're his base"
-    excerpt: "The president had told the right-wing Proud Boys group to \"stand back and stand by\" after host Chris Wallace asked him to denounce white supremacy."
-    publishedDateTime: 2020-09-30T09:14:00Z
-    webUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f7440b10ab50d00184ad31a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "In First Video From Hospital, Trump Says He Feels ‘Much Better,’ But Next Few Days Will Be ‘The Real Test’"
     excerpt: "President Donald Trump Saturday night said in a video from Walter Reed Medical Center he is feeling “much better now” after White House officials gave conflicting accounts about his condition throughout the day."
     publishedDateTime: 2020-10-03T23:54:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f790ccb33b8b5974bcf95f6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3530%26cropY1%3D179%26cropY2%3D2165"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Doctors say Trump doing 'very well' at hospital"
-    excerpt: "Doctors say US President Donald Trump is doing “very well” as he spends the weekend at a military hospital for treatment of COVID-19. (Oct. 3)"
-    publishedDateTime: 2020-10-03T17:30:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/03/doctors-say-trump-doing-very-well-hospital/3609245001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6202483-2d89-4536-b228-2432ce9d25ba_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "p9D6GSMm8+5DqR6Twi662BnlyE1z5bk/KnFuhk7cAIe8MemqiTyv3FuZoTxU7F5YcsWVbJcuIknWtkMS+H/p0W9cHcR2XecnJLU37njoDbzBXpyCUndKof+a6FSJuhzGrdEw+xEUZvwODHsmatGMxAOebiT2ZmGZg/jh6/L8b6km1HzgIYKoxkCJnAxUA2e7/9KMSFe3BnRrpnapy66doe/s+rCDgU/j0sHeuXIgT1LRv3Lkhsp92jUiELRTiOzbskHJhcocOayWc++zDE7TRkMp6R/it/yTWQyrLlrvvUD4DxhG57S2u7XcFcr6dLO8K46M6YYkzl1/pzgQ8k6Fpfw3QH3v2dsbUE3SbvjSTQM=;SUc49tt8X47dugV3TMeA5w=="

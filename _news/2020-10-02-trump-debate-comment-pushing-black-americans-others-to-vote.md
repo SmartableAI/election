@@ -31,451 +31,335 @@ images:
     isCached: true
 
 related:
-  - title: "Mock debates? Briefing books? How Trump and Biden are preparing for their first debate in Cleveland"
-    excerpt: "Donald Trump and Joe Biden are taking vastly different approaches in preparing for the first debate of the presidential election."
-    publishedDateTime: 2020-09-29T08:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-trump-biden-prep-first-debate-cleveland/3518403001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3518403001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518403001"
+  - title: "Trump has made Americans’ lives worse. Here’s the proof."
+    excerpt: "After 2008, for example, Democrats and Democratic constituencies (minorities, women, low-income Americans) felt better about their lives, while Republicans and their constituencies felt worse. But something very different happened after 2016: Well-being measures dropped substantially for Democratic constituencies,"
+    publishedDateTime: 2020-09-18T21:02:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGN5OUGNLEI6RLIKBYA67OR4YE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
+    excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
+    publishedDateTime: 2020-09-19T23:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5840189002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 126
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/9ad405446ea159e94b68b9604fdd24ec4325e3d8/c=0-156-3369-2051/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200118688-70e433c3.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Breakingviews - Debate chaos is a gift for a conflicted Biden"
-    excerpt: "Donald Trump just gave Joe Biden a gift. The first televised debate of the 2020 election could have forced the Democratic presidential nominee to explain how he can appease both economic moderates and progressives."
-    publishedDateTime: 2020-09-30T04:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L0G1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L0G1"
+  - title: "Cuban-American judge Barbara Lagoa on Trump high court list"
+    excerpt: "Barbara Lagoa is the daughter of Cuban exiles who grew up in a heavily Hispanic suburb of Miami and has had a swift rise as a lawyer and judge — and she is on President Donald Trump’s short list to replace Ruth Bader Ginsburg on the U."
+    publishedDateTime: 2020-09-22T22:52:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/cuban-american-judge-barbara-lagoa-trump-high-court-73178266"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535463441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0C5"
-        width: 859
-        height: 545
+      - url: "https://s.abcnews.com/images/US/WireAP_198f87206c4d45b49579210783354282_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Joe Scarborough urges Biden: 'Do not do anymore debates'"
-    excerpt: "MSNBC's Joe Scarborough called on Joe Biden to \"not do anymore debates,\" tweeting that the first showdown between the current president and the former vice president was \"a disgrace.\""
-    publishedDateTime: 2020-09-30T04:57:00Z
-    webUrl: "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates"
-    ampWebUrl: "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp"
+  - title: "Trump Launches Plan For Black America, With Some Holes"
+    excerpt: "As protests swept the country following the death of George Floyd, Trump lumped peaceful protesters and the Black Lives Matter movement with rioters and looters. D"
+    publishedDateTime: 2020-09-25T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/"
+    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/25/trump-launches-plan-for-black-america-with-some-holes/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e5da0205871d7b30c7bf3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D304%26cropY2%3D1992"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "5 tax breaks Trump took advantage of that the average American can't"
+    excerpt: "President Trump filed a $70,000 tax deduction for his hairstyling, listing it as a business expense, per last weekend's New York Times bombshell."
+    publishedDateTime: 2020-09-29T17:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-tax-breaks-returns-new-york-times-ultrawealthy-normal-people-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-tax-breaks-returns-new-york-times-ultrawealthy-normal-people-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tax-breaks-returns-new-york-times-ultrawealthy-normal-people-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f2929b15af6cc2fdc1eed75?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Lessons the American people can learn from President Trump's illness"
+    excerpt: "While the nation waits to see how President Donald Trump will fare as he's treated for COVID-19, doctors say there are lessons to be learned."
+    publishedDateTime: 2020-10-04T11:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/president-donald-trump-covid-19/3615029001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615029001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615029001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PGRF/f813fdac-edea-4378-937a-3e71eb33cc1e-AP20276510432758.jpg?auto=webp&crop=3209,1805,x853,y222&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's performance was a gift to American democracy"
+    excerpt: "If Trump’s questionable display brought us one step closer to seeing the reality of who he is and what he means for the country, then Trump unwittingly offered us all a gift — a clarion call to step up now and save democracy itself."
+    publishedDateTime: 2020-10-03T19:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy"
+    ampWebUrl: "https://thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/scarboroughjoe08292017msnbc.jpg"
-        width: 980
-        height: 551
+      - url: "https://thehill.com/sites/default/files/article_images/trumpdebate_getty.jpg"
+        width: 645
+        height: 363
         isCached: true
-  - title: "Trump doesn't denounce white supremacists and militias during debate"
-    excerpt: "President Trump was given several chances during the debate. to denounce white supremacists and militias that have caused violence. Trump deflected."
-    publishedDateTime: 2020-09-30T03:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
+  - title: "Trump says he expects to have coronavirus vaccine for every American by April"
+    excerpt: "President Donald Trump said on Friday he expects to have available enough doses of a coronavirus vaccine for every American by April."
+    publishedDateTime: 2020-09-18T19:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2692YK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2692YK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2692YK"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 122
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-6-gty-er-200929_1601430660343_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200918&t=2&i=1534047651&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8H1RH"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Getting warmer: Trump concedes human role in climate change"
-    excerpt: "At the first presidential debate, President Donald Trump publicly acknowledged some human blame for climate change"
-    publishedDateTime: 2020-10-01T07:30:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_0062919532a148d4a6fd087944aa558e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump didn't accomplish his goals in 1st presidential debate: ANALYSIS"
-    excerpt: "Entering the first debate on Tuesday, President Donald Trump was behind nationally by approximately 7 points on average, and was behind by similar margins in nearly every target state to win the Electoral College."
-    publishedDateTime: 2020-09-30T23:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden and his wife test negative for coronavirus"
-    excerpt: "Biden recently attended a presidential debate against President Donald Trump, and Trump later tested positive for the virus."
-    publishedDateTime: 2020-10-03T01:11:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f77304f0ab50d00184adc56?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate"
-    excerpt: "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic."
-    publishedDateTime: 2020-10-04T00:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-mask_hpMain_20201003-193502_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump Demands No Debate Changes As His Campaign Alleges Debate Commission Bias"
-    excerpt: "The Trump campaign said the president will participate in the remaining debates and described second debate moderator Steve Scully as ‘pretty fair’"
-    publishedDateTime: 2020-10-01T20:55:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/amp/"
+  - title: "Donald Trump And The Democrats Have This In Common: They’re Afraid Of Marijuana"
+    excerpt: "President Donald Trump is afraid of it. A majority of Americans want it. So why did the Democrats avoid a symbolic vote on marijuana legalization this week?"
+    publishedDateTime: 2020-09-18T15:14:00Z
+    webUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/"
+    ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/09/18/donald-trump-and-the-democrats-have-this-in-common-theyre-afraid-of-marijuana/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 121
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76414d4b296e2b640e7395%2F0x0.jpg%3FcropX1%3D619%26cropX2%3D5463%26cropY1%3D292%26cropY2%3D2603"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f64cb97f0b0cf790cefa936%2F0x0.jpg"
         width: 1200
-        height: 573
+        height: 1319
         isCached: true
-  - title: "Trump campaign slams plan to change debate rules after unruly Cleveland encounter"
-    excerpt: "President Donald Trump's re-election campaign on Thursday rejected calls for new rules to govern the next two debates between him and Democratic challenger Joe Biden, after a first matchup marred by constant interruptions and outbursts."
-    publishedDateTime: 2020-10-02T02:58:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idINKBN26M7DZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26M7DZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26M7DZ"
+  - title: "Trump went golfing 25 times as a virus swept across the US and killed over 200,000 Americans"
+    excerpt: "As the virus swept across the US, Trump downplayed the threat, deflected blame to others, and routinely visited his properties to play golf."
+    publishedDateTime: 2020-09-23T02:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-golfed-25-times-covid-19-spread-killed-over-200000-2020-9?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535768168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9054P"
-        width: 877
-        height: 545
+      - url: "https://i.insider.com/5f6a3d4049479600287bd8bf?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "President Donald Trump, during debate, declares, 'I brought back Big Ten football'"
-    excerpt: "While addressing debate topic of economy, President Donald Trump brought up the return of Big Ten football: \"It was me, and I'm very happy to do it.\""
-    publishedDateTime: 2020-09-30T03:50:00Z
-    webUrl: "https://www.usatoday.com/story/sports/ncaaf/bigten/2020/09/29/presidential-debate-donald-trump-i-brought-back-big-ten-football/3583550001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3583550001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583550001"
+  - title: "Bernie Sanders says Trump is ready \"to undermine American democracy in order to stay in power\""
+    excerpt: "The senator slammed the president's refusal to commit to a peaceful transfer of power and his opposition to mail-in voting."
+    publishedDateTime: 2020-09-24T18:19:00Z
+    webUrl: "https://www.cbsnews.com/news/bernie-sanders-trump-transfer-of-power/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/bernie-sanders-trump-transfer-of-power/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/bernie-sanders-trump-transfer-of-power/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/37cbe3b4-7723-43c6-be0d-80b4491682d5-donald_trump.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/18/6137ee8a-ede1-4d3c-acc3-ab8f06fb7a23/thumbnail/1200x630/0b4ab92020d5cf2ba13edd554d5b0df1/ap-20231101371898.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges"
-    excerpt: "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race."
-    publishedDateTime: 2020-09-28T11:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rally_hpMain_20200926-182602_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "President Trump And First Lady Test Positive For Covid-19 Coronavirus, What This Means"
-    excerpt: "Apparently he and the First Lady, Melania Trump, This Tweet came just two days after both had appeared on stage at the first Presidential debate in Cleveland without face masks. Well, Trump did have a face mask,"
-    publishedDateTime: 2020-10-02T07:03:00Z
-    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/02/president-trump-and-first-lady-test-positive-for-covid-19-coronavirus-what-this-means/"
-    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/02/president-trump-and-first-lady-test-positive-for-covid-19-coronavirus-what-this-means/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/02/president-trump-and-first-lady-test-positive-for-covid-19-coronavirus-what-this-means/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 117
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76bc7e50dc7ad90de9d070%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3938%26cropY1%3D74%26cropY2%3D3028"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Republicans and democracy have much deeper problems than Trump's awful debate performance"
-    excerpt: "A Trump loss won't fix our nasty, polarized and shallow politics. We need to stop hoping transformation is around the corner if we oust one bad apple."
-    publishedDateTime: 2020-10-01T09:33:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/01/trump-debate-performance-sorry-state-republicans-democracy-column/5874170002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5874170002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874170002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/be27cb49-4846-4ca2-924b-bc8ab1d9f5d2-AP_Election_2020_Debate.jpg?auto=webp&crop=4895,2753,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump and aides oppose debate rule changes and hint they could put future debates at risk"
-    excerpt: "Donald Trump's re-election campaign opposes plans to put in place new rules for his next two debates with Democratic challenger Joe Biden."
-    publishedDateTime: 2020-10-01T23:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-campaign-president-may-boycott-debates-biden/5884750002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5884750002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884750002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa10e6f7-8da7-4efd-b579-d8a503f84d0f-AP_Election_2020_Debate.jpg?auto=webp&crop=5563,3130,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Cybersecurity 202: Trump made a slew of false claims about mail voting during the first debate"
-    excerpt: "President Trump closed the first 2020 presidential debate with a barrage of false claims about mail voting that are sure to give heartburn to officials trying to run an orderly election amid extremely difficult circumstances."
-    publishedDateTime: 2020-09-30T11:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/cybersecurity-202-trump-made-slew-false-claims-about-mail-voting-during-first-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/cybersecurity-202-trump-made-slew-false-claims-about-mail-voting-during-first-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/cybersecurity-202-trump-made-slew-false-claims-about-mail-voting-during-first-debate/?outputType=amp"
+  - title: "Trump insists protesters are throwing Bumble Bee tuna cans, in the midst of pandemic tuna shortage"
+    excerpt: "Cans of tuna fish. They go out and buy tuna fish and soup. You know that, right?” Trump said. “They throw it. It’s the perfect weight, tuna fish, they can really rip it,"
+    publishedDateTime: 2020-09-23T20:54:00Z
+    webUrl: "https://www.washingtonpost.com/business/2020/09/23/bumble-bee-tuna-protesters/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2020/09/23/bumble-bee-tuna-protesters/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/23/bumble-bee-tuna-protesters/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SJEYTIQC3MI6XOJOAKLHN6PL5Q.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HCENOQH5VMI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
-        height: 971
+        height: 960
         isCached: true
-  - title: "Joe Biden delivering remarks in Delaware"
-    excerpt: "Watch \"Joe Biden delivering remarks in Delaware\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-09-27T16:29:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200927160832-joe-biden-delivering-remarks-in-delaware/"
+  - title: "Trump says all Americans will have coronavirus vaccine by April, health officials skeptical of timeline"
+    excerpt: "Trump's assessment differs from the one offered by CDC director Robert Redfield, who said a vaccine could be available by late spring or next summer."
+    publishedDateTime: 2020-09-18T20:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/18/coronavirus-trump-says-americans-have-covid-19-vaccine-april/5825486002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5825486002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825486002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump to Make Appeal to Black Voters, Who Largely Oppose Him"
+    excerpt: "President Donald Trump will make an appeal Friday to Black voters to help re-elect him in November, promising them money to expand small businesses and further criminal sentencing reductions."
+    publishedDateTime: 2020-09-25T00:18:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-make-appeal-to-black-voters-who-largely-oppose-him/2020/09/24/98d3b638-fec3-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/27/story_07015457_1601223785.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLGSSFX6YMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 959
         isCached: true
-  - title: "Joe and Jill Biden reported earning $16.5 million from book deals and speaking engagements since leaving the White House"
-    excerpt: "The Bidens released their 2019 tax returns ahead of Biden's first presidential debate against Trump on Tuesday, September 29."
-    publishedDateTime: 2020-09-29T19:19:00Z
-    webUrl: "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7"
-    ampWebUrl: "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp"
+  - title: "The American People Deserve to Know More About President Trump's Condition"
+    excerpt: "T he world’s attention turned to U.S. President Donald Trump on Friday, when we learned via his early morning tweet that he and First Lady Melania Trump had tested positive for"
+    publishedDateTime: 2020-10-03T19:39:00Z
+    webUrl: "https://time.com/5895970/trump-covid-19-health/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 100
+      name: Time
+      domain: time.com
+    quality: 103
     images:
-      - url: "https://i.insider.com/5d24f6bba17d6c08a7639382?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump, asked to condemn white supremacists and militia during the debate, tells Proud Boys group to ‘stand back and stand by'"
-    excerpt: "President Donald Trump on Tuesday didn’t clearly condemn white supremacist groups and their role in violence in some American cities this summer, branding it solely a “left-wing” problem and telling one far-right extremist group to “stand back and stand by."
-    publishedDateTime: 2020-10-01T17:34:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 98
-    images:
-      - url: "https://www.chicagotribune.com/resizer/q4cHOxV-K4_t5dNpwY_iFVJfJJE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ELDAHI55RQAN3OMC6KPVEDJBIY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
-    excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
-    publishedDateTime: 2020-10-01T01:09:00Z
-    webUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5f74e45074fe5b0018a8e596?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Who are the Proud Boys? Far-right group known for political brawls are in the spotlight after Trump tells them to ‘stand back and stand by.'"
-    excerpt: "President Trump at the first debate said the extremist organization should “stand back and stand by.” Some saw it as an endorsement."
-    publishedDateTime: 2020-10-01T12:09:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 90
-    images:
-      - url: "https://www.chicagotribune.com/resizer/kRsm-krjMvssFaeh4m9LxoXLvfE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPXJMF6M6ZEF5M6MAJQCQ5FA5I.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
-    excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
-    publishedDateTime: 2020-10-05T15:32:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 89
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Trump-and-Biden.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds"
-    excerpt: "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,"
-    publishedDateTime: 2020-10-05T11:40:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article246216955.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246216955.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246216955.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 83
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f4761fca-22cf-457b-bb5b-25c8c5877932/dc6ba712-84ad-49d0-be23-fb3df9b27dff/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
-    excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."
-    publishedDateTime: 2020-10-04T15:34:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
-    ampWebUrl: "https://amp.freep.com/amp/3616228001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3616228001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
-    excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."
-    publishedDateTime: 2020-10-04T17:23:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3616228001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3616228001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
-    excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
-    publishedDateTime: 2020-09-29T17:07:00Z
-    webUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/"
-    ampWebUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/Election_2020_Biden_70169-2.jpg?w=1024&h=683"
+      - url: "https://api.time.com/wp-content/uploads/2020/10/trump-health-covid-19.jpg"
         width: 1024
         height: 683
         isCached: true
-  - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
-    excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."
-    publishedDateTime: 2020-10-03T22:54:00Z
-    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
+  - title: "Donald Trump Is Losing On An Issue Voters Care A Lot About. Here's How He's Trying to Change That"
+    excerpt: "With nearly 200,000 Americans dead from COVID-19 and millions more who lost their health insurance when they lost their jobs this year, President Donald Trump tried this week—as he has done throughout his presidency—to change the conversation."
+    publishedDateTime: 2020-09-17T15:52:00Z
+    webUrl: "https://time.com/5889478/donald-trump-health-care/"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 73
+      name: Time
+      domain: time.com
+    quality: 92
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
-        width: 3771
-        height: 2514
+      - url: "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-prescription-drug-costs-election.jpg"
+        width: 6000
+        height: 4000
         isCached: true
-  - title: "Joe Biden surges to 14-point lead against President Donald Trump in national poll after Tuesday’s debate"
-    excerpt: "Joe Biden surged from an 8-point lead to a 14-point lead after the debate, according to the latest Wall Street Journal/NBC News poll."
-    publishedDateTime: 2020-10-04T19:20:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
+  - title: "Millions of poor Americans could get left out of Trump's legally dubious plan to send $200 drug discount cards to 33 million Medicare beneficiaries"
+    excerpt: "Trump's legally dubious pledge could leave out 13 million low-income Americans receiving federal aid within Medicare."
+    publishedDateTime: 2020-09-25T23:53:00Z
+    webUrl: "https://www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/millions-poor-americans-trumps-plan-medicare-cards-2020-9?amp"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 73
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/I6HIPLLATNAHZM6MIDADJ6WHKE.png"
-        width: 1696
-        height: 916
+      - url: "https://i.insider.com/5f2fd7ad3f73707f003f0ab3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Cuban-American judge from Florida on Trump high court list"
+    excerpt: "A daughter of Cuban exiles who has had a swift rise as a lawyer and judge is on President Donald Trump's short list to replace Ruth Bader Ginsburg on the U.S. Supreme Court. The president said Monday that he does not personally know Barbara Lagoa,"
+    publishedDateTime: 2020-09-21T19:43:00Z
+    webUrl: "https://www.chron.com/news/article/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Norah O’Donnell Confronts Pence on Trump Health Care Plan: ‘Why Should Americans Believe You’ on Preexisting Conditions?"
+    excerpt: "A new clip of Norah O'Donnell's interview with Vice President Mike Pence focuses on President Donald Trump's recent pledges about a health care plan."
+    publishedDateTime: 2020-09-23T01:53:00Z
+    webUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/"
+    ampWebUrl: "https://www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/norah-odonnell-confronts-pence-on-trump-health-care-plan-why-should-americans-believe-you-on-preexisting-conditions/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 65
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/pence-odonnell-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Chuck Todd Presses HHS Sec. Azar on Trump Covid Messaging: Who Should Americans Be Listening to on Masks?"
+    excerpt: "Chuck Todd pressed HHS Secretary Alex Azar on Meet the Press Sunday over President Donald Trump's public health messaging being at odds with top officials like the head of the CDC."
+    publishedDateTime: 2020-09-20T21:04:00Z
+    webUrl: "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/"
+    ampWebUrl: "https://www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/chuck-todd-presses-hhs-sec-azar-on-trump-covid-messaging-who-should-americans-be-listening-to-on-masks/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 58
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/chuck-todd-azar.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kilmeade Asks Trump if China is Going to ‘Get Away’ With Coronavirus: They’re ‘Responsible For the Deaths of 200,000 Americans’"
+    excerpt: "Fox & Friends host Brian Kilmeade urged President Donald Trump in a Monday interview to punish China for the fact that the coronavirus has killed approximately 200,000 Americans."
+    publishedDateTime: 2020-09-21T13:54:00Z
+    webUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/"
+    ampWebUrl: "https://www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/kilmeade-asks-trump-if-china-is-going-to-get-away-with-coronavirus-theyre-responsible-for-the-deaths-of-200000-americans/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 47
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-21-at-9.22.39-AM-1200x669.jpg"
+        width: 1200
+        height: 669
         isCached: true
 
 secured: "2Dd83HFRj9+l0gAKrf7S1N3vRGeK1NNwGdxecAmTMHhzwE75kdI9cQ2zBxCoZL0uhieifd/YyX1NXAGgCdVVBO6NoTq9/2Xrx7aPJWU5tqFq2ivooMGDlsPY//iPd0lS2eYNTChmbwE89huK4ii5eGK5lBgExUnMUqZM813ABCtmTtH4I/SR351zeW0jpn+8QIprFtLFQur3FUrJnlQzaXhQAkC2SwiGiGf6t+tFJH5Y+zdMA+7+oqzF/AwJxeouMDLHVYyXzFsYlC39i5YD7xixUbd2I4vsZBBIF4dh5XBwONbD3DY8lXZ6nkyfxqgZpRR9zKoepX/r1LamW315vhdP5V2rStSqE/UWsF/rDD8=;95029eOUyyZYb8vj+NYOBQ=="

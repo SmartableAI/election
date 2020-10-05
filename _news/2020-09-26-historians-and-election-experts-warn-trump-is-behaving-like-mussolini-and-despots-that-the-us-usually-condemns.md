@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/historians-election-experts-warn-tru
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp"
 type: article
 quality: 120
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Growing up in poverty, the post office was my lifeline. Now, Trump is attacking the USPS as a political stunt and putting lives at risk."
-    excerpt: "Like many Americans, I depend on the postal service. Trump's campaign against mail-in voting and attack on the USPS is putting lives at risk."
-    publishedDateTime: 2020-09-29T13:46:00Z
-    webUrl: "https://www.businessinsider.com/poverty-us-post-office-lifeline-trump-disabling-usps-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/poverty-us-post-office-lifeline-trump-disabling-usps-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/poverty-us-post-office-lifeline-trump-disabling-usps-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5f6e0c140f4d5500110324f4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "FxtCWb4nHTygmQ7jGtRIT7nLOtQEtUVH2IfsQFZfG0kbdNmtTYbEJnXc1ITWqENd/YyOkL7nZlVhGs9cY/Ay3PKcuDqDhx5FAFLktFPv/Dt30EdzADF98/i1DGrA7k0yGufBmmR+izmPsUZ21uX24lU6hqAX3FmMpPGQT+dakg3+QyM1m6jccJim2O/l2BSRFEm3up8T8Rc+aX5CsnckF5Doz3vM0L4iDru2NcaID7Cq6k+Vt3HcfcozTLkqk9aN6E2B8r8a1EozRvORftPvs8TPUNijBEwzBbteIQKtvcr0pPaYQnM4u5wX+R7UC4njTKTfBcDjdRxuNI1pOR68dY9iM/s6ZNlI9UMFN+E17/8=;23SOmMbKF6fhk8An5q4bNg=="
 ---

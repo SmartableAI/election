@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 3400
+heat: 3420
 published: true
 
 provider:
@@ -2235,6 +2235,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/eX4eH1FqUvdZILA7P1L5_5nqHJg=/0x0:2942x2052/1400x1050/filters:focal(1224x531:1694x1001):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67577730/Screen_Shot_2020_10_03_at_11.20.33_PM.7.png"
         width: 1400
         height: 1050
+        isCached: true
+  - title: "VIDEO: Debuting Joe Biden impression on ‘SNL,’ Jim Carrey hesitates, rallies for self-control"
+    excerpt: "The former VP, in Carrey’s take, urges himself ‘to just stand here and look lucid.’  NBC Jim Carrey unveiled his take on Joe Biden on Saturday, playing the presidential nominee as subdued, hesitant and determined not to lose his temper when provoked by his combative opponent."
+    publishedDateTime: 2020-10-05T16:38:00Z
+    webUrl: "https://chicago.suntimes.com/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/movies-and-tv/2020/10/3/21500644/jim-carrey-snl-joe-biden-impression-trump-debate"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 64
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/a7NJUwClBEu4NX0brCqHDlFvvwI=/76x0:871x585/1400x1050/filters:focal(413x26:573x186):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67577730/NUP_191888_0024.14.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Ruth Bader Ginsburg Makes History One Last Time as Joe Biden, Kamala Harris Pay Their Respects"
     excerpt: "\"It is with profound sorrow and deep sympathy to the Ginsburg family that I have the high honor to welcome Justice Ruth Bader Ginsburg to lie in state in the Capitol of the United"

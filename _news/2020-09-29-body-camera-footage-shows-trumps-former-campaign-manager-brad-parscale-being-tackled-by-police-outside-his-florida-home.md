@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself"
-    excerpt: "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911."
-    publishedDateTime: 2020-09-28T09:08:00Z
-    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/"
-    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 109
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Reports: Former Donald Trump campaign manager Brad Parscale hospitalized after threatening to harm himself"
     excerpt: "Multiple outlets reported former Donald Trump campaign manager Brad Parscale was taken to a hospital without incident after police were called."
     publishedDateTime: 2020-09-28T02:24:00Z
@@ -74,6 +58,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border"
+    excerpt: "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said."
+    publishedDateTime: 2020-09-21T00:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5840290002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840290002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/c1581992760bd8165680c7fc3167152f355fee81/c=0-162-2692-1683/local/-/media/2018/10/02/USATODAY/USATODAY/636741165177323522-GettyImages-974117584.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Former Trump campaign manager Brad Parscale told friends he was under federal investigation just days before meltdown"
     excerpt: "Brad Parscale told others he was under federal investigation, days before he was detained by police at his Florida home, Trump advisers told Insider"
     publishedDateTime: 2020-10-02T01:03:00Z

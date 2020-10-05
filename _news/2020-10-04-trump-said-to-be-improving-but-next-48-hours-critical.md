@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
 type: article
 quality: 125
-heat: 206
+heat: 166
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rick Santorum said asking Trump to condemn right-wing extremists is unfair because they're his base"
-    excerpt: "The president had told the right-wing Proud Boys group to \"stand back and stand by\" after host Chris Wallace asked him to denounce white supremacy."
-    publishedDateTime: 2020-09-30T09:14:00Z
-    webUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-trump-right-wing-extremists-voting-base-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f7440b10ab50d00184ad31a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "In First Video From Hospital, Trump Says He Feels ‘Much Better,’ But Next Few Days Will Be ‘The Real Test’"
     excerpt: "President Donald Trump Saturday night said in a video from Walter Reed Medical Center he is feeling “much better now” after White House officials gave conflicting accounts about his condition throughout the day."
     publishedDateTime: 2020-10-03T23:54:00Z
@@ -74,20 +58,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Doctors say Trump doing 'very well' at hospital"
-    excerpt: "Doctors say US President Donald Trump is doing “very well” as he spends the weekend at a military hospital for treatment of COVID-19. (Oct. 3)"
-    publishedDateTime: 2020-10-03T17:30:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/03/doctors-say-trump-doing-very-well-hospital/3609245001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6202483-2d89-4536-b228-2432ce9d25ba_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "exLJjzUyD4s5pNdXrkjsISCIzyzFXxGCaC81tpxO5zTlc3H0ekDP+ee5DmKSEkHSNgQ5wAnJZIGqNAbBesn/v7HrtEE+QzZ7sg7gx+VMJvj6OTbCFA2HOSTeQcLCwJJs4vwzXCWcGSMosFNvhV/23tEB/e5e5sMP6IgkiMTBmBuf8iInJRjny1h8g0UBD6U5puQJ2/PZyQn15hIvyTFu4Z6VslFkPU0Kb5MGG7RdCBvTOtxjl4kDbzQjklpGtJXt5tKJQaONYlv0fl1maB1/F++SA5VheaAkTGmCdibB8XJGykwyaUihG8zywLs27SZayCo9/aO8LIoC78IjjzH4sVtN9DUvSW8VkgFSphYaTV8=;0vXqtYpfbkLLLbcokTJW3g=="
 ---

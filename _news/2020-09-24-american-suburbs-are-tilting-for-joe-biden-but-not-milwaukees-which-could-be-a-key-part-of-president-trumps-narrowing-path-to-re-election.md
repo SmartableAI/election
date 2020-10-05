@@ -1846,6 +1846,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden reluctant to comment on Trump's health"
+    excerpt: "Democratic presidential nominee Joe Biden is declining to comment on President Donald Trump's drive outside of Walter Reed to greet supporters. \"I'm not going to comment on any of his conduct or his health,"
+    publishedDateTime: 2020-10-05T17:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/biden-reluctant-comment-trumps-health/3625199001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f70190af-6182-4781-938a-f0b213e8c1d7_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "FBI Director Says No Evidence Of ‘National Voter Fraud Effort,’ Undercutting Trump"
     excerpt: "FBI Director Christopher Wray testified to Congress on Thursday that the agency has not historically seen “any kind of coordinated national voter fraud effort in a major election,” including through mail-in voting,"
     publishedDateTime: 2020-09-25T15:17:00Z

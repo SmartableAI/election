@@ -2,13 +2,13 @@
 category: news
 title: "When is the vice presidential debate between Pence and Harris?"
 excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris will face off in their highly anticipated debate on Wednesday at University of Utah in Salt Lake City."
-publishedDateTime: 2020-10-05T15:40:53Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8YWJKMINbBg/pence-harris-vice-presidential-debate-what-to-know"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8YWJKMINbBg/pence-harris-vice-presidential-debate-what-to-know"
+publishedDateTime: 2020-10-05T15:44:00Z
+originalUrl: "https://www.foxnews.com/politics/pence-harris-vice-presidential-debate-what-to-know"
+webUrl: "https://www.foxnews.com/politics/pence-harris-vice-presidential-debate-what-to-know"
 ampWebUrl: "https://www.foxnews.com/politics/pence-harris-vice-presidential-debate-what-to-know.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vice-presidential-debate-what-to-know.amp"
 type: article
-quality: 210
+quality: 160
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
   - Kamala Harris
 
 images:
@@ -48,6 +48,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Harris-Pence_AP.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Vice presidential debate between Pence and Harris: What to know"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris will face off in their highly anticipated debate on Wednesday at University of Utah in Salt Lake City."
+    publishedDateTime: 2020-10-05T15:40:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8YWJKMINbBg/pence-harris-vice-presidential-debate-what-to-know"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-harris-vice-presidential-debate-what-to-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vice-presidential-debate-what-to-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 210
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/pence-campaigning.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
     excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
@@ -345,6 +361,6 @@ related:
         height: 696
         isCached: true
 
-secured: "U/PV85L2XXJsAnnzCT+U7Jk5ePqkgJMM5CYRa1ECHNb4LbXQYDxjf1s2+9i5KHbJhlZUOMroTonT6dGLreZJ9hVQFUzBtN4tpaiZjob3txw7p9fIhf7g4gZz2Nm5yXkbFp5AgQ5pyWq0kxg2m5nhMdqdYk2sW+fOJNCYJieKr6K4YbV5qk2JCqIe/OR0yPhiPRFduCr4+yVRkYE+9iptYRzcuiO7FFF0F2QvkbJEQOO19PkqdnCT4+5EdCBm6nSBLrpRo0+oDuwdPhuzMfltgqH2ELgMOcLG0P0lLR6SEaM6NvfvEOgCiix50Tf9hwNhGg8ckHfxFalMQKoLbvedtOt7GJhxBVTRb/xzp+29uB0=;hfNrJm/SuXyK0nTBr0oU7w=="
+secured: "cO86p/BBJ3G/DmPdlDTzBf6dbdPzwR73oXbh9w/iaXV049Wrda0nhRYkexbuuBO/tpfvIgHV/ByrXrah67lZrXmvqErytoVJMHoZNVIhJ1NnDX4d90J4o0bCsLkfpr2tVUt3JjHRveM/JvLqFbPRi41IQDUnmZPlwDQqs93WYpMNU8G5CcJkHPUwUrlLdeVj6+R1sNrFE32RsEZ/lIiKico8mefXGsrnMq920mRjWN00XNwm2YoLPRLCsHbrsEaN0ub8K65WbyBKLSyGF0imoKmCfGj/Su87evQKI/BBi2MkrjZx4WBQUQR2iuOYEuSHfz+GzrNkRV5Onpqu5UtljnAa4wZIhrdOBSfIRkYw0ik=;kOBY3Y/3VQTvsoDRYZxpig=="
 ---
 

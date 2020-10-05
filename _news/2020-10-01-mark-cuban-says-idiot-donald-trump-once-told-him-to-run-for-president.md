@@ -63,22 +63,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "U.S. stock futures and global shares fall on Trump's COVID news"
-    excerpt: "Both the S&P 500 and the Dow industrials futures lost 1.9% on the news, as oil prices and Asian share prices slipped."
-    publishedDateTime: 2020-10-02T06:35:00Z
-    webUrl: "https://www.cbsnews.com/news/stock-markets-today-react-to-donald-trump-covid-test-positive-2020-10-02/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/stock-markets-today-react-to-donald-trump-covid-test-positive-2020-10-02/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stock-markets-today-react-to-donald-trump-covid-test-positive-2020-10-02/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/04/6f81bc59-fb5c-41be-b90a-a9f3e3fdbfba/thumbnail/1200x630/d7bf989e0a2d60285c79df4301f0c131/cbsn-fusion-wall-street-is-booming-while-millions-of-people-are-still-unemployed-thumbnail-541520-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Minnesota congressmen flew Delta after flying with Trump"
     excerpt: "Three Minnesota congressmen are facing backlash over taking a commercial flight home from Washington, D.C., on Friday night just two days after they shared Air Force One with President Donald Trump. U."
     publishedDateTime: 2020-10-03T22:53:00Z
@@ -111,22 +95,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
-    excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
-    publishedDateTime: 2020-10-03T14:47:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73402267"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73402267"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
     excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
     publishedDateTime: 2020-09-29T03:37:00Z
@@ -141,22 +109,6 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
         width: 806
-        height: 545
-        isCached: true
-  - title: "Factbox: Trump White House, campaign staff who have tested positive for COVID-19"
-    excerpt: "News of President Donald Trump's COVID-19 diagnosis has upended the U.S. presidential election campaign entering its final month and roiled stock markets, raising questions about succession and prompting White House aides to insist that Trump would keep a busy,"
-    publishedDateTime: 2020-10-02T23:48:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-staff-fa-idUSKBN26N3FB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N3FB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N3FB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535948470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9126O"
-        width: 808
         height: 545
         isCached: true
   - title: "7 crucial questions Trump's doctor has declined to answer — and what he said instead"
@@ -190,22 +142,6 @@ related:
       - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Dow futures decline as stock investors worry as President Trump says he tested positive for COVID-19"
-    excerpt: "The stock market appeared headed for a sharp drop early Friday morning after President Donald Trump said he and his wife, Melania, had tested positive for COVID-19. Dow futures  w"
-    publishedDateTime: 2020-10-02T05:47:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/10/02/trump-covid-update-president-tests-positive-stock-futures-fall/5892109002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5892109002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892109002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1740,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "3 congressmen flew on a commercial Delta flight after a journey on Air Force One with President Trump"
     excerpt: "The Republican politicians have been criticized after they flew on a Delta flight to Washington DC, hours after Trump tested positive for COVID-19."
@@ -251,17 +187,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Futures sink as Trump tests positive for COVID-19"
-    excerpt: "U.S. stock index futures tumbled on Friday after President Donald Trump tested positive for COVID-19 weeks before the election, with Washington's failure to reach a new fiscal stimulus deal also hurting sentiment."
-    publishedDateTime: 2020-10-03T22:54:00Z
-    webUrl: "https://www.businessinsider.com/futures-sink-as-trump-tests-positive-for-covid-19-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/futures-sink-as-trump-tests-positive-for-covid-19-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/futures-sink-as-trump-tests-positive-for-covid-19-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Oil rebounds on Trump health update, Norway shutdowns"
     excerpt: "Oil prices rose on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
     publishedDateTime: 2020-10-05T11:07:00Z
@@ -336,29 +261,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/26/donald-trump-fires-up-his-supporters-at-a.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Live updates on Trump and COVID-19: President in hospital for extended stay; many infected at White House gathering"
-    excerpt: "President Trump is at hospital after a positive COVID-19 test. The Bidens wish him well. Campaigning ahead of Election Day has shifted. Latest news."
-    publishedDateTime: 2020-10-03T10:40:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/trump-covid-updates-president-gets-remdesivir-walter-reed-hospital/3592595001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 63
-  - title: "President Donald Trump, First Lady test positive for COVID-19"
-    excerpt: "President Donald Trump announced early Friday that he and First Lady Melania Trump had tested positive for Covid-19, shortly after one of his closest aides, Hope Hicks, had fallen ill with the coronavirus."
-    publishedDateTime: 2020-10-02T11:17:00Z
-    webUrl: "https://www.chron.com/news/article/President-Donald-Trump-First-Lady-test-positive-15614971.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/12/71/55/19635036/3/rawImage.jpg"
-        width: 2048
-        height: 1306
         isCached: true
   - title: "The Latest: Doctor Giving Trump Health Update Sunday Morning"
     excerpt: "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19."

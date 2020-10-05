@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-test-positive-deb
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-test-positive-debate-biden-white-house-physician-dr-ronny-jackson.amp"
 type: article
 quality: 170
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Matt Gorman: Trump has a new running mate now"
-    excerpt: "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass."
-    publishedDateTime: 2020-09-30T11:07:00Z
-    webUrl: "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman"
-    ampWebUrl: "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp"
+  - title: "Who is Dr. Sean Conley, President Trump's physician?"
+    excerpt: "Conley, an officer in the U.S. Navy, earned his B.S. from the University of Notre Dame in 2002, according to his LinkedIn. He earned his D.O. from the Philadelphia College of Osteopathic Medicine and is an experienced emergency physician."
+    publishedDateTime: 2020-10-05T16:01:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoZbwOiSh2M/sean-conley-walter-reed-osteopathic-medicine"
+    ampWebUrl: "https://www.foxnews.com/politics/sean-conley-walter-reed-osteopathic-medicine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-conley-walter-reed-osteopathic-medicine.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94a65f6-5ffd-48bb-a83f-27cccf0be04a/265a668a-7607-4662-85c1-473e327e8464/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20278602412679-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "YoJ2rYqOEH6zuMEccWdoOig11qc5gtAsVTwobkJ5MmkunphXs1yGwogDEtTVKHUixI+rI2Ki/jph5dhgnClIrlelVsa03RalfVHZ+RLRgcF/BqTAU4K+P0dKiEdJZNKqA8lh76G4VFKJiuoAIphGeeN0xg/DBfoXgYcekg7h4/xkfFLw8ZN8JpbSbs+VOKKhkYvdMam5uqB0yQcPpZzq67JnUv26u4X1V4Fv4LOnT3nwFupU7xS6wpD7xlvG2Tum2fJI2SH3cGSvhaSdlH2D+cdkxYExDF/xP7qdK5Mob+tgIOeMzsT1/B/xSx9cOi6t5Hf1hb722qe2q42CyWUx4XyvNbpZLOP2xSNZA51nsbc=;7T9msF8yk7nA/+5brxDqpw=="

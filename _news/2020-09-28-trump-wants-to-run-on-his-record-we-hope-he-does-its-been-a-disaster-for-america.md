@@ -127,6 +127,22 @@ related:
         width: 885
         height: 545
         isCached: true
+  - title: "Trump campaign slams plan to change debate rules after unruly Cleveland encounter"
+    excerpt: "President Donald Trump's re-election campaign on Thursday rejected calls for new rules to govern the next two debates between him and Democratic challenger Joe Biden, after a first matchup marred by constant interruptions and outbursts."
+    publishedDateTime: 2020-10-02T02:58:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idINKBN26M7DZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26M7DZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26M7DZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535768168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9054P"
+        width: 877
+        height: 545
+        isCached: true
   - title: "Mueller issues a rare public statement disputing his former right-hand man's claim that he didn't pursue Trump hard enough"
     excerpt: "\"When important decisions had to be made, I made them,\" former special counsel Robert Mueller said about his investigation."
     publishedDateTime: 2020-09-29T19:13:00Z

@@ -26,19 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Biden launches ads touting his faith after cardinal says he's 'not a Catholic in good standing'"
-    excerpt: "Former Vice President Joe Biden launched an ad campaign seeking to highlight his Catholic faith as many conservatives and fellow Catholics have questioned the sincerity of his beliefs."
-    publishedDateTime: 2020-10-02T21:17:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BWj9oPPI9_I/biden-faith-ads-cardinal-not-a-catholic-in-good-standing"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-faith-ads-cardinal-not-a-catholic-in-good-standing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faith-ads-cardinal-not-a-catholic-in-good-standing.amp"
+  - title: "Biden endorsed by more than 120 former GOP national security officials"
+    excerpt: "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump."
+    publishedDateTime: 2020-10-01T19:04:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6ae7bc9-6e0d-4d29-ba79-8b430021b38f/9acbf912-fed6-444e-bd83-bb7d22d18a37/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-4.jpg"
         width: 1280
         height: 720
         isCached: true

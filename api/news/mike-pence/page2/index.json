@@ -2,48 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-23-air-force-two-carrying-mike-pence-makes-emergency-landing.md",
-      "title": "Air Force Two, carrying Mike Pence, makes emergency landing",
-      "excerpt": "Mike Pence was flying home to Washington from a campaign event at an airport hangar in nearby Gilford, New Hampshire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
-      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/22/Pence-Plane_09695.jpg-ac850_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/22/air-force-two-carrying-mike-pence-makes-emergency-/",
-      "publishedDateTime": "2020-09-22T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-vice-president-mike-pence-to-make-nh-campaign-stop-next-week.md",
       "title": "Vice President Mike Pence to make NH campaign stop next week",
       "excerpt": "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p.",
@@ -504,7 +462,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5295,
+      "heat": 5315,
       "tags": null,
       "images": [
         {
@@ -928,7 +886,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/10/vice-president-mike-pence-heard-early-warning-seriousness-coronavirus/3457152001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 141,
       "tags": null,
       "images": [
         {
