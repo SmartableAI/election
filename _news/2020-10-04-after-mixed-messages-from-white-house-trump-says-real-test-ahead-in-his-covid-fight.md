@@ -869,14 +869,14 @@ related:
         isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
-    publishedDateTime: 2020-10-04T23:11:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892840002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892840002"
+    publishedDateTime: 2020-10-04T19:21:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5892840002"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
+      name: Tennessean
+      domain: tennessean.com
     quality: 74
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"

@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
-publishedDateTime: 2020-10-03T00:08:00Z
-originalUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
-webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
+excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
+publishedDateTime: 2020-10-02T19:35:00Z
+originalUrl: "https://www.reuters.com/article/idUSKBN26N38L"
+webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
 type: article
 quality: 130
 heat: -1
@@ -20,14 +22,8 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
   - Mike Pence
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
-    width: 810
-    height: 285
-    isCached: true
+  - Kamala Harris
 
 related:
   - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
@@ -2127,6 +2123,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "m170UMRnp3x4xnEYCP3qkKZONm8KkdY8PpD0zMJP07GnhsQ2GDIngeW459E/CEyketbAOlQMMj0TdNaKXWh5EvJKmXesD3rwlixNQ8cxqn13o8R8u8MO2GFq0kWk+UIKrHd5op7rC5cvwThmNtokObuTKcU4e98OReW6LiF0MoBL3fJ3Ox1QmIiGdy/e2gKcDwgtBOsSerAbAkFNKcuIkdlR0ggJu3TBT+cGaX7WuVTMQ1OG5OVKSphFvyYhNqrq73dGrSY2ccT54Ohkj4vvorarT5Po2Q+adkc1xe0gnrwZnuL6nyYske+WNi6ZqZcMEyZsNHgIpqHdMr2mKw2iFp2AEumNUTprnkxuQy0NiNU=;gb9y4jYz/3oeQypJLr4Q/A=="
+secured: "veMZmGJMilKF0xwONSSlVkTGGtcrMKulkLwY9AlbosUFXbrH2x/dAO+y44ZSnsUHCTGy+jsUmoX8UxUsn1I9hB/mZIduR59XSbgM9oYEsROKIJ/7d2mET22TObsxxBNsPJK/dk8Ap2ZWmA1qN11O07S6aJqP10BhdexPmpGdnZzwpPCllwvjnOn+HkDi9+PDMQnQnhff2T+hkiU297ECp4HiO6gEdsZBxY41daGEB13/WpuJndDofFh7WOds1wr7vKFZBsDdjIcDa/D6/0tmHPkiQASu3ubF+mIIUynm1MsrsTrRpjhsvALSN4HOInfkFYfWxwTpq2N5KDP6Q+ddGRZXp54IDxgiu/QIjMi7xm9kIF/LMPYVsmzWMjlaVh8JjuRf9eak/877JTTMpDHYM72wiwEre8I03spHjkWrayEigUVj0jwBO7yRr39l5yRCP/ua8165CU7KBuojhagUcM5DfkW9SjWVAksAG36aCBvOxlpzIPsv1SZAr7lBNIenPLTKUjIxqe/StkbA7t3asA==;j8JwcSod9QmoCq+ekZ1LVw=="
 ---
 

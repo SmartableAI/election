@@ -209,6 +209,15 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 107
+  - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
+    excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
+    publishedDateTime: 2020-10-04T08:07:00Z
+    webUrl: "https://www.thedailybeast.com/snl-premiere-sees-jim-carreys-joe-biden-bask-in-trumps-covid-19-diagnosis"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 59
 
 secured: "hr+bSAMK7KQjh7BrfvneAOaK2I8oft2WbMZVUiKpITkjZZFV86jaNF54WKw4V/LID2QIUCib+djTPSOqPvXL7jKABanMYKFIBCzHj8NVw9CGfJmgr9lghgYOpFpUyEmBbiDTOKHJlRoqCQQd+1hudGhZVMdIDnqxkPoHtvzj/fp4JN99EAelVbsWCQPJLkHcV/iuQ+N+5G04jbsap6V5e2kC2RuVr8faY1oDT2eWRVY35My5eJh10q0rumDXI/D3cFvFMWNmMtFdPFXg/oIWl46qxgs9+fhGMq2AJNzb9/quEp6GujX2CzSqK5jELD5Ba4KjC3Ff6wmcKnv8oo/5KOzJcTAXChTV9I3Gfl2TCho=;ZPGwLqXBFvxe/fCBLZxHhg=="
 ---

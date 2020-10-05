@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Asian shares rise on optimism about Trump's recovery"
+    excerpt: "Shares have started the week with gains as investors were encouraged by positive reports about President Donald Trump’s health after he tested positive for the coronavirus"
+    publishedDateTime: 2020-10-05T04:29:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_1bab98e3e97245cf91895708f72aab50_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
     excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
     publishedDateTime: 2020-09-28T07:29:00Z

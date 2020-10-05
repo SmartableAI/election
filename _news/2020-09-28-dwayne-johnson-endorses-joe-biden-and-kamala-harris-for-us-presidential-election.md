@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 3340
+heat: 3360
 published: true
 
 provider:
@@ -2442,6 +2442,15 @@ related:
     excerpt: "Bob Cusack, executive editor of [The Hill], and Susan Ferrechio, chief congressional correspondent for the [Washington Examiner], joined C-SPAN to discuss the political career of 2020 Democratic presidential candidate Joe Biden."
     publishedDateTime: 2020-09-26T18:29:00Z
     webUrl: "https://www.c-span.org/video/?475710-1/joe-biden-candidate-profile"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Bernie Sanders Campaigns for Joe Biden in New Hampshire"
+    excerpt: "Sen. Bernie Sanders (I-VT) held a get-out-the-vote rally in Lebanon, NH, in support of 2020 Democratic presidential candidate Joe Biden. Before his remarks on health care and the economy, the senator began by wishing President Trump and the First Lady a speedy recovery after they tested positive for coronavirus,"
+    publishedDateTime: 2020-10-05T07:10:00Z
+    webUrl: "https://www.c-span.org/event/?476591/c2020-sen-bernie-sanders-ivt-campaigns-joe-biden-hampshire"
     type: article
     provider:
       name: C-SPAN

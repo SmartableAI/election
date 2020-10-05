@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
 type: article
 quality: 178
-heat: 418
+heat: 438
 published: true
 
 provider:
@@ -209,6 +209,15 @@ related:
       name: New York Times
       domain: nytimes.com
     quality: 107
+  - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
+    excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
+    publishedDateTime: 2020-10-04T08:07:00Z
+    webUrl: "https://www.thedailybeast.com/snl-premiere-sees-jim-carreys-joe-biden-bask-in-trumps-covid-19-diagnosis"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 59
 
 secured: "i1lioZTxfHjzD7pTPMDgLdz5oxqDf5PriKTtbR1tHPk62TfmQJPaDZmFQL6QeSkqX8APjNr2cBoHqz8JMEqeYtxcfipSkEb/6VSlj28cn6PYCxhZNvo9kPLDb7viCACO/MyIjQiOUn7zBJ5SZAIcSUAvlQSUZPcx5XW/gm3vy2QqFfA1xUx+rdbNo/EC8R8WFruYJ5q+I8pDYtUyOKBVhBSL8lkWkA40T+LyxGMEEhmuDPR8OF6IwzYfCxkR8oSIwAxhBiJiQZmGCYavhlg+6No9zIVQ+5EuwrBuPMP6lllBITmUHrSd2hvEddQhrZ9xjpUumE9OWd9A75eoKffO9NoWYWcYsJYh9/SolWXYnKI=;4h0acaZqgdPWLVmV1a5EpQ=="
 ---

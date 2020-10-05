@@ -240,8 +240,8 @@ related:
         isCached: true
   - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
     excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
-    publishedDateTime: 2020-10-04T23:47:00Z
-    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    publishedDateTime: 2020-10-05T01:23:00Z
+    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018?mod=opinion_lead_pos9"
     ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     type: article
@@ -328,6 +328,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "ZM7W9+sL+hb6OlkL0Ow+PCREeqKz1CuiQDjj1HhA6CfvGSo+3p4naePNTyLPDh4tj6J0bNsEn695f1baNw61PEoRfOAkimcIuvlaW4VPBr331+uPOZD12hwVnBV7nD4zoE3FTGqKIwH2Aur3V7Oibx947SX9uH04J1ipMKWDjAZmZgBGLyhERIy8FzF0TBlj8i5p6mhs87EfyA4WQr21YCgGlBEyqmrgF0PHJ+akgJuYM4xYwac+fnVW1x/WJI1WyqS5WMwmHa/OO3rvtQwuK7HyOczo+CLHwXTtTMqcAXmdMQdhw9aMlof8cI52L3RbnGURYahFMiNg9fNJ5l2ldqeshpGwoXogxQg4kCG7Pbs=;Uf5emxGVCHSynVIr/9yvdg=="
+secured: "DiEc6j7TJaU8s2JdBGHA22ZQ4jidMGMrvghhgwbNPuTKDbiCCM3wWsmic8Y8NdaHMKNsONduUs2J5l2ckV5mHdYELk5LYt5b1bFjrlCp/AOJiJ/XjSY/ATwjwaSI1zBgF3B3j1N+ANOGwUQ7POF4d5+DfxUU/PBUEGt45yXRu4z9VPZFPsFzuP+CYd3iCP6VyNREe1R9WJlj19+HxYqikeq1F68WxKPAmgl/qNYVkjcFReJgCzRBf92b+E0WYxDAdlTBfup19jylZGQLYyLMiQ3um0CS51L7tpVOxdkCBHGZA2D/LxBwEwBmyKqRtoxdZXJ9GsPWUXBa5BWqAJ1xf4d7eBvkc6Jn1aIcRgIFSSwzccNa855x5xQ141uMRTEY0yn2Qq5K7fzOojDARHffrRAIaBM4dNCm/ty7HQzzeBY7ehQ8ZioEmqLgbHRkUnG1gUZs0rOFxg4F9ZlL1bI+GyCZEHd18Kw7LsFEsBb9ddVR05HzgyusvH7f95x9D9cV6krISI8jtamBooz8JIDa4Q==;m+B1TRhq8vwDxY8K6viDMQ=="
 ---
 

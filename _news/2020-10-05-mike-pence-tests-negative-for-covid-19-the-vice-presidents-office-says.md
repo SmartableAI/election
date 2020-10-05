@@ -2,19 +2,19 @@
 category: news
 title: "Mike Pence tests negative for COVID-19, the vice president's office says"
 excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
-publishedDateTime: 2020-10-04T23:11:00Z
-originalUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
-webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
-ampWebUrl: "https://amp.palmbeachpost.com/amp/5892840002"
-cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892840002"
+publishedDateTime: 2020-10-04T19:21:00Z
+originalUrl: "https://www.tennessean.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+webUrl: "https://www.tennessean.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+ampWebUrl: "https://amp.tennessean.com/amp/5892840002"
+cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5892840002"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - Election
@@ -1065,6 +1065,6 @@ related:
         height: 675
         isCached: true
 
-secured: "kF9AgjfTxbOvD8L6TducN6xsOQQvYn6oj4cypnIqj/tGS6qGkjaJ98QyCmAloYipzA5YoTm66vEbROOZg6JXmx6+9YaogOMaeqjqKV3fYrx6CxUu3B5FLte0/GrCgVHXMWzblA8/pZxrkr2+9hjGhf0PxGCVOpJy/B7nBywHzQl+iwemwstTRvrOhgeX+CXZMrXuVqoiQCpuYvGam1II7Vew3fuwLGIjBrKt31eYlYmUST3ZbADRMq2YEwVuXFb+CQE1rs9+EHGuEG46zKiITGeN8wztdUXHW+D2MAtvj/IKiBcBKwFkI01kwVJOhjx5RHtsVBIC5w0DcstGFHhYIgl1m8RRIsFdFX31VoIH+kE=;llwuIJ/Lku120fHY99TH6w=="
+secured: "4tn82P4Wz1u4LkG4qC3klbvviZTmYCescZD6TwmQdko7PgmvT9XwxqkgMechlE0rXgF3CdW4iE2MwlrUSLA6KzyxQT7HeZitEViqfPOk1eiKsSNc4OPNVAxZR7V6Px3Z84iNq5wOT4ySFdQGtLEjo3cLVdfv49UG4MEUoXeiCDTF4iGXH4TkRmdDeuv/BydaylGHEr9PkHylNRSiT5hTba13bVf+EjeUApA9JLhS7twVo2UK4c9MMfXrNBdd3NlF9HANTKrHqREvbW2Mg5BOQr6J8S3tM6A76DqilkHovHaxoAU2g1tzBqUuNjq8nZ1vc25FKGku50LRh0ZaL8y+ULmdQE2evje96BTRzzB1m2k=;Cw+GCJWTwAnkAaV5HRktCQ=="
 ---
 

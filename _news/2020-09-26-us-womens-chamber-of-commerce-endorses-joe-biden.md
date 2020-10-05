@@ -2442,6 +2442,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Bernie Sanders Campaigns for Joe Biden in New Hampshire"
+    excerpt: "Sen. Bernie Sanders (I-VT) held a get-out-the-vote rally in Lebanon, NH, in support of 2020 Democratic presidential candidate Joe Biden. Before his remarks on health care and the economy, the senator began by wishing President Trump and the First Lady a speedy recovery after they tested positive for coronavirus,"
+    publishedDateTime: 2020-10-05T07:10:00Z
+    webUrl: "https://www.c-span.org/event/?476591/c2020-sen-bernie-sanders-ivt-campaigns-joe-biden-hampshire"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Yba4/EDdu+vyXRxDDghWw7sNmOwXLTdSOG0MUNNsKOeydNN3e+8QLIW0lKV+o9plBuEr1LD8i7nv01RC2HIJGflGuCNE0FqY1Zb3wMCMrdkwBHq8E2EFjIkwsk+UZfa2DIhI5JvQndGZHTBacRjEidG5sR5T6nRJPrCc5YONhl20NxgV0qv5Y9z3/0vLGmLqeUJS29e5DjRGm+iFf/kf1pV5qk5t1IiNywCrK52nEnRousSmAZ0/klcwft6KclvsTc76ZuToJ7rHj3X/KLeehVtJsq7Mef/CH+PjYegTWFwih4ecASmXciREeJ6Ch6j2qPynOMR1lqhO7Jzlyv2OSI9QZ1LdOpQTrNVTtiP97Wg=;SBXCmEFI9CtkEgeVThw+RQ=="
 ---
