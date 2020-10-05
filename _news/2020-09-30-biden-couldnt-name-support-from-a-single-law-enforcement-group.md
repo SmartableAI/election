@@ -9,8 +9,8 @@ ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enf
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
 type: article
 quality: 85
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Townhall
@@ -32,17 +32,22 @@ images:
     isCached: true
 
 related:
-  - title: "Video surfaces of Joe Biden calling troops 'stupid bastards' during speech to service members"
-    excerpt: "A video surfaced on social media Friday of presidential candidate Joe Biden speaking in front of U.S. service members and appearing to call them “stupid bastards.”"
-    publishedDateTime: 2020-09-25T21:25:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/video-surfaces-of-joe-biden-calling-troops-stupid-bastards-during-speech-to-service-members"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/video-surfaces-of-joe-biden-calling-troops-stupid-bastards-during-speech-to-service-members?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/video-surfaces-of-joe-biden-calling-troops-stupid-bastards-during-speech-to-service-members?_amp=true"
+  - title: "Latino Support Lagging for Biden? We Don't Buy It"
+    excerpt: "Recently, as discussions on race and privilege ripen in the media and in our individual conversations, concepts surrounding the Latino vote have been widely discussed -- and"
+    publishedDateTime: 2020-09-25T11:23:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.amp.html"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 54
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/522248_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "bwSFiVDT25rD33cm53rL5M73SE7itliqy5vmj832q3gftgADW7iQ1dL4KN2+BIyF6yVCDwIjo3yqmJ5BPDORFNwSob0OlbPRcKnPOGtbduu4PJ0shq0u8EBFQmh4fDjNwJjusu0Yjd4LzxJY/GRYiW+DZ+A64U3WN3hJKBf0tKi/RMfX6hAA9+6z+ZVQQcO6wt9ruu6VDm5sv1ny+eI/niRP28tryHCAqclRr3WBhpTjBaW2+UFzRfsyvupuA4rSB7qDBW02/T/PznBlok9FIhGQ/cc4yK1DUhEoq3xzo4o0dYI7ztowiJxSk83yJTrgifpxedKdJht50nsmNO5nXGnLUUUivor8iEpyIvSKunM/Vt+nZhpUMBSGlifG520VEZk3Ib9Q0rqwVTi4CUG7n1suodsbLqmBFLqHtCXclYpnk26MAXFucf2g0yGQxUbWkPIZek5b9yBCKty+LoZRG5wiifFepLE3LIY0XEmg7/3uNjBRQmrUoC2DZQ9NH2AI20bKIPo1TC5gxwfkkZxo4w==;Ju6wj9cnqD5w1vNIVdxSLQ=="
 ---

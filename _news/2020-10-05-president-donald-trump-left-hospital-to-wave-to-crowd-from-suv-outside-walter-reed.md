@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
-    excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
-    publishedDateTime: 2020-10-03T02:31:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
+  - title: "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized"
+    excerpt: "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\""
+    publishedDateTime: 2020-10-05T12:24:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3621055001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg"
-        width: 2500
-        height: 1535
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "KUGg9sI+8JaYEg0FYDwLtdLEH7v3BGt8qH1jWlXiwF0gUb7yZMrq4DiFU1vd4kKwdjoJoDVqpG1of+jc+KYI5GEIB4HJOaykcBGT2BIG1jTwuhItZxTlQDLjQrSnNEUXvwQwdXiaUMDHZK7H+9toibzzvFSRC/flZ2jTScWj61roTqgI0DKoBIsCrbBy6OM9K3ICPpkY0Vrz1HKc9fHs3wwG3bp7S9Nmy80tyrv15NR8K78iZlTkwTnxjrNUi3lQAfIgnvUCIQZ8cSYT25P4Vor4N1qgBPae+K74MKNV+RlE4Pp3SAemDmWZg/SLeIyB+aJFtkW+wGux23K3YOHM+whfiUT6vk+zwX6eTG+wwBnQWnhu5NNeCWwQaegMSmS975y248VdmcMuASOpM+AcCsl5nLt8Pv886K4dPsR5Lh0qAsAHrIic3+38UtHcf6IDK/BwJviC8twcUV+JD9oTBMu8DcmdEwEHT1b2Y7Vr6ivUcVz1ZIvQgaJJeQJJCTlZrvszQKbFsDwK7USRUEvW3g==;Aq4RG3Kk7B+qctfzS+U+mw=="

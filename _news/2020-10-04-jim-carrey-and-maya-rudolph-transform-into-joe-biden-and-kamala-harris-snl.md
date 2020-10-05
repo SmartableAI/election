@@ -926,6 +926,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "How Joe Biden's climate plan compares to the Green New Deal"
+    excerpt: "\"Joe Biden's climate plan isn't everything, but it isn't nothing at all,\" one leading climate activist told CBS News."
+    publishedDateTime: 2020-10-05T11:54:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-green-new-deal-climate-change/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-green-new-deal-climate-change/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-green-new-deal-climate-change/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/02/eb2914a4-3fd8-404f-9574-886728b8c4f7/thumbnail/1200x630g3/43f7b2bae2c5f2fe2f28290ace9d2b3d/gettyimages-1144793556.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden again tests negative for COVID-19"
     excerpt: "Former Vice President Joe Biden's campaign said the Democratic candidate underwent testing on Sunday."
     publishedDateTime: 2020-10-05T00:08:00Z

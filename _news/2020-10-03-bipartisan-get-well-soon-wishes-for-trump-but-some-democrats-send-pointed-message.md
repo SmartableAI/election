@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's latest political theatrics described as 'insanity'"
+    excerpt: "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras."
+    publishedDateTime: 2020-10-05T12:56:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_40/3417409/201004-trump-drive-walter-reed-rd-541p_236d25083945c388acde5b25f325446f.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LpWYLtefSo5lh2p463x22AkzkG66X68Wt5xtB2Mjs4GDBq0ksOo4336W+VzyNYPJQzPGPR+Y4nva/sjbZjYsipqNQS9oUL46UbOIK2lzD5dnu/iqn9lpBq7cjC0Zopzg1KQ7tQfbjtK3CPrPihcr50VvB3KeYGzTmbBBBwyGH8zSijKurtnpHoy4RQAxbRxD8oC9xWrcpYXFhuwGIiUSiUqlsIX7y8YuDChAvNIkBVR3J8fkNQtf7qHhgGsGlZzTQzgdIvw1AnnejV1Bcg5kW9NR6VQMXngldKHihkfOvLFzIs095u6Ia3HYzSDNGvQi6+tPj5DqJ1az+RX9TERW3CasyBvN+CT/iV6nL2hQ9OY=;sb0voxIEHMFIbmrmfOjDkQ=="
 ---

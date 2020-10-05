@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Explainer: How Mike Pence could temporarily assume control if Trump becomes incapacitated"
-excerpt: "U.S. Vice President Mike Pence speaks, with White House Counsel Pat Cipollone and White House Chief of Staff Mark Meadows behind him, during a meeting with Judge Amy Coney Barrett, U.S. President Dona"
-publishedDateTime: 2020-10-02T13:24:00Z
-originalUrl: "https://www.reuters.com/news/picture/explainer-how-mike-pence-could-temporari-idUSKBN26N198"
-webUrl: "https://www.reuters.com/news/picture/explainer-how-mike-pence-could-temporari-idUSKBN26N198"
+title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
+excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
+publishedDateTime: 2020-10-02T15:23:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/explainer-how-mike-pence-could-temporarily-assume-control-if-trump-becomes-incapacitated?context=amp"
 type: article
-quality: 111
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535823594&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG910RL"
-    width: 810
-    height: 540
-    isCached: true
 
 related:
   - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
@@ -569,9 +565,9 @@ related:
   - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
     excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
     publishedDateTime: 2020-10-03T07:05:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-pence/no-quarantine-for-u-s-vice-president-pence-whose-covid-19-test-was-negative-next-in-line-to-trump-idUSKBN26N226"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N226"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N226"
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-pence/update-4-no-quarantine-for-u-s-vice-president-pence-whose-covid-19-test-was-negative-next-in-line-to-trump-idUSL1N2GT0VB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2BS"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2BS"
     type: article
     provider:
       name: Reuters
@@ -1090,6 +1086,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 103
+  - title: "UPDATE 1-Doctors to weigh if Trump can leave hospital on Monday -Trump aide"
+    excerpt: "U.S. President Donald Trump's medical team will weigh whether he can leave the hospital later on Monday after being admitted last week for COVID-19, White House chief of staff Mark Meadows said, adding that he was optimistic Trump will be discharged."
+    publishedDateTime: 2020-10-05T13:35:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-condition-idUSL1N2GW0FF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GW0FF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GW0FF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
   - title: "Faith, state leaders hold Biden-Harris counter rally during Vice President Pence visit to Atlanta"
     excerpt: "It happened only about five minutes away from the Cobb Galleria, where Pence held a campaign luncheon and speaking event."
     publishedDateTime: 2020-10-01T01:02:00Z
@@ -1151,6 +1158,22 @@ related:
     quality: 100
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Pence, Harris prep for debate with higher stakes"
+    excerpt: "NBC NEWS – Vice President Mike Pence and Senator Kamala Harris are expected to face off in a debate on Wednesday night against an extraordinary backdrop that has raised the stakes of the event."
+    publishedDateTime: 2020-10-05T13:43:00Z
+    webUrl: "https://nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/"
+    ampWebUrl: "https://nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/amp/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/amp/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 100
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2020/10/kamala-and-pence.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -2169,6 +2192,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "sdyk9Qao0SCLVuxRixdselKliX1zhJ4kEDogpDq3N3oKgVMqryvATXrwhZP9F85YOXXdFn57flGqGIb7WPZMNd0k/QP7HLrfi/vSXhRGeaPAqfGiZwoVmS8axSBsLhjC0O0UAYBqFw2UvY87xbwVm40yUatkmWGY8/6VdPPGmqeGnj04Lth6JRNiom1vj79sBXc6lv/QaoRj9V4CAgLP4oBwAs6V0sa+b258KgGRuqw/C7QT+Dh8WECiSb/OYzCSzUX4PDrJaTw5WEZcsGcPnWnHiiGAykxIbzdh92Yibqko187xZ26imBcjDZAaEY3C8TgN1aD01f3X5v+ewdGaSnuhnlO/Kx9IVV/x473DK0GLbccNUtNT+7AkVVVCisRWLFp/jwGu3JDJe6p3gfsbx80vyrp3uTrkn0DuXRdI/F7EbMTY00FHLQDWTGOlQFebpWwYiqptIVGBCMbo3Ri3NjCyGQVLInwebpWyrszcVQcDFESSVIag66wk33syCv24iSJMnswciPD0UGYkA66Usg==;h5pfX2JSFCxi/hXeTJOGwA=="
+secured: "mo49CH4B7HiDNoCA+v5nrREx3+V4uzbi92QVoFrg4D7ZRmP+A0q603b8Wl2jL/v8FOqTOA2GjCxwbHdIg9B+ppiJsJLJHLwGfpEEvAB+Wk5BUczkzC/9pEr8REwivX6UJ2mjGdcJzRidwMBKItd8decI5H3X0LvL4w65NEs7AZqAIdv0fhXI9S1fkhVKSnp9v3VzGLky+FZsSnJ5ZPJPJMGW+JZcd5/ByGf2VKO8PrhykuSpN9eq3VsV+VGo8GRxbC+6Oux2XPPyCAmu871Erf82yvDVktL76bdQs8C8V8QQZNQh8yUpE0joj4qaRFOGrOKRNu5VTAYyXiOQrYpD5k23q4Kqb2cd1MhYy9ReBv6jOLYbxa4VKyoTw6D+qhFkY34o7+oGDT3P5heg0of8w3gRKoI2DC9/WSXtn4qflGA5uxqxf9OPV1U9CWY86pMLxHhhE8ols3v7E38ujrhUkaglAWF66jq/EAEZBnOWbSI2xEqrvOScGct/UCC/41GGVAitQNVV0pJsfhZ6g/k2XQ==;o0MP7DgwkibV098SGdGKyw=="
 ---
 

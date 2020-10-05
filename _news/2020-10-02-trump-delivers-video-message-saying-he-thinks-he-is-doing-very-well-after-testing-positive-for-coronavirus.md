@@ -383,6 +383,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Trump’s tweets during coronavirus battle show he’s back to his routine"
+    excerpt: "Trump tweeted about 20 times on Monday morning, mostly encouraging his supporters to vote."
+    publishedDateTime: 2020-10-05T12:28:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R6P5URVX68A/trump-twitter-coronavirus-walter-reed"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-twitter-coronavirus-walter-reed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-twitter-coronavirus-walter-reed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20278803698080.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "After Trump COVID diagnosis, Pentagon says alert levels remain unchanged"
     excerpt: "The U.S. military's command and control structure is 'in no way' affected by the news, DoD says."
     publishedDateTime: 2020-10-02T20:26:16Z
@@ -892,6 +908,22 @@ related:
     quality: 158
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Meadows 'optimistic' Trump will leave Walter Reed, return to White House Monday after coronavirus treatment"
+    excerpt: "White House Chief of Staff Mark Meadows said the administration is “optimistic” President Trump will be able to return to the White House on Monday after spending several days at Walter Reed National Military Medical Center being treated for coronavirus, saying Trump's health improved overnight and the"
+    publishedDateTime: 2020-10-05T12:08:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FHdaiLgbZI4/trump-walter-reed-optimistic-return-white-house-mark-meadows"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-walter-reed-optimistic-return-white-house-mark-meadows.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-walter-reed-optimistic-return-white-house-mark-meadows.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

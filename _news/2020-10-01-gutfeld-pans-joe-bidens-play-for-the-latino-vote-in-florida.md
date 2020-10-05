@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/transcript/gutfeld-pans-joe-bidens-play-for-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/gutfeld-pans-joe-bidens-play-for-the-latino-vote-in-florida.amp"
 type: article
 quality: 135
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Latino Support Lagging for Biden? We Don't Buy It"
-    excerpt: "Recently, as discussions on race and privilege ripen in the media and in our individual conversations, concepts surrounding the Latino vote have been widely discussed -- and"
-    publishedDateTime: 2020-09-25T11:23:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/09/25/latino_support_lagging_for_biden_we_dont_buy_it.amp.html"
+  - title: "Biden visits Miami's Little Havana, Haiti ahead of national town hall from key swing state of Florida"
+    excerpt: "Democratic presidential candidate Joe Biden is expected to visit Miami’s Little Havana and Little Haiti ahead of a televised town hall Monday, as the former vice president returns to the critical swing state of Florida in the final homestretch of his election campaign."
+    publishedDateTime: 2020-10-05T13:12:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N0-nubYj1og/biden-miami-town-hall-little-havana-haiti"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-miami-town-hall-little-havana-haiti.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-miami-town-hall-little-havana-haiti.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
     images:
-      - url: "https://assets.realclear.com/images/52/522248_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "XHiiX78xfHYehriaPH6EQHq8zZOtyXMKIF9C484uhe0QXg97Agd/2jdlGB2yK3E7Ws8w5uh6hRF/+pczE9KXWdiQuQXYr2efZ0R56ZKE4M40otZMWhSrqwb4M7TQrNi8engzeZZR5fjTUJma9Zdrb5YT8YwQhRjohcjXCwzmQ3wLpqIv+Cm1+CQyb2f1tvjZMBIdTXv/VXTak1dyswOKyOYLeFL0dyFva/U0NuOAO3TI1r0Sm8DEfWzL/sPqDzPw3RIocucgLaBrgIwrwvBIeny7QZAdm0Le/jw+UQuHo2vBB8QlMAgYPfLk1SqjgvjUlawO75YqUt5LOjO3WThLIASzTTQr/QGFqrrYUxIFpQlzacv6/cUcA43k6/chGFzVXJ5d1zQm5YjmHkQsdmWNCob9ULs/yzbYAypkxeUM9nPwQjUdOzIpa4l27YJA7+yvYPO+7GV5op25VaofN+HcA5n2SVjGH73SLE6mxfR1+4Dk02hIBtbFW0pvpy91PWWRHSuUmEIRWdOOXie6UVZOiw==;wEg+gL0Wn09YyooMy/LMXQ=="

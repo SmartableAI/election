@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416929/201002-trump-covid-mc-12384_203f8fcf21e8fa4132ee87a76159b3c4.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump's latest political theatrics described as 'insanity'"
+    excerpt: "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras."
+    publishedDateTime: 2020-10-05T12:56:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_40/3417409/201004-trump-drive-walter-reed-rd-541p_236d25083945c388acde5b25f325446f.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "r+0UOdDD95Dl8V0Tu8j7SZ1biVhR0UArYegfohVLjorGtUBUDeTIxrnEjFJFkcT8LLYK/fk65+UbVVd6nGwX0ipjw3mTdULlIhEpc5+dVxylStqBQ8PopLLoPI/mS0eoENX1WwxD8wyisX82kLRGlDDgVJgEeZihHhiDfc31N5mwP0I0XNuCFFcyjxAbOwC48diozBH/jReEuOGQujKWfxDko+pfLaZOqLWXqV5v58mxafC0Crh+s7x5e3DwOWh+bwzF7IXWdkuo0iAHcs29dtcQGCjX+R1ybvidXAExZGJbxOCQvjApLV8j2tgar8ZRP/lPrp+IALQyBIqP3KPoe7x/A8lE+5du5vN7TyTE3Ns=;bWh2IFCAtEOdJ95JUE9XrA=="
