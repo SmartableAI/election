@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/b4ae6462-AP20070377919994.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump receives 'around the world' national security briefing by phone due to COVID diagnosis"
+    excerpt: "President Trump received an \"around the world\" national security briefing on a secure line Sunday afternoon."
+    publishedDateTime: 2020-10-05T00:13:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XDGz2TmwHWE/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Ron Johnson's 'Big Idea': Don't stop investigating Trump-Russia probe 'until we have uncovered the truth'"
     excerpt: "The Big Idea is a series that asks top lawmakers and figures to discuss their moonshot – what’s the one proposal, if politics and polls and even price tag were not an issue, they’d implement to change the country for the better? "

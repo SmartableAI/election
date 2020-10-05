@@ -191,16 +191,30 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 97
-  - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
-    excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
-    publishedDateTime: 2020-10-04T19:23:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/3608558001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3608558001"
+  - title: "Doctors Say President Donald Trump Suffered Two Bouts of Low Oxygen, But Could Leave Hospital Monday"
+    excerpt: "White House physician Sean Conley continued to avoid directly answering a few crucial questions about Trump's health"
+    publishedDateTime: 2020-10-05T03:13:00Z
+    webUrl: "https://time.com/5896203/trump-covid-19-physician-white-house-briefing-oxygen-dexamethasone/"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Time
+      domain: time.com
+    quality: 90
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/Conley-trump.jpg"
+        width: 5568
+        height: 3712
+        isCached: true
+  - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
+    excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
+    publishedDateTime: 2020-10-04T23:01:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3608558001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3608558001"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 79
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"

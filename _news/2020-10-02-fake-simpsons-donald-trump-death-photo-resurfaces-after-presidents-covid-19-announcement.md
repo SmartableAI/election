@@ -111,6 +111,22 @@ related:
         width: 980
         height: 552
         isCached: true
+  - title: "Biden again tests negative for COVID-19"
+    excerpt: "Democratic nominee Joe Biden tested negative for COVID-19 on Sunday, his campaign said. Biden was administered a PCR test for the virus, his campaign said, and COVID-19 was not detected. It marked the second time Biden has tested negative since President Trump revealed early Friday morning that he had the virus."
+    publishedDateTime: 2020-10-04T23:40:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_093020upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
     publishedDateTime: 2020-10-02T08:44:00Z
@@ -867,6 +883,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
+    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
+    publishedDateTime: 2020-10-04T23:11:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892840002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
     excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
     publishedDateTime: 2020-10-02T12:42:00Z
@@ -931,6 +963,22 @@ related:
         width: 800
         height: 412
         isCached: true
+  - title: "‘Don’t tell anyone’: Trump tried to hide positive COVID-19 tests spreading through the White House"
+    excerpt: "The Wall Street Journal reported Sunday that President Donald Trump tried to hide that he first tested positive for COVID-19 when he waited for a second test on Thursday. According to the report, Trump attempted to hide his first rapid test that gave him a positive test result."
+    publishedDateTime: 2020-10-04T23:48:00Z
+    webUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Donald Trump COVID Update: Dr. Sean Conley 'Coy And Evasive’ During Conference On President’s Health"
     excerpt: "His update outside Walter Reed Medical Center was supposed to provide more answers about President Donald Trump’s current status following his COVID-19 diagnosis and hospitalization, but Dr. Sean Conley appeared to leave the American public with more questions instead after speaking with reporters."
     publishedDateTime: 2020-10-03T17:49:00Z
@@ -988,6 +1036,38 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Raw Story‘Mission Accomplished’: Trump ridiculed for premature commemorative coin celebrating him taking out COVID-19"
+    excerpt: "The coronavirus is still raging across the United States, particularly in the White House, but that doesn’t mean that President Donald Trump isn’t ready for a “Mission Accomplished” moment. Like George W."
+    publishedDateTime: 2020-10-05T00:44:00Z
+    webUrl: "https://www.rawstory.com/2020/10/mission-accomplished-trump-ridiculed-for-premature-commemorative-coin-celebrating-him-taking-out-19/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/mission-accomplished-trump-ridiculed-for-premature-commemorative-coin-celebrating-him-taking-out-19/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/mission-accomplished-trump-ridiculed-for-premature-commemorative-coin-celebrating-him-taking-out-19/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 52
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-7.png"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Days After Trump Diagnosed With Covid, White House Staff Finally Given Instructions: ‘Do Not Come To Work’ If You Have Symptoms"
+    excerpt: "Days after the news broke that President Donald Trump had Covid-19, the White House Management Office finally sent out a message to the staff with instructions."
+    publishedDateTime: 2020-10-05T02:05:00Z
+    webUrl: "https://www.mediaite.com/donald-trump/days-after-trump-diagnosed-with-covid-white-house-staff-finally-given-instructions-do-not-come-to-work-if-you-have-symptoms/"
+    ampWebUrl: "https://www.mediaite.com/donald-trump/days-after-trump-diagnosed-with-covid-white-house-staff-finally-given-instructions-do-not-come-to-work-if-you-have-symptoms/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/days-after-trump-diagnosed-with-covid-white-house-staff-finally-given-instructions-do-not-come-to-work-if-you-have-symptoms/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 47
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "eLmUN0KbYbjDc2AVOt4tYpELhul+fite4Ky4/nF5awRZCGjfdEMiz7bWg95Z9UJXrPhGTbPmwUYo16HiFArVA/QlFQBITF4JEZQMEEhwGdOctwyVbouncE8nIGfL6OCaBRBCG5VTWK8nJSDkq98ldmtP9nT9rXfrbs6xzc2aDHVR5v4XOoNsTjko4nmreFg6XGoXced/MFmuoujyDQ7MT0fw3gilaRNl7obzgLNvCfXM0bhm47SrdMO/2Fi68yLe7jXe4nfzh+iouD8KSxZqly9jECeLacorEeA0T7/w76n/Ivh4mEC0TLXUJ/fkheuGEJ91ZdKxgM74cF8o1SEIeTv0nRD73m2ofODXEsXxEMXMdx0cVevTgpx40tZ2MKMd/YeERlpTAyNXhASgqjAraE7K+CPZ1q+CjnzKKSHUAhXWYI+zHfbZw3T/7cQSAXtBwa3znNSaJ5jqm9sCPmlFfXTK6L/tr0RhgQPha4QlO/ZbdmM94t7sDVuWwp6VCtfQwiA9RNSU7UkI57syizsSng==;r63m7uIZF1ssM47QtTWepA=="
 ---

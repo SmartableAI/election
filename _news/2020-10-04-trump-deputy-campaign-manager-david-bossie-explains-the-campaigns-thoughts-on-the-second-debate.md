@@ -1221,6 +1221,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kanye West wishes Donald Trump and first lady well after their positive coronavirus diagnosis"
+    excerpt: "Kanye West is a compassionate competitor. The 43-year-old rapper took time on Saturday to send well wishes to President Donald Trump and his wife, first lady Melania Trump, following their positive coronavirus diagnosis."
+    publishedDateTime: 2020-10-04T12:48:00Z
+    webUrl: "https://www.foxnews.com/entertainment/kanye-west-donald-trump-first-lady-positive-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/entertainment/kanye-west-donald-trump-first-lady-positive-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/kanye-west-donald-trump-first-lady-positive-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d0c80c88-f331-49d4-8a51-bfc010b41b2c/a3366c71-eb6c-4a73-af03-d7ecd6e4c05c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign hosts 'Call to Prayer' for President Trump and first lady amid their coronavirus diagnoses"
     excerpt: "President Trump’s campaign team held a “call to prayer” for President Donald Trump outside the White House on Sunday as the president and First Lady Melania Trump are being treated for COVID-19."
     publishedDateTime: 2020-10-04T21:17:00Z

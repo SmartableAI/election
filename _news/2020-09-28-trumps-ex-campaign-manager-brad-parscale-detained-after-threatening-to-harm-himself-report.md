@@ -95,20 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "GOP frustration mounts as Trump doggedly defends debate, blames media"
-    excerpt: "Such GOP stalwart allies as Mitch McConnell and Lindsey Graham are distancing themselves, with the majority leader (without naming Trump) calling it “unacceptable not to condemn white supremacists,” and “I do so in the strongest possible way."
-    publishedDateTime: 2020-10-02T07:09:00Z
-    webUrl: "https://www.foxnews.com/media/gop-frustration-mounts-as-trump-doggedly-defends-debate-blames-media"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/576d770a-696a-426b-a2de-fc39c21ad669/b8359fd3-5cda-44aa-91e5-633c77dd35ee/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "YGbCo3y/r1WRAXjJkAt8I6lIcfG8H/Z0tonNs+Ihhe81C7UryXusQZFWQ7O5Q+Z3bPJDF03EL+db0V6iyxlBq+/ObXoBVHAnAPn7cVnqsa0BLtm5qWjRLOcBtQLpaUSJyrVbeqXf67a26x1YYXfdHZkLxhyCZcT68xb+3J89EjEz6QIIj9l4aUiAmBdQP/6Sb9J5tbE/MPvG8Iy5Cht6hRawVoNx54goMK4hB9EyF/WZj2lwdpdp3wZepijROx+fKXWpV/EK47UPLuiusCrISEFXXYg9XyWuJMaAJZiOJ55gk/lAUD0SFfxM2YV6ECdcwREFLRyzsIAfEa/xSdtrmGG9jnLhmN2KppAcyEYum8Y=;SnExhJi4g18NkEvNEn/VMA=="
 ---

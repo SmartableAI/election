@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden tests negative for COVID-19, campaign says"
+    excerpt: "Joe Biden’s campaign says the Democratic presidential nominee tested negative for coronavirus Sunday. The results come five days after Biden spent more than 90 minutes on the debate stage with President Donald Trump."
+    publishedDateTime: 2020-10-04T23:53:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_1Du1qOnOZwbyj80OVwdjArXzeQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPYUJKXZFTSF7M2SXL4AX7ON74.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump, Biden continue sniping during Midwest campaigning: ‘He will destroy our Country!' vs. ‘a national embarrassment’"
     excerpt: "Donald Trump and Joe Biden continued their debate-stage clash from afar on Wednesday as they competed for working-class voters in the Midwest."
     publishedDateTime: 2020-10-01T02:09:00Z
@@ -146,22 +162,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 81
-  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
-    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
-    publishedDateTime: 2020-09-27T09:19:00Z
-    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
-    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 75
-    images:
-      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
-        width: 1200
-        height: 864
-        isCached: true
   - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
     excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
     publishedDateTime: 2020-10-01T23:22:00Z

@@ -48,6 +48,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
+    excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
+    publishedDateTime: 2020-09-22T17:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
 
 secured: "KSQlaH0zSkLtMISxUBkp+FJkDY3Eg4dSjh1SGmzKfccW2MXsHGiItnA3mRo9yqoHtVQ2/EpI31+diy/Usgw/Q3mpylVRXFb7SMu2EyAdlFk/32W1AahdBkWDF8oa6vHQN8V+bzkmgzz4QIPG2YSxzFGKFmrwS/JwdUHmhJL1qjFxqINV+ad+PF8ZESoOD464rSnkaPQjWw0VkPX0fx58PBYpb5ZyWzstNLNibcwxboJaowA1cGR+JcQCcumJTFyj0ACz86zvUMRsGRfA45+DyAQ9dbL+BSn9xQhrKK/29EQW/O9ff1sNL9GHHrc+WWP4/b23jm5V7v+DBWKLN6YaZ8mU3FuzgzndVxLaa8lJQ6NVX2D7i5sM+HsYK20EXdN4+8rOEVxm7NNUa83ZWFcrQKcZqTZft0VA8fuDxAqZw4U6wfAucTH9XHH9AZlC/O/C8SASnvlYBU3RKSuO92gI3orYsoIRvKAdb36ct0RZdkxN5CcY8G/tALDvI37b7hFkzvDrmJBRWtftqKPIQg9d2A==;qm7SwtHEettMGk12PM4aKg=="
 ---

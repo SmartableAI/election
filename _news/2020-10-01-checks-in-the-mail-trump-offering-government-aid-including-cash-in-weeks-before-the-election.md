@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
 type: article
 quality: 127
-heat: 967
+heat: 1007
 published: true
 
 provider:
@@ -271,6 +271,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Stocks rise as signs of Trump's improving health calm markets"
+    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
+    publishedDateTime: 2020-10-05T02:19:00Z
+    webUrl: "https://www.reuters.com/article/global-markets-int/stocks-rise-as-signs-of-trumps-improving-health-calm-markets-idUSKBN26Q05T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q03N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q03N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536153882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9401R"
+        width: 753
+        height: 545
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z
@@ -338,6 +354,22 @@ related:
   - title: "Trump, 14 others positive for COVID: A running list of those being tested and their results"
     excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
     publishedDateTime: 2020-10-04T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump, 15 others positive for COVID: A running list of those being tested and their results"
+    excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
+    publishedDateTime: 2020-10-05T03:15:00Z
     webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
     ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"

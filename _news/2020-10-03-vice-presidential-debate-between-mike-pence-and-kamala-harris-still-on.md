@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
-publishedDateTime: 2020-10-03T00:08:00Z
-originalUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
-webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
+excerpt: "The Oct. 7 vice presidential debate between Republican Vice President Mike Pence and Democratic U.S. Senator Kamala Harris will go ahead despite President Donald Trump's testing positive for the coronavirus,"
+publishedDateTime: 2020-10-02T19:35:00Z
+originalUrl: "https://www.reuters.com/article/idUSKBN26N38L"
+webUrl: "https://www.reuters.com/article/idUSKBN26N38L"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38L"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38L"
 type: article
 quality: 130
 heat: -1
@@ -20,14 +22,8 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
   - Mike Pence
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
-    width: 810
-    height: 285
-    isCached: true
+  - Kamala Harris
 
 related:
   - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
@@ -235,6 +231,22 @@ related:
     quality: 140
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70c41c2e45f65630144241%2F0x0.jpg%3FcropX1%3D357%26cropX2%3D4104%26cropY1%3D412%26cropY2%3D2520"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Here are the recent times Trump, his kids and Pence have been in Arizona"
+    excerpt: "In the weeks ahead of President Donald Trump's COVID-19 diagnosis, Trump, VP Mike Pence and members of their families made several stops in Arizona."
+    publishedDateTime: 2020-10-04T21:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/arizona/2020/10/03/timeline-trump-his-kids-pence-have-recently-visited-arizona/3612410001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3612410001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3612410001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 139
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/PPHX/8091c353-8ac3-444f-a247-c68ebb7a8e4d-DW1_3466.JPG?auto=webp&crop=3507,1973,x0,y157&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -762,6 +774,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence's role in the Trump administration"
+    excerpt: "Mike Pence's role in the Trump administration has been forced more into the spotlight with the president's illness from coronavirus. Here's a look back at Pence's career."
+    publishedDateTime: 2020-10-04T11:55:00Z
+    webUrl: "https://www.usatoday.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e3bab1f8-81e3-4fd2-b844-0f0af5276b68_poster.jpg?quality=10"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "China had mocked Trump for not taking the pandemic seriously. Now it's very personal."
     excerpt: "China is riveted by news of Trump’s positive coronavirus test, even as senior officials remain reserved in their public comments."
     publishedDateTime: 2020-10-03T13:34:00Z
@@ -1006,6 +1032,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/09/28/story_07027324_1601319784.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "US President Donald Trump leaves hospital by car"
+    excerpt: "President Donald Trump briefly left the hospital Sunday in his car to wave to supporters gathered outside. Earlier in the day, Trump's doctor said he \"continued to improve.\" (Oct. 4)"
+    publishedDateTime: 2020-10-04T23:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/04/us-president-donald-trump-leaves-hospital-car/3619782001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/87e0cb82-c9eb-4f5e-9fce-e85ac4be9bf8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
     excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
@@ -1500,14 +1540,14 @@ related:
         isCached: true
   - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
     excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
-    publishedDateTime: 2020-10-04T21:41:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
-    ampWebUrl: "https://amp.freep.com/amp/3615907001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3615907001"
+    publishedDateTime: 2020-10-04T23:00:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3615907001"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 80
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
@@ -1673,6 +1713,22 @@ related:
       - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601835602_c78f4d7725bf01ada66dda7b037cc311.jpg/7bac4c72765958e3770472613f1ce7c4/1601835602_35a963e82449ae5c9c997e817819d6d0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Scoop: Inside Kamala Harris' new strategy for the VP debate"
+    excerpt: "Kamala Harris waves during an event at the University of Nevada, Las Vegas, Oct. 2. Photo: Ethan Miller/ President Trump’s hospitalization has changed the game plan for Sen. Kamala Harris for Wednesday's debate."
+    publishedDateTime: 2020-10-04T21:55:00Z
+    webUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html?ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html?ref=upstract.com&curator=upstract.com"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html?ref=upstract.com&curator=upstract.com"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 75
+    images:
+      - url: "https://images.axios.com/BzhhevCANjFvRDPxSiQwbeCSBDE=/fit-in/1366x1366/2020/10/04/1601842365580.jpg"
+        width: 1366
+        height: 768
         isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
@@ -1844,19 +1900,21 @@ related:
         width: 1140
         height: 712
         isCached: true
-  - title: "Mike Pence's role in the Trump administration"
-    excerpt: "Mike Pence's role in the Trump administration has been forced more into the spotlight with the president's illness from coronavirus. Here's a look back at Pence's career."
-    publishedDateTime: 2020-10-04T13:19:00Z
-    webUrl: "https://www.cincinnati.com/videos/news/2020/10/03/mike-pences-role-trump-administration-coronavirus/3613429001/"
+  - title: "Maya Rudolph Nails Her Return to SNL as Kamala Harris — Down to the Converse Sneakers"
+    excerpt: "Maya Rudolph is stepping into Sen. Kamala Harris's shoes once again for Saturday Night Live. Maya, a former SNL cast member, made her return to 30 Rockefeller Plaza on Oct. 3 to reprise her role as the Democratic vice presidential nominee. Naturally ..."
+    publishedDateTime: 2020-10-04T19:50:00Z
+    webUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505"
+    ampWebUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 70
+      name: PopSugar
+      domain: popsugar.com
+    quality: 68
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e3bab1f8-81e3-4fd2-b844-0f0af5276b68_poster.jpg?quality=10"
-        width: 1280
-        height: 720
+      - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Mike Pence comments on President Trump’s positive coronavirus test"
     excerpt: "(NEXSTAR) – Vice President Mike Pence tweeted a brief statement in response to the news late Thursday that President Donald Trump and First Lady Melania Trump have tested positive for the ..."
@@ -2065,6 +2123,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "1QEuWmTtKZAYYhkOjIkSksu12HZw28c/QIdaEskm5urI4FsbwyQuXatKucHM/2Q+IYiFdmwOPrtoyE4ItfP+J9X9oyGfQgPaJdsKTtSjRe/DP7vZ1zFD61UieEjAGb9E2GdSlGlZKp8BPmNaxPzvWEybJYdbB1kc2hmtPhpBwDKDULqjerBQgFj4IZtCpFbS1FPIf7U0Me9v9GADTyIIzrsd0/Q6d2uYXTSGpM/f8vwOEV3hHI+atEsrUWzW8zjn4gjLAe7aLrnmY7K7F1XAXa7TQhFcsMV7sQVKIb/+bWH4FtFX0ZOwQt/OFUoJyi/4aw04ZjWf/R4JHiqGes13Kwh8jKbCeD86v1p9LR/J9ZD1A722MyuFH8Icwmx1iPWs2YniKf8H4EMV4XtTewyIcvKn80yg55/Z49YCLVe9XP5Eea8bod+DROd8itaNcMUem9daLilbi+/pFkGvk0dnNElaRRhDFG0sNAuHOi1zBAVahBXwddJf+v9zsfbYGheNV2+Ae6KVkSK+3p0y0gdyLw==;SerX8jCKgaHeNvZk4JFoxQ=="
+secured: "SXiZG9CeX23D+xDDDrgUrKCXiKaa/O1DCsFIM2eDLrS3hSBrpvYwgPBu4WntX/flMq9lKc2LtqM5yx9TU9ULVyGm1n+FIlTLGRSlrQtXBu2+jJBSP8u/qR/mnaSy6a5pp1K95TFtcp5UpyJWy6Tdv9FXbtktvZLLOvt5OnPEbOm8h87voZuR0iO8NdOHRb5pTeTiyq+u7S4fYrBCnSgW53hOLUQlbjzNr3QHVPwme3vWdN3gP4/E7Qnl10fMMtWpnVnTmg25rIA1s1nvORgtfZ8d/zJh5H40BM66F95K0c8SzOGi9G4oOo1VoKpFdupGjph8fUfqydxQKxfafrO+cyda73tPzJz4MKl6DU9gMwFodOvGS7IuGopbvTxaoAS+ybBCEXhK8EPx/2ZgF/QWptRsm+J7/fJEXmzmJXbJ4bemcw55FyRwNa7/Zpsb7nrLeVkv1xXuBWIoTQp/+OUMXUM2m3Bb58ZQC+V0MPECmvSM1ZzpBo63HAx0Ta/i7SinTxljHWEWm2oUGULP+nIJUA==;EJ2Pq+fxFkQ1Fbn21/uHBA=="
 ---
 

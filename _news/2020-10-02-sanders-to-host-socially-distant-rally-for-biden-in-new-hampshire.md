@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden’s ObamaCare Tax Avoidance"
-    excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
-    publishedDateTime: 2020-09-30T22:53:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+  - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
+    excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
+    publishedDateTime: 2020-10-01T21:02:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p04scLuASzo/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
     images:
-      - url: "https://images.wsj.net/im-238687/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters"
     excerpt: "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church"

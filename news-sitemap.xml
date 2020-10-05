@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.reuters.com/article/health-coronavirus-trump-germany-idUSL8N2GV0XI</loc>
-    <lastmod>2020-10-04T14:47:00-07:00</lastmod>
+    <loc>https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009</loc>
+    <lastmod>2020-10-04T18:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html</loc>
+    <lastmod>2020-10-04T16:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden</loc>
+    <lastmod>2020-10-04T16:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ZLph9B1wAb8/biden-jumps-to-14-point-lead-nationally-after-debate-poll</loc>
+    <lastmod>2020-10-04T15:21:29-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10</loc>
+    <lastmod>2020-10-04T15:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/uk-health-coronavirus-trump-germany-idUSKBN26P0ZQ</loc>
+    <lastmod>2020-10-04T15:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -85,12 +115,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/ZBgh1JRF738/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit</loc>
-    <lastmod>2020-10-03T15:45:56-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BSVNSqZwsnk/trump-campaign-pence-coronavirus</loc>
     <lastmod>2020-10-03T14:46:48-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -117,6 +141,12 @@
   <url>
     <loc>https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980</loc>
     <lastmod>2020-10-03T12:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/G0crzoDI7mw/ilhan-omar-shames-biden-for-pulling-negative-campaign-ads-get-it-together</loc>
+    <lastmod>2020-10-03T12:12:15-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -213,6 +243,12 @@
   <url>
     <loc>https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html</loc>
     <lastmod>2020-10-02T14:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BWj9oPPI9_I/biden-faith-ads-cardinal-not-a-catholic-in-good-standing</loc>
+    <lastmod>2020-10-02T14:17:03-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -343,6 +379,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html</loc>
+    <lastmod>2020-10-01T16:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hhvzj_wxJYE/index.html</loc>
     <lastmod>2020-10-01T15:26:09-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -361,20 +403,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/lyER4odGVfE/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment</loc>
-    <lastmod>2020-10-01T13:53:58-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee</loc>
     <lastmod>2020-10-01T12:51:58-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement</loc>
-    <lastmod>2020-10-01T12:04:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -411,12 +441,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz</loc>
     <lastmod>2020-10-01T10:22:46-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nbcnews.com/msnbc/rachel-maddow-show/mcmaster-sees-trump-aiding-abetting-russia-s-election-efforts-ncna1241719</loc>
-    <lastmod>2020-10-01T10:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -553,18 +577,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence</loc>
-    <lastmod>2020-09-30T11:16:31-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework</loc>
-    <lastmod>2020-09-30T10:46:40-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/lBR_0knqAXw/former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-affair-with-trump-regrets-not-coming-forward-sooner</loc>
     <lastmod>2020-09-30T10:31:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -573,6 +585,12 @@
   <url>
     <loc>https://www.nbcnews.com/msnbc/rachel-maddow-show/why-did-trump-s-intel-chief-launch-dubious-pre-debate-ncna1241578</loc>
     <lastmod>2020-09-30T10:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/0ntitUMG3Uk/biden-antifa-idea-what-we-know</loc>
+    <lastmod>2020-09-30T10:03:59-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -601,12 +619,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs</loc>
-    <lastmod>2020-09-30T06:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration</loc>
     <lastmod>2020-09-30T06:30:20-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -619,6 +631,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188</loc>
+    <lastmod>2020-09-30T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/</loc>
     <lastmod>2020-09-30T04:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -627,12 +645,6 @@
   <url>
     <loc>https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/</loc>
     <lastmod>2020-09-30T04:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement</loc>
-    <lastmod>2020-09-30T01:27:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -709,12 +721,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/YVKfLbtwOYQ/biden-campaign-voters-ignore-gaffes-debate</loc>
-    <lastmod>2020-09-29T15:16:58-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/BvgpGE0CQOo/jewish-democrats-trumps-america-nazi-germany</loc>
     <lastmod>2020-09-29T14:05:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -753,12 +759,6 @@
   <url>
     <loc>https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html</loc>
     <lastmod>2020-09-29T09:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.palmbeachpost.com/story/tech/2020/09/28/qanon-pedophile-claims-biden-trump-save-the-children-facebook-instagram/3522626001/</loc>
-    <lastmod>2020-09-29T08:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -873,12 +873,6 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html</loc>
     <lastmod>2020-09-28T10:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing</loc>
-    <lastmod>2020-09-28T10:20:04-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

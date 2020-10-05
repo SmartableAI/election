@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-perform
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
 type: article
 quality: 133
-heat: 393
+heat: 413
 published: true
 
 provider:
@@ -171,6 +171,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Donald Trump Jr. Among Names Floated for Open Pennsylvania Senate Seat [REPORT]"
+    excerpt: "Media reports are conflicting about whether or not Donald Trump Jr.'s name is being considered for a 2022 Pennsylvania run."
+    publishedDateTime: 2020-10-04T22:47:00Z
+    webUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/"
+    ampWebUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 71
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228190343-e1601850280332.jpg?quality=65&strip=all"
+        width: 3970
+        height: 2240
         isCached: true
   - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
     excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."

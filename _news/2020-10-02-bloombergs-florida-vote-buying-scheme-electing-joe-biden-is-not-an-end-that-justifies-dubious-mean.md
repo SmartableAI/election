@@ -27,72 +27,90 @@ images:
     isCached: true
 
 related:
-  - title: "Bloomberg rolls out $40M ad buy to boost Biden in Florida"
-    excerpt: "Former New York City Mayor Michael Bloomberg on Friday rolled out a new $40 million ad buy in Florida as Democrats look to bolster Joe Biden’s chances of winning the Sunshine State."
-    publishedDateTime: 2020-09-26T00:01:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518355-bloomberg-rolls-out-40-million-ad-buy-to-boost-biden-in-florida?amp"
+  - title: "Will new Florida voters tip the election in favor of Joe Biden?"
+    excerpt: "Are we there yet? After the first debate, and the news about Donald Trump, many Americans are wondering when the election will end."
+    publishedDateTime: 2020-10-04T23:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden"
+    ampWebUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/ca_bloombergpublicworks_012220_1.jpg"
-        width: 1440
-        height: 880
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030820getty_2.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Mike Bloomberg to spend at least $100 million in Florida to benefit Joe Biden"
-    excerpt: "The promised spending, mainly on advertising, will go to encouraging early voting in a state central to Donald Trump’s reelection hopes."
-    publishedDateTime: 2020-09-13T15:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/bloomberg-money-florida-biden/2020/09/12/af51bb50-f511-11ea-bc45-e5d48ab44b9f_story.html"
+  - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
+    excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
+    publishedDateTime: 2020-09-27T09:19:00Z
+    webUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html"
+    ampWebUrl: "https://www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/commentary/tom-ridge-trump-biden-election-2020-vote-20200927.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5BAKRHAZYI6VNU3MT33AR362Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Michael Bloomberg will spend at least $100 million to aid Joe Biden in Florida"
-    excerpt: "Democratic presidential candidate is reportedly committing at least $100 million in an effort to boost Joe Biden in Florida."
-    publishedDateTime: 2020-09-13T14:47:00Z
-    webUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-bloomberg-joe-biden-florida-election-money-2020-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f5e2ad5e6ff30001d4e8822?width=1200&format=jpeg"
+      - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
         width: 1200
-        height: 600
+        height: 864
         isCached: true
-  - title: "Mike Bloomberg Commits $100 Million To Help Joe Biden Win Florida"
-    excerpt: "ET Mike Bloomberg, the former New York City mayor and onetime Democratic presidential candidate, has committed $100 million of his own"
-    publishedDateTime: 2020-09-13T20:08:00Z
-    webUrl: "https://www.boisestatepublicradio.org/post/mike-bloomberg-commits-100-million-help-joe-biden-win-florida"
+  - title: "Joe Biden to visit Grand Rapids Friday"
+    excerpt: "Joe Biden will visit Grand Rapids Friday, according to his campaign. Biden plans to discuss his “Build Back Better” economic plan, according to a release. The campaign has not released additional details about when or where the stop will be held."
+    publishedDateTime: 2020-09-30T23:03:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
     type: article
     provider:
-      name: Boise State Public Radio
-      domain: boisestatepublicradio.org
-    quality: 55
+      name: MLive
+      domain: mlive.com
+    quality: 75
     images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202009/912456677.jpg"
-        width: 800
-        height: 488
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
+        width: 3771
+        height: 2514
         isCached: true
-  - title: "Joe Biden Hosts Veterans Roundtable in Tampa, Florida"
-    excerpt: "Democratic presidential nominee Joe Biden hosted a roundtable discussion with veterans in Tampa, Florida. Mr. Biden and the attendees discussed many issues affecting veterans such as mental health treatment and educational opportunities."
-    publishedDateTime: 2020-09-20T06:25:00Z
-    webUrl: "https://www.c-span.org/event/?475777/campaign-2020-joe-biden-hosts-veterans-roundtable-tampa"
+  - title: "Save the Children? Extremist conspiracy movement QAnon fabricates pedophile claims against Joe Biden as election looms"
+    excerpt: "QAnon has hijacked the Save the Children movement to push baseless pedophilia claims against Joe Biden and other Democrats before the election."
+    publishedDateTime: 2020-09-29T15:56:00Z
+    webUrl: "https://www.palmbeachpost.com/story/tech/2020/09/28/qanon-pedophile-claims-biden-trump-save-the-children-facebook-instagram/3522626001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3522626001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3522626001"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/7816fd70-f6e9-457f-8236-c459ddfbce36-GTY_1228159792.jpg?auto=webp&crop=5268,2964,x0,y336&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Save the Children? Extremist conspiracy movement QAnon fabricates pedophile claims against Joe Biden as election looms"
+    excerpt: "QAnon has hijacked the Save the Children movement to push baseless pedophilia claims against Joe Biden and other Democrats before the election."
+    publishedDateTime: 2020-09-30T16:56:00Z
+    webUrl: "https://www.indystar.com/story/tech/2020/09/28/qanon-pedophile-claims-biden-trump-save-the-children-facebook-instagram/3522626001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3522626001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3522626001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/7816fd70-f6e9-457f-8236-c459ddfbce36-GTY_1228159792.jpg?auto=webp&crop=5268,2964,x0,y336&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden Remarks to U.S. Conference of Mayors"
+    excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"
+    publishedDateTime: 2020-09-27T17:52:00Z
+    webUrl: "https://www.c-span.org/video/?476255-1/joe-biden-remarks-us-conference-mayors"
     type: article
     provider:
       name: C-SPAN

@@ -488,17 +488,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
-  - title: "Biden's Pennsylvania polling lead may not be what it seems"
-    excerpt: "At first glance, 2020 Democratic presidential nominee Joe Biden seems well positioned should his Nov. 3 election against President Trump come down to Pennsylvania."
-    publishedDateTime: 2020-10-02T10:17:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
   - title: "Top Democratic senator: Hillary Clinton 'flat out wrong' to say Joe Biden should not concede"
     excerpt: "A top Senate Democrat said Hillary Clinton was wrong to advise Joe Biden not to concede the election if he is losing to President Trump."
     publishedDateTime: 2020-09-27T14:52:00Z

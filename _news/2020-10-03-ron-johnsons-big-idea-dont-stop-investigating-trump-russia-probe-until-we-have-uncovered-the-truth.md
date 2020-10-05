@@ -135,6 +135,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump receives 'around the world' national security briefing by phone due to COVID diagnosis"
+    excerpt: "President Trump received an \"around the world\" national security briefing on a secure line Sunday afternoon."
+    publishedDateTime: 2020-10-05T00:13:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XDGz2TmwHWE/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-receives-around-the-world-national-security-briefing-by-phone-due-to-covid-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/jennifer-griffin-99438.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "8s4Fwpr4ZjJywESacTV6W9npdRIggTYYe88x3WWLjZc5s4UIyFOB10ufzMaTW4uEaOZ8aI2j8ErK4rcVNSsuAn6dn7N3HZHeDd2Vll1SRDE1ShgYdi4I5b2DCEmpwJwQHmbqaEk4oXyB6koOwwKzSX5hCZhRsiDNzMFRSXJprInIQdfLlACQwKI1QSZFJlQvOsIrsX13vspr0pqxTymJF7bNdnfPwU7JhpdoOM/KL4E53iz1wlgkV5HfN2H68iH32coW22hxsSeCulJ1r3QgJ0N8hI2xiJic21MSgoQYVRloKaaFDuVCP82irm6HzZzvkrdFzZmT8yRfsrSj4fr4Ubc/NQGpq2UksPL0zJ5wecs=;P7AJ29A7ePAmn/NOH+vVlQ=="
 ---

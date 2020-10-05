@@ -590,6 +590,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pelosi says she's not being briefed on Trump's health"
+    excerpt: "House Speaker Nancy Pelosi on Sunday said she has not been briefed on President Donald Trump's health since his Covid-19 diagnosis despite her position as second in the presidential line of succession behind Vice President Mike Pence.\n    \n"
+    publishedDateTime: 2020-10-04T21:49:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5ZYKYVdBTc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/pelosi-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/pelosi-trump-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929062046-file-nancy-pelosi-0724-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Personal assistant to Trump tests positive for coronavirus"
     excerpt: "One of the White House aides who works closest to President Donald Trump has tested positive for coronavirus, a White House official confirmed to CNN.\n    \n"
     publishedDateTime: 2020-10-04T04:19:35Z
@@ -731,6 +747,38 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002203231-white-house-night-1003-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's everything we know (and don't) about Trump's condition in Walter Reed"
+    excerpt: "The days since President Donald Trump announced that he and the first lady tested positive for Covid-19 have been defined by a cascade of conflicting messages over his condition.\n    \n"
+    publishedDateTime: 2020-10-04T23:07:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/skLXUrGGz5U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/what-we-know-about-trump-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/what-we-know-about-trump-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004114116-03-walter-reed-presser-1004-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's photo op raises new questions about how seriously he takes the virus"
+    excerpt: "Some seven months into a pandemic that has killed more than 200,000 Americans, the nation is now facing a grave governing crisis with its commander in chief hospitalized -- his condition hinging on his progress over the coming days -- as the White House events of the past week serve as a textbook example"
+    publishedDateTime: 2020-10-05T01:35:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OTTNqiRG08k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/donald-trump-coronavirus-alternate-reality/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004172627-01-trump-walter-reed-motorcade-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -987,6 +1035,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003122844-01-trump-doctors-presser-1003-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign adviser says rally protocols won't change after President's coronavirus diagnosis"
+    excerpt: "A senior adviser to President Donald Trump's reelection campaign said Sunday there won't be any additional safety protocols for upcoming rallies following the President's hospitalization after contracting Covid-19.\n    \n"
+    publishedDateTime: 2020-10-05T01:10:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8xL8yDiALVU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/jason-miller-trump-coronavirus-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/jason-miller-trump-coronavirus-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161225082842-jason-miller-trump-tower-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1293,6 +1357,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416916/201002-mike-pence-mc-1204_78bac30ec0c4f0f66330f46d019dc39c.JPG"
         width: 2500
         height: 1672
+        isCached: true
+  - title: "President Pelosi? Pence prepares to risk it all for Trump"
+    excerpt: "The vice president is under pressure from some Republicans to secure himself in Washington. Trump’s campaign has other plans."
+    publishedDateTime: 2020-10-05T00:50:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/president-pelosi-pence-shrugs-off-covid-risk-426219"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/president-pelosi-pence-shrugs-off-covid-risk-426219"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/president-pelosi-pence-shrugs-off-covid-risk-426219"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/92/6b/fc1f9a5f4996ad0a0857fc06ec6e/ap20276686451375-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
@@ -2059,6 +2139,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_25/3390382/200616-dexamethasone-al-1354_8fa7f50045bd54e384cc04a4191c4926.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Trump makes surprise appearance outside hospital"
+    excerpt: "The masked president was captured on video waving from inside a black SUV, which passed cheering people standing close together, many of them not wearing masks."
+    publishedDateTime: 2020-10-04T22:28:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/trump-makes-surprise-appearance-outside-hospital-426127"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/trump-makes-surprise-appearance-outside-hospital-426127"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/trump-makes-surprise-appearance-outside-hospital-426127"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/af/b6/f1d573e448078b263ca5a7a960af/webp.net-resizeimage.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "E.P.A. to Promote Lead Testing Rule As Trump Tries to Burnish His Record"
     excerpt: "The E.P.A. will tout a new rule on testing lead in drinking water as President Trump's latest environmental achievement, but water experts see only modest improvements at best."

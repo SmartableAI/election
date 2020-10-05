@@ -167,6 +167,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Donald Trump Jr. Among Names Floated for Open Pennsylvania Senate Seat [REPORT]"
+    excerpt: "Media reports are conflicting about whether or not Donald Trump Jr.'s name is being considered for a 2022 Pennsylvania run."
+    publishedDateTime: 2020-10-04T22:47:00Z
+    webUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/"
+    ampWebUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 71
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228190343-e1601850280332.jpg?quality=65&strip=all"
+        width: 3970
+        height: 2240
+        isCached: true
   - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
     excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."
     publishedDateTime: 2020-09-29T14:19:00Z

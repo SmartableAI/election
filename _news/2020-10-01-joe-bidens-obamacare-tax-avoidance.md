@@ -32,37 +32,191 @@ images:
     isCached: true
 
 related:
-  - title: "Sanders to host socially distant rally for Biden in New Hampshire"
-    excerpt: "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. "
-    publishedDateTime: 2020-10-02T21:16:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
+  - title: "Biden says Antifa is just an idea, but here's what we know about it"
+    excerpt: "Democratic nominee Joe Biden, during the first presidential debate on Tuesday, dismissed Antifa as “an idea” when asked to condemn left-wing violent extremism – but that claim is highly disputed by Republicans, and some who have covered them up-close."
+    publishedDateTime: 2020-09-30T17:03:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ntitUMG3Uk/biden-antifa-idea-what-we-know"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Sanders-4.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Herschel Walker claps back at Biden's Antifa is ‘an idea’ comment"
+    excerpt: "Former NFL star Herschel Walker turned to Twitter Thursday to take issue with a Trump-Biden debate moment regarding far-left and far-right groups and the roles they play in unrest that has rocked cities across the country."
+    publishedDateTime: 2020-10-01T20:53:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyER4odGVfE/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment"
+    ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274148643710.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Joe Biden says it's 'appalling' not to wear a mask on public transit"
+    excerpt: "Former Vice President Joe Biden touted mask-wearing as a form of patriotism on Saturday, criticizing the administration for not doing more to advance the practice during the coronavirus pandemic."
+    publishedDateTime: 2020-10-03T22:45:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZBgh1JRF738/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5d502f3-1f3c-47a2-8460-3b1dbe38279d/ad85a4a8-8e99-49c2-9067-fe4c757529a1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters"
-    excerpt: "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church"
-    publishedDateTime: 2020-10-01T17:10:00Z
-    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289"
-    ampWebUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
+  - title: "Beto on Biden's chances in Texas: It's his to lose"
+    excerpt: "Former Texas Rep. Beto O’Rourke believes that Democratic presidential nominee Joe Biden can win Texas’ 38 electoral votes this November – a move that would mark a drastic change for a state once considered firmly in the hands of the Republican Party."
+    publishedDateTime: 2020-10-04T22:46:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pLkDpKGaTTM/beto-on-bidens-chances-in-texas-its-his-to-lose"
+    ampWebUrl: "https://www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Jill Biden shuts down question about husband's gaffes: 'You can't even go there'"
+    excerpt: "Asked by CNN's Jake Tapper about Democratic presidential nominee Joe Biden's reputation for sometimes misspeaking, Jill Biden said: 'You cannot even go there'"
+    publishedDateTime: 2020-09-29T22:16:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YVKfLbtwOYQ/biden-campaign-voters-ignore-gaffes-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2923e83-59b6-4ea1-964d-b7b5da9b2200/5a9805d6-aed0-45e0-b736-307e90588a0a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dave Rubin slams Biden on Antifa: 'An idea doesn’t assault people on the street'"
+    excerpt: "After Joe Biden called Antifa an \"idea, not an organization\" at the first presidential debate, Dave Rubin shared his firsthand experience with the far-left group's violent protests at his events on \"Fox & Friends.\""
+    publishedDateTime: 2020-10-01T16:38:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uwhcRFR-w-Y/biden-antifa-idea-trump-dave-rubin"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-antifa-idea-trump-dave-rubin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-trump-dave-rubin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'"
+    excerpt: "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges."
+    publishedDateTime: 2020-09-30T17:46:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7770338-6f00-45d5-b73c-f483671ead37/96618aa6-16e0-4aa8-b103-de0e0b8c3bce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing"
+    excerpt: "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why."
+    publishedDateTime: 2020-09-23T07:03:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d3GnjXtTdo/why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cc26de3-0e85-40c8-8ace-aed10ffbeb63/20192085-93ff-4170-8533-66ec760513ef/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Jill Biden shuts down question about husband's gaffes: 'You can't even go there'"
+    excerpt: "Asked by CNN's Jake Tapper about Democratic presidential nominee Joe Biden's reputation for sometimes misspeaking, Jill Biden said: 'You cannot even go there'"
+    publishedDateTime: 2020-09-29T23:30:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-voters-ignore-gaffes-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2923e83-59b6-4ea1-964d-b7b5da9b2200/5a9805d6-aed0-45e0-b736-307e90588a0a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Does Joe Biden and His Party Care About Real Science?"
+    excerpt: "Science must be free from bias, but it rarely works out that way. A flurry of mainstream media reporters and left-leaning politicians, led by Joe Biden, Kamala Harris, and Nancy"
+    publishedDateTime: 2020-09-26T04:01:00Z
+    webUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956"
+    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 80
+    quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
         width: 650
         height: 340
+        isCached: true
+  - title: "Biden: \"There Has Been No Indication Of A Conflict Of Interest\" With Hunter Biden In Ukraine"
+    excerpt: "Former Vice President Joe Biden spoke briefly to reporters at an October 2019 SEIU convention that President Trump was lying when he for suggested both Ukraine and China should investigate dealings with his son Hunter while Biden was in office."
+    publishedDateTime: 2020-09-25T09:51:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_there_has_been_no_indication_of_a_conflict_of_interest_with_hunter_biden_in_ukraine.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 54
+    images:
+      - url: "https://assets.realclear.com/images/52/522128.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "Biden Says He Plans To \"Elevate\" Justice Department's Civil Rights Division Into White House Office"
+    excerpt: "Democratic presidential nominee Joe Biden campaigned in Charlotte, NC on Wednesday where he spoke to the \"Black Economic Summit.\" During a rare Q&A at the end of the event, Biden spoke about a new plan to move the Civil Rights Divison out from under the preview of the Justice Department and directly into the White House."
+    publishedDateTime: 2020-09-24T23:13:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_says_he_plans_to_elevate_doj_civil_rights_divison_into_white_house_office.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/52/522131.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "A3H1cl74gc+bg+FXkMt+MXgPwb1kSn6gfkGHWHKa7PV+3huOzsiy5MphllG6/EFYOZTMzvAKDmMptBa98lc4z/rBM8Sf3jlIsNfymIDbrriUI1O8FzqEfGhyMA+IqLw9HN+cqEZrkISlwTMnqYuuCvCJWJqZ8l1jLu6S8cHr8YIpoP1J5vZDKAMEWSMBV0I8yb3yvhFcEz6AwR+DB/OUKzHTDc92YhNsOYsw1EfoOR4WH/wdX98d47Fd69XIHZVcxkX/jaxWBA3MC6czE/PMa02g65sNX4AjkrRK2Q93nIjxVRCVwYqqJXe1Owa2egGDz2tQKtt/7lYa9dyoR1z/gRwh+lgNtaiNFSP6dGChvUCwgdLAYvjzsDwOBNE0dKchy2MT8ZnAIN+IBHxoRGyQL3ptgNBrv+xAgAIYo4o+Ue/6/8b+WuRkNMIK+cvmPoVAh+DXJuePWNovZRknDwhSuw7jrqz5ttRwWrDouxQZeEAIMTvV2loGzO+clx6gXENDnXv3r8jAKdav68LdGx5vgQ==;89Zyr5E8ITjN59UlwEpvbQ=="

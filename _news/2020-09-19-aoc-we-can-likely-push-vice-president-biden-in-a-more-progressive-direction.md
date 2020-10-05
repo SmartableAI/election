@@ -144,38 +144,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
-    excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
-    publishedDateTime: 2020-09-28T13:15:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000?mod=newsviewer_click"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237079/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Joe Biden Wants to Make Almost Every Policy a Climate Change Policy"
-    excerpt: "Joe Biden’s plans to make climate change a major focus of his administration if he wins the White House would have significant ramifications for both businesses and consumers."
-    publishedDateTime: 2020-09-28T21:32:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-wants-to-make-almost-every-policy-a-climate-change-policy-11601298000"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-237079/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Minnesota Reporter Shreds the Biden Campaign for Icing Out Local Media at Campaign Stop"
     excerpt: "A reporter in Minnesota criticized the way Democratic presidential nominee Joe Biden's campaign decided to deal with local media, which is to say not at all and only having pool"
     publishedDateTime: 2020-09-18T19:20:00Z

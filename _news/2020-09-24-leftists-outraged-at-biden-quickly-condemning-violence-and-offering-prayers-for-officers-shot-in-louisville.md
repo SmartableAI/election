@@ -42,21 +42,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Does Joe Biden and His Party Care About Real Science?"
-    excerpt: "Science must be free from bias, but it rarely works out that way. A flurry of mainstream media reporters and left-leaning politicians, led by Joe Biden, Kamala Harris, and Nancy"
-    publishedDateTime: 2020-09-26T04:01:00Z
-    webUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956"
-    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
+  - title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
+    excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
+    publishedDateTime: 2020-09-22T06:01:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/52/521949.jpg"
+        width: 1046
+        height: 784
         isCached: true
   - title: "McEnany to Biden: We Don't Know Who Is On Your Supreme Court List, Tell Voters Where You Stand"
     excerpt: "Well look the former Vice President and all due respect, instead of telling the current president what to do, he needs to tell voters where he stands. We don't know who is on his Supreme Court list. We don't know what kind of justices he would nominate."

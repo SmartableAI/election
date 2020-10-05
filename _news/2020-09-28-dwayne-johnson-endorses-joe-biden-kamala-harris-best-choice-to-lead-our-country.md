@@ -384,6 +384,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden can end the drama on election night. All he has to do is win Texas."
+    excerpt: "Joe Biden can end the election on election night. All it takes is an investment in Texas. Texas is the state where big, late money and showing up could put an end to the suspense about whether President Trump will concede defeat Nov."
+    publishedDateTime: 2020-10-04T15:00:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/04/joe-biden-win-texas/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/04/joe-biden-win-texas/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/04/joe-biden-win-texas/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4S6IEDQE6AI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
     publishedDateTime: 2020-09-28T00:48:00Z
@@ -925,6 +941,22 @@ related:
       - url: "https://thehill.com/sites/default/files/barrettamyconey_092920gn5_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Joe Biden again tests negative for COVID-19"
+    excerpt: "Former Vice President Joe Biden's campaign said the Democratic candidate underwent testing on Sunday."
+    publishedDateTime: 2020-10-05T00:08:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-again-tests-negative-for-covid-19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-again-tests-negative-for-covid-19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-again-tests-negative-for-covid-19-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f7a6127282c500018c787ec?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
     excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"

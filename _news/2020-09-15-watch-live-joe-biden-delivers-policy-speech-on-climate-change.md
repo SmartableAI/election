@@ -42,19 +42,21 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden Says He Plans To \"Elevate\" Justice Department's Civil Rights Division Into White House Office"
-    excerpt: "Democratic presidential nominee Joe Biden campaigned in Charlotte, NC on Wednesday where he spoke to the \"Black Economic Summit.\" During a rare Q&A at the end of the event, Biden spoke about a new plan to move the Civil Rights Divison out from under the preview of the Justice Department and directly into the White House."
-    publishedDateTime: 2020-09-24T23:13:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/23/biden_says_he_plans_to_elevate_doj_civil_rights_divison_into_white_house_office.html"
+  - title: "Maureen Mackey: This key Joe Biden question needs to be asked early and often"
+    excerpt: "No wonder some Democrats are worried about Biden’s “lower key” approach to campaigning as we head towards Election Day."
+    publishedDateTime: 2020-09-25T17:25:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-election-maureen-mackey.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 51
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
     images:
-      - url: "https://assets.realclear.com/images/52/522131.jpg"
-        width: 750
-        height: 562
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f4af1cf-4043-4290-be91-2834a8245f3f/ba96f20e-175b-4dc2-a52a-fa2b8ae8e10f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "R/I8mlD3DdlZnIskdy9FRqn96orsi1srxa3XkUeThRY89X/olZ7PhPbfvGZjaSSECOQLyfH/+E2m3z361ybcGNwoYvLsl9yteB2naPr6ChK2DdCS3oi1LwqVyCpwpKc38ZLtJYCYeI5KRKgSUnmhbkYw2zNh/uzp3OURFwaz9Fl1mzPbmhPZMAILmTbrI39yIJNF7iTdPayOp1ICD/uJGiXEKhTy3egQnjRNeuGLOk3RqYukl5RmK5ZznADbTo+q+qVdS9SkDFeDwuloQJo1QCZFJ603mPwdmgYVMJ/TLC6RuV0/QM2+yvzHmiMYptQgDDv/BHNoByCitnR1JW2bS1t14tg8TgaB8VYkKKyHDn4=;p9tw7Yus8Oc68A3pDasG8g=="

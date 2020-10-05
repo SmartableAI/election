@@ -1930,6 +1930,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: 2020 presidential race continues following Trump's COVID-19 diagnosis"
+    excerpt: "The 2020 presidential election campaign has been thrown into uncertainty after President Trump announced on Friday he had tested positive for the coronavirus."
+    publishedDateTime: 2020-10-05T03:48:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lV0k0Cnr7kA/live-updates-2020-presidential-race-continues-amid-trumps-covid-19-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-continues-amid-trumps-covid-19-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-continues-amid-trumps-covid-19-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5723dd6-dd6b-499d-9be1-e4e2122781c1/bfed0156-cf47-4aa3-adf5-71824ca53dbf/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "RNC chair wants to see Biden talk about policies during upcoming presidential debate"
     excerpt: "“I really want to hear Joe Biden talk about his policies” during the first presidential debate scheduled for Tuesday, Republican National Committee (RNC) Chairwoman Ronna McDaniel told “Fox & Friends Weekend” on Sunday."
     publishedDateTime: 2020-09-27T21:21:23Z

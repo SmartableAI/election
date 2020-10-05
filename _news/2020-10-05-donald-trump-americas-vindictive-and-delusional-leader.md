@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump: America's Vindictive and Delusional Leader"
 excerpt: "Although arrogant men have often occupied the Oval Office, the nation has never suffered a presidential ego quite so expansive as Donald Trump’s. In his mind, he is the state, his interests indistinguishable from those of the nation."
 publishedDateTime: 2020-10-04T18:12:00Z
-originalUrl: "https://www.realclearpolitics.com/2020/10/04/donald_trump_americas_vindictive_and_delusional_leader_525225.html#!"
-webUrl: "https://www.realclearpolitics.com/2020/10/04/donald_trump_americas_vindictive_and_delusional_leader_525225.html#!"
+originalUrl: "https://www.realclearpolitics.com/2020/10/04/donald_trump_americas_vindictive_and_delusional_leader_525225.html"
+webUrl: "https://www.realclearpolitics.com/2020/10/04/donald_trump_americas_vindictive_and_delusional_leader_525225.html"
 type: article
 quality: 65
 heat: -1
@@ -59,6 +59,6 @@ related:
         height: 340
         isCached: true
 
-secured: "v4hz4EWP/61bqgBK1Qs5ixS9ABLZ1YIb4rDgcDPFVuNhOawozOTHTC7U3RLNUW+7kiru8mYS2OjKgiIfOuMgEaAZXn2XI6aWD6tyTgou5vatVqFXZyo9CGtpQWD4cvRhjGyh6vhdyWRF5129xk8yvkxwYXrBfNrd8EIIjJwXM4pQJysibiXPMehjSN1sUaKyGPfhwjJawXfEjWDnLtuQ9Od0x89nW2XKnpo28qvI77kcOOq4Q+aIgZz1MBHTfMNKVs2o49ELFs78g/V/itkHnHlGmHwOXavt5HA4jGRf1W4xVchcJvw19SOVeb0MfAtbsgKNS58jMFlY/TFyF/loMWzKBW93EohJ6fS3qxssOpKd1yPe2AQvPqjA+9QQwaT8yO8fqZei8rzLQjI9IAuCvSW1zNnyxIEWVeEFknN3wuW3vGNrU8pbc/O9R6k5OoniWMQ7IbQteqp5iYKDzq4lB3PYI5G8Pe844YNMKejSriWmti0FIDxoh8C8BiDPL/cvl1AIrs8Gsjg6K8EV+iLUeg==;GIZkL119Dswk8OEw8jOfgA=="
+secured: "2eif4g+O92Q9hJmyInP5U+6daFq0AsUlJJQF2CLkS8lx/89Lvddhw2bJVI05H3+goWYJmT2VlpxrGeo/SNTymwOPQUN7Zxe2BSmRZBa03J2OwweuQ5JN+aYVN67LFGKCOCHH4uwXdV6ObF1+D/HRbD7QsyImsM48lf3sqtkOFf/3YIT5R9crTAuT7XB15st0Bd1LB8TFzU9QzcG7LExqG6C5PvYTvGCoL4o4DIXmqs33PY0DsrqzBSYqIbQqAJZ3lPkgExSTBwkM+RRYR2xfkQRBMCujjQO6bIzKCJ0ZSAbjSJIfR1yrTTEz6gKA8tmcvl5KVSj7VH9wnkgjY6qz8LukCYAvuvWILRf2ue65PzQ=;BXLJeP3c3dbOFW2zC+hM6A=="
 ---
 

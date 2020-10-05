@@ -8,6 +8,9 @@ webUrl: "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supp
 ampWebUrl: "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp"
 type: article
+quality: 92
+heat: 92
+published: true
 
 provider:
   name: Business Insider

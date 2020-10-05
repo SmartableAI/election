@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supre
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
 type: article
 quality: 125
-heat: 605
+heat: 585
 published: true
 
 provider:
@@ -294,22 +294,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/29/Election_2020_Debate_44204.jpg-74e82_c0-209-4955-3099_s1200x700.jpg?997af342a35fcecbf52c74f7b08e1f8b029a3b03"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Joe Biden to visit Grand Rapids Friday"
-    excerpt: "Joe Biden will visit Grand Rapids Friday, according to his campaign. Biden plans to discuss his “Build Back Better” economic plan, according to a release. The campaign has not released additional details about when or where the stop will be held."
-    publishedDateTime: 2020-09-30T23:03:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
-        width: 3771
-        height: 2514
         isCached: true
   - title: "What California’s COVID approach could teach the country if Joe Biden wins"
     excerpt: "Democratic presidential candidate Joe Biden and California Gov. Gavin Newsom share the same basic COVID-19 philosophy: The government must focus on fighting the virus before the economy can recover."

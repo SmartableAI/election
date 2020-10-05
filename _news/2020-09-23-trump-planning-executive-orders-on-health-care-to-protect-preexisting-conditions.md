@@ -61,38 +61,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Nevada AG says Trump is urging supporters to intimidate voters at polls"
-    excerpt: "Nevada’s Democratic Attorney General Aaron Ford claimed Wednesday that President Trump was telling supporters during the debate to intimidate voters at polling locations. "
-    publishedDateTime: 2020-09-30T22:50:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjrPhllOmEc/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/a379f4f2-Florida.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump’s warning on voting by mail: 'This is not going to end well’"
-    excerpt: "A combustible debate Tuesday night between President Trump and Democratic presidential nominee Joe Biden concluded with a fiery exchange over the integrity of the election and ominous warning from the president."
-    publishedDateTime: 2020-09-30T05:01:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZuHg1yois4g/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-debate-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump campaign sues Philadelphia in fight over mail-in voting offices"
     excerpt: "“Bad things are happening in Philadelphia,” the campaign’s lawsuit said."
     publishedDateTime: 2020-10-02T02:42:22Z

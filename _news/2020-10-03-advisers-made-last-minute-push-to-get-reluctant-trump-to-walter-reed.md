@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump surprises crowd with drive-by outside Walter Reed"
+    excerpt: "President Donald Trump surprised his supporters with a drive-by appearance from his motorcade outside Walter Reed medical center, where he is receiving treatment for Covid-19. CNN's Jeremy Diamond reports.\n    \n"
+    publishedDateTime: 2020-10-04T21:51:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-zI3pGJ7qkM/president-trump-drives-by-crowd-walter-reed-motorcade-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/04/president-trump-drives-by-crowd-walter-reed-motorcade-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/04/president-trump-drives-by-crowd-walter-reed-motorcade-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004174331-president-trump-drives-by-crowd-walter-reed-motorcade-vpx-00001506-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump taken to Walter Reed medical center and will be hospitalized 'for the next few days'"
     excerpt: "President Donald Trump will be taken to Walter Reed National Military Medical Center, according to the White House.\n    \n"
     publishedDateTime: 2020-10-03T00:47:55Z

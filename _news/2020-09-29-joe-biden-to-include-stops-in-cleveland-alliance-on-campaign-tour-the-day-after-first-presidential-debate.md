@@ -183,6 +183,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump Jr. Among Names Floated for Open Pennsylvania Senate Seat [REPORT]"
+    excerpt: "Media reports are conflicting about whether or not Donald Trump Jr.'s name is being considered for a 2022 Pennsylvania run."
+    publishedDateTime: 2020-10-04T22:47:00Z
+    webUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/"
+    ampWebUrl: "https://heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/donald-trump-jr-pennsylvania-senate-run/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 71
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228190343-e1601850280332.jpg?quality=65&strip=all"
+        width: 3970
+        height: 2240
+        isCached: true
   - title: "Joe Biden Tours Ohio and Pennsylvania By Train"
     excerpt: "Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train. 2020 Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train."
     publishedDateTime: 2020-09-30T09:01:00Z

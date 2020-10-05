@@ -158,6 +158,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Biden again tests negative for coronavirus"
+    excerpt: "Joe Biden on Sunday tested negative for Covid-19, the third time since Friday, his campaign said. The Democratic presidential nominee had also tested negative twice on Friday. He had shared a stage with President Donald Trump during the presidential debate on Tuesday in Cleveland,"
+    publishedDateTime: 2020-10-05T01:18:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/af/b6/f1d573e448078b263ca5a7a960af/webp.net-resizeimage.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
     excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
     publishedDateTime: 2020-10-03T06:10:00Z

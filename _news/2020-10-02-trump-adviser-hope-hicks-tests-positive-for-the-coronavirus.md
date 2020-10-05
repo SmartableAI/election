@@ -521,6 +521,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Department of Transportation rejected a public transit mask mandate on the same day Trump's coronavirus diagnosis was revealed"
+    excerpt: "CIO submitted a request to the government in July to better protect workers against the coronavirus."
+    publishedDateTime: 2020-10-04T22:26:00Z
+    webUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/public-transit-mask-mandate-department-of-transportation-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+    images:
+      - url: "https://i.insider.com/5f7a3ea2282c500018c787dc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Virginia Gov. Ralph Northam and his wife test positive for coronavirus as health officials warn against Trump's scheduled campaign rally"
     excerpt: "Trump is slated to host a Friday night campaign rally in Virginia with roughly 4,000 supporters. One local official called it a \"public health risk.\""
     publishedDateTime: 2020-09-26T03:22:00Z
@@ -562,6 +578,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
+  - title: "65% Of Americans Agree Trump Could've Avoided Getting Coronavirus, Reuters Poll Reveals"
+    excerpt: "The president announced his coronavirus diagnosis on Friday after senior counselor Hope Hicks tested positive for the virus."
+    publishedDateTime: 2020-10-05T03:18:00Z
+    webUrl: "https://www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594"
+    ampWebUrl: "https://www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/us-president-donald-trump-was-said-to-be.jpg"
+        width: 1024
+        height: 646
+        isCached: true
   - title: "Kanye West Sends Prayers To Donald And Melania Trump After Both Tested Positive For Coronavirus"
     excerpt: "Kanye West sent well-wishes to President Donald Trump and first lady Melania Trump after they tested positive for COVID-19."
     publishedDateTime: 2020-10-04T09:40:00Z

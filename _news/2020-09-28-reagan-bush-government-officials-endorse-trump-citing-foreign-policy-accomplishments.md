@@ -29,53 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Sheriff in Portland denies Trump's debate claim of winning his endorsement"
-    excerpt: "The sheriff of Multnomah County, which includes Portland, Ore., emphatically denied supporting President Trump Tuesday evening shortly after the president made the claim."
-    publishedDateTime: 2020-09-30T08:27:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement"
-    ampWebUrl: "https://www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
+  - title: "White House gives New Jersey officials list of at least 206 people who attended Trump fundraiser"
+    excerpt: "The White House has supplied the New Jersey Department of Health with the names of more than 200 individuals who attended a fundraiser last week just hours before President Trump announced that he had contracted COVID-19."
+    publishedDateTime: 2020-10-04T20:38:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GXF3Zbs2eps/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/sheriff.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Where Trump and Biden Stand on Climate and Energy Policy"
-    excerpt: "The 2020 presidential election pits one candidate making climate change integral throughout his platform against another who dismisses its importance and pledges to keep pushing a deregulatory agenda."
-    publishedDateTime: 2020-10-04T11:27:00Z
-    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-climate-and-energy-policy-11601809200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-climate-and-energy-policy-11601809200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-climate-and-energy-policy-11601809200"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-239971/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump denies ‘ridiculous’ report that he wanted Ivanka to be his running mate"
-    excerpt: "President Trump is calling reports claiming he wanted his daughter Ivanka Trump to be his 2016 running mate “ridiculous.”"
-    publishedDateTime: 2020-09-29T11:50:00Z
-    webUrl: "https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/"
-    ampWebUrl: "https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/trump-ivanka-vp-61.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "8dECBpp/nwhkqfH91hpBmeXmt21XD8Vj2Ier+br+b9nnkbiivcdYSiDAG8C4ZmpUYvAy5K4GU5LKqym13E9+/3K83sGmfN9/3LE+M2edbcYKy0nCbhGxl0yBPctQX7YwfQEkjkRywL4jJzQpDWGwXNmfQLe3GWVXv5G2eQmI1VJIQA7LLuO6DgfWJ95Yy8EyvTsn2TLu5+pnYA/AUsvZ0q2cbAdUGQ8oTDA1heIYrfMs3IL/C70EjXU6Ghckf48FAlAGRnK9FiTertjENcjucg1x0Z4YTfBhPOD9A2nnDhYEwuP0gqQIjVRIyxnzCu9bw1dRqp40Zjslfci/TUjB9CaYm+JhdTPXawXXNneZhw4=;0ymp6xHMkTdiBRfy21F71Q=="

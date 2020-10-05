@@ -50,7 +50,7 @@ related:
   - title: "Donald Trump: America's Vindictive and Delusional Leader"
     excerpt: "Although arrogant men have often occupied the Oval Office, the nation has never suffered a presidential ego quite so expansive as Donald Trump’s. In his mind, he is the state, his interests indistinguishable from those of the nation."
     publishedDateTime: 2020-10-04T18:12:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/04/donald_trump_americas_vindictive_and_delusional_leader_525225.html#!"
+    webUrl: "https://www.realclearpolitics.com/2020/10/04/donald_trump_americas_vindictive_and_delusional_leader_525225.html"
     type: article
     provider:
       name: RealClearPolitics
