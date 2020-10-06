@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-23-pence-plane-hits-bird-returns-to-new-hampshire-airport.md",
+      "title": "Pence plane hits bird, returns to New Hampshire airport",
+      "excerpt": "He was at start of flight home from campaign event. Plane returned to airport and he flew home on cargo aircraft Secret Service uses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
+      "originalUrl": "https://www.cbsnews.com/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 705,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/a290d198-67e1-43aa-8d38-5f967e170bdf/thumbnail/1200x630/ee45b81fdd3a0769085cb49de7791b29/2020-09-23t042910z-1656467161-rc244j9fc3ov-rtrmadp-3-usa-pence-airplane.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
+      "publishedDateTime": "2020-09-23T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-challenge-coin-features-as-expence-adviser-olivia-troye-rebuts-keith-kelloggs-story-of-her-being-fired-and-marched-out-of-white-house.md",
       "title": "Challenge coin features as ex–Pence adviser Olivia Troye rebuts Keith Kellogg’s story of her being fired and marched out of White House",
       "excerpt": "The homeland-security aide who was Vice President Mike Pence’s deputy on the White House coronavirus task force and went public last week with the",

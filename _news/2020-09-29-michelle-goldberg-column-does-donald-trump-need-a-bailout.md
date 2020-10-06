@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536339055&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG950O3"
         width: 872
         height: 545
+        isCached: true
+  - title: "The Latest: Michelle Obama goes after Trump in new video"
+    excerpt: "Michelle Obama is going after President Donald Trump in a scathing new video that accuses him of “willful mismanagement” of the coronavirus crisis and of racism"
+    publishedDateTime: 2020-10-06T14:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-michelle-obama-trump-video-73450075"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-michelle-obama-trump-video-73450075"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-michelle-obama-trump-video-73450075"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/201006_gma_vega1_0702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Column: What Trump said about the Proud Boys was unconscionable, and obscures a great American tragedy"
     excerpt: "What Americans witnessed in the chaotic dumpster fire of a debate was this: An angry, stubborn and inarticulate Trump, putting his metaphorical foot in his own mouth, and chomping down to leave the stump twitching on the floor."

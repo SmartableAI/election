@@ -63,6 +63,22 @@ related:
         width: 872
         height: 545
         isCached: true
+  - title: "The Latest: Michelle Obama goes after Trump in new video"
+    excerpt: "Michelle Obama is going after President Donald Trump in a scathing new video that accuses him of “willful mismanagement” of the coronavirus crisis and of racism"
+    publishedDateTime: 2020-10-06T14:46:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/latest-michelle-obama-trump-video-73450075"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/latest-michelle-obama-trump-video-73450075"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-michelle-obama-trump-video-73450075"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/GMA/201006_gma_vega1_0702_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Column: Trump puts Secret Service agents at risk with COVID Car Ride - but relax, it was medically necessary"
     excerpt: "As President Donald Trump battles COVID-19, questions have come up about the accuracy of his health updates and his ride to wave to supporters outside Walter Reed Medical Center."
     publishedDateTime: 2020-10-05T16:59:00Z

@@ -1374,6 +1374,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Democratic leaders accuses Trump team of 'deliberately' withholding information about White House outbreak"
+    excerpt: "Senate Democratic leaders charged Tuesday that the White House has been \"opaque and secretive\" in providing information about the coronavirus outbreak that sickened President Donald Trump and several other people at the White House, demanding details about the timeline and contending that details are"
+    publishedDateTime: 2020-10-06T15:03:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o4Tl1RqqNO4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/schumer-letter-white-house-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/schumer-letter-white-house-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200421095136-chuck-schumer-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Lindsey Graham: Trump 'very focused' on confirming Barrett to Supreme Court despite his coronavirus diagnosis"
     excerpt: "Senate Judiciary Chairman Lindsey Graham said Friday that President Trump is \"very focused\" on getting Amy Coney Barrett onto the Supreme Court and said that confirmation hearings remain \"on track\" after the news of the President's coronavirus diagnosis.\n    \n"
     publishedDateTime: 2020-10-02T17:28:34Z
@@ -3091,6 +3107,34 @@ related:
       - url: "https://static.politico.com/cb/6c/92f299a546eea57cea4d00143b04/shafermedicine-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "As Trump returns, West Wing becomes 'a ghost town'"
+    excerpt: "When a White House official slams Trump as \"selfish\" for returning to a White House \"cesspool,\" there's clearly a problem."
+    publishedDateTime: 2020-10-06T15:07:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-returns-west-wing-becomes-ghost-town-ncna1242264"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_19/3340706/200507-white-house-building-ew-1119a_33a885892bd1f34f74ced0dd2d0969a4.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump puts a dangerous new spin on his coronavirus infection"
+    excerpt: "After Donald Trump acknowledged that he'd tested positive for the coronavirus, a political strategy slowly took shape in Republican circles. Sen. Lindsey Graham (R-S.C.), for example, made the case that the president could emerge from the crisis \"humbled,"
+    publishedDateTime: 2020-10-06T14:42:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-puts-dangerous-new-spin-his-coronavirus-infection-ncna1242246"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_143124c09202f4a5ae26e07116994909.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/qa-trump-administratio
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75d8262d7049fa994972ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D78%26cropY2%3D1765"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump signs stopgap bill to avoid government shutdown"
+    excerpt: "U.S. President Donald Trump signed a stopgap funding bill on Thursday that would keep the federal government open through December 11, the White House said in a statement."
+    publishedDateTime: 2020-10-01T06:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-idUSKBN26M4NP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M4NP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M4NP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535643193&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9037Q"
+        width: 791
+        height: 545
         isCached: true
   - title: "Trump administration slashes refugee program amid president's campaign attacks on immigrants"
     excerpt: "In Obama's final year in office, the annual cap on refugees was 110,000. Trump has pared that down. In fiscal year 2021, the limit will be 15,000."

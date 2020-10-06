@@ -3,8 +3,8 @@ category: news
 title: "The Debate Between Mike Pence and Kamala Harris: What Time to Watch and Key Issues"
 excerpt: "Vice President Mike Pence and Sen. Kamala Harris, the Democratic vice presidential nominee, will face off in their first and only debate on Wednesday at 9 p.m. ET."
 publishedDateTime: 2020-10-06T12:34:00Z
-originalUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031?mod=hp_lead_pos12"
-webUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031?mod=hp_lead_pos12"
+originalUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
+webUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
 type: article
@@ -22,9 +22,9 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
+  - Kamala Harris
 
 images:
   - url: "https://images.wsj.net/im-240874/social"
@@ -208,6 +208,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Kamala Harris’s Record Shows Courtroom-Honed Approach, Complicated Ideology"
+    excerpt: "Kamala Harris’s record will be a focal point of Wednesday’s debate with Vice President Mike Pence. He has portrayed the Democrat as an emissary of the ‘radical left,’ but some Republicans say they have found common ground."
+    publishedDateTime: 2020-10-06T15:48:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harriss-record-shows-courtroom-honed-approach-complicated-ideology-11601998690"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-record-shows-courtroom-honed-approach-complicated-ideology-11601998690"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-record-shows-courtroom-honed-approach-complicated-ideology-11601998690"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 133
+    images:
+      - url: "https://images.wsj.net/im-240870/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Pete Buttigieg reportedly posing as Mike Pence in Kamala Harris VP debate prep"
     excerpt: "Vice presidential nominee Kamala Harris has tapped former 2020 Democratic primary candidate Pete Buttigieg to play Vice President Mike Pence as she prepares for their one and only debate ..."
@@ -393,6 +409,6 @@ related:
         height: 696
         isCached: true
 
-secured: "m/faZQfFy6cjUHIrGk7r9VoNvqCPRVYecVJsaAC6nE75G44lC7WkFqgqcKocRvKEXg6AgNFjeoOZT/q47IhdzFCC8J0owciIB3V0AOq98nvZWpQsQfN6mK2O51A+sSg0zY+zH/olfqXi17XgjUi0qqS1fvdOGCV3lfGxI1ndf9+laIELNQaJrNh+bRlPXwJUUJm2P0vEecCDtJiLF5gipGqXWDpM07uxxQGLVAO0Fk9T38xoriVlhzLT3GfZEsQY+fv8RWcF4xXBThOfIS84sZPGB/OkIMei9kY7yPzAD/IRJFDRrQ67FonTQ63ZYLSSa+2Fq2TyLU0yE/TEGf53hC7VG8pMZ/ssXfUCN86Vpmo=;7iNwCIPrWCQZ+1BuLZWvAQ=="
+secured: "IDhuFF1d7r9fcwQ+xin33n3L9LBs9aOKKPJtWgoE+6dW3bKs8uVXdF7wp3UzWwr4lCkX2lfFhyz2UUcN9SLYIw9jrR/2JZgZtCoS0588dwd+3fyApBpk16k1aNR/zmp12x/6lzd6+x+sHLsotYCbf5famn1ZeYf2zpDT9YcmYZ5iy3UxBmid1GAmmaCzZYaUNwLd/vfd6tKFxTwnz1JaSRq7lEYqY70a6ZJkhHY3b5tAuMeb6JmWqfAcOMyLROaQx9TYc0etICO4oCfQSGSpf/VE9acvSrxkFBjmvrDgWGj1wNP0x4E1rbYHyox3gNyq9AtXfZI85eRlTR5ckSD+F/TrmeRkcYWFTqkHvS4lEnI=;y6HKFZAsrtyZN+N9UGuJmA=="
 ---
 

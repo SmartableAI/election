@@ -68,6 +68,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Joe Biden Remarks in Gettysburg, PA"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, PA. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T15:17:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "J6W1ufFhClEqpw1FfLW/Rb8+IIXDRqSiqy8wU47F22xmc1lvPeONa4y7yHIvNQhO7ZyQAAmRjhkqf4ruYj0chlBOirCWaei6Ysn5EENQbslCkiZcEfRAWBKSReVln7OYYsSG+VP153suKhF+GY3A8syiv0HdxGn58Y7JzCdJNzRtcXoxw3c5meLpqjtn1Fpua/9C6Ip8MzgG0/EEhu49z3svtjyPJ5Qrk6vaN8DT5rFZklYVEVXwg1smQ9a+eE84Qv5g3HA2SM11kMD4ik5gzpNI84n5BomFSrcVVrBLxCDEfpOvbOFNEHZWNL8oANQ5eB0G80QkZdrZgp/9RGhbkFBW3zIuu83CmMz65fF/GC8=;3LCRDTNCPXqxc8OHk6ldvQ=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Explainer: What is the treatment plan for President Trump's COVID-19?"
-    excerpt: "U.S. President Donald Trump on Friday said he and his wife Melania had tested positive for COVID-19, and the White House said he was given an experimental treatment designed to combat the virus as well as a small array of treatments including aspirin and Vitamin D."
-    publishedDateTime: 2020-10-03T05:28:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-treatments-e-idUSKBN26N38D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1535975425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9123P"
-        width: 816
-        height: 545
-        isCached: true
   - title: "Trump has more in common with Lincoln than you might think"
     excerpt: "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since."
     publishedDateTime: 2020-10-02T17:41:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trump_lincoln_08042020_1.jpg"
         width: 980
         height: 552
+        isCached: true
+  - title: "Trump COVID-19 live updates: Bodyman for Trump tests positive"
+    excerpt: "The mystery surrounding President Donald Trump's COVID-19 diagnosis and condition deepened Saturday after confusing and contradictory information from the White House."
+    publishedDateTime: 2020-10-04T12:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73413060"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/Trump-Coronavirus-Twitter-_hpMain_20201004-043059_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "For some high-dollar Trump donors, Bedminster hobnobbing now means COVID tests"
     excerpt: "Several supporters of President Donald Trump who just days before had been toasting him at a fundraiser at his Bedminster, New Jersey, golf club said they are now quarantining themselves and going for coronavirus tests."
@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump, 14 others positive for COVID: A running list of those being tested and their results"
+    excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
+    publishedDateTime: 2020-10-04T02:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's condition 'very concerning' over past day, official says on day of mixed messaging"
     excerpt: "Trump remained at Walter Reed hospital Saturday after he and first lady Melania Trump tested positive for COVID-19 and were experiencing symptoms"
     publishedDateTime: 2020-10-04T00:14:00Z
@@ -316,6 +332,22 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/6c05a9a9-6a2c-48db-93b6-701f4f6eb42d-AFP_AFP_8RB43N.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump, 15 others positive for COVID: A running list of those being tested and their results"
+    excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
+    publishedDateTime: 2020-10-05T03:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -334,6 +366,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Facebook just removed Trump's post falsely claiming that Covid is less deadly than the flu"
+    excerpt: "The president's post violated Facebook's rules on COVID-19 misinformation, which bans false claims about the severity of the virus."
+    publishedDateTime: 2020-10-06T15:31:00Z
+    webUrl: "https://www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f7c8637282c500018c78d16?width=1200&format=jpeg"
+        width: 534
+        height: 267
         isCached: true
   - title: "Trump given remdesivir to fight his COVID-19 infection. Here's what you need to know about it"
     excerpt: "President Trump's doctors are already employing remdesivir in the fight against the coronavirus to help shorten his illness."
@@ -489,6 +537,36 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Several of the military's top generals were at White House event days before Trump tested positive for COVID-19"
+    excerpt: "The chairman of the Joint Chiefs of Staff and the top Army and Air Force generals were at a Gold Star family event on Sunday, defense officials said."
+    publishedDateTime: 2020-10-02T15:29:00Z
+    webUrl: "https://www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5ed6e8e5f0f4192dbf3caba2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pelosi Upbeat on Relief, Says Trump Illness Could Lift Roadblock"
+    excerpt: "U.S. House Speaker Nancy Pelosi said negotiations with the White House on a new stimulus will press ahead and President Donald Trump’s Covid-19 diagnosis might change the tenor of the talks by emphasizing the seriousness of the pandemic."
+    publishedDateTime: 2020-10-02T17:11:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pelosi-upbeat-on-relief-says-trump-illness-could-lift-roadblock/2020/10/02/dd4ceac6-04c9-11eb-b92e-029676f9ebec_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6GKELOQEYQI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump says 'real test' ahead in his COVID fight"
     excerpt: "Posted . President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" o"
@@ -776,22 +854,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "John Oliver Says Donald Trump's COVID-19 Diagnosis Was 'Utterly Inevitable'"
-    excerpt: "John Oliver talked about President Donald Trump’s COVID-19 diagnosis and blasted the first family for not wearing masks during the first presidential debate."
-    publishedDateTime: 2020-10-06T03:06:00Z
-    webUrl: "https://www.ibtimes.com/john-oliver-says-donald-trumps-covid-19-diagnosis-was-utterly-inevitable-3057188"
-    ampWebUrl: "https://www.ibtimes.com/john-oliver-says-donald-trumps-covid-19-diagnosis-was-utterly-inevitable-3057188?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/john-oliver-says-donald-trumps-covid-19-diagnosis-was-utterly-inevitable-3057188?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/08/01/john-oliver.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "MSNBC’s Morning Joe scorches ‘sociopath’ Trump for ignoring COVID-19 until he got sick"
     excerpt: "MSNBC’s Joe Scarborough ripped President Donald Trump for ignoring the coronavirus pandemic until he personally became a victim. The president said over the weekend that he had “learned a lot” about the potentially deadly virus since his positive test and subsequent hospitalization,"
     publishedDateTime: 2020-10-05T13:24:00Z
@@ -903,6 +965,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
         width: 800
         height: 412
+        isCached: true
+  - title: "‘Don’t tell anyone’: Trump tried to hide positive COVID-19 tests spreading through the White House"
+    excerpt: "The Wall Street Journal reported Sunday that President Donald Trump tried to hide that he first tested positive for COVID-19 when he waited for a second test on Thursday. According to the report, Trump attempted to hide his first rapid test that gave him a positive test result."
+    publishedDateTime: 2020-10-04T23:48:00Z
+    webUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "Trump's Medical Condition: What We Know And Don't Know About His Status Amid Confusion Over Privacy"
     excerpt: "Doctors are being coy on whether Trump has suffered lung damage from COVID-19 and when exactly he last tested negative."

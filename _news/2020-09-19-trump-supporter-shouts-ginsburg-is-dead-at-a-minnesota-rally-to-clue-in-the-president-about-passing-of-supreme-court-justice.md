@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/president-trump-supporter-shouts-gin
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp"
 type: article
 quality: 97
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
-    excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
-    publishedDateTime: 2020-09-26T03:10:00Z
-    webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
+  - title: "Fact check: In 2016, Trump didn't tweet about replacing Scalia on Supreme Court"
+    excerpt: "A tweet that purports to be from Donald Trump in 2016 that said \"Obama should wait until he leaves office to pick another Justice\" is fake."
+    publishedDateTime: 2020-09-23T22:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3492943001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3492943001"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 55
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
     images:
-      - url: "https://stmedia.stimg.co/1601076390_19535581+1mndt092620.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "ihRsiPaF/ob5SHRx7v8v+NwPjFYkRYVweh4CwgmNjCiqyY8uDmCX6L0MxK55pTLGi34h/kS33ehdXfyLnt44m/p5ab586zSmeiI5Ovw1KGPImDK8gjbBZVAB6QYdZCzvM+3kRxxixDa4voWmryWroLPEAOtVq79aH7FwMEJzFcwA2za5JUEyHkpsodykmwquKFhsLG/bIdx5bw3iPoUdZ5al8q8isAeSJf8hF35idslNRKgqm83n6B4fDqHzojsCXb4AKzSA+p+3K2cPU38laOmT3OKbHjBuOLqAkJBhCfm+dkZ5dp4Dqp8+SMsxpt0D50/6EMD4XM90C18m39H0a5mQGa9m23TRn+YpDsnISRg=;fdZXWslbOjvDBtM2c0BG9g=="

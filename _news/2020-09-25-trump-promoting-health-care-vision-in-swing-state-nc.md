@@ -31,732 +31,464 @@ images:
     isCached: true
 
 related:
-  - title: "Check’s in the mail: Trump offering government aid, including cash, in weeks before the election"
-    excerpt: "In recent days, President Donald Trump has promised millions of Medicare recipients that — thanks to him — they’ll soon be getting an “incredible” $200 card in the mail to help them pay for prescriptions."
-    publishedDateTime: 2020-10-01T13:33:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 127
-    images:
-      - url: "https://www.chicagotribune.com/resizer/X5INs9998mP2ElUdjqXfxI57agA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3MOZVLBQ2PFDPXLYALTZ5O3Z4M.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
-    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
-    publishedDateTime: 2020-09-26T05:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Judge removes Trump public lands boss for serving unlawfully"
-    excerpt: "A federal judge has ruled that the Trump administration’s leading steward of public lands has been serving unlawfully and blocked him from continuing in the position"
-    publishedDateTime: 2020-09-27T06:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-removes-trumps-public-lands-boss-governor-sued-73251506"
+  - title: "Trump backs proposed deal to keep TikTok operating in US"
+    excerpt: "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company"
+    publishedDateTime: 2020-09-20T02:19:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e7756cb4ba164798ad0f8c28c3bcb8c7_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Business/WireAP_4dc911637176420589fa2c420c7839b1_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "AP FACT CHECK: Trump's dubious claims on health care, court"
-    excerpt: "President Donald Trump isn’t providing all the facts when he promises that people with preexisting medical problems will always be covered by health insurance if “Obamacare” is ruled unconstitutional"
-    publishedDateTime: 2020-09-28T05:45:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9dae8cbae5d7441d916637e106aafdfa_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump's tax returns has many wondering what they're doing wrong"
-    excerpt: "Tax breaks for businesses likely helped cushion the tax bill for President Donald Trump, as the speculation continues about Trump's tax audit and tax returns."
-    publishedDateTime: 2020-09-29T11:18:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/09/29/donald-trump-tax-returns-income/3570417001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3570417001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3570417001"
+  - title: "Trump has reportedly approved a TikTok, Oracle deal"
+    excerpt: "President Donald Trump reportedly said he has approved a bid by Oracle to take over TikTok's U.S. operations in a move that would mean the app beloved by American teens won't be b"
+    publishedDateTime: 2020-09-19T21:54:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/09/19/trump-has-reportedly-approved-tiktok-oracle-deal/5841717002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5841717002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5841717002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/10/25/USAT/f3a9189e-f0f9-492e-9177-afb69215955c-GettyImages-1073325568.jpg?auto=webp&crop=4503,2533,x187,y403&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Everything Trump touches dies — including his presidency"
-    excerpt: "Everything Trump touches dies,” Never Trumper and former Republican strategist Rick Wilson likes to say. That has never been more evident, as the New York Times’s blockbuster reporting proves that after making a small fortune on the reality TV show “The Apprentice,"
-    publishedDateTime: 2020-09-29T11:50:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/29/everything-trump-touches-especially-his-presidency-dies/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/29/everything-trump-touches-especially-his-presidency-dies/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/29/everything-trump-touches-especially-his-presidency-dies/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXPHROELCZH3PDIESOKRUAOR5M.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis"
-    excerpt: "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements."
-    publishedDateTime: 2020-10-01T09:11:00Z
-    webUrl: "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump signs stopgap bill to avoid government shutdown"
-    excerpt: "U.S. President Donald Trump signed a stopgap funding bill on Thursday that would keep the federal government open through December 11, the White House said in a statement."
-    publishedDateTime: 2020-10-01T06:10:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-idUSKBN26M4NP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M4NP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M4NP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535643193&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9037Q"
-        width: 791
-        height: 545
-        isCached: true
-  - title: "AP PHOTOS: A busy week for Trump before positive virus test"
-    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House."
-    publishedDateTime: 2020-10-02T15:29:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Factbox: Reactions to Donald Trump testing positive for coronavirus"
-    excerpt: "U.S. President Donald Trump said in a tweet on Friday he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election."
-    publishedDateTime: 2020-10-02T06:55:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-for-coronavirus-idUSKBN26N0SW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535814584&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IY"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "The most essential books of the Trump era are barely about Trump at all"
-    excerpt: "As the Washington Post’s nonfiction book critic, I’ve read well over 150 works covering Donald Trump and the major debates of his presidency, and that’s just a small fraction of the canon. Dissections of heartland voters."
-    publishedDateTime: 2020-10-01T19:52:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKM6GYHTOYI6VABFLU2IS5UKZA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Why Trump doesn’t want to talk about abortion rights"
-    excerpt: "President Donald Trump doesn’t want to talk about abortion. After years of saying he would appoint “pro-life” judges and bragging that the landmark Roe v. Wade decision would be overturned “automatically” if he won,"
-    publishedDateTime: 2020-10-02T05:04:00Z
-    webUrl: "https://www.washingtonpost.com/politics/why-trump-doesnt-want-to-talk-about-abortion-rights/2020/10/02/79580e82-046b-11eb-b92e-029676f9ebec_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/why-trump-doesnt-want-to-talk-about-abortion-rights/2020/10/02/79580e82-046b-11eb-b92e-029676f9ebec_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/why-trump-doesnt-want-to-talk-about-abortion-rights/2020/10/02/79580e82-046b-11eb-b92e-029676f9ebec_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Factbox: Reactions to Donald Trump testing positive for COVID-19"
-    excerpt: "U.S. President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
-    publishedDateTime: 2020-10-03T05:54:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idUSKBN26N0SM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535905929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IV"
-        width: 826
-        height: 545
-        isCached: true
-  - title: "Trump gets experimental drug aimed at curbing severe illness"
-    excerpt: "The experimental antibody drug given to President Donald Trump has been called one of the most promising approaches to preventing serious illness from a COVID-19 infection"
-    publishedDateTime: 2020-10-02T23:34:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_765454725e2a4d1cafa0c309fa21f42a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Global stocks rise as signs of Trump's improving health calm markets"
-    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
-    publishedDateTime: 2020-10-05T04:27:00Z
-    webUrl: "https://www.reuters.com/article/global-markets-idINKBN26Q03N"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26Q03N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26Q03N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536147605&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400A"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Stocks rise as signs of Trump's improving health calm markets"
-    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
-    publishedDateTime: 2020-10-05T02:19:00Z
-    webUrl: "https://www.reuters.com/article/global-markets-int/stocks-rise-as-signs-of-trumps-improving-health-calm-markets-idUSKBN26Q05T"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q03N"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q03N"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536153882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9401R"
-        width: 753
-        height: 545
-        isCached: true
-  - title: "Texas man accused of punch amid Trump argument turns self in"
-    excerpt: "Authorities say a Texas man who was seen on video punching another man as they argued over President Donald Trump has turned himself in after police obtained a warrant for assault"
-    publishedDateTime: 2020-10-05T11:39:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_2dac7a77f4fb432388b1632ccc3281f2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Governor asks court to block actions by Trump's land boss"
-    excerpt: "Montana’s governor is asking a judge to block three sweeping land use plans that would open most U.S.-owned lands in the state to energy development"
-    publishedDateTime: 2020-10-06T06:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/governor-asks-court-block-actions-trumps-land-boss-73439945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/governor-asks-court-block-actions-trumps-land-boss-73439945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/governor-asks-court-block-actions-trumps-land-boss-73439945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e7756cb4ba164798ad0f8c28c3bcb8c7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Lawyers: Trump can’t use job as a shield in defamation suit"
-    excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can’t hurl insults at her and then replace himself with the government"
-    publishedDateTime: 2020-10-06T02:09:00Z
-    webUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Restaurant staffers in quarantine after working Trump fundraiser"
-    excerpt: "More than a dozen employees of Murray's Restaurant in Minneapolis who served at catered event are now isolation."
-    publishedDateTime: 2020-10-05T22:53:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
+  - title: "Walmart and Oracle support Trump's idea for TikTok \"education fund\""
+    excerpt: "The financial contribution will come from the new company that emerges from the unusual transaction, called TikTok Global. The arrangement will allow the app to continue operating in the U.S. after the Trump administration threatened to ban it over national security concerns."
+    publishedDateTime: 2020-09-23T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/walmart-ticktok-buy-trump-education-fund/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/walmart-ticktok-buy-trump-education-fund/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/05/aea0448e-df51-46f3-b69a-6aa025fa4a68/thumbnail/1200x630/011c5de4ff8a7c2fa9044cf8a1464c72/2020-10-03t232508z-1757869472-rc2bbj9tpe38-rtrmadp-3-health-coronavirus-trump.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump faces backlash for removing mask on return to White House"
-    excerpt: "U.S. President Donald Trump faced a fresh backlash on Tuesday for removing his mask when he returned to the White House and urging Americans not to fear the COVID-19 disease that has killed more than 209,"
-    publishedDateTime: 2020-10-06T04:52:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSL1N2GX02O"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R0H2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R0H2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536316096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95089"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Trump's top federal prosecutors are overwhelmingly white men"
-    excerpt: "The nation’s top federal prosecutors have become less diverse under President Donald Trump than under his three predecessors"
-    publishedDateTime: 2020-10-06T11:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-top-federal-prosecutors-overwhelmingly-white-men-73446934"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-top-federal-prosecutors-overwhelmingly-white-men-73446934"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-top-federal-prosecutors-overwhelmingly-white-men-73446934"
+  - title: "Federal judge postpones Trump ban on popular app TikTok"
+    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight"
+    publishedDateTime: 2020-09-28T09:14:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/tiktok-fate-balance-judge-weighs-app-store-ban-73278050"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_aff599b5951e484483bd978e3602b908_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4e6ed43bd3c84a029309df15469bc11c_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
-    excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
-    publishedDateTime: 2020-09-29T15:30:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/29/daily-202-trump-faces-historic-gender-gap-heading-into-first-debate/?outputType=amp"
+  - title: "Judge postpones Trump's TikTok ban"
+    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. smartphone app stores around midnight. A more comprehensive ban remains scheduled for November,"
+    publishedDateTime: 2020-09-28T23:36:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/09/27/judge-postpones-trumps-tiktok-app-store-ban/3557774001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3557774001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557774001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/11/13/USAT/38813c9d-87c8-4f20-8e30-004119f621b6-AFP_AFP_1LX5N1.JPG?auto=webp&crop=4871,2740,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump gives \"blessing\" to U.S. TikTok partnership with Oracle and Walmart"
+    excerpt: "The president's support for a deal comes just a day after the Commerce Department announced restrictions could eventually make it nearly impossible for Americans to use the app."
+    publishedDateTime: 2020-09-20T03:24:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-gives-blessing-to-u-s-tiktok-partnership-with-oracle-and-walmart/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7UMNRQQBYQI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/27/f14461ee-06d9-4ff0-89f7-79358338c2f2/thumbnail/1200x630g6/c8976c8c23af2f2ff66cee737b015f9d/gettyimages-1268141132.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Photo of Mark Meadows rubbing his head during update on Trump's health goes viral"
-    excerpt: "A photo of President Trump’s chief of staff Mark Meadows rubbing his head during Sunday’s update on the president’s health went viral."
-    publishedDateTime: 2020-10-04T21:25:00Z
-    webUrl: "https://thehill.com/homenews/administration/519552-photo-of-mark-meadows-rubbing-his-head-during-update-on-trumps-health"
-    ampWebUrl: "https://thehill.com/homenews/administration/519552-photo-of-mark-meadows-rubbing-his-head-during-update-on-trumps-health?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519552-photo-of-mark-meadows-rubbing-his-head-during-update-on-trumps-health?amp"
+  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
+    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
+    publishedDateTime: 2020-09-19T08:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit/tiktok-filed-a-complaint-against-trump-administration-to-block-us-ban-bloomberg-news-idUSKBN26A0DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534103015&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I0A7"
+        width: 840
+        height: 545
+        isCached: true
+  - title: "Oracle And Walmart To Acquire 20% Stake In TikTok, Trump Gives His ‘Blessing’"
+    excerpt: "Oracle and Walmart have agreed to acquire a 20% stake in TikTok’s global business as part of a pre-IPO financing round, the ByteDance owned video-sharing platform announced in a press release on Saturday,"
+    publishedDateTime: 2020-09-19T23:58:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2020/09/19/oracle-and-walmart-to-acquire-20-stake-in-tiktok-trump-gives-his-blessing/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/09/19/oracle-and-walmart-to-acquire-20-stake-in-tiktok-trump-gives-his-blessing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/09/19/oracle-and-walmart-to-acquire-20-stake-in-tiktok-trump-gives-his-blessing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 122
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6699050e1e53b800f3bd8d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4156%26cropY1%3D187%26cropY2%3D2526"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "TikTok files complaint against Trump administration to try to block U.S. ban"
+    excerpt: "Popular video-sharing app TikTok has asked a U.S. judge to block the Trump administration from enforcing a ban on the Chinese social media network, according to court documents filed late on Friday."
+    publishedDateTime: 2020-09-19T19:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-china-tiktok-lawsuit-idUSKBN26A0DP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26A0DP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200919&t=2&i=1534102774&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8I09K"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Donald Trump's campaign blew almost $1 billion and now they're in deep trouble"
+    excerpt: "Trump's reelection campaign started the day he was sworn into office on January 20th, 2017. Ever since then, the campaign has wasted $1 billion."
+    publishedDateTime: 2020-09-22T12:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-spent-1-billion-2020-election-president-politics-finance-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f69f23a57b7da001ee12ff2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump bashes China at UN amid warnings against a world divided by two superpowers"
+    excerpt: "President Donald Trump on Tuesday bashed China in a videotaped address to the UN General Assembly despite warnings against a world divided by two superpowers."
+    publishedDateTime: 2020-09-22T20:43:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-bashes-china-amid-warnings-world-divided-superpowers/story?id=73166119"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 120
     images:
-      - url: "https://thehill.com/sites/default/files/meadowsmark_10022020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/unga-gty-rc-200922_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "More than half of Americans disapprove of President Trump's handling of race, survey says"
-    excerpt: "According to a survey from the Democracy Fund + UCLA Nationscape Project, 56% of Americans disapprove of the president's handling of race – a six-percentage point increase from February, When broken down by race and ethnicity,"
-    publishedDateTime: 2020-10-03T09:03:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/survey-more-than-half-americans-disapprove-trumps-handling-race/5881109002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5881109002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5881109002"
+  - title: "TikTok has asked a federal judge to file an injunction halting Donald Trump's ban"
+    excerpt: "TikTok is asking a federal judge to issue a preliminary junction holding off Donald Trump's partial app ban set to take effect this weekend."
+    publishedDateTime: 2020-09-25T05:34:00Z
+    webUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-injunction-trump-ban-requests-delay-expedited-hearing-lawsuit-2020-9?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f40185342f43f001ddfe696?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump backs proposed deal with TikTok where app would partner with Oracle and Walmart"
+    excerpt: "Trump said the proposed deal will result in a new company likely to be based in Texas and under the control of U.S.-based Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:34:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-nw-us-tiktok-oracle-walmart-trump-20200919-hrb23okgxfcbrnfjzeind4sqw4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
+    images:
+      - url: "https://www.chicagotribune.com/resizer/idvlzwuJq73RbvJ5Vm39VGB0K70=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SG4356SYJZS5Q3QGZPHW3BWMFQ.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "TikTok’s Chinese Parent Counters Trump Claim On $5 Billion Payment To U.S. Government"
+    excerpt: "TikTok’s Beijing-based parent, ByteDance, has contested President Donald Trump’s claim that the company will pay a $5 billion fee to the U.S. government as part of a deal with Oracle and Walmart. According to a blog post on Chinese platform Toutiao titled “Clarifying false rumors about TikTok,"
+    publishedDateTime: 2020-09-21T11:22:00Z
+    webUrl: "https://www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/"
+    ampWebUrl: "https://www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/siladityaray/2020/09/21/tiktoks-chinese-parent-counters-trump-claim-on-5-billion-payment-to-us-government/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 118
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f688b4697e5e6c97ccc92ad%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8256%26cropY1%3D419%26cropY2%3D5063"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump says he's given his 'blessing' to a proposed TikTok deal with Oracle and Walmart"
+    excerpt: "Trump said he \"approves a deal in concept\" that will allow TikTok to continue to operate in the United States under a deal with Oracle and Walmart."
+    publishedDateTime: 2020-09-19T23:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-gives-blessing-to-proposed-tiktok-deal-with-oracle-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f66848f57b7da001ee12a56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump Gives TikTok Deal 'His Blessing,' Promises It Will Involve $5B to Education Program"
+    excerpt: "President Donald Trump told reporters before leaving for Saturday's North Carolina rally that the deal will \"have nothing to do with China\" and will be \"totally secure.\""
+    publishedDateTime: 2020-09-19T21:42:00Z
+    webUrl: "https://www.newsweek.com/trump-gives-tiktok-deal-his-blessing-promises-it-will-involve-5b-education-program-1533112"
+    ampWebUrl: "https://www.newsweek.com/trump-gives-tiktok-deal-his-blessing-promises-it-will-involve-5b-education-program-1533112?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-gives-tiktok-deal-his-blessing-promises-it-will-involve-5b-education-program-1533112?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
     quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1639378/tiktok.jpg"
+        width: 2500
+        height: 1595
         isCached: true
-  - title: "Trump, 14 others positive for COVID: A running list of those being tested and their results"
-    excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
-    publishedDateTime: 2020-10-04T02:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
+  - title: "President Trump says $5 Billion from TikTok, Oracle, Walmart deal will go toward education"
+    excerpt: "President Donald Trump has signed off on a business proposal between TikTok, Walmart and Oracle that would allow the social networking app to continue to operate in the U.S. One o"
+    publishedDateTime: 2020-09-20T17:30:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/20/trump-says-5-billion-tiktok-deal-would-cover-history-project/5844936002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5844936002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5844936002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump, 15 others positive for COVID: A running list of those being tested and their results"
-    excerpt: "Questions remain on who the president has been in contact with in the days prior to his positive COVID-19 test."
-    publishedDateTime: 2020-10-05T03:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/trump-has-covid-running-list-whos-been-tested-and-their-results/5894564002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5894564002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5894564002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "If Trump's symptoms started before Friday, he may have been highly infectious during the debate"
-    excerpt: "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden."
-    publishedDateTime: 2020-10-03T12:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
-    excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
-    publishedDateTime: 2020-09-24T19:01:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/09/24/donald-trump-niece-mary-trump-sues-him-fraud-after-book/3520817001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3520817001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3520817001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump claimed he would mail $200 cards to millions of older Americans weeks before the election — but it's not clear he can actually do it"
-    excerpt: "Trump said Americans enrolled in Medicare would receive a $200 card in the mail so they could buy prescription drugs."
-    publishedDateTime: 2020-09-26T10:14:00Z
-    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
+  - title: "China Says TikTok Parent Company ByteDance Said It Had Only Learned About Trump Deal in the News"
+    excerpt: "The president has said he has agreed to a deal to allow the social media platform to continue operating in the United States."
+    publishedDateTime: 2020-09-20T09:13:00Z
+    webUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127"
+    ampWebUrl: "https://www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/china-tiktok-bytedance-donald-trump-deal-1533127?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1639411/tiktok.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Oracle announces it will become a minority investor in TikTok Global after Trump indicates his approval"
+    excerpt: "The news is the latest development in the saga of TikTok, the viral video app which was pressured into selling itself to a US-based company."
+    publishedDateTime: 2020-09-19T23:29:00Z
+    webUrl: "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/oracle-announces-125-stake-in-tiktok-global-after-trump-nod-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 106
+    quality: 109
     images:
-      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f60e43c323fc4001e0d6469?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Election debate officials are considering muting candidates' mics, report says, after Trump interrupted 71 times in the chaotic first round"
-    excerpt: "The commission is considering allowing moderators to switch off mics to avoid a repeated of the chaos in the first debate."
-    publishedDateTime: 2020-10-01T10:05:00Z
-    webUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10"
-    ampWebUrl: "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp"
+  - title: "Trump doesn't want ByteDance to maintain control of TikTok - official"
+    excerpt: "U.S. President Donald Trump does not want China's ByteDance to maintain a controlling interest in TikTok because it could put Americans' personal information at risk, a senior administration official speaking on condition of anonymity said on Thursday."
+    publishedDateTime: 2020-09-18T01:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-tiktok-trump-idUSW1N2G100F"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/5f759dd874fe5b0018a8e6b9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200918&t=2&i=1533929903&r=LYNXMPEG8H02J&w=800"
+        width: 800
+        height: 491
         isCached: true
-  - title: "'Mailmen selling ballots. Dumped in rivers. Found in creeks': Trump makes unfounded claims about mail-in voting"
-    excerpt: "From claiming mailmen are \"selling the ballots\" to arguing that mail ballots are being \"dumped in rivers,\" Trump ramped up his assault on mail-voting"
-    publishedDateTime: 2020-09-30T23:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/2020-debate-trump-makes-outrageous-claims-mail-voting/3586836001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3586836001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3586836001"
+  - title: "ByteDance gets Trump nod to avoid TikTok shutdown"
+    excerpt: "U.S. President Donald Trump said on Saturday he supported a deal in principle that would allow TikTok to continue to operate in the United States, even as it appeared to conflict with his earlier order for China's ByteDance to divest the video app."
+    publishedDateTime: 2020-09-20T08:23:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-tiktok-idINKCN26B01L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20200920&t=2&i=1534163557&r=LYNXNPEG8J012&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Trump's Ohio suburb slide signals peril in industrial north"
+    excerpt: "Trump's chances for a second term rest heavily on being able to maintain the margins he won by in 2016, particularly in suburban areas. He plans to campaign outside Toledo on Mond"
+    publishedDateTime: 2020-09-21T13:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-ohio-suburb-slide-signals-peril-industrial-north-73139701"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+  - title: "Trump pledges 'to protect' preexisting conditions"
+    excerpt: "President Donald Trump signed an executive order Thursday \"to protect\" preexisting conditions. But that right is already guaranteed in \"Obamacare,\" the health law his administration is asking the Supreme Court to overturn."
+    publishedDateTime: 2020-09-24T23:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/24/trump-pledges-to-protect-preexisting-conditions/3525093001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/3c9be54e-1f1b-4489-bb6f-74160918199e-AP_US_Election_Debate_Global_Reaction.jpg?auto=webp&crop=5453,3067,x273,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/56a5e206-70f2-4975-a525-2200e4922138_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Several of the military's top generals were at White House event days before Trump tested positive for COVID-19"
-    excerpt: "The chairman of the Joint Chiefs of Staff and the top Army and Air Force generals were at a Gold Star family event on Sunday, defense officials said."
-    publishedDateTime: 2020-10-02T15:29:00Z
-    webUrl: "https://www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-military-generals-at-white-house-event-before-trump-covid19-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5ed6e8e5f0f4192dbf3caba2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "'Standing by sir': Proud Boys praise Trump's comment telling them to 'stand by' during first presidential debate"
-    excerpt: "Members of the far-right group celebrated online over the president's statement during the first presidential debate on Tuesday evening."
-    publishedDateTime: 2020-09-30T05:45:00Z
-    webUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f73fb1674fe5b0018a8e246?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mary Trump says her uncle will go 'farther than you can possibly imagine' to hold onto power if he loses the election as he's afraid of prosecution"
-    excerpt: "In a recent memoir, Mary Trump alleged that a damaged childhood has left the president with pathological personality traits."
-    publishedDateTime: 2020-09-25T12:26:00Z
-    webUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump claimed he's going to send $200 cards to millions of people in the mail weeks before the election — but it's not clear he can actually do it"
-    excerpt: "Trump said Americans enrolled in Medicare will receive a $200 card in the mail so they can buy prescription drugs."
-    publishedDateTime: 2020-09-25T00:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump's acting Bureau of Land Management director just got removed by a federal judge, who said he was serving unlawfully"
-    excerpt: "Willam Perry Pendley has been key to Trump's push to loosen environmental protections and has a long history of undermining Native Americans' rights."
-    publishedDateTime: 2020-09-26T12:17:00Z
-    webUrl: "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp"
+  - title: "Exclusive: Trump to block U.S. downloads of TikTok, WeChat on Sunday - officials"
+    excerpt: "The U.S. Commerce Department plans to issue an order Friday that will bar people in the United States from downloading Chinese-owned messaging app WeChat and video-sharing app TikTok starting on September 20,"
+    publishedDateTime: 2020-09-18T13:57:00Z
+    webUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-trump-to-block-us-downloads-of-tiktok-wechat-on-sunday-officials-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 100
-    images:
-      - url: "https://i.insider.com/5f6e949874fe5b0018a8da33?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Proud Boys are using Trump's 'stand by' remark as a recruiting tool, rebranding to incorporate what they see as his call to action"
-    excerpt: "On social media members of the far-right group celebrated the president's comments, and launched a renewed recruitment drive."
-    publishedDateTime: 2020-09-30T15:00:00Z
-    webUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
+  - title: "Oracle's TikTok deal earned Trump's approval, but the rollercoaster isn't over yet"
+    excerpt: "Trump approved Oracle's TikTok deal hours before the app was set to be banned, but it still needs approval from the US Treasury, and possibly China."
+    publishedDateTime: 2020-09-21T14:01:00Z
+    webUrl: "https://www.businessinsider.com/oracle-tiktok-deal-gained-approval-from-trump-2020-9"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 93
+    quality: 99
     images:
-      - url: "https://i.insider.com/5f748ee40ab50d00184ad3ba?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f60e43c323fc4001e0d6469?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "This ethnic group barely receives attention in American media and politics. The Midwest, home to many German Americans, is a battleground for the 2020 presidential election. Will this inconspicuous group yet again cast the deciding votes in the upcoming election?"
-    publishedDateTime: 2020-10-01T13:10:00Z
-    webUrl: "https://www.chron.com/news/article/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+  - title: "Trump once defined success as keeping US COVID deaths below 200,00. When he failed, he said real failure would be 2.5 million dead."
+    excerpt: "Trump in March said fewer than 200,000 dead would show his coronavirus policies had succeeded. He has since changed his opinion."
+    publishedDateTime: 2020-09-23T11:32:00Z
+    webUrl: "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-redefines-success-after-covid-19-deaths-surpass-200000-2020-9?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 82
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://i.insider.com/5f6b19ba39ab3b001192c7c6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
-    publishedDateTime: 2020-10-04T11:46:00Z
-    webUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
+  - title: "TikTok is now getting grilled by foreign lawmakers about its Chinese roots thanks to Trump"
+    excerpt: "It's unlikely politicians would be probing TikTok's Chinese roots if it wasn't for Trump."
+    publishedDateTime: 2020-09-25T11:52:00Z
+    webUrl: "https://www.businessinsider.com/tiktok-probed-australia-uk-chinese-roots-trump-2020-9"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 82
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
-        width: 687
-        height: 430
+      - url: "https://i.insider.com/5f69ec31323fc4001e0d7a7c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump's $200 prescription cards won't hit mailboxes just yet"
-    excerpt: "If you're on Medicare, don't run to the mailbox looking for a $200 prescription drug card courtesy of President Donald Trump. Government officials said Friday that key details of Trump's election-year giveaway still have to be fleshed out,"
-    publishedDateTime: 2020-09-25T20:26:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-s-200-prescription-cards-won-t-hit-15597915.php"
+  - title: "TikTok says it will fight the Trump administration's ban, and is calling on Facebook and other US social media companies to support its litigation"
+    excerpt: "The Trump administration said TikTok will be banned from US app stores starting Sunday, and banned from being hosted on US servers as of November."
+    publishedDateTime: 2020-09-18T15:57:00Z
+    webUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-response-trump-us-ban-facebook-wechat-bytedance-2020-9?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5f64c85457b7da001ee12708?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "TikTok Deal Sure Seems Like Another Bizarro Trump Fakeout"
+    excerpt: "Chinese-owned ByteDance, not Oracle and Walmart, will have a majority stake in the new U.S.-based TikTok company—terms that contradict the president’s claim that “it will have nothing to do with China."
+    publishedDateTime: 2020-09-21T17:41:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/tiktok-deal-sure-seems-like-another-bizarro-trump-fakeout/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
     quality: 75
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://media.vanityfair.com/photos/5f68c6f0ff5dee9bb494a549/master/pass/Donald-Trump.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Man arrested for punching another person in apparent argument over Trump: police"
-    excerpt: "Police said the incident occurred Saturday outside a Buc-ees convenience store and gas station in Denton, Texas."
-    publishedDateTime: 2020-10-04T16:59:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
+  - title: "Trump Touts 'Fantastic' TikTok Deal With Walmart And Oracle"
+    excerpt: "Popular video app TikTok announced Saturday it has proposed an agreement with Oracle as its US technology provider and Walmart as a commercial partner, a potential deal US President Donald Trump touted as \"fantastic."
+    publishedDateTime: 2020-09-20T00:53:00Z
+    webUrl: "https://www.ibtimes.com/trump-touts-fantastic-tiktok-deal-walmart-oracle-3048628"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 70
-    images:
-      - url: "https://www.nydailynews.com/resizer/s5uzKQOxZlQ4CUG5P2Ogxpu-IyM=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QX7BX6UVRGLBGOLUK7OZI6SEA.jpg"
-        width: 1200
-        height: 774
-        isCached: true
-  - title: "Donald Trump Jr thinks his father is ‘acting crazy’ and is desperate to rein him in: report"
-    excerpt: "President Donald Trump’s hospital joyride and his manic Monday-morning tweets aren’t just being panned by political pundits — they’re also reportedly freaking out some in the president’s own family. According to Vanity Fair’s Gabriel Sherman,"
-    publishedDateTime: 2020-10-05T17:46:00Z
-    webUrl: "https://www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/donald-trump-jr-thinks-his-father-is-acting-crazy-and-is-desperate-to-rein-him-in-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 65
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2016/10/Trump-645x430.jpg"
-        width: 645
-        height: 430
-        isCached: true
-  - title: "Trump is stubbornly clinging to stunts to show all is well — even as his condition worsens: analysis"
-    excerpt: "Writing for Vox, correspondent German Lopez slammed President Donald Trump for his ongoing series of stunts to prove that everything in the country is normal and there is nothing to be afraid of or criticize his government for — even as COVID-19 has made him very sick."
-    publishedDateTime: 2020-10-05T15:45:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 60
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-793x430.jpg"
-        width: 793
-        height: 430
-        isCached: true
-  - title: "Judges Skeptical of Trump's Arguments Over Tax Returns"
-    excerpt: "A federal appeals court on Friday expressed deep skepticism toward Donald Trump's arguments against letting Manhattan's top prosecutor obtain his tax returns in connection with a criminal probe into the U."
-    publishedDateTime: 2020-09-26T21:23:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-25/trumps-lawyers-manhattan-prosecutors-to-square-off-in-court-over-presidents-tax-returns?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 55
-  - title: "Trump Joins Growing List of Virus-Infected World Leaders"
-    excerpt: "President Donald Trump has tested positive for the coronavirus, joining a small group of world leaders who have been infected."
-    publishedDateTime: 2020-10-02T06:48:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/19/us-president-donald-trump-has-targeted-video-sharing-AFP_8QC6CY.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "CXzEmwNnxCgAVTPMXqK2S4/ssK1wpoLVOLKomVECI0ZVIttGav0oyyccj/tNgHBNUwICxEcsF8/gY/5MoTQYdY1mEwoWQCqWe9sfumebpyfcKKCLuFGHbg1/o1QNmQtThZ3C7Rnvjlny17QqR/ATmBZvp9jJesEBxcokUISw9HabXrt47r1NG3/Rr8LE73Eo/O43wu2iWHysvuDs4jVVcuqkIc0omJyJG383iqO8ARQRbQXzSDmC3lMD376M3ULZGxgamUIAH1pzsfX4hhCAZ2SHRAP/wR5GimI8rnGG1+6qQFzrVkFpCZne/i2o8gVKvxcKQczxi4BWyg39CwH59zWZeQhaXySjuQsnzFkguVE=;bOqRhtdvMDhpE3BH3ncImg=="
 ---

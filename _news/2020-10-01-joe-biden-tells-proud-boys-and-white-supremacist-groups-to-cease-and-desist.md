@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
 webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
 type: article
 quality: 102
-heat: 142
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -29,6 +29,54 @@ images:
     isCached: true
 
 related:
+  - title: "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name"
+    excerpt: "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name."
+    publishedDateTime: 2020-10-01T02:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump sidesteps call to condemn white supremacists — and the Proud Boys were 'extremely excited' about it"
+    excerpt: "Debate moderator Chris Wallace asked if Donald Trump would urge groups to stand down and avoid contributing to the violence. He sidestepped."
+    publishedDateTime: 2020-09-30T12:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/trump-debate-white-supremacists-stand-back-stand-by/3583339001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3583339001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583339001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/615b05e1-ec70-40f4-99c5-e7bec4e73719-AP_Election_2020_Debate_2.jpg?auto=webp&crop=5180,2914,x0,y263&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump, asked to condemn white supremacists and militia during the debate, tells Proud Boys group to ‘stand back and stand by'"
+    excerpt: "President Donald Trump on Tuesday didn’t clearly condemn white supremacist groups and their role in violence in some American cities this summer, branding it solely a “left-wing” problem and telling one far-right extremist group to “stand back and stand by."
+    publishedDateTime: 2020-10-01T17:34:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 98
+    images:
+      - url: "https://www.chicagotribune.com/resizer/q4cHOxV-K4_t5dNpwY_iFVJfJJE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ELDAHI55RQAN3OMC6KPVEDJBIY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Who are the Proud Boys? Far-right group known for political brawls are in the spotlight after Trump tells them to ‘stand back and stand by.'"
     excerpt: "President Trump at the first debate said the extremist organization should “stand back and stand by.” Some saw it as an endorsement."
     publishedDateTime: 2020-10-01T12:09:00Z
@@ -45,21 +93,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
-    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
-    publishedDateTime: 2020-10-01T16:10:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
+  - title: "Trump Condemns ‘All White Supremacists’ and Proud Boys After Days of Odd Comments"
+    excerpt: "President Donald Trump condemned “all white supremacists,” including the Proud Boys during an interview with Fox News host Sean Hannity on Thursday night. Trump’s remarks come after days of odd comments from both him and White House press secretary Kayleigh McEnany,"
+    publishedDateTime: 2020-10-02T13:01:00Z
+    webUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/"
+    ampWebUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Mediaite
+      domain: mediaite.com
     quality: 70
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Hannity-09_40_28-PM-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Jui4BADPcErDgoBJSV4KJUbEISqJZeo3StGpbbQH2Iug7ahYEJ73IfAaaYjqFNjSDhy9nSiiuw8Fy96zRrElu0FXsSrzlInyinTe/wIC6HiPhMJuIcKYNjJkTuhgBZL5lwN6vrnknmZwfr8dlnCEqVWbRxQQ99Rv28WFYou4Tlzzs7uVHaLiWIapQad3HUdeEgoI/gZEEJuAssG73EcHatiAgiiD5A24d/VM/B5ppvVPKncBSdIxNWMBbxo41buPX3nR6BmQLT8Ggbc6vB0iwRxD3a3rM7YqT75ZiY5wB6BnZyaNEXBrrq8NBoZGDdmM+XEt5QbmqscxhABNt41XsSUMINmeP87nF5vbsINKQyY=;6XgV9WRQQAPclee1Rp8Xow=="

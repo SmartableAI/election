@@ -52,6 +52,22 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy | Charlotte Observer"
     excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
     publishedDateTime: 2020-10-01T17:04:00Z
@@ -68,6 +84,15 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Joe Biden Remarks in Gettysburg, PA"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, PA. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T15:17:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "sMFhYJdSpFAnGj3hks6ulQnRke8plsVp2leOk9b2wpaxyYxH7gGfV3TCyYk0jWE5/FK8EJQNvNwqrlszWgrhVTu6lRRKq7XcNQDoVXu/Fdkgv2g1y7TDrWwG568K9QmBNBPzEnxuRQKd+qedsvnhsasL4pTXQqQXMXJUfeHdLfMjAibo71+olargpEg/ZaQ78YgZB50h/2hHCU/pIaIi0WME4ihj9lzrBBim+2BRRObnpYJ1tcqfpriqII+gfQjrdJifHZ4/0tgfn7Dd+0b2GSwJ6J8Bvdt1ljetEyboA4HZ6j/76ATbOiMDSF9z1OlphEjdxyG+5w8ZE+dvVC/rz/L2BM2snfoICx0mTk3GgKQ=;zSGgmNBOn+h3qOi6hIy03Q=="
 ---

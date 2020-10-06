@@ -143,22 +143,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "I made $10,500 as a freelancer in 2018 — and still paid more taxes than Trump. The system is broken."
-    excerpt: "According to a blockbuster New York Times investigation, the president paid $750 in taxes in 2016 and 2017. But he's not just one bad apple."
-    publishedDateTime: 2020-09-29T17:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-taxes-returns-freelance-income-750-dollars-broken-system-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-taxes-returns-freelance-income-750-dollars-broken-system-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-taxes-returns-freelance-income-750-dollars-broken-system-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5f438c1042f43f001ddfe8e0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump denies New York Times report detailing his tax returns and financial problems: 'It's totally fake news'"
     excerpt: "The Times reported that Trump paid only $750 in federal income tax in 2016 and 2017, but shelled out $70,000 on hair styling during \"The Apprentice.\""
     publishedDateTime: 2020-09-28T09:18:00Z

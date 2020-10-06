@@ -175,14 +175,14 @@ related:
         isCached: true
   - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
     excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
-    publishedDateTime: 2020-10-06T13:46:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/06/trump-trails-biden-covid-economy-and-health-care-cnn-poll-says/3635336001/"
-    ampWebUrl: "https://amp.freep.com/amp/3635336001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3635336001"
+    publishedDateTime: 2020-10-06T14:54:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/06/trump-trails-biden-covid-economy-and-health-care-cnn-poll-says/3635336001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3635336001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3635336001"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"

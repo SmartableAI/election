@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
 excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
-publishedDateTime: 2020-10-06T13:46:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2020/10/06/trump-trails-biden-covid-economy-and-health-care-cnn-poll-says/3635336001/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/06/trump-trails-biden-covid-economy-and-health-care-cnn-poll-says/3635336001/"
-ampWebUrl: "https://amp.freep.com/amp/3635336001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3635336001"
+publishedDateTime: 2020-10-06T14:54:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/06/trump-trails-biden-covid-economy-and-health-care-cnn-poll-says/3635336001/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/06/trump-trails-biden-covid-economy-and-health-care-cnn-poll-says/3635336001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3635336001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3635336001"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -346,6 +346,6 @@ related:
         height: 675
         isCached: true
 
-secured: "emZaXd+OfzxDgINSG22upmtWn/AhOFKo3eBMRHD8KkWiqXna8p/E9klTfIfTS6sjAV+6rZ/WXRT/yJYiZ5HIkHpTDpGuU0preSPLoky+1Z7GB7CQn22Pl/xp4u5qTPv8M+xZwaiTrzOTy5N13KVl2fRTrDnJoROfB4N3r93HFwHhxKfXmX82QCjMszylIU2oZUlB5USaH2lu5tc/CMwSovlAfOlRoM67GWXrIysPY+Wl8J1UekU0R74hiDwdynH1yLwbMd76zl6029ALGEPdacgWIwrtsHJBFxPyARKlv/XQbpZONzWGpfUv3efInRMseDzalM3RdbjGrIZBhQLm1L3Y5HMapIMhBNSJ2iPjZlY=;P8egMddvmrUSuvkotI9XOA=="
+secured: "B/7c6T+vI0lYqD8PDdkt39ay9EoJlYo1DgZJvkmJfDUww42vb4go/jkTDfDJcmE7OztH1L8HmkQBO66z2M8z6ktR+7EXPOme5f/++/yAUNNjrMjmafmH7Qxckdu6ppF1EQZu+Ai02Giv9Ici72NlLXrV4nvzIZHSQE7y1CGS/KioIBHKRTKX6+z1DmArigGSqNVVqFPmywr02hTIzS3x0qXkkL6ipzRjysmgkBXlzCevIr2htoY3I5kVrYG84bRtptoLu28DbAQZrE5Sc/2vrz95yhH+qF5zkDqnAyE/G0QEvkxuVoI3/oB91KLwHZ8citEebfeoT8mXvD9mlTA6t/5tvsLWqMcfRnh6rpR2cgc=;wAB8MfeJmThUn8jdGgFrZw=="
 ---
 

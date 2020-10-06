@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris and the Push to Cut Hospital Bills in California"
+    excerpt: "She took on the drug and hospital industry as California attorney general, seeking consumer relief from anti-competitive pricing."
+    publishedDateTime: 2020-10-06T14:39:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/health/kamala-harris-health-care.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/health/kamala-harris-health-care.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/health/kamala-harris-health-care.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/05/science/00HARRISAG01/00HARRISAG01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
     excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
     publishedDateTime: 2020-09-28T21:04:00Z

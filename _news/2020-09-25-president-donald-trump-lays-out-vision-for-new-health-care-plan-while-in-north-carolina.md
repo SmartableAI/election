@@ -45,21 +45,37 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump plans to slash refugee admissions to US to record low"
-    excerpt: "The Trump administration has proposed further slashing the number of refugees the United States accepts to a new record low number in the coming year"
-    publishedDateTime: 2020-10-01T09:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-set-miss-required-deadline-2021-refugee-quota-73351093"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-set-miss-required-deadline-2021-refugee-quota-73351093"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-set-miss-required-deadline-2021-refugee-quota-73351093"
+  - title: "AP FACT CHECK: Trump's dubious claims on health care, court"
+    excerpt: "President Donald Trump isn’t providing all the facts when he promises that people with preexisting medical problems will always be covered by health insurance if “Obamacare” is ruled unconstitutional"
+    publishedDateTime: 2020-09-28T05:45:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trumps-dubious-claims-health-care-73285714"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_5f77f116102749488f5cafe5346ea292_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9dae8cbae5d7441d916637e106aafdfa_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The most essential books of the Trump era are barely about Trump at all"
+    excerpt: "As the Washington Post’s nonfiction book critic, I’ve read well over 150 works covering Donald Trump and the major debates of his presidency, and that’s just a small fraction of the canon. Dissections of heartland voters."
+    publishedDateTime: 2020-10-01T19:52:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/01/most-essential-books-trump-era-are-barely-about-trump-all/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKM6GYHTOYI6VABFLU2IS5UKZA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "This crowd of RBG fans showed Trump what law and order really sounds like"
     excerpt: "Donald Trump likes to present himself as a law-and-order president standing athwart an angry mob. On Thursday, he visited the U.S. Supreme Court and an angry mob confronted him, making it clear that they planned to thwart him in the most lawful,"

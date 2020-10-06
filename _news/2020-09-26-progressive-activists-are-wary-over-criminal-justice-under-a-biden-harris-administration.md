@@ -192,6 +192,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris and the Push to Cut Hospital Bills in California"
+    excerpt: "She took on the drug and hospital industry as California attorney general, seeking consumer relief from anti-competitive pricing."
+    publishedDateTime: 2020-10-06T14:39:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/health/kamala-harris-health-care.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/health/kamala-harris-health-care.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/health/kamala-harris-health-care.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/05/science/00HARRISAG01/00HARRISAG01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
     publishedDateTime: 2020-10-06T00:10:00Z

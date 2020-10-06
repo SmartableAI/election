@@ -2533,6 +2533,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Stocks Higher After Trump Leaves Hospital"
+    excerpt: "Stock markets gained ground Tuesday while investors mulled the level of US electoral uncertainty after President Donald Trump returned to the White House following treatment for Covid-19. As Trump was discharged from hospital,"
+    publishedDateTime: 2020-10-06T14:39:00Z
+    webUrl: "https://www.ibtimes.com/stocks-higher-after-trump-leaves-hospital-3057252"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/traders-are-increasingly-pricing-in-a-joe-biden.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z

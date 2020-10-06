@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1"
 type: article
 quality: 120
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Eric Trump answers questions from NY investigators in examination of family business"
-    excerpt: "President Donald Trump's son Eric answered questions Monday from New York state investigators looking into his family's business practices. The office of New York Attorney General Letitia James confirmed that the video deposition took place as scheduled,"
-    publishedDateTime: 2020-10-06T13:35:00Z
-    webUrl: "https://www.cbsnews.com/news/eric-trump-deposition-new-york-investigators-family-business/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/06/17cd3855-485e-4dfc-aea1-bf33d733ce9d/thumbnail/1200x630/605201032786294968670388fc939ec5/gettyimages-1277456367.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "A3PWPXgjXXUDhesQHWZmtpBKeG4lHaNvXAbxryGcZovpZJ0Yy19nU0wxtuJK/wOh/o7JltKWlwy3djY/6lSTgb71b/OtCsVkg0MNsn8uza+T+NX+j73tiAwUQOOI3uY8kCPKgTihYvS2Nmb+JpsA6bcKqWWzhgORmv1pZDX/oSTDCJx35AX/KvOU9N3QSZP1ENkwh0uf2dDGk5J5SQ6NO9/0pjchzwM/tYYHOxcxFabLTKQG2f4oph+sh1jOGXqXivKtCa4yR9Zzi55axzlaIweG0c2KfEC86TS+h/GWbG0CKADRsi+mN8QyWGsuintUY/zCBwTxV5pt/Z5OZTssy7/493+wOtxdNAPLu6KDGq0=;7vThL9ueXBXetAG0nlU/tw=="
 ---

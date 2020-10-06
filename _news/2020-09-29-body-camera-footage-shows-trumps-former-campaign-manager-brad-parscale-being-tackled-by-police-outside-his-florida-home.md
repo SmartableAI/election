@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Police: Friend convinced Trump ex-campaign boss to surrender"
+    excerpt: "A standoff between South Florida police and President Donald Trump’s former campaign manager Brad Parscale ended after an officer who was friends with Parscale convinced him to surrender, officials said."
+    publishedDateTime: 2020-09-29T07:57:00Z
+    webUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border"
     excerpt: "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said."
     publishedDateTime: 2020-09-21T00:55:00Z
@@ -76,6 +87,22 @@ related:
       - url: "https://i.insider.com/5f767a250ab50d00184adb74?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Staten Island Ridiculed On Twitter For Pro-Trump ‘Super Spreader’ Rally"
+    excerpt: "Staten Island was mocked on Twitter for a rally to support President Trump, after he was hospitalized with COVID-19."
+    publishedDateTime: 2020-10-03T22:11:00Z
+    webUrl: "https://ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238"
+    ampWebUrl: "https://www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/26/donald-trump-fires-up-his-supporters-at-a.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "ZCjf/o8t8c3aSLlimwAkWYImd6snPl7pk8CcIfAbKH1eFDBzmTU7nPjZygmLVzkNO93nr4KsvRbFB6ynCM/btytufBM+r2xCDsmOHL7cJdnzRr3n1jgKWKVBECnxpuqSWowzE/CcKMDEzsDq3O03FuFGX5VH790xBSSjPFWyULwEEtBnc0vvCdZrItqkZDcQ3DDo5SZ8vpSxjl8JNbcCO3rritsWanbGBDRCtUMcM/PHCM0wNotDYE/dskmdsUoc/9Urhl9zAZ5ijTMYXEjQAUXxkTUv7oOcHrx3jhs95MUH035tBTa1Fob75FAOce1pUnuGl0MSqrBdfxFxZfcsw+U+RJ5IIHiSGPR3pBGCOh5sxpcfTS6cQlBGPTx95fhwkwDQMjnVnl6+8xN3hxcytN2a9ddRvmmC/S0FJHszBRRLWK6PRkxrPGSaRHqETfi+uRlwZIJ84pLbvn+DgBA5faUgJXfobcbHew68rfPnEOMmM4xMqkdFFUvQN10uXXZYZq7X9KpCdTBPATBtRtTbrw==;xchNNa6KI/LcOakIAgFJvg=="

@@ -183,6 +183,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden in Pennsylvania, to visit historic Gettysburg Tuesday"
+    excerpt: "Democratic presidential nominee Joe Biden will campaign in southern Pennsylvania on Tuesday, in a state viewed as a critical battleground for next month's election."
+    publishedDateTime: 2020-10-06T15:18:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday/7071601988862/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-in-Pennsylvania-to-visit-historic-Gettysburg-Tuesday.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
     excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."
     publishedDateTime: 2020-09-29T14:19:00Z
