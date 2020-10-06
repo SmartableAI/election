@@ -255,22 +255,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "GOP faces reckoning over Trump's virus strategy, diagnosis"
-    excerpt: "President Donald Trump ’s coronavirus diagnosis was a moment of reckoning for his Republican Party, whose leaders largely adopted his strategy of playing down the disease but are now confronted with a stark political nightmare a month from Election Day."
-    publishedDateTime: 2020-10-03T17:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b646160b63fb44cc87cda580de0d383c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Global stocks rise as signs of Trump's improving health calm markets"
     excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
     publishedDateTime: 2020-10-05T04:27:00Z
@@ -318,6 +302,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_2dac7a77f4fb432388b1632ccc3281f2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Lawyers: Trump can’t use job as a shield in defamation suit"
+    excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can’t hurl insults at her and then replace himself with the government"
+    publishedDateTime: 2020-10-06T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Restaurant staffers in quarantine after working Trump fundraiser"
     excerpt: "More than a dozen employees of Murray's Restaurant in Minneapolis who served at catered event are now isolation."
@@ -725,15 +725,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Lawyers: Trump Can't Use Job as a Shield in Defamation Suit"
-    excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can't hurl insults at her and then replace himself with the government as the defendant in a defamation lawsuit."
-    publishedDateTime: 2020-10-06T02:14:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2020-10-05/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "m84LkR5aP1yl9/wprCEhqWr2AlGbvwwl054TTw96+cmAFvpMQ+1LlFMv6Tphp9uckIU1lTWob3IcJ8nonKHcX5XKLY0xNRjOEwRymG4THacKE1G1+DfELWm4tqBwW985H24dF0O6P6ILXHQJFGLi8Z6fMgAwObPd5BHWeMKpv/8mOVICYkGDKDslAkVo5FlltfpSXw1wEqNgepdjZt1NwTRdgqKrAqSiIoAX2pgdXEr5TQT+91Y0J2PdLzWuNxFIviIFJtEJuJMQhsSCJejXB7/SWZFDsk+SgI7Kuya9d9y063gBq4UGcsgBVMA2G0rBzLswUqvAa3Od8qKR5BVE5UOYokfgkFdW0ioLaDzJI/u0RvlItXpOKeDv574ybgieVplqdN2eZqeu46arZf9V61fxClZaAg/G+/hgYW4aJFYC7bM1QShPptvqJ/X/NYQz2JQT/lzNci7aSSFBUu6iB/amENo7dq9qSZH5OqMaI4lbUXTTR4GyG+UkhfZhhZvCNrjmlzrUgjp77MwFHCAuIg==;aOr+o1hmG7+X/skLyhMFMQ=="
 ---

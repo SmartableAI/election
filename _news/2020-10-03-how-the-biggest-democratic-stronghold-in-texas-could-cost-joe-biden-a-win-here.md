@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden in Michigan says he hopes first family recovers soon"
-    excerpt: "Joe Biden wished President Trump and the first lady a speedy recovery from COVID-19 on Friday, speaking from the campaign trail in Michigan after his own campaign announced that Biden tested negative for the coronavirus."
-    publishedDateTime: 2020-10-02T22:52:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/02/809a3b2d-989b-4c5e-8e10-c328091be6dd/thumbnail/1200x630/00122e40fc004343e7f45d2515e23b92/gettyimages-1278091226.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Joe Biden's small business outreach shows he's ready to spark America's strongest recovery ever"
     excerpt: "We need to turn this recovery into America’s renaissance, and that starts with sending Joe Biden and Kamala Harris to the White House."
     publishedDateTime: 2020-10-05T15:48:00Z
@@ -57,114 +41,29 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden and his wife, Jill, paid nearly $300,000 in federal income taxes, newly released returns show"
-    excerpt: "The release served as a contrast to President Trump, after new reports that he has paid minimal or no federal taxes in recent years."
-    publishedDateTime: 2020-09-30T00:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-taxes/2020/09/29/d7afe3a8-027a-11eb-b7ed-141dd88560ea_story.html"
+  - title: "Detroit pastor wants Biden to reach out more to Black community"
+    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
+    publishedDateTime: 2020-10-01T19:52:00Z
+    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 89
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EKSGUWQCRII6XN7NCQO5RBLA5I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden campaign sees opportunity in military women, spouses and people of color"
-    excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
-    publishedDateTime: 2020-10-03T11:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 81
-  - title: "Joe Biden opens 9-point lead over President Trump in Michigan, Detroit News/WDIV-TV poll finds"
-    excerpt: "Democratic presidential candidate Joe Biden's lead in Michigan over President Donald Trump now stands at 9 percentage points."
-    publishedDateTime: 2020-10-06T03:18:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/05/biden-leads-trump-9-points-michigan-detroit-news-wdiv-tv-poll/3627544001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3627544001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3627544001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 78
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PDTN/ec170626-d7fb-4b6b-9f06-9c9943acc2a2-debate_sbs.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
-    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
-    publishedDateTime: 2020-10-05T20:50:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
-    images:
-      - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Bankole: Joe Biden claims he is campaigning in Michigan, but can voters really tell?"
-    excerpt: "When you drive around Detroit's most underserved areas to the most stabilized there are few Biden signs dotting those neighborhoods, Bankole writes."
-    publishedDateTime: 2020-09-21T03:12:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2020/09/21/bankole-can-voters-tell-joe-biden-campaigning-detroit-michigan-election-trump/5824238002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5824238002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5824238002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/10/PDTN/3b2b9265-56f7-494e-97c1-b3598e58d1f5-Biden_Detroit.jpg?auto=webp&crop=3795,2135,x0,y165&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Second lady Karen Pence rallies with evangelicals in Michigan"
-    excerpt: "\"You've seen it for yourself,\" Pence said. \"You've all seen it for yourself, President Trump and Vice President (Mike) Pence are staunch defenders of religious liberty here at home and around the world.\" Evangelical voters were a key facet of Trump's ..."
-    publishedDateTime: 2020-09-26T03:12:00Z
-    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/second-lady-karen-pence-rallies-with-evangelicals-in-michigan/article_f2152a25-4eae-5aea-af2d-31b5b9cf6414.html"
-    type: article
-    provider:
-      name: Bozeman Daily Chronicle
-      domain: bozemandailychronicle.com
-    quality: 55
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Bernie Sanders to Michigan young voters: 'Not enough to complain,' must vote for Joe Biden"
-    excerpt: "The Sanders visit comes with less than 30 days before Election Day and as both presidential contenders vie for Michigan voters."
-    publishedDateTime: 2020-10-05T19:02:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/05/bernie-sanders-job-biden-donald-trump-presidential-campaign/3623526001/"
+  - title: "Joe Biden lays out plan to help Venezuelan and Cuban Americans while criticizing dictators"
+    excerpt: "In Miami's Little Havana, Joe Biden explained his plan to help Venezuelan and Cuban Americans. Biden criticized President Trump and said he had spent his presidency appealing to autocrats."
+    publishedDateTime: 2020-10-05T21:24:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article246242480.html"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/07/PDTF/2d58c6fc-fe03-4840-9bf9-e210c3ff5ccf-AP_Election_2020_Bernie_Sand.jpg?crop=5081,2858,x0,y335&width=3200&height=1680&fit=bounds"
-        width: 2987
-        height: 1680
-        isCached: true
-  - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
-    publishedDateTime: 2020-10-02T19:32:00Z
-    webUrl: "https://www.c-span.org/video/?476523-1/joe-biden-campaign-remarks-grand-rapids-michigan&ICID=ref_fark"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 25
 
 secured: "/12be+GfFTYLhljx/0e6Ri/bP75qI3qb4epSjas34RFbFkktFdUjkIHMz/ikLE9kTIeBlS83Y5I/G0LIYtm5/iol4qFXxGRIs61iyEGOOliFlLhWr8By78MQPsl+g3Hz9NdOrHDM/GpO/RbrGPOa/H5SY8JY+mjU42G+DSYZtCTB+VAi23obF5aMiqoWYFSHOSSw12dYY77SPjlZ99gIeaVXumwkGxOAvbmYELUZOU6v0DChJKeu7ToAj+Rgs8qNO4xUGJbyD07QmncPRXGUQAA/CmFnCcWChzlP8ocly19Gw/12fe4RaoB0FJFc/idnmYH7dv5HQUYdXS6M7dW1ZufvEKt5LjJ7VgsNiTPlg8JdUcNljLr4JOR3LSAEmwMPKjG7CTishFGp3wQKs08sWZzSCqDkIdNFEe207iDf0QjfwusfPJrOKECTDMMZMplj0Vwqrx3zAtkZveMvEbLMhO5M5tCkz2PXJlubOtGUQbSPNOs9pImngJdNCnLDtyOnTG+5mL6i2iePij4hSuI2tA==;40sMtsD4EvaVSvi+1fT24g=="
 ---

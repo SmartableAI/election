@@ -57,6 +57,20 @@ related:
         width: 615
         height: 409
         isCached: true
+  - title: "Second lady Karen Pence rallies with evangelicals in Michigan"
+    excerpt: "\"You've seen it for yourself,\" Pence said. \"You've all seen it for yourself, President Trump and Vice President (Mike) Pence are staunch defenders of religious liberty here at home and around the world.\" Evangelical voters were a key facet of Trump's ..."
+    publishedDateTime: 2020-09-26T03:12:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/second-lady-karen-pence-rallies-with-evangelicals-in-michigan/article_f2152a25-4eae-5aea-af2d-31b5b9cf6414.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tz8fFfDR040RbnXTBEVnO+IfRxpRXZs0Ytd5D6Oc8naOwTvgykEAqxi9EmuaKvqI+OBgmTGfNpxUJDwWbgOO6U92YdJCBAYsjoJeC+JdAC794cwNdYQ8907J7JZ23Rc1VLNuAgegig4dOtrNSe1DUXlb1WvvWnAS6/ohKjonjcVa8NYUWomrZAd5vbL7mOqr7/ipcObO/zdFMcSuRoc/yy89yV3UL7aIkikTbcxqr9Atlf36tknwD54J/bLDfMyg5gD0v3dLXbiuneK7C/hWmnB96yXauKmF9S7dKR6IOjZisaT38YS7tT1g0eeudoWbTvZqwtfLU4WNpNmwIbd/hOaLkqT4UUXFExchVeUU1zw=;2UIgFvGSdsnL2U515GOY0g=="
 ---

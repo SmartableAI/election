@@ -31,117 +31,277 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A: Will the Trump administration be able to ban TikTok?"
-    excerpt: "A federal judge on Sunday postponed a Trump administration order that would have banned the popular video sharing app TikTok from U.S. app stores"
-    publishedDateTime: 2020-09-28T21:56:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/qa-trump-administration-ban-tiktok-73300439"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439"
+  - title: "WATCH: Joe Biden glad Trump is better, notes crisis is ‘far from over’"
+    excerpt: "Former Vice President Joe Biden delivered remarks about economic recovery for Latino communities amid the COVID-19 pandemic while visiting Little Havana in Miami on Monday."
+    publishedDateTime: 2020-10-05T20:56:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: PBS
+      domain: pbs.org
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4e6ed43bd3c84a029309df15469bc11c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump Administration Slashing Refugee Admissions To Lowest Level Yet"
-    excerpt: "The Trump administration announced late Wednesday it will admit only up to 15,000 refugees into the U.S. in fiscal year 2021—marking the lowest cap on admissions the administration has set yet—continuing the government’s steady decrease in refugee admissions over the course of Donald Trump’s presidency as he frequently condemns migrants on the campaign trail."
-    publishedDateTime: 2020-10-01T13:27:00Z
-    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/01/trump-administration-slashing-refugee-admissions-to-lowest-level-yet/"
-    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/01/trump-administration-slashing-refugee-admissions-to-lowest-level-yet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/01/trump-administration-slashing-refugee-admissions-to-lowest-level-yet/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75d8262d7049fa994972ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D78%26cropY2%3D1765"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump administration slashes refugee program amid president's campaign attacks on immigrants"
-    excerpt: "In Obama's final year in office, the annual cap on refugees was 110,000. Trump has pared that down. In fiscal year 2021, the limit will be 15,000."
-    publishedDateTime: 2020-10-01T15:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/10/01/trump-moves-slash-refugee-resettlement-amid-campaign-attacks/3574637001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3574637001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3574637001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/09/08/USAT/0389e08b-9e09-41b0-a4cb-931332d3ac83-GTY_1162402975.JPG?auto=webp&crop=5472,3078,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Federal judge says Trump administration's actions against TikTok 'likely exceed' the president's authority"
-    excerpt: "The federal judge, who on Sunday blocked Trump's proposed ban, said TikTok would \"suffer irreparable harm\" if the order were to go into effect."
-    publishedDateTime: 2020-09-28T21:44:00Z
-    webUrl: "https://www.businessinsider.com/tiktok-ban-injunction-federal-judge-says-donald-trump-exceeds-ieepa-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/tiktok-ban-injunction-federal-judge-says-donald-trump-exceeds-ieepa-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tiktok-ban-injunction-federal-judge-says-donald-trump-exceeds-ieepa-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5f40185342f43f001ddfe696?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Federal judge says Census count must keep going until Oct. 31 despite Trump administration efforts to cut it short"
-    excerpt: "A federal judge in California has ordered the Trump administration to continue counting for the 2020 Census through Oct. 31, overriding the administration's efforts to shorten the timeline to submit results."
-    publishedDateTime: 2020-10-02T19:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 103
-    images:
-      - url: "https://s.abcnews.com/images/Politics/census-2020-01-ap-llr-201002_1601660075177_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Chevron orders staff worldwide to delete WeChat from their work phones, despite a judge blocking Trump's ban of the app"
-    excerpt: "Chevron has asked staff to delete WeChat off their work phones, despite President Donald Trump's ban on the app being blocked by a federal court."
-    publishedDateTime: 2020-09-23T20:37:00Z
-    webUrl: "https://www.businessinsider.com/chevron-asks-employees-delete-wechat-off-phones-following-trump-ban-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/chevron-asks-employees-delete-wechat-off-phones-following-trump-ban-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chevron-asks-employees-delete-wechat-off-phones-following-trump-ban-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5f6b1ce939ab3b001192c7cd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Trump administration is handling the White House COVID-19 outbreak in the same disastrous way it approached the country's"
-    excerpt: "There's been little to no transparency, mixed messaging, and a continued lack of respect for public health recommendations despite an evolving crisis."
-    publishedDateTime: 2020-10-05T19:09:00Z
-    webUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5f7b674d282c500018c78ab8?width=1200&format=jpeg"
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/GettyImages-1228584412-1024x683.jpg"
         width: 1024
-        height: 512
+        height: 683
+        isCached: true
+  - title: "Joe Biden in Michigan says he hopes first family recovers soon"
+    excerpt: "Joe Biden wished President Trump and the first lady a speedy recovery from COVID-19 on Friday, speaking from the campaign trail in Michigan after his own campaign announced that Biden tested negative for the coronavirus."
+    publishedDateTime: 2020-10-02T22:52:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/02/809a3b2d-989b-4c5e-8e10-c328091be6dd/thumbnail/1200x630/00122e40fc004343e7f45d2515e23b92/gettyimages-1278091226.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "GOP faces reckoning over Trump's virus strategy, diagnosis"
+    excerpt: "President Donald Trump ’s coronavirus diagnosis was a moment of reckoning for his Republican Party, whose leaders largely adopted his strategy of playing down the disease but are now confronted with a stark political nightmare a month from Election Day."
+    publishedDateTime: 2020-10-03T17:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b646160b63fb44cc87cda580de0d383c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Top Israeli rabbis, and U.S. envoy, pray for Trump recovery"
+    excerpt: "Israel's rabbis prayed for U.S. President Donald Trump to recover from COVID-19 on Monday, invoking his name in a Jewish holiday ceremony at Jerusalem's Western Wall."
+    publishedDateTime: 2020-10-05T11:10:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-jewish-bless/top-israeli-rabbis-and-u-s-envoy-pray-for-trump-recovery-idUSKBN26Q1IE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q1IE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1IE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536199207&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG940W5"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump takes to Twitter to make pitch to voters from Walter Reed"
+    excerpt: "President Trump on Monday fired off a string of tweets calling on his supporters to vote while he continues to receiving treatment at Walter Reed National Military Medical Center after testing positive for the coronavirus last week."
+    publishedDateTime: 2020-10-05T13:20:00Z
+    webUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed"
+    ampWebUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_100420getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
+    excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
+    publishedDateTime: 2020-09-29T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
+        width: 806
+        height: 545
+        isCached: true
+  - title: "'This cannot be a partisan moment': Obama, Biden, and the Clintons offer prayers for Trump after he tests positive for COVID-19"
+    excerpt: "\"We wish the President and First Lady a speedy recovery,\" said Hillary Clinton, who competed against President Donald Trump in the 2016 election."
+    publishedDateTime: 2020-10-04T12:01:00Z
+    webUrl: "https://www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f77aec5282c500018c786ca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
+    excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
+    publishedDateTime: 2020-10-05T15:32:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 89
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Trump-and-Biden.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Biden Says He’ll Debate Trump on Oct. 15 ‘If the Scientists Say It’s Safe’"
+    excerpt: "Joe Biden told assembled members of the press that he still intended on debating President Trump on October 15th if doctors and scientists feel that it is safe."
+    publishedDateTime: 2020-10-05T17:03:00Z
+    webUrl: "https://www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 88
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-05-at-12.33.52-PM.jpg"
+        width: 934
+        height: 548
+        isCached: true
+  - title: "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds"
+    excerpt: "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,"
+    publishedDateTime: 2020-10-05T11:40:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246216955.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246216955.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246216955.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 83
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f4761fca-22cf-457b-bb5b-25c8c5877932/dc6ba712-84ad-49d0-be23-fb3df9b27dff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
+    excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."
+    publishedDateTime: 2020-10-04T15:34:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
+    ampWebUrl: "https://amp.freep.com/amp/3616228001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3616228001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
+    excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."
+    publishedDateTime: 2020-10-04T17:23:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/04/biden-widens-lead-over-trump-after-debate-poll/3616228001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3616228001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3616228001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden opens 9-point lead over President Trump in Michigan, Detroit News/WDIV-TV poll finds"
+    excerpt: "Democratic presidential candidate Joe Biden's lead in Michigan over President Donald Trump now stands at 9 percentage points."
+    publishedDateTime: 2020-10-06T03:18:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/05/biden-leads-trump-9-points-michigan-detroit-news-wdiv-tv-poll/3627544001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3627544001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3627544001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 78
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PDTN/ec170626-d7fb-4b6b-9f06-9c9943acc2a2-debate_sbs.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump campaign attacks Joe Biden for lack of ‘firsthand experience’ being infected with COVID-19"
+    excerpt: "Trump campaign aide Erin Perrine on Monday suggested that President Donald Trump is a better leader than Democratic candidate Joe Biden because he has the “firsthand experience” of being infected with COVID-19."
+    publishedDateTime: 2020-10-05T17:29:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 77
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/smith-perrine-1-791x430.jpg"
+        width: 791
+        height: 430
+        isCached: true
+  - title: "Joe Biden Is an Overhyped Debater"
+    excerpt: "Throughout Biden’s shaky 2020 Democratic primary debate performances, observers remarked that this wasn’t the same guy we saw debating Paul Ryan years ago."
+    publishedDateTime: 2020-09-29T15:47:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/Joe-Biden-1-DNC-scaled.jpg?resize=300%2C300&ssl=1"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Joe Biden surges to 14-point lead against President Donald Trump in national poll after Tuesday’s debate"
+    excerpt: "Joe Biden surged from an 8-point lead to a 14-point lead after the debate, according to the latest Wall Street Journal/NBC News poll."
+    publishedDateTime: 2020-10-04T19:20:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/I6HIPLLATNAHZM6MIDADJ6WHKE.png"
+        width: 1696
+        height: 916
+        isCached: true
+  - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
+    excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
+    publishedDateTime: 2020-10-05T22:54:00Z
+    webUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/"
+    ampWebUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 66
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Erin-Burnett-OutFront-07_07_02-PM-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "DvbElEpxT/+QC1ao4VAC/idDxhkcdOjhYFJS71Xk7Xkw5eRgquE++jKPt/YupFJVoMqPe7MN08qLLXk/f6Xls+0fGzZNp7Tl3lEX+W/24jekP92oSE2lcj7v+kFjjUhmRSWOVrtT5PYvc5SBISjuPDTT4B1zOXje4BpG7XS/trtndAACosBV0ElNiQN38ggizPOntdQ3VeuQbBqBKAZU8hVteOf6wYLURbjZ/2wSrylGmNf4D6NRN1JFZX9gAO5fydKJ/Nkni/DO1jTuK4oeE0vLRZxPVHDxhnsjG+jCEFyDjEEhRjDoSuj/dajMrHCRvqVrul0pbCyJipSXhZBMXSyU2BU/Iuyy1UzFHsfaSnM0ySokDp46+8VHQ83h2aci1bLyhq298n4gL8SCh6B0fIqdDHaJHrbuNU0Y73BCNJwGBMJt6/21+caDeJ/0+tenu3zn08977vs5NVMT/mQ3Atge0E/r2hj0xo/VxhKsrL7v+wIRsPTIFlOC6466I92WpIojuZ8mmcmRlDoV5K54sQ==;KlFY7HhwF1jnJZOfOplkWw=="

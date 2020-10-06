@@ -2453,6 +2453,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "The Coronavirus Cases In Trump's Inner Circle"
+    excerpt: "The coronavirus has not only reached the White House, infecting President Donald Trump, but it has also spread among members of his family, inner circle and his Republican allies. The following is a list of some of the people surrounding the American president who have tested positive for Covid-19: Trump,"
+    publishedDateTime: 2020-10-06T01:25:00Z
+    webUrl: "https://www.ibtimes.com/coronavirus-cases-trumps-inner-circle-3057171"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/this-combination-of-file-pictures-shows-l-r.jpg"
+        width: 768
+        height: 768
+        isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z
@@ -2605,6 +2619,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "2ELjsemg7tc3qdM3s5CxArhMDuU1ZZ9JVBz9yEu7ROAaIq2/BlXOqP+ULU4OHzW8YQFIACwZK0rx8xWJb5RfQZF2t8sLCCdAUcTTNCTyNBVC2EY/bLnc6sYGkeiYy6Sx7mZEgBiFxzxcL6gueto3dcDS2oyuIYIz78PE0uufJ3FSC9D9m63jqZXzvKhHVJKnxsqu+4HbflIMUzg9BceGvE2qliLj3d8UyW5fZdItV6ibCSN4oGye4B6EUQQXvCspuFWmoqWscShfMjpOVOAAZcjZGfoKz1FOHGwBGRnM1E2/ABhHk8W9UcOSYV+ZHN3sFxWVtMlizErBLRrR9nlMnCCgWnzP6zEVj7I5x6kzYfs=;zkkKD5B/YBT1UMjN9zb1vA=="
+secured: "Lsq7Cb9pJBHHaFLku9KMCbqCxrjfUPDy1+6lZ3naQXIrDCj4yGcBGVb3P+Gya/2wCf5PTqQDUblFOShU0XoBndM0dPqOOfLUcHjycBt5cL+KRMLwb6xH/I0oAPp7KpB+1M1S/4MfsPebgUeXXlr8HpLgn7Ge7hY6UQzg1FN1DCMXLsnLvFEBCqtq077WpgqLuJbTs0vUy24UOPg57N2Jtb6SjhBG2IGnEoGrTheR8SM28L33Bo1AgoIWunh8XLfeah+yKejadcCO8k+v4WHJv+60a+bxAvyvTsQPGsCwXXZJVYoyMdZzCO5JNTYn40doqOqnuLAbWB6uAf2j0t2gjnUU5SWoSt0wUqUePj8bX4D4WOQUc1cU+2+HZvdYNI6lpUZBn5Gi6tuYALzYhdiRbTtA/Yx1kPnzCeWtofnJBWmprc7dYMHJDjEvdQERFfqaeJNMM5jRB37gPA6oc4OLFP5eO+TQgOOL2ftb8ji3mSQ5PUmwexrsEHQj2uh7qeEqtscx+3nIguW6Ng8Z4XGWPg==;DdxRXNg976kI9mA2Qex8Rw=="
 ---
 

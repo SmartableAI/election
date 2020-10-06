@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-wi
 cdnAmpWebUrl: "https://www-hollandsentinel-com.cdn.ampproject.org/c/s/www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://i2-prod.mirror.co.uk/incoming/article22703889.ece/ALTERNATES/s615/0_President-Trump-Welcomes-Australian-Prime-Minister-Scott-Morrison-To-Washington-On-State-Visit.jpg"
         width: 615
         height: 409
+        isCached: true
+  - title: "Second lady Karen Pence rallies with evangelicals in Michigan"
+    excerpt: "\"You've seen it for yourself,\" Pence said. \"You've all seen it for yourself, President Trump and Vice President (Mike) Pence are staunch defenders of religious liberty here at home and around the world.\" Evangelical voters were a key facet of Trump's ..."
+    publishedDateTime: 2020-09-26T03:12:00Z
+    webUrl: "https://www.bozemandailychronicle.com/ap_news/politics/second-lady-karen-pence-rallies-with-evangelicals-in-michigan/article_f2152a25-4eae-5aea-af2d-31b5b9cf6414.html"
+    type: article
+    provider:
+      name: Bozeman Daily Chronicle
+      domain: bozemandailychronicle.com
+    quality: 55
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/custom/image/2ffee154-edef-11e4-a572-ab4a61dde6eb.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Pence tries to shore up evangelical support with Georgia visit"
     excerpt: "Vice President Mike Pence trekked to Atlanta on Wednesday with a mission of energizing conservative evangelicals in Georgia, the latest sign Republicans are intensifying their efforts to carry a state that had long been a GOP lock."

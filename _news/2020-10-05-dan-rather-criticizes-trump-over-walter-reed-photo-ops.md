@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump takes to Twitter to make pitch to voters from Walter Reed"
-    excerpt: "President Trump on Monday fired off a string of tweets calling on his supporters to vote while he continues to receiving treatment at Walter Reed National Military Medical Center after testing positive for the coronavirus last week."
-    publishedDateTime: 2020-10-05T13:20:00Z
-    webUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed"
-    ampWebUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_100420getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Trump trip from hospital to wave at fans endangers others, doctor warns"
     excerpt: "U.S. President Donald Trump briefly left the military hospital where he is being treated for COVID-19 in a motorcade on Sunday to wave to supporters gathered outside, sparking criticism that he was putting others at risk for a political stunt."
     publishedDateTime: 2020-10-05T05:52:00Z
@@ -232,22 +216,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/trump-tax-wealthy.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
-    excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
-    publishedDateTime: 2020-10-05T22:54:00Z
-    webUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/"
-    ampWebUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 66
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Erin-Burnett-OutFront-07_07_02-PM-1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Donald Trump Announces He’s Leaving Walter Reed Hospital to Infect the Rest of White House"
     excerpt: "He claims to feel better than he did 20 years ago and told people not to let the deadly virus “dominate” their lives."

@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-
 webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
 type: article
 quality: 105
-heat: 145
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,36 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden must not 'commit major gaffe' to secure successful performance, says debate expert"
-    excerpt: "Aaron Kall, director of debate at the University of Michigan, addresses the baseline expectations for both candidates ahead of the first U.S. presidential debate on Tuesday."
-    publishedDateTime: 2020-09-29T14:52:00Z
-    webUrl: "https://www.cnbc.com/video/2020/09/29/joe-biden-must-not-commit-major-gaffe-to-secure-successful-performance-says-debate-expert.html"
+  - title: "Joe Biden's small business outreach shows he's ready to spark America's strongest recovery ever"
+    excerpt: "We need to turn this recovery into America’s renaissance, and that starts with sending Joe Biden and Kamala Harris to the White House."
+    publishedDateTime: 2020-10-05T15:48:00Z
+    webUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas"
+    ampWebUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 94
+      name: The Hill
+      domain: thehill.com
+    quality: 113
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106721259-16013803403ED2-REQ-092920-SBEBidenGoal.jpg?v=1601380339"
-        width: 1920
-        height: 1080
+      - url: "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
-    excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
-    publishedDateTime: 2020-10-03T18:52:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
+  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
+    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
+    publishedDateTime: 2020-10-03T09:13:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 75
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
-        width: 1024
-        height: 684
+      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
+  - title: "Joe Biden lays out plan to help Venezuelan and Cuban Americans while criticizing dictators"
+    excerpt: "In Miami's Little Havana, Joe Biden explained his plan to help Venezuelan and Cuban Americans. Biden criticized President Trump and said he had spent his presidency appealing to autocrats."
+    publishedDateTime: 2020-10-05T21:24:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article246242480.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 25
 
 secured: "qeojvsV/jgLA0r9t1zJDVDnTaN1SHTHjvdqZlqbrdqhbHxiuT+g6W9Pw/jzyj/FL+OE7IGzbWumwKupT9+Xjz3IHmkHHRqQmrahqJhvi6bEoTNgqHgTcIiM8Q+jJwHZqGrl2dnQ8GyTr771iIIIh77JTL33vQbj6ONitKeq6N+0EVJLIkmTKk8vWGMcOKtmBIzxs1Mb8bDcsWKD2JdLpQA3B991jdeSlMZHHONCl4YsOG+YRX9LIN6HMW+hGA/MmQZuiziJdOHILPjHZYHFnQw3IOs6O9eDpCVCFIMVNHlkTqADoa4YyQDxNM8zfF2xsvVZC0/Tp8CvEvmhwHFNvt6OmnN62S0Npr0DiUWFvL173CTwhpsuGqQyXC5BqS7p5rxZIi2gaR5N8lUD3olASF+duBofhKEX8ePx1EkKSgr+Ol/rJqNmofzZWMOd4qC8/sLtJyL++/exkGiAs/nVhXOE++QV+2UDuP1KuZty2q+7FjaDNBMdXCLAK/PJS+4fHr7rQ/+rawswq2KnCOhaz2Q==;Sf12qv2LARy7AKM8d3iuUA=="
 ---

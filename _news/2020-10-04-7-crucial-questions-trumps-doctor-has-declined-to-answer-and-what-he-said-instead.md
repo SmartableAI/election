@@ -127,22 +127,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
-    excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
-    publishedDateTime: 2020-09-29T03:37:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
-        width: 806
-        height: 545
-        isCached: true
   - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
     excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
     publishedDateTime: 2020-09-28T23:39:00Z

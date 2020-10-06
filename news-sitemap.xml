@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496</loc>
+    <lastmod>2020-10-05T22:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015</loc>
     <lastmod>2020-10-05T21:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +21,12 @@
   <url>
     <loc>https://www.nbcnews.com/video/biden-says-small-groups-ppe-necessary-for-schools-to-be-open-during-pandemic-93197381884</loc>
     <lastmod>2020-10-05T18:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601</loc>
+    <lastmod>2020-10-05T17:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -45,6 +57,12 @@
   <url>
     <loc>https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803</loc>
     <lastmod>2020-10-05T15:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami</loc>
+    <lastmod>2020-10-05T13:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -91,6 +109,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas</loc>
+    <lastmod>2020-10-05T08:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital</loc>
     <lastmod>2020-10-05T08:04:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -123,12 +147,6 @@
   <url>
     <loc>https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394</loc>
     <lastmod>2020-10-05T06:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.miamiherald.com/news/politics-government/article246216955.html</loc>
-    <lastmod>2020-10-05T04:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -319,6 +337,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/</loc>
+    <lastmod>2020-10-03T04:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.usatoday.com/story/news/politics/2020/10/03/president-trump-covid-19-barack-obama-speedy-recovery/3606381001/</loc>
     <lastmod>2020-10-02T23:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -363,12 +387,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HA0c-zY776s/index.html</loc>
     <lastmod>2020-10-02T16:19:02-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.cbsnews.com/news/biden-campaign-event-michigan-watch-live-stream-today-2020-10-02/</loc>
-    <lastmod>2020-10-02T15:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -517,12 +535,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/</loc>
-    <lastmod>2020-10-01T12:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee</loc>
     <lastmod>2020-10-01T12:51:58-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -633,12 +645,6 @@
   <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGjy995Eutc/index.html</loc>
     <lastmod>2020-09-30T21:53:59-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.chicagotribune.com/election-2020/ct-debate-presidential-campaign-updates-20200930-v63ivhdknbeu7igudz3ufkq2b4-story.html</loc>
-    <lastmod>2020-09-30T19:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -921,6 +927,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/1WCeudPxcQw/kevin-brady-trump-tax-release</loc>
     <lastmod>2020-09-29T08:04:36-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/video/2020/09/29/joe-biden-must-not-commit-major-gaffe-to-secure-successful-performance-says-debate-expert.html</loc>
+    <lastmod>2020-09-29T07:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

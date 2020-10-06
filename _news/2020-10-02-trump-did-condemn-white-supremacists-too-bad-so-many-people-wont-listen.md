@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top Israeli rabbis, and U.S. envoy, pray for Trump recovery"
-    excerpt: "Israel's rabbis prayed for U.S. President Donald Trump to recover from COVID-19 on Monday, invoking his name in a Jewish holiday ceremony at Jerusalem's Western Wall."
-    publishedDateTime: 2020-10-05T11:10:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-jewish-bless/top-israeli-rabbis-and-u-s-envoy-pray-for-trump-recovery-idUSKBN26Q1IE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q1IE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1IE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536199207&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG940W5"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate"
     excerpt: "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic."
     publishedDateTime: 2020-10-04T00:37:00Z

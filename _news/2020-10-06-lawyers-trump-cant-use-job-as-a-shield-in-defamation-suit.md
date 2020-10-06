@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Lawyers: Trump Can't Use Job as a Shield in Defamation Suit"
-excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can't hurl insults at her and then replace himself with the government as the defendant in a defamation lawsuit."
-publishedDateTime: 2020-10-06T02:14:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2020-10-05/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit"
-webUrl: "https://www.usnews.com/news/us/articles/2020-10-05/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit"
+title: "Lawyers: Trump can’t use job as a shield in defamation suit"
+excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can’t hurl insults at her and then replace himself with the government"
+publishedDateTime: 2020-10-06T02:09:00Z
+originalUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html"
+webUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Check’s in the mail: Trump offering government aid, including cash, in weeks before the election"
@@ -260,22 +268,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Health/WireAP_765454725e2a4d1cafa0c309fa21f42a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "GOP faces reckoning over Trump's virus strategy, diagnosis"
-    excerpt: "President Donald Trump ’s coronavirus diagnosis was a moment of reckoning for his Republican Party, whose leaders largely adopted his strategy of playing down the disease but are now confronted with a stark political nightmare a month from Election Day."
-    publishedDateTime: 2020-10-03T17:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b646160b63fb44cc87cda580de0d383c_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -734,6 +726,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "wxMoS7GrV+Q/O5Fwf8w/ySC+n89GInQ/Kwhm69iid92T6+GKhJWjcvVoVb4S7GZ58yZHEACX0fQoTasjpUlDEmIHIC5MT+r9VlRz9aUqQgWjGH2HWL6EZbOEEZ0MsxEvs11Zz00/lQrmI3pWmNq0zySiJsSJ4/IE1rx8FtPRfEI0B+dbqX42ouqTL0fqLGKujtsc3xGuI1QRiLzy6AmJa+878DzAijpTwDr5iA8voDRYnNq6lbfFjRxCrwP//vJhNn0t5ZU0JmWl1JDcQ0AuKoIwhTOYQ3/7ZmA5LL8ZLF0R0kr3nO9zMgxvNNhL8VfwLoGCf9TCzEIkkyBDpDp9PW9kJ+SL8A3Uzx0QiHdTLKg=;w7TdaIYtekZT2LNHxhfH6A=="
+secured: "ki+GpwDJKczVIIrDja6yvDDlR6He/y3wcCj6BgCW5bL0ZghiHTDj8MtgaacCPC3SPC8kuwSNH+e2bhVGmqCqsfgU+m0v5aWT8qAfwe7zD40HpFhfnaNO/QL8jpg8P3jdSz8Q87/rAa4vD77j8V9QUbURNwdSi8y+9xZkC4cveuN7PGSvqj0MLMxDiT++U0ksQr5+djuDgEpagVjUOaX3lZ76MjiV1KTe/tuoq8/VSKRIKw7EW8EGOe0F735+/vjSGFVU2itWDlV7ssW4Lee8U8934hdHOun4uuMP4b6Tz94KVnBwR+u8V3B6rNS67grySxtFaTjwCMTb33sTaJ7oEMsp/w2A7J58MsESVzk9/YQ=;grmqiLoxztJj4SJ9KcUHCQ=="
 ---
 
