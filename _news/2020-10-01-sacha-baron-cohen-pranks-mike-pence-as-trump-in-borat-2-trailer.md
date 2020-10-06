@@ -3156,6 +3156,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "'We are learning to live with Covid': Trump makes misleading comparison between coronavirus and the flu"
+    excerpt: "The most deaths to have resulted from a flu season in the U.S. over the past decade is estimated to be roughly 61,000 in 2017-2018."
+    publishedDateTime: 2020-10-06T13:15:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/trump-coronavirus-flu-comparison-426712"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 99
+    images:
+      - url: "https://static.politico.com/96/13/e0c886834d9793b1a3f0e6878c52/ap20280464486243.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Says He Is “Starting to Feel Good” in Video From Walter Reed"
     excerpt: "After a day of confusion and conflicting information about President Donald Trump’s health, the commander in chief tweeted out a video message from Walter Reed saying his condition has improved. But he also made clear that he is well aware he’s far from being given the all-clear and will have to see how his treatment develops."
     publishedDateTime: 2020-10-04T00:22:00Z
@@ -3208,15 +3222,6 @@ related:
     excerpt: "The former White House physician turned Trumpy congressional candidate diagnosed Biden through the TV and backed Trump’s claims that he is taking a secret drug to aid his memory."
     publishedDateTime: 2020-09-29T11:58:00Z
     webUrl: "https://www.thedailybeast.com/ex-trump-doctor-ronny-jackson-goes-on-hannity-to-suggest-bidens-on-memory-boosting-drugs?scrolla=5eb6d68b7fedc32c19ef33b4"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
-  - title: "Trump Campaign Attacks Joe Biden for Not Having COVID-19"
-    excerpt: "He has experience, now, fighting the coronavirus as an individual,” a campaign spokesperson said of Trump. “Those firsthand experiences, Joe Biden, he doesn’t have those.”"
-    publishedDateTime: 2020-10-05T20:01:00Z
-    webUrl: "https://www.thedailybeast.com/trump-campaign-attacks-joe-biden-for-not-having-covid-19"
     type: article
     provider:
       name: The Daily Beast

@@ -97,6 +97,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign highlights historic nature of Harris nomination in new ads ahead of VP debate"
+    excerpt: "Joe Biden's presidential campaign on Tuesday released a set of nationwide ads featuring only California Sen. Kamala Harris, the Democratic ticket's vice-presidential candidate, ahead of her face off with Vice President Mike Pence at the debate in Salt Lake City.\n    \n"
+    publishedDateTime: 2020-10-06T13:13:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_QkYXAYxDI8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/kamala-harris-solo-ad-rollout/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/kamala-harris-solo-ad-rollout/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sen. Kamala Harris and VP Mike Pence 2020 debate preview"
     excerpt: "The 2020 vice presidential candidates’ debate, between Democratic candidate Sen. Kamala Harris and Republican incumbent Vice President Mike Pence, will see Pence having to defend the record of the Trump administration,"
     publishedDateTime: 2020-10-04T18:27:00Z

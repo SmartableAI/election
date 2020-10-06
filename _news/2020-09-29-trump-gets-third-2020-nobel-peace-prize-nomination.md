@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-third-nobel-nomination-doctri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Eric Trump questioned under oath in Trump Organization investigation"
+    excerpt: "President Trump's son Eric Trump was questioned under oath Monday as part of a New York Attorney General investigation of the Trump Organization."
+    publishedDateTime: 2020-10-06T13:15:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CC4QfobVYOc/eric-trump-questioned-under-oath-in-trump-organization-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-questioned-under-oath-in-trump-organization-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-questioned-under-oath-in-trump-organization-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/df7044e6-08b2-4335-a69a-d591250663f9/5484bb8b-58a5-4401-931e-7a8d39c986f0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'"
     excerpt: "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'"

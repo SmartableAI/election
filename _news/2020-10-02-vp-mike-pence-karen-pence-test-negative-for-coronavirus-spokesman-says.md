@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Debate Between Mike Pence and Kamala Harris: What Time to Watch and Key Issues"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris, the Democratic vice presidential nominee, will face off in their first and only debate on Wednesday at 9 p.m. ET."
+    publishedDateTime: 2020-10-06T12:34:00Z
+    webUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031?mod=hp_lead_pos12"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 154
+    images:
+      - url: "https://images.wsj.net/im-240874/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Pete Buttigieg reportedly posing as Mike Pence in Kamala Harris VP debate prep"
     excerpt: "Vice presidential nominee Kamala Harris has tapped former 2020 Democratic primary candidate Pete Buttigieg to play Vice President Mike Pence as she prepares for their one and only debate ..."
     publishedDateTime: 2020-09-23T17:28:00Z

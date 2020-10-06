@@ -719,6 +719,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump campaign attacks Joe Biden for not having COVID-19"
+    excerpt: "Erin Perrine, the campaign's communications director, blamed Joe Biden for lacking \"firsthand experiences\" of having COVID-19 like Trump."
+    publishedDateTime: 2020-10-06T02:50:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-attacks-joe-biden-not-having-coronavirus-fox-news-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-attacks-joe-biden-not-having-coronavirus-fox-news-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-attacks-joe-biden-not-having-coronavirus-fox-news-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5f7b4f6a282c500018c789fa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -2855,6 +2871,22 @@ related:
     quality: 88
     images:
       - url: "https://pyxis.nymag.com/v1/imgs/830/4d2/44a4821c492964d587b4ba5ac3627e53e2-ron-johnson.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Tells Dangerous Lie That Joe Biden and Democrats Want to Kill Babies"
+    excerpt: "Fresh out of Walter Reed Hospital, and down double digits in recent polls, President Donald Trump appears to be reaching deep into his bag of political tricks to get back into a presidential election"
+    publishedDateTime: 2020-10-06T12:52:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-tells-dangerous-lie-that-joe-biden-and-democrats-want-to-kill-babies/"
+    ampWebUrl: "https://www.mediaite.com/trump/trump-tells-dangerous-lie-that-joe-biden-and-democrats-want-to-kill-babies/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-tells-dangerous-lie-that-joe-biden-and-democrats-want-to-kill-babies/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 88
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-Ohio-GettyImages-1228645865.jpg"
         width: 1200
         height: 630
         isCached: true

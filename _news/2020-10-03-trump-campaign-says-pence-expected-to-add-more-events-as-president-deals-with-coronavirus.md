@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp"
 type: article
 quality: 191
-heat: 2031
+heat: 2051
 published: true
 
 provider:
@@ -141,6 +141,22 @@ related:
     quality: 181
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b4ffc97-e106-4ffb-b303-717a227738f8/2160ddeb-4a0e-4645-87d8-6ef8610e8ff2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump returns to White House after coronavirus hospitalization; Biden traveling to Pennsylvania"
+    excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending Tuesday, Oct. 6, 2020, just 28 days away from the election."
+    publishedDateTime: 2020-10-06T12:55:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qiNeVF_XMLg/trump-returns-to-white-house-after-coronavirus-hospitalization-biden-traveling-to-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-returns-to-white-house-after-coronavirus-hospitalization-biden-traveling-to-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returns-to-white-house-after-coronavirus-hospitalization-biden-traveling-to-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd7f5fb-8132-4cf4-87d0-b9ddfa1782ed/e6090031-7c1e-4714-bc85-982b0608655d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

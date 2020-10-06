@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcumDGemN28/index.html</loc>
+    <lastmod>2020-10-06T06:48:44-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/donald-trump-jr-thought-father-acting-crazy-walter-reed-report-2020-10</loc>
+    <lastmod>2020-10-06T04:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate</loc>
     <lastmod>2020-10-06T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>

@@ -143,6 +143,52 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden pushes back at President Trump for downplaying masks, says wearing one is \"patriotic\""
+    excerpt: "After President Trump's mask photo op on the White House balcony, his Democratic rival is emphasizing the importance of masks. In a NBC News town hall, former Vice President Biden told the audience wearing a mask was a \"big deal\" and \"patriotic."
+    publishedDateTime: 2020-10-06T11:57:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-pushes-back-at-president-trump-for-downplaying-masks-says-wearing-one-is-patriotic/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 108
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/06/65bab58e-ce84-47b9-af85-cb833ad248f6/thumbnail/1200x630/27bff0ec5b290c871da3a9b790d2e3bd/cbsn-fusion-joe-biden-pushes-back-at-president-trump-for-downplaying-masks-says-wearing-one-is-patriotic-thumbnail-560431-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump and Biden's campaign websites are not entirely accessible for voters with disablities, potentially shutting out 61 million people"
+    excerpt: "A report by digital accessibility group Ablr found 17 violations spread across the campaign websites of Donald Trump and Joe Biden."
+    publishedDateTime: 2020-10-06T13:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-and-biden-have-inaccessible-campaign-websites-report-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-and-biden-have-inaccessible-campaign-websites-report-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-and-biden-have-inaccessible-campaign-websites-report-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
+    excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
+    publishedDateTime: 2020-10-06T13:46:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/06/trump-trails-biden-covid-economy-and-health-care-cnn-poll-says/3635336001/"
+    ampWebUrl: "https://amp.freep.com/amp/3635336001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3635336001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
     excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
     publishedDateTime: 2020-10-05T15:32:00Z

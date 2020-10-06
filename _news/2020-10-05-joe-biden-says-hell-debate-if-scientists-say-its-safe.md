@@ -125,6 +125,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
+    excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
+    publishedDateTime: 2020-10-06T12:21:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 102
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
     excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
     publishedDateTime: 2020-09-23T04:08:00Z

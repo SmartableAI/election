@@ -379,6 +379,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Trump's top federal prosecutors are overwhelmingly white men"
+    excerpt: "The nation’s top federal prosecutors have become less diverse under President Donald Trump than under his three predecessors"
+    publishedDateTime: 2020-10-06T11:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-top-federal-prosecutors-overwhelmingly-white-men-73446934"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-top-federal-prosecutors-overwhelmingly-white-men-73446934"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-top-federal-prosecutors-overwhelmingly-white-men-73446934"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_aff599b5951e484483bd978e3602b908_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z

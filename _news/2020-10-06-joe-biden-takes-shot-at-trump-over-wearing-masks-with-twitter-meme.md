@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Joe Biden takes shot at Trump over wearing masks with Twitter meme"
-excerpt: ""
-publishedDateTime: 2020-10-06T03:32:24Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsSi5vcqFJc/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsSi5vcqFJc/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme"
+excerpt: "Joe Biden tweeted a meme showing President Trump removing his face mask upon his arrival at the White House late Monday after his treatment for COVID-19, and puts a side-by-side video of himself putting on a mask like a superhero."
+publishedDateTime: 2020-10-06T03:39:00Z
+originalUrl: "https://www.foxnews.com/politics/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme"
+webUrl: "https://www.foxnews.com/politics/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme"
 ampWebUrl: "https://www.foxnews.com/politics/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme.amp"
 type: article
-quality: 190
+quality: 150
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a3cbdd1-6c06-44a4-b8e9-e1f99e0730c7/ee7e1225-cea4-4cec-a49f-f5a45b192388/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -251,6 +252,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "SLyYyqpgoaXj0wbRvssaoky2+rb4yDrM34tykB5yag7N7WzFFU6ILdKgvVJqrktHGr6wpj6x3etI+99BOfsNUPxD2/cv2Ts3sz+zEqSx5yYQUrg1XEcFUBthO01I0NkXEuqWcXUejQBfjVBjEWDTuQq8IztfGkpMlGEFIl+BXe8bH9AFQDKjoX8DCYZcocz50oIL7gYKM7qMXX5nnO5fiRjviZZRcfjG5ed4RdtGcHzLzt1CJlGGDIIFSbZiaFY4znj/H4wS1WoBzNuEvey1aZQeKYPIV18wpdGnD0F19p2qsjM4Id8wvZvfuHrskJmhaeVIExGSOubkI0klTPEvgQaDGIwWiVZ9jX4y+YtSDNQ=;NO4S/Zv+J28P/cnHnvDefA=="
+secured: "sC5PBLTYTzf6Ts0xTEI+NJGBFkfThg/Ozh2Mb90pgv7MKqcmBlohF69TNs/PsrC+CW0lvZQaGv8gxb1a3nDHgAtfxzR9zXGzGReunCBkCPmoBDPdMgOhkNEljaXY+6F/e5CQUy8QRE7EToWocz1NdyDY1tEmTQsMrWfgT+QfbCBWBhCq2dyAckfLXiSP5UJCiOaXSVtNHT4iTb1AaDCvDUwYQehLxAfyFhIdWCwmSd8D8nBp6FsmfNfwnbc/yjyq+vIU/3+0FRM3vY7Q5LhY752vwovw53bwRGT5YPAfpLDLQlo3FnOGaCg42B1dLVEt1oj3zCiV7XJlxEEeShn9bxznaksOjBpM0XtG2hQyo3o=;tuQODly3ddMABvdy3hURCw=="
 ---
 

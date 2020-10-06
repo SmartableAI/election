@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump returns to White House after coronavirus hospitalization; Biden traveling to Pennsylvania"
+    excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending Tuesday, Oct. 6, 2020, just 28 days away from the election."
+    publishedDateTime: 2020-10-06T12:55:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qiNeVF_XMLg/trump-returns-to-white-house-after-coronavirus-hospitalization-biden-traveling-to-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-returns-to-white-house-after-coronavirus-hospitalization-biden-traveling-to-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returns-to-white-house-after-coronavirus-hospitalization-biden-traveling-to-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd7f5fb-8132-4cf4-87d0-b9ddfa1782ed/e6090031-7c1e-4714-bc85-982b0608655d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to meet with evangelicals ahead of Supreme Court announcement"
     excerpt: "President Trump on Saturday will meet with evangelical faith leaders, hours before he is expected to announce that he is nominating Amy Coney Barrett to fill the vacancy on the Supreme Court."
     publishedDateTime: 2020-09-26T15:56:42Z

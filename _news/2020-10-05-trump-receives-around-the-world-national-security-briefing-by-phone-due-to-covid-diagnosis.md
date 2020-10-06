@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Trump defeats COVID-19' coin goes on sale at White House-themed gift shop"
+    excerpt: "Commemorative coins marking President Trump's battle with COVID-19 are available for preorder at a White House-themed gift shop."
+    publishedDateTime: 2020-10-06T12:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pCY5Ongtmh0/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production"
+    ampWebUrl: "https://www.foxnews.com/politics/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/a-100-dollar-trump-defeats-coronavirus-commemorative-coin-is-in-production.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20279854806341-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump praises staff at Walter Reed, says he is 'feeling well' as he fights COVID-19"
     excerpt: "President Trump on Saturday praised the staff at Walter Reed National Military Medical Center, and said he is \"feeling well,\" a day after he was transferred to the center after testing positive for COVID-19."
     publishedDateTime: 2020-10-03T17:29:09Z
@@ -142,6 +158,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/b4ae6462-AP20070377919994.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump will continue COVID-19 treatment at the White House"
+    excerpt: "President Trump will continue receiving treatment for the coronavirus at the White House, where he returned Monday after spending three days at the nearby Walter Reed National Medical Center, his"
+    publishedDateTime: 2020-10-06T12:14:00Z
+    webUrl: "https://nypost.com/2020/10/06/trump-will-continue-covid-19-treatment-at-the-white-house/"
+    ampWebUrl: "https://nypost.com/2020/10/06/trump-will-continue-covid-19-treatment-at-the-white-house/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/06/trump-will-continue-covid-19-treatment-at-the-white-house/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-health-91.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Ron Johnson's 'Big Idea': Don't stop investigating Trump-Russia probe 'until we have uncovered the truth'"
     excerpt: "The Big Idea is a series that asks top lawmakers and figures to discuss their moonshot – what’s the one proposal, if politics and polls and even price tag were not an issue, they’d implement to change the country for the better? "
