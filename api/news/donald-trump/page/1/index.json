@@ -983,53 +983,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-missouri-governor-mirrors-trump-covid-positive-after-months-of-virus-criticism.md",
-      "title": "Missouri governor mirrors Trump: Covid-positive after months of virus criticism",
-      "excerpt": "Like the president, Missouri Gov. Mike Parson was under fire for reopening too quickly as he ran for reelection. Then he tested positive for coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/03/mike-parson-missouri-covid-trump-425741",
-      "originalUrl": "https://www.politico.com/news/2020/10/03/mike-parson-missouri-covid-trump-425741",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-03-barack-obama-wishes-speedy-recovery-to-president-trump-melania-no-matter-our-party.md",
       "title": "Barack Obama wishes 'speedy recovery' to President Trump, Melania 'no matter our party'",
       "excerpt": "Former President Barack Obama is calling for unity and compassion following President Donald Trump's COVID-19 diagnosis.",
@@ -1247,7 +1200,7 @@
       "originalUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1325,
+      "heat": 1345,
       "tags": null,
       "images": [
         {
@@ -1557,6 +1510,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-mcmaster-mostly-silent-until-now-says-trump-is-aiding-and-abetting-putins-efforts.md",
+      "title": "McMaster, Mostly Silent Until Now, Says Trump Is ‘Aiding and Abetting Putin’s Efforts’",
+      "excerpt": "This sustained campaign of disruption, disinformation, and denial, is aided by any leader who doesn’t acknowledge it,” President Trump’s former national security adviser said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-mcmaster/01dc-mcmaster-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
+      "publishedDateTime": "2020-10-01T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

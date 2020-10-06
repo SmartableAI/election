@@ -46,6 +46,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump discharged from Walter Reed, returns to White House"
+    excerpt: "President Trump was discharged from Walter Reed National Military Medical Center and returned to the White House on Monday evening to continue his fight against the novel coronavirus, after his medical team warned that he “may not entirely be out of the woods yet.”"
+    publishedDateTime: 2020-10-05T22:30:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9FqRpXdn3k0/trump-discharged-from-walter-reed-returns-to-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Virginia Senate debate sees Warner, Gade clash on Trump, race, health care"
     excerpt: "Democratic incumbent U.S. Sen. Mark Warner and his Republican challenger shared the debate stage Saturday night in their second meeting ahead of Election Day in Norfolk, Va. "
     publishedDateTime: 2020-10-04T03:29:33Z
@@ -61,6 +77,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20277814149900.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "President Trump sends out video tweet after being discharged from Walter Reed"
+    excerpt: "President Trump tweeted out a football-themed video minutes after walking out of Walter Reed Medical Center and climbing aboard Marine 1 to return to the White House after spending the weekend battling COVID-19."
+    publishedDateTime: 2020-10-05T23:03:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U-ax0LbgIok/president-trump-video-discharged-football"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-video-discharged-football.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-video-discharged-football.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump campaign YouTube takeover to feature Trump message thanking Americans for support"
     excerpt: "EXCLUSIVE: The Trump campaign is taking over the YouTube.com masthead for 24 hours beginning at midnight, Fox News has learned, featuring the video of President Trump as he was departing the White House for Walter Reed Military Medical Center to be treated for COVID-19."

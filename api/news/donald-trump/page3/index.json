@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-29-fauci-trump-receiving-incorrect-information-on-coronavirus.md",
-      "title": "Fauci: Trump Receiving ‘Incorrect’ Information On Coronavirus",
-      "excerpt": "President Donald Trump might be receiving “either out of context or actually incorrect” information about coronavirus, Dr. Anthony Fauci told CNN on Monday after being asked about Dr. Scott Atlas, who was added to the White House Coronavirus Task Force last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
-      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1005,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f726dbc6600384172144241%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2820%26cropY1%3D143%26cropY2%3D1729",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/",
-      "publishedDateTime": "2020-09-28T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes.md",
       "title": "Santorum: Not illegal for Trump 'to do everything he can not to pay taxes'",
       "excerpt": "Former Sen. Rick Santorum (R-Pa.) said in a new interview that it's not illegal for Trump \"to do everything he can not to pay taxes\" while discussin",
@@ -163,7 +112,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -1548,6 +1497,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election.md",
+      "title": "Court orders Eric Trump to testify before New York attorney general ahead of election",
+      "excerpt": "The New York attorney general is investigating whether President Trump and the Trump Organization committed fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
+      "originalUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 693,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2017/01/20/27e8b99b-46aa-47de-8661-1bbc3f933766/thumbnail/1200x630/63562a2c456817dadce249140e6b51b8/king-eric-trump-sot-frame-1551.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
+      "publishedDateTime": "2020-09-23T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

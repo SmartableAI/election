@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Kamala Harris’s husband Doug Emhoff to campaign in Texas today, including San Antonio stop"
-excerpt: "The Joe Biden-Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border, where he will campaign in Edinburg ..."
-publishedDateTime: 2020-10-05T17:47:00Z
-originalUrl: "https://www.houstonchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-s-husband-Doug-Emhoff-to-campaign-15622333.php"
-webUrl: "https://www.houstonchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-s-husband-Doug-Emhoff-to-campaign-15622333.php"
+excerpt: "Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border,"
+publishedDateTime: 2020-10-05T22:25:00Z
+originalUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-s-husband-Doug-Emhoff-to-campaign-15622333.php"
+webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-s-husband-Doug-Emhoff-to-campaign-15622333.php"
 type: article
-quality: 95
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
@@ -317,6 +313,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Kamala Harris and Mike Pence will reportedly be separated by plexiglass in debate on Wednesday night"
+    excerpt: "The highest profile use of plexiglass so far this election cycle came from Democrat Jaime Harrison in his debate against Republican South Carolina Sen. Lindsey Graham."
+    publishedDateTime: 2020-10-05T21:20:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 135
+    images:
+      - url: "https://i.insider.com/5f7b8483282c500018c78b59?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Mike Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
     excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
     publishedDateTime: 2020-10-04T00:30:00Z
@@ -438,6 +450,22 @@ related:
     quality: 129
     images:
       - url: "https://d.newsweek.com/en/full/1646102/pete-buttigieg.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Mike Pence and Kamala Harris vice presidential debate to have plexiglass barrier because of coronavirus concerns"
+    excerpt: "President Donald Trump has the coronavirus. And number of his people in his orbit have been diagnosed with Covid-19 since his debate with Joe Biden."
+    publishedDateTime: 2020-10-05T22:03:00Z
+    webUrl: "https://www.cnbc.com/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 129
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106730748-1601931141982-AP20279684793202.jpg?v=1601931215"
         width: 3000
         height: 2000
         isCached: true
@@ -711,22 +739,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Kamala Harris’s husband Doug Emhoff to campaign in Texas today"
-    excerpt: "The Joe Biden-Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border, where he will campaign in Edinburg ..."
-    publishedDateTime: 2020-10-05T17:49:00Z
-    webUrl: "https://www.houstonchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
-    ampWebUrl: "https://www.houstonchronicle.com/politics/election/amp/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/election/amp/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/42/07/20062665/12/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -790,6 +802,22 @@ related:
       - url: "https://i.insider.com/5f79d950282c500018c7878a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "In her first race, Kamala Harris learned how to become a political brawler"
+    excerpt: "When Harris was attacked by her opponents in her run for San Francisco district attorney, she punched back — and won."
+    publishedDateTime: 2020-10-05T23:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XB74HSQFD4I6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 909
         isCached: true
   - title: "'No wonder I didn't lose my hair!': Trump credits McDonald's fries for his hair"
     excerpt: "Between a flurry of tweets about the coming election, President Donald Trump replied to an article suggesting McDonald's fries might cure baldness."
@@ -1173,6 +1201,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump leaves hospital to return to White House"
+    excerpt: "U.S. President Donald Trump on Monday left the Walter Reed National Military Medical Center where he was receiving treatment for COVID-19 to return to the White House."
+    publishedDateTime: 2020-10-05T23:12:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-departure/trump-leaves-hospital-to-return-to-white-house-idUSKBN26Q384"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q388"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q388"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
     excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
     publishedDateTime: 2020-10-04T15:57:00Z
@@ -1397,6 +1436,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/J6PQVLFDERCORGP7MEI3H56VX4.JPG"
         width: 1300
         height: 1011
+        isCached: true
+  - title: "Plexiglass will divide Mike Pence, Kamala Harris at Wednesday's vice presidential debate"
+    excerpt: "The changes come after President Donald Trump and several White House staffers and allies have tested positive for COVID-19 after last week's presidential debate."
+    publishedDateTime: 2020-10-05T23:28:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3630292001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3630292001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Mike Pence and Ivanka Trump visit salon damaged in Minneapolis unrest"
     excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd’s death, part"
@@ -2311,6 +2366,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Kamala Harris’s husband Doug Emhoff to campaign in Texas today"
+    excerpt: "Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border,"
+    publishedDateTime: 2020-10-05T22:25:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/42/07/20062665/12/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z
@@ -2449,6 +2518,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "MqRysNA9V0zLkzIs2yd6R1dRn7oNrgfArKdvsOMqsxpYAisRwGlAWPGIErIyEAOoH6FIhbRDzpnzDYcgLYhXB0KtypO+qXTRilBZKFCGaSVkMy10M7loqAJdjCxSWIopsz8fjYsseLGu5mHgbRonjk6fex6WmDe6N0hwNhNcJzlTcLUE+5ub+p4UtJjaqz3It0mv5O+3xPYaJPkE6OaYAzWV/G+zTELXCHjcfd2h+cVb1BpvC56tKaKFmZNsYtq68Yo+TFnw5VgUZIg3Gm+yzL1DsvuIfSSvwcU+3w7srZWXe9GDoctSL0N/Qb8UR4nq4Y/GFkHuxLBNNw0FONRGVyzORyxakudpesVr7xtPfqCXI7RimntjACmO6sRj9t9vXwSNZuyd0tvRdR3baquXryxZkXgLJ1yT2PfmJbpPZ7OwmVzaLtWBHwcVlCuUfNe7G+t4ILePxnExw1jpIPTD6+FxbJsNXyMhg7PysnVG+7Nhyh/Ix7iixmfW43K++1DtFFvY6HEaP/OQFcYGGyo+Rw==;uYlL/fvs33T14JRAm/67ew=="
+secured: "IrNxJhIQ06L91f77t95EudUUNoHR4070TKTNdT28XEhSPgKQ2UGR7bzQ1fEMKfWDmbChsl1FsHyJpdxm6lctKRJutOY/uWO6KM4gUSjfPGeIgrlU7I59md4a+an5nYFccRN1unQSvHFwTO+2mxV5U7Mrd0B1BIcY7kY17zGNXpARiW3JPsFwx8qerOjzRqemuyfRCh5EaKs+QPzw9h9M1Nr1KDJW3ckJnt5VpT3UYi5ZNgyr8v9jzDHgJvvBrjw0sFInkOerlKw1hJrKGVAgdX7nOccgOvbuJd9wR9Dyzo7MfRwNy/1elQ/sGdjow416Qypx7ANSMw6tMdrUeNXBzlzv13hxud+iy5fmNz6leh0=;XCfvVAsXU1Nj+95VQb122g=="
 ---
 

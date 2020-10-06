@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fa8p0-rwGdo/index.html</loc>
+    <lastmod>2020-10-05T15:22:48-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on</loc>
     <lastmod>2020-10-05T10:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -267,12 +273,6 @@
   <url>
     <loc>https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX</loc>
     <lastmod>2020-10-03T05:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.politico.com/news/2020/10/03/mike-parson-missouri-covid-trump-425741</loc>
-    <lastmod>2020-10-03T04:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

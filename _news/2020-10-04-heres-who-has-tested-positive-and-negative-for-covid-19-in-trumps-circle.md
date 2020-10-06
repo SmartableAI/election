@@ -623,6 +623,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "More than 80 miles of border wall may be painted black after Trump push"
+    excerpt: "The Trump administration is considering painting more than 80 miles of border wall black in Texas, according to US Customs and Border Protection officials, a move in line with President Donald Trump's push to paint barriers that could cost tens of millions of dollars extra.\n    \n"
+    publishedDateTime: 2020-10-05T23:21:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MGInqr_nprM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/border-wall-black/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/border-wall-black/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z
@@ -700,6 +716,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001205305-hope-hicks-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump off the air in Ohio and Iowa as polls show tight races in both states"
+    excerpt: "President Donald Trump's campaign canceled its planned television advertising in Iowa and Ohio this week, focusing its spending on states where Trump is behind even as polls show he is neck-and-neck with Democratic challenger Joe Biden in the two Midwestern states.\n    \n"
+    publishedDateTime: 2020-10-05T23:27:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYASQQmg6eI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002092919-03-trump-1001-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1116,6 +1148,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002115304-01-mike-lee-amy-coney-barrett-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: 14 lingering questions about Donald Trump, coronavirus and the future of his presidency"
+    excerpt: "The 72 hours between President Donald Trump's acknowledgment early Friday morning that he had tested positive for Covid-19 and his wildly irresponsible parade by supporters gathered outside Walter Reed National Military Medical Center Sunday night have created more questions than they have answered.\n"
+    publishedDateTime: 2020-10-05T22:02:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-mBDDua5SmE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-coronavirus-2020-campaign-election-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-coronavirus-2020-campaign-election-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003231343-01-donald-trump-walter-reed-1003-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2237,6 +2285,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Meadows: Decision on Trump's discharge to be made later today"
+    excerpt: "White House physician Sean Conley said in a briefing with reporters after Trump's announcement that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released from Walter Reed National Military Medical Center later in the day for continued treatment at the White House."
+    publishedDateTime: 2020-10-05T23:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-05-trump-covid-n1242088/ncrd1242110"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417640/201005-doctors-walter-reed-ew-420p_b1ad8bbd55e872fa22c64b305dee773b.jpg"
+        width: 2500
+        height: 1676
+        isCached: true
   - title: "Trump says he's leaving hospital Monday evening"
     excerpt: "\"Don’t be afraid of Covid,\" Trump added of the virus that has killed more than 211,000 Americans so far this year."
     publishedDateTime: 2020-10-05T18:55:00Z
@@ -2887,6 +2951,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "A Sick Donald Trump Takes His Own Medicine. How Will That Go?"
+    excerpt: "Like any normal person admitted to a hospital who can still talk and walk, President Donald Trump wanted out of there. According to CNN, he demanded his release on Sunday because, in part, he thought hospitalization made him look weak but settled for a quick lap outside the Walter Reed National Military Medical Center in a Secret Service Suburban to demonstrate his vitality."
+    publishedDateTime: 2020-10-05T22:14:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/05/a-sick-donald-trump-takes-his-own-medicine-how-will-that-go-426571"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/cb/6c/92f299a546eea57cea4d00143b04/shafermedicine-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
     publishedDateTime: 2020-10-02T00:52:00Z
@@ -3004,6 +3082,15 @@ related:
     excerpt: "The stunt was caught on camera during Vice President Pence’s speech at CPAC this year, but no one knew at the time it was Baron Cohen in the elaborate Trump costume."
     publishedDateTime: 2020-10-01T15:33:00Z
     webUrl: "https://www.thedailybeast.com/sacha-baron-cohen-pranks-mike-pence-as-trump-in-borat-2-trailer"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
+  - title: "Trump Campaign Attacks Joe Biden for Not Having COVID-19"
+    excerpt: "He has experience, now, fighting the coronavirus as an individual,” a campaign spokesperson said of Trump. “Those firsthand experiences, Joe Biden, he doesn’t have those.”"
+    publishedDateTime: 2020-10-05T20:01:00Z
+    webUrl: "https://www.thedailybeast.com/trump-campaign-attacks-joe-biden-for-not-having-covid-19"
     type: article
     provider:
       name: The Daily Beast

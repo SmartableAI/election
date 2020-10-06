@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/"
 type: article
 quality: 125
-heat: 1325
+heat: 1345
 published: true
 
 provider:
@@ -871,6 +871,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
         width: 800
         height: 412
+        isCached: true
+  - title: "Trump's Medical Condition: What We Know And Don't Know About His Status Amid Confusion Over Privacy"
+    excerpt: "Doctors are being coy on whether Trump has suffered lung damage from COVID-19 and when exactly he last tested negative."
+    publishedDateTime: 2020-10-05T22:15:00Z
+    webUrl: "https://www.ibtimes.com/trumps-medical-condition-what-we-know-dont-know-about-his-status-amid-confusion-over-3057143"
+    ampWebUrl: "https://www.ibtimes.com/trumps-medical-condition-what-we-know-dont-know-about-his-status-amid-confusion-over-3057143?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-medical-condition-what-we-know-dont-know-about-his-status-amid-confusion-over-3057143?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/us-president-donald-trump-was-said-to-be.jpg"
+        width: 1024
+        height: 646
         isCached: true
   - title: "Donald Trump COVID Update: Dr. Sean Conley 'Coy And Evasive’ During Conference On President’s Health"
     excerpt: "His update outside Walter Reed Medical Center was supposed to provide more answers about President Donald Trump’s current status following his COVID-19 diagnosis and hospitalization, but Dr. Sean Conley appeared to leave the American public with more questions instead after speaking with reporters."

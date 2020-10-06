@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 3460
+heat: 3480
 published: true
 
 provider:
@@ -1005,6 +1005,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXVXVBX6CII6VNKVJVY2SJKPJM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Watch Live: NBC News town hall with Democratic presidential nominee Joe Biden"
+    excerpt: "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami, Florida. The event is scheduled to begin at 8:00 p."
+    publishedDateTime: 2020-10-05T23:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe"
+    ampWebUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Does Joe Biden Own an Island Near Epstein's? Conspiracy Theory Spreads on Social Media As Election Approaches"
     excerpt: "The baseless claim attempting to link Biden with the deceased sex offender continues to appear on Facebook and Twitter can be traced back to niche online communities, including QAnon."

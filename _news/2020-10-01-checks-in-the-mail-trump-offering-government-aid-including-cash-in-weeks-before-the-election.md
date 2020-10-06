@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
 type: article
 quality: 127
-heat: 967
+heat: 987
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_2dac7a77f4fb432388b1632ccc3281f2_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Restaurant staffers in quarantine after working Trump fundraiser"
+    excerpt: "More than a dozen employees of Murray's Restaurant in Minneapolis who served at catered event are now isolation."
+    publishedDateTime: 2020-10-05T22:53:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/05/aea0448e-df51-46f3-b69a-6aa025fa4a68/thumbnail/1200x630/011c5de4ff8a7c2fa9044cf8a1464c72/2020-10-03t232508z-1757869472-rc2bbj9tpe38-rtrmadp-3-health-coronavirus-trump.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."

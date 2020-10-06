@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "See Tapper's direct message to Americans after Trump's 'callous' tweet"
+    excerpt: "CNN's Dr. Sanjay Gupta and Jake Tapper react to President Donald Trump's tweet telling Americans not to be afraid of Covid-19.\n    \n"
+    publishedDateTime: 2020-10-05T21:13:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBefDRw1-nk/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005163054-tapper-gupta-lead-10052020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Drugmaker says White House doctor described Trump treatment inaccurately"
     excerpt: "Dr. Sean Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
     publishedDateTime: 2020-10-05T17:22:00Z

@@ -1005,6 +1005,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Watch Live: NBC News town hall with Democratic presidential nominee Joe Biden"
+    excerpt: "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami, Florida. The event is scheduled to begin at 8:00 p."
+    publishedDateTime: 2020-10-05T23:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe"
+    ampWebUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Does Joe Biden Own an Island Near Epstein's? Conspiracy Theory Spreads on Social Media As Election Approaches"
     excerpt: "The baseless claim attempting to link Biden with the deceased sex offender continues to appear on Facebook and Twitter can be traced back to niche online communities, including QAnon."
     publishedDateTime: 2020-09-25T16:53:00Z
@@ -2529,6 +2545,6 @@ related:
       domain: miamiherald.com
     quality: 35
 
-secured: "Kuk6jABYMwxkgT20uO0QFAbYHzSeqV4b7HbJvelhPrji07rJG+2eN6m2rKckKY8dXBkSOtE151rgUNdgaRMTaYzz7JU2VpQz+ayoKXkfh4u/x3W//AaBefI6iFQpMOxh5IPOdbX2ehg31IUf7By0PmhVVFo89ECGD+5pz/p+fJ8vO2epo5D3xTEybywHtxYhrV7e6j5Q4zE52ELS6bj6AFKIaGhkSiij0pEETvzpIHBaA5woMt4fbxFHE0PhJOptu4R+wortLhi+1BoQD/ROUTa+F0VrcuGwKJWcFD+ZlNJCASpWxBDdE8crlsFlfDjur6TEUPjEGz1kkaXzj40y0x8VnBJ1TSJGfo081KT7Hos=;VI4R8VrzvqnTMwS3uHrzyg=="
+secured: "7LPWg+KfwmUGVSwfW/HBe9zU0yQCAzdCsseebb91cHowA6a2F3RPeSUm/1ubyIZVlUiuBLxfLp1z4lv8aVfO63Y4C5SI/6g6esZ9i+bVLn6zL+788DoIwGFKmhGfuckOb4PYox1LlRxgXfMo3FO08NLCSBenGgoyi0fnBSEcB0Z7tCGB4Be9GsHjyNK+brj61Hfu5lk0Ms3dd6sy6RVgvNgXDDowDnyE63KhjZurVWC9sK7HLIeQT+9B/O7N+Bl3Oq3R0wWhp8AZtqbZKFmODXzC4FtHlSd+B/qj2FLssBA9hz1HwNvj3z1qPslTSRi3JecGBBVbUS9qAXwgChyEaq7ReI7dXsGsZ7bxq4LnfIhaSRj8hbsZimycU7pUYj8x8WIRZD87Yrwa4QFDLxjrYfVTwV7VTeV0b2Kax3Op6GsxswoJY5Di19pSiKwosEUpvXWYB3wZuyhT5nFN4HFgT0behbt1aFRNqgXYnwF5/YkYzobg+QBcWLd8WMVUyMKODsCEsa8vdBViv4nnlA9mpg==;KkKrSN44yhrmcwWAaZtGYw=="
 ---
 

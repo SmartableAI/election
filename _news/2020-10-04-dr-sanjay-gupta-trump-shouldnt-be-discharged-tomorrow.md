@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "See Tapper's direct message to Americans after Trump's 'callous' tweet"
+    excerpt: "CNN's Dr. Sanjay Gupta and Jake Tapper react to President Donald Trump's tweet telling Americans not to be afraid of Covid-19.\n    \n"
+    publishedDateTime: 2020-10-05T21:13:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RBefDRw1-nk/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/05/trump-tweet-dont-be-afraid-covid-19-tapper-gupta-sot-lead-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005163054-tapper-gupta-lead-10052020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump hopes for Monday discharge as Americans wonder about his health"
     excerpt: "It's been more than two days since President Donald Trump was airlifted to Walter Reed National Military Medical Center, but Americans remain largely in the dark about the trajectory of his infection with Covid-19 and the specifics of his condition as the White House tries to control the optics of his"
     publishedDateTime: 2020-10-05T13:18:51Z

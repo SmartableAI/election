@@ -3,10 +3,10 @@ category: news
 title: "NBC News to Hold Town Hall With Joe Biden in Miami"
 excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
 publishedDateTime: 2020-10-05T20:50:00Z
-originalUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-webUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-ampWebUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
+webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
+ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
 type: article
 quality: 75
 heat: -1
@@ -150,6 +150,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "O4zxMKIMwOXDt8LX0IohKxy1Y2Mtihbzev1tyyfPXDoi9siUowZdeUuM1lumPNHHD3rU+GE4pUTuvrNytmd1sqrZuFrN+hkgnRE9iFFLNpTyAIGNlBU8hq082FevZQfJmPsx6Aazw/fBN6fjNv8X1oeeLSgdV7QW6CFx8lEBDcyQnbgftv3qIeutTy9rZo9MhxR47vbrztc75N+f/1W5C2jRkIrA1E+MUjNoXaQHi9dZsluHbwY1tibKo4He9Bs6V8ZLfTATwb7T63NlQoIU5/suWSmSHb48Ytehote564GCdgGACDl3e3jhGuHV6aKTWb5+mshKiyXMJvA3h/OciCA7Q/p/NnjS7jmSFJXueIc=;6aDjTfUZFXqzJ13aS8mdpQ=="
+secured: "xqdRXnurlGoHX5Y0imzDWAwOTKoKPTbtlD/4OaPVu6IF1GG/Ddw83umdoV73SSsn6PmJyb2FM2HWongigtIIDAz+sZg9XhwXO73/tIdijMV6RbdaWd6EKA7X9j3ghd49DK7RIDsWK3fwNvAbgF/BbULHaYhM4BQFCURr6BQrWKcGRfrQoPBXZRjox5ldVUx/odEyjHhShnRz3G8ZdjxaM8Tz1NjCVHiNhSfEGlWK1EDKMiaM91YhIW8P+lWJx9N8zlmqDdd4Y1cla0xKYqtAwqqYYR+BypUqz+naBA2k3wVZp3SYu5Pj1xTN8ymxvVcQqaCzFiKgktG5bvGcUJ6LD+DFldwJceje9wemQT9L5cU=;i7kN8ixF7Jn/Rk/Wq76mKw=="
 ---
 

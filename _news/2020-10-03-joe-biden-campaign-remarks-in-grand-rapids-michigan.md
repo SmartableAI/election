@@ -77,9 +77,9 @@ related:
   - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
     excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
     publishedDateTime: 2020-10-05T20:50:00Z
-    webUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
     type: article
     provider:
       name: NBC New York

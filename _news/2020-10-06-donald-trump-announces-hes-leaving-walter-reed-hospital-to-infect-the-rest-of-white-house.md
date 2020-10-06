@@ -229,6 +229,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
+    excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
+    publishedDateTime: 2020-10-05T22:54:00Z
+    webUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/"
+    ampWebUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 66
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Erin-Burnett-OutFront-07_07_02-PM-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Latest: Trump’s Diagnosis a Reminder US Cases on Rise"
     excerpt: "The news of President Donald Trump’s coronavirus diagnosis serves as a reminder of the pervasive spread of the coronavirus in the United States."
     publishedDateTime: 2020-10-03T21:31:00Z
@@ -252,6 +268,6 @@ related:
       domain: usnews.com
     quality: 51
 
-secured: "iYz6xW5DQoEJBgEcB8FgZ33U0Z+ej1oze9oF6uAwf+mORTOgmaMHd8MI04ctGkT8A12G58CxCKHzU1rGHh7TXvj9zDOMc87zCROoQXsuIbcsiJ8B3s8yXW90VVbujhjpKbJQFasolWTal3lb50zBYttuxABDCjxcQ+JC+2rzjwdrJA5060hNRpXDsuUAgCQZrUdL9QWb3npkAb+M5/GDIuRwMjfnZuWwM2OoOTinXLv/pt7m+2jIko5H++gCzePe59ILQL7bhUrvoqzJESfbQaIlUgpVWl20qWLj5iIMklUFbhAHRz9FuBmta/8DVgO9hkhQsCpl0zAWzGrSfl3QDHjN4nPjcZfYDGl83sN+XGI=;9H4i29lo6FumiK+OZfRSrA=="
+secured: "wWl5TMN9wTxNmMfH+9r4oIUjkpUTsVsK+INA8MG8eIM77jlXWN40T+ra0g7pPfimvY6c49IjLjg3Z2UDDIQGPFvwpW470dWtgsVYs2NdluZdP/R82hIpiSgBtSzIyd9W47qNlaEXji3OWkL+9jlrJpJYHUunL/DUkvL49IP1zhryboBMO6kn/y3TWUJDJheoR38DmkKSzSCstyA7YrHzjqFRos0VHydBZIfZ/p3fZd6ujU5yFWQusSLGvbVf3fxOwu/oP45BmHV9Yzd8mW1OU4Bk2EEStgPIsCVpOGX9ylcq19WpTrmTI0pavJSTTD6nUTEhkbfYLe8Vy6hc1NrRKZ3nVVHywjQJ6Tu4GSye/Nn3p1PzMnQyGnoEu8LycmARviHz8EFsEpGls+Y7CHRxnMCykqvb9xnifdfNQ9Zf7hyvrkwX2yy+HGeZDi9XhV9+PctnYDvKJZqJhA57GL6pZdUFPNJ9YB8gkO92rs0re5Pib6EwtqRIb3Xk9HI8ZiaPKzbrSkmJ0t/YWXPIeD9LAA==;75w6bGFCveJFcypnJIOxiA=="
 ---
 

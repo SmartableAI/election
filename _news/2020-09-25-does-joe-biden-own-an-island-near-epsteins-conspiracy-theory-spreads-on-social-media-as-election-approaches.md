@@ -1021,6 +1021,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Watch Live: NBC News town hall with Democratic presidential nominee Joe Biden"
+    excerpt: "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami, Florida. The event is scheduled to begin at 8:00 p."
+    publishedDateTime: 2020-10-05T23:00:00Z
+    webUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe"
+    ampWebUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "A retired Air Force general who served as a senior military advisor to Trump just endorsed Biden for president"
     excerpt: "Former Vice Chairman of the Joint Chiefs of Staff Gen. Paul Selva was among 489 former national security leaders who endorsed Biden."
     publishedDateTime: 2020-09-24T16:03:00Z

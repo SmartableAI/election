@@ -888,6 +888,22 @@ related:
         width: 800
         height: 412
         isCached: true
+  - title: "Trump's Medical Condition: What We Know And Don't Know About His Status Amid Confusion Over Privacy"
+    excerpt: "Doctors are being coy on whether Trump has suffered lung damage from COVID-19 and when exactly he last tested negative."
+    publishedDateTime: 2020-10-05T22:15:00Z
+    webUrl: "https://www.ibtimes.com/trumps-medical-condition-what-we-know-dont-know-about-his-status-amid-confusion-over-3057143"
+    ampWebUrl: "https://www.ibtimes.com/trumps-medical-condition-what-we-know-dont-know-about-his-status-amid-confusion-over-3057143?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-medical-condition-what-we-know-dont-know-about-his-status-amid-confusion-over-3057143?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 61
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/us-president-donald-trump-was-said-to-be.jpg"
+        width: 1024
+        height: 646
+        isCached: true
   - title: "White House Chief Of Staff Mark Meadows Says Donald Trump In ‘Good Spirits’ Despite COVID-19 Diagnosis"
     excerpt: "White House Chief of Staff Mark Meadows did not reveal whether President Donald Trump is taking any treatment for the virus."
     publishedDateTime: 2020-10-02T16:16:00Z

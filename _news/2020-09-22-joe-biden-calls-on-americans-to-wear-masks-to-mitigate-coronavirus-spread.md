@@ -1850,6 +1850,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden wishes Trump well from campaign trail"
+    excerpt: "With President Donald Trump hospitalized, Joe Biden is wishing him a speedy recovery, but urging him to \"listen to scientists\" and approve nationwide restrictions to stop the spread of the virus."
+    publishedDateTime: 2020-10-05T22:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/biden-wishes-trump-well-campaign-trail/3631686001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4b3712af-6ef7-497e-a6d0-b46c3f28d29f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z

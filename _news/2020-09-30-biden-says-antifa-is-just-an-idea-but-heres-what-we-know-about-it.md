@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ceasefire’s over: After Trump twitter storm, Biden urges president to ‘listen to the scientists’"
+    excerpt: "Whatever ceasefire there was between President Trump and Democratic nominee Joe Biden following the president’s hospitalization after contracting COVID-19, it appears to be over."
+    publishedDateTime: 2020-10-05T23:34:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhxsVWLYlSU/ceasefires-over-after-trump-twitter-storm-biden-urges-president-to-listen-to-the-scientists"
+    ampWebUrl: "https://www.foxnews.com/politics/ceasefires-over-after-trump-twitter-storm-biden-urges-president-to-listen-to-the-scientists.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ceasefires-over-after-trump-twitter-storm-biden-urges-president-to-listen-to-the-scientists.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden’s whistle-stop: Democratic nominee taking post-debate train swing"
     excerpt: "Democratic presidential nominee Joe Biden is hitting the rails once the first presidential debate is over."
     publishedDateTime: 2020-09-28T17:20:04Z
@@ -127,6 +143,17 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump plans to debate Biden Oct. 15, despite COVID-19 battle"
+    excerpt: ""
+    publishedDateTime: 2020-10-05T23:52:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6giRDrrsRJU/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
   - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
     excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
     publishedDateTime: 2020-09-30T01:51:26Z
