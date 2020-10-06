@@ -177,6 +177,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
+    excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
+    publishedDateTime: 2020-10-06T00:10:00Z
+    webUrl: "https://www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
     excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
     publishedDateTime: 2020-09-28T21:04:00Z

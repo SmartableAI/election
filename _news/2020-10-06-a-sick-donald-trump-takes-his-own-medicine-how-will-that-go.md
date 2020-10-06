@@ -222,6 +222,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says Trump is 'responsible' for getting coronavirus"
+    excerpt: "Democratic presidential nominee Joe Biden said Monday night that President Donald Trump is responsible for contracting coronavirus, faulting Trump for failing to wear masks and follow social distancing guidelines.\n    \n"
+    publishedDateTime: 2020-10-06T01:14:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/voxiN2B7-L4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/biden-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/biden-trump-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005171024-02-joe-biden-florida-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: It's a month until Election Day, and Trump has Covid-19. Now what?"
     excerpt: "There were more than 302,000 new Covid-19 cases in the US in the past week, according to the US Centers for Disease Control and Prevention.\n    \n"
     publishedDateTime: 2020-10-03T10:45:25Z
@@ -635,6 +651,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: One key reason we all need Trump's doctor to be trustworthy"
+    excerpt: "White House physician Sean Conley delivered another optimistic but very incomplete briefing Monday on President Trump's battle with Covid-19, adding a new level of confusion about his health.\n    \n"
+    publishedDateTime: 2020-10-06T00:04:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gwL1AGRS830/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/what-matters-october-5/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/what-matters-october-5/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151525-sean-conley-walter-reed-1005---screenshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump returns to White House and removes mask despite having Covid"
+    excerpt: "It's been more than two days since President Donald Trump was airlifted to Walter Reed National Military Medical Center, but Americans remain largely in the dark about the trajectory of his infection with Covid-19 and the specifics of his condition as the White House tries to control the optics of his"
+    publishedDateTime: 2020-10-06T01:08:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Mz23KP1Wmo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004234718-04-trump-walter-reed-morotcade-1004-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2966,6 +3014,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "It's not just Trump: US coronavirus cases on the rise again"
+    excerpt: "Trump's ailment can help serve as a reminder that that the coronavirus crisis is far from over, and in many parts of the country, it's getting worse."
+    publishedDateTime: 2020-10-05T23:09:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/it-s-not-just-trump-us-coronavirus-cases-rise-again-ncna1242127"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_29/3397725/200716-texas-coronavirus-hospital-patient-ac-1104p_63ee9b40283d55febda82a463df640f2.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
     publishedDateTime: 2020-10-02T00:52:00Z
@@ -3134,6 +3196,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "25O3XgPi6b2xd9w5Y+yyakdXCr0KMxQyUW4Hljmnz0l2U1cUNS9dPS4aJJyvA85vwnk4UFlbOnmStOG08+2ANbuy0hhtRE6OCmFlMPvqtrS0Nj+glyYrGouDq+DTEjqVtepvVxaT4tPxWlASm+tvC5YIyTJotNM0F45ATUFXRBvIR2Ggv4/s6lahaVdhcIFIP2P8J5jXk3rllKnvXEDPJpZSbKNrPCitDyHl9FS+Ur2I1Y3lxhHJVpNkWxC1FJ3sA2TFV2FPBlwJ+aX+9JRy0ZU2VMsXPP6UzbH/kMdYBtrfyaTVS/9aXG/mX8qN9gpsF0FAC+Bi9isEbqotObbQ/mmIGW/3bIL1EXXOJcooJFw=;7faR2NXcX4YkbNzsKQh0lg=="
+secured: "lKdqivYJYS95Zk6hg6G4FBCC/mRrrTNqI6uz1D3GeHEw3T2zqH9fdPMdNyKImAwug6HykaaaZWCxm2s0R85rc9dlN2dOlsvF6Bjkcwb711oJ6+bK1yPNzImG4Kunhm6HbXwX1g3LUN79iRKY8ouscmavGAvxksLu1rR/NGlCg8YnNVJEpvf14kSdyY39Vzqg6SdZ77FBeJqYFCXrGTKqe06NX53dtE+sEAdzGkzXvsi7/mGedYxJPL7qob7vuskIm/CYGmTVWjgRWaV6F67OggIm1xfxcWn9AtN9ZeZ08cbK9pssf9Sn6psv+poDye1QdMnQKMkRxSLsWCs7r6B/RI733acumaZ4lo4GI87A4Ik96qi/h3jFWQlu5Yte1ImnCek+sRGpJh/JIFQIA/XaGqvsikaslaVGOyYpVxoYOuPCQrHkZOVmdy5tXYQCHJO+Z6vB2IqwfRq3elJa2rCOeD+nvoGoc6HS2LQ+UR8louvdzVtiVn7ppGuiZfj89mdgpGqMO1o6VGrfziQxLFbVtA==;JObLKfLakd39v2wg/QLwIA=="
 ---
 

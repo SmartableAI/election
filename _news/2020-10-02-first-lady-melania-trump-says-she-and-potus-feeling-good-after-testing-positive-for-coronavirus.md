@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden: Trump bears responsibility for coronavirus diagnosis after downplaying guidelines"
+    excerpt: "Biden said that he “wasn’t surprised” to learn of Trump’s positive test result."
+    publishedDateTime: 2020-10-06T01:45:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/slHPDL2pLoY/biden-trump-responsible-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-responsible-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-responsible-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b4ffc97-e106-4ffb-b303-717a227738f8/2160ddeb-4a0e-4645-87d8-6ef8610e8ff2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tells UN to hold China accountable for coronavirus pandemic"
     excerpt: "President Trump on Tuesday told the United Nations that it must hold China accountable for its failure to contain the coronavirus in the early days of the pandemic -- and declared the World Health Organization \"controlled\" by Beijing."
     publishedDateTime: 2020-09-22T14:19:51Z
@@ -654,6 +670,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump administration to block FDA guidelines that could delay coronavirus vaccine: report"
+    excerpt: "The FDA proposed stricter guidance last month that could prolong the timeline for a vaccine."
+    publishedDateTime: 2020-10-06T01:34:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XWzboYrA0tI/white-house-fda-coronavirus-vaccine-guidelines"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-fda-coronavirus-vaccine-guidelines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-fda-coronavirus-vaccine-guidelines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf8f37d-4908-4abf-a756-64a6bf13926e/c16f8a61-6cac-4a6a-9e1f-e359ba3059fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "President Trump, first lady test positive for coronavirus, set to quarantine at White House"
     excerpt: "President Trump and First Lady Melania Trump both tested positive for COVID-19 early Friday, and are set to quarantine and recover at the White House. "

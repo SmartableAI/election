@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump plans to debate Biden Oct. 15, despite COVID-19 battle"
+    excerpt: "President Trump plans to take part in next week's second presidential debate in Miami, which will take place less than two weeks after the president contracted the novel coronavirus, Trump 2020 Communications Director Tim Murtaugh told Fox News."
+    publishedDateTime: 2020-10-05T23:52:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6giRDrrsRJU/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump and Biden supporters out in force across the swing state of Florida with election one month away"
     excerpt: "Supporters of President Trump and Democratic presidential nominee Joe Biden held rallies throughout the swing state of Florida on Saturday, as the November election fast approaches. "
     publishedDateTime: 2020-10-04T22:44:59Z
@@ -143,17 +159,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump plans to debate Biden Oct. 15, despite COVID-19 battle"
-    excerpt: ""
-    publishedDateTime: 2020-10-05T23:52:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6giRDrrsRJU/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
   - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
     excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
     publishedDateTime: 2020-09-30T01:51:26Z

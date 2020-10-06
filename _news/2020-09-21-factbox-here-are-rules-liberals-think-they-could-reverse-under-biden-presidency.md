@@ -1346,6 +1346,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Former vice president Joe Biden: Wearing masks are a patriotic duty"
+    excerpt: "Speaking at town hall event in Miami, Fla., held by NBC News, former U.S. Vice President Joe Biden speaks about President Trump's recent diagnosis of Covid-19."
+    publishedDateTime: 2020-10-06T01:32:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/05/former-vice-president-joe-biden-wearing-masks-are-a-patriotic-duty.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 105
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106730970-1601944427423-Screen-Shot-2020-10-05-at-82801-PM.jpg?v=1601944437"
+        width: 1485
+        height: 880
+        isCached: true
   - title: "Cindy McCain, wife of late Republican Senator John McCain, endorses Joe Biden for president"
     excerpt: "Cindy McCain, wife of late Republican Senator John McCain, joins \"CBS This Morning\" to discuss what led her to endorse Joe Biden, why she thinks he would be the right person for president and how she feels about the Republican party."
     publishedDateTime: 2020-09-23T13:02:00Z

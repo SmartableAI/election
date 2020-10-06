@@ -123,6 +123,22 @@ related:
         width: 885
         height: 545
         isCached: true
+  - title: "Trump urges Americans to 'get out there' after return from hospital"
+    excerpt: "President Donald Trump emerged on Monday from four days in a U.S. military hospital where he was treated for COVID-19 with a video message to Americans to \"get out there\" and not be afraid of coronavirus."
+    publishedDateTime: 2020-10-06T00:48:00Z
+    webUrl: "https://www.reuters.com/article/healthcare-coronavirus-trump-video-int-idUSKBN26R00L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R00L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R00L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536301868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95007"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump campaign slams plan to change debate rules after unruly Cleveland encounter"
     excerpt: "President Donald Trump's re-election campaign on Thursday rejected calls for new rules to govern the next two debates between him and Democratic challenger Joe Biden, after a first matchup marred by constant interruptions and outbursts."
     publishedDateTime: 2020-10-02T02:58:00Z

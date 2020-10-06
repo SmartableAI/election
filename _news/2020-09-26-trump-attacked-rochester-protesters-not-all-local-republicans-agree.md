@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's reckless return met with a dramatically changed White House "
+    excerpt: "President Donald Trump may be eagerly seeking a return to normal after three nights in the hospital. But the White House he arrived home to Monday with dramatic and reckless flourish has changed drastically since he was airlifted off the South Lawn at the end of last week.\n    \n"
+    publishedDateTime: 2020-10-06T01:52:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_II6QKdDZgc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/trump-white-house-coronavirus-diagnosis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-white-house-coronavirus-diagnosis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005184613-03-trump-leaves-walter-reed-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump taken to Walter Reed medical center and will be hospitalized 'for the next few days'"
     excerpt: "President Donald Trump will be taken to Walter Reed National Military Medical Center, according to the White House.\n    \n"
     publishedDateTime: 2020-10-03T00:47:55Z

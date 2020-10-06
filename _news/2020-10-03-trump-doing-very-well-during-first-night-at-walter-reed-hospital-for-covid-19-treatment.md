@@ -224,6 +224,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Joe Biden campaigns in Miami ahead of NBC News town hall"
+    excerpt: "A new NBC News/Wall Street Journal poll shows Joe Biden opening a 14-point lead on President Trump nationally, with the election less than a month away. Biden told reporters that he’d listen to scientists about the next debate after President Trump’s Covid-19 diagnosis."
+    publishedDateTime: 2020-10-06T00:02:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/joe-biden-campaigns-in-miami-ahead-of-nbc-news-town-hall-93193797761"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93193797761"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93193797761"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_gha_covid_and_the_campaign_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘I Don’t Want to Be Attacking the President,’ Joe Biden Says"
     excerpt: "In a town hall for union workers, Mr. Biden was asked about how he would handle the pandemic, but he said he did not want to take shots at President Trump."
     publishedDateTime: 2020-10-03T22:31:00Z

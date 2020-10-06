@@ -304,6 +304,22 @@ related:
         width: 768
         height: 545
         isCached: true
+  - title: "Plexiglass and 12 feet apart: Mike Pence, Kamala Harris have new rules for vice presidential debate"
+    excerpt: "The changes come after President Donald Trump and several White House staffers and allies have tested positive for COVID-19 after last week's presidential debate."
+    publishedDateTime: 2020-10-05T23:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3630292001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3630292001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Former Pence aide: White House staffers discussed Trump refusing to leave office"
     excerpt: "A former aide to Vice President Pence said that White House staffers have privately discussed a scenario in which President Trump loses the November election and refuses to leave office."
     publishedDateTime: 2020-09-26T03:46:00Z
@@ -729,6 +745,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/trump-fundraiser-hosted-qanon-supporters.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Don't politicize the virus, Pelosi tells Trump"
+    excerpt: "U.S. President Donald Trump has no basis for claiming success battling the country's coronavirus crisis, Speaker of the House of Representatives Nancy Pelosi said on Monday, saying his policies had endangered Americans."
+    publishedDateTime: 2020-10-06T01:10:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-pelosi-idUKKBN26Q2VF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26Q2VF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26Q2VF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536279030&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941WC"
+        width: 819
+        height: 545
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -1203,6 +1235,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump stages dramatic White House return"
+    excerpt: "Donald Trump staged a dramatic return to the White House Monday night after leaving the military hospital where he has been receiving an unprecedented level of care for COVID-19. Trump entered the White House without wearing a protective mask."
+    publishedDateTime: 2020-10-06T00:25:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/06/trump-stages-dramatic-white-house-return/3632449001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9b34bac6-3caf-4530-b130-fcd9c4a967b8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
     excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
     publishedDateTime: 2020-10-04T15:57:00Z
@@ -1587,6 +1633,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Can Mike Pence Save the Trump Campaign?"
+    excerpt: "With Trump sidelined with COVID, Pence is trying to keep his reelection dreams alive — but some Republicans, fearing a Nancy Pelosi presidency, worry an aggressive campaign schedule could put him at risk of infection,"
+    publishedDateTime: 2020-10-05T18:05:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/can-mike-pence-save-the-trump-campaign"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/can-mike-pence-save-the-trump-campaign/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/can-mike-pence-save-the-trump-campaign/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 90
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7b4fa7b13a7bb1006f70ed/master/pass/Pence10.5.jpg"
+        width: 2000
+        height: 1460
         isCached: true
   - title: "How to Watch Wednesday Night’s Debate Between Mike Pence and Kamala Harris—and What to Expect"
     excerpt: "The debate, which will take place at 9 p.m. on Wednesday, will feature increased social distancing protocols, including greater distance between the two candidates and plexiglass shields in front of each of their lecterns."
@@ -2523,6 +2585,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "kInNhLsRTa8kPl1rV86S42sdT6ndD8uyu5RIMv1OWUYiMtFf8Rm8CvrsOaL0mlQlT9WQJ3oEOEn0TBsbj72T4hNwols8TyjCnGnPpmx7m2ruPUNhDWSGcyYG6tPxuty9wMulz9zLVtle7SCq45X+S4ENiqXxh/LYiNVzUst6kFebPDjfs513VA8JWQnEXAwEc/Is0HeXvE9tMS4DitQ27TFGG5jECJJAyfeG6zhbj+yu8fYvwExdMDpgWauE1vc8xZvQV7W0aYl7Kgev9PGljF9n3vbxWMqxIqPlcLdK0dDEy+yXKg5/OgXg35caoSBN5MPHsCJRSXM4o+d8hEwnOH0Fcxjq/isM7A5oMy4B5Yg=;C+Pt2CKIbVCTgrvDxDNsDg=="
+secured: "X8hD4a4l4k6x7cXTO0XZLx4myGXSl9dDm6c8dxJs3Avbn8UbZJACvIR6uSBtqcJ7wPzexeB4h47Sdy7Fk6xu6hM4Dp2awH1YS4PrefB/HEf1fQixQ1DgOnDgAGiW7RxxYpto7vVEookPLwmjDOPxNJKFmcG1xrPmzuRmJQ4NiUOOhALqamOW3KeneM1sar9gP8Ytxe2gRHO+yL9MT+YWUtxnfCiAX6EFSIRf3zS+4YZ0VoVHrK4GCTZ2amK765kOEfU3w6HLP6Ixd2biqg0XE9wBnc8cJgGrxHdijIxKkC4gn7asHCErt2FE3Ry3DJtSIrGA83RUBJf25cT9n4PVYZwIGI4jfXSOolGTRITewkRoNkgJ1g565P6CuVRdeYp2BNyb9TaoWQh/NxOzY/P2wYbSVAWpeExUved15jidCj7X/87KMkQgFyAaiI3b47aDkAwS9nv6u4L+MuabI+18nupfxqUfo3tJ60p1DUExgb1Jk/fyA8aN8rOfrdOjvEf+i4gRE6FEdiW/wVd3aI6/xw==;Xh+9PtiVPSeC25hrcC8dOg=="
 ---
 

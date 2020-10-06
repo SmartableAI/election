@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump plans to debate Biden Oct. 15, despite COVID-19 battle"
+    excerpt: "President Trump plans to take part in next week's second presidential debate in Miami, which will take place less than two weeks after the president contracted the novel coronavirus, Trump 2020 Communications Director Tim Murtaugh told Fox News."
+    publishedDateTime: 2020-10-05T23:52:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6giRDrrsRJU/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden up 14 points on Trump following chaotic debate, new poll indicates"
     excerpt: "A new poll shows Joe Biden with a 14 point lead nationally over President Trump, following the first presidential debate last week. "
     publishedDateTime: 2020-10-04T22:21:29Z
@@ -159,17 +175,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump plans to debate Biden Oct. 15, despite COVID-19 battle"
-    excerpt: ""
-    publishedDateTime: 2020-10-05T23:52:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6giRDrrsRJU/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
   - title: "Where Trump and Biden Stand on Climate and Energy Policy"
     excerpt: "The 2020 presidential election pits one candidate making climate change integral throughout his platform against another who dismisses its importance and pledges to keep pushing a deregulatory agenda."
     publishedDateTime: 2020-10-04T11:27:00Z

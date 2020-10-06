@@ -1352,6 +1352,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Former vice president Joe Biden: Wearing masks are a patriotic duty"
+    excerpt: "Speaking at town hall event in Miami, Fla., held by NBC News, former U.S. Vice President Joe Biden speaks about President Trump's recent diagnosis of Covid-19."
+    publishedDateTime: 2020-10-06T01:32:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/05/former-vice-president-joe-biden-wearing-masks-are-a-patriotic-duty.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 105
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106730970-1601944427423-Screen-Shot-2020-10-05-at-82801-PM.jpg?v=1601944437"
+        width: 1485
+        height: 880
+        isCached: true
   - title: "FACTBOX-Here are rules liberals think they could reverse under Biden presidency"
     excerpt: "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the"
     publishedDateTime: 2020-09-21T11:28:00Z

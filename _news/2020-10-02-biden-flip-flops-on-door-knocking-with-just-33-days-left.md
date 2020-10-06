@@ -62,6 +62,22 @@ related:
         width: 6048
         height: 4024
         isCached: true
+  - title: "Biden discusses how to combat racial injustice"
+    excerpt: "Joe Biden discusses his work with the civil rights movement and the change he has seen in the country while also addressing how he would hope to fight racial injustice if elected president."
+    publishedDateTime: 2020-10-06T00:59:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-discusses-how-to-combat-racial-injustice-93196869645"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93196869645"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196869645"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_hate_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ToO9bqE/z9BzkVkJ6gG9dip8+VUYswCRZ5VD/0fQ+dyiUi62EABZNyl1LoJQbnf4U3ZNkQTsrKetrbgOLhB2VA6uADpCm6w3KBLIgO4lnDM/YhGUYdCfUxprprPhgQ/36wSgF1kD0BAj3kCcGMdg8cjSnDIPUW/q7pguN3upD5bhzpzFesA8R/bJQgPn0EB4tRTqPMtd9qT+qA8/8pDmq0pTPYWY6aexNsNZF2C5YkJQwGpzoQK1MvM32nJMlkFYEguy+wilfjICv0sYH4Se4u/JMvzfUkwnMRU+uEoXNV9Vanf7oQGsagkQRcH3AV2SU4l96qGF7Z6UxQtHVUJ0aWwFuslOcPK+kbKtX3rGk7+xicSyWXuasltm5PLJFo3lCVx0nURni/WwHUxRRxPubJZQ29YdhabxxQ0IY4T7hax1Ttgx9WDFapRI6SXvW75cnrxoeeyUJHnZjQJf4RVL9IzHUsJKlZMJAQzUlY9XudOAyVz9y8pemia5JGiQxzWAVZU4WaTC6VubiS8R39/8aQ==;U9VZFBczL+XLV5jCZyeH9Q=="
 ---
