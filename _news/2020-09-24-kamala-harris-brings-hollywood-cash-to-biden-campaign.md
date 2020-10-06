@@ -91,6 +91,17 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "There is no pro-life case for Biden"
+    excerpt: "During his NBC town hall on Monday, Joe Biden reiterated his unyielding support for abortion on demand, putting to rest the idea that there is a pro-life case to vote for Biden."
+    publishedDateTime: 2020-10-06T17:53:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "mS4z7lCzjWvKttTmLbaJ1rCODIEvxx9nlWZOrGkUZ1V7OySZ0iZ0JjX59Jsp2R9G0zYWLt+PIchrFhDu42K99Ro5/MGbC5acuEABamKUrBlXXssYK8Sq+9VNmKlXMVSSFc/N1tcBgoPiZUcadogl36stpxkIwreRNLRXAyq4eWP/uT9ti6X5LAqN7OVCvY21vbk66y8+qHb6ck5vqIPoaEbhNgLn5D+pnh2ekhMmvp1S/dPZMutUm7fe6INHGZHE+F7aeIuLTuURW16CaziFN9ZAjENn2zHQhcAzswBEEVJaKMOPfnS1F24ih47gk6k3ar7cjec0nJgohbDjhq/+rQ/AxlZAjsN4bORXJYIyU4YHjnoimHwKqkgCcXimhhZENlcy2xjePcdrQSr+T6sAgQbwrlQx2VOhI6vVp9q+3I33wA4VqiO7L41yNwQE4xNN7qi8vMhm25AiQfU96X7C7vOKzKTm60KxQyc6h/5RRmIkv+pOtuV38QLtJ53fm3wY61gwBO6qKRbGOUpMGRznWA==;E0NRLW/dk6mIE2ToOO2hgg=="
 ---

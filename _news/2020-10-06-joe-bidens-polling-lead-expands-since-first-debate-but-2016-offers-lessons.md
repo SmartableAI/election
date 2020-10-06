@@ -135,6 +135,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'He's from here': Biden and the battle for Scranton"
+    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
+    publishedDateTime: 2020-10-06T18:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
     excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
     publishedDateTime: 2020-09-23T04:08:00Z

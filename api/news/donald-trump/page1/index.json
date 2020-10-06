@@ -2,6 +2,113 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-07-dow-falls-400-points-after-trump-calls-off-negotiations-on-stimulus-package.md",
+      "title": "Dow falls 400 points after Trump calls off negotiations on stimulus package",
+      "excerpt": "Wall Street fell on Tuesday after President Donald Trump said he had would be halting all negotiations on a new round of coronavirus stimulus relief. The Dow Jones Industrial Average fell by almost 400 points,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/markets/dow-falls-400-points-after-trump-calls-negotiations-stimulus-package-n1242318",
+      "originalUrl": "https://www.nbcnews.com/business/markets/dow-falls-400-points-after-trump-calls-negotiations-stimulus-package-n1242318",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_41/3417973/201006-new-york-stock-exchange-jm-1507_b91cdb57fb0e13b1b7cf21e2e3983820.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242318",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242318",
+      "publishedDateTime": "2020-10-06T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election.md",
+      "title": "Trump Says He Told Aides To Stop Negotiating Stimulus Until After Election",
+      "excerpt": "The president blasted Speaker Nancy Pelosi's plan as too expensive and said Senate Majority Leader Mitch McConnell should focus on the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/",
+      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cbe4f10f70e944148f3f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3773%26cropY1%3D0%26cropY2%3D2123",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/amp/",
+      "publishedDateTime": "2020-10-06T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-coming-full-circle-trump-returns-to-false-misguided-flu-rhetoric.md",
       "title": "Coming full circle, Trump returns to false, misguided 'flu' rhetoric",
       "excerpt": "Nearly seven months after his misguided \"think about that!\" tweet, comparing COVID-19 to the flue, the Republican has apparently come full circle.",
@@ -109,37 +216,88 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-trumps-favorite-trade-scorecard-posts-its-worst-figure-since-2006-as-the-election-looms.md",
-      "title": "Trump's favorite trade scorecard posts its worst figure since 2006 as the election looms",
-      "excerpt": "Shipments of consumer goods led the jump in imports and hit a record high as companies prepared for holiday-season spending.",
+      "path": "_news/2020-10-06-trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary.md",
+      "title": "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary",
+      "excerpt": "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10",
-      "originalUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10",
+      "webUrl": "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/",
+      "originalUrl": "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 511,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f7c728c282c500018c78c61?format=jpeg",
-          "width": 5629,
-          "height": 2814,
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png",
+          "width": 800,
+          "height": 430,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp",
-      "publishedDateTime": "2020-10-06T08:07:00-07:00",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/",
+      "publishedDateTime": "2020-10-06T07:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-eric-trump-answers-questions-from-ny-investigators-in-examination-of-family-business.md",
+      "title": "Eric Trump answers questions from NY investigators in examination of family business",
+      "excerpt": "President Donald Trump's son Eric answered questions Monday from New York state investigators looking into his family's business practices. The office of New York Attorney General Letitia James confirmed that the video deposition took place as scheduled,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/eric-trump-deposition-new-york-investigators-family-business/",
+      "originalUrl": "https://www.cbsnews.com/news/eric-trump-deposition-new-york-investigators-family-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/06/17cd3855-485e-4dfc-aea1-bf33d733ce9d/thumbnail/1200x630/605201032786294968670388fc939ec5/gettyimages-1277456367.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/",
+      "publishedDateTime": "2020-10-06T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -211,57 +369,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house.md",
-      "title": "‘Confusion from top to bottom’: Trump aides panic after president returns to the White House",
-      "excerpt": "White House staffers who have seen over three years of bullying and firings under Donald Trump are fearful what will come next now that the president has been discharged from Walter Reed Medical Center while still exhibiting symptoms of COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/",
-      "originalUrl": "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/trump_covid-789x430.jpg",
-          "width": 789,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/",
-      "publishedDateTime": "2020-10-06T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-06-trump-said-in-march-that-he-didnt-have-a-lot-of-time-to-meet-fauci-as-the-coronavirus-spread-across-the-us-according-to-a-new-recording.md",
       "title": "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording",
       "excerpt": "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday.",
@@ -313,48 +420,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-a-perverse-potuss-projection-every-time-trump-accuses-he-reveals-his-own-guilt.md",
-      "title": "A perverse POTUS’s projection: Every time Trump accuses, he reveals his own guilt",
-      "excerpt": "A rule of thumb, and twitter thumbs, we’ve learned the hard way these past few years: If Donald Trump is accusing someone of a wrongdoing, he’s probably guilty of it himself. Psychologists call this projection,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/zp62sjxdixnH68j05vd2qKUulcc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HXZ2SXOYNAXDADS7SUMUPV6WI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-06T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-06-an-embarrassment-trump-tweet-angers-pandemic-survivors.md",
       "title": "'An embarrassment': Trump tweet angers pandemic survivors",
       "excerpt": "Some survivors of COVID-19 and people who have lost loved ones to the pandemic are angry over President Donald Trump's advice not to fear the disease",
@@ -379,6 +444,57 @@
       "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
       "publishedDateTime": "2020-10-05T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-trump-accuser-e-jean-carroll-files-motion-against-justice-department.md",
+      "title": "Trump accuser E. Jean Carroll files motion against Justice Department",
+      "excerpt": "Former Elle columnist E. Jean Carroll is fighting the Justice Department’s attempt to substitute for President Donald Trump as the defendant in her defamation lawsuit.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
+      "originalUrl": "https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/E-Jean-Carroll-01-AP-ib-200807_1596832650350_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
+      "publishedDateTime": "2020-10-05T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -573,7 +689,7 @@
       "originalUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440",
       "featuredContent": null,
       "highlight": null,
-      "heat": 872,
+      "heat": 632,
       "tags": null,
       "images": [
         {
@@ -675,7 +791,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -881,159 +997,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-05-alec-baldwin-defends-portraying-donald-trump-on-snl-while-president-is-hospitalized.md",
-      "title": "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized",
-      "excerpt": "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3621055001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001",
-      "publishedDateTime": "2020-10-05T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-texas-man-accused-of-punch-amid-trump-argument-turns-self-in.md",
-      "title": "Texas man accused of punch amid Trump argument turns self in",
-      "excerpt": "Authorities say a Texas man who was seen on video punching another man as they argued over President Donald Trump has turned himself in after police obtained a warrant for assault",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_2dac7a77f4fb432388b1632ccc3281f2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "publishedDateTime": "2020-10-05T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-australia-shares-jump-2-on-jobs-stimulus-trumps-health-progress.md",
-      "title": "Australia shares jump 2% on jobs stimulus, Trump's health progress",
-      "excerpt": "Australian shares rose more than 2% on Monday after the government announced plans to earmark additional wage subsidies to help spur employment, and as investors continued to hope for a swifter recovery of U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
-      "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536144713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930VV",
-          "width": 807,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINL4N2GW009",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL4N2GW009",
-      "publishedDateTime": "2020-10-04T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-russians-have-committed-to-not-interfering-in-elections-trump-aide-insists.md",
       "title": "Russians ‘Have Committed’ to Not Interfering in Elections, Trump Aide Insists",
       "excerpt": "Robert C. O’Brien, the national security adviser, said he warned his Russian counterpart there would be “no tolerance” for interference, but didn’t mention evidence of Moscow’s influence operations.",
@@ -1149,7 +1112,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-trump-germany-idUSKBN26P0ZQ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1300,57 +1263,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-04-trump-said-to-be-improving-but-next-48-hours-critical.md",
-      "title": "Trump said to be improving but next 48 hours 'critical'",
-      "excerpt": "President Donald Trump says in a video from his hospital quarters that he is feeling better as he battles the novel coronavirus and hopes to “be back soon.”",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_d2b4023d2f934b70b528779f972f8185_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "publishedDateTime": "2020-10-03T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-04-the-squad-responds-to-twitter-policy-banning-posts-wishing-for-trumps-death-excuse-me.md",
       "title": "'The Squad' Responds to Twitter Policy Banning Posts Wishing for Trump's Death: 'Excuse Me?'",
       "excerpt": "\"So... you mean to tell us you could've done this the whole time?\" Congresswoman Alexandria Ocasio-Cortez tweeted.",
@@ -1359,7 +1271,7 @@
       "originalUrl": "https://www.newsweek.com/squad-responds-twitter-policy-banning-posts-wishing-trumps-death-excuse-me-1536234",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1382,6 +1294,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test.md",
+      "title": "In First Video From Hospital, Trump Says He Feels ‘Much Better,’ But Next Few Days Will Be ‘The Real Test’",
+      "excerpt": "President Donald Trump Saturday night said in a video from Walter Reed Medical Center he is feeling “much better now” after White House officials gave conflicting accounts about his condition throughout the day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/",
+      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f790ccb33b8b5974bcf95f6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3530%26cropY1%3D179%26cropY2%3D2165",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/03/in-first-video-from-hospital-trump-says-he-feels-much-better-but-next-few-days-will-be-the-real-test/amp/",
+      "publishedDateTime": "2020-10-03T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1552,6 +1515,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-trump-has-been-fever-free-for-over-24-hours-hasnt-need-supplemental-oxygen-at-hospital.md",
+      "title": "Trump has been 'fever-free' for over 24 hours, hasn't need supplemental oxygen at hospital",
+      "excerpt": "President Donald Trump has been fever-free for over 24 hours and has not needed supplemental oxygen Saturday morning, his doctors told reporters outside Walter Reed National Military Medical Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1241952",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952",
+      "publishedDateTime": "2020-10-03T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

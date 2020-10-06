@@ -2,327 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-09-30-trumps-proud-boys-stand-back-and-stand-by-debate-moment-was-more-than-a-dog-whistle.md",
-      "title": "Trump's Proud Boys 'stand back and stand by' debate moment was more than a dog whistle",
-      "excerpt": "There are not two sides to white supremacy, just as there are not two sides to homophobia, anti-Semitism or any other type of hate. That is, apparently, unless your name is Donald J. Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_40/3416378/200930-proud-boys-portland-jm-1217_0_4aead6db0f14f95b2d194d823f968045.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241570",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241570",
-      "publishedDateTime": "2020-09-30T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-cnns-don-lemon-suggests-trump-was-hopped-up-on-performance-enhancing-drugs-during-debate.md",
-      "title": "CNN’s Don Lemon suggests Trump was ‘hopped up’ on performance-enhancing drugs during debate",
-      "excerpt": "CNN’s Don Lemon suggested that President Trump appeared to be “hopped up” on a performance-enhancing drug during Tuesday night’s presidential debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs",
-      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Lemon-Trump_CNN-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp",
-      "publishedDateTime": "2020-09-30T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-said-portlands-sheriff-supports-him-the-sheriff-disputes-that.md",
-      "title": "Trump said Portland's sheriff supports him. The sheriff disputes that.",
-      "excerpt": "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
-      "originalUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/dbf8d5f7-cc73-41b9-81a0-053b416b4ac2/thumbnail/1200x630/55135e432af3c30438ab4da906fbdd7a/ap-20274041554822.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
-      "publishedDateTime": "2020-09-30T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-undecided-voters-call-trump-unhinged-and-un-american-but-unswayed-by-debate.md",
-      "title": "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but unswayed by debate",
-      "excerpt": "After watching the first presidential debate Tuesday night, undecided voters from battleground states across the country still had plenty they wanted to know about coronavirus, racial injustice and what each candidate would do to unite the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545",
-      "originalUrl": "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trumps-spy-chief-just-released-russian-disinformation-against-hillary-clinton-that-he-acknowledged-may-be-fabricated.md",
-      "title": "Trump's spy chief just released 'Russian disinformation' against Hillary Clinton that he acknowledged may be fabricated",
-      "excerpt": "DNI John Ratcliffe said in a letter that the US intel community \"does not know the accuracy\" of the allegation or whether it's been fabricated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9",
-      "originalUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5d385b01b44ce752ae61652b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp",
-      "publishedDateTime": "2020-09-29T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-dont-be-like-trump-deducting-hairstyling-and-home-expenses-from-your-taxes-could-get-you-in-trouble-with-the-irs.md",
-      "title": "Don’t be like Trump: Deducting hairstyling and home expenses from your taxes could get you in trouble with the IRS",
-      "excerpt": "Trump tax returns confirm that the rich are different from you and me. So, no, you cannot deduct the cost of getting your hair cut and styled",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/",
-      "originalUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp",
-      "publishedDateTime": "2020-09-29T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-29-michelle-goldberg-column-does-donald-trump-need-a-bailout.md",
       "title": "Michelle Goldberg column: Does Donald Trump need a bailout?",
       "excerpt": "The New York Times' blockbuster exposé of Trump’s taxes makes clear that Trump’s taxes reveal no previously unreported financial link to Russia; the documents mostly “lack the specificity” required to do so.",
@@ -331,7 +10,7 @@
       "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -703,7 +382,7 @@
       "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 965,
+      "heat": 845,
       "tags": null,
       "images": [
         {
@@ -805,7 +484,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/qa-trump-administration-ban-tiktok-73300439",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -856,7 +535,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -879,6 +558,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-votingheres-what-it-is.md",
+      "title": "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is",
+      "excerpt": "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/",
+      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f723ce187ec74e766144241%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/28/trump-has-turned-ballot-harvesting-into-a-rallying-cry-against-mail-in-voting-heres-what-it-is/amp/",
+      "publishedDateTime": "2020-09-28T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -955,57 +685,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-the-note-stagnant-race-battleground-deficits-highlight-trump-debate-season-challenges.md",
-      "title": "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges",
-      "excerpt": "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
-      "originalUrl": "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-rally_hpMain_20200926-182602_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
-      "publishedDateTime": "2020-09-28T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-28-trump-taxes-california-wildfires-stanley-cup-5-things-to-know-monday.md",
       "title": "Trump taxes, California wildfires, Stanley Cup: 5 things to know Monday",
       "excerpt": "Questions about President Trump's taxes continue, California braces for more wildfires and more news to start your Monday.",
@@ -1065,7 +744,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1167,7 +846,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1320,7 +999,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 416,
+      "heat": 376,
       "tags": null,
       "images": [
         {
@@ -1525,7 +1204,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1548,6 +1227,312 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-sheriff-from-kenosha-county-president-donald-trump-was-with-us-when-we-needed-him.md",
+      "title": "Sheriff from Kenosha County: President Donald Trump was with us when we needed him",
+      "excerpt": "Trump supported us law officers when it counted and we needed it most and I am proud to endorse him as a leader who will uphold law and order.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/26/sheriff-kenosha-county-trump-supported-us-when-we-needed-column/3509523001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/8568704d-b649-4981-9423-06790f2eebf0-AFP_AFP_1WX1KK.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3509523001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3509523001",
+      "publishedDateTime": "2020-09-26T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-historians-and-election-experts-warn-trump-is-behaving-like-mussolini-and-despots-that-the-us-usually-condemns.md",
+      "title": "Historians and election experts warn Trump is behaving like Mussolini and despots that the US usually condemns",
+      "excerpt": "\"This is the way dictators come to power,\" historian Michael Beschloss warned of Trump's behavior in an MSNBC appearance on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9",
+      "originalUrl": "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6e5c7d74fe5b0018a8d9df?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/historians-election-experts-warn-trump-behaving-like-mussolini-2020-9?amp",
+      "publishedDateTime": "2020-09-26T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-its-now-or-never-for-ex-trump-aides-weighing-speaking-out.md",
+      "title": "It’s ‘now or never’ for ex-Trump aides weighing speaking out",
+      "excerpt": "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-25T22:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-he-needs-to-get-involved-trump-chief-of-staff-rips-fbi-director-for-denying-massive-voter-fraud.md",
+      "title": "'He needs to get involved': Trump chief of staff rips FBI director for denying massive voter fraud",
+      "excerpt": "\"Perhaps he needs to get involved on the ground and then he would change his testimony on Capitol Hill,\" Meadows said of FBI Director Wray.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-criticizes-christopher-wray/3528858001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/25/mark-meadows-criticizes-christopher-wray/3528858001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/12/12/USAT/4b58493a-b56c-4114-84a8-5dfa0e570a03-GTY_1078534260.JPG?auto=webp&crop=5847,3276,x0,y271&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3528858001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528858001",
+      "publishedDateTime": "2020-09-25T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results.md",
+      "title": "Trump campaign plotting ‘tremendously dangerous’ challenges to election results",
+      "excerpt": "President Donald Trump’s campaign is preparing for a brutal legal battle on the ground after ballots are cast in the Nov. 3 election. The president has refused to commit to a peaceful transition of power,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/",
+      "originalUrl": "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/09/trump-eyes-closed.jpg",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/",
+      "publishedDateTime": "2020-09-25T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-the-health-202-trumps-new-health-care-plan-isnt-really-a-plan.md",
+      "title": "The Health 202: Trump's new health-care plan isn't really a plan",
+      "excerpt": "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 365,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
+      "publishedDateTime": "2020-09-25T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "‘Confusion from top to bottom’: Trump aides panic after president returns to the White House"
-    excerpt: "White House staffers who have seen over three years of bullying and firings under Donald Trump are fearful what will come next now that the president has been discharged from Walter Reed Medical Center while still exhibiting symptoms of COVID-19,"
-    publishedDateTime: 2020-10-06T11:09:00Z
-    webUrl: "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/"
+  - title: "Trump tax returns: Reality show businessman turns America's loser in chief"
+    excerpt: "How did Donald Trump bankrupt his presidency and fail to save America from COVID-19? Answers lie in his success in dodging taxes and debts."
+    publishedDateTime: 2020-09-29T17:27:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3565963001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565963001"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 64
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump_covid-789x430.jpg"
-        width: 789
-        height: 430
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/f065e03b-91bf-4678-aad0-a2161d916085-Trump.jpg?auto=webp&crop=5087,2861,x0,y423&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "IetcdFOoMuMvngbZCFIfHFryn9p+GoBDpI+6b4WDIj7dx2niFw3WfixIfrp5rybMQIXLdsz+EiuvpDRNDOJ9Ogv667cE0u0c1jHkVn1Cafu9nrA0gYZD9hqKRsGFb1paiKq88I7gWxisMuem3f8yiNAeOXx6dzHsnBi+aZal1dAaaBQ1j7Zh2m2er1FF87O72znPMiT79QPd0qpiJtFGvGf8Y9McAB12GMEkgeiO3vSOwGNcc9rPmrctZnY9ZQsV4KlM8VNVOeU6+3zOD8LE3R90z5acNdGOZFPcQp6xMge2gqzaDg7wk0RO9bvAw5FjqI493wL50xTTKqSOanzAjzbtMIcMNY0WUhlqf55+5nc=;P8RdNLF1xEQ1JmtXJym9cQ=="

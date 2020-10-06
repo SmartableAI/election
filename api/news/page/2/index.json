@@ -2,6 +2,210 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-06-watch-joe-biden-glad-trump-is-better-notes-crisis-is-far-from-over.md",
+      "title": "WATCH: Joe Biden glad Trump is better, notes crisis is ‘far from over’",
+      "excerpt": "Former Vice President Joe Biden delivered remarks about economic recovery for Latino communities amid the COVID-19 pandemic while visiting Little Havana in Miami on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
+      "originalUrl": "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 580,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/GettyImages-1228584412-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
+      "publishedDateTime": "2020-10-05T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-progressive-groups-launch-we-paid-more-campaign-in-response-to-trump-taxes-report.md",
+      "title": "Progressive groups launch 'We Paid More' campaign in response to Trump taxes report",
+      "excerpt": "A coalition of progressive groups on Monday launched an initiative to make the case that the tax code is too favorable to the wealthy, after The New York Times reported last week that President Trump",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
+      "originalUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
+      "publishedDateTime": "2020-10-05T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-trump-campaign-says-biden-lacks-firsthand-experience-of-being-infected-with-covid-19.md",
+      "title": "Trump Campaign Says Biden Lacks 'Firsthand Experience' of Being Infected With COVID-19",
+      "excerpt": "\"Those firsthand experiences are what are going to get President Trump four more years,\" Trump campaign spokesperson Erin Perrine told Fox News on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440",
+      "originalUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 632,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1646101/erin-perrnie.png",
+          "width": 2560,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1",
+      "publishedDateTime": "2020-10-05T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-goldmans-chief-economist-breaks-down-why-a-biden-led-blue-wave-would-prompt-an-upgrade-in-growth-forecasts.md",
+      "title": "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts",
+      "excerpt": "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
+      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg",
+          "width": 2886,
+          "height": 1443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
+      "publishedDateTime": "2020-10-05T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-eric-trump-scheduled-to-sit-for-deposition-monday-in-new-york-attorney-general-investigation.md",
       "title": "Eric Trump scheduled to sit for deposition Monday in New York attorney general investigation",
       "excerpt": "Eric Trump, who runs day-to-day operations of the family real estate empire, is scheduled to sit for a deposition on Monday as part of the New York attorney general's investigation into whether the Trump Organization improperly inflated the value of its assets to obtain loans or tax benefits.\n    \n",
@@ -333,7 +537,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -594,108 +798,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-05-alec-baldwin-defends-portraying-donald-trump-on-snl-while-president-is-hospitalized.md",
-      "title": "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized",
-      "excerpt": "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3621055001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001",
-      "publishedDateTime": "2020-10-05T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-texas-man-accused-of-punch-amid-trump-argument-turns-self-in.md",
-      "title": "Texas man accused of punch amid Trump argument turns self in",
-      "excerpt": "Authorities say a Texas man who was seen on video punching another man as they argued over President Donald Trump has turned himself in after police obtained a warrant for assault",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/WireAP_2dac7a77f4fb432388b1632ccc3281f2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562",
-      "publishedDateTime": "2020-10-05T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-trump-told-woodward-in-march-he-didnt-have-a-lot-of-time-to-meet-with-fauci-in-newly-released-audio.md",
       "title": "Trump told Woodward in March he didn't have 'a lot of time' to meet with Fauci in newly released audio",
       "excerpt": "President Donald Trump in March said he didn't have \"a lot of time\" to meet with Dr. Anthony Fauci as the coronavirus pandemic surged across the US, according to newly released audio from an interview with journalist Bob Woodward.\n    \n",
@@ -748,57 +850,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-australia-shares-jump-2-on-jobs-stimulus-trumps-health-progress.md",
-      "title": "Australia shares jump 2% on jobs stimulus, Trump's health progress",
-      "excerpt": "Australian shares rose more than 2% on Monday after the government announced plans to earmark additional wage subsidies to help spur employment, and as investors continued to hope for a swifter recovery of U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
-      "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536144713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930VV",
-          "width": 807,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINL4N2GW009",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL4N2GW009",
-      "publishedDateTime": "2020-10-04T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -968,7 +1019,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-trump-germany-idUSKBN26P0ZQ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1189,7 +1240,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 538,
+      "heat": 558,
       "tags": null,
       "images": [
         {
@@ -1281,62 +1332,6 @@
         "Election",
         "Mike Pence",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-trump-and-the-gop-are-using-kyle-rittenhouse-in-last-ditch-2020-voter-strategy.md",
-      "title": "Trump and the GOP are using Kyle Rittenhouse in last-ditch 2020 voter strategy",
-      "excerpt": "With weeks to go before a chaotic and close election, Republicans are cultivating a vigilante identity — someone who breaks the rules to make things right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_40/3416625/201001-kyle-rittenhouse-jm-0936_ba06d965e936a9e276a03c1a82c2a974.jpg",
-          "width": 2000,
-          "height": 1331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241940",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241940",
-      "publishedDateTime": "2020-10-04T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -43,22 +43,6 @@ related:
         width: 1440
         height: 1240
         isCached: true
-  - title: "Jim Carrey becomes Joe Biden in 'Saturday Night Live' teaser"
-    excerpt: "Jim Carrey transforms into Democratic presidential nominee Joe Biden in a new teaser for \"Saturday Night Live\" Season 46."
-    publishedDateTime: 2020-10-02T11:40:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/2981601634909/2020/upi/c2043754f4b2fa79bed5d222b660c642/v1.5/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser.jpg?lg=2"
-        width: 800
-        height: 532
-        isCached: true
   - title: "‘Saturday Night Live’ returns with Jim Carrey as Joe Biden (video)"
     excerpt: "Jim Carrey took on the role of Democratic candidate Joe Biden with Alec Baldwin returning to play Trump — a role that earned him an Emmy Award and the president’s ire. “I’ve got the beginning of 46 good ideas that I may or may not have access to."
     publishedDateTime: 2020-10-04T04:31:00Z

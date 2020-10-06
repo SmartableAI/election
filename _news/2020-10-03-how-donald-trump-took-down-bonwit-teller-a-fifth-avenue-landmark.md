@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-
 webUrl: "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: Forbes
@@ -27,88 +27,6 @@ images:
     width: 1199
     height: 797
     isCached: true
-
-related:
-  - title: "Texas man accused of punch amid Trump argument turns self in"
-    excerpt: "Authorities say a Texas man who was seen on video punching another man as they argued over President Donald Trump has turned himself in after police obtained a warrant for assault"
-    publishedDateTime: 2020-10-05T11:39:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_2dac7a77f4fb432388b1632ccc3281f2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump accuser E. Jean Carroll files motion against Justice Department"
-    excerpt: "Former Elle columnist E. Jean Carroll is fighting the Justice Department’s attempt to substitute for President Donald Trump as the defendant in her defamation lawsuit."
-    publishedDateTime: 2020-10-06T04:01:00Z
-    webUrl: "https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015"
-    ampWebUrl: "https://abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/E-Jean-Carroll-01-AP-ib-200807_1596832650350_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump tax returns: Reality show businessman turns America's loser in chief"
-    excerpt: "How did Donald Trump bankrupt his presidency and fail to save America from COVID-19? Answers lie in his success in dodging taxes and debts."
-    publishedDateTime: 2020-09-29T17:27:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3565963001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565963001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/f065e03b-91bf-4678-aad0-a2161d916085-Trump.jpg?auto=webp&crop=5087,2861,x0,y423&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Eric Trump answers questions from NY investigators in examination of family business"
-    excerpt: "President Donald Trump's son Eric answered questions Monday from New York state investigators looking into his family's business practices. The office of New York Attorney General Letitia James confirmed that the video deposition took place as scheduled,"
-    publishedDateTime: 2020-10-06T13:35:00Z
-    webUrl: "https://www.cbsnews.com/news/eric-trump-deposition-new-york-investigators-family-business/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/06/17cd3855-485e-4dfc-aea1-bf33d733ce9d/thumbnail/1200x630/605201032786294968670388fc939ec5/gettyimages-1277456367.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Republicans and democracy have much deeper problems than Trump's awful debate performance"
-    excerpt: "A Trump loss won't fix our nasty, polarized and shallow politics. We need to stop hoping transformation is around the corner if we oust one bad apple."
-    publishedDateTime: 2020-10-01T09:33:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/01/trump-debate-performance-sorry-state-republicans-democracy-column/5874170002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5874170002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874170002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/be27cb49-4846-4ca2-924b-bc8ab1d9f5d2-AP_Election_2020_Debate.jpg?auto=webp&crop=4895,2753,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "zL4v+ZzyTxecnh/nn7XQH0iX5TVoGfX2GwsR2lVxKpZKruIByVS+uWibBygZvBhxfr3vy1Pjn9e6qHCb6az+ndXgboFdfVP2KzWMp7kb0dwdSAu/xptGgCIVCwvLLTQQCw80SVqIs5yh47+xaoFhl+hl+fIJkaF9q71EG0a/A/j34AUile2a5T1spFdU0o9Vn5WtMMTdSghwqRXug/r6YtPTb6Z3ziMqeiRtnXGFvNqPogXM0GTqvF7Kw/PLQTrDDK9PqWFGbQEeGuLvQ3Sjxl/cFP2ngdJQ/+gMKUdOa4I7WR/oWN/LWPoUonYBTyi0dChGmr9Wtzfei2iI+RHBIb6rIO5C3xx/v2VR5UU9S5EC0W053I9nuyXpGDijg+EnMwD02diCLJH0qAKYVdNn/rOyqlxXU6RztRVHo+83+JkcOXVfNPwXa+QC3/o3NClAv0fmdOOgUYxOk8IlC4Sf6rg5GgIevWSbQL3FBYlpfakMkXTJa1tHwx5Au5GTt1JmRqZMfkfgsTHMZfLqF/5ukw==;pRIv4q/wSOaOul0BXblHkw=="
 ---

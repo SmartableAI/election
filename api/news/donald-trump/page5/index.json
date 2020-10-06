@@ -2,379 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-09-22-trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas.md",
-      "title": "Trump Real Estate Rates Dropped Where He’s Disliked (NYC), Increased Where He Is Liked (Vegas)",
-      "excerpt": "A new book, White House Inc., reports prices in Trump buildings appear to be affected by President Trump’s popularity in that given area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a0a69fa0441058d4ea8ed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D328%26cropY2%3D2128",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/amp/",
-      "publishedDateTime": "2020-09-22T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-bernie-sanders-sounds-alarm-on-a-trump-nightmare-scenario.md",
-      "title": "Bernie Sanders Sounds Alarm on a Trump ‘Nightmare Scenario’",
-      "excerpt": "Warning that this election is an “extremely dangerous moment” for the country, he said in an interview that he would aggressively push to try to stop President Trump from delegitimizing the vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/22/us/politics/22sanders-election-top/22sanders-election-top-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/bernie-sanders-2020-election.amp.html",
-      "publishedDateTime": "2020-09-22T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-donald-trump-mitch-mcconnell-and-the-republican-party-play-victims-dont-let-them.md",
-      "title": "Donald Trump, Mitch McConnell and the Republican Party play victims. Don't let them.",
-      "excerpt": "With the Supreme Court vacancy or anything else, only the Republicans think rules, honesty and comity are for suckers. Stop engaging in both-sidesism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/09/22/ruth-bader-ginsburg-court-seat-victim-republican-warfare-column/5853211002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/21/USAT/41eb1c5a-5220-4171-9828-39716c7240c6-AFP_AFP_8QA7YJ.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5853211002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5853211002",
-      "publishedDateTime": "2020-09-22T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-stuart-stevens-was-an-uncompromising-republican-until-donald-trump.md",
-      "title": "Stuart Stevens was an uncompromising Republican — until Donald Trump",
-      "excerpt": "How the Republican Party Became Donald Trump\" talks about the evolution of his party and what that means going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/",
-      "originalUrl": "https://www.washingtonpost.com/podcasts/cape-up/stuart-stevens-was-an-uncompromising-republican--until-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20200921/t_1600713788838_name_capehart_Social_2400x1300.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-told-a-crowd-of-nearly-all-white-supporters-that-they-have-good-genes.md",
-      "title": "Trump told a crowd of nearly all white supporters that they have 'good genes'",
-      "excerpt": "Trump has previously suggested that he has superior genes and expressed pride in his \"German blood.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
-      "publishedDateTime": "2020-09-22T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-stoking-his-base-trump-warns-of-a-kamala-harris-presidency.md",
-      "title": "Stoking his base, Trump warns of a Kamala Harris presidency",
-      "excerpt": "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 340,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG",
-          "width": 2500,
-          "height": 1695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240492",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492",
-      "publishedDateTime": "2020-09-22T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-and-barr-call-nyc-an-anarchist-jurisdiction-in-brazen-ploy-to-crush-dissent.md",
-      "title": "Trump and Barr call NYC an 'anarchist jurisdiction' in brazen ploy to crush dissent",
-      "excerpt": "Everything old is new again, and a glance back at 1886 proves there is a very bloody precedent for what Trump's White House is doing here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-barr-call-nyc-anarchist-jurisdiction-brazen-ploy-crush-dissent-ncna1240672",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-barr-call-nyc-anarchist-jurisdiction-brazen-ploy-crush-dissent-ncna1240672",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_39/3413851/200921-nyc-blm-protest-ac-902p_d0b0c79b639708e9ce0fb4a9ebcfac1a.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240672",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240672",
-      "publishedDateTime": "2020-09-22T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-22-former-mueller-prosecutor-says-the-special-counsel-let-down-the-public-and-describes-trump-as-an-animal-in-new-book.md",
       "title": "Former Mueller prosecutor says the special counsel let down the public and describes Trump as 'an animal' in new book",
       "excerpt": "Asked whether Mueller had let down the American public, Andrew Weissmann told The Atlantic: \"Absolutely, yep.\"",
@@ -1509,6 +1136,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-19-trump-supporter-shouts-ginsburg-is-dead-at-a-minnesota-rally-to-clue-in-the-president-about-passing-of-supreme-court-justice.md",
+      "title": "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice",
+      "excerpt": "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "originalUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "publishedDateTime": "2020-09-18T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-who-is-amy-coney-barrett-the-judge-trump-has-considered-for-a-supreme-court-seat.md",
       "title": "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat",
       "excerpt": "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates.",
@@ -1540,6 +1218,317 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-said-he-did-not-like-fbi-director-wrays-testimony-on-russia-election-meddling.md",
+      "title": "Trump said he 'did not like' FBI Director Wray's testimony on Russia election meddling",
+      "excerpt": "In congressional testimony on Thursday, Wray said that, as in 2016, Russia remains \"very active\" in efforts to \"influence our election.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/trump-attacks-fbi-director-wray-over-russia-election-testimony/5826614002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/trump-attacks-fbi-director-wray-over-russia-election-testimony/5826614002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 312,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/18/USAT/48a93345-7fbc-4130-a883-ca458266e10b-AP_Trump_FBI.JPG?auto=webp&crop=4199,2362,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5826614002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5826614002",
+      "publishedDateTime": "2020-09-18T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-has-made-americans-lives-worse-heres-the-proof.md",
+      "title": "Trump has made Americans’ lives worse. Here’s the proof.",
+      "excerpt": "After 2008, for example, Democrats and Democratic constituencies (minorities, women, low-income Americans) felt better about their lives, while Republicans and their constituencies felt worse. But something very different happened after 2016: Well-being measures dropped substantially for Democratic constituencies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 545,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGN5OUGNLEI6RLIKBYA67OR4YE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp",
+      "publishedDateTime": "2020-09-18T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-sued-by-parents-of-toddlers-featured-in-doctored-racist-baby-video.md",
+      "title": "Trump sued by parents of toddlers featured in doctored 'racist baby' video",
+      "excerpt": "Donald Trump, and the Trump Campaign over an edited \"racist baby\" video.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f65075757b7da001ee128ad?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
+      "publishedDateTime": "2020-09-18T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-trump-very-happy-to-keep-tiktok-alive-if-security-issues-resolved.md",
+      "title": "Trump 'very happy' to keep TikTok alive if security issues resolved",
+      "excerpt": "President Donald Trump said Friday that he would be \"very happy\" to reach a deal that keeps the video-sharing app TikTok alive in the U.S. so long as security concerns with China can be resolved. Trump told reporters that he has spoken with executives at Oracle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/18/trump-tiktok-security-issues-us-417830",
+      "originalUrl": "https://www.politico.com/news/2020/09/18/trump-tiktok-security-issues-us-417830",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b2/f9/2d429fb14506abdb1786db2a21bf/200918-joe-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/18/trump-tiktok-security-issues-us-417830",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-tiktok-security-issues-us-417830",
+      "publishedDateTime": "2020-09-18T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-paul-krugman-column-what-is-it-with-trump-and-face-masks.md",
+      "title": "Paul Krugman column: What is it with Trump and face masks?",
+      "excerpt": "We know what works. Which makes it both bizarre and frightening that Donald Trump has apparently decided to spend the final weeks of his re-election campaign deriding and discouraging mask-wearing and other anti-pandemic precautions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html",
+      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/ECgXvxhTWJeoYFOE4Sp5uV_u5yw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OCUP5EWQ6GSR54YE2N4Y3BV27Q.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-18T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-amy-dorris-friend-politics-not-behind-latest-sex-assault-accusation-against-trump.md",
+      "title": "Amy Dorris' friend: Politics not behind latest sex-assault accusation against Trump",
+      "excerpt": "Amy Dorris of Boca Raton, the latest woman to accuse Trump of sexually assaulting her, did not go public because of the election, a close friend says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/06e09ebbc9030e36308fda62ff21cf8c765f759c/c=0-124-2391-1469/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200819203-2fc69d16.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3491823001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491823001",
+      "publishedDateTime": "2020-09-18T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -19,22 +19,47 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts"
-    excerpt: "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said."
-    publishedDateTime: 2020-10-05T16:37:00Z
-    webUrl: "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp"
+  - title: "Watch Live: Biden delivers remarks in Gettysburg, Pa."
+    excerpt: "Democratic presidential nominee Joe Biden is scheduled to deliver remarks Tuesday in Gettysburg, Pa.The event is scheduled to begin at 4 p.m. EDT. Watch the live video above."
+    publishedDateTime: 2020-10-06T19:00:00Z
+    webUrl: "https://thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg"
+    ampWebUrl: "https://thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg"
-        width: 2886
-        height: 1443
+      - url: "https://thehill.com/sites/default/files/mreportbidentrain.jpg"
+        width: 580
+        height: 387
         isCached: true
+  - title: "Jim Carrey becomes Joe Biden in 'Saturday Night Live' teaser"
+    excerpt: "Jim Carrey transforms into Democratic presidential nominee Joe Biden in a new teaser for \"Saturday Night Live\" Season 46."
+    publishedDateTime: 2020-10-02T11:40:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/2981601634909/2020/upi/c2043754f4b2fa79bed5d222b660c642/v1.5/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser.jpg?lg=2"
+        width: 800
+        height: 532
+        isCached: true
+  - title: "Joe Biden Remarks in Gettysburg, PA"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, PA. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T15:17:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "8NK5zEIHHbNgOYZwjOR6ZMIg6OUk/JhnxkMAe1cSyS1VzJhGi2NxEH1uSqQG1LturRQ1m2zVx1W03pSGooSZ8ueLmoJhItrfD+dxI/6MLGx4Nt7ky+E+x4QkRIXXPNJ0h/kvDAxZZNtDK3EPa7wj6zMqquBlL59dumiBYqNmcFfDV+KKstq//EjHPUwnXFwHe+BaClEsCTE9uI3bRts9gzXabVmBxFJSwavA0dHByTcmaaBwIB7RBf551UPWTiiGGXe6BLfQxbaNwjNWEL/htz/9wLs4QaVRUs3YYdHnuBq8OygxJ3wpHtG5xW3CLeGf+lW4X58Q42vuY5708NQKxlbvuRCKLNuu3RpzrygXovkIRhawZupk9et0DYdbP0B/x60LhMkY+H0pJhS8gqQUuTW3UQIYOF8IJugrj5KP+Yz8CKXaRTWkUHrZZAk/BSiXwA9xaeiRrJV0YHzWO30emVl5K1q6Xhd7rLakZ0dv9n7v7RdUCm39pvhqrX+wEHGhkdutGDl6w05EId6CjeCD2g==;icyVzdLidiIidx+Rlpv8Ng=="
 ---

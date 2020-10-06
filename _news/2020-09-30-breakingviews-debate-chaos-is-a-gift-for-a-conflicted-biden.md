@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L0G1"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L0G1"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/05/story_07124914_1601930944.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "'He's from here': Biden and the battle for Scranton"
+    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
+    publishedDateTime: 2020-10-06T18:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
     excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."

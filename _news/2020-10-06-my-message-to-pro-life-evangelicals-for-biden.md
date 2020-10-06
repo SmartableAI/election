@@ -144,6 +144,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump calls for pause on coronavirus stimulus talks until after the election"
+    excerpt: "President Trump on Tuesday said he has instructed Republicans to pause negotiations on a coronavirus stimulus package until after the election, instructing Senate Majority Leader Mitch McConnell, R-Ky., to focus “full-time” on getting his nominee to fill the vacant seat on the U.S. Supreme Court approved."
+    publishedDateTime: 2020-10-06T19:38:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gtg3ngIbmmI/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26f5f008-69d5-41ad-8f48-c32183c19256/0e9e91f4-e14d-47a0-a9b5-a59f5ba01f77/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump in Walter Reed hospital battling coronavirus; Biden traveling to Florida"
     excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending their time on Monday, Oct. 5, 2020, just 29 days away from the election. "
     publishedDateTime: 2020-10-05T14:11:47Z
@@ -288,6 +304,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Trump show goes into reruns"
+    excerpt: "Will voters want to hit pause?"
+    publishedDateTime: 2020-10-06T19:17:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jdoY_ayPzBU/the-trump-show-goes-into-reruns"
+    ampWebUrl: "https://www.foxnews.com/politics/the-trump-show-goes-into-reruns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-trump-show-goes-into-reruns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
     excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
     publishedDateTime: 2020-10-01T21:02:23Z
@@ -398,6 +430,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The Trump show goes into reruns"
+    excerpt: "President Trump has at various times in the country’s long, punishing struggle with coronavirus tried to present himself as a wartime leader. If you are a Trump supporter, this sounds like pretty good stuff."
+    publishedDateTime: 2020-10-06T19:27:00Z
+    webUrl: "https://www.foxnews.com/politics/the-trump-show-goes-into-reruns"
+    ampWebUrl: "https://www.foxnews.com/politics/the-trump-show-goes-into-reruns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-trump-show-goes-into-reruns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b13bccd9-2942-400c-9951-17b27e20aca4/ada37a4f-0571-4012-a856-9136565c6c38/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Disgusting': Joe Biden Tells His Tens of Followers About His Trump 'Death Blow' Fantasy"
     excerpt: "Joe Biden’s campaign said they would pull negative ads upon news that President Trump had tested positive for coronavirus and was being admitted to Walter Reed Medical Center. I mean,"
     publishedDateTime: 2020-10-05T20:25:00Z
@@ -472,6 +520,6 @@ related:
         height: 720
         isCached: true
 
-secured: "fdZTEWQ+3miAPD8IH9T2MHsGppT+ln0NsZhwMdTvRllZy2cSHUxTUvE6MmEjFjYgLQsG3DC7OAsd84z9kItcJmNr8u33Nr6QDmZ6nYzGRwrmgJDKml9wdIDzA2VFvv6WGY8BLM89jApB1rcW5GlwqrfidvQP8RG4jI3teVKqBNFscknb+k/VDL7L50n4E4zl0qEM37dTLMTempuIpORbtZxk0e37w4Ufij5mq4rHDjlKK5Rrobf+gEa+fv0fa3h/7b87RVxGiCIOEg3CoTRO79eAhzrbxfF4penD9R5GyMjddltUi6dY8wDHSXjhHj6oB0BWRnG9/eSuLYr/IBMJ1HEtK86HDuJlzK2srpAa3Rc=;m2f8IoqYIEKrWaRuQtQzqA=="
+secured: "0DUxy/W5bF1kpFiCyG06l/bxgIApjBiUFL6vwuAEwnTtma+6oxeGZ52Hf/2hRvsXpybQRDacTAuQUSzHxMu7f5A9A/HWS7g6MqaahUZG2if9onjJ0gl6MDwN4tCSCEIqA7wrNmSG90V1riSeaqpQkYe5wYUS/JO/GqlzbxJmSNtoyQAkilM/xl4BvS5pG/5FQlfc802FhbPZYp8ixFSuKCqSHqj5MiH34i0EHeEWQ0A1qCodo3LYrQ6UoAl8DhY6zerJt63a2Yhng5KHdGiowvWc24gd6yw/LOZQyR8mTndZL+XZosRCQDqBBBzwT6fRhXBaiHAtXF65Gsc2o8clnBZrZ3UXwbkIlX/PbUr0cRr6dgkRV2LJeTDm75BGiP0zdLbNvyJTINLCxWJiPGmaS1odkYADT4V3wUAlPZIhVJlP2OHmP9s+pjH1qkBRsz9/zapxtBw4Ju4urMZet5NktrU+0ATj+2OKZedOYn+ecvb+ThhSefO6ErqVwGGtg8XE8FXgiHg+eV4wdCCaDBk0xQ==;MvIlYfgAPcmRwZLcYHohyA=="
 ---
 

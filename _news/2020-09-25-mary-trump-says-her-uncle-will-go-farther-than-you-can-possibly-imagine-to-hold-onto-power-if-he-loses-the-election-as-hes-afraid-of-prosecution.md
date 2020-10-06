@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Asian shares rise on optimism about Trump's recovery"
-    excerpt: "Shares have started the week with gains as investors were encouraged by positive reports about President Donald Trump’s health after he tested positive for the coronavirus"
-    publishedDateTime: 2020-10-05T04:29:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_1bab98e3e97245cf91895708f72aab50_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Dan Rather criticizes Trump over Walter Reed 'photo ops'"
     excerpt: "Veteran news anchor Dan Rather on Sunday issued a pair of tweets criticizing President Trump for his brief appearance in an SUV outside Walter Reed Medical Center as just the latest in a series of what Rather referred to as “photo ops."
     publishedDateTime: 2020-10-05T15:56:00Z
@@ -95,22 +79,6 @@ related:
         width: 885
         height: 545
         isCached: true
-  - title: "Restaurant staffers in quarantine after working Trump fundraiser"
-    excerpt: "More than a dozen employees of Murray's Restaurant in Minneapolis who served at catered event are now isolation."
-    publishedDateTime: 2020-10-05T22:53:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-covid-19-restaurant-workers-quarantine-after-fundraiser/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/05/aea0448e-df51-46f3-b69a-6aa025fa4a68/thumbnail/1200x630/011c5de4ff8a7c2fa9044cf8a1464c72/2020-10-03t232508z-1757869472-rc2bbj9tpe38-rtrmadp-3-health-coronavirus-trump.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump urges Americans to 'get out there' after return from hospital"
     excerpt: "President Donald Trump emerged on Monday from four days in a U.S. military hospital where he was treated for COVID-19 with a video message to Americans to \"get out there\" and not be afraid of coronavirus."
     publishedDateTime: 2020-10-06T00:48:00Z
@@ -125,22 +93,6 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536301868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95007"
         width: 817
-        height: 545
-        isCached: true
-  - title: "Trump campaign slams plan to change debate rules after unruly Cleveland encounter"
-    excerpt: "President Donald Trump's re-election campaign on Thursday rejected calls for new rules to govern the next two debates between him and Democratic challenger Joe Biden, after a first matchup marred by constant interruptions and outbursts."
-    publishedDateTime: 2020-10-02T02:58:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idINKBN26M7DZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26M7DZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26M7DZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535768168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9054P"
-        width: 877
         height: 545
         isCached: true
   - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
@@ -191,20 +143,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump will return to the White House after three days fighting COVID at Walter Reed"
-    excerpt: "Trump's doctors signaled the possibility the president could be released from Walter Reed hospital if his COVID-19 symptoms continued to improve."
-    publishedDateTime: 2020-10-05T18:46:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/05/trump-return-white-house-despite-battle-covid-19/3620877001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 99
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?crop=1911,1075,x8,y0&width=1600&height=800&fit=bounds"
-        width: 1422
-        height: 800
-        isCached: true
   - title: "Rose Garden announcement of Supreme Court nominee potential 'super spreader' event, with Trump plus seven others getting COVID"
     excerpt: "Trump and Hicks may have exposed scores of other people to COVID-19, including his top advisers, his campaign donors and his Democratic rival Joe Biden."
     publishedDateTime: 2020-10-03T02:59:00Z
@@ -220,20 +158,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/e509f056-849b-436d-aad7-f0614261ba9a-Amy_Coney_Barrett_05.JPG?auto=webp&crop=4766,2681,x0,y7&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Marine One helicopter departs the White House as Trump heads to Walter Reed Medical Center"
-    excerpt: "President Trump was taken by helicopter from the White House to Walter Reed National Military Medical Center on October 2 after testing positive for the coronavirus."
-    publishedDateTime: 2020-10-03T17:31:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/marine-one-helicopter-departs-white-house-trump-heads-walter-reed-medical-center/3608338001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/5124ab15-79cd-4d4c-bf59-b5a33c547c73-9ecb0a46-2323-4cec-9c65-7f78604a1968_thumbnail.png?quality=10"
-        width: 852
-        height: 480
         isCached: true
   - title: "Why Donald Trump's Former Housekeeper—and Millions of Other American Workers—Paid More in Federal Taxes Than Her Boss"
     excerpt: "Sandra Diaz, Donald Trump's former housekeeper, is not alone in paying more federal income taxes than Trump before his presidency."
@@ -264,22 +188,6 @@ related:
       - url: "https://www.nydailynews.com/resizer/s5uzKQOxZlQ4CUG5P2Ogxpu-IyM=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QX7BX6UVRGLBGOLUK7OZI6SEA.jpg"
         width: 1200
         height: 774
-        isCached: true
-  - title: "Donald Trump Announces He’s Leaving Walter Reed Hospital to Infect the Rest of White House"
-    excerpt: "He claims to feel better than he did 20 years ago and told people not to let the deadly virus “dominate” their lives."
-    publishedDateTime: 2020-10-05T20:46:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 65
-    images:
-      - url: "https://media.vanityfair.com/photos/5f7b78a06cac71ad7f787f72/master/pass/donaldtrumphospital.jpg"
-        width: 2000
-        height: 1281
         isCached: true
   - title: "The Latest: Trump’s Diagnosis a Reminder US Cases on Rise"
     excerpt: "The news of President Donald Trump’s coronavirus diagnosis serves as a reminder of the pervasive spread of the coronavirus in the United States."

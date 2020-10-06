@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Explainer: What is the treatment plan for President Trump's COVID-19?"
+    excerpt: "U.S. President Donald Trump on Friday said he and his wife Melania had tested positive for COVID-19, and the White House said he was given an experimental treatment designed to combat the virus as well as a small array of treatments including aspirin and Vitamin D."
+    publishedDateTime: 2020-10-03T05:28:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-treatments-e-idUSKBN26N38D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1535975425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9123P"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Trump has more in common with Lincoln than you might think"
     excerpt: "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since."
     publishedDateTime: 2020-10-02T17:41:00Z
@@ -236,22 +252,6 @@ related:
     quality: 118
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f776156cc87b821f703b80d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D316%26cropY2%3D3448"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'Starting to feel good.' Trump releases new video from Walter Reed amid COVID battle"
-    excerpt: "Trump's latest video came as the White House has struggled to offer a consistent message about the president's condition since he tested positive for COVID-19."
-    publishedDateTime: 2020-10-03T23:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/trump-tweets-video-walter-reed-feeling-much-better-covid/3613162001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3613162001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3613162001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -511,6 +511,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 congressmen flew on a commercial Delta flight after a journey on Air Force One with President Trump"
+    excerpt: "The Republican politicians have been criticized after they flew on a Delta flight to Washington DC, hours after Trump tested positive for COVID-19."
+    publishedDateTime: 2020-10-04T15:47:00Z
+    webUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5f79a8fc2400440019129d95?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump quarantines after positive Covid test; Mike Pence tests negative – live updates"
     excerpt: "President to quarantine days after taking part in TV debate and campaign rally in Minnesota; Vice president’s daily test comes back negative"
     publishedDateTime: 2020-10-02T12:33:00Z
@@ -522,22 +538,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 109
-  - title: "Trump says he is awaiting the results of a COVID-19 test after his counselor Hope Hicks tested positive"
-    excerpt: "Hicks reportedly traveled with President Donald Trump on Air Force One to and from the first debate on Tuesday."
-    publishedDateTime: 2020-10-02T09:07:00Z
-    webUrl: "https://www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hope-hicks-has-coronavirus-bloomberg-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f76721b74fe5b0018a8e9e8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Republicans Sad and Worried, Democrats Happy and Indifferent Over Donald Trump's COVID Diagnosis: Poll"
     excerpt: "All respondents said they're more concerned about the economy than the president's well-being following his announcement."
     publishedDateTime: 2020-10-02T23:15:00Z
@@ -602,20 +602,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Pelosi Upbeat on Relief, Says Trump Illness Could Lift Roadblock"
-    excerpt: "U.S. House Speaker Nancy Pelosi said negotiations with the White House on a new stimulus will press ahead and President Donald Trump’s Covid-19 diagnosis might change the tenor of the talks by emphasizing the seriousness of the pandemic."
-    publishedDateTime: 2020-10-02T17:11:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/pelosi-upbeat-on-relief-says-trump-illness-could-lift-roadblock/2020/10/02/dd4ceac6-04c9-11eb-b92e-029676f9ebec_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6GKELOQEYQI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Trump says 'real test' ahead in his COVID fight"
     excerpt: "Posted . President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" o"
     publishedDateTime: 2020-10-04T12:27:00Z
@@ -677,22 +663,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/12/USAT/ee4221ac-e138-4a58-aac7-a775e2933690-USATSI_13255671.jpg?auto=webp&crop=3931,2211,x0,y154&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump appears to struggle to breathe in video of his return to the White House after COVID-19 treatment in the hospital"
-    excerpt: "Trump, keen to show his recovery, removed his mask before entering the White House. Footage from a distance seems to show his labored breathing."
-    publishedDateTime: 2020-10-06T10:38:00Z
-    webUrl: "https://www.businessinsider.com/video-trump-appears-struggle-breathe-white-house-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/video-trump-appears-struggle-breathe-white-house-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trump-appears-struggle-breathe-white-house-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5f7c3ce1282c500018c78c08?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump will go to Walter Reed Medical Center for a 'few days' after testing positive for COVID-19, developing a fever and cough"
     excerpt: "The president is on his way to the medical center to perform tests and will remain there for a few days, according to the White House."
@@ -886,6 +856,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "John Oliver Says Donald Trump's COVID-19 Diagnosis Was 'Utterly Inevitable'"
+    excerpt: "John Oliver talked about President Donald Trump’s COVID-19 diagnosis and blasted the first family for not wearing masks during the first presidential debate."
+    publishedDateTime: 2020-10-06T03:06:00Z
+    webUrl: "https://www.ibtimes.com/john-oliver-says-donald-trumps-covid-19-diagnosis-was-utterly-inevitable-3057188"
+    ampWebUrl: "https://www.ibtimes.com/john-oliver-says-donald-trumps-covid-19-diagnosis-was-utterly-inevitable-3057188?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/john-oliver-says-donald-trumps-covid-19-diagnosis-was-utterly-inevitable-3057188?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/08/01/john-oliver.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "MSNBC’s Morning Joe scorches ‘sociopath’ Trump for ignoring COVID-19 until he got sick"
     excerpt: "MSNBC’s Joe Scarborough ripped President Donald Trump for ignoring the coronavirus pandemic until he personally became a victim. The president said over the weekend that he had “learned a lot” about the potentially deadly virus since his positive test and subsequent hospitalization,"
     publishedDateTime: 2020-10-05T13:24:00Z
@@ -931,22 +917,6 @@ related:
     quality: 65
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "BREAKING: Trump Announces He’s Leaving Walter Reed Tonight, Adds ‘Don’t Be Afraid of Covid’"
-    excerpt: "I will be leaving the great Walter Reed Medical Center today at 6:30 P.M,” Trump wrote. “Feeling really good! Don’t be afraid of Covid. Don’t let it dominate your life. We have developed, under the Trump Administration,"
-    publishedDateTime: 2020-10-05T19:12:00Z
-    webUrl: "https://www.mediaite.com/trump/trump-announces-hes-feeling-really-good-and-leaving-walter-reed-tonight-dont-be-afraid-of-covid/"
-    ampWebUrl: "https://www.mediaite.com/trump/trump-announces-hes-feeling-really-good-and-leaving-walter-reed-tonight-dont-be-afraid-of-covid/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-announces-hes-feeling-really-good-and-leaving-walter-reed-tonight-dont-be-afraid-of-covid/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 65
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -997,22 +967,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
         width: 800
         height: 412
-        isCached: true
-  - title: "‘Don’t tell anyone’: Trump tried to hide positive COVID-19 tests spreading through the White House"
-    excerpt: "The Wall Street Journal reported Sunday that President Donald Trump tried to hide that he first tested positive for COVID-19 when he waited for a second test on Thursday. According to the report, Trump attempted to hide his first rapid test that gave him a positive test result."
-    publishedDateTime: 2020-10-04T23:48:00Z
-    webUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.jpg"
-        width: 800
-        height: 430
         isCached: true
   - title: "Trump's Medical Condition: What We Know And Don't Know About His Status Amid Confusion Over Privacy"
     excerpt: "Doctors are being coy on whether Trump has suffered lung damage from COVID-19 and when exactly he last tested negative."

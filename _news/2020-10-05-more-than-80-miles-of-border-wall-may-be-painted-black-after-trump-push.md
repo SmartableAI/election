@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump calls for stimulus negotiations to stop until after Election Day"
+    excerpt: "President Donald Trump has ordered his negotiators to halt talks over a new stimulus package, after the two sides have struggled for months to reach a deal.\n    \n"
+    publishedDateTime: 2020-10-06T19:25:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2YA1X8mXS0k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-ends-stimulus-talks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-ends-stimulus-talks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200504221611-trump-pelosi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: It's a month until Election Day, and Trump has Covid-19. Now what?"
     excerpt: "There were more than 302,000 new Covid-19 cases in the US in the past week, according to the US Centers for Disease Control and Prevention.\n    \n"
     publishedDateTime: 2020-10-03T10:45:25Z
@@ -652,6 +668,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004001356-36-trump-covid-circle-nicholas-luna-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: How Trump's losing among seniors at a historic rate"
+    excerpt: "Former Vice President Joe Biden has jumped out to an 11-point lead over President Donald Trump in CNN's poll of polls. While Biden is doing better with pretty much all groups compared with 2016 Democratic nominee Hillary Clinton, one group jumps out: seniors.\n    \n"
+    publishedDateTime: 2020-10-06T19:44:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/02-alpifwcg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-senior-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-senior-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200312170709-01-week-in-photos-0313-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2429,6 +2461,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Miami mayor to Trump: Don’t come here to debate if you have Covid"
+    excerpt: "The Republican mayor of Miami said Donald Trump shouldn’t come to his city for the Oct. 15 debate with Joe Biden if the president is still testing positive with Covid-19. “I don’t think it’s safe, not for him and anybody else,"
+    publishedDateTime: 2020-10-06T19:23:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/miami-mayor-trump-dont-come-covid-426817"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/miami-mayor-trump-dont-come-covid-426817"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/miami-mayor-trump-dont-come-covid-426817"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c4/cc/cd9f89f74b61bc57d7dbd69f428d/gettyimages-1152449770-1.jpg"
+        width: 1160
+        height: 771
+        isCached: true
   - title: "E.P.A. to Promote Lead Testing Rule As Trump Tries to Burnish His Record"
     excerpt: "The E.P.A. will tout a new rule on testing lead in drinking water as President Trump's latest environmental achievement, but water experts see only modest improvements at best."
     publishedDateTime: 2020-09-27T09:00:00Z
@@ -2588,6 +2636,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417702/201005-2x1-think-kristin-urquiza-ew-704p_721bf55af266e58488c46b95409e5ecb.jpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Live updates: Trump back at White House after Covid-19 treatment at Walter Reed"
+    excerpt: "President Donald Trump has returned to the White House after leaving Walter Reed National Military Medical Center, where he had been receiving treatment for Covid-19 since Friday. He immediately took off his mask to pose for pictures before walking into the building."
+    publishedDateTime: 2020-10-06T19:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/live-blog/2020-10-06-trump-covid-n1242234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242234"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417772/201006-trump-white-house-mc-9222_79f93e44e9a757ca1d9de38e3e8ec331.JPG"
+        width: 2500
+        height: 1672
         isCached: true
   - title: "Trump has spent a year building a legal network to fight the election"
     excerpt: "Dozens of lawyers from three major firms have been hired. Thousands of volunteer attorneys and poll watchers across the country have been recruited."

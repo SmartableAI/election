@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-fir
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp"
 type: article
 quality: 165
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "DNI declassifies Brennan notes, CIA memo on Hillary Clinton 'stirring up' scandal between Trump, Russia"
+    excerpt: "Director of National Intelligence John Ratcliffe on Tuesday declassified documents that revealed former CIA Director John Brennan briefed former President Obama on Hillary Clinton’s purported “plan” to tie then-candidate Donald Trump to Russia as “a means of distracting the public from her use of a private"
+    publishedDateTime: 2020-10-06T18:41:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AT7sx4qYIg/dni-brennan-notes-cia-memo-clinton"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/10/31/694940094001_6099268230001_6099265128001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’"
     excerpt: "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States."
     publishedDateTime: 2020-10-01T19:15:00Z

@@ -173,6 +173,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'"
+    excerpt: "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks."
+    publishedDateTime: 2020-10-06T05:00:00Z
+    webUrl: "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/06/michelle-obama-closing-argument_wide-53ba9b0b61da569863ffca9af3caba3915ebbbfe.png?s=1400"
+        width: 1400
+        height: 786
+        isCached: true
   - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
     excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
     publishedDateTime: 2020-10-06T14:54:00Z

@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump nabs endorsement from major Nevada newspaper"
+    excerpt: "The Las Vegas Review-Journal endorsed President Trump’s reelection over the weekend. "
+    publishedDateTime: 2020-10-06T19:15:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3hK_Bi2r5UQ/las-vegas-review-journal-endorses-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279850847067-1.jpg"
+        width: 4088
+        height: 2297
+        isCached: true
   - title: "Wisconsin gov tells Trump to require masks at state rallies — or skip them"
     excerpt: "Gov. Tony Evers suggested President Trump not come to Wisconsin for two campaign rallies this weekend, as the state struggles with record-breaking numbers of hospitalizations and new coronavirus cases."
     publishedDateTime: 2020-09-30T20:16:50Z

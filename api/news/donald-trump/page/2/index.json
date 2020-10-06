@@ -2,62 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-04-trump-has-been-fever-free-for-over-24-hours-hasnt-need-supplemental-oxygen-at-hospital.md",
-      "title": "Trump has been 'fever-free' for over 24 hours, hasn't need supplemental oxygen at hospital",
-      "excerpt": "President Donald Trump has been fever-free for over 24 hours and has not needed supplemental oxygen Saturday morning, his doctors told reporters outside Walter Reed National Military Medical Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1241952",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952",
-      "publishedDateTime": "2020-10-03T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-04-an-unusual-patient-an-unusual-treatment-trump-and-the-risks-of-vip-syndrome.md",
       "title": "An unusual patient, an unusual treatment: Trump and the risks of 'VIP syndrome'",
       "excerpt": "\"When a patient is high profile, there's a temptation to break away from the standard medical care that you would give to any other patient -- and sometimes to the disadvantage to the patient, the VIP,",
@@ -89,6 +33,99 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark.md",
+      "title": "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark",
+      "excerpt": "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/",
+      "originalUrl": "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76773dd654b423dfece1b5%2F0x0.jpg",
+          "width": 1199,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-03T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-uk-pm-johnson-says-resilient-trump-will-make-strong-recovery.md",
+      "title": "UK PM Johnson says 'resilient' Trump will make strong recovery",
+      "excerpt": "British Prime Minster Boris Johnson said on Saturday he has no doubt U.S. President Donald Trump will make a very strong recovery from COVID-19, calling him a very \"resilient character\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26O0HX",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0HX",
+      "publishedDateTime": "2020-10-03T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -160,57 +197,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-donald-trump-should-be-better-in-a-week-after-taking-experimental-drug-regeneron-ceo-says.md",
-      "title": "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says",
-      "excerpt": "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146",
-      "originalUrl": "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg",
-          "width": 2500,
-          "height": 1535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1",
-      "publishedDateTime": "2020-10-02T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-03-commentary-what-happens-if-trump-is-unable-to-govern.md",
       "title": "Commentary: What happens if Trump is ‘unable’ to govern",
       "excerpt": "For some imaginable health outcomes, especially those associated with COVID-19, the 25th Amendment is ambiguous.",
@@ -242,57 +228,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-white-house-says-trump-remains-fatigued-amid-reports-he-has-fever.md",
-      "title": "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever",
-      "excerpt": "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/",
-      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77965b260487e5b2299495%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4475%26cropY1%3D226%26cropY2%3D2743",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/",
-      "publishedDateTime": "2020-10-02T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -433,7 +368,7 @@
       "originalUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1545,
+      "heat": 1485,
       "tags": null,
       "images": [
         {
@@ -456,57 +391,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-nancy-pelosi-says-donald-trumps-actions-were-brazen-invitation-to-catch-covid.md",
-      "title": "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID",
-      "excerpt": "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855",
-      "originalUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1644994/speaker-house-nancy-pelosi.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1",
-      "publishedDateTime": "2020-10-02T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -810,7 +694,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -963,7 +847,7 @@
       "originalUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1055,210 +939,6 @@
         "Election",
         "Kamala Harris",
         "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-election-debate-officials-are-considering-muting-candidates-mics-report-says-after-trump-interrupted-71-times-in-the-chaotic-first-round.md",
-      "title": "Election debate officials are considering muting candidates' mics, report says, after Trump interrupted 71 times in the chaotic first round",
-      "excerpt": "The commission is considering allowing moderators to switch off mics to avoid a repeated of the chaos in the first debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10",
-      "originalUrl": "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f759dd874fe5b0018a8e6b9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/next-election-debate-moderator-could-cut-off-trump-or-biden-mic2020-10?amp",
-      "publishedDateTime": "2020-10-01T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-a-step-by-step-look-at-trumps-falsehoods-on-mail-in-voting-analysis.md",
-      "title": "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis",
-      "excerpt": "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
-      "originalUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
-      "publishedDateTime": "2020-10-01T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-getting-warmer-trump-concedes-human-role-in-climate-change.md",
-      "title": "Getting warmer: Trump concedes human role in climate change",
-      "excerpt": "At the first presidential debate, President Donald Trump publicly acknowledged some human blame for climate change",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_0062919532a148d4a6fd087944aa558e_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
-      "publishedDateTime": "2020-10-01T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-trump-denies-knowing-who-proud-boys-are-again-declines-to-condemn-white-supremacy-by-name.md",
-      "title": "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name",
-      "excerpt": "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "originalUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
-      "publishedDateTime": "2020-09-30T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     },
@@ -1365,57 +1045,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-trump-has-repeatedly-been-endorsed-by-white-supremacist-groups-and-other-far-right-extremists-and-theyve-looked-to-him-as-a-source-of-encouragement.md",
-      "title": "Trump has repeatedly been endorsed by white supremacist groups and other far-right extremists, and they've looked to him as a source of encouragement",
-      "excerpt": "Trump's refusal to explicitly condemn white supremacist groups during Tuesday night's debate follows a similar pattern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f74dd1974fe5b0018a8e56a?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp",
-      "publishedDateTime": "2020-09-30T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-biden-kicks-off-train-tour-through-ohio-pennsylvania-after-raucous-debate.md",
       "title": "Biden kicks off train tour through Ohio, Pennsylvania after raucous debate",
       "excerpt": "Joe Biden is embarking on a roughly 200-mile train tour on Wednesday through Ohio and Pennsylvania, appealing to voters who have strayed from Democrats in recent years.",
@@ -1464,57 +1093,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-mark-cuban-says-idiot-donald-trump-once-told-him-to-run-for-president.md",
-      "title": "Mark Cuban says 'idiot' Donald Trump once told him to run for president",
-      "excerpt": "Dallas Mavericks owner Mark Cuban said President Donald Trump is an \"idiot\" for how he's run the country as president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/sports/nba/mavericks/2020/09/30/mark-cuban-calls-president-donald-trump-an-idiot/3587381001/",
-      "originalUrl": "https://www.usatoday.com/story/sports/nba/mavericks/2020/09/30/mark-cuban-calls-president-donald-trump-an-idiot/3587381001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/30/USAT/bb91078b-8ea8-4702-b16e-61c98afa0ed4-USP_NBA__Dallas_Mavericks_at_Indiana_Pacers_1.JPG?auto=webp&crop=2248,1265,x0,y310&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3587381001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587381001",
-      "publishedDateTime": "2020-09-30T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     },
@@ -1572,6 +1150,429 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trumps-proud-boys-stand-back-and-stand-by-debate-moment-was-more-than-a-dog-whistle.md",
+      "title": "Trump's Proud Boys 'stand back and stand by' debate moment was more than a dog whistle",
+      "excerpt": "There are not two sides to white supremacy, just as there are not two sides to homophobia, anti-Semitism or any other type of hate. That is, apparently, unless your name is Donald J. Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_40/3416378/200930-proud-boys-portland-jm-1217_0_4aead6db0f14f95b2d194d823f968045.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241570",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241570",
+      "publishedDateTime": "2020-09-30T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-cnns-don-lemon-suggests-trump-was-hopped-up-on-performance-enhancing-drugs-during-debate.md",
+      "title": "CNN’s Don Lemon suggests Trump was ‘hopped up’ on performance-enhancing drugs during debate",
+      "excerpt": "CNN’s Don Lemon suggested that President Trump appeared to be “hopped up” on a performance-enhancing drug during Tuesday night’s presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs",
+      "originalUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/Lemon-Trump_CNN-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-don-lemon-trump-debate-performance-enhancing-drugs.amp",
+      "publishedDateTime": "2020-09-30T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-said-portlands-sheriff-supports-him-the-sheriff-disputes-that.md",
+      "title": "Trump said Portland's sheriff supports him. The sheriff disputes that.",
+      "excerpt": "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "originalUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/dbf8d5f7-cc73-41b9-81a0-053b416b4ac2/thumbnail/1200x630/55135e432af3c30438ab4da906fbdd7a/ap-20274041554822.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "publishedDateTime": "2020-09-30T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-undecided-voters-call-trump-unhinged-and-un-american-but-unswayed-by-debate.md",
+      "title": "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but unswayed by debate",
+      "excerpt": "After watching the first presidential debate Tuesday night, undecided voters from battleground states across the country still had plenty they wanted to know about coronavirus, racial injustice and what each candidate would do to unite the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545",
+      "originalUrl": "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-doesnt-denounce-white-supremacists-and-militias-during-debate.md",
+      "title": "Trump doesn't denounce white supremacists and militias during debate",
+      "excerpt": "President Trump was given several chances during the debate. to denounce white supremacists and militias that have caused violence. Trump deflected.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 925,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-debate-6-gty-er-200929_1601430660343_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
+      "publishedDateTime": "2020-09-29T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trumps-spy-chief-just-released-russian-disinformation-against-hillary-clinton-that-he-acknowledged-may-be-fabricated.md",
+      "title": "Trump's spy chief just released 'Russian disinformation' against Hillary Clinton that he acknowledged may be fabricated",
+      "excerpt": "DNI John Ratcliffe said in a letter that the US intel community \"does not know the accuracy\" of the allegation or whether it's been fabricated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9",
+      "originalUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5d385b01b44ce752ae61652b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp",
+      "publishedDateTime": "2020-09-29T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-dont-be-like-trump-deducting-hairstyling-and-home-expenses-from-your-taxes-could-get-you-in-trouble-with-the-irs.md",
+      "title": "Don’t be like Trump: Deducting hairstyling and home expenses from your taxes could get you in trouble with the IRS",
+      "excerpt": "Trump tax returns confirm that the rich are different from you and me. So, no, you cannot deduct the cost of getting your hair cut and styled",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/",
+      "originalUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp",
+      "publishedDateTime": "2020-09-29T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-tax-returns-reality-show-businessman-turns-americas-loser-in-chief.md",
+      "title": "Trump tax returns: Reality show businessman turns America's loser in chief",
+      "excerpt": "How did Donald Trump bankrupt his presidency and fail to save America from COVID-19? Answers lie in his success in dodging taxes and debts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/29/USAT/f065e03b-91bf-4678-aad0-a2161d916085-Trump.jpg?auto=webp&crop=5087,2861,x0,y423&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3565963001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565963001",
+      "publishedDateTime": "2020-09-29T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

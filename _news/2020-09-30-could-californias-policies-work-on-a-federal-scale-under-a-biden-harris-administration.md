@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/will-californias-policies-work-on-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp"
 type: article
 quality: 191
-heat: 271
+heat: 291
 published: true
 
 provider:
@@ -91,6 +91,17 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "There is no pro-life case for Biden"
+    excerpt: "During his NBC town hall on Monday, Joe Biden reiterated his unyielding support for abortion on demand, putting to rest the idea that there is a pro-life case to vote for Biden."
+    publishedDateTime: 2020-10-06T17:53:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "yEpqmV9AqHByC6jg2Zmt9g1PtVyFA/qkM9UZNTU7G75KKgtWS48KtJtZZiZyuC/3OxNZnPveL/E+hPOZVfxt8XfFOP69ld76opvCMmllJrdT7IM1So/V+osb2HeULx5OlZ3SvrD+Y1G8kh7hUoBBA/ufijQ29c+Zz/ce5VFCauVDlWsQXgT/bmudAytuqLPNoP7xn6IcydGKUnsVBJYurrwA/By1q/AC0YiWKaUx4sN1vc3xKeOZo9Qmi98SPNuAKzS4SXwywAHapUPT/tDcVBvnyUfMxPeDYd7RqlsrevI7F5KKz9MGwGW6TgMiUEelG9J7OSQU+VHB/ytQSu6Y9Cno8lfFhZ+Kizlrkgt0PfU=;2cBj/YCpgDWSG/Dnb0H9ZA=="
 ---

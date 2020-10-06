@@ -95,22 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump, downplaying virus, has mocked wearing masks for months"
-    excerpt: "After months of downplaying the coronavirus and resisting wearing a mask, President Donald Trump wore one as he headed to the hospital Friday afternoon."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-6-gty-er-201002_1601677288519_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump Loudly Booed While Paying Respects To RBG—Two Days Ahead Of Announcing New SCOTUS Pick"
     excerpt: "President Trump was met with loud boos and chants to “vote him out” on Thursday morning while paying respects to late Supreme Court Ginsburg, two d"
     publishedDateTime: 2020-09-24T17:06:00Z

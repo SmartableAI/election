@@ -19,6 +19,38 @@ topics:
   - Mike Pence
 
 related:
+  - title: "Borat 2 Trailer: Sacha Baron Cohen Dresses As Trump To Prank Mike Pence"
+    excerpt: "The first trailer for the sequel to \"Borat\" dropped on Thursday and it appears Sacha Baron Cohen is up to his old tricks again."
+    publishedDateTime: 2020-10-01T19:01:00Z
+    webUrl: "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/"
+    ampWebUrl: "https://amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/"
+    cdnAmpWebUrl: "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/"
+    type: article
+    provider:
+      name: TooFab
+      domain: toofab.com
+    quality: 90
+    images:
+      - url: "https://images.toofab.com/image/5a/16by9/2020/10/01/5aaded4cdb5145c0ada0b1c570b0b3b1_xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Sacha Baron Cohen’s top secret Borat sequel ‘is FINISHED and targets Mike Pence’"
+    excerpt: "SACHA Baron Cohen has secretly shot a follow up to the 2006 sensation Borat — and Mike Pence is in the firing line. The second outing as the Kazakh journalist reportedly targets the Vice President"
+    publishedDateTime: 2020-09-27T23:23:00Z
+    webUrl: "https://www.thesun.co.uk/news/12785705/sacha-baron-cohens-borat-sequel-finished-mike-pence/"
+    ampWebUrl: "https://www.thesun.co.uk/news/12785705/sacha-baron-cohens-borat-sequel-finished-mike-pence/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/12785705/sacha-baron-cohens-borat-sequel-finished-mike-pence/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 70
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/09/JS-COMP-BORAT-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "First trailer for Borat 2 is a whirlwind of crotch masks, Mike Pence, and incest jokes"
     excerpt: "Sacha Baron Cohen’s Borat character returns to induce cringeworthy terror upon unsuspecting interview subjects in a sequel to 2006’s Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan later this month."
     publishedDateTime: 2020-10-01T15:08:00Z
@@ -35,6 +67,38 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "‘Borat’ Sequel Trailer: Sacha Baron Cohen Returns to Terrorize ‘Yankeeland,’ Mike Pence"
+    excerpt: "“The Democrats,” they reply. The preview also features a scene where Borat — in a Trump costume — attempts to deliver his daughter to a confused Mike Pence mid-speech. Along with the trailer, Amazon Prime — which recently acquired the comedy ..."
+    publishedDateTime: 2020-10-01T22:25:00Z
+    webUrl: "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/"
+    ampWebUrl: "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 67
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/10/borat-sequel-amazon.jpg"
+        width: 1800
+        height: 1013
+        isCached: true
+  - title: "Did Borat really crash Mike Pence's CPAC speech? Here's what videos from the day showed."
+    excerpt: "In a trailer released ahead of a new Borat movie showed Sacha Baron Cohen as a Trump impersonator at this year's CPAC. Did that really happen?"
+    publishedDateTime: 2020-10-01T18:02:00Z
+    webUrl: "https://www.courierpress.com/story/news/2020/10/01/borat-mike-pence-cpac-sacha-baron-cohen-donald-trump-impersonator/5881028002/"
+    ampWebUrl: "https://amp.courierpress.com/amp/5881028002"
+    cdnAmpWebUrl: "https://amp-courierpress-com.cdn.ampproject.org/c/s/amp.courierpress.com/amp/5881028002"
+    type: article
+    provider:
+      name: Evansville Courier & Press
+      domain: courierpress.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/6f3e0317ebc37cd06dd08eb1d2f6c02a74a69d5e/c=0-395-3929-2605/local/-/media/2020/09/30/FortSmith/ghows-AR-200939972-5f9f10d8.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'Borat' Sequel Trailer: Sacha Baron Cohen Takes on Mike Pence in First Look"
     excerpt: "Directed by Larry Charles, the trailer teases Borat's move from Kazakhstan to the United States for a special mission — and includes a surprise convention drop-in during a Mike Pence speech. Disguised as Donald Trump and with a half-naked,"
     publishedDateTime: 2020-10-01T14:52:00Z
@@ -49,15 +113,22 @@ related:
         width: 928
         height: 523
         isCached: true
-  - title: "‘Borat 2’ Has Another Hilariously Long Title, and Mike Pence Won’t Like It"
-    excerpt: "And whenever the recently revealed sequel arrives, it appears […] The post ‘Borat 2’ Has Another Hilariously Long Title, and Mike Pence Won’t Like It appeared first on /Film. Get the IMDb App"
-    publishedDateTime: 2020-09-28T14:42:00Z
-    webUrl: "https://www.imdb.com/news/ni63036973"
+  - title: "It was HIM all along! Borat 2 trailer reveals moment Sacha Baron Cohen dresses as Trump and crashes CPAC with a woman over his shoulder and shouts at Mike Pence 'I've got the ..."
+    excerpt: "The Borat 2 trailer released Thursday reveals Sacha Baron Cohen was the Trump impersonator who crashed Mike Pence's speech at CPAC in February."
+    publishedDateTime: 2020-10-01T18:44:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8795265/Borat-2-trailer-reveals-moment-Sacha-Baron-Cohen-crashes-CPAC-dressed-Trump.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8795265/amp/Borat-2-trailer-reveals-moment-Sacha-Baron-Cohen-crashes-CPAC-dressed-Trump.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8795265/amp/Borat-2-trailer-reveals-moment-Sacha-Baron-Cohen-crashes-CPAC-dressed-Trump.html"
     type: article
     provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 33
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 36
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/01/19/33872128-0-image-a-41_1601576604256.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "tARczRWjWR9I5s9niYgvdAsJv73MqgbQac0CUzJWP2IgnXjdNNKO0i1sZSqa1/S8MksDSB7C8T7/8Nz+kLP0UekOfvVL0OIb5+/dmmtkzoQAIg4sl/mfln91Eae+LcaVQ538HXVBumLA4rvrRUswQAVl71Ooo/FcbIbqArBPEF3YHuv/oCPf0ht3f29hsGaX55zN7M1zyo8LUsGZe9qDcRj7/OjPEnp5+ru/1mLC/GPGve0EwcDk4+S1+DJKfZxW72wibQMHobqPcJ/Z6Yj30LpRwtR/TU2jiKVEaELDhbYt/f5rs+GEbe2JqfwhdluXGma6xqXcpXcZXCyoZY8yiDZ8ludjY7V7wksmXzZ29rlZgGx76NHvLDfRXStHytImcS6rMOOUyStWqjingsACFkAVJIDIV7N+N/JttPsc/WUKztSbdYr3j1BBt23UEq8kM1kPJZgWnP1dtXkipFa1ck7YO3tAoFik2PEk3iN4c5gyBwoZgoYvGLVNzUthkKbkGeA54flrn5Zw6OCpXUmuoQ==;DcFNl5KGCt8BjS1Ts4beQA=="
 ---

@@ -2,257 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-09-22-former-mueller-prosecutor-says-the-special-counsel-let-down-the-public-and-describes-trump-as-an-animal-in-new-book.md",
-      "title": "Former Mueller prosecutor says the special counsel let down the public and describes Trump as 'an animal' in new book",
-      "excerpt": "Asked whether Mueller had let down the American public, Andrew Weissmann told The Atlantic: \"Absolutely, yep.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
-      "originalUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0a4381aee6a8700a49a134?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-prosecutor-andrew-weissmann-rips-trump-barr-book-2020-9?amp",
-      "publishedDateTime": "2020-09-21T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-im-so-angry-at-republicans.md",
-      "title": "Trump: ‘I’m so angry at Republicans’",
-      "excerpt": "The president says his fellow Republicans have let him it down when it comes to investigating Obama and the Bidens.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/21/trump-angry-republicans-419790",
-      "originalUrl": "https://www.politico.com/news/2020/09/21/trump-angry-republicans-419790",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/ca/00/b33a8de44c439fcd7d83230aad5f/20200921-donaldtrump-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-angry-republicans-419790",
-      "publishedDateTime": "2020-09-21T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-senate-should-be-able-to-move-swiftly-on-trump-pick-to-replace-rbg-carrie-severino.md",
-      "title": "Senate should be able to move 'swiftly' on Trump pick to replace RBG: Carrie Severino",
-      "excerpt": "The Senate should be able to move \"swiftly\" if either Judge Amy Coney Barrett or Judge Barbara Lagoa are nominated for the Supreme Court by President Trump, Judicial Crisis Network President Carrie Severino told \"Special Report\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pjpwcPuhtOw/trump-scotus-nomination-senate-rbg-carrie-severino",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pjpwcPuhtOw/trump-scotus-nomination-senate-rbg-carrie-severino",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp",
-      "publishedDateTime": "2020-09-21T17:28:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement.md",
-      "title": "Vice President Pence on honoring Ginsburg and moving forward with her replacement",
-      "excerpt": "Vice President Mike Pence will play a key role in the nomination process and interview of each of the candidates President Trump is considering. Pence speaks with CBS News in this exclusive interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/",
-      "originalUrl": "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 320,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/21/fd16145c-fa6d-43c0-b94e-05773864daab/thumbnail/1200x630/4f363a5682ba93d74d9a23557db931a5/0921-en-pence-odonnell-551647-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-watch-live-trump-holds-a-great-american-comeback-rally-in-swanton-ohio.md",
-      "title": "Watch Live: Trump Holds A \"Great American Comeback\" Rally In Swanton, Ohio",
-      "excerpt": "President Donald Trump will hold a campaign rally at Toledo Express Airport in Swanton, Ohio on Monday. The rally is expected to begin at 8:00 pm ET.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/09/21/watch_live_trump_holds_a_great_american_comeback_rally_in_swanton_ohio.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/21/watch_live_trump_holds_a_great_american_comeback_rally_in_swanton_ohio.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/521717.jpg",
-          "width": 1136,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-barbara-lagoa-one-of-trumps-top-contenders-for-the-supreme-court.md",
       "title": "Barbara Lagoa, one of Trump's top contenders for the Supreme Court",
       "excerpt": "President Donald Trump said he plans to select a woman to replace the late Justice Ruth Bader Ginsburg, a feminist icon who helped lead the Supreme Court's liberal wing for years. Among the people on his short list is Barbara Lagoa, a 52-year-old conservative judge he appointed to the 11th US Circuit",
@@ -1312,6 +1061,279 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburgs-passing.md",
+      "title": "Is Anyone Else Puzzled Over What Joe Biden Did the Day After Ruth Bader Ginsburg's Passing?",
+      "excerpt": "Justice Ruth Bader Ginsburg has died. She was 87. Her legacy is cemented. Period. The Left is going bananas. The meltdowns are pervasive. The Democrats want to pack the Supreme",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529",
+      "originalUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/258/41c8d6b9-9c0d-4269-8644-a02f7a4d4128.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/20/is-anyone-else-puzzled-over-what-joe-biden-did-the-day-after-ruth-bader-ginsburg-n2576529?amp=true",
+      "publishedDateTime": "2020-09-19T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-trump-backs-proposed-deal-to-keep-tiktok-operating-in-us.md",
+      "title": "Trump backs proposed deal to keep TikTok operating in US",
+      "excerpt": "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 725,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/WireAP_4dc911637176420589fa2c420c7839b1_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
+      "publishedDateTime": "2020-09-19T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.md",
+      "title": "Lincoln Project fiercely condemns possible SCOTUS nomination by Trump",
+      "excerpt": "The Lincoln Project, a conservative political action committee, joined the masses in posting a message noting their condolences for the loss of Supreme Court Justice Ruth Bader Ginsburg, on twitter Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/b01DuZpkbm0/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bb08bf3-6a6f-4733-97c4-4961bf9b00b2/e8052fc4-aa8e-4a9f-b45f-bb710ccae6af/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-lincoln-project-fiercely-condemns-possible-scotus-nomination-by-trump.amp",
+      "publishedDateTime": "2020-09-19T19:09:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-trump-supporters-disrupt-early-voting-in-virginia.md",
+      "title": "Trump Supporters Disrupt Early Voting in Virginia",
+      "excerpt": "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/us/politics/19virginia-voting1/19virginia-voting1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/19/us/politics/trump-supporters-early-voting-virginia.amp.html",
+      "publishedDateTime": "2020-09-19T17:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-kamala-harris-pays-tribute-to-rbg-with-supreme-court-pic.md",
+      "title": "Kamala Harris pays tribute to RBG with Supreme Court pic",
+      "excerpt": "Democratic Vice Presidential candidate Kamala Harris paid tribute to the passing of Supreme Court Justice Ruth Bader Ginsberg Saturday, calling the liberal icon a “titan.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/naIHxghUNkk/harris-tribute-rgb-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 440,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e4ffb8-2b45-4210-b6fb-e8d0e7172632/fc1e8122-6d22-4b0e-bd5d-bb49476cc1cd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp",
+      "publishedDateTime": "2020-09-19T14:52:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

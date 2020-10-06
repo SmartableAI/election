@@ -270,6 +270,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The Education of Kamala Harris"
+    excerpt: "From the election campaign that brought her head-to-head with her toughest opponent to the school debates where she honed her skills, how did Kamala Harris’ time at university prepare her for her run for Vice President?"
+    publishedDateTime: 2020-10-06T19:06:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/news/education-kamala-harris-2-ncna1242310"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_06/2379271/180328-howard-university-al-0933_a6a32bf73f93495e8be82db6ec53c279.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris says appointing Amy Coney Barrett to the Supreme Court would imperil health care and abortion rights."
     excerpt: "Senator Kamala Harris warns of far-reaching consequences to American society if Judge Amy Coney Barrett is confirmed to the Supreme Court."
     publishedDateTime: 2020-09-28T20:08:00Z

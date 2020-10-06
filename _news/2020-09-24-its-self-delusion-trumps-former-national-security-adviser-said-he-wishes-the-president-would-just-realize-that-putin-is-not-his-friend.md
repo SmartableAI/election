@@ -95,22 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "White House adviser Hope Hicks tests positive for COVID after traveling with Trump"
-    excerpt: "White House adviser Hope Hicks has coronavirus after she traveled with President Donald Trump in the last few days. A person familiar with Hicks' situation but who was not authorized to discuss it confirmed to USA TODAY she tested positive."
-    publishedDateTime: 2020-10-02T01:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/01/hope-hicks-tests-positive-covid-after-traveling-trump/5889312002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5889312002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5889312002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f10e562b-768c-4849-974c-63f4edf662dd-Donald_Trump_Melania_Trump.jpg?auto=webp&crop=3503,1970,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Sarah Huckabee Sanders says Trump doesn't expect to have a 'transfer of power' because he's going to win the election"
     excerpt: "The former White House press secretary also claimed that many Americans \"will question that final result\" due to increased mail-in ballots."
     publishedDateTime: 2020-09-25T14:55:00Z
@@ -207,17 +191,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump senior campaign adviser Parscale steps down after arrest"
-    excerpt: "U.S. President Donald Trump's former campaign manager Brad Parscale has stepped down from a senior role at the campaign after his arrest at his home in Florida, a campaign official said on Wednesday."
-    publishedDateTime: 2020-10-01T03:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-parscale-idUSKBN26M49C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M49C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M49C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Bernie Sanders says there are a 'number of plans' to force Trump from office if he refuses to peacefully transfer power"
     excerpt: "There are a \"number of plans\" to force Donald Trump out if he refuses to allow a peaceful transfer of power after losing the election, Sanders said."
     publishedDateTime: 2020-09-27T10:55:00Z

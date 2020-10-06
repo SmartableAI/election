@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. stock futures and global shares fall on Trump's COVID news"
-    excerpt: "Both the S&P 500 and the Dow industrials futures lost 1.9% on the news, as oil prices and Asian share prices slipped."
-    publishedDateTime: 2020-10-02T06:35:00Z
-    webUrl: "https://www.cbsnews.com/news/stock-markets-today-react-to-donald-trump-covid-test-positive-2020-10-02/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/stock-markets-today-react-to-donald-trump-covid-test-positive-2020-10-02/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stock-markets-today-react-to-donald-trump-covid-test-positive-2020-10-02/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/04/6f81bc59-fb5c-41be-b90a-a9f3e3fdbfba/thumbnail/1200x630/d7bf989e0a2d60285c79df4301f0c131/cbsn-fusion-wall-street-is-booming-while-millions-of-people-are-still-unemployed-thumbnail-541520-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden to hit the campaign trail after negative test for COVID-19"
     excerpt: "Democratic presidential candidate Joe Biden plans to head to the battleground state of Michigan and resume campaigning on Friday after testing negative for coronavirus, hours after President Donald Trump was sidelined by contracting the virus."
     publishedDateTime: 2020-10-02T18:58:00Z
@@ -153,22 +137,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump steroid treatment for COVID-19 raises potential side effect risk"
-    excerpt: "U.S. President Donald Trump is being treated for COVID-19 with a steroid that is recommended for severe cases of the illness and that comes with risks of serious side effects, including mood swings, aggression and confusion."
-    publishedDateTime: 2020-10-06T08:20:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-steroid-idINKBN26R06W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R06W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R06W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536259936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941UE"
-        width: 785
-        height: 545
-        isCached: true
   - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
     excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
     publishedDateTime: 2020-10-03T14:47:00Z
@@ -185,22 +153,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Global shares and oil tumble after Donald Trump tests positive for COVID-19"
-    excerpt: "US stock futures dropped almost 2%, oil plunged 4%, while gold and Treasuries benefitted from investors fleeing risk assets."
-    publishedDateTime: 2020-10-02T06:41:00Z
-    webUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 123
-    images:
-      - url: "https://i.insider.com/5f365bbab4bb1c001df533d5?format=jpeg"
-        width: 4475
-        height: 2977
-        isCached: true
   - title: "COVID-19 in DC: Who's tested positive and negative so far in Trump's orbit"
     excerpt: "Since it was revealed that White House adviser Hope Hicks had tested positive for COVID-19, nearly a dozen other cases in Washington, D.C., have come to light -- including that of President Donald Trump."
     publishedDateTime: 2020-10-04T06:07:00Z
@@ -216,22 +168,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/hope-hicks-rt-ps-201002_1601616556785_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Vice President Mike Pence to continue campaigning while Trump quarantines after testing positive for COVID"
-    excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
-    publishedDateTime: 2020-10-02T21:21:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5892854002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892854002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Factbox: Trump White House, campaign staff who have tested positive for COVID-19"
     excerpt: "News of President Donald Trump's COVID-19 diagnosis has upended the U.S. presidential election campaign entering its final month and roiled stock markets, raising questions about succession and prompting White House aides to insist that Trump would keep a busy,"
@@ -393,38 +329,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Masks still won't be required in the White House after Trump's COVID-19 diagnosis, official says"
-    excerpt: "President Donald Trump has repeatedly flouted recommendations from top public health experts to wear a mask or face-covering."
-    publishedDateTime: 2020-10-02T19:46:00Z
-    webUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Dow futures decline as stock investors worry as President Trump says he tested positive for COVID-19"
-    excerpt: "The stock market appeared headed for a sharp drop early Friday morning after President Donald Trump said he and his wife, Melania, had tested positive for COVID-19. Dow futures  w"
-    publishedDateTime: 2020-10-02T05:47:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/10/02/trump-covid-update-president-tests-positive-stock-futures-fall/5892109002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5892109002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892109002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 110
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1740,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden hits the campaign trail after negative test for COVID-19"
     excerpt: "Democratic presidential candidate Joe Biden said President Donald Trump's coronavirus diagnosis is a \"bracing reminder\" that the pandemic needs to be taken seriously, as he campaigned on Friday in the battleground state of Michigan."
     publishedDateTime: 2020-10-02T18:50:00Z
@@ -435,56 +339,6 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
-  - title: "Trump moved to military hospital after COVID-19 diagnosis"
-    excerpt: "U.S. President Donald Trump moved to a military hospital for treatment on Friday after being diagnosed with COVID-19 as his administration and election campaign scrambled to adjust to an extraordinary twist in his turbulent presidency."
-    publishedDateTime: 2020-10-02T23:02:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump/update-16-trump-to-be-moved-to-military-hospital-after-covid-19-diagnosis-idUSL1N2GT1OV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0K4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0K4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Trump's COVID-19 diagnosis doesn't stop 2020 fundraising"
-    excerpt: "Partisans continue searching for every financial and political advantage possible despite President Trump's coronavirus diagnosis."
-    publishedDateTime: 2020-10-03T01:39:00Z
-    webUrl: "https://www.businessinsider.com/trump-covid-coronavirus-diagnosis-not-stopping-republicans-democrats-fundraising-money-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5f775a7374fe5b0018a8ec3d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Relying on testing to ward off COVID put Trump White House at risk"
-    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
-    publishedDateTime: 2020-10-04T03:24:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-testing-insi-idCAKBN26O0FR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201003&t=2&i=1536018686&r=LYNXMPEG9209A&w=800"
-        width: 800
-        height: 527
-        isCached: true
-  - title: "With COVID-19 diagnosis, Trump says 'I get it.' He doesn't."
-    excerpt: "President Donald Trump says he does “get it.” That revelation comes seven months — and almost 210,000 American deaths — is not the first time he has relied on personal experience to shape his views."
-    publishedDateTime: 2020-10-06T08:21:00Z
-    webUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 105
   - title: "A running list of all the people Trump came into contact with in the days before he tested positive for COVID-19"
     excerpt: "First lady Melania Trump, top aide Hope Hicks, Sen. Mike Lee, and RNC chairwoman Ronna McDaniel are among those who have tested positive so far."
@@ -501,29 +355,6 @@ related:
       - url: "https://i.insider.com/5f7778842400440019129bcb?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Relying on testing to ward off COVID put Trump White House at risk"
-    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
-    publishedDateTime: 2020-10-03T11:30:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-testing-insi-idUSKBN26O0G5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 85
-  - title: "Trump Tries To Out-macho Covid And Signs Of Election Defeat"
-    excerpt: "President Donald Trump doubled down Tuesday on the macho image his fans adore after declaring himself cured of Covid-19 and scoffing at disastrous opinion polls only four weeks before election day against Democrat Joe Biden."
-    publishedDateTime: 2020-10-06T16:21:00Z
-    webUrl: "https://www.ibtimes.com/trump-tries-out-macho-covid-signs-election-defeat-3057581"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/no-mask-no-worries-says-us-president-donald.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Joe Biden, in Grand Rapids, wearing a mask, urges Americans to follow COVID safety rules"
     excerpt: "Biden's comments were his first since President Trump announced he and the first lady tested positive for COVID-19."

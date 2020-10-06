@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
 type: article
 quality: 178
-heat: 538
+heat: 558
 published: true
 
 provider:
@@ -280,6 +280,20 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 112
+  - title: "Trump's workplace watchdog assailed for lenient penalties on Covid safety violators"
+    excerpt: "These tiny fines are OSHA sending a message to meat factories across the country that they don't have to worry anymore. . . they can operate as they please no matter how many workers are sick, injured or killed."
+    publishedDateTime: 2020-10-06T19:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/6e/a1/c2665139452193630801672e5fa3/apdol.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "2020 Election Live Updates: President Trump Is Hospitalized With Coronavirus"
     excerpt: "Mr. Trump is currently at the Walter Reed National Military Medical Center in Bethesda, Md., where officials said he will be monitored for “a few days,” strictly as a precaution. Mr."
     publishedDateTime: 2020-10-03T11:34:00Z

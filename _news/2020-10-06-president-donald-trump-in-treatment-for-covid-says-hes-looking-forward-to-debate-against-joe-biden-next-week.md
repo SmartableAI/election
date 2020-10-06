@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'"
+    excerpt: "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks."
+    publishedDateTime: 2020-10-06T05:00:00Z
+    webUrl: "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/06/michelle-obama-closing-argument_wide-53ba9b0b61da569863ffca9af3caba3915ebbbfe.png?s=1400"
+        width: 1400
+        height: 786
+        isCached: true
   - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
     excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
     publishedDateTime: 2020-10-06T14:54:00Z
@@ -362,6 +376,6 @@ related:
         height: 675
         isCached: true
 
-secured: "F3neWiWpFq+QvSzGxNxDNxwyhJnAfiOh9rPDJpO8AetUdBXHKA/u9OENojjhuWLIAa5C547tIffGf5a0HrICtltBUVbf95C7EnXsvUOAcz7e0iEyyxleYYWOckhfonmqsW+UFXCb6PSzLJfOkYUA4UTITME7ofXNePrBZHzMItruWkmwXA3dxbRRRpg6OAAy3HiC64ukHlO3DblW4QGVSXXUjL5DoGs4U94y0wrqEcNW5Dpdp6GFfMWzjwpkSaeOUG6+vc94Y10yOlqsOBh+tVqSRGVUYCh1TEcjPauDui3uJccvEk07t2U/lD6gRzykMcy48p2NB3LMKbVOLfQB3UOVBEytngaw8KrKA/mDPFo=;Og7UEu01aa7a7d8NH/0BOA=="
+secured: "Tw+08iNLd7tjmCP0QqamEjCniLrg3js+wvIMWEK7/OrVq/CAe/PDMlMdjNfoNA2aImBjjjCZlehapBFGDX6D0G4U0qwW5rLCh9QX1qoGLqdc3pXBequAVfByEqQ+RC6FJ18ZqRPGyU3CpiQ6XLJqwnrLMQ9oxF6gsNwWvopnRXjUiMgml5Mpxyaoqg9BWw54W6dbYIeyJw2k0yfSrGJ2jLQQK2SCn+8nLlCRJJwEMQDZakvwCzE1T766FcQyIb9Cn/z54Yq1h0cAFrdyjoJrd5au9/kzvf52GvF5Rt/ypO8sHAoVXs3KjzsxQk76JcrcNhiVzdLuUnwpx9shbaozIbpZljpeutOIAC3Wb/zr66Gw8ia8dSw84yU+42tZklEgFKFVeKTc/4adHKNQo/TCNbV6n1TSWXRFymbhNOK78x0WfdH6bUoy2/ctspiX+f+GowzODe6Ik4mZhG1tCfmSmxRHYi5+ava0p2PK25wWgbqoytHNm6J/OqMKEOeMCfmrrvSWEeK/SgxCs7QNlJN4UQ==;qgImy4nQ3+Qh6FHseOoIPg=="
 ---
 

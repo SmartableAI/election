@@ -43,22 +43,6 @@ related:
         width: 1440
         height: 1240
         isCached: true
-  - title: "Jim Carrey becomes Joe Biden in 'Saturday Night Live' teaser"
-    excerpt: "Jim Carrey transforms into Democratic presidential nominee Joe Biden in a new teaser for \"Saturday Night Live\" Season 46."
-    publishedDateTime: 2020-10-02T11:40:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/2981601634909/2020/upi/c2043754f4b2fa79bed5d222b660c642/v1.5/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser.jpg?lg=2"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Jim Carrey Transforms Into Joe Biden In 1st Look At His Highly-Anticipated New ‘SNL’ Role — Watch"
     excerpt: "Jim Carrey has managed to totally become Joe Biden’s twin for the upcoming season of ‘SNL.’ The funnyman showed off how he’s the Democratic presidential nominee’s"
     publishedDateTime: 2020-10-01T20:46:00Z

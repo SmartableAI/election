@@ -286,6 +286,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The Education of Kamala Harris"
+    excerpt: "From the election campaign that brought her head-to-head with her toughest opponent to the school debates where she honed her skills, how did Kamala Harris’ time at university prepare her for her run for Vice President?"
+    publishedDateTime: 2020-10-06T19:06:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/news/education-kamala-harris-2-ncna1242310"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_06/2379271/180328-howard-university-al-0933_a6a32bf73f93495e8be82db6ec53c279.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "t74iJVEVmQlztUTWzcvQtHoAzI2r78L+gNHFHE4Dz58zI5ZVVEScOC9cY3kQsGbwY0wlIFL3UzLpxlSEaIDw9YRFl0IIuSsfGKnV6IAArqcXcR+vEwx+mOZN37mZ0/wn1hq+N83WqeoFJg6bVond6gZQdtDrtYNmzcZnV3F0Epui4edhlR8ozzZOOUPRW6GdK8leEp/BQWlUGa/tkNPeeV/hX4Nsm/LkZG965zEqw28PBNxials8QVghBQMxhZFAW1ye9+vYEF2D7d8FND9urwkmfrNiER7IS4fvayUoKpMlz+GPXFsxPXfxXTzy1R8z26IYMnM0kVooST6wIgfDkNFWfNPFsMeZc2qvTLh0ONE9X3CN4gyScNEFtC53pAoNzV7gCFnwOR333t43+54PcFT10VlXzN3hXmIedDmAQZwLDrX+0QEG6sBnfY48LBfZTssFVxBqaDk4fnFtd1esUudhtSjyDCy7H9zQ5QAST2DkKgCw90EqaUVXVb+2n92Oa91IvjWGTYOUNPojLzWPOw==;ADkASAg4BVIMDsjkBgAy2g=="
 ---

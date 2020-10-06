@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3557987001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557987001"
 type: article
 quality: 107
-heat: 207
+heat: 167
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Police: Friend convinced Trump ex-campaign boss to surrender"
-    excerpt: "A standoff between South Florida police and President Donald Trump’s former campaign manager Brad Parscale ended after an officer who was friends with Parscale convinced him to surrender, officials said."
-    publishedDateTime: 2020-09-29T07:57:00Z
-    webUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border"
     excerpt: "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said."
     publishedDateTime: 2020-09-21T00:55:00Z
@@ -71,20 +60,6 @@ related:
     quality: 100
     images:
       - url: "https://i.insider.com/5f7233ab74fe5b0018a8dd04?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Former Trump campaign manager Brad Parscale told friends he was under federal investigation just days before meltdown"
-    excerpt: "Brad Parscale told others he was under federal investigation, days before he was detained by police at his Florida home, Trump advisers told Insider"
-    publishedDateTime: 2020-10-02T01:03:00Z
-    webUrl: "https://www.businessinsider.com/brad-parscale-told-friends-under-federal-investigation-before-meltdown-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/5f767a250ab50d00184adb74?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-07-dow-falls-400-points-after-trump-calls-off-negotiations-on-stimulus-package.md",
+      "title": "Dow falls 400 points after Trump calls off negotiations on stimulus package",
+      "excerpt": "Wall Street fell on Tuesday after President Donald Trump said he had would be halting all negotiations on a new round of coronavirus stimulus relief. The Dow Jones Industrial Average fell by almost 400 points,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/markets/dow-falls-400-points-after-trump-calls-negotiations-stimulus-package-n1242318",
+      "originalUrl": "https://www.nbcnews.com/business/markets/dow-falls-400-points-after-trump-calls-negotiations-stimulus-package-n1242318",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_41/3417973/201006-new-york-stock-exchange-jm-1507_b91cdb57fb0e13b1b7cf21e2e3983820.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242318",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242318",
+      "publishedDateTime": "2020-10-06T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-coming-full-circle-trump-returns-to-false-misguided-flu-rhetoric.md",
       "title": "Coming full circle, Trump returns to false, misguided 'flu' rhetoric",
       "excerpt": "Nearly seven months after his misguided \"think about that!\" tweet, comparing COVID-19 to the flue, the Republican has apparently come full circle.",
@@ -735,7 +791,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 538,
+      "heat": 558,
       "tags": null,
       "images": [
         {
@@ -1068,7 +1124,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 4480,
+      "heat": 4560,
       "tags": null,
       "images": [
         {
@@ -1180,7 +1236,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 530,
+      "heat": 550,
       "tags": null,
       "images": [
         {
@@ -1593,62 +1649,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trump-says-hell-overturn-ridiculous-gender-neutral-navy-terms.md",
-      "title": "Trump says he'll overturn 'ridiculous' gender-neutral Navy terms",
-      "excerpt": "The Navy had made the changes to the two elite units' ethos and creed because the terms were outdated and because of the potential for women to join the units.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-says-he-ll-overturn-ridiculous-gender-neutral-navy-terms-n1241747",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-says-he-ll-overturn-ridiculous-gender-neutral-navy-terms-n1241747",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_40/3416796/201001-donald-trump-ac-657p_ef196f3bad86123d2fe2140702b49840.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241747",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241747",
-      "publishedDateTime": "2020-10-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

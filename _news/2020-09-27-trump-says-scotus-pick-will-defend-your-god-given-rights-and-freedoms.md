@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump, downplaying virus, has mocked wearing masks for months"
-    excerpt: "After months of downplaying the coronavirus and resisting wearing a mask, President Donald Trump wore one as he headed to the hospital Friday afternoon."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-6-gty-er-201002_1601677288519_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "How to Watch Donald Trump's Speech at the National Catholic Prayer Breakfast"
     excerpt: "Trump's appearance at the event comes at a crucial point in his re-election campaign, with less than 50 days remaining until the November 3 election date."
     publishedDateTime: 2020-09-23T09:00:00Z

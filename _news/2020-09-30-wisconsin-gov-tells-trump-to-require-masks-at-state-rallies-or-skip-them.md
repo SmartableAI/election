@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump nabs endorsement from major Nevada newspaper"
+    excerpt: "The Las Vegas Review-Journal endorsed President Trump’s reelection over the weekend. "
+    publishedDateTime: 2020-10-06T19:15:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3hK_Bi2r5UQ/las-vegas-review-journal-endorses-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279850847067-1.jpg"
+        width: 4088
+        height: 2297
+        isCached: true
   - title: "Donald Trump: America's Vindictive and Delusional Leader"
     excerpt: "Although arrogant men have often occupied the Oval Office, the nation has never suffered a presidential ego quite so expansive as Donald Trump’s. In his mind, he is the state, his interests indistinguishable from those of the nation."
     publishedDateTime: 2020-10-04T18:12:00Z

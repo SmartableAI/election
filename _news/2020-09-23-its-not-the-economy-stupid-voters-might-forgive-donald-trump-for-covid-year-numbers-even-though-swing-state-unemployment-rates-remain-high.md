@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-econo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -29,56 +29,6 @@ images:
     width: 1199
     height: 674
     isCached: true
-
-related:
-  - title: "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges"
-    excerpt: "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race."
-    publishedDateTime: 2020-09-28T11:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rally_hpMain_20200926-182602_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "If Trump's symptoms started before Friday, he may have been highly infectious during the debate"
-    excerpt: "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden."
-    publishedDateTime: 2020-10-03T12:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
-    excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
-    publishedDateTime: 2020-10-01T01:09:00Z
-    webUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5f74e45074fe5b0018a8e596?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "FSU2Vq1t9eMxBsOYDEbfivTsCUmjhfKoUTDLH8jxUFCvCm48GrdrVVsajCVccGerawhLKcD8um+G+35bvBhz0oISVjrsGvmZU2Y5J/Q0f8ohwiIu3IyZEcszyUrg0SzVLCMxYgT6cvd2dMn0jth3YXBo75kDwF4XlZkSGRkn/812rrfJ9WUAYS/CYfV9XPUIR+UrPL+PUizJMfw1q7foHskhqVofUCnTA3pr5dSQf7N0cPTSQn0mz08N1y3sTnOyXYCaiLieSbgim1rmEe3m6C25a6WK4WUgtTDkGue5Ob0k108OpKqsAfAcyaYxb2eA734ePYgMjBb9HGG/OiaisHYi2BdB5i8G3mTgudxM4YM=;Vp53HPCG83skVX3yw089FQ=="
 ---

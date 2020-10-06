@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'"
+    excerpt: "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks."
+    publishedDateTime: 2020-10-06T05:00:00Z
+    webUrl: "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 99
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/06/michelle-obama-closing-argument_wide-53ba9b0b61da569863ffca9af3caba3915ebbbfe.png?s=1400"
+        width: 1400
+        height: 786
+        isCached: true
   - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
     excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
     publishedDateTime: 2020-10-05T15:32:00Z

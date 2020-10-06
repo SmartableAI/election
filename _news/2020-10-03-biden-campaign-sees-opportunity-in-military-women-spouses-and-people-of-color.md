@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-camp
 webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
 type: article
 quality: 81
-heat: 181
+heat: 141
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
-    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
-    publishedDateTime: 2020-10-01T16:10:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 70
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy | Charlotte Observer"
     excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
     publishedDateTime: 2020-10-01T17:04:00Z
@@ -87,15 +71,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Joe Biden Remarks in Gettysburg, PA"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, PA. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
-    publishedDateTime: 2020-10-06T15:17:00Z
-    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pa"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "t8Pqe9SdWBj9U+H53/cSc1k184o7Aq0W6+zPdbXJqxWvTDfJHvOC/qlhJfYgVEnzPsSZvV8qPLWjbvfLHYWbAHHzw/qhghcQbxDzFiYqcuuzfNpERtVzZdL47vSbxhH+6qzACRBEOtMiRP6T17KUFJF+ZEmYOoD4PKOc9nIRV6xsYXrY1QQt/ndZ76At0QNLSeS2zZ3V2S6IexDNR5QYYdeVyU6XhJg+c7yQpwPaRMLJcCamfO/73LfkMop2qGfoZ4pkserNgGSNv0mSR9mdOCl7vNvLq6G3fy5x1soNmOSkmcBvmxBcZp53ssvl6dJqRZSynsOdUzQ6s9kwzaF8bVRokS0RMqRRFH/Vozs+V0QCcvtDqX/DVYZZ43m/TP5S3XvzBVfG51IWHjknux4I9+lw7T50jvWeriQX2y5AvyFjpQslJG1US6UFLKbCqsQISr7MxEOUrnjvltsezEN30AOrysWg4+93x6wVfG0ibDQXc1oaAKF5ZKv/IaFz6c1/j3+fQWPDjwA2s8nN9Sx80Q==;yWCP/yWsIHweTlpZp+zrlg=="
 ---
