@@ -2,19 +2,19 @@
 category: news
 title: "VP debate will have plexiglass shield between Mike Pence, Kamala Harris"
 excerpt: "Harris campaign requested a plexiglass shield for Wednesday's debate, and the Commission on Presidential Debates agreed to it."
-publishedDateTime: 2020-10-05T21:48:00Z
-originalUrl: "https://6abc.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
-webUrl: "https://6abc.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
-ampWebUrl: "https://6abc.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
-cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
+publishedDateTime: 2020-10-06T03:33:00Z
+originalUrl: "https://abc7chicago.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
+webUrl: "https://abc7chicago.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
+ampWebUrl: "https://abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
+cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
 type: article
 quality: 100
 heat: -1
 published: false
 
 provider:
-  name: 6abc News
-  domain: 6abc.com
+  name: ABC 7 Chicago
+  domain: abc7chicago.com
 
 topics:
   - Election
@@ -885,6 +885,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106727246-1601640022005-gettyimages-1269532533-775473710_trump_rnc_3726_20200829121240278.jpeg?v=1601640058"
         width: 594
         height: 401
+        isCached: true
+  - title: "Can Kamala Harris be president? How about Mike Pence? That’s what’s at stake in VP debate"
+    excerpt: "With President Trump having been hospitalized after contracting COVID-19 and Democratic presidential nominee Joe Biden risking exposure to the virus by traveling far more than most Americans, Wednesday’s debate between the vice president and the Democratic nominee will be anything but an afterthought."
+    publishedDateTime: 2020-10-06T01:09:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Can-Kamala-Harris-be-president-How-about-Mike-15623377.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 121
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/42/40/20064307/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Kamala Harris should boost the ratings of this year’s vice presidential debate"
     excerpt: "If the vice presidential debate happens, TV networks will have to thank Kamala Harris for what will likely be an improvement in ratings from prior years."
@@ -2581,6 +2595,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "+T+tEsU9YAOByvZUb+wIjnkPc+3ULLJjwbcDQh8Q9B/DaCFm+Wjc8pjNVwvJUONI9sOnqxVInipA/AMpBCZXhq8u98omLD54RRk+DU5+tpSvPMtmd4zYAM4UNUxfI91i+ghBot1DZDH7xAarz+FbhJ2oIZU4/b7nU0TVi3Xq3YVJ/n1ojOs9Q9AIRwmaCiioldrZIWCCKYHKzhiW9JaEf1xPO6LUsi02v2iBpHLikKrL/qpW+0YxAmcfzzoD0T1CZ8+d1gBxPZDF+KBsIEd9iE2uayS2Qa2hhciUl9gy2sBifAvOBfe3jrfc9oTkupodGawDk1bfnxupxHmoYEW7/HhinSqIEKqpmXLvR0HIO+M=;0l9Ty8c+KOj9Xi5eh8K9YQ=="
+secured: "MTTTYtMdSst0O2k0u2lrlvwS2cvjGA3J4cJ9vRaqGKaTH3nIpbd0jkZhbei2yu/gfSzyHGVM1tWzKM8DgtYyCWcO3QcbhNu0VPYXp0wgt2KyizFrY1SkvF6DNnTIo38hQqzBueuO7/pMPHZfu9TqrJlR/IO44NQlsh8PUU0qCw98d67osjxphllFAbnlCNFSO5ZRTjPrvmXBDsmerkkcPlSuD117p4bvh5nsyhVbnzMDS0z6cNksCuNdJWIF0sOorvK78PBbi/wroIXYjnj69xA+mF4drUqf0M0X/xeZNGNuwUOp4e6Yv0PnTZDGHseUBSJwN4rC/EJAbqFx5P33QnAPtTTDh02i/5J7dldG7e8=;bXYAlKXJU+XhKU0CwwLVxw=="
 ---
 

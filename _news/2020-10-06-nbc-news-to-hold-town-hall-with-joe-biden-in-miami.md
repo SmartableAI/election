@@ -82,6 +82,22 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 81
+  - title: "Joe Biden opens 9-point lead over President Trump in Michigan, Detroit News/WDIV-TV poll finds"
+    excerpt: "Democratic presidential candidate Joe Biden's lead in Michigan over President Donald Trump now stands at 9 percentage points."
+    publishedDateTime: 2020-10-06T03:18:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/05/biden-leads-trump-9-points-michigan-detroit-news-wdiv-tv-poll/3627544001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3627544001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3627544001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 78
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PDTN/ec170626-d7fb-4b6b-9f06-9c9943acc2a2-debate_sbs.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Bankole: Joe Biden claims he is campaigning in Michigan, but can voters really tell?"
     excerpt: "When you drive around Detroit's most underserved areas to the most stabilized there are few Biden signs dotting those neighborhoods, Bankole writes."
     publishedDateTime: 2020-09-21T03:12:00Z

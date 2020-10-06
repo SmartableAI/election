@@ -1508,6 +1508,22 @@ related:
         width: 940
         height: 490
         isCached: true
+  - title: "Donald Trump Has Nothing Left to Say. He Could Still Win Anyway"
+    excerpt: "Where do the Saturday-night faithful go next? I’ve seen enough of Donald Trump to know he has never wanted to build a movement even though the conditions are ripe; he wants fans, ratings ..."
+    publishedDateTime: 2020-09-21T16:31:00Z
+    webUrl: "https://www.rollingstone.com/politics/politics-features/trump-rally-fayetteville-ginsburg-supreme-court-covid-2020-campaign-1064056/"
+    ampWebUrl: "https://www.rollingstone.com/politics/politics-features/trump-rally-fayetteville-ginsburg-supreme-court-covid-2020-campaign-1064056/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/politics/politics-features/trump-rally-fayetteville-ginsburg-supreme-court-covid-2020-campaign-1064056/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 75
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/09/GettyImages-1228603872c.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
   - title: "Trump hits battleground states courting key voters"
     excerpt: "President Donald Trump tried on Friday to chip away at his Democratic rival's support among Hispanic voters in Florida, who could determine the election outcome in this crucial battleground state. \"Joe Biden betrayed Hispanic Americans and I'm fighting for you,"
     publishedDateTime: 2020-09-25T16:54:00Z

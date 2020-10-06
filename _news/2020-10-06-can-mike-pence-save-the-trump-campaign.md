@@ -885,6 +885,20 @@ related:
         width: 594
         height: 401
         isCached: true
+  - title: "Can Kamala Harris be president? How about Mike Pence? That’s what’s at stake in VP debate"
+    excerpt: "With President Trump having been hospitalized after contracting COVID-19 and Democratic presidential nominee Joe Biden risking exposure to the virus by traveling far more than most Americans, Wednesday’s debate between the vice president and the Democratic nominee will be anything but an afterthought."
+    publishedDateTime: 2020-10-06T01:09:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Can-Kamala-Harris-be-president-How-about-Mike-15623377.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 121
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/42/40/20064307/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris should boost the ratings of this year’s vice presidential debate"
     excerpt: "If the vice presidential debate happens, TV networks will have to thank Kamala Harris for what will likely be an improvement in ratings from prior years."
     publishedDateTime: 2020-10-05T19:51:00Z
@@ -1391,14 +1405,14 @@ related:
         isCached: true
   - title: "VP debate will have plexiglass shield between Mike Pence, Kamala Harris"
     excerpt: "Harris campaign requested a plexiglass shield for Wednesday's debate, and the Commission on Presidential Debates agreed to it."
-    publishedDateTime: 2020-10-05T21:48:00Z
-    webUrl: "https://6abc.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
-    ampWebUrl: "https://6abc.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
+    publishedDateTime: 2020-10-06T03:33:00Z
+    webUrl: "https://abc7chicago.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
+    ampWebUrl: "https://abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
     quality: 100
     images:
       - url: "https://cdn.abcotvs.com/dip/images/6669222_093020-cc-getty-debate-stage-img.jpg"
@@ -2580,6 +2594,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "Co/pYLX33qXhjrXdoTpv06HBQ1jKyfuFkVLbn2lFSO93UxJAM1r9wGhs8WzdH9D27n2cVPy5v9i+CnOIH2XppvYOKDT+BTUwb9q6cbhyD4e2yHLPlayk0MdH9PcE4mnBDeVtLmj0S4IOlQYMCIngYCsP8FKbk22Y35X6CUQ1UO0RlW7bjk7VSAegsQhnuluNWh/my1pdK6jLDJBZfIH1Z0R/Ct3frLZ50kK9x7UBy5v1BLRCC2sUtwBXUvLlKBJrEAKy9fzW6IKwgtKdHShXXsg1AIu4BcXxFfs5X7oTmkQ/hJAnvrQN08CRvvw9Rq0uGmP/HyptsTvuhx1zPYWW8WaZeT/IAOgC355QpoNRQ/8=;pGJNhYL/5Chi5abYJRIlHw=="
+secured: "64Jo/gFVvEf3o6RRhueR+D1oZYb0upvU2lbL35sZMZ0KfSSZ/EuG7LeL1xtfl3Q+Su1fgqF1dc4r3MW02p0GBCgBX/l2F1jvYxAYlQq8uKGmxt0uPGBz1IoEFnVkbxf3cvjXWMujAhm0Xb6tFUKQHtTrfZMg8yiQNFQeEyo9SVfvQ/Dj9329pUMzs7IX5FXhk3ZETGjvWAOsz7STgJ2a0jjPcuOh0M+K4Lfhtv5zKWYJ99TQBB0LU019uTzfXsvQK/QTZo2C18XG9N9GtW9n001yrC4eedTrNvoGTPtI7Mt7oUWOz4s49tyKeP+LD/pvCz+euAZw224OPQH4r+ZYOYCtFqH+lYQfNWtP/kBcCIVYu1rRiBAG4sKe6zGsUETd4PK4awW5ED0U2DI/2wSlC0JOMGtNgDsA5CSZiLKfq9q0HZUj1sd8LQtZHqZkX6VMzFjJ3wYhoLqTvJ25/+ivcrHSUe6m07cyx5p3vQmf7+7skgWKisIaQ5qudUy6qR+iUPxIXUH/kiJ6BQDHAGEYKw==;kGchFj4gWqht5EEXzzmd/A=="
 ---
 

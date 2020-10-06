@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-denounce-white-supremacist
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
 type: article
 quality: 125
-heat: 885
+heat: 905
 published: true
 
 provider:
@@ -401,6 +401,17 @@ related:
     webUrl: "https://www.reuters.com/article/japan-stocks-midday-idUSL4N2GW0K8"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GW0K8"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GW0K8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Japanese shares edge higher as Trump returns to White House"
+    excerpt: "Japanese stocks inched up on Tuesday, as risk sentiment improved after U.S. President Donald Trump returned to the White House following treatment at the hospital for COVID-19, easing fears over political uncertainty."
+    publishedDateTime: 2020-10-06T02:32:00Z
+    webUrl: "https://www.reuters.com/article/japan-stocks-midday-idUSL4N2GX0I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX0I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX0I4"
     type: article
     provider:
       name: Reuters

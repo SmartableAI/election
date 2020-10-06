@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3565963001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565963001"
 type: article
 quality: 123
-heat: 123
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Scaramucci Hits Trump Over White House Return: ‘The American Mussolini Standing on the Balcony’"
+    excerpt: "Anthony Scaramucci likened President Donald Trump to Mussolini in reacting to his return from Walter Reed Medical Center."
+    publishedDateTime: 2020-10-06T03:29:00Z
+    webUrl: "https://www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/"
+    ampWebUrl: "https://www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 63
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/scaramucci.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QmoKV+vgM5VRxxNy4F2mLUcBqGBc9MrHYw/7iPyzmQhceTGM1on4+RFJTgJicZN4DRlvPnav0XbJgzahnZwWiL/eEFx+OZijC9gj4bWIKYqVHz4uEG747wec6bInTupS3mIZ59C430FpRVrqctDNarz0SZrOdFunY4KLH7DKdJjyC73Qiv1XDo7FWwOfhNTbVCWZSb7yYFQZAagLcNxpVKeHjUZm+PuRY3uAxFlLMqbHJ8Tkw9QhxBlOj4nu38FZbGOcDAoQkw4J5o1PNFzJQyKrAhTJ82eOdZIBe50hir2sv5KAfs65b2M/g35FO4ROStQyrIq8HITb8D//73bbuS9Are4GxO6bmvhzP/9uHm4=;71FoAETHvUESW6KQc3IrJA=="
 ---

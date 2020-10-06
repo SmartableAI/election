@@ -74,6 +74,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden takes shot at Trump over wearing masks with Twitter meme"
+    excerpt: ""
+    publishedDateTime: 2020-10-06T03:32:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dsSi5vcqFJc/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden up 14 points on Trump following chaotic debate, new poll indicates"
     excerpt: "A new poll shows Joe Biden with a 14 point lead nationally over President Trump, following the first presidential debate last week. "
     publishedDateTime: 2020-10-04T22:21:29Z

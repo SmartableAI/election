@@ -422,6 +422,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Japanese shares edge higher as Trump returns to White House"
+    excerpt: "Japanese stocks inched up on Tuesday, as risk sentiment improved after U.S. President Donald Trump returned to the White House following treatment at the hospital for COVID-19, easing fears over political uncertainty."
+    publishedDateTime: 2020-10-06T02:32:00Z
+    webUrl: "https://www.reuters.com/article/japan-stocks-midday-idUSL4N2GX0I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX0I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX0I4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Donald Trump sidesteps call to condemn white supremacists — and the Proud Boys were 'extremely excited' about it"
     excerpt: "Debate moderator Chris Wallace asked if Donald Trump would urge groups to stand down and avoid contributing to the violence. He sidestepped."
     publishedDateTime: 2020-09-30T12:09:00Z
