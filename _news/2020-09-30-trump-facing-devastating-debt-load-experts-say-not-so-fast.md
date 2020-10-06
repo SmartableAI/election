@@ -427,6 +427,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "JGBs fall as risk-averse mood eases after Trump returns to White House"
+    excerpt: "Japanese government bond prices dropped on Tuesday as investor risk aversion, triggered on news of U.S. President Donald Trump's COVID-19 infection, eased after he returned to the White House, assuaging fears over political uncertainty."
+    publishedDateTime: 2020-10-06T05:31:00Z
+    webUrl: "https://www.reuters.com/article/japan-bonds/jgbs-fall-as-risk-averse-mood-eases-after-trump-returns-to-white-house-idUSL4N2GX11Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX11Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX11Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump Tax Avoidance Scandal Exposes Poor Risk Management And Double Standards At Deutsche And Professional Banks"
     excerpt: "Trump may finally be the greatest at something, being the most leveraged president in U.S. history. Trump’s tax avoidance scandal showcases how banks apply credit standards differently to powerful borrowers."
     publishedDateTime: 2020-09-28T17:36:00Z

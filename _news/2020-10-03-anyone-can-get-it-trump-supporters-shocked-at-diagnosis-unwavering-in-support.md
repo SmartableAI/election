@@ -74,6 +74,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 102
+  - title: "Trump tweets that he's leaving the hospital and says 'don't be afraid of Covid,' a virus that's killed over 209,000 Americans"
+    excerpt: "The president was diagnosed with COVID-19 late last week and transferred to Walter Reed hospital as his conditioned worsened on Friday."
+    publishedDateTime: 2020-10-06T04:26:00Z
+    webUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7b6e7694fce90018f7b2de?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "xV57AvR6GS+F/34HX3ZW6uE6bWYgWnVH4XxbcUwT/bZirahw884pTRJjhD2/LbMLYFL1Kwd9ZsA+ZFY+xtCfdLlttJR9SetzOqhFEM2LzPeAwbu/deCffwuupKtiu/qY+Hrh6WKhNj0XfB8obnCYjpMtOTBXxq3XZ3YRZ/rbkuJW02XpxKTKaMcSeFULsjf3jTWiAY7u7XgulfSVDVtdSb+T0enTqEfr5KhSZsXLicWbRRdfkL95MQU5jO8KI1gQahF2+6thxgCng9yLoTZ8kjm6kL31Th/GClwXInkP+jVV7/ao3qdPhsC3neJN+Zw3hXqGRUKVrCHuqkcwxYk9uRGtuJ3JGjdeaCqcDoJgai4=;zIuGT27keYZwQjHoK5jI0Q=="
 ---

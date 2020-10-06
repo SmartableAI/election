@@ -973,6 +973,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "JUST IN: Trump White House Reportedly Blocks FDA’s More Rigorous Safety Guidelines That Could Extend Covid Vaccine Release Past Election Day"
+    excerpt: "Trump White House reportedly blocks FDA's more rigorous safety guidelines that could extend Covid-19 vaccine release past Election Day"
+    publishedDateTime: 2020-10-06T03:34:00Z
+    webUrl: "https://www.mediaite.com/news/just-in-trump-white-house-reportedly-blocks-fdas-more-rigorous-safety-guidelines-that-could-extend-covid-vaccine-release-past-election-day/"
+    ampWebUrl: "https://www.mediaite.com/news/just-in-trump-white-house-reportedly-blocks-fdas-more-rigorous-safety-guidelines-that-could-extend-covid-vaccine-release-past-election-day/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/just-in-trump-white-house-reportedly-blocks-fdas-more-rigorous-safety-guidelines-that-could-extend-covid-vaccine-release-past-election-day/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 55
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1227710766.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Raw Story‘Mission Accomplished’: Trump ridiculed for premature commemorative coin celebrating him taking out COVID-19"
     excerpt: "The coronavirus is still raging across the United States, particularly in the White House, but that doesn’t mean that President Donald Trump isn’t ready for a “Mission Accomplished” moment. Like George W."
     publishedDateTime: 2020-10-05T00:44:00Z

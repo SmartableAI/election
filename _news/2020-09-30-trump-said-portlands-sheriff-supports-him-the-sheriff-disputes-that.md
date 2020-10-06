@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-deni
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 102
+  - title: "Trump tweets that he's leaving the hospital and says 'don't be afraid of Covid,' a virus that's killed over 209,000 Americans"
+    excerpt: "The president was diagnosed with COVID-19 late last week and transferred to Walter Reed hospital as his conditioned worsened on Friday."
+    publishedDateTime: 2020-10-06T04:26:00Z
+    webUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7b6e7694fce90018f7b2de?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "76s3bcrnIQbxgb2ulB9Kfw8LzyS+PRu2r7SW7vg2q1xvYtBIVTWujAE+ehBYU+udYGPBREgKpWe8L30YODep8S0Hcl4iF3VEMo5JNmg2m+VaScTcb5prB7EY0eRTi7riCsj3j9qR8qXZv1Fict5ekPtk+vVGZwRcEF523wypzKku0m85xZ2FIkxIwB8TirHhylceHxYxbRFQidk8ImAn0omfQYZMfl00Zkoup6zKrKBE1jlGJAgIU9BaIcJrpvd1xlzjQ5oHOEp9+nYj3nuQO96WzD9SBxUqBo/ql7Qy02K3NEb0DtE4csaTm2dlFmuxSS7rsMTDM7MfIjKM4jgWUR1zAtjlFCEsQwC9WzgaaBM=;DRwJ8E29Q7WDJx4nIofdnQ=="
 ---

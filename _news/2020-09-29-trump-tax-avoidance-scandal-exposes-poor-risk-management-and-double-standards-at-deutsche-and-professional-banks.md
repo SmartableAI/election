@@ -433,6 +433,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "JGBs fall as risk-averse mood eases after Trump returns to White House"
+    excerpt: "Japanese government bond prices dropped on Tuesday as investor risk aversion, triggered on news of U.S. President Donald Trump's COVID-19 infection, eased after he returned to the White House, assuaging fears over political uncertainty."
+    publishedDateTime: 2020-10-06T05:31:00Z
+    webUrl: "https://www.reuters.com/article/japan-bonds/jgbs-fall-as-risk-averse-mood-eases-after-trump-returns-to-white-house-idUSL4N2GX11Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX11Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX11Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Donald Trump sidesteps call to condemn white supremacists — and the Proud Boys were 'extremely excited' about it"
     excerpt: "Debate moderator Chris Wallace asked if Donald Trump would urge groups to stand down and avoid contributing to the violence. He sidestepped."
     publishedDateTime: 2020-09-30T12:09:00Z

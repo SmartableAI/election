@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Don't politicize the virus, Pelosi tells Trump"
+title: "Don't Politicize the Virus, Pelosi Tells Trump"
 excerpt: "U.S. President Donald Trump has no basis for claiming success battling the country's coronavirus crisis, Speaker of the House of Representatives Nancy Pelosi said on Monday, saying his policies had endangered Americans."
-publishedDateTime: 2020-10-06T01:10:00Z
-originalUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-pelosi-idUKKBN26Q2VF"
-webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-pelosi-idUKKBN26Q2VF"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26Q2VF"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26Q2VF"
+publishedDateTime: 2020-10-06T05:17:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536279030&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941WC"
-    width: 819
-    height: 545
-    isCached: true
 
 related:
   - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
@@ -1871,6 +1865,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence's lack of quarantining concerns experts after Trump's coronavirus diagnosis"
+    excerpt: "Mike Pence on Saturday tested negative for COVID-19 after President Donald Trump and first lady Melania Trump said they tested positive for the virus."
+    publishedDateTime: 2020-10-06T05:47:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/2020/10/04/mike-pence-and-covid-why-isnt-vp-isolating-after-exposure-experts-ask/3597974001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/3597974001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3597974001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
     excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
     publishedDateTime: 2020-10-04T21:41:00Z
@@ -2598,6 +2608,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "A8BgYk/DtvIReWOJ4ADP0zBpj7RgLjD8616hAzV+VyjgvRX6akmfglcC/YJ9hSOMvrXMYO2RLJ3HfaSfqeaGuFzAOkwVcmIERQfLxdGai2xErmHtuXZUVeN6nQEDn6s4HNjXcI3J2CsheWXBXfbjcPTdssi1YX0iOvqiuR4FtB0iPwOJJ1j+CTuwr1ozi6XX+h7//kO6oBaho7BQhHubzQVcOAHrHPFS8Yf+ueRTk+uRPUOSxtSjyPib+vqw207APuYcaorZEtjZIBZQsfTjIPfAF6Kf6QYzJxBB+UK7XGj9gNwL9uUEE3JjNTQc6brz2os9gPQCvVVBuosjMpLzzwLtpWT/puCbH6jyFwbdCoI=;ki+NhmDy9J1eMZ/VaB/L5Q=="
+secured: "WjT2BUmjAe6cVnglCf/3iD/aoGYYLQFkNnrmQEcq3H1fLTuD7lPqJAq8LYDKCNH4dKaB3/9B2IoMGkxD+pPLb6PKLxON5IaMNmRyksyEi57dl4yxziJTradzhP1DAj/lYkH6bzB5/R6VwrmQvjCT2hAbuDTf353CaMY/DZXxTvyi2uqdXmRGS4vgeZM91gYJE7OmAE26heKmcTTN0oGyMn8AaPjnQFr0e9y2zlc4UL0XMPiTaoYgt2fcI+2ydxszH2Hr4p1TYX4DOPwIRU2760iEYDdOnP2tBrR9tQ81BYYrQ9bJUmpkwiAy5njdhQ4+wSUiL2Xx1I2kLgvZQqxBufvqAuoR/wcbNmdv6OLNIR1M/tzQwC8dve0mI+Y+tMnYdHxqzznoBuMosnXRZqGsYTliB+WzfThoH1JP4fbw/UuE5tIFwi50uhscz549pQcs096LzBZu2ET5e922ED/7dCF0U1LXhiocwsKh/HmS0JAnZA1KVDBzqwuAhnw/sLIpv3Z+LwbpPfEww6pSRZFS1g==;5oe0WreymxgbOFUjLhccdw=="
 ---
 

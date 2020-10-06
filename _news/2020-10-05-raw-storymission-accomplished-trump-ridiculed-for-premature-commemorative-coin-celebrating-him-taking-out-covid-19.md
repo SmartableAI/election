@@ -977,6 +977,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "JUST IN: Trump White House Reportedly Blocks FDA’s More Rigorous Safety Guidelines That Could Extend Covid Vaccine Release Past Election Day"
+    excerpt: "Trump White House reportedly blocks FDA's more rigorous safety guidelines that could extend Covid-19 vaccine release past Election Day"
+    publishedDateTime: 2020-10-06T03:34:00Z
+    webUrl: "https://www.mediaite.com/news/just-in-trump-white-house-reportedly-blocks-fdas-more-rigorous-safety-guidelines-that-could-extend-covid-vaccine-release-past-election-day/"
+    ampWebUrl: "https://www.mediaite.com/news/just-in-trump-white-house-reportedly-blocks-fdas-more-rigorous-safety-guidelines-that-could-extend-covid-vaccine-release-past-election-day/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/just-in-trump-white-house-reportedly-blocks-fdas-more-rigorous-safety-guidelines-that-could-extend-covid-vaccine-release-past-election-day/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 55
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1227710766.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Days After Trump Diagnosed With Covid, White House Staff Finally Given Instructions: ‘Do Not Come To Work’ If You Have Symptoms"
     excerpt: "Days after the news broke that President Donald Trump had Covid-19, the White House Management Office finally sent out a message to the staff with instructions."
     publishedDateTime: 2020-10-05T02:05:00Z

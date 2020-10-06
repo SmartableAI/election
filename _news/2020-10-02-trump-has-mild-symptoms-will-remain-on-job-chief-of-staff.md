@@ -95,6 +95,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Asian shares gain on stimulus hopes, Trump leaving hospital"
+    excerpt: "Shares are higher in Asia after hopes for economic aid from Washington helped Wall Street recover its losses from the initial shock of learning President Donald Trump had tested positive for the coron"
+    publishedDateTime: 2020-10-06T03:48:00Z
+    webUrl: "https://www.washingtonpost.com/business/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital/2020/10/05/8c4774f2-0785-11eb-8719-0df159d14794_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital/2020/10/05/8c4774f2-0785-11eb-8719-0df159d14794_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital/2020/10/05/8c4774f2-0785-11eb-8719-0df159d14794_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
     excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
     publishedDateTime: 2020-09-29T03:37:00Z

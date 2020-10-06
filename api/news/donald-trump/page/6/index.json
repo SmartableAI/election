@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-15-roger-stone-calls-for-trump-to-declare-martial-law-if-he-loses-the-election-and-order-arrests-of-mark-zuckerberg-tim-cook-and-the-clintons.md",
+      "title": "Roger Stone calls for Trump to declare 'martial law' if he loses the election — and order arrests of Mark Zuckerberg, Tim Cook, and the Clintons",
+      "excerpt": "\"They want to play war — this is war,\" Stone remarked as he stirred baseless fears of electoral fraud and urged President Donald Trump to seize power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "originalUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5ddb3c7ed0ee001e25effb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stone-calls-for-trump-to-declare-martial-law-election-loss-2020-9",
+      "publishedDateTime": "2020-09-14T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-michael-cohen-trumps-former-attorney-calls-him-absolutely-morally-bankrupt.md",
       "title": "Michael Cohen, Trump's former attorney, calls him 'absolutely morally bankrupt'",
       "excerpt": "Trump's former personal attorney, Michael Cohen, said his new book will give Americans a look at the \"real\" Donald Trump. “I am explaining to people that this is the real Donald Trump,” Cohen, speaking from home confinement,",

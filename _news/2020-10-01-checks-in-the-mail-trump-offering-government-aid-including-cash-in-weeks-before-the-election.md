@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
 type: article
 quality: 127
-heat: 987
+heat: 1027
 published: true
 
 provider:
@@ -334,6 +334,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/05/aea0448e-df51-46f3-b69a-6aa025fa4a68/thumbnail/1200x630/011c5de4ff8a7c2fa9044cf8a1464c72/2020-10-03t232508z-1757869472-rc2bbj9tpe38-rtrmadp-3-health-coronavirus-trump.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump faces backlash for removing mask on return to White House"
+    excerpt: "U.S. President Donald Trump faced a fresh backlash on Tuesday for removing his mask when he returned to the White House and urging Americans not to fear the COVID-19 disease that has killed more than 209,"
+    publishedDateTime: 2020-10-06T04:52:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSL1N2GX02O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R0H2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R0H2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536316096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95089"
+        width: 819
+        height: 545
         isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
@@ -709,6 +725,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Lawyers: Trump Can't Use Job as a Shield in Defamation Suit"
+    excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can't hurl insults at her and then replace himself with the government as the defendant in a defamation lawsuit."
+    publishedDateTime: 2020-10-06T02:14:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-05/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "i0InBCztxES/ggBtoslKFpwQntyOkoMjTfe/RXzve4XmsthrI9W/8A1Ac58SF4/HV0wieCKwsTBMQPlZ327MQNP//0Ss2a6xYo29VyLdCZRxHngTL5ipYO/bZh0HYFrqIUB1m905otmqBtM3TP1wJcyPYdsGJ3Z4uZeLyxOh3QquLFjagvyUC5FecvqNGfqZkQWJTWKWrKi0hSXXKlOjWmCy8D3WRqDuKCFhN6lr/K1JdeqOztO8qiGvVydZOiJEmVYFDZskynTK77+wwyzSfiQAU1IG3A1XQdaynVc2Jf7J0v0pKGjz5Vyp5i//dP0OTOf9bSWTTs732ByQipHR+OblC4+mt8k5K+ZKyiJOtbA=;ytyq1Loxv8z/pGnHjND1cg=="
 ---

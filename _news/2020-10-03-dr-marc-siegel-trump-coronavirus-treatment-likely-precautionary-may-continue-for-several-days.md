@@ -445,6 +445,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump back at White House after coronavirus diagnosis"
+    excerpt: "President Trump was discharged from Walter Reed National Military Medical Center and returned to the White House on Monday, although officials said he is not fully “out of the woods.\""
+    publishedDateTime: 2020-10-06T04:41:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U4iyG1oJ2Dw/live-updates-trump-back-at-white-house-after-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-back-at-white-house-after-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-back-at-white-house-after-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/13da4ded-2c33-40e9-b2bf-213921ab44cb/fc419798-991d-4009-99d2-8f488550e044/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "After Trump COVID diagnosis, Pentagon says alert levels remain unchanged"
     excerpt: "The U.S. military's command and control structure is 'in no way' affected by the news, DoD says."
     publishedDateTime: 2020-10-02T20:26:16Z

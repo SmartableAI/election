@@ -762,22 +762,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Don't politicize the virus, Pelosi tells Trump"
-    excerpt: "U.S. President Donald Trump has no basis for claiming success battling the country's coronavirus crisis, Speaker of the House of Representatives Nancy Pelosi said on Monday, saying his policies had endangered Americans."
-    publishedDateTime: 2020-10-06T01:10:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-pelosi-idUKKBN26Q2VF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26Q2VF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26Q2VF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536279030&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941WC"
-        width: 819
-        height: 545
-        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -1872,6 +1856,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence's lack of quarantining concerns experts after Trump's coronavirus diagnosis"
+    excerpt: "Mike Pence on Saturday tested negative for COVID-19 after President Donald Trump and first lady Melania Trump said they tested positive for the virus."
+    publishedDateTime: 2020-10-06T05:47:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/2020/10/04/mike-pence-and-covid-why-isnt-vp-isolating-after-exposure-experts-ask/3597974001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/3597974001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3597974001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
     excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
     publishedDateTime: 2020-10-04T21:41:00Z
@@ -2428,6 +2428,17 @@ related:
     webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus"
     ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Don't Politicize the Virus, Pelosi Tells Trump"
+    excerpt: "U.S. President Donald Trump has no basis for claiming success battling the country's coronavirus crisis, Speaker of the House of Representatives Nancy Pelosi said on Monday, saying his policies had endangered Americans."
+    publishedDateTime: 2020-10-06T05:17:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

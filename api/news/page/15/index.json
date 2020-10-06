@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-19-trump-supporter-shouts-ginsburg-is-dead-at-a-minnesota-rally-to-clue-in-the-president-about-passing-of-supreme-court-justice.md",
+      "title": "Trump supporter shouts 'Ginsburg is dead' at a Minnesota rally to clue in the president about passing of Supreme Court justice",
+      "excerpt": "\"The next president will get one, two, three or four Supreme Court justices,\" Trump said at a Minnesota rally, seemingly unaware of Ginsburg's death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "originalUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f655dd157b7da001ee129c9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-supporter-shouts-ginsburg-is-dead-minnesota-rally-2020-9?amp",
+      "publishedDateTime": "2020-09-18T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-who-is-amy-coney-barrett-the-judge-trump-has-considered-for-a-supreme-court-seat.md",
       "title": "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat",
       "excerpt": "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates.",
@@ -1270,57 +1321,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something.md",
-      "title": "Sunrise Movement co-founder: \"Joe Biden's plan isn't everything, but it's something\"",
-      "excerpt": "Sunrise Movement co-founder and executive director Varshini Prakash says a \"just transition\" is necessary for a green economy and says policy reform can only be accomplished with workers of traditional industries at the table.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/",
-      "originalUrl": "https://www.cbsnews.com/video/sunrise-movement-co-founder-joe-bidens-plan-isnt-everything-but-its-something/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/18/50d3d906-cfb8-4776-b80d-263a87406896/thumbnail/1200x630/0dda9d16d889afcfe920ebde112ccb50/0917-cbsn-climate-gdj-549100-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-17T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-29-trump-administration-warns-iraq-it-plans-to-shut-us-embassy-in-baghdad-after-rocket-attacks.md",
+      "title": "Trump administration warns Iraq it plans to shut U.S. Embassy in Baghdad after rocket attacks",
+      "excerpt": "In an interview with NBC News, a top U.S. general recently praised the work of Iraqi security forces protecting American interests in Iraq.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
+      "originalUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3415403/200928-embassy-iraq-mc-913_e987c429836f08e91000280c86a42f76.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241226",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241226",
+      "publishedDateTime": "2020-09-29T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-trump-backed-canadian-railway-to-alaska-could-free-landlocked-oil-faces-high-hurdles.md",
       "title": "Trump-backed Canadian railway to Alaska could free landlocked oil, faces high hurdles",
       "excerpt": "A private-sector proposal endorsed by U.S. President Donald Trump to build a railway from Canada's oil sands to ports in Alaska would free landlocked crude but faces numerous steep challenges.",
@@ -1484,62 +1540,6 @@
       "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
       "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
       "publishedDateTime": "2020-09-24T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-telemundo-anchor-refutes-misleading-video-posted-by-eric-trump.md",
-      "title": "Telemundo anchor refutes misleading video posted by Eric Trump",
-      "excerpt": "Privacy Policy “In one moment the monitor went to black,” Diaz-Balart recounted, and Biden said, “‘I lost the lady.’” | Noam Galai/ Telemundo anchor José Díaz-Balart on Wednesday refuted an allegation by one of President Donald Trump’s sons that Democratic presidential nominee Joe Biden relied on a teleprompter in a recent interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "originalUrl": "https://www.politico.com/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/09/56/eaf6f5d7478891770c7351d075f7/20200923-jose-diaz-balart-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/telemundo-anchor-video-eric-trump-420552",
-      "publishedDateTime": "2020-09-23T19:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Politico",

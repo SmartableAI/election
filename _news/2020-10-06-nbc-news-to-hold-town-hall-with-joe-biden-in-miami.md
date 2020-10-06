@@ -3,10 +3,10 @@ category: news
 title: "NBC News to Hold Town Hall With Joe Biden in Miami"
 excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
 publishedDateTime: 2020-10-05T20:50:00Z
-originalUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+originalUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+webUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+ampWebUrl: "https://www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
 type: article
 quality: 75
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://media.nbcnewyork.com/2020/10/AP_20279708089124.jpg?crop=0px%2C168px%2C5364px%2C3017px&resize=1200%2C675"
+  - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -166,6 +166,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Ld9dfs/bo1uVxP6tB+PN4gzKtmbB4SBGjf5kV5TOaRnSkClUG9YAa195ikMHAeQZE65m/9h6HVDLShrP31N0pf+9ki1kXOIcW7JQVmCZmdTJPykuff5iY7qdmCS7WV/iQju9tsz7KSQ6f52TiKdm+ZCF0DeJKPOF5tZ24tfUa7dvAwKPfk6DGQkZk5IKvqzSfjNUsRIdmGeS91EFCPGVE+gPmn4SzfYBe7E1tPk2CDsnz73sW/OKpGlSBkhVxk5ZP1itij6fcg5a/YunDAOnn+dgoAjsFHPoV07SRMTNqX321yne5hJWjPPPrXeTUuG/TbG+RvjMVfwmu+o4qh4dQhXBcq1vdHt9bYaPeYrGZGoWgkAi6y+ekFcF0ZZchKeT9oLcRW1/LLaXJ1vc6yxj7e2LP6DJ3O3SgHWYxpOEe7ftPEv63nFq/P8jmjPdEm7HsLlh8AsCPHzCPsIba6Y5EnSxZmHoPlXiyzCEjQgcR+/jHBQWaG5mWuVuUBvJB/hUfJsxSxLcyp4CgDdqZ1lCjQ==;4mUjEsDOfI+68qcVxxXt5A=="
+secured: "MAbVakFiNLKt3l/H07szVPLKjWkCG2OHJEXsPlL1jNMkzD5B968Nspp9X70byw9t7ZSM2KaT9sy48nozgeY316igP1lAn9UmKKYMCWukRwYCEQ6pHK336BvFL5tGuP1ZaCFJlT1oMcTnnBVeOL6a+kyWwAhswqo45j7Q6x7IgkNq/5Vn1DRtwtg3IvZtVZcsmcJVrB7mXLms2g4wRKHvRAJTv2XIhm5hwJP9cWkeQoKJ2fz9DcKAAmpSkHT7fUc2715Cu5bfn1t9UeDxC7TS24GcXMGQ6LGjAodwTHciCZ++apjyw+NjSf8wiUzh0MndZCIo2gdUj1+Q3iXScKx4JaWs/ndJYOwIMe/l3AREBf0=;2a3JpRMZhB5TQoS3E0K0Aw=="
 ---
 

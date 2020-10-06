@@ -961,6 +961,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "JUST IN: Trump White House Reportedly Blocks FDA’s More Rigorous Safety Guidelines That Could Extend Covid Vaccine Release Past Election Day"
+    excerpt: "Trump White House reportedly blocks FDA's more rigorous safety guidelines that could extend Covid-19 vaccine release past Election Day"
+    publishedDateTime: 2020-10-06T03:34:00Z
+    webUrl: "https://www.mediaite.com/news/just-in-trump-white-house-reportedly-blocks-fdas-more-rigorous-safety-guidelines-that-could-extend-covid-vaccine-release-past-election-day/"
+    ampWebUrl: "https://www.mediaite.com/news/just-in-trump-white-house-reportedly-blocks-fdas-more-rigorous-safety-guidelines-that-could-extend-covid-vaccine-release-past-election-day/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/just-in-trump-white-house-reportedly-blocks-fdas-more-rigorous-safety-guidelines-that-could-extend-covid-vaccine-release-past-election-day/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 55
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1227710766.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Raw Story‘Mission Accomplished’: Trump ridiculed for premature commemorative coin celebrating him taking out COVID-19"
     excerpt: "The coronavirus is still raging across the United States, particularly in the White House, but that doesn’t mean that President Donald Trump isn’t ready for a “Mission Accomplished” moment. Like George W."
     publishedDateTime: 2020-10-05T00:44:00Z
@@ -994,6 +1010,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/EhYLzrFRTZL7ujiKMfZ5zMF8g86j0V1X5MVnvij8S/SR0ytvD3rpy5zY8cm3ijoEOjN0ndpPAI5UBlolYjVQhdAMPsTy6z/6OtJeUiCfbrxcc/xMG07Y5VcBCVQ/oL2Bqx+gP3hQSZYjHwiKDdG7Ue5g0moNOUYANTvU5K4ZmIBHVmEOwozi0dj96bMi1eTBMv4O3a5v9kiz5/O2aY3BXi976JaG52edk3dxkURwUCTpCvvd1OeIU81Dl5jIYgqOvm/Bj1Cj1ySMu2VtOFFJ9Ko4OFOnJubaIh2o8OuGfASH1ECxw6Bm+B/5jrB9q7wY1TjxljPA8wIzaIF0TFgu81Az3rJvq5jLciXsPQtc3c=;XDl2m2CFLQ2I/xTgVGkzJg=="
+secured: "3eIHU+xAoaG1zC4njor0Xrgor6NGB0yx5T5l7EL2YW3I9rOTaZQmJYyKTrM4YnGAr8zZXiRu46ZljRKmsY6fVuO+SxeypXp+GTsDVLzYoLHfLJK+NznCkRm3IeFNuIiB7+wsF8jfl+oPqy7yZkHIwnu8xSE8+YkfXUmD8DaY8Q8C6httvt0UfJG/1QuFbitxgzhCrO/QkdwZJ9CeSJWqVO8vXVOpuUc3FKpeU4/mrmBNyia8bYiWzimCYH28J+JyFY0bMvkVAXiodipUEsNRGU0/VK5vMh2xxDVhAkFWj+y3ooVsEFw+875AD0ILjnYjbFaLJUCxObHATnfvAq9DiX668FYluZe1aclWCVvT5neqpU6tT7L87D7/j9t/0BxnGZOJrB1X+bq05ajPq3Y3P7d1fqv2yRAeN4nvJxHqnormAGJTyBN10xXO2oVY+InHbhKbqpY6vefEvSgESeiUr20LCaN/w82iBCi/oA/DVy9gNryVweEfSGK2vXnuB0QcoSipZymZ3t0Zmuw1T9jsFA==;Svhum6EFkwozbI6C1eAJrQ=="
 ---
 

@@ -335,6 +335,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump faces backlash for removing mask on return to White House"
+    excerpt: "U.S. President Donald Trump faced a fresh backlash on Tuesday for removing his mask when he returned to the White House and urging Americans not to fear the COVID-19 disease that has killed more than 209,"
+    publishedDateTime: 2020-10-06T04:52:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSL1N2GX02O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R0H2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R0H2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536316096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95089"
+        width: 819
+        height: 545
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z
@@ -709,6 +725,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Lawyers: Trump Can't Use Job as a Shield in Defamation Suit"
+    excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can't hurl insults at her and then replace himself with the government as the defendant in a defamation lawsuit."
+    publishedDateTime: 2020-10-06T02:14:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-05/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "hilkuGK4V4+cHVM5Kvzeaj6qY1InQ8BmmZYZD6E8wnj/AG+Y8KSsNGnduar2UUq/5Wi2/qBi/Vh7zSrzNlkH7LQdxFumf/jhfHMO5kUdztg1PjZQJAGWX3GvTUUNA5wTFOW41rrmdA/gQtqbVSL5tsU36YX6RPyOBVrXzy+wLDPBMnIY7WZ8u0JbupOfaYfSYlYZHKzBd+rDxKGWemUHkETNWGHvcJUHVwYdPH7Iz23/z+66Z/e3ebe4NKt1UxreZ/uGyPQn8YEpj2Ticn4WnR1yjA34SvJYP4/i8qmBiLoIPoP7b8A3QXx9+W543tqKJ05b5wYzS4Xa+WMtKHtXvuTj16+42StyWTi5SfXLJ3Smjb402GGEp1UYBlQkoZv698ldjP/wGIWit3Rpme0+lFZPcxiJdn2XuBwHMHWRf3N6VhpX5DAy88mHZx69MEvHF2hBWWE2aqGBJzy+zj5tYXmGrZZ6KuKiwM1lZJ9NoG837s2cmm6txTOfQOc18xnOw8rTj/bz7mA31JcE/L4wiw==;f6BIHUYkwWM0eBfsFTqk9g=="
 ---

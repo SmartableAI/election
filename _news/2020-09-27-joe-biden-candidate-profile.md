@@ -2099,6 +2099,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bernie Sanders stumps for Joe Biden at small Ann Arbor rally"
+    excerpt: "In the first of two Michigan appearances on Monday, Sen. Bernie Sanders campaigned for Joe Biden in the Democratic stronghold of Ann Arbor. Sanders addressed a crowd of 25 people, as well as 50 to 60 standing outside a barrier to promote social distancing,"
+    publishedDateTime: 2020-10-06T02:47:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/bernie-sanders-stumps-for-joe-biden-at-small-ann-arbor-rally.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/bernie-sanders-stumps-for-joe-biden-at-small-ann-arbor-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/bernie-sanders-stumps-for-joe-biden-at-small-ann-arbor-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/AA24O3EUFNDIZGF3WTYPSKUDWE.jpg"
+        width: 2048
+        height: 1361
+        isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious match-up in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
     publishedDateTime: 2020-09-28T17:22:00Z
