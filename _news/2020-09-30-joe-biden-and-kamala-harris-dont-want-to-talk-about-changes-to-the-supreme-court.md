@@ -64,6 +64,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris' goal in vice presidential debate: Focus on Trump, not Pence"
+    excerpt: "Kamala Harris and Mike Pence will be the two candidates on the debate stage in Utah on Wednesday night, but the California senator's goal is to make the contest all about the man who isn't there: President Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-06T17:56:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Pq92NE2HCg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 205
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827160803-kamala-harris-speech-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Progressive activists are wary over criminal justice under a Biden-Harris administration"
     excerpt: "They spent the summer on the frontlines of a historic protest movement against police violence. But many young criminal justice activists leading the charge for police reform won't be enthusiastically casting their ballots for the Democratic presidential ticket in November.\n    \n"
     publishedDateTime: 2020-09-26T13:15:45Z

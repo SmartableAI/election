@@ -241,6 +241,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T16:33:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "siffix4ZtCRYnT6C6bpEeE0zAMDn+OWcU2eJ/cbjc46eItyV1SFpbVViuzQsSiTlproLmlXuMQpRXD1c9/baPffVXaSX+xFkxAYQnRQ2qg2R5aKxSqyA0pZo/cXM8kAxglkyaOB/qrksSK8W80he4xvst8+x7K3J/7bSDSNJmahAiPuKpOoEHiOqe6fDXyZab8oUIBknmHFCJ9NgS6+MtK8cLra5RALSPNhwPTKgnjESYwmZ4qVXZfkw766Wj/W04K2hBSnY5jMxHJBTOQg79jea9/8BmcZrLduwQ609HvoNyRtyvlnL7RqXj55q+wRmbwkNs3WzezMYlAo6B7pZ4JtxZGDd0BJRC78O+vOB3V88C4+Ssc4InE2OzEq6WByr5z90HlprUYEbgNgL1hgpjZKvbXxTRJFz+cDVK2N2ZyRDJXvs5mSzKkr/LoV77EEeSkes8xAF7ioaztqv+AguLFfuO9VfJVnnKDf7qt5hqAn9sy5uT0S+wjXtatTxgmNEPvUlXEyBoufHh60+MdxRQw==;Sx/b3Qp5WrHHNrLgqI/lcg=="
 ---

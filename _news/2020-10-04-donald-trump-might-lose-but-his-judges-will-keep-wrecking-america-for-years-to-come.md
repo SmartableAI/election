@@ -24,33 +24,19 @@ topics:
   - Democratic Voice
 
 related:
-  - title: "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but unswayed by debate"
-    excerpt: "After watching the first presidential debate Tuesday night, undecided voters from battleground states across the country still had plenty they wanted to know about coronavirus, racial injustice and what each candidate would do to unite the country."
-    publishedDateTime: 2020-09-30T07:28:00Z
-    webUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545"
+  - title: "Coming full circle, Trump returns to false, misguided 'flu' rhetoric"
+    excerpt: "Nearly seven months after his misguided \"think about that!\" tweet, comparing COVID-19 to the flue, the Republican has apparently come full circle."
+    publishedDateTime: 2020-10-06T17:04:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 110
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
     images:
-      - url: "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but are unswayed by debate"
-    excerpt: "You just saw 90 minutes. How can you still be undecided?” veteran GOP pollster Frank Luntz told a virtual focus group."
-    publishedDateTime: 2020-10-01T17:17:00Z
-    webUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 108
-    images:
-      - url: "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_40/3417238/201003-donald-trump-cs-944a_65547e5ac6566da3ad7106431d825dca.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "PxFHnX7GG+81lrPPFZdoHWVUAJmjqsG9+g38CKKQHjnTP/VkoMita66Q2GAeqOoej1urS4aIugXojsLO92Ni597PLOOrKf3caG25RxvUN84iVaO7YpiNH1/YTpCctK7mg10jqsGGU6XvFrAmkO55DgxbFJGOtU4TMHa6/mbGSOQdLnJog7u9CU3a95p4J91XSGzhTlO7C1Qf4EEb24FEBSdHVT+8gjBMY0C0O48hRd/IsHcSey6Q2xFqNj3oVvmcjYjI2wurX+SFOUGKn8+C1G8SMZSzTwhlL9Mzk8vli4sUuJ90RLL4zvLVVD2cinYzRWExxzGoagMLlYapUkpW4T0WeQoTBo1PGHgnst4YgZll9IxFeSRH7fo8kFgyeAYJIU+er+GarVslHQVwuP7KjK+GLytDMZpvPK/o4b3jza1hz1YAxVPCXU4B+gfljSkGbh1Ffu4T2cg5zGF0EYRwIUp2Mxx8h95SL0C62gE87XBI3k00WG6VMxw9fB/5V600gY6TuVKJJiTeKFL1JH8IlA==;AcWGj0ViNzbFJT8OADdkxA=="

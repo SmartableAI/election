@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/"
 type: article
 quality: 125
-heat: 1505
+heat: 1545
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://s.abcnews.com/images/Politics/Trump-Coronavirus-Twitter-_hpMain_20201004-043059_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Facebook pulls Trump post comparing COVID-19 to flu; Twitter adds warning"
+    excerpt: "Facebook removed a post by President Trump comparing the coronavirus to the seasonal flu, while Twitter added a warning about \"misleading\" info."
+    publishedDateTime: 2020-10-06T16:46:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/10/06/trump-post-covid-19-draws-removal-facebook-gets-twitter-warning/3637613001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3637613001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3637613001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 124
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Americans have 'conflicting' feelings about President Trump's COVID diagnosis"
+    excerpt: "The spectrum of reactions in the days since Trump's COVID diagnosis reflect the complexity of America's political and moral moment."
+    publishedDateTime: 2020-10-06T17:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/06/trump-sick-covid-has-americans-confused-coronavirus-message/3623255001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3623255001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3623255001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e1f72c85-22fd-499c-a73c-5d32179a2f35-GTY_1278691059.jpg?auto=webp&crop=6306,3547,x0,y172&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "For some high-dollar Trump donors, Bedminster hobnobbing now means COVID tests"
     excerpt: "Several supporters of President Donald Trump who just days before had been toasting him at a fundraiser at his Bedminster, New Jersey, golf club said they are now quarantining themselves and going for coronavirus tests."

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump offers no sign of lessons learned as he mulls a national address"
+    excerpt: "Awaking at home Tuesday after a weekend spent in hospital, President Donald Trump offered no indication his serious bout with coronavirus had changed his perceptions of a disease that has killed more than 210,000 Americans.\n    \n"
+    publishedDateTime: 2020-10-06T16:21:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vf2LB2-tPWs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "G+Z2G4YaZf0zujR2CFIA2C/81YTtLSmbnBOTw+uJRcUUg49dCDB1Rm08fzccM2xYyTdCEyklOabXiPmJ6ikcDjtI2eSi62sCFbdRBTJzsDnECRbeynVQCbJ2TTOj/0Ld6c9iDnap/kNTq8TVwhPEsmfw1pZQ59j6iOzndTDyXJGuvjWCSrUKyCDIkVU6hi/QZt07pR1leEFiBfhZzusjSeswsWBKKzUDERH6e45YsDhr/ZrXStttAShMezbyxnm7ITPFUN4g4P93UieKIssXlM022I8R65ULiwMcGXN6tF874oCNQJ00aXrxOY7GYe3Zvxy7BMU6igcbCyW8VAvmdIS3vii0IiSjTc/Xo1Zcwn422KiYh6VlwGJdIC+nC7cXRHrLY0ce/heSmuD/vp8Wfe5Sp9yomKepBeFXTMPeHh+Tul1LgTlBw2N45CoU168JBKmUHSG0MadXVvR4/VfO32ZLNa33LqncEQ4AFKHN1of1yFUoD3jluKOicns8qq6Mlx3/EuxieaeFZD3XHa2q6A==;85e2GBcez3RXvpVlDadmbQ=="
 ---

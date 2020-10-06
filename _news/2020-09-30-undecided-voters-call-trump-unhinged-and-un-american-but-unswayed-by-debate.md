@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-bi
 webUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545"
 type: article
 quality: 110
-heat: 150
+heat: 130
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
-    excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
-    publishedDateTime: 2020-10-04T09:02:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trump-might-lose-but-his-judges-will-keep-wrecking-america-for-years-to-come"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 38
 
 secured: "XDgnDLof+FIp96SQUVrtxSaez2nRy8Ja1vkT0K47PHCUBRy7VoiWzoTmfUGqjpN7A0zNztue7kS9VYsPmXEisQnHxA/kDn7uzJDvujpzYtSR76XHr22ZYt5JqcHAK9ksjdtA8vq1uImRMdXP4hgU0APIadEZi+UvgcaXn9Vg9XLzfxbncOMamyfw7cIeGtDP6jbyMfJRZTLyu0QHJbdt39+7Q8uL+oMNcNJVHyiepP7rlmlevrX/0a4RJTdYCTIYnMxHI54cICRshnCSSw9DMDxjzg07YpOzl4kh+ywsyAiQ+5zTAphL/3mFW1Ti6DX99T+hZUL604K5+3GMYJfghlvSdA3kEvKMEBpJQPeWfCY=;4+Xd0ZCSwo50i4cfhwPAvw=="
 ---

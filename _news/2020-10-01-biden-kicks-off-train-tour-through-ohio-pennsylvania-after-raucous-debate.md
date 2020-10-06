@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-perform
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
 type: article
 quality: 133
-heat: 433
+heat: 453
 published: true
 
 provider:
@@ -242,6 +242,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden speaks about his plans for the economy at a campaign stop in Greensburg, Pennsylvania, as part of his day-long “Build Back Better Express Tour” through Ohio and the Keystone State."
     publishedDateTime: 2020-09-30T23:14:00Z
     webUrl: "https://www.c-span.org/video/?476408-1/joe-biden-takes-economic-message-greensburg-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Remarks in Gettysburg, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, Pennsylvania. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
+    publishedDateTime: 2020-10-06T16:33:00Z
+    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pennsylvania"
     type: article
     provider:
       name: C-SPAN

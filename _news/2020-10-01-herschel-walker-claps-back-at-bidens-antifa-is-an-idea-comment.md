@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/herschel-walker-claps-back-at-biden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
-    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
-    publishedDateTime: 2020-10-04T23:47:00Z
-    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-240436/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "F8ScWu1f4ilODpsukTM9hjx/AHPQhuI7/Rjt2/QL0N/O4a+yeyAjNqQg5hr6IAl+DdyrAcrn9Ruqe9zel80lbMlrR+iYetnhfAyVWUBCpHkhNo9ra/35Pv5VjorSMCUVlLGgwQoE4ILxa30guMJSXvdKaFH1NaeXxWhAkdTE6sxe/cFPetWxM1Us6ExtHkIRpVE6sGkws77A1ee2qQF2J1rYMqsuTfAOA3gC+cALY/hSnp6OjHmqTuskufiTWJ9FiuB+ThG7pGrhyxiF20P0QmLE1cLdgRxSOJKmI0HMiEwbx/CHDdxaCfy4vAJS5SsslHHu0EKBCUdlioRHu7wptqkIFX10hSnOvQp7qBklqbA=;DeTwP25LAK54692sYSNwLg=="

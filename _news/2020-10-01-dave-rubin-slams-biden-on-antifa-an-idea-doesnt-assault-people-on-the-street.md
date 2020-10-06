@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
-    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
-    publishedDateTime: 2020-10-04T23:47:00Z
-    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-240436/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "5kL/J91nWuhTTJvIoF75/Q7KgGlLrHyxvd2ELjkqULqJryV8q7nWBHRrGq/jlTUMCIoMOU2QDTBB5wSqT9ei7pJ5y/Dzh485Jl86cWgxHzp/QKaaPIsjvjsSHU7vXVkBNPJQaMVv24afqMftYzx/OIDqkBuuv6PZ9mHf+rysi/zghGzpNR78GTitoq8nUSnkHdFlgKa2Wk1jUpnKeO5JlHtDjIyCAhrbP4fVKvv6v6/Vk7YhsJ17ODRfElEMTnl+wmR/IlR1K+/OEtcJv4YUQNizMa6KOXr5IG6E9lmY8j0D5BLa23lcnE2qMaSFUtWX/X6DziRaEuXMo6sqgoOXAU6R2bunQJftwbFGQDtTfJo=;nPIZsNuhPRVArFy5HEiDDQ=="
 ---

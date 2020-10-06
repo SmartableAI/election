@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Column: For President Donald Trump, for all of us, there might be no second chance to repent"
+    excerpt: "Trump puts Secret Service agents at risk with COVID Car Ride — but relax, it was medically necessary » We’ve warned him innumerable times, “You’ll hurt yourself! You’ll fall!” to no avail. He tumbled entirely off his chair this morning,"
+    publishedDateTime: 2020-10-05T21:25:00Z
+    webUrl: "https://www.chicagotribune.com/suburbs/ct-evr-column-repent-tl-1008-20201005-i35pm5m35fanzfpbf6gtho67yy-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/suburbs/ct-evr-column-repent-tl-1008-20201005-i35pm5m35fanzfpbf6gtho67yy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/ct-evr-column-repent-tl-1008-20201005-i35pm5m35fanzfpbf6gtho67yy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/69tkDiM5no30xRNhmlEZA2uOSj8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KV5L2S6KUBBO5CR57GEF5MKNGE.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Column: Trump puts Secret Service agents at risk with COVID Car Ride - but relax, it was medically necessary"
     excerpt: "As President Donald Trump battles COVID-19, questions have come up about the accuracy of his health updates and his ride to wave to supporters outside Walter Reed Medical Center."
     publishedDateTime: 2020-10-05T16:59:00Z

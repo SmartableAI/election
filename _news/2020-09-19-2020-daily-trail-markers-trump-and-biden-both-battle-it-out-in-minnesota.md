@@ -719,22 +719,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump campaign attacks Joe Biden for not having COVID-19"
-    excerpt: "Erin Perrine, the campaign's communications director, blamed Joe Biden for lacking \"firsthand experiences\" of having COVID-19 like Trump."
-    publishedDateTime: 2020-10-06T02:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-attacks-joe-biden-not-having-coronavirus-fox-news-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-attacks-joe-biden-not-having-coronavirus-fox-news-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-attacks-joe-biden-not-having-coronavirus-fox-news-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 140
-    images:
-      - url: "https://i.insider.com/5f7b4f6a282c500018c789fa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Election live updates: Trump and Biden heading to battleground states as Supreme Court drama plays out"
     excerpt: "President Trump is heading to Ohio while Joe Biden goes to Wisconsin, as debates over who will replace Ruth Bader Ginsburg on the Supreme Court, and how quickly, play out."
     publishedDateTime: 2020-09-21T11:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
 type: article
 quality: 175
-heat: 3755
+heat: 3855
 published: true
 
 provider:
@@ -128,6 +128,22 @@ related:
       - url: "https://s.marketwatch.com/public/resources/images/MW-IP742_vp_deb_ZG_20200930125912.jpg"
         width: 1320
         height: 742
+        isCached: true
+  - title: "Kamala Harris v Mike Pence: Why this vice-president debate matters"
+    excerpt: "Not usually considered a must-watch, this campaign's vice-presidential debate has taken on fresh importance after President Trump's coronavirus diagnosis."
+    publishedDateTime: 2020-10-06T16:29:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-54423497"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54423497"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54423497"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 150
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10E9E/production/_114787296_harris_pence_getty2045.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Vice President Mike Pence defends Trump holding rallies amid coronavirus"
     excerpt: "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored."
@@ -461,6 +477,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-05T21:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615907001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
     publishedDateTime: 2020-10-05T17:32:00Z
@@ -763,6 +795,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Kamala Harris is on the cover of Elle magazine's November issue"
+    excerpt: "Democratic Vice Presidential nominee Senator Kamala Harris is the former attorney general of California. She was the second Black woman to be elected to the U.S. Senate, and this year became the first Black vice presidential nominee."
+    publishedDateTime: 2020-10-06T17:38:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-elle-magazine-cover-november/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-elle-magazine-cover-november/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-elle-magazine-cover-november/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/06/b65ecbdd-02b1-439d-9bc1-bd0a602c7fda/thumbnail/1200x630/f2287b22c7438d7d45e031861c7f2800/gettyimages-1228018304.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -826,6 +874,22 @@ related:
       - url: "https://i.insider.com/5f79d950282c500018c7878a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The health of his political opponents has always been fair game for Trump"
+    excerpt: "During the 2016 and 2020 presidential campaigns, Donald Trump repeatedly mocked the health of Hillary Clinton and Joe Biden."
+    publishedDateTime: 2020-10-06T16:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2020/t_374a983ef17b4a77be9edafed014a5ce_name_71828b02_b366_11ea_98b5_279a6479a1e4_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "In her first race, Kamala Harris learned how to become a political brawler"
     excerpt: "When Harris was attacked by her opponents in her run for San Francisco district attorney, she punched back — and won."
@@ -1807,6 +1871,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence and Kamala Harris VP Debate Will Have Plexiglass Barrier Because of Coronavirus Concerns"
+    excerpt: "A plexiglass barrier will separate Vice President Mike Pence and Sen. Kamala Harris at their vice presidential debate Wednesday, the second such measure taken to reduce the risk of coronavirus transmission on the heels of President Donald Trump contracting COVID-19."
+    publishedDateTime: 2020-10-06T16:10:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/mike-pence-kamala-harris-vp-debate-will-have-plexiglass-barrier-for-coronavirus-concerns/2654466/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/mike-pence-kamala-harris-vp-debate-will-have-plexiglass-barrier-for-coronavirus-concerns/2654466/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/mike-pence-kamala-harris-vp-debate-will-have-plexiglass-barrier-for-coronavirus-concerns/2654466/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 86
+    images:
+      - url: "https://media.nbcnewyork.com/2020/10/VP-DEBATE-UTAH-SETUP.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
     publishedDateTime: 2020-09-21T22:55:00Z
@@ -1913,22 +1993,6 @@ related:
     provider:
       name: Detroit Free Press
       domain: freep.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
-    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
-    publishedDateTime: 2020-10-06T09:51:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3615907001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3615907001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
     quality: 80
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
@@ -2677,6 +2741,15 @@ related:
     excerpt: "Sen. Kamala Harris (D-CA) campaigned at a drive-in voter mobilization event in Las Vegas."
     publishedDateTime: 2020-10-02T16:41:00Z
     webUrl: "https://www.c-span.org/event/?476524/c2020-sen-kamala-harris-dca-campaigns-las-vegas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Tal Kopan Discusses Sen. Kamala Harris' Record"
+    excerpt: "San Francisco Chronicle's Tal Kopan discusses Sen. Kamala Harris' record ahead of Wednesday night's Vice Presidential debate."
+    publishedDateTime: 2020-10-06T16:23:00Z
+    webUrl: "https://www.c-span.org/video/?476609-3/washington-journal-tal-kopan-discusses-sen-kamala-harris-record"
     type: article
     provider:
       name: C-SPAN

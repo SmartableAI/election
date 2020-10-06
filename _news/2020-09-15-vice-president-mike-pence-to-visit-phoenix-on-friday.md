@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to vote in Indiana on Friday"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence will fly into Indianapolis Friday to vote before heading that evening to Washington, D.C."
+    publishedDateTime: 2020-10-06T17:22:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/06/vice-president-mike-pence-vote-indiana-friday/3637686001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3637686001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3637686001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
     excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
     publishedDateTime: 2020-09-14T21:05:00Z

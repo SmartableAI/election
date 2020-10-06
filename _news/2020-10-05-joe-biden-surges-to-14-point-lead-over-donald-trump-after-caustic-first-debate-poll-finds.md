@@ -329,6 +329,22 @@ related:
         width: 1696
         height: 916
         isCached: true
+  - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
+    excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
+    publishedDateTime: 2020-10-06T16:04:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JW5CKWAEIVGDVBOGUUYRDN7VEA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
     excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
     publishedDateTime: 2020-10-05T22:54:00Z

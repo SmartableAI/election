@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-goes-after-barrs-slavery-stan
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-goes-after-barrs-slavery-stance-on-masks-calls-its-outrageous.amp"
 type: article
 quality: 171
-heat: 211
+heat: 191
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
-    excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
-    publishedDateTime: 2020-09-22T17:42:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 56
 
 secured: "QiSBOqb4f8U+UndEODatQayabXJlSFi6DDKskRKaauXVDvLKtizURKvPDdZUGsD8gf9jv/lz5bgn7O4OiACyLnr/pPs377rnIrwvImsDtkbBDNJHKw/pX/rDocgaDpvEw2ov/a4I03axJvdp5vYaxpimfR4jh9P8vVkppBlWuXpA/EQ1ajQ/ZFiCP9nHNcOgV2GziBzRA+ifvH7fKUzkMOjgTQfAPwoKXzOD8UWE/4OCPxovKGvEcaRde+WZnYjU4A7O0oPmq7Qlp85BfLf7RaPPbTv2FVO/naC8YDxsEh3ZgUtvmyZssqfFJrpN5z5sZa0FU/+APZ8waPB1A7vNNAX3nKYi8J7lsvM9L2oSGtA=;OJZwl7dZBbtcyJufOIkkpg=="
 ---

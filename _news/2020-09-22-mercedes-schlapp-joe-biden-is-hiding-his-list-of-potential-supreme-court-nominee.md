@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Lawrence Jones slams Biden for not releasing Supreme Court list: ‘Swing voters and moderates want to know’"
-    excerpt: "Joe Biden should release his Supreme Court nominee list but he doesn't want to \"box himself in,\" Fox Nation host Lawrence Jones said."
-    publishedDateTime: 2020-09-22T16:34:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oc-8RlTzBEQ/supreme-court-list-nominee-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-list-nominee-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-list-nominee-biden.amp"
+  - title: "Biden’s whistle-stop: Democratic nominee taking post-debate train swing"
+    excerpt: "Democratic presidential nominee Joe Biden is hitting the rails once the first presidential debate is over."
+    publishedDateTime: 2020-09-28T17:20:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271543058705.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden says Antifa is just an idea, but here's what we know about it"
+    excerpt: "Democratic nominee Joe Biden, during the first presidential debate on Tuesday, dismissed Antifa as “an idea” when asked to condemn left-wing violent extremism – but that claim is highly disputed by Republicans, and some who have covered them up-close."
+    publishedDateTime: 2020-09-30T17:03:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ntitUMG3Uk/biden-antifa-idea-what-we-know"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -56,47 +72,85 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Does Joe Biden and His Party Care About Real Science?"
-    excerpt: "Science must be free from bias, but it rarely works out that way. A flurry of mainstream media reporters and left-leaning politicians, led by Joe Biden, Kamala Harris, and Nancy"
-    publishedDateTime: 2020-09-26T04:01:00Z
-    webUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956"
-    ampWebUrl: "https://townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jeffdavidson/2020/09/26/does-joe-biden-and-his-party-care-about-real-science-n2576956?amp=true"
+  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
+    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
+    publishedDateTime: 2020-10-04T23:47:00Z
+    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
-        width: 650
-        height: 340
+      - url: "https://images.wsj.net/im-240436/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "McEnany to Biden: We Don't Know Who Is On Your Supreme Court List, Tell Voters Where You Stand"
-    excerpt: "Well look the former Vice President and all due respect, instead of telling the current president what to do, he needs to tell voters where he stands. We don't know who is on his Supreme Court list. We don't know what kind of justices he would nominate."
-    publishedDateTime: 2020-09-20T04:23:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/19/mcenany_to_biden_we_dont_know_who_is_on_your_supreme_court_list_tell_voters_where_you_stand.html#!"
+  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
+    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
+    publishedDateTime: 2020-09-30T10:07:00Z
+    webUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Joe Biden, the Father of 'Borking'"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-09-25T11:36:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/09/25/joe_biden_the_father_of_borking_524424.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 53
+    quality: 65
     images:
-      - url: "https://assets.realclear.com/images/52/521760.jpg"
-        width: 1028
-        height: 770
+      - url: "https://assets.realclear.com/images/52/521846_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Leftists outraged at Biden quickly condemning violence and offering prayers for officers shot in Louisville"
-    excerpt: "Leftists criticized Joe Biden for a tweet that condemned violence and offered prayers for the police officers shot in Louisville, Kentucky, during protests and riots that followed a grand jury decision relating to the death of Breonna Taylor."
-    publishedDateTime: 2020-09-24T15:15:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/leftists-outraged-at-biden-quickly-condemning-violence-and-offering-prayers-for-officers-shot-in-louisville?_amp=true"
+  - title: "Biden's debate use of Arabic phrase sparks conversation among Muslims"
+    excerpt: "Former Vice President Joe Biden on Tuesday used a bit of Arabic slang that piqued the interest of Muslims on Twitter."
+    publishedDateTime: 2020-09-30T22:04:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 47
+    quality: 65
+  - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
+    excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
+    publishedDateTime: 2020-09-22T17:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
+  - title: "‘Some black woman’: Video of Joe Biden saying why people stayed home during pandemic goes viral"
+    excerpt: "Democratic nominee for president Joe Biden attributed people's ability to stay home during the pandemic to “some black woman” stocking grocery store shelves."
+    publishedDateTime: 2020-10-05T21:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
 
 secured: "Zofha042yjRgTp5l5OL4/dSWmhBrfWWXFYkeIZX+8BumZqRe/tVpD2Hh2baU1qDM3VeRlbgCt31Vq9Ff9/5t05a5R4uPN31MGrxphGGcev+htxL1g7o1VcCIzOsiImLQ4XwC/pIgVgZqUVI1/ItLz3sdV7MGXzWUH4+mr4VhGJGRZPCJpnwR3ndIOomB3hRkUAfDqu4QUPb/DAdW1v0e/MIAPC7HcQ6L36WSx0DEUknNf/hfrvP9EPtb1ie9m+sl0tIgHjzMgV8sFPlkonCaqz9CHXErKfE23Lm6xBcRxIotzXIaKnPBxXPAumoL6UkTgDvZZnZFuePxx0RtQjqhh15cJJGb9xVXNZgKDQwOr2E=;lW2w4ZFrebUmnPNxYE5UCA=="
 ---

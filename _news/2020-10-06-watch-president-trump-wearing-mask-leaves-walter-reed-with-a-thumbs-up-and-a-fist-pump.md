@@ -345,6 +345,22 @@ related:
         width: 1696
         height: 916
         isCached: true
+  - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
+    excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
+    publishedDateTime: 2020-10-06T16:04:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JW5CKWAEIVGDVBOGUUYRDN7VEA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "xeKNw+diSyuCL+oVA1zocc3kMezID0bMay4TNrERlXk81exZ3jNOEEYu+pW3o/ZI++1MBoGwVN5k6nG+WVou+7aExXdkqnMzZJC3XymRLwrwpCvucodpCrLl2QfVqAvM6If2nhecZWegwCZzyOTXPdwoGuISgV785zSgUuCqkTtOUYcD2s5ZBbxK15gNv+96c/fYtCsNDG+ENAfLwUtGglif6klclYHWx4XUm2gMv/RwREi5/FCdIGdSf3QO/WXa619DMI8x5DGmFm6XN2jBqQ4Vt7TFWcyHAujT8OtoHNgEQqZcPym7+rodsbbDc3Xlb0/2S8hekfGEsy0/1OO75bFMnsjmiNO1pWtf2ccBNUYS+baUYpmo+47gldYSYq7W5U35pXw+dROCudasxhUeQXOz4/17diRaFpMxQ43arIs2gPrYfHtlNUo8kokIY0g88ygiO9f/LfGpVwxpAR9cihnHy0QcUjoBRuTMbl+jkaPd/+S6iD8F7LkErObhf+cGsNikE/O2vGoL3/CCkNIk+w==;WyaQ75sSnmONAewRjgBZQA=="
 ---

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump has personally pressured drug company CEOs repeatedly to speed vaccine"
+    excerpt: "A likely contagious President Donald Trump returned to the White House Monday evening, whipped off his mask and filmed a video, heavy on bluster and short on facts, that proclaimed: \"The vaccines are coming momentarily.\"\n    \n"
+    publishedDateTime: 2020-10-06T17:42:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOaLsS9OMwQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-pfizer-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-pfizer-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930163912-trump-white-house-south-lawn-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Attacked Rochester Protesters. Not All Local Republicans Agree."
     excerpt: "In Western New York, the president’s vilification of Black Lives Matter protests has forced candidates to decide whether to line up behind him."
     publishedDateTime: 2020-09-26T09:12:00Z

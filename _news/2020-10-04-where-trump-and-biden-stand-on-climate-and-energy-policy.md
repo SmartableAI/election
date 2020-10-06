@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden with upper-single digit lead over Trump with 4 weeks until Election Day: polls"
+    excerpt: "With the clock ticking toward Election Day on Nov. 3, Democratic presidential nominee Joe Biden holds a nearly 10-point lead over President Trump in an average of the latest national polls."
+    publishedDateTime: 2020-10-06T17:28:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S47ysy96iOA/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 198
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274128375728.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden on debating Trump next week: ‘I’ll do whatever the experts say’"
     excerpt: "Democratic presidential nominee Joe Biden says he’ll listen to what the experts say to determine whether it’s safe for him to face off next week against President Trump – who’s battling COVID-19 - at the second of three scheduled general election debates."
     publishedDateTime: 2020-10-05T17:02:44Z
@@ -80,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden regrets calling Trump 'clown' at debate"
+    excerpt: "The first presidential debate was full of insults and interruptions by both candidates."
+    publishedDateTime: 2020-10-06T16:29:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-DsEg3u4DU0/joe-biden-calls-trump-clown-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-calls-trump-clown-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-calls-trump-clown-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20280035813476.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden up 14 points on Trump following chaotic debate, new poll indicates"
     excerpt: "A new poll shows Joe Biden with a 14 point lead nationally over President Trump, following the first presidential debate last week. "
     publishedDateTime: 2020-10-04T22:21:29Z
@@ -112,6 +144,102 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump in Walter Reed hospital battling coronavirus; Biden traveling to Florida"
+    excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending their time on Monday, Oct. 5, 2020, just 29 days away from the election. "
+    publishedDateTime: 2020-10-05T14:11:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SeidCF_d2ZU/trump-walter-reed-hospital-coronavirus-biden-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-walter-reed-hospital-coronavirus-biden-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-walter-reed-hospital-coronavirus-biden-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7921c6e-2149-4167-9e1e-a32af7e74ea0/7e0d79ef-bc9f-4a83-a99a-e56d63d079be/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Democrats press Biden to resume negative campaign ads, despite Trump's hospitalization"
+    excerpt: "With the election less than one month away and early voting begun in some states, Democratic strategists have argued that Biden should resume his critiques of the president."
+    publishedDateTime: 2020-10-05T17:42:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M3Uyzwx9tOU/dems-press-biden-to-resume-negative-campaign-ads-despite-trumps-hospitalization"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-press-biden-to-resume-negative-campaign-ads-despite-trumps-hospitalization.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-press-biden-to-resume-negative-campaign-ads-despite-trumps-hospitalization.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump, fighting coronavirus, says he's 'looking forward' to upcoming debate with Biden"
+    excerpt: "President Trump said Tuesday he is “looking forward” to the presidential debate next week with Democratic rival Joe Biden in Miami and said he is “feeling great” as he continues to fight the novel coronavirus."
+    publishedDateTime: 2020-10-06T15:16:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vcAWHiGDCiY/trump-coronavirus-looking-forward-debate-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-looking-forward-debate-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-looking-forward-debate-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden plans to attend next debate, hopes Trump will be able to participate, campaign says"
+    excerpt: "Democratic presidential nominee Joe Biden will travel to Florida to participate in the next debate and hopes that President Trump will be able to join him despite the president testing positive for the novel coronavirus late last week."
+    publishedDateTime: 2020-10-04T19:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMlnViM9Gsw/biden-plans-to-attend-next-debate-hopes-trump-will-be-able-to-participate-campaign-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plans-to-attend-next-debate-hopes-trump-will-be-able-to-participate-campaign-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plans-to-attend-next-debate-hopes-trump-will-be-able-to-participate-campaign-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden: Trump bears responsibility for coronavirus diagnosis after downplaying guidelines"
+    excerpt: "Biden said that he “wasn’t surprised” to learn of Trump’s positive test result."
+    publishedDateTime: 2020-10-06T01:45:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/slHPDL2pLoY/biden-trump-responsible-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-responsible-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-responsible-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b4ffc97-e106-4ffb-b303-717a227738f8/2160ddeb-4a0e-4645-87d8-6ef8610e8ff2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump returns to White House after coronavirus hospitalization; Biden traveling to Pennsylvania"
+    excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending Tuesday, Oct. 6, 2020, just 28 days away from the election."
+    publishedDateTime: 2020-10-06T12:55:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qiNeVF_XMLg/trump-returns-to-white-house-after-coronavirus-hospitalization-biden-traveling-to-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-returns-to-white-house-after-coronavirus-hospitalization-biden-traveling-to-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-returns-to-white-house-after-coronavirus-hospitalization-biden-traveling-to-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffd7f5fb-8132-4cf4-87d0-b9ddfa1782ed/e6090031-7c1e-4714-bc85-982b0608655d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ceasefire’s over: After Trump twitter storm, Biden urges president to ‘listen to the scientists’"
     excerpt: "Whatever ceasefire there was between President Trump and Democratic nominee Joe Biden following the president’s hospitalization after contracting COVID-19, it appears to be over."
     publishedDateTime: 2020-10-05T23:34:08Z
@@ -125,38 +253,6 @@ related:
     quality: 177
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden’s whistle-stop: Democratic nominee taking post-debate train swing"
-    excerpt: "Democratic presidential nominee Joe Biden is hitting the rails once the first presidential debate is over."
-    publishedDateTime: 2020-09-28T17:20:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271543058705.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden says Antifa is just an idea, but here's what we know about it"
-    excerpt: "Democratic nominee Joe Biden, during the first presidential debate on Tuesday, dismissed Antifa as “an idea” when asked to condemn left-wing violent extremism – but that claim is highly disputed by Republicans, and some who have covered them up-close."
-    publishedDateTime: 2020-09-30T17:03:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ntitUMG3Uk/biden-antifa-idea-what-we-know"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -176,19 +272,81 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
-    excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
-    publishedDateTime: 2020-09-30T01:51:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5dxXvOBdIu4/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
+  - title: "Biden campaign pledges to disclose the result of every coronavirus test"
+    excerpt: "Joe Biden's campaign pledged to disclose the results of every coronavirus test the Democratic presidential nominee takes in the wake of President Trump's positive COVID-19 diagnosis last week.  "
+    publishedDateTime: 2020-10-04T13:10:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GkBsmAI_XHo/biden-campaign-pledges-to-disclose-the-result-of-every-coronavirus-test"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-pledges-to-disclose-the-result-of-every-coronavirus-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-pledges-to-disclose-the-result-of-every-coronavirus-test.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79e49bf7-b944-49eb-905b-4594b0fa8bc0/19832c56-70c3-4add-a268-662177528c18/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5284e193-460b-446f-83b3-021ccec35d0d/7cc4cb76-725a-4613-a702-6275c6ee1d67/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
+    excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
+    publishedDateTime: 2020-10-01T21:02:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p04scLuASzo/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's wife pulls Dem nominee away from reporters in social-distancing reminder"
+    excerpt: "2020 presidential candidate Joe Biden's wife Jill, had to pull him away from a group of reporters on Monday, in an effort to maintain social distancing in the lead up to November's election. "
+    publishedDateTime: 2020-10-06T01:50:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbF_muffj5c/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder"
+    ampWebUrl: "https://www.foxnews.com/politics/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89bf11-2e28-454f-95eb-ba332598ae37/c4318333-5578-4fa3-b85c-5fc881cbef9e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Phil Murphy slams Trump over New Jersey fundraiser, says event is under investigation"
+    excerpt: "New Jersey Gov. Phil Murphy slammed President Trump for holding a high-dollar fundraiser in the state less than one day before he tested positive for COVID-19, accusing the president of needlessly exposing attendees to the virus."
+    publishedDateTime: 2020-10-06T17:54:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYO6oOPq4EU/nj-governor-says-trumps-bedminster-fundraiser-under-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bb84f88-e2a0-4bdd-bfd5-635cba70b0c7/2e932280-87d8-4787-bc3c-5dc98bfdc624/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden endorsed by more than 120 former GOP national security officials"
+    excerpt: "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump."
+    publishedDateTime: 2020-10-01T19:04:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-4.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -208,6 +366,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Would Double Down on Tax Cuts in Second Term"
+    excerpt: "President Trump and Republicans got much of the tax code they wanted in 2017. In a second term, he would face expiration dates on those and push for more tax cuts."
+    publishedDateTime: 2020-09-29T13:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-237041/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "'Disgusting': Joe Biden Tells His Tens of Followers About His Trump 'Death Blow' Fantasy"
     excerpt: "Joe Biden’s campaign said they would pull negative ads upon news that President Trump had tested positive for coronavirus and was being admitted to Walter Reed Medical Center. I mean,"
     publishedDateTime: 2020-10-05T20:25:00Z
@@ -224,12 +398,44 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Biden Couldn't Name Support From a Single Law Enforcement Group"
+    excerpt: "After months of rioting, looting, and unrest in streets across America, President Trump has positioned himself as the law and order candidate. Only recently did Democrats start caring and speaking"
+    publishedDateTime: 2020-09-30T12:15:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/ed2b43e7-9d41-4017-bb0d-1916ec16d4b7.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Joe Biden and the Green New Deal"
     excerpt: "When asked by moderator Chris Wallace during the first presidential debate of the 2020 campaign season if he supports the Green New Deal (GND), Joe Biden said, “No, I don’t"
     publishedDateTime: 2020-10-05T04:01:00Z
     webUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385"
     ampWebUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
     cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "My Message to ‘Pro-Life Evangelicals for Biden’"
+    excerpt: "In a period of less than 10 minutes on Monday, I read an article about Democratic presidential nominee Joe Biden’s extreme pro-abortion views and then was sent a link to"
+    publishedDateTime: 2020-10-06T15:07:00Z
+    webUrl: "https://townhall.com/columnists/michaelbrown/2020/10/06/my-message-to-prolife-evangelicals-for-biden-n2577557"
+    ampWebUrl: "https://townhall.com/columnists/michaelbrown/2020/10/06/my-message-to-prolife-evangelicals-for-biden-n2577557?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/michaelbrown/2020/10/06/my-message-to-prolife-evangelicals-for-biden-n2577557?amp=true"
     type: article
     provider:
       name: Townhall
@@ -251,6 +457,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Is Trump Now Down Double Digits?"
+    excerpt: "There was lots of oohing and ahhing on social media yesterday, following the release of a new NBC/WSJ poll showing Joe Biden opening up a 14-point lead over Donald Trump."
+    publishedDateTime: 2020-10-05T17:05:00Z
+    webUrl: "https://townhall.com/tipsheet/guybenson/2020/10/05/is-trump-down-double-digits-n2577441"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 65
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/276/f9e1fd9b-6188-4fd2-be72-a4a764193fb9.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BFb9YThTaJWnfzPsGcgZqwkxGmpDjarpjl7cncoCHZCoIvXbDVzyCxGqFDFjg66kHr7CHEYAcaJ2r7mfU0OvApvX+UbpAc1X1+yvhcjy5xCqSLyCyfY5UsRrGHSQcb/sFaLikByeMf8FZW9E7OXKtw2O5MLXrICi1Da77KZX0U0ceMlH6aQH7+M3WV8Wchr5+WSB9MLuxYaLeNDlxaziSz8Dnc9BbZdyIkqehluZ2GB8DWoFYZK0SeGXgiS7MsvZOUcJmFoY0DOsisS/JlYlrl0pp7wceIL8Gi1gzdTKSOZHJtcVsyZZ4hglVWdwFCBvlNCbGgAdvCsmtqCGMaL2YaUdKEFOGTGLPwBIVUYE6NCQVT0OHlzJ4gaDBsfAwLxnuTC5++cDt5zY6bQUXX8YF5723tJvZ9TGsi7D1xLY604CkV1KWEKUGsQXGFIoY/jlpZTxJp7F+rlwySibfmf3tfMHDmb3p+3mA6nYNf3XWHaejH2AOuypxaVvjy4XuigbKszChDlr9m+GiUMISLEK4Q==;aSfBLHloyeWUcJz234QGAA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azfamily.com/news/politics/election_headquarters/vice-pr
 cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/politics/election_headquarters/vice-president-mike-pence-to-visit-phoenix-for-two-events-on-friday/article_b6328336-f698-11ea-af93-1f53e2703503.amp.html"
 type: article
 quality: 75
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence to vote in Indiana on Friday"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence will fly into Indianapolis Friday to vote before heading that evening to Washington, D.C."
+    publishedDateTime: 2020-10-06T17:22:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/06/vice-president-mike-pence-vote-indiana-friday/3637686001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3637686001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3637686001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

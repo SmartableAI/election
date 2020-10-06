@@ -64,6 +64,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris' goal in vice presidential debate: Focus on Trump, not Pence"
+    excerpt: "Kamala Harris and Mike Pence will be the two candidates on the debate stage in Utah on Wednesday night, but the California senator's goal is to make the contest all about the man who isn't there: President Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-06T17:56:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Pq92NE2HCg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 205
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827160803-kamala-harris-speech-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden and Kamala Harris don't want to talk about changes to the Supreme Court"
     excerpt: "Joe Biden and Kamala Harris made it clear on Tuesday night that they don't want to talk about changes to the Supreme Court, including expanding the current nine-justice bench.\n    \n"
     publishedDateTime: 2020-09-30T17:06:00Z
@@ -273,6 +287,6 @@ related:
         height: 550
         isCached: true
 
-secured: "OHbW6AB+DGLFNePJtVJFoyYjdaZuh5pVhQqen8LhDdxIOdd5R9JmLmUI0hk5oqgT9r1edbXi5X7GftnM1sDdVjUgruxEJjG7gtqnoOQtVqoiVB4m4goGFdcjGiCSh3Wv4j7Ji5k+wuBo/TB++S9jU969i6t/GfLnO7GIjo7c5hqc8gMr0vNLZD5KjNaq9O3+L6eUVAdFlhaGaLNwQVBX+LtI4i9WJuxhBkWhhbhrCtDoKOVQqk2zxZ/DTkcceQzxZAB21BP4bSzuh1nC2F6p2HhDw1Gh0Y4MKz1OIXDDq1FezYSTBL7GGHEcZjlN/SW9kck9GmzEtrS7DemWMWjU95//u7gaIf/fNpn7YGqlSaM=;zFIvPr/FdSN4GhPkl1J08w=="
+secured: "9zeKj9fnJoC3bacPoQV1bJ0q/Ays43+0AmlNM3MxJ/QwZtgukpC4jsdjcfAewMRiQr8VLNyPC4gJanUY5IlrnY5Odl70y+huyTOIur8/rygIhsTWXKH0HKD5gh4dOsX0foWz/01AyjVCLtNPnMwgAR9l+NmA2RR1wbqcDiyJAEQtzdrfI/QOT3MHQNlMr2s/qIqKNUZ7uINELLgEuzHn9v7nqwnTmfEb8sYJKh8S1Qn1CD6KUWmnPWHTZ7RkaZwJ22NUt3OusGIiQLgOfN9walic9QMwQBxxY3xTZM6Pfix8emGbR7QXYpCrmCrv/Iht2MEXDZT+MwDuAM9awKVUhb0ic3HVnbDL6FCGa8n0yN8xQe8DEC4+bQfXduy3GT3uk0yaP1o+ZYBg6BQ4H62lZrTYLsPTrmXOf/TwaUa3F4d0bUFURjgSppkqogMemkAx8rfVZkIwp6baCsm2K2Ge7yXjfAJYwbk5caK1z4B49PAYNV4AOoDZltuotFZ6dzDiFXCK6ZnmZA7oZldBzWgoPw==;TY2UXTOr1szQAd0QQ/CbqA=="
 ---
 

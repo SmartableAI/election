@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
 type: article
 quality: 164
-heat: 204
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,36 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Bipartisan 'get well soon' wishes for Trump, but some Democrats send pointed message"
-    excerpt: "Bipartisan 'get well soon' wishes for Trump, but some Democrats have a pointed message WASHINGTON — Messages for a quick recovery from lawmakers and world leaders began flooding in Friday, reacting to the news that President Donald Trump and first lady Melania Trump have tested positive for Covid-19."
-    publishedDateTime: 2020-10-02T19:23:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/bipartisan-get-well-soon-wishes-trump-some-democrats-have-pointed-n1241777"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241777"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241777"
+  - title: "Fact check: Trump falsely tweets that Covid-19 is less lethal than the flu"
+    excerpt: "President Donald Trump has consistently downplayed the threat of the coronavirus in public, and it seems testing positive for the virus himself has not changed his tune.\n    \n"
+    publishedDateTime: 2020-10-06T16:30:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
+      name: CNN
+      domain: cnn.com
+    quality: 173
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416929/201002-trump-covid-mc-12384_203f8fcf21e8fa4132ee87a76159b3c4.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump's latest political theatrics described as 'insanity'"
-    excerpt: "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras."
-    publishedDateTime: 2020-10-05T12:56:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106"
+  - title: "Missouri governor mirrors Trump: Covid-positive after months of virus criticism"
+    excerpt: "Like the president, Missouri Gov. Mike Parson was under fire for reopening too quickly as he ran for reelection. Then he tested positive for coronavirus."
+    publishedDateTime: 2020-10-03T11:05:00Z
+    webUrl: "https://www.politico.com/news/2020/10/03/mike-parson-missouri-covid-trump-425741"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_40/3417409/201004-trump-drive-walter-reed-rd-541p_236d25083945c388acde5b25f325446f.nbcnews-fp-1200-630.JPG"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Politico
+      domain: politico.com
+    quality: 91
 
 secured: "r+0UOdDD95Dl8V0Tu8j7SZ1biVhR0UArYegfohVLjorGtUBUDeTIxrnEjFJFkcT8LLYK/fk65+UbVVd6nGwX0ipjw3mTdULlIhEpc5+dVxylStqBQ8PopLLoPI/mS0eoENX1WwxD8wyisX82kLRGlDDgVJgEeZihHhiDfc31N5mwP0I0XNuCFFcyjxAbOwC48diozBH/jReEuOGQujKWfxDko+pfLaZOqLWXqV5v58mxafC0Crh+s7x5e3DwOWh+bwzF7IXWdkuo0iAHcs29dtcQGCjX+R1ybvidXAExZGJbxOCQvjApLV8j2tgar8ZRP/lPrp+IALQyBIqP3KPoe7x/A8lE+5du5vN7TyTE3Ns=;bWh2IFCAtEOdJ95JUE9XrA=="
 ---

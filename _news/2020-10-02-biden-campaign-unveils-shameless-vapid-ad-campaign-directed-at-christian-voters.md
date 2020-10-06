@@ -80,38 +80,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
-    excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
-    publishedDateTime: 2020-10-01T21:02:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p04scLuASzo/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-launches-in-person-canvassing-after-avoiding-in-person-outreach-with-voters-amid-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's wife pulls Dem nominee away from reporters in social-distancing reminder"
-    excerpt: "2020 presidential candidate Joe Biden's wife Jill, had to pull him away from a group of reporters on Monday, in an effort to maintain social distancing in the lead up to November's election. "
-    publishedDateTime: 2020-10-06T01:50:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbF_muffj5c/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder"
-    ampWebUrl: "https://www.foxnews.com/politics/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89bf11-2e28-454f-95eb-ba332598ae37/c4318333-5578-4fa3-b85c-5fc881cbef9e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Joe Biden’s ObamaCare Tax Avoidance"
     excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
     publishedDateTime: 2020-09-30T22:53:00Z

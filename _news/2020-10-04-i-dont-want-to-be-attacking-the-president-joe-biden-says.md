@@ -238,6 +238,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Don’t Be Afraid of Covid,’ Trump Says. But Many Are."
+    excerpt: "Readers discuss the president’s comments and removal of his mask upon his return from the hospital, and the “world-class care” he received compared with that available to others."
+    publishedDateTime: 2020-10-06T17:39:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/06/reader-center/05trump-virus-hp-promo/05trump-virus-hp-promo-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
     excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
     publishedDateTime: 2020-10-03T06:10:00Z

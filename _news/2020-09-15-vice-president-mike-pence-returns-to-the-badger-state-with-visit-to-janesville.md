@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to vote in Indiana on Friday"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence will fly into Indianapolis Friday to vote before heading that evening to Washington, D.C."
+    publishedDateTime: 2020-10-06T17:22:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/06/vice-president-mike-pence-vote-indiana-friday/3637686001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3637686001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3637686001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "j/URjkHO6tmVXM1pk3lQNmmK1dso8s+mYcopgwyg6qfL+arWFpXAkKlnvdKAbqcUYyjEDXDSm/alG+pwua3v+kHjHBsAe7XeBSSGRB+8OUNF4BczclGe37t0RsTkmWUd6kKC4By3ZSKmG544W2T6nqPG61EWFH0p0ZfuBfFf1+T6MCQdcZSchmHDOg3rZ81sOfxJ1mT779rHi4D5CbZi7xf9/vivXJmX//UZFfkkvs8oJ5w3rFLG/JSCLngC5mGRd1a/hNfvFv0RgTL8juz1GUcLGPUcyHJn3Al2jBpS7A/XgLWAi5Cjf+3J4iGW/AUsMB4HWP47O3mm4H75McAontMjnH1QWKaodCQuzDVtM4M=;sOsyzFpUFElyVrDveZvpWA=="
 ---

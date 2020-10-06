@@ -329,6 +329,22 @@ related:
         width: 1696
         height: 916
         isCached: true
+  - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
+    excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
+    publishedDateTime: 2020-10-06T16:04:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JW5CKWAEIVGDVBOGUUYRDN7VEA.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
     excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
     publishedDateTime: 2020-10-05T22:54:00Z
@@ -346,6 +362,6 @@ related:
         height: 675
         isCached: true
 
-secured: "B/7c6T+vI0lYqD8PDdkt39ay9EoJlYo1DgZJvkmJfDUww42vb4go/jkTDfDJcmE7OztH1L8HmkQBO66z2M8z6ktR+7EXPOme5f/++/yAUNNjrMjmafmH7Qxckdu6ppF1EQZu+Ai02Giv9Ici72NlLXrV4nvzIZHSQE7y1CGS/KioIBHKRTKX6+z1DmArigGSqNVVqFPmywr02hTIzS3x0qXkkL6ipzRjysmgkBXlzCevIr2htoY3I5kVrYG84bRtptoLu28DbAQZrE5Sc/2vrz95yhH+qF5zkDqnAyE/G0QEvkxuVoI3/oB91KLwHZ8citEebfeoT8mXvD9mlTA6t/5tvsLWqMcfRnh6rpR2cgc=;wAB8MfeJmThUn8jdGgFrZw=="
+secured: "N7w2M0+BlG5LQ0+Sgh1Sx0au20JlsVJUYBtSeB4ySus5QrxdMUCxfzRMjkMRK+kcOi0oGp3NFmNm4Tf3KpNztpAHsgFLRbina2S0R8Q7l5l9+tIiQsFN+DaRI1oOZyk4RJwWS9v/RDPTFrndgT3rSud4tHJ7/tzCo/0Nt+1Dt8oEX/c9YoBUH2w4WWDiQ5dpepumPgtBotwlFRS/sJa56eclEtpd8YBW+Pd7RgkcLqsbbveJPB7C4lQ/PVU38uzlId3bqiQ0B4WqBl53tMPHw31x4wpXAWj58hKbZ0SyCUE986L6KmR6/mCjsON16MyK/ZUWHbVSAePvKGwnNilW1WvZY9NSETaTNDhHfLLFuOUvSxwq4OYSwnW+OCENQDJlyXfteu/zUlQYNGi7435+8kxA8FFuF0FjVD5brP4OZnDG8CAnog7pIAMmNUwqMJI+/H4avvJuau/3YT6zjXsQsXlGawbhQnCMOgwtTLN7IeAsQwTdQCCUoxyBBY7nZk4QY3cH3tjCE+YJy5m0dXkeSA==;WRBOUEND4St+UDqTxkkr8A=="
 ---
 

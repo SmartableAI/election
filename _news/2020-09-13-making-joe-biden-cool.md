@@ -715,22 +715,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump campaign attacks Joe Biden for not having COVID-19"
-    excerpt: "Erin Perrine, the campaign's communications director, blamed Joe Biden for lacking \"firsthand experiences\" of having COVID-19 like Trump."
-    publishedDateTime: 2020-10-06T02:50:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-attacks-joe-biden-not-having-coronavirus-fox-news-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-attacks-joe-biden-not-having-coronavirus-fox-news-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-attacks-joe-biden-not-having-coronavirus-fox-news-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 140
-    images:
-      - url: "https://i.insider.com/5f7b4f6a282c500018c789fa?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z

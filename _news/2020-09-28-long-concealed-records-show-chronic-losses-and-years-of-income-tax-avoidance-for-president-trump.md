@@ -2822,6 +2822,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump, battling Covid-19, says he's 'looking forward to' the next presidential debate"
+    excerpt: "Centers for Disease Control and Prevention guidelines say people should isolate for 10 days from the point of showing systems, and in severe cases, 20 days."
+    publishedDateTime: 2020-10-06T16:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Trump's taxes raise IRS red flags. But his flouting of civic duty is equally concerning."
     excerpt: "Taxes pay for all that we do together. We need them. They matter. But our president calls into question the very nature of that collective effort."
     publishedDateTime: 2020-10-01T08:43:00Z
@@ -3150,6 +3166,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "White House floats a Trump speech as the outbreak spreads"
+    excerpt: "THE TRUMP ADMINISTRATION is considering having President DONALD TRUMP address the nation. He returned from the White House on Monday night after a weekend at Walter Reed. NYT's Maggie Haberman had this as well ALYSSA FARAH-- the White House comms director -- suggested to White House reporters that we will “hear from” TRUMP “at some point today."
+    publishedDateTime: 2020-10-06T17:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/06/white-house-floats-a-trump-speech-as-the-outbreak-spreads-490536"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/fc/db/81b47a084faaac9796b3dad22075/201006-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
     publishedDateTime: 2020-10-02T00:52:00Z
@@ -3267,6 +3297,15 @@ related:
     excerpt: "The stunt was caught on camera during Vice President Pence’s speech at CPAC this year, but no one knew at the time it was Baron Cohen in the elaborate Trump costume."
     publishedDateTime: 2020-10-01T15:33:00Z
     webUrl: "https://www.thedailybeast.com/sacha-baron-cohen-pranks-mike-pence-as-trump-in-borat-2-trailer"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
+  - title: "Trump Campaign Attacks Joe Biden for Not Having COVID-19"
+    excerpt: "He has experience, now, fighting the coronavirus as an individual,” a campaign spokesperson said of Trump. “Those firsthand experiences, Joe Biden, he doesn’t have those.”"
+    publishedDateTime: 2020-10-05T20:01:00Z
+    webUrl: "https://www.thedailybeast.com/trump-campaign-attacks-joe-biden-for-not-having-covid-19"
     type: article
     provider:
       name: The Daily Beast

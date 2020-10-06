@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005184613-03-trump-leaves-walter-reed-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump has personally pressured drug company CEOs repeatedly to speed vaccine"
+    excerpt: "A likely contagious President Donald Trump returned to the White House Monday evening, whipped off his mask and filmed a video, heavy on bluster and short on facts, that proclaimed: \"The vaccines are coming momentarily.\"\n    \n"
+    publishedDateTime: 2020-10-06T17:42:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOaLsS9OMwQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-pfizer-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-pfizer-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930163912-trump-white-house-south-lawn-0930-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

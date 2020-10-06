@@ -65,6 +65,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris' goal in vice presidential debate: Focus on Trump, not Pence"
+    excerpt: "Kamala Harris and Mike Pence will be the two candidates on the debate stage in Utah on Wednesday night, but the California senator's goal is to make the contest all about the man who isn't there: President Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-06T17:56:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Pq92NE2HCg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 205
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827160803-kamala-harris-speech-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden and Kamala Harris don't want to talk about changes to the Supreme Court"
     excerpt: "Joe Biden and Kamala Harris made it clear on Tuesday night that they don't want to talk about changes to the Supreme Court, including expanding the current nine-justice bench.\n    \n"
     publishedDateTime: 2020-09-30T17:06:00Z

@@ -32,38 +32,129 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'"
-    excerpt: "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges."
-    publishedDateTime: 2020-09-30T17:46:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp"
+  - title: "Biden’s whistle-stop: Democratic nominee taking post-debate train swing"
+    excerpt: "Democratic presidential nominee Joe Biden is hitting the rails once the first presidential debate is over."
+    publishedDateTime: 2020-09-28T17:20:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7770338-6f00-45d5-b73c-f483671ead37/96618aa6-16e0-4aa8-b103-de0e0b8c3bce/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271543058705.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden says Antifa is just an idea, but here's what we know about it"
+    excerpt: "Democratic nominee Joe Biden, during the first presidential debate on Tuesday, dismissed Antifa as “an idea” when asked to condemn left-wing violent extremism – but that claim is highly disputed by Republicans, and some who have covered them up-close."
+    publishedDateTime: 2020-09-30T17:03:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ntitUMG3Uk/biden-antifa-idea-what-we-know"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing"
+    excerpt: "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why."
+    publishedDateTime: 2020-09-23T07:03:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d3GnjXtTdo/why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cc26de3-0e85-40c8-8ace-aed10ffbeb63/20192085-93ff-4170-8533-66ec760513ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Couldn't Name Support From a Single Law Enforcement Group"
-    excerpt: "After months of rioting, looting, and unrest in streets across America, President Trump has positioned himself as the law and order candidate. Only recently did Democrats start caring and speaking"
-    publishedDateTime: 2020-09-30T12:15:00Z
-    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188"
-    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
+    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
+    publishedDateTime: 2020-10-04T23:47:00Z
+    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/ed2b43e7-9d41-4017-bb0d-1916ec16d4b7.jpg"
-        width: 650
-        height: 340
+      - url: "https://images.wsj.net/im-240436/social"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "Joe Biden, the Father of 'Borking'"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-09-25T11:36:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/09/25/joe_biden_the_father_of_borking_524424.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/521846_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Biden's debate use of Arabic phrase sparks conversation among Muslims"
+    excerpt: "Former Vice President Joe Biden on Tuesday used a bit of Arabic slang that piqued the interest of Muslims on Twitter."
+    publishedDateTime: 2020-09-30T22:04:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
+    excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
+    publishedDateTime: 2020-09-22T06:01:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/52/521949.jpg"
+        width: 1046
+        height: 784
+        isCached: true
+  - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
+    excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
+    publishedDateTime: 2020-09-22T17:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
+  - title: "‘Some black woman’: Video of Joe Biden saying why people stayed home during pandemic goes viral"
+    excerpt: "Democratic nominee for president Joe Biden attributed people's ability to stay home during the pandemic to “some black woman” stocking grocery store shelves."
+    publishedDateTime: 2020-10-05T21:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
 
 secured: "u2h3ixsU0UI9f3RKpcV5cf/WzV9cH8gI/Vh/5YfIvO+D3h6RG+JMDCYEg9kejIIMwHjE23IWX3DiCgsV9pcVYemY3gdO96KzDwmx9nbPMdD20+n8jQSe1Q3/6bScDgiom+H44o15OrJrzooGAA/Y5JdHPEqnzifpuTRAXwWOr1bmng/a7mwGKH1EIXdc0EISpGw4cZsPYoLo+yg6oQ6YUhtipqyjIw2eNBvslBPct1yISh0w53TawwD3amHr/auJrBBtdN1rHFWFeNpb8zhZdeGceYtHxhsB/2FghhakyjuLv8MGC+DWCVwtmWfiUWYdIMJrY+Zq1yLSk4xmYh8ykoSisRii3uUDbyTOiom7hjzhhcZVOy/EvvarbjROFjiM61te7pMS+KYLWbXxzsw2rlOsQy3IrLZunJ7eXIe05+jocJGy+gkxAJPQ61rhBTpb6FS4GrioNtSCKEOsyLdnX1qrPUkYO8vSG0/jo8sT9eM6KnWVJgFYvDb2k99jzUhf7fkzIch4UnSn5b0+3tnKSQ==;qdvRIHlAUpoZE+677MI/Mw=="
 ---

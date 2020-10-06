@@ -79,6 +79,22 @@ related:
         width: 791
         height: 545
         isCached: true
+  - title: "All the president's medicine: How doctors are treating Donald Trump"
+    excerpt: "Roughly 42 hours after President Donald Trump revealed he and the first lady had tested positive for COVID-19, he tweeted out a video from Walter Reed National Military Medical Center assuring the public he was feeling \"much better\" since being given a sundry mix of medication which he called \"miracles coming down from God."
+    publishedDateTime: 2020-10-05T19:41:00Z
+    webUrl: "https://abcnews.go.com/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-motorc_hpMain_20201004-222346_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Federal judge says Trump administration's actions against TikTok 'likely exceed' the president's authority"
     excerpt: "The federal judge, who on Sunday blocked Trump's proposed ban, said TikTok would \"suffer irreparable harm\" if the order were to go into effect."
     publishedDateTime: 2020-09-28T21:44:00Z

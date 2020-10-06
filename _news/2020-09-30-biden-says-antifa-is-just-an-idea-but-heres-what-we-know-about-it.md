@@ -31,102 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden on debating Trump next week: ‘I’ll do whatever the experts say’"
-    excerpt: "Democratic presidential nominee Joe Biden says he’ll listen to what the experts say to determine whether it’s safe for him to face off next week against President Trump – who’s battling COVID-19 - at the second of three scheduled general election debates."
-    publishedDateTime: 2020-10-05T17:02:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GHdHy5RYZIA/biden-on-debating-trump-next-week-ill-do-whatever-the-experts-say"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-on-debating-trump-next-week-ill-do-whatever-the-experts-say.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-on-debating-trump-next-week-ill-do-whatever-the-experts-say.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20279567095505.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Despite Trump’s wishful thinking, left is standing with Biden"
-    excerpt: "Sen. Bernie Sanders is making it clear to his legions of younger and progressive supporters whom they should vote for in the presidential election."
-    publishedDateTime: 2020-10-05T20:14:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dhC2WF-cYGc/despite-trumps-wishful-thinking-the-left-is-standing-with-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/despite-trumps-wishful-thinking-the-left-is-standing-with-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/despite-trumps-wishful-thinking-the-left-is-standing-with-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bcd6f131-8bb7-497e-b830-1df8e24e0b05/d06f284d-0636-4e9c-abf7-0050dc54c8e5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump plans to debate Biden Oct. 15, despite COVID-19 battle"
-    excerpt: "President Trump plans to take part in next week's second presidential debate in Miami, which will take place less than two weeks after the president contracted the novel coronavirus, Trump 2020 Communications Director Tim Murtaugh told Fox News."
-    publishedDateTime: 2020-10-05T23:52:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6giRDrrsRJU/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-plans-to-debate-biden-oct-15-despite-covid-19-battle.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden up 14 points on Trump following chaotic debate, new poll indicates"
-    excerpt: "A new poll shows Joe Biden with a 14 point lead nationally over President Trump, following the first presidential debate last week. "
-    publishedDateTime: 2020-10-04T22:21:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZLph9B1wAb8/biden-jumps-to-14-point-lead-nationally-after-debate-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-jumps-to-14-point-lead-nationally-after-debate-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jumps-to-14-point-lead-nationally-after-debate-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7eef60c1-c037-44f3-91f3-ab7f0a5f168e/b4f53350-6bcb-4585-bab6-ebe95093d432/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump and Biden supporters out in force across the swing state of Florida with election one month away"
-    excerpt: "Supporters of President Trump and Democratic presidential nominee Joe Biden held rallies throughout the swing state of Florida on Saturday, as the November election fast approaches. "
-    publishedDateTime: 2020-10-04T22:44:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_ppFbEgQ6w/trump-and-biden-supporters-out-in-force-across-the-swing-state-of-florida-with-election-one-month-away"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-and-biden-supporters-out-in-force-across-the-swing-state-of-florida-with-election-one-month-away.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-biden-supporters-out-in-force-across-the-swing-state-of-florida-with-election-one-month-away.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7eef60c1-c037-44f3-91f3-ab7f0a5f168e/b4f53350-6bcb-4585-bab6-ebe95093d432/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ceasefire’s over: After Trump twitter storm, Biden urges president to ‘listen to the scientists’"
-    excerpt: "Whatever ceasefire there was between President Trump and Democratic nominee Joe Biden following the president’s hospitalization after contracting COVID-19, it appears to be over."
-    publishedDateTime: 2020-10-05T23:34:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QhxsVWLYlSU/ceasefires-over-after-trump-twitter-storm-biden-urges-president-to-listen-to-the-scientists"
-    ampWebUrl: "https://www.foxnews.com/politics/ceasefires-over-after-trump-twitter-storm-biden-urges-president-to-listen-to-the-scientists.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ceasefires-over-after-trump-twitter-storm-biden-urges-president-to-listen-to-the-scientists.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden’s whistle-stop: Democratic nominee taking post-debate train swing"
     excerpt: "Democratic presidential nominee Joe Biden is hitting the rails once the first presidential debate is over."
     publishedDateTime: 2020-09-28T17:20:04Z
@@ -143,113 +47,113 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump’s warning on voting by mail: 'This is not going to end well’"
-    excerpt: "A combustible debate Tuesday night between President Trump and Democratic presidential nominee Joe Biden concluded with a fiery exchange over the integrity of the election and ominous warning from the president."
-    publishedDateTime: 2020-09-30T05:01:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZuHg1yois4g/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
+  - title: "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing"
+    excerpt: "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why."
+    publishedDateTime: 2020-09-23T07:03:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d3GnjXtTdo/why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-debate-1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
-    excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
-    publishedDateTime: 2020-09-30T01:51:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5dxXvOBdIu4/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79e49bf7-b944-49eb-905b-4594b0fa8bc0/19832c56-70c3-4add-a268-662177528c18/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cc26de3-0e85-40c8-8ace-aed10ffbeb63/20192085-93ff-4170-8533-66ec760513ef/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Where Trump and Biden Stand on Climate and Energy Policy"
-    excerpt: "The 2020 presidential election pits one candidate making climate change integral throughout his platform against another who dismisses its importance and pledges to keep pushing a deregulatory agenda."
-    publishedDateTime: 2020-10-04T11:27:00Z
-    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-climate-and-energy-policy-11601809200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-climate-and-energy-policy-11601809200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-climate-and-energy-policy-11601809200"
+  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
+    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
+    publishedDateTime: 2020-10-04T23:47:00Z
+    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 150
+    quality: 135
     images:
-      - url: "https://images.wsj.net/im-239971/social"
+      - url: "https://images.wsj.net/im-240436/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Joe Biden takes shot at Trump over wearing masks with Twitter meme"
-    excerpt: "Joe Biden tweeted a meme showing President Trump removing his face mask upon his arrival at the White House late Monday after his treatment for COVID-19, and puts a side-by-side video of himself putting on a mask like a superhero."
-    publishedDateTime: 2020-10-06T03:39:00Z
-    webUrl: "https://www.foxnews.com/politics/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-takes-shot-at-trump-over-wearing-masks-with-twitter-meme.amp"
+  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
+    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
+    publishedDateTime: 2020-09-30T10:07:00Z
+    webUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 150
+    quality: 134
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a3cbdd1-6c06-44a4-b8e9-e1f99e0730c7/ee7e1225-cea4-4cec-a49f-f5a45b192388/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "'Disgusting': Joe Biden Tells His Tens of Followers About His Trump 'Death Blow' Fantasy"
-    excerpt: "Joe Biden’s campaign said they would pull negative ads upon news that President Trump had tested positive for coronavirus and was being admitted to Walter Reed Medical Center. I mean,"
-    publishedDateTime: 2020-10-05T20:25:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
+  - title: "Joe Biden, the Father of 'Borking'"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-09-25T11:36:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/09/25/joe_biden_the_father_of_borking_524424.html#!"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 91
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/52/521846_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
-  - title: "Joe Biden and the Green New Deal"
-    excerpt: "When asked by moderator Chris Wallace during the first presidential debate of the 2020 campaign season if he supports the Green New Deal (GND), Joe Biden said, “No, I don’t"
-    publishedDateTime: 2020-10-05T04:01:00Z
-    webUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385"
-    ampWebUrl: "https://townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/christalgo/2020/10/05/joe-biden-and-the-green-new-deal-n2577385?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Biden's Pennsylvania polling lead may not be what it seems"
-    excerpt: "At first glance, 2020 Democratic presidential nominee Joe Biden seems well positioned should his Nov. 3 election against President Trump come down to Pennsylvania."
-    publishedDateTime: 2020-10-02T10:17:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems?_amp=true"
+  - title: "Biden's debate use of Arabic phrase sparks conversation among Muslims"
+    excerpt: "Former Vice President Joe Biden on Tuesday used a bit of Arabic slang that piqued the interest of Muslims on Twitter."
+    publishedDateTime: 2020-09-30T22:04:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
+    excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
+    publishedDateTime: 2020-09-22T06:01:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/52/521949.jpg"
+        width: 1046
+        height: 784
+        isCached: true
+  - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
+    excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
+    publishedDateTime: 2020-09-22T17:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
+  - title: "‘Some black woman’: Video of Joe Biden saying why people stayed home during pandemic goes viral"
+    excerpt: "Democratic nominee for president Joe Biden attributed people's ability to stay home during the pandemic to “some black woman” stocking grocery store shelves."
+    publishedDateTime: 2020-10-05T21:42:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
 
 secured: "gvg+2XDfFy9XUrtkE9zDaxpy0d9cNiDwtomE6Ro5go7ZupiatpPBXUFwRQrmcwn3noIunEoyBdz1pzIWDNlju7ywOMKcDKi7XcF+Ym1smajdPQE6acWnFyg6tDp8OVlPkSHVKiwABBQqnywvfXZWnc0E53O2BJ5r3FElqnHqiJFTpuzLJsC9kKdNZP1JDe1Q/JYxGuPkdO58jALRn4H7fpIo812FPGdjzOLTK78wkHoCc0Iy6ajmHnEivu6tRXMRXIGVKJWjL7SUqnD5DYDYbJ04jUKXF4PQZygq5lDlxJws7JPMkpHoIu+acN71LEfDF7gWjT6nWt7LzpCXWNXhT2WJgad4/MRDhi8r80B35AY=;1p26TNktedT+bL6KNvU4hw=="
 ---

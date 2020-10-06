@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-e
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1"
 type: article
 quality: 132
-heat: 852
+heat: 872
 published: true
 
 provider:
@@ -512,6 +512,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 85
+  - title: "Trump Tries To Out-macho Covid And Signs Of Election Defeat"
+    excerpt: "President Donald Trump doubled down Tuesday on the macho image his fans adore after declaring himself cured of Covid-19 and scoffing at disastrous opinion polls only four weeks before election day against Democrat Joe Biden."
+    publishedDateTime: 2020-10-06T16:21:00Z
+    webUrl: "https://www.ibtimes.com/trump-tries-out-macho-covid-signs-election-defeat-3057581"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/no-mask-no-worries-says-us-president-donald.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Joe Biden, in Grand Rapids, wearing a mask, urges Americans to follow COVID safety rules"
     excerpt: "Biden's comments were his first since President Trump announced he and the first lady tested positive for COVID-19."
     publishedDateTime: 2020-10-03T09:28:00Z

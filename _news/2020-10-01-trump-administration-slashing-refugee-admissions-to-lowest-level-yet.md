@@ -63,6 +63,22 @@ related:
         width: 791
         height: 545
         isCached: true
+  - title: "All the president's medicine: How doctors are treating Donald Trump"
+    excerpt: "Roughly 42 hours after President Donald Trump revealed he and the first lady had tested positive for COVID-19, he tweeted out a video from Walter Reed National Military Medical Center assuring the public he was feeling \"much better\" since being given a sundry mix of medication which he called \"miracles coming down from God."
+    publishedDateTime: 2020-10-05T19:41:00Z
+    webUrl: "https://abcnews.go.com/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/trump-motorc_hpMain_20201004-222346_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump administration slashes refugee program amid president's campaign attacks on immigrants"
     excerpt: "In Obama's final year in office, the annual cap on refugees was 110,000. Trump has pared that down. In fiscal year 2021, the limit will be 15,000."
     publishedDateTime: 2020-10-01T15:18:00Z

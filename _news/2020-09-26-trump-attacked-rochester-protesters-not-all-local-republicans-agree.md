@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump has personally pressured drug company CEOs repeatedly to speed vaccine"
+    excerpt: "A likely contagious President Donald Trump returned to the White House Monday evening, whipped off his mask and filmed a video, heavy on bluster and short on facts, that proclaimed: \"The vaccines are coming momentarily.\"\n    \n"
+    publishedDateTime: 2020-10-06T17:42:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOaLsS9OMwQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-pfizer-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-pfizer-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930163912-trump-white-house-south-lawn-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump taken to Walter Reed medical center and will be hospitalized 'for the next few days'"
     excerpt: "President Donald Trump will be taken to Walter Reed National Military Medical Center, according to the White House.\n    \n"
     publishedDateTime: 2020-10-03T00:47:55Z

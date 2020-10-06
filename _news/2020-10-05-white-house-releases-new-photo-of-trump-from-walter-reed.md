@@ -125,20 +125,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Is Trump Now Down Double Digits?"
-    excerpt: "There was lots of oohing and ahhing on social media yesterday, following the release of a new NBC/WSJ poll showing Joe Biden opening up a 14-point lead over Donald Trump."
-    publishedDateTime: 2020-10-05T17:05:00Z
-    webUrl: "https://townhall.com/tipsheet/guybenson/2020/10/05/is-trump-down-double-digits-n2577441"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 65
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/276/f9e1fd9b-6188-4fd2-be72-a4a764193fb9.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "XD6NqhiSvy1gZg0fRlz8mlxXtT8chAtv1c031LemcEB+P7hq6ONx74ii2hJQpiHTFmOxYSlKLjVFTuTjjGE4aAKyXhavshXmpkK3tWIT2yT+U2MRk6EeAKzCKlbU9f0c9PN1OsPLtUZRCdykuDp4ZSBktHY5zwG4D4vMfPuKUQX4C07ilYb2ZblDnt7QAFrzpjnhLu+WCrq2+ZxuGyve11Ags3rDBrGgRENxSZlZZwuKI3g0B6+zR6dHKaT3L1UEMJmQTNCqkA4yjvekI3cXZ+7ioUwKUGydA+9Suj6g9o4gK9w18nlptmdkn2dN0sy85q8XRw4uNC4zzoLVJiouYa2hQ1PhrS/Gmx960zhtHX4=;mDQLvP6zgyFCxWBEjuk/fw=="
 ---

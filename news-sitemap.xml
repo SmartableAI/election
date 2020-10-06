@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/S47ysy96iOA/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls</loc>
+    <lastmod>2020-10-06T10:28:28-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286</loc>
+    <lastmod>2020-10-06T10:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/outlook/2020/10/06/positive-thinking-trump-virus-fear/</loc>
+    <lastmod>2020-10-06T09:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html</loc>
+    <lastmod>2020-10-06T09:30:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10</loc>
     <lastmod>2020-10-06T08:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -121,12 +145,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/GHdHy5RYZIA/biden-on-debating-trump-next-week-ill-do-whatever-the-experts-say</loc>
-    <lastmod>2020-10-05T10:02:44-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10</loc>
     <lastmod>2020-10-05T09:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -189,6 +207,12 @@
   <url>
     <loc>https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394</loc>
     <lastmod>2020-10-05T06:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106</loc>
+    <lastmod>2020-10-05T05:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -361,12 +385,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5EP6Kmbcxto/index.html</loc>
-    <lastmod>2020-10-03T11:21:26-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YjU5SL7xJBM/index.html</loc>
     <lastmod>2020-10-03T11:03:03-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -465,6 +483,12 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/85pFVFkLklI/trump-team-thinks-nevada-is-in-play-is-it</loc>
     <lastmod>2020-10-02T13:04:46-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nbcnews.com/politics/donald-trump/bipartisan-get-well-soon-wishes-trump-some-democrats-have-pointed-n1241777</loc>
+    <lastmod>2020-10-02T12:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -597,12 +621,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee</loc>
     <lastmod>2020-10-01T12:51:58-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement</loc>
-    <lastmod>2020-10-01T12:04:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1083,6 +1101,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html</loc>
     <lastmod>2020-09-28T10:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing</loc>
+    <lastmod>2020-09-28T10:20:04-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
