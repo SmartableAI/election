@@ -256,6 +256,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence takes lead role in campaign with Trump travel stopped"
+    excerpt: "Vice President Mike Pence is taking the lead role in campaigning, starting a swing through key states to bolster the president’s chance for reelection"
+    publishedDateTime: 2020-10-06T08:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-takes-lead-role-campaign-trump-travel-stopped-73445271"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-takes-lead-role-campaign-trump-travel-stopped-73445271"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-takes-lead-role-campaign-trump-travel-stopped-73445271"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_662cda88ce9344989d89bf3d08b8c3b4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Here are the recent times Trump, his kids and Pence have been in Arizona"
     excerpt: "In the weeks ahead of President Donald Trump's COVID-19 diagnosis, Trump, VP Mike Pence and members of their families made several stops in Arizona."
     publishedDateTime: 2020-10-04T21:14:00Z
@@ -2624,6 +2640,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "4ENCh/PgIrTTg7LwDWoAxlaWQQbS2DryouFaPkhygEMVWdnjw3phHkqF7kD29XnxfhmPFHzE5qw9MXq8B5QMoSkEoGE1hQVxaMx6tJ/DlDbINwEmOIKvL20zrY6w0RYtbPQX4jUDnY/0O6iX3Le4yf6znY0fPzIQNwOYVDgJLyhewPclJVjDMZeKbmyhp1k4rsfjOCbzKW5Xj5u1cp4PmAJPKecgmEaYoWjkiktoXy25UpBbhJHP+YeA4CnPEUcETi5tbe1xjxCgthrClq0e/BmbBsciqhWo5W8Ls/TUWAXh+LdXY5/Mv/cJUjPM90qmhxBzvRB2uotm0usliZAN5pFp0p7wL5tDGzHZiRDoSAU=;Dzw+zvFA3P2wRJphlHzWJA=="
+secured: "xA0NuW3fzumznVIWA68QbSuHISTM7riiJ6sGnliawtKotbyckEwY4Gi3P2f+/x0x0Anjec5UA3u5+bDLRmIIF8DbHbghs7WDC9OwpLnUPVEu+d6Je1X6HCF7AsIppDrGHouY6zpu8ToEf9czGgANtJpKdeaUrwJjWMTookGXUsNNtVNlVhyCAKUehrllddLlJM13ohzRIlj6zZsuH8FFmdmtl3g+ljkl13z39qeAGfUvg9q1Bd/CuXGsFYVyz+xV/UOPr7JvbKVgwxR0GF8S7iGVUOz0Grat+wxICL8YB4g1iLIC1jWmTlXfaQqBGvp6bEAEOCgQCGRnHSEEowOw+3cLfrnW+6OR85LohTNfxdkFX7DbRb94837kbbHwYO7wrpg6G5MdpvKvASQa82H6Y5NFgzO/37+cZMaUESd/XMHSVduFQt4kUODFVCuee1xTv9E+ndF/cLNCCP7LiY+YoX2BWu8UQQVWqApUF6FtJweBjQWbQCZgx6QQ/HtMUHT1pksR8ZaoW904gIv6E3+frA==;20+m/r4Yr5/HolHblY2BKA=="
 ---
 

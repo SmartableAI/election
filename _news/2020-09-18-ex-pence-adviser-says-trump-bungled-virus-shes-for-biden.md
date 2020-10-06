@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5355
+heat: 5375
 published: true
 
 provider:
@@ -684,6 +684,22 @@ related:
     quality: 140
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_86ed6ed498f84b80a62d9c0d7208808f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden aims to expand map as Trump recovers from coronavirus"
+    excerpt: "As President Donald Trump recovers from the coronavirus, Joe Biden is trying to capitalize on having the campaign trail all to himself"
+    publishedDateTime: 2020-10-06T08:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-aims-expand-map-trump-recovers-coronavirus-73445065"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-aims-expand-map-trump-recovers-coronavirus-73445065"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aims-expand-map-trump-recovers-coronavirus-73445065"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e57fac658c0e40f9b39d58fe98271ce7_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

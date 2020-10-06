@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-election-poll
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-election-poll-watchers-voter-fraud-20201001-pvkh7urnmvhnbk6fxxlftmevv4-story.html?outputType=amp"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/5f6ea36474fe5b0018a8da37?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "A perverse POTUS’s projection: Every time Trump accuses, he reveals his own guilt"
+    excerpt: "A rule of thumb, and twitter thumbs, we’ve learned the hard way these past few years: If Donald Trump is accusing someone of a wrongdoing, he’s probably guilty of it himself. Psychologists call this projection,"
+    publishedDateTime: 2020-10-06T08:05:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 70
+    images:
+      - url: "https://www.nydailynews.com/resizer/zp62sjxdixnH68j05vd2qKUulcc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HXZ2SXOYNAXDADS7SUMUPV6WI.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "f59NQexr1f3g1cO8+HdYG31aP5FeWtS2YvKhWiwlyaQTjFomLCKy2kJPmcFiqDv8COgRKOZIDYNTLMzexu/GRMvBaRM5UQsL7AwRYqkQ7+tphCN849BIQYTcG7UWf0QT4FITjEmm9bbSAhv6eN8TIhnu/EdYNnFfz0FRg/bDfe0Nnfn9vHub5tMh926Zu6mZR8pRCsQlGuUj4OJstQ6+EJVlKcOSL82mT8vlzgwSy+m/brJ4Vsk9/1cra3YbdflR4Vm+YxTbsgpOUS0kk9iham09QCIUWry7Yyfi9Tr4+hYKOnJ3pWqe5JwsgQ6JTzB5XyusUsVXxVe7jS0pCLqyEHS4XHQsFItop3BlVOGS1U8=;9ARwpioth+Nnx9xREaiw7g=="

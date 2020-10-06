@@ -703,6 +703,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden aims to expand map as Trump recovers from coronavirus"
+    excerpt: "As President Donald Trump recovers from the coronavirus, Joe Biden is trying to capitalize on having the campaign trail all to himself"
+    publishedDateTime: 2020-10-06T08:19:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-aims-expand-map-trump-recovers-coronavirus-73445065"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-aims-expand-map-trump-recovers-coronavirus-73445065"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aims-expand-map-trump-recovers-coronavirus-73445065"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e57fac658c0e40f9b39d58fe98271ce7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z

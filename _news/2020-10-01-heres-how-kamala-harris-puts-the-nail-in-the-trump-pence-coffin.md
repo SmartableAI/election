@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
 type: article
 quality: 175
-heat: 3655
+heat: 3675
 published: true
 
 provider:
@@ -240,6 +240,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70c41c2e45f65630144241%2F0x0.jpg%3FcropX1%3D357%26cropX2%3D4104%26cropY1%3D412%26cropY2%3D2520"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pence takes lead role in campaign with Trump travel stopped"
+    excerpt: "Vice President Mike Pence is taking the lead role in campaigning, starting a swing through key states to bolster the president’s chance for reelection"
+    publishedDateTime: 2020-10-06T08:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/pence-takes-lead-role-campaign-trump-travel-stopped-73445271"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-takes-lead-role-campaign-trump-travel-stopped-73445271"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-takes-lead-role-campaign-trump-travel-stopped-73445271"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_662cda88ce9344989d89bf3d08b8c3b4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Here are the recent times Trump, his kids and Pence have been in Arizona"
     excerpt: "In the weeks ahead of President Donald Trump's COVID-19 diagnosis, Trump, VP Mike Pence and members of their families made several stops in Arizona."

@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "A perverse POTUS’s projection: Every time Trump accuses, he reveals his own guilt"
+    excerpt: "A rule of thumb, and twitter thumbs, we’ve learned the hard way these past few years: If Donald Trump is accusing someone of a wrongdoing, he’s probably guilty of it himself. Psychologists call this projection,"
+    publishedDateTime: 2020-10-06T08:05:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-projection-20201006-uzhtodwnfzb5llppcvxo4ec24e-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 70
+    images:
+      - url: "https://www.nydailynews.com/resizer/zp62sjxdixnH68j05vd2qKUulcc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6HXZ2SXOYNAXDADS7SUMUPV6WI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "29NEJE0XyDWIrlCBaxfSy5469SJomuYTr8I07Z8SwelCvLnmBT7x6JszY8ZrwB+RRqlMWI/68IsePLQ/pVByr5Id6ioxaY6Euw9Jay1oLpfMnLIfCIxwNEp6igPm/seCOe/VCudebh1Y2jHifshT9/B3ifuR2N9XamGvWNxjxQbNiNMeCYUMEMmYFYMA2Q/fCXnwCU/1EiPids+G2a0CZZti7uSaRHHRQNBxaHkSdOHdopIQrNNZ+6QRi95VUkkSjCPXj+0ZSohdl0mGMZzj8OklpNVC+0XEbCjGfqdNNCVEoKi8rH4qEvgkQbZ3C3Vxrj9y75z5LcDWHsRcDb6ANjKlVzxe3kARYcmWPqtu51JwiGOl4OfVX82b6jicsfTxeT866CO4qZ6hsD4WeMq6KJgLYyEUCs3L+QWyz7UTBYEyjsE10QKLi7dqIiq57Ww5wL9VvX4BfaA0dakLSuKjLcC486eavM2e9T1XRWzx7VhKwpMOCutNioyQAYNCkBU2hHGDQXFMPqARqWAk8Jl0bA==;SnIzjcI9MwIOvrFtdBLK+A=="
 ---

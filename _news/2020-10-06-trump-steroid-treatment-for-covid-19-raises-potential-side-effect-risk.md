@@ -2,11 +2,11 @@
 category: news
 title: "Trump steroid treatment for COVID-19 raises potential side effect risk"
 excerpt: "U.S. President Donald Trump is being treated for COVID-19 with a steroid that is recommended for severe cases of the illness and that comes with risks of serious side effects, including mood swings, aggression and confusion."
-publishedDateTime: 2020-10-05T18:53:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-steroid/trump-steroid-treatment-for-covid-19-raises-potential-side-effect-risk-idUSKBN26Q2S4"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-steroid/trump-steroid-treatment-for-covid-19-raises-potential-side-effect-risk-idUSKBN26Q2S4"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q2S4"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q2S4"
+publishedDateTime: 2020-10-06T08:20:00Z
+originalUrl: "https://www.reuters.com/article/health-coronavirus-trump-steroid-idINKBN26R06W"
+webUrl: "https://www.reuters.com/article/health-coronavirus-trump-steroid-idINKBN26R06W"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R06W"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R06W"
 type: article
 quality: 125
 heat: -1
@@ -25,8 +25,8 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536258848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941UC"
-    width: 817
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536259936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941UE"
+    width: 785
     height: 545
     isCached: true
 
@@ -476,6 +476,17 @@ related:
         width: 800
         height: 527
         isCached: true
+  - title: "With COVID-19 diagnosis, Trump says 'I get it.' He doesn't."
+    excerpt: "President Donald Trump says he does “get it.” That revelation comes seven months — and almost 210,000 American deaths — is not the first time he has relied on personal experience to shape his views."
+    publishedDateTime: 2020-10-06T08:21:00Z
+    webUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "A running list of all the people Trump came into contact with in the days before he tested positive for COVID-19"
     excerpt: "First lady Melania Trump, top aide Hope Hicks, Sen. Mike Lee, and RNC chairwoman Ronna McDaniel are among those who have tested positive so far."
     publishedDateTime: 2020-10-02T23:03:00Z
@@ -552,6 +563,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "puWb39apqih1eRnnua3oLz6dSFqCOaH0ZNGKNILTy4tyCuf7rXelnvEBZlpVVVUonvAJyFaZQzi0ukYBCX6pFBxGiUy2Uom9RJ6MqWsdwiIaTzYX2NDX0U1SM+iTJwATes8uoGIWxOxGRav2HnH1ONA743InZdZSrJKV0sDIrtQXoH6rVPxadU3BcluSUZEVYB5rfmx40K0JSTi0YmVvUQdxTF9dzCxj4p8pNGGwhe0p2aH6cti0O7g4lNBHdiQYT6whf2itJiha/pinxpRjw6IUq9jZkdR3UDOPlDkRQSKkNdVC8wMRBpGLl9jbTZwWiDzWfYkONHkLe7FYekzI6i8x7465btMQYaDFliEuLY4=;1trVssPnin5Kp1C23d4AGA=="
+secured: "lWXaXMHTC0xu5kqujVMdTq5QOgfZA3Iu9S+8GQC+fngof8h+evsj/daEK6Xr3nk4Wl1ZedzDRLWnvRuV2uJKiBgucrxoi5roVFe+v0bffjpgaMvPQVeK3mbEueeH6hbUXMc11djXlU3lEcjTg/ZnfJEYpw+K0kucU9rtvGyK9dl7JEpSjDWKmw7agVNZ+0KnMaF3Lzoi3I175zUYBcbO2nJCmbekncmJROLkb2YDXJ6uAqVlzFFFrHUC02OLKNqUUcVJ4nBYvtW8Fil3rL7PJR58PQZYM/ZX+DrDKPvu+Sw6Ok631JswzxpUYAuOZSP3EwJ0yR+H4s+8CW75588T4INmsS1MA2J89m7FL1R0KUE=;VEev+CLM3Fb28w/usTpSpw=="
 ---
 

@@ -161,18 +161,18 @@ related:
         isCached: true
   - title: "Trump steroid treatment for COVID-19 raises potential side effect risk"
     excerpt: "U.S. President Donald Trump is being treated for COVID-19 with a steroid that is recommended for severe cases of the illness and that comes with risks of serious side effects, including mood swings, aggression and confusion."
-    publishedDateTime: 2020-10-05T18:53:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-steroid/trump-steroid-treatment-for-covid-19-raises-potential-side-effect-risk-idUSKBN26Q2S4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q2S4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q2S4"
+    publishedDateTime: 2020-10-06T08:20:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-steroid-idINKBN26R06W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R06W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R06W"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536258848&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941UC"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536259936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941UE"
+        width: 785
         height: 545
         isCached: true
   - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
@@ -492,6 +492,17 @@ related:
         width: 800
         height: 527
         isCached: true
+  - title: "With COVID-19 diagnosis, Trump says 'I get it.' He doesn't."
+    excerpt: "President Donald Trump says he does “get it.” That revelation comes seven months — and almost 210,000 American deaths — is not the first time he has relied on personal experience to shape his views."
+    publishedDateTime: 2020-10-06T08:21:00Z
+    webUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Relying on testing to ward off COVID put Trump White House at risk"
     excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
     publishedDateTime: 2020-10-03T11:30:00Z

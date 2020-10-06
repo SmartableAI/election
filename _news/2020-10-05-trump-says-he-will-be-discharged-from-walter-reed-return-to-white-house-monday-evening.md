@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Video shows Seattle-area teacher scold 10-year-old for admiring Trump: mom"
+    excerpt: "A Seattle-area middle school teacher scolded his 10-year-old student and briefly kicked him out of his virtual classroom last week after the child said he admires President Trump."
+    publishedDateTime: 2020-10-06T06:58:00Z
+    webUrl: "https://www.foxnews.com/us/seattle-teacher-trump"
+    ampWebUrl: "https://www.foxnews.com/us/seattle-teacher-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/seattle-teacher-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/School.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Alyssa Milano blasts Donald Trump's drive-by to fans outside Walter Reed Medical Center"
     excerpt: "Alyssa Milano revealed that a friend’s uncle recently died due to COVID-19 after lambasting President Donald Trump over his drive-by to fans outside Walter Reed National Military Medical Center, where he is being treated for the virus."
     publishedDateTime: 2020-10-05T18:01:00Z

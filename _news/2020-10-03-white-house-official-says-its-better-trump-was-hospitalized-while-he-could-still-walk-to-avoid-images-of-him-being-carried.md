@@ -214,6 +214,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "U.S. stocks, crude jump on revived stimulus hopes, Trump's improving health"
+    excerpt: "U.S. stocks closed sharply higher and crude prices surged Monday as renewed optimism surrounding stimulus negotiations and news of President Donald Trump's health progress helped calm investor anxiety."
+    publishedDateTime: 2020-10-06T08:18:00Z
+    webUrl: "https://www.reuters.com/article/global-markets/global-markets-u-s-stocks-crude-jump-on-revived-stimulus-hopes-trumps-improving-health-idUSL1N2GW1R3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201005&t=2&i=1536147605&r=LYNXMPEG9400A&w=800"
+        width: 799
+        height: 533
+        isCached: true
   - title: "Trump says he doesn't know Proud Boys, but 'they need to stand down,' as he faces backlash for not criticizing white supremacists"
     excerpt: "Facing criticism for not denouncing white supremacist groups during the debate Tuesday, President Trump said he's \"always denounced any form of any of that.\""
     publishedDateTime: 2020-10-01T04:12:00Z

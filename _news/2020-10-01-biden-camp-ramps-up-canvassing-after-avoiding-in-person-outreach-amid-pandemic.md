@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden distances himself from ‘socialists’ during NBC News town hall"
+    excerpt: ""
+    publishedDateTime: 2020-10-06T08:43:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4PEaQg82td4/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's wife pulls Dem nominee away from reporters in social-distancing reminder"
     excerpt: "2020 presidential candidate Joe Biden's wife Jill, had to pull him away from a group of reporters on Monday, in an effort to maintain social distancing in the lead up to November's election. "
     publishedDateTime: 2020-10-06T01:50:19Z
