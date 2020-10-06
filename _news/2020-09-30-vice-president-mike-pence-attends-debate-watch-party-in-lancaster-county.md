@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/area/southeastern-pa/vice-president-mike
 webUrl: "https://www.wfmz.com/news/area/southeastern-pa/vice-president-mike-pence-attends-debate-watch-party-in-lancaster-county/article_65255786-02cb-11eb-a8a8-3b0b4bfc1667.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,56 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Pence faces tall task in VP debate"
+    excerpt: "Vice President Mike Pence faces a challenging environment in the first vice presidential debate on Wednesday, which will take place against an unprecedented backdrop of events."
+    publishedDateTime: 2020-10-06T11:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate"
+    ampWebUrl: "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pencemike_cipollonepat_meadowsmark_092920pool_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "As Pence is about to take the debate stage next week, the 2024 primary is already in sight"
+    excerpt: "Vice President Mike Pence takes center stage next week when he debates Senator Kamala Harris for the only time in the campaign. While the debate is less than a week away, Pence stopped by Iowa on Thursday,"
+    publishedDateTime: 2020-10-01T20:58:00Z
+    webUrl: "https://www.cbsnews.com/news/pence-vice-presidential-debate-2024-republican-primaries/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/48abca91-ccc2-4c01-bf70-794a7156d1b2/thumbnail/1200x630/47440c54969d12ffd13188b98bf07fd3/ap-20275714567576.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'The road to victory goes straight through Pa': VP Pence amps up campaign in Lititz"
+    excerpt: "Vice President Mike Pence made a campaign stop in Lititz on Tuesday, Sept. 29 to host a presidential debate watch party."
+    publishedDateTime: 2020-09-30T03:10:00Z
+    webUrl: "https://www.ydr.com/story/news/2020/09/29/mike-pence-visits-lititz-presidential-debate-election-2020/3582670001/"
+    ampWebUrl: "https://amp.ydr.com/amp/3582670001"
+    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3582670001"
+    type: article
+    provider:
+      name: YDR
+      domain: ydr.com
+    quality: 69
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "OsC4e8glpfXjA1hIKVHG5CS86G6jV88PCOyHdBO4AnWQzMv6xCmOTp4mwYI7eahDmwVgS7cx2Fq6ggNDDpmJTddV4FVaEM4lfW2l6DqJRNVL4WtNR8JdjatFID1z+ir8cxuytbLA6YnrJYvuEVUFHhNv+YB1G8Hyeb2q+UDIGsLEXTi2ZBkFG1qUfPFTgCG6HyIeB4KBWkkhYbwYq/3h5ogx+BxEVMnvi3frLv5TAQAp7WMlK/ErV0mjH0ALJsL3TtYLo9rqhfAuPIw+6IApOEaBFKPr23pQkGEmBtNc1B58Ui2GV0jpr9zqYhCAKSiejpyM0Fb8FoFgXmu1HGXDDvfpSpvA7rZgsWaKx++OuBpDcgdLbZUzfswW2cU+c5T7hI88B5rmoB6iiPLvdRhrszioixk21sNJdtoY8Q+WQYDScFTKn+6hIF1nQ28jwQYJkjtQGnHGtU3s2xOt9r7fxKiz/AlSSSZowgBoIayEWEKExN7Y0tW7JpCbKEm6vJ/DikwDJoGa8eKf5gQH3DfUtw==;ceUzxHjIOaF03Q8ZMq8JIQ=="
 ---

@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-09-30-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in-cross-country-trip.md",
+      "title": "ABC's Martha Raddatz says she didn't see a lot of 'enthusiasm for Joe Biden' in cross-country trip",
+      "excerpt": "ABC's chief global affairs correspondent Martha Raddatz reports “there wasn't a whole lot of enthusiasm for Joe Biden\" during her recent 6,000-mile road trip across America, and that the economy is voters’ main focus.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
+      "originalUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
+      "publishedDateTime": "2020-09-29T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-joe-and-jill-biden-reported-earning-165-million-from-book-deals-and-speaking-engagements-since-leaving-the-white-house.md",
       "title": "Joe and Jill Biden reported earning $16.5 million from book deals and speaking engagements since leaving the White House",
       "excerpt": "The Bidens released their 2019 tax returns ahead of Biden's first presidential debate against Trump on Tuesday, September 29.",
@@ -61,7 +112,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -163,7 +214,7 @@
       "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1245,61 +1296,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/brad-parscale-hospitalized-fort-lauderdale-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brad-parscale-hospitalized-fort-lauderdale-trump.amp",
       "publishedDateTime": "2020-09-28T09:34:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.md",
-      "title": "Trump on defense after NYT publishes tax info, says he is 'entitled' to credits 'like everyone else'",
-      "excerpt": "President Trump on Monday defended his tax history, saying that he paid “millions of dollars” to the Internal Revenue Service, and touted his “impressive” financial statements and willingness to “give up” his presidential salary, in the wake of a new report that called into question what taxes, if any,",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2cj61vxfGHY/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2cj61vxfGHY/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.amp",
-      "publishedDateTime": "2020-09-28T08:41:37-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

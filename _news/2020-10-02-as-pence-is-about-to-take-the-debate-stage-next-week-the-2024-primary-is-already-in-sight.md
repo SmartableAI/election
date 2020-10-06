@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/"
 type: article
 quality: 115
-heat: 155
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,37 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "VP Mike Pence comes to Omaha area for campaign event in Carter Lake"
-    excerpt: "Vice President Mike Pence arrives at Eppley Airfield in Omaha on Thursday, October 01, 2020. The vice president is scheduled to speak at PVS Structures, a metal fabricator, in Carter Lake ..."
-    publishedDateTime: 2020-10-01T18:00:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.html"
-    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
+  - title: "Pence faces tall task in VP debate"
+    excerpt: "Vice President Mike Pence faces a challenging environment in the first vice presidential debate on Wednesday, which will take place against an unprecedented backdrop of events."
+    publishedDateTime: 2020-10-06T11:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate"
+    ampWebUrl: "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 75
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/83/683affe3-d479-598f-94ef-648f85849d4c/5f369a748c7d1.preview.png"
-        width: 699
-        height: 326
+      - url: "https://thehill.com/sites/default/files/pencemike_cipollonepat_meadowsmark_092920pool_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Vice President Mike Pence to make campaign stop in Council Bluffs this week"
-    excerpt: "The Trump campaign announced that Pence will host a “Make America Great Again!” event at Owen Industries Inc. in Council Bluffs on Thursday."
-    publishedDateTime: 2020-09-28T15:32:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
-    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+  - title: "'The road to victory goes straight through Pa': VP Pence amps up campaign in Lititz"
+    excerpt: "Vice President Mike Pence made a campaign stop in Lititz on Tuesday, Sept. 29 to host a presidential debate watch party."
+    publishedDateTime: 2020-09-30T03:10:00Z
+    webUrl: "https://www.ydr.com/story/news/2020/09/29/mike-pence-visits-lititz-presidential-debate-election-2020/3582670001/"
+    ampWebUrl: "https://amp.ydr.com/amp/3582670001"
+    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3582670001"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 73
+      name: YDR
+      domain: ydr.com
+    quality: 69
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
-        width: 512
-        height: 341
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence attends debate watch party in Lancaster County"
+    excerpt: "The first presidential debate is in the books and the Vice President chose a farm not far from Berks County ... to rally supporters prior to it.Berks County Democrats chose"
+    publishedDateTime: 2020-09-30T03:16:00Z
+    webUrl: "https://www.wfmz.com/news/area/southeastern-pa/vice-president-mike-pence-attends-debate-watch-party-in-lancaster-county/article_65255786-02cb-11eb-a8a8-3b0b4bfc1667.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/c3/1c3b45d8-63ae-5cc8-a5e6-e4dab61da526/5f73f8598958a.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "8MdomSG+rdVbMMj+W8lU8QjaaN0jM0L1U6GEpdGYO2mTNDOLUE4sp+6Kkyy8zua9waPyvetXVVtiadoRzdrJ9Cvl4Y8w0UTih3UNWqvRez9J7Gq8QL9WBFSDlYUTOETQFioERTNCpr7nXJwWoS454dPwxkLQmYRSvU4EeFRNCmSGbjcYx+29qJyK3KF4hfCk6QNPCnwAOMaBA5kEDTNqyz5nO8A6JKEUJN5OncXAZ374jmIQ8maDEgksvoH3pv209i1WS4P6q+vzNNbjDVT9F86cEStTmoN00XiP5QI5YKf/EYzLz3MexTS+cnSnRWmDopuEx1ZYOZtGqCDUHpk+lwSpOuDg+XDqNhzLCFGefxRR47xPYn72MOfT4qpyTAPDaU3FBOYLVrslm6hbKmNgf6dK2BELTHA/LSUyCUiKPHwq3FVegK/EheIemkm/SeNL4ckqM7brMlGZaAfNhhKk4HRDLCyji2PdRnMjDfNCzJ8rhrWIADr/qvgv40mcASHe8putSudQQ9pv6DF8kim0ag==;4ziTNeXydUauoY7/Uni0jQ=="

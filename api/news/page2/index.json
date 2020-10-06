@@ -2,6 +2,117 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-05-biden-visits-miamis-little-havana-haiti-ahead-of-national-town-hall-from-key-swing-state-of-florida.md",
+      "title": "Biden visits Miami's Little Havana, Haiti ahead of national town hall from key swing state of Florida",
+      "excerpt": "Democratic presidential candidate Joe Biden is expected to visit Miami’s Little Havana and Little Haiti ahead of a televised town hall Monday, as the former vice president returns to the critical swing state of Florida in the final homestretch of his election campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N0-nubYj1og/biden-miami-town-hall-little-havana-haiti",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N0-nubYj1og/biden-miami-town-hall-little-havana-haiti",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-miami-town-hall-little-havana-haiti.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-miami-town-hall-little-havana-haiti.amp",
+      "publishedDateTime": "2020-10-05T06:12:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-meadows-still-optimistic-trump-will-leave-hospital-later-on-monday.md",
+      "title": "Meadows: ‘Still optimistic’ Trump will leave hospital later on Monday",
+      "excerpt": "Trump's chief of staff said the president will meet with his doctors and nurses on Monday morning to assess his progress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "originalUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/95/64/e2030d6244139256e6df0f3d8ac3/ap20278592774995.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "publishedDateTime": "2020-10-05T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-trump-told-woodward-in-march-he-didnt-have-a-lot-of-time-to-meet-with-fauci-in-newly-released-audio.md",
       "title": "Trump told Woodward in March he didn't have 'a lot of time' to meet with Fauci in newly released audio",
       "excerpt": "President Donald Trump in March said he didn't have \"a lot of time\" to meet with Dr. Anthony Fauci as the coronavirus pandemic surged across the US, according to newly released audio from an interview with journalist Bob Woodward.\n    \n",
@@ -172,7 +283,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 280,
       "tags": null,
       "images": [
         {
@@ -546,7 +657,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 559,
+      "heat": 579,
       "tags": null,
       "images": [
         {
@@ -1217,113 +1328,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-trump-has-been-fever-free-for-over-24-hours-hasnt-need-supplemental-oxygen-at-hospital.md",
-      "title": "Trump has been 'fever-free' for over 24 hours, hasn't need supplemental oxygen at hospital",
-      "excerpt": "President Donald Trump has been fever-free for over 24 hours and has not needed supplemental oxygen Saturday morning, his doctors told reporters outside Walter Reed National Military Medical Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1241952",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952",
-      "publishedDateTime": "2020-10-03T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-an-unusual-patient-an-unusual-treatment-trump-and-the-risks-of-vip-syndrome.md",
-      "title": "An unusual patient, an unusual treatment: Trump and the risks of 'VIP syndrome'",
-      "excerpt": "\"When a patient is high profile, there's a temptation to break away from the standard medical care that you would give to any other patient -- and sometimes to the disadvantage to the patient, the VIP,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "originalUrl": "https://abcnews.go.com/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/walter-reed-presser-2-ap-rc-201003_1601740315570_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "publishedDateTime": "2020-10-03T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

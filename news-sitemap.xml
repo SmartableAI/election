@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate</loc>
+    <lastmod>2020-10-06T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10</loc>
+    <lastmod>2020-10-06T02:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496</loc>
     <lastmod>2020-10-05T22:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,6 +21,12 @@
   <url>
     <loc>https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015</loc>
     <lastmod>2020-10-05T21:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848</loc>
+    <lastmod>2020-10-05T21:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -39,12 +57,6 @@
   <url>
     <loc>https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence/619B0192-B950-4EBE-8189-F533DDF1733A</loc>
     <lastmod>2020-10-05T17:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848?mod=opinion_lead_pos8</loc>
-    <lastmod>2020-10-05T16:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -519,12 +531,6 @@
   <url>
     <loc>https://www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/</loc>
     <lastmod>2020-10-01T14:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.cbsnews.com/news/pence-vice-presidential-debate-2024-republican-primaries/</loc>
-    <lastmod>2020-10-01T13:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

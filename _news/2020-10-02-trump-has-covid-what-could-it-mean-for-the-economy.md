@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/"
 type: article
 quality: 125
-heat: 1385
+heat: 1405
 published: true
 
 provider:
@@ -551,6 +551,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/12/USAT/ee4221ac-e138-4a58-aac7-a775e2933690-USATSI_13255671.jpg?auto=webp&crop=3931,2211,x0,y154&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump appears to struggle to breathe in video of his return to the White House after COVID-19 treatment in the hospital"
+    excerpt: "Trump, keen to show his recovery, removed his mask before entering the White House. Footage from a distance seems to show his labored breathing."
+    publishedDateTime: 2020-10-06T10:38:00Z
+    webUrl: "https://www.businessinsider.com/video-trump-appears-struggle-breathe-white-house-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-trump-appears-struggle-breathe-white-house-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trump-appears-struggle-breathe-white-house-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5f7c3ce1282c500018c78c08?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump will go to Walter Reed Medical Center for a 'few days' after testing positive for COVID-19, developing a fever and cough"
     excerpt: "The president is on his way to the medical center to perform tests and will remain there for a few days, according to the White House."

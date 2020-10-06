@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-01-heres-how-kamala-harris-puts-the-nail-in-the-trump-pence-coffin.md",
+      "title": "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin",
+      "excerpt": "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 3735,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
+      "publishedDateTime": "2020-10-01T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-former-commander-of-us-forces-in-afghanistan-endorses-biden.md",
       "title": "Former commander of US forces in Afghanistan endorses Biden",
       "excerpt": "It's striking how many retired military leaders, many of whom have been apolitical for decades, have stepped up to denounce Trump, endorse Biden, or both.",
@@ -843,7 +896,7 @@
       "originalUrl": "https://www.thv11.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1258,61 +1311,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-floridas-top-city-for-cuban-exiles-goes-to-bat-for-gop-in-2020-trump-town.md",
-      "title": "Florida's top city for Cuban exiles goes to bat for GOP in 2020: 'Trump Town'",
-      "excerpt": "The city of Hialeah, outside Miami, is known for its Cuban American community of working families, tight incomes and friendships among neighbors -- and as the election nears, many say they're leaning strongly toward voting for President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/67QDNdaEbf0/hialeah-florida-cubans-trump-republicans",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/67QDNdaEbf0/hialeah-florida-cubans-trump-republicans",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Elina_-SHIRAZI-e1545231535147.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hialeah-florida-cubans-trump-republicans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hialeah-florida-cubans-trump-republicans.amp",
-      "publishedDateTime": "2020-09-30T08:22:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

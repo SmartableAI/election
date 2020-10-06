@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-29-michael-cohen-said-trumps-biggest-fear-is-ending-up-with-a-massive-tax-bill-and-face-possible-tax-fraud-charges.md",
+      "title": "Michael Cohen said Trump's 'biggest fear' is ending up with a massive tax bill and face possible tax fraud charges",
+      "excerpt": "The president's former personal attorney hinted that more could come to light after The New York Times published details of his taxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9",
+      "originalUrl": "https://www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f73030a74fe5b0018a8de1a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9?amp",
+      "publishedDateTime": "2020-09-29T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-trump-administration-warns-iraq-it-plans-to-shut-us-embassy-in-baghdad-after-rocket-attacks.md",
       "title": "Trump administration warns Iraq it plans to shut U.S. Embassy in Baghdad after rocket attacks",
       "excerpt": "In an interview with NBC News, a top U.S. general recently praised the work of Iraqi security forces protecting American interests in Iraq.",
@@ -1484,62 +1535,6 @@
       "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
       "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
       "publishedDateTime": "2020-09-24T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
-      "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
-      "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "originalUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/17/89268b77457c8792773636190c2c/gettyimages-1269389480-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
-      "publishedDateTime": "2020-09-24T01:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Politico",

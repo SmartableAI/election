@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gold subdued after Trump's discharge, weak dollar cap losses"
+    excerpt: "Gold prices eased on Tuesday, as equities gained following U.S. President Donald Trump's discharge from hospital after treatment for a coronavirus infection, though a softer dollar cushioned the bullion's further decline."
+    publishedDateTime: 2020-10-06T09:18:00Z
+    webUrl: "https://www.reuters.com/article/global-precious-idUSKBN26R1BI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R1BI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R1BI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536339055&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG950O3"
+        width: 872
+        height: 545
+        isCached: true
   - title: "Column: What Trump said about the Proud Boys was unconscionable, and obscures a great American tragedy"
     excerpt: "What Americans witnessed in the chaotic dumpster fire of a debate was this: An angry, stubborn and inarticulate Trump, putting his metaphorical foot in his own mouth, and chomping down to leave the stump twitching on the floor."
     publishedDateTime: 2020-10-01T10:17:00Z

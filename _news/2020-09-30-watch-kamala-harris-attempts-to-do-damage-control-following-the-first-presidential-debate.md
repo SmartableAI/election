@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "How to watch the vice presidential debate of Mike Pence vs. Kamala Harris"
+    excerpt: "Fox News Channel will present special live programming surrounding the 2020 vice presidential debate this week in Salt Lake City between incumbent Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris, D-Calif. "
+    publishedDateTime: 2020-10-06T10:33:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6tI6kkGVi28/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 209
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89bf11-2e28-454f-95eb-ba332598ae37/c4318333-5578-4fa3-b85c-5fc881cbef9e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
     excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
     publishedDateTime: 2020-10-02T12:52:18Z

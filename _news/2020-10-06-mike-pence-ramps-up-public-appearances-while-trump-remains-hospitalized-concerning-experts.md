@@ -2,23 +2,19 @@
 category: news
 title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
 excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
-publishedDateTime: 2020-10-05T21:30:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3615907001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615907001"
+publishedDateTime: 2020-10-06T09:51:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3615907001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3615907001"
 type: article
-quality: 130
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -46,6 +42,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Pence-Harris VP debate to draw outsized attention after Trump's coronavirus diagnosis"
+    excerpt: "This week's vice presidential debate has taken on an outsized and perhaps unprecedented significance, with questions about President Donald Trump's health now looming over the U.S. election less than a month away."
+    publishedDateTime: 2020-10-06T10:16:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-debate-idUKKBN26R1LN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26R1LN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26R1LN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 158
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536346036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG950SZ"
+        width: 819
+        height: 545
         isCached: true
   - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
     excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
@@ -1262,6 +1274,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Where Kamala Harris Studied Economics"
+    excerpt: "Kamala Harris has called her time at Howard University \"one of the most important aspects of my life.\" Much of that time was spent studying economics."
+    publishedDateTime: 2020-10-06T10:30:00Z
+    webUrl: "https://www.npr.org/sections/money/2020/10/06/920350374/where-kamala-harris-studied-economics"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/05/gettyimages-1085875696-1-_wide-d4f7b3aca8bc8f3cb7238db6b73cff7c2f8cd6d4.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
     excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
     publishedDateTime: 2020-10-04T15:57:00Z
@@ -2398,6 +2424,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Report: One quarter of Kamala Harris announcement coverage included racist or sexist stereotyping"
+    excerpt: "The report was released one day before Sen. Kamala Harris takes the debate stage against Vice President Mike Pence."
+    publishedDateTime: 2020-10-06T11:16:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/06/report-25-kamala-harris-coverage-included-racist-sexist-stereotyping/3631948001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3631948001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3631948001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/df2a8a7e-73f4-4d71-a54e-986e6ef29944-GTY_1228773922.jpg?auto=webp&crop=4799,2700,x0,y470&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
     publishedDateTime: 2020-10-02T15:23:00Z
@@ -2639,6 +2681,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "7faId9AHbXXH22m3fuWblgtuSN/jle7rCvjW13esRsAXUmfyea8aaAvLHSX4HzX9Nc3KHrXDxNB4IbI27htZSdTtn4NpJ1UaWPUd3GRML9r7wwNnDY30WWftjrIXEW550pnrXk5tVyzvDyMNS7ZzeA3ySqZ87+5hgBHbZePWO7Js22/noT2Lp/obbdamtPsdeZdSoCovL2C7XuhNcbROD1pPG9ckQJjU3WVBP61e/ZqAUmghv+/n+hQx8/1AW55GVsW8IbPoQBawyolgMtfQ2vu61sMGaNMqE5sTSDGLcBUG36VBCBYSX0r/CmsZbIT45em07JtmZ6KMcuG/lKNAzj2Xzm/6kNVlDKU1LN6tx/3eu146fwgUI6uDJe2DTVbVrxL5oI/e3qtLneYlwQK5lGTCqsxnCAW+Z5MA+1p1bWTSwVFHGFMb06idnliIsLTGIe7HCSt/g4/8ySxgf2ujMBcPqR79GShJBLIQnwxfjxCdnSp6lD44AaPDvrIKm/ILVRXjRgpz+IyQIDGn5dPNpQ==;lEI9grXHw96cz/Ew0+Ni4g=="
+secured: "9wToT3NS7LVSvViaX147x+VSqjQC3DKdxaoTLNZji/VYBbg6NT1a4CKDDNhMCn9frO4o1KDSkkSkmYjvJRn5+3OeAVZCvL9d2qTWa3bSszn7b4BHq7ej10t2bA/jWuK+BY7i2MqqlcKIW7Y8lUCTos0Y5+ywF6Mc4qiXRgkA0mMZkTbhIwS7q6g/rzXnxB9Tkqf1tusqyWe0mS2J3oua4qG1FxoV+e4bP2SyoU+f7TREB3Hj/BxJmMpN6WrgRXgt6R6MbfOwDvgpjUFDkqghDeFifvm038/50niVL55lE9WRyj/24l45s/hmsO+DhX3JqO6C23wa5NptsW6PFRfXX4sh2CS01GIWOKPnEYoq2N0=;ogewNqLa/R4KcPbKEIO6Rg=="
 ---
 

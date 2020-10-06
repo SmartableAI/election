@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden: We're Able to Stay in Our Bunkers During COVID Because Black Women Re-stock Grocery Shelves"
+    excerpt: "Elevens were dominated by those with Indian accents. Barack Obama was the first articulate black man to run for president."
+    publishedDateTime: 2020-10-06T10:00:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/06/joe-biden-were-able-to-stay-in-our-bunkers-during-covid-because-black-women-re-n2577530"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/06/joe-biden-were-able-to-stay-in-our-bunkers-during-covid-because-black-women-re-n2577530?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/06/joe-biden-were-able-to-stay-in-our-bunkers-during-covid-because-black-women-re-n2577530?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 69
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "ZPJ73f0Z/cQRGM/xeh/IQ5IcDVZlsWxbyQg0GV3kD+TnrzZ6us3fdp5DYKQ0eeT+imeaUoFRzunriV7UzNfx7DEWc0E2eEdfqEcIDmR/LAKU090z9YwtfrXdvulKF/RTW2JngtLEr97sSM5cOrwNTlu1cfT9e6iWPJqKD7pn5y5Dd/px/XjpUp19j2c0yJhiB9+KdtrT3qRAiqDPhJOQnPEK8s67BPCnBt5610dILSggPyM7SALkQA7VjawhEJUBdtuFg4okyGowTrPMD32evL0iTWIFAuYVhFrnPnCG7k7N6Tc1LvBZV5YNNIu+zC432ySTqu221oE1WAEKB+NTnUW5+FSuikW4PnSbHwKIkXH/RE96SKENkvGX0SNF4vgQUbQDvIy9gZsBa9Yfjcm2guSBRYr3F+xYZovLtQcWMkmrXaqwG6WaBSBO37+hfws2ONEpC6DEkVDdFn3dnfwt+UlnzhKry9uhXA6i8AiXSLBFP6aqWgs7PiT5jGJAbXD8LpXDfQAYHgQX2FDaGwPspw==;Yk5v1xi9uVvXwg93s+Z11g=="
 ---

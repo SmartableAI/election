@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-02-nancy-pelosi-says-donald-trumps-actions-were-brazen-invitation-to-catch-covid.md",
+      "title": "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID",
+      "excerpt": "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855",
+      "originalUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1644994/speaker-house-nancy-pelosi.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1",
+      "publishedDateTime": "2020-10-02T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-if-he-doesnt-win-ohio-its-over-trump-slips-in-the-heartland.md",
       "title": "‘If He Doesn’t Win Ohio, It’s Over’: Trump Slips in the Heartland",
       "excerpt": "Four years ago, the president easily won Ohio by building a balanced coalition among white voters across educational lines. But his support has waned since then, particularly in the suburbs.",
@@ -489,7 +540,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3675,
+      "heat": 3735,
       "tags": null,
       "images": [
         {
@@ -1064,7 +1115,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
       "featuredContent": null,
       "highlight": null,
-      "heat": 905,
+      "heat": 925,
       "tags": null,
       "images": [
         {
@@ -1217,7 +1268,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -1319,7 +1370,7 @@
       "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-need-a-bailout-20200929-wu4oqt6pcjerpgyccx4xrxfi4u-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1498,57 +1549,6 @@
       "ampWebUrl": "https://www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9?amp",
       "publishedDateTime": "2020-09-29T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-michael-cohen-said-trumps-biggest-fear-is-ending-up-with-a-massive-tax-bill-and-face-possible-tax-fraud-charges.md",
-      "title": "Michael Cohen said Trump's 'biggest fear' is ending up with a massive tax bill and face possible tax fraud charges",
-      "excerpt": "The president's former personal attorney hinted that more could come to light after The New York Times published details of his taxes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9",
-      "originalUrl": "https://www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f73030a74fe5b0018a8de1a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9?amp",
-      "publishedDateTime": "2020-09-29T03:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

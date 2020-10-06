@@ -127,6 +127,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Contagious Trump Removes Mask For White House Photo Op, Staff Nearby"
+    excerpt: "The president removed his mask to pose for cameras after receiving treatment for Covid-19 at Walter Reed medical center."
+    publishedDateTime: 2020-10-06T11:39:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c474002d3bfaf88990725%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5096%26cropY1%3D0%26cropY2%3D3398"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
     excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
     publishedDateTime: 2020-09-28T23:39:00Z

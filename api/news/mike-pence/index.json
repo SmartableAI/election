@@ -2,6 +2,113 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-06-pence-faces-tall-task-in-vp-debate.md",
+      "title": "Pence faces tall task in VP debate",
+      "excerpt": "Vice President Mike Pence faces a challenging environment in the first vice presidential debate on Wednesday, which will take place against an unprecedented backdrop of events.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate",
+      "originalUrl": "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_cipollonepat_meadowsmark_092920pool_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp",
+      "publishedDateTime": "2020-10-06T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-dont-underestimate-mike-pence.md",
+      "title": "Don’t Underestimate Mike Pence",
+      "excerpt": "A soothing dose of Hoosier calm might be just what the Trump campaign needed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848",
+      "originalUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-240708/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
+      "publishedDateTime": "2020-10-05T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence.md",
       "title": "WSJ Opinion: The Trump Ticket Needs a Dose of Mike Pence",
       "excerpt": "Main Street: Wednesday night's prime-time face-off between Mike Pence and Kamala Harris could be the most consequential vice-presidential debate ever. Images: A",
@@ -56,62 +163,6 @@
         "Mike Pence",
         "Republican Voice",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-dont-underestimate-mike-pence.md",
-      "title": "Don’t Underestimate Mike Pence",
-      "excerpt": "A soothing dose of Hoosier calm might be just what the Trump campaign needed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848?mod=opinion_lead_pos8",
-      "originalUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848?mod=opinion_lead_pos8",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-240708/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
-      "publishedDateTime": "2020-10-05T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     },
     {
@@ -179,7 +230,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 559,
+      "heat": 579,
       "tags": null,
       "images": [
         {
@@ -291,7 +342,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 4300,
+      "heat": 4360,
       "tags": null,
       "images": [
         {
@@ -511,7 +562,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 650,
+      "heat": 670,
       "tags": null,
       "images": [
         {
@@ -585,57 +636,6 @@
         "name": "Evansville Courier & Press",
         "domain": "courierpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-as-pence-is-about-to-take-the-debate-stage-next-week-the-2024-primary-is-already-in-sight.md",
-      "title": "As Pence is about to take the debate stage next week, the 2024 primary is already in sight",
-      "excerpt": "Vice President Mike Pence takes center stage next week when he debates Senator Kamala Harris for the only time in the campaign. While the debate is less than a week away, Pence stopped by Iowa on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/pence-vice-presidential-debate-2024-republican-primaries/",
-      "originalUrl": "https://www.cbsnews.com/news/pence-vice-presidential-debate-2024-republican-primaries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/48abca91-ccc2-4c01-bf70-794a7156d1b2/thumbnail/1200x630/47440c54969d12ffd13188b98bf07fd3/ap-20275714567576.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/",
-      "publishedDateTime": "2020-10-01T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -750,7 +750,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3675,
+      "heat": 3735,
       "tags": null,
       "images": [
         {
@@ -845,7 +845,7 @@
       "originalUrl": "https://www.thv11.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {

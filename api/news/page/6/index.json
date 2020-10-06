@@ -2,6 +2,61 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-30-floridas-top-city-for-cuban-exiles-goes-to-bat-for-gop-in-2020-trump-town.md",
+      "title": "Florida's top city for Cuban exiles goes to bat for GOP in 2020: 'Trump Town'",
+      "excerpt": "The city of Hialeah, outside Miami, is known for its Cuban American community of working families, tight incomes and friendships among neighbors -- and as the election nears, many say they're leaning strongly toward voting for President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/67QDNdaEbf0/hialeah-florida-cubans-trump-republicans",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/67QDNdaEbf0/hialeah-florida-cubans-trump-republicans",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Elina_-SHIRAZI-e1545231535147.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hialeah-florida-cubans-trump-republicans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hialeah-florida-cubans-trump-republicans.amp",
+      "publishedDateTime": "2020-09-30T08:22:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-cnns-don-lemon-suggests-trump-was-hopped-up-on-performance-enhancing-drugs-during-debate.md",
       "title": "CNN’s Don Lemon suggests Trump was ‘hopped up’ on performance-enhancing drugs during debate",
       "excerpt": "CNN’s Don Lemon suggested that President Trump appeared to be “hopped up” on a performance-enhancing drug during Tuesday night’s presidential debate.",
@@ -604,7 +659,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
       "featuredContent": null,
       "highlight": null,
-      "heat": 905,
+      "heat": 925,
       "tags": null,
       "images": [
         {
@@ -1279,57 +1334,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in-cross-country-trip.md",
-      "title": "ABC's Martha Raddatz says she didn't see a lot of 'enthusiasm for Joe Biden' in cross-country trip",
-      "excerpt": "ABC's chief global affairs correspondent Martha Raddatz reports “there wasn't a whole lot of enthusiasm for Joe Biden\" during her recent 6,000-mile road trip across America, and that the economy is voters’ main focus.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
-      "originalUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
-      "publishedDateTime": "2020-09-29T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

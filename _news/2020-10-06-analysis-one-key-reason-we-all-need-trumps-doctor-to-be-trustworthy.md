@@ -319,6 +319,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "CNN Poll: Biden expands lead over Trump after contentious debate and President's Covid diagnosis"
+    excerpt: "Joe Biden's advantage over President Donald Trump has expanded and the former vice president now holds his widest lead of the cycle with less than a month remaining before Election Day, according to a new nationwide CNN Poll conducted by SSRS.\n    \n"
+    publishedDateTime: 2020-10-06T11:03:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47yPBT0djP0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/cnn-poll-biden-trump-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/cnn-poll-biden-trump-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: How Trump's base appeals have backfired"
     excerpt: "Poll of the week: A new Quinnipiac University national poll finds Democratic presidential nominee Joe Biden with a 52% to 42% lead over President Donald Trump among likely voters.\n    \n"
     publishedDateTime: 2020-09-27T12:20:59Z
@@ -652,6 +668,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925153336-trump-border-wall-0623-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump mounts bizarre and misleading White House return despite warnings"
+    excerpt: "A strongly medicated President Donald Trump bolted from his VIP hospital bubble Monday, staging a bizarre White House comeback that included an irresponsible mask removal and a reckless pronouncement there is nothing to fear from Covid-19, which has already killed 210,000 Americans.\n    \n"
+    publishedDateTime: 2020-10-06T11:17:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/llKqpPMyq1I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2339,6 +2371,22 @@ related:
     webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-05-trump-covid-n1242088/ncrd1242110"
     ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
     cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417640/201005-doctors-walter-reed-ew-420p_b1ad8bbd55e872fa22c64b305dee773b.jpg"
+        width: 2500
+        height: 1676
+        isCached: true
+  - title: "Trump returns to White House from Walter Reed"
+    excerpt: "President Donald Trump returned to the White House Monday evening after leaving Walter Reed National Military Medical Center, where he had been receiving treatment for Covid-19 since Friday. White House physician Sean Conley said in a briefing with reporters after Trump tweeted that he was leaving the hospital that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released for continued treatment at the White House."
+    publishedDateTime: 2020-10-06T08:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/blog/2020-10-05-trump-covid-n1242088"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1242088"
     type: article
     provider:
       name: NBC News

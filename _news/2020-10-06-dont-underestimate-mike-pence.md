@@ -2,9 +2,9 @@
 category: news
 title: "Don’t Underestimate Mike Pence"
 excerpt: "A soothing dose of Hoosier calm might be just what the Trump campaign needed."
-publishedDateTime: 2020-10-05T23:33:00Z
-originalUrl: "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848?mod=opinion_lead_pos8"
-webUrl: "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848?mod=opinion_lead_pos8"
+publishedDateTime: 2020-10-06T04:00:00Z
+originalUrl: "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848"
+webUrl: "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848"
 ampWebUrl: "https://www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 640
     isCached: true
 
-secured: "7KdNl85BSEiChJ5ONsB24R4au/ZTjQLvxMhVL1Mwam2PX7N7u6sdo7YH1rgmiFkye4YXvoksAazy3P38zBphLELrZOUM9aJ4MeQU6jF/VsB9bAOwInxAZfYMa9IX1xZa4PvrnbFEtEyr1Cdu8Rm3CaKZqvUGdQFrr0mvb39bp4U4r+wvoPPMdtkxoIx8OQO2NYgwWMDJxoExJQvCCME9SYSYm43+FDTsb9bQ6QlV5CXWliWPEMbNbzK5leBnxuIJrJ7cx3/yV7YDK/eQLrb6Q04If08ki3GgNzVKER2qRstJz/TSsmZWWU1WPWJTL2schOqmcRrw0d07e1Z1y1A4BsTP8uenwNjrpa22SnhVzeY=;nXmqlX71UbwjM1sd2spBbw=="
+secured: "HM/PVhbSaT2gg9YSJKGDVm0dZWt85edceiVKJN0SOyjl0yeE5x3+sNe0UP7qnaxRJ2rNgwuuZFsNv9SfY91DK86H+ykKjN3n3+rDSYQVzqfYqdjiclzLsXVSkpCVm30MtVTNJru66K9B3Y9KvnuEMlUg4NRoszCNDokxeOySZ6rypop3smxMuNRjWC4vnpI17h0mGXfgi2Mqif8RVvgIV7lEQ+I3vkpONAMvUZPempOWzuJdZR+2NRFT0A4m9lpH7WtjqohsnxPu02b+rOPP7pKAjs/3V9zHqs8LNhdC76Ujc4K/32+dcbEoBOcRgyGdq9a3nhHXcb4dbJew9EL2g0jp8QsxsbDQH4ECYWIaRrA=;U6odq0pME/dAS9GRj8xu6w=="
 ---
 

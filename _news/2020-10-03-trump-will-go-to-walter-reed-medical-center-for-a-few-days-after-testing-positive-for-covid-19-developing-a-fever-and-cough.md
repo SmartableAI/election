@@ -568,6 +568,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump appears to struggle to breathe in video of his return to the White House after COVID-19 treatment in the hospital"
+    excerpt: "Trump, keen to show his recovery, removed his mask before entering the White House. Footage from a distance seems to show his labored breathing."
+    publishedDateTime: 2020-10-06T10:38:00Z
+    webUrl: "https://www.businessinsider.com/video-trump-appears-struggle-breathe-white-house-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-trump-appears-struggle-breathe-white-house-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trump-appears-struggle-breathe-white-house-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5f7c3ce1282c500018c78c08?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "You Asked, We Answered: What to know about President Donald Trump's COVID-19 diagnosis"
     excerpt: "USA TODAY breaking news reporter Grace Hauck answers some of your biggest questions after President Donald Trump tested positive for COVID-19."
     publishedDateTime: 2020-10-03T18:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-suggests-people-were-able-to-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-suggests-people-were-able-to-quarantine-because-some-black-woman-was-able-to-stack-the-grocery-shelf-in-viral-clip.amp"
 type: article
 quality: 149
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden: We're Able to Stay in Our Bunkers During COVID Because Black Women Re-stock Grocery Shelves"
+    excerpt: "Elevens were dominated by those with Indian accents. Barack Obama was the first articulate black man to run for president."
+    publishedDateTime: 2020-10-06T10:00:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/06/joe-biden-were-able-to-stay-in-our-bunkers-during-covid-because-black-women-re-n2577530"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/06/joe-biden-were-able-to-stay-in-our-bunkers-during-covid-because-black-women-re-n2577530?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/06/joe-biden-were-able-to-stay-in-our-bunkers-during-covid-because-black-women-re-n2577530?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 69
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "‘Some black woman’: Video of Joe Biden saying why people stayed home during pandemic goes viral"
     excerpt: "Democratic nominee for president Joe Biden attributed people's ability to stay home during the pandemic to “some black woman” stocking grocery store shelves."
     publishedDateTime: 2020-10-05T21:42:00Z

@@ -27,38 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "As Pence is about to take the debate stage next week, the 2024 primary is already in sight"
-    excerpt: "Vice President Mike Pence takes center stage next week when he debates Senator Kamala Harris for the only time in the campaign. While the debate is less than a week away, Pence stopped by Iowa on Thursday,"
-    publishedDateTime: 2020-10-01T20:58:00Z
-    webUrl: "https://www.cbsnews.com/news/pence-vice-presidential-debate-2024-republican-primaries/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/"
+  - title: "VP Mike Pence visits Atlanta for Cobb County event"
+    excerpt: "As part of the campaigning, Vice President Mike Pence will make a swing back through Georgia to energize Republican voters, less than a week after President Trump's visit. Here's what we know about the vice president's visit. According to the schedule from ..."
+    publishedDateTime: 2020-09-30T19:42:00Z
+    webUrl: "https://www.thv11.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
+    ampWebUrl: "https://www.thv11.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
+    cdnAmpWebUrl: "https://www-thv11-com.cdn.ampproject.org/c/s/www.thv11.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
+      name: KTHV
+      domain: thv11.com
+    quality: 75
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/48abca91-ccc2-4c01-bf70-794a7156d1b2/thumbnail/1200x630/47440c54969d12ffd13188b98bf07fd3/ap-20275714567576.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.thv11.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Vice President Mike Pence to make campaign stop in Council Bluffs this week"
-    excerpt: "The Trump campaign announced that Pence will host a “Make America Great Again!” event at Owen Industries Inc. in Council Bluffs on Thursday."
-    publishedDateTime: 2020-09-28T15:32:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
-    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+  - title: "Vice President Pence Remarks in Atlanta, Georgia"
+    excerpt: "President Mike Pence delivers remarks at a Faith and Freedom Coalition policy conference in Atlanta, Georgia. Vice President Mike Pence delivers remarks at a Faith and Freedom Coalition policy conference in Atlanta,"
+    publishedDateTime: 2020-09-30T21:14:00Z
+    webUrl: "https://www.c-span.org/video/?476415-1/vice-president-pence-addresses-faith-freedom-coalition"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 73
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
-        width: 512
-        height: 341
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "9KHgWwMRzl0xcrw1+Kyh9m51ZOyTWnee0tsKR8sah4L1l/MIwyQsmAbrqFyOQYaPfxmj0OnwhuvD7eZq3vrMu8iW42/nkQLEBwtGIkEOl9jURkCcldsTDxLmtM/2HponMJvujaUmTt7O5yUiLRnIGLStaeRB5E/gAStn+rLeNCCt5gV9mrin1yNJIWrLsVGPhtAEKqHoGFoCHv9avlgXzlu+dRgtJKRtxjSa9rHf+Cfi6Z1hcQteG79vMJB4x+Nf7TyLlb73FBEmzf4M0g4vP65uPSFi8Bu72YVygPf5cNwkUaLLkBWcwKzFoSclEQi7iY7pcPVhJ6oqL2ndKr6MZuoHPwGS9gNI7qet78kZC6tVbpXwem6oIT97YTQYgBnaf3XYLKGMYovGOpLTNnzgxv07qUz0Ebng8qP2qKlicdgKS6gak+SI3JpBsU7sTRr7uLADmnL+g97OKNq4gSefv2U8VxWdJg67xqteNIiKrnKs036iBaAdZIwc1BPil9K8psnuXrb9OgYM545HZJnARA==;+iml8UuCaKj6QUjauz0IXg=="
 ---

@@ -27,38 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "As Pence is about to take the debate stage next week, the 2024 primary is already in sight"
-    excerpt: "Vice President Mike Pence takes center stage next week when he debates Senator Kamala Harris for the only time in the campaign. While the debate is less than a week away, Pence stopped by Iowa on Thursday,"
-    publishedDateTime: 2020-10-01T20:58:00Z
-    webUrl: "https://www.cbsnews.com/news/pence-vice-presidential-debate-2024-republican-primaries/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-vice-presidential-debate-2024-republican-primaries/"
+  - title: "Vice President Mike Pence to make NH campaign stop next week"
+    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
+    publishedDateTime: 2020-09-23T00:52:00Z
+    webUrl: "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 115
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/48abca91-ccc2-4c01-bf70-794a7156d1b2/thumbnail/1200x630/47440c54969d12ffd13188b98bf07fd3/ap-20275714567576.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "VP Mike Pence comes to Omaha area for campaign event in Carter Lake"
-    excerpt: "Vice President Mike Pence arrives at Eppley Airfield in Omaha on Thursday, October 01, 2020. The vice president is scheduled to speak at PVS Structures, a metal fabricator, in Carter Lake ..."
-    publishedDateTime: 2020-10-01T18:00:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.html"
-    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vp-mike-pence-comes-to-omaha-area-for-campaign-event-in-carter-lake/article_b1159011-36b1-5079-ab15-98d73977890b.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: WTSP
+      domain: wtsp.com
     quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/6/83/683affe3-d479-598f-94ef-648f85849d4c/5f369a748c7d1.preview.png"
-        width: 699
-        height: 326
+      - url: "https://media.wtsp.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
+  - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
+    excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
+    publishedDateTime: 2020-09-17T23:56:00Z
+    webUrl: "https://www.wmur.com/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
+    ampWebUrl: "https://www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 67
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-at-exeter-town-hall-1477089715.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence to host ‘Make America Great Again!’ event in NH"
+    excerpt: "GILFORD, N.H. (WHDH) - Vice President Mike Pence will be hosting a “Make America Great Again!” event in Gilford, New Hampshire on Tuesday. This event comes as President Donald Trump and Pence ..."
+    publishedDateTime: 2020-09-22T09:44:00Z
+    webUrl: "https://whdh.com/news/pence-to-host-make-america-great-again-event-in-nh/"
+    ampWebUrl: "https://whdh.com/news/pence-to-host-make-america-great-again-event-in-nh/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/pence-to-host-make-america-great-again-event-in-nh/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 55
 
 secured: "IVUnVNjvR6R2FJg41knLXqMasFqBJ6SWYl3aKjcCYL6xFr+itBAosuqhycCk+ggX618RladSOwzxaAq3vyywXnEYJ/s6qFATZCm2iwwjs1mlELE8G4EAp5X0xZwYByuPoSEJ1BABLWqcSEVZwxL6niBNAxBzXMoy173oNDlPqUwb/Ixvwfcn0oDazz91SUZ+2XZ/aE2+3yomIuVf8RSYTzOWvrgVsiICRAkKHUJiWB/e1hf6FJ29jGJvrflvMj6wGBP63BnjKoeOj/kuHc5NBUFiq5tr2zfuSior3eLYatVeQ2izFJHnpKTddXOuo44NC9RGFPO49EoE0gDswt8vodn42inH5DuYQ/rXZ0F+oSCt4w0vyNNJ19xetsto0gU1TrgNSyVQkwQnIw9uJLV6TcgkKj+FpVxa7+JlZlhqTNBAXHG7Tfpt/xOohQZygcS4g7BaykPRIdeflL/r+8T1hYwOv5ssNoR89slKkOnPqF0VUECj58NAwKH1M3E0j7OYw5Wz3N6tKW4olvYVQtUy9A==;EUb3akXqj/QBq1Mpo0OTLg=="
 ---

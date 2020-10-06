@@ -38,6 +38,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pence-Harris VP debate to draw outsized attention after Trump's coronavirus diagnosis"
+    excerpt: "This week's vice presidential debate has taken on an outsized and perhaps unprecedented significance, with questions about President Donald Trump's health now looming over the U.S. election less than a month away."
+    publishedDateTime: 2020-10-06T10:16:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-debate-idUKKBN26R1LN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26R1LN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26R1LN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 158
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536346036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG950SZ"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
     excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
     publishedDateTime: 2020-09-20T16:54:00Z
@@ -449,22 +465,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106729766-16018947981601894796-11764345025-1080pnbcnews.jpg?v=1601894798"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
-    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
-    publishedDateTime: 2020-10-05T21:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3615907001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615907001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
@@ -1269,6 +1269,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Where Kamala Harris Studied Economics"
+    excerpt: "Kamala Harris has called her time at Howard University \"one of the most important aspects of my life.\" Much of that time was spent studying economics."
+    publishedDateTime: 2020-10-06T10:30:00Z
+    webUrl: "https://www.npr.org/sections/money/2020/10/06/920350374/where-kamala-harris-studied-economics"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/05/gettyimages-1085875696-1-_wide-d4f7b3aca8bc8f3cb7238db6b73cff7c2f8cd6d4.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
     excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
     publishedDateTime: 2020-10-04T15:57:00Z
@@ -1910,6 +1924,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
+    publishedDateTime: 2020-10-06T09:51:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3615907001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "These Kamala Harris Quotes About Mike Pence Don't Hold Back"
     excerpt: "As soon as Sen. Kamala Harris (D-California) was announced as former Vice President Joe Biden’s running mate for the 2020 presidential election, it was quickly followed by discussion of the vice presidential debate."
     publishedDateTime: 2020-10-05T18:54:00Z
@@ -2393,6 +2423,22 @@ related:
       - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Report: One quarter of Kamala Harris announcement coverage included racist or sexist stereotyping"
+    excerpt: "The report was released one day before Sen. Kamala Harris takes the debate stage against Vice President Mike Pence."
+    publishedDateTime: 2020-10-06T11:16:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/06/report-25-kamala-harris-coverage-included-racist-sexist-stereotyping/3631948001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3631948001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3631948001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/df2a8a7e-73f4-4d71-a54e-986e6ef29944-GTY_1228773922.jpg?auto=webp&crop=4799,2700,x0,y470&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."

@@ -35,6 +35,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
+    excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
+    publishedDateTime: 2020-10-06T11:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/2020-election-trump-biden-each-have-45-support-new-florida-poll/3634560001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3634560001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634560001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NSHT/86c4aa48-14d2-4477-9ff2-8fc73515bc25-AP20276854230765.jpg?auto=webp&crop=5155,2900,x0,y262&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
     excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
     publishedDateTime: 2020-09-27T09:19:00Z

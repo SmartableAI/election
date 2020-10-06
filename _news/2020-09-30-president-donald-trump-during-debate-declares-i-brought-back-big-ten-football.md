@@ -223,6 +223,22 @@ related:
         width: 1200
         height: 573
         isCached: true
+  - title: "I’m aspiring to be anti-racist and patriotic. You can be both, President Trump."
+    excerpt: "Trump thinks racial sensitivity trainings teach people to hate America and make white people feel guilt and anguish. I must have missed that part."
+    publishedDateTime: 2020-10-06T09:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/06/patriotism-means-making-america-less-racist-more-fair-column/5878547002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5878547002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5878547002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/53fa91ef-4232-485a-a17b-bd3d20ce1dd5-AP_TV-Al_Jazeera_Video.JPG?auto=webp&crop=5183,2916,x0,y345&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized"
     excerpt: "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\""
     publishedDateTime: 2020-10-05T12:24:00Z
