@@ -2,23 +2,19 @@
 category: news
 title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
 excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
-publishedDateTime: 2020-10-05T21:30:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
-ampWebUrl: "https://amp.usatoday.com/amp/3615907001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615907001"
+publishedDateTime: 2020-10-06T09:51:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3615907001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3615907001"
 type: article
-quality: 130
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -213,6 +209,22 @@ related:
     webUrl: "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
     ampWebUrl: "https://www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
     cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 146
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/04/19def6a2-ce46-4d7c-aef0-ef22b057d114/thumbnail/1200x630/81909c8d04ab0054ef6b66ffc61d14a9/ap-20276586203171.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
+    excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris; Date: Wednesday, October 7, 2020; Location: Universi"
+    publishedDateTime: 2020-10-06T16:56:00Z
+    webUrl: "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-watch-time-channel-online-watch-2020-10-07/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-watch-time-channel-online-watch-2020-10-07/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-watch-time-channel-online-watch-2020-10-07/"
     type: article
     provider:
       name: CBS News
@@ -1394,6 +1406,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "These 3 debates show Mike Pence's evolution as a skilled politician and what to expect when he faces off against Kamala Harris"
+    excerpt: "Mike Pence's debates in 1990, 2000 and 2016 show the evolution of the man who will face Democratic vice presidential nominee Kamala Harris"
+    publishedDateTime: 2020-10-06T21:43:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-debate-strategy-from-1990-to-2016-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f7cd59b282c500018c78f99?width=600&format=jpeg&auto=webp"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Mike Pence vs. Kamala Harris: When Is The Vice Presidential Debate?"
     excerpt: "After the first presidential debate Tuesday night between President Donald Trump and Democratic nominee Joe Biden, Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will square off on Oct. 7. The vice presidential debate will ..."
     publishedDateTime: 2020-09-30T00:50:00Z
@@ -2508,6 +2534,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Report: One-quarter of Kamala Harris announcement coverage included racist or sexist stereotyping"
+    excerpt: "The report was released one day before Democratic Sen. Kamala Harris takes the debate stage in Utah against Vice President Mike Pence."
+    publishedDateTime: 2020-10-06T21:26:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/06/report-25-kamala-harris-coverage-included-racist-sexist-stereotyping/3631948001/"
+    ampWebUrl: "https://amp.freep.com/amp/3631948001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3631948001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/df2a8a7e-73f4-4d71-a54e-986e6ef29944-GTY_1228773922.jpg?auto=webp&crop=4799,2700,x0,y470&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
     publishedDateTime: 2020-10-02T15:23:00Z
@@ -2611,6 +2653,17 @@ related:
         width: 768
         height: 768
         isCached: true
+  - title: "Infected Trump Working From Residence; West Wing Spaces Considered"
+    excerpt: "U.S. President Donald Trump is working from makeshift office space in the White House residence rather than the Oval Office, with only a few senior staff gaining face-to-face access while he receives treatment for COVID-19,"
+    publishedDateTime: 2020-10-06T21:06:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-06/infected-trump-working-from-residence-west-wing-spaces-considered"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-06/infected-trump-working-from-residence-west-wing-spaces-considered?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-06/infected-trump-working-from-residence-west-wing-spaces-considered?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
     publishedDateTime: 2020-09-25T02:38:00Z
@@ -2772,6 +2825,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "kGjKZ7Hh/JzL3N1AjMBBSmS4ecP6vw+tuYxE6yIwRgaWumre9DPoId6JMNjrHg2qZzzlU/LqsUdOEy0cb00LSnYbQ3MdNkG+e8SFIpoh925Cg+lli5fIPGrSqXsmlpLpiIMaUVSr4X3q3dAUz+p4dqp+/vb8YFH2DTduOm5exFQEwpRlwqt5Os3NpT9Q6mFR30v0LsTiPelHt6gZR3J9iQbhU34HGFH//fRirtfIsbpB0876tQbmomKdaaPFGyF2jGgsR+cvSOmwF08jXitLp4vm0v7H2XftWsAInfq1Hnc3GyUYfzcf9JcNYYWpIJziZSqlOTwz8XVQyeCjzknizvV19qfECqHIx1A4wpjnDeG+LW22RcfLc3dj/WNk4AGoX87lYDBXJe3y4GnIVFnnBbTMKcVaDJWYNw3/eFiYL3uLB/ASVLmn1+4xFT189sCesEhpcHpLBXLIJ1Opv2RDb9Dyi8tfzImWvcH+OeZXh85QPaq+05aZlQGFfBlUQfQFdazSdgXFNq1PI4z5NkLCwg==;IhC1LPn75ZtDe2XehwT8Qg=="
+secured: "PxF4Mx1qADSRhBZoLDeTrT+GE8syRu+G3cKKM9gj0blUlZJF82V64CaPapWpCT4rbvJ10m29JeCai52uMTqbWEivWmTkSSOL118hDvaYT1vnXUNtU17KK5v4T6z+fX+mHhBfdlz/FMw7AygXQVkGwIC7vDPKVqVzlqAfeYEy1mud/nAw6WveqA6FS80oBqKf2kq0H9vSXax6hh771h6wgVu9imbRIlx26ZYVdV8ks0Tu/Xr2ehNcQGG0oW+qU7pnYEiOSf82xSnIlcVP0+E92Xqd1xqj4/TB6mYW5lBqsWeOUYix9mjJle1JpnIOFGw56QvDW2LiTV44brPI3Wmm343Vo0Yo9xVdwbOThRD9tnw=;+0+NtUG+Vt9DKIydq9Vpjw=="
 ---
 

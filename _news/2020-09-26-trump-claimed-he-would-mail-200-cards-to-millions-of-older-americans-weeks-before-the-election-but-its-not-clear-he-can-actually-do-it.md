@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
 type: article
 quality: 106
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump claimed he's going to send $200 cards to millions of people in the mail weeks before the election — but it's not clear he can actually do it"
-    excerpt: "Trump said Americans enrolled in Medicare will receive a $200 card in the mail so they can buy prescription drugs."
-    publishedDateTime: 2020-09-25T00:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "‘Borat 2’ is coming for Mike Pence — but what can it say about Trump’s America?"
     excerpt: "What might it mean to bring Borat back? In retrospect, it’s clear that Baron Cohen’s gray-suited provocateur served as a canary in the coal mine when he pulled stunts like singing the fake Romanian folk ballad “Throw the Jew Down the Well” in an Arizona dive bar."
     publishedDateTime: 2020-09-29T18:00:00Z

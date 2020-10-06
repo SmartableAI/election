@@ -2,150 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-04-an-unusual-patient-an-unusual-treatment-trump-and-the-risks-of-vip-syndrome.md",
-      "title": "An unusual patient, an unusual treatment: Trump and the risks of 'VIP syndrome'",
-      "excerpt": "\"When a patient is high profile, there's a temptation to break away from the standard medical care that you would give to any other patient -- and sometimes to the disadvantage to the patient, the VIP,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "originalUrl": "https://abcnews.go.com/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/walter-reed-presser-2-ap-rc-201003_1601740315570_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "publishedDateTime": "2020-10-03T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark.md",
-      "title": "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark",
-      "excerpt": "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/",
-      "originalUrl": "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76773dd654b423dfece1b5%2F0x0.jpg",
-          "width": 1199,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-uk-pm-johnson-says-resilient-trump-will-make-strong-recovery.md",
-      "title": "UK PM Johnson says 'resilient' Trump will make strong recovery",
-      "excerpt": "British Prime Minster Boris Johnson said on Saturday he has no doubt U.S. President Donald Trump will make a very strong recovery from COVID-19, calling him a very \"resilient character\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26O0HX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0HX",
-      "publishedDateTime": "2020-10-03T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-03-barack-obama-wishes-speedy-recovery-to-president-trump-melania-no-matter-our-party.md",
       "title": "Barack Obama wishes 'speedy recovery' to President Trump, Melania 'no matter our party'",
       "excerpt": "Former President Barack Obama is calling for unity and compassion following President Donald Trump's COVID-19 diagnosis.",
@@ -205,7 +61,7 @@
       "originalUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -228,6 +84,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-white-house-says-trump-remains-fatigued-amid-reports-he-has-fever.md",
+      "title": "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever",
+      "excerpt": "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/",
+      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77965b260487e5b2299495%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4475%26cropY1%3D226%26cropY2%3D2743",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/",
+      "publishedDateTime": "2020-10-02T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -304,6 +211,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-03-trump-has-more-in-common-with-lincoln-than-you-might-think.md",
+      "title": "Trump has more in common with Lincoln than you might think",
+      "excerpt": "Lincoln governed during the most divided era in our nation’s history — Trump is governing in the most acrimonious period since.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
+      "originalUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trump_lincoln_08042020_1.jpg",
+          "width": 980,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp",
+      "publishedDateTime": "2020-10-02T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-this-was-avoidable-trump-has-been-downplaying-the-virus-from-the-start.md",
       "title": "'This was avoidable': Trump has been downplaying the virus from the start",
       "excerpt": "In recent weeks, Trump has put himself and others at risk by holding mass gatherings, some indoors, and shunning mask use while claiming the end of the virus was just around the corner.",
@@ -360,37 +318,37 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-trump-has-covid-what-could-it-mean-for-the-economy.md",
-      "title": "Trump Has COVID. What Could It Mean For The Economy?",
-      "excerpt": "President Donald Trump and First Lady Melania Trump have tested positive for Covid-19, the president announced on Twitter early Friday morning. Here's what to watch out for when it comes to the economy.",
+      "path": "_news/2020-10-02-ap-photos-a-busy-week-for-trump-before-positive-virus-test.md",
+      "title": "AP PHOTOS: A busy week for Trump before positive virus test",
+      "excerpt": "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
-      "originalUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
+      "webUrl": "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1485,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77137720c9b79466fe3ec8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
-      "publishedDateTime": "2020-10-02T08:41:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
+      "publishedDateTime": "2020-10-02T08:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -847,7 +805,7 @@
       "originalUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -898,7 +856,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3855,
+      "heat": 3935,
       "tags": null,
       "images": [
         {
@@ -939,6 +897,108 @@
         "Election",
         "Kamala Harris",
         "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-texas-christian-on-trump-he-sounds-just-like-me.md",
+      "title": "Texas Christian on Trump: 'he sounds just like me'",
+      "excerpt": "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf",
+      "originalUrl": "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-a-step-by-step-look-at-trumps-falsehoods-on-mail-in-voting-analysis.md",
+      "title": "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis",
+      "excerpt": "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "originalUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "publishedDateTime": "2020-10-01T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Donald Trump"
       ]
     },
@@ -1002,7 +1062,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1032,6 +1092,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-livestream-donald-trump-rallies-in-duluth-minnesota-wednesday.md",
+      "title": "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday",
+      "excerpt": "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\"",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday",
+      "originalUrl": "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/22887410/20200930/125243/styles/patch_image/public/gettyimages-979770508___30125124036.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
+      "publishedDateTime": "2020-09-30T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1209,6 +1311,57 @@
       ]
     },
     {
+      "path": "_news/2020-09-30-trumps-failure-to-condemn-white-supremacy-at-debate-part-of-a-well-established-pattern.md",
+      "title": "Trump's failure to condemn white supremacy at debate part of a well-established pattern",
+      "excerpt": "President Trump's failure to condemn white supremacists at Tuesday's debate is part of a well-established pattern in which he shows a reluctance to disavow racist groups.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315",
+      "originalUrl": "https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315",
+      "publishedDateTime": "2020-09-30T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-cnns-don-lemon-suggests-trump-was-hopped-up-on-performance-enhancing-drugs-during-debate.md",
       "title": "CNN’s Don Lemon suggests Trump was ‘hopped up’ on performance-enhancing drugs during debate",
       "excerpt": "CNN’s Don Lemon suggested that President Trump appeared to be “hopped up” on a performance-enhancing drug during Tuesday night’s presidential debate.",
@@ -1262,6 +1415,57 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-people-who-follow-trumps-advice-and-hang-around-watching-polling-places-will-be-prosecuted-nevadas-attorney-general-says.md",
+      "title": "People who follow Trump's advice and hang around watching polling places will be prosecuted, Nevada's attorney general says",
+      "excerpt": "Trump refused to commit to accepting the results of the 2020 election, instead telling supporters to \"go into the polls and watch very carefully.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9",
+      "originalUrl": "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7471ad0ab50d00184ad361?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp",
+      "publishedDateTime": "2020-09-30T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1369,210 +1573,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-doesnt-denounce-white-supremacists-and-militias-during-debate.md",
-      "title": "Trump doesn't denounce white supremacists and militias during debate",
-      "excerpt": "President Trump was given several chances during the debate. to denounce white supremacists and militias that have caused violence. Trump deflected.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 925,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-debate-6-gty-er-200929_1601430660343_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093",
-      "publishedDateTime": "2020-09-29T20:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trumps-spy-chief-just-released-russian-disinformation-against-hillary-clinton-that-he-acknowledged-may-be-fabricated.md",
-      "title": "Trump's spy chief just released 'Russian disinformation' against Hillary Clinton that he acknowledged may be fabricated",
-      "excerpt": "DNI John Ratcliffe said in a letter that the US intel community \"does not know the accuracy\" of the allegation or whether it's been fabricated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9",
-      "originalUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5d385b01b44ce752ae61652b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp",
-      "publishedDateTime": "2020-09-29T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-dont-be-like-trump-deducting-hairstyling-and-home-expenses-from-your-taxes-could-get-you-in-trouble-with-the-irs.md",
-      "title": "Don’t be like Trump: Deducting hairstyling and home expenses from your taxes could get you in trouble with the IRS",
-      "excerpt": "Trump tax returns confirm that the rich are different from you and me. So, no, you cannot deduct the cost of getting your hair cut and styled",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/",
-      "originalUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/09/29/trump-tax-return-personal-expenses/?outputType=amp",
-      "publishedDateTime": "2020-09-29T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-tax-returns-reality-show-businessman-turns-americas-loser-in-chief.md",
-      "title": "Trump tax returns: Reality show businessman turns America's loser in chief",
-      "excerpt": "How did Donald Trump bankrupt his presidency and fail to save America from COVID-19? Answers lie in his success in dodging taxes and debts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/29/USAT/f065e03b-91bf-4678-aad0-a2161d916085-Trump.jpg?auto=webp&crop=5087,2861,x0,y423&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3565963001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565963001",
-      "publishedDateTime": "2020-09-29T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump pledges to pass 'THE BIGGEST TAX CUT EVER' in early morning campaign tweetstorm from Walter Reed"
-    excerpt: "Trump previously vowed a middle-class tax cut during the November 2018 midterms, but it never happened. His second-term tax platform remains vague."
-    publishedDateTime: 2020-10-05T14:21:00Z
-    webUrl: "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10?amp"
+  - title: "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized"
+    excerpt: "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\""
+    publishedDateTime: 2020-10-05T12:24:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3621055001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Trump Ignores Reporter Questions on Being a ‘Super Spreader’ as He Leaves Walter Reed Hospital"
-    excerpt: "Trump doesn't answer when reporter asks if he is a 'potential super spreader' during discharge walk out of Walter Reed Medical Center"
-    publishedDateTime: 2020-10-05T23:50:00Z
-    webUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
+  - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
+    excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
+    publishedDateTime: 2020-10-06T14:54:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 63
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 51
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/trump_ignores_reporter_questions_on_being_a__super_spreader__as_he_leaves_walter_reed_hospital.jpg"
-        width: 799
-        height: 444
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "KUGg9sI+8JaYEg0FYDwLtdLEH7v3BGt8qH1jWlXiwF0gUb7yZMrq4DiFU1vd4kKwdjoJoDVqpG1of+jc+KYI5GEIB4HJOaykcBGT2BIG1jTwuhItZxTlQDLjQrSnNEUXvwQwdXiaUMDHZK7H+9toibzzvFSRC/flZ2jTScWj61roTqgI0DKoBIsCrbBy6OM9K3ICPpkY0Vrz1HKc9fHs3wwG3bp7S9Nmy80tyrv15NR8K78iZlTkwTnxjrNUi3lQAfIgnvUCIQZ8cSYT25P4Vor4N1qgBPae+K74MKNV+RlE4Pp3SAemDmWZg/SLeIyB+aJFtkW+wGux23K3YOHM+whfiUT6vk+zwX6eTG+wwBnQWnhu5NNeCWwQaegMSmS975y248VdmcMuASOpM+AcCsl5nLt8Pv886K4dPsR5Lh0qAsAHrIic3+38UtHcf6IDK/BwJviC8twcUV+JD9oTBMu8DcmdEwEHT1b2Y7Vr6ivUcVz1ZIvQgaJJeQJJCTlZrvszQKbFsDwK7USRUEvW3g==;Aq4RG3Kk7B+qctfzS+U+mw=="

@@ -2355,6 +2355,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Plans to Debate Joe Biden Next Week"
+    excerpt: "President Trump plans to attend next week’s debate against Democrat Joe Biden in Miami, his campaign said Tuesday, as Mr. Trump’s top military advisers began quarantining over potential exposure to coronavirus."
+    publishedDateTime: 2020-10-06T21:31:00Z
+    webUrl: "https://www.wsj.com/articles/trump-to-isolate-at-white-house-as-covid-19-recovery-continues-11601984725"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-to-isolate-at-white-house-as-covid-19-recovery-continues-11601984725"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-to-isolate-at-white-house-as-covid-19-recovery-continues-11601984725"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-241109/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
     publishedDateTime: 2020-09-27T17:13:00Z

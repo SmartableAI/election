@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis"
+    excerpt: "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements."
+    publishedDateTime: 2020-10-01T09:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is"
     excerpt: "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep."
     publishedDateTime: 2020-09-28T19:53:00Z
@@ -47,6 +63,49 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump Eases Back Into Work by Choking the Economy to Death"
+    excerpt: "The president has torpedoed stimulus talks, telling suffering Americans to bother someone else with their so-called problems."
+    publishedDateTime: 2020-10-06T21:35:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/5ac273d647083864d0b3be79/master/pass/Trump.jpg"
+        width: 2000
+        height: 1278
+        isCached: true
+  - title: "Trump is stubbornly clinging to stunts to show all is well — even as his condition worsens: analysis"
+    excerpt: "Writing for Vox, correspondent German Lopez slammed President Donald Trump for his ongoing series of stunts to prove that everything in the country is normal and there is nothing to be afraid of or criticize his government for — even as COVID-19 has made him very sick."
+    publishedDateTime: 2020-10-05T15:45:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-stubbornly-clinging-to-stunts-to-show-all-is-well-even-as-his-condition-worsens-analysis/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 60
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump-793x430.jpg"
+        width: 793
+        height: 430
+        isCached: true
+  - title: "Trump Facing Devastating Debt Load? Experts Say Not So Fast"
+    excerpt: "President Donald Trump reportedly must pay back more than $300 million in loans over the next four years, raising the possibility his lenders could face an unprecedented situation should he win a second term and not be able to raise the money: foreclosing on the leader of the free world."
+    publishedDateTime: 2020-09-29T21:05:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "D3OXTYnOidp6gCxCwuo7GtQvfcgfFhc/ay9TfBGXm+PalA1C/l1LtTRlcj1DZfmZCWBCg4IoyXfmAsIRxIrVEXTifuZ13DP2H2dipo+h7atIy3RP/XA32zpjDlr4bPPjGsrWBErjkwfjMYNoS3+dGUy9wyY8daTBBtcL+OsYbSoRO25zwd+WMy/tMTobLavk3xMLpri55S9ovPEL6q5Az5hoDfeuRYQOk4NisdtYL3kmLLcyk5iWs3QRdPXDvrYFnabSqfeaIg0IPAvlfD5YhbcvwA/I93KMRWGJwGC7NAzIcg9cg5cpleUQL6IpslewWTZRics2/D3+nxYVxQt5MafRoYOxRy3eYD6GesPyn0g=;m9qt4lXrSO/wk917DxIbKA=="
 ---

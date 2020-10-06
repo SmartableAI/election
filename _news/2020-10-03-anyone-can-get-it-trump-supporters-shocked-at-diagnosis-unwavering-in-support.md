@@ -47,21 +47,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Democrats wish Trump a swift recovery from COVID-19, and hope it changes his policies on the virus"
-    excerpt: "\"I hope he recovers fully. He needs to face justice,\" a Democrat from California said on his campaign Twitter account."
-    publishedDateTime: 2020-10-03T22:08:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
+  - title: "The debate showed that treating Trump ‘fairly’ only helps him cheat"
+    excerpt: "Tuesday night’s presidential debate perfectly illustrates how Donald Trump abuses our democratic institutions — and how feckless the media can be in the face of those violations. Since he first entered the presidential race,"
+    publishedDateTime: 2020-10-01T01:15:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f76c1f974fe5b0018a8ea04?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUNGFGQDKUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 962
         isCached: true
   - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
     excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."
@@ -74,21 +74,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 102
-  - title: "Trump tweets that he's leaving the hospital and says 'don't be afraid of Covid,' a virus that's killed over 209,000 Americans"
-    excerpt: "The president was diagnosed with COVID-19 late last week and transferred to Walter Reed hospital as his conditioned worsened on Friday."
-    publishedDateTime: 2020-10-06T04:26:00Z
-    webUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+  - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
+    excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."
+    publishedDateTime: 2020-09-30T07:33:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
     images:
-      - url: "https://i.insider.com/5f7b6e7694fce90018f7b2de?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZX5TZTQC24I6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
 
 secured: "xV57AvR6GS+F/34HX3ZW6uE6bWYgWnVH4XxbcUwT/bZirahw884pTRJjhD2/LbMLYFL1Kwd9ZsA+ZFY+xtCfdLlttJR9SetzOqhFEM2LzPeAwbu/deCffwuupKtiu/qY+Hrh6WKhNj0XfB8obnCYjpMtOTBXxq3XZ3YRZ/rbkuJW02XpxKTKaMcSeFULsjf3jTWiAY7u7XgulfSVDVtdSb+T0enTqEfr5KhSZsXLicWbRRdfkL95MQU5jO8KI1gQahF2+6thxgCng9yLoTZ8kjm6kL31Th/GClwXInkP+jVV7/ao3qdPhsC3neJN+Zw3hXqGRUKVrCHuqkcwxYk9uRGtuJ3JGjdeaCqcDoJgai4=;zIuGT27keYZwQjHoK5jI0Q=="

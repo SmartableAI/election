@@ -111,6 +111,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Don’t expect a repeat of the Trump-Biden clash at VP debate"
+    excerpt: "After a chaotic clash in Cleveland, Ohio, in the first presidential debate between Democratic nominee Joe Biden and President Trump, a more sane showdown is expected at 9 p.m. ET Wednesday in Salt Lake City, Utah."
+    publishedDateTime: 2020-10-06T20:27:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwyb70Zxdsw/dont-expect-a-repeat-of-the-trump-biden-clash-at-vp-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/dont-expect-a-repeat-of-the-trump-biden-clash-at-vp-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dont-expect-a-repeat-of-the-trump-biden-clash-at-vp-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20280626368342.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump and Biden supporters out in force across the swing state of Florida with election one month away"
     excerpt: "Supporters of President Trump and Democratic presidential nominee Joe Biden held rallies throughout the swing state of Florida on Saturday, as the November election fast approaches. "
     publishedDateTime: 2020-10-04T22:44:59Z

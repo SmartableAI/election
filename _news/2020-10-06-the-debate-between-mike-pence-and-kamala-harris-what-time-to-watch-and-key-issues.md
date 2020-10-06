@@ -3,8 +3,8 @@ category: news
 title: "The Debate Between Mike Pence and Kamala Harris: What Time to Watch and Key Issues"
 excerpt: "Vice President Mike Pence and Sen. Kamala Harris, the Democratic vice presidential nominee, will face off in their first and only debate on Wednesday at 9 p.m. ET."
 publishedDateTime: 2020-10-06T12:34:00Z
-originalUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
-webUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
+originalUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031?mod=hp_lead_pos12"
+webUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031?mod=hp_lead_pos12"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
 type: article
@@ -409,6 +409,6 @@ related:
         height: 696
         isCached: true
 
-secured: "OFKEMAacNavb97/9Brtf6DjVeUGSZcL8D0K/Qb+sXb28qWIUNAXjWLQqG0+V4G66dml/Xr6Zn8BAmyklnMDDlaPU+op24aaW/pPivp93kdq0nXD0+rqL0rYgI4FPEE3T/mOa7lEfTgFb/A/e8AXYXFRKgEVLV3TcShdikpL3qFuB4ylTi/kE5HJCV0VvFZQlHnbhbT8whtbVzoeT50EUK1SOxc8Imlbp12/XPnxqzVYRU5tPrHyHlOWDCQTYGG+1A3aMSIXPUiWJVCiboG8iH4AWZBeRrqD3E3asn2wrZdzfQqxyaabjEbwFXTHqhZLc66mMgMUu2yMKNxNqcuOGzgaC7Iybf2EyEQksJIG54r1JFIyVBvu66o8ank4dEyIP1KWG0Y1fPeNxE7mfDe5HQvUpejuxsFEbeeq+UaVz0tGjtL15hjU0pQFRG3O2HqPLqkysprKJpjBqGUCBdnmnem7kbN6eIPfY9d6SbAZ3mG+FB4Jd1a/ZFMBnLuvfS1vwgzqIZ+V3X6WTu7NsPDK+5g==;9qWzAMk/sIUkvZrvOug9Nw=="
+secured: "pv3fLw0viE5rsn0lWzrcO6uKLZc7vaM4s8ZccCg7iqM7acT96c05HaCDTdc/Dde6eED9WIMUBS2P5UoCfhDZqKQPu3yo+KCD86uFR3NXeE76k//IppEVw4etgf9cHkA7QeY1wcyBPuhu6kkO9qcd4eaDSRWrj8vc5Ra53aNsxeRA7PlMmgRj7rkAeKp9TxxUJ7BnjSmseKGESiTVf+I8cQK6keW39SzZpzUMvyihP+p2+vZnHAeiaW6g4itptUEwootlV4QBqWcYbqNUCzQ1GuOp0dz6A8J8dlIoX23T/6HXiuTx7RU1JHG9TdCIKaB9/2GtuB/kfLX8yEp8YS1u8L6psVwI8ty/E1BHxWF/hPk=;Y2CXDORa1EamjCenBQKtUg=="
 ---
 

@@ -3230,6 +3230,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump announces he's giving up on economic aid negotiations"
+    excerpt: "Americans should stop worrying about a deadly pandemic and be satisfied with high unemployment and a weak economy."
+    publishedDateTime: 2020-10-06T19:52:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-announces-he-s-giving-economic-aid-negotiations-ncna1242323"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2018_50/2679261/181211-trump-pence-pelosi-schumer-ew-1206p_98b6b0120df347aa6749aa6f649f6587.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
     publishedDateTime: 2020-10-02T00:52:00Z

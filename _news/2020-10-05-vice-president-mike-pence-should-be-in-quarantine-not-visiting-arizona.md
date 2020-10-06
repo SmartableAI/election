@@ -59,38 +59,6 @@ related:
         width: 1440
         height: 932
         isCached: true
-  - title: "Trump's virus hospitalization rocks final stage of campaign"
-    excerpt: "An election year already defined by a cascade of national crises is descending further into uncharted territory, with President Donald Trump heading to a military hospital with the coronavirus after c"
-    publishedDateTime: 2020-10-03T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_386951b5013d4be194086fac35bd2267_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "One month out, battered Trump campaign faces big challenges"
-    excerpt: "President Donald Trump and his reelection campaign have had one challenging week: His long-hidden tax returns leaked out"
-    publishedDateTime: 2020-10-05T07:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_f70a4a123ffc4358a91b7bfa117e0ce8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump Leaves Hospital To Greet Well-Wishers Outside"
     excerpt: "Trump left Walter Reed Medical Center, where he is being treated for coronavirus, Sunday and was driven by Secret Service agents past well-wishers who had lined up outside the medical facility, as part of a spontaneous makeshift parade that occurred just hours after doctors disclosed the president had been treated with oxygen and steroids."
     publishedDateTime: 2020-10-04T21:46:00Z
@@ -107,38 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Oil prices gain on supply disruptions, Trump's hospital exit"
-    excerpt: "Oil prices gained on Tuesday amid supply disruptions in Norway, a new hurricane in the Gulf of Mexico, and U.S. President Donald Trump's return to the White House after being treated for COVID-19 in hospital."
-    publishedDateTime: 2020-10-06T10:19:00Z
-    webUrl: "https://www.reuters.com/article/us-global-oil/oil-prices-climb-as-trumps-return-to-white-house-calms-nerves-idUSKBN26R05A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R05G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R05G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536304394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9501T"
-        width: 827
-        height: 545
-        isCached: true
-  - title: "Wall Street gains as Trump to leave hospital, investors hope for stimulus"
-    excerpt: "U.S. stocks rose sharply on Monday, recovering from declines in the previous session, as investors viewed more fiscal stimulus as likely and after news President Donald Trump will leave the hospital where he is being treated for COVID-19."
-    publishedDateTime: 2020-10-06T02:46:00Z
-    webUrl: "https://www.reuters.com/article/usa-stocks-idUSKBN26Q1WR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q1WR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1WR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536215896&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9416T"
-        width: 829
-        height: 545
-        isCached: true
   - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
     excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
     publishedDateTime: 2020-09-30T23:13:00Z
@@ -154,22 +90,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "President Trump could be released from hospital as early as Monday, doctors say"
-    excerpt: "The President is reported to be stable and in good spirits at Walter Reed Medical Hospital, while continuing to take doses of the drug, remdesivir."
-    publishedDateTime: 2020-10-04T16:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 121
-    images:
-      - url: "https://i.insider.com/5f79f55b2400440019129dc3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil"
     excerpt: "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U."
@@ -230,17 +150,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
-  - title: "Hospitalized with COVID-19, Trump thanks supporters, says his 'real test' lies ahead"
-    excerpt: "President Donald Trump tweeted thanks to his supporters on Sunday from the hospital where he is being treated for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his health."
-    publishedDateTime: 2020-10-04T14:18:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSKBN26P04A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P04A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P04A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
   - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
     excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
     publishedDateTime: 2020-09-28T21:17:00Z
@@ -326,17 +235,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump Leaves Hospital Briefly to Greet Supporters Outside"
-    excerpt: "President Donald Trump briefly left the hospital Sunday in his car to wave to supporters gathered outside. The president's visit came shortly after he promised his supporters “a surprise” in a video posted a video on social media."
-    publishedDateTime: 2020-10-04T21:47:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Trump Failed to Tell Sean Hannity About His Coronavirus Status During Thursday Interview — After Testing Positive"
     excerpt: "President Donald Trump reportedly failed to tell Fox News host Sean Hannity about his coronavirus test status on Thursday just hours after he tested positive."
     publishedDateTime: 2020-10-05T14:36:00Z

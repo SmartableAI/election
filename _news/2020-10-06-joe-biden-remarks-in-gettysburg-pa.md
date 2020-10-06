@@ -51,6 +51,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Michelle Obama: 'Vote for Joe Biden like your lives depend on it'"
+    excerpt: "Former first lady Michelle Obama launched a 24-minute campaign video for Joe Biden on Tuesday, slamming President Trump and urging Americans to vote for the Democratic presidential nominee like their “lives depend on it."
+    publishedDateTime: 2020-10-06T20:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/michelle_obama_c20-0-880-502_s1200x700.jpg?fb980a6d3389ca7cc435a478cad5a7e1c62b1a57"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
     publishedDateTime: 2020-10-02T19:32:00Z

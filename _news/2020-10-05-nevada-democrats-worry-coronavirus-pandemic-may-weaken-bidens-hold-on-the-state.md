@@ -463,6 +463,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cuomo rips Trump over coronavirus remarks, warns public to 'be afraid of COVID'"
+    excerpt: "The NY governor argued that Trump’s case was “not analogous to the average person in this country”"
+    publishedDateTime: 2020-10-06T21:45:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpGmPZoXATs/cuomo-trump-coronavirus-remarks-afraid-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-trump-coronavirus-remarks-afraid-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-trump-coronavirus-remarks-afraid-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b64de378-240e-4e98-af35-5d3165ecd4be/53dbc501-c403-4d86-a4e5-65f43b028dbd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House chaplain: Trump's positive coronavirus test creates 'heightened vigilance'"
     excerpt: "President Trump's announcement early Friday that he tested positive for the coronavirus has created \"heightened vigilance\" around the virus, House Chaplain Rev. Patrick Conroy said in his morning prayer."
     publishedDateTime: 2020-10-02T17:17:32Z

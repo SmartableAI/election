@@ -111,22 +111,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Ex-FDA commissioners, including former Trump advisor, warn against White House efforts to 'tip the scales' on COVID-19 vaccine"
-    excerpt: "Trump's first commissioner, and six others, suggest he's manipulating the FDA and undermining trust in any future coronavirus vaccine."
-    publishedDateTime: 2020-09-30T05:41:00Z
-    webUrl: "https://www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5f73ebf174fe5b0018a8e241?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'It's a low bar to be not Donald Trump': Young Democratic activists explain the vision of the future driving first-time voters to the polls"
     excerpt: "But will movements like March for Our Lives and the global climate strike translate to the ballot box?"
     publishedDateTime: 2020-09-24T20:09:00Z

@@ -3217,6 +3217,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump announces he's giving up on economic aid negotiations"
+    excerpt: "Americans should stop worrying about a deadly pandemic and be satisfied with high unemployment and a weak economy."
+    publishedDateTime: 2020-10-06T19:52:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-announces-he-s-giving-economic-aid-negotiations-ncna1242323"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2018_50/2679261/181211-trump-pence-pelosi-schumer-ew-1206p_98b6b0120df347aa6749aa6f649f6587.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "White House floats a Trump speech as the outbreak spreads"
     excerpt: "THE TRUMP ADMINISTRATION is considering having President DONALD TRUMP address the nation. He returned from the White House on Monday night after a weekend at Walter Reed. NYT's Maggie Haberman had this as well ALYSSA FARAH-- the White House comms director -- suggested to White House reporters that we will “hear from” TRUMP “at some point today."
     publishedDateTime: 2020-10-06T17:16:00Z

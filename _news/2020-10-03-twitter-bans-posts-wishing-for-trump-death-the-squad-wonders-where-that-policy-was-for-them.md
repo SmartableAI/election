@@ -56,6 +56,15 @@ related:
       name: Politico
       domain: politico.com
     quality: 91
+  - title: "‘The View’ Rips COVID-Riddled Trump: ‘He’s Learned Nothing!’"
+    excerpt: "The co-hosts of “The View” absolutely unloaded on President Trump for telling the American people they don’t have to fear the coronavirus."
+    publishedDateTime: 2020-10-06T20:33:00Z
+    webUrl: "https://www.thedailybeast.com/the-view-rips-covid-riddled-trump-say-hes-learned-nothing"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "r+0UOdDD95Dl8V0Tu8j7SZ1biVhR0UArYegfohVLjorGtUBUDeTIxrnEjFJFkcT8LLYK/fk65+UbVVd6nGwX0ipjw3mTdULlIhEpc5+dVxylStqBQ8PopLLoPI/mS0eoENX1WwxD8wyisX82kLRGlDDgVJgEeZihHhiDfc31N5mwP0I0XNuCFFcyjxAbOwC48diozBH/jReEuOGQujKWfxDko+pfLaZOqLWXqV5v58mxafC0Crh+s7x5e3DwOWh+bwzF7IXWdkuo0iAHcs29dtcQGCjX+R1ybvidXAExZGJbxOCQvjApLV8j2tgar8ZRP/lPrp+IALQyBIqP3KPoe7x/A8lE+5du5vN7TyTE3Ns=;bWh2IFCAtEOdJ95JUE9XrA=="
 ---

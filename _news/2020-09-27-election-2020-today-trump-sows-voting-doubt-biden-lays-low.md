@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Presidential Election Odds Reach New Low For Trump As Bettors Back Biden"
+    excerpt: "President Donald Trump’s reelection odds were dealt a blow following the first Presidential Debate with former Vice President Joe Biden, but the news of his COVID-19 diagnosis has seen Biden’s lead extend to it’s highest spread since the start of the campaign."
+    publishedDateTime: 2020-10-06T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/zackjones/2020/10/06/presidential-election-odds-reach-new-low-for-trump-as-bettors-back-biden/"
+    ampWebUrl: "https://www.forbes.com/sites/zackjones/2020/10/06/presidential-election-odds-reach-new-low-for-trump-as-bettors-back-biden/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zackjones/2020/10/06/presidential-election-odds-reach-new-low-for-trump-as-bettors-back-biden/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 154
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cd36ec82c11faf215e19b%2F0x0.jpg"
+        width: 1199
+        height: 740
+        isCached: true
   - title: "Today’s Election 2020 Polls: Trump Strong On Economy, Biden Wins Everything Else"
     excerpt: "Biden is ahead of Trump by 10% nationally (52%-42%), according to a NPR/PBS NewsHour/Marist College poll conducted between September 11 and 16. Biden is also leading Trump in a handful of battleground states: the former vice president leads by 17% in Maine,"
     publishedDateTime: 2020-09-18T19:21:00Z

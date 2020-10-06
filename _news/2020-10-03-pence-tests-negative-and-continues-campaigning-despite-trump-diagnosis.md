@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
 type: article
 quality: 200
-heat: 4560
+heat: 4580
 published: true
 
 provider:
@@ -3213,6 +3213,20 @@ related:
     quality: 115
     images:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_143124c09202f4a5ae26e07116994909.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump announces he's giving up on economic aid negotiations"
+    excerpt: "Americans should stop worrying about a deadly pandemic and be satisfied with high unemployment and a weak economy."
+    publishedDateTime: 2020-10-06T19:52:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-announces-he-s-giving-economic-aid-negotiations-ncna1242323"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2018_50/2679261/181211-trump-pence-pelosi-schumer-ew-1206p_98b6b0120df347aa6749aa6f649f6587.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

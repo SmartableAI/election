@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump debate comment pushing Black Americans, others to vote"
-    excerpt: "Black Americans and other people of color say President Donald Trump’s refusal to outright condemn white nationalists during this week’s debate has strengthened their resolve to vote"
-    publishedDateTime: 2020-10-02T07:12:00Z
-    webUrl: "https://www.washingtonpost.com/health/trump-debate-comment-pushing-black-americans-others-to-vote/2020/10/02/82517fb6-047d-11eb-b92e-029676f9ebec_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/trump-debate-comment-pushing-black-americans-others-to-vote/2020/10/02/82517fb6-047d-11eb-b92e-029676f9ebec_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-debate-comment-pushing-black-americans-others-to-vote/2020/10/02/82517fb6-047d-11eb-b92e-029676f9ebec_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Trump's performance was a gift to American democracy"
     excerpt: "If Trump’s questionable display brought us one step closer to seeing the reality of who he is and what he means for the country, then Trump unwittingly offered us all a gift — a clarion call to step up now and save democracy itself."
     publishedDateTime: 2020-10-03T19:00:00Z
@@ -268,6 +252,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLGSSFX6YMI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 959
+        isCached: true
+  - title: "The American People Deserve to Know More About President Trump's Condition"
+    excerpt: "T he world’s attention turned to U.S. President Donald Trump on Friday, when we learned via his early morning tweet that he and First Lady Melania Trump had tested positive for"
+    publishedDateTime: 2020-10-03T19:39:00Z
+    webUrl: "https://time.com/5895970/trump-covid-19-health/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 103
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/trump-health-covid-19.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Donald Trump Is Losing On An Issue Voters Care A Lot About. Here's How He's Trying to Change That"
     excerpt: "With nearly 200,000 Americans dead from COVID-19 and millions more who lost their health insurance when they lost their jobs this year, President Donald Trump tried this week—as he has done throughout his presidency—to change the conversation."

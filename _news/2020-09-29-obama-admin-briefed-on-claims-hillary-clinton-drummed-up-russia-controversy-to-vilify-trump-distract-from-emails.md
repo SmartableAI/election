@@ -47,6 +47,22 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Trump administration unveils sweeping changes to controversial H-1B guest worker program"
+    excerpt: "The Trump administration on Tuesday announced sweeping rule changes to the controversial H-1B guest worker program -- changes that the administration says will protect American wages, prevent abuse and hit more than a third of the tens of thousands of applications filed each year."
+    publishedDateTime: 2020-10-06T21:23:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnH3GTp1a_c/trump-changes-to-h-1b-guest-worker-program"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-changes-to-h-1b-guest-worker-program.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-changes-to-h-1b-guest-worker-program.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "MSNBC’s Donny Deutsch compares Trump to Hitler, blasts Jewish Americans who support him"
     excerpt: "MSNBC mainstay Donny Deutsch compared President Trump to Adolf Hitler on Wednesday morning and blasted Jewish Americans who plan to vote for him in November."
     publishedDateTime: 2020-09-23T13:55:00Z

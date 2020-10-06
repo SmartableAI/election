@@ -10,7 +10,7 @@
       "originalUrl": "https://thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -216,57 +216,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-05-goldmans-chief-economist-breaks-down-why-a-biden-led-blue-wave-would-prompt-an-upgrade-in-growth-forecasts.md",
-      "title": "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts",
-      "excerpt": "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
-      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg",
-          "width": 2886,
-          "height": 1443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
-      "publishedDateTime": "2020-10-05T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-joe-biden-enlists-artists-like-ludacris-dupri-jeezy-and-monica-for-voting-ads-in-battleground-states.md",
       "title": "Joe Biden enlists artists like Ludacris, Dupri, Jeezy and Monica for voting ads in battleground states",
       "excerpt": "Joe Biden has tapped popular music artists like Ludacris, Monica, Jermaine Dupri and Jeezy to encourage Black citizens in battleground states to vote in the upcoming presidential election.",
@@ -331,7 +280,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -382,7 +331,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 280,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -481,77 +430,35 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-why-joe-biden-cant-expect-to-automatically-get-the-latino-vote.md",
-      "title": "Why Joe Biden can't expect to automatically get the Latino vote",
-      "excerpt": "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise.",
+      "path": "_news/2020-10-04-howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline.md",
+      "title": "Howie Carr: Media continue to cover up Joe Biden’s mental decline",
+      "excerpt": "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips.",
       "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/",
-      "originalUrl": "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/",
+      "webUrl": "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/",
+      "originalUrl": "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 677,
+          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684",
+          "width": 1024,
+          "height": 684,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/3533570001",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001",
-      "publishedDateTime": "2020-10-03T06:14:00-07:00",
+      "ampWebUrl": "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/",
+      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/",
+      "publishedDateTime": "2020-10-03T11:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
+        "name": "Boston Herald",
+        "domain": "bostonherald.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-biden-campaign-sees-opportunity-in-military-women-spouses-and-people-of-color.md",
-      "title": "Biden campaign sees opportunity in military women, spouses and people of color",
-      "excerpt": "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-03T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -674,6 +581,108 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-joe-and-jill-biden-test-negative-for-covid-19-doctor-says.md",
+      "title": "Joe and Jill Biden test negative for COVID-19, doctor says",
+      "excerpt": "Joe and Jill Biden tested negative for coronavirus Friday morning, after President Trump and First Lady Melania Trump tested positive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/",
+      "originalUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/02/061d0c26-d4db-4165-9a46-4fdd228be443/thumbnail/1200x630/fdffb3a33dc359e38ea3e1f25c784e06/gettyimages-1277616091-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/",
+      "publishedDateTime": "2020-10-02T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins.md",
+      "title": "Democratic Armed Services chairman predicts defense budget fight if Biden wins",
+      "excerpt": "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins",
+      "originalUrl": "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp",
+      "publishedDateTime": "2020-10-01T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -848,7 +857,7 @@
       "originalUrl": "https://www.bbc.com/news/av/world-us-canada-54363831",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1007,7 +1016,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1157,108 +1166,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-30-joe-scarborough-urges-biden-do-not-do-anymore-debates.md",
-      "title": "Joe Scarborough urges Biden: 'Do not do anymore debates'",
-      "excerpt": "MSNBC's Joe Scarborough called on Joe Biden to \"not do anymore debates,\" tweeting that the first showdown between the current president and the former vice president was \"a disgrace.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates",
-      "originalUrl": "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/scarboroughjoe08292017msnbc.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp",
-      "publishedDateTime": "2020-09-29T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-breakingviews-debate-chaos-is-a-gift-for-a-conflicted-biden.md",
-      "title": "Breakingviews - Debate chaos is a gift for a conflicted Biden",
-      "excerpt": "Donald Trump just gave Joe Biden a gift. The first televised debate of the 2020 election could have forced the Democratic presidential nominee to explain how he can appease both economic moderates and progressives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535463441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0C5",
-          "width": 859,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26L0G1",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L0G1",
-      "publishedDateTime": "2020-09-29T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-30-joe-biden-tweets-joke-mocking-earpiece-and-drug-allegations-with-photo-of-headphones-and-ice-cream.md",
       "title": "Joe Biden tweets joke mocking 'earpiece' and 'drug' allegations with photo of headphones and ice cream",
       "excerpt": "\"I’ve got my earpiece and performance enhancers ready,\" Biden wrote on Twitter with a photo of tangled earbuds and a pint of ice cream.",
@@ -1341,57 +1248,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-joe-and-jill-biden-reported-earning-165-million-from-book-deals-and-speaking-engagements-since-leaving-the-white-house.md",
-      "title": "Joe and Jill Biden reported earning $16.5 million from book deals and speaking engagements since leaving the White House",
-      "excerpt": "The Bidens released their 2019 tax returns ahead of Biden's first presidential debate against Trump on Tuesday, September 29.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7",
-      "originalUrl": "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5d24f6bba17d6c08a7639382?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/personal-finance/bidens-earned-156-million-from-book-deals-speeches-since-2017-2019-7?amp",
-      "publishedDateTime": "2020-09-29T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1567,6 +1423,146 @@
       "topics": [
         "Election",
         "Kamala Harris",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.md",
+      "title": "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo",
+      "excerpt": "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
+      "originalUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg",
+          "width": 4923,
+          "height": 3282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "publishedDateTime": "2020-09-27T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court.md",
+      "title": "Watch live: Joe Biden delivers remarks in Delaware on Supreme Court",
+      "excerpt": "Watch live coverage of Joe Biden as he delivers remarks in Wilmington, Del., on the U.S. Supreme Court.Sept. 27, 2020 © 2020 NBC UNIVERSAL",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden1.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92653637692",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92653637692",
+      "publishedDateTime": "2020-09-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-joe-biden-amy-coney-barrett-is-a-threat-to-obamacare.md",
+      "title": "Joe Biden: Amy Coney Barrett is a threat to Obamacare",
+      "excerpt": "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/26/election_2020_biden_13918_c0-164-5833-3566_s1200x700.jpg?9f7efeb7b81d45783e417f0bb02a19bf07526104",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
+      "publishedDateTime": "2020-09-26T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Joe Biden"
       ]
     }

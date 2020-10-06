@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
 webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
 type: article
 quality: 102
-heat: 142
+heat: 102
 published: true
 
 provider:
@@ -27,40 +27,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "Who are the Proud Boys? Far-right group known for political brawls are in the spotlight after Trump tells them to ‘stand back and stand by.'"
-    excerpt: "President Trump at the first debate said the extremist organization should “stand back and stand by.” Some saw it as an endorsement."
-    publishedDateTime: 2020-10-01T12:09:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-proud-boys-20201001-agpwdfy24ffdbatjftfyfned6u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 90
-    images:
-      - url: "https://www.chicagotribune.com/resizer/kRsm-krjMvssFaeh4m9LxoXLvfE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPXJMF6M6ZEF5M6MAJQCQ5FA5I.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
-    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
-    publishedDateTime: 2020-10-01T16:10:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 70
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "Jui4BADPcErDgoBJSV4KJUbEISqJZeo3StGpbbQH2Iug7ahYEJ73IfAaaYjqFNjSDhy9nSiiuw8Fy96zRrElu0FXsSrzlInyinTe/wIC6HiPhMJuIcKYNjJkTuhgBZL5lwN6vrnknmZwfr8dlnCEqVWbRxQQ99Rv28WFYou4Tlzzs7uVHaLiWIapQad3HUdeEgoI/gZEEJuAssG73EcHatiAgiiD5A24d/VM/B5ppvVPKncBSdIxNWMBbxo41buPX3nR6BmQLT8Ggbc6vB0iwRxD3a3rM7YqT75ZiY5wB6BnZyaNEXBrrq8NBoZGDdmM+XEt5QbmqscxhABNt41XsSUMINmeP87nF5vbsINKQyY=;6XgV9WRQQAPclee1Rp8Xow=="
 ---

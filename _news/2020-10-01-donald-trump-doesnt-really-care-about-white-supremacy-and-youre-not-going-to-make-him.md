@@ -159,22 +159,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "The Cybersecurity 202: Trump made a slew of false claims about mail voting during the first debate"
-    excerpt: "President Trump closed the first 2020 presidential debate with a barrage of false claims about mail voting that are sure to give heartburn to officials trying to run an orderly election amid extremely difficult circumstances."
-    publishedDateTime: 2020-09-30T11:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/cybersecurity-202-trump-made-slew-false-claims-about-mail-voting-during-first-debate/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/cybersecurity-202-trump-made-slew-false-claims-about-mail-voting-during-first-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/cybersecurity-202-trump-made-slew-false-claims-about-mail-voting-during-first-debate/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SJEYTIQC3MI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 971
-        isCached: true
   - title: "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All"
     excerpt: "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise."
     publishedDateTime: 2020-09-25T02:05:00Z

@@ -63,22 +63,6 @@ related:
         width: 885
         height: 545
         isCached: true
-  - title: "Trump urges Americans to 'get out there' after return from hospital"
-    excerpt: "President Donald Trump emerged on Monday from four days in a U.S. military hospital where he was treated for COVID-19 with a video message to Americans to \"get out there\" and not be afraid of coronavirus."
-    publishedDateTime: 2020-10-06T00:48:00Z
-    webUrl: "https://www.reuters.com/article/healthcare-coronavirus-trump-video-int-idUSKBN26R00L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R00L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R00L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536301868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95007"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
     excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
     publishedDateTime: 2020-09-28T07:29:00Z
@@ -143,22 +127,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Rose Garden announcement of Supreme Court nominee potential 'super spreader' event, with Trump plus seven others getting COVID"
-    excerpt: "Trump and Hicks may have exposed scores of other people to COVID-19, including his top advisers, his campaign donors and his Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-03T02:59:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/how-did-trump-get-covid-and-who-has-he-infected/3590490001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3590490001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3590490001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/e509f056-849b-436d-aad7-f0614261ba9a-Amy_Coney_Barrett_05.JPG?auto=webp&crop=4766,2681,x0,y7&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why Donald Trump's Former Housekeeper—and Millions of Other American Workers—Paid More in Federal Taxes Than Her Boss"
     excerpt: "Sandra Diaz, Donald Trump's former housekeeper, is not alone in paying more federal income taxes than Trump before his presidency."
     publishedDateTime: 2020-09-30T21:04:00Z
@@ -189,6 +157,22 @@ related:
         width: 1200
         height: 774
         isCached: true
+  - title: "Donald Trump Announces He’s Leaving Walter Reed Hospital to Infect the Rest of White House"
+    excerpt: "He claims to feel better than he did 20 years ago and told people not to let the deadly virus “dominate” their lives."
+    publishedDateTime: 2020-10-05T20:46:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 65
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7b78a06cac71ad7f787f72/master/pass/donaldtrumphospital.jpg"
+        width: 2000
+        height: 1281
+        isCached: true
   - title: "The Latest: Trump’s Diagnosis a Reminder US Cases on Rise"
     excerpt: "The news of President Donald Trump’s coronavirus diagnosis serves as a reminder of the pervasive spread of the coronavirus in the United States."
     publishedDateTime: 2020-10-03T21:31:00Z
@@ -200,6 +184,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T06:26:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "XVGI4qcbLRfRmH6i57GVl/U7AzyvA3Ck/IElTloGF4LoAOiUYGPiSEAfS+QPUbS0jWYzYlI9oI7KMji+I7WRlDcn2AZ9KkG7i+HBknM4JFc0n+0b0SGBiGMxYitiTRwnqLCtBgUVxknT+5Jqw2+RX1x5MebrNo9dwztYAxLZQk7CFLiQ19INfvVMrx7TcVe+OK5bkVmwc36BLWmU53LjthlFqtq5T9pbLLZBo1KaV5Xz1a+AUJPeoyZ7wGZ6Ka1ZfuFuUVcajldX8XrrMLq4UV4AhftBSIoTpHwZgR6xst3MBb3BHHLVuBkT33nQfCloBHogMVd+vPdzd+FRoBkF8LYV1rpdc7tmNfRGyjsd4tE=;518vHHXxRBLQTSvJHZtpnQ=="
 ---

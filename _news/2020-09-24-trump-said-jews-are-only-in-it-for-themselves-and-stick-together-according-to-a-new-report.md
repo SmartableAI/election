@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themse
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: Business Insider
@@ -31,81 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
-    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
-    publishedDateTime: 2020-09-26T05:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "AP PHOTOS: A busy week for Trump before positive virus test"
-    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House."
-    publishedDateTime: 2020-10-02T15:29:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
-    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
-    publishedDateTime: 2020-09-28T23:39:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+  - title: "The Proud Boys are using Trump's 'stand by' remark as a recruiting tool, rebranding to incorporate what they see as his call to action"
+    excerpt: "On social media members of the far-right group celebrated the president's comments, and launched a renewed recruitment drive."
+    publishedDateTime: 2020-09-30T15:00:00Z
+    webUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 117
+    quality: 93
     images:
-      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f748ee40ab50d00184ad3ba?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "People who follow Trump's advice and hang around watching polling places will be prosecuted, Nevada's attorney general says"
-    excerpt: "Trump refused to commit to accepting the results of the 2020 election, instead telling supporters to \"go into the polls and watch very carefully.\""
-    publishedDateTime: 2020-09-30T13:14:00Z
-    webUrl: "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://i.insider.com/5f7471ad0ab50d00184ad361?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
-    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
-    publishedDateTime: 2020-09-29T06:26:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 51
 
 secured: "UXcnPpz6Gs6lMjn2ZlwpNwdv9u4jdiYhKkFuPUSI6y1FaKZlg2pjawshO0mwQHG2ME3VZ5WAMmypGnkyF5H51ntV/5f6Qdh1Z1N9jVBWq1KB+KqRylfgay3/9z0bnf/CL2L5xFiWmxLkYDSUfBKo3ffxQc4xDWxW7V3nVS/2wNVEWQhSd12scbKXTIeyiNK0fr8D+bv2CImFJaSDseTRHx19Dl3g1+3nLCyvbrdiCUiuELjuV/hVUDMXCvOJCSp+tJBxq6wOeSUUqqxhe5w+v0HwxL+N6MCnDYWFxyDakei11rLCNXHmEyERetOUkzm+BWobat7+rSGtX7bCVR6XF2eAHFZjH5LWx9Km4JrYvLpDKfx3yzwnJXRNK8E49ZJED2IKB7pBYwmJdB8A1MXRwPm1at+uuwfiiGq/BI26ef6r4EQJ144W6tjeQ1VukjRbFuAr2nJ1LJZzCNhtucXQU6+/CK6cXGk8oXR+35hZ26KpiVuLD846YTj2qHRwKzqz4iTndX7U2jL4iCah3+t5ug==;fqax3/gGgEUm+b1P723Dng=="
 ---

@@ -2,6 +2,117 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-02-mcmaster-mostly-silent-until-now-says-trump-is-aiding-and-abetting-putins-efforts.md",
+      "title": "McMaster, Mostly Silent Until Now, Says Trump Is ‘Aiding and Abetting Putin’s Efforts’",
+      "excerpt": "This sustained campaign of disruption, disinformation, and denial, is aided by any leader who doesn’t acknowledge it,” President Trump’s former national security adviser said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-mcmaster/01dc-mcmaster-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
+      "publishedDateTime": "2020-10-01T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-leader-of-proud-boys-also-leads-grassroots-group-latinos-for-trump.md",
+      "title": "Leader of Proud Boys also leads grassroots group Latinos for Trump",
+      "excerpt": "The leader of the Proud Boys, a far-right group thrust into the spotlight earlier this week during the presidential debate, is also the leader of the grassroots group Latinos for Trump.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hhvzj_wxJYE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hhvzj_wxJYE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200926165616-01-proud-boys-portland-0926-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html",
+      "publishedDateTime": "2020-10-01T15:26:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-trump-bears-responsibility-for-debate-unraveling-chris-wallace-says.md",
       "title": "Trump ‘Bears Responsibility’ For Debate Unraveling, Chris Wallace Says",
       "excerpt": "Wallace cited a Fox News’ analysis that found President Trump interrupted Joe Biden’s answers or Wallace’s questions 145 times during the debate on Tuesday.",
@@ -480,7 +591,7 @@
       "originalUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -582,7 +693,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3855,
+      "heat": 3935,
       "tags": null,
       "images": [
         {
@@ -731,6 +842,57 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-texas-christian-on-trump-he-sounds-just-like-me.md",
+      "title": "Texas Christian on Trump: 'he sounds just like me'",
+      "excerpt": "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf",
+      "originalUrl": "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -897,6 +1059,57 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-a-step-by-step-look-at-trumps-falsehoods-on-mail-in-voting-analysis.md",
+      "title": "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis",
+      "excerpt": "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "originalUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "publishedDateTime": "2020-10-01T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1100,215 +1313,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-sen-chuck-grassley-id-be-very-concerned-about-how-donald-trumps-tax-returns-got-out.md",
-      "title": "Sen. Chuck Grassley: 'I'd be very concerned' about how Donald Trump's tax returns got out",
-      "excerpt": "Asked about the substance of the New York Times' reporting that Trump paid $750 in income tax in 2016 and 2017, Grassley said he doesn't have enough evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/09/17/PDEM/80644d4b-a019-4ee7-a6b1-39785f7db425-grassley.jpg?auto=webp&crop=5999,3360,x0,y39&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5874449002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002",
-      "publishedDateTime": "2020-09-30T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-federal-judge-refuses-to-stop-mail-in-voting-in-montana-blasts-trump-backed-fiction-of-massive-voter-fraud.md",
-      "title": "Federal judge refuses to stop mail-in voting in Montana, blasts Trump-backed 'fiction' of massive voter fraud",
-      "excerpt": "A federal judge in Montana rejected the Trump campaign's effort to stop an expansion of mail-in voting in the state.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJtvqCKvX4s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJtvqCKvX4s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200924162249-mail-in-ballots-voting-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/30/politics/montana-vote-by-mail-ruling-trump-campaign-lawsuit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/montana-vote-by-mail-ruling-trump-campaign-lawsuit/index.html",
-      "publishedDateTime": "2020-09-30T15:28:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-joe-biden-tells-proud-boys-and-white-supremacist-groups-to-cease-and-desist.md",
-      "title": "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'",
-      "excerpt": "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/world-us-canada-54363831",
-      "originalUrl": "https://www.bbc.com/news/av/world-us-canada-54363831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p08sztpk.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-30T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-biden-kicks-off-train-tour-through-ohio-pennsylvania-after-raucous-debate.md",
-      "title": "Biden kicks off train tour through Ohio, Pennsylvania after raucous debate",
-      "excerpt": "Joe Biden is embarking on a roughly 200-mile train tour on Wednesday through Ohio and Pennsylvania, appealing to voters who have strayed from Democrats in recent years.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 453,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/joe-biden-train-campaign-01-gty-llr-200930_1601479889365_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
-      "publishedDateTime": "2020-09-30T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
       ]
     }
   ],

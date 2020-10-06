@@ -27,21 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Breakingviews - Debate chaos is a gift for a conflicted Biden"
-    excerpt: "Donald Trump just gave Joe Biden a gift. The first televised debate of the 2020 election could have forced the Democratic presidential nominee to explain how he can appease both economic moderates and progressives."
-    publishedDateTime: 2020-09-30T04:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L0G1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L0G1"
+  - title: "Joe and Jill Biden test negative for COVID-19, doctor says"
+    excerpt: "Joe and Jill Biden tested negative for coronavirus Friday morning, after President Trump and First Lady Melania Trump tested positive."
+    publishedDateTime: 2020-10-02T17:46:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535463441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0C5"
-        width: 859
-        height: 545
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/02/061d0c26-d4db-4165-9a46-4fdd228be443/thumbnail/1200x630/fdffb3a33dc359e38ea3e1f25c784e06/gettyimages-1277616091-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden again tests negative for COVID-19"
+    excerpt: "Democratic nominee Joe Biden tested negative for COVID-19 on Sunday, his campaign said. Biden was administered a PCR test for the virus, his campaign said, and COVID-19 was not detected. It marked the second time Biden has tested negative since President Trump revealed early Friday morning that he had the virus."
+    publishedDateTime: 2020-10-04T23:40:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_093020upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden tests negative for COVID-19, campaign says"
+    excerpt: "Joe Biden’s campaign says the Democratic presidential nominee tested negative for coronavirus Sunday. The results come five days after Biden spent more than 90 minutes on the debate stage with President Donald Trump."
+    publishedDateTime: 2020-10-04T23:53:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/_1Du1qOnOZwbyj80OVwdjArXzeQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPYUJKXZFTSF7M2SXL4AX7ON74.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Watch Live: NBC News town hall with Biden"
     excerpt: "NBC News’s Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami. The event is scheduled to begin at 8 p."
@@ -56,22 +88,6 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
-    excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
-    publishedDateTime: 2020-10-01T23:46:00Z
-    webUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins"
-    ampWebUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg"
         width: 980
         height: 551
         isCached: true
@@ -91,34 +107,6 @@ related:
         width: 3500
         height: 2334
         isCached: true
-  - title: "Your Evening Briefing: Russia’s Growing Fear of a President Joe Biden"
-    excerpt: "But Vladimir Putin is also wondering what a President Joe Biden would mean for issues from nuclear arms to relations with China, energy exports and sanctions. The conclusion from the Kremlin seems to be that Biden would be bad news for Russia."
-    publishedDateTime: 2020-09-25T21:51:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDQ3EuU3l5ng/v0/1200x966.jpg"
-        width: 1200
-        height: 966
-        isCached: true
-  - title: "Biden to Proud Boys: 'Cease and desist'"
-    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
-    publishedDateTime: 2020-09-30T21:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Joe Biden campaigns in Miami"
     excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-05T20:57:00Z
@@ -133,143 +121,121 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "'He's from here': Biden and the battle for Scranton"
-    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
-    publishedDateTime: 2020-10-06T18:36:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
+  - title: "Joe Biden and his wife, Jill, paid nearly $300,000 in federal income taxes, newly released returns show"
+    excerpt: "The release served as a contrast to President Trump, after new reports that he has paid minimal or no federal taxes in recent years."
+    publishedDateTime: 2020-09-30T00:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-taxes/2020/09/29/d7afe3a8-027a-11eb-b7ed-141dd88560ea_story.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 89
     images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EKSGUWQCRII6XN7NCQO5RBLA5I.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden campaign sees opportunity in military women, spouses and people of color"
+    excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
+    publishedDateTime: 2020-10-03T11:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 81
+  - title: "Mike Pence and his wife test negative for COVID-19"
+    excerpt: "Vice President Mike Pence has tested negative for COVID-19, his office said Friday. “As has been routine for months, Vice President Pence is tested for COVID-19 every day. This morning, Vice President Pence and the Second Lady tested negative for COVID-19."
+    publishedDateTime: 2020-10-02T14:54:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/2/mike-pence-and-his-wife-test-negative-covid-19/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/2/mike-pence-and-his-wife-test-negative-covid-19/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/2/mike-pence-and-his-wife-test-negative-covid-19/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/01/Election_2020_Pence_36226.jpg-d165b_c0-0-3747-2185_s1200x700.jpg?24cac6732d6d744cded9531a05658813e184e584"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Joe Biden, in Grand Rapids, wearing a mask, urges Americans to follow COVID safety rules"
+    excerpt: "Biden's comments were his first since President Trump announced he and the first lady tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T09:28:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/joe-biden-masked-touts-covid-safety-rules-grand-rapids-speech/3592260001/"
+    ampWebUrl: "https://amp.freep.com/amp/3592260001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3592260001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PDTF/fc02fc8e-bdd9-48db-91c3-0f4dc84fe5ae-AP20276746861930.jpg?auto=webp&crop=5548,3121,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
-    excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
-    publishedDateTime: 2020-10-06T12:21:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+  - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
+    excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
+    publishedDateTime: 2020-10-02T12:42:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5892854002"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 102
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 65
     images:
-      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
-  - title: "‘Bidin’ his time’: Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again. On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at"
-    publishedDateTime: 2020-09-23T04:08:00Z
-    webUrl: "https://apnews.com/article/election-2020-virus-outbreak-wilmington-archive-joe-biden-cd9d1696bdcac701064010174aeb4669"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 85
-  - title: "‘Bidin’ his time': Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again.On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at a subsequent press conference. When it was finally over,"
-    publishedDateTime: 2020-09-27T03:06:00Z
-    webUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
-    type: article
-    provider:
-      name: The Oklahoman
-      domain: oklahoman.com
-    quality: 75
-    images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden releases 2019 returns, paid nearly $300,000 in taxes"
-    excerpt: "Democratic presidential nominee Joe Biden released his 2019 tax returns hours before the first debate with President Donald Trump, showing that he paid $299,346 in income taxes in 2019."
-    publishedDateTime: 2020-09-29T17:07:00Z
-    webUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/"
-    ampWebUrl: "https://www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/29/joe-bidens-release-2019-returns-paid-nearly-300000-in-taxes/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/Election_2020_Biden_70169-2.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
-    excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."
-    publishedDateTime: 2020-10-03T22:54:00Z
-    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
-        width: 3771
-        height: 2514
-        isCached: true
-  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
-    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
-    publishedDateTime: 2020-09-29T22:50:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
-    excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
-    publishedDateTime: 2020-10-01T19:05:00Z
-    webUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/"
-    ampWebUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+  - title: "What if Mike Pence gets infected? White House COVID-19 outbreak could set off constitutional chaos"
+    excerpt: "NBC News reporter Ken Dilanian laid out the possible chain of events if Vice President Mike Pence also tests positive for the coronavirus. President Donald Trump announced that he and first lady Melania Trump had been infected, along with senior adviser ..."
+    publishedDateTime: 2020-10-02T11:44:00Z
+    webUrl: "https://www.rawstory.com/2020/10/what-if-mike-pence-gets-infected-white-house-19-outbreak-could-set-off-constitutional-chaos/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/what-if-mike-pence-gets-infected-white-house-19-outbreak-could-set-off-constitutional-chaos/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/what-if-mike-pence-gets-infected-white-house-19-outbreak-could-set-off-constitutional-chaos/amp/"
     type: article
     provider:
-      name: People
-      domain: people.com
-    quality: 63
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
     images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
-        width: 1500
-        height: 785
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
+        width: 800
+        height: 412
         isCached: true
-  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
-    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
-    publishedDateTime: 2020-09-24T14:57:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+  - title: "White House: VP Mike Pence tests negative for COVID-19"
+    excerpt: "Vice President Mike Pence tested negative for the virus on Friday morning and “remains in good health,\" his spokesman said. President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus,"
+    publishedDateTime: 2020-10-02T12:28:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Alert-White-House-VP-Mike-Pence-tests-negative-15615282.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 55
-  - title: "Joe Biden Says He'll Debate if Scientists Say it's Safe"
-    excerpt: "Democratic presidential candidate Joe Biden speaks briefly with reporters and says that if the scientists say it’s safe to go forward with the upcoming… read more Joe Biden, a 2020 Democratic presidential candidate,"
-    publishedDateTime: 2020-10-05T16:26:00Z
-    webUrl: "https://www.c-span.org/event/?476553/"
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/36/77/20049899/115/rawImage.jpg"
+        width: 2048
+        height: 1369
+        isCached: true
+  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
+    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
+    publishedDateTime: 2020-10-03T09:13:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "FwgCNDbFbYJaT1xJh9QHo553YaBQrpW1ovRcTKeDTUFkuaDv3j0q5gcJXkmfv5tgWn2n5ATlqDzw/nAZTdL1DOWI/jC8emmtsSxRd8zf4dexwmNwZ2reLkg0/JyYEYJjs3MkHQyGMtE2NA8EwHeyw5yfFen/o51JlKOTNUv3o/rgfSxZMKSsEvP7DrIWirTVbNn0PfrycX5ZISugJW0n7M+3NaCQuQlgQIU+e8KWfuEe8QO6YwCPDgccTdwIWkFdeWE3cZjCoXAq6rdpniVuqfx0GWgmXoSN0lDVP1HxSePhWZqbm8wLJLC5A3OZqFWx64AoulRkOPh00aLNJ2K/LClEyXtY9zH0XiUPzCfnssXBrQMSIDQnK2d2HN4Jsj+9pCE1+CTPYhrM4ZeeQZ3ZbObFvh8qDx0Kzbexy5RstvBvNl+CEWmTITCmwPk3KmMEnu8q7euG/KhlpWK1ODDQdFCisMNqMVmXWEuGUBLE8txYn6WVvxfgrp+yQVHzxEUkY2ewuoeIpl3nC4L0jpPupQ==;NDljMxwFKHn1vWH4N+eT1g=="
 ---

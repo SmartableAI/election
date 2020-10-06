@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The debate showed that treating Trump ‘fairly’ only helps him cheat"
+    excerpt: "Tuesday night’s presidential debate perfectly illustrates how Donald Trump abuses our democratic institutions — and how feckless the media can be in the face of those violations. Since he first entered the presidential race,"
+    publishedDateTime: 2020-10-01T01:15:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUNGFGQDKUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
   - title: "'Anyone can get it,' Trump supporters shocked at diagnosis, unwavering in support"
     excerpt: "As Americans digested the news on Friday that President Donald Trump had tested positive for the novel coronavirus, some of his backers expressed surprise that he hadn't been safe from infection and said their support for him was not diminished."
     publishedDateTime: 2020-10-02T19:20:00Z
@@ -47,22 +63,6 @@ related:
         width: 794
         height: 545
         isCached: true
-  - title: "Democrats wish Trump a swift recovery from COVID-19, and hope it changes his policies on the virus"
-    excerpt: "\"I hope he recovers fully. He needs to face justice,\" a Democrat from California said on his campaign Twitter account."
-    publishedDateTime: 2020-10-03T22:08:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-positive-democrats-response-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/5f76c1f974fe5b0018a8ea04?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
     excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."
     publishedDateTime: 2020-10-02T19:46:00Z
@@ -74,21 +74,21 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 102
-  - title: "Trump tweets that he's leaving the hospital and says 'don't be afraid of Covid,' a virus that's killed over 209,000 Americans"
-    excerpt: "The president was diagnosed with COVID-19 late last week and transferred to Walter Reed hospital as his conditioned worsened on Friday."
-    publishedDateTime: 2020-10-06T04:26:00Z
-    webUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+  - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
+    excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."
+    publishedDateTime: 2020-09-30T07:33:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
     images:
-      - url: "https://i.insider.com/5f7b6e7694fce90018f7b2de?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZX5TZTQC24I6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
 
 secured: "76s3bcrnIQbxgb2ulB9Kfw8LzyS+PRu2r7SW7vg2q1xvYtBIVTWujAE+ehBYU+udYGPBREgKpWe8L30YODep8S0Hcl4iF3VEMo5JNmg2m+VaScTcb5prB7EY0eRTi7riCsj3j9qR8qXZv1Fict5ekPtk+vVGZwRcEF523wypzKku0m85xZ2FIkxIwB8TirHhylceHxYxbRFQidk8ImAn0omfQYZMfl00Zkoup6zKrKBE1jlGJAgIU9BaIcJrpvd1xlzjQ5oHOEp9+nYj3nuQO96WzD9SBxUqBo/ql7Qy02K3NEb0DtE4csaTm2dlFmuxSS7rsMTDM7MfIjKM4jgWUR1zAtjlFCEsQwC9WzgaaBM=;DRwJ8E29Q7WDJx4nIofdnQ=="

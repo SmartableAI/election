@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump's tax returns has many wondering what they're doing wrong"
+    excerpt: "Tax breaks for businesses likely helped cushion the tax bill for President Donald Trump, as the speculation continues about Trump's tax audit and tax returns."
+    publishedDateTime: 2020-09-29T11:18:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/29/donald-trump-tax-returns-income/3570417001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3570417001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3570417001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "California prosecutor: Driver tried to kill Trump supporters"
     excerpt: "The organizer of a Southern California rally against racism has been charged with attempted murder after driving her car into a crowd of counterprotesters"
     publishedDateTime: 2020-09-30T15:20:00Z

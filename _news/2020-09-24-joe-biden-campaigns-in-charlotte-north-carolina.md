@@ -83,6 +83,33 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
+    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
+    publishedDateTime: 2020-09-29T22:50:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
+    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
+    publishedDateTime: 2020-09-24T14:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
     excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
     publishedDateTime: 2020-09-23T18:56:00Z

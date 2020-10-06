@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration announces new restrictions on employment-based visa program"
+    excerpt: "The Trump administration is tightening up an employment-based visa program that allows highly skilled foreign workers to come to the United States, arguing the changes are necessary following shocks to the labor market caused by the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-10-06T20:43:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_uKgnpz7QM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-visa-restrictions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-visa-restrictions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006160815-dept-of-labor-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Vulnerable Republican senators split over Democratic effort to protect pre-existing conditions from Trump administration lawsuit"
     excerpt: "Vulnerable Republican senators split over a bill to protect those with pre-existing conditions from a Trump administration lawsuit before the Supreme Court next month, underscoring the political potency of the issue as the country begins voting.\n    \n"
     publishedDateTime: 2020-10-01T19:24:54Z

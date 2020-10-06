@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Why are seniors breaking hard to Joe Biden?"
+    excerpt: "But one thing that plainly is happening is that seniors are moving to Biden in surprising numbers. If these polls are outliers, the impression of movement among seniors may be inflated, but we can be reasonably sure that this movement is in fact happening to some degree,"
+    publishedDateTime: 2020-10-06T21:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTCTYTQICMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
     excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
     publishedDateTime: 2020-09-27T09:19:00Z

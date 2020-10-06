@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/jewish-democrats-trumps-america-naz
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jewish-democrats-trumps-america-nazi-germany.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump administration unveils sweeping changes to controversial H-1B guest worker program"
+    excerpt: "The Trump administration on Tuesday announced sweeping rule changes to the controversial H-1B guest worker program -- changes that the administration says will protect American wages, prevent abuse and hit more than a third of the tens of thousands of applications filed each year."
+    publishedDateTime: 2020-10-06T21:23:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YnH3GTp1a_c/trump-changes-to-h-1b-guest-worker-program"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-changes-to-h-1b-guest-worker-program.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-changes-to-h-1b-guest-worker-program.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Obama admin briefed on claims Hillary Clinton drummed up Russia controversy to vilify Trump, distract from emails"
     excerpt: "The Director of National Intelligence (DNI) has declassified information indicating that former President Obama's administration knew of allegations that former Democratic presidential nominee Hillary Clinton was attempting to tie Trump to Russia and distract from her email scandal in 2016 -- raising"
     publishedDateTime: 2020-09-29T21:33:24Z

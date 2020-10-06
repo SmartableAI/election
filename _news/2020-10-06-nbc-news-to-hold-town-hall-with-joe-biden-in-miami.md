@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden campaign sees opportunity in military women, spouses and people of color"
-    excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
-    publishedDateTime: 2020-10-03T11:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 81
   - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
     excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
     publishedDateTime: 2020-10-03T18:52:00Z
@@ -51,22 +42,6 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
         width: 1024
         height: 684
-        isCached: true
-  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy | Charlotte Observer"
-    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
-    publishedDateTime: 2020-10-01T17:04:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246142010.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
         isCached: true
 
 secured: "sMFhYJdSpFAnGj3hks6ulQnRke8plsVp2leOk9b2wpaxyYxH7gGfV3TCyYk0jWE5/FK8EJQNvNwqrlszWgrhVTu6lRRKq7XcNQDoVXu/Fdkgv2g1y7TDrWwG568K9QmBNBPzEnxuRQKd+qedsvnhsasL4pTXQqQXMXJUfeHdLfMjAibo71+olargpEg/ZaQ78YgZB50h/2hHCU/pIaIi0WME4ihj9lzrBBim+2BRRObnpYJ1tcqfpriqII+gfQjrdJifHZ4/0tgfn7Dd+0b2GSwJ6J8Bvdt1ljetEyboA4HZ6j/76ATbOiMDSF9z1OlphEjdxyG+5w8ZE+dvVC/rz/L2BM2snfoICx0mTk3GgKQ=;zSGgmNBOn+h3qOi6hIy03Q=="

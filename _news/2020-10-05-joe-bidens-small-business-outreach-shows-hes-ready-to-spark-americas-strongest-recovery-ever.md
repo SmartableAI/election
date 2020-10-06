@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/519628-joe-bidens-small-busines
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp"
 type: article
 quality: 113
-heat: 173
+heat: 133
 published: true
 
 provider:
@@ -31,34 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Detroit pastor wants Biden to reach out more to Black community"
-    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
-    publishedDateTime: 2020-10-01T19:52:00Z
-    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
-    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 51
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Joe Biden lays out plan to help Venezuelan and Cuban Americans while criticizing dictators"
     excerpt: "In Miami's Little Havana, Joe Biden explained his plan to help Venezuelan and Cuban Americans. Biden criticized President Trump and said he had spent his presidency appealing to autocrats."
     publishedDateTime: 2020-10-05T21:24:00Z

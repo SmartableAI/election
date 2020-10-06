@@ -35,6 +35,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Why are seniors breaking hard to Joe Biden?"
+    excerpt: "But one thing that plainly is happening is that seniors are moving to Biden in surprising numbers. If these polls are outliers, the impression of movement among seniors may be inflated, but we can be reasonably sure that this movement is in fact happening to some degree,"
+    publishedDateTime: 2020-10-06T21:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTCTYTQICMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
     excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
     publishedDateTime: 2020-10-06T11:02:00Z

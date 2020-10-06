@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-75
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930"
 type: article
 quality: 125
-heat: 365
+heat: 345
 published: true
 
 provider:
@@ -188,22 +188,6 @@ related:
       - url: "https://i.insider.com/5f35bd6fb4bb1c001df53365?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Conservative Pundit Slams Donald Trump, Corrupt System Over Tax Returns"
-    excerpt: "The New York Times reported Trump paid just $750 in income taxes in 2016 and 2017, and no taxes in 11 of the last 18 years Coulter says developers should not be able to depreciate property that sells for much more She tweeted Democrats don't have the guts to overhaul the tax system because they get major donations from billionaires Conservative pundit Ann Coulter,"
-    publishedDateTime: 2020-09-29T23:22:00Z
-    webUrl: "https://www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927"
-    ampWebUrl: "https://www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/16/ann-coulter.jpg"
-        width: 1200
-        height: 761
         isCached: true
   - title: "Trevor Noah Lays Into Trump Over Taxes Bombshell: “You Didn’t Pay for Shit”"
     excerpt: "Show host of the New York Times report that Trump paid $750 in federal income tax after becoming president in 2017: “That shit pisses me off.”"

@@ -47,38 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Putin Wishes Trump A Speedy Recovery From Coronavirus"
-    excerpt: "The Russian president, Vladimir Putin, has sent President Donald Trump his good wishes after learning that Trump had tested positive for coronavirus."
-    publishedDateTime: 2020-10-02T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/jamesrodgerseurope/2020/10/02/putin-wishes-trump-a-speedy-recovery-from-coronavirus/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesrodgerseurope/2020/10/02/putin-wishes-trump-a-speedy-recovery-from-coronavirus/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesrodgerseurope/2020/10/02/putin-wishes-trump-a-speedy-recovery-from-coronavirus/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f771c4a9b861ba98e59a859%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump adviser Hope Hicks tests positive for the coronavirus"
-    excerpt: "Hope Hicks, a top adviser to President Donald Trump, has tested positive for the coronavirus, the president confirmed in an interview with Fox News on Thursday, adding that he has been tested and may have to quarantine."
-    publishedDateTime: 2020-10-02T02:19:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-hicks-idUSKBN26N05M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N05M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N05M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535795364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9108Z"
-        width: 812
-        height: 545
-        isCached: true
   - title: "Trump and his wife Melania test positive for coronavirus"
     excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
     publishedDateTime: 2020-10-02T11:34:00Z
@@ -143,22 +111,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden and his wife test negative for coronavirus"
-    excerpt: "Biden recently attended a presidential debate against President Donald Trump, and Trump later tested positive for the virus."
-    publishedDateTime: 2020-10-03T01:11:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f77304f0ab50d00184adc56?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "What Mike Pence needs to tell us about coronavirus"
     excerpt: "Vice President Mike Pence was present at the Sept. 26 event at the White House introducing Judge Amy Coney Barrett as President Trump’s Supreme Court nominee. Among the several attendees who have subsequently tested positive for the novel coronavirus are Sen."
     publishedDateTime: 2020-10-04T14:05:00Z
@@ -174,38 +126,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FWTBPOAAIII6XMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Wall Street closes sharply lower as Trump tests positive for coronavirus"
-    excerpt: "U.S. stocks closed lower on Friday as news that U.S. President Donald Trump tested positive for COVID-19 put investors in a risk-off mood and added to mounting uncertainties surrounding the looming election."
-    publishedDateTime: 2020-10-03T01:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-stocks-idUSKBN26N1W8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N1W8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N1W8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535864109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9116Y"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Analysts' view: Trump goes into quarantine, awaits coronavirus test results"
-    excerpt: "U.S. stock futures dipped on Friday after President Donald Trump said he and his wife will quarantine after a close aide, Hope Hicks, tested positive for the coronavirus. Trump said they are awaiting test results."
-    publishedDateTime: 2020-10-02T05:16:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-markets-idUSKBN26N0IQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0IQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0IQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535805144&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910CI"
-        width: 817
-        height: 545
         isCached: true
   - title: "Trump begins quarantine as close aide Hope Hicks tests positive for coronavirus"
     excerpt: "Hope Hicks, a close adviser to President Trump who traveled with him several times this week aboard Air Force One, has tested positive for the coronavirus, a senior administration official confirmed Thursday."
@@ -238,22 +158,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535908172&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911V6"
         width: 817
         height: 545
-        isCached: true
-  - title: "Trump COVID-19 live updates: Doctor won't comment on Trump tweet about coronavirus"
-    excerpt: "President Trump's condition is continuing to improve as he fights a coronavirus infection, doctors say, and he is able to leave the hospital on Monday."
-    publishedDateTime: 2020-10-05T20:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trumpcoronavirus/?id=73425653"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trumpcoronavirus/?id=73425653"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Trump calls on UN to hold China accountable for 'unleashing' the coronavirus pandemic"
     excerpt: "The president used his United Nations speech to attack China for spreading the coronavirus and claimed the U.S. was leading on environmental causes."
@@ -348,54 +252,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/37/26/20051343/5/rawImage.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
-    excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
-    publishedDateTime: 2020-10-02T05:07:00Z
-    webUrl: "https://www.businessinsider.com/trump-tests-positive-covid-19-after-hope-hicks-tested-positive-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-tests-positive-covid-19-after-hope-hicks-tested-positive-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tests-positive-covid-19-after-hope-hicks-tested-positive-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f768a3674fe5b0018a8e9f6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Coronavirus live updates: Donald Trump, Melania test positive for COVID-19; 20,000 Amazon workers have tested positive"
-    excerpt: "President Trump and First Lady Melania have tested positive for COVID-19. About 20K Amazon workers infected. Latest COVID-19 news."
-    publishedDateTime: 2020-10-02T12:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/02/covid-news-trump-melania-positive-california-equity-amazon/5888740002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5888740002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5888740002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 101
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/6000d549-6f0f-4dd7-b2d2-820321df3c1e-AFP_AFP_8QZ69N.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Your questions about Trump and COVID-19, answered: Who gave Trump coronavirus? What is the Regeneron antibody 'cocktail'?"
-    excerpt: "Our readers from across the US are asking important questions about President Trump's positive COVID-19 test. We answer your questions."
-    publishedDateTime: 2020-10-04T02:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/02/trump-tests-positive-coronavirus-reader-questions-answers/5893893002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5893893002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5893893002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 100
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Coronavirus updates: Trump calls 200K deaths a 'shame'; Miami schools to resume in-person classes; Sizzler files bankruptcy"
     excerpt: "Miami-Dade County schools will return to in-person instruction beginning Oct. 14. Donald Trump says U.S. death toll is \"a shame.\" Latest COVID news."
@@ -547,6 +403,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/donald-trump-tweeted-from-hospital-calling-for-us.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump's Coronavirus Joyride Angered Don Jr., Thinks President Is 'Acting Crazy,' Sources Say"
+    excerpt: "President Donald Trump announced he tested positive for the coronavirus Friday. He has since received treatment and has been discharged from the hospital Monday night."
+    publishedDateTime: 2020-10-06T02:05:00Z
+    webUrl: "https://www.ibtimes.com/trumps-coronavirus-joyride-angered-don-jr-thinks-president-acting-crazy-sources-say-3057148"
+    ampWebUrl: "https://www.ibtimes.com/trumps-coronavirus-joyride-angered-don-jr-thinks-president-acting-crazy-sources-say-3057148?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-coronavirus-joyride-angered-don-jr-thinks-president-acting-crazy-sources-say-3057148?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/images-and-soundbites-completes-vidi1wq3mv_endonald-trump-jr-says.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Kanye West Sends Prayers To Donald And Melania Trump After Both Tested Positive For Coronavirus"
     excerpt: "Kanye West sent well-wishes to President Donald Trump and first lady Melania Trump after they tested positive for COVID-19."

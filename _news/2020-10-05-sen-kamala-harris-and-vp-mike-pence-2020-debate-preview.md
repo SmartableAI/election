@@ -223,6 +223,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris and a history of trying to define 'Asian American'"
+    excerpt: "\"What it meant to be Asian was defined over time historically through laws on Asian exclusion on immigration and then also Asian exclusion from citizenship,\" researcher Karthick Ramakrishnan said."
+    publishedDateTime: 2020-10-06T20:07:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/kamala-harris-history-trying-define-asian-american-n1242200"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242200"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242200"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_33/3403819/200811-kamala-harris-se-525p_9c84098920c490c82f8f1e933ab9a989.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
     publishedDateTime: 2020-10-06T00:10:00Z

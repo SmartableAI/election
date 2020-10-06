@@ -31,67 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump doesn't denounce white supremacists and militias during debate"
-    excerpt: "President Trump was given several chances during the debate. to denounce white supremacists and militias that have caused violence. Trump deflected."
-    publishedDateTime: 2020-09-30T03:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
+  - title: "Lawyer for Flynn says she updated Trump on status of case"
+    excerpt: "A lawyer for former Trump administration national security adviser Michael Flynn has told a judge that she updated President Donald Trump on the case’s status and asked him not to issue a pardon for h"
+    publishedDateTime: 2020-09-29T18:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-6-gty-er-200929_1601430660343_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8e38fdd447e8473da6e769ef6f8a44dc_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "The debate showed that treating Trump ‘fairly’ only helps him cheat"
-    excerpt: "Tuesday night’s presidential debate perfectly illustrates how Donald Trump abuses our democratic institutions — and how feckless the media can be in the face of those violations. Since he first entered the presidential race,"
-    publishedDateTime: 2020-10-01T01:15:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+  - title: "Mark Cuban says 'idiot' Donald Trump once told him to run for president"
+    excerpt: "Dallas Mavericks owner Mark Cuban said President Donald Trump is an \"idiot\" for how he's run the country as president."
+    publishedDateTime: 2020-09-30T17:18:00Z
+    webUrl: "https://www.usatoday.com/story/sports/nba/mavericks/2020/09/30/mark-cuban-calls-president-donald-trump-an-idiot/3587381001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3587381001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587381001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUNGFGQDKUI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 962
-        isCached: true
-  - title: "Trump didn't accomplish his goals in 1st presidential debate: ANALYSIS"
-    excerpt: "Entering the first debate on Tuesday, President Donald Trump was behind nationally by approximately 7 points on average, and was behind by similar margins in nearly every target state to win the Electoral College."
-    publishedDateTime: 2020-09-30T23:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever"
-    excerpt: "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA."
-    publishedDateTime: 2020-10-02T21:12:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77965b260487e5b2299495%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4475%26cropY1%3D226%26cropY2%3D2743"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/bb91078b-8ea8-4702-b16e-61c98afa0ed4-USP_NBA__Dallas_Mavericks_at_Indiana_Pacers_1.JPG?auto=webp&crop=2248,1265,x0,y310&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -111,512 +79,163 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump did condemn white supremacists, too bad so many people won't listen"
-    excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
-    publishedDateTime: 2020-10-02T08:44:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/02/trump-and-white-supremacy-he-did-condemn-and-has-repeatedly-column/5883336002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5883336002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5883336002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/bdc7ac76-4564-45b8-a102-9e26fb927601-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4895,2753,x0,y248&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate"
-    excerpt: "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic."
-    publishedDateTime: 2020-10-04T00:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-mask_hpMain_20201003-193502_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "President Trump Won’t Destroy Social Security—But He’s Not Going To Save It"
-    excerpt: "The Biden campaign claims the President Trump is cutting Social Security, and that if he gets his way, benefits could run out in “just three years.” While that claim is not true, the Trump administration has done next to nothing to fix Social Security’s long-term funding problems."
-    publishedDateTime: 2020-09-24T12:59:00Z
-    webUrl: "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/"
-    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 123
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bb199ea310c40d1f6baee%2F0x0.jpg"
-        width: 1199
-        height: 798
-        isCached: true
-  - title: "Chris Christie says no one was wearing masks during debate prep with Trump"
-    excerpt: "Christie made his statements after President Donald Trump announced he had tested positive for COVID-19."
-    publishedDateTime: 2020-10-02T13:48:00Z
-    webUrl: "https://www.businessinsider.com/trump-debate-prep-no-masks-worn-chris-christie-says-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-debate-prep-no-masks-worn-chris-christie-says-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-debate-prep-no-masks-worn-chris-christie-says-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 123
-    images:
-      - url: "https://i.insider.com/5f7724600ab50d00184adbfc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Oil prices rebound 2% as Trump doctors raise prospect of hospital discharge"
-    excerpt: "Oil prices rose more than 2% on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
-    publishedDateTime: 2020-10-05T07:18:00Z
-    webUrl: "https://www.reuters.com/article/global-oil-int/oil-prices-rebound-2-as-trump-doctors-raise-prospect-of-hospital-discharge-idUSKBN26Q060"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q054"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q054"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536154811&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9402O"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Fact check: In 2016, Trump didn't tweet about replacing Scalia on Supreme Court"
-    excerpt: "A tweet that purports to be from Donald Trump in 2016 that said \"Obama should wait until he leaves office to pick another Justice\" is fake."
-    publishedDateTime: 2020-09-23T22:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3492943001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3492943001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Demands No Debate Changes As His Campaign Alleges Debate Commission Bias"
-    excerpt: "The Trump campaign said the president will participate in the remaining debates and described second debate moderator Steve Scully as ‘pretty fair’"
-    publishedDateTime: 2020-10-01T20:55:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/01/trump-demands-no-debate-changes-as-his-campaign-alleges-debate-commission-bias/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76414d4b296e2b640e7395%2F0x0.jpg%3FcropX1%3D619%26cropX2%3D5463%26cropY1%3D292%26cropY2%3D2603"
-        width: 1200
-        height: 573
-        isCached: true
-  - title: "President Donald Trump, during debate, declares, 'I brought back Big Ten football'"
-    excerpt: "While addressing debate topic of economy, President Donald Trump brought up the return of Big Ten football: \"It was me, and I'm very happy to do it.\""
-    publishedDateTime: 2020-09-30T03:50:00Z
-    webUrl: "https://www.usatoday.com/story/sports/ncaaf/bigten/2020/09/29/presidential-debate-donald-trump-i-brought-back-big-ten-football/3583550001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3583550001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583550001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/37cbe3b4-7723-43c6-be0d-80b4491682d5-donald_trump.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized"
-    excerpt: "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\""
-    publishedDateTime: 2020-10-05T12:24:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3621055001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges"
-    excerpt: "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race."
-    publishedDateTime: 2020-09-28T11:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rally_hpMain_20200926-182602_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump's failure to condemn white supremacy at debate part of a well-established pattern"
-    excerpt: "President Trump's failure to condemn white supremacists at Tuesday's debate is part of a well-established pattern in which he shows a reluctance to disavow racist groups."
-    publishedDateTime: 2020-09-30T15:42:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-failure-condemn-white-supremacy-debate-part-established/story?id=73340315"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Donald Trump Calls National Guard Deployment During Kentucky Protests a 'Positive Thing'"
-    excerpt: "\"That's a very positive thing,\" President Donald Trump said of Kentucky Governor Andy Beshear's decision to bring on National Guard units during protests in Louisville, Kentucky."
-    publishedDateTime: 2020-09-23T23:50:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-calls-national-guard-deployment-during-kentucky-protests-positive-thing-1533960?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1641363/donald-trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Republicans and democracy have much deeper problems than Trump's awful debate performance"
-    excerpt: "A Trump loss won't fix our nasty, polarized and shallow politics. We need to stop hoping transformation is around the corner if we oust one bad apple."
-    publishedDateTime: 2020-10-01T09:33:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/01/trump-debate-performance-sorry-state-republicans-democracy-column/5874170002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5874170002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874170002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/be27cb49-4846-4ca2-924b-bc8ab1d9f5d2-AP_Election_2020_Debate.jpg?auto=webp&crop=4895,2753,x0,y120&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump denies knowing who 'Proud Boys' are, again declines to condemn white supremacy by name"
-    excerpt: "President Trump on Wednesday claimed he doesn't know who the Proud Boys are, told the group to \"stand down,\" and again declined to condemn white supremacy by name."
-    publishedDateTime: 2020-10-01T02:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 114
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trumpdeparture-01-gty-iwb-200930_1601496890434_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "If Trump's symptoms started before Friday, he may have been highly infectious during the debate"
-    excerpt: "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden."
-    publishedDateTime: 2020-10-03T12:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Texas Christian on Trump: 'he sounds just like me'"
-    excerpt: "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T"
-    publishedDateTime: 2020-10-01T15:33:00Z
-    webUrl: "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Doctors say Trump doing 'very well' at hospital"
-    excerpt: "Doctors say US President Donald Trump is doing “very well” as he spends the weekend at a military hospital for treatment of COVID-19. (Oct. 3)"
-    publishedDateTime: 2020-10-03T17:30:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/03/doctors-say-trump-doing-very-well-hospital/3609245001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6202483-2d89-4536-b228-2432ce9d25ba_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Nikkei bounces back on Trump health report, railways rebound"
-    excerpt: "Japanese shares bounced back on Monday, led by gains in value shares including railway companies, after doctors said U.S. President Donald Trump's health was improving following treatment for COVID-19."
-    publishedDateTime: 2020-10-05T03:21:00Z
-    webUrl: "https://www.reuters.com/article/japan-stocks-midday-idUSL4N2GW0K8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GW0K8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GW0K8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Oil rebounds on Trump health update, Norway shutdowns"
-    excerpt: "Oil prices rose on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
-    publishedDateTime: 2020-10-05T11:07:00Z
-    webUrl: "https://www.reuters.com/article/global-oil-int-idUSKBN26Q060"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q060"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q060"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Japanese shares edge higher as Trump returns to White House"
-    excerpt: "Japanese stocks inched up on Tuesday, as risk sentiment improved after U.S. President Donald Trump returned to the White House following treatment at the hospital for COVID-19, easing fears over political uncertainty."
-    publishedDateTime: 2020-10-06T02:32:00Z
-    webUrl: "https://www.reuters.com/article/japan-stocks-midday-idUSL4N2GX0I4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX0I4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX0I4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Trump Tax Avoidance Scandal Exposes Poor Risk Management And Double Standards At Deutsche And Professional Banks"
-    excerpt: "Trump may finally be the greatest at something, being the most leveraged president in U.S. history. Trump’s tax avoidance scandal showcases how banks apply credit standards differently to powerful borrowers."
-    publishedDateTime: 2020-09-28T17:36:00Z
-    webUrl: "https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/"
-    ampWebUrl: "https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721622f05720aa8fd4acf5%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Donald Trump sidesteps call to condemn white supremacists — and the Proud Boys were 'extremely excited' about it"
-    excerpt: "Debate moderator Chris Wallace asked if Donald Trump would urge groups to stand down and avoid contributing to the violence. He sidestepped."
-    publishedDateTime: 2020-09-30T12:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/trump-debate-white-supremacists-stand-back-stand-by/3583339001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3583339001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583339001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/615b05e1-ec70-40f4-99c5-e7bec4e73719-AP_Election_2020_Debate_2.jpg?auto=webp&crop=5180,2914,x0,y263&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'Standing by sir': Proud Boys praise Trump's comment telling them to 'stand by' during first presidential debate"
-    excerpt: "Members of the far-right group celebrated online over the president's statement during the first presidential debate on Tuesday evening."
-    publishedDateTime: 2020-09-30T05:45:00Z
-    webUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-respond-to-trumps-comment-in-presidential-debate-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f73fb1674fe5b0018a8e246?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
-    excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."
-    publishedDateTime: 2020-09-30T07:33:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/09/30/portland-sheriff-trump-debate-endorsement/?outputType=amp"
+  - title: "Asian shares gain on stimulus hopes, Trump leaving hospital"
+    excerpt: "Shares are higher in Asia after hopes for economic aid from Washington helped Wall Street recover its losses from the initial shock of learning President Donald Trump had tested positive for the coron"
+    publishedDateTime: 2020-10-06T03:48:00Z
+    webUrl: "https://www.washingtonpost.com/business/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital/2020/10/05/8c4774f2-0785-11eb-8719-0df159d14794_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital/2020/10/05/8c4774f2-0785-11eb-8719-0df159d14794_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital/2020/10/05/8c4774f2-0785-11eb-8719-0df159d14794_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 101
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZX5TZTQC24I6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 961
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump, asked to condemn white supremacists and militia during the debate, tells Proud Boys group to ‘stand back and stand by'"
-    excerpt: "President Donald Trump on Tuesday didn’t clearly condemn white supremacist groups and their role in violence in some American cities this summer, branding it solely a “left-wing” problem and telling one far-right extremist group to “stand back and stand by."
-    publishedDateTime: 2020-10-01T17:34:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-white-supremacists-proud-boys-20200930-7ron777sfjgg5bbxszutte2moe-story.html?outputType=amp"
+  - title: "Contagious Trump Removes Mask For White House Photo Op, Staff Nearby"
+    excerpt: "The president removed his mask to pose for cameras after receiving treatment for Covid-19 at Walter Reed medical center."
+    publishedDateTime: 2020-10-06T11:39:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/amp/"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 98
+      name: Forbes
+      domain: forbes.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/q4cHOxV-K4_t5dNpwY_iFVJfJJE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ELDAHI55RQAN3OMC6KPVEDJBIY.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c474002d3bfaf88990725%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5096%26cropY1%3D0%26cropY2%3D3398"
         width: 1200
         height: 800
         isCached: true
-  - title: "Age of distrust: Surge in social media posts doubting truth of Trump's COVID diagnosis"
-    excerpt: "A Cornell University study found 38% of online posts and articles containing coronavirus misinformation included references to President Donald Trump. After the president himself was diagnosed, there was a surge in posts doubting his illness."
-    publishedDateTime: 2020-10-05T14:41:00Z
-    webUrl: "https://www.cbsnews.com/video/covid-19-social-media-doubting-trump-coronavirus-diagnosis/"
+  - title: "Lawyers: Trump can’t use job as a shield in defamation suit"
+    excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can’t hurl insults at her and then replace himself with the government"
+    publishedDateTime: 2020-10-06T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/05/8390c7ae-98b7-4990-8ee2-7654b1f35cbe/thumbnail/1200x630/cf88e9acd1bdcb1d1d814807545436be/cbsn-fusion-covid-19-social-media-doubting-trump-coronavirus-diagnosis-thumbnail-559927-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
-    excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
-    publishedDateTime: 2020-10-01T01:09:00Z
-    webUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
+  - title: "Photo of Mark Meadows rubbing his head during update on Trump's health goes viral"
+    excerpt: "A photo of President Trump’s chief of staff Mark Meadows rubbing his head during Sunday’s update on the president’s health went viral."
+    publishedDateTime: 2020-10-04T21:25:00Z
+    webUrl: "https://thehill.com/homenews/administration/519552-photo-of-mark-meadows-rubbing-his-head-during-update-on-trumps-health"
+    ampWebUrl: "https://thehill.com/homenews/administration/519552-photo-of-mark-meadows-rubbing-his-head-during-update-on-trumps-health?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519552-photo-of-mark-meadows-rubbing-his-head-during-update-on-trumps-health?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/meadowsmark_10022020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "7 crucial questions Trump's doctor has declined to answer — and what he said instead"
+    excerpt: "We don't know for sure when Trump's last negative test was, whether he's received supplemental oxygen, how how high his fever has gotten."
+    publishedDateTime: 2020-10-03T21:24:00Z
+    webUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f78c360282c500018c78754?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
+    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
+    publishedDateTime: 2020-09-28T23:39:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How Donald Trump Took Down Bonwit Teller, A Fifth Avenue Landmark"
+    excerpt: "When a young Donald Trump wanted to locate his Trump Tower on Fifth Avenue, he targeted and purchased the famous Bonwit Teller apparel store. But the store's demolition drew controversy as several pieces of art,"
+    publishedDateTime: 2020-10-03T13:03:00Z
+    webUrl: "https://www.forbes.com/sites/michaellisicky/2020/10/03/how-donald-trump-took-down-bonwit-teller-a-fifth-avenue-landmark/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 105
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76773dd654b423dfece1b5%2F0x0.jpg"
+        width: 1199
+        height: 797
+        isCached: true
+  - title: "White House official says it's better Trump was hospitalized while he could still walk to avoid images of him being carried"
+    excerpt: "The White House said Trump was hospitalized \"out of an abundance of caution.\" One official said it could help his political image, the New York Times reported."
+    publishedDateTime: 2020-10-03T15:05:00Z
+    webUrl: "https://www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://i.insider.com/5f7884402400440019129d21?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump says he doesn't know Proud Boys, but 'they need to stand down,' as he faces backlash for not criticizing white supremacists"
+    excerpt: "Facing criticism for not denouncing white supremacist groups during the debate Tuesday, President Trump said he's \"always denounced any form of any of that.\""
+    publishedDateTime: 2020-10-01T04:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-says-he-doesnt-know-proud-boys-after-criticism-debate/5870564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5870564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5870564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 96
     images:
-      - url: "https://i.insider.com/5f74e45074fe5b0018a8e596?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump's doctor says in an update that he's 'not yet out of the woods' as the White House releases photos from his hospital suite"
-    excerpt: "Trump's main doctor said late Saturday evening that the president \"remains fever-free and off supplemental oxygen.\""
-    publishedDateTime: 2020-10-04T03:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-doctor-update-not-yet-out-of-the-woods-coronavirus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-doctor-update-not-yet-out-of-the-woods-coronavirus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doctor-update-not-yet-out-of-the-woods-coronavirus-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5f7943d22400440019129d82?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The Proud Boys are using Trump's 'stand by' remark as a recruiting tool, rebranding to incorporate what they see as his call to action"
-    excerpt: "On social media members of the far-right group celebrated the president's comments, and launched a renewed recruitment drive."
-    publishedDateTime: 2020-09-30T15:00:00Z
-    webUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/5f748ee40ab50d00184ad3ba?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Growing up in poverty, the post office was my lifeline. Now, Trump is attacking the USPS as a political stunt and putting lives at risk."
-    excerpt: "Like many Americans, I depend on the postal service. Trump's campaign against mail-in voting and attack on the USPS is putting lives at risk."
-    publishedDateTime: 2020-09-29T13:46:00Z
-    webUrl: "https://www.businessinsider.com/poverty-us-post-office-lifeline-trump-disabling-usps-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/poverty-us-post-office-lifeline-trump-disabling-usps-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/poverty-us-post-office-lifeline-trump-disabling-usps-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5f6e0c140f4d5500110324f4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump has repeatedly been endorsed by white supremacist groups and other far-right extremists, and they've looked to him as a source of encouragement"
-    excerpt: "Trump's refusal to explicitly condemn white supremacist groups during Tuesday night's debate follows a similar pattern."
-    publishedDateTime: 2020-09-30T21:40:00Z
-    webUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://i.insider.com/5f74dd1974fe5b0018a8e56a?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Trump Condemns ‘All White Supremacists’ and Proud Boys After Days of Odd Comments"
-    excerpt: "President Donald Trump condemned “all white supremacists,” including the Proud Boys during an interview with Fox News host Sean Hannity on Thursday night. Trump’s remarks come after days of odd comments from both him and White House press secretary Kayleigh McEnany,"
-    publishedDateTime: 2020-10-02T13:01:00Z
-    webUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/"
-    ampWebUrl: "https://www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-condemns-all-white-supremacists-and-proud-boys-after-days-of-odd-comments/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 70
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Hannity-09_40_28-PM-1200x675.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ef4e9e12-fc35-4735-b7c5-3b2479d78a8e-AP_Election_2020_Debate.jpg?auto=webp&crop=4802,2701,x0,y125&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "‘Don’t tell anyone’: Trump tried to hide positive COVID-19 tests spreading through the White House"
-    excerpt: "The Wall Street Journal reported Sunday that President Donald Trump tried to hide that he first tested positive for COVID-19 when he waited for a second test on Thursday. According to the report, Trump attempted to hide his first rapid test that gave him a positive test result."
-    publishedDateTime: 2020-10-04T23:48:00Z
-    webUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+  - title: "Staten Island Ridiculed On Twitter For Pro-Trump ‘Super Spreader’ Rally"
+    excerpt: "Staten Island was mocked on Twitter for a rally to support President Trump, after he was hospitalized with COVID-19."
+    publishedDateTime: 2020-10-03T22:11:00Z
+    webUrl: "https://ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238"
+    ampWebUrl: "https://www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.jpg"
-        width: 800
-        height: 430
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/26/donald-trump-fires-up-his-supporters-at-a.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "The Latest: Doctor Giving Trump Health Update Sunday Morning"
     excerpt: "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19."
@@ -629,17 +248,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "The Latest: Trump Diagnosis Proves Testing Alone Not Enough"
-    excerpt: "President Donald Trump’s coronavirus diagnosis proved that testing alone wasn’t enough to protect him. Mask wearing and social distancing are other key ingredients for preventing the spread of COVID-19,"
-    publishedDateTime: 2020-10-06T15:10:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-06/the-latest-321-infected-at-garment-factory-in-sri-lanka"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-06/the-latest-321-infected-at-garment-factory-in-sri-lanka?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-06/the-latest-321-infected-at-garment-factory-in-sri-lanka?context=amp"
+  - title: "President Makes Progress, Not 'Out of the Woods': Trump Update"
+    excerpt: "President Donald Trump has made “substantial progress” but still isn’t “out of the woods,” his physician Sean Conley said in a Saturday evening update. Trump completed a second dose of Remdesivir and remains fever free,"
+    publishedDateTime: 2020-10-04T17:19:00Z
+    webUrl: "https://www.chron.com/business/article/Johnson-Becomes-Third-Senator-to-Test-Positive-15618806.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 35
 
 secured: "Y/vE1QhDb5vojF283DIwQhtbGZRJ5nnmZESmN9HVy/0z0QZ5uVlerFKwMnYb8fYugJb3GkedwCFXaL9caqjMYXBFRRWtxfmpZbEoSTxsOxqFngUNJiTQxdDheW9Ry5QT8aZw+kNxBvHeF0M1Wv9OdfZ8HJUxF7cb2rsH1zighlhbZ/Q1U/pQiAJsRvTQypozaHoRwBB1JjIP1fK72N1w7Rzk3hVbj2TvFWIcQPDkxe3LsrHn8BjzI7o2yKX9YvVJfmHboAHmKDQmGr7ob7pfW/AYrgJOgfMAXtROYXpUeZs4bL7qpzoP7ONyKcvLyoTzaQ9echWYQsVA+LmihF+OPd7uu+ehCB+HJytYjq7eH4Y=;TyBoZTPK2/9jXOqY89/Rtw=="
 ---

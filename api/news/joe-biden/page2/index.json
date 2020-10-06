@@ -2,146 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-09-28-despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.md",
-      "title": "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo",
-      "excerpt": "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
-      "originalUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg",
-          "width": 4923,
-          "height": 3282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
-      "publishedDateTime": "2020-09-27T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court.md",
-      "title": "Watch live: Joe Biden delivers remarks in Delaware on Supreme Court",
-      "excerpt": "Watch live coverage of Joe Biden as he delivers remarks in Wilmington, Del., on the U.S. Supreme Court.Sept. 27, 2020 © 2020 NBC UNIVERSAL",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692",
-      "originalUrl": "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden1.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92653637692",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92653637692",
-      "publishedDateTime": "2020-09-27T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-joe-biden-amy-coney-barrett-is-a-threat-to-obamacare.md",
-      "title": "Joe Biden: Amy Coney Barrett is a threat to Obamacare",
-      "excerpt": "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
-      "originalUrl": "https://www.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2020/09/26/election_2020_biden_13918_c0-164-5833-3566_s1200x700.jpg?9f7efeb7b81d45783e417f0bb02a19bf07526104",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/",
-      "publishedDateTime": "2020-09-26T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-26-bloomberg-rolls-out-40m-ad-buy-to-boost-biden-in-florida.md",
       "title": "Bloomberg rolls out $40M ad buy to boost Biden in Florida",
       "excerpt": "Former New York City Mayor Michael Bloomberg on Friday rolled out a new $40 million ad buy in Florida as Democrats look to bolster Joe Biden’s chances of winning the Sunshine State.",
@@ -173,6 +33,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-your-evening-briefing-russias-growing-fear-of-a-president-joe-biden.md",
+      "title": "Your Evening Briefing: Russia’s Growing Fear of a President Joe Biden",
+      "excerpt": "But Vladimir Putin is also wondering what a President Joe Biden would mean for issues from nuclear arms to relations with China, energy exports and sanctions. The conclusion from the Kremlin seems to be that Biden would be bad news for Russia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2020-09-25/your-evening-briefing-russia-s-growing-fear-of-a-president-joe-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDQ3EuU3l5ng/v0/1200x966.jpg",
+          "width": 1200,
+          "height": 966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -666,7 +577,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2020/sep/23/you-can-win-this-how-beto-orourke-is-becoming-joe-bidens-greatest-ally",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1502,7 +1413,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1525,6 +1436,99 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-bernie-sanders-denies-alleged-concerns-about-joe-bidens-campaign.md",
+      "title": "Bernie Sanders denies alleged 'concerns' about Joe Biden's campaign",
+      "excerpt": "Sanders on Sunday said Biden \"is in an excellent position to win\" but can't simply campaign against Trump. He advised Biden reach out to Latinos and young voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
+      "originalUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5e87eb7ed0ee001e25f05c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bernie-sanders-joe-biden-democrats-election-campaign-economy-trump-2020-9?amp",
+      "publishedDateTime": "2020-09-13T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-exclusive-russian-state-hackers-suspected-in-targeting-biden-campaign-firm-sources.md",
+      "title": "EXCLUSIVE-Russian state hackers suspected in targeting Biden campaign firm – sources",
+      "excerpt": "Microsoft Corp recently alerted one of Democratic presidential candidate Joe Biden’s main election campaign advisory firms that it had been targeted by suspected Russian state-backed hackers, according to three people briefed on the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW",
+      "originalUrl": "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKL1N2G70AW",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2G70AW",
+      "publishedDateTime": "2020-09-13T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -201,22 +201,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Conservative Pundit Slams Donald Trump, Corrupt System Over Tax Returns"
-    excerpt: "The New York Times reported Trump paid just $750 in income taxes in 2016 and 2017, and no taxes in 11 of the last 18 years Coulter says developers should not be able to depreciate property that sells for much more She tweeted Democrats don't have the guts to overhaul the tax system because they get major donations from billionaires Conservative pundit Ann Coulter,"
-    publishedDateTime: 2020-09-29T23:22:00Z
-    webUrl: "https://www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927"
-    ampWebUrl: "https://www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/16/ann-coulter.jpg"
-        width: 1200
-        height: 761
-        isCached: true
 
 secured: "v1hoah6/ylKlNVbTmvJZT8qEfG3g08kJ8sLp8BYMCnmoTxZK99Yu1NVTbGmEgo91YY5pZIq/xh2BbQV8nqDvSpzx2btYSfQTbFuUHySDy/x6tksSANycPH6B54xiYi8DSCoqt+sLUqEm2P467ibF1LcLrLAuKAvOXXcon7NjEykCS6tZroTQEXpgOl6Oq/RlYHQhbk3xBVD8MDhplDB4Sa5FbJuLyD7wjEgw72YCu0t1qtYiAMn2jVxeeHeqocNXyGv3dychOGjKI83NSPqxCengAMrTwIDinxVo4ksPfPjdw9XKOfOHJomWdHn2I1GWG0cu963bylAOdmw4GvhB1BQoEBqf8Sk3RhZA/tKkCmc=;/4MZ7qZ5hY5I+Xsq6S1wJg=="
 ---

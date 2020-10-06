@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Tax Avoidance Scandal Exposes Poor Risk Management And Double Standards At Deutsche And Professional Banks"
+    excerpt: "Trump may finally be the greatest at something, being the most leveraged president in U.S. history. Trump’s tax avoidance scandal showcases how banks apply credit standards differently to powerful borrowers."
+    publishedDateTime: 2020-09-28T17:36:00Z
+    webUrl: "https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/"
+    ampWebUrl: "https://www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mayrarodriguezvalladares/2020/09/28/trump-tax-avoidance-scandal-exposes-poor-risk-management-and-double-standards-at-deutsche-and-professional-banks/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f721622f05720aa8fd4acf5%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "adKaRoWFlh7dl1j5P6VrOv7mDsd1gx1HnokVBhd90vZ+JoGLyxAcoKUM8i64f5q1LVjzdfCM5FZAoaw6PKFvD9sPA8RRA7ZLbCPTSbq/LH2268uWY+uuToYflEnpfuSHuVXLh3k61lHxBpoOQwk4MEqF1Qy8yAbHBlhNOpgncps2MecvQP1Wp+ecE5eYTM9tjmhxHQnoyOU42+a8WLn2zqgeWfJgls+fEhlO85iOkzDss/fdSmfLuEzTYbKY9C/HKqYtda54Par7r52lQ1dfyFhI+GgOXQMCuUtEbTJimcSiIp7uz3lWGYTAcTKc7Xd8+/+8phspKhnBh42g/o2lg7XaLSy/8jVuP23o/SUEI+U=;Z8+521gApsAXrIcKBCzZCw=="
 ---
