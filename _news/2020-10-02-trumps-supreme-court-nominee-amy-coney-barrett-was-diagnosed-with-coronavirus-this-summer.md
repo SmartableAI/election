@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's focus remains on himself even as virus ravages country"
+    excerpt: "Awaking at home Tuesday after a weekend spent in hospital, President Donald Trump offered no indication his serious bout with coronavirus had changed his perceptions of a disease that has killed more than 210,000 Americans.\n    \n"
+    publishedDateTime: 2020-10-07T17:20:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vf2LB2-tPWs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Secretly recorded tapes show Melania Trump's frustration at criticism for family separation policy and her bashing of Christmas decorations"
     excerpt: "First Lady Melania Trump was secretly recorded in the summer of 2018 expressing her frustration at being criticized for her husband's policy of separating families who illegally crossed the southern border while at the same time needing to perform traditional first lady duties, such as preparing for"
     publishedDateTime: 2020-10-02T03:09:59Z

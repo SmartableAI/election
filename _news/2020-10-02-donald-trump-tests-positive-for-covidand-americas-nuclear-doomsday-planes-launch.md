@@ -1871,6 +1871,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "FBI director Chris Wray and top US intelligence officials release video countering Trump's conspiracies about election integrity"
+    excerpt: "The video will likely enrage the president and his allies as they claim the election is \"rigged\" and that mail-in voting leads to a fraudulent result."
+    publishedDateTime: 2020-10-07T17:02:00Z
+    webUrl: "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5a7492c8ec1ade4d2d707e98?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Dow futures decline as stock investors worry as President Trump says he tested positive for COVID-19"
     excerpt: "The stock market appeared headed for a sharp drop early Friday morning after President Donald Trump said he and his wife, Melania, had tested positive for COVID-19. Dow futures  w"
     publishedDateTime: 2020-10-02T05:47:00Z
@@ -2025,6 +2041,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/Kj6bsDur-k0obnkhhAHpi32_-JA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5ICNS26C6BCZBPF4HNCAU7KR5U.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Pelosi on 'The View': White House should stage a Trump 'intervention' after abrupt decision on COVID stimulus"
+    excerpt: "\"When the president just popped off and made that announcement without even informing us ... it \"insulted the Constitution,\" Nancy Pelosi said."
+    publishedDateTime: 2020-10-07T16:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/07/pelosi-the-view-white-house-should-stage-trump-intervention/5910334002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5910334002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5910334002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/2ca06dba-cded-4ca4-a3e7-254feb4332e8-AP_Congress_Pelosi.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Several of the military's top generals were at White House event days before Trump tested positive for COVID-19"
     excerpt: "The chairman of the Joint Chiefs of Staff and the top Army and Air Force generals were at a Gold Star family event on Sunday, defense officials said."

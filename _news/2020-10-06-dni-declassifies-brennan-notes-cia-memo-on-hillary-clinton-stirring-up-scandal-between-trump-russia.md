@@ -77,6 +77,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Putin Criticizes Joe Biden’s ‘Sharp Anti-Russian Rhetoric’"
+    excerpt: "In Vladimir Putin’s first substantive comments on the U.S. election, the Russian president praised President Trump and said he was reassured by Joe Biden’s support for arms control."
+    publishedDateTime: 2020-10-07T17:01:00Z
+    webUrl: "https://www.wsj.com/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
+    ampWebUrl: "https://www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-241652/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Intelligence Officials Urged Trump Spy Chief Not to Disclose Unverified Russian Claims About Clinton"
     excerpt: "Officials at the Central Intelligence Agency and National Security Agency feared that sharing the information with Congress would give credence to unsubstantiated Kremlin-backed material."
     publishedDateTime: 2020-10-01T04:57:00Z

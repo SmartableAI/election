@@ -367,6 +367,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House cleaning crews hard at work on Trump's return"
+    excerpt: "Trump returned to the White House just three days after he was diagnosed with COVID-19 and admitted to Walter Reed National Military Medical Center."
+    publishedDateTime: 2020-10-07T17:03:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/izbk_RDQltA/white-house-cleaning-crews-trumps-return"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-cleaning-crews-trumps-return.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-cleaning-crews-trumps-return.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden calls Trump's debate performance 'national embarrassment,' won't 'speculate' about future showdowns"
     excerpt: "Democratic nominee Joe Biden said Wednesday that President Trump was a “national embarrassment” during the first presidential debate this week, while saying he would not “speculate” on the next two general election showdowns next month."
     publishedDateTime: 2020-09-30T18:21:14Z

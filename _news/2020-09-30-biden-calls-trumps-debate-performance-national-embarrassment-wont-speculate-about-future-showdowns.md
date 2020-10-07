@@ -383,6 +383,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "White House cleaning crews hard at work on Trump's return"
+    excerpt: "Trump returned to the White House just three days after he was diagnosed with COVID-19 and admitted to Walter Reed National Military Medical Center."
+    publishedDateTime: 2020-10-07T17:03:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/izbk_RDQltA/white-house-cleaning-crews-trumps-return"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-cleaning-crews-trumps-return.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-cleaning-crews-trumps-return.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Commission on Presidential Debates ‘carefully considering’ format changes after first Trump, Biden debate"
     excerpt: "The Commission on Presidential Debates on Wednesday said the first debate between President Trump and Joe Biden “made clear” that “additional structure” should be added to the format of the remaining debates in order to “ensure” a “more orderly discussion” of issues."
     publishedDateTime: 2020-09-30T17:51:20Z

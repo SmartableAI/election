@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/DzB6x2swUmk/sen-martha-mcsally-says-it-pisses-me-off-when-trump-bashes-john-mccain</loc>
+    <lastmod>2020-10-07T10:00:34-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/magazine/2020/10/07/relief-stimulus-bill-election-427196</loc>
+    <lastmod>2020-10-07T09:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/entertainment/john-cusack-donald-trump-adolf-hitler-facism-rise</loc>
+    <lastmod>2020-10-07T08:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/</loc>
     <lastmod>2020-10-07T08:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>

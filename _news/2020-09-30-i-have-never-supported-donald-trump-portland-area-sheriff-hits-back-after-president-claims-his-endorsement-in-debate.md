@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 962
         isCached: true
+  - title: "Trump is symptom-free and stable, White House doctor says"
+    excerpt: "U.S. President Donald Trump has had no COVID-19 symptoms for the past 24 hours, with a physical examination and his vital signs showing his condition remains sable, White House physician Sean Conley said on Wednesday."
+    publishedDateTime: 2020-10-07T17:22:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-physician-idUSKBN26S2YF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S2YF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S2YF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536569279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9620F"
+        width: 819
+        height: 545
+        isCached: true
   - title: "'Anyone can get it,' Trump supporters shocked at diagnosis, unwavering in support"
     excerpt: "As Americans digested the news on Friday that President Donald Trump had tested positive for the novel coronavirus, some of his backers expressed surprise that he hadn't been safe from infection and said their support for him was not diminished."
     publishedDateTime: 2020-10-02T19:20:00Z

@@ -751,6 +751,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pelosi slams Trump for shutting down coronavirus relief talks, calls it 'a terrible mistake'"
+    excerpt: "House Speaker Nancy Pelosi on Wednesday ripped President Trump for abruptly breaking off negotiations on another coronavirus relief package."
+    publishedDateTime: 2020-10-07T17:12:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E5dHPabsvvU/pelosi-slams-trump-for-shutting-down-coronavirus-relief-talks-a-terrible-mistake"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-slams-trump-for-shutting-down-coronavirus-relief-talks-a-terrible-mistake.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-slams-trump-for-shutting-down-coronavirus-relief-talks-a-terrible-mistake.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f8efcc30-e836-4c0e-a00a-986de42e0593/cce206ab-ccb4-417c-b6d5-37d9bcde9d76/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dems say Trump diagnosis should be a 'wake up call' on administration's handling of coronavirus"
     excerpt: "Several top Democrats Friday said that they hope President Trump and first lady Melania Trump recover quickly from the coronavirus while adding that the diagnosis should be \"a wake up call\" for the president to take \"a saner approach\" in his pandemic response that Democrats have been critical of for"
     publishedDateTime: 2020-10-02T17:42:31Z
@@ -1119,6 +1135,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump 'fever-free' for four days, 'symptom-free' for 24 hours in coronavirus fight, White House physician says"
+    excerpt: "White House physician Dr. Sean Conley said in a new memo on Wednesday that President Trump has been “fever-free” for four days and has not had any symptoms of the novel coronavirus for “over 24 hours.”"
+    publishedDateTime: 2020-10-07T17:21:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XQnUBordsxE/trump-fever-free-for-four-days-symptom-free-for-24-hours-in-coronavirus-fight-white-house-physician-says"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fever-free-for-four-days-symptom-free-for-24-hours-in-coronavirus-fight-white-house-physician-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fever-free-for-four-days-symptom-free-for-24-hours-in-coronavirus-fight-white-house-physician-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House coronavirus adviser Scott Atlas reacts to Trump's coronavirus diagnosis, says 'zero reason to panic'"
     excerpt: "Special adviser on coronavirus to President Trump Dr. Scott Atlas said he expects the president and first lady will make a “complete, full and rapid recovery,” after the two tested positive for COVID-19, saying “there is zero reason to panic.”"
     publishedDateTime: 2020-10-02T13:16:07Z
@@ -1413,6 +1445,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/907094d8-dcd0-4725-b021-4c8f31e05361/db794f14-3ee9-4bd5-a75b-d6190d4318c6/1280x720/match/image.jpg"
         width: 1280
         height: 719
+        isCached: true
+  - title: "James Corden mocks Donald Trump's coronavirus recovery with parody of Paul McCartney's 'Maybe I'm Amazed'"
+    excerpt: "James Corden poked fun at Donald Trump over his claim that he might be “immune” to the coronavirus after returning to the White House from Walter Reed Medical Center, where he was treated following a positive test for the coronavirus."
+    publishedDateTime: 2020-10-07T17:48:00Z
+    webUrl: "https://www.foxnews.com/entertainment/james-corden-donald-trump-recovery-parody-paul-mccartney"
+    ampWebUrl: "https://www.foxnews.com/entertainment/james-corden-donald-trump-recovery-parody-paul-mccartney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/james-corden-donald-trump-recovery-parody-paul-mccartney.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/james-corden-grammys-ap.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump's Physician Reveals When Trump Could Be Released From Walter Reed"
     excerpt: "The doctors at Walter Reed Medical Center on Sunday offered an update on President Donald Trump's battle with the Wuhan coronavirus. According to Dr. Sean Dooley, Trump continues to improve. \"He has remained without fever since Friday morning."

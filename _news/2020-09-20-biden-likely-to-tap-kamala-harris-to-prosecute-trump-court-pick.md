@@ -178,7 +178,7 @@ related:
   - title: "Pence, Harris to clash in VP debate amid White House virus outbreak"
     excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris will square off on Wednesday in their only debate, as President Donald Trump's coronavirus diagnosis and the ongoing pandemic continue to roil the U."
     publishedDateTime: 2020-10-07T10:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26S1HZ"
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN26S1HZ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S1IB"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S1IB"
     type: article
@@ -190,6 +190,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536509787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9610I"
         width: 848
         height: 545
+        isCached: true
+  - title: "Plexiglass goes up for Pence-Harris vice-presidential debate tonight"
+    excerpt: "Vice President Mike Pence and his Democratic challenger, California Sen. Kamala Harris, are set to face off in a debate Wednesday night."
+    publishedDateTime: 2020-10-07T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-presidential-debate-harris-pence-20201007-hoc6io6zvjamjm6afs3enxmdpm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-presidential-debate-harris-pence-20201007-hoc6io6zvjamjm6afs3enxmdpm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-presidential-debate-harris-pence-20201007-hoc6io6zvjamjm6afs3enxmdpm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 150
+    images:
+      - url: "https://www.chicagotribune.com/resizer/tEgh_Yeoak0kE8gWHPW0EVLZBiI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3JWKCJSMYNAFBVCXIKVAVMIH7M.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Vice President Mike Pence defends Trump holding rallies amid coronavirus"
     excerpt: "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored."
@@ -635,21 +651,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
-    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
-    publishedDateTime: 2020-10-07T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5878313002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5878313002"
+  - title: "Politics professor previews Pence-Harris vice presidential debate"
+    excerpt: "COVID-19 safety protocols are being stepped up ahead of the first and only vice presidential debate in Salt Lake City Wednesday night between Vice President Mike Pence and Democratic nominee Senator Kamala Harris."
+    publishedDateTime: 2020-10-07T16:07:00Z
+    webUrl: "https://www.cbsnews.com/video/politics-professor-larry-sabato-previews-2020-vice-presidential-debate-pence-harris/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 130
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/8f9d3d17-0498-4a06-84c4-fcb2b59f69c6/thumbnail/1200x630/6ea92920746d09dbb123d50ec74aa1b2/cbsn-fusion-politics-professor-larry-sabato-previews-2020-vice-presidential-debate-pence-harris-thumbnail-561282-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
@@ -1017,6 +1031,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Jr. urges hunters to vote for his father"
+    excerpt: "Donald Trump Jr. released a new video on Wednesday encouraging hunters and other outdoorsmen to vote for his father next month."
+    publishedDateTime: 2020-10-07T17:33:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/520002-donald-trump-jr-urges-hunters-to-vote-for-his-father"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/520002-donald-trump-jr-urges-hunters-to-vote-for-his-father?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/520002-donald-trump-jr-urges-hunters-to-vote-for-his-father?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -1345,6 +1375,22 @@ related:
         width: 4363
         height: 2909
         isCached: true
+  - title: "The unique pressures of being Kamala Harris come into focus with her in the debate spotlight"
+    excerpt: "The Democratic vice-presidential nominee will be expected to be strong without risking gains made by her ticket."
+    publishedDateTime: 2020-10-07T16:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/07/unique-pressures-being-kamala-harris-come-into-focus-with-her-debate-spotlight/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/07/unique-pressures-being-kamala-harris-come-into-focus-with-her-debate-spotlight/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/07/unique-pressures-being-kamala-harris-come-into-focus-with-her-debate-spotlight/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-06-2020/t_bc61d02d797943d09ee1b458eb44a011_name_20200925_VP_Debates_preview_edit_00_03_46_21_Still017.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Dow Jumps More Than 450 Points After President Trump Says He’s Being Discharged From The Hospital"
     excerpt: "Stocks jumped Monday afternoon after President Donald Trump announced he would be discharged from Walter Reed Medical Center at 6:30 p.m., with all of the main indexes adding close to 2%, as Wall Street eyes President Trump's Covid-19 recovery and the ongoing potential for successful stimulus negotiations."
     publishedDateTime: 2020-10-05T21:05:00Z
@@ -1663,6 +1709,20 @@ related:
       - url: "https://media.11alive.com/assets/WXIA/images/d5fbace7-3409-41d7-809a-c8125bcc322a/d5fbace7-3409-41d7-809a-c8125bcc322a_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "How sexist, racist attacks on Kamala Harris have spread online — a case study"
+    excerpt: "Kamala D. Harris (D-Calif.) found that a solid 54 percent of Americans approved, while only 29 percent had a negative opinion. But in the fetid corners of the Internet, a different set of plotlines took hold."
+    publishedDateTime: 2020-10-07T16:45:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/kamala-harris-sexist-racist-attacks-spread-online/?arc404=true"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/resizer/rxSfbVqaITkKDMUU8ZMvn7RrmiA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FOUFY4QD54I6XOJOAKLHN6PL5Q.jpg"
+        width: 1484
+        height: 990
         isCached: true
   - title: "These 3 debates show Mike Pence's evolution as a skilled politician and what to expect when he faces off against Kamala Harris"
     excerpt: "Mike Pence's debates in 1990, 2000 and 2016 show the evolution of the man who will face Democratic vice presidential nominee Kamala Harris"
@@ -2464,6 +2524,22 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 80
+  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
+    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
+    publishedDateTime: 2020-10-07T12:04:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5878313002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5878313002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
     excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."
     publishedDateTime: 2020-10-07T02:19:00Z

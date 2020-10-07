@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence and Harris prepare for a debate clash on coronavirus"
+    excerpt: "Four years ago, then-Indiana Gov. Mike Pence let out an exasperated \"there you go again\" on the debate stage after his opponent, Virginia Sen. Tim Kaine, said \"America, you need a 'You're hired' president, not a 'You're fired' president.\"\n    \n"
+    publishedDateTime: 2020-10-07T17:00:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-gkR_GR4J2M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/pence-harris-debate-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/pence-harris-debate-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 210
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris and Mike Pence to be separated by plexiglass at Wednesday's debate"
     excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will be separated by plexiglass at Wednesday night's debate, a source familiar with the preparations tells CNN, as the White House continues to be gripped by a coronavirus outbreak.\n    \n"
     publishedDateTime: 2020-10-05T21:12:23Z
@@ -171,6 +187,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3417632/201005-vp-debate-live-blog-main-cover-cs_36a324da8209b59ae1ae41b6ae27debf.jpg"
         width: 2500
         height: 1405
+        isCached: true
+  - title: "Texas Supreme Court rules Harris County cannot mail out ballot applications to all registered voters"
+    excerpt: "The Texas Supreme Court ruled Wednesday that Harris County, one of the largest in the country, cannot mail out applications for absentee ballots to all of its 2.4 million registered voters.\n    \n"
+    publishedDateTime: 2020-10-07T17:46:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UPcosDECDVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/texas-harris-county-ballot-applications/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/texas-harris-county-ballot-applications/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200903142822-i-voted-stickers-0407-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
     excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
@@ -453,6 +485,20 @@ related:
     quality: 115
     images:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_06/2379271/180328-howard-university-al-0933_a6a32bf73f93495e8be82db6ec53c279.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Transcript: The Education of Kamala Harris"
+    excerpt: "The Education of Kamala Harris. Joy Reid: On a tree-lined street in West Berkeley, Carole Porter waited for the bus to school. Carole Porter: You know, I got some new school cloth"
+    publishedDateTime: 2020-10-07T16:21:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/podcast/transcript-education-kamala-harris-ncna1242424"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2019_01/2705186/msnbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png"
         width: 1200
         height: 630
         isCached: true

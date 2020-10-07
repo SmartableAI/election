@@ -2,6 +2,116 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-30-dana-perinos-debate-verdict-biden-cleared-the-very-low-bar-that-had-been-set-for-him.md",
+      "title": "Dana Perino's debate verdict: 'Biden cleared the very low bar that had been set for him'",
+      "excerpt": "Democrats concerned about Joe Biden's performance on a debate stage could breathe a sigh of relief Tuesday night following the fractious and bad-tempered first confrontation in Cleveland, former White House press secretary Dana Perino said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1b639de-1691-4aa6-b589-f5ec0adde147/5b378a95-9fa4-401a-bec3-261ac93537cd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/presidential-debate-analysis-perino-hume-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-analysis-perino-hume-biden.amp",
+      "publishedDateTime": "2020-09-29T21:41:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-on-supreme-court-overturning-roe-v-wade-theres-nothing-happening-there.md",
+      "title": "Trump on Supreme Court overturning Roe v. Wade: 'There's nothing happening there'",
+      "excerpt": "President Trump said Tuesday night there’s “nothing happening” in the Supreme Court with Roe v. Wade, and it isn’t on the ballot with the latest Supreme Court vacancy. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump_biden_debate_split_thumb_3.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
+      "publishedDateTime": "2020-09-29T18:45:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.md",
       "title": "Philly firefighters, paramedics union breaks with IAFF to endorse Trump",
       "excerpt": "The firefighters and paramedics union in Philadelphia broke with the International Association of Fire Fighters to endorse President Trump in the upcoming election, according to a report.",
@@ -1509,116 +1619,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
       "publishedDateTime": "2020-09-24T17:21:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-mcconnell-tells-fox-news-night-there-will-be-orderly-transfer-of-power-if-trump-loses-election.md",
-      "title": "McConnell tells 'Fox News @ Night' there will be 'orderly transfer of power' if Trump loses election",
-      "excerpt": "If President Trump loses the November election to Joe Biden, there will be \"an orderly transfer of power\" in January, just as there has been \"every four years since Washington was elected for a second term in 1792,\" Senate Majority Leader Mitch McConnell, R-Ky., told \"Fox News @ Night\" in an exclusive",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JYqX9HoB5jE/mcconnell-trump-transfer-of-power-november-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a0f8720c-7bc5-4334-b77b-8c7031364901/7a7bdb0d-42b9-46f7-a2b1-e782e65a8d10/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-transfer-of-power-november-election.amp",
-      "publishedDateTime": "2020-09-24T15:44:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-sanders-charges-trump-is-aiming-to-de-legitimize-election-through-massive-voter-suppression.md",
-      "title": "Sanders charges Trump is aiming to ‘de-legitimize’ election through ‘massive voter suppression’",
-      "excerpt": "Sen. Bernie Sanders is warning that President Trump is going “down the path of authoritarianism” by refusing “to commit to a peaceful transition of power if he loses the election.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a267b29-9fd2-4f37-9c11-9f2f17de8532/7451902e-cb28-4a65-9801-5058469cf5d9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
-      "publishedDateTime": "2020-09-24T12:19:48-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -94,6 +94,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Putin Criticizes Joe Biden’s ‘Sharp Anti-Russian Rhetoric’"
+    excerpt: "In Vladimir Putin’s first substantive comments on the U.S. election, the Russian president praised President Trump and said he was reassured by Joe Biden’s support for arms control."
+    publishedDateTime: 2020-10-07T17:01:00Z
+    webUrl: "https://www.wsj.com/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
+    ampWebUrl: "https://www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-241652/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Comey says new information that Hillary Clinton drummed up Russia controversy to vilify Trump 'doesn’t ring a bell'"
     excerpt: "Former FBI Director James Comey on Wednesday said it didn’t “ring a bell” when asked whether he received an investigative referral on Hillary Clinton purportedly approving “a plan” attempting to tie President Trump to Russia and distract from her email scandal before the 2016 election."
     publishedDateTime: 2020-09-30T15:54:00Z

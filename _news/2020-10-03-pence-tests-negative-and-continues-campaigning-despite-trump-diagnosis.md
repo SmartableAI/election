@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
 type: article
 quality: 200
-heat: 4880
+heat: 4900
 published: true
 
 provider:
@@ -2605,6 +2605,22 @@ related:
       - url: "https://media1.s-nbcnews.com/j/newscms/2020_41/3417500/201005-trump-cavalcade-mc-1424_e2821d13758f3c2f6c87f1dcfaee5ec0.focal-1000x563.JPG"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Appeals court rejects Trump effort to shield financial records"
+    excerpt: "A federal appeals court on Wednesday rejected President Donald Trump's efforts to keep his financial records from a Manhattan prosecutor, putting the president on track for a second date at the Supreme Court in his campaign to keep those documents private."
+    publishedDateTime: 2020-10-07T15:54:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/appeals-court-trump-financial-records-427165"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/appeals-court-trump-financial-records-427165"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/appeals-court-trump-financial-records-427165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/56/2c/14fb769a46948e61140705fc7ddc/201007-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Miami mayor to Trump: Don’t come here to debate if you have Covid"
     excerpt: "The Republican mayor of Miami said Donald Trump shouldn’t come to his city for the Oct. 15 debate with Joe Biden if the president is still testing positive with Covid-19. “I don’t think it’s safe, not for him and anybody else,"

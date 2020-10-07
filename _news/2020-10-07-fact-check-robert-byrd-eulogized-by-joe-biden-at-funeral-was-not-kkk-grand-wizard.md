@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Here's who would pay more under Joe Biden's tax plan"
+    excerpt: "Joe Biden's tax plan increases taxes on those earning at least $400,000 per year. But the burden will fall primarily on the highest earners, those making more than $1 million a year, according to an analysis from the Tax Policy Center."
+    publishedDateTime: 2020-10-07T16:16:00Z
+    webUrl: "https://www.cnbc.com/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106732322-1602003544711-gettyimages-1278126590-cs026704_2020100245452297.jpeg?v=1602003584"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Joe Biden’s campaign, summed up in one simple gesture"
     excerpt: "Jill Biden reminding her husband of proper social distancing -- and his response -- says everything about his campaign."
     publishedDateTime: 2020-10-06T22:47:00Z
@@ -179,6 +195,6 @@ related:
       domain: charlotteobserver.com
     quality: 30
 
-secured: "O3jbITS3OTYNHk5Hx571IzgqYAcCQ4rCqdO639XFh9Y3rwxMj+rKZ0KVd/+06tiOMsdUPTM3B6011ZCZhrRcNqClvlT0Z02Pg2C4zdU7TQgrpo4RInKz+cgX7Aq3epxLpcIJF6IDtzqPllSnpL52SUOXtnosorJfpS07Kw66KY4JwQEvE9DaAiejYMRsTquB4LZNi4dRM5V8YeCB5qbJLGjtUjJ5OJnh61S+lwkkA2VMXKnAs1gS1lQEDRnt+tz2Mwk925efYbX6rZXvnAXOXVroxcYSuSdtms/rHTg0Ms6QctwjjYNT6cTOYe5TQZepAkpA5X2Syl8yTTNeROu8rf42W4v/ZeNIiw0Zlfwsa6E=;Kho1SOvzZAO8wGJ4ycMGmA=="
+secured: "U1yEDwwcibkjEpKk32PQfSeV2yfd6PnicRLF+D26TYWOTTOe1w+Dr9f1Bb1D/zqpGFOSXwI666CZhRN5/AJPHXTOZuJkQ8WAXOy0wnlwhXGLLMof8kcTTNZ/9vyACJX0cQEPzJn8U3yZHyy7VesuqeE0GbcTw0C8xOutBV2i1ABf3oMUH6JnL3mrjP1Pz/SSkrKI/XR3CbUEnL0DtO9yBRAz96q5RdvwqKNayuODKFDtWNIL0cdg/jPBG+SzRaAmVIoQ2Zr/hV/Avk7bIiOg03InBRva6WjQpDIL9C/YOQoJfI/Z5ltYsQ/8CxPfCiAmx8soEoddN5RmnXtUErsSFRd8+M3qDOqf4pbwPLMm2wREz5zNily2ak6AkMBoFmD46WBm1OK+H6TXiFYRflZPn++rO1wDaswGIsobR5PIbvpR6MOE85jVke3rv2a5ghOfl6kevewZF0+15vqCl6pT88ZGtPTepu230YOdjYp7kSlAcq12LeubsBSpf3hKCNPw90fvdydeCnO0h5xQixPTvw==;33s4hHgxClFXMFZCZqoMmQ=="
 ---
 

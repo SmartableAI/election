@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's focus remains on himself even as virus ravages country"
+    excerpt: "Awaking at home Tuesday after a weekend spent in hospital, President Donald Trump offered no indication his serious bout with coronavirus had changed his perceptions of a disease that has killed more than 210,000 Americans.\n    \n"
+    publishedDateTime: 2020-10-07T17:20:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vf2LB2-tPWs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's Supreme Court nominee Amy Coney Barrett was diagnosed with coronavirus this summer"
     excerpt: "Judge Amy Coney Barrett, the President's nominee for the US Supreme Court, was diagnosed with coronavirus late this summer but has recovered, according to three sources familiar with the matter.\n    \n"
     publishedDateTime: 2020-10-02T18:20:49Z

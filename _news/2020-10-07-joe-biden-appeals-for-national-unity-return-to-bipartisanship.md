@@ -53,6 +53,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Here's who would pay more under Joe Biden's tax plan"
+    excerpt: "Joe Biden's tax plan increases taxes on those earning at least $400,000 per year. But the burden will fall primarily on the highest earners, those making more than $1 million a year, according to an analysis from the Tax Policy Center."
+    publishedDateTime: 2020-10-07T16:16:00Z
+    webUrl: "https://www.cnbc.com/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106732322-1602003544711-gettyimages-1278126590-cs026704_2020100245452297.jpeg?v=1602003584"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Joe Biden’s campaign, summed up in one simple gesture"
     excerpt: "Jill Biden reminding her husband of proper social distancing -- and his response -- says everything about his campaign."
     publishedDateTime: 2020-10-06T22:47:00Z
