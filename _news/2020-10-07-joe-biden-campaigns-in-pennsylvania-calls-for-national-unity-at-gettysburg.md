@@ -217,6 +217,22 @@ related:
         width: 3970
         height: 2240
         isCached: true
+  - title: "Joe Biden quotes Sixers new head coach Doc Rivers while campaigning in Pennsylvania"
+    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
+    publishedDateTime: 2020-10-07T14:16:00Z
+    webUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html"
+    ampWebUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GXOWXIVJL5AGHINVACOT7D2BLQ.jpg"
+        width: 5620
+        height: 3747
+        isCached: true
   - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
     excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."
     publishedDateTime: 2020-09-29T14:19:00Z
@@ -270,6 +286,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "biV1PLK7qv+9/QhZt+Wu8Rc3HRoq9VbrmSGVdp6LnJfeaHon8G1kbqqZJSldLl7PyszdbYZe/2NhxZv7pQCNlVIa6adX9mmY5GNCyiERUicGfoiGrrxoFotWpy6++tZtkUz7h4EB5ZXSNjf9CTO0tfoBbS0C1zjmRo8PSdC5HKujj4aQ0ruViEE4Cpgm5vGUrLuP08jJWKetSUFWz8rc08E/1lTetA/K6AStBA0tI4xDjJ3hV2t4Og/Y1MULYbm1H+yIxEGNgHhguPn30XRJ0qFGpAjeUbxzndRUbhTglvXaZykCMqFyasS6zQr8QGaBjKgyOjl/I5NXtjloiRpRMumC+iokox27eMgRx8cbBws=;6ULAf47HSKdmpnEe05z4ig=="
+secured: "13R6fWo4748IgVn83TLoScQVXjwPr9w/NdE1PxLKp2wrqry5+KmcFW4IOTL68XFyUJ7wV38jUbVfOvdyWAVHEbdi6aa7FGQobUNPsyOD7KVh632IGnWn+bVxMwRvCkaNLm/VCWudFwbSWVte3l/rPYlaks/WrrAzJBYJsBuJdowMpk1voJIEo9HBJPqU+m7v0jCPPQumKVOl9zvKUDHHgsRcNl92eXz6zzFRClSf7qKoBKoI1AQ8GjDp4ykQDzCoj7MdJdMweG3V8QfUm9Vslji7t7rxChjTgENqw2QY8jv4c8HYohum5cEFPY5hlyLrHufBcxlldq082edwfhBUjML8Br3kqr5KW6ysjt0sr5y08plALmOXtsbe4qZ/3+YbZqBZdaMmMOj1FzRcV0jk3LEvdAFA9f7vd8093SZbx6gbPPVEphS+lHEUZapUlT4kPqoANDJVSNeqsG3/GSSsIY33kpcFQS3MpG9u8Ke/XZ7JFfz0b17HvxzpQNK9MuTqyTE+9ArjGiue/xAbw3zACw==;GIzZzvgbUxd3qFHf3iY3Pg=="
 ---
 

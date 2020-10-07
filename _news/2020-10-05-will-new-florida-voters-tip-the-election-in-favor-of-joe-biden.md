@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
 type: article
 quality: 140
-heat: 320
+heat: 340
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/26/election_2020_debate_13227_c0-212-5082-3176_s1200x700.jpg?db917b09d8cbb24332b5ca6852b875bd774a8b48"
         width: 1200
         height: 700
+        isCached: true
+  - title: "In year of surprises, a win by Joe Biden should not be one"
+    excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
+    publishedDateTime: 2020-10-07T13:54:00Z
+    webUrl: "https://www.rollcall.com/2020/10/07/in-year-of-surprises-a-win-by-joe-biden-should-not-be-one/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/MAIL_IN_BALLOTS_004_10052020.jpg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden Remarks to U.S. Conference of Mayors"
     excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"

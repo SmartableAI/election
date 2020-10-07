@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-perform
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
 type: article
 quality: 133
-heat: 473
+heat: 493
 published: true
 
 provider:
@@ -217,6 +217,22 @@ related:
       - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228190343-e1601850280332.jpg?quality=65&strip=all"
         width: 3970
         height: 2240
+        isCached: true
+  - title: "Joe Biden quotes Sixers new head coach Doc Rivers while campaigning in Pennsylvania"
+    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
+    publishedDateTime: 2020-10-07T14:16:00Z
+    webUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html"
+    ampWebUrl: "https://www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/joe-biden-quotes-sixers-new-head-coach-doc-rivers-while-campaigning-in-pennsylvania.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GXOWXIVJL5AGHINVACOT7D2BLQ.jpg"
+        width: 5620
+        height: 3747
         isCached: true
   - title: "Joe Biden to include stops in Cleveland, Alliance on campaign tour the day after first presidential debate"
     excerpt: "Former Vice President Joe Biden plans to launch a train tour in Cleveland Wednesday, the day after he debates President Donald Trump."

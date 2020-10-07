@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A look at how the Atlantic City disaster may have set Trump up to pay nothing in taxes for years"
+    excerpt: "A key provision under US tax law known as \"abandonment\" may have been Trump's ticket to a $72.9 million tax refund after leaving his casino business."
+    publishedDateTime: 2020-10-07T15:18:00Z
+    webUrl: "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f7cdca294fce90018f7b82b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump Eases Back Into Work by Choking the Economy to Death"
     excerpt: "The president has torpedoed stimulus talks, telling suffering Americans to bother someone else with their so-called problems."
     publishedDateTime: 2020-10-06T21:35:00Z

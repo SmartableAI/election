@@ -3461,6 +3461,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Meadows says White House stimulus efforts ongoing amid Trump's back-and-forth"
+    excerpt: "White House chief of staff Mark Meadows said Wednesday morning that he and Treasury Secretary Steven Mnuchin were actively considering a stimulus measure aimed at distributing checks to Americans while providing aid to airlines and small businesses — further muddling the administration’s messaging after President Donald Trump appeared to abruptly call off coronavirus relief talks a day earlier."
+    publishedDateTime: 2020-10-07T14:23:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/mark-meadows-white-house-coronavirus-stimulus-427119"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/45/10/04bfb0aa439ca62b40e593ca5475/gettyimages-1278689097-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
     publishedDateTime: 2020-10-02T00:52:00Z

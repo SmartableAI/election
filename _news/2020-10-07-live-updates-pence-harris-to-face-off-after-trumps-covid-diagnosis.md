@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris' past health care positions could come under the spotlight in debate"
+    excerpt: "California Sen. Kamala Harris could be forced into the uncomfortable position on Wednesday night of explaining her past support of \"Medicare for All,\" a proposal the Trump campaign has described as a socialized takeover of American health care -- and Harris' running mate, Democratic nominee Joe Biden,"
+    publishedDateTime: 2020-10-07T14:50:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1eM0wBoOyFU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/kamala-harris-health-care/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/kamala-harris-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
     excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
     publishedDateTime: 2020-09-28T23:50:00Z
@@ -457,7 +473,16 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris’ Main Vice President Debate Task: Humiliate Mike Pence on COVID Claims"
+    excerpt: "Yes, she has to pass the “heartbeat away” test. But the main thing is to keep the pressure on Trump’s top apologist on the dominant issue of this race."
+    publishedDateTime: 2020-10-07T15:06:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-main-vice-president-debate-task-humiliate-mike-pence-on-covid-claims"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 63
 
-secured: "vLnnDHDUFmnNo76wKlEBHBxxWoVtGg3OfHg27yI3oVC3tKUZ2rbqpb8Zc1fdr9vrBFAOmOMnsbelOyOOu8+TxyKstXmJmlpoFQGGVPnnP4DeOjdxTy176176zundmWhn+mt7w5ve0VWbKuoqJsrMFp2Vxsub7ROhdcheodol+TB0L2cG1I+beBtgFeErjssR/gaNtPm8ymtsxXbeb4hXtetoD/p/U2CKQOxmINPbQVDevPCgi+urOu7rm7cFPKpAT8qgm/ACWA+e8QFQhOSQFtOFTEIg1eR70ALnEheqNjqnLl/M9IS596/h0R8U39dr2FL5Zll1QqmiAUXaNijmtVv9w4HI8oVUWO2J8BBifyU=;2VMD2HDFPgIs3aGoNGZNHw=="
+secured: "u87HISzpeu5zVc7omEGJc9iW+2V96pwg6MSQ42QAKjVQVB0zkosq0zgWdc4lvUCl8CWvHO2DrN4jGXEuNi0AADynbQHY/hIxs7l4X9oKOMAz2YwIDHZhIGYgTwM1aDIWyenfk33Xb1UUZE/CqC/91OCjFs3m7ZFX9G5bkX88rRhb0T/Fn5ZTAPZwjx8aY6QyRasvajWf60/55MFfKBc5xMnbsCeH8BmEcD8uu6d+bJtUceTsnIacNZTXs561OVrPxjw52sU5WWkgm0snlIqWS0MOc8zgEOT+aZdPaT1zpeFlXmiynwNABCCgWi9sbxf5YNa50mximSuVZaau4qKdQc6dnyBA3qocECsAddjbdSqmJ7wfuRNc0Ca/GIabARCIECVxH3H0uT+RN2mmSLYITSTX2yp95GzPycVIgVTAXYiEmV+1GqtqtMz43abGpXUDEJTRu4A/BsanTi0VcDv1gx1/xAGv4IjZztb55+2Qy1RqtTtN4/KXLIzp+KXIpt6+eT35M9Ej5Jc0JfQ+w0hNQg==;u3DNsvHIiweboLj9CZQsXQ=="
 ---
 

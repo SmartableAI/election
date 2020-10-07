@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal appeals court rules Trump can't block New York subpoena for his tax returns"
+    excerpt: "The Manhattan district attorney can obtain President Donald Trump's tax returns, a federal appeals court ruled on Wednesday, dealing the President another setback in his effort to shield his tax returns from investigators but the case is likely to head to the Supreme Court.\n    \n"
+    publishedDateTime: 2020-10-07T15:46:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e-SqvyGrIxw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/trump-tax-returns-subpoena-ruling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/trump-tax-returns-subpoena-ruling/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but unswayed by debate"
     excerpt: "After watching the first presidential debate Tuesday night, undecided voters from battleground states across the country still had plenty they wanted to know about coronavirus, racial injustice and what each candidate would do to unite the country."
     publishedDateTime: 2020-09-30T07:28:00Z

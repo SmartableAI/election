@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris' past health care positions could come under the spotlight in debate"
+    excerpt: "California Sen. Kamala Harris could be forced into the uncomfortable position on Wednesday night of explaining her past support of \"Medicare for All,\" a proposal the Trump campaign has described as a socialized takeover of American health care -- and Harris' running mate, Democratic nominee Joe Biden,"
+    publishedDateTime: 2020-10-07T14:50:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1eM0wBoOyFU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/kamala-harris-health-care/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/kamala-harris-health-care/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Live updates: Pence, Harris to face off after Trump's Covid diagnosis"
     excerpt: "Wednesday's vice presidential debate comes less than a week after Trump announced he had tested positive for Covid-19."
     publishedDateTime: 2020-10-07T13:15:00Z
@@ -456,6 +472,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris’ Main Vice President Debate Task: Humiliate Mike Pence on COVID Claims"
+    excerpt: "Yes, she has to pass the “heartbeat away” test. But the main thing is to keep the pressure on Trump’s top apologist on the dominant issue of this race."
+    publishedDateTime: 2020-10-07T15:06:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-main-vice-president-debate-task-humiliate-mike-pence-on-covid-claims"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 63
 
 secured: "8FizIR9yp0Z0ZwvZEf9zaZIsRs2vY9Lh4rlW5krI7yC46yOcGo15Warc16am9HzDhgl3epYaGhavMH/LJOJ0tvsxI9L8tV4rPvnQdGuHwrCBK/RL/AnY/gjxVOkWnfmBJFFsiwMyb92JVchcRU8yPr/8XCX4bypONG6mQ1k+gcefUL16iTp3lw/ox0xlxJ9MxyylHGy0S0CEBtFi8leULBeU4gCw9vADJFivwwQRTDzUy61JjC0Li8ad/0c82q4WXXVmZjlCi0YtPeaWGzqCyW6lJ1Ng1kAgoLyuo1Mv2eVf39swGTAlZchwyE5fW85cn7lQ7q8s9y1J9IhvntE51/LspxITUUanuAkSyTZu9WVaD3qoMUnuojl5Fd6S1swHwD/MqrTr+Fg9WE6JyNG9LDhqD9nk10fznaGLhv0EGiEh/2zj7ScK4ur0lsktIuvbwLBJNwpz/fQCthvo4v8LToOlDjUQWofhElapdpPxt8EI+QuX1Z6O0wyi+OH83dqUFpVQTkvCs7S8yicpEkwyGA==;qaYlHDDokosqdDxu+cg2pw=="
 ---

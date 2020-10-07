@@ -312,6 +312,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump mocks Joe Biden for awkward remark about young girls"
+    excerpt: "President Trump on Wednesday piled on Democratic presidential candidate Joe Biden for his awkward remark Monday about young girls. “He’s been a wacko for years, and everyone knows it,”"
+    publishedDateTime: 2020-10-07T15:45:00Z
+    webUrl: "https://nypost.com/2020/10/07/trump-mocks-joe-biden-for-awkward-remark-about-young-girls/"
+    ampWebUrl: "https://nypost.com/2020/10/07/trump-mocks-joe-biden-for-awkward-remark-about-young-girls/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/07/trump-mocks-joe-biden-for-awkward-remark-about-young-girls/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/trump-biden-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Would Double Down on Tax Cuts in Second Term"
     excerpt: "President Trump and Republicans got much of the tax code they wanted in 2017. In a second term, he would face expiration dates on those and push for more tax cuts."
     publishedDateTime: 2020-09-29T13:17:00Z
@@ -434,6 +450,6 @@ related:
         height: 720
         isCached: true
 
-secured: "llIXpLoQIion5tOro6A/0YfBBTuGPSiJsxEVqZauCGNR8XqoZauE1skpoNcXE5Xm85gBWUP55DmqSQha8dB3c/w0FaGlezKOGaWqTk8dppWmHwV4BQ5V7W23nsp5FIy23xf5JAmWVBtq03ewHpHGFke8IUFG4K/seRg/X1N8/qCMO1GXvsMYZb8VDUHTu8h3zN3OzN0Wku1ydm1iUXKuhpZonESgg1CxZcZAMYgHbxcawXqpXtcCmIzVFMw7YupUm0EvtXg/e7p39LCgVs+8URGE6HHxARxw5EGP1+NCeHBn+aSudsSYHb0fdlp1BI9msd5N0SC6TMgVcXF4J+G7C+rWm8mgksdluxoNW9l8ACw=;Yx/tlfyevP+p7D5L4uCD0w=="
+secured: "+DtMYybWAgyna6MC32D58txmyj658d6G3KAoi8P77Rfrb58QCzRcrJjLakmWT3C8lU4hcsGV4Sc0DUKVXvjPpOVYH0tafn7Fs0txALCG0ZRZlBuldkcbXGei3wXk5Rxgsf8gBdIKQtf90BD+Zsbaoy4cZXakDzcxlFghpgjMLLTF+adrTncFQRr0fdcVto5Go3Y6r4JUa/82GhF5AugPw8fjS1DuHRf5isiJH5bQBsL3In3IJ5+48B1mhTrnJiDHlAKTHg3rGLlSE7bOn/ah36Rc7Q8UjjRxNXmPjfAHZ9OfRjJTH59kRXdKLtLr15g5n5VDPDbAnapmORpR5cRSPOfR5p6cvSW/SJZOfwpLL8uK1RZPfjdmHNuJoCnfZeyE2LCoJ4V9tZoHxce8vxtOkp/5sG+XE5Alz9SQjcTIfkzdIvJmY0ZR+pIGvg58xP8HKWSvexgxoAIQkvs2geHRHLu9Sa6O2l/Jh8XLGjpfRT5PFN98RAWNOEYL8yaLrCy0K0OgAgbmD87poh8Ev6RT2A==;kNoKuxmCAyrk5T1tXFx8zw=="
 ---
 

@@ -83,6 +83,22 @@ related:
         width: 821
         height: 545
         isCached: true
+  - title: "Fact check: Robert Byrd, eulogized by Joe Biden at funeral, was not KKK Grand Wizard"
+    excerpt: "Social media users have been sharing content online that claims Democratic Presidential nominee Joe Biden eulogized Robert Byrd, asserting he was the grand wizard of the Ku Klux Klan (KKK). This claim is partly false."
+    publishedDateTime: 2020-10-07T15:15:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-byrd-eulogy-biden-kkk-grand-idUSKBN26S2EE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S2EE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S2EE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536544756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG961N0"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fact check: Joe Biden faces friendly fire – partly false – over age, pot, prisons and more"
     excerpt: "An Instagram user levels strong charges against former Vice President Joe Biden but says he will vote for him against Trump"
     publishedDateTime: 2020-10-01T12:40:00Z

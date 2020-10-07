@@ -3,8 +3,8 @@ category: news
 title: "Battle for the suburbs: can Joe Biden flip Texas? – video"
 excerpt: "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli"
 publishedDateTime: 2020-10-07T10:14:00Z
-originalUrl: "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video?ref=hvper.com"
-webUrl: "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video?ref=hvper.com"
+originalUrl: "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video"
+webUrl: "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video"
 type: article
 quality: 105
 heat: -1
@@ -255,6 +255,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "UpmXkyun0zVsH9fIigJAJ9lL69W/HRLn4Khx4da6/sRyT/7zftZRJzo67ESUWC4buqHK2m92aF4o+o5grVdq8fBfuBz0eoylREY3q2jpkfknjRDQ7JPbZ3PYVhkPY8t3MR/Wr0vAXyJzkrH1itsqJqN1UaZVaJ564rFTMU7jaWJAOpgS9ux0ZZRiq3kzzCzNZbVto5kc8e7U0v8gviPvUbKWI0OGD5yUJPOIm0bhO8rQ22059edy5B6mKnU9LCs8fH2cvom0pN1zYFQgO3EPKFMvoolbdUR5nK74fVzaw2fBzovxqEZb8wCoSoTsIq0Odx/lgRoqAhmXPFEz5j7r2eDA3VJXFYyDle6yCzxLDGg=;2GGXaGzSPeCd3DihFDyUzA=="
+secured: "po7bKVHlq0f4nE5rZ/+ZnZg66+vUZ9FoA/k623YeqNve3BW1kZoxTF79HxzGgFDbFQFdog6SrP+UcSrtmPSq5dVZIUydzVTWm4CFqEGv3nqmnk+mMe21wwIaEJo5pDL/SjGrJ7XomKQVULRXtk8b0e/nJUpg5QbNaSQL19BGG+/uup+yHONZqmnep/sbKRjSo+4r5fj7hgap+DrSXVWcoT8OICM34+luSYM8UhEeaBNkG8GQy0ivLAH2J7N/JkltUn9+ZrxKEXzgRHugx196Jl1VW7C9CoNqzkfuSzmoQJ2OfV6VLS8QQw7dBvwfBozQOdBXrXe3/SUbabSiL/M+8bwpVBwOwf/+k2P/2FiGbQ4=;uSf/iIkSzPTVR6roRV5+JQ=="
 ---
 

@@ -320,6 +320,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "What Time Is the Vice Presidential Debate Tonight Between Kamala Harris and Mike Pence?"
+    excerpt: "The vice presidential debate between California Senator Kamala Harris and Vice President takes place tonight. The debate is the second in a series of presidential debates, following the first debate between President Donald Trump and former Vice President Biden."
+    publishedDateTime: 2020-10-07T15:00:00Z
+    webUrl: "https://www.newsweek.com/what-time-vice-presidential-debate-tonight-kamala-harris-mike-pence-1537012"
+    ampWebUrl: "https://www.newsweek.com/what-time-vice-presidential-debate-tonight-kamala-harris-mike-pence-1537012?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-time-vice-presidential-debate-tonight-kamala-harris-mike-pence-1537012?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 142
+    images:
+      - url: "https://d.newsweek.com/en/full/1646992/vice-presidential-debate.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
     excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
     publishedDateTime: 2020-09-13T21:21:00Z
@@ -399,6 +415,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d03337ac3813717b7a822%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2141%26cropY1%3D75%26cropY2%3D1280"
         width: 1199
         height: 675
+        isCached: true
+  - title: "In 2016, Mike Pence was an asset for Trump. In 2020, it’s not so clear."
+    excerpt: "Pence was a relatively popular VP pick running alongside an unpopular nominee in 2016. In 2020, though, he enters the debate as a face an unpopular coronavirus response."
+    publishedDateTime: 2020-10-07T15:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/07/2016-mike-pence-was-an-asset-trump-2020-its-not-so-clear/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/07/2016-mike-pence-was-an-asset-trump-2020-its-not-so-clear/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/07/2016-mike-pence-was-an-asset-trump-2020-its-not-so-clear/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-06-2020/t_bc61d02d797943d09ee1b458eb44a011_name_20200925_VP_Debates_preview_edit_00_03_46_21_Still017.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Here are the recent times Trump, his kids and Pence have been in Arizona"
     excerpt: "In the weeks ahead of President Donald Trump's COVID-19 diagnosis, Trump, VP Mike Pence and members of their families made several stops in Arizona."
@@ -1176,6 +1208,22 @@ related:
         width: 1400
         height: 788
         isCached: true
+  - title: "Kamala Harris’s spot on the debate stage signals promise for American democracy"
+    excerpt: "The suggestion that a person born abroad, especially if they aren’t White, isn’t really American has a long history, shaped by American racial hierarchies and ideas of citizenship. At Wednesday’s vice-presidential debate,"
+    publishedDateTime: 2020-10-07T15:00:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/07/kamala-harriss-spot-debate-stage-signals-promise-american-democracy/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/07/kamala-harriss-spot-debate-stage-signals-promise-american-democracy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/07/kamala-harriss-spot-debate-stage-signals-promise-american-democracy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5RXJ2AFFYI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 1034
+        isCached: true
   - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
     excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
     publishedDateTime: 2020-09-18T19:03:00Z
@@ -1754,6 +1802,20 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Our resident Mike Pence biographer details the veep's ticks, traits and other debate skills ahead of the big showdown with Kamala Harris"
+    excerpt: "Mike Pence's debates in 1990, 2000 and 2016 show the evolution of the man who will face Democratic vice presidential nominee Kamala Harris"
+    publishedDateTime: 2020-10-06T21:43:00Z
+    webUrl: "https://www.businessinsider.com/mike-pence-debate-strategy-from-1990-to-2016-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5f7cd59b282c500018c78f99?width=600&format=jpeg&auto=webp"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Mike Pence vs. Kamala Harris: The Most Important Vice Presidential Debate Ever?"
     excerpt: "As Trump combats Coronavirus, it’s unclear if the presidential debates will proceed. In the event that Trump opts out of the next two debates, the vice presidential debate will be critical, putting pressure on Pence and Harris to persuade supporters to back their respective campaigns."
     publishedDateTime: 2020-10-04T15:12:00Z
@@ -1770,6 +1832,22 @@ related:
         width: 1200
         height: 837
         isCached: true
+  - title: "How Vice President Mike Pence and Sen. Kamala Harris stack up against each other"
+    excerpt: "Here's how Vice President Mike Pence stacks up against Sen. Kamala Harris. The two go head-to-head in the Wednesday, Oct. 7 vice presidential debate."
+    publishedDateTime: 2020-10-07T15:01:00Z
+    webUrl: "https://www.indystar.com/in-depth/news/politics/elections/2020/10/07/vice-presidential-debate-comparing-mike-pence-and-kamala-harris/3636989001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3636989001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636989001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/d3a6e494-e269-4aac-9819-35f31cecc2de-Pence-Harris-promo-art-01.png?auto=webp&crop=865,486,x996,y804&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
     excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
     publishedDateTime: 2020-10-02T17:40:00Z
@@ -1785,6 +1863,22 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2FJoJo.jpg"
         width: 1500
         height: 783
+        isCached: true
+  - title: "More U.S. voters have ‘cold’ than ‘warm’ feelings for Mike Pence and Kamala Harris"
+    excerpt: "Ahead of the first vice-presidential debate, Mike Pence and Kamala Harris elicit more negative than positive feelings from registered voters."
+    publishedDateTime: 2020-10-07T15:26:00Z
+    webUrl: "https://www.pewresearch.org/fact-tank/2020/10/07/more-u-s-voters-have-cold-than-warm-feelings-for-mike-pence-and-kamala-harris/"
+    ampWebUrl: "https://www.pewresearch.org/fact-tank/2020/10/07/more-u-s-voters-have-cold-than-warm-feelings-for-mike-pence-and-kamala-harris/?amp=1"
+    cdnAmpWebUrl: "https://www-pewresearch-org.cdn.ampproject.org/c/s/www.pewresearch.org/fact-tank/2020/10/07/more-u-s-voters-have-cold-than-warm-feelings-for-mike-pence-and-kamala-harris/?amp=1"
+    type: article
+    provider:
+      name: Pew Research Center
+      domain: pewresearch.org
+    quality: 94
+    images:
+      - url: "https://www.pewresearch.org/wp-content/uploads/2020/10/FT_20.10.07_vp_featured.jpg?w=1200&h=628&crop=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "This chart shows the dozens of high-level officials Trump has interacted with over the past week and the results of their COVID-19 tests"
     excerpt: "Trump was in contact with dozens of high-level government officials in the days prior to testing positive for COVID-19."
@@ -2090,6 +2184,22 @@ related:
         width: 1280
         height: 858
         isCached: true
+  - title: "The vice presidential debate between Mike Pence, Kamala Harris is tonight. Here's how to watch"
+    excerpt: "Vice President Mike Pence and vice-presidential nominee Kamala Harris will face off in a debate tonight after a \"chaotic\" first presidential debate last week. USA Today's Washington bureau chief Susan Page will moderate."
+    publishedDateTime: 2020-10-07T15:47:00Z
+    webUrl: "https://www.chron.com/news/politics/election2020/article/The-vice-presidential-debate-between-Kamala-15627788.php"
+    ampWebUrl: "https://www.chron.com/news/politics/election2020/amp/The-vice-presidential-debate-between-Kamala-15627788.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/politics/election2020/amp/The-vice-presidential-debate-between-Kamala-15627788.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 88
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "How Mike Pence could assume control if Trump becomes incapacitated from COVID"
     excerpt: "Trump on Thursday confirmed he and wife Melania tested positive for COVID-19 The two were forced to quarantine after Trump counselor Hope Hicks became ill Vice President Mike Pence could potentially assume presidential control if Trump were to become ..."
     publishedDateTime: 2020-10-02T05:48:00Z
@@ -2105,6 +2215,22 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/10/02/06/33891392-0-image-a-3_1601617201248.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Watch here: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
+    excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."
+    publishedDateTime: 2020-10-07T15:11:00Z
+    webUrl: "https://chicago.suntimes.com/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 87
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Vice President Mike Pence to continue campaigning despite Trump COVID diagnosis"
     excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."

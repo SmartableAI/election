@@ -3462,6 +3462,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Meadows says White House stimulus efforts ongoing amid Trump's back-and-forth"
+    excerpt: "White House chief of staff Mark Meadows said Wednesday morning that he and Treasury Secretary Steven Mnuchin were actively considering a stimulus measure aimed at distributing checks to Americans while providing aid to airlines and small businesses — further muddling the administration’s messaging after President Donald Trump appeared to abruptly call off coronavirus relief talks a day earlier."
+    publishedDateTime: 2020-10-07T14:23:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/mark-meadows-white-house-coronavirus-stimulus-427119"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/45/10/04bfb0aa439ca62b40e593ca5475/gettyimages-1278689097-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
     publishedDateTime: 2020-10-02T00:52:00Z
@@ -3644,6 +3658,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "Gf+VqoWB4ZMCtiT7my9MdqQGR7iTHE1MrPnttVz3XAf6izl6MpKRUf6R7XHLKDs212TQIrCcfhs+iKqSB3VIsB+gb8t1po7knhcajge3BhE1vuDDqiWJ31VqmrOMsMU7w+OkGajwkaxB7AKeXTbcNbDgV8gF6W/RkkZ6RNtNnFpvv8HcUeggXyGouCaynRwXoYQuIJLc6vPON2Gm0VWVdJ3WIp3W1YEgGkmaWftMHGAsHUxKW+GexSavkeUClxa8NwynD3C3z6go/vU1v7ve6vsfEeVg3X2VULQrIKvdAAAByvmn9KZxMMCteTgF77plDhhzeqdqnIxAU8WwLnpiGzvWa0UxYmdNPTs+8au8EPg=;s4lvlL1kZZv/hvijRmx5Tw=="
+secured: "b/p1oOOm9KE6qIW31ftya2mfx+JKrmWMSj+82RWti/QsOr+t3E1hAgv1fpZNhLeX+mfdI/8uRYv1P3xgLU9OHlQ4gzsfxeVmi4PHKDW4A7O9UDdAJpVCBbRSvu3EyzQzqYLfCV3Z6WA2DNckvKQh4vMAmPVLr/IQWKPeN/smtpMmh+qDZoSg9V9g5BNWG/NmzbhVjy3Unf+G0ZxMbEErjI5c4TnWmd1PdLMSWNU/ID/+Esrv9STlhdXh7ltD9pHXoJLMGO88nREdNE+H//u90AkxE6Ngc1qeaqEKL/FMBezhfdxRBvi+uKPfhWVa0jC8/gauPY21pL1SR8XOnYA5QsEBym9NwTz+LMzvtKrzFU+sze/TfcLyhSgzbIT8riGIPQuKEH8ufh6QZqwWFrWYMlMV3203JAXZ8r75NQYwofgoXF9SgRzVmkMoq6WzsD+L1qH27OI7CccACHXWTY7vcbUxNmGoPfu53qqo2SX/v9/poKvuC5+QDIPzbyi552mqyRbCtPEWWGX7dejNpTTt2w==;pLHT9s0lDEunkM7tSowKYQ=="
 ---
 

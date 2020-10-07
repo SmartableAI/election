@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/3c9be54e-1f1b-4489-bb6f-74160918199e-AP_US_Election_Debate_Global_Reaction.jpg?auto=webp&crop=5453,3067,x273,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "A look at how the Atlantic City disaster may have set Trump up to pay nothing in taxes for years"
+    excerpt: "A key provision under US tax law known as \"abandonment\" may have been Trump's ticket to a $72.9 million tax refund after leaving his casino business."
+    publishedDateTime: 2020-10-07T15:18:00Z
+    webUrl: "https://www.businessinsider.com/how-atlantic-city-disaster-casinos-hotels-trump-pay-no-taxes-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5f7cdca294fce90018f7b82b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump Eases Back Into Work by Choking the Economy to Death"
     excerpt: "The president has torpedoed stimulus talks, telling suffering Americans to bother someone else with their so-called problems."

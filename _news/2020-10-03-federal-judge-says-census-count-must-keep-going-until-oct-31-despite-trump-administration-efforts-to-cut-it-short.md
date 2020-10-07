@@ -2289,6 +2289,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "How expensive is remdesivir? Is Trump contagious? We're answering your questions about the president and COVID-19"
+    excerpt: "Will the drugs used to treat President Donald Trump's COVID-19 be available to the rest of the nation? We're answering your coronavirus questions."
+    publishedDateTime: 2020-10-07T14:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-update-reader-questions-answered/3635959001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3635959001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3635959001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/ea1f3a42-a4ce-4626-884f-490d5875f959-Trump_mask.jpg?auto=webp&crop=2836,1595,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. stocks, crude jump on revived stimulus hopes, Trump's improving health"
     excerpt: "U.S. stocks closed sharply higher and crude prices surged Monday as renewed optimism surrounding stimulus negotiations and news of President Donald Trump's health progress helped calm investor anxiety."
     publishedDateTime: 2020-10-06T08:18:00Z

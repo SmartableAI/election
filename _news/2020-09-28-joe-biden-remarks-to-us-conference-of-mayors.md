@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "In year of surprises, a win by Joe Biden should not be one"
+    excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
+    publishedDateTime: 2020-10-07T13:54:00Z
+    webUrl: "https://www.rollcall.com/2020/10/07/in-year-of-surprises-a-win-by-joe-biden-should-not-be-one/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/MAIL_IN_BALLOTS_004_10052020.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden Comments to Reporters on Future Debates"
     excerpt: "Democratic Presidential Candidate Joe Biden took a couple of reporters' questions before boarding a plane in Hagerstown, MD. The Former Vice President held an event earlier in the afternoon a short distance away in Gettysburg,"
     publishedDateTime: 2020-10-07T03:32:00Z

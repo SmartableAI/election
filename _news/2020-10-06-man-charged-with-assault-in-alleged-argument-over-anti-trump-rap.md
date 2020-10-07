@@ -48,6 +48,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In bid to keep tax returns secret, Trump loses in court (again)"
+    excerpt: "When it comes to Trump's efforts to keep his financial records hidden, it's hard not to notice the pattern: his lawyers keep fighting, and they keep losing"
+    publishedDateTime: 2020-10-07T15:32:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/bid-keep-tax-returns-secret-trump-loses-court-again-ncna1242415"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_07/3195631/court_of_appeals_gavel_ap_411201684881-maddowblog_b5e36542e9e4f3fa0b7f53f300b11325.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Pz9eUgcwWjkP60yB13px6LV0RS5pHWW/vRZN9lGGMWnG+o/I4lw3IcXL0FaarR7MZRyit2FB8O92qNOg/jOZmDRVtuOdGT4Ngs4qKACIxsN9Hm9bqBP1rWcalie3Ca17jysSRPaJS4PexfT/P6OvAcW2LY7SvwARbTVIBrng2RefJRrk9rg9kkxUZmYw9213N6YCqgJiY7QB1YKQGDwgMqMppy8YRw9xKLOUd/VTJi3RmWvpwvjYegR09EszavdFvEsIY6JfDIR8pU/CZErd4Z8Rtk53cc5o0qkVG2XrMhVItJjGuqQVpdchs3P5hnbUhk1RyS7Oz7hLm3Jl+0KKqkpgObUfd+/5a/LwWY82yaE=;Ykzs8Dehaux+qA44I09T0Q=="
 ---

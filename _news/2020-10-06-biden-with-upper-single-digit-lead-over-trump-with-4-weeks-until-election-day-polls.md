@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-with-upper-single-digit-lead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.amp"
 type: article
 quality: 198
-heat: 718
+heat: 738
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a3cbdd1-6c06-44a4-b8e9-e1f99e0730c7/ee7e1225-cea4-4cec-a49f-f5a45b192388/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump mocks Joe Biden for awkward remark about young girls"
+    excerpt: "President Trump on Wednesday piled on Democratic presidential candidate Joe Biden for his awkward remark Monday about young girls. “He’s been a wacko for years, and everyone knows it,”"
+    publishedDateTime: 2020-10-07T15:45:00Z
+    webUrl: "https://nypost.com/2020/10/07/trump-mocks-joe-biden-for-awkward-remark-about-young-girls/"
+    ampWebUrl: "https://nypost.com/2020/10/07/trump-mocks-joe-biden-for-awkward-remark-about-young-girls/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/07/trump-mocks-joe-biden-for-awkward-remark-about-young-girls/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/trump-biden-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Would Double Down on Tax Cuts in Second Term"
     excerpt: "President Trump and Republicans got much of the tax code they wanted in 2017. In a second term, he would face expiration dates on those and push for more tax cuts."

@@ -318,6 +318,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump mocks Joe Biden for awkward remark about young girls"
+    excerpt: "President Trump on Wednesday piled on Democratic presidential candidate Joe Biden for his awkward remark Monday about young girls. “He’s been a wacko for years, and everyone knows it,”"
+    publishedDateTime: 2020-10-07T15:45:00Z
+    webUrl: "https://nypost.com/2020/10/07/trump-mocks-joe-biden-for-awkward-remark-about-young-girls/"
+    ampWebUrl: "https://nypost.com/2020/10/07/trump-mocks-joe-biden-for-awkward-remark-about-young-girls/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/07/trump-mocks-joe-biden-for-awkward-remark-about-young-girls/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/trump-biden-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Deroy Murdock: Yes, Joe Biden, President Trump has said many negative things about white supremacists"
     excerpt: "Hate Trump, Inc. is using Trump’s missed opportunity at the presidential debate to claim that he's never condemned white supremacists."
     publishedDateTime: 2020-10-07T01:15:00Z
