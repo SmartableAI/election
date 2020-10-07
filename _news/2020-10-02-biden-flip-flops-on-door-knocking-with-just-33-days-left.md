@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Editor’s Note: Why The Times Editorial Board Endorsed Joe Biden for President"
+    excerpt: "By Kathleen Kingsbury Acting Editorial Page Editor Americans might not need to read a newspaper article to tell them how to vote in this presidential election. In fact, more than four million people have already cast their ballots."
+    publishedDateTime: 2020-10-06T23:42:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/opinion/07newWeb/07newWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "ToO9bqE/z9BzkVkJ6gG9dip8+VUYswCRZ5VD/0fQ+dyiUi62EABZNyl1LoJQbnf4U3ZNkQTsrKetrbgOLhB2VA6uADpCm6w3KBLIgO4lnDM/YhGUYdCfUxprprPhgQ/36wSgF1kD0BAj3kCcGMdg8cjSnDIPUW/q7pguN3upD5bhzpzFesA8R/bJQgPn0EB4tRTqPMtd9qT+qA8/8pDmq0pTPYWY6aexNsNZF2C5YkJQwGpzoQK1MvM32nJMlkFYEguy+wilfjICv0sYH4Se4u/JMvzfUkwnMRU+uEoXNV9Vanf7oQGsagkQRcH3AV2SU4l96qGF7Z6UxQtHVUJ0aWwFuslOcPK+kbKtX3rGk7+xicSyWXuasltm5PLJFo3lCVx0nURni/WwHUxRRxPubJZQ29YdhabxxQ0IY4T7hax1Ttgx9WDFapRI6SXvW75cnrxoeeyUJHnZjQJf4RVL9IzHUsJKlZMJAQzUlY9XudOAyVz9y8pemia5JGiQxzWAVZU4WaTC6VubiS8R39/8aQ==;U9VZFBczL+XLV5jCZyeH9Q=="
 ---

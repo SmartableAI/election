@@ -9,8 +9,8 @@ ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouse
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
 type: article
 quality: 73
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Townhall
@@ -30,6 +30,24 @@ images:
     width: 650
     height: 340
     isCached: true
+
+related:
+  - title: "Biden vows not to allow ‘White supremacists to overturn the America of Lincoln’"
+    excerpt: "Democratic presidential nominee Joe Biden made a forceful plea for national unity on Tuesday as he took aim at “extremist white supremacist groups menacing our communities.”"
+    publishedDateTime: 2020-10-06T23:12:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e-dTDXPsVpc/biden-not-white-supremacists-overturn-america-lincoln"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "ltfGuL+MtoNACvxhps/PT88T5Xk1URAXUmf7XdzQ+7xog9TSfrYkdYFknIkYIfIQXH46X/9Vq0ZKyRO0hvGzV5I1eWkEWKIhiUcH2QOLjTizqNWBPgehrQbd1XC/dj92gio6RHyLMChsI7BVS+ZEObeBinGSpcJMxIelUDteo+34lGAcUt+tzMgXGwPDpJeKuAqMYRNMG4nhuQ09AP98mZdgvJUujm/Z0gyiX2dbzgFoy6M/mMSJWVPAISuEeHuayy93DTodJlnxTK1g547gfX4hJDTBy+beGl1g3F20hZaiOtiFc5ETSpWvI3H3PrGpuZ2oY7RSX9LcC+Vja5b3NZnOc8nfyI8YR+98LewCkw3BhgGjKAacxhhG18xaRqVckIfXL/tIvHyfiDNXv5oTaWHvvfmTXrwLl4W9esK45q45igvzX95BWiA7ypKo6VVuIr0WFt2KKPdBJQNfHUUGnWVhpi5t7GCRjF1vLUKekOjj57FdBGxAHzcWXy1p4aGxvxJPSz/ECIi3ltqpx+rACw==;4St8B30p6T0yxoH0riOWUg=="
 ---

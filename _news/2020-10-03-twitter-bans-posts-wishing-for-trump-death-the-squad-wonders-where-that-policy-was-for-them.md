@@ -31,40 +31,86 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Trump falsely tweets that Covid-19 is less lethal than the flu"
-    excerpt: "President Donald Trump has consistently downplayed the threat of the coronavirus in public, and it seems testing positive for the virus himself has not changed his tune.\n    \n"
-    publishedDateTime: 2020-10-06T16:30:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
+  - title: "The Point: Donald Trump, dealmaker? Not so much."
+    excerpt: "Donald Trump came to the White House promising that he would make deals the likes of which the country and the world never seen.\n    \n"
+    publishedDateTime: 2020-10-06T22:07:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kSUtTtkHQ4c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005190645-trump-arrives-white-house-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: The *real* secret of Donald Trump's success revealed by his tax returns"
+    excerpt: "President Donald Trump likes to tell people he made his fortune building things.\n    \n"
+    publishedDateTime: 2020-09-29T14:14:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yhTkq_2MfTQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: A line-by-line breakdown of Donald Trump's irresponsible 85-second video victory lap"
+    excerpt: "After returning from four days at Walter Reed medical center to treat his case of Covid-19, President Donald Trump filmed a video -- which he blasted to his 87 million Twitter followers -- talking about the experience and what it, uh, taught him.\n    \n"
+    publishedDateTime: 2020-10-06T14:48:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_2YmWWvfKM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-video-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-video-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Missouri governor mirrors Trump: Covid-positive after months of virus criticism"
-    excerpt: "Like the president, Missouri Gov. Mike Parson was under fire for reopening too quickly as he ran for reelection. Then he tested positive for coronavirus."
-    publishedDateTime: 2020-10-03T11:05:00Z
-    webUrl: "https://www.politico.com/news/2020/10/03/mike-parson-missouri-covid-trump-425741"
+  - title: "Dow falls 400 points after Trump calls off negotiations on stimulus package"
+    excerpt: "Wall Street fell on Tuesday after President Donald Trump said he had would be halting all negotiations on a new round of coronavirus stimulus relief. The Dow Jones Industrial Average fell by almost 400 points,"
+    publishedDateTime: 2020-10-06T19:34:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/dow-falls-400-points-after-trump-calls-negotiations-stimulus-package-n1242318"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242318"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242318"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 91
-  - title: "‘The View’ Rips COVID-Riddled Trump: ‘He’s Learned Nothing!’"
-    excerpt: "The co-hosts of “The View” absolutely unloaded on President Trump for telling the American people they don’t have to fear the coronavirus."
-    publishedDateTime: 2020-10-06T20:33:00Z
-    webUrl: "https://www.thedailybeast.com/the-view-rips-covid-riddled-trump-say-hes-learned-nothing"
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417973/201006-new-york-stock-exchange-jm-1507_b91cdb57fb0e13b1b7cf21e2e3983820.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Bipartisan 'get well soon' wishes for Trump, but some Democrats send pointed message"
+    excerpt: "Bipartisan 'get well soon' wishes for Trump, but some Democrats have a pointed message WASHINGTON — Messages for a quick recovery from lawmakers and world leaders began flooding in Friday, reacting to the news that President Donald Trump and first lady Melania Trump have tested positive for Covid-19."
+    publishedDateTime: 2020-10-02T19:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/bipartisan-get-well-soon-wishes-trump-some-democrats-have-pointed-n1241777"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241777"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241777"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416929/201002-trump-covid-mc-12384_203f8fcf21e8fa4132ee87a76159b3c4.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "r+0UOdDD95Dl8V0Tu8j7SZ1biVhR0UArYegfohVLjorGtUBUDeTIxrnEjFJFkcT8LLYK/fk65+UbVVd6nGwX0ipjw3mTdULlIhEpc5+dVxylStqBQ8PopLLoPI/mS0eoENX1WwxD8wyisX82kLRGlDDgVJgEeZihHhiDfc31N5mwP0I0XNuCFFcyjxAbOwC48diozBH/jReEuOGQujKWfxDko+pfLaZOqLWXqV5v58mxafC0Crh+s7x5e3DwOWh+bwzF7IXWdkuo0iAHcs29dtcQGCjX+R1ybvidXAExZGJbxOCQvjApLV8j2tgar8ZRP/lPrp+IALQyBIqP3KPoe7x/A8lE+5du5vN7TyTE3Ns=;bWh2IFCAtEOdJ95JUE9XrA=="
 ---

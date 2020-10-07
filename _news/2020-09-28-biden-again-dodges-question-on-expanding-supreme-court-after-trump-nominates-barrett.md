@@ -2057,6 +2057,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Committee on Presidential Debates discussing holding next debate between US President Trump and Joe Biden outdoors: report"
+    excerpt: "The Committee on Presidential Debates (CPD) is reportedly discussing holding the next presidential debate in open air. "
+    publishedDateTime: 2020-10-06T22:05:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Er2rG2zMVuU/presidential-debates-outside-report"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debates-outside-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debates-outside-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-Debate-Mute-thumb-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden will look ‘presidential as ever’ at first debate, former DNC press secretary predicts"
     excerpt: "Democrats may be worried about Joe Biden’s performance at the first presidential debate Tuesday night, but former Democratic National Committee deputy press secretary Jose Aristimuno told “Outnumbered Overtime” his frequent gaffes are not a concern."
     publishedDateTime: 2020-09-29T19:58:13Z

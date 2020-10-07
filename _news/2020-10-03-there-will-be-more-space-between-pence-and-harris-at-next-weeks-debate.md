@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html"
 type: article
 quality: 210
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 134
     images:
       - url: "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Likability, Authenticity, Smiles: The Debate Tightrope for Kamala Harris"
+    excerpt: "After a disastrous first presidential debate, all eyes will be on a vice-presidential debate that’s rife with gendered and racial challenges."
+    publishedDateTime: 2020-10-06T23:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/06/us/00ihw-harris2/00ihw-harris2-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true

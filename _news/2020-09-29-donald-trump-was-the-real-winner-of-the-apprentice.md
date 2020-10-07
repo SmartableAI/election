@@ -48,22 +48,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The Point: The *real* secret of Donald Trump's success revealed by his tax returns"
-    excerpt: "President Donald Trump likes to tell people he made his fortune building things.\n    \n"
-    publishedDateTime: 2020-09-29T14:14:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yhTkq_2MfTQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "New York Times' Trump taxes bombshell reveals massive national security threat"
     excerpt: "The revelations of the president’s tax records must become part of a larger and still unresolved investigation into Trump’s potential compromise by foreign powers."
     publishedDateTime: 2020-09-29T19:06:00Z

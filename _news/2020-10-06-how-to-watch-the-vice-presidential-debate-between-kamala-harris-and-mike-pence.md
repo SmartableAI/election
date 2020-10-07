@@ -794,6 +794,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Kamala Harris featured on cover of Elle magazine's November issue"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris (D-Calif.) is on the cover for Elle magazine’s November issue, in which the senator participates in a broad interview spanning racial inequality,"
+    publishedDateTime: 2020-10-06T22:55:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_10022020_1.jpg"
+        width: 980
+        height: 552
+        isCached: true
   - title: "Kamala Harris is on the cover of Elle magazine's November issue"
     excerpt: "Democratic Vice Presidential nominee Senator Kamala Harris is the former attorney general of California. She was the second Black woman to be elected to the U.S. Senate, and this year became the first Black vice presidential nominee."
     publishedDateTime: 2020-10-06T17:38:00Z
@@ -1900,6 +1916,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice presidential debate (10/7) live stream: How to watch Mike Pence-Kamala Harris online, TV, time"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris — will meet Wednesday, Oct. 7, in the only debate scheduled for the two running mates. The debate will be live streamed on fuboTV. A week after what can only be described as a “chaotic” debate between Trump and Democratic nominee Joe Biden,"
+    publishedDateTime: 2020-10-06T23:05:00Z
+    webUrl: "https://www.al.com/politics/2020/10/vice-presidential-debate-106-live-stream-how-to-watch-mike-pence-kamala-harris-online-tv-time.html"
+    ampWebUrl: "https://www.al.com/politics/2020/10/vice-presidential-debate-106-live-stream-how-to-watch-mike-pence-kamala-harris-online-tv-time.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/vice-presidential-debate-106-live-stream-how-to-watch-mike-pence-kamala-harris-online-tv-time.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZK3TVQ6ZZZFUBNO44IJIFF2M44.jpg"
+        width: 960
+        height: 555
+        isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
     publishedDateTime: 2020-09-21T22:55:00Z
@@ -2830,6 +2862,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "qmP2IFwAsQ1hs17eWJEURDXzdN42b4M2t75OfZt4fm1yr//zUDAfttckHhWLTwfmD7ZmHjYak5iKGqzKNOQH6c3mqnoppjNRX6za45+xNliJJ+WEsQTbxVR7dokHXwF0E/l6Wv1LEDt1CFuk3KsJODb0XjOTrjKkKUa4D2j53ZXTJJ5TQKCd4rqGZ5uEjOYkk3AZu39TEmu3679jWTVhVmcnCULGgBGfbsmMhHRKcMQkMzCZmgLpwTqZTnzIbqtefX8jaz189loIUXyESpLgurLyZ3+N9xiDu2uVd6c0ROjxAuTJ7K/JzkU6EMS1wiEIcLM1Da7odHqNXlq5EcG+8u9KPwKXYHViKvYUwxBRBmM=;dbc10kNQ/WAFt4wl4UgIag=="
+secured: "m2h0Z0d1fEcl7lytmLXcNulNNSKKwG6LC6tG+XeDNYAv8gdjOI+hoTIDPQAiiXnxbMnON8CYlxyNz9uycWPP7Fj9FmBF0zQbypqyFHwmGT4MNvmZiVGjcJKzdAQYDZ5pbBUyIgextDZcvLHR9kJquWc0NipYpG9+icXz1bxzRFDyOEy5jdUxmfc4qv0ExWeVYH9YdiM9zXgH5vbPYC/ccxUU7kxUmP5hE7Rxjw1h+82BhU/gDCd13K46sEOkcLS9viNlLxZolM7fD2uyprsf1648N/GLsBY518hhMMVszSfk//+8qEAdeuV/x4XziW9m/pOFiXvFqeTikWm0zND8uzNSg4bCQkBJ9B6c0cx63gyykwdq1IdERxTAU59TwkDd9CpN/hXEz8L18NftRc9QPfyY1VPQDJyd87EUvm0HzK+KpJ8XZDNPGhZOAprR6D/11YWQHMT621MlcBq8X2aAu6m+kcN9fnua+ipuejoc4GBt7Ekym+NVYAhNCGjn58H6c17I8KZgIGNe7Vgkmgwkdw==;YmI4qquL/kqAGjg+sulOhQ=="
 ---
 

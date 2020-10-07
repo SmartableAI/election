@@ -254,6 +254,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Likability, Authenticity, Smiles: The Debate Tightrope for Kamala Harris"
+    excerpt: "After a disastrous first presidential debate, all eyes will be on a vice-presidential debate that’s rife with gendered and racial challenges."
+    publishedDateTime: 2020-10-06T23:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/06/us/00ihw-harris2/00ihw-harris2-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
     excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
     publishedDateTime: 2020-09-28T21:04:00Z
@@ -317,6 +333,6 @@ related:
         height: 550
         isCached: true
 
-secured: "z4DwIAkpgMsDqVuYHKe7K3kcP/i/1NSmu+O5+/qNRAXDy0zfYdaw39q5xOxLFNNbFTGKPKFz/KAq7XzrIk3qHgz0OaAZ/apDZhc17NFcKhLJ88XtvoM9WflxyOYiI0kyQBFeqJpv43N9sHyHwgszsHFxYAYje9PqVqf2W23nBOrrFG285qGj3c6fEv60+r6wASADhH2sG+AnekzUU0l53ZLvz0nzj8I6VLUt2zZd86QFEikAbMen6ZMPmLvMV99JVn7JRPcJp0PLYvXIDlSesh2iOKUrDRbf33ZNHRQI1K0et/cdNjiB2aGdjJDXRUBwObe0W5oVTapGDJ2hI4z3uhT6ncr/vnpp+HyhiOZxLug=;j7n1IgB+B0kQhMM2I6Iuzg=="
+secured: "WthRh+tJ05rjGlL3VGvRarPv3VkuU4W7dLfSoJtDADR0l1vmdaENj0JdHcXySErauAaYLVBqvaSzWiHJbVHlnXwmerR8OSM0mqjhDzPRbWquSMSxMM/1uDdIyDYyXgYt3TD9WkWJOhDpUIySxEkItAOQlGM4/EpmCV0K3bF5gAyCCDOpxi00m62PSS1COc1LRnNfa488UFPz/tITpuSQ2+iKPLzl7q+ET8XfQayK2Ulgwza2VT/HLXqJwdOsp9TmRcwFO3Z/Jl6rmovhLzkj6GusvYOjaNigFZ1/ClL4f3Bhedabc/8NiEEMUE0yGyraBvFwdWhMX3TyGxrhh0p7sAr21DMfK7YDyjOYEQhN85ab9ZfASKpqx3YwTgOB8XOvvL/M34TrJbCLsdQQeSVCfBd33z5rkuWiCCdRw/dYIo9KiVb0oOvtS7+mlN3/mikEjD8LNJ2Jt9IywQQINMVV22sM9DRyPFIpKIvchBtxBEoBEzhcCsfWAIgttFWkuwcY+cbZl7DrRzFDEe5341iJRw==;5+hs0kpq+s9SbFsHTraaqQ=="
 ---
 

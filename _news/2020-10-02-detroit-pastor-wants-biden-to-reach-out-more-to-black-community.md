@@ -75,20 +75,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "'He's from here': Biden and the battle for Scranton"
-    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
-    publishedDateTime: 2020-10-06T18:36:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why Joe Biden can't expect to automatically get the Latino vote"
     excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
     publishedDateTime: 2020-10-03T13:14:00Z

@@ -767,6 +767,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump's mercurial maze of COVID-19"
+    excerpt: "Every American should be thrilled by the president’s recovery and completely bewildered by the head-spinning nature of it."
+    publishedDateTime: 2020-10-06T21:30:00Z
+    webUrl: "https://thehill.com/opinion/white-house/519806-trumps-mercurial-maze-of-covid-19"
+    ampWebUrl: "https://thehill.com/opinion/white-house/519806-trumps-mercurial-maze-of-covid-19?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/519806-trumps-mercurial-maze-of-covid-19?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/1230trumpnomask.jpg"
+        width: 580
+        height: 326
+        isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
     publishedDateTime: 2020-10-02T08:44:00Z
@@ -845,6 +861,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536215896&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9416T"
         width: 829
+        height: 545
+        isCached: true
+  - title: "U.S. financial markets sour as Trump ends coronavirus relief negotiations"
+    excerpt: "U.S. President Donald Trump on Tuesday called off negotiations with Democratic lawmakers on coronavirus relief legislation until after the election, even as cases of the virus are on the rise across much of the country before flu season."
+    publishedDateTime: 2020-10-06T21:17:00Z
+    webUrl: "https://www.reuters.com/article/us-healthcare-coronavirus-usa-congress-idUKKBN26R3BR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26R3BR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26R3BR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536426858&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG951XO"
+        width: 817
         height: 545
         isCached: true
   - title: "Analysts' view: Trump goes into quarantine, awaits coronavirus test results"
@@ -2315,6 +2347,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump is still comparing COVID-19 to the flu. But the coronavirus has already killed 3 times more people than flu does in a year."
+    excerpt: "President Trump suggested COVID-19 can be less lethal than the flu, and said the flu kills \"over 100,000\" people per year. Those claims are wrong."
+    publishedDateTime: 2020-10-06T22:14:00Z
+    webUrl: "https://www.businessinsider.com/trump-incorrectly-compares-coronavirus-flu-deaths-lethality-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-incorrectly-compares-coronavirus-flu-deaths-lethality-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-incorrectly-compares-coronavirus-flu-deaths-lethality-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f7c8351282c500018c78ce2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Marine One helicopter departs the White House as Trump heads to Walter Reed Medical Center"
     excerpt: "President Trump was taken by helicopter from the White House to Walter Reed National Military Medical Center on October 2 after testing positive for the coronavirus."
     publishedDateTime: 2020-10-03T17:31:00Z
@@ -2529,6 +2577,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/no-mask-no-worries-says-us-president-donald.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Susan Collins Calls Trump Announcement on Stopping Stimulus Negotiations Until After Election ‘A Huge Mistake’"
+    excerpt: "President Donald Trump's surprise announcement about stopping stimulus negotiations until after the election sent shockwaves through DC, and even concerned some Republicans."
+    publishedDateTime: 2020-10-06T23:39:00Z
+    webUrl: "https://www.mediaite.com/news/susan-collins-calls-trump-announcement-on-stopping-stimulus-negotiations-until-after-election-a-huge-mistake/"
+    ampWebUrl: "https://www.mediaite.com/news/susan-collins-calls-trump-announcement-on-stopping-stimulus-negotiations-until-after-election-a-huge-mistake/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/susan-collins-calls-trump-announcement-on-stopping-stimulus-negotiations-until-after-election-a-huge-mistake/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2019/04/Susan-Collins-via-Zach-Gibson_Getty-Images-1200x627.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "MSNBC’s Morning Joe scorches ‘sociopath’ Trump for ignoring COVID-19 until he got sick"
     excerpt: "MSNBC’s Joe Scarborough ripped President Donald Trump for ignoring the coronavirus pandemic until he personally became a victim. The president said over the weekend that he had “learned a lot” about the potentially deadly virus since his positive test and subsequent hospitalization,"

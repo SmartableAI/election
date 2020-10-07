@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp"
 type: article
 quality: 191
-heat: 1971
+heat: 1991
 published: true
 
 provider:
@@ -559,6 +559,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7921c6e-2149-4167-9e1e-a32af7e74ea0/7e0d79ef-bc9f-4a83-a99a-e56d63d079be/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "What Trump's suspension of coronavirus aid talks means for future of relief bill"
+    excerpt: "Here’s the first thing which was asked on Capitol Hill when President Trump put the kibosh on the coronavirus aid talks: Why did the President make such an announcement when the market was open?"
+    publishedDateTime: 2020-10-06T23:31:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ennwwId7Ui0/the-hitchhikers-guide-to-what-the-suspension-of-coronavirus-talks-means"
+    ampWebUrl: "https://www.foxnews.com/politics/the-hitchhikers-guide-to-what-the-suspension-of-coronavirus-talks-means.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-hitchhikers-guide-to-what-the-suspension-of-coronavirus-talks-means.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump tests positive for coronavirus: Here's who else is positive, and who's negative"
     excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19 -- raising immediate questions about who else in the administration could be positive."

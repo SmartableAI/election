@@ -2060,6 +2060,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Committee on Presidential Debates discussing holding next debate between US President Trump and Joe Biden outdoors: report"
+    excerpt: "The Committee on Presidential Debates (CPD) is reportedly discussing holding the next presidential debate in open air. "
+    publishedDateTime: 2020-10-06T22:05:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Er2rG2zMVuU/presidential-debates-outside-report"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debates-outside-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debates-outside-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-Debate-Mute-thumb-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden again dodges question on expanding Supreme Court after Trump nominates Barrett"
     excerpt: "The former vice president told reporters that he did not want to discuss whether or not he backed adding more justices to the high court if he won the Nov. 3 election. "
     publishedDateTime: 2020-09-28T14:21:15Z
@@ -3263,6 +3279,6 @@ related:
         height: 375
         isCached: true
 
-secured: "EiFNUiE9bC/nQBcmVEyXS0h2JuQpFRIYDVeyiXYQ7JuwT/BqdNQMirdA4Iu9BS5CUtgFHvVu5WsXmX3NGNqAVYF1MXTDLdtilkalYWqn5FMPTIoRjgO5n8L4h/i5sJMM7j5iDpQO+VFhU2mZnMsf2/eklOGPf5DFm4Vz2VNKvN3bSJjCrWzU6F107DEzgitoWOdaFyNCyxTgwu7KndDeD0TVHnJr1uYZn9QiuTNnLUVT+B0LoJBahMr+IPlNfJTRR12jxN5OyXffb3OiZvvsLh2l8KUVQoxIS1meVIFlWfDCOStRoSBOdF0F1UXVgC3wV2yUmALjfQm8rgHLgaZ3AKPdtUFSJsmvYs0n7EVSn4E=;0JMrRiZ6l/ynezGDv+ve2Q=="
+secured: "aEtLbe+orX9yQmiUm/3OAFXOiq9a1KHOz79EheIuMVShxI65r5cYaX1NZc1WdHFpmXZAPISAzFKUQjWqKkZVWQhkv6+icEuPg0rLW8YfVOQcx1wGz6uO3TCaBlCZBsKiKJt5nw5Z5B5kFL9YU8klhduy+NIC1UV3xGuuEMEhYEgc8MBVvZKgDMPBX/EdA/gEh12DanV8ViqiNX7+JRJqH9wVI79PJk9xtlXtVWBj15wa0qsBE67K6WUEmhPMLJjUlRaHotzaPdfvcprBScgvEkLtWXEsnviI5qHEcClKvBeWkRhHeMXIsRCMoW6Vq31lrepf4dKgDcaT6MjW0FZ52ODyZbDuus9jhL0k0/VChasezLQ2O9lLbQch0AGSKn/fQqArSccTPzgP+/C7WnyV97gqvw52bp6Tfbh8akGTHqsLeP2YKh8o79ZvEG68F/LW98jR8Ly/IsbyD8yWb/fTTc71xby9fH/3mqjUlGiNWsj+J9H991wdGY5374gbzjQhXFZjKvn2fkro34Cb0uSjKQ==;bigXC3sppGONQC7b7ytonQ=="
 ---
 

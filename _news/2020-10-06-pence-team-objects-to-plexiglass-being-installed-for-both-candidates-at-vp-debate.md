@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/index.html"
 type: article
 quality: 180
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     height: 619
     isCached: true
 
-secured: "u9S6c/3zjzcJod7UIP+TmIkb1pEYTw/rnS4ZSzYbWmCP5jq2gwkXvMXzha1iRz944NOIkDgCieHMrfW4NNcV3bQwjy8sFVWQ08SvDMaRpw28B5uEzPyU+l/jNoUpyGJR3VecGfoZoB4gwyKfPX141Sfq5VXk0NbanOTwJgrI430AppXuK4f5Sewc5Z70fghNAm2EBlkugowMHRogp/vkvZEXlPHYoQQIllGRVJAWmYRywczZvYMwOaTMpJ+WFEffa4X92riHNB9kfZUDWl5DYchMcOXQ9LrIyL8hWUYIrTkZAWoOsz2I/kCtGkrcJJdEvJeIoLcj/l1jvZqEu6Fsru7AHn7fIZ4BckjBCcXaqsc=;TdwQAEapDM7daZoelHgxZg=="
+related:
+  - title: "Mike Pence Resists Use of Plexiglass Safety Barriers at Debate"
+    excerpt: "An aide to Senator Kamala Harris criticized her opponent’s dismissal of the need for dividers at the vice-presidential debate set for Wednesday."
+    publishedDateTime: 2020-10-06T22:01:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/business/media/pence-harris-plexiglass-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/business/media/pence-harris-plexiglass-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/business/media/pence-harris-plexiglass-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/06/business/06Debate-Plexiglass/merlin_177971985_ee115ce4-b77f-4569-aca1-0efed8459136-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "naVMTFjye6ChBZ81QanXkAzkyOgaa2tnrQpaj03odUwRvVkqAHoberTe0KCA0bmQtPqiOevCHHxa7ucoOl3cXc0/BwkFb4sLMIr43jauhmtukyIeIhafzUh5Rb8aDwQMSI7SdIhWVYJpjlzn1vegZPrq4NmlCAh/3dzrx69ZGEcXSfGYn/FL40wTI/xT3s5yUX6CDJBxoQmiMkiyau+oxvtpo23RDYvQ97mq3xu5/miYxkwmLJu0ROIeqv84yoP91O/QBPhTo2vpEhJo4xldak8U6XCljWmVBRMD5681AX4Dl08lGEqxHWnvdg03Ob6UiWeIg2fIShUKX9RDd9ZbzACGXe38OdjI8oZ5AzX/9aI=;VOiHGIbiQDxzs7+FO5w8Mw=="
 ---
 

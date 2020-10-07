@@ -257,6 +257,15 @@ related:
       name: Houston Chronicle
       domain: chron.com
     quality: 35
+  - title: "Republican US Sen. Sullivan Plans to Vote for Trump"
+    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
+    publishedDateTime: 2020-10-06T23:47:00Z
+    webUrl: "https://www.usnews.com/news/best-states/alaska/articles/2020-10-06/republican-us-sen-sullivan-plans-to-vote-for-trump"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "ap0+ImXrTkSXtyIcYWDS4KHFpGDf4g4JUFsXrEzUlivL6lVXltCbUVfaPUTq+X5m4QAHU0h9eWfhyTE9S+hLl1qUP5eHdoqgfqtlgUDROGLRb0WOzdgNedqEg7lF3dsCcABIINZmx8kJJ6QuuOVB4xkdXUAJokTprbbr3FfWd4LJyEimRiLOwkmJ8+SFIQIq3UWbVMjegtKnqdf0I/+Bp9j9g/eEjD9FE5XNRP7pi26AjqD3eG+31W3dNmebuzUwGlDYPobtMdu8LkeZQ5y65vPd4GAQLtHAWWQQ0csLv5TkeCxjYv9WfwGrz49WA7YyW54Q84WhkJ/QlBVgbJxGpPsGcDEbY5/49pPkfxqUWBA=;J7zGwENybt5+IczV0tXAOg=="
 ---

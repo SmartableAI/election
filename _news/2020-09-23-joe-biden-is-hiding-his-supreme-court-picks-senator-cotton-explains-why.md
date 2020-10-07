@@ -2058,6 +2058,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Committee on Presidential Debates discussing holding next debate between US President Trump and Joe Biden outdoors: report"
+    excerpt: "The Committee on Presidential Debates (CPD) is reportedly discussing holding the next presidential debate in open air. "
+    publishedDateTime: 2020-10-06T22:05:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Er2rG2zMVuU/presidential-debates-outside-report"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debates-outside-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debates-outside-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Trump-Biden-Debate-Mute-thumb-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden again dodges question on expanding Supreme Court after Trump nominates Barrett"
     excerpt: "The former vice president told reporters that he did not want to discuss whether or not he backed adding more justices to the high court if he won the Nov. 3 election. "
     publishedDateTime: 2020-09-28T14:21:15Z

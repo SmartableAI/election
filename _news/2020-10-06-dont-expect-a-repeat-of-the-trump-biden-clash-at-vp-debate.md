@@ -111,6 +111,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden says there shouldn't be second debate if Trump still has COVID-19"
+    excerpt: ""
+    publishedDateTime: 2020-10-06T23:50:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iQWhfxds-KQ/biden-says-there-shouldnt-be-trump-still-has-covid-19-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-there-shouldnt-be-trump-still-has-covid-19-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-there-shouldnt-be-trump-still-has-covid-19-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Biden up 14 points on Trump following chaotic debate, new poll indicates"
     excerpt: "A new poll shows Joe Biden with a 14 point lead nationally over President Trump, following the first presidential debate last week. "
     publishedDateTime: 2020-10-04T22:21:29Z
@@ -238,6 +254,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b4ffc97-e106-4ffb-b303-717a227738f8/2160ddeb-4a0e-4645-87d8-6ef8610e8ff2/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden downplays ties to Bernie Sanders policies in general election despite unity platform"
+    excerpt: "With November's presidential election only weeks away, Democratic presidential nominee Joe Biden has begun to pivot toward the more moderate wing of his party while steadily downplaying his ties to Sen. Bernie Sanders and the Vermont independent's policies despite the “unity platform” the Democratic"
+    publishedDateTime: 2020-10-06T23:50:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpFcdnBAmoA/biden-downplays-ties-bernie-sanders-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20280655277053.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Trump returns to White House after coronavirus hospitalization; Biden traveling to Pennsylvania"
     excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending Tuesday, Oct. 6, 2020, just 28 days away from the election."

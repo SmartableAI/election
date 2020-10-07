@@ -193,6 +193,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The V.P. Debate Between Mike Pence and Kamala Harris: What Time to Watch and Key Issues"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris, the Democratic vice presidential nominee, will face off in their first and only debate on Wednesday at 9 p.m. ET."
+    publishedDateTime: 2020-10-06T21:32:00Z
+    webUrl: "https://www.wsj.com/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-debate-between-mike-pence-and-kamala-harris-what-time-to-watch-and-key-issues-11601987031"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 152
+    images:
+      - url: "https://images.wsj.net/im-240874/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Kamala Harris’s American Example"
+    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
+    publishedDateTime: 2020-10-06T23:38:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-240957/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says"
     excerpt: "Vice President Mike Pence and second lady Karen Pence have tested negative for COVID-19, Pence Press Secretary Devin O'Malley announced Friday morning, hours after President Trump, first lady Melania Trump and White House adviser Hope Hicks confirmed they'd tested positive."
     publishedDateTime: 2020-10-02T12:02:00Z
@@ -409,6 +441,6 @@ related:
         height: 696
         isCached: true
 
-secured: "pv3fLw0viE5rsn0lWzrcO6uKLZc7vaM4s8ZccCg7iqM7acT96c05HaCDTdc/Dde6eED9WIMUBS2P5UoCfhDZqKQPu3yo+KCD86uFR3NXeE76k//IppEVw4etgf9cHkA7QeY1wcyBPuhu6kkO9qcd4eaDSRWrj8vc5Ra53aNsxeRA7PlMmgRj7rkAeKp9TxxUJ7BnjSmseKGESiTVf+I8cQK6keW39SzZpzUMvyihP+p2+vZnHAeiaW6g4itptUEwootlV4QBqWcYbqNUCzQ1GuOp0dz6A8J8dlIoX23T/6HXiuTx7RU1JHG9TdCIKaB9/2GtuB/kfLX8yEp8YS1u8L6psVwI8ty/E1BHxWF/hPk=;Y2CXDORa1EamjCenBQKtUg=="
+secured: "Xp9u45LYBQxg/2jWuoLR3R96jZf/N6W0EWLTKif6/QCdZxLYUrhoaktTvg0/avM65qz4dPw7LcFh3ttZ/8vq/+9WYQSZCPBn/ZeOgtaD+dg/9EDO+stA2Z8AVqioUeS3WveSoZJaIUR5v6v7jkiTMlcwq0SaiJo031eOv9QEnjWnlG+1zRL3uw5XS54ML/0WeRDB5niVK7XERaYg8HZruRFDYJYqAjAKqa+ePklfk4jKP/Us/m3l2BLvQ91h0GDEQrXOvyUr6/n9bzk2i18hPgf87x5EI4wDE6mpJ/xw04sLM5s/QlK4trdUYkRLv7BaB+MXDf+IS56jirgdGBF/CViaA3t39Z5rgM8Ej/EmhDsSKNFbVF8hMyKF/TzV+1SoCBvYyl/ZUcivNNwlG3Fhtgqpww+rQHwJJ18GZ1s+iGZJf58pqtFYx6OTf2wm5vkRSq7uWlo680k82y5o4jKncvyHQv9Qe6MI1Uw5XmLVRUf9Lz3pHjv8SAHabWqOkd2wAV7MQzySO0T1pbrp2XoUgQ==;S7AwZ9MIkIC0wHMfX64QlQ=="
 ---
 

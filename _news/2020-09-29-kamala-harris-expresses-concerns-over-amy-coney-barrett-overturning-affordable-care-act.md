@@ -270,6 +270,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Likability, Authenticity, Smiles: The Debate Tightrope for Kamala Harris"
+    excerpt: "After a disastrous first presidential debate, all eyes will be on a vice-presidential debate that’s rife with gendered and racial challenges."
+    publishedDateTime: 2020-10-06T23:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/06/us/00ihw-harris2/00ihw-harris2-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris is expected to address Judge Barrett’s nomination and the Supreme Court in North Carolina."
     excerpt: "On a trip to North Carolina where she is expected to speak about Judge Amy Coney Barrett, Senator Kamala Harris will take a rare turn in the campaign spotlight today."
     publishedDateTime: 2020-09-28T19:08:00Z

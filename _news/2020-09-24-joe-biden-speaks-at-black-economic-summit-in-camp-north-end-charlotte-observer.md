@@ -51,6 +51,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Joe Biden’s campaign, summed up in one simple gesture"
+    excerpt: "Jill Biden reminding her husband of proper social distancing -- and his response -- says everything about his campaign."
+    publishedDateTime: 2020-10-06T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K2WXIHAHEII6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Fact check: Hunter Biden's military discharge was administrative, not dishonorable"
     excerpt: "Posts on Facebook following the first 2020 presidential debate say Hunter Biden, the second and only surviving son of Democratic presidential nominee Joe Biden, received a dishonorable discharge from the U."
     publishedDateTime: 2020-10-01T16:42:00Z
@@ -109,6 +125,17 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 55
+  - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
+    excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
+    publishedDateTime: 2020-10-06T22:21:00Z
+    webUrl: "https://www.c-span.org/video/?c4912952/joe-biden-appeals-national-unity-return-bipartisanship"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4912952"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4912952"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 55
   - title: "Joe Biden Campaigns in Charlotte, North Carolina"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"

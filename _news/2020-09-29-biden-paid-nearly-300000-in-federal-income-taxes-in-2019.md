@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_hate_201005_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Editor’s Note: Why The Times Editorial Board Endorsed Joe Biden for President"
+    excerpt: "By Kathleen Kingsbury Acting Editorial Page Editor Americans might not need to read a newspaper article to tell them how to vote in this presidential election. In fact, more than four million people have already cast their ballots."
+    publishedDateTime: 2020-10-06T23:42:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/opinion/07newWeb/07newWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden flip-flops on door-knocking with just 33 days left"
     excerpt: "Biden's campaign announced plans to start door-to-door campaigning after insisting for months the strategy wasn't necessary."
