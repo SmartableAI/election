@@ -49,6 +49,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Harris aims to target Trump while Pence looks to paint contrasts in vice presidential debate"
+    excerpt: "When Sen. Kamala Harris of California and Vice President Mike Pence face off Wednesday night in the one and only vice presidential debate, Harris will be concentrating her firepower on a person physically absent from the debate stage in Salt Lake City, Utah. That person is President Trump."
+    publishedDateTime: 2020-10-07T21:06:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eXnI5dV8sgs/harris-aims-to-target-trump-while-pence-looks-to-paint-contrasts-in-vp-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-aims-to-target-trump-while-pence-looks-to-paint-contrasts-in-vp-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-aims-to-target-trump-while-pence-looks-to-paint-contrasts-in-vp-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 214
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/95cbc652-AP20277623967838.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Host of Pence-Harris VP debate says they still plan on holding event"
     excerpt: "The vice presidential debate between Mike Pence and Sen. Kamala Harris is still going on as planned on Wednesday, despite President Trump’s positive Covid-19 test, a debate host spokesperson told Fox News. "
     publishedDateTime: 2020-10-02T19:12:39Z
@@ -81,6 +97,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Pence, Harris test negative for COVID-19 ahead of VP debate"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris have both tested negative for the coronavirus, ahead of Wednesday night’s debate in Salt Lake City."
+    publishedDateTime: 2020-10-07T21:51:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UMSXM5JyW-w/pence-harris-negative-covid-19-vp-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-harris-negative-covid-19-vp-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-negative-covid-19-vp-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 210
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
     excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
     publishedDateTime: 2020-10-02T12:52:18Z
@@ -112,6 +144,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20280806908261.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "How to watch tonight's vice presidential debate between Mike Pence and Kamala Harris"
+    excerpt: "Fox News Channel will present special live programming surrounding the 2020 vice presidential debate this week in Salt Lake City between incumbent Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris, D-Calif. "
+    publishedDateTime: 2020-10-07T20:58:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6tI6kkGVi28/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 203
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89bf11-2e28-454f-95eb-ba332598ae37/c4318333-5578-4fa3-b85c-5fc881cbef9e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump-Biden presidential debate in Cleveland: Top 5 moments"
     excerpt: "President Trump and Democratic presidential candidate Joe Biden attacked each other in starkly personal terms for more than 90 minutes as moderator Chris Wallace worked to get both candidates, but especially Trump, to follow the debate rules the candidates had agreed to."
@@ -208,6 +256,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7eef60c1-c037-44f3-91f3-ab7f0a5f168e/b4f53350-6bcb-4585-bab6-ebe95093d432/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump campaign leaves ticket for Tupac at VP debate after Kamala Harris named him ‘best rapper alive’"
+    excerpt: "The Trump campaign is reportedly leaving a vice presidential debate ticket for Tupac Shakur as a jab at Democratic candidate Kamala Harris, who recently called the hip-hop icon, who was killed in 1996, the “best rapper alive.”"
+    publishedDateTime: 2020-10-07T21:48:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNfEiHmS4Dk/trump-campaign-tupac-debate-kamala-harris-best-rapper-alive"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-tupac-debate-kamala-harris-best-rapper-alive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-tupac-debate-kamala-harris-best-rapper-alive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20281642189049.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump campaign blasts Biden for running negative ads while president is hospitalized"
     excerpt: "President Trump's campaign blasted Joe Biden for continuing to air negative ads while the president is fighting COVID-19 at Walter Reed National Military Medical Center in Maryland."
@@ -384,6 +448,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Harris aims to target Trump while Pence looks to paint contrasts in vice presidential debate"
+    excerpt: "When Sen. Kamala Harris of California and Vice President Mike Pence face off Wednesday night in the one and only vice presidential debate, Harris will be concentrating her firepower on a person physically absent from the debate stage in Salt Lake City,"
+    publishedDateTime: 2020-10-07T21:11:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-aims-to-target-trump-while-pence-looks-to-paint-contrasts-in-vp-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-aims-to-target-trump-while-pence-looks-to-paint-contrasts-in-vp-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-aims-to-target-trump-while-pence-looks-to-paint-contrasts-in-vp-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/95cbc652-AP20277623967838.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden calls Trump's debate performance 'national embarrassment,' won't 'speculate' about future showdowns"
     excerpt: "Democratic nominee Joe Biden said Wednesday that President Trump was a “national embarrassment” during the first presidential debate this week, while saying he would not “speculate” on the next two general election showdowns next month."

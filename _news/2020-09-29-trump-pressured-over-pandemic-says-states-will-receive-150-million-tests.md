@@ -235,6 +235,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Poll after poll suggests Trump's chances of defeating Biden are rapidly dwindling after the debate and the president's COVID-19 diagnosis"
+    excerpt: "The election is less than four weeks away, and COVID-19 positive Trump is in the negative on multiple fronts."
+    publishedDateTime: 2020-10-07T21:13:00Z
+    webUrl: "https://www.businessinsider.com/polling-suggests-trump-chances-of-defeating-biden-rapidly-dwindling-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/polling-suggests-trump-chances-of-defeating-biden-rapidly-dwindling-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/polling-suggests-trump-chances-of-defeating-biden-rapidly-dwindling-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5f7e230fc655f6001969eca1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'"
     excerpt: "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks."
     publishedDateTime: 2020-10-06T05:00:00Z

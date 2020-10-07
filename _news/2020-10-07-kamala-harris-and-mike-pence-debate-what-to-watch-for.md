@@ -3,10 +3,10 @@ category: news
 title: "Kamala Harris and Mike Pence Debate: What to Watch For"
 excerpt: "Mr. Pence will probably be pressed to defend President Trump’s handling of the coronavirus, and his own actions as well. Ms. Harris will have to defend not just her record, but also Joe Biden’s."
 publishedDateTime: 2020-10-07T04:07:00Z
-originalUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.html"
-webUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.html"
-ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.amp.html"
+originalUrl: "https://www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.html"
+webUrl: "https://www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.html"
+ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.amp.html"
 type: article
 quality: 160
 heat: -1
@@ -27,7 +27,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-whattowatch02/07debate-whattowatch02-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-whattowatch3/07debate-whattowatch3-facebookJumbo.jpg"
     width: 1050
     height: 550
     isCached: true
@@ -381,6 +381,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris could boost Asian American voter turnout, researchers say"
+    excerpt: "Jamaican — and was excited when Harris was chosen as Joe Biden’s vice presidential nominee. She said it motivated her even more to vote for the Democratic ticket in November. Hossain, 37, told NBC Asian America that having Harris on the ticket was a huge win for the South Asian community,"
+    publishedDateTime: 2020-10-07T20:34:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/kamala-harris-could-boost-asian-american-voter-turnout-researchers-say-n1242333"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242333"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242333"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_41/3417995/201005-sadhwani_sara_2019_ac-1045p_458064d86fdad69ac300d5b23939cf44.fit-320w.jpg"
+        width: 320
+        height: 480
+        isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
     publishedDateTime: 2020-10-06T00:10:00Z
@@ -545,6 +561,6 @@ related:
       domain: thedailybeast.com
     quality: 63
 
-secured: "wFWkQ6tXA3SMa6FkjjeNF+KyLZuQdNyI4GiXwRzRROXlVsWYCWsZLlVPop7W8LV9YexEHKoMGnmb+mJ427pGjBHDEhYVtx2YNKKp27KndTwOZnK5ZsfarciJT6gnb7PN7i3aFJ05PbYU2H4DA8OtcU2gegomGGIBv2zo1i0UnqExumlyKTv1Kk9U6An5U29T9l1x4UDeisqBeK3CVioWoAGFKj1YDo3lnStQlUOfxzDdMMtqpcMSmyP0uyGpi2S7rU41w/ngXix4iiSIP4q/Yv2epq3srD2ld0hYVtkzcMX3ugAHWcz3Cz6KdxgaD63kw3aJniyRiEI7xBhm2SsLE01qV5SkK8jknpFwFsQ34PmCOCX+bhKnA9jN+rNLNV80xldR903zoy8ELTFFLCIe37HkVG9GdzVgaO/okTXEzEzIz0+pjp0huirJWlIHRhvY5xupgJlK9HJs81BWwPWf5uTFVsfCJe6DvZn1NW1P5a9nf/iH6UpFZY4VWvlf+kilovLAe6u6P6nGY2BM7pP5DA==;y+igoqcc76+29RVRA4sT5g=="
+secured: "yx97kxxXqPVxHBZD8pQtn3JIO6NBBUm5HeEUn+CtYyGVJZj2oPHK6TP39cfM5z8qOkjUWqXjoNY2P36K04Ui8Ja4qMmvurFCtomWpe+71v9BYc1eNQkV1w4ng/5fqAySfJByS4608lLKwjZtBM4zQAwV4aoaoRjgAQH4TQf2vQLQb9dxnbIhEuDbqCxZiEiPD1d4wLB9Q9LaWHngLn+zv9Y98A0W+9pNc0oB/k62F1v6gdm4n/SKeOG0Od/nSfdBG7ZymOjaHvd2rMLE/h6u82npcNV2xrjg7SUiubvbUlpdF1/V2aWHHebT7wHtwg90AKtvrSMDaszqVX4VRloNkY6Z/DU1vSzRJUych9CAxkA=;CykuHSr83wWkRq/8S3aptQ=="
 ---
 

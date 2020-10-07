@@ -1340,6 +1340,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Taylor Swift Will Cheer on Kamala Harris With Custom Cookies During Tonight's Debate"
+    excerpt: "The singer also formally announced that she's voting for Joe Biden, and shared a photo of cookies she made featuring the Biden/Harris campaign logo."
+    publishedDateTime: 2020-10-07T21:30:00Z
+    webUrl: "https://www.newsweek.com/taylor-swift-kamala-harris-debates-cookies-voting-1537233"
+    ampWebUrl: "https://www.newsweek.com/taylor-swift-kamala-harris-debates-cookies-voting-1537233?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/taylor-swift-kamala-harris-debates-cookies-voting-1537233?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1647691/taylor-swift.jpg"
+        width: 2500
+        height: 1407
+        isCached: true
   - title: "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism"
     excerpt: "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans."
     publishedDateTime: 2020-09-24T08:24:00Z
@@ -1886,6 +1902,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Why Is Kamala Harris Debating Mike Pence in Person?"
+    excerpt: "Watching Kamala Harris take the stage tonight for her debate with Mike Pence, many Democrats may be wondering the same thing: Why would she agree to appear in person, just a few feet away from the vice president,"
+    publishedDateTime: 2020-10-07T19:49:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2020/10/why-kamala-harris-debating-mike-pence-person/616645/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616645/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616645/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 100
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/iNZtICN2bBdM3roK1dKI4l-Tk3c=/5x0:1773x994/570x320/filters:format(png)/media/img/mt/2020/10/Atlantic_Kam_deb_v1/original.png"
+        width: 570
+        height: 320
+        isCached: true
   - title: "Mike Pence, Kamala Harris to square off in only vice presidential debate"
     excerpt: "Sen. Kamala Harris and Vice President Mike Pence are preparing for their only debate Wednesday night, which will be staged with expanded COVID-19 safety precautions days after President Donald Trump tested positive."
     publishedDateTime: 2020-10-07T13:32:00Z
@@ -1974,6 +2006,22 @@ related:
     provider:
       name: Indianapolis Star
       domain: indystar.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/d3a6e494-e269-4aac-9819-35f31cecc2de-Pence-Harris-promo-art-01.png?auto=webp&crop=865,486,x996,y804&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "How Vice President Mike Pence and Sen. Kamala Harris stack up against each other"
+    excerpt: "Here's how Vice President Mike Pence stacks up against Sen. Kamala Harris. The two go head-to-head in the Wednesday, Oct. 7 vice presidential debate."
+    publishedDateTime: 2020-10-07T21:18:00Z
+    webUrl: "https://www.desmoinesregister.com/in-depth/news/politics/elections/2020/10/07/vice-presidential-debate-comparing-mike-pence-and-kamala-harris/3636989001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3636989001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636989001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 95
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/d3a6e494-e269-4aac-9819-35f31cecc2de-Pence-Harris-promo-art-01.png?auto=webp&crop=865,486,x996,y804&format=pjpg&width=1200"
@@ -2693,6 +2741,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice Presidential debate: How to watch Mike Pence-Kamala Harris debate online (Live stream, start time, network info.)"
+    excerpt: "Voters on Wednesday night have an opportunity to contrast the debating styles and temperaments of President Donald Trump and Democratic nominee Joe Biden with their running mates as Vice President Mike Pence and Sen."
+    publishedDateTime: 2020-10-07T20:49:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/vice-presidential-debate-how-to-watch-mike-pence-kamala-harris-debate-online-live-stream-start-time-network-info.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/vice-presidential-debate-how-to-watch-mike-pence-kamala-harris-debate-online-live-stream-start-time-network-info.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/vice-presidential-debate-how-to-watch-mike-pence-kamala-harris-debate-online-live-stream-start-time-network-info.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 76
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F3LJLA52UFHXJHVZ5MF2YK63IU.jpg"
+        width: 2661
+        height: 1831
+        isCached: true
   - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
     excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"
     publishedDateTime: 2020-09-24T21:49:00Z
@@ -2917,6 +2981,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch live at 9 p.m.: Vice presidential debate between Mike Pence and Kamala Harris"
+    excerpt: "The debate, which will take place in Salt Lake City, Utah, is set to begin at 9 p.m. and run for 90 minutes."
+    publishedDateTime: 2020-10-07T21:41:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/07/nation/watch-live-9-pm-vice-presidential-debate-between-mike-pence-kamala-harris/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/nation/watch-live-9-pm-vice-presidential-debate-between-mike-pence-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/nation/watch-live-9-pm-vice-presidential-debate-between-mike-pence-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 74
   - title: "Did Kamala Harris’ family move to Jamaica to engage in the slave trade? No"
     excerpt: "The elder Harris did write that his paternal grandmother descended from a slave owner. That part of his essay has been distorted repeatedly to fuel misleading claims on social media about the Harris family’s connections to slavery in Jamaica."
     publishedDateTime: 2020-09-26T23:44:00Z
@@ -3172,6 +3247,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Republican attorneys general slam former colleague Kamala Harris as 'original lawless liberal'"
+    excerpt: "Republican attorneys general assailed Democratic vice-presidential candidate Kamala D. Harris on Wednesday, blasting their former colleague as the “original lawless liberal.”"
+    publishedDateTime: 2020-10-07T21:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/7/republican-attorneys-general-slam-former-colleague/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/7/republican-attorneys-general-slam-former-colleague/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/7/republican-attorneys-general-slam-former-colleague/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 63
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/election_2020_harris_10223_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Maya Rudolph Nails Her SNL Return as Kamala Harris, in the Senator's Signature Sneakers, No Less"
     excerpt: "Maya Rudolph brought back her impression of vice presidential nominee Kamala Harris for Saturday Night Live's Oct. 3 episode."
     publishedDateTime: 2020-10-04T20:46:00Z
@@ -3356,6 +3447,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 52
+  - title: "Which Kamala Harris will show up? 5 things to watch for in tonight’s VP debate"
+    excerpt: "While vice presidential debates have historically had little impact on the overall race, a lot is riding on how Mike Pence and Kamala Harris perform."
+    publishedDateTime: 2020-10-07T21:21:00Z
+    webUrl: "https://www.sfchronicle.com/politics/us/article/5-things-watch-for-vp-debate-kamala-harris-pence-15627876.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/44/10/20070939/33/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "What happens if Donald Trump dies or gets seriously ill? President Mike Pence"
     excerpt: "Karen and I send our love and prayers to our dear friends President Donald Trump and First Lady Melania Trump,” Mr Pence said in a statement after Mr Trump’s positive test. “We join millions across America praying for their full and swift recovery."
     publishedDateTime: 2020-10-02T08:59:00Z
@@ -3495,6 +3600,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "gIGrVeQnM++7TimyCAntWw+ocJpQ5yXuBtZeOXF5JFvwhbQUyDMM60iJsc6tHEJRph2JymPTB73DbQeMqjetOH0IhtAmlwL5HxT5WBr3Hl4OlTdb5+2BAiqhH3d0bEmWtGJXYYU4Y+yJAnJtTNvL3dEIhg3OTdORr00+0omi9UB2Hs5FmTTYGxJY8KUM9FWRF5MOrvfLTaigd2Ubbkr4w/roagZTZbpHqnibjT+zft+ExbyeY8DGQFSIpiCcZ6bc4vhPe0xY6K8goKmJoeerrjIrp8d67dZtXNJWx4Ox+mtduem1px+gPgoPThZ4dAhuSUiO5+6n2s4tW3woojAj2F6cX2QqpJXvZcvHPZbvH+s=;HiFzdRYIfkrimdty/ik21Q=="
+secured: "iA5LEu+gl+xa4cQYt717wovKFJRovlLzACYOt9Ylb6GCLIUQxfnrN41G4+dFg7I/DYQwij17mkBYJKtMV97jWdjS5RCSHRaUHSJkQr/7wEn8wH8RkRkacJUkAqI+l79e6soSg2KX9lI+Rsn7kTYqImTYmmS92MthfkvhvtbvOggxJ83XOMIXm++XmaqEcAxwUBngkglz+WGQ3XM5objLdm7lo9+MA1z2DPNBbiIo3eYuzSK0tYODJa9d07LqzVMbcvY/yI2v4W67Kh9IUIzJUG/wV8RDrV3NtYchfssrE9UAcoR9MohOcHY48GITjXBzT25Hb0UqxftDRtmdlmYsftXaAgmsqQI97kPMj1JLU8/Sj8ZRkJkJ6Yps4y1+A2PQ0ofHI9HByZawHrB1Obdsi2VoTv6htl7MhuonhqTtGKqrr6gQjXZJPp2/dOzRWT5x/fOZIr3hOBAVbDZGyfiRPnwxIJzDlg2NAEoj3xo/YlSQlUZclf8VOOhZ/jCr3kdqNspF3FI/VwJ268w2ohmW4w==;QudrkzbiY6+BUNX6XNmilA=="
 ---
 

@@ -241,16 +241,16 @@ related:
   - title: "Kamala Harris and Mike Pence Debate: What to Watch For"
     excerpt: "Mr. Pence will probably be pressed to defend President Trump’s handling of the coronavirus, and his own actions as well. Ms. Harris will have to defend not just her record, but also Joe Biden’s."
     publishedDateTime: 2020-10-07T04:07:00Z
-    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.amp.html"
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 160
     images:
-      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-whattowatch02/07debate-whattowatch02-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-whattowatch3/07debate-whattowatch3-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -379,6 +379,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_33/3403819/200811-kamala-harris-se-525p_9c84098920c490c82f8f1e933ab9a989.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Kamala Harris could boost Asian American voter turnout, researchers say"
+    excerpt: "Jamaican — and was excited when Harris was chosen as Joe Biden’s vice presidential nominee. She said it motivated her even more to vote for the Democratic ticket in November. Hossain, 37, told NBC Asian America that having Harris on the ticket was a huge win for the South Asian community,"
+    publishedDateTime: 2020-10-07T20:34:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/kamala-harris-could-boost-asian-american-voter-turnout-researchers-say-n1242333"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242333"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242333"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_41/3417995/201005-sadhwani_sara_2019_ac-1045p_458064d86fdad69ac300d5b23939cf44.fit-320w.jpg"
+        width: 320
+        height: 480
         isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."

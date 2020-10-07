@@ -1439,6 +1439,22 @@ related:
         width: 760
         height: 545
         isCached: true
+  - title: "Trump insisting on working from Oval Office despite quarantine rules, infection risks"
+    excerpt: "A top aide to President Donald Trump said he is eager to get back to working in the Oval Office and could do so as early as Wednesday despite infection risks."
+    publishedDateTime: 2020-10-07T21:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-insisting-working-oval-office-quarantine-rules-infection/story?id=73472757"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insisting-working-oval-office-quarantine-rules-infection/story?id=73472757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insisting-working-oval-office-quarantine-rules-infection/story?id=73472757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-oval-rt-rc-201007_1602100418582_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump renews fears of voter intimidation as he recruits army of poll watchers, pushes false claims of election fraud"
     excerpt: "Republicans are putting together what they call an army of Trump supporters to monitor election procedures as Trump pushes false claims about voter fraud."
     publishedDateTime: 2020-10-01T14:10:00Z
@@ -1870,6 +1886,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/21/USAT/fb3da339-e73c-4e63-929f-5e7c8df79145-AP_France_Trump_Russia_Probe.JPG?auto=webp&crop=5024,2826,x1,y886&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump, who is still infected with COVID-19 and likely contagious, has returned to the Oval Office"
+    excerpt: "A US Marine was spotted outside the Oval Office on Wednesday afternoon, indicating the president is inside the room."
+    publishedDateTime: 2020-10-07T20:10:00Z
+    webUrl: "https://www.businessinsider.com/trump-returns-to-oval-office-while-sick-contagious-with-covid-19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-returns-to-oval-office-while-sick-contagious-with-covid-19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-returns-to-oval-office-while-sick-contagious-with-covid-19-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f7e1996c655f6001969ec65?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump, 10 others test positive for COVID: A running list of everyone being tested and their results"
     excerpt: "White House officials said Friday that President Donald Trump is feeling only \"mild symptoms\" following the announcement that he and first lady Melania Trump have tested positive for COVID-19. Trump announced his positive test early Friday morning,"
@@ -3057,6 +3089,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/us-president-donald-trump-was-said-to-be.jpg"
         width: 1024
         height: 646
+        isCached: true
+  - title: "Is the White House Covering Up the Fact that Donald Trump Is Patient Zero of the COVID-19 Outbreak?"
+    excerpt: "And I think the reason the White House will not have the CDC do a formal check and review every single case is that they’re concerned that the patient zero might be the president of the United States."
+    publishedDateTime: 2020-10-07T20:21:00Z
+    webUrl: "https://vanityfair.com/news/2020/10/donald-trump-patient-zero"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-patient-zero/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-patient-zero/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 61
+    images:
+      - url: "https://media.vanityfair.com/photos/5cbde07c5ec6062e3c5c4c89/master/pass/TrumpWH.jpg"
+        width: 2000
+        height: 1551
         isCached: true
   - title: "Donald Trump COVID Update: Dr. Sean Conley 'Coy And Evasive’ During Conference On President’s Health"
     excerpt: "His update outside Walter Reed Medical Center was supposed to provide more answers about President Donald Trump’s current status following his COVID-19 diagnosis and hospitalization, but Dr. Sean Conley appeared to leave the American public with more questions instead after speaking with reporters."

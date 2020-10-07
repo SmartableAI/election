@@ -3,8 +3,8 @@ category: news
 title: "Former NSA Head Michael Hayden Endorses Biden: He's A Good Man, Donald Trump Is Not"
 excerpt: "Retired Gen. Michael Hayden, who served as director of both the CIA and the NSA during the Bush and Obama administrations, appears in this ad from the \"Republican Voters Against Trump\" group to endorse Democratic nominee Joe Biden."
 publishedDateTime: 2020-10-07T12:54:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA#!"
 type: article
 quality: 74
 heat: -1
@@ -89,6 +89,22 @@ related:
       - url: "https://amp.spot.im/loader.png"
         width: 375
         height: 815
+        isCached: true
+  - title: "Carly Fiorina explains planned Biden vote, claims Trump has 'damaged' GOP"
+    excerpt: "President Trump “has not exhibited” characteristics of a leader during his presidency, former Republican presidential candidate Carly Fiorina told “America’s Newsroom” on Wednesday explaining why she will be voting for Democratic presidential nominee Joe Biden in November’s general election."
+    publishedDateTime: 2020-10-07T21:19:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/adJtrQOuzog/carly-fiorina-voting-biden-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/carly-fiorina-voting-biden-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/carly-fiorina-voting-biden-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump calls for pause on coronavirus stimulus talks until after the election"
     excerpt: "President Trump on Tuesday said he has instructed Republicans to pause negotiations on a coronavirus stimulus package until after the election, instructing Senate Majority Leader Mitch McConnell, R-Ky., to focus “full-time” on getting his nominee to fill the vacant seat on the U.S. Supreme Court approved."
@@ -450,6 +466,6 @@ related:
         height: 720
         isCached: true
 
-secured: "V+kH4/G2CiaikmAMAmG6bImUJyr8hUJhzuBme4dJiD9kbTQiUgWCONiLyuUvuIo19ZkdQYL+8+eE8hP6/LIMzJofHK9v3/qLjs0pi/oApb3Lw7WCo8gc3/vK0jnFlzm8yVVvLBAl+H0gTgY7XhFq6N/QPMzpcI7e0KrT4QH3tM4ec9y37V+nrCZb+dHe7WGsrqzGXq0fB90FgrotlZ+Gmg9sBmc9LaONh5z47Ki/01E1579vjuKAfMkkhAb7npfC/8agjDvhbzyu/l3ClB0ovvRf4iVVzOW38YUmMZs25Y+szGd8nt86mXOQjDGCw/ZqMm14mctrdQM9qOgFOxZRGhxIXlr3vOo0XWRABdYicBQ=;dYI0RTnNwmDhwdvGW89D8A=="
+secured: "OT2p/DySE18OddSogIAkvb4XIOe9Tvh4WzCmWmbKAaCstRaRDH2ZxKEKUxzbtzBhTuuld204VKuE/1Ky2SW5vvMSgTf5AAlZhSwTh1gBmNFAjEHpoJpXGGeVyJ2iAqEilkhUZaWa128PVNwSFvTClzfFb+DL4fAOC70wGROzp42qQogGvVPOnSARq1rc79B8fqo4y+YUnIrSfmLBmp1q5MvYaa8sVHGzxE42aRDspEBECTMpefgK3HVioHaA4C4BEFPRzUrRy7vI2p1sGc02HIztP+Y1mPXKuIS24aHCUekgmakvaF2vkTGoSXZn+L/oib1pHMrZerqLqPrg/MY9opm4ygu5tXZzV69Kx+X4ppQ=;dWry0Da7oxhH9So7raAQoQ=="
 ---
 

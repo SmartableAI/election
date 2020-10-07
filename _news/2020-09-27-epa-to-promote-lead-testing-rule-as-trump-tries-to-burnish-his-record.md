@@ -768,6 +768,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Family separation and the Trump administration's immigration legacy"
+    excerpt: "More than two years since migrant families were torn apart at the US-Mexico border, disturbing details of what occurred behind the scenes continue to spill into public view -- again putting into focus the policy that came to define the Trump administration's immigration legacy and cement its approach"
+    publishedDateTime: 2020-10-07T21:40:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ablqTccsn1k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/trump-family-separation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/trump-family-separation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180726180654-reunited-father-son-0725-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pay attention to these headlines rather than Trump's anti-reality"
     excerpt: "Pumped full of unapproved drugs not available to average Americans plus a steroid, President Donald Trump mounted the steps of the White House on Monday night, told Americans not to be afraid of Covid-19 and promised them they'd beat it.\n    \n"
     publishedDateTime: 2020-10-07T00:30:23Z
@@ -2669,6 +2685,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/07/opinion/07manjooWeb/07manjooWeb-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump has Covid-19 antibodies. What does that mean?"
+    excerpt: "President Donald Trump's physician said Wednesday that the president has Covid-19 antibodies, though experts say it’s unclear what this means for his recovery. \"Of note today, the President's labs demonstrated detectable levels of SARS-CoV-2 IgG antibodies from labs drawn Monday,"
+    publishedDateTime: 2020-10-07T21:44:00Z
+    webUrl: "https://www.nbcnews.com/health/health-news/trump-has-covid-19-antibodies-what-does-mean-n1242437"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242437"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242437"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418277/201007-donald-trump-mask-balcony-jm-1625_26147c8c976f471acefe0d1f3f53e4ef.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump pushes rapid coronavirus testing for schools ahead of first debate"
     excerpt: "The coronavirus will be one of six topics covered at Tuesday’s debate; Trump’s handling of the pandemic has been one of his weakest points with voters."
