@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp"
 type: article
 quality: 191
-heat: 2051
+heat: 2071
 published: true
 
 provider:
@@ -767,6 +767,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump 'reports no symptoms' as he recovers from coronavirus diagnosis; Top aid tests positive"
+    excerpt: "President Trump's physician, Dr. Sean Conley, announced Tuesday afternoon that the president \"reports no symptoms\" of the novel coronavirus after doctors discharged Trump from Walter Reed National Military Medical Center on Monday."
+    publishedDateTime: 2020-10-07T04:43:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PFAVSDWi9Ak/doctors-reports-no-symptoms-as-trump-recovers-from-coronavirus-diagnosis-miller-tests-positive"
+    ampWebUrl: "https://www.foxnews.com/politics/doctors-reports-no-symptoms-as-trump-recovers-from-coronavirus-diagnosis-miller-tests-positive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doctors-reports-no-symptoms-as-trump-recovers-from-coronavirus-diagnosis-miller-tests-positive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29cbf09d-c057-4703-9349-85d4830dd226/dc28499a-ca23-46dd-a531-c18a47abf7a8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Dems say Trump diagnosis should be a 'wake up call' on administration's handling of coronavirus"
     excerpt: "Several top Democrats Friday said that they hope President Trump and first lady Melania Trump recover quickly from the coronavirus while adding that the diagnosis should be \"a wake up call\" for the president to take \"a saner approach\" in his pandemic response that Democrats have been critical of for"

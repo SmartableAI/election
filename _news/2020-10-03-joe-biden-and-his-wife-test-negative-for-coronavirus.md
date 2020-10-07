@@ -470,6 +470,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
+    excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
+    publishedDateTime: 2020-10-07T04:38:00Z
+    webUrl: "https://www.chron.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Joe Biden Says He'll Debate if Scientists Say it's Safe"
     excerpt: "Democratic presidential candidate Joe Biden speaks briefly with reporters and says that if the scientists say it’s safe to go forward with the upcoming… read more Joe Biden, a 2020 Democratic presidential candidate,"
     publishedDateTime: 2020-10-05T16:26:00Z

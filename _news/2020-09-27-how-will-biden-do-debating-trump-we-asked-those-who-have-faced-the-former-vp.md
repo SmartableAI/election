@@ -1632,6 +1632,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden signals next debate may not happen if Trump remains contagious"
+    excerpt: "CDC guidelines say people should isolate for 10 days from the point of showing symptom — 20 days in severe cases."
+    publishedDateTime: 2020-10-07T01:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Trump denounces mail-in voting and again casts doubt on the election outcome"
     excerpt: "President Donald Trump railed against mail-in voting and unsubstantiated claims that ballots have been found in wastepaper baskets, even as former Vice President Joe Biden urged Americans to exercise their right to vote by any means necessary."
     publishedDateTime: 2020-10-01T18:11:00Z

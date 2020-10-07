@@ -191,6 +191,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris and Mike Pence Debate: What to Watch For"
+    excerpt: "Mr. Pence will probably be pressed to defend President Trump’s handling of the coronavirus, and his own actions as well. Ms. Harris will have to defend not just her record, but also Joe Biden’s."
+    publishedDateTime: 2020-10-07T04:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-whattowatch02/07debate-whattowatch02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris, a Disco-Dancing Teenager, Yearned for Home in Canada"
     excerpt: "Senator Harris spent her adolescent years in Canada. Friends say being a California girl at a multicultural public high school in Montreal helped shape her."
     publishedDateTime: 2020-10-05T09:04:00Z

@@ -171,6 +171,20 @@ related:
         width: 806
         height: 545
         isCached: true
+  - title: "Biden: shouldn't have debate if Trump still sick"
+    excerpt: "Joe Biden says he and President Donald Trump \"shouldn't have a debate\" if he still has COVID-19. Biden said Tuesday that he's \"looking forward to being able to debate him\" but said they need to \"follow very strict guidelines."
+    publishedDateTime: 2020-10-07T04:01:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/biden-shouldnt-have-debate-if-trump-still-sick/5906265002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43cce496-bb12-4cbd-a52e-6d89017236ff_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'This cannot be a partisan moment': Obama, Biden, and the Clintons offer prayers for Trump after he tests positive for COVID-19"
     excerpt: "\"We wish the President and First Lady a speedy recovery,\" said Hillary Clinton, who competed against President Donald Trump in the 2016 election."
     publishedDateTime: 2020-10-04T12:01:00Z

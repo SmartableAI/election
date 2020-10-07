@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html"
 type: article
 quality: 210
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 160
     images:
       - url: "https://static01.nyt.com/images/2020/10/04/us/04elections-Veep-pence/04elections-Veep-pence-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris and Mike Pence Debate: What to Watch For"
+    excerpt: "Mr. Pence will probably be pressed to defend President Trump’s handling of the coronavirus, and his own actions as well. Ms. Harris will have to defend not just her record, but also Joe Biden’s."
+    publishedDateTime: 2020-10-07T04:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/kamala-harris-mike-pence-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-whattowatch02/07debate-whattowatch02-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

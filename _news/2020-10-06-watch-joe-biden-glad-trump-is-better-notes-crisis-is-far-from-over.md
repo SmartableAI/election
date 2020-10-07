@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-v
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
 type: article
 quality: 140
-heat: 640
+heat: 660
 published: true
 
 provider:
@@ -158,6 +158,20 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
         width: 806
         height: 545
+        isCached: true
+  - title: "Biden: shouldn't have debate if Trump still sick"
+    excerpt: "Joe Biden says he and President Donald Trump \"shouldn't have a debate\" if he still has COVID-19. Biden said Tuesday that he's \"looking forward to being able to debate him\" but said they need to \"follow very strict guidelines."
+    publishedDateTime: 2020-10-07T04:01:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/biden-shouldnt-have-debate-if-trump-still-sick/5906265002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43cce496-bb12-4cbd-a52e-6d89017236ff_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "'This cannot be a partisan moment': Obama, Biden, and the Clintons offer prayers for Trump after he tests positive for COVID-19"
     excerpt: "\"We wish the President and First Lady a speedy recovery,\" said Hillary Clinton, who competed against President Donald Trump in the 2016 election."

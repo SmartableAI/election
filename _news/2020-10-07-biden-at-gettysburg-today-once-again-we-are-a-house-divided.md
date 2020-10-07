@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "From Gettysburg, Biden Calls for Healing of a ‘House Divided’"
+    excerpt: "We have too bright a future to have it shipwrecked on the shoals of anger and hate and division,” Joe Biden said in a speech near the Civil War battlefield in Pennsylvania."
+    publishedDateTime: 2020-10-06T22:14:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/us/politics/joe-biden-gettysburg-covid.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/us/politics/joe-biden-gettysburg-covid.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/us/politics/joe-biden-gettysburg-covid.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/06/us/politics/06biden02/06biden02-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden, from Gettysburg, appeals to soul of the nation"
     excerpt: "Privacy Policy Democratic presidential candidate former Vice President Joe Biden holds up his mask as he speaks at Gettysburg National Military Park in Gettysburg, Pa., Tuesday, Oct. 6, 2020. | AP Photo/Andrew Harnik Joe Biden on Tuesday implored Americans to appeal to their higher nature,"
     publishedDateTime: 2020-10-06T18:13:00Z
@@ -61,6 +77,6 @@ related:
         height: 773
         isCached: true
 
-secured: "8Q9Lw9gXajUItHeOrTD49VqD4utxXP5iRw2+YNUWKD7SAa+wj2GQVsoex2ZMsiSUFTH1BXyB2YwGWRc/RNjhUzCP34eRWJMJ4oqMyRs9o5cqx7K0CoRqmVTm6ZHfdSpWzr2Cj+yTBcdF3NmJXFSGyfTu8g6Kyk3jyBowovB2hlHNBksAaTi8BkR6D4UBSZ34/OZfgRe3iT7H7dUPIs/pWz+sDyOvg/+dERYylu6CLleEUUbjO/e4HlN8pS8IwgQ11eBQJup4hW+vWtfU8mxVC6DYl8NqCbt5hsBdSBQk7DHlVlXKdvSrSIEDVncLT+TpTcXmYahPfleTHeZ7pdwRSRneW2T8PJVlrE7e23qz6SM=;aCvgSL6fXZomO5viTalZdw=="
+secured: "PqEl2fF+1KCBlcKP2cPayNOo6OXDeAB6x4rqInBlzZogNBWDoN24QKkxJYTiL2u2gnnb0agOAJJSBx7M8ZQ7d45oQ2JZQhwJbv6VDd8puJMLiUbTQi+lqs2zr3AArYPt2jTbXVlst6ZhxLPeBg+3T6uL5l+dfe6l5d96JNDBXRjLpwrVIsd8GabNFCphlyWFitmT2iPXievPSWOzJWQ0hRrpIy3n+/R7QtMTA8wfeEd4YXXzAvmAE3pYQ08ymG3bI2j7uQOKlwSWmUhi3IfMK12B5H0mFPIhJ9IaUOXTdloLYOfuNDUPt6rpjmq6t4a2c644v1zjnVeAuIq+Z8zhI2qdaEwLX/HTB5r/viG7BQu6Isoc1Xyr99kqjJyNt4bbPvEzZp3+T+XXHQz/zEo2oRR8FVd9NoSXw+YZLdYh7aylTIs7RLSqZiRi557ThiYIdfn8gBIWTF7AY7niq+fDdLjzcvnwCCpI1GqZj6y8KEnnXt45/kqIFEjlvWlWhHoNtnFNQCt+XHm8ve5Qxp+WEg==;Ge9e86PvYuoAtOZVpawIgg=="
 ---
 

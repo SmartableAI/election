@@ -159,6 +159,20 @@ related:
         width: 806
         height: 545
         isCached: true
+  - title: "Biden: shouldn't have debate if Trump still sick"
+    excerpt: "Joe Biden says he and President Donald Trump \"shouldn't have a debate\" if he still has COVID-19. Biden said Tuesday that he's \"looking forward to being able to debate him\" but said they need to \"follow very strict guidelines."
+    publishedDateTime: 2020-10-07T04:01:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/biden-shouldnt-have-debate-if-trump-still-sick/5906265002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43cce496-bb12-4cbd-a52e-6d89017236ff_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'This cannot be a partisan moment': Obama, Biden, and the Clintons offer prayers for Trump after he tests positive for COVID-19"
     excerpt: "\"We wish the President and First Lady a speedy recovery,\" said Hillary Clinton, who competed against President Donald Trump in the 2016 election."
     publishedDateTime: 2020-10-04T12:01:00Z
@@ -428,6 +442,6 @@ related:
         height: 675
         isCached: true
 
-secured: "KVA9wAjZg4cCoQt6quR1tSRDSVocXe/jVJx1SetF6fkyHRPCECt4xsiX6N0+T/lcznfvfdJI815wyOeGjMiMNm+V4jWpf3RIe37C4I4QMN+1jPXn/JdakKRd0Usf7+QzHWMuzIWMFuU/S+DX1kSSC6tmsYMM5+uBX4xeyjbY4u0lQQPHqdIZeUHyrps6VImy5DfqgxPDK+P31UWkdUPhQg49V5PGOsUmIPzfKW5b4HuOgILq0LGXsSVZoQhBvUU8HVrDQbTnuMYu7Q87/vA7r/ghiHp2TQDctJxDmXyGF0vYaXBC8S8qfwS69MNAKhfoDigGLDOIa2bh/5ecJhFf0qX8x1N3IVoqvqaG54Z8CcU=;oWbY2qy3sQTonjkwT7v9Kg=="
+secured: "g0+U6HP7FGL8GSemp8esgedrEJttw3EjvGBWcnFXjGv9l1jZjry6/Qmr5o38B8UhZeKItcskDzQik1Ivr5EJCJ46y3WHBhkv5Q4xGV8N6Hcn9jkqrwlfAbZOBekSDNXNVmWCjrNX6l5DqraektFWBnb5NbOTSBhv/Ti0NO1f2j5GG4qh98sUro2lSfZ5o0QNeKD3gepLR3d2K2P99ShsjQ+XSZ+3gZs94k0RpDTz0sblmMlmmF9jTImlaqbB+Ej3GhcYiTNjl8KuqlXZ8YlSLHLhbB6LZPuwyDQUSsnB49+TcIg9G6OnsTXhYh3RZWGCpl7sScrFQHQqyF8sF8G56DX8JoHak4F+yFTUgDHz1PRqpdllIhlUJJay+XyCkalsoQsk7u2X5GYKZYH0xY6ydHAFwfOvQ12C4pahn9RUJgugCKQAyS+/+bt1in687cwRyjRGhB+ihIyOcqlA9ZvhY8zL/+ik9YR3Xy/AEveYJxztSkBaL5E4ddvdkhRjfxnZrr5nk5/m+jLEyW8TNuQveA==;DeZCZlevE9F10ZE3b7mUbQ=="
 ---
 

@@ -474,6 +474,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
+    excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
+    publishedDateTime: 2020-10-07T04:38:00Z
+    webUrl: "https://www.chron.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "Xm+EbXyZaCsa7GJ+5/ssS6p2uzXcx1Pu7YeeHDAbEgoHLJawR6RmnSKMgNB1Lr66iMFN9K5CxKIqCFOWGNbXOrFe9hXnzDlwe/dq3VfIpTR6QV0TjU2U36CIa31G+OWslhZl8hd9MRHJUTULWrnt3mp7mpF7dfwkWO3vT0RlFQI1tP+6Mkao2w7mN8JhoiUg7zjIo4zGzXypeaIttHKjQORVx0lKow7qzJzb0xWYiKddebUgL5CO0y8lHdaoF7Rwb06ZLYPDmKGNJMtuXnohs/xoLnn453MisHET05rLLsDGmBT8bsfUzt6EnJtpzjKjXJrYZ7BAVqneevMz+yyAIxzBgiLeixZAbV9mSb97sjsytKXTsFPG0HeWj7xmECsH64q2AC1nUjKJI8BuaFRoffxhMB9aHE3f4KDMkPPlIlyKPWjQyljTOSWuNTbQFiUxJLwy6uYEf6DEvxP6xdLZQWxFhN4P00814Jf/nAhMozi3dXQTM7GLjcLVnpi17rRJzpZwU0NM1d1UGPO4vGMAeQ==;wiRQEXQkjQamKUHAX27ZMw=="
 ---

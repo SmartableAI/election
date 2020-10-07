@@ -783,6 +783,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump 'reports no symptoms' as he recovers from coronavirus diagnosis; Top aid tests positive"
+    excerpt: "President Trump's physician, Dr. Sean Conley, announced Tuesday afternoon that the president \"reports no symptoms\" of the novel coronavirus after doctors discharged Trump from Walter Reed National Military Medical Center on Monday."
+    publishedDateTime: 2020-10-07T04:43:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PFAVSDWi9Ak/doctors-reports-no-symptoms-as-trump-recovers-from-coronavirus-diagnosis-miller-tests-positive"
+    ampWebUrl: "https://www.foxnews.com/politics/doctors-reports-no-symptoms-as-trump-recovers-from-coronavirus-diagnosis-miller-tests-positive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doctors-reports-no-symptoms-as-trump-recovers-from-coronavirus-diagnosis-miller-tests-positive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29cbf09d-c057-4703-9349-85d4830dd226/dc28499a-ca23-46dd-a531-c18a47abf7a8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Voters divided over ructions to Trump's coronavirus diagnosis, but most won't change their vote"
     excerpt: "Voters largely reported feeling 'worried' or 'sad,' but some even said they were 'happy.'"
     publishedDateTime: 2020-10-03T21:23:32Z

@@ -2031,6 +2031,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "METALS-Copper slips as Trump ends stimulus deal talks"
+    excerpt: "Copper prices fell on Wednesday after U.S. President Donald Trump halted negotiations with the U.S. Congress on a large coronavirus stimulus bill."
+    publishedDateTime: 2020-10-07T03:33:00Z
+    webUrl: "https://www.reuters.com/article/global-metals-idUSL4N2GY0EO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GY0EO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GY0EO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Pelosi says Trump unwilling to crush virus"
     excerpt: "House Speaker Nancy Pelosi says President Donald Trump is \"putting himself first at the expense of the country” by halting negotiations over a new coronavirus aid package from Congress. (Oct. 6)"
     publishedDateTime: 2020-10-07T00:49:00Z
@@ -2406,6 +2417,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/5124ab15-79cd-4d4c-bf59-b5a33c547c73-9ecb0a46-2323-4cec-9c65-7f78604a1968_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Twitter said it had to temporarily lock Trump's account after he shared a columnist's email address, violating the company's policies"
+    excerpt: "Twitter confirmed that it locked Trump's account after he shared the email address of a journalist to his 87 million followers."
+    publishedDateTime: 2020-10-07T04:19:00Z
+    webUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5f7cb1ff94fce90018f7b6dc?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
         isCached: true
   - title: "Daywatch: Trump tests positive for COVID-19, inside Democratic Speaker Michael Madigan’s job machine and a guide to the Midwest’s fall foliage"
     excerpt: "Late Thursday night, President Trump tweeted that he and Melania Trump tested positive for COVID-19. Earlier in the evening, Trump said that he and the First Lady were beginning the “quarantine process” as they awaited their test results after one of his closest aides,"
@@ -2932,6 +2959,6 @@ related:
         height: 627
         isCached: true
 
-secured: "JS353pb+IE/KQ/CyGZpYYKvQ++UrMHeeateB28i+Jay0ShUuSNyirrM49rgYfeDtaZGBN0f/hE8K7z135pqV+rF5ehrD0t2kHDxDRcm2LKWtdViLccObwYs9id4YV+O6D6hh4gsrBFlSrIuIslFaOj9sF0bCdLyExp/MkrKQ9Gg4vj3TeX2FnHQlqCjcm6eGy2D0bX0nL6FqKbKdePTf/Oj2Qvoo/AIa+6oR51lvhN/6JlfOgF4+voO8wSESRvU2wJvkB+wrRTnMfCGnlkYjvSpG4zyurf7ixJxFc7ufzsj5eBzbU3PrX8QwfYBxInHV6MQzwNKdBo6Ix7vaj3Q+tIydEEghRcRWBw1F9r6z3Xw=;holJtsfP3CqIpqvGmeJThw=="
+secured: "0Cfc0JVOeEr8/JXVCQ2dljOxt3v5qFgjn577Pb0ZrpZb8Xe9SsONGzp7V+tSh45ufKCdHTgcPR2ETwUEPnLWAl4IMtsYJKBBS1m+fhT/PvdL0E21Zon1OBH31kMPdhq/iVouyk/75QPgESmdchpL8HbBVHASi2a9E6hGz+6HUjS7Muuwxol+rouukOBMXYhBeTK1HbUhO0WjNbBA2yyA8ARu76PHwqGVmspV85Gczntqd/VCHFaPNz7PASvtMQAAgds/6HfegjxxX9gET48+RE0XJPlTr0Vp7c7N8EVvwbXoO9RPywO/rAq7jOvsP6n+NY9haIM/aS6c6CypAAbGQZDCfJIZKSTBCvabvoDZz0EfKj2bmCcAdZkLlzZsFGjiJzv+aWeqgV13p0evy72GaaeA/JwgkEz1vOGsNhtmFRczlnplOLD2bDvb96xO/iWMQ8j6kJLotGkAvsskZfEuw+heLdtfA2J9JnSXaeVsVfBWv3HMNugm+tBrfZnyTgZcXaMUCUUI4IMD+B1rwXag5g==;eFZzROXOI9I5M9pZSDmgXg=="
 ---
 
