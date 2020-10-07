@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris v Mike Pence: Why this vice-president debate matters"
-excerpt: "Not usually considered a must-watch, this campaign's vice-presidential debate has taken on fresh importance after President Trump's coronavirus diagnosis."
+excerpt: "This promises to be a vice-presidential debate like no other. Some have even called it the most important in history, since it comes as the US president is ill with Covid 19, a virus that's claimed 200,"
 publishedDateTime: 2020-10-06T16:29:00Z
-originalUrl: "https://www.bbc.com/news/election-us-2020-54423497"
-webUrl: "https://www.bbc.com/news/election-us-2020-54423497"
+originalUrl: "https://www.bbc.com/news/election-us-2020-54423497?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=EF61B15C-0847-11EB-A866-86004844363C&at_medium=custom7&at_custom2=twitter"
+webUrl: "https://www.bbc.com/news/election-us-2020-54423497?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=EF61B15C-0847-11EB-A866-86004844363C&at_medium=custom7&at_custom2=twitter"
 ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54423497"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54423497"
 type: article
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Kamala Harris
   - Mike Pence
+  - Kamala Harris
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10E9E/production/_114787296_harris_pence_getty2045.jpg"
@@ -374,6 +374,22 @@ related:
     webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
     ampWebUrl: "https://amp.usatoday.com/amp/3630292001"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3630292001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "The prosecutor vs. the 'king of sound bites': Why the Harris-Pence debate is no ordinary VP faceoff"
+    excerpt: "Even before President Trump's hospitalization from COVID-19, there were many reasons why the vice presidential debate could draw more viewers than usual."
+    publishedDateTime: 2020-10-06T19:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/mike-pence-kamala-harris-debate-prosecutor-king-sound-bites/5878293002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5878293002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5878293002"
     type: article
     provider:
       name: USA Today
@@ -2910,6 +2926,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "10ckI9CKfH49SVMtBrfhblOoJ4tyJ8rCQmCO3JNc32ajPxyuQcLIlGul14TkjTByi44qPBO8pJq5GZ1izfsQZs7zGoLo3gKOjp7HxO/Xxpmd43q4La/dZrOwSXZuck1DJ4O1ngasDFY2WgZpKE3KKENY7nTcIOyNKInShbzf/vnLl30g3+n1oWO9ix/PvZJpAHL7LzpwDGSWkLy9irSEeuA+GsvUT4viamERRIYU3nUoMBt3bMhx5ZDyTAto2z7RtJFDWkwL9x42t5mLh3KEO+yw15iS0xs7BCLp1jTLbn/vZih8Rv+tKN6tZ0+zE9Ful0cPZHX2NT3nKmH6rMjZDBaRQMlejqY3Ha58p3CHZ6VXqPOu7qpm1MCZGn/8iGMd/o/9TwQnE0+4WtM1h5tT0zFxWW5bbNShA2Aq80oTtHXv0ja9DtROBpCYLFCdqhEvelu7Dm12Esf2ix9iE2LOmMpE2qNduRB/LaISQPyhb1nA0iKhXV4sy7OlrUscwUPZP/l1hg86lDwPNIo/ye/mnw==;MioRRmA9VeG1e0QGIdGvLw=="
+secured: "dnKlPJemyGqDTgqsEuCYxXo0ya6ePBTKKgoJqxhb6z1A58c04Y6mUDAOJkKvFkMEDVT2gcyIRFrSOCnxYWqz5i9KOHJEA2nJ1zJpZw5yLZgIudHt1CUUPTXZE8/ulx/L8Bpa04ER628ZvPmymwrIoTnTGR6E325Ky00e64O4IF940kjScTMFIsuA0m/3nLteQb861Y58RqW5i2VHUax5MSgFF2y/Do0vu2/bQfLmglXhmbZW40zHYv6LveafFWiBtdsVTtfqQds5HuPJ+mhjdCkGn0IXFpofo0duTuQKr11OF7Xh2fRfOd77UJrZ96XHkaahJttMcCjCaliVUEVLBjOz16sfMa63Gn5asKScrMA=;PWXBgBg3ZbY5m0WheFpB+w=="
 ---
 

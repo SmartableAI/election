@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
 excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
 publishedDateTime: 2020-10-07T04:38:00Z
-originalUrl: "https://www.chron.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
-webUrl: "https://www.chron.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+originalUrl: "https://www.chron.com/shopping/article/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+webUrl: "https://www.chron.com/shopping/article/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
 type: article
 quality: 52
 heat: -1
@@ -249,6 +249,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Coronavirus again dominates campaign as Trump struggles to regain political ground"
+    excerpt: "The president and Democrat Joe Biden on Tuesday promoted their very different approaches to battling the virus — and handling the presidency."
+    publishedDateTime: 2020-10-07T05:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/campaign-coronavirus-trump-biden/2020/10/06/db31bfde-07e7-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/campaign-coronavirus-trump-biden/2020/10/06/db31bfde-07e7-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/campaign-coronavirus-trump-biden/2020/10/06/db31bfde-07e7-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AR6BVAIDUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges"
     excerpt: "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race."
     publishedDateTime: 2020-09-28T11:22:00Z
@@ -490,6 +506,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "dzt4Q//xHo9gWgSuYZZn/YuyvUspKOfdcMg5n+RI+is/zgdrl/x03Paqi4JHhnJX8MPIq+RNm1tRiTyTyF8vHnUJ0UdGwwwrugrMwth/Oxc/1op8JaMqo+BQvQlTHlsnMKs8n2Qhd418VlYVTXbnk10eTmj1+O4nJWsrU8ogI+Dr5qSov1Ow2nWbaIc/RFtHhSWXqFFjhcWEHA8EVkClhRZwmChwFXLzcPFmon/gqMiemcJpIPOOSsthovtoP3JJxLH3Gs/0uzTWUJ3VL6yhOPJexp54fBs4pcaqPF8fIp8e4ZhnUhU9wY3+VBccO2fuLKxcnDCnG8O1xNQG+2ZeFfKngeWghfCawuX8OAB/618=;AAFegj+htgIt/QK3T8ivMA=="
+secured: "l11CVDwpt1oOWp5v1OvBsRSwUsjgGaXm+xEkpPUp1xFDgqlpJ3maPMWyinonGV2OsR0unG+a+rTU8h/gPFpq3DNuNz4Mostc8rYvQnqujZhruxiQOaUmsfh5OmG9XLP9ri/reGZ2mngsWoegWHopxQDmbkNopg38JDqENs975g8M8xuEH+uNjYi+nFhMXdcr2y5spaeSLizLxCmPjmUpFijGHO7IyKSv+FqJitZelZfGIDuUm1Ww7grPHjAend9nIPDMUGBmTy9RG8E1tPIsXQTNkRrTvjZKYazw46Km1odxifRX/0lN+zSbTVGwsUbABib+hjaNpPzr6HdVBhQuByIyNlCT/RyL/yub4gHFpLo=;zn2OTdy+OtsReuFb9U/Sgw=="
 ---
 

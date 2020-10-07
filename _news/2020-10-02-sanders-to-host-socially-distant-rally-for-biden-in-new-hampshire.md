@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-ham
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://images.wsj.net/im-238687/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Enough With Fraudulent Biden 'Town Halls'"
+    excerpt: "Beware the carefully scripted puffball \"town halls\" that have been organized by CNN and NBC to help Joe Biden's campaign. As Biden makes a virtue out of having tiny, underpopulated"
+    publishedDateTime: 2020-10-07T04:01:00Z
+    webUrl: "https://townhall.com/columnists/timgraham/2020/10/07/enough-with-fraudulent-biden-town-halls-n2577582"
+    ampWebUrl: "https://townhall.com/columnists/timgraham/2020/10/07/enough-with-fraudulent-biden-town-halls-n2577582?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/timgraham/2020/10/07/enough-with-fraudulent-biden-town-halls-n2577582?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters"
     excerpt: "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church"

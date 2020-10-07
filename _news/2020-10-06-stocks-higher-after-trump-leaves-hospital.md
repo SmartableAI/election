@@ -142,9 +142,9 @@ related:
         height: 742
         isCached: true
   - title: "Kamala Harris v Mike Pence: Why this vice-president debate matters"
-    excerpt: "Not usually considered a must-watch, this campaign's vice-presidential debate has taken on fresh importance after President Trump's coronavirus diagnosis."
+    excerpt: "This promises to be a vice-presidential debate like no other. Some have even called it the most important in history, since it comes as the US president is ill with Covid 19, a virus that's claimed 200,"
     publishedDateTime: 2020-10-06T16:29:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-54423497"
+    webUrl: "https://www.bbc.com/news/election-us-2020-54423497?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=EF61B15C-0847-11EB-A866-86004844363C&at_medium=custom7&at_custom2=twitter"
     ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54423497"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54423497"
     type: article
@@ -387,6 +387,22 @@ related:
     webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
     ampWebUrl: "https://amp.usatoday.com/amp/3630292001"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3630292001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "The prosecutor vs. the 'king of sound bites': Why the Harris-Pence debate is no ordinary VP faceoff"
+    excerpt: "Even before President Trump's hospitalization from COVID-19, there were many reasons why the vice presidential debate could draw more viewers than usual."
+    publishedDateTime: 2020-10-06T19:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/mike-pence-kamala-harris-debate-prosecutor-king-sound-bites/5878293002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5878293002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5878293002"
     type: article
     provider:
       name: USA Today

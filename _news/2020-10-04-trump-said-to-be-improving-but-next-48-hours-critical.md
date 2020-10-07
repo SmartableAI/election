@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -93,6 +93,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Reports 'No Symptoms,' Returns to Downplaying Virus"
+    excerpt: "President Donald Trump is said by his doctor to be making progress in his recovery from COVID-19 — and the president tweets that he's eager to get back on the campaign trail."
+    publishedDateTime: 2020-10-07T04:32:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "exLJjzUyD4s5pNdXrkjsISCIzyzFXxGCaC81tpxO5zTlc3H0ekDP+ee5DmKSEkHSNgQ5wAnJZIGqNAbBesn/v7HrtEE+QzZ7sg7gx+VMJvj6OTbCFA2HOSTeQcLCwJJs4vwzXCWcGSMosFNvhV/23tEB/e5e5sMP6IgkiMTBmBuf8iInJRjny1h8g0UBD6U5puQJ2/PZyQn15hIvyTFu4Z6VslFkPU0Kb5MGG7RdCBvTOtxjl4kDbzQjklpGtJXt5tKJQaONYlv0fl1maB1/F++SA5VheaAkTGmCdibB8XJGykwyaUihG8zywLs27SZayCo9/aO8LIoC78IjjzH4sVtN9DUvSW8VkgFSphYaTV8=;0vXqtYpfbkLLLbcokTJW3g=="
 ---

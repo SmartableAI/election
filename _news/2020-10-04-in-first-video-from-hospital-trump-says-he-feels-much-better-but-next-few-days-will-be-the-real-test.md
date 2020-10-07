@@ -93,6 +93,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump Reports 'No Symptoms,' Returns to Downplaying Virus"
+    excerpt: "President Donald Trump is said by his doctor to be making progress in his recovery from COVID-19 — and the president tweets that he's eager to get back on the campaign trail."
+    publishedDateTime: 2020-10-07T04:32:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "TlKVCu8mRyOpnZG/fZj+l/RiOqC2tTjPJzEBrjrfze3LK3nBnTPL3CtCJaQMaMRbgKzZrmnvsrErVot6jxtT+b8UmUqSj/W/pbIgdkdLm8HWz8siE8I5XEEgEvYzNZHCKc6vbc0LBnukeH5LyV4lrU29e6/Jc+lFkTcl6R+NChh9dAUtCGkbp7Qzw6lz+9eVOhj3nP1Pl1iQ+rsRZLDq/Kd+EFduNN0aYP57uuUkyjs0fvJMObMTfbPb3dD+lwNv9Afsadf02zeR31pSqnjVK5AAgY4Lv8MB7jgICywGjMAY0+NtKt4sIwObT+w+t6gAsMXXi6hF2t0nstgaLERBu6VqEnjFVOQVGzkJNuhshDM=;3mIzlVKQlTP5KfydxpWpRA=="
 ---

@@ -767,6 +767,22 @@ related:
         width: 776
         height: 545
         isCached: true
+  - title: "Trump campaign's next steps unclear after White House return"
+    excerpt: "President Donald Trump’s return to the White House is poised to reshape the campaign’s final four weeks as aides debate how to move past an extraordinary setback while grappling with how to send an in"
+    publishedDateTime: 2020-10-07T07:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a265499689974a4f89a650926e29e1a6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's mercurial maze of COVID-19"
     excerpt: "Every American should be thrilled by the president’s recovery and completely bewildered by the head-spinning nature of it."
     publishedDateTime: 2020-10-06T21:30:00Z
@@ -1006,6 +1022,22 @@ related:
       - url: "https://i.insider.com/5f79f55b2400440019129dc3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Judge rules against Trump campaign in New Jersey lawsuit over counting ballots"
+    excerpt: "A federal judge denied the campaign's motion for a preliminary injunction halting two New Jersey election rules."
+    publishedDateTime: 2020-10-07T06:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/election-2020-trump-campaign-ruled-against-in-ballot-counting-lawsuit/5902285002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5902285002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5902285002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/31/PNJM/284dd463-8af7-4ae5-a440-d2adf017a73f-AP20091840255665.jpg?auto=webp&crop=3718,2091,x1,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID"
     excerpt: "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result."
@@ -1678,6 +1710,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76d26c313d5c11f3e9d070%2F0x0.jpg%3FcropX1%3D51%26cropX2%3D831%26cropY1%3D0%26cropY2%3D439"
         width: 780
         height: 439
+        isCached: true
+  - title: "GOP lawmakers, Trump advisers broke ranks with the president after he decided to halt stimulus talks until after the election"
+    excerpt: "A Trump campaign adviser told Axios, \"You have to try to be this politically inept. What is going on in the White House? Where is Mark Meadows?\""
+    publishedDateTime: 2020-10-07T04:56:00Z
+    webUrl: "https://www.businessinsider.com/gop-lawmakers-trump-advisers-slam-trump-after-halting-stimulus-talks-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/gop-lawmakers-trump-advisers-slam-trump-after-halting-stimulus-talks-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-lawmakers-trump-advisers-slam-trump-after-halting-stimulus-talks-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5f7cf546282c500018c79040?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Masks still won't be required in the White House after Trump's COVID-19 diagnosis, official says"
     excerpt: "President Donald Trump has repeatedly flouted recommendations from top public health experts to wear a mask or face-covering."
@@ -2651,6 +2699,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Amanda Kloots Slams Donald Trump For Encouraging People To Not Be Afraid Of COVID"
+    excerpt: "Amanda Kloots was not happy with Donald Trump's post downplaying the pandemic and encouraging people to not be afraid of the coronavirus. Kloots called it hurtful and disgraceful because she lost her husband to COVID-19."
+    publishedDateTime: 2020-10-07T05:55:00Z
+    webUrl: "https://www.ibtimes.com/amanda-kloots-slams-donald-trump-encouraging-people-not-be-afraid-covid-3057938"
+    ampWebUrl: "https://www.ibtimes.com/amanda-kloots-slams-donald-trump-encouraging-people-not-be-afraid-covid-3057938?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/amanda-kloots-slams-donald-trump-encouraging-people-not-be-afraid-covid-3057938?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/06/amanda-kloots-nick-cordero.jpg"
+        width: 1024
+        height: 733
+        isCached: true
   - title: "Susan Collins Calls Trump Announcement on Stopping Stimulus Negotiations Until After Election ‘A Huge Mistake’"
     excerpt: "President Donald Trump's surprise announcement about stopping stimulus negotiations until after the election sent shockwaves through DC, and even concerned some Republicans."
     publishedDateTime: 2020-10-06T23:39:00Z
@@ -2910,6 +2974,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Stocks Drop After Trump Calls off Talks on Economic Stimulus"
+    excerpt: "Stocks dropped on Wall Street Tuesday after President Donald Trump ordered aides to stop negotiating with Democrats over another round of aid for the economy until after the election."
+    publishedDateTime: 2020-10-07T04:04:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-10-06/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-10-06/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-10-06/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Raw Story‘Mission Accomplished’: Trump ridiculed for premature commemorative coin celebrating him taking out COVID-19"
     excerpt: "The coronavirus is still raging across the United States, particularly in the White House, but that doesn’t mean that President Donald Trump isn’t ready for a “Mission Accomplished” moment. Like George W."
     publishedDateTime: 2020-10-05T00:44:00Z
