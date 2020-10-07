@@ -31,67 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump team thinks Nevada is in play. Is it?"
-    excerpt: "The Trump campaign has been hitting Nevada harder than ever this election season, and they seem certain the state might be President Trump’s for the taking this November. "
-    publishedDateTime: 2020-10-02T20:04:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/85pFVFkLklI/trump-team-thinks-nevada-is-in-play-is-it"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp"
+  - title: "Trump campaign cancels Ohio, Iowa TV ads amid optimism over swing state election chances"
+    excerpt: "“President Trump and his campaign are extremely confident about our chances in these states,” a Trump campaign spokeswoman said."
+    publishedDateTime: 2020-10-07T19:39:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7wRtyKXITsc/trump-cancels-ohio-iowa-tv-ads"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29bfe935-daa8-4470-8854-e86a54083904/73b2af23-e387-4c77-bfc9-a57bce52aa82/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ohio Dem backs Trump after history of feuds with her party"
+    excerpt: "Democratic Ohio state Rep. Bernadine Kennedy Kent endorsed President Trump on Tuesday after a history of feuding with Ohio Democrats."
+    publishedDateTime: 2020-09-30T15:30:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KlPJnhfEkQs/ohio-dem-backs-trump-after-history-party-feuds"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/donald-trump-nevada-2-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump nabs endorsement from major Nevada newspaper"
-    excerpt: "The Las Vegas Review-Journal endorsed President Trump’s reelection over the weekend. "
-    publishedDateTime: 2020-10-06T19:15:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3hK_Bi2r5UQ/las-vegas-review-journal-endorses-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/las-vegas-review-journal-endorses-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279850847067-1.jpg"
-        width: 4088
-        height: 2297
-        isCached: true
-  - title: "Wisconsin gov tells Trump to require masks at state rallies — or skip them"
-    excerpt: "Gov. Tony Evers suggested President Trump not come to Wisconsin for two campaign rallies this weekend, as the state struggles with record-breaking numbers of hospitalizations and new coronavirus cases."
-    publishedDateTime: 2020-09-30T20:16:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FfvgpRt-46w/wisconsin-governor-tony-evers-trump-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/wisconsin-governor-tony-evers-trump-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-governor-tony-evers-trump-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Donald Trump: America's Vindictive and Delusional Leader"
-    excerpt: "Although arrogant men have often occupied the Oval Office, the nation has never suffered a presidential ego quite so expansive as Donald Trump’s. In his mind, he is the state, his interests indistinguishable from those of the nation."
-    publishedDateTime: 2020-10-04T18:12:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/04/donald_trump_americas_vindictive_and_delusional_leader_525225.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/523120_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db4210bf-8b0d-46c7-9cdd-da299ddc0cdf/3d2bbdb7-c69a-4e2e-9c66-c483d52aa989/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "7jX+vedkMZZ3fNTBAsmUfiYPGde+vuqz6U0gnNFkq1n3CB1pFdzc76SbXVBbDuhY8DlxZGhr7QCVTNnVv6i2NmnDoH39K5QxycDzuHSIhnRKxOr/8Cc1l9rsrGDCB/upLKrUJ3h5gJkukSB/6US4MpQa7dVuuEr0+GAGpVD/kxR/k3hO/AlrtnDIkqVG3DTRVuzRjoHAhjP9qD3h+zT96FzvXP2q+92aAHbh/C6jbHwEDZKCFe3XbM1oztPU6+uSBMFCPjOv27lWiOZuQT1zZ9U821AezHBNf9MjP17Z0an6x1xmeg3JpQnWv+raz0HoTF01wpfUoxmWwt/79QHtOd7GQFWFYM9TmrIL9h5HC9g=;NRhrqzE01wUpY+fQn2fpoA=="

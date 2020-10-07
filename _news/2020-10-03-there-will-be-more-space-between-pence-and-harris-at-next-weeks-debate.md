@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html"
 type: article
 quality: 210
-heat: 850
+heat: 870
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417889/201006-vp-debate-everything-know-main-cover-cs_4c3712a0043ec4dad00335f2647e93c0.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Mike Pence and Kamala Harris reflect America's demographic transformation"
+    excerpt: "The two vice presidential contenders who will share the stage Wednesday embody an evolution in the country over the last half-century."
+    publishedDateTime: 2020-10-07T19:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/mike-pence-kamala-harris-reflect-america-s-demographic-transformation-n1242434"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242434"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242434"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 159
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418229/201007-harris-pence-2up-2x1-jm-1333_45efe9ff8de2d3219ddc9f1f564cac52.jpg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."

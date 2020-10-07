@@ -3478,6 +3478,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump hits the final sprint with an economy facing withdrawal"
+    excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."
+    publishedDateTime: 2020-10-07T19:20:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/trump-economy-withdrawal-427360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a4/b3/07014c8046ed9a88a87f549fbaa1/ap20280831002575-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Meadows says White House stimulus efforts ongoing amid Trump's back-and-forth"
     excerpt: "White House chief of staff Mark Meadows said Wednesday morning that he and Treasury Secretary Steven Mnuchin were actively considering a stimulus measure aimed at distributing checks to Americans while providing aid to airlines and small businesses — further muddling the administration’s messaging after President Donald Trump appeared to abruptly call off coronavirus relief talks a day earlier."
     publishedDateTime: 2020-10-07T14:23:00Z

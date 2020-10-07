@@ -284,6 +284,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Mike Pence and Kamala Harris reflect America's demographic transformation"
+    excerpt: "The two vice presidential contenders who will share the stage Wednesday embody an evolution in the country over the last half-century."
+    publishedDateTime: 2020-10-07T19:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/mike-pence-kamala-harris-reflect-america-s-demographic-transformation-n1242434"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242434"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242434"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 159
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418229/201007-harris-pence-2up-2x1-jm-1333_45efe9ff8de2d3219ddc9f1f564cac52.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
     publishedDateTime: 2020-10-02T00:08:00Z
@@ -528,6 +544,6 @@ related:
       domain: thedailybeast.com
     quality: 63
 
-secured: "DpvVZI/kOMJ24OPqH0RvD4uxOM8gN1KVPg+ll7TUpp+gxOe7BzWrryAnDlsn5IZ1abA7X7v5goqiH6ZYW/ssKVh7M2wd37mAQotanWx9APpj0xH5GvzFFy/CRXRURZeCd2ZCvfZHlWaz8sVzRWzWkPwmZtFJSa49GjwVhAp/rJyYE5Du2kbzJZ+XYobIrqqpz0Stzi5HZiGb3mcOQAZymV+Iizp9+JFla2PMp6XvYMCOTDwrdpV8t+AWC22tNSTv6cuyIiw0PcTlYrsLZywb5wVbxrEMRzJ00drYKOaxkeiiYJPbvhyeT+6b+6yO/PekoZYb8psUU+qMsdQ6OUTY7+bCWEgQjZYpC1y4fdeSU/Q=;N/7N8v9PwcTS+goTgZ3SUQ=="
+secured: "n+5qO5m14NplFHPeY6aE5/TLd7ketjL7lwPzQIDK9By/uA4sUw7u15yJRXlaL9QcGBD30NXn3KF0RUJu7RDQxIMIop8sr8Ol7D7l4ncZV+5k+tnpiQZsasn5qpatAN/Jr130sFx6YhKoeWsmFWVBvjNHtBH9M+Wi/CG2odn9DETiKA2jdx5SLju/DeBVGbyKhjSVl66HFsnyZ1w+vjufYzCi/A1GHs8RdakVSU4wP42kmNEwm7M//mWpWG0engnzMiQYhLKzWU5AS5N10w2T12xmFE1l5WSVKZsgLeQenbNuwjmaX4bDqUSL/9iO0rR4ME/psDaJznpaDXw5+oj/NjVweuQg3c/6LWwAGcnt+3AcrLN0QEZRiv3/fTr1bXlrH1VzSu1Ne4NRHB7a5DvHmvQsiiU9vVIHF2qiYrIPX6eiwg6rVl2C82ZTaCwxwNSmPLLtGpPDcibuhUxMmuofrMJ2EuH5rfUnPQNBAmRig77Bk5e9tAWfCQrqSXdws5W9PuwCdXrbaY5StpWxkG12Iw==;M/eoaXIfEl2VK9+BbaDXPA=="
 ---
 

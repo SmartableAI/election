@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
 type: article
 quality: 178
-heat: 618
+heat: 638
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/06/reader-center/05trump-virus-hp-promo/05trump-virus-hp-promo-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The Times Endorses Joe Biden, and Readers Applaud"
+    excerpt: "I want to thank The Times for this thoughtful and accurate assessment of the candidate and the broader context of this race,” a reader writes."
+    publishedDateTime: 2020-10-07T19:10:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/opinion/letters/joe-biden-nyt-endorsement.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/opinion/letters/joe-biden-nyt-endorsement.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/opinion/letters/joe-biden-nyt-endorsement.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/06/us/politics/06biden02/06biden02-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Dr. Fauci contradicts Trump's false claim that Covid-19 is as deadly as flu"
     excerpt: "\"It is not correct to say it's the same as flu,\" the government's top infectious disease experts told NBC News' Kate Snow."

@@ -1660,6 +1660,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Experts: Trump should rest more after COVID"
+    excerpt: "Two Houston doctors that have treated hundreds of people suffering from COVID-19 say they'd keep a patient with President Donald Trump's age and physiology in the hospital for at least a week. (Oct. 7"
+    publishedDateTime: 2020-10-07T19:10:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/experts-trump-should-rest-more-after-covid/5913775002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/707c0300-57bf-4595-a4fe-0fe95243102b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
     excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
     publishedDateTime: 2020-10-04T15:57:00Z
@@ -1833,6 +1847,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Coverage: VP Mike Pence, Kamala Harris Square Off in Debate"
+    excerpt: "Vice President Mike Pence faces off with Democratic vice presidential nominee Sen. Kamala Harris Wednesday night in the only vice presidential debate of the 2020 election. Follow our live coverage here starting at 9 p."
+    publishedDateTime: 2020-10-07T18:41:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/live-coverage-mike-pence-kamala-harris-vp-debate/2656992/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/live-coverage-mike-pence-kamala-harris-vp-debate/2656992/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/live-coverage-mike-pence-kamala-harris-vp-debate/2656992/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 100
+    images:
+      - url: "https://media.nbcnewyork.com/2020/10/Vice-Presidential-Debate.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "TV tonight: Mike Pence, Kamala Harris square off in VP debate"
+    excerpt: "Last week, the presidential candidates — Donald Trump and Joe Biden — went at it in an ugly showdown that was described as a “hot mess,” among other things. Tonight, Republican Mike Pence and Democrat Kamala Harris get their turn in their lone meeting at the University of Utah in Salt Lake City."
+    publishedDateTime: 2020-10-07T18:12:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/07/tv-tonight-mike-pence-kamala-harris-square-off-in-vp-debate/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/07/tv-tonight-mike-pence-kamala-harris-square-off-in-vp-debate/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/tv-tonight-mike-pence-kamala-harris-square-off-in-vp-debate/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 100
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_70dd3658a4d2eb9ef428f24c9e71719f-h_ebc103cbe12a1add9a23b31dd1f56886.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Mike Pence, Kamala Harris to square off in only vice presidential debate"
     excerpt: "Sen. Kamala Harris and Vice President Mike Pence are preparing for their only debate Wednesday night, which will be staged with expanded COVID-19 safety precautions days after President Donald Trump tested positive."
     publishedDateTime: 2020-10-07T13:32:00Z
@@ -1894,6 +1940,22 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/2020-09-28T194007Z_595349806_RC2V7J9A8LUP_RTRMADP_3_USA-ELECTION-HARRIS.JPG"
         width: 1200
         height: 837
+        isCached: true
+  - title: "Kamala Harris, Mike Pence to Take Center Stage for Highly Anticipated VP Debate"
+    excerpt: "What a difference eight days makes. Just last week the nation settled in for the first televised debate between President Donald Trump and Democratic challenger Joe Biden. Before the dust from that contest had a chance to settle Trump revealed he’s contracted COVID-19 and a small platoon of his inner circle have since come forward to reveal they’ve contracted the disease as well."
+    publishedDateTime: 2020-10-07T19:27:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/kamala-harris-mike-pence-to-take-center-stage-during-highly-anticipated-vp-debate/2657043/"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/kamala-harris-mike-pence-to-take-center-stage-during-highly-anticipated-vp-debate/2657043/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/kamala-harris-mike-pence-to-take-center-stage-during-highly-anticipated-vp-debate/2657043/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 96
+    images:
+      - url: "https://media.nbcnewyork.com/2020/09/pence-harris.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How Vice President Mike Pence and Sen. Kamala Harris stack up against each other"
     excerpt: "Here's how Vice President Mike Pence stacks up against Sen. Kamala Harris. The two go head-to-head in the Wednesday, Oct. 7 vice presidential debate."
@@ -3056,6 +3118,20 @@ related:
       - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The vice presidential debate between Mike Pence, Kamala Harris is tonight. Here's how to watch"
+    excerpt: "Vice President Mike Pence and vice-presidential nominee Kamala Harris will face off in a debate tonight after a \"chaotic\" first presidential debate last week. USA Today's Washington bureau chief Susan Page will moderate."
+    publishedDateTime: 2020-10-07T19:20:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/election2020/article/The-vice-presidential-debate-between-Kamala-15627788.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 68
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/44/52/20073095/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Vice President Mike Pence comments on President Trump’s positive coronavirus test"
     excerpt: "(NEXSTAR) – Vice President Mike Pence tweeted a brief statement in response to the news late Thursday that President Donald Trump and First Lady Melania Trump have tested positive for the ..."

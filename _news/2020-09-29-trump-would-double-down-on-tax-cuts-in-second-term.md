@@ -417,7 +417,7 @@ related:
   - title: "Former NSA Head Michael Hayden Endorses Biden: He's A Good Man, Donald Trump Is Not"
     excerpt: "Retired Gen. Michael Hayden, who served as director of both the CIA and the NSA during the Bush and Obama administrations, appears in this ad from the \"Republican Voters Against Trump\" group to endorse Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-07T12:54:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html"
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA"
     type: article
     provider:
       name: RealClearPolitics

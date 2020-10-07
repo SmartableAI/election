@@ -428,6 +428,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "President Trump returns to the Oval Office for the first time since COVID care"
+    excerpt: ""
+    publishedDateTime: 2020-10-07T19:44:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dDuHLPZ-OAI/president-trump-returns-to-the-oval-office-for-the-first-time-since-covid-care"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-returns-to-the-oval-office-for-the-first-time-since-covid-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-returns-to-the-oval-office-for-the-first-time-since-covid-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "Meadows says he believes Harris will be active in Barrett hearings: 'I think we'll see more of Kamala'"
     excerpt: "White House Chief of Staff Mark Meadows said during a discussion about the Amy Coney Barrett Supreme Court confirmation process Thursday that he expects Democratic vice-presidential nominee Kamala Harris, who is also a senator on the Judiciary Committee, to play a visible role in what will likely be"
     publishedDateTime: 2020-10-01T17:21:30Z
@@ -603,6 +619,22 @@ related:
       - url: "https://images.wsj.net/im-240874/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Ed Rollins: VP debate –Harris, Pence faceoff in Utah and America should look to hear this one word"
+    excerpt: "It is not unrealistic to think that Pence or Harris could be America’s president in the not-too-distant future"
+    publishedDateTime: 2020-10-07T18:12:00Z
+    webUrl: "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins"
+    ampWebUrl: "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9237c49-0e3b-44b1-852b-13637dd6bd4a/fa189495-4350-42bd-a9f1-b6601bcdc060/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "WSJ Opinion: The Trump Ticket Needs a Dose of Mike Pence"
     excerpt: "Main Street: Wednesday night's prime-time face-off between Mike Pence and Kamala Harris could be the most consequential vice-presidential debate ever. Images: A"
@@ -782,6 +814,22 @@ related:
       - url: "https://assets.realclear.com/images/52/521211.jpg"
         width: 2300
         height: 1597
+        isCached: true
+  - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
+    excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"
+    publishedDateTime: 2020-10-07T18:15:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/07/flashback-heres-how-kamala-harris-has-proven-time-and-again-she-is-a-radical-leftist-n2577628"
+    ampWebUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/07/flashback-heres-how-kamala-harris-has-proven-time-and-again-she-is-a-radical-leftist-n2577628?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/07/flashback-heres-how-kamala-harris-has-proven-time-and-again-she-is-a-radical-leftist-n2577628?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 77
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "The Day Covid-19 Came to Donald Trump's White House"
     excerpt: "Donald Trump’s calendar for October 1 showed a typical day for the president: time for tweeting in the morning, and a trip to his Bedminster, New Jersey, golf course in the afternoon to raise money for his cash-strapped re-election campaign."

@@ -31,99 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Pennsylvania sheriff, lifelong Dem, decides to back Trump amid unrest"
-    excerpt: "A Pennsylvania sheriff switched from Democrat to Republican amid unrest."
-    publishedDateTime: 2020-09-26T16:21:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp"
+  - title: "Trump campaign cancels Ohio, Iowa TV ads amid optimism over swing state election chances"
+    excerpt: "“President Trump and his campaign are extremely confident about our chances in these states,” a Trump campaign spokeswoman said."
+    publishedDateTime: 2020-10-07T19:39:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7wRtyKXITsc/trump-cancels-ohio-iowa-tv-ads"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 181
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29bfe935-daa8-4470-8854-e86a54083904/73b2af23-e387-4c77-bfc9-a57bce52aa82/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump heads to Pennsylvania for the second time in a week: What's at stake"
-    excerpt: "President Trump is in Pennsylvania on Saturday for the second time in a week, in an effort to court some of the same rural and White working-class voters who supported him four years ago."
-    publishedDateTime: 2020-09-26T14:24:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iMO1_9FnhnU/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-heads-to-pennsylvania-for-the-second-time-this-week-whats-at-stake.amp"
+  - title: "NJ federal judge rejects Trump campaign's challenge to state's mail-in voting plans"
+    excerpt: "A New Jersey federal judge shot down the Trump campaign's attempt to halt the state's new mail-in voting rules, including one that allows ballots to be counted two days after Election Day even if they do not have a postmark."
+    publishedDateTime: 2020-10-07T11:51:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tWUYluzWV6w/new-jersey-federal-judge-rejects-trump-campaign-challenge-mail-in-voting-plans"
+    ampWebUrl: "https://www.foxnews.com/politics/new-jersey-federal-judge-rejects-trump-campaign-challenge-mail-in-voting-plans.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-federal-judge-rejects-trump-campaign-challenge-mail-in-voting-plans.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/Trump-PA-AP-2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
-    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button.\" "
-    publishedDateTime: 2020-10-01T18:41:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/97AE_d__ZEU/trump-debate-change-mute-button"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Dem 'Squad' accuses Twitter of shielding Trump from hate-tweets after dismissing attacks on them"
-    excerpt: "Democratic Reps. Rashida Tlaib and Alexandria Ocasio-Cortez are complaining that Twitter has gone the extra mile to shield President Trump from tweets wishing him harm or death after the platform failed to protect others. "
-    publishedDateTime: 2020-10-03T15:29:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8j34q_yq790/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them"
-    ampWebUrl: "https://www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/squad-members-rip-twitter-for-banning-death-threats-against-trump-after-ignoring-threats-against-them.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pennsylvania Republicans push back after report alleges plan to circumvent popular vote and appoint Trump electors"
-    excerpt: "Top Republicans in Pennsylvania are pushing back after a report by The Atlantic alleged that they are planning to potentially have the state legislature disregard the popular vote and appoint electors for the state in the case that election returns are disputed or delayed, saying the report took their"
-    publishedDateTime: 2020-09-28T19:47:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/14tVlDr-r7o/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-republicans-report-alleges-plan-to-circumvent-popular-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
-    excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button."
-    publishedDateTime: 2020-10-01T18:50:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-debate-change-mute-button.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cb5cdf00-5b6d-4af6-b264-c0ff6017ed79/c9002694-65a4-4cc7-8db6-e863b64a048b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f649ad1a-9ba6-44cd-970c-48bc9d126fa8/348cd761-0cad-4fa4-aad8-207aba59edf8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

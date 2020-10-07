@@ -148,6 +148,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
+  - title: "President Trump, who is infected with coronavirus, has tweeted 120 times since being released from the hospital Monday night"
+    excerpt: "Trump's tweets have included attacks on Joe Biden, praise for the economy, a push for a focus on the Supreme Court, and allegations of voter fraud."
+    publishedDateTime: 2020-10-07T19:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
     excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
     publishedDateTime: 2020-09-28T21:17:00Z

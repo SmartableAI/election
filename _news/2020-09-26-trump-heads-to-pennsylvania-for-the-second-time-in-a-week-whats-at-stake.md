@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Ohio Dem backs Trump after history of feuds with her party"
-    excerpt: "Democratic Ohio state Rep. Bernadine Kennedy Kent endorsed President Trump on Tuesday after a history of feuding with Ohio Democrats."
-    publishedDateTime: 2020-09-30T15:30:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KlPJnhfEkQs/ohio-dem-backs-trump-after-history-party-feuds"
-    ampWebUrl: "https://www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db4210bf-8b0d-46c7-9cdd-da299ddc0cdf/3d2bbdb7-c69a-4e2e-9c66-c483d52aa989/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
     excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button.\" "
     publishedDateTime: 2020-10-01T18:41:44Z

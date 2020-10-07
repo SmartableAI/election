@@ -3,8 +3,8 @@ category: news
 title: "Former NSA Head Michael Hayden Endorses Biden: He's A Good Man, Donald Trump Is Not"
 excerpt: "Retired Gen. Michael Hayden, who served as director of both the CIA and the NSA during the Bush and Obama administrations, appears in this ad from the \"Republican Voters Against Trump\" group to endorse Democratic nominee Joe Biden."
 publishedDateTime: 2020-10-07T12:54:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA"
 type: article
 quality: 74
 heat: -1
@@ -450,6 +450,6 @@ related:
         height: 720
         isCached: true
 
-secured: "+DtMYybWAgyna6MC32D58txmyj658d6G3KAoi8P77Rfrb58QCzRcrJjLakmWT3C8lU4hcsGV4Sc0DUKVXvjPpOVYH0tafn7Fs0txALCG0ZRZlBuldkcbXGei3wXk5Rxgsf8gBdIKQtf90BD+Zsbaoy4cZXakDzcxlFghpgjMLLTF+adrTncFQRr0fdcVto5Go3Y6r4JUa/82GhF5AugPw8fjS1DuHRf5isiJH5bQBsL3In3IJ5+48B1mhTrnJiDHlAKTHg3rGLlSE7bOn/ah36Rc7Q8UjjRxNXmPjfAHZ9OfRjJTH59kRXdKLtLr15g5n5VDPDbAnapmORpR5cRSPOfR5p6cvSW/SJZOfwpLL8uK1RZPfjdmHNuJoCnfZeyE2LCoJ4V9tZoHxce8vxtOkp/5sG+XE5Alz9SQjcTIfkzdIvJmY0ZR+pIGvg58xP8HKWSvexgxoAIQkvs2geHRHLu9Sa6O2l/Jh8XLGjpfRT5PFN98RAWNOEYL8yaLrCy0K0OgAgbmD87poh8Ev6RT2A==;kNoKuxmCAyrk5T1tXFx8zw=="
+secured: "V+kH4/G2CiaikmAMAmG6bImUJyr8hUJhzuBme4dJiD9kbTQiUgWCONiLyuUvuIo19ZkdQYL+8+eE8hP6/LIMzJofHK9v3/qLjs0pi/oApb3Lw7WCo8gc3/vK0jnFlzm8yVVvLBAl+H0gTgY7XhFq6N/QPMzpcI7e0KrT4QH3tM4ec9y37V+nrCZb+dHe7WGsrqzGXq0fB90FgrotlZ+Gmg9sBmc9LaONh5z47Ki/01E1579vjuKAfMkkhAb7npfC/8agjDvhbzyu/l3ClB0ovvRf4iVVzOW38YUmMZs25Y+szGd8nt86mXOQjDGCw/ZqMm14mctrdQM9qOgFOxZRGhxIXlr3vOo0XWRABdYicBQ=;dYI0RTnNwmDhwdvGW89D8A=="
 ---
 

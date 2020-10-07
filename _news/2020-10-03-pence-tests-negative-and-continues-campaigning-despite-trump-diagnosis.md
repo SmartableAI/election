@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
 type: article
 quality: 200
-heat: 4900
+heat: 4920
 published: true
 
 provider:
@@ -3475,6 +3475,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/fc/db/81b47a084faaac9796b3dad22075/201006-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump hits the final sprint with an economy facing withdrawal"
+    excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."
+    publishedDateTime: 2020-10-07T19:20:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/trump-economy-withdrawal-427360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a4/b3/07014c8046ed9a88a87f549fbaa1/ap20280831002575-1.jpg"
         width: 1160
         height: 773
         isCached: true

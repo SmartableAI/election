@@ -1513,6 +1513,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Where COVID-19 stimulus relief bill stands after Trump, and what it means for you: FAQs"
+    excerpt: "Negotiations collapsed Tuesday after Trump tweeted that he wanted to wait until after the election to move forward on COVID-19 relief talks."
+    publishedDateTime: 2020-10-07T18:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/07/covid-19-stimulus-faqs-where-stands-and-what-means-you/5908019002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5908019002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5908019002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
     excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."
     publishedDateTime: 2020-10-02T07:42:00Z

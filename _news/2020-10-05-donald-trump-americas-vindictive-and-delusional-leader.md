@@ -74,22 +74,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "NJ federal judge rejects Trump campaign's challenge to state's mail-in voting plans"
-    excerpt: "A New Jersey federal judge shot down the Trump campaign's attempt to halt the state's new mail-in voting rules, including one that allows ballots to be counted two days after Election Day even if they do not have a postmark."
-    publishedDateTime: 2020-10-07T11:51:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tWUYluzWV6w/new-jersey-federal-judge-rejects-trump-campaign-challenge-mail-in-voting-plans"
-    ampWebUrl: "https://www.foxnews.com/politics/new-jersey-federal-judge-rejects-trump-campaign-challenge-mail-in-voting-plans.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-federal-judge-rejects-trump-campaign-challenge-mail-in-voting-plans.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f649ad1a-9ba6-44cd-970c-48bc9d126fa8/348cd761-0cad-4fa4-aad8-207aba59edf8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "lftCjCaTJIMKZe9dQOJmCfOhFSo8NWjyQZ+mYIIZfi2qnRx82WLx8ysZtBjxJsf0vFp8E877qoP/x6m/HVfOqEPGTNahQPl1RM+/KTE0uYguuBp2BIdhvJLWz+zX50QzPpvTmJfLae2IEJhXxTaJzTe8u16mfCXUiRJwMgm1KKwc4CfIqsMZVoqttiNGM8DfSzx357Whu2HXwBRdJrnZxx25ILbBbSbDeDPlb2cbRz/Rdj1CcHiPFZoFg+nCCxf3NzT1TRgK1PwAo89iyjEmpn8i8RdkIlSpWQxpZqJUPdldYQuZaHOAOSGfKcHHOpLP/z7d0lkGgY1EZgE+EK2dU13KU7TtWgcRJdCBoTjx4TqJ5Bo1skBKhajxowuO3AuYlJJgMWI05yx/uxA4MsqFRRrz1xh+ffvu63Uf1UJd9EQQp+TtrFrGLq16sXhoR5BcpMni6rsgcyoHby0wjl7ceraos90o/sgKtvhRMI7fJPUJ/+sRwBgnTdIztwF3U0ta4yxk06Ig3U6uYP14TtGntg==;oWpTjmKqJ0iAOmIJgkLZ6Q=="
 ---

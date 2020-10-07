@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "‘I Feel Great’: Trump Symptom-Free Doctor Says, But Offers Few Details"
+    excerpt: "President Donald Trump has not suffered from coronavirus symptoms for more than 24 hours, White House Physician Sean Conley wrote in a brief update Wednesday, though Conley and the president’s other doctors have not stood for a press conference or offered more details about the timeline of Trump’s infection since he ended his three-day hospital stay on Monday."
+    publishedDateTime: 2020-10-07T18:44:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/10/07/i-feel-great-trump-symptom-free-doctor-says-but-offers-few-details/"
+    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/10/07/i-feel-great-trump-symptom-free-doctor-says-but-offers-few-details/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/10/07/i-feel-great-trump-symptom-free-doctor-says-but-offers-few-details/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e02f4787db26711e608b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D382%26cropY2%3D3514"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "I’m aspiring to be anti-racist and patriotic. You can be both, President Trump."
     excerpt: "Trump thinks racial sensitivity trainings teach people to hate America and make white people feel guilt and anguish. I must have missed that part."
     publishedDateTime: 2020-10-06T09:22:00Z

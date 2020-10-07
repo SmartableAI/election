@@ -2,6 +2,113 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-05-australia-shares-jump-2-on-jobs-stimulus-trumps-health-progress.md",
+      "title": "Australia shares jump 2% on jobs stimulus, Trump's health progress",
+      "excerpt": "Australian shares rose more than 2% on Monday after the government announced plans to earmark additional wage subsidies to help spur employment, and as investors continued to hope for a swifter recovery of U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
+      "originalUrl": "https://www.reuters.com/article/australia-stocks-midday-idINL4N2GW009",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536144713&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930VV",
+          "width": 807,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINL4N2GW009",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL4N2GW009",
+      "publishedDateTime": "2020-10-04T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-russians-have-committed-to-not-interfering-in-elections-trump-aide-insists.md",
+      "title": "Russians ‘Have Committed’ to Not Interfering in Elections, Trump Aide Insists",
+      "excerpt": "Robert C. O’Brien, the national security adviser, said he warned his Russian counterpart there would be “no tolerance” for interference, but didn’t mention evidence of Moscow’s influence operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/us/04dc-russia-foto/04dc-russia-foto-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
+      "publishedDateTime": "2020-10-04T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-with-trump-hospitalized-vp-mike-pence-will-visit-arizona-for-a-thursday-rally-campaign-says.md",
       "title": "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says",
       "excerpt": "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign.",
@@ -10,7 +117,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 439,
+      "heat": 459,
       "tags": null,
       "images": [
         {
@@ -118,7 +225,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1261,7 +1368,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4695,
+      "heat": 4795,
       "tags": null,
       "images": [
         {
@@ -1446,99 +1553,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-sen-chuck-grassley-id-be-very-concerned-about-how-donald-trumps-tax-returns-got-out.md",
-      "title": "Sen. Chuck Grassley: 'I'd be very concerned' about how Donald Trump's tax returns got out",
-      "excerpt": "Asked about the substance of the New York Times' reporting that Trump paid $750 in income tax in 2016 and 2017, Grassley said he doesn't have enough evidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2018/09/17/PDEM/80644d4b-a019-4ee7-a6b1-39785f7db425-grassley.jpg?auto=webp&crop=5999,3360,x0,y39&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5874449002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002",
-      "publishedDateTime": "2020-09-30T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-livestream-donald-trump-rallies-in-duluth-minnesota-wednesday.md",
-      "title": "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday",
-      "excerpt": "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\"",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday",
-      "originalUrl": "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/22887410/20200930/125243/styles/patch_image/public/gettyimages-979770508___30125124036.jpg?width=984",
-          "width": 984,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
-      "publishedDateTime": "2020-09-30T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

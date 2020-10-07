@@ -59,6 +59,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden pulls off a big speech at a sacred location"
+    excerpt: "The Democratic nominee is no Lincoln but, with Gettysburg as the backdrop, he delivers perhaps the best speech of his career."
+    publishedDateTime: 2020-10-07T18:45:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4SWWKPQIDMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
     excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
     publishedDateTime: 2020-10-06T11:02:00Z
@@ -91,6 +107,17 @@ related:
         width: 3771
         height: 2514
         isCached: true
+  - title: "Reuters/Ipsos Poll Shows Biden Leading Trump in Florida; Tied in Arizona"
+    excerpt: "Democratic presidential candidate Joe Biden appeared to lead President Donald Trump among likely voters in Florida and the two were locked in a tight race in Arizona, according to Reuters/Ipsos opinion polls released on Wednesday."
+    publishedDateTime: 2020-10-07T19:14:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-07/reuters-ipsos-poll-shows-biden-leading-trump-in-florida-tied-in-arizona"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-07/reuters-ipsos-poll-shows-biden-leading-trump-in-florida-tied-in-arizona?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-07/reuters-ipsos-poll-shows-biden-leading-trump-in-florida-tied-in-arizona?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
   - title: "Save the Children? Extremist conspiracy movement QAnon fabricates pedophile claims against Joe Biden as election looms"
     excerpt: "QAnon has hijacked the Save the Children movement to push baseless pedophilia claims against Joe Biden and other Democrats before the election."
     publishedDateTime: 2020-09-29T15:56:00Z
@@ -123,6 +150,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden Widens Lead Over President Trump in Florida, Pennsylvania, Poll Finds"
+    excerpt: "Democratic presidential nominee Joe Biden is widening his lead over President Donald Trump in the critical battleground states of Florida and Pennsylvania with less than a month until the election. A Quinnipiac University poll published Wednesday found that 51% of voters in Florida support the former vice president,"
+    publishedDateTime: 2020-10-07T19:42:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-07/joe-biden-widens-lead-over-president-trump-in-florida-pennsylvania-poll-finds"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-07/joe-biden-widens-lead-over-president-trump-in-florida-pennsylvania-poll-finds?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-07/joe-biden-widens-lead-over-president-trump-in-florida-pennsylvania-poll-finds?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 66
   - title: "Bloomberg's Florida vote-buying scheme: Electing Joe Biden is not an end that justifies dubious mean"
     excerpt: "By any means necessary” is a battle cry of the far left, coined by a Marxist philosopher on the Caribbean island of Martinique in 1960."
     publishedDateTime: 2020-10-02T03:20:00Z

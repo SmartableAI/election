@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-fo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/ad2b6c6bc07ee8a1c8603135263f9c5f9afdd033/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddfef1d2d526de95827d109c891e36aa"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden's wife, Jill, pulls him back to be socially distant"
+    excerpt: "Former second lady Jill Biden pulled back her husband, Democratic presidential nominee Joe Biden, to socially distance from reporters on the tarmac in New Castle, Del., before departing for Miami on Oct."
+    publishedDateTime: 2020-10-07T18:58:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/joe-bidens-wife-jill-pulls-him-back-to-be-socially-distant/2020/10/07/be680e76-8aec-433c-9b74-6a6dbd57016d_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-07-2020/t_2ec76ecc923d4db1b6fa0dbd5a05337d_name_56ad741c_0722_11eb_8719_0df159d14794.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
   - title: "Joe Biden and his wife, Jill, paid nearly $300,000 in federal income taxes, newly released returns show"
     excerpt: "The release served as a contrast to President Trump, after new reports that he has paid minimal or no federal taxes in recent years."

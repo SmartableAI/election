@@ -3492,6 +3492,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump hits the final sprint with an economy facing withdrawal"
+    excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."
+    publishedDateTime: 2020-10-07T19:20:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/trump-economy-withdrawal-427360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a4/b3/07014c8046ed9a88a87f549fbaa1/ap20280831002575-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
     excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
     publishedDateTime: 2020-10-02T00:52:00Z
