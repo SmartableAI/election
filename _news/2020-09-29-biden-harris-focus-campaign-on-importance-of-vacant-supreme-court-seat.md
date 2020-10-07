@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence preps for debate as chances to shake up the race dwindle"
+    excerpt: "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n"
+    publishedDateTime: 2020-10-07T01:33:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Sen. Kamala Harris and VP Mike Pence 2020 debate preview"
     excerpt: "The 2020 vice presidential candidates’ debate, between Democratic candidate Sen. Kamala Harris and Republican incumbent Vice President Mike Pence, will see Pence having to defend the record of the Trump administration,"
     publishedDateTime: 2020-10-04T18:27:00Z

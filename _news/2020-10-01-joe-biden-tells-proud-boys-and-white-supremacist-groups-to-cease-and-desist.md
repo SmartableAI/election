@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
 webUrl: "https://www.bbc.com/news/av/world-us-canada-54363831"
 type: article
 quality: 102
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -27,6 +27,22 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "Biden to Proud Boys: 'Cease and desist'"
+    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
+    publishedDateTime: 2020-09-30T21:01:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "Jui4BADPcErDgoBJSV4KJUbEISqJZeo3StGpbbQH2Iug7ahYEJ73IfAaaYjqFNjSDhy9nSiiuw8Fy96zRrElu0FXsSrzlInyinTe/wIC6HiPhMJuIcKYNjJkTuhgBZL5lwN6vrnknmZwfr8dlnCEqVWbRxQQ99Rv28WFYou4Tlzzs7uVHaLiWIapQad3HUdeEgoI/gZEEJuAssG73EcHatiAgiiD5A24d/VM/B5ppvVPKncBSdIxNWMBbxo41buPX3nR6BmQLT8Ggbc6vB0iwRxD3a3rM7YqT75ZiY5wB6BnZyaNEXBrrq8NBoZGDdmM+XEt5QbmqscxhABNt41XsSUMINmeP87nF5vbsINKQyY=;6XgV9WRQQAPclee1Rp8Xow=="
 ---

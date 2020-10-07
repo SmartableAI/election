@@ -1631,6 +1631,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook just removed Trump's post falsely claiming that COVID-19 is less deadly than the flu"
+    excerpt: "President Donald Trump's post violated Facebook's rules on coronavirus misinformation, which bans false claims about the severity of COVID-19."
+    publishedDateTime: 2020-10-07T00:20:00Z
+    webUrl: "https://www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-removes-trump-post-covid-flu-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f7c8637282c500018c78d16?width=1200&format=jpeg"
+        width: 534
+        height: 267
+        isCached: true
   - title: "President Donald Trump's coronavirus infection draws international sympathy from Putin, Merkel"
     excerpt: "\"I am certain that your inherent vitality, good spirits and optimism will help you cope,\" said Russia President Vladimir Putin."
     publishedDateTime: 2020-10-02T10:43:00Z
@@ -1999,6 +2015,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Pelosi says Trump unwilling to crush virus"
+    excerpt: "House Speaker Nancy Pelosi says President Donald Trump is \"putting himself first at the expense of the country” by halting negotiations over a new coronavirus aid package from Congress. (Oct. 6)"
+    publishedDateTime: 2020-10-07T00:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/pelosi-says-trump-unwilling-crush-virus/5904781002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f9cbb198-9900-4acd-a51e-e64c6509118c_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The Latest: Trump's doctor says president has 'no symptoms'"
     excerpt: "The Latest on President Donald Trump's health after his COVID-19 diagnosis (all times local):"
     publishedDateTime: 2020-10-06T21:42:00Z
@@ -2868,6 +2898,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "After Stopping Negotiations, Trump Sets Off Confusion With Tweet Seemingly Agreeing With Fed Chair’s Call for Urgent Covid Relief"
+    excerpt: "President Donald Trump announced he's telling his people to stop covid relief stimulus negotiations after the election. This came hours after a serious warning from Fed Chair Jero"
+    publishedDateTime: 2020-10-07T00:29:00Z
+    webUrl: "https://www.mediaite.com/news/after-stopping-negotiations-trump-sets-off-confusion-with-tweet-seemingly-agreeing-with-fed-chairs-call-for-urgent-covid-relief/"
+    ampWebUrl: "https://www.mediaite.com/news/after-stopping-negotiations-trump-sets-off-confusion-with-tweet-seemingly-agreeing-with-fed-chairs-call-for-urgent-covid-relief/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/after-stopping-negotiations-trump-sets-off-confusion-with-tweet-seemingly-agreeing-with-fed-chairs-call-for-urgent-covid-relief/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 46
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Donald-Trump-via-Joshua-Roberts_Getty-Images.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "G0OBX4loeFtS17GHBD+IUH4X8jyf8iiOgoC2olaRTDdinK6cuzhr9umKKZU/cZv93Js+DNpuvLf34SyQbJL8zOHk17/woWTqeegFs0T77Bt5HtO0Dt9NQqlEswodN9QDGbCjVr8l723V0GgfxC2kKmA6a3GM2tUIbGkYjgS6SAKJbZFm1esc9moflh8SrYBfUl5+5cjZxywzaNoiPfLZUy8onga0tYQbPZB4WAeKlXaOkvhzvX0gPS98wAZuVP8QEFo+ZtaUiIwHVxghHXD+bNF6eWM731Mdd/Ds/pw6JUA/QTaODkqb+g+Ylfd0yV81pd6ZGZ3zpiNrUoWQiofOUWWWRcpy3MBwm14S+kB6SZE=;S/1bGvV/Sktyz3XQQZeKaw=="

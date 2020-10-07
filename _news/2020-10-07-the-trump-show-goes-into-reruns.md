@@ -478,6 +478,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Deroy Murdock: Yes, Joe Biden, President Trump has said many negative things about white supremacists"
+    excerpt: "Hate Trump, Inc. is using Trump’s missed opportunity at the presidential debate to claim that he's never condemned white supremacists."
+    publishedDateTime: 2020-10-07T01:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-trump-white-supremacists-deroy-murdock"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-trump-white-supremacists-deroy-murdock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-trump-white-supremacists-deroy-murdock.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Trump-and-HBCU-presidents-Feb-27-2017.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "'Disgusting': Joe Biden Tells His Tens of Followers About His Trump 'Death Blow' Fantasy"
     excerpt: "Joe Biden’s campaign said they would pull negative ads upon news that President Trump had tested positive for coronavirus and was being admitted to Walter Reed Medical Center. I mean,"
     publishedDateTime: 2020-10-05T20:25:00Z

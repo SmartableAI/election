@@ -208,6 +208,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden begins to pull away in Pennsylvania"
+    excerpt: "With 28 days till the election, Pennsylvania is looking further and further out of reach for President Donald Trump. Democratic presidential nominee Joe Biden is ahead by 12 percentage points among registered voters here,"
+    publishedDateTime: 2020-10-06T16:00:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d1/ff/e233f90e4037b175cd8ff9ab1fff/ap20280155144908-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Joe Biden campaigns in Miami ahead of NBC News town hall"
     excerpt: "A new NBC News/Wall Street Journal poll shows Joe Biden opening a 14-point lead on President Trump nationally, with the election less than a month away. Biden told reporters that he’d listen to scientists about the next debate after President Trump’s Covid-19 diagnosis."
     publishedDateTime: 2020-10-06T00:02:00Z

@@ -237,6 +237,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republican US Sen. Sullivan plans to vote for Trump"
+    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
+    publishedDateTime: 2020-10-06T23:45:00Z
+    webUrl: "https://www.chron.com/news/article/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "The Latest: Doctor Giving Trump Health Update Sunday Morning"
     excerpt: "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19."
     publishedDateTime: 2020-10-04T15:28:00Z
@@ -256,15 +272,6 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 35
-  - title: "Republican US Sen. Sullivan Plans to Vote for Trump"
-    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
-    publishedDateTime: 2020-10-06T23:47:00Z
-    webUrl: "https://www.usnews.com/news/best-states/alaska/articles/2020-10-06/republican-us-sen-sullivan-plans-to-vote-for-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
     quality: 35
 
 secured: "jsZhZM8GWwBD7yyJuLmg451JwLx6Z2Co4xpYqusPGVryD60TnAyBU+yeA7TEYgG2tXEJS+WeiqxZ2y/7bLZwvqzOJ4jy7gT955VrOUq2gx2porsJRX7kebii0qSGGPLXE6iVGeN4SMQ1cLqE1xuLAKp8QQE38TasrMNeTBytmFVn6P0UW6i+IH4bwATxviDbX2cpPFR4eaR4HESLSY9PZyx4O5MKTnHINrKZT5Re/qo4jvzCjuC/TV/nT2Y89/iabz+Ie/DTyLbQW2EGZyww5udOyJNcbrzZoa/SyRCVyOlmqXdHWKQt+9XX9ya8sauMicMWhFJpT5ntyjQCR36a89VvKxMTLIiGh3vSGk42Whk=;GxaCRa7k/ZFPzSbBmdyupA=="

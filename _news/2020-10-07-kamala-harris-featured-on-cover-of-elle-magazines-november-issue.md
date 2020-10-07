@@ -319,6 +319,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden Says Second Debate Should Be Canceled If Trump Still Has Covid"
+    excerpt: "The former vice president also praised the use of plexiglass for the vice presidential debate and urged strict adherence to the advice of experts."
+    publishedDateTime: 2020-10-07T01:08:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/biden-says-second-debate-should-be-canceled-if-trump-still-has-covid/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/biden-says-second-debate-should-be-canceled-if-trump-still-has-covid/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/06/biden-says-second-debate-should-be-canceled-if-trump-still-has-covid/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d03337ac3813717b7a822%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2141%26cropY1%3D75%26cropY2%3D1280"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Here are the recent times Trump, his kids and Pence have been in Arizona"
     excerpt: "In the weeks ahead of President Donald Trump's COVID-19 diagnosis, Trump, VP Mike Pence and members of their families made several stops in Arizona."
     publishedDateTime: 2020-10-04T21:14:00Z
@@ -808,6 +824,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/trump-fundraiser-hosted-qanon-supporters.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "It matters: Kamala Harris and the VP debate"
+    excerpt: "Like most Americans living through these troubled times, Harris knows what it’s like to struggle against hardship."
+    publishedDateTime: 2020-10-07T00:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/519621-it-matters-kamala-harris-and-the-vp-debate"
+    ampWebUrl: "https://thehill.com/opinion/campaign/519621-it-matters-kamala-harris-and-the-vp-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519621-it-matters-kamala-harris-and-the-vp-debate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_10022020_1.jpg"
+        width: 980
+        height: 552
         isCached: true
   - title: "Kamala Harris is on the cover of Elle magazine's November issue"
     excerpt: "Democratic Vice Presidential nominee Senator Kamala Harris is the former attorney general of California. She was the second Black woman to be elected to the U.S. Senate, and this year became the first Black vice presidential nominee."
@@ -2861,6 +2893,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "FLBL0O7E8AugvHAhV/Kcpzo6r0n+QWI27f5qEVlffUrUiHjBtvRm9ljoHdu3mB4egcmaA5ZMsUMgdgjuyiezF9Z04UeNuhKZQ+IonN1+votTvgE8k7IAUzkEV/M5t5GqRKuLmxvotvn5TQ4UR5DN2sQx0pZqiBl+NbfhmPlHB5g3rIwAvudmGKM4gc9TZ1DwoStCYTzCNXcij3htz05h5gDzkhlFKgu0fLjBrRswVAZcX0ifu2NGi9THFPg2ADr1yLTxhpLu4YWPon2XX2ScaFfQvzoEQ8HzbC3XxLwY9Rs9M6X3/FVFZX7IbLZw6WV0/9dALU6J5AStHByY6nDh8IzQqKhPcMTuMBcX0xI9Nmw=;cDQzJUAQkDOVnH0ixJiE3g=="
+secured: "KW/arMTBGw1CK+PgQPRMr7dwE11hfdRQ8xAS2H1CQ5aK0y4/nMT2KxMOHrWe8lXTK5Tzwt6rV+9PdC/70QiI+dxGve4VapuvKUrFDyehGdLPa65WwDJ/BfOO1LBhVkcLH+dsmaxwqCDLgBNpwt21WDwR3J0v/RxaiGn8uzHjGkIeRBYzIemgBGEg07bpR5RAG8XSR98DZz6LzPQDouNVwH7DqBNTqxci4uefhAU4rZTDwg7rPtJbZMuinSttWI4cl3bJRG4LxsyUluUtMEDZE/4QTibsn/KgNSHui5xGnIyLdw1vhdqtvieFK4bo8Rs61Z420dvmv4uD9wzwfWC+1Gr7pkJdJfHVsACXapNeKNABriNx/LIRpIu6LzargJWjbCqyZPll6fHfGes+jcEFh+e9Q1nSck3wm6nHa/AZ/NXXT2vOQnse1Cdu6kcxlYJ0jOQ6QEsX+fJr8Im4jgwNzVUwdGnrrR1AhcZwE7pIJAwny/wdBAeojqeysKLGBeCvrvY2WwtO/5qe8YNPyITx+w==;Cf6kManE6y0fkgPbAI3t7w=="
 ---
 

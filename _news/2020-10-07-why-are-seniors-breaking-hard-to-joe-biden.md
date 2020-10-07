@@ -152,6 +152,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Comments to Reporters on Future Debates"
+    excerpt: "Democratic presidential candidate speaks to reporters about the upcoming debates and says that if the president still has COVID-19, then they shouldn’t debate on October 15. Vice President Joe Biden was seen leaving after briefing the House Democratic Caucus on the nuclear agreement with Iran."
+    publishedDateTime: 2020-10-06T23:54:00Z
+    webUrl: "https://www.c-span.org/event/?476654/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "9D6YFLcRCyjgGsvtXSd/V8FmyLL14QIgFtqJBYgihsXVz3z/shWAvqp2FPAEf0H8uCK0qSP9FPnwQRy3dqo1VgmE8JL8mC2S0YzEPR84GqBm30HWrX0W7PxP3Z8OPf8bWf8Gg1WBnj6Ve2lqPby9bdLHVFaQhuCK2Wvinottd5r7SepdAabjxaguxTp6DcNrvGhr1rM3DL6vQXgYttuIYutRQzRJTAwtc2THM9bAHSZbNNMipx4Aqp7NP32oCUAdAWGoBepsd/Yvbuu7938yQilQNPf+JspHtvTjDJClu6ISILBK4mkbVJ28fdeJpS7sAnvahzSYhxrMICfWvbbj7nPcclBWx6kkP6KE9+jk/llEQFPH2CVyrBRSzy6IhJ1MXju8e7kfO1HuTTcLW44Am+GJQ5BWD22tWF/GmG1UKR6c0lrW3Cc3eUNFSGOuaUW4qCTiS2w6NQejEsUgbA19MnORAmVYWXrLZ9SRH9WwueiMTPTNjuLrZJLZ8ZWPvRb/KpDhQ9l7GVRmJf7UrdvksA==;F/3ZqPmWEL83eS89sZq/Ew=="
 ---

@@ -398,6 +398,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump senior adviser Stephen Miller tests positive for coronavirus"
+    excerpt: "Miller’s wife serves as communications director for Vice President Mike Pence and was helping prepare to Wednesday’s debate."
+    publishedDateTime: 2020-10-07T00:37:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zTtifOOcWew/trump-stephen-miller-positive-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-stephen-miller-positive-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-stephen-miller-positive-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d76d1f9e-7b68-442f-9e80-657fd5bab842/fe105a98-e775-4662-9dcf-692f2a5d6343/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "After Trump COVID diagnosis, Pentagon says alert levels remain unchanged"
     excerpt: "The U.S. military's command and control structure is 'in no way' affected by the news, DoD says."
     publishedDateTime: 2020-10-02T20:26:16Z
@@ -1317,6 +1333,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump, Covid and Reason"
+    excerpt: "A new statement by scientists explains how to live with the virus."
+    publishedDateTime: 2020-10-06T23:52:00Z
+    webUrl: "https://www.wsj.com/articles/trump-covid-and-reason-11602026102"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-covid-and-reason-11602026102"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-covid-and-reason-11602026102"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-241538/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ivana Trump says ex Donald’s COVID-19 diagnosis is ‘a very difficult time’"
     excerpt: "The president’s first wife said she’s “going to be afraid until he gets well and he gets out of it” — but she had no doubt about his reelection prospects."
     publishedDateTime: 2020-10-04T05:57:00Z
@@ -1459,6 +1491,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Mike Pence 'not a close contact' of anyone with COVID-19 seven days after meeting with Trump, doctor says"
+    excerpt: "Mike Pence's physician released a memo ahead of Wednesday night's debate saying the vice president \"is not a close contact with any individuals who have tested positive for COVID-19.\""
+    publishedDateTime: 2020-10-06T18:38:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/mike-pence-not-a-close-contact-of-anyone-with-covid-19-seven-days-after-meeting-with-trump-doctor-says"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/mike-pence-not-a-close-contact-of-anyone-with-covid-19-seven-days-after-meeting-with-trump-doctor-says?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/mike-pence-not-a-close-contact-of-anyone-with-covid-19-seven-days-after-meeting-with-trump-doctor-says?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 63
 
 secured: "+8uxyDyOJp6wL6PZLEsvLnOadb2vwfLPtABsOxFFKz32Rf2HhoJlxlbyoLBx2VhueHp1zkzVRenwhpU+Wgx1SpS6e7SoHpQAYJx78jKdHoPdMrEC4pP4EW5sgRIQgRrItnVBx8Nj+ZbTt4gX5qXYG7FmKVFrxcofnG5Rhw1k3nGnCT09M7yeA9mox+Ts2C9fgsbHRde2nIp5jr/BPfm8229h7Xnx/d9d4c9U0uYpZWkp+xhAkBDyUAMzz/4ilqDdorcs+bCqbV/bdwp8+zSOfsyiRMUva8rbGXriEYNV21Q64jlP3RtbZQg1SStmSNO2iNkzTIETNCf0joMQtXYRgtoZRj1LndUYV0F0eKTelcE=;K2iqJ2vqNV/8a3iJNGDjmw=="
 ---

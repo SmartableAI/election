@@ -2,6 +2,61 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-23-ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country.md",
+      "title": "Ilhan Omar fires back after Trump's rally attack: 'This is my country'",
+      "excerpt": "Rep. Ilhan Omar, D-Minn., fired back at President Trump on Tuesday night after he told a rally crowd she was lecturing Republicans on how to run the country and referenced her native Somalia. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-ANjCL0FfA/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-ANjCL0FfA/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe317574-1e0f-43c1-a413-32249f7ed940/70d82e25-4342-4ec2-8083-84d7bbc4c355/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-fires-back-after-trumps-rally-attack-this-is-my-country.amp",
+      "publishedDateTime": "2020-09-23T02:34:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-mcmaster-warns-trump-plays-into-putins-hands-with-warm-remarks-about-russian-president.md",
       "title": "McMaster warns Trump plays 'into Putin's hands' with warm remarks about Russian president",
       "excerpt": "President Trump should be harder on Russian President Vladimir Putin in his public statements, former National Security Adviser H.R. McMaster argued on \"The Story\" Tuesday.",
@@ -1549,61 +1604,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-mask-mandate-change-town-hall.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mask-mandate-change-town-hall.amp",
       "publishedDateTime": "2020-09-18T04:28:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-supporters-in-battleground-wisconsin-reveal-what-issues-matter-most-nearing-election.md",
-      "title": "Trump supporters in battleground Wisconsin reveal what issues matter most nearing election",
-      "excerpt": "Investigative Reporter Lawrence Jones spoke with Wisconsin voters about why they're voting for President Trump and what concerns them most.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E2JRNbMmlSw/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 240,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20262067371980.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/battleground-wisconsin-trump-supporters-reveal-what-issues-matter-most-nearing-election.amp",
-      "publishedDateTime": "2020-09-17T21:35:14-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

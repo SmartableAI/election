@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-v
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
 type: article
 quality: 140
-heat: 580
+heat: 600
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says October 15 presidential debate should not take place if Trump still has COVID"
+    excerpt: "Democratic presidential candidate Joe Biden said on Tuesday he and President Donald Trump should not have their scheduled debate on Oct. 15 if Trump still had the coronavirus infection at that time."
+    publishedDateTime: 2020-10-07T00:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-biden-idUSKBN26R3RF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R3RF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R3RF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536450412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9526S"
+        width: 841
+        height: 545
+        isCached: true
   - title: "Joe Biden in Michigan says he hopes first family recovers soon"
     excerpt: "Joe Biden wished President Trump and the first lady a speedy recovery from COVID-19 on Friday, speaking from the campaign trail in Michigan after his own campaign announced that Biden tested negative for the coronavirus."
     publishedDateTime: 2020-10-02T22:52:00Z

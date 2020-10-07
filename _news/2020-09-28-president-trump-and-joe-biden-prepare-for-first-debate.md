@@ -97,6 +97,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says there shouldn't be a second debate if Trump still has Covid-19"
+    excerpt: "Democratic presidential nominee Joe Biden said Tuesday that the second presidential debate should not be held if President Donald Trump is still infected with coronavirus, but that he would base his participation in the debate upon recommendations from medical experts.\n    \n"
+    publishedDateTime: 2020-10-07T01:01:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UmkhnQmjdEQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/joe-biden-second-debate-trump-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/joe-biden-second-debate-trump-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212326-18-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is trying to divide the left. He's actually uniting it behind Biden."
     excerpt: "When Joe Biden said on Tuesday night that he did not support the Green New Deal, President Donald Trump lit up.\n    \n"
     publishedDateTime: 2020-10-01T21:41:43Z

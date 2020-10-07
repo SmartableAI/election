@@ -750,6 +750,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pay attention to these headlines rather than Trump's anti-reality"
+    excerpt: "Pumped full of unapproved drugs not available to average Americans plus a steroid, President Donald Trump mounted the steps of the White House on Monday night, told Americans not to be afraid of Covid-19 and promised them they'd beat it.\n    \n"
+    publishedDateTime: 2020-10-07T00:30:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAGKyxQfVRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z
@@ -2806,6 +2822,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden: If Trump still has Covid, call off the debate"
+    excerpt: "The Democratic nominee said he still looked forward to facing off against the president in Miami next week, but “I don’t know what his status is.”"
+    publishedDateTime: 2020-10-07T00:33:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/joe-biden-trump-debate-coronavirus-426944"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/38/ec/f9edce0343e8af6cddaa61be95f0/201006-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "G.O.P. Alarmed by Trump’s Comments on Extremist Group, Fearing a Drag on the Party"
     excerpt: "For the second time in two weeks, Republicans distanced themselves from the president, expressing unease about his failure to disavow a right-wing organization linked with white supremacy and acts of violence."
     publishedDateTime: 2020-10-01T08:22:00Z
@@ -3456,6 +3486,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "CmtQ2Qzn8zCQ4nTeLjzlDQrVnQYdvl5FsH9yjKVQDgUJ3i7NKeOXnxLRTPLXeCF9cUWOlssqe5xI5nObKXkSmSXYfOEy8a9ZZSQnlK65urqJqUW/b5/5BnjNpy3F7N/eKsOFMH7l0AHb6STSmd8v/B4Aveu091263U35P/gXkH0yly6FQ3pUS1j6QnH2+d+K0y7LRPq7C4FZoKMaAtQhpj2HFk1iEPd3goAJpCY2BI7AVXwBJAx7c81yTJFPyNwhk21ksjx/xY73vZuoiKmzDUd4spaMkPauThAQjHMkvlsYfR+uXcBewD8Rg9HclEJKg92tipPWZlr03IUwurI9RT3BpelNC1OM9dHqHP8O4RA=;400mFxKQhljov/4u1sS5nQ=="
+secured: "DkPrDYgeRBNqvzX9Agvedneo9MybE4RtN187exix9Ro235fR7xwABazkMELlrAwltvyunz8EK0FYz6bqAk9Js+NuhmYLFRfpnBhNwid7qvamg+PmUV1LagAvZtEVuBljGIVZ7QfVONKMtJV4hU7iKGSQuYxkPIYRjfNQW8YKkAv6f5k6RzH3Ah9+Ibd57ButqYzTQNa3aZ1vN4Rbmd3nxDz8sO3Ozp/p2NfitX7ryFBeIzdJwt4iPF4FLVUiVjBm96G2OC/GaBRTDyqEsMvaqzClY6upls/K+dVty6o9FUT3wHjzltJFK5UHKRfrX7JfAwbSY87kywX37OY/gC0k6m9x3nKQPC/+8yN7pUi77WOOU66FrQ1+SgLwqJJIaQ3tMto3HL5bwSzGhURalXDZZvRW9o6IOnGIIa5a8kSNyoe5nrnIjkVbuDWoFu+VBKkzLFHZUfOw8j9nMY0SAmwDkDGDhuX0H+3hVd3v3Q8SqZj9Qpmcwwu/R0Jj9rPzXHsFXBKpggxnTcbJH2Csin5E9A==;WHhSz/57bOmSvox3FSsrpQ=="
 ---
 

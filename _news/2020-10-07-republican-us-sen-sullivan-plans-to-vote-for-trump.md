@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Republican US Sen. Sullivan Plans to Vote for Trump"
+title: "Republican US Sen. Sullivan plans to vote for Trump"
 excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
-publishedDateTime: 2020-10-06T23:47:00Z
-originalUrl: "https://www.usnews.com/news/best-states/alaska/articles/2020-10-06/republican-us-sen-sullivan-plans-to-vote-for-trump"
-webUrl: "https://www.usnews.com/news/best-states/alaska/articles/2020-10-06/republican-us-sen-sullivan-plans-to-vote-for-trump"
+publishedDateTime: 2020-10-06T23:45:00Z
+originalUrl: "https://www.chron.com/news/article/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+webUrl: "https://www.chron.com/news/article/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+ampWebUrl: "https://www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
 type: article
-quality: 35
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
+    isCached: true
 
 related:
   - title: "Lawyer for Flynn says she updated Trump on status of case"
@@ -266,6 +270,6 @@ related:
       domain: chron.com
     quality: 35
 
-secured: "u9Y8/E6xyBwRdH38jlO6WNeflCvi9SgUcy863SGWX9gi3m6k6ONT+wniixFgr0HcN+TyIt8/HLlYTdtfvap4HszYtxYMvdLN06TwqwiQelWTdjiKKr062AkoI5G94GOMFkVvpDfpwjFC+S5ulowkc3NZHPbTdBHlrUNgxeCnLKi0kwl4SssAphjYvsV+Ij15AdR7omnAigHZd00DZVy0nfXotntdleiWAsgqrYmEvT2teH2j/MWaCaBzgmnW8+k/mA4Uw2VIWY+ZZzWGCODmbReHOKCOeKsisliSdhePjFXj93bs3zqyCVNDORPyjisS4Yaj3uK7IMIqJxdTtXwwxfa34RiWj0b+p0H8xBiVEZw=;g7Ln1zw0gGa+LmwWB9YAJg=="
+secured: "51A8MJ+TI5qfQy5wzcBCejDBj+c+ZiIPzaMu6HPMkVwS5pH1yTFN1hzoldJm9RRqnWC2cnCgf0lHqgCm5yq0RP1HxW+VVZB5a6Lz78BWvDg7TP6EfSx7AMm0VE93+/oX2hVsZ76tD1gFLKE+ix6C4VvzbI86Ko7nqfrcI76WamN40E4W8M0qJZlOKr5ganG4ReKS5jFR+G8varvPzOVEdpJst/NLQZrRt/GDv5rAT0PFvh0ymuj+bOAZRfn3BwkTt/KLeYQ5/nKxRv+uc5AQ3WcQf4wHq9gdIWN/1wR/YXdmUDHKpY5wlg6q+9y9f1hnY/wS90ropGeS6h/W3pGKgJ8aW4v2jWDLDE4bQk2TAwE=;yBgvIStBjLzadXLaik2vug=="
 ---
 

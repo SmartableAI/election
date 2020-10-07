@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005184613-03-trump-leaves-walter-reed-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump halted stimulus talks. Here's what it means for you"
+    excerpt: "Millions of Americans are still out of work. Many small businesses and major airlines are struggling to stay afloat. And states are still contending with massive budget gaps.\n    \n"
+    publishedDateTime: 2020-10-07T00:30:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aukOeIUYLek/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/stimulus-pelosi-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/stimulus-pelosi-trump-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006173834-going-out-of-business-nyc-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

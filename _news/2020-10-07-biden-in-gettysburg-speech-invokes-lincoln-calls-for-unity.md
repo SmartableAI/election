@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-spe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Joe Biden calls for unity in visit to historic Gettysburg"
+    excerpt: "Democratic presidential nominee Joe Biden called for unity amid ongoing protests against racial injustice and political division over the COVID-19 pandemic in a campaign speech in Gettysburg on Tuesday."
+    publishedDateTime: 2020-10-07T00:10:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg/7071601988862/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg/7071601988862/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg/7071601988862/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Michelle Obama: 'Vote for Joe Biden like your lives depend on it'"
     excerpt: "Former first lady Michelle Obama launched a 24-minute campaign video for Joe Biden on Tuesday, slamming President Trump and urging Americans to vote for the Democratic presidential nominee like their “lives depend on it."
     publishedDateTime: 2020-10-06T20:00:00Z
@@ -112,6 +128,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "eGKLLCmAOD3UBa2YYinQwBOgsfbj/K0+SWWFs9P+2vvnqg65WSeOrfpZOCobjVgEF9M+D/sfyGPbcZF1eT7r70gP63zj7AIRSMB/h/JIuNmhJ7CPjyEoqjMqDlJk0khknVXSFM9U+caj9tkLOPMfBfhEDa5DpuKfQtRtwZ2ObfdTKEMieDhwZz/2KtXq/p0ewBPhcLndtr3hqeqZe6nWa/WZncBSJorHDmaQjOiYMC6rUEFCIPAVlnBAheik3XHa6a9YB5AhgPfF0GTrGbJz2YN0JBYp6JDtUVTqUd3u2ojuLxaKUYu2f3YY/DSsXMysrkQ8ARZ6hl4gdQQ6V6C576zkSmIuKapexn7uu2Bits4=;goJT2XakZaEySvPV3f6XJQ=="
+secured: "ZhWBbHvWFnHd/ni1Ag1h7UU1CMIYuzm1hXdQogUviKK0iV7Pr9mrqo48zMueOpr0PzqxA1ZQWhRbtUweyNvl+hn4S4ICxeB/56HgrWcEWwCqmqlTGfu+BvMBxccmJjUJmF/J580Rev1xboJYbnZozOG3nhKWbTt+x6EtU6gfSC1bgSOv+Sp9WMH1O+A5y8Q+/jXfmqepFh8RQu1C/U7gERM+VAKhoLl2AAGPZUWepWrQUzEsINe2pxxwtZzFYxEgRrzzSpsRZ2exIWHy7jy3P5PS/V3p8Lc+Mz31f41ZEWH77jDVSUDDyVDFbdHzlUQlloFT4dK3ZVsPbeyxhMbGVT883b6i5SWVr2fDe56vDMm7FhVob1CQS6U5BnMNMOplk6WXlY8IXcb/Pyx2mVEyRAFYoUDguw1prw8rb3wufEy6E1TWYkQ5NJ7m/Y1wHMk/34h5KZL3olFNGUv1SLhcxIFiNY05B/FK44txvlu4Lb25qdpovVDjBUG0/it1gP7SnMEZGdsaqdBVrOzzQaW1jg==;UcAKUQFVMfLQZAFUxu9log=="
 ---
 

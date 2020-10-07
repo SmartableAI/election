@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "New York Times editorial board endorses Biden"
+    excerpt: "The New York Times editorial board endorsed Joe Biden's White House bid on Tuesday, throwing its support behind the former vice president&nb"
+    publishedDateTime: 2020-10-07T02:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_100620getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
     excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
     publishedDateTime: 2020-10-01T23:46:00Z
@@ -45,83 +61,51 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts"
-    excerpt: "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said."
-    publishedDateTime: 2020-10-05T16:37:00Z
-    webUrl: "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp"
+  - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
+    excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
+    publishedDateTime: 2020-10-03T18:52:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg"
-        width: 2886
-        height: 1443
-        isCached: true
-  - title: "Biden to Proud Boys: 'Cease and desist'"
-    excerpt: "Cease and desist' Posted . Democratic presidential nominee Joe Biden on Wednesday denounced the right-wing Proud Boys group after President Trump to"
-    publishedDateTime: 2020-09-30T21:01:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVCXVZ5CV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20200930&i=OVCXVZ5CV&r=OVCXVZ5CV&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Why Joe Biden can't expect to automatically get the Latino vote"
-    excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
-    publishedDateTime: 2020-10-03T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3533570001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Boston Herald
+      domain: bostonherald.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
+    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
+    publishedDateTime: 2020-10-05T20:50:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
         width: 1200
-        height: 677
+        height: 675
         isCached: true
-  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
-    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
-    publishedDateTime: 2020-10-01T16:10:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
+  - title: "Dallas Mavericks owner Mark Cuban to headline virtual fundraiser for Joe Biden’s White House campaign"
+    excerpt: "Dallas Mavericks owner Mark Cuban on Wednesday will headline a virtual fundraiser for Democrat Joe Biden’s presidential campaign,"
+    publishedDateTime: 2020-10-07T00:23:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/06/dallas-mavericks-owner-mark-cuban-to-headline-virtual-fundraiser-for-joe-bidens-white-house-campaign/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 70
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 40
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy | Charlotte Observer"
-    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
-    publishedDateTime: 2020-10-01T17:04:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246142010.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 59
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/1UH52z8_KN1yGHeElH92yj3VlvU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/4QQVLV4YTJDAZMWXKJTEO7MEYM.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qeojvsV/jgLA0r9t1zJDVDnTaN1SHTHjvdqZlqbrdqhbHxiuT+g6W9Pw/jzyj/FL+OE7IGzbWumwKupT9+Xjz3IHmkHHRqQmrahqJhvi6bEoTNgqHgTcIiM8Q+jJwHZqGrl2dnQ8GyTr771iIIIh77JTL33vQbj6ONitKeq6N+0EVJLIkmTKk8vWGMcOKtmBIzxs1Mb8bDcsWKD2JdLpQA3B991jdeSlMZHHONCl4YsOG+YRX9LIN6HMW+hGA/MmQZuiziJdOHILPjHZYHFnQw3IOs6O9eDpCVCFIMVNHlkTqADoa4YyQDxNM8zfF2xsvVZC0/Tp8CvEvmhwHFNvt6OmnN62S0Npr0DiUWFvL173CTwhpsuGqQyXC5BqS7p5rxZIi2gaR5N8lUD3olASF+duBofhKEX8ePx1EkKSgr+Ol/rJqNmofzZWMOd4qC8/sLtJyL++/exkGiAs/nVhXOE++QV+2UDuP1KuZty2q+7FjaDNBMdXCLAK/PJS+4fHr7rQ/+rawswq2KnCOhaz2Q==;Sf12qv2LARy7AKM8d3iuUA=="

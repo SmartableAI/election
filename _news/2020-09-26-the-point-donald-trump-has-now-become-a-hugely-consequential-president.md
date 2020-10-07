@@ -751,6 +751,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pay attention to these headlines rather than Trump's anti-reality"
+    excerpt: "Pumped full of unapproved drugs not available to average Americans plus a steroid, President Donald Trump mounted the steps of the White House on Monday night, told Americans not to be afraid of Covid-19 and promised them they'd beat it.\n    \n"
+    publishedDateTime: 2020-10-07T00:30:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAGKyxQfVRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here are the Cabinet members and others around Trump who have been tested"
     excerpt: "President Donald Trump's positive coronavirus diagnosis has raised questions about the health of those around him, including members of his cabinet and his Vice President.\n    \n"
     publishedDateTime: 2020-10-02T15:20:01Z
@@ -2790,6 +2806,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3417269/201003-donald-trump-mask-jm-1319_01022721167e60d88ee1c2dfaee1bbc0.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden: If Trump still has Covid, call off the debate"
+    excerpt: "The Democratic nominee said he still looked forward to facing off against the president in Miami next week, but “I don’t know what his status is.”"
+    publishedDateTime: 2020-10-07T00:33:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/joe-biden-trump-debate-coronavirus-426944"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/38/ec/f9edce0343e8af6cddaa61be95f0/201006-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "G.O.P. Alarmed by Trump’s Comments on Extremist Group, Fearing a Drag on the Party"
     excerpt: "For the second time in two weeks, Republicans distanced themselves from the president, expressing unease about his failure to disavow a right-wing organization linked with white supremacy and acts of violence."

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
 type: article
 quality: 140
-heat: 300
+heat: 320
 published: true
 
 provider:
@@ -147,6 +147,15 @@ related:
     excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"
     publishedDateTime: 2020-09-27T17:52:00Z
     webUrl: "https://www.c-span.org/video/?476255-1/joe-biden-remarks-us-conference-mayors"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Comments to Reporters on Future Debates"
+    excerpt: "Democratic presidential candidate speaks to reporters about the upcoming debates and says that if the president still has COVID-19, then they shouldn’t debate on October 15. Vice President Joe Biden was seen leaving after briefing the House Democratic Caucus on the nuclear agreement with Iran."
+    publishedDateTime: 2020-10-06T23:54:00Z
+    webUrl: "https://www.c-span.org/event/?476654/"
     type: article
     provider:
       name: C-SPAN

@@ -27,6 +27,52 @@ images:
     isCached: true
 
 related:
+  - title: "New York Times editorial board endorses Biden"
+    excerpt: "The New York Times editorial board endorsed Joe Biden's White House bid on Tuesday, throwing its support behind the former vice president&nb"
+    publishedDateTime: 2020-10-07T02:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_100620getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
+    excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
+    publishedDateTime: 2020-10-01T23:46:00Z
+    webUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins"
+    ampWebUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Detroit pastor wants Biden to reach out more to Black community"
+    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
+    publishedDateTime: 2020-10-01T19:52:00Z
+    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
     excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
     publishedDateTime: 2020-10-03T18:52:00Z
@@ -42,6 +88,20 @@ related:
       - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Dallas Mavericks owner Mark Cuban to headline virtual fundraiser for Joe Biden’s White House campaign"
+    excerpt: "Dallas Mavericks owner Mark Cuban on Wednesday will headline a virtual fundraiser for Democrat Joe Biden’s presidential campaign,"
+    publishedDateTime: 2020-10-07T00:23:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/06/dallas-mavericks-owner-mark-cuban-to-headline-virtual-fundraiser-for-joe-bidens-white-house-campaign/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 40
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/1UH52z8_KN1yGHeElH92yj3VlvU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/4QQVLV4YTJDAZMWXKJTEO7MEYM.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "sMFhYJdSpFAnGj3hks6ulQnRke8plsVp2leOk9b2wpaxyYxH7gGfV3TCyYk0jWE5/FK8EJQNvNwqrlszWgrhVTu6lRRKq7XcNQDoVXu/Fdkgv2g1y7TDrWwG568K9QmBNBPzEnxuRQKd+qedsvnhsasL4pTXQqQXMXJUfeHdLfMjAibo71+olargpEg/ZaQ78YgZB50h/2hHCU/pIaIi0WME4ihj9lzrBBim+2BRRObnpYJ1tcqfpriqII+gfQjrdJifHZ4/0tgfn7Dd+0b2GSwJ6J8Bvdt1ljetEyboA4HZ6j/76ATbOiMDSF9z1OlphEjdxyG+5w8ZE+dvVC/rz/L2BM2snfoICx0mTk3GgKQ=;zSGgmNBOn+h3qOi6hIy03Q=="

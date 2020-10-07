@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-with-upper-single-digit-lead-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.amp"
 type: article
 quality: 198
-heat: 878
+heat: 898
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
       - url: "https://images.wsj.net/im-237041/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Deroy Murdock: Yes, Joe Biden, President Trump has said many negative things about white supremacists"
+    excerpt: "Hate Trump, Inc. is using Trump’s missed opportunity at the presidential debate to claim that he's never condemned white supremacists."
+    publishedDateTime: 2020-10-07T01:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-trump-white-supremacists-deroy-murdock"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-trump-white-supremacists-deroy-murdock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-trump-white-supremacists-deroy-murdock.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Trump-and-HBCU-presidents-Feb-27-2017.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "The Trump show goes into reruns"
     excerpt: "President Trump has at various times in the country’s long, punishing struggle with coronavirus tried to present himself as a wartime leader. If you are a Trump supporter, this sounds like pretty good stuff."

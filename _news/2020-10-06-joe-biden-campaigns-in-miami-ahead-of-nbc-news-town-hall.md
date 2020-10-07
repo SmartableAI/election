@@ -224,6 +224,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden begins to pull away in Pennsylvania"
+    excerpt: "With 28 days till the election, Pennsylvania is looking further and further out of reach for President Donald Trump. Democratic presidential nominee Joe Biden is ahead by 12 percentage points among registered voters here,"
+    publishedDateTime: 2020-10-06T16:00:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d1/ff/e233f90e4037b175cd8ff9ab1fff/ap20280155144908-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘Don’t Be Afraid of Covid,’ Trump Says. But Many Are."
     excerpt: "Readers discuss the president’s comments and removal of his mask upon his return from the hospital, and the “world-class care” he received compared with that available to others."
     publishedDateTime: 2020-10-06T17:39:00Z

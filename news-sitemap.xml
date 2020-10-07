@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden</loc>
+    <lastmod>2020-10-06T19:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/v6mGOvttnfc/puerto-rico-gov-wanda-vazquez-garced-endorses-trump-re-election-bid</loc>
+    <lastmod>2020-10-06T17:26:58-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G8UCW1l2fo0/index.html</loc>
     <lastmod>2020-10-06T16:37:01-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -211,6 +223,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10</loc>
+    <lastmod>2020-10-05T09:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html</loc>
     <lastmod>2020-10-05T09:30:12-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -409,12 +427,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/</loc>
-    <lastmod>2020-10-03T11:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://abcnews.go.com/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944</loc>
     <lastmod>2020-10-03T11:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -435,6 +447,12 @@
   <url>
     <loc>https://www.washingtonpost.com/world/national-security/vp-pence-ordered-borders-closed-after-cdc-experts-refused/2020/10/03/4f4924b2-057b-11eb-b92e-029676f9ebec_story.html</loc>
     <lastmod>2020-10-03T06:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/</loc>
+    <lastmod>2020-10-03T06:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -613,12 +631,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins</loc>
-    <lastmod>2020-10-01T16:46:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10</loc>
     <lastmod>2020-10-01T16:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -715,6 +727,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.miamiherald.com/news/nation-world/national/article246142010.html</loc>
+    <lastmod>2020-10-01T09:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnbc.com/2020/10/01/former-afghanistan-commander-stanley-mcchrystal-endorses-joe-biden.html</loc>
     <lastmod>2020-10-01T08:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -787,8 +805,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/av/world-us-canada-54363831</loc>
-    <lastmod>2020-09-30T13:04:00-07:00</lastmod>
+    <loc>https://www.reuters.com/video/watch/idOVCXVZ5CV</loc>
+    <lastmod>2020-09-30T14:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

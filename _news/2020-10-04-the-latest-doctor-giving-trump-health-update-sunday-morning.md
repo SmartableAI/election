@@ -247,6 +247,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Republican US Sen. Sullivan plans to vote for Trump"
+    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
+    publishedDateTime: 2020-10-06T23:45:00Z
+    webUrl: "https://www.chron.com/news/article/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "President Makes Progress, Not 'Out of the Woods': Trump Update"
     excerpt: "President Donald Trump has made “substantial progress” but still isn’t “out of the woods,” his physician Sean Conley said in a Saturday evening update. Trump completed a second dose of Remdesivir and remains fever free,"
     publishedDateTime: 2020-10-04T17:19:00Z
@@ -255,15 +271,6 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 35
-  - title: "Republican US Sen. Sullivan Plans to Vote for Trump"
-    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
-    publishedDateTime: 2020-10-06T23:47:00Z
-    webUrl: "https://www.usnews.com/news/best-states/alaska/articles/2020-10-06/republican-us-sen-sullivan-plans-to-vote-for-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
     quality: 35
 
 secured: "TE5c6tFbpFj/Av6YAefVCWKMjYoP9yvMFeoCehvE6SJKSqXZjTgJXmt5obQ1wlk3FCKEvZ2MAOH5NKLJTBjgEXLexGbHUzzcvyLfRv6HJ6wJhBnBhiIvuNutmB48EtBzPEvh785Lv3zQaWTmsokfrkFZWQvSmg7ycmkG+JX0wQlyHb86xMFH/wDVkHAljf8V7C6K5QltkYY31GY5D49SACMN5UNlWFkMzUEJMFELS3o0LsUHseNg8yQhKTyKrn0Urc4k3GCJiYFAaxWwzg1UahDDjyB04vQZaIOANHO39V8odsT2gWQ5xAyL5yVTCsegDRrvF/DnkSzCLYR/NsfUJ/zKJqzIdxkDYn3D+5TPJipOSquuin/Nz1RREPnZln8MqpAjN30FE2CR32KiJ3EDW5/4IMMbfIZhYwGEE+bKh8VVl1tFKA9ab9LG/S8wyNDJFxWjkQgXF1veeatJvOIp9PmAS/CsP2povXCLJLJciN1NDbh/GNFTRzY+nLeDqBRtAjT8Fz2jor+/IlbeMMNrJA==;yxlxkVe0uCCuJeO7ATr7Hw=="

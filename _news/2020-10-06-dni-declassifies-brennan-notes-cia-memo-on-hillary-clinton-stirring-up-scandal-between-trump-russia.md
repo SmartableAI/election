@@ -45,6 +45,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
+    excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
+    publishedDateTime: 2020-10-07T00:54:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9N72ZCxZ9aM/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’"
     excerpt: "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States."
     publishedDateTime: 2020-10-01T19:15:00Z

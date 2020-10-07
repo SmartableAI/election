@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-07-puerto-rico-gov-wanda-vazquez-garced-endorses-trump-re-election-bid.md",
+      "title": "Puerto Rico Gov. Wanda Vázquez Garced endorses Trump re-election bid",
+      "excerpt": "Last month, the Trump administration unveiled a $13 billion aid package to help Puerto Rico in its ongoing recovery from Hurricane Maria.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v6mGOvttnfc/puerto-rico-gov-wanda-vazquez-garced-endorses-trump-re-election-bid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/v6mGOvttnfc/puerto-rico-gov-wanda-vazquez-garced-endorses-trump-re-election-bid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Wanda-Vazquez-REUTERS.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T17:26:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-biden-vows-not-to-allow-white-supremacists-to-overturn-the-america-of-lincoln.md",
       "title": "Biden vows not to allow ‘White supremacists to overturn the America of Lincoln’",
       "excerpt": "Democratic presidential nominee Joe Biden made a forceful plea for national unity on Tuesday as he took aim at “extremist white supremacist groups menacing our communities.”",
@@ -235,7 +290,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 878,
+      "heat": 898,
       "tags": null,
       "images": [
         {
@@ -1010,7 +1065,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1991,
+      "heat": 2051,
       "tags": null,
       "images": [
         {
@@ -1581,61 +1636,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp",
       "publishedDateTime": "2020-10-02T04:58:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trump-pledges-to-overturn-navy-seal-gender-neutral-ethos-calls-it-ridiculous.md",
-      "title": "Trump pledges to overturn Navy SEAL gender-neutral ethos, calls it 'ridiculous'",
-      "excerpt": "“Man” and “brotherhood” were replaced with gender-neutral phrases such as “warrior” and “group of maritime warriors.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa5DowdHOEA/trump-overturn-navy-seal-ethos-gender-neutral",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa5DowdHOEA/trump-overturn-navy-seal-ethos-gender-neutral",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89963ae4-e6e1-4130-8e7d-c06d0c680d1a/912dcb7d-b04b-447d-849e-877687f59fed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-overturn-navy-seal-ethos-gender-neutral.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-overturn-navy-seal-ethos-gender-neutral.amp",
-      "publishedDateTime": "2020-10-01T18:23:34-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

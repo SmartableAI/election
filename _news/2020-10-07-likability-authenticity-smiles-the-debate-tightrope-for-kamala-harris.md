@@ -126,6 +126,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence preps for debate as chances to shake up the race dwindle"
+    excerpt: "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n"
+    publishedDateTime: 2020-10-07T01:33:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
     excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
     publishedDateTime: 2020-09-28T23:50:00Z
@@ -333,6 +349,6 @@ related:
         height: 550
         isCached: true
 
-secured: "nZ9GTjmKgScAdgVNrEY2Mk37bjR+F9fXC5m+xc0HqgfEpmSY8RjaEZg6K0GzEfd3UJ31J5Yna+VA1pO8ZNTP1UB+Kz9hbCDhlPhoxvBnUWKfMaMjJ5j/yoB/e/lrNS4/gzVq8IWs0oXcWnD7dCiCsFkBQmYQQkE+LCZiC9Ch0n16yukDU5aG+dLw9HIi0mz6f9ngwq/rOxpBwTHyVGIlI7UtyJNs6gmjyHBFgi81sT8Z7Xx0ew6hzZVTAvzklNrw3NMS8H4oLliGgZdUL2pki+s5f2CsAA+Fn+ze30p2vWwv7wzJbQ+m9a0QCWSMiJE1Q5z1gaanNzvkzymvLeY+jhyp8KIWWu5qN9mPDOzTsR4=;Y6mRPeOqObTFm14n0av6yw=="
+secured: "8FizIR9yp0Z0ZwvZEf9zaZIsRs2vY9Lh4rlW5krI7yC46yOcGo15Warc16am9HzDhgl3epYaGhavMH/LJOJ0tvsxI9L8tV4rPvnQdGuHwrCBK/RL/AnY/gjxVOkWnfmBJFFsiwMyb92JVchcRU8yPr/8XCX4bypONG6mQ1k+gcefUL16iTp3lw/ox0xlxJ9MxyylHGy0S0CEBtFi8leULBeU4gCw9vADJFivwwQRTDzUy61JjC0Li8ad/0c82q4WXXVmZjlCi0YtPeaWGzqCyW6lJ1Ng1kAgoLyuo1Mv2eVf39swGTAlZchwyE5fW85cn7lQ7q8s9y1J9IhvntE51/LspxITUUanuAkSyTZu9WVaD3qoMUnuojl5Fd6S1swHwD/MqrTr+Fg9WE6JyNG9LDhqD9nk10fznaGLhv0EGiEh/2zj7ScK4ur0lsktIuvbwLBJNwpz/fQCthvo4v8LToOlDjUQWofhElapdpPxt8EI+QuX1Z6O0wyi+OH83dqUFpVQTkvCs7S8yicpEkwyGA==;qaYlHDDokosqdDxu+cg2pw=="
 ---
 

@@ -241,6 +241,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Republican US Sen. Sullivan plans to vote for Trump"
+    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
+    publishedDateTime: 2020-10-06T23:45:00Z
+    webUrl: "https://www.chron.com/news/article/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "The Latest: Doctor Giving Trump Health Update Sunday Morning"
     excerpt: "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19."
     publishedDateTime: 2020-10-04T15:28:00Z
@@ -252,15 +268,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Republican US Sen. Sullivan Plans to Vote for Trump"
-    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
-    publishedDateTime: 2020-10-06T23:47:00Z
-    webUrl: "https://www.usnews.com/news/best-states/alaska/articles/2020-10-06/republican-us-sen-sullivan-plans-to-vote-for-trump"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "5T15ZKvOmvncUkZxcrBPS7PZ9xQ8cFFPiyruEYD/eGKhAekJEghCnY9Y/MaNzgyR8iTUT1vBCfv5pyKNLv0kzDg2i0Y8IWtNSfPBdM6FqUi6uhEYN/EIeZjG4G2qHtK4kgTzQJiaKMNtOI+m1P2FxrfcrXbQ2QXghSed9dIX91JO43qkMr0NjxT3k4vnI7LMTDWXownBXRCktqDhcngOVwK6nV16GyAWp5cuFxNUcMaHIOXEP+9imFij20Ira+0MdQzcOvCrD2ZPWIg9ubnX98nCBpaDOZnt/BGluohUTF2Lnl1vN9EbOF+XNUgXpxnOcPdAQBbkUWAYM60D6gEsu1qqZJgrF2L7q66wMZASj0k=;iQbpykYxdV3WedgO8qA1Mw=="
 ---
