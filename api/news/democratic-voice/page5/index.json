@@ -2,61 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-09-13-what-matters-what-the-most-epic-pardon-of-all-time-tells-us-about-trump.md",
-      "title": "What Matters: What the most epic pardon of all time tells us about Trump",
-      "excerpt": "Forty-six years ago this month, President Gerald Ford made one of the most controversial announcements in American political history: He pardoned Richard Nixon.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qOnDOqKojEw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qOnDOqKojEw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200708150529-pardons-explainer-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/13/politics/gerald-ford-richard-nixon-pardon-wolf-what-matters/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/gerald-ford-richard-nixon-pardon-wolf-what-matters/index.html",
-      "publishedDateTime": "2020-09-13T04:04:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-13-how-kamala-harriss-immigrant-parents-found-a-home-and-each-other-in-a-black-study-group.md",
       "title": "How Kamala Harris’s Immigrant Parents Found a Home, and Each Other, in a Black Study Group",
       "excerpt": "Donald Harris and Shyamala Gopalan grew up under British colonial rule on different sides of the planet. They were each drawn to Berkeley, and became part of an intellectual circle that shaped the rest of their lives.",

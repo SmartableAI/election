@@ -204,6 +204,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Pence, Harris vice presidential debate: Everything you need to know"
+    excerpt: "The only vice presidential debate of the 2020 election is scheduled for Wednesday — and President Donald Trump's coronavirus diagnosis and the vice president's possible exposure are bringing extra scrutiny to the already highly anticipated showdown between Vice President Mike Pence and Sen."
+    publishedDateTime: 2020-10-07T10:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-harris-vice-presidential-debate-everything-you-need-know-n1242173"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242173"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242173"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417889/201006-vp-debate-everything-know-main-cover-cs_4c3712a0043ec4dad00335f2647e93c0.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
     publishedDateTime: 2020-10-02T00:08:00Z
@@ -219,6 +235,20 @@ related:
       - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/100120_Vice_Pres_Debate_NOW-Youtube.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
+    excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"
+    publishedDateTime: 2020-10-07T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 140
+    images:
+      - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Kamala Harris, a Disco-Dancing Teenager, Yearned for Home in Canada"
     excerpt: "Senator Harris spent her adolescent years in Canada. Friends say being a California girl at a multicultural public high school in Montreal helped shape her."
@@ -316,20 +346,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
-    excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"
-    publishedDateTime: 2020-10-07T08:34:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
     excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
     publishedDateTime: 2020-09-28T21:04:00Z
@@ -425,6 +441,6 @@ related:
         height: 550
         isCached: true
 
-secured: "oejg7Gqx+MQKtXe3PstCAS/ZkH2StbeUn3oSPVPB7bYvIyHenEKUZJhkYmXsiqLI2PhsLbZyksV04VY/SJyxIS9aCoU8Vlz8Gy7cGkiFwIKP6u9VH+AADQJYzFP7U+JeqrG8qNIv0Y4aIhiMLIQhp5Fr0+bQ+E8Jio1dcKPaUQ1+CcM66ShJSPZeD4M2YVG+H6WzYzbyvqGtjcEZpytXRSjzI88sfbCLaiOiKlL1n/mNJVLQ0CLh4FDFTM0zgChu6o4PXNFku4j1OfSbSX+vFTYbnb2VNoUTZV6ThiXgee7D+oJ4xzfywYrAOb3I7B1P/h0QnMe6h+4kE+nJ/ODxEm23+3qt+snBdFvsy3+BFSc=;B96u61POIr8ysGGNKM9I1w=="
+secured: "sLpImzdpu4oDcyEKpwmBiIiAqx4ZOjQifalPWM1O81QdKDSdYZz1qDL4S23wRgRmOzibgGGCZt8aUtdXQfveM/oQW5Iig5MOXpFuq/RAItEC+LG5aG42PPz9J0fEqqaZwwJQcxHRRpZrDhsp5eNOPLkFGx6Rd9TMEHPH0Wn4OH9hn7llkFEd6s3cWuhG2wg8SsmvdeUwVg93Pl88tBZIQ+uWI8jJ4L+hGEH6g4xDViv986q/KdtQ4kC9y0Vl2pQ88onx8OuKiOceTPJqlpSPMIYCYNrFyORKXUIqgbXmHj99ZfgjQjuqXHk5LdOevNp4jasiW02qSaJPt26z3sxhXn/OI5MUSnFrn3tm6R6lV9pVglswAe7adFgA5GlFpmwjQ9vLcoPrsqMprgqhNSFYOkzrcdoWrAEpPYyroHy5uIoFYAP8TdVYVIgQZ+C0ff/KU+JT9caOcJSkl1oSd1yOCgcPajsCVKE+vYp2QC+5hGApQu+tyq2elQZCNgG6L0+d8L4ugSCTnRM+uFcZJ9/sxg==;jczM6LuC4cjwgKokRnMpig=="
 ---
 

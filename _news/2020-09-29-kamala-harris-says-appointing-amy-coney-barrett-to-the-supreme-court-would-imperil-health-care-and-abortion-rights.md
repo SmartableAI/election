@@ -206,6 +206,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Pence, Harris vice presidential debate: Everything you need to know"
+    excerpt: "The only vice presidential debate of the 2020 election is scheduled for Wednesday — and President Donald Trump's coronavirus diagnosis and the vice president's possible exposure are bringing extra scrutiny to the already highly anticipated showdown between Vice President Mike Pence and Sen."
+    publishedDateTime: 2020-10-07T10:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-harris-vice-presidential-debate-everything-you-need-know-n1242173"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242173"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242173"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417889/201006-vp-debate-everything-know-main-cover-cs_4c3712a0043ec4dad00335f2647e93c0.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
     publishedDateTime: 2020-10-02T00:08:00Z
@@ -221,6 +237,20 @@ related:
       - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/100120_Vice_Pres_Debate_NOW-Youtube.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
+    excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"
+    publishedDateTime: 2020-10-07T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 140
+    images:
+      - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Kamala Harris, a Disco-Dancing Teenager, Yearned for Home in Canada"
     excerpt: "Senator Harris spent her adolescent years in Canada. Friends say being a California girl at a multicultural public high school in Montreal helped shape her."
@@ -317,20 +347,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/06/us/00ihw-harris2/00ihw-harris2-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
-    excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"
-    publishedDateTime: 2020-10-07T08:34:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
     excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."

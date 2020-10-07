@@ -779,6 +779,22 @@ related:
         width: 776
         height: 545
         isCached: true
+  - title: "Shares rebound from Trump's shock stimulus talks cancellation"
+    excerpt: "European shares rose on Wednesday, as initial dismay at U.S. President Donald Trump's decision to cancel fiscal stimulus negotiations with lawmakers in Washington was replaced by optimism about an aid package after the U."
+    publishedDateTime: 2020-10-07T11:28:00Z
+    webUrl: "https://www.reuters.com/article/us-global-markets-idINKBN26R3S6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R3S6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R3S6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536451760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95277"
+        width: 776
+        height: 545
+        isCached: true
   - title: "Trump campaign's next steps unclear after White House return"
     excerpt: "President Donald Trump’s return to the White House is poised to reshape the campaign’s final four weeks as aides debate how to move past an extraordinary setback while grappling with how to send an in"
     publishedDateTime: 2020-10-07T07:24:00Z
@@ -2846,6 +2862,22 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 63
+  - title: "Aides fear Trump is melting down because of the ‘cocktail of drugs’ he’s taking for COVID: report"
+    excerpt: "President Donald Trump over the last two days has been behaving even more erratically than usual, as exemplified by his decision to call off economic relief talks only to insist that Democrats pass economic relief bills hours later."
+    publishedDateTime: 2020-10-07T11:29:00Z
+    webUrl: "https://www.rawstory.com/2020/10/aides-fear-trump-is-melting-down-because-of-the-cocktail-of-s-hes-taking-for-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/aides-fear-trump-is-melting-down-because-of-the-cocktail-of-s-hes-taking-for-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/aides-fear-trump-is-melting-down-because-of-the-cocktail-of-s-hes-taking-for-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/trump-sweat-2-765x430.jpg"
+        width: 765
+        height: 430
+        isCached: true
   - title: "Trump Was in Maskless ‘Close Contact’ with Dozens of Donors After Hope Hicks Got Covid-19 Symptoms"
     excerpt: "President Donald Trump was in \"close contact\" and not wearing a mask while interacting with \"dozens\" of donors and others in the hours after Hope Hicks developed symptoms of COVID-19."
     publishedDateTime: 2020-10-02T11:27:00Z
@@ -3022,6 +3054,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "U.S. Agency Shows No Sign of Quick Action on Trump Social Media Petition"
+    excerpt: "The Federal Communications Commission has given no indication it will move quickly on an effort by President Donald Trump to narrow the ability of social media companies to remove objectionable content and require new transparency rules."
+    publishedDateTime: 2020-10-07T10:18:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-07/us-agency-shows-no-sign-of-quick-action-on-trump-social-media-petition"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-07/us-agency-shows-no-sign-of-quick-action-on-trump-social-media-petition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-07/us-agency-shows-no-sign-of-quick-action-on-trump-social-media-petition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
   - title: "Raw Story‘Mission Accomplished’: Trump ridiculed for premature commemorative coin celebrating him taking out COVID-19"
     excerpt: "The coronavirus is still raging across the United States, particularly in the White House, but that doesn’t mean that President Donald Trump isn’t ready for a “Mission Accomplished” moment. Like George W."
     publishedDateTime: 2020-10-05T00:44:00Z

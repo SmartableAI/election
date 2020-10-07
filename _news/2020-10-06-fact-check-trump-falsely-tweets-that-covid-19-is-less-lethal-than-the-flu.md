@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
 type: article
 quality: 173
-heat: 213
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,24 +31,75 @@ images:
     isCached: true
 
 related:
-  - title: "Missouri governor mirrors Trump: Covid-positive after months of virus criticism"
-    excerpt: "Like the president, Missouri Gov. Mike Parson was under fire for reopening too quickly as he ran for reelection. Then he tested positive for coronavirus."
-    publishedDateTime: 2020-10-03T11:05:00Z
-    webUrl: "https://www.politico.com/news/2020/10/03/mike-parson-missouri-covid-trump-425741"
+  - title: "HIPAA and what it means for Trump, his doctor and the American public"
+    excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
+    publishedDateTime: 2020-10-07T11:25:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump called him 'my African American.' His life hasn't been the same since"
+    excerpt: "If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. Hear how his life was transformed after Trump called him \"My African-American.\"\n    \n"
+    publishedDateTime: 2020-09-13T13:00:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/26YZY7DcoPc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909135548-01-gregory-cheadle-june-2016-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but unswayed by debate"
+    excerpt: "After watching the first presidential debate Tuesday night, undecided voters from battleground states across the country still had plenty they wanted to know about coronavirus, racial injustice and what each candidate would do to unite the country."
+    publishedDateTime: 2020-09-30T07:28:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 91
-  - title: "‘The View’ Rips COVID-Riddled Trump: ‘He’s Learned Nothing!’"
-    excerpt: "The co-hosts of “The View” absolutely unloaded on President Trump for telling the American people they don’t have to fear the coronavirus."
-    publishedDateTime: 2020-10-06T20:33:00Z
-    webUrl: "https://www.thedailybeast.com/the-view-rips-covid-riddled-trump-say-hes-learned-nothing"
+    quality: 110
+    images:
+      - url: "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but are unswayed by debate"
+    excerpt: "You just saw 90 minutes. How can you still be undecided?” veteran GOP pollster Frank Luntz told a virtual focus group."
+    publishedDateTime: 2020-10-01T17:17:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 108
+    images:
+      - url: "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
+    excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
+    publishedDateTime: 2020-10-04T09:02:00Z
+    webUrl: "https://www.thedailybeast.com/donald-trump-might-lose-but-his-judges-will-keep-wrecking-america-for-years-to-come"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 45
+    quality: 38
 
 secured: "9Kjdq3iyjp2EUHAB5jxrciFtRdqAyUASN7kIrE2J/1JpqRO1I9qY5LNwma1AI1lRX0Ej7GfuUsjfC0yZysaMeg+i+/koPak3SeJ20BCkeB8RG29SRrR9RT3q9Z/GTcTa7Po6P0yXCAq+iGO5YR6ina1e8BGjJB9+mcZQtfodX/7dWcBl5/oFC6v78MUqjBMYZCApDbjA5Qh95EHXybW+k64XW1KJqxU1heS7Zu42ZKq8MaesyHEqytsWBxFoS7049BZQM4JVrh1fJiTPQTjvCo8ga3knFBL6rvJt3nkjNG+1X31i/mQiaVZlvo+yyc741FvoDKz/+Co/zpwVoYZo8ZsMn8kTwxF4zFI0gJHWGRc=;mANM41U91PgwP5xovrr8uA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spr
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
 type: article
 quality: 91
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1"
+    excerpt: "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis."
+    publishedDateTime: 2020-10-07T10:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3636834001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636834001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/997b0c17-27a3-45d2-9801-822e233fa697-TRUMP_POSITIVE_CORONAVIRUS_05.JPG?auto=webp&crop=3488,1962,x0,y119&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's policy chief explains in an exclusive interview why the White House just punted on a coronavirus stimulus deal"
     excerpt: "\"I know we tried really, really hard,\" White House adviser Brooke Rollins told Insider after the president punted on passing stimulus legislation."
     publishedDateTime: 2020-10-07T00:19:00Z

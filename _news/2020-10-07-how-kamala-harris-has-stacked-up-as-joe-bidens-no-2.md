@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-07T08:34:00Z
 originalUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
 webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
 type: article
-quality: 130
+quality: 140
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Election
   - Kamala Harris
   - Democratic Voice
+  - Joe Biden
 
 images:
   - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
@@ -203,6 +204,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-whattowatch02/07debate-whattowatch02-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Pence, Harris vice presidential debate: Everything you need to know"
+    excerpt: "The only vice presidential debate of the 2020 election is scheduled for Wednesday — and President Donald Trump's coronavirus diagnosis and the vice president's possible exposure are bringing extra scrutiny to the already highly anticipated showdown between Vice President Mike Pence and Sen."
+    publishedDateTime: 2020-10-07T10:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-harris-vice-presidential-debate-everything-you-need-know-n1242173"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242173"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242173"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417889/201006-vp-debate-everything-know-main-cover-cs_4c3712a0043ec4dad00335f2647e93c0.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
@@ -425,6 +442,6 @@ related:
         height: 550
         isCached: true
 
-secured: "GOnYHXkm/57q73TKSkh7PMh3kljbTW+/+ourNBscEFdbnHBSzxltjJ5UzWUhv9OHQrwHTsoFz1VFkzjXVccfxHVZmWLWUfuCYtEMYMplH2yUqLVFUmpeqpttYHo5raNWbiU74p1zSxwgEB2UghoquhrFGykchEs9NhYciQ6A8yt3PsXYVQr7KCcAVZiXZoZ10/7M2m4Em6v2IhiMKZNJ2Rp/5WrKgPR353GECUp34FMR9ydlcrdanME74VFrZ5pOlUGSOSwBizCb/o4xOv1ewK96wa/WPpRYvbt89TGuKcm0+lYaareE66LB2XiSK98Q/Eq0wiHhDPssNqSQQoV1ahTS9RFGgKM5tDUtgtc5Mzg=;J6LBnEiB2tFwb0x0YscEVw=="
+secured: "sGVHx62uDeNUZ0dMY08EAan+5EFXyRf0L3eiIEdTl4Y1dO9AlCohzR8mgvSlqbbUfKZgWLytq9PUHbnkbrOwT9FcIIXyUZwhq2z/Enh5fvTu1BsSzXnIqxdUX2kR8BcM6smaKnW+K+2T20DXG6W3w8hlQh1advfvOGl6gVHjNYOZgEIZgFCVzObsATD3+bWOA4FVnErSsDZsMMO9qxBkAV6vBuau9DkTJm4nriAsF9VHK+u6SuXx6uKrdloA912di6wGgiFai7eVMwp2xh/Hxf3g9fiEIDD6YP+KhZbCHH4itjdr13VJsR/wIRxBqgvxj8BqYNO2UPJhYhe5aWNUBeNdWbn1IzibS8SsBKJk44MQg2ILPTEeTQ3yF0Ad2isLdxTnLM2aWxJwJIt0eurI31YG68NuSolbAM2ft7eI3K8Fvvi0RmQX1fGF2XU9CxQ+vN/EEs/B9upHiQHXprs5aJ67diuLIyNH69p+3ChPb3F/vJ8/ixs02va2eCHnKDnyv5Qk+ChEwsQSgGWL9zf2kg==;ctp+GqACzCbmzQh7YoNJoQ=="
 ---
 

@@ -154,6 +154,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Kamala Harris vs. Mike Pence on the issues: Abortion"
+    excerpt: "She presented a landmark plan to protect abortion rights. Vice President Mike Pence and Sen. Kamala Harris are set to face off on Wednesday in a debate bound to display their drastically opposing views on the issue,"
+    publishedDateTime: 2020-10-07T10:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-mike-pence-issues-abortion/story?id=73363088"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-mike-pence-issues-abortion/story?id=73363088"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-mike-pence-issues-abortion/story?id=73363088"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/supreme-court-abortion-gty-jc-201001_1601564460185_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pence, Harris to clash in VP debate amid White House virus outbreak"
+    excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris will square off on Wednesday in their only debate, as President Donald Trump's coronavirus diagnosis and the ongoing pandemic continue to roil the U."
+    publishedDateTime: 2020-10-07T10:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26S1HZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S1IB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S1IB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536509787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9610I"
+        width: 848
+        height: 545
+        isCached: true
   - title: "Vice President Mike Pence defends Trump holding rallies amid coronavirus"
     excerpt: "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored."
     publishedDateTime: 2020-09-24T08:31:00Z
@@ -201,6 +233,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1645144/kamala-harris.jpg"
         width: 1024
         height: 703
+        isCached: true
+  - title: "Mike Pence vs Kamala Harris: Here's how to watch the vice presidential debate"
+    excerpt: "Pence and Harris will meet for their only debate. It will be moderated by Susan Page, USA TODAY's Washington Bureau chief."
+    publishedDateTime: 2020-10-07T09:17:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/kamala-harris-and-mike-pence-how-watch-vice-presidential-debate-coronavirus/5902556002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5902556002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5902556002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 147
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/2cab1076-4091-4494-8a23-6078c9c53217-GTY_1278829734.jpg?auto=webp&crop=8191,4608,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
     excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris. Date: Wednesday, October 7, 2020. Location: Universi"
@@ -458,6 +506,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mike Pence and Kamala Harris Face-Off Tonight. Here's What to Expect From the Vice Presidential Debate"
+    excerpt: "Pence will defend Donald Trump's response to COVID-19, while Harris will be asked to navigate outsized expectations"
+    publishedDateTime: 2020-10-07T10:06:00Z
+    webUrl: "https://time.com/5896911/vice-presidential-debate-harris-pence/"
+    ampWebUrl: "https://time.com/5896911/vice-presidential-debate-harris-pence/?amp=true"
+    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5896911/vice-presidential-debate-harris-pence/?amp=true"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 134
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/kamala-harris-mike-pence-vp-debate.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Former Pence aide says there were private meetings about the possibility of Trump refusing to accept election results"
     excerpt: "Former aide to VP Mike Pence said Friday there were \"conversations behind closed doors\" about what would happen if Trump \"loses and refuses to leave.\""
     publishedDateTime: 2020-09-26T13:54:00Z
@@ -533,22 +597,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106729766-16018947981601894796-11764345025-1080pnbcnews.jpg?v=1601894798"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
-    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
-    publishedDateTime: 2020-10-07T09:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5878313002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5878313002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 130
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
@@ -1012,6 +1060,22 @@ related:
         width: 1440
         height: 909
         isCached: true
+  - title: "Kamala Harris is not a radical, but her rise may herald progressive change"
+    excerpt: "Radical change is the work of ordinary people, and yet we only demand it when representation makes it thinkable."
+    publishedDateTime: 2020-10-07T10:02:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/07/kamala-harris-is-not-radical-her-rise-may-herald-progressive-change/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/07/kamala-harris-is-not-radical-her-rise-may-herald-progressive-change/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/07/kamala-harris-is-not-radical-her-rise-may-herald-progressive-change/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3C4C74HX44I6VBPXLFARRCUYZU.jpg&w=1440"
+        width: 1440
+        height: 967
+        isCached: true
   - title: "'No wonder I didn't lose my hair!': Trump credits McDonald's fries for his hair"
     excerpt: "Between a flurry of tweets about the coming election, President Donald Trump replied to an article suggesting McDonald's fries might cure baldness."
     publishedDateTime: 2020-10-01T19:29:00Z
@@ -1198,6 +1262,22 @@ related:
         width: 4363
         height: 2909
         isCached: true
+  - title: "Briggs: Why Donald Trump chose a Mike Pence, and not a Kamala Harris, as VP"
+    excerpt: "It came as President Donald Trump tried to sort former Vice President Joe Biden into the left wing of the Democratic Party. When Biden rejected that premise, Trump altered his framing and allowed that perhaps Biden is a moderate,"
+    publishedDateTime: 2020-10-07T09:21:00Z
+    webUrl: "https://www.indystar.com/story/opinion/columnists/james-briggs/2020/10/07/why-donald-trump-chose-mike-pence-and-not-kamala-harris-vp/5902697002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5902697002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5902697002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/06/PIND/e295e1fd-cd68-458a-9852-5e73a7b94bef-AP19217533857016.jpg?auto=webp&crop=5202,2927,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dow Jumps More Than 450 Points After President Trump Says He’s Being Discharged From The Hospital"
     excerpt: "Stocks jumped Monday afternoon after President Donald Trump announced he would be discharged from Walter Reed Medical Center at 6:30 p.m., with all of the main indexes adding close to 2%, as Wall Street eyes President Trump's Covid-19 recovery and the ongoing potential for successful stimulus negotiations."
     publishedDateTime: 2020-10-05T21:05:00Z
@@ -1291,6 +1371,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/30/us-president-donald-trump-and-democratic-candidate-joe.jpg"
         width: 1024
         height: 690
+        isCached: true
+  - title: "Tonight Kamala Harris may need to prove she’s tough, to beat gender stereotypes. That affects foreign policy."
+    excerpt: "When Kamala Harris and Mike Pence face off in the vice-presidential debate tonight, they’re likely to discuss foreign policy. This was an important topic at the vice-presidential debate in 1984. Then,"
+    publishedDateTime: 2020-10-07T11:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/07/tonight-kamala-harris-may-need-prove-shes-tough-beat-gender-stereotypes-that-affects-foreign-policy/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/07/tonight-kamala-harris-may-need-prove-shes-tough-beat-gender-stereotypes-that-affects-foreign-policy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/07/tonight-kamala-harris-may-need-prove-shes-tough-beat-gender-stereotypes-that-affects-foreign-policy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7P4N2QIAII6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 951
         isCached: true
   - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
     excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
@@ -1621,22 +1717,6 @@ related:
       - url: "https://tvguide1.cbsistatic.com/i/r/2020/10/03/c84537b1-beee-4623-a0a7-4004673e3f92/thumbnail/1300x867/c5cc7998a0ff8ddeb925ee4019f1fda3/201002-mikepencekamalaharris-news.jpg"
         width: 1300
         height: 867
-        isCached: true
-  - title: "Mike Pence vs Kamala Harris: Here's how to watch the vice presidential debate"
-    excerpt: "Pence and Harris will meet for their only debate. It will be moderated by Susan Page, USA TODAY's Washington Bureau chief."
-    publishedDateTime: 2020-10-07T09:45:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/07/kamala-harris-and-mike-pence-how-watch-vice-presidential-debate-coronavirus/5902556002/"
-    ampWebUrl: "https://amp.freep.com/amp/5902556002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5902556002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/2cab1076-4091-4494-8a23-6078c9c53217-GTY_1278829734.jpg?auto=webp&crop=8191,4608,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Mike Pence vs. Kamala Harris: The Most Important Vice Presidential Debate Ever?"
     excerpt: "As Trump combats Coronavirus, it’s unclear if the presidential debates will proceed. In the event that Trump opts out of the next two debates, the vice presidential debate will be critical, putting pressure on Pence and Harris to persuade supporters to back their respective campaigns."
@@ -2166,6 +2246,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to watch the debate between Mike Pence and Kamala Harris"
+    excerpt: "Vice President Mike Pence and Senator Kamala Harris are scheduled to meet on Wednesday at 9 p.m. for their first and only debate, which comes on the heels of a chaotic, bitter clash between President Trump and former vice president Joe Biden just one week ago."
+    publishedDateTime: 2020-10-07T10:04:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/07/nation/how-watch-debate-between-mike-pence-kamala-harris/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/nation/how-watch-debate-between-mike-pence-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/nation/how-watch-debate-between-mike-pence-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 80
+  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
+    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
+    publishedDateTime: 2020-10-07T11:04:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5878313002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5878313002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
     excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."
     publishedDateTime: 2020-10-07T02:19:00Z
@@ -2389,6 +2496,38 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/42/31/20063862/3/375x250.jpg"
         width: 333
         height: 250
+        isCached: true
+  - title: "How will Kamala Harris affect Asian Americans voting in Texas?"
+    excerpt: "For Jashmin Patel, who moved to Austin in February, Joe Biden naming U.S. Sen. Kamala Harris as his running mate resonated on a personal level. “I"
+    publishedDateTime: 2020-10-07T10:24:00Z
+    webUrl: "https://www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas"
+    ampWebUrl: "https://www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201007&Category=NEWS&ArtNo=201009257&Ref=AR"
+        width: 3000
+        height: 1882
+        isCached: true
+  - title: "What the Media Should Be Asking Kamala Harris"
+    excerpt: "If media were doing their job and asking her tough questions, she’d be an enormous liability. NRPLUS MEMBER ARTICLE K amala Harris has come a long way since this time last year. In early October 2019,"
+    publishedDateTime: 2020-10-07T10:30:00Z
+    webUrl: "https://www.nationalreview.com/2020/10/what-the-media-should-be-asking-kamala-harris/"
+    ampWebUrl: "https://www.nationalreview.com/2020/10/what-the-media-should-be-asking-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2020/10/what-the-media-should-be-asking-kamala-harris/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/kamala-harris-raleigh-nc.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."

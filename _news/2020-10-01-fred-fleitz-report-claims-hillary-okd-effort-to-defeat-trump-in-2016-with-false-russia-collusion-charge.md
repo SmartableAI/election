@@ -46,36 +46,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
-    excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
-    publishedDateTime: 2020-10-07T00:54:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9N72ZCxZ9aM/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "DNI declassifies Brennan notes, CIA memo on Hillary Clinton 'stirring up' scandal between Trump, Russia"
-    excerpt: "Director of National Intelligence John Ratcliffe on Tuesday declassified documents that revealed former CIA Director John Brennan briefed former President Obama on Hillary Clinton’s purported “plan” to tie then-candidate Donald Trump to Russia as “a means of distracting the public from her use of a private"
-    publishedDateTime: 2020-10-06T18:41:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AT7sx4qYIg/dni-brennan-notes-cia-memo-clinton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 139
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/10/31/694940094001_6099268230001_6099265128001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’"
     excerpt: "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States."
     publishedDateTime: 2020-10-01T19:15:00Z
@@ -91,38 +61,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Intelligence Officials Urged Trump Spy Chief Not to Disclose Unverified Russian Claims About Clinton"
-    excerpt: "Officials at the Central Intelligence Agency and National Security Agency feared that sharing the information with Congress would give credence to unsubstantiated Kremlin-backed material."
-    publishedDateTime: 2020-10-01T04:57:00Z
-    webUrl: "https://www.wsj.com/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
-    ampWebUrl: "https://www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 120
-    images:
-      - url: "https://images.wsj.net/im-238792/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Comey says new information that Hillary Clinton drummed up Russia controversy to vilify Trump 'doesn’t ring a bell'"
-    excerpt: "Former FBI Director James Comey on Wednesday said it didn’t “ring a bell” when asked whether he received an investigative referral on Hillary Clinton purportedly approving “a plan” attempting to tie President Trump to Russia and distract from her email scandal before the 2016 election."
-    publishedDateTime: 2020-09-30T15:54:00Z
-    webUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe"
-    ampWebUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 113
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/643caea2-801c-428f-803c-0767482d777a/2655df2c-f2d9-4db1-b528-4570d1feb0f0/1280x720/match/image.jpg"
-        width: 1082
-        height: 720
         isCached: true
   - title: "Joe Biden has gotten softer coverage on networks than Hillary Clinton: study"
     excerpt: "Democratic presidential candidate Joe Biden is receiving significantly more favorable coverage on NBC, ABC and CBS’ evening newscasts than Hillary Clinton got four years ago but President Trump is covered more negatively than either of them,"

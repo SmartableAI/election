@@ -405,6 +405,22 @@ related:
         width: 1696
         height: 916
         isCached: true
+  - title: "Biden Says No Debate if Trump Still Has Covid, But Looks Forward to Facing President ‘If and When He Shows Up’"
+    excerpt: "Joe Biden said he's looking forward to facing President Donald Trump in another debate \"if and when he shows up,\" but said \"there shouldn't be a debate\" if Trump is still infected with COVID-19."
+    publishedDateTime: 2020-10-07T11:42:00Z
+    webUrl: "https://www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/"
+    ampWebUrl: "https://www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-6.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
     excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
     publishedDateTime: 2020-10-07T02:35:00Z

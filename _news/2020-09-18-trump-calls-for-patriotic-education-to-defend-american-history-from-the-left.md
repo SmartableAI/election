@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump called him 'my African American.' His life hasn't been the same since"
-    excerpt: "If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. Hear how his life was transformed after Trump called him \"My African-American.\"\n    \n"
-    publishedDateTime: 2020-09-13T13:00:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/26YZY7DcoPc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html"
+  - title: "Trump rails against the 'liberal indoctrination of America's youth' in latest culture war salvo"
+    excerpt: "President Donald Trump railed against what he described as \"the liberal indoctrination of America's youth\" during a Constitution Day speech on Thursday, marking his latest attempt to inflame the culture wars raging in America ahead of the election.\n    \n"
+    publishedDateTime: 2020-09-17T21:59:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x47QAAln-eU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909135548-01-gregory-cheadle-june-2016-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917152240-02-trump-national-archives-0917-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -80,6 +80,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Vice presidential debate between Pence and Harris set to kick off"
+    excerpt: "Mike Pence and Kamala Harris are set to debate in Salt Lake City"
+    publishedDateTime: 2020-10-07T11:06:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ULaVhKbiV2w/live-updates-vice-presidential-debate-pence-harris-salt-lake-city"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-vice-presidential-debate-pence-harris-salt-lake-city.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-vice-presidential-debate-pence-harris-salt-lake-city.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 206
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6ccc8ca4-882c-4ff0-9a2e-870ed427f54c/ab228ccf-a365-45e3-91bd-efc039900303/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "5 things to watch in first vice presidential debate tonight between Pence, Harris"
+    excerpt: "Vice presidential debates are rarely as thrilling as the showdowns between the two people running for commander-in-chief."
+    publishedDateTime: 2020-10-07T11:00:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BI4OCvUadQo/5-things-to-watch-vice-presidential-debate-pence-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/5-things-to-watch-vice-presidential-debate-pence-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/5-things-to-watch-vice-presidential-debate-pence-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20280806908261.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris doesn't take questions after speech ripping Trump's Supreme Court push"
     excerpt: "Harris ripped Trump and the GOP for attempting to appoint a Supreme Court justice during an election year."
     publishedDateTime: 2020-09-29T00:45:48Z

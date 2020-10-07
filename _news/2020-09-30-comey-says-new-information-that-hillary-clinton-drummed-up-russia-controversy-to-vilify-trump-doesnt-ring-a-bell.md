@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’"
-    excerpt: "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States."
-    publishedDateTime: 2020-10-01T19:01:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america"
-    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp"
+  - title: "Sen. Cotton calls out Obama-Biden admin, Clinton on Russia collusion hoax"
+    excerpt: "The declassification of former CIA director John Brennan's notes proves Hillary Clinton colluded with foreign entities to inject disinformation into the 2016 campaign, Sen. Tom Cotton, R-Ark., told \"Fox & Friends\" Wednesday."
+    publishedDateTime: 2020-10-07T11:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCKzsD3mkUU/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump's call to declassify Russia collusion, Clinton documents sparks fierce debate online"
+    excerpt: "President Trump’s decision Tuesday to authorize the declassification of all documents related to the high-profile Russia investigation and the FBI probe into Hillary Clinton’s use of a private email server while serving as secretary of state was embraced by supporters and brushed off by detractors."
+    publishedDateTime: 2020-10-07T09:01:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVxWLpK_2sk/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
     excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
@@ -78,22 +94,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’"
-    excerpt: "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States."
-    publishedDateTime: 2020-10-01T19:15:00Z
-    webUrl: "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america"
-    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Intelligence Officials Urged Trump Spy Chief Not to Disclose Unverified Russian Claims About Clinton"
     excerpt: "Officials at the Central Intelligence Agency and National Security Agency feared that sharing the information with Congress would give credence to unsubstantiated Kremlin-backed material."
     publishedDateTime: 2020-10-01T04:57:00Z
@@ -109,34 +109,6 @@ related:
       - url: "https://images.wsj.net/im-238792/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Joe Biden has gotten softer coverage on networks than Hillary Clinton: study"
-    excerpt: "Democratic presidential candidate Joe Biden is receiving significantly more favorable coverage on NBC, ABC and CBS’ evening newscasts than Hillary Clinton got four years ago but President Trump is covered more negatively than either of them,"
-    publishedDateTime: 2020-09-29T17:35:00Z
-    webUrl: "https://www.foxnews.com/media/joe-biden-coverage-networks-hillary-clinton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 112
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/38ceb738-b8a0-4146-99ea-488d6edd4296/3f139e83-e101-4efb-904f-f738ea3e7e2e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fred Fleitz: Report claims Hillary OK’d effort to defeat Trump in 2016 with false Russia collusion charge"
-    excerpt: "A letter from Director of National Intelligence John Ratcliffe given to the Senate Judiciary Committee on Tuesday was a true bombshell, alleging that U.S. intelligence was weaponized in an effort to defeat Donald Trump in the 2016 presidential election."
-    publishedDateTime: 2020-10-01T09:11:00Z
-    webUrl: "https://www.foxnews.com/opinion/hillary-clinton-trump-russia-collusion"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 98
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26858520-8af1-445a-a1ee-690eba0a7cd7/245c1dc5-935f-4f5d-acaa-f8ca2421cbb3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "d+/ct342zWdJzcs9pyPW2Ah9X6VU+XqUxbwC9GKY/o3XXVpO5N0KooquDd7shHt07oHArtn42fB0/mo+hszxnbBADc4djEXzPybHaV7PlMShotELbXYUwbZk77DwGQ4N47BSF09LJlIpH09YUIePh17gHY+jQLccGMTFokLyeB/AdBojwxS9fBevY5qv03ndgwKK6nyLLO+RWbMk7oIq7bklrljolTsUlwZCwinKKA/l4kodWTCctNyqfYmjLp1MyMEm7fGxhpXVGEiqrHm1OG9FQB0Hs6+QKewa4wUHfdSWBQF08W/2kR2OrtTP9icVy/MdWZsAvPYJn7Tq9Un6gQNoqAZYtJjtQEM/3oT5cTY=;8DkoV4oZ0Iu24oTVqKqljg=="

@@ -389,6 +389,22 @@ related:
         width: 1696
         height: 916
         isCached: true
+  - title: "Biden Says No Debate if Trump Still Has Covid, But Looks Forward to Facing President ‘If and When He Shows Up’"
+    excerpt: "Joe Biden said he's looking forward to facing President Donald Trump in another debate \"if and when he shows up,\" but said \"there shouldn't be a debate\" if Trump is still infected with COVID-19."
+    publishedDateTime: 2020-10-07T11:42:00Z
+    webUrl: "https://www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/"
+    ampWebUrl: "https://www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-6.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z

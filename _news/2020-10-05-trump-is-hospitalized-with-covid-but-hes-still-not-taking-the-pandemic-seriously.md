@@ -751,12 +751,44 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Arizona Senate debate turns on Trump"
+    excerpt: "When pressed over and over again, Republican Sen. Martha McSally of Arizona would not say on Tuesday whether she was proud of her support of President Donald Trump in her debate against Democratic opponent Mark Kelly.\n    \n"
+    publishedDateTime: 2020-10-07T11:24:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-VpLX35yNZc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/arizona-senate-race-debate-martha-mcsally-mike-kelly/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/arizona-senate-race-debate-martha-mcsally-mike-kelly/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006232103-martha-mcsally-mark-kelly-1006-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pay attention to these headlines rather than Trump's anti-reality"
     excerpt: "Pumped full of unapproved drugs not available to average Americans plus a steroid, President Donald Trump mounted the steps of the White House on Monday night, told Americans not to be afraid of Covid-19 and promised them they'd beat it.\n    \n"
     publishedDateTime: 2020-10-07T00:30:23Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAGKyxQfVRo/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's erratic behavior ignores worsening pandemic and its victims"
+    excerpt: "A defiant President Donald Trump is chasing his own political goals while ignoring the human and economic toll of the pandemic, with his super spreader White House in chaos and top Pentagon generals in quarantine.\n    \n"
+    publishedDateTime: 2020-10-07T11:41:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NyVrgjJiW_k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/donald-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/donald-trump-coronavirus/index.html"
     type: article
     provider:
       name: CNN
@@ -2540,6 +2572,22 @@ related:
       - url: "https://static.politico.com/c4/cc/cd9f89f74b61bc57d7dbd69f428d/gettyimages-1152449770-1.jpg"
         width: 1160
         height: 771
+        isCached: true
+  - title: "Trump Does Fear the Coronavirus"
+    excerpt: "Something momentous happened late last week, a brief pinprick of clarity piercing through the haze: Donald Trump finally showed Americans the truth about the coronavirus. Not with his words, of course."
+    publishedDateTime: 2020-10-07T10:14:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/opinion/trump-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/opinion/trump-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/opinion/trump-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/opinion/07manjooWeb/07manjooWeb-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "E.P.A. to Promote Lead Testing Rule As Trump Tries to Burnish His Record"
     excerpt: "The E.P.A. will tout a new rule on testing lead in drinking water as President Trump's latest environmental achievement, but water experts see only modest improvements at best."

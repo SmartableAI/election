@@ -489,7 +489,7 @@ related:
   - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
     excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
     publishedDateTime: 2020-10-07T04:38:00Z
-    webUrl: "https://www.chron.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+    webUrl: "https://www.chron.com/shopping/article/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
     type: article
     provider:
       name: Houston Chronicle

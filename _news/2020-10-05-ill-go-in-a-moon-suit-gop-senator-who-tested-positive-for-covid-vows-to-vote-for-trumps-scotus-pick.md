@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-su
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-supreme-court/index.html"
 type: article
 quality: 158
-heat: 158
+heat: 178
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Missouri governor mirrors Trump: Covid-positive after months of virus criticism"
+    excerpt: "Like the president, Missouri Gov. Mike Parson was under fire for reopening too quickly as he ran for reelection. Then he tested positive for coronavirus."
+    publishedDateTime: 2020-10-03T11:05:00Z
+    webUrl: "https://www.politico.com/news/2020/10/03/mike-parson-missouri-covid-trump-425741"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 91
 
 secured: "q5v3EeH8KLEq/ADgAMbaJm+ELIib0177OiiLKMe7QYqWhehywh7/3a/KiM5qGcFCuMTsT+MlqsKCID9GlYQ7vBXXzmXbzGqVZrxMicKhEsvbcWpfASAMPjXcfBZH8LoYLVUL9DFCNrNlmdgSjvxnSeFdyjJBn+vBsqJRg0QVp0Td9E+5FxshZWlN3ESWF0DoSCGrZqNod4fA7MmJvT8ATkCmyJeBIxhIr6xaso6quechR+/S9z2CHlsKNGbCI/yFvSOfow6ZjaYQGdkiCSlpQ2EK7xDXjX7KwEfao7WDe0tWvIdiKi2CTFuFv0iVO9l0JF88YPGVYIaK+wu5lbiPHiYGobyQtKX0CGelKjMSj5M=;zJes/Dlmf28nDEr+86KgFw=="
 ---
