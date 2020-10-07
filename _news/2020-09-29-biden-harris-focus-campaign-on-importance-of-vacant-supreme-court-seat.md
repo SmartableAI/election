@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Live updates: Pence, Harris to face off after Trump's Covid diagnosis"
+    excerpt: "Wednesday's vice presidential debate comes less than a week after Trump announced he had tested positive for Covid-19."
+    publishedDateTime: 2020-10-07T13:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/vice-presidential-debate-n1242346"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242346"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242346"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 175
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3417632/201005-vp-debate-live-blog-main-cover-cs_36a324da8209b59ae1ae41b6ae27debf.jpg"
+        width: 2500
+        height: 1405
+        isCached: true
   - title: "Sen. Kamala Harris and VP Mike Pence 2020 debate preview"
     excerpt: "The 2020 vice presidential candidates’ debate, between Democratic candidate Sen. Kamala Harris and Republican incumbent Vice President Mike Pence, will see Pence having to defend the record of the Trump administration,"
     publishedDateTime: 2020-10-04T18:27:00Z

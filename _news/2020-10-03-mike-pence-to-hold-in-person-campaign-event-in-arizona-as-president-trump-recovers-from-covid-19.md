@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Briggs: Why Donald Trump chose a Mike Pence, and not a Kamala Harris, as VP"
+    excerpt: "It came as President Donald Trump tried to sort former Vice President Joe Biden into the left wing of the Democratic Party. When Biden rejected that premise, Trump altered his framing and allowed that perhaps Biden is a moderate,"
+    publishedDateTime: 2020-10-07T12:46:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/columnists/james-briggs/2020/10/07/why-donald-trump-chose-mike-pence-and-not-kamala-harris-vp/5902697002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5902697002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5902697002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 163
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/06/PIND/e295e1fd-cd68-458a-9852-5e73a7b94bef-AP19217533857016.jpg?auto=webp&crop=5202,2927,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence-Harris VP debate to draw outsized attention after Trump's coronavirus diagnosis"
     excerpt: "This week's vice presidential debate has taken on an outsized and perhaps unprecedented significance, with questions about President Donald Trump's health now looming over the U.S. election less than a month away."
     publishedDateTime: 2020-10-06T10:16:00Z
@@ -598,6 +614,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106729766-16018947981601894796-11764345025-1080pnbcnews.jpg?v=1601894798"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
+    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
+    publishedDateTime: 2020-10-07T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5878313002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5878313002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
@@ -1201,6 +1233,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice presidential candidates Mike Pence and Kamala Harris to face off in high-stakes debate"
+    excerpt: "The vice presidential debate between Mike Pence and Kamala Harris will take on added significance after President Trump's COVID-19 diagnosis. CBS News political contributors Jamal Simmons and Terry Sullivan joined \"CBS This Morning\" to discuss the high-stakes debate."
+    publishedDateTime: 2020-10-07T13:08:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-presidential-candidates-mike-pence-and-kamala-harris-to-face-off-in-high-stakes-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/07/03c96672-30d0-4c22-b88d-c959a9b56e1b/thumbnail/1200x630/a1045e62dd9076781c2e7870e3d338fe/pence-harris-561231-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "China had mocked Trump for not taking the pandemic seriously. Now it's very personal."
     excerpt: "China is riveted by news of Trump’s positive coronavirus test, even as senior officials remain reserved in their public comments."
     publishedDateTime: 2020-10-03T13:34:00Z
@@ -1262,22 +1308,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/ae72be46-bc69-48a1-b5be-e5285dad28f3-AP_APTOPIX_Supreme_Court_Barrett.jpg?quality=10"
         width: 4363
         height: 2909
-        isCached: true
-  - title: "Briggs: Why Donald Trump chose a Mike Pence, and not a Kamala Harris, as VP"
-    excerpt: "It came as President Donald Trump tried to sort former Vice President Joe Biden into the left wing of the Democratic Party. When Biden rejected that premise, Trump altered his framing and allowed that perhaps Biden is a moderate,"
-    publishedDateTime: 2020-10-07T09:21:00Z
-    webUrl: "https://www.indystar.com/story/opinion/columnists/james-briggs/2020/10/07/why-donald-trump-chose-mike-pence-and-not-kamala-harris-vp/5902697002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5902697002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5902697002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/08/06/PIND/e295e1fd-cd68-458a-9852-5e73a7b94bef-AP19217533857016.jpg?auto=webp&crop=5202,2927,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Dow Jumps More Than 450 Points After President Trump Says He’s Being Discharged From The Hospital"
     excerpt: "Stocks jumped Monday afternoon after President Donald Trump announced he would be discharged from Walter Reed Medical Center at 6:30 p.m., with all of the main indexes adding close to 2%, as Wall Street eyes President Trump's Covid-19 recovery and the ongoing potential for successful stimulus negotiations."
@@ -1703,6 +1733,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Pence, Kamala Harris to square off in only vice presidential debate"
+    excerpt: "Sen. Kamala Harris and Vice President Mike Pence are preparing for their only debate Wednesday night, which will be staged with expanded COVID-19 safety precautions days after President Donald Trump tested positive."
+    publishedDateTime: 2020-10-07T13:32:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/07/Mike-Pence-Kamala-Harris-to-square-off-in-only-vice-presidential-debate/3511602021530/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/07/Mike-Pence-Kamala-Harris-to-square-off-in-only-vice-presidential-debate/3511602021530/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/07/Mike-Pence-Kamala-Harris-to-square-off-in-only-vice-presidential-debate/3511602021530/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 99
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/3511602021530/2020/1/16020669964280/v1.5/Mike-Pence-Kamala-Harris-to-square-off-in-only-vice-presidential-debate.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "How to Watch Kamala Harris and Mike Pence's First Vice Presidential Debate"
     excerpt: "As we approach the final weeks of the 2020 presidential campaign cycle, incumbent vice president Mike Pence and Senator Kamala Harris will soon take the stage for their first and only vice presidential debate before the election,"
     publishedDateTime: 2020-10-05T14:36:00Z
@@ -1959,6 +2005,22 @@ related:
         width: 2000
         height: 1460
         isCached: true
+  - title: "Mike Pence and Kamala Harris to meet for first and only vice presidential debate Wednesday"
+    excerpt: "While VP debates often get short shrift, this one may prove more substantive — or, at least, easier to understand — than the first presidential debate."
+    publishedDateTime: 2020-10-07T13:12:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/07/vice-presidential-debate-pence-harris-arizona-campaign/5906270002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5906270002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5906270002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "How to Watch Wednesday Night’s Debate Between Mike Pence and Kamala Harris—and What to Expect"
     excerpt: "The debate, which will take place at 9 p.m. on Wednesday, will feature increased social distancing protocols, including greater distance between the two candidates and plexiglass shields in front of each of their lecterns."
     publishedDateTime: 2020-10-05T21:35:00Z
@@ -2102,6 +2164,22 @@ related:
       - url: "https://media.nbcnewyork.com/2020/10/VP-DEBATE-UTAH-SETUP.jpg?fit=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Democrats doubted Kamala Harris was liberal enough. Now Mike Pence calls her radical. What’s true?"
+    excerpt: "Kamala Harris spent her presidential campaign trying to prove to her party she was a bona fide, enthusiastic liberal – not the “top cop” the former prosecutor called herself during her time as California’s attorney general."
+    publishedDateTime: 2020-10-07T12:00:00Z
+    webUrl: "https://www.miamiherald.com/article246253680.html"
+    ampWebUrl: "https://amp.miamiherald.com/article246253680.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246253680.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 86
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/0bf46f13-28fd-4d6e-bc78-c919a3028ab7/main/1280x720/5s/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Vice presidential debate (10/7) live stream: How to watch Mike Pence-Kamala Harris online, TV, time"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris — will meet Wednesday, Oct. 7, in the only debate scheduled for the two running mates. The debate will be live streamed on fuboTV. A week after what can only be described as a “chaotic” debate between Trump and Democratic nominee Joe Biden,"
@@ -2272,22 +2350,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 80
-  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
-    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
-    publishedDateTime: 2020-10-07T11:04:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5878313002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5878313002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
     excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."
     publishedDateTime: 2020-10-07T02:19:00Z
@@ -2335,6 +2397,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Democrats doubted Kamala Harris was liberal enough. Now Mike Pence calls her radical. What’s true? | Charlotte Observer"
+    excerpt: "Kamala Harris spent her presidential campaign trying to prove to her party she was a bona fide, enthusiastic liberal – not the “top cop” the former prosecutor called herself during her time as California’s attorney general."
+    publishedDateTime: 2020-10-07T12:48:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246253680.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246253680.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246253680.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 76
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/0bf46f13-28fd-4d6e-bc78-c919a3028ab7/main/1280x720/5s/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
     excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"
@@ -2511,6 +2589,22 @@ related:
       - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201007&Category=NEWS&ArtNo=201009257&Ref=AR"
         width: 3000
         height: 1882
+        isCached: true
+  - title: "Kamala Harris and the ‘Other 1 Percent’"
+    excerpt: "Long before the Democratic vice presidential candidate became a national figure, India played a role in American politics."
+    publishedDateTime: 2020-10-07T12:31:00Z
+    webUrl: "https://www.theatlantic.com/international/archive/2020/10/kamala-harris-india-politics-singh/616624/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616624/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616624/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/pVfkNjcj_SyBuC_YjLx151tv_ao=/570x321/media/img/mt/2020/10/webart_indiakamala/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "What the Media Should Be Asking Kamala Harris"
     excerpt: "If media were doing their job and asking her tough questions, she’d be an enormous liability. NRPLUS MEMBER ARTICLE K amala Harris has come a long way since this time last year. In early October 2019,"
@@ -2711,6 +2805,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e3bab1f8-81e3-4fd2-b844-0f0af5276b68_poster.jpg?quality=10"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How To Watch The Vice Presidential Debate, Kamala Harris, Mike Pence Face Off At 9 p.m. EDT"
+    excerpt: "In past elections, the vice presidential debates have been little more than a side show, but this time they have taken on added significance in light of the candidates’ ages, as well as Trump’s illness."
+    publishedDateTime: 2020-10-07T13:45:00Z
+    webUrl: "https://www.ibtimes.com/how-watch-vice-presidential-debate-kamala-harris-mike-pence-face-9-pm-edt-3057591"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/05/democratic-vice-presidential-nominee-kamala-harris-said-that.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Vice Presidential Debate: Kamala Harris, Mike Pence Reportedly Being Separated By Plexiglass"
     excerpt: "SALT LAKE CITY (CBS SF) – Vice President Mike Pence and Sen. Kamala Harris will reportedly be separated by plexiglass at Wednesday’s Vice Presidential Debate amid concerns about the ..."

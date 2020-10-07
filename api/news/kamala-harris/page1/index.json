@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-07-pence-harris-in-utah-for-vice-presidential-debate-trump-quarantining-at-the-white-house.md",
+      "title": "Pence, Harris in Utah for vice presidential debate; Trump quarantining at the White House",
+      "excerpt": "With the November election less than one month away, the running mates of Trump and Democratic rival Joe Biden are scheduled to appear for 90 minutes at the University of Utah in Salt Lake City for the first and only vice presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa3Nf1Ty2IA/pence-harris-utah-vice-presidential-debate-trump-quarantining-white-house",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa3Nf1Ty2IA/pence-harris-utah-vice-presidential-debate-trump-quarantining-white-house",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/90b6ae9d-abc4-4eef-b852-0f45e4c217fd/ebcc77c1-f4ca-47f5-85f3-91b8cb81ae92/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-harris-utah-vice-presidential-debate-trump-quarantining-white-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-utah-vice-presidential-debate-trump-quarantining-white-house.amp",
+      "publishedDateTime": "2020-10-07T06:40:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-there-will-be-more-space-between-pence-and-harris-at-next-weeks-debate.md",
       "title": "There will be more space between Pence and Harris at next week's debate",
       "excerpt": "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will be separated by 12 feet at their debate on Wednesday, a source familiar with the plans tells CNN.\n    \n",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 730,
+      "heat": 750,
       "tags": null,
       "images": [
         {
@@ -59,63 +116,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-host-of-pence-harris-vp-debate-says-they-still-plan-on-holding-event.md",
-      "title": "Host of Pence-Harris VP debate says they still plan on holding event",
-      "excerpt": "The vice presidential debate between Mike Pence and Sen. Kamala Harris is still going on as planned on Wednesday, despite President Trump’s positive Covid-19 test, a debate host spokesperson told Fox News. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 790,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Harris-Pence_AP.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp",
-      "publishedDateTime": "2020-10-02T12:12:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-heres-how-kamala-harris-puts-the-nail-in-the-trump-pence-coffin.md",
       "title": "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin",
       "excerpt": "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest.",
@@ -124,7 +124,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4295,
+      "heat": 4435,
       "tags": null,
       "images": [
         {
@@ -181,7 +181,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 291,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -222,6 +222,118 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-kamala-harris-doesnt-take-questions-after-speech-ripping-trumps-supreme-court-push.md",
+      "title": "Kamala Harris doesn't take questions after speech ripping Trump's Supreme Court push",
+      "excerpt": "Harris ripped Trump and the GOP for attempting to appoint a Supreme Court justice during an election year.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oP1Zl6z25WQ/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oP1Zl6z25WQ/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 813,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9710e7d0-b418-4817-851c-601c81b0ca58/45146b75-8b1a-4d4d-9517-26baa043d584/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp",
+      "publishedDateTime": "2020-09-28T17:45:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-kamala-harris-accuses-gop-senate-of-ignoring-justice-ginsburgs-final-wish.md",
+      "title": "Kamala Harris Accuses GOP Senate of 'Ignoring Justice Ginsburg's Final Wish'",
+      "excerpt": "Senator Kamala Harris (D-CA) hit the campaign trail on Monday, as Joe Biden continues to shield himself from the public eye. The newly-minted vice presidential nominee commemorated the life of",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081",
+      "originalUrl": "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/224/8599b041-4739-4730-b05c-b850ed0f980e.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081?amp=true",
+      "publishedDateTime": "2020-09-28T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {

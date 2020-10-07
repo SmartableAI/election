@@ -167,22 +167,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump will continue COVID-19 treatment at the White House"
-    excerpt: "President Trump will continue receiving treatment for the coronavirus at the White House, where he returned Monday after spending three days at the nearby Walter Reed National Medical Center, his"
-    publishedDateTime: 2020-10-06T12:14:00Z
-    webUrl: "https://nypost.com/2020/10/06/trump-will-continue-covid-19-treatment-at-the-white-house/"
-    ampWebUrl: "https://nypost.com/2020/10/06/trump-will-continue-covid-19-treatment-at-the-white-house/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/06/trump-will-continue-covid-19-treatment-at-the-white-house/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-health-91.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "8s4Fwpr4ZjJywESacTV6W9npdRIggTYYe88x3WWLjZc5s4UIyFOB10ufzMaTW4uEaOZ8aI2j8ErK4rcVNSsuAn6dn7N3HZHeDd2Vll1SRDE1ShgYdi4I5b2DCEmpwJwQHmbqaEk4oXyB6koOwwKzSX5hCZhRsiDNzMFRSXJprInIQdfLlACQwKI1QSZFJlQvOsIrsX13vspr0pqxTymJF7bNdnfPwU7JhpdoOM/KL4E53iz1wlgkV5HfN2H68iH32coW22hxsSeCulJ1r3QgJ0N8hI2xiJic21MSgoQYVRloKaaFDuVCP82irm6HzZzvkrdFzZmT8yRfsrSj4fr4Ubc/NQGpq2UksPL0zJ5wecs=;P7AJ29A7ePAmn/NOH+vVlQ=="
 ---

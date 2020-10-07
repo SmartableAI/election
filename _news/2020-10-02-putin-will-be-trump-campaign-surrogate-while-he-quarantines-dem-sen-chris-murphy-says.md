@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/sen-chris-murphy-putin-trump-campai
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus.amp"
 type: article
 quality: 166
-heat: -1
-published: false
+heat: 166
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "No one wore a mask during Trump debate prep, Chris Christie says"
-    excerpt: "Former N.J. Gov. Chris Christie revealed that no one in the room was wearing a mask when a small group of people gathered in the White House's map room on Monday to help prep President Trump for the first debate. "
-    publishedDateTime: 2020-10-02T14:46:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says"
-    ampWebUrl: "https://www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "luJUYVzgF6thKY+yZNLfxWmMrGl5dVZoTTzyyFXSYVxDbDFIMEjpKP6PcNmBzapSHT+v4y/KVtsNijRAy09a9SCQrZRBziZETKlLgfrbNJ/xhMMi6nh28jm1ZoVUQSOzZ91S+pzYLcb6pHB3KeO6il8Gq2a7HVFwfphT65xwrSbGEIw6YI/xgwDOVVQrVc2JtlfdnqW1gxdylteUjLEydw88nCIsX2fqrlxi8I5cQUU7FaBOJTJHN4hC8JoA1O3XfRfNYtbbwc6nD+ALbXFQRK+de3X95ghdFSSBTAhrLzT8/kznyvMLLH5FY2OosWOwfimL8/hiq3aI3BzDuEkCWJ4ccYaO/PWzXucAA5zy6bI=;d7X0WslK7K0iUy66eXkTCw=="
 ---

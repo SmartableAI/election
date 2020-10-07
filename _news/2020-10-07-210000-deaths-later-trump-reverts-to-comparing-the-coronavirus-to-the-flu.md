@@ -799,6 +799,22 @@ related:
         width: 776
         height: 545
         isCached: true
+  - title: "Trump calls for more airline aid hours after halting stimulus talks"
+    excerpt: "In a late night tweet Tuesday, President Donald Trump urged Congress to approve an extension of the Payroll Support Program (PSP) for major U.S. airlines that have furloughed tens of thousands of workers amid the coronavirus pandemic."
+    publishedDateTime: 2020-10-07T12:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-calls-airline-aid-hours-halting-stimulus-talks/story?id=73468540"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-calls-airline-aid-hours-halting-stimulus-talks/story?id=73468540"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-calls-airline-aid-hours-halting-stimulus-talks/story?id=73468540"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-walter-reed-10-ap-er-201005_1601939596590_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump campaign's next steps unclear after White House return"
     excerpt: "President Donald Trump’s return to the White House is poised to reshape the campaign’s final four weeks as aides debate how to move past an extraordinary setback while grappling with how to send an in"
     publishedDateTime: 2020-10-07T07:24:00Z
@@ -1519,6 +1535,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Stocks Recover After Trump's Back And Forth On Stimulus, Claims He'd Sign Standalone Bill"
+    excerpt: "\"If I am sent a Stand Alone Bill for Stimulus Checks ($1,200), they will go out to our great people IMMEDIATELY,\"  Trump tweeted shortly after 10 p.m. EDT. \"I am ready to sign right now. Are you listening Nancy?"
+    publishedDateTime: 2020-10-07T13:35:00Z
+    webUrl: "https://www.forbes.com/sites/jonathanponciano/2020/10/07/stock-trump-stimulus/"
+    ampWebUrl: "https://www.forbes.com/sites/jonathanponciano/2020/10/07/stock-trump-stimulus/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2020/10/07/stock-trump-stimulus/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 116
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2521a07bc790006d548%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5096%26cropY1%3D296%26cropY2%3D3163"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
     excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
     publishedDateTime: 2020-10-03T02:31:00Z
@@ -1791,6 +1823,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why the Russians may know more about Trump's health and COVID diagnosis than the American public"
+    excerpt: "Russia and other US foes have almost certainly deployed every tool in their spy kits to determine how sick the president is, according to experts."
+    publishedDateTime: 2020-10-07T12:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/07/trump-covid-diagnosis-russia-china-spies-national-security/5898459002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5898459002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5898459002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/21/USAT/fb3da339-e73c-4e63-929f-5e7c8df79145-AP_France_Trump_Russia_Probe.JPG?auto=webp&crop=5024,2826,x1,y886&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump, 10 others test positive for COVID: A running list of everyone being tested and their results"
     excerpt: "White House officials said Friday that President Donald Trump is feeling only \"mild symptoms\" following the announcement that he and first lady Melania Trump have tested positive for COVID-19. Trump announced his positive test early Friday morning,"
     publishedDateTime: 2020-10-03T01:19:00Z
@@ -1945,6 +1993,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump, who still has COVID-19, went into the Oval Office yesterday, according to a top White House adviser"
+    excerpt: "Kudlow would not say whether Trump wore a mask, instead claiming \"additional measures\" that are \"much greater than simply masking\" were taken."
+    publishedDateTime: 2020-10-07T13:41:00Z
+    webUrl: "https://www.businessinsider.com/trump-went-into-the-oval-office-after-getting-discharged-kudlow-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-went-into-the-oval-office-after-getting-discharged-kudlow-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-went-into-the-oval-office-after-getting-discharged-kudlow-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5f7dbfb7282c500018c790d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Column: Trump puts Secret Service agents at risk with COVID Car Ride - but relax, it was medically necessary"
     excerpt: "As President Donald Trump battles COVID-19, questions have come up about the accuracy of his health updates and his ride to wave to supporters outside Walter Reed Medical Center."
@@ -3116,6 +3180,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Donald-Trump-via-Joshua-Roberts_Getty-Images.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Donald Trump Goes After His Own FDA Director for Scientifically Approved Covid Vaccine Safety Rules: ‘Just Another Political Hit Job!’"
+    excerpt: "Donald Trump Fires Backs FDA Director Over New Covid Vaccine Safety Rules, Which Are Fully Supported by Science: 'Just Another Political Hit Job!'"
+    publishedDateTime: 2020-10-07T02:00:00Z
+    webUrl: "https://www.mediaite.com/news/donald-trump-goes-after-his-own-fda-director-for-scientifically-approved-covid-vaccine-safety-rules-just-another-political-hit-job/"
+    ampWebUrl: "https://www.mediaite.com/news/donald-trump-goes-after-his-own-fda-director-for-scientifically-approved-covid-vaccine-safety-rules-just-another-political-hit-job/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/donald-trump-goes-after-his-own-fda-director-for-scientifically-approved-covid-vaccine-safety-rules-just-another-political-hit-job/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 43
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/03/coronavirus-task-force-briefing-White-House-Trump-Getty-1213539862.jpg"
+        width: 1200
+        height: 624
         isCached: true
 
 secured: "PS1s5hJPwFjCI3y/sLHckFCLJ0trloz0f19RluYh5Kbe41BVr47rqHZheT4txfwPBl7cm5tNznukQ/OPDh6ACEn+EylrqtxcXkcZvZ0OHi/d+UOp+Q9PT3m/XuhKTuLrCZsDs29JJ1cJXxNA/FIvw9U1KqeF7uNJfCPVgf8yAZkokrxSM8CWsRV0xksZnvRu7cRPAweJFONVwjJoNI53ai/PPun1TQzFkwB+FEL0a1TlUaOZ6blNT4+xVoxNVTtyfOXudPCg5A2WYzh+oc0ph5u2+0kTvxL+4aQ+7xgBHzp05Wqu3BYatcRQ6bWAZ7VhWOQronvKInrTO0wbUyQnVHgiSThPaA9h6GKVRsr+nxg=;D+23FFceGL4PzfOr2iJC9A=="

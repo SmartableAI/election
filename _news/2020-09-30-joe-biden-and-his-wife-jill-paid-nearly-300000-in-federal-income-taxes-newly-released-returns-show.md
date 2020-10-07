@@ -123,6 +123,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Battle for the suburbs: can Joe Biden flip Texas? – video"
+    excerpt: "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli"
+    publishedDateTime: 2020-10-07T10:14:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video?ref=hvper.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/ad2b6c6bc07ee8a1c8603135263f9c5f9afdd033/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddfef1d2d526de95827d109c891e36aa"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden campaign sees opportunity in military women, spouses and people of color"
     excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
     publishedDateTime: 2020-10-03T11:16:00Z

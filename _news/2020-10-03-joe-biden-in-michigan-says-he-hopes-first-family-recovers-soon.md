@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Hayden endorses Biden, says Trump 'doesn't care about facts'"
+    excerpt: "Michael Hayden, who served as director of both the CIA and the National Security Agency under multiple presidents, on Tuesday night endorsed Democratic presidential nominee Joe Biden, saying President Trump “doesn't care about facts” and “ doesn't keep the country safe."
+    publishedDateTime: 2020-10-07T13:24:00Z
+    webUrl: "https://thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts"
+    ampWebUrl: "https://thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/article_images/haydenmichael_120316getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
     publishedDateTime: 2020-10-07T02:42:00Z

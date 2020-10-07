@@ -2,6 +2,117 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-03-will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us.md",
+      "title": "Will Biden ‘Condemn’ the Stalinist Regime Whose Lifelong Obsession Is the Destruction of the US?",
+      "excerpt": "Are you willing tonight to condemn white supremacists and militia groups…” President Trump: “Sure…What do you want to call them? Give me a name.”Chris Wallace: “White supremacists and right-wing",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
+      "originalUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/274/745a0700-7ead-4c6d-9c76-495705c88b3c.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
+      "publishedDateTime": "2020-10-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think.md",
+      "title": "Trump tweets from hospital as doc confirms Remdesivir treatment: ‘Going well, I think!’",
+      "excerpt": "President Trump posted a Twitter message from Walter Reed Medical Center on Friday night, suggesting he’s feeling OK after being admitted earlier after his coronavirus diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-exACPwwo0U/trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-exACPwwo0U/trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b24ff7a3-de95-49af-87da-5c2c3cb9445d/e378f419-56da-4805-85a0-d0a82ff06c82/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think.amp",
+      "publishedDateTime": "2020-10-02T21:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-sanders-to-host-socially-distant-rally-for-biden-in-new-hampshire.md",
       "title": "Sanders to host socially distant rally for Biden in New Hampshire",
       "excerpt": "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. ",
@@ -112,34 +223,34 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-host-of-pence-harris-vp-debate-says-they-still-plan-on-holding-event.md",
-      "title": "Host of Pence-Harris VP debate says they still plan on holding event",
-      "excerpt": "The vice presidential debate between Mike Pence and Sen. Kamala Harris is still going on as planned on Wednesday, despite President Trump’s positive Covid-19 test, a debate host spokesperson told Fox News. ",
+      "path": "_news/2020-10-02-putin-will-be-trump-campaign-surrogate-while-he-quarantines-dem-sen-chris-murphy-says.md",
+      "title": "Putin will be Trump campaign 'surrogate' while he quarantines, Dem Sen. Chris Murphy says",
+      "excerpt": "Murphy says Russia has a “clear desire to try to elect President Trump to a second term.”",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y21UlsjG3LY/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y21UlsjG3LY/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 790,
+      "heat": 166,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Harris-Pence_AP.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9e60596-3e66-4c43-961c-c2d3465b8270/72404b90-658f-4350-b0df-1676b54306a0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp",
-      "publishedDateTime": "2020-10-02T12:12:39-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus.amp",
+      "publishedDateTime": "2020-10-02T13:03:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -163,9 +274,7 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
+        "Republican Voice"
       ]
     },
     {
@@ -224,61 +333,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-no-one-wore-a-mask-during-trump-debate-prep-chris-christie-says.md",
-      "title": "No one wore a mask during Trump debate prep, Chris Christie says",
-      "excerpt": "Former N.J. Gov. Chris Christie revealed that no one in the room was wearing a mask when a small group of people gathered in the White House's map room on Monday to help prep President Trump for the first debate. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
-      "publishedDateTime": "2020-10-02T07:46:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-boris-johnson-wishes-trump-speedy-recovery-from-covid-19.md",
       "title": "Boris Johnson wishes Trump 'speedy recovery' from COVID-19",
       "excerpt": "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. ",
@@ -291,7 +345,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -401,7 +455,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1227,7 +1281,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 291,
+      "heat": 271,
       "tags": null,
       "images": [
         {
@@ -1268,6 +1322,62 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-matt-gorman-trump-has-a-new-running-mate-now.md",
+      "title": "Matt Gorman: Trump has a new running mate now",
+      "excerpt": "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
+      "originalUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94a65f6-5ffd-48bb-a83f-27cccf0be04a/265a668a-7607-4662-85c1-473e327e8464/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
+      "publishedDateTime": "2020-09-30T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
@@ -1520,116 +1630,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.amp",
       "publishedDateTime": "2020-09-29T17:55:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-netanyahu-says-trumps-critics-dead-wrong-on-middle-east-peace-efforts.md",
-      "title": "Netanyahu says Trump’s critics ‘dead wrong’ on Middle East peace efforts",
-      "excerpt": "Israeli Prime Minister Benjamin Netanyahu said Tuesday that President Trump’s critics were “dead wrong,” in predicting that the Trump administration’s attempts to bring peace to the Middle East would fail -- after a series of landmark U.S.-brokered deals were signed this month. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQAKQ-zwUeM/netanyahu-trumps-middle-east-peace",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQAKQ-zwUeM/netanyahu-trumps-middle-east-peace",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/netanyahu-trumps-middle-east-peace.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/netanyahu-trumps-middle-east-peace.amp",
-      "publishedDateTime": "2020-09-29T16:34:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-ufcs-jorge-masvidal-to-join-donald-trump-jr-for-fighters-against-socialism-bus-tour.md",
-      "title": "UFC's Jorge Masvidal to join Donald Trump Jr. for 'Fighters Against Socialism' bus tour",
-      "excerpt": "“The anti communism bus tour will be arriving at a city near you,” Masvidal tweeted.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/czYJH2iqFmo/ufc-jorge-masvidal-donald-trump-jr-fighters-against-socialism-bus-tour",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/czYJH2iqFmo/ufc-jorge-masvidal-donald-trump-jr-fighters-against-socialism-bus-tour",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9b8e4a1-a978-45b0-8497-7170a0b970a0/2b4239af-5bd7-4d53-a26b-839ad695c3d0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ufc-jorge-masvidal-donald-trump-jr-fighters-against-socialism-bus-tour.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ufc-jorge-masvidal-donald-trump-jr-fighters-against-socialism-bus-tour.amp",
-      "publishedDateTime": "2020-09-29T15:29:58-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

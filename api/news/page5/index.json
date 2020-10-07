@@ -2,6 +2,112 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-03-commentary-what-happens-if-trump-is-unable-to-govern.md",
+      "title": "Commentary: What happens if Trump is ‘unable’ to govern",
+      "excerpt": "For some imaginable health outcomes, especially those associated with COVID-19, the 25th Amendment is ambiguous.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/-lhwol4kj9AqzQiaSHRO5HEJYCg=/1200x0/left/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7IK6LRFWZBWDJ7GPE4AA2QZJY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-02T14:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-sanders-to-host-socially-distant-rally-for-biden-in-new-hampshire.md",
+      "title": "Sanders to host socially distant rally for Biden in New Hampshire",
+      "excerpt": "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Sanders-4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp",
+      "publishedDateTime": "2020-10-02T14:16:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-white-house-says-trump-remains-fatigued-amid-reports-he-has-fever.md",
       "title": "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever",
       "excerpt": "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA.",
@@ -108,34 +214,34 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-host-of-pence-harris-vp-debate-says-they-still-plan-on-holding-event.md",
-      "title": "Host of Pence-Harris VP debate says they still plan on holding event",
-      "excerpt": "The vice presidential debate between Mike Pence and Sen. Kamala Harris is still going on as planned on Wednesday, despite President Trump’s positive Covid-19 test, a debate host spokesperson told Fox News. ",
+      "path": "_news/2020-10-02-putin-will-be-trump-campaign-surrogate-while-he-quarantines-dem-sen-chris-murphy-says.md",
+      "title": "Putin will be Trump campaign 'surrogate' while he quarantines, Dem Sen. Chris Murphy says",
+      "excerpt": "Murphy says Russia has a “clear desire to try to elect President Trump to a second term.”",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y21UlsjG3LY/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y21UlsjG3LY/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 790,
+      "heat": 166,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Harris-Pence_AP.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9e60596-3e66-4c43-961c-c2d3465b8270/72404b90-658f-4350-b0df-1676b54306a0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp",
-      "publishedDateTime": "2020-10-02T12:12:39-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus.amp",
+      "publishedDateTime": "2020-10-02T13:03:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -159,9 +265,7 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
+        "Republican Voice"
       ]
     },
     {
@@ -173,7 +277,7 @@
       "originalUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -484,61 +588,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-no-one-wore-a-mask-during-trump-debate-prep-chris-christie-says.md",
-      "title": "No one wore a mask during Trump debate prep, Chris Christie says",
-      "excerpt": "Former N.J. Gov. Chris Christie revealed that no one in the room was wearing a mask when a small group of people gathered in the White House's map room on Monday to help prep President Trump for the first debate. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
-      "publishedDateTime": "2020-10-02T07:46:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-boris-johnson-wishes-trump-speedy-recovery-from-covid-19.md",
       "title": "Boris Johnson wishes Trump 'speedy recovery' from COVID-19",
       "excerpt": "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. ",
@@ -551,7 +600,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 375,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -870,7 +919,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1265,61 +1314,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
       "publishedDateTime": "2020-10-01T12:51:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.md",
-      "title": "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’",
-      "excerpt": "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
-      "publishedDateTime": "2020-10-01T12:01:51-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

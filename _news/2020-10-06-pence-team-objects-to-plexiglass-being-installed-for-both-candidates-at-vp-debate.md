@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/index.html"
 type: article
 quality: 180
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence team agrees to allow plexiglass barrier near him at debate after back-and-forth over Covid precautions"
+    excerpt: "Mike Pence does not want plexiglass barriers around him at the vice presidential debate against Kamala Harris on Wednesday, a top aide to the vice president told CNN on Tuesday, rebuffing an announcement from the Commission on Presidential debates that the dividers would be used to prevent the spread"
+    publishedDateTime: 2020-10-07T00:28:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CBVhz9qngO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002094634-01-pence-0928-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Mike Pence Resists Use of Plexiglass Safety Barriers at Debate"
     excerpt: "An aide to Senator Kamala Harris criticized her opponent’s dismissal of the need for dividers at the vice-presidential debate set for Wednesday."
     publishedDateTime: 2020-10-06T22:01:00Z

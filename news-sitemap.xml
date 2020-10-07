@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/FzTby4Lyy18/trump-declassifies-russia-hoax-media-dems</loc>
+    <lastmod>2020-10-07T06:45:10-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa3Nf1Ty2IA/pence-harris-utah-vice-presidential-debate-trump-quarantining-white-house</loc>
+    <lastmod>2020-10-07T06:40:22-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain</loc>
+    <lastmod>2020-10-07T06:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue</loc>
+    <lastmod>2020-10-07T06:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.washingtonpost.com/podcasts/election-2020/mike-pence-reluctantly-agrees-to-plexiglass-barriers-in-tonights-vp-debate/</loc>
+    <lastmod>2020-10-07T05:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/zhZutCNl0WE/scott-walker-pence-debate-prep</loc>
+    <lastmod>2020-10-07T05:27:08-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/OCKzsD3mkUU/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton</loc>
     <lastmod>2020-10-07T04:48:49-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -75,18 +111,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/mgvXIU38pFo/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing</loc>
     <lastmod>2020-10-06T19:26:59-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/UW50QdBpflk/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs</loc>
-    <lastmod>2020-10-06T19:09:16-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden</loc>
-    <lastmod>2020-10-06T19:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -267,12 +291,6 @@
   <url>
     <loc>https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601</loc>
     <lastmod>2020-10-05T17:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence/619B0192-B950-4EBE-8189-F533DDF1733A</loc>
-    <lastmod>2020-10-05T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -529,12 +547,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/</loc>
-    <lastmod>2020-10-03T06:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10</loc>
     <lastmod>2020-10-03T05:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -613,8 +625,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on</loc>
-    <lastmod>2020-10-02T12:12:39-07:00</lastmod>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/Y21UlsjG3LY/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus</loc>
+    <lastmod>2020-10-02T13:03:57-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -651,12 +663,6 @@
   <url>
     <loc>https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535</loc>
     <lastmod>2020-10-02T08:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says</loc>
-    <lastmod>2020-10-02T07:46:41-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -985,6 +991,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.foxnews.com/opinion/trump-running-mate-matt-gorman</loc>
+    <lastmod>2020-09-30T04:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement</loc>
     <lastmod>2020-09-30T01:27:33-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1171,6 +1183,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/oP1Zl6z25WQ/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court</loc>
+    <lastmod>2020-09-28T17:45:48-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/</loc>
     <lastmod>2020-09-28T16:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1197,6 +1215,12 @@
   <url>
     <loc>https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909</loc>
     <lastmod>2020-09-28T13:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081</loc>
+    <lastmod>2020-09-28T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

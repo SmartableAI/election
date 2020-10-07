@@ -2,6 +2,227 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-06-federal-judge-rejects-trumps-efforts-to-curtail-new-jersey-vote-by-mail-plans.md",
+      "title": "Federal judge rejects Trump's efforts to curtail New Jersey vote-by-mail plans",
+      "excerpt": "A federal judge in New Jersey on Tuesday rejected an attempt by President Donald Trump's campaign to curtail part of the state's vote-by-mail plan just weeks before Election Day.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OxFoj5hbM_w/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OxFoj5hbM_w/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200924162151-mail-in-ballots-voting-1-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/federal-judge-new-jersey-canvass/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/federal-judge-new-jersey-canvass/index.html",
+      "publishedDateTime": "2020-10-06T15:51:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-biden-raises-eyebrows-after-telling-these-beautiful-young-ladies-he-wants-to-see-them-dancing-when-theyre-four-years-older.md",
+      "title": "Biden raises eyebrows after telling 'these beautiful young ladies' he wants to 'see them dancing when they're four years older'",
+      "excerpt": "Joe Biden has been raising eyebrows again with remarks he made to a group of \"beautiful young ladies\" during a campaign stop in Miami. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToQk2mH8KBE/biden-beautiful-young-ladies-see-them-dancing-four-years-older",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToQk2mH8KBE/biden-beautiful-young-ladies-see-them-dancing-four-years-older",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/742f3511-f207-4f14-8d92-2ccb96e3a22d/7dacdd04-ef8d-412a-9179-ce277aaff2a0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-beautiful-young-ladies-see-them-dancing-four-years-older.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-beautiful-young-ladies-see-them-dancing-four-years-older.amp",
+      "publishedDateTime": "2020-10-06T15:12:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-the-point-donald-trump-dealmaker-not-so-much.md",
+      "title": "The Point: Donald Trump, dealmaker? Not so much.",
+      "excerpt": "Donald Trump came to the White House promising that he would make deals the likes of which the country and the world never seen.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kSUtTtkHQ4c/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kSUtTtkHQ4c/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005190645-trump-arrives-white-house-1005-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html",
+      "publishedDateTime": "2020-10-06T15:07:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-pence-team-objects-to-plexiglass-being-installed-for-both-candidates-at-vp-debate.md",
+      "title": "Pence team objects to plexiglass being installed for both candidates at VP debate",
+      "excerpt": "Mike Pence does not want plexiglass barriers around him at the vice presidential debate against Kamala Harris on Wednesday, a top aide to the vice president told CNN on Tuesday, rebuffing an announcement from the Commission on Presidential debates that the dividers would be used to prevent the spread",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CBVhz9qngO0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CBVhz9qngO0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002094634-01-pence-0928-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/index.html",
+      "publishedDateTime": "2020-10-06T14:36:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-tim-kaine-on-what-its-like-to-debate-mike-pence.md",
       "title": "Tim Kaine on What It’s Like to Debate Mike Pence",
       "excerpt": "Mr. Kaine, Hillary Clinton’s running mate in 2016, spoke to The Times about what lies ahead for Senator Kamala Harris at Wednesday’s V.P. debate.",
@@ -177,7 +398,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4180,
+      "heat": 4280,
       "tags": null,
       "images": [
         {
@@ -283,7 +504,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 898,
+      "heat": 718,
       "tags": null,
       "images": [
         {
@@ -1067,63 +1288,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence.md",
-      "title": "WSJ Opinion: The Trump Ticket Needs a Dose of Mike Pence",
-      "excerpt": "Main Street: Wednesday night's prime-time face-off between Mike Pence and Kamala Harris could be the most consequential vice-presidential debate ever. Images: A",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence/619B0192-B950-4EBE-8189-F533DDF1733A",
-      "originalUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence/619B0192-B950-4EBE-8189-F533DDF1733A",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20201005/100520opvidmainstreet/100520opvidmainstreet_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-ill-go-in-a-moon-suit-gop-senator-who-tested-positive-for-covid-vows-to-vote-for-trumps-scotus-pick.md",
       "title": "'I'll go in a moon suit': GOP senator who tested positive for Covid vows to vote for Trump's SCOTUS pick",
       "excerpt": "Sen. Ron Johnson, a Wisconsin Republican who recently tested positive for Covid-19, said on Monday that he will do everything he can to vote for President Donald Trump's Supreme Court nominee, Amy Coney Barrett, even if he has to wear a \"moon suit\" to do it.\n    \n",
@@ -1176,159 +1340,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-minneapolis-restaurant-quarantines-13-who-worked-trump-event.md",
-      "title": "Minneapolis restaurant quarantines 13 who worked Trump event",
-      "excerpt": "Thirteen staff members from an iconic Minneapolis steakhouse are quarantining after the restaurant catered a fundraiser attended by President Donald Trump during his visit to Minnesota last week",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_fb2a9678ab914eb7a099cddf1c34340f_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
-      "publishedDateTime": "2020-10-05T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-watch-joe-biden-glad-trump-is-better-notes-crisis-is-far-from-over.md",
-      "title": "WATCH: Joe Biden glad Trump is better, notes crisis is ‘far from over’",
-      "excerpt": "Former Vice President Joe Biden delivered remarks about economic recovery for Latino communities amid the COVID-19 pandemic while visiting Little Havana in Miami on Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
-      "originalUrl": "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 680,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/GettyImages-1228584412-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
-      "publishedDateTime": "2020-10-05T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-progressive-groups-launch-we-paid-more-campaign-in-response-to-trump-taxes-report.md",
-      "title": "Progressive groups launch 'We Paid More' campaign in response to Trump taxes report",
-      "excerpt": "A coalition of progressive groups on Monday launched an initiative to make the case that the tax code is too favorable to the wealthy, after The New York Times reported last week that President Trump",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
-      "originalUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
-      "publishedDateTime": "2020-10-05T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

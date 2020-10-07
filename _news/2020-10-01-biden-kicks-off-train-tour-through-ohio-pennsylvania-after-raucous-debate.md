@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-perform
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
 type: article
 quality: 133
-heat: 453
+heat: 473
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Joe Biden campaigns in Pennsylvania, calls for national unity at Gettysburg"
+    excerpt: "Former Vice President Joe Biden made a campaign stop in the battleground state of Pennsylvania Tuesday and called for national unity and healing. CBS News political correspondent Ed O'Keefe joined CBSN's Elaine Quijano to discuss."
+    publishedDateTime: 2020-10-07T13:42:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "A new poll shows Joe Biden leading in Pennsylvania ahead of the first debate"
     excerpt: "From \"The Daily 202\"podcast, Biden’s support stands at 54 percent to Trump’s 45 percent among the Keystone State’s likely voters. Biden’s current edge among likely voters appears sizable but is not definitive,"

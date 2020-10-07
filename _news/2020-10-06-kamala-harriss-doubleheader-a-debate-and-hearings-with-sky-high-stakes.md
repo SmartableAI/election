@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Live updates: Pence, Harris to face off after Trump's Covid diagnosis"
+    excerpt: "Wednesday's vice presidential debate comes less than a week after Trump announced he had tested positive for Covid-19."
+    publishedDateTime: 2020-10-07T13:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/vice-presidential-debate-n1242346"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242346"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242346"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 175
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3417632/201005-vp-debate-live-blog-main-cover-cs_36a324da8209b59ae1ae41b6ae27debf.jpg"
+        width: 2500
+        height: 1405
+        isCached: true
   - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
     excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
     publishedDateTime: 2020-09-28T23:50:00Z

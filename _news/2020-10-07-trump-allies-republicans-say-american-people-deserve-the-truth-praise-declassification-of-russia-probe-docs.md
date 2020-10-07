@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-allies-republicans-say-americ
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs.amp"
 type: article
 quality: 155
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Returns To White House, Tells Americans, \"Don't Be Afraid Of Covid, Don't Let It Dominate You\""
-    excerpt: "President Donald Trump delivered remarks on the coronavirus after returning to the White House from Walter Reed Medical Center."
-    publishedDateTime: 2020-10-06T13:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/06/trump_returns_to_white_house_tells_americans_dont_be_afraid_of_covid_dont_let_it_dominate_you.html"
+  - title: "Emphatic Trump Jr. rails on mainstream media, Democrats after latest Russia probe declassification"
+    excerpt: "Donald Trump Jr. slammed the mainstream media and Democrats after President Trump announced Tuesday he authorized the declassification of all documents related to the high-profile Russia investigation."
+    publishedDateTime: 2020-10-07T13:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FzTby4Lyy18/trump-declassifies-russia-hoax-media-dems"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-declassifies-russia-hoax-media-dems.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declassifies-russia-hoax-media-dems.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Donald Trump Jr. Responds To Declassified Russia Probe Documents: \"We Knew All Along\""
+    excerpt: "President Trump's son, Donald Trump Jr., reacts to the declassification of former CIA Director John Brennan’s notes on ‘Fox & Friends.’ FOX NEWS, AINSLEY EARHARDT: So, Don, your dad has authorized declassifying all of the Russia collusion documents."
+    publishedDateTime: 2020-10-07T13:16:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/donald_trump_jr_responds_to_declassified_russia_probe_documents_we_knew_all_along.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 50
+    quality: 58
     images:
-      - url: "https://assets.realclear.com/images/52/523276.png"
-        width: 500
-        height: 375
+      - url: "https://assets.realclear.com/images/50/501477.jpg"
+        width: 1004
+        height: 752
         isCached: true
 
 secured: "cGNyEL+eKEhd6o/slvCtiYUGQhG3GThs3rhUHy435JvZIX/NYndFmrDcXPJWGzfjfAVV9bSsQLlA+kEYsPZlcdipXiKFw4MHI0gDErhevGRb45XfLUH1KUkogWdPqY8wJhJn+uy7noKHkxx8fLqctJqoAGgBFaq4XCL6N4GZyrkkyVD6go175JeRz2GZRXQ/bUjvnabziToWclw8nnT3cgmcjzn0m4DY57Oiv1CzXYnw2EXlKsOKd0LCq2fs1rKKEYrzGsPbWBKtGgbo8RWdVy86ophaosJErgHdS6wv6rUpzz1c7+IRBG3rK9AfhzC0/RvduQVDmZR7IOXJfs0QLLTmMNI4QH5Fxs38pXHBxwE=;DogUGhCfR61IDMV0IL483g=="

@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Live updates: Pence, Harris to face off after Trump's Covid diagnosis"
+    excerpt: "Wednesday's vice presidential debate comes less than a week after Trump announced he had tested positive for Covid-19."
+    publishedDateTime: 2020-10-07T13:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/vice-presidential-debate-n1242346"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242346"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242346"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 175
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3417632/201005-vp-debate-live-blog-main-cover-cs_36a324da8209b59ae1ae41b6ae27debf.jpg"
+        width: 2500
+        height: 1405
+        isCached: true
   - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
     excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
     publishedDateTime: 2020-09-28T23:50:00Z
@@ -441,6 +457,6 @@ related:
         height: 550
         isCached: true
 
-secured: "fxzqLnNla4aA+520G2XUod0veGJAxx1gTR5yQ1N431ld53RtpjqEUZXE5wW0To3tQbYsN8mYeR1+Ix7WzyT8GZoaIWG6iwRboT9+cJXTXUaNoG+2ivWFWKIwLTKlZzVyDtgWAFF/mFpSGEYjON56ga+69eQc2P2DqvrgJLMck/dAdT+hRhwjrVFhGg/Y8RwYq/OChWwi9ap6KehD8FMRUIuprhTe/DuwQoBrEX7Pp2zChC3FGtMG06DcrK0aJmqx0lKLP8HcQfL89o3TX6Byv1YHUKaDQufY2tPL8hUc9YcFJnHALhO82mi6G2zZ99wlb6mg2q2hHep0m7hqxReR4uVHJ9hJF2asi5oztvKjC5A=;80AeGfO82Fj6CTIvX/3krA=="
+secured: "C2XWSejHrp6/cebULk4OhAvapj5iXyWu7ozp0sdWJbVjVam4y/BaYN5oBUA4o+75ns8IAAG23ODCCWur6ybF/CcBH7k+K8Gbost+0IzMEqIUmzjB7WAhnBDV763Bzyrt/TJxtr4soybQC80vl8vhlerT3c5ptFo41Kj+cBnrM9YLBvnzMs9UgpujOc6/hG0Fn1lRasp7Xa8UMPoTCvzs/fmQlrvaAYW0p34/34PokgJUqWT2Pb87yq8EjD3GI87r8ck7APcS3cttgd0BiR494jQ90Qj9uBvp27jzQbf7iqzAkrXn6pp2wzKQTnk00aXZ1pdmPKZVNTH71eu1G12QLh81tlQb5sIMUzHQJb60l/DRguWxDBVxd6yTD+pChcBYlhnO4xbCg10FF6nhS8Nd1SBnfkVCRgl0KiODjIW7M7Rt1c9a9iiMVkzVF6zl/jJ3NDSYDE2FDf5GwHgY+2kGsuCQ0aIZWLRTnK+6EgdmjivNgeyUI19/csbi3MdfXp0dwR6CTq0h5ioXEefdRKszYw==;CGUgF4gpU8z7e+K+Yrhrpg=="
 ---
 

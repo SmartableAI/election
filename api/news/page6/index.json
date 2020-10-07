@@ -2,6 +2,61 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-01-hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.md",
+      "title": "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’",
+      "excerpt": "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
+      "publishedDateTime": "2020-10-01T12:01:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-borat-2-trailer-sacha-baron-cohen-dresses-as-trump-to-prank-mike-pence.md",
       "title": "Borat 2 Trailer: Sacha Baron Cohen Dresses As Trump To Prank Mike Pence",
       "excerpt": "The first trailer for the sequel to \"Borat\" dropped on Thursday and it appears Sacha Baron Cohen is up to his old tricks again.",
@@ -366,7 +421,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4295,
+      "heat": 4435,
       "tags": null,
       "images": [
         {
@@ -475,7 +530,7 @@
       "originalUrl": "https://www.miamiherald.com/news/nation-world/national/article246142010.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1183,7 +1238,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
       "featuredContent": null,
       "highlight": null,
-      "heat": 453,
+      "heat": 473,
       "tags": null,
       "images": [
         {
@@ -1224,61 +1279,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-says-he-doesnt-know-who-proud-boys-are-says-let-law-enforcement-do-their-work.md",
-      "title": "Trump says he doesn't know who Proud Boys are, says 'let law enforcement do their work'",
-      "excerpt": "President Trump on Wednesday tried to clear up confusion after telling the right-wing men’s group the Proud Boys to “stand back and stand by,” saying he didn’t know who the group was but they should let law enforcement do their job. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20274113905862.jpg",
-          "width": 1024,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
-      "publishedDateTime": "2020-09-30T12:55:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

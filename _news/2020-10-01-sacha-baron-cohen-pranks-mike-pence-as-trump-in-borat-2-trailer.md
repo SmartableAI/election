@@ -792,6 +792,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "White House prepared for Trump to return to Oval Office"
+    excerpt: "President Donald Trump's aides were preparing for him to return to the Oval Office on Wednesday, an eventuality one senior official seemed to believe was so inevitable he mistakenly claimed it already happened.\n    \n"
+    publishedDateTime: 2020-10-07T13:46:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bgag4pkenJg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/trump-oval-office-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/trump-oval-office-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007002841-donald-trump-leaves-walter-reed-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z
@@ -1512,6 +1528,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Stimulus latest: Trump tweets halt negotiations, meaning federal help for millions is not coming anytime soon"
+    excerpt: "President Donald Trump abruptly -- and single-handedly -- short-circuited stimulus negotiations on Tuesday, only to appear to reverse course eight hours later in a pair of tweets.\n    \n"
+    publishedDateTime: 2020-10-07T12:19:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lxknyNCQkRE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/stimulus-negotiations-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/stimulus-negotiations-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190123091903-02-trump-pelosi-0123--super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Wants to Discredit the Election. This Nerd Could Stop Him."
     excerpt: "Fox News, the president’s favored network, will face enormous pressure to call the election for Mr. Trump. The outcome rests on a little-known 65-year-old wonk who will declare the winner."
     publishedDateTime: 2020-09-27T23:18:00Z
@@ -1687,6 +1719,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
         width: 2500
         height: 1663
+        isCached: true
+  - title: "Pence's tough debate task is to defend Trump's actions over the past week"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2020-10-07T12:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/pence-s-tough-debate-task-defend-trump-s-actions-over-n1242395"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242395"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242395"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418154/201007-mike-pence-jm-0811_53cb1cc218306b128f4dbfc7d99b0ddb.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
@@ -3084,6 +3132,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump makes U-turn on Covid stimulus, Stephen Miller tests positive and the vice presidential debate"
+    excerpt: "Joe Biden calls for an end to the politicization of the coronavirus pandemic, saying, \"It's a virus. It’s not a political weapon.\""
+    publishedDateTime: 2020-10-07T12:27:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/trump-makes-u-turn-covid-stimulus-stephen-miller-tests-positive-n1242385"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242385"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242385"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418046/201006-stephen-miller-ac-656p_b7ed582ab997b757a38aaba1db8bf1a6.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Connecting Supreme Court, health care, Trump boosts Dems' strategy"
     excerpt: "Trump has decided to mindlessly endorse the Democrats' 2020 framing, telling voters that everything his opponents are saying about health care is true."
     publishedDateTime: 2020-09-28T13:05:00Z
@@ -3375,6 +3439,20 @@ related:
     quality: 115
     images:
       - url: "https://media4.s-nbcnews.com/j/newscms/2018_50/2679261/181211-trump-pence-pelosi-schumer-ew-1206p_98b6b0120df347aa6749aa6f649f6587.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump calls for economic aid talks after ending economic aid talks"
+    excerpt: "Trump appears to be both for and against talks on economic relief measures. What his position will be by the end of the day is unknown."
+    publishedDateTime: 2020-10-07T13:26:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-calls-economic-aid-talks-after-ending-economic-aid-talks-ncna1242397"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2019_42/3056831/191017-pelosi-trump-al-1050_dabef81f9dd578a388b78e92cc6ec5b7.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -2,6 +2,159 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-06-minneapolis-restaurant-quarantines-13-who-worked-trump-event.md",
+      "title": "Minneapolis restaurant quarantines 13 who worked Trump event",
+      "excerpt": "Thirteen staff members from an iconic Minneapolis steakhouse are quarantining after the restaurant catered a fundraiser attended by President Donald Trump during his visit to Minnesota last week",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_fb2a9678ab914eb7a099cddf1c34340f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
+      "publishedDateTime": "2020-10-05T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-watch-joe-biden-glad-trump-is-better-notes-crisis-is-far-from-over.md",
+      "title": "WATCH: Joe Biden glad Trump is better, notes crisis is ‘far from over’",
+      "excerpt": "Former Vice President Joe Biden delivered remarks about economic recovery for Latino communities amid the COVID-19 pandemic while visiting Little Havana in Miami on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
+      "originalUrl": "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 700,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/GettyImages-1228584412-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
+      "publishedDateTime": "2020-10-05T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-progressive-groups-launch-we-paid-more-campaign-in-response-to-trump-taxes-report.md",
+      "title": "Progressive groups launch 'We Paid More' campaign in response to Trump taxes report",
+      "excerpt": "A coalition of progressive groups on Monday launched an initiative to make the case that the tax code is too favorable to the wealthy, after The New York Times reported last week that President Trump",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
+      "originalUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp",
+      "publishedDateTime": "2020-10-05T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-goldmans-chief-economist-breaks-down-why-a-biden-led-blue-wave-would-prompt-an-upgrade-in-growth-forecasts.md",
       "title": "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts",
       "excerpt": "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said.",
@@ -1178,169 +1331,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-trump-and-the-gop-are-using-kyle-rittenhouse-in-last-ditch-2020-voter-strategy.md",
-      "title": "Trump and the GOP are using Kyle Rittenhouse in last-ditch 2020 voter strategy",
-      "excerpt": "With weeks to go before a chaotic and close election, Republicans are cultivating a vigilante identity — someone who breaks the rules to make things right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_40/3416625/201001-kyle-rittenhouse-jm-0936_ba06d965e936a9e276a03c1a82c2a974.jpg",
-          "width": 2000,
-          "height": 1331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241940",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241940",
-      "publishedDateTime": "2020-10-04T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-jim-carrey-plays-joe-biden-in-snl-season-premiere.md",
-      "title": "Jim Carrey Plays Joe Biden in ‘S.N.L.’ Season Premiere",
-      "excerpt": "Chris Rock hosted the first live episode since “S.N.L.” was driven from its studio by the coronavirus, and the show didn’t hold back on jokes about President Trump’s diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/04/arts/04snl/04snl-facebookJumbo.jpg",
-          "width": 1000,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.amp.html",
-      "publishedDateTime": "2020-10-04T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-trump-said-to-be-improving-but-next-48-hours-critical.md",
-      "title": "Trump said to be improving but next 48 hours 'critical'",
-      "excerpt": "President Donald Trump says in a video from his hospital quarters that he is feeling better as he battles the novel coronavirus and hopes to “be back soon.”",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_d2b4023d2f934b70b528779f972f8185_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712",
-      "publishedDateTime": "2020-10-03T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

@@ -155,6 +155,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden campaigns in Pennsylvania, calls for national unity at Gettysburg"
+    excerpt: "Former Vice President Joe Biden made a campaign stop in the battleground state of Pennsylvania Tuesday and called for national unity and healing. CBS News political correspondent Ed O'Keefe joined CBSN's Elaine Quijano to discuss."
+    publishedDateTime: 2020-10-07T13:42:00Z
+    webUrl: "https://www.cbsnews.com/video/joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden releases 2019 tax returns ahead of debate"
     excerpt: "The Bidens’ returns show the couple paid almost $300,000 in federal taxes in 2019, including almost $288,000 in personal income tax."
     publishedDateTime: 2020-09-29T19:05:00Z

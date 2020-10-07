@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-end
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
 type: article
 quality: 125
-heat: 265
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden should stop ducking the court-packing issue"
+    excerpt: "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing."
+    publishedDateTime: 2020-10-07T13:30:00Z
+    webUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue"
+    ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
     excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."
     publishedDateTime: 2020-10-07T09:40:00Z
@@ -77,6 +93,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Joe Biden can't expect to automatically get the Latino vote"
+    excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
+    publishedDateTime: 2020-10-03T13:14:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3533570001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
     excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
     publishedDateTime: 2020-10-03T18:52:00Z
@@ -109,6 +141,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
+    excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
+    publishedDateTime: 2020-10-01T19:05:00Z
+    webUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/"
+    ampWebUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 63
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
+        width: 1500
+        height: 785
+        isCached: true
   - title: "Is Joe Biden the Konrad Adenauer of the U.S.?"
     excerpt: "Former Vice President Joe Biden, the candidate who marched from victory to victory thereafter, and who is now both the Democrats' standard-bearer and the substantial favorite to be the next president,"
     publishedDateTime: 2020-10-07T09:41:00Z
@@ -122,20 +170,6 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/bidenauer.jpg?itok=0tKkr3o7"
         width: 1260
         height: 560
-        isCached: true
-  - title: "Dallas Mavericks owner Mark Cuban to headline virtual fundraiser for Joe Biden’s White House campaign"
-    excerpt: "Dallas Mavericks owner Mark Cuban on Wednesday will headline a virtual fundraiser for Democrat Joe Biden’s presidential campaign,"
-    publishedDateTime: 2020-10-07T00:23:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2020/10/06/dallas-mavericks-owner-mark-cuban-to-headline-virtual-fundraiser-for-joe-bidens-white-house-campaign/"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 40
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/1UH52z8_KN1yGHeElH92yj3VlvU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/4QQVLV4YTJDAZMWXKJTEO7MEYM.JPG"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "MVAJmZWe+Eb/7MpaG6NLzAOZ+0ahIwe0rFjD39fXKDorOAvBoOnzmDhOttr0sBuWsk7mHMGo6mPoafFnUvz5jWH1sUq3xHkZR1UUWNyIjTamklSu4zD4AV4m4zuyHztoG5/oxSk6HbMSKd8BV4BhR3cLHKnjD9Ky3YNO6zMAvrr7EKp408EQTabiPU4z2CcY2OCBVizMuvvJfQMNzKXehfujzR1UofZz2d7uP9fUGxIM9yhb0beYEFgDnjrgC2qRz+wAy7kXoJ4w5m9TVW+7ALdjy5HPx2MqkyQ1zuG2//dzXvEpELLnm196FNQVAr+xD5xQt1MWJXJFyrtDdvejg+qkOzfiXOkcML+A9g4mlndqTU4i+m77ZmLvmsAf1qmhWpXMPMe5DdY4sQYR50atRzUudgwDq+XGnsE5F0iJAlf7iL1QmCRjCczdC4IZ0d4frR8DtaZcDcy/2IgJ15GnIMhRa3Q0vW24AOWfhZMYCn0oOdzw9mwVvfMeZ3c+QwQRXkMfMohjk4vAfwdFwG5CvQ==;pfj/do85QWwCmUQQwMkXRw=="

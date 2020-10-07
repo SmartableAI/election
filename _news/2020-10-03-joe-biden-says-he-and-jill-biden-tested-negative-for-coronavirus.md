@@ -128,38 +128,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump to meet with evangelicals ahead of Supreme Court announcement"
-    excerpt: "President Trump on Saturday will meet with evangelical faith leaders, hours before he is expected to announce that he is nominating Amy Coney Barrett to fill the vacancy on the Supreme Court."
-    publishedDateTime: 2020-09-26T15:56:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B89JQDG__4Y/trump-evangelical-faith-leaders-ahead-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-evangelical-faith-leaders-ahead-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump tax story no bombshell"
-    excerpt: "It’s hard for us to see how the revelations about Trump’s taxes are a major mover in the campaign."
-    publishedDateTime: 2020-09-28T20:19:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/76toIzH91dQ/trump-tax-story-no-bombshell"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tax-story-no-bombshell.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tax-story-no-bombshell.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Herschel Walker 'praying' for Trump after coronavirus diagnosis"
     excerpt: "“Praying for @POTUS, @FLOTUS, America and the World affected by the COVID virus,” Walker wrote on Twitter."
     publishedDateTime: 2020-10-02T20:58:08Z
@@ -640,6 +608,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump urges Congress to pass more coronavirus aid hours after breaking off negotiations"
+    excerpt: "President Trump called on Congress in a pair of late-night tweets to pass additional coronavirus relief measures, reversing course from hours earlier when he announced he was calling off negotiations until after the November election."
+    publishedDateTime: 2020-10-07T12:20:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HNp7mgKjHjY/trump-urges-congress-to-pass-more-coronavirus-aid-hours-after-breaking-off-negotiations"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-urges-congress-to-pass-more-coronavirus-aid-hours-after-breaking-off-negotiations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-urges-congress-to-pass-more-coronavirus-aid-hours-after-breaking-off-negotiations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fd1f19d8-d864-42ed-86b2-06aa669e2b80/a193f404-421e-4253-a629-1eac7de1d288/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ohio Sen. Portman, Lordstown Motors executives tested for coronavirus after Trump meeting"
     excerpt: "Trump met with Portman and Lordstown Motors CEO Steve Burns on Monday for an outdoor event at the White House."
     publishedDateTime: 2020-10-02T22:53:35Z
@@ -687,22 +671,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf8f37d-4908-4abf-a756-64a6bf13926e/c16f8a61-6cac-4a6a-9e1f-e359ba3059fc/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "President Trump, first lady test positive for coronavirus, set to quarantine at White House"
-    excerpt: "President Trump and First Lady Melania Trump both tested positive for COVID-19 early Friday, and are set to quarantine and recover at the White House. "
-    publishedDateTime: 2020-10-02T05:13:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2TR-4_Ur-oA/president-trump-confirms-he-first-lady-melania-trump-tested-positive-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-confirms-he-first-lady-melania-trump-tested-positive-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-confirms-he-first-lady-melania-trump-tested-positive-for-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump’s campaign ‘may be more focused and disciplined’ without in-person events: Karl Rove"
     excerpt: "President Trump being forced to hold virtual campaign events after testing positive for coronavirus may cause him to be more \"focused and disciplined\" in his messaging, Fox News contributor Karl Rove suggested on Friday."
@@ -1262,22 +1230,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Donald Trump Had Investments in Carrier Corp.’s Parent"
-    excerpt: "President-elect Donald Trump in recent years has had an investment of as much as $250,000 in United Technologies, the parent of the company he pushed to shelve plans to move its Indianapolis factory to Mexico."
-    publishedDateTime: 2020-09-26T16:52:00Z
-    webUrl: "https://www.wsj.com/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    ampWebUrl: "https://www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/donald-trump-had-investments-in-carrier-corp-s-parent-1480723443"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://s.wsj.net/public/resources/images/BN-QK669_1025un_TOP_20161024144452.jpg"
-        width: 700
-        height: 350
-        isCached: true
   - title: "Trump signs short-term spending bill to prevent government shutdown"
     excerpt: "President Donald Trump signed a spending bill early Thursday to prevent an imminent government shutdown. The Senate voted 84-10 to pass the bipartisan bill, extending federal agency funding to"
     publishedDateTime: 2020-10-01T06:43:00Z
@@ -1351,21 +1303,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Ivana Trump says ex Donald’s COVID-19 diagnosis is ‘a very difficult time’"
-    excerpt: "The president’s first wife said she’s “going to be afraid until he gets well and he gets out of it” — but she had no doubt about his reelection prospects."
-    publishedDateTime: 2020-10-04T05:57:00Z
-    webUrl: "https://nypost.com/2020/10/04/ivana-trump-says-ex-donalds-covid-19-diagnosis-is-a-very-difficult-time/"
-    ampWebUrl: "https://nypost.com/2020/10/04/ivana-trump-says-ex-donalds-covid-19-diagnosis-is-a-very-difficult-time/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/04/ivana-trump-says-ex-donalds-covid-19-diagnosis-is-a-very-difficult-time/amp/"
+  - title: "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence have tested negative for COVID-19, Pence Press Secretary Devin O'Malley announced Friday morning, hours after President Trump, first lady Melania Trump and White House adviser Hope Hicks confirmed they'd tested positive."
+    publishedDateTime: 2020-10-02T12:02:00Z
+    webUrl: "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-mike-pence-karen-pence-test-negative-for-coronavirus-spokesman-says.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 133
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Ivana_Trump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Dr. Inglesby: Recent updates on Trump's coronavirus condition 'encouraging'"
     excerpt: "The country in a state of uncertainty after President Trump contracts the coronavirus and ends up in the hospital. (BEGIN VIDEOTAPE) WALLACE: This hour, we're monitoring the health of the president after he,"
@@ -1478,20 +1430,6 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/277/eb5d690a-a1de-4c62-bfe4-fcb0669bf3aa.jpg"
         width: 650
         height: 340
-        isCached: true
-  - title: "The Day Covid-19 Came to Donald Trump's White House"
-    excerpt: "Donald Trump’s calendar for October 1 showed a typical day for the president: time for tweeting in the morning, and a trip to his Bedminster, New Jersey, golf course in the afternoon to raise money for his cash-strapped re-election campaign."
-    publishedDateTime: 2020-10-03T17:17:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/03/the_day_covid-19_came_to_donald_trumps_white_house_525296.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/523075_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Mike Pence 'not a close contact' of anyone with COVID-19 seven days after meeting with Trump, doctor says"
     excerpt: "Mike Pence's physician released a memo ahead of Wednesday night's debate saying the vice president \"is not a close contact with any individuals who have tested positive for COVID-19.\""

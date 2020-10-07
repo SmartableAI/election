@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "President Trump sends out video tweet after being discharged from Walter Reed"
-    excerpt: "President Trump tweeted out a football-themed video minutes after walking out of Walter Reed Medical Center and climbing aboard Marine 1 to return to the White House after spending the weekend battling COVID-19."
-    publishedDateTime: 2020-10-05T23:03:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U-ax0LbgIok/president-trump-video-discharged-football"
-    ampWebUrl: "https://www.foxnews.com/politics/president-trump-video-discharged-football.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-video-discharged-football.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump campaign YouTube takeover to feature Trump message thanking Americans for support"
     excerpt: "EXCLUSIVE: The Trump campaign is taking over the YouTube.com masthead for 24 hours beginning at midnight, Fox News has learned, featuring the video of President Trump as he was departing the White House for Walter Reed Military Medical Center to be treated for COVID-19."
     publishedDateTime: 2020-10-03T23:43:16Z
