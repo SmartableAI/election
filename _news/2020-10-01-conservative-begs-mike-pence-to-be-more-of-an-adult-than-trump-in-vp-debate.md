@@ -146,7 +146,7 @@ related:
   - title: "Kamala Harris v Mike Pence: Why this vice-president debate matters"
     excerpt: "This promises to be a vice-presidential debate like no other. Some have even called it the most important in history, since it comes as the US president is ill with Covid 19, a virus that's claimed 200,"
     publishedDateTime: 2020-10-06T16:29:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-54423497?at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom4=EF61B15C-0847-11EB-A866-86004844363C&at_medium=custom7&at_custom2=twitter"
+    webUrl: "https://www.bbc.com/news/election-us-2020-54423497?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=EF61B15C-0847-11EB-A866-86004844363C&at_medium=custom7"
     ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54423497"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54423497"
     type: article
@@ -155,7 +155,7 @@ related:
       domain: bbc.com
     quality: 150
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10E9E/production/_114787296_harris_pence_getty2045.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D245/production/_114792835_vp_debates_index_promo976.png"
         width: 1024
         height: 576
         isCached: true
@@ -539,6 +539,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
+    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
+    publishedDateTime: 2020-10-07T09:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5878313002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5878313002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
     publishedDateTime: 2020-10-05T17:32:00Z
@@ -888,6 +904,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/06/b65ecbdd-02b1-439d-9bc1-bd0a602c7fda/thumbnail/1200x630/f2287b22c7438d7d45e031861c7f2800/gettyimages-1228018304.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "World shares mixed after Trump calls halt to stimulus talks"
+    excerpt: "Stocks are mostly higher in Asia despite an overnight decline on Wall Street after President Donald Trump ordered a stop to talks on another round of aid for the economy"
+    publishedDateTime: 2020-10-07T07:00:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/asian-shares-higher-trump-stops-stimulus-talks-73467061"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-shares-higher-trump-stops-stimulus-talks-73467061"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-shares-higher-trump-stops-stimulus-talks-73467061"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_4a33411c39f542f8bb460e402f3ef956_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -1594,6 +1626,22 @@ related:
       - url: "https://tvguide1.cbsistatic.com/i/r/2020/10/03/c84537b1-beee-4623-a0a7-4004673e3f92/thumbnail/1300x867/c5cc7998a0ff8ddeb925ee4019f1fda3/201002-mikepencekamalaharris-news.jpg"
         width: 1300
         height: 867
+        isCached: true
+  - title: "Mike Pence vs Kamala Harris: Here's how to watch the vice presidential debate"
+    excerpt: "Pence and Harris will meet for their only debate. It will be moderated by Susan Page, USA TODAY's Washington Bureau chief."
+    publishedDateTime: 2020-10-07T09:45:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/07/kamala-harris-and-mike-pence-how-watch-vice-presidential-debate-coronavirus/5902556002/"
+    ampWebUrl: "https://amp.freep.com/amp/5902556002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5902556002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 97
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/2cab1076-4091-4494-8a23-6078c9c53217-GTY_1278829734.jpg?auto=webp&crop=8191,4608,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mike Pence vs. Kamala Harris: The Most Important Vice Presidential Debate Ever?"
     excerpt: "As Trump combats Coronavirus, it’s unclear if the presidential debates will proceed. In the event that Trump opts out of the next two debates, the vice presidential debate will be critical, putting pressure on Pence and Harris to persuade supporters to back their respective campaigns."

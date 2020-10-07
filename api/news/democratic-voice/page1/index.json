@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-07-im-mayor-first-in-miami-dade-walking-a-line-between-trump-and-constituents.md",
+      "title": "‘I’m mayor first’: In Miami-Dade, walking a line between Trump and constituents",
+      "excerpt": "The Republican mayor of Miami-Dade County is a Trump-endorsed congressional candidate in a nationally watched swing seat. He’s also the elected leader of the urban heart of South Florida, a coronavirus hot spot that’s home to 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909",
+      "originalUrl": "https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/2d/ab/cec464684938adc1e0bb8c5a741d/201006-gimenez-herald-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T01:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-mike-pence-brought-conservatives-home-what-if-they-dont-need-him-anymore.md",
       "title": "Mike Pence Brought Conservatives Home. What If They Don’t Need Him Anymore?",
       "excerpt": "Evangelical Christians were drawn to the vice president because he shared their values. But Trump’s style has made defiance of political norms, not a Pence specialty, seem appealing.",
@@ -1401,7 +1457,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 4680,
+      "heat": 4700,
       "tags": null,
       "images": [
         {
@@ -1513,7 +1569,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 630,
+      "heat": 710,
       "tags": null,
       "images": [
         {
@@ -1609,62 +1665,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-this-was-avoidable-trump-has-been-downplaying-the-virus-from-the-start.md",
-      "title": "'This was avoidable': Trump has been downplaying the virus from the start",
-      "excerpt": "In recent weeks, Trump has put himself and others at risk by holding mass gatherings, some indoors, and shunning mask use while claiming the end of the virus was just around the corner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775",
-      "originalUrl": "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_40/3416883/201002-donald-trump-melania-trump-ew-202a_2aef1d6bb1b9e1b977edd6d985618f74.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241775",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241775",
-      "publishedDateTime": "2020-10-02T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

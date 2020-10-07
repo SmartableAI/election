@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
 type: article
 quality: 200
-heat: 4680
+heat: 4700
 published: true
 
 provider:
@@ -1613,6 +1613,22 @@ related:
     quality: 150
     images:
       - url: "https://static.politico.com/92/6b/fc1f9a5f4996ad0a0857fc06ec6e/ap20276686451375-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "A bullish Biden campaign invades Trump territory"
+    excerpt: "In a move that would have been far-fetched even a few months ago, Joe Biden is set to spend $6.2 million on ads in the state over the next month — attempting to put the state in play for the first time in decades."
+    publishedDateTime: 2020-10-07T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/joe-biden-trump-territory-426802"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/5e/f7/8fdf17e9485f806b65259c3c25a4/201006-biden-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

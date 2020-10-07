@@ -2,6 +2,61 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-18-ivanka-trump-raises-75-million-for-campaign-in-texas-florida-trips.md",
+      "title": "Ivanka Trump raises $7.5 million for campaign in Texas, Florida trips",
+      "excerpt": "White House adviser Ivanka Trump raised $7.5 million for her father’s campaign in trips to Texas and Florida over the past week, a Trump aide familiar with fundraising told Fox News. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hWgllwabMDw/ivanka-trump-raises-7-5-million-texas-florida",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hWgllwabMDw/ivanka-trump-raises-7-5-million-texas-florida",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/01/AP20022460646851.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-raises-7-5-million-texas-florida.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-raises-7-5-million-texas-florida.amp",
+      "publishedDateTime": "2020-09-18T10:22:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-18-joe-biden-cnns-anderson-cooper-appear-to-dispense-with-social-distancing-during-town-hall-commercial-break.md",
       "title": "Joe Biden, CNN’s Anderson Cooper appear to dispense with social distancing during town hall commercial break",
       "excerpt": "A former CNN employee noticed that Anderson Cooper and Joe Biden stopped social distancing during Thursday’s town hall when they thought the liberal network cut to a commercial.",

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump Reports 'No Symptoms,' Returns to Downplaying Virus"
-excerpt: "President Donald Trump is said by his doctor to be making progress in his recovery from COVID-19 — and the president tweets that he's eager to get back on the campaign trail."
-publishedDateTime: 2020-10-07T04:32:00Z
-originalUrl: "https://www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus"
-webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus"
-ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus?context=amp"
+title: "Trump reports 'no symptoms,' returns to downplaying virus"
+excerpt: "President Donald Trump, said to be making progress in his recovery from COVID-19, tweeted his eagerness to return to the campaign trail even as the outbreak that has killed more than 210,000 Americans reached ever more widely into the upper echelons of the U."
+publishedDateTime: 2020-10-07T09:36:00Z
+originalUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10"
+webUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10"
+ampWebUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -104,6 +104,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "UilXfXzjMdNvQFBVkjgiqqtGxKnxPLpwW8AfzgiYNVYwxMy08YNexdimAKedbc+RaZ5SFKWQQ8Wdc/xfRAhVRsE4SFTWVgQETVkD+6Z7P1F5UAEqcP0wwRyGiESjitHHfDaWnd9VhMSj5X8vzvHxgyVFG+09v57xssNPOgQ7bmxJ2dG1NihbPKs85qrVXTcz27twbfRuTyOiAjhUx/dZwToHc5LVw9v8ud9I4e63+qNHArBTsFXjTimJCGcIbb3MkFXw4IATYTCBFdCdC0ozNH7KnqfsK06fnvW6Vjnezi8OSkbyAJOagunImImvvkehxrS7Fd5/p7W2Bu+OZOlcN/a2Cs6RvxLYv/idReuvf9/pe7YXSs81eP78taZ1HyE6askrhFSeVepakKxzebIuv5R7+U8+7M5Y9FRcd5jpgHtB6sjbZZX2ost+vkCvLTnZvBLpxsqglt5arkWJsxbKyk9q5RBTe3zORv9VJQQP7ay96lx6KLlBj3BftT3Xm5eqQTNlYN7iyruAdzpc6CH+/w==;fgCYl1BsyUKMWmB/UmMRvQ=="
+secured: "mTwY/EmKKpvSl2lzXmkzvTwPCbMrNVhtOQ6ew8dbAhLzxb9kX3jJ5LeGzAfwURTesTwS+JUj7q/VJsDRf6cIdRtThxS552ZK0zUi23NaY29A6H9r1Ptll8v8UTxXOeLuwtJg4V2m1Al8tleLXwjQAmzaudY7jA9i+EMRJbOW9njn9V41LyWOtN5eBJE8XaS15IGx0oxLHervDzHAPXpQEovacXDpM+3bfZqnhhuWwQaz2o2+ed7GizgL87r6kHZNWXU8oyrm4FueM6mdFsW44bGY1Pz3JGPCDNVLdjbJZTHaFxFzaxFVQ+j7IEw+KUPstJUGZTAkziYDlpuuj1PD22Nk+uHUa/ki5tIgO/f+9U0=;wlyXU7rP2tIYhY8YGc8Lzw=="
 ---
 

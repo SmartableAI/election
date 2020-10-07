@@ -9,8 +9,8 @@ ampWebUrl: "https://www.investopedia.com/amp/5-things-you-need-to-know-about-mik
 cdnAmpWebUrl: "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/5-things-you-need-to-know-about-mike-pence-5077702"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Investopedia
@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "VP Mike Pence is Coming to Eau Claire Today. Here’s What You Need to Know."
-    excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
-    publishedDateTime: 2020-09-24T15:36:00Z
-    webUrl: "https://volumeone.org/articles/2020/09/24/266755-vp-mike-pence-is-coming-to-eau-claire-today"
+  - title: "Mike Pence: What you need to know about the Republican nominee for vice president"
+    excerpt: "Everything you need to know about Vice President Mike Pence, Donald Trump's vice president on the Republican ticket."
+    publishedDateTime: 2020-10-07T09:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442"
     type: article
     provider:
-      name: Volume One
-      domain: volumeone.org
-    quality: 53
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
     images:
-      - url: "https://volumeone.org/uploads/image/article/266/755/266755/header_1920x1080/116077_48943956096_102c437e6d_k.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP Mike Pence is Coming to Eau Claire Thursday. Here’s What You Need to Know."
-    excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
-    publishedDateTime: 2020-09-26T01:42:00Z
-    webUrl: "https://volumeone.org/articles/2020/09/24/266755-vp-mike-pence-is-coming-to-eau-claire-today"
-    type: article
-    provider:
-      name: Volume One
-      domain: volumeone.org
-    quality: 52
-    images:
-      - url: "https://volumeone.org/uploads/image/article/266/755/266755/header_1920x1080/116077_48943956096_102c437e6d_k.jpg"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/republican-national-convention-night-3-43-gty-jc-200826_1598496693180_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "WYc+YKBmomf8Z9Y98a8keCuCU5bUwQSlTx8/l/VpUXNBp0MPwDCgDJ2Fvzq3ZIFJiNsjnm2dMlqCwUqkn5zImgbHkjbNZwKSbukqK7zhHS7nF6mjD7FZmizG94MwCGzqp2Vqfcs+5OOm7cGPDXPqZPF9u8WKBSv4k3qORBrH1WOnVGxmXhV2baD4gaQbgQUDp8aIpBUjXE0bVcKpoGSYboYNFOTv2waALBLy5u6HtPzRFPte8wJ7DL+HU6jjB3lYDRXoCm3eB/3zgfZkN1QvOwepCblnxGUg1dNT1boJ1tY9JMHIc/85yj5LnCU2ZIuN0XXtbMK9q2dXLaqQpbHLQOMMjp/GXd4rYqR9K28kvANikiRy04Yqe6ieR/lUk8n4x/3UBgnzkG5614M/5pVYb0OyrPmcuGj58ysDL0974b53Vf0Vm8UEsAwJ5RoEKkzGRi3kRenOHHOTmWElLUdN7wETvcNtGnR2AFAVjCFF7YRBu7fxLSFfO0pAYvc9uN0kZSFxRudpyWccXOqJLRU7eQ==;TK044J1Cwy4VpJIgEKTdaA=="

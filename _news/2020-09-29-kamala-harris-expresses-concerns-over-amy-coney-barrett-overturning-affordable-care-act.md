@@ -318,6 +318,52 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
+    excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"
+    publishedDateTime: 2020-10-07T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Kamala Harris’s doubleheader: A debate and confirmation hearings with sky-high stakes."
+    excerpt: "Kamala Harris is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but Wednesday’s debate is a new challenge."
+    publishedDateTime: 2020-10-07T08:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/us/elections/kamala-harriss-doubleheader-a-debate-and-confirmation-hearings-with-sky-high-stakes.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/us/elections/kamala-harriss-doubleheader-a-debate-and-confirmation-hearings-with-sky-high-stakes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/us/elections/kamala-harriss-doubleheader-a-debate-and-confirmation-hearings-with-sky-high-stakes.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris can use tonight's vice president debate to subvert 'angry Black woman' tropes"
+    excerpt: "We've heard about the way gender differences influence how we perceive candidates. But what happens when the woman is Black?"
+    publishedDateTime: 2020-10-07T08:40:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/kamala-harris-can-use-tonight-s-vice-president-debate-subvert-ncna1242363"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242363"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242363"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418073/201006-kamala-harris-2019-ac-807p_b4257ecc4931dfb8a23df49ab56623fc.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris is expected to address Judge Barrett’s nomination and the Supreme Court in North Carolina."
     excerpt: "On a trip to North Carolina where she is expected to speak about Judge Amy Coney Barrett, Senator Kamala Harris will take a rare turn in the campaign spotlight today."
     publishedDateTime: 2020-09-28T19:08:00Z
@@ -333,6 +379,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/27/us/27elections-harris/27elections-harris-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "How ‘Generation Jones’ Shaped Kamala Harris"
+    excerpt: "The VP candidate grew up in a cultural moment that demanded a foot in different worlds. Is that a strength or a weakness now?"
+    publishedDateTime: 2020-10-07T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/07/kamala-harris-generation-veep-debate-426994"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/60/51/c3f2f30749dcb1091b44baba2301/ap20266760989174-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "The Education of Kamala Harris"
     excerpt: "From the election campaign that brought her head-to-head with her toughest opponent to the school debates where she honed her skills, how did Kamala Harris’ time at university prepare her for her run for Vice President?"

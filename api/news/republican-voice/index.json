@@ -2,6 +2,117 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-07-trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online.md",
+      "title": "Trump's call to declassify Russia collusion, Clinton documents sparks fierce debate online",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVxWLpK_2sk/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVxWLpK_2sk/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online.amp",
+      "publishedDateTime": "2020-10-07T02:01:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-spicer-trump-campaign-will-move-forward-while-president-in-hospital.md",
+      "title": "Spicer: Trump campaign 'will move forward' while president in hospital",
+      "excerpt": "That was what we all watched together just moments ago, a site that you don't see very often, the President of the United States, leaving the White House and heading to the hospital. He'll check in there for a few days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital",
+      "originalUrl": "https://www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e5b36b2-2c59-4c4f-a6c0-da5896cc36ec/be05a75b-087d-4600-a13a-8d5b7085cd1f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital.amp",
+      "publishedDateTime": "2020-10-07T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-trumps-declassifying-order-wont-erase-his-wrongdoing-swalwell-says.md",
       "title": "Trump's declassifying order won't erase his wrongdoing, Swalwell says",
       "excerpt": "Rep. Eric Swalwell calls Trump move a 'sloppy sleight of hand'",
@@ -30,61 +141,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing.amp",
       "publishedDateTime": "2020-10-06T19:26:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs.md",
-      "title": "Trump allies, Republicans say American people 'deserve the truth,' praise declassification of Russia probe docs",
-      "excerpt": "Top Republicans and allies of President Trump praised his move to declassify all documents related to the Russia investigation saying the “American people deserve the truth.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UW50QdBpflk/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UW50QdBpflk/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs.amp",
-      "publishedDateTime": "2020-10-06T19:09:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1603,63 +1659,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-host-of-pence-harris-vp-debate-says-they-still-plan-on-holding-event.md",
-      "title": "Host of Pence-Harris VP debate says they still plan on holding event",
-      "excerpt": "The vice presidential debate between Mike Pence and Sen. Kamala Harris is still going on as planned on Wednesday, despite President Trump’s positive Covid-19 test, a debate host spokesperson told Fox News. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bpr5f7zQ7AA/pence-harris-vp-debate-still-on",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 750,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Harris-Pence_AP.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-vp-debate-still-on.amp",
-      "publishedDateTime": "2020-10-02T12:12:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
       ]
     }
   ],

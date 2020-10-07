@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.jsonline.com/amp/3515310001"
 cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3515310001"
 type: article
 quality: 62
-heat: 82
+heat: 122
 published: true
 
 provider:
@@ -40,6 +40,34 @@ related:
       - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/09/Pence-8.jpg"
         width: 871
         height: 518
+        isCached: true
+  - title: "VP Mike Pence is Coming to Eau Claire Today. Here’s What You Need to Know."
+    excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
+    publishedDateTime: 2020-09-24T15:36:00Z
+    webUrl: "https://volumeone.org/articles/2020/09/24/266755-vp-mike-pence-is-coming-to-eau-claire-today"
+    type: article
+    provider:
+      name: Volume One
+      domain: volumeone.org
+    quality: 53
+    images:
+      - url: "https://volumeone.org/uploads/image/article/266/755/266755/header_1920x1080/116077_48943956096_102c437e6d_k.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence is Coming to Eau Claire Thursday. Here’s What You Need to Know."
+    excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
+    publishedDateTime: 2020-09-26T01:42:00Z
+    webUrl: "https://volumeone.org/articles/2020/09/24/266755-vp-mike-pence-is-coming-to-eau-claire-today"
+    type: article
+    provider:
+      name: Volume One
+      domain: volumeone.org
+    quality: 52
+    images:
+      - url: "https://volumeone.org/uploads/image/article/266/755/266755/header_1920x1080/116077_48943956096_102c437e6d_k.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "pJm90nr+avsncfH4qK5MzgrwkgQBeceprJMB3X7ZN06a2++YnKh7Ij3b64GVf2STXowM4C/5MpAGIQV6oeN8D/jcogRdvKL9XplDjJdWmR5Elribq5L3HhAqrcP7amxnuF38lqkfmzrKCqThCH/XlQzQPQcquDrifQldvQDMpljDm4gkzI2jzxMif+ky0BiME/IL3MSFhk5HmkjiVTtt0ITCzuoaPQ+0f4nLwEz+I+wr01xf5xRW8yceVw2UxBNptgPm7i+qNQSsVnEMKhTFaXpcrFPLAkrp7emPiUq/96qsXXZFtnSTXJU+akmwWOKrrLcVGpo5ektION9bVge5o4KnLoJeBATRoSC8GmcR+5gaITijiEKS6HgAR3yURl/5uyIsNdRCXhLMkwbbVdQdbS1UdOo0Uss5kpiv4KyQ0RpOpJ7eGxuX9kv0iMnKV0XNt6a7KDRcz70Qy1viT7sgm8X7lDyQu+9n4eBz9PzKqRA3ajzJJCHv2D9iyIFEUKxRIAITH3x6yVbwTO8BUJu7rA==;ZqxWcnML+oc4OzEJFjhGBQ=="

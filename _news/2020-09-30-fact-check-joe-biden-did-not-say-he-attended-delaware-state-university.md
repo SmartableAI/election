@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L2RD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -132,6 +132,17 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 55
+  - title: "Putin Says He Has Noted Joe Biden's Harsh Anti-Russian Rhetoric"
+    excerpt: "Russian President Vladimir Putin said on Wednesday he had noted what he called harsh anti-Russian rhetoric from U.S. Democratic presidential candidate Joe Biden, but said he had been encouraged by Biden's comments on arms control."
+    publishedDateTime: 2020-10-07T08:39:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
   - title: "Joe Biden Campaigns in Charlotte, North Carolina"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"

@@ -1193,6 +1193,22 @@ related:
         width: 812
         height: 545
         isCached: true
+  - title: "Wall Street ends down 1% after Trump calls off coronavirus economic relief talks"
+    excerpt: "U.S. stocks ended down more than 1% on Tuesday after President Donald Trump said he was calling off negotiations with Democratic lawmakers on coronavirus relief legislation until after the election."
+    publishedDateTime: 2020-10-07T05:39:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSKBN26Q1WR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q1WR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1WR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536215896&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9416T"
+        width: 829
+        height: 545
+        isCached: true
   - title: "Donald Trump Tests Positive For COVID—And America’s Nuclear Doomsday Planes Launch"
     excerpt: "U.S. president Donald Trump tested positive for the novel-coronavirus on Friday morning. Shortly after the news broke, the U.S. Navy’s doomsday planes launched on both American coasts. The E-6B Mercury is one of the Pentagon’s airborne nuclear command posts."
     publishedDateTime: 2020-10-02T07:21:00Z
@@ -2078,6 +2094,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "GOP voters not swayed by Trump COVID diagnosis"
+    excerpt: "Supporters of President Donald Trump at an early voting site in northern Virginia are strongly supporting the President after his hospitalization for the coronavirus. (October 6)"
+    publishedDateTime: 2020-10-07T08:48:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/06/gop-voters-not-swayed-trump-covid-diagnosis/5901627002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/046ba8d2-653b-468d-b831-ef425749e3a1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "METALS-Copper slips as Trump ends stimulus deal talks"
     excerpt: "Copper prices fell on Wednesday after U.S. President Donald Trump halted negotiations with the U.S. Congress on a large coronavirus stimulus bill."
     publishedDateTime: 2020-10-07T03:33:00Z
@@ -2973,6 +3003,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Asian Shares Mostly Higher After Trump Stops Stimulus Talks"
+    excerpt: "Stocks are mostly higher in Asia despite an overnight decline on Wall Street after President Donald Trump ordered a stop to talks on another round of aid for the economy."
+    publishedDateTime: 2020-10-07T06:57:00Z
+    webUrl: "https://www.usnews.com/news/business/articles/2020-10-07/asian-shares-mostly-higher-after-trump-stops-stimulus-talks"
+    ampWebUrl: "https://www.usnews.com/news/business/articles/2020-10-07/asian-shares-mostly-higher-after-trump-stops-stimulus-talks?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-10-07/asian-shares-mostly-higher-after-trump-stops-stimulus-talks?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Stocks Drop After Trump Calls off Talks on Economic Stimulus"
     excerpt: "Stocks dropped on Wall Street Tuesday after President Donald Trump ordered aides to stop negotiating with Democrats over another round of aid for the economy until after the election."
     publishedDateTime: 2020-10-07T04:04:00Z

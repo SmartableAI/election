@@ -93,17 +93,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump Reports 'No Symptoms,' Returns to Downplaying Virus"
-    excerpt: "President Donald Trump is said by his doctor to be making progress in his recovery from COVID-19 — and the president tweets that he's eager to get back on the campaign trail."
-    publishedDateTime: 2020-10-07T04:32:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-07/trump-reports-no-symptoms-returns-to-downplaying-virus?context=amp"
+  - title: "Trump reports 'no symptoms,' returns to downplaying virus"
+    excerpt: "President Donald Trump, said to be making progress in his recovery from COVID-19, tweeted his eagerness to return to the campaign trail even as the outbreak that has killed more than 210,000 Americans reached ever more widely into the upper echelons of the U."
+    publishedDateTime: 2020-10-07T09:36:00Z
+    webUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
 
 secured: "exLJjzUyD4s5pNdXrkjsISCIzyzFXxGCaC81tpxO5zTlc3H0ekDP+ee5DmKSEkHSNgQ5wAnJZIGqNAbBesn/v7HrtEE+QzZ7sg7gx+VMJvj6OTbCFA2HOSTeQcLCwJJs4vwzXCWcGSMosFNvhV/23tEB/e5e5sMP6IgkiMTBmBuf8iInJRjny1h8g0UBD6U5puQJ2/PZyQn15hIvyTFu4Z6VslFkPU0Kb5MGG7RdCBvTOtxjl4kDbzQjklpGtJXt5tKJQaONYlv0fl1maB1/F++SA5VheaAkTGmCdibB8XJGykwyaUihG8zywLs27SZayCo9/aO8LIoC78IjjzH4sVtN9DUvSW8VkgFSphYaTV8=;0vXqtYpfbkLLLbcokTJW3g=="
 ---

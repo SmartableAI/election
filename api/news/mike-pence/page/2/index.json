@@ -2,6 +2,90 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-26-the-2020-election-collection-claims-about-mike-pence.md",
+      "title": "The 2020 Election Collection: Claims About Mike Pence",
+      "excerpt": "In his time as governor of Indiana and over his four-year term as vice president, Mike Pence has been in the middle of his fair share of rumors and fact checks. We’ve collected our own checks on his background and record here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.snopes.com/collections/2020-election-claims-on-pence/",
+      "originalUrl": "https://www.snopes.com/collections/2020-election-claims-on-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.snopes.com/tachyon/2020/09/2020-election-fact-checking-mike-pence-yellow-1.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-25T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Snopes.com",
+        "domain": "snopes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-karen-pence-rallies-with-evangelicals-in-holland.md",
+      "title": "Karen Pence rallies with evangelicals in Holland",
+      "excerpt": "Second Lady Karen Pence rallied in Holland Friday in an effort to energize the evangelical base which played a key role in elevating",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland",
+      "originalUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollandsentinel.com/apps/pbcsi.dll/bilde?Site=MI&Date=20200925&Category=NEWS&ArtNo=200929455&Ref=AR",
+          "width": 2684,
+          "height": 1825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart",
+      "cdnAmpWebUrl": "https://www-hollandsentinel-com.cdn.ampproject.org/c/s/www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart",
+      "publishedDateTime": "2020-09-25T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Holland Sentinel",
+        "domain": "hollandsentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-pence-ivanka-visit-salon-damaged-by-minneapolis-unrest.md",
       "title": "Pence, Ivanka visit salon damaged by Minneapolis unrest",
       "excerpt": "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd's death, part of a campaign visit aimed at driving home President Donald Trump's law-and-order message in a key swing state.",
@@ -52,7 +136,7 @@
       "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -384,48 +468,6 @@
       "provider": {
         "name": "San Francisco Chronicle",
         "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-5-things-you-need-to-know-about-mike-pence.md",
-      "title": "5 Things You Need to Know About Mike Pence",
-      "excerpt": "Republican Vice President Mike Pence will debate Democratic Vice-Presidential candidate, Kamala Harris Oct. 7, 2020, in Salt Lake City, and the 2020 election is just around the corner. Here are five things you should know about Pence, his personal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investopedia.com/5-things-you-need-to-know-about-mike-pence-5077702",
-      "originalUrl": "https://www.investopedia.com/5-things-you-need-to-know-about-mike-pence-5077702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.investopedia.com/thmb/aF-pBxgRB3LgjRb5NvOzwmdKvsM=/1024x683/filters:fill(auto,1)/GettyImages-468209888-578a33593df78c09e9b807fd.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.investopedia.com/amp/5-things-you-need-to-know-about-mike-pence-5077702",
-      "cdnAmpWebUrl": "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/5-things-you-need-to-know-about-mike-pence-5077702",
-      "publishedDateTime": "2020-09-22T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-07-mike-pence-what-you-need-to-know-about-the-republican-nominee-for-vice-president.md",
+      "title": "Mike Pence: What you need to know about the Republican nominee for vice president",
+      "excerpt": "Everything you need to know about Vice President Mike Pence, Donald Trump's vice president on the Republican ticket.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "originalUrl": "https://abcnews.go.com/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/republican-national-convention-night-3-43-gty-jc-200826_1598496693180_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
+      "publishedDateTime": "2020-10-07T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-mike-pence-gets-a-rare-moment-in-the-national-spotlight.md",
+      "title": "Mike Pence Gets A Rare Moment In The National Spotlight",
+      "excerpt": "Vice President Mike Pence takes the stage for a debate with Kamala Harris in Salt Lake City Wednesday night. The debate comes amid President Trump's treatment for COVID-19. Pence has tested negative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2020/10/07/921055053/mike-pence-gets-a-rare-moment-in-the-national-spotlight",
+      "originalUrl": "https://www.npr.org/2020/10/07/921055053/mike-pence-gets-a-rare-moment-in-the-national-spotlight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-mike-pence-brought-conservatives-home-what-if-they-dont-need-him-anymore.md",
       "title": "Mike Pence Brought Conservatives Home. What If They Don’t Need Him Anymore?",
       "excerpt": "Evangelical Christians were drawn to the vice president because he shared their values. But Trump’s style has made defiance of political norms, not a Pence specialty, seem appealing.",
@@ -566,7 +668,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 4680,
+      "heat": 4700,
       "tags": null,
       "images": [
         {
@@ -729,7 +831,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 630,
+      "heat": 710,
       "tags": null,
       "images": [
         {
@@ -974,7 +1076,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4055,
+      "heat": 4115,
       "tags": null,
       "images": [
         {
@@ -1440,90 +1542,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-the-2020-election-collection-claims-about-mike-pence.md",
-      "title": "The 2020 Election Collection: Claims About Mike Pence",
-      "excerpt": "In his time as governor of Indiana and over his four-year term as vice president, Mike Pence has been in the middle of his fair share of rumors and fact checks. We’ve collected our own checks on his background and record here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.snopes.com/collections/2020-election-claims-on-pence/",
-      "originalUrl": "https://www.snopes.com/collections/2020-election-claims-on-pence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.snopes.com/tachyon/2020/09/2020-election-fact-checking-mike-pence-yellow-1.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-25T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Snopes.com",
-        "domain": "snopes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-karen-pence-rallies-with-evangelicals-in-holland.md",
-      "title": "Karen Pence rallies with evangelicals in Holland",
-      "excerpt": "Second Lady Karen Pence rallied in Holland Friday in an effort to energize the evangelical base which played a key role in elevating",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland",
-      "originalUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollandsentinel.com/apps/pbcsi.dll/bilde?Site=MI&Date=20200925&Category=NEWS&ArtNo=200929455&Ref=AR",
-          "width": 2684,
-          "height": 1825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart",
-      "cdnAmpWebUrl": "https://www-hollandsentinel-com.cdn.ampproject.org/c/s/www.hollandsentinel.com/news/20200925/karen-pence-rallies-with-evangelicals-in-holland?template=ampart",
-      "publishedDateTime": "2020-09-25T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Holland Sentinel",
-        "domain": "hollandsentinel.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

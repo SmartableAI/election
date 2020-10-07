@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://abcnews.go.com/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442</loc>
+    <lastmod>2020-10-07T02:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.npr.org/2020/10/07/921055053/mike-pence-gets-a-rare-moment-in-the-national-spotlight</loc>
+    <lastmod>2020-10-07T02:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/vVxWLpK_2sk/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online</loc>
+    <lastmod>2020-10-07T02:01:31-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909</loc>
+    <lastmod>2020-10-07T01:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital</loc>
+    <lastmod>2020-10-07T01:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.html</loc>
     <lastmod>2020-10-07T00:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,12 +39,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/mgvXIU38pFo/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing</loc>
     <lastmod>2020-10-06T19:26:59-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/UW50QdBpflk/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs</loc>
-    <lastmod>2020-10-06T19:09:16-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1881,12 +1905,6 @@
   <url>
     <loc>http://feeds.foxnews.com/~r/foxnews/politics/~3/LqcJ7qVwcNQ/biden-bernie-sanders-beat-the-socialist</loc>
     <lastmod>2020-09-22T12:51:33-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.investopedia.com/5-things-you-need-to-know-about-mike-pence-5077702</loc>
-    <lastmod>2020-09-22T12:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

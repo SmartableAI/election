@@ -1632,6 +1632,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "A bullish Biden campaign invades Trump territory"
+    excerpt: "In a move that would have been far-fetched even a few months ago, Joe Biden is set to spend $6.2 million on ads in the state over the next month — attempting to put the state in play for the first time in decades."
+    publishedDateTime: 2020-10-07T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/joe-biden-trump-territory-426802"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/5e/f7/8fdf17e9485f806b65259c3c25a4/201006-biden-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
     publishedDateTime: 2020-09-27T16:26:00Z

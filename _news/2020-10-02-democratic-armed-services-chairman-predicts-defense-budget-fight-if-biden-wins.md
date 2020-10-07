@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
+    excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."
+    publishedDateTime: 2020-10-07T09:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-wave-mask_hpMain_20201006-224125_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Detroit pastor wants Biden to reach out more to Black community"
     excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
     publishedDateTime: 2020-10-01T19:52:00Z
@@ -92,6 +108,20 @@ related:
       - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Is Joe Biden the Konrad Adenauer of the U.S.?"
+    excerpt: "Former Vice President Joe Biden, the candidate who marched from victory to victory thereafter, and who is now both the Democrats' standard-bearer and the substantial favorite to be the next president,"
+    publishedDateTime: 2020-10-07T09:41:00Z
+    webUrl: "https://theweek.com/articles/942011/joe-biden-konrad-adenauer"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 55
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/bidenauer.jpg?itok=0tKkr3o7"
+        width: 1260
+        height: 560
         isCached: true
   - title: "Dallas Mavericks owner Mark Cuban to headline virtual fundraiser for Joe Biden’s White House campaign"
     excerpt: "Dallas Mavericks owner Mark Cuban on Wednesday will headline a virtual fundraiser for Democrat Joe Biden’s presidential campaign,"

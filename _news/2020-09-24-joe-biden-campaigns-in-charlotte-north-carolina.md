@@ -137,6 +137,17 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 55
+  - title: "Putin Says He Has Noted Joe Biden's Harsh Anti-Russian Rhetoric"
+    excerpt: "Russian President Vladimir Putin said on Wednesday he had noted what he called harsh anti-Russian rhetoric from U.S. Democratic presidential candidate Joe Biden, but said he had been encouraged by Biden's comments on arms control."
+    publishedDateTime: 2020-10-07T08:39:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
     excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
     publishedDateTime: 2020-09-23T18:56:00Z
