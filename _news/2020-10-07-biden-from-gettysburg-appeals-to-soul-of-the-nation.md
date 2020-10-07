@@ -46,6 +46,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden at Gettysburg: ‘Today, once again, we are a house divided’"
+    excerpt: "Joe Biden on Tuesday asked Americans to appeal to their “better angels” in a speech he framed as a direct continuation of the legacy of Abraham Lincoln’s Gettysburg Address. The Democratic presidential nominee invoked Lincoln multiple times on the same ground where the 16th president stood more than 150 years ago during the Civil War."
+    publishedDateTime: 2020-10-06T23:13:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/biden-appeals-to-soul-of-nation-gettysburg-426867"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/48/d6/a89b9ee94fe2afef6229e7c7aa00/20201006-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "bMK5jzzcvHMgisUaiuhMHtAnc2kgDeqg/b8Bp8iWt9FlJu0wfM09EhtiWYwSZ1e1Xer3lstNUwZmZzTovsJDoqNV1esV3sfHwgYQWuvD5J5p8SVuJhaFn33/L8EmoI+QS+rjmdE1cdsqKPVya05+f5tJsxowmNH3woOoDyUK72sfc/+PPcaOpI8ZrD3NFojbAAxlphvKD726t95+TucdYMUcs5e86/ZQXFp7ywo98p/ImnWjIZhKO7WOEIUS9DCKioT4I8/8XbeVhiIm87HOzWS05PrVivCfIUYbJKMDwIC/xIepIy3T163prAOAKZ2f5eBF9IfIPUvXMH8V93C3fDW+p0WLVH+D7V3+7mV476NRrYfUig9zr6eEXY/zZ/jl7sDojmCpfpirXkMfFdStY6bzMiGiClozF3esIFlbRFOakOjlA7bpYrgkdrNyi5td/iDHFbRgaWCx5F0/HXjmCirw4eHBQzyEVs19/4Cc+8Z40jNOoCEiVi7/6E/WQUJhzciVaOMX3qy01FhY15boBQ==;ewzkE2m/pIf/zu0lW598gg=="
 ---

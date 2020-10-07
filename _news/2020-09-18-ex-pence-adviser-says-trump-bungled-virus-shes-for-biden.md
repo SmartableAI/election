@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5415
+heat: 5455
 published: true
 
 provider:
@@ -974,6 +974,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden says next presidential debate should be called off if Trump still has COVID"
+    excerpt: "Democratic presidential candidate Joe Biden said on Tuesday that next week's scheduled debate with Republican President Donald Trump should not take place if Trump is still infected with COVID-19."
+    publishedDateTime: 2020-10-07T03:28:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-idUSKBN26R3ML"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R3ML"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R3ML"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536442307&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95244"
+        width: 797
+        height: 545
         isCached: true
   - title: "Donald Trump Cuts Joe Biden's Lead in Half After Ruth Bader Ginsburg's Death: Poll"
     excerpt: "President Donald Trump gained five points on Democratic presidential candidate Joe Biden in poll data released Thursday."
@@ -3674,6 +3690,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump Defies Covid, Polls -- But Biden Keeps Gaining"
+    excerpt: "President Donald Trump defied the Covid-19 virus, disastrous opinion polls, and new economic turmoil Tuesday in a stormy return from hospitalization, while surging challenger Joe Biden appealed for Americans to unite against the \"forces of darkness."
+    publishedDateTime: 2020-10-07T01:01:00Z
+    webUrl: "https://www.ibtimes.com/trump-defies-covid-polls-biden-keeps-gaining-3057581"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/no-mask-no-worries-says-us-president-donald.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z

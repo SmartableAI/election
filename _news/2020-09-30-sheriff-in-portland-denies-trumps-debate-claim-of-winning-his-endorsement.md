@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sheriff-in-portland-denies-trumps-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
 type: article
 quality: 173
-heat: 233
+heat: 213
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/trump-ivanka-vp-61.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump health reports marred by confusing and conflicting messages"
-    excerpt: "It was just two sentences from an unnamed source in a White House pool report, but it exploded the prevailing narrative about President Trump’s health."
-    publishedDateTime: 2020-10-06T07:11:00Z
-    webUrl: "https://www.foxnews.com/media/trump-health-reports-marred-by-confusing-and-conflicting-messages"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d355350b-7a7e-46f2-b397-7e7c16a5be9d/284fa6f0-8cc2-4fa4-8cef-b459fdd0cb6e/1280x720/match/image.jpg"
-        width: 1134
-        height: 720
         isCached: true
 
 secured: "Pjm9oIdhhn4D0p1fr5Rl1vdYWeEfOA12onOdcWWfznF0Ger2Er6jGolgILOsmTs1A4qdGG/KOHB80l1CPv+eQUzSKXpHAlzZ+QLN3hLA/Ip9UdjzD6tBV0il+tw0q2b14QgCXo2fWr4AB4yvNyDX422FJRV/PCR7w+AtDwpwUZ7c5M3b4fsQBgt22E/jk574a94lF4hr0cMGZCHNPmqn5STH7Ejdk1mPENWZsMzpNCF8QVIJ7c8kIeamRlBq9AEA1ExIzqmv9bqcwcglUqJZxOaE+pqyfFxHxn81raDBEAnWBWFtdutSb/iK6jI7u/OhyN9tQDUGBVzWA9INtxJvVlJvfx7ukMufIEZ1Dk15Q7E=;F06DUVFCvf1oUL98YfuW5Q=="

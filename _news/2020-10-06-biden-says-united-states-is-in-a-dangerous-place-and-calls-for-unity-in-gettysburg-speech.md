@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/joe-biden-gettysburg-spe
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/joe-biden-gettysburg-speech/index.html"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biden at Gettysburg: ‘Today, once again, we are a house divided’"
+    excerpt: "Joe Biden on Tuesday asked Americans to appeal to their “better angels” in a speech he framed as a direct continuation of the legacy of Abraham Lincoln’s Gettysburg Address. The Democratic presidential nominee invoked Lincoln multiple times on the same ground where the 16th president stood more than 150 years ago during the Civil War."
+    publishedDateTime: 2020-10-06T23:13:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/biden-appeals-to-soul-of-nation-gettysburg-426867"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/48/d6/a89b9ee94fe2afef6229e7c7aa00/20201006-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden, from Gettysburg, appeals to soul of the nation"
     excerpt: "Privacy Policy Democratic presidential candidate former Vice President Joe Biden holds up his mask as he speaks at Gettysburg National Military Park in Gettysburg, Pa., Tuesday, Oct. 6, 2020. | AP Photo/Andrew Harnik Joe Biden on Tuesday implored Americans to appeal to their higher nature,"
     publishedDateTime: 2020-10-06T18:13:00Z

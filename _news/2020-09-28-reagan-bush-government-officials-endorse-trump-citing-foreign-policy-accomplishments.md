@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump health reports marred by confusing and conflicting messages"
-    excerpt: "It was just two sentences from an unnamed source in a White House pool report, but it exploded the prevailing narrative about President Trump’s health."
-    publishedDateTime: 2020-10-06T07:11:00Z
-    webUrl: "https://www.foxnews.com/media/trump-health-reports-marred-by-confusing-and-conflicting-messages"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d355350b-7a7e-46f2-b397-7e7c16a5be9d/284fa6f0-8cc2-4fa4-8cef-b459fdd0cb6e/1280x720/match/image.jpg"
-        width: 1134
-        height: 720
-        isCached: true
 
 secured: "8dECBpp/nwhkqfH91hpBmeXmt21XD8Vj2Ier+br+b9nnkbiivcdYSiDAG8C4ZmpUYvAy5K4GU5LKqym13E9+/3K83sGmfN9/3LE+M2edbcYKy0nCbhGxl0yBPctQX7YwfQEkjkRywL4jJzQpDWGwXNmfQLe3GWVXv5G2eQmI1VJIQA7LLuO6DgfWJ95Yy8EyvTsn2TLu5+pnYA/AUsvZ0q2cbAdUGQ8oTDA1heIYrfMs3IL/C70EjXU6Ghckf48FAlAGRnK9FiTertjENcjucg1x0Z4YTfBhPOD9A2nnDhYEwuP0gqQIjVRIyxnzCu9bw1dRqp40Zjslfci/TUjB9CaYm+JhdTPXawXXNneZhw4=;0ymp6xHMkTdiBRfy21F71Q=="
 ---

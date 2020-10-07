@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump says U.S. economic recovery is faster than any other nation — but China is leaps and bounds ahead"
+    excerpt: "China is seeing double-digit economic growth, Japan's Nikkei index is doing better than the Dow and Korea's unemployment rate is almost back to pre-pandemic levels."
+    publishedDateTime: 2020-10-07T02:27:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/trump-says-u-s-economic-recovery-faster-any-other-nation-n1242361"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242361"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242361"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 119
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_10/3259446/200306-port-workers-facemasks-china-ac-439p_f5177fc439d4d7e9d25940c0b647178f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "Sw9YUiEFUUUvo66aX6UniY01Mg8GvxPuIK4XU8rbgqVPozatvkgsEBUdoETH8Bt6aq4haYMY/ZV6ofF5ePxcEo3idoA4JlnDarn4bvE0UOG3GYMNq+RwUu6pwtyYZEdWEs8vzQfwf109F7K7K6KzNgr15Ql/lVwD1cULPXkE/WqaqktbaDup20UQ0EHvWwRBT1nINgCPDuyIbjplRP/EPE5PfohqOlEnL71dQ/mJlzbpHn0ilEtkROir8L+MdEhUnUVmQwXEKNYdFjQcqoRaD8XXq6OPfb+lyyQX6Xw1KCse5Xf0EwosS18t8ntoFeBKe8Bd2TQW/rs69ShscoEIV+asp4P3rCvRoLKMtLjy00A=;GVpRf7y1QfWIvq1boxA8nw=="
 ---

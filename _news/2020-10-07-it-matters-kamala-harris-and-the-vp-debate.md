@@ -2105,6 +2105,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
+    excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."
+    publishedDateTime: 2020-10-07T02:19:00Z
+    webUrl: "https://ibtimes.com/how-do-karen-pence-doug-emhoff-campaign-what-spouses-contribute-ahead-mike-pence-3057780"
+    ampWebUrl: "https://www.ibtimes.com/how-do-karen-pence-doug-emhoff-campaign-what-spouses-contribute-ahead-mike-pence-3057780?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-do-karen-pence-doug-emhoff-campaign-what-spouses-contribute-ahead-mike-pence-3057780?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 79
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/10/mike-pence-karen-pence.jpg"
+        width: 1073
+        height: 731
+        isCached: true
   - title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
     excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
     publishedDateTime: 2020-10-03T16:39:00Z
@@ -2893,6 +2909,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "JpCW4IlEtNneZFk/dnJSJB4GHrKpV0OkctFDp2YKqERw8uJkiQuG922bA5a2Aj5EnDwxJdFnK98jLtQa3+ldy10A4ikqP9dK/RJUONrQZWEUawnnwdUzJ6ewJHH1okbdybkJWvlD+hR91zg4bATFOqdv5VgKWqPYYSWvabWyQFX3fqy7Qdci6CNOBKsUcs6PJvs+SddjXr0tteaC4t6RxsAxGS9QwZ5M3kt0/yaJTqVMUInHXYhhFgFxITImL3cuBFrM/p3zqYCSOSVW2huKvqvuub1/XpE+nUiVQgISpcBYwL/gl57Ja8Evt3yBbeIMA0OkMNdU555MRcQ/C8Vc3OfytKm+PCCuB1f5Nq8/jX8=;0uC3VZrFcypSJRuNNvBv8Q=="
+secured: "K0zOFXx+VRcDiYw2D58qd5uK7xQNnK+umF6b9Hh160twMLTv1YMWsMx66YATHAgsBjQ9/jDYjC2jsTI1e5HLe5lsnzgyXs2fk8/EVJEnK7AS5OByhehgx27HbaPqwJqjkrSq/Xykd56Zmrvz8mlyd3zkqhhsQdvp3mzwLCA4dUUpsP598WaZvNJNSjl0YLtN6sC4+3zlgyydn+2HmtS2UXUcdxFAFgdfxMqrD+n+yrY9Vg+z2vWQx2mcCpCY8sKKuFI79RXrID2WDvBkiPr6E3GU4i70l5woDJ4/Eou8Jp9DfhIlokQDPU7KPVeAFwaViPcCANxk4wZokADkfUdhGwnt04H8TFkMBlupor/X9TiMVucPHp7gopIz8EimS/0Iy5kijKSh3L8IEMaqMEUiYTbHlaN2JbVeKpfbBDIKCekW5fAn3HLyfvqKt3hPJpYpHr1lCza7kr8s9W+gyWj/x6mKjFriEJyAFvgPCZXxNsNH710q6Jx5+sWbJQZIhqdP/CSg6MTaljWqpRY0zRpJ9A==;EebHgUln2PPQcRnU56aiBA=="
 ---
 

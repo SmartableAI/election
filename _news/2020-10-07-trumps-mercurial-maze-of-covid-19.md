@@ -767,6 +767,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Facebook, Twitter take action over Trump's misleading COVID-19 posts"
+    excerpt: "Facebook Inc and Twitter took action on posts from U.S. President Donald Trump on Tuesday for violating their rules against coronavirus misinformation by suggesting that COVID-19 was just like the flu."
+    publishedDateTime: 2020-10-07T02:42:00Z
+    webUrl: "https://www.reuters.com/article/us-twitter-trump-idINKBN26R2Z3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R2YU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R2YU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536423411&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG951Y8"
+        width: 776
+        height: 545
+        isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
     publishedDateTime: 2020-10-02T08:44:00Z

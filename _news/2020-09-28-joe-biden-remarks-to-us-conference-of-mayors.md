@@ -148,9 +148,9 @@ related:
         height: 700
         isCached: true
   - title: "Joe Biden Comments to Reporters on Future Debates"
-    excerpt: "Democratic presidential candidate speaks to reporters about the upcoming debates and says that if the president still has COVID-19, then they shouldn’t debate on October 15. Vice President Joe Biden was seen leaving after briefing the House Democratic Caucus on the nuclear agreement with Iran."
-    publishedDateTime: 2020-10-06T23:54:00Z
-    webUrl: "https://www.c-span.org/event/?476654/"
+    excerpt: "Democratic Presidential Candidate Joe Biden took a couple of reporters' questions before boarding a plane in Hagerstown, MD. The Former Vice President held an event earlier in the afternoon a short distance away in Gettysburg,"
+    publishedDateTime: 2020-10-07T03:32:00Z
+    webUrl: "https://www.c-span.org/video/?476654-1/joe-biden-debate-ahead-president-covid-19"
     type: article
     provider:
       name: C-SPAN

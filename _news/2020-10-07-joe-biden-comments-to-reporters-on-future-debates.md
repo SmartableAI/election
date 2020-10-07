@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden Comments to Reporters on Future Debates"
-excerpt: "Democratic presidential candidate speaks to reporters about the upcoming debates and says that if the president still has COVID-19, then they shouldn’t debate on October 15. Vice President Joe Biden was seen leaving after briefing the House Democratic Caucus on the nuclear agreement with Iran."
-publishedDateTime: 2020-10-06T23:54:00Z
-originalUrl: "https://www.c-span.org/event/?476654/"
-webUrl: "https://www.c-span.org/event/?476654/"
+excerpt: "Democratic Presidential Candidate Joe Biden took a couple of reporters' questions before boarding a plane in Hagerstown, MD. The Former Vice President held an event earlier in the afternoon a short distance away in Gettysburg,"
+publishedDateTime: 2020-10-07T03:32:00Z
+originalUrl: "https://www.c-span.org/video/?476654-1/joe-biden-debate-ahead-president-covid-19"
+webUrl: "https://www.c-span.org/video/?476654-1/joe-biden-debate-ahead-president-covid-19"
 type: article
 quality: 35
 heat: -1
@@ -157,6 +157,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "dcF9946hCCFYciI8hxn20NvT269R9brExrIMu9CogszQ0uc8nAoyKP+Iad+2I5kXsVDSYHhQPfv3TrNUXCyE4iQ4RXMS5KXcYi3VwOFtPLx/ldoPqUqjMMUQF7bpb/H3UEsWQw14hu4TWtmgbiyQELq8xVSzfuVZOLCsrRfnp0bUbYLPvvuMqDk/pR/bGKZi1YL/mDyz7KaUzcqEeb4EqN3uDeesDvGvrR3h/OLskngWK7eCrPnVRNJZiipqU3fjBFx1g+PyVKwvk53c0UR18IFfo9/PEF1fyYdRLn5X+QQztAq77JxJ6vjT1quGNhlecgR8SpFiH1OFtcDKO4xkzZpOqo780KE1V/OakWMRO5VtOn/VRjUT0ITxy0BGpITgzBdn2VKa2WG7zk5s2nHrS8gezUtUq8QAN3C3H2qzXDw0ww+ctX2kKrXJm8oEQNU9J0hKK9VBr1WBSd2B7T8jYMRui4vPG9SDsyveNcOS+N8mlNwYI48qfQkalk8Kg4pIkRd4KGz6SE4Rokpme7B9pw==;IlrxZbeZyvfz0hEWWLNpoA=="
+secured: "SO0gMgJl8NQViCC7KtBpiTFuMkANLRSPDNqpvto0ekWd7C3cUCom7gOj5l7KsVmGQH6sN8hpX3j35x9rGhH+RKRx/AfQFxTTmIKasBb1W+E/mexMiyBvBLKN4yNKjQ5KTuQzCxEGfY/1Ny7EpxHs88j6e4Rj+ThN03PGqC7+mlDD2MEJvTvM0ddp9vTgHdG2/WuuIj8RA1rDpoK4OiECW5qZ9RPz9QX8U+r/NIUaR3RYO1zc+G6GA+vrk65owpvVJvVG7jYkdBJrM162GkDnh+8ueyPZ4qCwcuJeFi8kZ+3aS+2QwWdP6jnm+YAYOTTzSRbmgwFCGNWDlpapTlSH2jTypJMJFWu5XFSgLMQN7tZSp0tokVdGFXY61SziXUBqwZVzcPgqzD9qZnZc3ZdFHY6PbTOIp3e/kbxFWOfoe0t7fRFDKTd40Xnv5oX4F3rUtK4couMhkH93ULvDCOtEskVGwgJDgOhVuMNnXfBOp5oK96aG5neVVA4592CNFcqA4Bjjg42BXumUDLHaOENOAA==;fXDRgWEWz5t7Z3Se91pM1w=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
+    excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
+    publishedDateTime: 2020-10-07T02:42:00Z
+    webUrl: "https://www.businessinsider.com/biden-he-trump-shouldnt-have-debate-if-trump-has-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-he-trump-shouldnt-have-debate-if-trump-has-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-he-trump-shouldnt-have-debate-if-trump-has-coronavirus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 133
+    images:
+      - url: "https://i.insider.com/5f7b6d0594fce90018f7b2d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden says October 15 presidential debate should not take place if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday he and President Donald Trump should not have their scheduled debate on Oct. 15 if Trump still had the coronavirus infection at that time."
     publishedDateTime: 2020-10-07T00:28:00Z
@@ -390,6 +406,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JW5CKWAEIVGDVBOGUUYRDN7VEA.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
+    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
+    publishedDateTime: 2020-10-07T02:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "xeKNw+diSyuCL+oVA1zocc3kMezID0bMay4TNrERlXk81exZ3jNOEEYu+pW3o/ZI++1MBoGwVN5k6nG+WVou+7aExXdkqnMzZJC3XymRLwrwpCvucodpCrLl2QfVqAvM6If2nhecZWegwCZzyOTXPdwoGuISgV785zSgUuCqkTtOUYcD2s5ZBbxK15gNv+96c/fYtCsNDG+ENAfLwUtGglif6klclYHWx4XUm2gMv/RwREi5/FCdIGdSf3QO/WXa619DMI8x5DGmFm6XN2jBqQ4Vt7TFWcyHAujT8OtoHNgEQqZcPym7+rodsbbDc3Xlb0/2S8hekfGEsy0/1OO75bFMnsjmiNO1pWtf2ccBNUYS+baUYpmo+47gldYSYq7W5U35pXw+dROCudasxhUeQXOz4/17diRaFpMxQ43arIs2gPrYfHtlNUo8kokIY0g88ygiO9f/LfGpVwxpAR9cihnHy0QcUjoBRuTMbl+jkaPd/+S6iD8F7LkErObhf+cGsNikE/O2vGoL3/CCkNIk+w==;WyaQ75sSnmONAewRjgBZQA=="
