@@ -4,6 +4,35 @@
   "page": 1,
   "value": [
     {
+      "path": "_events/2020-10-07-vice-presidential-debate.md",
+      "title": "Vice Presidential Debate",
+      "excerpt": "The vice presidential debate is scheduled to take place on Wednesday, October 7, 2020, at Kingsbury Hall at the University of Utah in Salt Lake City. Susan Page of USA Today will moderate the vice presidential debate.",
+      "sourceUrl": "https://smartableai.github.io/election/api/events/2020-10-07-vice-presidential-debate/index.json",
+      "webUrl": "https://smartable.ai/apps/election/event/2020-10-07-vice-presidential-debate/",
+      "originalUrl": "https://www.youtube.com/watch?v=t_G0ia3JOVs",
+      "name": "Vice Presidential Debate",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t_G0ia3JOVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "type": "conference",
+      "startDateTime": "2020-10-07T18:00:00-07:00",
+      "endDateTime": "2020-10-07T19:30:00-07:00",
+      "location": "Salt Lake City, UT",
+      "provider": {
+        "name": "CPD",
+        "domain": "debates.org"
+      },
+      "topics": [
+        "Election"
+      ],
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t_G0ia3JOVs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ]
+    },
+    {
       "path": "_events/2020-09-29-first-presidential-debate.md",
       "title": "First Presidential Debate",
       "excerpt": "President Donald Trump and former Vice President Joe Biden participate in the first 2020 presidential debate in Cleveland, OH.",
