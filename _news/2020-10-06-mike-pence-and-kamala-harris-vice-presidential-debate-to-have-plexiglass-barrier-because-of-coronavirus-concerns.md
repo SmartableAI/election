@@ -448,6 +448,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Vice presidential debate live updates: Mike Pence and Kamala Harris get ready to square off"
+    excerpt: "This is CNBC's live blog for the vice presidential debate between Mike Pence and Kamala Harris. This blog will be updated throughout the evening. Watch our livestream, too."
+    publishedDateTime: 2020-10-07T23:15:00Z
+    webUrl: "https://www.cnbc.com/2020/10/07/vp-debate-2020-live-updates.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/vp-debate-2020-live-updates.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/vp-debate-2020-live-updates.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 140
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106732394-1602006305630-penkam.jpg?v=1602006362"
+        width: 1000
+        height: 714
+        isCached: true
   - title: "Here are the recent times Trump, his kids and Pence have been in Arizona"
     excerpt: "In the weeks ahead of President Donald Trump's COVID-19 diagnosis, Trump, VP Mike Pence and members of their families made several stops in Arizona."
     publishedDateTime: 2020-10-04T21:14:00Z
@@ -682,6 +698,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers"
+    excerpt: "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents."
+    publishedDateTime: 2020-10-07T21:37:00Z
+    webUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176"
+    ampWebUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
     publishedDateTime: 2020-10-05T17:32:00Z
@@ -745,6 +777,20 @@ related:
       - url: "https://i.insider.com/5f771bd90ab50d00184adbee?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Pence and Harris prepare to face off in one and only vice presidential debate"
+    excerpt: "Vice President Mike Pence and Democratic vice-presidential candidate Kamala Harris will take the debate stage in Salt Lake City — with coronavirus precautions in effect. Nikole Killion has the latest."
+    publishedDateTime: 2020-10-07T23:04:00Z
+    webUrl: "https://www.cbsnews.com/video/pence-and-harris-prepare-to-face-off-in-one-and-only-vice-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 127
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/07/ffb67472-c0fd-470c-b518-6e4dd50b2012/thumbnail/1200x630/2a1763de716fcb043f52bfa891044ef8/1007-en-kllion-561584-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
@@ -2514,6 +2560,15 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Donald Trump, M.D.: How the President Is Shaping His Own Treatment"
+    excerpt: "Trump has been a challenging patient, insisting on shaping the course of his care as well as stage managing how his health is projected to the public."
+    publishedDateTime: 2020-10-07T12:21:00Z
+    webUrl: "https://time.com/5896658/trump-discharge-medical-condition-doctors-treatment/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 85
   - title: "Could Mike Pence assume the presidency if Trump is sick? What the 25th Amendment says"
     excerpt: "The answer lies in the 25th Amendment of the U.S. Constitution, which states the duties of the presidency could pass to the vice president. Vice President Mike Pence tested negative for COVID-19 Friday morning and is in “good health,"
     publishedDateTime: 2020-10-02T14:30:00Z
@@ -2575,6 +2630,22 @@ related:
     quality: 82
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden, Kamala Harris to meet with tribal leaders, small business owners in Arizona"
+    excerpt: "Democrat Joe Biden and his running mate, Kamala Harris, will meet with tribal leaders and small business owners during their trip to Arizona."
+    publishedDateTime: 2020-10-07T22:29:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5910955002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5910955002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/76b27cc0-7e26-464d-83e8-b7d7c4c3eb32-AP20260030136787.jpg?auto=webp&crop=3755,2113,x0,y191&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -2954,6 +3025,22 @@ related:
       - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/kamala-harris-raleigh-nc.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
+        isCached: true
+  - title: "MAGA: Donald Trump May Have Exposed Thousands of People to COVID-19"
+    excerpt: "President Donald Trump and other White House insiders infected with COVID-19 carried the virus across the country in a matter of days, potentially exposing hundreds, perhaps thousands, of people as they went about their business,"
+    publishedDateTime: 2020-10-07T23:21:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-exposure"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-exposure/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-exposure/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/5e176a0afd7db20008a8b957/master/pass/Trump75.jpg"
+        width: 2000
+        height: 1330
         isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."

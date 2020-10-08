@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Fox News Poll: Biden gains ground over Trump"
+    excerpt: "Democratic candidate Joe Biden leads President Donald Trump by a 53-43 percent margin, in a Fox News national survey of likely voters conducted after a combative debate and the president testing positive for coronavirus. Biden’s 10-point advantage is up from a 5-point lead last month. "
+    publishedDateTime: 2020-10-07T22:01:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wkaT-akZJCI/fox-news-poll-biden-gains-ground-over-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-poll-biden-gains-ground-over-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-poll-biden-gains-ground-over-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Carly Fiorina explains planned Biden vote, claims Trump has 'damaged' GOP"
     excerpt: "President Trump “has not exhibited” characteristics of a leader during his presidency, former Republican presidential candidate Carly Fiorina told “America’s Newsroom” on Wednesday explaining why she will be voting for Democratic presidential nominee Joe Biden in November’s general election."
     publishedDateTime: 2020-10-07T21:19:35Z
@@ -223,6 +239,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden gets post-debate bounce in crucial battleground states: polls"
+    excerpt: "Democratic presidential nominee Joe Biden’s widened his lead over President Trump in the key general election battlegrounds of Florida and Pennsylvania in the wake of last week’s first debate between the two candidates and the president’s COVID-19 diagnosis, according to new public opinion surveys."
+    publishedDateTime: 2020-10-07T22:29:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-juJsuLU8S4/biden-post-debate-bounce-battleground-states"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-post-debate-bounce-battleground-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-post-debate-bounce-battleground-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/372c22ef-a562-4dde-a4e2-933cf49c1c27/d2bf2275-9665-44c4-ac74-3b8e4d92facc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
     excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
     publishedDateTime: 2020-10-01T21:02:23Z
@@ -332,6 +364,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/trump-biden-3.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Who’s Ready for Trump-Biden Round Two?"
+    excerpt: "In a town-hall debate, the winner is often the one who keeps his cool and attacks indirectly."
+    publishedDateTime: 2020-10-07T23:24:00Z
+    webUrl: "https://www.wsj.com/articles/whos-ready-for-trump-biden-round-two-11602111519?mod=opinion_major_pos4"
+    ampWebUrl: "https://www.wsj.com/amp/articles/whos-ready-for-trump-biden-round-two-11602111519"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/whos-ready-for-trump-biden-round-two-11602111519"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-241725/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Trump Would Double Down on Tax Cuts in Second Term"
     excerpt: "President Trump and Republicans got much of the tax code they wanted in 2017. In a second term, he would face expiration dates on those and push for more tax cuts."

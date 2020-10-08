@@ -2702,6 +2702,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump says coronavirus cure is imminent"
+    excerpt: "President Donald Trump declared that an experimental coronavirus drug he was given last week is a cure for the deadly virus and promised that it and similar medicines would soon be available for free to all Americans."
+    publishedDateTime: 2020-10-07T23:42:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/trump-says-coronavirus-cure-is-imminent-427603"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/trump-says-coronavirus-cure-is-imminent-427603"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/trump-says-coronavirus-cure-is-imminent-427603"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ca/7b/9d0e876b442bbcb79abf452b0c4c/20201007-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump pushes rapid coronavirus testing for schools ahead of first debate"
     excerpt: "The coronavirus will be one of six topics covered at Tuesday’s debate; Trump’s handling of the pandemic has been one of his weakest points with voters."
     publishedDateTime: 2020-09-28T21:28:00Z

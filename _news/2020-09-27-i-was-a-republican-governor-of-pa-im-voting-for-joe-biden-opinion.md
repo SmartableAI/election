@@ -107,6 +107,22 @@ related:
         width: 3771
         height: 2514
         isCached: true
+  - title: "Taylor Swift endorses Joe Biden"
+    excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
+    publishedDateTime: 2020-10-07T22:51:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Reuters/Ipsos Poll Shows Biden Leading Trump in Florida; Tied in Arizona"
     excerpt: "Democratic presidential candidate Joe Biden appeared to lead President Donald Trump among likely voters in Florida and the two were locked in a tight race in Arizona, according to Reuters/Ipsos opinion polls released on Wednesday."
     publishedDateTime: 2020-10-07T19:14:00Z

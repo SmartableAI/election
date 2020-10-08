@@ -2317,6 +2317,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump: Getting COVID-19 'Blessing from God'"
+    excerpt: "President Donald Trump says getting infected with COVID-19 was a \"blessing from God.\" Trump attributes him feeling well to the experimental antibody therapy he got from Regeneron Pharmaceuticals Inc."
+    publishedDateTime: 2020-10-07T23:35:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/trump-getting-covid-19-blessing-god/5917803002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1df67988-38d6-46ff-882c-a088a293b68b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z
@@ -3306,6 +3320,6 @@ related:
         height: 624
         isCached: true
 
-secured: "HTii5l4wr3nivZCEO0jKdhuAm1ENYgq9sjwX+5hp/RHFFUeFQaMp1Pl5RTbVn3XqVSMruV7LHl0SVoy68TlM2dJI3CvO8WMvE539U60PWO/7+ukcbijelakN9CUekV43CJ2P1cNhUiZvCXIbHfPiC7kYQ5mdjNhlTELclBe2Vbn9cf5phePIIpIzy0BWLwlf8ptsij9gcDfwjDQULhqYxjJCcJhrJgChLMl7WLDHIzQ81Xfk42Kub0ooP5O708jPrhv6ZwuDJxe/XcqSGmZ43IG5R0E9jggs8GA8OZ27GrUW3kQ2dsC637P6s8HJ2f9yWYKRrHjBYIsPzCz+6rsFNQzeS0gYdsKsCtlv5frdhaY=;+8G/amZ7cKyp9SWwzPB8dw=="
+secured: "54nb0RgA+QZPL5yO/uy0HhjT4PTnNsNM9QDLs2CC0j5EYsFYVdx4m4Lq7PSuRuShxBoFQ/dwAwz6Zmbc2imThxEmELcg+KB4W2QkJE9CLiC4MbG9JcFKwXNyElXmFP8W5/8Vuju4nklwuLy3UUk1BrxpigRatoA8fg62N2wHGghV4gppiLlBDf6U+Jr0m18iaYefUlxASEF/fIZqAYMKTU+rTJkqbtvlk9BYazZd5e61TTW1ISVMIOfAKFG+2qPY/NDPlWmQHBHNBvX3hw+JQhFDvflHPQ16LGcOGb1RRwv4VBNyTS3r23uIiTo+HcUzkGka5xMAw9jAMMkvurrvIpRKnVjkGE6FZqxtdWt/cFXLjC1yJvyUYHPL9Vn4eQkVFX+CiLRM99dXw8h3HF3lD2pzeWs4dt477sBX659KrUZM6pw7CkR+4iXSGXOXb9NVgL3FPiIe2shUtwC5DEOcZbreWq2BLRaVQKCuYDPD/RN0qgSOT6HGjxHdM8Y4K+jXiU288IHCMP3pJjj4pKbKxw==;3CGl6Oknsnt5nWapHy7MQQ=="
 ---
 

@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence and Harris meet for vice presidential debate as administration is gripped by Covid-19"
+    excerpt: "Vice President Mike Pence and California Sen. Kamala Harris will square off Wednesday in their only debate as the Trump administration reels from an outbreak of Covid-19 at the White House and erratic decisions by the commander in chief.\n    \n"
+    publishedDateTime: 2020-10-07T23:39:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ax9Yj0-2Jw8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden and Kamala Harris don't want to talk about changes to the Supreme Court"
     excerpt: "Joe Biden and Kamala Harris made it clear on Tuesday night that they don't want to talk about changes to the Supreme Court, including expanding the current nine-justice bench.\n    \n"
     publishedDateTime: 2020-09-30T17:06:00Z
@@ -560,6 +576,6 @@ related:
       domain: thedailybeast.com
     quality: 63
 
-secured: "X1sMwcgenGwgQueutlXzm/zPDaTujhZOcEiWjQB4TYjfPS+MGmku83LMWMyOwu0X856P4beX075Ec2wvXDV3UO8dqSosAVgMPeXFUvtKTbR3CFYFuyiur3MyD2li6mG6pE6lxeW+ZtA383IxvfcTlH4ci4dXg5d4EM0S9tyG9OBmgH7cBt0oIB9ykoTkFX2+38+UvEZxGcQUXKDwEP++NmKxL7S7+ajT4ePn165igBgiej3oRzqpAYyQ8su48pvHzXyGBuMmERYixjIPj9r+iE0GTlsy8OimXIISMvpktETiLHy8GWPrYALBMw+C0H4UoHwGiPsFrEfuTlODEJLqTnC7k6/H8h1n9x4RrHp8rkw=;7evE9avnPZFlepbexTnFkQ=="
+secured: "zVLy78+tHxN+w0ZSr6Ill/s+T0nZLoiHUkA7P8j3PXAZcQI2bS6/6d4hVZhUw7rqmyu/GkYANk6QmmvtWtBz6CiU1bS7jVB2FXYwL12iV8UxOFcUwZUdUcS9TwxDiSegdCqEKfXkO32t8B2M3FDTUiVNjJwBaDFAyN6lwKsIR1naQegYiW5ZmrqqVPHG80VSH3gE9ZLRUTRmjSqYYzVDjet+bSQya/9GIXTpB+hFGtfHvDPefF1GewSNwRKWgwRXa1Xlp/tnjue0Md2ngdRJCHo2IwdR8dA+b2XcLBVoP+IIMsGt54c1HGyh1wQp2ZZfMOeKhFnveyyDGF3hasmgXcsTSvKTe+VO5XBnEKK99g5gH6nbPnxO5N00b7TlBzXR93A+hw+FwW6KHZbR2KwJewOqT17dL+NE0ZTCTyc+HX929CFtoPgtJfyBoDkwt74xnBYATdGu916MW6QW9sVEeUjRAuszAlAPZDJWoThYzDPxgRPfaKXc7vi2++QqSGRFBS8/b6bMFWJ8fVUIA4bZFQ==;fzCkvHWis3ZFBIUTo7bziQ=="
 ---
 

@@ -2,6 +2,159 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-07-trumps-tweets-turn-market-ibm-eyes-new-nyc-office-bankruptcy-consulting-booms.md",
+      "title": "Trump's tweets turn market — IBM eyes new NYC office — Bankruptcy consulting booms",
+      "excerpt": "The top finance stories for October 7, including the latest news on IBM's interest in NYC offices and law firms' recruitment of summer associates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10",
+      "originalUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cc2e394fce90018f7b762?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10?amp",
+      "publishedDateTime": "2020-10-07T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-president-trump-and-his-staff-defied-cdc-coronavirus-guidelines-23-times-since-sept-1.md",
+      "title": "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1",
+      "excerpt": "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/02/USAT/997b0c17-27a3-45d2-9801-822e233fa697-TRUMP_POSITIVE_CORONAVIRUS_05.JPG?auto=webp&crop=3488,1962,x0,y119&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3636834001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636834001",
+      "publishedDateTime": "2020-10-07T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-trump-calls-off-stimulus-package-talks-meaning-americans-likely-wont-receive-a-1200-stimulus-check-before-the-election.md",
+      "title": "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election",
+      "excerpt": "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cf91d282c500018c79042?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10?amp",
+      "publishedDateTime": "2020-10-07T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-pence-will-come-under-extreme-pressure-over-covid-19-response-in-vp-debate-pollster-predicts.md",
       "title": "Pence will come 'under extreme pressure' over COVID-19 response in VP debate, pollster predicts",
       "excerpt": "Vice President Mike Pence will be under \"extreme pressure to answer tough questions\" during Wednesday's vice presidential debate about the Trump administration's response to the coronavirus pandemic, Fox News contributor Kristen Soltis Anderson told the \"Fox News Rundown\" podcast.",
@@ -1152,7 +1305,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4420,
+      "heat": 4440,
       "tags": null,
       "images": [
         {
@@ -1192,168 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-exclusive-former-cia-director-john-brennan-says-the-biggest-threat-to-the-2020-election-is-trump-himself.md",
-      "title": "EXCLUSIVE: Former CIA director John Brennan says the biggest threat to the 2020 election is Trump himself",
-      "excerpt": "Russia got everything it could have hoped for from Donald Trump's presidency, the former CIA chief said in an interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
-      "originalUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7cacb6282c500018c78e83?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
-      "publishedDateTime": "2020-10-06T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.md",
-      "title": "Biden with upper-single digit lead over Trump with 4 weeks until Election Day: polls",
-      "excerpt": "With the clock ticking toward Election Day on Nov. 3, Democratic presidential nominee Joe Biden holds a nearly 10-point lead over President Trump in an average of the latest national polls.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S47ysy96iOA/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S47ysy96iOA/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 758,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274128375728.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.amp",
-      "publishedDateTime": "2020-10-06T10:28:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-coming-full-circle-trump-returns-to-false-misguided-flu-rhetoric.md",
-      "title": "Coming full circle, Trump returns to false, misguided 'flu' rhetoric",
-      "excerpt": "Nearly seven months after his misguided \"think about that!\" tweet, comparing COVID-19 to the flue, the Republican has apparently come full circle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2020_40/3417238/201003-donald-trump-cs-944a_65547e5ac6566da3ad7106431d825dca.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

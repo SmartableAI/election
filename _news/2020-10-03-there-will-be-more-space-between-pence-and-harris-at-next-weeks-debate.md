@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html"
 type: article
 quality: 210
-heat: 890
+heat: 910
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 205
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827160803-kamala-harris-speech-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence and Harris meet for vice presidential debate as administration is gripped by Covid-19"
+    excerpt: "Vice President Mike Pence and California Sen. Kamala Harris will square off Wednesday in their only debate as the Trump administration reels from an outbreak of Covid-19 at the White House and erratic decisions by the commander in chief.\n    \n"
+    publishedDateTime: 2020-10-07T23:39:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ax9Yj0-2Jw8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -111,6 +111,22 @@ related:
         width: 3771
         height: 2514
         isCached: true
+  - title: "Taylor Swift endorses Joe Biden"
+    excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
+    publishedDateTime: 2020-10-07T22:51:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Reuters/Ipsos Poll Shows Biden Leading Trump in Florida; Tied in Arizona"
     excerpt: "Democratic presidential candidate Joe Biden appeared to lead President Donald Trump among likely voters in Florida and the two were locked in a tight race in Arizona, according to Reuters/Ipsos opinion polls released on Wednesday."
     publishedDateTime: 2020-10-07T19:14:00Z
@@ -225,6 +241,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "0hY1RMXJ9vaErNvfHllS51PLILoBxYSctxiej2UZDX1Mw+iAmp7sZEYwB7zQXoaNyQUu1SiUSd6Y10Nc7exXk8Mg+bjsimzoHKutDB6k/Ah1vXGdrZRV4bsmg9OJcby5pw1qfP+wrwvKSKIzkY6xL6q614sO7lo1d2e1ZmXOaI+nGbWbKYgsfiSmhOamwJn7zXVaiN2d2B0wDEoobNmdFOp/Hm9qEHaVNICwS5PwHfacX0+46VR/OmqjEaURoKu6qstBAIpZKUjKml4jjUt7/fEhCcRqPVg7BJZoBkC//yJYeDf2K32OKUALmp7X6+WshNwlqEdXs49I8L6T6vQRsRKHDlquCatG488BEt6Rr9A=;wgSqaVrcsthjBqIbFgOdpg=="
+secured: "TujNJdarvi24bn3cV6SVdxFBrn9iJ+v4c8CRKLjuG0k4oHfI3A7ar1RlwFNcjQlSKCc2q1MhLVTqQ3PL9IgqBMIXMHhJpYQTPqsA+IGVUfahvY/tWYDODBf9CxaemWkAQjS1fEWth+0udwBRYqIrIOUDNN45s4hl59GE7W3C76cPcDPXujfROGNiNQLrkCS/bTRu8k2JF2mB0jACrLsb2udvmIFQQI9Phws0Q23L4Bh3Fx2VRtHg9epiteeuK+DriBJdehmDwdnqLtZNNAjk/benvbcQGMLbZ+zoDE3MeE+wFOep3sdk9jXRhQ2I3+o81K3TpCTEHmFmG8NxMVidzYInl74qK6yCHS5B6Bw3b3411wBaL8MGoNZaJyK77YavazmlQVv+s5n4KF4KvAhQE/tzdsNC2muUaM7hlhrouSCM+GSKzGWUQVypIwKifhk/bGRv7xVt8/LOm8xV1crVpVCdUhzAUT4bI3RYBtrz8dlaAbYU5mjfRIUMCvrCCRjmVuQiCDuZpClN3Lpt4MesZA==;K1SNMDCm56Zyi0FYtfmXFw=="
 ---
 

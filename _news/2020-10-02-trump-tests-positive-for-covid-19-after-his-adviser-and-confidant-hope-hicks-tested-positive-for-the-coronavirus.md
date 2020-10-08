@@ -2321,6 +2321,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump: Getting COVID-19 'Blessing from God'"
+    excerpt: "President Donald Trump says getting infected with COVID-19 was a \"blessing from God.\" Trump attributes him feeling well to the experimental antibody therapy he got from Regeneron Pharmaceuticals Inc."
+    publishedDateTime: 2020-10-07T23:35:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/trump-getting-covid-19-blessing-god/5917803002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/1df67988-38d6-46ff-882c-a088a293b68b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "A running list of all the people Trump came into contact with in the days before he tested positive for COVID-19"
     excerpt: "First lady Melania Trump, top aide Hope Hicks, Sen. Mike Lee, and RNC chairwoman Ronna McDaniel are among those who have tested positive so far."
     publishedDateTime: 2020-10-02T23:03:00Z

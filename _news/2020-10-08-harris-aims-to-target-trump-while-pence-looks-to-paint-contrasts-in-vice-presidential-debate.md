@@ -562,6 +562,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Eric Trump suggests presidential debates should have clear podiums to avoid use of notes"
+    excerpt: "President Trump’s son Eric Trump proposed clear podiums for the next presidential debate to prevent candidates from relying on notes, “the way the real world works.” "
+    publishedDateTime: 2020-10-07T22:57:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KHq5sQa6emM/eric-trump-debates-clear-podiums"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-debates-clear-podiums.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-debates-clear-podiums.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279801359727.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "President Trump, first lady test positive for coronavirus, set to quarantine at White House"
     excerpt: "President Trump and First Lady Melania Trump both tested positive for COVID-19 early Friday, and are set to quarantine and recover at the White House. "
     publishedDateTime: 2020-10-02T05:13:55Z
@@ -706,6 +722,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Taylor Swift endorses Joe Biden, Kamala Harris ahead of vice presidential debate"
+    excerpt: "The country-pop music superstar issued a public declaration to her followers to cast their vote for Democratic presidential nominee Joe Biden and his running mate Sen. Kamala Harris in November's election."
+    publishedDateTime: 2020-10-07T22:59:00Z
+    webUrl: "https://www.foxnews.com/entertainment/taylor-swift-endorses-joe-biden-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/entertainment/taylor-swift-endorses-joe-biden-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/taylor-swift-endorses-joe-biden-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/swift2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "WSJ Opinion: The Trump Ticket Needs a Dose of Mike Pence"
     excerpt: "Main Street: Wednesday night's prime-time face-off between Mike Pence and Kamala Harris could be the most consequential vice-presidential debate ever. Images: A"
     publishedDateTime: 2020-10-06T00:13:00Z
@@ -799,6 +831,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b13bccd9-2942-400c-9951-17b27e20aca4/ada37a4f-0571-4012-a856-9136565c6c38/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump campaign leaves ticket for Tupac at VP debate after Kamala Harris named him ‘best rapper alive’"
+    excerpt: "The Trump campaign is reportedly leaving a vice presidential debate ticket for Tupac Shakur as a jab at Democratic candidate Kamala Harris, who recently called the hip-hop icon, who was killed in 1996,"
+    publishedDateTime: 2020-10-07T22:02:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-tupac-debate-kamala-harris-best-rapper-alive"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-tupac-debate-kamala-harris-best-rapper-alive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-tupac-debate-kamala-harris-best-rapper-alive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20281642189049.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris’s Record Shows Courtroom-Honed Approach, Complicated Ideology"
     excerpt: "Kamala Harris’s record will be a focal point of Wednesday’s debate with Vice President Mike Pence. He has portrayed the Democrat as an emissary of the ‘radical left,’ but some Republicans say they have found common ground."
@@ -946,6 +994,6 @@ related:
         height: 856
         isCached: true
 
-secured: "+qEZiGju5InAD46qZZZyakqayMtS4T/R88xZMp5OCyI4xgTVrzSvW/nR+11xyTqpm5xypUFX8ou+u+cyboSMfzPo26NkQtcBh+ojnrSu21mG98w4Wtnv26qbPde2iRUTmW3rvM/o8qxrYTsNNOlYX9U6m04Tv4ONVmyVJYcyYnnxDrrlfypGPQ0guforcRvCwfaePeu+rnMPZoiIHSIB5xYy4XBl3pPTgzbIBURN2P5l1g+ugyHtQDeMkOYQjObzMvI3npxQ0ut8BmJ0lH9ZFr9TTgrlph7Vwa/d0GX6mBWp8/DOGBJmDdPclnVrAvX1yptCnNI3/fTxyNIg4E55nJxJa/TDCzXwrNTIswkXk+k=;ShcUzt4zFbuID/OFIx/9FQ=="
+secured: "UF8ZZTJj8EiY4ixMWF+CmHOzoCgSdkwgdmAHGFJbSz2lBjv/QbqQ83DZzvYhjKPipGWSbPwi2v6CIBIYZil6dWJoeuEgR91uWJCriZaN3NxD5ZDg67H7TB9qj3IsyiroA9TYlbGA/bihxdkS9NmW0fz78fVxO3qyajI0eA+OSxjppdIIiK6DiH87aO8g6/Y/sHMNiN/x6xwlUIz7pY1uGrhzIl/TwEZVABc2g4dw8FIFKAKftXeBS2JKW3XqSACUE+SvFyB/wivFnoOVt5IIWBE8HO+SP/F4lgj0LcxW/jBFY/bzUiRadzKQ/RhQC23FkvkuTTYH/nqV6fv0Ru1r5vxkKBRMmadajQsAM6hGTUoJuuFk3fxYEtHM82qmZGLpiE9cWct4KnxdjMO6GBtpFRLRE5ap9skbDQziO6nO8d7gWFNV0rxuxPRZxO3wxLDwepoOlEIdwKJvik3YJJHTrpzxUR155horw0aoCFs9zEFcs/yojj6KmglbqMuY2slVdgRssMnB6ZXU1ScrjekfhA==;NP6F+LCT8bRTVOTcPwEJPg=="
 ---
 

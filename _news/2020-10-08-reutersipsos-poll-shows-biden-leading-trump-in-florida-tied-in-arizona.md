@@ -121,6 +121,22 @@ related:
         width: 3771
         height: 2514
         isCached: true
+  - title: "Taylor Swift endorses Joe Biden"
+    excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
+    publishedDateTime: 2020-10-07T22:51:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "Save the Children? Extremist conspiracy movement QAnon fabricates pedophile claims against Joe Biden as election looms"
     excerpt: "QAnon has hijacked the Save the Children movement to push baseless pedophilia claims against Joe Biden and other Democrats before the election."
     publishedDateTime: 2020-09-29T15:56:00Z

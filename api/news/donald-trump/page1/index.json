@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-08-california-school-districts-spurn-trump-food-box-letter-weeks-before-election-day.md",
+      "title": "California school districts spurn Trump food box letter weeks before Election Day",
+      "excerpt": "Critics have accused the president of politicizing poverty and using the food relief program as a campaign tool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/california/story/2020/10/07/california-school-districts-spurn-trump-food-box-letter-weeks-before-election-day-1322254",
+      "originalUrl": "https://www.politico.com/states/california/story/2020/10/07/california-school-districts-spurn-trump-food-box-letter-weeks-before-election-day-1322254",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/43/4b/61fcc43b415086640cdf4ff956ee/ap20246788858675.jpg",
+          "width": 5797,
+          "height": 3863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-where-are-all-of-the-arrests-trump-demands-barr-lock-up-his-foes.md",
       "title": "‘Where are all of the arrests?’: Trump demands Barr lock up his foes",
       "excerpt": "The day-long run of tweets and retweets marked the most frantic stretch of Trump’s public activity since he left Walter Reed.",
@@ -55,6 +111,57 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-donald-trump-would-repeal-and-replace-obamacare-with-nothingburger.md",
+      "title": "Donald Trump would repeal and replace Obamacare with nothingburger",
+      "excerpt": "Affordable Care Act set to reach the Supreme Court after election. COVID-19 layoffs only underscore what a lifeline the ACA is to millions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/06/USAT/f1d418be-3261-4701-8f66-cba4f6986254-Obamacare.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3629112001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3629112001",
+      "publishedDateTime": "2020-10-07T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -866,7 +973,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4420,
+      "heat": 4440,
       "tags": null,
       "images": [
         {
@@ -1463,113 +1570,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health.md",
-      "title": "CNN supercut shows how Trump has repeatedly mocked his opponents’ health",
-      "excerpt": "CNN’s John Avlon on Monday showed how President Donald Trump has repeatedly used his political opponents’ health as a weapon, such as when he openly mocked Hillary Clinton for coming down with pneumonia in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
-      "originalUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2017/07/Trump-mocks-disabled-reporter.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
-      "publishedDateTime": "2020-10-05T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-meadows-still-optimistic-trump-will-leave-hospital-later-on-monday.md",
-      "title": "Meadows: ‘Still optimistic’ Trump will leave hospital later on Monday",
-      "excerpt": "Trump's chief of staff said the president will meet with his doctors and nurses on Monday morning to assess his progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "originalUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/95/64/e2030d6244139256e6df0f3d8ac3/ap20278592774995.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "publishedDateTime": "2020-10-05T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

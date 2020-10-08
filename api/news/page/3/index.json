@@ -2,6 +2,168 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-07-exclusive-former-cia-director-john-brennan-says-the-biggest-threat-to-the-2020-election-is-trump-himself.md",
+      "title": "EXCLUSIVE: Former CIA director John Brennan says the biggest threat to the 2020 election is Trump himself",
+      "excerpt": "Russia got everything it could have hoped for from Donald Trump's presidency, the former CIA chief said in an interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
+      "originalUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cacb6282c500018c78e83?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
+      "publishedDateTime": "2020-10-06T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.md",
+      "title": "Biden with upper-single digit lead over Trump with 4 weeks until Election Day: polls",
+      "excerpt": "With the clock ticking toward Election Day on Nov. 3, Democratic presidential nominee Joe Biden holds a nearly 10-point lead over President Trump in an average of the latest national polls.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S47ysy96iOA/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S47ysy96iOA/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 818,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274128375728.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-with-upper-single-digit-lead-over-trump-with-4-weeks-until-election-day-polls.amp",
+      "publishedDateTime": "2020-10-06T10:28:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-coming-full-circle-trump-returns-to-false-misguided-flu-rhetoric.md",
+      "title": "Coming full circle, Trump returns to false, misguided 'flu' rhetoric",
+      "excerpt": "Nearly seven months after his misguided \"think about that!\" tweet, comparing COVID-19 to the flue, the Republican has apparently come full circle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2020_40/3417238/201003-donald-trump-cs-944a_65547e5ac6566da3ad7106431d825dca.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-bernstein-on-trump-he-has-become-homicidally-negligent.md",
       "title": "Bernstein on Trump: He has become homicidally negligent",
       "excerpt": "CNN political analyst Carl Bernstein reacts to the White House declining an offer from the CDC to help contact trace the coronavirus outbreak in the White House.\n    \n",
@@ -1160,163 +1322,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-bongino-on-infuriating-media-attacks-of-trumps-drive-by-visit-outside-hospital.md",
-      "title": "Bongino on ‘infuriating’ media attacks of Trump’s drive-by 'visit' outside hospital",
-      "excerpt": "The mainstream media’s attacks of President Trump’s surprise drive-by visit to his supporters outside Walter Reed Medical Center on Sunday is “infuriating,” former Secret Service agent Dan Bongino told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp",
-      "publishedDateTime": "2020-10-05T08:04:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-secret-service-volunteered-for-trump-drive-lewandowski-claims.md",
-      "title": "Secret Service ‘Volunteered’ For Trump Drive, Lewandowski Claims",
-      "excerpt": "An attending physician said the agents likely didn’t know the “real risks” of being inside the vehicle with Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b280907e0d0d800a27488%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1487%26cropY1%3D67%26cropY2%3D904",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/05/secret-service-volunteered-for-trump-drive-lewandowski-claims/amp/",
-      "publishedDateTime": "2020-10-05T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-trump-pledges-to-pass-the-biggest-tax-cut-ever-in-early-morning-campaign-tweetstorm-from-walter-reed.md",
-      "title": "Trump pledges to pass 'THE BIGGEST TAX CUT EVER' in early morning campaign tweetstorm from Walter Reed",
-      "excerpt": "Trump previously vowed a middle-class tax cut during the November 2018 midterms, but it never happened. His second-term tax platform remains vague.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10?amp",
-      "publishedDateTime": "2020-10-05T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

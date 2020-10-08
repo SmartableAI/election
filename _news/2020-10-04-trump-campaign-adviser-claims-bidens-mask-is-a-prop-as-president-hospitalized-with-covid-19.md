@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavir
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
 type: article
 quality: 178
-heat: 638
+heat: 658
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/06/reader-center/05trump-virus-hp-promo/05trump-virus-hp-promo-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Taylor Swift endorses Joe Biden for President"
+    excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."
+    publishedDateTime: 2020-10-07T22:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/taylor-swift-endorses-joe-biden-president-n1242483"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242483"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242483"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/2986286/190827-taylor-swift-cs-744a_8b6db7ef8be8acf184cc82da0e8f9178.jpg"
+        width: 2418
+        height: 1538
         isCached: true
   - title: "The Times Endorses Joe Biden, and Readers Applaud"
     excerpt: "I want to thank The Times for this thoughtful and accurate assessment of the candidate and the broader context of this race,” a reader writes."
