@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden Campaign Isn’t Selling ‘I’m Speaking’ Shirts, But Here’s Where You Can Buy Them"
+    excerpt: "T-shirts, coffee mugs, face masks, and other products were selling online after the Harris-Pence debate, capturing key phrases from the event."
+    publishedDateTime: 2020-10-08T14:20:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 66
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "qgzrrf2EQD+LO4RcEtoUeEF4R2ERRQkKOdgiDxXjoPCXjJz5uar1NNJ/1rAwFx9PZdrPl85alXBNzHklj+P/tk1uluCh830lLPE5PAJvmV+TWTTu+TEPux4gJow5JrF1RZO6v3SHa8VN8Dvf+dbP4DScYrKRm5hT4oIeLPWEu4IN+RL+n1VpRfNY7K+XIszxRgxu5cDSxvMBUZPtNd54vaJBmCZJV2WzkegsAq0jnqtIEN8D8/5abJxn5fRVzZaSocUzFc888PJG4IR5HQ8iS2AJwFZyDv0CdEb996lztPw/VKgrvjL+leXO8fYv1Hcyw74vNlZjNkfpIOQycW7A6NQ0LSmdK0P+2KLJ6o7QvoY97dPsyI520cW5qoMtSbFhbEomqp34YP4nksywZn+g7XnMXPXIJ7GI25O/1aJeMoaBeb8KJu8U3P0ctjtycF8cCGDUcze5dvOkBhDm7aKU6hnFQj/jPbSjuEhEOz7w/fhRpFbwRTTC/jYs/bND21EQSPLgdoPnPZgoJPVNymIn8w==;usrsRmJOyGVvCX5FoDMXig=="
 ---

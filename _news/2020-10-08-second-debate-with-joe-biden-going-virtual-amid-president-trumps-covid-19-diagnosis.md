@@ -588,6 +588,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Remarks to Reporters"
+    excerpt: "Democratic vice presidential candidate Joe Biden congratulates Senator Harris for her performance at the debate. He also responds to a question on the second presidential debate after the CPD announced it would take place virtually."
+    publishedDateTime: 2020-10-08T14:22:00Z
+    webUrl: "https://www.c-span.org/event/?476765/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Cxw7Hx9K7aIxPqU/4OwRlFIOwdLjqZl67o/AaHwqJ8JCCyklIYotr/lzmHBJo3luKUlVwMNi3690AaS3SZAlxaTIOWa9AwV8LDihOVNZM3Audydefucn6SPBoLrL9UhNNlPByD3fbWtRehC8ZIVKyB/bvBN5kAPlmrmame8rOynAn9up9XvQ3SsJZGWelY7/9MlkttMZIP7CHSnXVre7yqIyFDI0JEpJWaHOQsDfd/V6pT8J8AnJZ+CiRtCPwY2KclcZMhfKv/LZ7F5eyD4Qjem6oqFUo6LJEYkE6PI7hEHDwqeWosebdJmr9U9rG34SPT/Hpm3Xt4F4CnsuJxxillsYORVSMlI7QhHkcCbdlVU=;9CJxL84jupc/xdko9HUy3g=="
 ---

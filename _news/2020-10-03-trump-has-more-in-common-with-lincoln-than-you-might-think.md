@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/white-house/518966-trump-has-more-in-com
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/518966-trump-has-more-in-common-with-lincoln-than-you-might-think?amp"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump: What you need to know about the Republican nominee for president"
+    excerpt: "Donald Trump, the 45th president of the United States, hasn't stopped campaigning since winning in 2016. He filed for reelection on the day of his inauguration."
+    publishedDateTime: 2020-10-08T14:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-mar-a-lago-01-gty-jc-191224_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pandemic overwhelms Trump's message in critical N. Carolina"
     excerpt: "President Donald Trump is fighting to fill a Supreme Court vacancy, howling with unsubstantiated claims of voter fraud and warning that violent mobs are infiltrating the suburbs."
     publishedDateTime: 2020-09-28T06:44:00Z
@@ -57,6 +73,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Taliban cheer Trump tweet promising early troop withdrawal"
+    excerpt: "The Afghan Taliban on Thursday welcomed a tweet from President Donald Trump in which he promised to have the last of U.S. troops out of Afghanistan by Christmas — or at least by the end of the year. If that withdrawal happens,"
+    publishedDateTime: 2020-10-08T15:31:00Z
+    webUrl: "https://www.chron.com/news/article/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
 
 secured: "t8cEgiUARR7mAgQGGLlHYtGpgZQMGDQH+WwocsAbhUb9kkfV+PNpAaXtzLW4onK0SSP/7mduEULud/f7w/4ugWS1S6YIhCr8/MUM9GSOMaBgiejb5ju2RGlFOEIxI/FOy15Epg6WtEC4vNohK2lgdnsIvG5oMsKNbAZ9oSTA4/IMPyQb0n4ARdn7iDCP78XAZMm84xN93x43t9JdgGn8bW4FwHjXXGSAkkjafVXP2W898IakyjIn1lkjTOTAzbmus/UAwaLrBJc7xa8SWEHvtpOzFrv56PwNrOw36UhQ1xArVDVDL3So3qzIM+KnD+wUCB7nEu52aYMf0G6TmZi9KQcTAZvemUD90PEuLpzKfQc=;F3IqzdGOu92gPZgsbDyPXg=="

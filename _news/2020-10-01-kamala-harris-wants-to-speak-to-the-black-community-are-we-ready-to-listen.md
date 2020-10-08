@@ -373,6 +373,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump insults Harris as 'a monster' morning after vice presidential debate"
+    excerpt: "President Donald Trump insulted Sen. Kamala Harris as a \"monster\" and a \"communist\" in a Fox Business interview the morning after the vice presidential debate."
+    publishedDateTime: 2020-10-08T14:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-insults-harris-monster-morning-vice-presidential-debate/story?id=73498918"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insults-harris-monster-morning-vice-presidential-debate/story?id=73498918"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insults-harris-monster-morning-vice-presidential-debate/story?id=73498918"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 148
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-04-vp-debate-rt-jef-201007_1602129407129_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mike Pence vs Kamala Harris: Here's how to watch the vice presidential debate"
     excerpt: "Pence and Harris will meet for their only debate. It will be moderated by Susan Page, USA TODAY's Washington Bureau chief."
     publishedDateTime: 2020-10-07T09:17:00Z
@@ -503,10 +519,10 @@ related:
         isCached: true
   - title: "Taylor Swift backs Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"Under their leadership, I believe America has a chance to start the healing process it so desperately needs,\" Swift said in an interview for V Magazine."
-    publishedDateTime: 2020-10-08T04:10:00Z
-    webUrl: "https://www.cbsnews.com/news/taylor-swift-joe-biden-kamala-harris-presidential-endorsement/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/taylor-swift-joe-biden-kamala-harris-presidential-endorsement/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/taylor-swift-joe-biden-kamala-harris-presidential-endorsement/"
+    publishedDateTime: 2020-10-08T04:19:00Z
+    webUrl: "https://www.cbsnews.com/news/taylor-swift-endorses-joe-biden-kamala-harris-president/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/taylor-swift-endorses-joe-biden-kamala-harris-president/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/taylor-swift-endorses-joe-biden-kamala-harris-president/"
     type: article
     provider:
       name: CBS News
@@ -644,6 +660,22 @@ related:
       - url: "https://thehill.com/sites/default/files/pencemike3_10072020getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Trump just nixed the second debate. Mike Pence showed us why."
+    excerpt: "Which might help explain why he just announced that he will not attend the second presidential debate on Oct. 15th against Joe Biden, now that it will be a virtual one, as the Commission on Presidential Debates has decided."
+    publishedDateTime: 2020-10-08T15:19:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/08/trump-just-nixed-second-debate-mike-pence-showed-us-why/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/08/trump-just-nixed-second-debate-mike-pence-showed-us-why/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/08/trump-just-nixed-second-debate-mike-pence-showed-us-why/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-08-2020/t_9748f23eb5084b57a31cdb24ae011b15_name_c7f06388_0906_11eb_8719_0df159d14794_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Vice presidential debate live updates: Mike Pence and Kamala Harris get ready to square off"
     excerpt: "This is CNBC's live blog for the vice presidential debate between Mike Pence and Kamala Harris. This blog will be updated throughout the evening. Watch our livestream, too."
@@ -1840,6 +1872,22 @@ related:
         width: 2500
         height: 1407
         isCached: true
+  - title: "Kamala Harris 'Nude' Google Searches After Debate Speak Volumes About Women in Politics"
+    excerpt: "The vice presidential debate on Wednesday was followed by a spike in people searching Google for Senator Kamala Harris, alongside the terms \"nude,\" \"bathing suit,\" and \"bikini.\" With less than a month to go until the presidential election on November 3,"
+    publishedDateTime: 2020-10-08T15:01:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-nude-google-searches-debate-women-politics-1537461"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-nude-google-searches-debate-women-politics-1537461?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-nude-google-searches-debate-women-politics-1537461?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1647999/kamala-harris-vice-presidential-debate-getty.jpg"
+        width: 3112
+        height: 2071
+        isCached: true
   - title: "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism"
     excerpt: "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans."
     publishedDateTime: 2020-09-24T08:24:00Z
@@ -1918,6 +1966,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Hillary Clinton praises Kamala Harris debate performance: 'She swatted away the lies with ease'"
+    excerpt: "Hillary Clinton congratulated Democratic vice presidential nominee Kamala Harris (D-Calif.) on Thursday for what the former secretary of State called a “masterful debate performance” the night before."
+    publishedDateTime: 2020-10-08T15:35:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 113
+    images:
+      - url: "https://thehill.com/sites/default/files/clintonhillary_08282019_2.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Dow Jumps More Than 450 Points After President Trump Says He’s Being Discharged From The Hospital"
     excerpt: "Stocks jumped Monday afternoon after President Donald Trump announced he would be discharged from Walter Reed Medical Center at 6:30 p.m., with all of the main indexes adding close to 2%, as Wall Street eyes President Trump's Covid-19 recovery and the ongoing potential for successful stimulus negotiations."
     publishedDateTime: 2020-10-05T21:05:00Z
@@ -1931,6 +1995,22 @@ related:
     quality: 112
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7b7c213aa150cd97f572d8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2313%26cropY1%3D0%26cropY2%3D1301"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday"
+    excerpt: "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners."
+    publishedDateTime: 2020-10-08T15:14:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/"
+    ampWebUrl: "https://amp.freep.com/amp/5917943002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5917943002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/f7def4d1-394b-49c5-a0fd-c130cf1a6238-pence-biden.jpg?auto=webp&crop=899,506,x0,y45&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -2762,6 +2842,22 @@ related:
     provider:
       name: Cincinnati Enquirer
       domain: cincinnati.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "From Kayla Mueller to John McCain, Arizona looms large in Mike Pence-Kamala Harris debate"
+    excerpt: "Arizona themes ran through the debate between Vice President Mike Pence and Sen. Kamala Harris, D-Calif., the Democratic VP nominee."
+    publishedDateTime: 2020-10-08T15:43:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/07/vice-presidential-debate-pence-harris-arizona-campaign/5906270002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5906270002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5906270002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 91
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
@@ -4085,6 +4181,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "How Susan Page felt moderating the vice presidential debate with Mike Pence, Kamala Harris"
+    excerpt: "Vice presidential debate moderator and USA TODAY Washington Bureau chief Susan Page explains her \"Thank you, Vice President Pence\" approach, takeaways."
+    publishedDateTime: 2020-10-08T15:49:00Z
+    webUrl: "https://www.freep.com/videos/news/politics/2020/10/08/susan-page-thoughts-mike-pence-kamala-harris-vice-presidential-debate/5921185002/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/cf5331ea-088d-4679-a622-8be41bc00d09-GTY_1279062182.jpg?quality=10"
+        width: 5153
+        height: 3992
+        isCached: true
   - title: "Vice Presidential Debate: Kamala Harris, Mike Pence Reportedly Being Separated By Plexiglass"
     excerpt: "SALT LAKE CITY (CBS SF) – Vice President Mike Pence and Sen. Kamala Harris will reportedly be separated by plexiglass at Wednesday’s Vice Presidential Debate amid concerns about the ..."
     publishedDateTime: 2020-10-05T21:47:00Z
@@ -4125,6 +4235,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/44/52/20073095/5/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
+    excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
+    publishedDateTime: 2020-10-08T15:14:00Z
+    webUrl: "https://www.freep.com/story/news/politics/arizona/2020/10/08/kamala-harris-set-visit-arizona-voters-see-history-making/5913304002/"
+    ampWebUrl: "https://amp.freep.com/amp/5913304002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5913304002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence comments on President Trump’s positive coronavirus test"
     excerpt: "(NEXSTAR) – Vice President Mike Pence tweeted a brief statement in response to the news late Thursday that President Donald Trump and First Lady Melania Trump have tested positive for the ..."

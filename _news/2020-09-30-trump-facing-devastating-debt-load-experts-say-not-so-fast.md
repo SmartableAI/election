@@ -73,6 +73,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "I’m a pro-life evangelical. In supporting Trump, my movement sold its soul."
+    excerpt: "The nomination of Amy Coney Barrett to the Supreme Court injected new enthusiasm and urgency into the evangelical pro-life movement. Conservatives may soon make up a significant majority on the court,"
+    publishedDateTime: 2020-10-08T15:41:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/im-a-pro-life-evangelical-in-supporting-trump-my-movement-sold-its-soul/2020/10/07/04d90712-0733-11eb-859b-f9c27abe638d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/im-a-pro-life-evangelical-in-supporting-trump-my-movement-sold-its-soul/2020/10/07/04d90712-0733-11eb-859b-f9c27abe638d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/im-a-pro-life-evangelical-in-supporting-trump-my-movement-sold-its-soul/2020/10/07/04d90712-0733-11eb-859b-f9c27abe638d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNTBUVR63UI6VL7CBEHLG63AWE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is"
     excerpt: "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep."
     publishedDateTime: 2020-09-28T19:53:00Z

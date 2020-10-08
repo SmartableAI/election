@@ -41,6 +41,22 @@ related:
         width: 980
         height: 552
         isCached: true
+  - title: "Donald Trump: What you need to know about the Republican nominee for president"
+    excerpt: "Donald Trump, the 45th president of the United States, hasn't stopped campaigning since winning in 2016. He filed for reelection on the day of his inauguration."
+    publishedDateTime: 2020-10-08T14:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-mar-a-lago-01-gty-jc-191224_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Don’t be like Trump: Deducting hairstyling and home expenses from your taxes could get you in trouble with the IRS"
     excerpt: "Trump tax returns confirm that the rich are different from you and me. So, no, you cannot deduct the cost of getting your hair cut and styled"
     publishedDateTime: 2020-09-29T21:27:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GCRX5UX4JQI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Taliban cheer Trump tweet promising early troop withdrawal"
+    excerpt: "The Afghan Taliban on Thursday welcomed a tweet from President Donald Trump in which he promised to have the last of U.S. troops out of Afghanistan by Christmas — or at least by the end of the year. If that withdrawal happens,"
+    publishedDateTime: 2020-10-08T15:31:00Z
+    webUrl: "https://www.chron.com/news/article/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
 
 secured: "p9D6GSMm8+5DqR6Twi662BnlyE1z5bk/KnFuhk7cAIe8MemqiTyv3FuZoTxU7F5YcsWVbJcuIknWtkMS+H/p0W9cHcR2XecnJLU37njoDbzBXpyCUndKof+a6FSJuhzGrdEw+xEUZvwODHsmatGMxAOebiT2ZmGZg/jh6/L8b6km1HzgIYKoxkCJnAxUA2e7/9KMSFe3BnRrpnapy66doe/s+rCDgU/j0sHeuXIgT1LRv3Lkhsp92jUiELRTiOzbskHJhcocOayWc++zDE7TRkMp6R/it/yTWQyrLlrvvUD4DxhG57S2u7XcFcr6dLO8K46M6YYkzl1/pzgQ8k6Fpfw3QH3v2dsbUE3SbvjSTQM=;SUc49tt8X47dugV3TMeA5w=="

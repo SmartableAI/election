@@ -910,6 +910,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump Objects to Commission’s Virtual Debate Plan"
+    excerpt: "Trump matchup would be virtual, because of virus concerns, but the president called the plan “ridiculous.” President Trump, in an extraordinary break from the norms of modern campaigning, said on Thursday that he would refuse to participate in the next presidential debate after organizers changed the event to a virtual format because of health concerns about the coronavirus."
+    publishedDateTime: 2020-10-08T14:16:00Z
+    webUrl: "https://www.nytimes.com/2020/10/08/business/media/trump-biden-debate-virtual.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/08/business/media/trump-biden-debate-virtual.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/business/media/trump-biden-debate-virtual.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/business/07Debate-Virtual-HFO/merlin_177819840_2cddf9be-c374-4cd0-b52f-b1eb452e5f5c-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump returns to Oval Office, declares himself cured of coronavirus"
     excerpt: "The president called the drug cocktail he received a \"cure,\" although his doctors have said it's too early to tell."
     publishedDateTime: 2020-10-08T05:13:00Z
@@ -1165,6 +1181,20 @@ related:
     quality: 115
     images:
       - url: "https://media2.s-nbcnews.com/j/newscms/2019_42/3056831/191017-pelosi-trump-al-1050_dabef81f9dd578a388b78e92cc6ec5b7.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "On troop withdrawals, Team Trump can't keep its story straight"
+    excerpt: "After Trump tweeted about withdrawing troops from Afghanistan, a senior U.S. military official was silent for a moment before saying, \"Oh my God!\""
+    publishedDateTime: 2020-10-08T15:37:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/troop-withdrawals-team-trump-can-t-keep-its-story-straight-ncna1242617"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_27/3393474/200629-us-soldiers-afghanistan-chinook-ew-427p_eb69188882cb6999b1f3cbfdf21fb24f.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

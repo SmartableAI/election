@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3608558001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608558001"
 type: article
 quality: 139
-heat: 459
+heat: 479
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a3edb67b18f569170968c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D156%26cropY2%3D1844"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pence tests negative for virus on Thursday"
+    excerpt: "U.S. Vice President Mike Pence tested negative for the coronavirus on Thursday, a senior administration official said."
+    publishedDateTime: 2020-10-08T15:46:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-pence-idUSKBN26T2S7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T2S7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T2S7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201008&t=2&i=1536724769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG971QB"
+        width: 784
+        height: 545
         isCached: true
   - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
     excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."

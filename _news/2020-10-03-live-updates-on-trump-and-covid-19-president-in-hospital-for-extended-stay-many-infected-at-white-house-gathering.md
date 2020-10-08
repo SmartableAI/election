@@ -1591,6 +1591,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump Says Stimulus Talks Are Back On—But Not Much Has Changed Since He Called Them Off"
+    excerpt: "This week, the president has veered wildly in his statements about the status of coronavirus aid negotiations."
+    publishedDateTime: 2020-10-08T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/"
+    ampWebUrl: "https://www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f252d9c0ba07e5be84c33%2F0x0.jpg%3FcropX1%3D402%26cropX2%3D4917%26cropY1%3D429%26cropY2%3D2968"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Where COVID-19 stimulus relief bill stands after Trump, and what it means for you: FAQs"
     excerpt: "Negotiations collapsed Tuesday after Trump tweeted that he wanted to wait until after the election to move forward on COVID-19 relief talks."
     publishedDateTime: 2020-10-07T18:41:00Z

@@ -47,6 +47,22 @@ related:
         width: 980
         height: 552
         isCached: true
+  - title: "Donald Trump: What you need to know about the Republican nominee for president"
+    excerpt: "Donald Trump, the 45th president of the United States, hasn't stopped campaigning since winning in 2016. He filed for reelection on the day of his inauguration."
+    publishedDateTime: 2020-10-08T14:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-mar-a-lago-01-gty-jc-191224_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pandemic overwhelms Trump's message in critical N. Carolina"
     excerpt: "President Donald Trump is fighting to fill a Supreme Court vacancy, howling with unsubstantiated claims of voter fraud and warning that violent mobs are infiltrating the suburbs."
     publishedDateTime: 2020-09-28T06:44:00Z
@@ -58,6 +74,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Taliban cheer Trump tweet promising early troop withdrawal"
+    excerpt: "The Afghan Taliban on Thursday welcomed a tweet from President Donald Trump in which he promised to have the last of U.S. troops out of Afghanistan by Christmas — or at least by the end of the year. If that withdrawal happens,"
+    publishedDateTime: 2020-10-08T15:31:00Z
+    webUrl: "https://www.chron.com/news/article/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
 
 secured: "rLNksJTcS3yPdZHH0znAZLX3H0rTIRDK40LekFkxpfl5zqMactQpyA9V/WgkfRBi/VI6+gYJ16x0WmAWO7CtfC6iXmBrU9Otgkc4jmeesDmchkoEtl6Z2xKNNWQw5CambYB6XmnV8kefKU8TKo9kp3VfdQslHI1FlWHX2QufBsIIXT7KA/QipPVaI0rFsCDvaHydnUeiB08Zt4e35Ip67/ZMXa+MBXbpq7RFIlZ5lFp/hdAkwKBQmi7UENO0Up+qJ8hS7K1t7FVBk26xns72hyzNnmUaLaW34MOQVn91PYnv1jGxorI0O5D1ik7uRehANpCWSS4fs+2OYdM2FIelGJxwgnvt7cYmdRGw3usLpA8=;IqEqZrqWk3FbeV3qV3tfwg=="
 ---

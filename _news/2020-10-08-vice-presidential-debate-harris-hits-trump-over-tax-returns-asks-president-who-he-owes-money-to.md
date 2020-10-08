@@ -2,13 +2,13 @@
 category: news
 title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"
 excerpt: "Vice presidential Democratic candidate Kamala Harris went after President Trump for not paying enough in taxes, and questioned who he might owe money to."
-publishedDateTime: 2020-10-08T02:36:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vpCOTgRR8cU/vice-presidential-debate-harris-hits-trump-over-tax-returns-asks-president-who-he-owes-money-to"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vpCOTgRR8cU/vice-presidential-debate-harris-hits-trump-over-tax-returns-asks-president-who-he-owes-money-to"
+publishedDateTime: 2020-10-08T15:27:00Z
+originalUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-hits-trump-over-tax-returns-asks-president-who-he-owes-money-to"
+webUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-hits-trump-over-tax-returns-asks-president-who-he-owes-money-to"
 ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-hits-trump-over-tax-returns-asks-president-who-he-owes-money-to.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-harris-hits-trump-over-tax-returns-asks-president-who-he-owes-money-to.amp"
 type: article
-quality: 187
+quality: 147
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
   - Kamala Harris
 
@@ -47,6 +48,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden, Harris, Pence travel to Arizona after vice presidential debate; Trump returns to Oval Office"
+    excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending their time on Thursday, Oct. 8, 2020, just 26 days away from the election."
+    publishedDateTime: 2020-10-08T14:22:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ukBE9uvKRVs/pence-harris-biden-travel-to-arizona-trump-returns-to-oval-office"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-harris-biden-travel-to-arizona-trump-returns-to-oval-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-biden-travel-to-arizona-trump-returns-to-oval-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 226
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11304c51-36a5-45e3-8cb6-5ec7ecfbf6a0/9b9ef626-3bf5-4dd8-a976-43f309434068/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pence, Harris in Utah for vice presidential debate; Trump quarantining at the White House"
     excerpt: "With the November election less than one month away, the running mates of Trump and Democratic rival Joe Biden are scheduled to appear for 90 minutes at the University of Utah in Salt Lake City for the first and only vice presidential debate."
@@ -365,22 +382,6 @@ related:
     quality: 191
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da4fefe0-619b-413c-8314-ecabc05fc010/18684257-14cd-4416-a6ae-4cc575d57702/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice presidential debate: Kamala Harris claims she won't take vaccine if Trump recommends"
-    excerpt: "VP Pence slammed Harris for 'undermining public confidence' in a potential vaccine."
-    publishedDateTime: 2020-10-08T02:13:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w4rrpbIavgU/vice-presidential-debate-kamala-harris-coronavirus-vaccine-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-kamala-harris-coronavirus-vaccine-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-kamala-harris-coronavirus-vaccine-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 191
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00e2df3f-a7b2-4a4f-97f4-b46b4ccadfbe/fc033476-fc2a-42e1-ab01-2af237ebd742/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -719,6 +720,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Fracking flip-flop? Harris' past remarks resurface after claiming Biden WH wouldn't issue ban"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris, D-Calif., said during Wednesday night's debate that her running mate Joe Biden \"has been very clear\" about not ending fracking if elected president -- but past remarks from both of them indicate that their positions on the issue have been inconsistent."
+    publishedDateTime: 2020-10-08T15:18:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7L3cfzL0fZo/fracking-flip-flop-harris-past-remarks-resurface-after-claiming-biden-wh-wouldnt-issue-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/fracking-flip-flop-harris-past-remarks-resurface-after-claiming-biden-wh-wouldnt-issue-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fracking-flip-flop-harris-past-remarks-resurface-after-claiming-biden-wh-wouldnt-issue-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bf27cb8-6e09-4cc6-b388-490b3170594f/2832efb1-86b7-4e18-a8b6-982678af7786/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump in Minnesota, Biden in Ohio and Pennsylvania: The 2020 campaign trail"
     excerpt: "Here's where the candidates will be traveling­­ and how they'll be spending their time on Wednesday, Sept. 30, 2020, "
@@ -1360,6 +1377,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden on Trump saying he won't do a virtual debate: 'You never know what's going to come out of his mouth'"
+    excerpt: "Democratic presidential nominee Joe Biden is shining a spotlight on President Trump’s unpredictable nature."
+    publishedDateTime: 2020-10-08T15:03:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qbmRS4_mIPI/biden-trump-virtual-debate-response"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-virtual-debate-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-virtual-debate-response.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/patrick-ward.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden camp ramps up canvassing after avoiding in-person outreach amid pandemic"
     excerpt: "After avoiding in-person contact with voters for months due to the coronavirus pandemic, Democratic presidential nominee Joe Biden’s campaign is now launching direct canvassing outreach, including some traditional door knocks, in many of the key battleground states."
     publishedDateTime: 2020-10-01T21:02:23Z
@@ -1597,6 +1630,22 @@ related:
       - url: "https://images.wsj.net/im-240874/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Vice presidential debate: Kamala Harris claims she won't take vaccine if Trump recommends"
+    excerpt: "Democratic vice presidential candidate Kamala Harris said Wednesday that she would not take a vaccine recommended by President Trump during a heated debate clash over the White House’s response to the coronavirus pandemic."
+    publishedDateTime: 2020-10-08T15:14:00Z
+    webUrl: "https://www.foxnews.com/politics/vice-presidential-debate-kamala-harris-coronavirus-vaccine-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-kamala-harris-coronavirus-vaccine-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-kamala-harris-coronavirus-vaccine-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 151
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00e2df3f-a7b2-4a4f-97f4-b46b4ccadfbe/fc033476-fc2a-42e1-ab01-2af237ebd742/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The Trump-Biden Stakes: Your Life Savings"
     excerpt: "Millions of Americans have 401(k)s, making high stock values a boon for Main Street—even in Scranton."
@@ -2236,6 +2285,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "Rj5wXxWAfeW928Qa6YuFtUC9wwSFniCx5kF/4u22n3jJ7Bve29MpeAQZZrIuqY6RXshgWGoT2Z95V0yxw4mAwz7qOM4BZPQH0l95VBijepQ23rOzFqLT/UyZzRULlAQH2jc320BwIaPi+FV8ZBZ+LzYLIuKJmLn2xH2UdDKQtGyGpsGPdCIalYKmGVgVhrX/TAAGTBrwtqSUcXHwa1OV6zMh15j0iTY2D7XhcyHEXNI4xRQrOH+P+VDLNbOsEEnMpAw3TA3N1V0VPVhloXPrRrMigs4dkVODuH4mhqXaL/v3Si0uQKAo+NjV12JHMNSEFaAXzNOtsjsE8vCNFB7ZkL8REbv7gG3qfmjItEX9pCw=;GRP8gqsRLJN201nr0o9fEg=="
+secured: "WSO0ViRl5zN7Q2yjlrL0NGuAQrmMDcthS5Yav2UnvolM0f0ZkcXomopw3M/hhrjPiC10B2VmVFfBmCZrTe6dSVpvg3SHcY1EVlm7uepjdJDUjdWEXUHK4KQSN9W08bqVQytGTQ/FeLVce4iLunHBw+hlMBZpsA+YT3WRzOiKpJC2dayI8Oej5P+3EIsUYTw/aAxWRFtovIw1m2ustb/wfACL5dFFiOy+lYvM4D/SjUqniqJJ5kHEwkc4CydLVCC0EyiWCBF5ZGcOKP5a+TFiOV4Zes5iNAQg5Wk1hNiw3F1p5hweFVC5RH55/hRBKV0Ol1In7kc2GgJcVQdGULQNmuq5JRA7azRe0vU0kUzBPNk=;e+2qV6mIQ5TDe7cZn1NMug=="
 ---
 

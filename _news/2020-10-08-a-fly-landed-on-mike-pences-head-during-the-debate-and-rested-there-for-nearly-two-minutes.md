@@ -3,10 +3,10 @@ category: news
 title: "A fly landed on Mike Pence's head during the debate and rested there for nearly two minutes"
 excerpt: "The vice presidential candidates were in a serious moment when the black bug landed on Mr. Pence's stark white hair. Most viewers' attention then turned to the fly – and stayed there until the pest flew away."
 publishedDateTime: 2020-10-08T03:44:00Z
-originalUrl: "https://www.cbsnews.com/news/pence-fly-head-debate/"
-webUrl: "https://www.cbsnews.com/news/pence-fly-head-debate/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/pence-fly-head-debate/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-fly-head-debate/"
+originalUrl: "https://www.cbsnews.com/news/fly-landed-pence-head-vp-debate/"
+webUrl: "https://www.cbsnews.com/news/fly-landed-pence-head-vp-debate/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/fly-landed-pence-head-vp-debate/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fly-landed-pence-head-vp-debate/"
 type: article
 quality: 115
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "5ab8KmBMMsiWgs4DpRcSn32cVmJrPLnRKtREs/G7EhxQO+vcaTJtJvmpWGInBPX+Qe+KrAP62Tqe+S0liQrMIoPyfwufuEp1FURKf5EVlEDtW8/Bg6Xle5oPrmtAQMKgneRv120MY0segJsfk5PEw0+pe9/Zm5ClPxx5yWNAto2D/qBoE5zDBG1Dq0MOBPeOuzcOYI0coY0LG/9LWETHA3XN8nFigrBLbo0F072dqv3hlavf5dXzZEkQyF4WrULrf76EYiBQxFWY0wL6Q2L1XQarC92V9Z+rH2OnatW48f13/S1FTS8fjTm4dsZlyufIm7vKmsjDJE7YFaqKVn1QnfAoKCIJ2TvDTNoTvFNREOE=;T8curOAyNpmja1UB3dpF2A=="
+secured: "J1CCfVx76N+JtugD3cOPXZ/JAUY7jusx58uLrqrKZ6Tvzlk+ky4n5JcsrZDhb3EUvMb8c5iSrytS9aCoDhV+0Q4HHBtytdOo0Y3+xSKaGaaO8j9MgcZWm7VHrF/s6NU1xsgJ6SZMwEsXjDLwgpXSQLARa654fhi2ANcpma40QZ4O53OnJfvUx245EzJYN6I7v5BO8TV13LAjv3Tqyg4LOkCqnYQ19sojFrfA4KAIoAziyGTlUIl8UTte6geEMwWyg3eX/hz+mfzWdJOF55glpSWW2Pj+jlF9YVNISJDntqftNcp4N4DQ12qHhI9Vh74uIFBpsT8cCGX8NKTNX06zCdDdW1Kcs8sOYiLbnBFDHsU=;2xEoMWAHkqDewI93LhPF+Q=="
 ---
 

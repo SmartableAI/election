@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/520134-pence-targets-biden-over-i
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp"
 type: article
 quality: 142
-heat: 902
+heat: 922
 published: true
 
 provider:
@@ -593,7 +593,16 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Remarks to Reporters"
+    excerpt: "Democratic vice presidential candidate Joe Biden congratulates Senator Harris for her performance at the debate. He also responds to a question on the second presidential debate after the CPD announced it would take place virtually."
+    publishedDateTime: 2020-10-08T14:22:00Z
+    webUrl: "https://www.c-span.org/event/?476765/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "Ek6t4AldTGO/FhDdnJzgo6XUQuznLrD4s7Jnx8tcgUK2dmGOlOeeDuAe1lazsOwAurisx1xpGbjAdz82V3XYp74HXBwBsb8YxtmPjHscmthfilS/rCFbIoBHgaFXk8GTpetM1ynHZvDBpDBbkChWc+d/QvTgq18E4ccEIC8F6m1g7v7lokpseB/xhneSQ6hx5DrToVknqSa8czaquEQtB5s+EW3M0qdjzLXaZPNmRdjkPBq1cVpxK/sIhDayK2vOcuYTBfTPjt9681ZIM8B6M/iF6z8CzejQSd2f97Dlw1bkWazgu/kRTkIL8JV8ge13W9242vktptMDVFRRw77rVbXVxthP46uYYUolzNba17Y=;eNybo0K5y/sgBCRtGlz4kQ=="
+secured: "usrf677j6YbYHa2EzqYOnZNm5f5H05fiJfQeKp/rvbuDsHSGft5O6N31l2G0SpMSyyH/n6MhfVjjiy2BOMQNyzoD8qk6SfrErcXxGdCE8bq9pgjFR9NGVcVghJvZPiaQ+/JLOoVTuKjd/WaS6aM+wjVLN/xgiSokgziVGBakr2MJzvAfbrhwAMKGQ2d3M8BnF0HqE2r29xx7E5LQjM7iIOUkYyY2/pQuuPa+knGREWQJZFFVOv9vb6Juduuerk3ucdFeEu1zvXllOR85COLGCCw1YgRHJJIrB5ggH2BtnP0d0/tUL3nQWBuRJtG4D37Hx6jIx5UmYchbdA8RQlgTyM+N6fHTux1F+L2Nnd4aWlMTOiTfS/pqMfvqiTautHSQ8HAXl/oJ5o1VGKpk+9oGZN+QJmYVS+zGc2u+cyi6x9XgXcZ/6+VaQmXhW76/qiQXDN7Ew49xFduI/6OnQdrKlcC/W75qaLcRAuHXR8KRUY7d1Jvwm4WTZDhLPD1cVZO2Qh0qFirbkWpA/jdVFdjIiw==;/j0uFWDkhFze+wXlIJ3qPA=="
 ---
 

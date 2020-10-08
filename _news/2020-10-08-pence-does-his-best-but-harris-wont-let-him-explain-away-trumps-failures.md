@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 1603
+heat: 1643
 published: true
 
 provider:
@@ -671,6 +671,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump calls Harris a 'monster,' downplays his Covid-19 illness in freewheeling interview"
+    excerpt: "The president, who had to twice be placed on supplemental oxygen, said he thinks his infection \"would have gone away by itself\" without treatment."
+    publishedDateTime: 2020-10-08T14:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-calls-harris-monster-downplays-his-covid-19-illness-freewheeling-n1242605"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242605"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242605"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 151
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418470/201008-donald-trump-jm-0921_0f2d7c228e1bd0210ee914a7adccb10e.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Vice President Pence tests negative for Covid after Trump's diagnosis"
     excerpt: "Pence, who was with Trump this week, is scheduled to debate Democratic Sen. Kamala Harris next week Salt Lake City."
     publishedDateTime: 2020-10-02T12:25:00Z
@@ -956,6 +972,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30campaign-ledeall1/30campaign-ledeall1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Kamala Harris walked a fine line familiar to many women of color during the debate"
+    excerpt: "Sen. Harris brought her traditional résumé, barrier-breaking background and a collection of facial expressions to Wednesday’s debate"
+    publishedDateTime: 2020-10-08T15:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/kamala-harris-walked-fine-line-familiar-many-women-color-during-n1242615"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242615"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242615"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3418369/201007-kamala-harris-cs-1110p_3e20bc9045b727d2da5128935ac24e2c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Kamala Harris’s doubleheader: A debate and confirmation hearings with sky-high stakes."
     excerpt: "Kamala Harris is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but Wednesday’s debate is a new challenge."
