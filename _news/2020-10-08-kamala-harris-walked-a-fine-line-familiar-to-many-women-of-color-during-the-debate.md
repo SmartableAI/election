@@ -1004,6 +1004,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "'He needs 10 more': GOP consultants say Trump's threat to skip the debate is foolhardy"
+    excerpt: "GOP consultants say Trump's threat to skip the debate is foolhardy The second face off, scheduled for next week, is up in the air because of the president's Covid-19 recovery. WASHINGTON — President Donald Trump's vow to skip the next debate if it is held virtually delighted supporters but confounded observers who say he risks throwing away one of his last best chances to change the trajectory of a race he is currently losing."
+    publishedDateTime: 2020-10-08T17:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/he-needs-10-more-gop-consultants-say-trump-s-threat-n1242626"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242626"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242626"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418502/201008-trump-biden-debate-broadcast-jm-1122_a8a668253447e0e25291ce54db97d44d.jpg"
+        width: 2500
+        height: 1632
+        isCached: true
   - title: "Kamala Harris can use tonight's vice president debate to subvert 'angry Black woman' tropes"
     excerpt: "We've heard about the way gender differences influence how we perceive candidates. But what happens when the woman is Black?"
     publishedDateTime: 2020-10-07T08:40:00Z
@@ -1132,6 +1148,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "VHXaE0VQklc8kDSo+f2V8CKyaIzdGOaZQV1/CAna/rIwbYbh0r/YDTuu3Y14qCDZae2BqrAa1mjap8a7CqGfFXRsD3SwFebcgzF8togp80r9ODujKyz93A/M3BkWHWoq9uVdsp7MeeHGxlzFxwv6sZjd2zLy2oRuxl1XaaS6Jjd4xx5JEsIzgX/BI6uGDzkgZUHg2D+39pTsuP6ZSmE9iOyqJs/w4yZ1nQ3jTuyMiBU8TmpCtAH01pdhLrkuBL1nH/bpHd5O3WuFxFP32+OFPd8WuGZZ+hIyI+Vpp1A7Zq9rTS6gCDWju7jKBs/koy5po2c8KYzdTSMOyB13vgN0ds1JOcpiMMp7H7h15TQqJoo=;g8eiD6Xl2QC/olOgFnfRew=="
+secured: "r1ekNgfMECJbMclNTh1/cJ4pD3aJH3eyQIcNNKRl9YKAWy+uFjgZknYVVs/myc5JfcgZX/Ocs7i965TJsnJxPSeHRty+RtyBIHsq0sysTkm5R+oY7rcQ4delgfE0WzzMOCrlKHVaxAOmCHL2tdkwzY7pE7l8zilQzA5xEsSpzTLdvy9gSWsDJZjfA3jzviTR7XTER6DZ3KpXougviMxVlXqrFR9LMzlvF7vyv3CpmQEK2/IRsbRiUUucQQIvHPfEJ6B3tNnW659h+XrxhA2sWBxN1uhwACQye+oj99ZOV79degsY6/D6khaSz3JTBarbotlt9EN3tkDQ9MlZsGmbQchBv15sCveDjrd8K23pReb6/Lh8CWQPFlIY5CHJ7GwtbPAFN5T0aT3TjuwUKFeg27d6OdlVSuFYxwlEJfT9tJt0Vt8Z3tvWY7pdcemPXU+WeKsJFZfgtDHyi/VjasYj+WHGd+fWQE28m3uY6IO0pbAIXIQ+ThWJg/HUBEIXfraLbTcv0MH6HFy7ra8gBlCCjQ==;IPnP69onpcEhciirGojKRg=="
 ---
 

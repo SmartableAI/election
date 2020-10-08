@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-election-outcome-no-light-fo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp"
 type: article
 quality: 177
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pelosi questions Trump's health, says ‘we’re going to be talking about the 25th Amendment’"
+    excerpt: "House Speaker Nancy Pelosi made a dramatic announcement during her weekly press conference Thursday by telling reporters that she intends to discuss the possibility of removing President Trump from office via the 25th Amendment, following questions regarding Trump's health as he recovers from coronavirus."
+    publishedDateTime: 2020-10-08T16:47:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/45dceYd9weY/pelosi-trump-talking-25th-amendment"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-talking-25th-amendment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-talking-25th-amendment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c9494099-7141-4201-8d9d-1f847d6e2de3/9a6763cc-9307-416b-ae4e-ebbb622758a2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi not considering another Trump impeachment: ‘I don’t think he’s worth the trouble at this point’"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., now says she’s not considering a fresh round of impeachment charges against President Trump to delay a Supreme Court confirmation vote. "
     publishedDateTime: 2020-09-24T17:57:24Z

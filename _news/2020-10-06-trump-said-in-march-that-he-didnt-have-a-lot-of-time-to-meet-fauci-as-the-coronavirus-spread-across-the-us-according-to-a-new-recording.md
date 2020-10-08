@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Coronavirus live updates: Trump breaks quarantine; 6 accused of plan to kidnap Michigan Gov. Gretchen Whitmer"
+    excerpt: "President Donald Trump returned to the Oval Office Wednesday. A medical journal issued a stunning anti-Trump editorial. A second wave looms."
+    publishedDateTime: 2020-10-08T16:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/08/coronavirus-live-updates-new-england-medical-journal-editorial-trump/5921817002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5921817002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921817002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/e004a8a5-a3e3-485a-940b-bf63aab39775-NYC_Orthodox_jewish_coronavirus_protest_02.JPG?auto=webp&crop=5098,2868,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's policy chief explains in an exclusive interview why the White House just punted on a coronavirus stimulus deal"
     excerpt: "\"I know we tried really, really hard,\" White House adviser Brooke Rollins told Insider after the president punted on passing stimulus legislation."
     publishedDateTime: 2020-10-07T00:19:00Z

@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tucker: Mainstream media enraged by Trump's positive COVID message"
+    excerpt: "The media happily seconded that diagnosis.  Trump they informed us has a condition known as clinical obesity -- obesity, whatever.  It sounds significantly worse than cancer and far more unattractive."
+    publishedDateTime: 2020-10-08T17:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e386560-e8e4-442a-84bb-515e606be400/815c2bfc-6d3b-47e3-8755-c08c731d5606/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "QmvSQ177f4MiTh7zSNOpVQCJCj4XZ/XKymS8DTRdUKitdJal3afJNuhC/UXicZrm4kQBoYQswJfsmAi1m6t4AtbC9fQJcwwKxmU0DHbsVLtvAveQ5ITVEmEWNPfZrDfVP5s4PEd+Pw75ImZd4IE9bD9EkZWzGc6Uby6wo03jsm8zFjVtK/7i7bB/n4blzsJNoNvUf9dlNi9+KHpbKHGiJgxbYhOY9pC74HTR0NkXDXmx/4UE3ieYUCB2pjEVK+ZtUoIMFdDQLZ2+CtdYr12qxLY21uEr+gnI2gdid/l7R+MW3mQpG+Zkz6lREtESPG6cFp4F4YHxX294DPj49E0xZ/Fem5e78F2+A+NaGUf4M1E=;3GgIPlGtjNSsm41FdoskAw=="
 ---

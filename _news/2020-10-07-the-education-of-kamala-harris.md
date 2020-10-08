@@ -1018,6 +1018,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "'He needs 10 more': GOP consultants say Trump's threat to skip the debate is foolhardy"
+    excerpt: "GOP consultants say Trump's threat to skip the debate is foolhardy The second face off, scheduled for next week, is up in the air because of the president's Covid-19 recovery. WASHINGTON — President Donald Trump's vow to skip the next debate if it is held virtually delighted supporters but confounded observers who say he risks throwing away one of his last best chances to change the trajectory of a race he is currently losing."
+    publishedDateTime: 2020-10-08T17:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/he-needs-10-more-gop-consultants-say-trump-s-threat-n1242626"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242626"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242626"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418502/201008-trump-biden-debate-broadcast-jm-1122_a8a668253447e0e25291ce54db97d44d.jpg"
+        width: 2500
+        height: 1632
+        isCached: true
   - title: "Kamala Harris can use tonight's vice president debate to subvert 'angry Black woman' tropes"
     excerpt: "We've heard about the way gender differences influence how we perceive candidates. But what happens when the woman is Black?"
     publishedDateTime: 2020-10-07T08:40:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c105924-6cdc-4f18-874f-9dbb7b3f6bd5/aba778b1-1ff8-4281-a5a0-8e4c4144771b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tucker: Mainstream media enraged by Trump's positive COVID message"
+    excerpt: "The media happily seconded that diagnosis.  Trump they informed us has a condition known as clinical obesity -- obesity, whatever.  It sounds significantly worse than cancer and far more unattractive."
+    publishedDateTime: 2020-10-08T17:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message"
+    ampWebUrl: "https://www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/tucker-mainstream-media-enraged-by-trumps-positive-covid-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e386560-e8e4-442a-84bb-515e606be400/815c2bfc-6d3b-47e3-8755-c08c731d5606/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

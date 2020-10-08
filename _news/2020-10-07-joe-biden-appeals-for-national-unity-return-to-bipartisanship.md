@@ -298,6 +298,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump, Biden teams debate debate: Virtual or not, next week?"
+    excerpt: "It's suddenly unclear whether President Donald Trump and Democratic challenger Joe Biden will square off in debate again, where they might do so and whether they would face each other in person or virtually,"
+    publishedDateTime: 2020-10-08T17:34:00Z
+    webUrl: "https://www.chron.com/news/article/Second-debate-with-Biden-going-virtual-amid-15630391.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Second-debate-with-Biden-going-virtual-amid-15630391.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Second-debate-with-Biden-going-virtual-amid-15630391.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/46/06/20079020/29/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
     excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
     publishedDateTime: 2020-10-05T15:32:00Z

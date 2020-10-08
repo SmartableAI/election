@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden says he will do a solo town hall after Trump backed out of the next debate"
+    excerpt: "Biden's campaign expressed hope that the commission would move the debate to Oct. 22 so that Trump is \"not able to avoid accountability.\""
+    publishedDateTime: 2020-10-08T16:32:00Z
+    webUrl: "https://www.businessinsider.com/biden-solo-town-hall-trump-backed-out-virtual-presidential-debate-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-solo-town-hall-trump-backed-out-virtual-presidential-debate-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-solo-town-hall-trump-backed-out-virtual-presidential-debate-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 143
+    images:
+      - url: "https://i.insider.com/5f7f3b9c282c500018c79614?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump alma mater says Biden plan would lead to more economic growth"
     excerpt: "Biden and Trump would both increase federal debt, but Democrat would boost wage growth and lower health costs."
     publishedDateTime: 2020-09-14T20:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/spygate-author-bongino-cheers-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp"
 type: article
 quality: 169
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Declassified Trump-Russia probe docs to date: What to know "
+    excerpt: "President Trump, this week, “fully authorized the total declassification” of any and all documents related to the Russia investigation. "
+    publishedDateTime: 2020-10-08T16:33:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCheEcw45T0/declassified-trump-russia-probe-docs-to-date-what-to-know"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a2bd89-acc4-4118-bcbf-52d4295a9c65/b9f8fa4c-cea3-474e-b942-f595dd9ad6f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Donald Trump Jr. Responds To Declassified Russia Probe Documents: \"We Knew All Along\""
     excerpt: "President Trump's son, Donald Trump Jr., reacts to the declassification of former CIA Director John Brennan’s notes on ‘Fox & Friends.’ FOX NEWS, AINSLEY EARHARDT: So, Don, your dad has authorized declassifying all of the Russia collusion documents."

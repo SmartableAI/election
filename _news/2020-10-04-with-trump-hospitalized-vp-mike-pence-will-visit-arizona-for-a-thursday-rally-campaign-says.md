@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3608558001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608558001"
 type: article
 quality: 139
-heat: 479
+heat: 499
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ"
         width: 817
         height: 545
+        isCached: true
+  - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
+    excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
+    publishedDateTime: 2020-10-08T16:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/5-things-you-may-not-know-mike-pence-ties-arizona/5913390002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5913390002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913390002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The Health 202: Trump tests positive for coronavirus, throwing into chaos final days of campaign"
     excerpt: "President Trump and first lady Melania Trump have tested positive for the novel coronavirus. The situation is unprecedented and deeply ironic, as the virus Trump downplayed now threatens to upend the remaining 32 days of his campaign."

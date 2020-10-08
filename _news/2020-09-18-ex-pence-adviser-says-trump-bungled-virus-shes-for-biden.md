@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5515
+heat: 5535
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 145
     images:
       - url: "https://i.insider.com/5f656734323fc4001e0d747b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Joe Biden says he will do a solo town hall after Trump backed out of the next debate"
+    excerpt: "Biden's campaign expressed hope that the commission would move the debate to Oct. 22 so that Trump is \"not able to avoid accountability.\""
+    publishedDateTime: 2020-10-08T16:32:00Z
+    webUrl: "https://www.businessinsider.com/biden-solo-town-hall-trump-backed-out-virtual-presidential-debate-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-solo-town-hall-trump-backed-out-virtual-presidential-debate-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-solo-town-hall-trump-backed-out-virtual-presidential-debate-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 143
+    images:
+      - url: "https://i.insider.com/5f7f3b9c282c500018c79614?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

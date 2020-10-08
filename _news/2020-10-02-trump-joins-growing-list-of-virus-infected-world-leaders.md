@@ -2089,6 +2089,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Post-debate, election live updates: Trump, who still has COVID-19, may hold event next week; insults largely absent from VP debate"
+    excerpt: "President Trump may hold an event Monday. The vice presidential debate was less chaotic than the Trump-Biden one. Latest COVID-19 and election news."
+    publishedDateTime: 2020-10-08T15:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/a81a3bbd-3b2d-4005-b5be-5681d7ec33e4-USP_News__Vice_Presidential_debate_between_Republi.jpg?auto=webp&crop=2826,1590,x1,y87&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump quarantines after positive Covid test; Mike Pence tests negative – live updates"
     excerpt: "President to quarantine days after taking part in TV debate and campaign rally in Minnesota; Vice president’s daily test comes back negative"
     publishedDateTime: 2020-10-02T12:33:00Z
@@ -2812,6 +2828,20 @@ related:
       - url: "https://i.insider.com/5f7cb1ff94fce90018f7b6dc?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
+        isCached: true
+  - title: "Donald Trump's COVID-19 Diagnosis Is Forcing Him to Face His Personal—and Political—Vulnerability"
+    excerpt: "His supporters reveled in his return. A Congressman crowed that Trump had beaten the virus just like he beat the Russia investigation and the Democrats’ impeachment. His press secretary– who announced her own case of COVID-19 earlier that day–hailed his ability to “stand strongly on the balcony!"
+    publishedDateTime: 2020-10-08T17:43:00Z
+    webUrl: "https://time.com/5897886/trump-coronavirus/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 92
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/trump-coronavirus-02.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "The White House warned a veterans group of potential COVID-19 exposure at an event that Trump and almost 20 of his aides attended last Sunday"
     excerpt: "Adm. Charles W. Ray, the vice commandant of the Coast Guard, who attended the Sunday event tested positive for COVID-19."

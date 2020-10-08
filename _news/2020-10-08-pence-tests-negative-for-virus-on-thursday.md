@@ -111,6 +111,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
+    excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
+    publishedDateTime: 2020-10-08T16:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/5-things-you-may-not-know-mike-pence-ties-arizona/5913390002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5913390002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913390002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Health 202: Trump tests positive for coronavirus, throwing into chaos final days of campaign"
     excerpt: "President Trump and first lady Melania Trump have tested positive for the novel coronavirus. The situation is unprecedented and deeply ironic, as the virus Trump downplayed now threatens to upend the remaining 32 days of his campaign."
     publishedDateTime: 2020-10-02T11:38:00Z
@@ -288,6 +304,6 @@ related:
         height: 675
         isCached: true
 
-secured: "JV4mniZSQf+qQnOoOj2gfLDVzusrvxcICoOv3jkcWT1aEJc1Ixji9usZ5wdSl7mczcUBB6F3+2agRD7J7KZSjlbf24m5QEz5Oxq7ZXM2DAmQuQGHl/IMhfzC5v2N9zP4LFOPI1oe1Qfziyx0vtRUngvvwQcwo9wADy9D6d1VaU6vYpLswd1N8g87RFfwjYMfyNpZURoJ9B0uY+Z1xdoALBuT+cd6ERJ03CR1B14wIC1phHWPQPjYAiWJDTSisUmTugySbkR9Af3nCvLw3E9RMQVnbuvd9o/l8DvCKhD7BS98Q09u+p6eOZhQhVpuQD69K30P2UGlnCLkdnizujdPqtFO6xMH+i7kisnioN2AiCg=;2IFogehv4FxXXHmUnT9RQQ=="
+secured: "cvaM8GhvfPUSKjNmOqTp8C6lFjfwQXteeOncwVZ7v9uE0gYJFpI/ptem/rZfkdxX8tgZ7eUMIWYCI70eFU6YN03iPmP3jS6BHuUPOSPsVIj/88CKNIQnvz2PJdQSpBZOsQgndLL9WekW9YyzXhPfdVGLYw5UcH5I6Rl4gUtz7PkPUPEVtCZY2TF+Qjurkz2D7T/XfnobjEoaepo2hrVYdXDct/28Haz1+KL8SiQhYSvBvsSKyze/CjukQ3D+xb5Qmc4iKmRgsGre35gCpaFeTeFNzaV2IsFWGo4L3vIrzYZrxOP6I0Flk9tZSSUJ2mrZ7pH6j0l0rw9AxCsZcnxoMQhSdGDbU/LkzNVa+HTDHjpDsIrxqA/uMXl2Dgc6LjOl9fg4V4YAYvkGeUBGXqJwnIemll5IphBjS9oZVFkZUDSRPChf8LFZF1jn3dWv972Y8ww9jS3tltQ75wZQrsXdt+6K4BLdzmPA/7u0ieApTgrY2ZFjhC0xmsniRDYZwFuchH+psOXw6SXdbCr2tqsGxQ==;1HLVbXK010s3OOtUPiQB3A=="
 ---
 

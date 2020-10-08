@@ -447,6 +447,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris Favorite to Win in 2024 After Debate, Mike Pence's Odds Lengthen"
+    excerpt: "After the debate, Harris' odds shortened to 3/1, while Pence's odds lengthened to 33-1. She was also judged to have won Tuesday's debate, according to a snap CNN poll."
+    publishedDateTime: 2020-10-08T15:59:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-favorite-win-2024-debate-mike-pence-odds-lengthen-1537543"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-favorite-win-2024-debate-mike-pence-odds-lengthen-1537543?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-favorite-win-2024-debate-mike-pence-odds-lengthen-1537543?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 146
+    images:
+      - url: "https://d.newsweek.com/en/full/1647987/kamala-harris-debate.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Harris: 'Insulting' to suggest she or Biden would attack someone for their faith"
     excerpt: "Democratic vice presidential nominee Kamala Harris on Wednesday shot back at Vice President Pence after he accused Democrats of targeting Supreme Court nominee Amy Coney Barrett over her Catholic faith,"
     publishedDateTime: 2020-10-08T03:24:00Z
@@ -1061,6 +1077,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Pence and Harris defend their running mates, evade questions at VP debate"
+    excerpt: "The first and only vice presidential debate of 2020 marked a return to a somewhat more traditional event filled with policy disputes and party-line attacks. CBS News correspondent Nikole Killion joined CBSN to discuss key points made by Vice President Mike Pence and Democratic nominee Senator Kamala Harris at the debate."
+    publishedDateTime: 2020-10-08T15:49:00Z
+    webUrl: "https://www.cbsnews.com/video/pence-and-harris-defend-their-running-mates-evade-questions-at-vp-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/08/7f2f1bda-7190-45fd-9a16-a53ca3356586/thumbnail/1200x630/3d48d37868d83c68a8c21191e0b27722/1008-cbsn-gme-562067-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
     publishedDateTime: 2020-09-25T14:21:00Z
@@ -1446,6 +1476,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Donald Trump seals his fate"
+    excerpt: "Any sliver of hope to avoid a Republican wipeout slipped away from President Trump on Thursday morning thanks to his refusal to attend the next presidential debate in a virtual format (necessitated by his covid-19 diagnosis),"
+    publishedDateTime: 2020-10-08T15:58:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/08/donald-trump-seals-his-fate/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/08/donald-trump-seals-his-fate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/08/donald-trump-seals-his-fate/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSKGR3AJMYI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Kamala Harris Memes Flood Internet As Vice Presidential Debate Heats Up"
     excerpt: "Memes of Democratic Senator Kamala Harris flooded the internet during the Wednesday night vice presidential debate as social media users posted humorous images and videos that highlighted her opposition to One of the earliest memes posted during the debate was from the Republican-led political action committee,"
@@ -2368,6 +2414,22 @@ related:
       - url: "https://i.insider.com/5f7cd59b282c500018c78f99?width=600&format=jpeg&auto=webp"
         width: 600
         height: 450
+        isCached: true
+  - title: "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday"
+    excerpt: "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners."
+    publishedDateTime: 2020-10-08T17:35:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5917943002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5917943002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/f7def4d1-394b-49c5-a0fd-c130cf1a6238-pence-biden.jpg?auto=webp&crop=899,506,x0,y45&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mike Pence vs. Kamala Harris: When Is The Vice Presidential Debate?"
     excerpt: "After the first presidential debate Tuesday night between President Donald Trump and Democratic nominee Joe Biden, Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will square off on Oct. 7. The vice presidential debate will ..."
@@ -3473,6 +3535,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump Taunted With #ChickenTrump After Refusing Virtual Debate With Joe Biden"
+    excerpt: "On Thursday, the Commission on Presidential Debates announced that the second debate between President Trump and Joe Biden would take place virtually in order to protect both parties after Trump tested positive for COVID-19."
+    publishedDateTime: 2020-10-08T16:21:00Z
+    webUrl: "https://www.ibtimes.com/president-trump-taunted-chickentrump-after-refusing-virtual-debate-joe-biden-3058949"
+    ampWebUrl: "https://www.ibtimes.com/president-trump-taunted-chickentrump-after-refusing-virtual-debate-joe-biden-3058949?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/president-trump-taunted-chickentrump-after-refusing-virtual-debate-joe-biden-3058949?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 82
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/the-issue-of-new-government-aid-to-workers.jpg"
+        width: 1024
+        height: 725
+        isCached: true
   - title: "Who Won The Vice Presidential Debate? VIDEO Of Key Moments, How Experts Felt About Mike Pence, Kamala Harris"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris debated Wednesday night in Salt Lake City amid an ongoing pandemic that has resulted in over 210,000 deaths in the U.S. and with questions about the direction of the economy."
     publishedDateTime: 2020-10-08T03:25:00Z
@@ -3952,6 +4030,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris Claims Her Power"
+    excerpt: "Before last night’s vice-presidential debate, the hype, at least among Democrats, was that Kamala Harris was going to knock Mike Pence out. You might have thought it was 1988 again, and the debate was that year’s most anticipated prizefight,"
+    publishedDateTime: 2020-10-08T17:41:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/10/kamala-harris-claims-her-power/616664/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616664/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616664/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/vADEJKAs1t4uy5B5-HYvH9C_G-s=/0x326:5734x3550/570x320/media/img/mt/2020/10/2020_10_08T012724Z_1572561296_RC21EJ9KLRMW_RTRMADP_3_USA_ELECTION_DEBATE_copy/original.jpg"
+        width: 570
+        height: 320
+        isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
     publishedDateTime: 2020-09-28T20:51:00Z
@@ -4240,6 +4334,22 @@ related:
     provider:
       name: Detroit Free Press
       domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
+    excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
+    publishedDateTime: 2020-10-08T17:32:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/arizona/2020/10/08/kamala-harris-set-visit-arizona-voters-see-history-making/5913304002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5913304002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5913304002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 66
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200"
@@ -4656,6 +4766,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "jINZDMWDNH76cbUo41xOygN+Kj8AERKCVOoCP/vQ9EC9eK8S4WHlIZxtX4iMDiaeyUZ9RDaaNYo809xtw7cFe249dn9rWIXonwnrs0b+1XN2Z6DCDsykVh34M70E9fFQaLmiUrOU0OGnApeT3NS282j6cgytWeRCiKt+Ai3p1Icpr2bNDxViZxuFG5ScQSSsiXNGfawMxi89FVtMPiICGR9zBlJqCicDvBIAxYrcuXXJBmjevXsPfZYfWdB0YR2rCpHumGpROzWuMNpaqFzagb4weLYmvJ7A7izFlUELsNofcN4O9f1IiwM2bH39RND+mrQy0C00ziOGG+gvapyR5aLTC4EL2lRIPtp+Bx89QOw=;fLqZOuhh42XlNLgS2OeEsg=="
+secured: "DYcLEUrc4RbIQ30ZkP30JDEVnsz6ekQma0iL2+T2ufCLyh+J+GUa/bNGFEC4A54rqG/wFDSaHAxrX3ovRdo24M9lvpXtgqFuiWydj0xVDUOo/WlJsRh98i9Y6qkd0ZFTyeHTe+yZ8OrCOzo6v/+lLiDwLlFFfLXHtvr91ZAz62GgzlIa5jUAJoyRK7Pcb2SZbkxb74izzBy+cq73vY6tRwz1xQDwNQ7HF+bPmUP0Rkk0yXERqBY+KP6Ob9/nKtRt+OvnAAh86MTelWXaLi4KBf3sxey2AnU+JTUfsD2NloO70HNfIxSav1LkG664L8yEY8s9AZRQ2PcI0h8Icu/EzxykkQtoccdY1+y7XqPoY482uF+6hSEnrzX2b4C8fP0aKF6MDo0CMvp5gIOgXejC+OaERvzxJ1+9PZ8GsjDT2/5bHCXH7CcldWtCe3C8cwitqwFL36VHrxBaUad3YIE8FRxUn9CNOnaInIX7cYPY9QzP96rI9VbPWIVCjVhKDYve6Dv9i0q7AB+pJCCHemPxMw==;tIcnsWn/y6+8uAW11j086A=="
 ---
 

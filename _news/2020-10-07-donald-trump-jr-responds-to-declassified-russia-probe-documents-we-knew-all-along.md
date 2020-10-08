@@ -74,6 +74,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Declassified Trump-Russia probe docs to date: What to know "
+    excerpt: "President Trump, this week, “fully authorized the total declassification” of any and all documents related to the Russia investigation. "
+    publishedDateTime: 2020-10-08T16:33:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCheEcw45T0/declassified-trump-russia-probe-docs-to-date-what-to-know"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a2bd89-acc4-4118-bcbf-52d4295a9c65/b9f8fa4c-cea3-474e-b942-f595dd9ad6f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fkXdIUth9YGplhnkA++nvUxSKClrDkM69y+gfutOenrk9fl6pD4oa+tlWxNr6yzoGRhd1cd5CfYGeJoNnaDWZtlPWXMOSRfB9QfGXhPQLGDrtUtiznC1vLcAhHlO6c1XgC0gYZRMd0iWBANd+VImnuMu4lBHNt0EoqhIoNQ6xbsc4qsw65Ek5kJPwaO7riioexwEmQEbqQRt2l06ahI7RIKJFRRwL6xTWGb8XGryJIbdklfe1M3bHuviPelUa5wEKEkbY9/+2DG1hDaXBwYHz++Bx4Cg9ngPQ+bizoYzhsRFYj73Ryb0eYVaOEKuS41PHKDee1kDgBGvYUKVUbSUiTAA7Blh4DyvCeETTfZ9/pr2QYXC/ziTFKK8sqeTNKOmLjhbAmg7FjS9N0kLx/mkSzYh259GzACvzQp5ZUnefsguAS5xPwDnsvLYexu01n80PZdOVVpPj/7YVD2KpQ0e+11mX5W8YlhxDLKKPaLe6tpIo9XZuKXKPZ/z4ylQTzRVmH7mUZHbctkJNduBuWbXbg==;IFKwkeHACniUm0/hwmNbwg=="
 ---

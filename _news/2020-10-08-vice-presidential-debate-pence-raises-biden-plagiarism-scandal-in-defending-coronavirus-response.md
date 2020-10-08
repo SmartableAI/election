@@ -624,6 +624,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden unhappy with Trump's move to call off coronavirus relief talks"
+    excerpt: "Joe Biden released a statement criticizing President Trump's comments saying he would halt COVID-19 relief until after the election."
+    publishedDateTime: 2020-10-08T17:49:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V4rsfB-OM78/biden-unhappy-with-trumps-move-to-call-off-coronavirus-relief-talks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-unhappy-with-trumps-move-to-call-off-coronavirus-relief-talks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-unhappy-with-trumps-move-to-call-off-coronavirus-relief-talks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20279850847067.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "More voters think neighbors backing Trump over Biden: Fox News poll"
     excerpt: "A poll of registered voters found 49 percent thought their neighbors were supporting Trump for president."
     publishedDateTime: 2020-10-08T00:44:11Z
@@ -1184,6 +1200,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden pushes for town hall format for final debate, after Trump says he'll skip 'virtual' showdown"
+    excerpt: "The Biden campaign on Thursday seemingly acknowledged that the second presidential debate slated for Oct. 15 will not take place."
+    publishedDateTime: 2020-10-08T16:27:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ls60B4GsyDo/biden-pushes-for-town-hall-format-for-final-debate-after-trump-says-hell-skip-virtual-showdown"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-for-town-hall-format-for-final-debate-after-trump-says-hell-skip-virtual-showdown.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-for-town-hall-format-for-final-debate-after-trump-says-hell-skip-virtual-showdown.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Chicago Mayor Lightfoot slams Trump after he blasts Windy City violence"
     excerpt: "Democratic Chicago Mayor Lori Lightfoot fired back at President Trump on Tuesday night after he skewered her city during a presidential campaign debate against Joe Biden as a hotbed of crime and violence."
     publishedDateTime: 2020-09-30T18:16:31Z
@@ -1439,6 +1471,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279801359727.jpg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Trump campaign says it still wants two more debates, after president rejects virtual format"
+    excerpt: "The Trump campaign on Thursday said President Trump will participate in a debate on Oct. 22 in a town hall-format, while proposing the final presidential debate be pushed back a week to Oct. 29."
+    publishedDateTime: 2020-10-08T17:03:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EtT0wsBnca4/trump-campaign-says-they-still-want-two-more-debates-after-president-rejects-virtual-format"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-says-they-still-want-two-more-debates-after-president-rejects-virtual-format.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-says-they-still-want-two-more-debates-after-president-rejects-virtual-format.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Committee on Presidential Debates discussing holding next debate between US President Trump and Joe Biden outdoors: report"
     excerpt: "The Committee on Presidential Debates (CPD) is reportedly discussing holding the next presidential debate in open air. "
@@ -2096,6 +2144,17 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Why Kamala Harris and Joe Biden can't give a straight answer about court-packing"
+    excerpt: "Like Joe Biden, Kamala Harris refused to say whether she would support the Left’s court-packing efforts during the vice presidential debate on Wednesday. The reason is obvious: Biden’s campaign doesn’t want to risk isolating any part of its voter coalition,"
+    publishedDateTime: 2020-10-08T16:52:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/why-kamala-harris-and-joe-biden-cant-give-a-straight-answer-about-court-packing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/why-kamala-harris-and-joe-biden-cant-give-a-straight-answer-about-court-packing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/why-kamala-harris-and-joe-biden-cant-give-a-straight-answer-about-court-packing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 85
   - title: "Watch Live: 2020 Vice Presidential Debate Between Mike Pence, Kamala Harris In Utah"
     excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris face-off for their first debate."
     publishedDateTime: 2020-10-07T23:52:00Z
@@ -2137,6 +2196,22 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 82
+  - title: "Liberal Reporter Brutally Gashes Kamala Harris' Disastrous Debate Performance"
+    excerpt: "Well, he’ll probably piss off the Left again, but that’s what he's done so well over the past three or so years. Liberal reporter Michael Tracey absolutely ripped into Sen."
+    publishedDateTime: 2020-10-08T17:15:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/08/liberal-reporte-brutally-gashes-kamala-harris-debate-performance-n2577697"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/08/liberal-reporte-brutally-gashes-kamala-harris-debate-performance-n2577697?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/08/liberal-reporte-brutally-gashes-kamala-harris-debate-performance-n2577697?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 82
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/281/14b6f240-8fb4-4425-957b-ea597ebdb1ab.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters"
     excerpt: "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church"
     publishedDateTime: 2020-10-01T17:10:00Z
