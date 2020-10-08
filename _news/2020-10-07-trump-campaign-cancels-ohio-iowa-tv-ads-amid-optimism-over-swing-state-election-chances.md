@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp"
 type: article
 quality: 181
-heat: 221
+heat: 241
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db4210bf-8b0d-46c7-9cdd-da299ddc0cdf/3d2bbdb7-c69a-4e2e-9c66-c483d52aa989/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump canceling ads in key Midwest battlegrounds, moving money south"
+    excerpt: "President Trump’s cutting back on campaign commercials in some of the key midwestern battlegrounds that helped him win the White House four years ago – and shifting resources to a bunch of crucial swing states further south."
+    publishedDateTime: 2020-10-08T00:52:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FqAem_ACkA/trump-canceling-ads-midwest-moving-money-south"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-canceling-ads-midwest-moving-money-south.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-canceling-ads-midwest-moving-money-south.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

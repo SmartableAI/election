@@ -122,6 +122,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fox News Poll: Voters more favorable to Harris than Pence ahead of debate"
+    excerpt: "Voters have a more favorable view of Democratic vice presidential nominee Kamala Harris than they do of Vice President Mike Pence, a Fox News poll released Wednesday found."
+    publishedDateTime: 2020-10-08T00:19:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tCZztOwzTek/fox-news-poll-voters-harris-pence-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-poll-voters-harris-pence-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-poll-voters-harris-pence-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 209
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Vice presidential debate: Harris, Pence spar on plexiglass-divided stage over Trump's handling of coronavirus"
+    excerpt: "Democratic vice presidential nominee Kamala Harris and Vice President Mike Pence didn't waste any time trading fire over President Trump's handling of the coronavirus pandemic as they faced off Wednesday in their first and only debate during the general election."
+    publishedDateTime: 2020-10-08T01:50:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OLlCQnjBdg/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 206
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28a1e0ad-c3f9-479b-a0a5-482366fc402c/1ad3543b-ce65-4e26-9978-2805eaf1cbe1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
     excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
     publishedDateTime: 2020-10-02T12:52:18Z
@@ -682,6 +714,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Taylor Swift endorses Joe Biden, Kamala Harris ahead of vice presidential debate"
+    excerpt: "The country-pop music superstar issued a public declaration to her followers to cast their vote for Democratic presidential nominee Joe Biden and his running mate Sen. Kamala Harris in November's election."
+    publishedDateTime: 2020-10-07T22:59:00Z
+    webUrl: "https://www.foxnews.com/entertainment/taylor-swift-endorses-joe-biden-kamala-harris"
+    ampWebUrl: "https://www.foxnews.com/entertainment/taylor-swift-endorses-joe-biden-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/taylor-swift-endorses-joe-biden-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/swift2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "The Debate Between Mike Pence and Kamala Harris: What Time to Watch and Key Issues"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris, the Democratic vice presidential nominee, will face off in their first and only debate on Wednesday at 9 p.m. ET."
     publishedDateTime: 2020-10-06T12:34:00Z
@@ -729,22 +777,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9237c49-0e3b-44b1-852b-13637dd6bd4a/fa189495-4350-42bd-a9f1-b6601bcdc060/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Taylor Swift endorses Joe Biden, Kamala Harris ahead of vice presidential debate"
-    excerpt: "The country-pop music superstar issued a public declaration to her followers to cast their vote for Democratic presidential nominee Joe Biden and his running mate Sen. Kamala Harris in November's election."
-    publishedDateTime: 2020-10-07T22:59:00Z
-    webUrl: "https://www.foxnews.com/entertainment/taylor-swift-endorses-joe-biden-kamala-harris"
-    ampWebUrl: "https://www.foxnews.com/entertainment/taylor-swift-endorses-joe-biden-kamala-harris.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/taylor-swift-endorses-joe-biden-kamala-harris.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 145
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/swift2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "WSJ Opinion: The Trump Ticket Needs a Dose of Mike Pence"
     excerpt: "Main Street: Wednesday night's prime-time face-off between Mike Pence and Kamala Harris could be the most consequential vice-presidential debate ever. Images: A"
@@ -932,6 +964,45 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "LIVE Blog: VP Debate - Mike Pence vs Kamala Harris"
+    excerpt: "Vice President Mike Pence faces opponent Kamala Harris in Salt Lake City."
+    publishedDateTime: 2020-10-08T01:09:00Z
+    webUrl: "https://townhall.com/liveblog/2020/10/07/mike-pence-and-kamala-harris-go-headtohead-in-the-2020-vice-presidential-debate-n183"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 90
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/281/be593fc0-1834-48ee-bfa2-f3642ff9012a.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Watch Live: 2020 Vice Presidential Debate Between Mike Pence, Kamala Harris In Utah"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris face-off for their first debate."
+    publishedDateTime: 2020-10-07T23:52:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/watch_live_2020_vice_presidential_debate_between_vp_mike_pence_kamala_harris_in_utah.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/52/523397.jpg"
+        width: 2300
+        height: 1533
+        isCached: true
+  - title: "Pence debate prep featured Sarah Sanders, Scott Walker, and Pam Bondi as Kamala Harris"
+    excerpt: "When Vice President Mike Pence takes the debate stage on Wednesday night, he will have conducted three dry runs using different stand-ins for Sen. Kamala Harris: former Wisconsin Gov. Scott Walker, former White House press secretary Sarah Sanders,"
+    publishedDateTime: 2020-10-08T01:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/pence-debate-prep-featured-sarah-sanders-scott-walker-pam-bondi-as-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/pence-debate-prep-featured-sarah-sanders-scott-walker-pam-bondi-as-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/pence-debate-prep-featured-sarah-sanders-scott-walker-pam-bondi-as-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 82
   - title: "How Mike Pence's movements will reflect President Trump's health"
     excerpt: "Considering the news that a coronavirus-positive President Trump is being moved to Walter Reed military hospital, Vice President Mike Pence's movements over the next few days will offer the best guide as to Trump's health status."
     publishedDateTime: 2020-10-02T22:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is Donald Trump trying to lose or just trying to burn it all down?"
+    excerpt: "Even columnists who have been hedging on the possibility of a Trump comeback are starting to write things that suggest a blowout. Support our journalism. Subscribe today. At this moment, with the president badly behind,"
+    publishedDateTime: 2020-10-07T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37KSBJQICEI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 739
+        isCached: true
   - title: "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is"
     excerpt: "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep."
     publishedDateTime: 2020-09-28T19:53:00Z

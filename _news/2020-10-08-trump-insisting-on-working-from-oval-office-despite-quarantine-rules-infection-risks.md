@@ -847,6 +847,22 @@ related:
         width: 580
         height: 326
         isCached: true
+  - title: "Fact check: Trump's hospital records, weight have not been released"
+    excerpt: "Social media posts claim President Donald Trump is underrepresenting his weight by nearly 80 pounds. His latest physical results reveal this is false."
+    publishedDateTime: 2020-10-08T01:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/07/fact-check-trumps-hospital-records-weight-havent-been-released/5913031002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5913031002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913031002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/NLED/2dddc1bf-c758-4a68-98cc-f4d5dc745c71-AP20280801146522.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
     publishedDateTime: 2020-10-02T08:44:00Z
@@ -1438,6 +1454,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536256658&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG941TD"
         width: 760
         height: 545
+        isCached: true
+  - title: "Families who endured COVID-19 don’t agree with Donald Trump’s sugar-coated experience"
+    excerpt: "When Carol Ackerman’s dad was dying of COVID-19, he wasn’t getting treated by infectious disease specialists. So, why does the president get special treatment?"
+    publishedDateTime: 2020-10-08T00:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/families-endured-covid-19-dont-agree-donald-trumps/story?id=73484581"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/families-endured-covid-19-dont-agree-donald-trumps/story?id=73484581"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/families-endured-covid-19-dont-agree-donald-trumps/story?id=73484581"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/covid-survivors-change-02-ht-llr-201007_1602109481695_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump renews fears of voter intimidation as he recruits army of poll watchers, pushes false claims of election fraud"
     excerpt: "Republicans are putting together what they call an army of Trump supporters to monitor election procedures as Trump pushes false claims about voter fraud."
@@ -2057,6 +2089,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "People close to Trump are questioning whether his judgment is being affected by his steroids, reports say"
+    excerpt: "President Donald Trump's coronavirus treatment involves dexamethasone, a subject of speculation after he abruptly announced an end to stimulus talks."
+    publishedDateTime: 2020-10-08T01:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-worry-coronavirus-steroid-affecting-judgment-reports-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-worry-coronavirus-steroid-affecting-judgment-reports-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-worry-coronavirus-steroid-affecting-judgment-reports-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f7d8c6e282c500018c7907f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump, who still has COVID-19, went into the Oval Office yesterday, according to a top White House adviser"
     excerpt: "Kudlow would not say whether Trump wore a mask, instead claiming \"additional measures\" that are \"much greater than simply masking\" were taken."
@@ -3324,6 +3372,6 @@ related:
         height: 624
         isCached: true
 
-secured: "xvhr2kwuQpJyM5EEnLqhCpXBZyTF+m6Bboye08AHjyoLXTKJw7djhs03n5QRoO0szYk6mdyZQU6wcT0ThC10SZ9SCffn1HBOtFXzEYaGmuhn0jhd1nDGmqAj/fFVLGWMd0HO7sDX3t8C8x7SNk1UPKJjSaF1POm0oUoEkK6GtrivIp6C9s+JuzjJGEWx9jo4D8fmDaIA0xcaQ5f0x2B1/F/SnkxVOsy/tCqdDJqVon/v/WDP+qxV3/q5/yOl5YJ2YXrN06j9aRN0HHzwS2JE5PjwjL21SNgNaK/7TapVFH5O6Gqs8gmz9PP92zr2WZ+f0J4fm5d6sY5UmV0cQVdKKmI73SwYLSmz4UYa/x62Xlc=;+B0JqPK2qjRKg/qVFiqn6A=="
+secured: "0xLNX84K99JRrDUhPLfLGFF0woTspSqOY1/Wj3lNszHmfwajzgO83eTQa+iJflvBshbRABZu5sA53XnIw5hWK5lZR8KnLBruI581oKnp/FvNyMDXu1bDu9yNEUNrEYa1iyh7kBijwZs+hhhvfEIPzZ6vMkZhi6ZUUUF9syQ0prLD7ZZDfnAyxoGhh0HtEtSs5XMyAVl7llLp6ZMKBGK/S8iBWXR8hQDseJ3gD8xOl9UfqIumHt/HDUI6IdZDfGpS/V/I15bM3JunQkXTUOdzGNFcVohKE9DF7mofdWee16mFhITq0dGxJHlfj0dLbgFuBAs2dvkOiPnA8TfEllExyOF2oslL+SsOH+1dA5CzdODHwp16/3EpHe5ALrOHgtCvI/2rQ4gY5SE27R7V92ofAGZn758JI83UZhJDscub7oFp2Fc7TZy0DO/XsYffWtEVDD+61+drMfVKE6Zapvdzxqzs3nzM8NP3mdTr4TDpb0KvVdtGJIhHmBXK+T2xJDHqXYXW5e9UMhXcgujHb5nDRg==;mGCkcZR7FEOwNzWoEAGgPg=="
 ---
 

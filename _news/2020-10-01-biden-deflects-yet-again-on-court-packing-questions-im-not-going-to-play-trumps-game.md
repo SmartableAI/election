@@ -463,6 +463,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden campaign resuming negative ads against President Trump"
+    excerpt: "Former Vice President Joe Biden will resume airing negative ads against President Trump after he said he was suspending them following the commander-in-chief’s coronavirus diagnosis last Friday."
+    publishedDateTime: 2020-10-08T01:42:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b6qMjKzQw04/biden-negative-ads-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-negative-ads-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-negative-ads-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z

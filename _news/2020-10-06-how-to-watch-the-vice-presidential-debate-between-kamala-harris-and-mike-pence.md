@@ -224,6 +224,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VP debate live updates: Pence vs. Harris and what you need to know"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris of California will debate in Salt Lake City on Tuesday in the sole matchup between the 2020 vice presidential candidates."
+    publishedDateTime: 2020-10-08T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/vice-presidential-debate/?id=73444390"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/vice-presidential-debate/?id=73444390"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/vice-presidential-debate/?id=73444390"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/harris-pence-vp-debate-02-gty-jef-201007_1602120753578_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Vice President Mike Pence defends Trump holding rallies amid coronavirus"
     excerpt: "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored."
     publishedDateTime: 2020-09-24T08:31:00Z
@@ -319,6 +335,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535828951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910W2"
         width: 817
         height: 545
+        isCached: true
+  - title: "LIVE: Fact-checking the vice presidential debate between Mike Pence and Kamala Harris"
+    excerpt: "Wednesday's debate will likely be a referendum on the Trump administration's handling of COVID-19 as Trump himself grapples with the disease."
+    publishedDateTime: 2020-10-08T01:02:00Z
+    webUrl: "https://www.businessinsider.com/fact-check-vice-president-election-debate-mike-pence-kamala-harris-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fact-check-vice-president-election-debate-mike-pence-kamala-harris-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fact-check-vice-president-election-debate-mike-pence-kamala-harris-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 143
+    images:
+      - url: "https://i.insider.com/5f7b8483282c500018c78b59?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "What Time Is the Vice Presidential Debate Tonight Between Kamala Harris and Mike Pence?"
     excerpt: "The vice presidential debate between California Senator Kamala Harris and Vice President takes place tonight. The debate is the second in a series of presidential debates, following the first debate between President Donald Trump and former Vice President Biden."
@@ -698,6 +730,20 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Mike Pence, Kamala Harris debate shortly"
+    excerpt: "Watch \"Mike Pence, Kamala Harris debate shortly\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-08T01:23:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201008005634-mike-pence-kamala-harris-debate-shortly/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/08/story_07160693_1602118925.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
     publishedDateTime: 2020-10-05T17:32:00Z
@@ -746,6 +792,17 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "VP debate 2020: Kamala Harris and Mike Pence go head to head – live updates"
+    excerpt: "The coronavirus pandemic threatens to overshadow the event and"
+    publishedDateTime: 2020-10-08T01:16:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020?ref=hvper.com"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 128
   - title: "Kamala Harris slams Trump after first debate: \"What we saw was a dog whistle through a bullhorn\""
     excerpt: "\"Donald Trump is not pretending to be anything other than what he is,\" said vice presidential candidate Senator Kamala Harris."
     publishedDateTime: 2020-09-30T17:24:00Z
@@ -792,6 +849,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP debate 2020: Kamala Harris slams Mike Pence over coronavirus handling – live"
+    excerpt: "Harris says the White House response was the ‘greatest failure’ as the pandemic threatens to overshadow the event"
+    publishedDateTime: 2020-10-08T01:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020?page=with:block-5f7e640e8f08f0dafe2932f3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 126
   - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
     excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
     publishedDateTime: 2020-09-25T11:04:00Z
@@ -1093,6 +1161,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "The Picture of Donald J. Trump"
+    excerpt: "That would not be a picture of strength. President Trump was putting his whole soul into this shot, and it had to be perfect. He had been at the hospital minutes ago; he was still battling the coronavirus."
+    publishedDateTime: 2020-10-07T21:24:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/picture-donald-j-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/07/picture-donald-j-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/07/picture-donald-j-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPG5FTAIU4I6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
@@ -1922,6 +2006,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Live vice presidential debate: Mike Pence and Kamala Harris square off"
+    excerpt: "Kamala Harris and Mike Pence will hold the only vice presidential debate, which comes as Trump and White House battle an outbreak of COVID."
+    publishedDateTime: 2020-10-08T01:06:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/07/live-vice-presidential-debate-mike-pence-and-kamala-harris-square-off/5916417002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5916417002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5916417002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/405122fe-6c93-4fe3-9650-e54b2cb30a11-XXX__JG19083.JPG?auto=webp&crop=2999,1687,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TV tonight: Mike Pence, Kamala Harris square off in VP debate"
     excerpt: "Last week, the presidential candidates — Donald Trump and Joe Biden — went at it in an ugly showdown that was described as a “hot mess,” among other things. Tonight, Republican Mike Pence and Democrat Kamala Harris get their turn in their lone meeting at the University of Utah in Salt Lake City."
     publishedDateTime: 2020-10-07T18:12:00Z
@@ -2111,6 +2211,22 @@ related:
       - url: "https://i.insider.com/5f77cc98282c500018c786dd?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden, Kamala Harris to meet with tribal leaders, small business owners in Arizona"
+    excerpt: "Democrat Joe Biden and his running mate, Kamala Harris, will meet with tribal leaders and small business owners during their trip to Arizona."
+    publishedDateTime: 2020-10-07T22:29:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5910955002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5910955002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 92
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/76b27cc0-7e26-464d-83e8-b7d7c4c3eb32-AP20260030136787.jpg?auto=webp&crop=3755,2113,x0,y191&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris tests negative for COVID-19, joins Joe Biden in wishing President Donald Trump ‘full and speedy recovery’"
     excerpt: "Harris was tested Thursday as part of the campaign’s routine testing. Her results came back negative, news outlets reported."
@@ -2448,6 +2564,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Watch live: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
+    excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."
+    publishedDateTime: 2020-10-08T01:03:00Z
+    webUrl: "https://chicago.suntimes.com/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 87
+    images:
+      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Vice President Mike Pence to continue campaigning despite Trump COVID diagnosis"
     excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
     publishedDateTime: 2020-10-03T13:59:00Z
@@ -2527,6 +2659,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZK3TVQ6ZZZFUBNO44IJIFF2M44.jpg"
         width: 960
         height: 555
+        isCached: true
+  - title: "How to watch vice presidential debate (10/7) online: Mike Pence-Kamala Harris live stream, TV, time"
+    excerpt: "Vice President Mike Pence and his Democratic challenger, California Sen. Kamala Harris, are set to face off in a debate Wednesday, Oct. 7. The event will be live streamed on fuboTV. The debate in Salt Lake City unfolds while President Donald Trump recovers at the White House from the coronavirus after spending several days in the hospital,"
+    publishedDateTime: 2020-10-08T01:11:00Z
+    webUrl: "https://www.al.com/politics/2020/10/how-to-watch-vice-presidential-debate-107-online-mike-pence-kamala-harris-live-stream-tv-time.html"
+    ampWebUrl: "https://www.al.com/politics/2020/10/how-to-watch-vice-presidential-debate-107-online-mike-pence-kamala-harris-live-stream-tv-time.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/how-to-watch-vice-presidential-debate-107-online-mike-pence-kamala-harris-live-stream-tv-time.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/X6JVRZEB6ZGXLLQGDLMHA4WBLM.jpg"
+        width: 5679
+        height: 3786
         isCached: true
   - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
     excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
@@ -2630,22 +2778,6 @@ related:
     quality: 82
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden, Kamala Harris to meet with tribal leaders, small business owners in Arizona"
-    excerpt: "Democrat Joe Biden and his running mate, Kamala Harris, will meet with tribal leaders and small business owners during their trip to Arizona."
-    publishedDateTime: 2020-10-07T22:29:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5910955002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5910955002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 82
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/76b27cc0-7e26-464d-83e8-b7d7c4c3eb32-AP20260030136787.jpg?auto=webp&crop=3755,2113,x0,y191&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

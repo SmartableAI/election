@@ -95,6 +95,22 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "More voters think neighbors backing Trump over Biden: Fox News poll"
+    excerpt: "A poll of registered voters found 49 percent thought their neighbors were supporting Trump for president."
+    publishedDateTime: 2020-10-08T00:44:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjyZa-nlMhU/voters-neighbors-trump-biden-support-fox-news-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/voters-neighbors-trump-biden-support-fox-news-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/voters-neighbors-trump-biden-support-fox-news-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/107-7.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Carly Fiorina explains planned Biden vote, claims Trump has 'damaged' GOP"
     excerpt: "President Trump “has not exhibited” characteristics of a leader during his presidency, former Republican presidential candidate Carly Fiorina told “America’s Newsroom” on Wednesday explaining why she will be voting for Democratic presidential nominee Joe Biden in November’s general election."
     publishedDateTime: 2020-10-07T21:19:35Z

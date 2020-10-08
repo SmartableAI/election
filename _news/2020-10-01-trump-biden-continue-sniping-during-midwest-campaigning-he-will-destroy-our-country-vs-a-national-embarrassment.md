@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "As Donald Trump Heads Back to Work in the Oval Office, His Colleagues Face 'A Dangerous Moment'"
+    excerpt: "Trump's decision to work from his office was seen by many as another example of the President's disregard for those around him."
+    publishedDateTime: 2020-10-07T22:46:00Z
+    webUrl: "https://time.com/5897557/donald-trump-oval-office-coronavirus/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 93
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/donald-trump-back-in-the-oval-office-02.jpg"
+        width: 2400
+        height: 1550
+        isCached: true
 
 secured: "um7yALT0uqheYn1hsgi6AJb4wCJjm2JSC7NCbzkyzZuwgVBo55u2GSHvYyQYrVQGXpB9tO4rNdszam8IL9jUbXzMybKRGIcoHdheRdKQe/5MTmxOQqYPp6YxR/j4nhbgdc7s4c8m2PqWJPzoroXWDu010zNcSfb/y7R5zYZfmwY2kK3lYxLXTaztzfvnFwW+yhMuw48rDlDeJzk2QN0ISAYHuENJ67a8/Fevu5KkoqnHwzILXyKNLM9nK6MpGSVo1P/T40sfyvWbczpUIwiMkHmw+WLn+jB+Amqc2VeIsRtDsIpBfyfbMMrSOBbjx3g5wmeY8RR/hIW7si1eVAwxKCin7pQ4fZMmVyfE1xCwAnk=;tTuq66GoC7xEcWhaPyTt1Q=="
 ---

@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris rips Trump administration's response to coronavirus pandemic in only debate with Mike Pence"
+    excerpt: "Vice President Mike Pence and California Sen. Kamala Harris will square off Wednesday in their only debate as the Trump administration reels from an outbreak of Covid-19 at the White House and erratic decisions by the commander in chief.\n    \n"
+    publishedDateTime: 2020-10-08T01:59:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ax9Yj0-2Jw8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 208
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007204624-20-vp-debate-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris and Mike Pence to be separated by plexiglass at Wednesday's debate"
     excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will be separated by plexiglass at Wednesday night's debate, a source familiar with the preparations tells CNN, as the White House continues to be gripped by a coronavirus outbreak.\n    \n"
     publishedDateTime: 2020-10-05T21:12:23Z

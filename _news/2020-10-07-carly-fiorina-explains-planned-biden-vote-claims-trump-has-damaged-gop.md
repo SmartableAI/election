@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "More voters think neighbors backing Trump over Biden: Fox News poll"
+    excerpt: "A poll of registered voters found 49 percent thought their neighbors were supporting Trump for president."
+    publishedDateTime: 2020-10-08T00:44:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjyZa-nlMhU/voters-neighbors-trump-biden-support-fox-news-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/voters-neighbors-trump-biden-support-fox-news-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/voters-neighbors-trump-biden-support-fox-news-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/107-7.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump calls for pause on coronavirus stimulus talks until after the election"
     excerpt: "President Trump on Tuesday said he has instructed Republicans to pause negotiations on a coronavirus stimulus package until after the election, instructing Senate Majority Leader Mitch McConnell, R-Ky., to focus “full-time” on getting his nominee to fill the vacant seat on the U.S. Supreme Court approved."
     publishedDateTime: 2020-10-06T19:38:53Z

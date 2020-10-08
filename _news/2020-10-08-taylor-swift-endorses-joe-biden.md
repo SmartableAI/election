@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Taylor Swift endorses Joe Biden"
-excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
-publishedDateTime: 2020-10-07T22:51:00Z
-originalUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
-webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
-ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+excerpt: "Posted [NFA] Ten-time grammy-winning artist Taylor Swift on Wednesday endorsed Democratic presidential nominee Joe Biden and Kamala Ha"
+publishedDateTime: 2020-10-08T01:12:00Z
+originalUrl: "https://www.reuters.com/video/watch/idP2E5?now=true"
+webUrl: "https://www.reuters.com/video/watch/idP2E5?now=true"
 type: article
-quality: 75
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
-    width: 1024
-    height: 736
+  - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7e5ef6e4b04d445762f9e9-1602117366328?location=LANDSCAPE"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -236,7 +238,16 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Comments to Reporters"
+    excerpt: "Democratic 2020 presidential nominee Joe Biden answered a couple of reporters' questions before boarding vice president… White House Chief of Staff Mark Meadows talked to reporters about President Trump and the First Lady’s testing"
+    publishedDateTime: 2020-10-07T23:52:00Z
+    webUrl: "https://www.c-span.org/event/?476723/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "U/fBnow1oMy6bAu/ft5W+8HsgFDSxCRUJCtctcXI7dZGIpVk9Ul5dBbZphaLIv7OMnTtYTTMUuluEk6gC2WkdW8wwH4NlX5z/a1/xzTRPduErqxKBy3R6P/JeD0GBDtvcr9x6RjFzj8TglnZ5XQec3+//yzqtlqAhjFuoamRq/1VmfY4KdOGvE5ce/cx/r8MXzspZbApFnm+SLgZGRDBIBXfrzccwjgAlQPT9484plolcJJ2LCuSBtQDmEwWyV3wDlvZzDzMtVat1KYKyauAo/T+vIgscgh+A7gZnl1BzdHySmghokIQ8s8eOAostLfmRiletIPZMGMFc5d/w9RsrGgIXN4fJObPv7HioDMi8y0=;yLeVZIzfSLHXhjD3vd63Pw=="
+secured: "gFROBF59mGY+t6pAf1MR3s8MlTEqeIttLoHboRJfv1mH9d9cokQF4baz+LeNzfVfq5fLg4je5vItGiZsoKjjVncooKo9FLKJyzk7nnlKPJP9XAUkQ19pX6Rqh37CeLjHjVCXrwatbEBh8c/FeyFlunxBrv+y623Ne1E+OA3eW/CNJQlgVef7fIzKjaGUYLzEbuOIpRrbVFzpj78CkqzoAo5ZPNiiRWDwYz/fgd6yVuIwcumKv0QvBYJcSV2pyUy7bFBwdCjzmPrsQR0nmUDRLYjDHJUS54smODXVpgBG3F/AxnwLHrsamY3SwxTuoc611KShC/Pm3pJNVl1CljQBGD16xsFxDLMSmW75uGsong8=;WH25xCdiTSQOaoPQVBC8KQ=="
 ---
 

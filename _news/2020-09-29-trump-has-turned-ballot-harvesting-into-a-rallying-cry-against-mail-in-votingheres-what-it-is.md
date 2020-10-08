@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Is Donald Trump trying to lose or just trying to burn it all down?"
+    excerpt: "Even columnists who have been hedging on the possibility of a Trump comeback are starting to write things that suggest a blowout. Support our journalism. Subscribe today. At this moment, with the president badly behind,"
+    publishedDateTime: 2020-10-07T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37KSBJQICEI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 739
+        isCached: true
   - title: "'Mailmen selling ballots. Dumped in rivers. Found in creeks': Trump makes unfounded claims about mail-in voting"
     excerpt: "From claiming mailmen are \"selling the ballots\" to arguing that mail ballots are being \"dumped in rivers,\" Trump ramped up his assault on mail-voting"
     publishedDateTime: 2020-09-30T23:15:00Z
