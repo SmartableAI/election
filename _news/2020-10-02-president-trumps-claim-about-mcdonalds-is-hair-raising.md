@@ -127,8 +127,8 @@ related:
         isCached: true
   - title: "Kamala Harris and Mike Pence debate reaction, Trump calls Covid diagnosis 'blessing' – live updates"
     excerpt: "Coronavirus dominates VP debate as Trump declares his illness a ‘blessing from god’"
-    publishedDateTime: 2020-10-08T09:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates"
+    publishedDateTime: 2020-10-08T11:24:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates?page=with:block-5f7ef1228f084cdbd419120d"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates"
     type: article
@@ -137,7 +137,7 @@ related:
       domain: theguardian.com
     quality: 151
     images:
-      - url: "https://i.guim.co.uk/img/media/b9e149a182836d654054f61a3cc98f6518543545/0_0_5905_3543/master/5905.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58dabb145f8c415d3eb115efc9a59d6b"
+      - url: "https://i.guim.co.uk/img/media/c82c94344d8151f4117124d1f760dc825408d64d/0_0_4568_2741/master/4568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=378dd08ba1e1958deebbcfd1e02ce1f1"
         width: 600
         height: 360
         isCached: true
@@ -428,6 +428,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/04/19def6a2-ce46-4d7c-aef0-ef22b057d114/thumbnail/1200x630/81909c8d04ab0054ef6b66ffc61d14a9/ap-20276586203171.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Harris: 'Insulting' to suggest she or Biden would attack someone for their faith"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Wednesday shot back at Vice President Pence after he accused Democrats of targeting Supreme Court nominee Amy Coney Barrett over her Catholic faith,"
+    publishedDateTime: 2020-10-08T03:24:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520126-harris-insulting-to-suggest-she-or-biden-would-attack-someone-for-their"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520126-harris-insulting-to-suggest-she-or-biden-would-attack-someone-for-their?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520126-harris-insulting-to-suggest-she-or-biden-would-attack-someone-for-their?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 145
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala5_10072020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "White House says Trump 'not incapacitated,' working from isolation; Pence negative"
     excerpt: "The White House tried to reassure Americans on Friday that President Donald Trump was still working from isolation, after his bombshell announcement that he had caught the coronavirus threw the administration and presidential election campaign into uncertainty."
@@ -796,22 +812,6 @@ related:
       - url: "https://i.insider.com/5f7b8483282c500018c78b59?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "'Mr. Vice President, I'm speaking:' Takeaways from the VP debate between Mike Pence and Kamala Harris"
-    excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
-    publishedDateTime: 2020-10-08T04:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5896940002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5896940002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 135
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/0296cbe8-efeb-4ed5-95ac-85ff46138096-Salt_Lake_4.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Mike Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
     excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
@@ -1589,6 +1589,22 @@ related:
         width: 1440
         height: 967
         isCached: true
+  - title: "Kamala Harris calls out Trump's debt-filled tax returns in debate. 'When we say in debt, it means you owe money to somebody.'"
+    excerpt: "\"When I first heard about it, I literally said, 'You mean $750,000?' And it was like, no, $750,\" Harris said in reference to Trump's tax returns."
+    publishedDateTime: 2020-10-08T11:20:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-debate-debt-quote-trump-taxes-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-debate-debt-quote-trump-taxes-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-debate-debt-quote-trump-taxes-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f7e6f6c282c500018c7941c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "VP debate live: Kamala Harris slams Mike Pence over coronavirus response and healthcare"
     excerpt: "Harris attacks the Trump administrations coronavirus response and plans on healthcare"
     publishedDateTime: 2020-10-08T03:07:00Z
@@ -1677,6 +1693,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5RXJ2AFFYI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 1034
+        isCached: true
+  - title: "'I'm speaking': Kamala Harris curbs Mike Pence's interruption in vice presidential debate"
+    excerpt: "Sen. Kamala Harris swiftly reclaimed her time when Vice President Mike Pence interrupted her at the vice presidential debate."
+    publishedDateTime: 2020-10-08T11:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/08/im-speaking-kamala-harris-reclaims-floor-mike-pence-debate/5920853002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/189f38a2-9a66-4a7a-a8b6-71cc9c5cde57-3da043d6-e8e3-48d9-9d09-8333ad32fee5_thumbnail.png?quality=10"
+        width: 480
+        height: 480
         isCached: true
   - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
     excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
@@ -2604,14 +2634,14 @@ related:
         isCached: true
   - title: "Joe Biden, Kamala Harris to meet with tribal leaders, small business owners in Arizona"
     excerpt: "Democrat Joe Biden and his running mate, Kamala Harris, will meet with tribal leaders and small business owners during their trip to Arizona."
-    publishedDateTime: 2020-10-07T22:29:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5910955002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5910955002"
+    publishedDateTime: 2020-10-08T11:10:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5910955002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5910955002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 92
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/76b27cc0-7e26-464d-83e8-b7d7c4c3eb32-AP20260030136787.jpg?auto=webp&crop=3755,2113,x0,y191&format=pjpg&width=1200"
@@ -2842,6 +2872,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
+    excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
+    publishedDateTime: 2020-10-08T11:44:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/5896940002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5896940002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 89
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/0296cbe8-efeb-4ed5-95ac-85ff46138096-Salt_Lake_4.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Conservative begs Mike Pence to be more of an adult than Trump in VP debate"
     excerpt: "The bad news is there’s another debate coming up next week. The good news, however, is that President Donald Trump won’t be there, noted conservative columnist Jennifer Rubin in her Thursday column. Writing in the Washington Post,"
     publishedDateTime: 2020-10-01T15:59:00Z
@@ -2985,6 +3031,20 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/10/TDP-L-DEBATE-_ADO8563x.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "“They’re Coming for You”: Kamala Harris Slams Trump and Pence on Preexisting Conditions"
+    excerpt: "Kamala Harris (D-Calif.) took multiple opportunities during Wednesday night’s vice presidential debate to call attention to the Trump administration’s attempts to undo Obamacare and strip 23 million Americans of their health insurance."
+    publishedDateTime: 2020-10-08T11:26:00Z
+    webUrl: "https://www.motherjones.com/2020-elections/2020/10/theyre-coming-for-you-kamala-harris-slams-trump-and-pence-on-pre-existing-conditions/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 87
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/20201007_zaa_s152_142.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Watch live: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
     excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."
@@ -3139,6 +3199,22 @@ related:
       name: Time
       domain: time.com
     quality: 85
+  - title: "'Mr. Vice President, I'm speaking:' Takeaways from the VP debate between Mike Pence and Kamala Harris"
+    excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
+    publishedDateTime: 2020-10-08T10:55:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5896940002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5896940002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 85
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/0296cbe8-efeb-4ed5-95ac-85ff46138096-Salt_Lake_4.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Could Mike Pence assume the presidency if Trump is sick? What the 25th Amendment says"
     excerpt: "The answer lies in the 25th Amendment of the U.S. Constitution, which states the duties of the presidency could pass to the vice president. Vice President Mike Pence tested negative for COVID-19 Friday morning and is in “good health,"
     publishedDateTime: 2020-10-02T14:30:00Z
@@ -3665,6 +3741,22 @@ related:
       - url: "https://media.vanityfair.com/photos/5e176a0afd7db20008a8b957/master/pass/Trump75.jpg"
         width: 2000
         height: 1330
+        isCached: true
+  - title: "Moderator Susan Page hopes Mike Pence-Kamala Harris vice presidential debate was helpful for voters: 'That was the point'"
+    excerpt: "Susan Page, USA TODAY's Washington Bureau chief, said she had to be more aggressive than planned as moderator in Wednesday's vice presidential debate."
+    publishedDateTime: 2020-10-08T11:06:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/08/vice-presidential-debate-susan-page-moderating-mike-pence-kamala-harris/5920147002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5920147002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5920147002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/785f3004-b172-4d8e-b505-211083cba06c-USP_News__Vice_Presidential_debate_between_Republi.jpg?auto=webp&crop=2551,1435,x0,y154&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."

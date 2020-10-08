@@ -46,35 +46,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "6 things to look for in the first Biden-Trump presidential debate"
-    excerpt: "Donald Trump could face the most direct challenge of his presidency to his handling of the coronavirus pandemic, the economy and his personal conduct in his first debate against Democratic nominee Joe Biden on Tuesday.\n    \n"
-    publishedDateTime: 2020-09-29T11:17:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SGSZXPAWbtQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
+  - title: "Analysis: How Biden continues to eat into Trump's base"
+    excerpt: "President Donald Trump heads into the debate trailing former Vice President Joe Biden. Trump is the first incumbent to be losing in the polls at this point since George H.W. Bush in 1992.\n    \n"
+    publishedDateTime: 2020-09-26T17:52:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/71Hx9eL7rXU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/electoral-maps-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/electoral-maps-biden-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928104939-01-presidential-debate-stage-0928-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200724045327-03-biden-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "6 takeaways from the off-the-rails first debate between Biden and Trump"
-    excerpt: "President Donald Trump turned his first debate with Democratic rival Joe Biden into a chaotic disaster.\n    \n"
-    publishedDateTime: 2020-09-30T05:05:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X_Ls4sK7EfQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
+  - title: "Biden and Trump prepare for a debate that could turn personal"
+    excerpt: "Inside the map room of the White House, a small group of advisers sat around a table and peppered the President with accusations and criticisms about everything from lying to incompetence. The team, led by former New Jersey Gov. Chris Christie, was getting Donald Trump prepared for the onslaught they"
+    publishedDateTime: 2020-09-29T15:10:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IIkrLx4RQAQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/president-trump-biden-debate-prep/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/president-trump-biden-debate-prep/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225349-dana-bash-jake-tapper-split-09292020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Where Trump and Biden stand on 9 major policy issues"
+    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden have taken very different positions on a range of policy issues. Hear from Trump and Biden in their own words how they would tackle the problems facing the United States.\n    \n"
+    publishedDateTime: 2020-09-29T11:19:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/spUP_vzLumE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/trump-vs-biden-2020-election-policies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/trump-vs-biden-2020-election-policies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925212534-20200928-trump-biden-issues-foreign-policy-gfx-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -110,22 +126,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump is trying to divide the left. He's actually uniting it behind Biden."
-    excerpt: "When Joe Biden said on Tuesday night that he did not support the Green New Deal, President Donald Trump lit up.\n    \n"
-    publishedDateTime: 2020-10-01T21:41:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_5DM4lcNDR8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 188
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212326-18-debate-cleveland-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Why Biden and Trump are fighting over one electoral vote in Nebraska "
     excerpt: "Some states, it seems, get all the attention in presidential elections. You probably know most of them by now: Florida, Michigan, Pennsylvania, Wisconsin, etc.\n    \n"
     publishedDateTime: 2020-09-19T11:01:40Z
@@ -139,6 +139,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911133241-trump-biden-split-0911-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The most important national security question Trump and Biden need to address "
+    excerpt: "As the world braces for a possible second wave of the Covid-19 pandemic, there is also growing concern in the counterterrorism, scientific and global public health communities over the deadly potential future threat posed by bio-engineered pathogens, writes Paul Cruickshank.\n    \n"
+    publishedDateTime: 2020-09-28T20:17:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Ie53-Zpv2A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/opinions/most-important-national-security-question-trump-biden-cruickshank/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/opinions/most-important-national-security-question-trump-biden-cruickshank/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714162758-bubonic-plague-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -350,22 +366,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "President Trump and Joe Biden prepare for first debate"
-    excerpt: "President Donald Trump and Democratic nominee Joe Biden face off in the first presidential debate in Ohio this Tuesday. National polls report that Biden is leading when it comes to his proposal for how to handle the pandemic,"
-    publishedDateTime: 2020-09-27T23:02:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/president-trump-and-joe-biden-prepare-for-first-debate-92672069864"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92672069864"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92672069864"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_avi_new_polls_debate_preview_200927_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ex-Pence aide blasts Trump over Covid response, says she’ll vote for Biden"
     excerpt: "It was shocking to see the president saying that the virus was a hoax,” said Olivia Troye, a Republican adviser on the coronavirus task force."
     publishedDateTime: 2020-09-18T02:47:00Z
@@ -508,22 +508,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump and Biden Court Catholic Vote, in Very Different Ways"
-    excerpt: "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers."
-    publishedDateTime: 2020-09-25T09:09:00Z
-    webUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23campaign-catholics1/23campaign-catholics1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "The Reality TV Host vs. the Velvet Shiv: Trump and Biden in Debates"
     excerpt: "Joe Biden and Donald Trump will bring very different histories and styles to their presidential debate on Tuesday."
     publishedDateTime: 2020-09-28T09:03:00Z
@@ -540,19 +524,83 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "What Polls Say About the 2020 Race as Biden and Trump Square Off"
-    excerpt: "A crucial fraction of the millions who watch the first presidential debate on Tuesday will have yet to make up their minds. Here’s what polling tells us about the issues that will come up."
-    publishedDateTime: 2020-09-29T10:53:00Z
-    webUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
+  - title: "Biden questions Trump's values after messy debate"
+    excerpt: "\"I think he basically looks down on us. He judges us,\" the former vice president said at the start of a daylong train tour."
+    publishedDateTime: 2020-09-30T15:44:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/biden-turn-the-page-messy-debate-423718"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/biden-turn-the-page-messy-debate-423718"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/biden-turn-the-page-messy-debate-423718"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/21/20/0f7c33154809b56ae9f4df6fc025/20200930-biden-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Top Democrats urge Biden to keep debating Trump"
+    excerpt: "Amy Klobuchar was one of several top Democrats who said Biden should continue to debate Trump. | Carolyn Kaster-Pool/ Tuesday night’s debate was an absolute debacle. Joe Biden could barely get a word in edgewise as President Donald Trump talked over him and hammered his son Hunter."
+    publishedDateTime: 2020-09-30T16:23:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/top-democrats-joe-biden-trump-debate-423726"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/30/top-democrats-joe-biden-trump-debate-423726"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/top-democrats-joe-biden-trump-debate-423726"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/5c/63/6eb7869b4888973a175e7beed781/20090-amy-klobuchar-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Wallace tries to keep Trump from interrupting Biden at debate"
+    excerpt: "As Joe Biden and President Donald Trump spar over health care, moderator Chris Wallace tries to keep the president from interrupting."
+    publishedDateTime: 2020-09-30T01:37:00Z
+    webUrl: "https://www.nbcnews.com/video/wallace-tries-to-keep-trump-from-interrupting-biden-at-debate-92820037625"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92820037625"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92820037625"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/wallace-interrupt.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden, Trump return to campaign trail after chaotic debate"
+    excerpt: "Biden called Trump's debate performance a “a national embarrassment,” while the president attacked the Democratic nominee and debate moderator, Chris Wallace."
+    publishedDateTime: 2020-10-01T03:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-slams-trump-s-debate-showing-national-embarrassment-presses-commission-n1241593"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241593"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241593"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416397/200930-joe-biden-cleveland-jm-1341_a7bef22d9c2fadbc5a2c2cb0391d87e8.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "For the Sake of Democracy, Cancel the Trump-Biden Debates"
+    excerpt: "Little more than 12 hours after the conclusion of the most chaotic, counterproductive and outright offensive American presidential debate in my lifetime, the Commission on Presidential Debates promised unspecified format changes in the two remaining faceoffs between Donald Trump and Joe Biden so that the events would be more orderly,"
+    publishedDateTime: 2020-10-01T09:13:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/opinion/trump-biden-debates.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/opinion/trump-biden-debates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/opinion/trump-biden-debates.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-polling1/29debate-polling1-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/01/opinion/sunday/01bruni-treated/01bruni-treated-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -571,6 +619,38 @@ related:
       - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_clip_a2_201004_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A bullish Biden campaign invades Trump territory"
+    excerpt: "In a move that would have been far-fetched even a few months ago, Joe Biden is set to spend $6.2 million on ads in the state over the next month — attempting to put the state in play for the first time in decades."
+    publishedDateTime: 2020-10-07T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/joe-biden-trump-territory-426802"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/joe-biden-trump-territory-426802"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/5e/f7/8fdf17e9485f806b65259c3c25a4/201006-biden-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden signals next debate may not happen if Trump remains contagious"
+    excerpt: "CDC guidelines say people should isolate for 10 days from the point of showing symptom — 20 days in severe cases."
+    publishedDateTime: 2020-10-07T01:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
+        width: 2500
+        height: 1663
         isCached: true
   - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
     excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
@@ -890,22 +970,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Biden Could Be Our Second Catholic President. It Doesn’t Matter."
-    excerpt: "Kennedy in 1960, Catholic America achieved a long-sought victory. But what did we win? By Elizabeth Bruenig Ms. Bruenig is an Opinion writer. As Election Day approached 60 years ago, Catholics across the country followed the news with a nervous thrill of anticipation."
-    publishedDateTime: 2020-09-24T04:27:00Z
-    webUrl: "https://www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/23/opinion/23Bruenig/23Bruenig-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Biden Appeals to Obama Voters Who Backed Trump in Wisconsin"
     excerpt: "Joseph R. Biden Jr., the Democratic presidential nominee, appealed to voters in Manitowoc, Wis., who had supported Barack Obama but backed President Trump in 2016."
     publishedDateTime: 2020-09-21T22:44:00Z
@@ -961,20 +1025,6 @@ related:
       - url: "https://static.politico.com/36/c7/9814b1414b9eb8e2f14963a2ae95/ap20271649344314.jpg"
         width: 5368
         height: 3577
-        isCached: true
-  - title: "The moment Trump seized on Biden's sons"
-    excerpt: "Trump's attack-dog style in the first debate crescendoed when the subject shifted to Hunter as Joe Biden talked about his late son Beau."
-    publishedDateTime: 2020-09-30T11:41:00Z
-    webUrl: "https://www.politico.com/news/2020/09/29/trump-beau-biden-presidential-debate-423417"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c075efe0-333d-4821-9bf4-75d0ca29bbb2/07e3938c-d245-42d0-9726-dd3a2d90c373/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Biden leads Trump by 5 points in Iowa poll"
     excerpt: "Theresa Greenfield, the Democratic challenger in the state’s Senate contest, leads incumbent Sen. Joni Ernst by the identical margin in the Quinnipiac survey."
@@ -1032,19 +1082,19 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Five Things Biden and His Allies Should Be Worried About"
-    excerpt: "Second, Latinos, who are key to the outcome in several crucial states — Arizona and Florida, for example — have shown less support for Biden than for past Democratic nominees. Many Hispanic voters seem resistant to any campaign that defines them broadly as “people of color."
-    publishedDateTime: 2020-09-23T09:04:00Z
-    webUrl: "https://www.nytimes.com/2020/09/23/opinion/joe-biden-donald-trump-2020.html"
+  - title: "Debates commission says it will add order to Trump and Biden’s remaining showdowns"
+    excerpt: "The two candidates clashed bitterly in their first debate, with the president repeatedly interrupting his opponent and the moderator."
+    publishedDateTime: 2020-10-01T03:08:00Z
+    webUrl: "https://www.politico.com/news/2020/09/30/debates-commission-says-it-will-roll-out-format-changes-for-trump-and-bidens-remaining-showdowns-423800"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
+      name: Politico
+      domain: politico.com
+    quality: 124
     images:
-      - url: "https://static01.nyt.com/images/2020/09/23/opinion/23edsall3/23edsall3-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/f2/9b/4a96493a4e6e945b3b52ef773abc/200930-debate-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump team fears a ‘Sleepy Joe’ self-own"
     excerpt: "The president spent months mocking Joe Biden’s acumen, lowering expectations for the Democratic nominee in the first presidential debate. As a result, some on Trump’s team now worry about a loss next week."
@@ -1057,34 +1107,6 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/67/1b/41e125de446d88c1170824ae7021/200922-trump-debate-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden nets progressive climate endorsement"
-    excerpt: "The endorsement from 350 Action is the latest sign the former veep's move to boost his climate plan's ambition is winning over skeptical progressives."
-    publishedDateTime: 2020-09-24T13:36:00Z
-    webUrl: "https://www.politico.com/news/2020/09/24/biden-nets-progressive-climate-endorsement-420941"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/d3/11/b8f90a8e47a29f72b70265621224/ap20258672621852.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Tester warns Biden to pick up the pace on campaigning"
-    excerpt: "\"I think Joe just needs to get out and talk to people tell them his vision for the country and I think he’ll be fine,” the Montana Democrat said."
-    publishedDateTime: 2020-09-24T16:20:00Z
-    webUrl: "https://www.politico.com/news/2020/09/24/tester-warns-biden-on-campaigning-421070"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/db/83/77d79f104c17a94257cc9eec5483/ap20008853778718.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -1118,6 +1140,24 @@ related:
         width: 1440
         height: 907
         isCached: true
+  - title: "Ex-Trump Doc Suggests on Fox That Biden’s on Drugs"
+    excerpt: "The former White House physician turned Trumpy congressional candidate diagnosed Biden through the TV and backed Trump’s claims that he is taking a secret drug to aid his memory."
+    publishedDateTime: 2020-09-29T11:58:00Z
+    webUrl: "https://www.thedailybeast.com/ex-trump-doctor-ronny-jackson-goes-on-hannity-to-suggest-bidens-on-memory-boosting-drugs?scrolla=5eb6d68b7fedc32c19ef33b4"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
+  - title: "Trump Campaign Attacks Joe Biden for Not Having COVID-19"
+    excerpt: "He has experience, now, fighting the coronavirus as an individual,” a campaign spokesperson said of Trump. “Those firsthand experiences, Joe Biden, he doesn’t have those.”"
+    publishedDateTime: 2020-10-05T20:01:00Z
+    webUrl: "https://www.thedailybeast.com/trump-campaign-attacks-joe-biden-for-not-having-covid-19"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "oroivOX2uGQsdFaSF7kswGWGMvbMGWboXhQ0N0t4ciXVehZSijxfdiLOqj9B0N0dvM7xbYJECWK4e2ADOXWdGvEdh20AgkyI7AVg7S2Rh4zsWv9ZmrvznFsxY48e46URhnNKDcKwFCp4l2UuQGwh1VLdo6w3LAvLYsLhC8DokrTkrzYUQ9JFEOOX14jo72Rt2RY0SNb1WP+Z9kA7sgv/EpAJ+W/KZWZRGqkYRXG8C2edD/EXajC+sZg1EpttlFlpGH1agvmMXe+qCHQNEj5bcUNI1aeEPx6sxZuAWRb8/McNnF2gmkesIKs58ftJRvLJtkCL74f4sYIfns5pd4lZWx5zihdIFMF6kZmcsvmX7r4=;YID4M1mQl30ynhgM/6i6Pw=="
 ---

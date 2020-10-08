@@ -103,20 +103,6 @@ related:
         width: 3500
         height: 2334
         isCached: true
-  - title: "Joe Biden campaigns in Miami"
-    excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-05T20:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201005202222-joe-biden-campaigns-in-miami/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/05/story_07124914_1601930944.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Battle for the suburbs: can Joe Biden flip Texas? – video"
     excerpt: "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli"
     publishedDateTime: 2020-10-07T10:14:00Z

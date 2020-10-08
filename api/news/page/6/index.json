@@ -2,167 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-10-02-trump-administration-puts-up-billboards-of-immigration-violators-in-pennsylvania.md",
-      "title": "Trump administration puts up billboards of immigration violators in Pennsylvania",
-      "excerpt": "The Trump administration has put up billboards in Pennsylvania of immigration violators, an unprecedented move taken in a swing state a month before the presidential election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HA0c-zY776s/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HA0c-zY776s/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html",
-      "publishedDateTime": "2020-10-02T16:19:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-commentary-what-happens-if-trump-is-unable-to-govern.md",
-      "title": "Commentary: What happens if Trump is ‘unable’ to govern",
-      "excerpt": "For some imaginable health outcomes, especially those associated with COVID-19, the 25th Amendment is ambiguous.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/-lhwol4kj9AqzQiaSHRO5HEJYCg=/1200x0/left/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/F7IK6LRFWZBWDJ7GPE4AA2QZJY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-02T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-sanders-to-host-socially-distant-rally-for-biden-in-new-hampshire.md",
-      "title": "Sanders to host socially distant rally for Biden in New Hampshire",
-      "excerpt": "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Sanders-4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp",
-      "publishedDateTime": "2020-10-02T14:16:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-03-white-house-says-trump-remains-fatigued-amid-reports-he-has-fever.md",
       "title": "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever",
       "excerpt": "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA.",
@@ -332,7 +171,7 @@
       "originalUrl": "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -537,61 +376,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-melania-trump-announces-she-has-mild-symptoms-of-coronavirus.md",
-      "title": "Melania Trump announces she has 'mild symptoms' of coronavirus",
-      "excerpt": "First lady Melania Trump said Friday that she is experiencing \"mild symptoms\" but is \"looking forward to a speedy recovery\" following her Covid-19 diagnosis.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x4lMT8xICDg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x4lMT8xICDg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002010216-02-trump-melania-0911-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/02/politics/melania-trump-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/melania-trump-coronavirus/index.html",
-      "publishedDateTime": "2020-10-02T09:04:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-ap-photos-a-busy-week-for-trump-before-positive-virus-test.md",
       "title": "AP PHOTOS: A busy week for Trump before positive virus test",
       "excerpt": "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House.",
@@ -698,6 +482,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-mike-pence-and-his-wife-tested-negative-friday-morning.md",
+      "title": "Mike Pence and his wife tested negative Friday morning.",
+      "excerpt": "Vice President Mike Pence announced Friday that he and his wife, Karen, had tested negative for the coronavirus, just hours after President Trump and the first lady announced they had both tested positive and were quarantining at the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/multimedia/02elections-briefing-pence/02elections-briefing-pence-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
+      "publishedDateTime": "2020-10-02T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-boris-johnson-wishes-trump-speedy-recovery-from-covid-19.md",
       "title": "Boris Johnson wishes Trump 'speedy recovery' from COVID-19",
       "excerpt": "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. ",
@@ -753,62 +593,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-if-he-doesnt-win-ohio-its-over-trump-slips-in-the-heartland.md",
-      "title": "‘If He Doesn’t Win Ohio, It’s Over’: Trump Slips in the Heartland",
-      "excerpt": "Four years ago, the president easily won Ohio by building a balanced coalition among white voters across educational lines. But his support has waned since then, particularly in the suburbs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/02/us/02pollwatch-newsletter/02pollwatch-newsletter-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
-      "publishedDateTime": "2020-10-02T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-brian-howey-barrett-confirmation-would-be-a-pence-achievement.md",
       "title": "Brian Howey: Barrett confirmation would be a Pence achievement",
       "excerpt": "It stands to be a future framed picture in Vice President Mike Pence’s office: On Monday, he was climbing the U.S. Capitol steps with 7th Circuit Judge Amy Coney Barrett of South Bend. The tall, slender judge is adjusting her necklace;",
@@ -848,61 +632,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trump-condemns-all-white-supremacists-after-refusing-to-do-so-at-presidential-debate.md",
-      "title": "Trump condemns 'all White supremacists' after refusing to do so at presidential debate",
-      "excerpt": "President Donald Trump condemned \"all White supremacists\" Thursday evening after pointedly refusing to do so at Tuesday's presidential debate and in the days since.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A7HgllHeK_A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A7HgllHeK_A/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201001221501-02-trump-1001-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-proud-boys-white-supremacists/index.html",
-      "publishedDateTime": "2020-10-01T19:57:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1247,7 +976,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1338,6 +1067,281 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.md",
+      "title": "Herschel Walker claps back at Biden's Antifa is ‘an idea’ comment",
+      "excerpt": "Former NFL star Herschel Walker turned to Twitter Thursday to take issue with a Trump-Biden debate moment regarding far-left and far-right groups and the roles they play in unrest that has rocked cities across the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyER4odGVfE/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyER4odGVfE/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274148643710.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
+      "publishedDateTime": "2020-10-01T13:53:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-comey-blatantly-accused-trump-of-horrible-things-without-evidence-sen-mike-lee.md",
+      "title": "Comey 'blatantly accused' Trump of 'horrible things' without evidence: Sen. Mike Lee",
+      "excerpt": "Former FBI Director James Comey “blatantly accused the president of the United States” of “horrible things without any evidence,” Sen. Mike Lee, R-Utah, told “Fox & Friends” on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
+      "publishedDateTime": "2020-10-01T12:51:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-trump-set-to-defy-task-force-recommendations-with-wisconsin-rallies.md",
+      "title": "Trump set to defy task force recommendations with Wisconsin rallies",
+      "excerpt": "President Donald Trump is expected to again defy recommendations from his own administration's coronavirus task force and guidance from local officials Saturday, traveling to Wisconsin for campaign rallies at airplane hangars in La Crosse and Green Bay.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wlhmrGHxCZQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wlhmrGHxCZQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923142155-02-trump-rally-pa-0922-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/trump-campaign-rallies-wisconsin/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-campaign-rallies-wisconsin/index.html",
+      "publishedDateTime": "2020-10-01T12:35:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-biden-endorsed-by-more-than-120-former-gop-national-security-officials.md",
+      "title": "Biden endorsed by more than 120 former GOP national security officials",
+      "excerpt": "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T12:04:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.md",
+      "title": "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’",
+      "excerpt": "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
+      "publishedDateTime": "2020-10-01T12:01:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

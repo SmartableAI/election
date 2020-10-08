@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump pledges to withdraw troops from Afghanistan by Christmas; Taliban cheer"
+    excerpt: "Afghanistan's Taliban group on Thursday welcomed an announcement by President Donald Trump that he would pull out all U.S. troops from the country by Christmas. It was \"a positive step towards the implementation of (the) Doha agreement,"
+    publishedDateTime: 2020-10-08T10:13:00Z
+    webUrl: "https://www.nbcnews.com/news/world/trump-pledges-withdraw-troops-afghanistan-christmas-taliban-cheer-n1242590"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242590"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242590"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418118/201007-afghan-talks-mc-9532_2ba34940be30fa05e78d56ed414bdcf9.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "2fIz6iNjXQMt2uFiJYwCIG3LDA9LwLLdl5J/qW0wQWrNHlWTjXVhSdoR8neuC/Gr8VUbVBMGW2mLPoXp7mfU5cM/aDqoYDNMGwImf8AsNFeaDW2pefdOs3dBWTzxiN5ycvnzeCzZv1maBqq2/CqTPtLHOLSyMHMr6Z7pdxvIT3vjGEru9Rp+dSr4T6kOux2UancKrQ6EAtuNyMUdShbzMhlHG4dcCzfD6Z52wF6MjnccSCScJHs1ymJPLJAsSe5xPz0pYNKh3kEqQiJxzGruXpTGYTb1BFtLdO0qwUYVNfJlQtyKrt/8SBd/TIvCRRCfq8xktzESkxKUJGUjfrFkvzRq7anlp2oQV6zEGU9tx6M=;8FFxPYMxOk0SwaU3NB1mNw=="
 ---

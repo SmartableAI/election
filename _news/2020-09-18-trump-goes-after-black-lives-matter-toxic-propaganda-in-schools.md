@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: How Donald Trump's indoor campaign rally reveals how little he understands about being president"
+    excerpt: "President Donald Trump's most basic calculation -- in, well, everything he does -- boils down to this: How does this affect me?\n    \n"
+    publishedDateTime: 2020-09-14T20:14:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/js8T5reVyxk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-nevada-rally-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-nevada-rally-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914095325-02-trump-rally-nevada-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "NEW: What Trump will say about a Covid-19 vaccine"
     excerpt: "SNEAK PEEK … PRESIDENT DONALD TRUMP will hold a news conference at 2 p.m. and is expected to give an update on vaccines. He is expected to say the U.S. is on track to have 100 million doses of an approved vaccine distributed by year end -- the distribution plan,"
     publishedDateTime: 2020-09-18T17:20:00Z

@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden should stop ducking the court-packing issue"
-    excerpt: "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing."
-    publishedDateTime: 2020-10-07T13:30:00Z
-    webUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue"
-    ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "New York Times editorial board endorses Biden"
     excerpt: "The New York Times editorial board endorsed Joe Biden's White House bid on Tuesday, throwing its support behind the former vice president&nb"
     publishedDateTime: 2020-10-07T02:00:00Z
@@ -93,38 +77,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Video Resurfaces of Kamala Harris Saying She Wants to Ban Fracking After Saying Biden Will Not During VP Debate"
-    excerpt: "\"There's no question I'm in favor of banning fracking,\" Kamala Harris said in video footage that resurfaced on social media Wednesday."
-    publishedDateTime: 2020-10-08T04:21:00Z
-    webUrl: "https://www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304"
-    ampWebUrl: "https://www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
-    images:
-      - url: "https://d.newsweek.com/en/full/1647768/kamala-harris.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Why Joe Biden can't expect to automatically get the Latino vote"
-    excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
-    publishedDateTime: 2020-10-03T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3533570001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
   - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
     excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
     publishedDateTime: 2020-10-03T18:52:00Z
@@ -141,51 +93,19 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
-    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
-    publishedDateTime: 2020-10-05T20:50:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+  - title: "Dallas Mavericks owner Mark Cuban to headline virtual fundraiser for Joe Biden’s White House campaign"
+    excerpt: "Dallas Mavericks owner Mark Cuban on Wednesday will headline a virtual fundraiser for Democrat Joe Biden’s presidential campaign,"
+    publishedDateTime: 2020-10-07T00:23:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/06/dallas-mavericks-owner-mark-cuban-to-headline-virtual-fundraiser-for-joe-bidens-white-house-campaign/"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 75
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 40
     images:
-      - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/1UH52z8_KN1yGHeElH92yj3VlvU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/4QQVLV4YTJDAZMWXKJTEO7MEYM.JPG"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
-    excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
-    publishedDateTime: 2020-10-01T19:05:00Z
-    webUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/"
-    ampWebUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 63
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
-        width: 1500
-        height: 785
-        isCached: true
-  - title: "Is Joe Biden the Konrad Adenauer of the U.S.?"
-    excerpt: "Former Vice President Joe Biden, the candidate who marched from victory to victory thereafter, and who is now both the Democrats' standard-bearer and the substantial favorite to be the next president,"
-    publishedDateTime: 2020-10-07T09:41:00Z
-    webUrl: "https://theweek.com/articles/942011/joe-biden-konrad-adenauer"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 55
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/bidenauer.jpg?itok=0tKkr3o7"
-        width: 1260
-        height: 560
+        height: 630
         isCached: true
 
 secured: "qeojvsV/jgLA0r9t1zJDVDnTaN1SHTHjvdqZlqbrdqhbHxiuT+g6W9Pw/jzyj/FL+OE7IGzbWumwKupT9+Xjz3IHmkHHRqQmrahqJhvi6bEoTNgqHgTcIiM8Q+jJwHZqGrl2dnQ8GyTr771iIIIh77JTL33vQbj6ONitKeq6N+0EVJLIkmTKk8vWGMcOKtmBIzxs1Mb8bDcsWKD2JdLpQA3B991jdeSlMZHHONCl4YsOG+YRX9LIN6HMW+hGA/MmQZuiziJdOHILPjHZYHFnQw3IOs6O9eDpCVCFIMVNHlkTqADoa4YyQDxNM8zfF2xsvVZC0/Tp8CvEvmhwHFNvt6OmnN62S0Npr0DiUWFvL173CTwhpsuGqQyXC5BqS7p5rxZIi2gaR5N8lUD3olASF+duBofhKEX8ePx1EkKSgr+Ol/rJqNmofzZWMOd4qC8/sLtJyL++/exkGiAs/nVhXOE++QV+2UDuP1KuZty2q+7FjaDNBMdXCLAK/PJS+4fHr7rQ/+rawswq2KnCOhaz2Q==;Sf12qv2LARy7AKM8d3iuUA=="

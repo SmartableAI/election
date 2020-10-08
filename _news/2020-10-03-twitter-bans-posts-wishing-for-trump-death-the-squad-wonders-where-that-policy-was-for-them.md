@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: The *real* secret of Donald Trump's success revealed by his tax returns"
-    excerpt: "President Donald Trump likes to tell people he made his fortune building things.\n    \n"
-    publishedDateTime: 2020-09-29T14:14:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yhTkq_2MfTQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/donald-trump-taxes-new-york-times/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190221170200-the-trump-dynasty-ae-doc-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Point: A line-by-line breakdown of Donald Trump's irresponsible 85-second video victory lap"
     excerpt: "After returning from four days at Walter Reed medical center to treat his case of Covid-19, President Donald Trump filmed a video -- which he blasted to his 87 million Twitter followers -- talking about the experience and what it, uh, taught him.\n    \n"
     publishedDateTime: 2020-10-06T14:48:55Z
@@ -79,21 +63,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Dow falls 400 points after Trump calls off negotiations on stimulus package"
-    excerpt: "Wall Street fell on Tuesday after President Donald Trump said he had would be halting all negotiations on a new round of coronavirus stimulus relief. The Dow Jones Industrial Average fell by almost 400 points,"
-    publishedDateTime: 2020-10-06T19:34:00Z
-    webUrl: "https://www.nbcnews.com/business/markets/dow-falls-400-points-after-trump-calls-negotiations-stimulus-package-n1242318"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242318"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242318"
+  - title: "Dow futures plunge 500 points as Trump says he tested positive for Covid-19"
+    excerpt: "Futures tied to the Dow Jones Industrial Average plummeted 500 points. S&P 500 futures and Nasdaq 100 futures were also in negative territory."
+    publishedDateTime: 2020-10-02T09:37:00Z
+    webUrl: "https://www.nbcnews.com/business/markets/dow-futures-plunge-more-400-points-trump-says-he-tested-n1241770?amp/"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241770"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241770"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 133
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417973/201006-new-york-stock-exchange-jm-1507_b91cdb57fb0e13b1b7cf21e2e3983820.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3414757/200924-donald-trump-ew-506p_d18730592e7d92cf390f4bf2f60888bd.jpg"
         width: 2500
-        height: 1667
+        height: 1642
         isCached: true
   - title: "Bipartisan 'get well soon' wishes for Trump, but some Democrats send pointed message"
     excerpt: "Bipartisan 'get well soon' wishes for Trump, but some Democrats have a pointed message WASHINGTON — Messages for a quick recovery from lawmakers and world leaders began flooding in Friday, reacting to the news that President Donald Trump and first lady Melania Trump have tested positive for Covid-19."

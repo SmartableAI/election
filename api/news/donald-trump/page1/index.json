@@ -2,62 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-08-california-school-districts-spurn-trump-food-box-letter-weeks-before-election-day.md",
-      "title": "California school districts spurn Trump food box letter weeks before Election Day",
-      "excerpt": "Critics have accused the president of politicizing poverty and using the food relief program as a campaign tool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/california/story/2020/10/07/california-school-districts-spurn-trump-food-box-letter-weeks-before-election-day-1322254",
-      "originalUrl": "https://www.politico.com/states/california/story/2020/10/07/california-school-districts-spurn-trump-food-box-letter-weeks-before-election-day-1322254",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/43/4b/61fcc43b415086640cdf4ff956ee/ap20246788858675.jpg",
-          "width": 5797,
-          "height": 3863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-08-where-are-all-of-the-arrests-trump-demands-barr-lock-up-his-foes.md",
       "title": "‘Where are all of the arrests?’: Trump demands Barr lock up his foes",
       "excerpt": "The day-long run of tweets and retweets marked the most frantic stretch of Trump’s public activity since he left Walter Reed.",
@@ -162,62 +106,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-trump-tells-white-house-doctor-i-feel-great.md",
-      "title": "Trump tells White House doctor: ‘I feel great!’",
-      "excerpt": "The President this morning says ‘I feel great!’” Trump's physician, Sean Conley, wrote in a memo released by the White House press office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/07/trump-white-house-doctor-great-427258",
-      "originalUrl": "https://www.politico.com/news/2020/10/07/trump-white-house-doctor-great-427258",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/54/ca/74c914574613b7438bafc99eab5b/20201007-djtwh-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/07/trump-white-house-doctor-great-427258",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/trump-white-house-doctor-great-427258",
-      "publishedDateTime": "2020-10-07T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -861,7 +749,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4580,
+      "heat": 4600,
       "tags": null,
       "images": [
         {
@@ -952,62 +840,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-coming-full-circle-trump-returns-to-false-misguided-flu-rhetoric.md",
-      "title": "Coming full circle, Trump returns to false, misguided 'flu' rhetoric",
-      "excerpt": "Nearly seven months after his misguided \"think about that!\" tweet, comparing COVID-19 to the flue, the Republican has apparently come full circle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2020_40/3417238/201003-donald-trump-cs-944a_65547e5ac6566da3ad7106431d825dca.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-06T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1571,6 +1403,169 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health.md",
+      "title": "CNN supercut shows how Trump has repeatedly mocked his opponents’ health",
+      "excerpt": "CNN’s John Avlon on Monday showed how President Donald Trump has repeatedly used his political opponents’ health as a weapon, such as when he openly mocked Hillary Clinton for coming down with pneumonia in 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
+      "originalUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2017/07/Trump-mocks-disabled-reporter.jpg",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
+      "publishedDateTime": "2020-10-05T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-meadows-still-optimistic-trump-will-leave-hospital-later-on-monday.md",
+      "title": "Meadows: ‘Still optimistic’ Trump will leave hospital later on Monday",
+      "excerpt": "Trump's chief of staff said the president will meet with his doctors and nurses on Monday morning to assess his progress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "originalUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/95/64/e2030d6244139256e6df0f3d8ac3/ap20278592774995.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
+      "publishedDateTime": "2020-10-05T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-trumps-latest-political-theatrics-described-as-insanity.md",
+      "title": "Trump's latest political theatrics described as 'insanity'",
+      "excerpt": "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2020_40/3417409/201004-trump-drive-walter-reed-rd-541p_236d25083945c388acde5b25f325446f.nbcnews-fp-1200-630.JPG",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

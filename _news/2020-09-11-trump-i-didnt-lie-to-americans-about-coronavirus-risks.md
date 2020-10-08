@@ -32,117 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "The Point: Trump's coronavirus problem isn't getting better"
-    excerpt: "With just 51 days until the 2020 election, it will be here before you know it. Every Sunday, I deliver to your inbox the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
-    publishedDateTime: 2020-09-13T17:44:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AMX5hK6iFvI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
+  - title: "Trump called him 'my African American.' His life hasn't been the same since"
+    excerpt: "If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. Hear how his life was transformed after Trump called him \"My African-American.\"\n    \n"
+    publishedDateTime: 2020-09-13T13:00:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/26YZY7DcoPc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911192901-donald-trump-campaign-rally-michigan-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909135548-01-gregory-cheadle-june-2016-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "An 'exhausted' Trump's long path to coronavirus "
-    excerpt: "When President Donald Trump stepped into the dining room of his golf club in New Jersey on Thursday, high-dollar attendees gathered for a fundraiser there thought he seemed a little off.\n    \n"
-    publishedDateTime: 2020-10-02T21:44:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/alEIB7jj-64/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-path/index.html"
+  - title: "Trump Calls for ‘Patriotic Education’ to Defend American History From the Left"
+    excerpt: "At the National Archives Museum, the president warned against a “radical movement” that has emerged from “decades of left-wing indoctrination in our schools.”"
+    publishedDateTime: 2020-09-18T02:00:00Z
+    webUrl: "https://www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002142052-02-trump-melania-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump says his coronavirus deception was Churchillian. Scholars of Churchill say he's wrong"
-    excerpt: "President Donald Trump argued Thursday that his decision to mislead Americans about the severity of the coronavirus threat wasn't just the right thing to do -- it was positively Churchillian.\n    \n"
-    publishedDateTime: 2020-09-13T14:26:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-IcolBZnTA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911203714-donald-trump-winston-churchill-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: How Donald Trump's indoor campaign rally reveals how little he understands about being president"
-    excerpt: "President Donald Trump's most basic calculation -- in, well, everything he does -- boils down to this: How does this affect me?\n    \n"
-    publishedDateTime: 2020-09-14T20:14:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/js8T5reVyxk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/14/politics/donald-trump-nevada-rally-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/donald-trump-nevada-rally-2020/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914095325-02-trump-rally-nevada-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pence aide blasts former coronavirus task force member who criticized Trump"
-    excerpt: "Retired Gen. Keith Kellogg, the vice president’s national security adviser, said he was “not proud of Olivia Troye.”"
-    publishedDateTime: 2020-09-22T15:23:00Z
-    webUrl: "https://www.politico.com/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/pence-aide-blasts-olivia-troye-coronavirus-420063"
-    type: article
-    provider:
-      name: YAHOO!
-      domain: politico.com
-    quality: 148
-    images:
-      - url: "https://static.politico.com/c0/dd/d809e0514280ba562d91c7a20674/200922-keith-kellogg-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "From masks to disinfectants: Trump's coronavirus theories"
-    excerpt: "Here are several times that the president downplayed or endorsed theories dismissing the severity of the pandemic."
-    publishedDateTime: 2020-10-02T13:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/masks-disinfectants-trump-s-coronavirus-theories-n1241793"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241793"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241793"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416925/201003-trump-coronavirus-mn-0740_68feaad9839ca1bbfc3d8938263fd2d6.JPG"
-        width: 2500
-        height: 1406
-        isCached: true
-  - title: "Trump returns to Oval Office, declares himself cured of coronavirus"
-    excerpt: "The president called the drug cocktail he received a \"cure,\" although his doctors have said it's too early to tell."
-    publishedDateTime: 2020-10-08T05:13:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-returns-oval-office-despite-being-treated-coronavirus-n1242460"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242460"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242460"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418268/201007-marine-white-house-jm-1541_06eeb416e73d5d82ae9614d936b364eb.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://static01.nyt.com/images/2020/09/17/us/politics/17dc-trump/17dc-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "NuzJqaqKl2fPfQ/BzQe4lEOiRGPj7V+bVhpIWuutm+b/Dlrdqg04IoPRgzGo+JFj1QDHXi6IAdru41TRpYLQuKoVDhw3nfxwb6iQibXehbJko5+oYWHP7n91hHhCkrAVJ5qDYEABO6idHY9TkMsAibLWawcHCjHH6tjpoQQzBnYmKseIYUzcbpQ+aiiqeJhE4oVSEvjJQ07zkvLgV8JJd5Xh5fFWjLy/MlIPBCV1tEQaoMWbJLgWA1KNzdnVh1Ffg0OpymEsbNsfTPT+8zpOZuS7nUJwYZn6NIxE3suN0ByxI+TY1s/SLOYUuQmwXsMckveZvgbIiUm+XJ3dp3gezSt3c5mzNgn6QzZl0FvLHB4=;tvdJLqykyCpXcac4QBXdjA=="

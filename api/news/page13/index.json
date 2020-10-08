@@ -2,6 +2,113 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-09-24-donald-trump-vs-meghan-markle-4-times-the-president-has-slammed-the-duchess.md",
+      "title": "Donald Trump Vs. Meghan Markle: 4 Times The President Has Slammed The Duchess",
+      "excerpt": "Donald Trump’s recent comments about Meghan Markle are only the latest ones he has made which appear to levy criticism at the Duchess of Sussex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236",
+      "originalUrl": "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/24/donald-trump-vs-meghan-markle.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1",
+      "publishedDateTime": "2020-09-24T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-trump-says-hes-praying-for-officers-shot-at-breonna-taylor-protests.md",
+      "title": "Trump says he’s ‘praying’ for officers shot at Breonna Taylor protests",
+      "excerpt": "The president added that he is “prepared to work together” with Kentucky Gov. Andy Beshear, “immediately upon request!”",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-420948",
+      "originalUrl": "https://www.politico.com/news/2020/09/24/trump-breonna-taylor-protests-420948",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/39/e7/b41949b64905914d90175a529cee/ap20267815094996.jpg",
+          "width": 4625,
+          "height": 3083,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/trump-breonna-taylor-protests-420948",
+      "publishedDateTime": "2020-09-24T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-president-trump-wont-destroy-social-securitybut-hes-not-going-to-save-it.md",
       "title": "President Trump Won’t Destroy Social Security—But He’s Not Going To Save It",
       "excerpt": "The Biden campaign claims the President Trump is cutting Social Security, and that if he gets his way, benefits could run out in “just three years.” While that claim is not true, the Trump administration has done next to nothing to fix Social Security’s long-term funding problems.",
@@ -120,7 +227,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 150,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -887,61 +994,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-23-with-an-eye-on-a-tight-florida-race-trump-announces-new-restrictions-on-cuban-hotels-cigars-and-rum.md",
-      "title": "With an eye on a tight Florida race, Trump announces new restrictions on Cuban hotels, cigars and rum",
-      "excerpt": "President Donald Trump on Wednesday announced a new series of economic sanctions on Cuba that ban US citizens from buying Cuban cigars as well as rum and staying at Cuban government-owned hotels on the communist-run island.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7eKC9dCxvIg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200921172036-03-trump-0921-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html",
-      "publishedDateTime": "2020-09-23T10:50:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-24-trump-said-jews-are-only-in-it-for-themselves-and-stick-together-according-to-a-new-report.md",
       "title": "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report",
       "excerpt": "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post.",
@@ -1261,57 +1313,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-rep-ilhan-omar-responds-to-president-donald-trumps-attacks-this-is-my-country.md",
-      "title": "Rep. Ilhan Omar responds to President Donald Trump's attacks: 'This is my country'",
-      "excerpt": "President Donald Trump again attacked Rep. Ilhan Omar at a campaign stop Tuesday, when he referenced her birth country of Somalia, drawing a rebuke from the Minnesota Democrat. At a campaign rally near Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/07/18/USAT/7edc08c0-f71e-4775-b4d5-ff01613d72fe-VPC_TRUMP_SEND_HER_BACK_CHANTS_DESK_THUMB.00_00_05_21.Still001.jpg?auto=webp&crop=1919,1080,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3501453001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501453001",
-      "publishedDateTime": "2020-09-23T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

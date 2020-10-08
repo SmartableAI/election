@@ -80,6 +80,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'A bit of a red flag': Trump receives steroid treatment for Covid-19"
+    excerpt: "The White House physician said on Sunday that President Donald Trump is now taking another drug for Covid-19, adding to his growing list of treatments for his illness. Dr. Sean Conley said the president was given a steroid called dexamethasone following “two episodes of transient drops in his oxygen saturation,"
+    publishedDateTime: 2020-10-04T18:31:00Z
+    webUrl: "https://www.nbcnews.com/health/health-news/bit-red-flag-trump-receives-steroid-treatment-covid-19-n1242069"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242069"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242069"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_25/3390382/200616-dexamethasone-al-1354_8fa7f50045bd54e384cc04a4191c4926.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Hear what these Trump supporters say about Covid and the president"
+    excerpt: "Donald Trump's coronavirus case received a sympathetic response from his supporters rallying on Maryland's Choptank River."
+    publishedDateTime: 2020-10-05T10:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-briefly-leaves-hospital-drive-supporters-n1242088/ncrd1242091"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3417432/201005-trump-cavalcade-mc-909_442fae005aa65d204c8c6cf3ad2cb39e.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "0Rfhz94vAIia7zeUhgblmF14Z8I5kvMJJRKLdlhyK0g8irj6SGNnbVLPd6xNJqooZLZ1W90vJbwf8Hgpk59UrKCt3RVqbUd8MHU27s41AkL6v7tsH9nm88SNF868CocTJwrqFUqA6EU5hHhEUM1tq1okEWUNBLg69yw8xrwIhM/tIJuxsNByA4WEo6qMuI1RYOZptjWJkqTkfAfA8QCKdFBzaH6Y+b4qlWPpg75ul/2LnTVDyybiJZLuTu/KZbPJ/baT71j25vQkiu85P/NN3NhZiEBnYUgNBTIjvLxdMaoLlcT+3+GSRpcyVdU1v1sGfq4dUkjfN+z4ccmdGfLs7HobUTKP9hR0lm4sV/3Nvwo=;hVYFbbsKno+CM1X+FzalDg=="
 ---

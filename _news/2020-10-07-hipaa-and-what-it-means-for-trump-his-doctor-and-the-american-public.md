@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
 type: article
 quality: 175
-heat: 295
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,82 +31,109 @@ images:
     isCached: true
 
 related:
-  - title: "Trump called him 'my African American.' His life hasn't been the same since"
-    excerpt: "If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. If Gregory Cheadle had not cracked a joke, his life would be a lot less complicated today. Hear how his life was transformed after Trump called him \"My African-American.\"\n    \n"
-    publishedDateTime: 2020-09-13T13:00:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/26YZY7DcoPc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html"
+  - title: "Former CIA Director Hayden backs Biden, warns reelecting Trump would be 'very bad' for America"
+    excerpt: "Former CIA and NSA Director Michael Hayden on Wednesday warned that reelecting President Donald Trump would be \"very bad for America\" while endorsing Democratic nominee Joe Biden for president.\n    \n"
+    publishedDateTime: 2020-10-07T15:25:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rOzNwIzIq1o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190628103419-general-michael-hayden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "CNN Poll: Biden expands lead over Trump after contentious debate and President's Covid diagnosis"
+    excerpt: "Joe Biden's advantage over President Donald Trump has expanded and the former vice president now holds his widest lead of the cycle with less than a month remaining before Election Day, according to a new nationwide CNN Poll conducted by SSRS.\n    \n"
+    publishedDateTime: 2020-10-06T11:03:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47yPBT0djP0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/cnn-poll-biden-trump-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/cnn-poll-biden-trump-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Mike Pence accuses Joe Biden of plagiarizing Trump’s Covid-19 response plan"
+    excerpt: "Vice President Mike Pence accused Joe Biden of plagiarizing President Trump’s coronavirus response plan. Pence said Biden’s plan, “Looks a little bit like plagiarism..which is something Joe Biden knows a little bit about."
+    publishedDateTime: 2020-10-08T01:33:00Z
+    webUrl: "https://www.nbcnews.com/video/mike-pence-accuses-joe-biden-of-plagiarizing-trump-s-covid-19-response-plan-93397573544"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93397573544"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93397573544"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200909135548-01-gregory-cheadle-june-2016-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-mike-pence-1920x1080-ac-915p.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Fact check: Trump falsely tweets that Covid-19 is less lethal than the flu"
-    excerpt: "President Donald Trump has consistently downplayed the threat of the coronavirus in public, and it seems testing positive for the virus himself has not changed his tune.\n    \n"
-    publishedDateTime: 2020-10-06T16:30:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
+  - title: "Former CIA director accuses intel chief of selectively declassifying documents to help Trump"
+    excerpt: "Former CIA director John Brennan on Tuesday accused current intelligence chief John Ratcliffe of selectively declassifying documents ahead of the November election that benefit President Donald Trump, telling CNN that the decision to release materials gathered by the agency on Russian allegations that"
+    publishedDateTime: 2020-10-06T22:11:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LLrBkGkF1tY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/brennan-ratcliffe-declassifying-intelligence-clinton-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/brennan-ratcliffe-declassifying-intelligence-clinton-russia/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181024191016-01-john-brennan-screengrab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Federal appeals court rules Trump can't block New York subpoena for his tax returns"
-    excerpt: "The Manhattan district attorney can obtain President Donald Trump's tax returns, a federal appeals court ruled on Wednesday, dealing the President another setback in his effort to shield his tax returns from investigators but the case is likely to head to the Supreme Court.\n    \n"
-    publishedDateTime: 2020-10-07T15:46:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e-SqvyGrIxw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/trump-tax-returns-subpoena-ruling/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/trump-tax-returns-subpoena-ruling/index.html"
+  - title: "Taylor Swift endorses Joe Biden for President"
+    excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."
+    publishedDateTime: 2020-10-07T22:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/taylor-swift-endorses-joe-biden-president-n1242483"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242483"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242483"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/2986286/190827-taylor-swift-cs-744a_8b6db7ef8be8acf184cc82da0e8f9178.jpg"
+        width: 2418
+        height: 1538
         isCached: true
-  - title: "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but unswayed by debate"
-    excerpt: "After watching the first presidential debate Tuesday night, undecided voters from battleground states across the country still had plenty they wanted to know about coronavirus, racial injustice and what each candidate would do to unite the country."
-    publishedDateTime: 2020-09-30T07:28:00Z
-    webUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545"
+  - title: "Biden: If Trump still has Covid, call off the debate"
+    excerpt: "The Democratic nominee said he still looked forward to facing off against the president in Miami next week, but “I don’t know what his status is.”"
+    publishedDateTime: 2020-10-07T00:33:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/joe-biden-trump-debate-coronavirus-426944"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 110
+    quality: 130
     images:
-      - url: "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg"
+      - url: "https://static.politico.com/38/ec/f9edce0343e8af6cddaa61be95f0/201006-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but are unswayed by debate"
-    excerpt: "You just saw 90 minutes. How can you still be undecided?” veteran GOP pollster Frank Luntz told a virtual focus group."
-    publishedDateTime: 2020-10-01T17:17:00Z
-    webUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545"
+  - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
+    excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
+    publishedDateTime: 2020-10-04T08:07:00Z
+    webUrl: "https://www.thedailybeast.com/snl-premiere-sees-jim-carreys-joe-biden-bask-in-trumps-covid-19-diagnosis"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 108
-    images:
-      - url: "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg"
-        width: 1160
-        height: 773
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 59
   - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
     excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
     publishedDateTime: 2020-10-04T09:02:00Z

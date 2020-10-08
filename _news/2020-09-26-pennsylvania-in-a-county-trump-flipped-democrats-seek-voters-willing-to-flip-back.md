@@ -48,35 +48,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration announces new restrictions on employment-based visa program"
-    excerpt: "The Trump administration is tightening up an employment-based visa program that allows highly skilled foreign workers to come to the United States, arguing the changes are necessary following shocks to the labor market caused by the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2020-10-06T20:43:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d_uKgnpz7QM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-visa-restrictions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-visa-restrictions/index.html"
+  - title: "Secretly recorded tapes show Melania Trump's frustration at criticism for family separation policy and her bashing of Christmas decorations"
+    excerpt: "First Lady Melania Trump was secretly recorded in the summer of 2018 expressing her frustration at being criticized for her husband's policy of separating families who illegally crossed the southern border while at the same time needing to perform traditional first lady duties, such as preparing for"
+    publishedDateTime: 2020-10-02T03:09:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPz8Dz5NMls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 141
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006160815-dept-of-labor-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Vulnerable Republican senators split over Democratic effort to protect pre-existing conditions from Trump administration lawsuit"
-    excerpt: "Vulnerable Republican senators split over a bill to protect those with pre-existing conditions from a Trump administration lawsuit before the Supreme Court next month, underscoring the political potency of the issue as the country begins voting.\n    \n"
-    publishedDateTime: 2020-10-01T19:24:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KYJ29H6k4fk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/health-care-vote-senate-republicans/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 146
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128102733-01-joni-ernst-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

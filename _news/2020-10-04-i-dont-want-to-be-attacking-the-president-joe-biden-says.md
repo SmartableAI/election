@@ -30,277 +30,339 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign adviser claims Biden's mask is a 'prop' as President hospitalized with Covid-19"
-    excerpt: "A senior adviser to President Donald Trump's reelection campaign claimed that Democratic presidential nominee Joe Biden uses face masks as a \"prop,\" two days after the President was hospitalized after contracting the coronavirus.\n    \n"
-    publishedDateTime: 2020-10-04T14:34:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5c5tcOMzxGw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/joe-biden-mask-coronavirus-jason-miller-symone-sanders-cnntv/index.html"
+  - title: "Joe Biden and Kamala Harris don't want to talk about changes to the Supreme Court"
+    excerpt: "Joe Biden and Kamala Harris made it clear on Tuesday night that they don't want to talk about changes to the Supreme Court, including expanding the current nine-justice bench.\n    \n"
+    publishedDateTime: 2020-09-30T17:06:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k_iS84GNH3Q/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/joe-biden-court-packing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/joe-biden-court-packing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 178
+    quality: 195
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002150006-01-biden-1002-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200813005613-joe-biden-kamala-harris-0812-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Former CIA Director Hayden backs Biden, warns reelecting Trump would be 'very bad' for America"
-    excerpt: "Former CIA and NSA Director Michael Hayden on Wednesday warned that reelecting President Donald Trump would be \"very bad for America\" while endorsing Democratic nominee Joe Biden for president.\n    \n"
-    publishedDateTime: 2020-10-07T15:25:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rOzNwIzIq1o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
+  - title: "Progressive activists are wary over criminal justice under a Biden-Harris administration"
+    excerpt: "They spent the summer on the frontlines of a historic protest movement against police violence. But many young criminal justice activists leading the charge for police reform won't be enthusiastically casting their ballots for the Democratic presidential ticket in November.\n    \n"
+    publishedDateTime: 2020-09-26T13:15:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/71IvFcd301g/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-justice-activists/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/biden-harris-criminal-justice-activists/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 178
+    quality: 191
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190628103419-general-michael-hayden-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200812180303-13-biden-harris-event-0812-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's Supreme Court pick on Capitol Hill for meeting with GOP senators"
-    excerpt: "President Donald Trump's nominee for the Supreme Court, Judge Amy Coney Barrett, will meet Republican senators throughout Tuesday on Capitol Hill, as the party finalizes plans for a quick confirmation process ahead of the November presidential election.\n    \n"
-    publishedDateTime: 2020-09-29T10:05:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzqe4VLh7as/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html"
+  - title: "10 false or misleading claims Biden and Trump make about each other"
+    excerpt: "President Donald Trump and his Democratic opponent Joe Biden have spent the past few months attacking each other on several fronts. While Trump has leveled numerous baseless accusations against Biden, often exaggerating for effect, Biden has also made misleading and false claims about Trump, at times"
+    publishedDateTime: 2020-09-29T21:56:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZJrhByHCxtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/biden-trump-attacks-debate-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/biden-trump-attacks-debate-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926175044-barrett-for-opinion-roundup-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929102828-primera-debate-biden-trump-hoy-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Former Trump campaign manager Brad Parscale steps down from role as senior adviser"
-    excerpt: "Brad Parscale stepped down from his role as a senior adviser to President Donald Trump's campaign on Wednesday, two sources close to the campaign confirmed to CNN.\n    \n"
-    publishedDateTime: 2020-10-01T01:43:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
+  - title: "6 things to look for in the first Biden-Trump presidential debate"
+    excerpt: "Donald Trump could face the most direct challenge of his presidency to his handling of the coronavirus pandemic, the economy and his personal conduct in his first debate against Democratic nominee Joe Biden on Tuesday.\n    \n"
+    publishedDateTime: 2020-09-29T11:17:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SGSZXPAWbtQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200430103432-01-brad-parscale-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928104939-01-presidential-debate-stage-0928-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "How Trump's Covid-19 treatment is far different from what most American patients get"
-    excerpt: "If you get sick with Covid-19, don't expect to get the same treatment as President Donald Trump.\n    \n"
-    publishedDateTime: 2020-10-05T21:06:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ucHxPuXPqiU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/health/donald-trump-hospital-treatment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/health/donald-trump-hospital-treatment/index.html"
+  - title: "6 takeaways from the off-the-rails first debate between Biden and Trump"
+    excerpt: "President Donald Trump turned his first debate with Democratic rival Joe Biden into a chaotic disaster.\n    \n"
+    publishedDateTime: 2020-09-30T05:05:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X_Ls4sK7EfQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003122957-02-trump-doctors-presser-1003-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225349-dana-bash-jake-tapper-split-09292020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump took photos, had roundtable with donors at Bedminster fundraiser hours before announcing Covid diagnosis"
-    excerpt: "President Donald Trump's big-dollar fundraiser at his New Jersey golf club went on as planned Thursday night despite the President and staff knowing he had been exposed to coronavirus.\n    \n"
-    publishedDateTime: 2020-10-03T19:48:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ig9EkUahAYU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/bedminister-trump-fundraiser-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/bedminister-trump-fundraiser-coronavirus/index.html"
+  - title: "Fact-checking Biden and Trump at the first debate"
+    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will face off in the first 2020 presidential debate Tuesday night live from Cleveland.\n    \n"
+    publishedDateTime: 2020-09-30T01:43:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0QmIwOIDx7k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 155
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003134236-donald-trump-morristown-new-jersey-1001-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929202421-06-debate-cleveland-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Washington Post: Trump considered daughter Ivanka as 2016 vice presidential pick, according to book by former campaign aide"
-    excerpt: "President Donald Trump floated his daughter Ivanka Trump as a vice presidential running mate during the 2016 election, according to a report by The Washington Post on Monday.\n    \n"
-    publishedDateTime: 2020-09-28T12:42:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gg2gCjstCxk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-vice-president-running-mate/index.html"
+  - title: "Hits and misses from the first Trump-Biden debate"
+    excerpt: "The first general election debate between President Donald Trump and former Vice President Joe Biden is (thankfully) over.\n    \n"
+    publishedDateTime: 2020-09-30T04:29:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7-4bTE44c4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 149
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181105192613-trump-ivanka-rally-cleveland-ohio-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225858-trump-biden-debate-faces-split-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Live updates: Trump receives Covid-19 treatment at Walter Reed"
-    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center as what was described as a precautionary measure on Friday, the same day he announced he and wife Melania had tested positive for Covid-19."
-    publishedDateTime: 2020-10-03T07:30:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-10-03-trump-covid-n1241952"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+  - title: "Trump is trying to divide the left. He's actually uniting it behind Biden."
+    excerpt: "When Joe Biden said on Tuesday night that he did not support the Green New Deal, President Donald Trump lit up.\n    \n"
+    publishedDateTime: 2020-10-01T21:41:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_5DM4lcNDR8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212326-18-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Biden's attempts to distance himself from the Green New Deal"
+    excerpt: "During Tuesday night's debate, Biden was asked by moderator Chris Wallace if he supported the Green New Deal, a wide-ranging joint, nonbinding resolution to combat climate change introduced by Rep. Alexandria Ocasio-Cortez and Sen. Ed Markey.\n    \n"
+    publishedDateTime: 2020-09-30T22:43:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KGIrT6wctoM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001519-46-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "President Trump and Joe Biden prepare for first debate"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden face off in the first presidential debate in Ohio this Tuesday. National polls report that Biden is leading when it comes to his proposal for how to handle the pandemic,"
+    publishedDateTime: 2020-09-27T23:02:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/president-trump-and-joe-biden-prepare-for-first-debate-92672069864"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92672069864"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92672069864"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 160
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Senior adviser: Biden to be tested again Sunday"
-    excerpt: "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly."
-    publishedDateTime: 2020-10-04T16:46:00Z
-    webUrl: "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump spends first night at Walter Reed for Covid-19 treatment"
-    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
-    publishedDateTime: 2020-10-03T17:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/blog/2020-10-02-trump-covid-n1241780"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1241780"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1241780"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416998/201002-trump-coronavirus-live-blog-v1-cs_904f7b984ef5c0d42181c87feca0c72f.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Biden again tests negative for coronavirus"
-    excerpt: "Joe Biden on Sunday tested negative for Covid-19, the third time since Friday, his campaign said. The Democratic presidential nominee had also tested negative twice on Friday. He had shared a stage with President Donald Trump during the presidential debate on Tuesday in Cleveland,"
-    publishedDateTime: 2020-10-05T01:18:00Z
-    webUrl: "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/af/b6/f1d573e448078b263ca5a7a960af/webp.net-resizeimage.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump lets the tweets fly from inside Walter Reed hospital"
-    excerpt: "The president hasn't been this active on the social media platform in days as he's undergone treatment for Covid-19."
-    publishedDateTime: 2020-10-05T11:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-lets-tweets-fly-inside-walter-reed-hospital-n1242094"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242094"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242094"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417453/201005-trump-health-mc-1204_06e8020cbda3d2e9487750ac644a07f1.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump official pressured CDC to change report on Covid and kids"
-    excerpt: "Amid Trump’s push to reopen schools, Michael Caputo’s science adviser asked that the health agency alter its warning about a study of pediatric coronavirus."
-    publishedDateTime: 2020-10-05T10:14:00Z
-    webUrl: "https://www.politico.com/news/2020/10/05/trump-cdc-coronavirus-report-change-425538"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/05/trump-cdc-coronavirus-report-change-425538"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/trump-cdc-coronavirus-report-change-425538"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/cc/37/77fa5dcd4ca08a5710b9f8491a79/gettyimages-1277364658-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Biden begins to pull away in Pennsylvania"
-    excerpt: "With 28 days till the election, Pennsylvania is looking further and further out of reach for President Donald Trump. Democratic presidential nominee Joe Biden is ahead by 12 percentage points among registered voters here,"
-    publishedDateTime: 2020-10-06T16:00:00Z
-    webUrl: "https://www.politico.com/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d1/ff/e233f90e4037b175cd8ff9ab1fff/ap20280155144908-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Joe Biden campaigns in Miami ahead of NBC News town hall"
-    excerpt: "A new NBC News/Wall Street Journal poll shows Joe Biden opening a 14-point lead on President Trump nationally, with the election less than a month away. Biden told reporters that he’d listen to scientists about the next debate after President Trump’s Covid-19 diagnosis."
-    publishedDateTime: 2020-10-06T00:02:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/joe-biden-campaigns-in-miami-ahead-of-nbc-news-town-hall-93193797761"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93193797761"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93193797761"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_gha_covid_and_the_campaign_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_avi_new_polls_debate_preview_200927_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "‘Don’t Be Afraid of Covid,’ Trump Says. But Many Are."
-    excerpt: "Readers discuss the president’s comments and removal of his mask upon his return from the hospital, and the “world-class care” he received compared with that available to others."
-    publishedDateTime: 2020-10-06T17:39:00Z
-    webUrl: "https://www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.amp.html"
+  - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
+    excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
+    publishedDateTime: 2020-09-28T23:50:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-harris-focus-campaign-on-importance-of-vacant-supreme-court-seat-92729413905"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92729413905"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92729413905"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/ott_now_harris_200928_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump and Biden Court Catholic Vote, in Very Different Ways"
+    excerpt: "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers."
+    publishedDateTime: 2020-09-25T09:09:00Z
+    webUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23campaign-catholics1/23campaign-catholics1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "What Polls Say About the 2020 Race as Biden and Trump Square Off"
+    excerpt: "A crucial fraction of the millions who watch the first presidential debate on Tuesday will have yet to make up their minds. Here’s what polling tells us about the issues that will come up."
+    publishedDateTime: 2020-09-29T10:53:00Z
+    webUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-polling1/29debate-polling1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Donald Trump and Joe Biden Debate Law and Order"
+    excerpt: "In the presidential debate Joseph R. Biden Jr. and Donald J. Trump debated the concept of law and order after recent unrest gripped the nation."
+    publishedDateTime: 2020-09-30T02:53:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007368637/trump-biden-law-and-order-debate-video-clip.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 140
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29vid-debate-trump-2/29vid-debate-trump-2-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Could Be Our Second Catholic President. It Doesn’t Matter."
+    excerpt: "Kennedy in 1960, Catholic America achieved a long-sought victory. But what did we win? By Elizabeth Bruenig Ms. Bruenig is an Opinion writer. As Election Day approached 60 years ago, Catholics across the country followed the news with a nervous thrill of anticipation."
+    publishedDateTime: 2020-09-24T04:27:00Z
+    webUrl: "https://www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/06/reader-center/05trump-virus-hp-promo/05trump-virus-hp-promo-facebookJumbo-v2.jpg"
+      - url: "https://static01.nyt.com/images/2020/09/23/opinion/23Bruenig/23Bruenig-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Joe Biden’s Stutter Is His Superpower"
+    excerpt: "Embracing a lifelong struggle to overcome a stutter, and the stumbles that have happened along the way, Uncle Joe is a hard man to dislike. In that same vein, Biden has finally gone where Hillary Clinton would not,"
+    publishedDateTime: 2020-09-25T09:06:00Z
+    webUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/25/opinion/25eganWeb/25eganWeb-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Taylor Swift endorses Joe Biden for President"
-    excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."
-    publishedDateTime: 2020-10-07T22:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/taylor-swift-endorses-joe-biden-president-n1242483"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242483"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242483"
+  - title: "Progressives pledge to keep pushing Biden to expand Supreme Court"
+    excerpt: "Biden, who ran a relatively centrist primary campaign, hasn't embraced that push, worried they may intensify the nation's partisan split."
+    publishedDateTime: 2020-09-25T02:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/progressives-pledge-keep-pushing-biden-expand-supreme-court-n1241039"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241039"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241039"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/2986286/190827-taylor-swift-cs-744a_8b6db7ef8be8acf184cc82da0e8f9178.jpg"
-        width: 2418
-        height: 1538
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414864/200924-joe-biden-face-mask-ac-1033p_d8fc8f4c9fd784e5bc8bd838100ec790.JPG"
+        width: 6048
+        height: 4024
+        isCached: true
+  - title: "How the new Supreme Court could stymie a Biden presidency"
+    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
+    publishedDateTime: 2020-09-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "How Joe Biden Is Preparing for the Biggest Debate of His Life"
+    excerpt: "The first debate between Joseph R. Biden Jr. and President Trump on Tuesday represents one of the president’s last, best chances to move a race that polls show him losing. There are risks for Mr. Biden,"
+    publishedDateTime: 2020-09-28T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28biden-debateprep1/28biden-debateprep1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Biden discusses how to combat racial injustice"
+    excerpt: "Joe Biden discusses his work with the civil rights movement and the change he has seen in the country while also addressing how he would hope to fight racial injustice if elected president."
+    publishedDateTime: 2020-10-06T00:59:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-discusses-how-to-combat-racial-injustice-93196869645"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93196869645"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196869645"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_hate_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How Geraldine Ferraro and Sarah Palin set the stage for Kamala Harris"
+    excerpt: "Thomas Balcerski writes that in order to win the VP debate on Wednesday, Kamala Harris will likely need to triangulate herself between the toughness of Geraldine Ferraro in 1984 and the likability of Sarah Palin in 2008."
+    publishedDateTime: 2020-10-05T18:01:00Z
+    webUrl: "https://www.cnn.com/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/opinions/harris-ferarro-palin-vice-presidential-debate-balcerski/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005124223-ferraro-palin-harris-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "The Times Endorses Joe Biden, and Readers Applaud"
     excerpt: "I want to thank The Times for this thoughtful and accurate assessment of the candidate and the broader context of this race,” a reader writes."
@@ -318,81 +380,126 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Dr. Fauci contradicts Trump's false claim that Covid-19 is as deadly as flu"
-    excerpt: "\"It is not correct to say it's the same as flu,\" the government's top infectious disease experts told NBC News' Kate Snow."
-    publishedDateTime: 2020-10-06T23:27:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/dr-fauci-contradicts-trump-s-false-claim-covid-19-deadly-n1242340"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242340"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242340"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418022/201006-anthony-fauci-jm-1700_11670c45c1eef9372c7dc60f11a33626.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
-    excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
-    publishedDateTime: 2020-10-03T06:10:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241899"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241899"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417089/201002-donald-trump-cs-405p_f7ec29fb41e9828b420a325e8de84b79.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
-    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
-    publishedDateTime: 2020-10-03T15:30:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-02-trump-covid-n1241780"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241780"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241780"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 112
-  - title: "Trump's workplace watchdog assailed for lenient penalties on Covid safety violators"
-    excerpt: "These tiny fines are OSHA sending a message to meat factories across the country that they don't have to worry anymore. . . they can operate as they please no matter how many workers are sick, injured or killed."
-    publishedDateTime: 2020-10-06T19:30:00Z
-    webUrl: "https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 109
-    images:
-      - url: "https://static.politico.com/6e/a1/c2665139452193630801672e5fa3/apdol.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "2020 Election Live Updates: President Trump Is Hospitalized With Coronavirus"
-    excerpt: "Mr. Trump is currently at the Walter Reed National Military Medical Center in Bethesda, Md., where officials said he will be monitored for “a few days,” strictly as a precaution. Mr."
-    publishedDateTime: 2020-10-03T11:34:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/03/us/trump-vs-biden"
+  - title: "More Democrats Embrace Structural Change. They’re Ready to Press Joe Biden."
+    excerpt: "A party that is increasingly seeking to play by different rules is led by a figure who helped create the current ones. The outcome of the fight will help define the Democratic Party going forward."
+    publishedDateTime: 2020-09-28T18:20:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 107
-  - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
-    excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
-    publishedDateTime: 2020-10-04T08:07:00Z
-    webUrl: "https://www.thedailybeast.com/snl-premiere-sees-jim-carreys-joe-biden-bask-in-trumps-covid-19-diagnosis"
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28progressives-top/28progressives-top-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "The moment Trump seized on Biden's sons"
+    excerpt: "Trump's attack-dog style in the first debate crescendoed when the subject shifted to Hunter as Joe Biden talked about his late son Beau."
+    publishedDateTime: 2020-09-30T11:41:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-beau-biden-presidential-debate-423417"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 59
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c075efe0-333d-4821-9bf4-75d0ca29bbb2/07e3938c-d245-42d0-9726-dd3a2d90c373/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
+    excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
+    publishedDateTime: 2020-09-28T21:04:00Z
+    webUrl: "https://www.nbcnews.com/video/kamala-harris-expresses-concerns-over-amy-coney-barrett-overturning-affordable-care-act-92734533860"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92734533860"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92734533860"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_kamala_scotuf_mo_kamala_scotus_200928.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris is expected to address Judge Barrett’s nomination and the Supreme Court in North Carolina."
+    excerpt: "On a trip to North Carolina where she is expected to speak about Judge Amy Coney Barrett, Senator Kamala Harris will take a rare turn in the campaign spotlight today."
+    publishedDateTime: 2020-09-28T19:08:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/kamala-harris-is-expected-to-address-judge-barretts-nomination-and-the-supreme-court-in-north-carolina.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 118
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/27/us/27elections-harris/27elections-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Five Things Biden and His Allies Should Be Worried About"
+    excerpt: "Second, Latinos, who are key to the outcome in several crucial states — Arizona and Florida, for example — have shown less support for Biden than for past Democratic nominees. Many Hispanic voters seem resistant to any campaign that defines them broadly as “people of color."
+    publishedDateTime: 2020-09-23T09:04:00Z
+    webUrl: "https://www.nytimes.com/2020/09/23/opinion/joe-biden-donald-trump-2020.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/23/opinion/23edsall3/23edsall3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden nets progressive climate endorsement"
+    excerpt: "The endorsement from 350 Action is the latest sign the former veep's move to boost his climate plan's ambition is winning over skeptical progressives."
+    publishedDateTime: 2020-09-24T13:36:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/biden-nets-progressive-climate-endorsement-420941"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d3/11/b8f90a8e47a29f72b70265621224/ap20258672621852.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Tester warns Biden to pick up the pace on campaigning"
+    excerpt: "\"I think Joe just needs to get out and talk to people tell them his vision for the country and I think he’ll be fine,” the Montana Democrat said."
+    publishedDateTime: 2020-09-24T16:20:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/tester-warns-biden-on-campaigning-421070"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/db/83/77d79f104c17a94257cc9eec5483/ap20008853778718.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Kamala Harris says appointing Amy Coney Barrett to the Supreme Court would imperil health care and abortion rights."
+    excerpt: "Senator Kamala Harris warns of far-reaching consequences to American society if Judge Amy Coney Barrett is confirmed to the Supreme Court."
+    publishedDateTime: 2020-09-28T20:08:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-supreme-court.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/kamala-harris-supreme-court.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/kamala-harris-supreme-court.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 113
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/multimedia/28election-briefings-harris3/28election-briefings-harris3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "BX++00dhADDzAtqcc8oTLCL4KkEjxahdi1eLPNpsDQ7IA7RcWeVGOQQksI4PV4dcXJ43vPRT1WZ3BxB+ZHmsXqXz3NG5nZK9/McWgIrnS2i0RQ1/eOv9EUXSreszBZhVatGzA3/uhq9QAi6PAMSIw5hR7ChzBopW1Isv9NQez/4AnGqd2L9WVNGEB4HNG+pExD/lM/vVg4FM0lQjPD2M5AopL/sqB/96VVPQzLaIopnQPfu9py4m35h42MSwXd8NYzMJ+r3M9U1tOnv64WveM4PCYhISn7yKt/nfmWtuyoJS1l9ufCjmhFI6U0v0RzGU3eVT/C/zUPP+dgLk3D1h4shyVD7TIDQf/XFtLpaizKfYzfaSM6xm2DhPuMebbss77AZtjqFMK8yDrHx7F1ky1iLOssl9QIthW6sjNozpK3DoAN0fQdOuWYyFdjelfAdSUXchMKjatr6pA2G5S8RZaQ+LLopUUP+5BPayM0kvGU7Y2AYVmD7mnvrwOEbHh7oHuh62n8DxvtYb6bSan+80Sw==;HN3k/AQBgI1Xz4ONXILbWg=="
 ---

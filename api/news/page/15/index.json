@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-09-23-its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high.md",
+      "title": "It’s Not ‘The Economy, Stupid’: Voters Might Forgive Donald Trump for Covid-Year Numbers Even Though Swing-State Unemployment Rates Remain High",
+      "excerpt": "Economic turmoil this year is “not going to affect anything” on Election Day, said Brianna Mack, assistant professor of politics and government at Ohio Wesleyan University. “It’s not like pandemic politics anymore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/",
+      "originalUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a670e8d3947b81cddc7ba%2F0x0.jpg%3FcropX1%3D170%26cropX2%3D3239%26cropY1%3D511%26cropY2%3D2236",
+          "width": 1199,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/",
+      "publishedDateTime": "2020-09-22T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-va-cancels-race-cafe-event-that-allegedly-violated-trumps-executive-order.md",
       "title": "VA cancels 'race cafe' event that allegedly violated Trump's executive order",
       "excerpt": "The Department of Veterans Affairs told Fox News that it has cancelled an event on race and microaggressions after appearing to defend it as complying with the president's recent executive order on critical race theory.",
@@ -124,7 +175,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 211,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -728,6 +779,62 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.md",
+      "title": "Trump will go to Pittsburgh and Pence to New Hampshire as Harris visits Flint and Detroit.",
+      "excerpt": "Delivers remarks at a campaign rally in a hangar at Pittsburgh International Airport. Afternoon — Tours small businesses that have been affected by the coronavirus pandemic in Flint, Mich. 4:30 p.m. — Participates in “Shop Talk” round-table conversation with Black men in Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html",
+      "publishedDateTime": "2020-09-22T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-super-pac-american-bridge-posts-pence-oppo-book-online-for-free-ahead-of-debates.md",
       "title": "Super PAC American Bridge posts Pence oppo book online for free ahead of debates",
       "excerpt": "Super PAC American Bridge has posted a Vice President Mike Pence opposition book online for free ahead of the debates.",
@@ -877,63 +984,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-stoking-his-base-trump-warns-of-a-kamala-harris-presidency.md",
-      "title": "Stoking his base, Trump warns of a Kamala Harris presidency",
-      "excerpt": "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 340,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG",
-          "width": 2500,
-          "height": 1695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240492",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492",
-      "publishedDateTime": "2020-09-22T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice",
         "Donald Trump"
       ]
     },
@@ -1246,52 +1296,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-senate-should-be-able-to-move-swiftly-on-trump-pick-to-replace-rbg-carrie-severino.md",
-      "title": "Senate should be able to move 'swiftly' on Trump pick to replace RBG: Carrie Severino",
-      "excerpt": "The Senate should be able to move \"swiftly\" if either Judge Amy Coney Barrett or Judge Barbara Lagoa are nominated for the Supreme Court by President Trump, Judicial Crisis Network President Carrie Severino told \"Special Report\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pjpwcPuhtOw/trump-scotus-nomination-senate-rbg-carrie-severino",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pjpwcPuhtOw/trump-scotus-nomination-senate-rbg-carrie-severino",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 148,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scotus-nomination-senate-rbg-carrie-severino.amp",
-      "publishedDateTime": "2020-09-21T17:28:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

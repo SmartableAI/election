@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-fo
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
 type: article
 quality: 125
-heat: 445
+heat: 425
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106712128-16007764692020-09-21t201730z_1749449824_rc283j97mwkc_rtrmadp_0_usa-election-biden.jpeg?v=1600776508"
         width: 3500
         height: 2334
-        isCached: true
-  - title: "Joe Biden campaigns in Miami"
-    excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-05T20:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201005202222-joe-biden-campaigns-in-miami/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/05/story_07124914_1601930944.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Battle for the suburbs: can Joe Biden flip Texas? – video"
     excerpt: "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli"

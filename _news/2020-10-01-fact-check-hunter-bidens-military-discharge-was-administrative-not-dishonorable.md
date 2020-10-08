@@ -63,38 +63,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Here's who would pay more under Joe Biden's tax plan"
-    excerpt: "Joe Biden's tax plan increases taxes on those earning at least $400,000 per year. But the burden will fall primarily on the highest earners, those making more than $1 million a year, according to an analysis from the Tax Policy Center."
-    publishedDateTime: 2020-10-07T16:16:00Z
-    webUrl: "https://www.cnbc.com/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 125
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106732322-1602003544711-gettyimages-1278126590-cs026704_2020100245452297.jpeg?v=1602003584"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "Joe Biden’s campaign, summed up in one simple gesture"
-    excerpt: "Jill Biden reminding her husband of proper social distancing -- and his response -- says everything about his campaign."
-    publishedDateTime: 2020-10-06T22:47:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K2WXIHAHEII6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Fact check: Robert Byrd, eulogized by Joe Biden at funeral, was not KKK Grand Wizard"
     excerpt: "Social media users have been sharing content online that claims Democratic Presidential nominee Joe Biden eulogized Robert Byrd, asserting he was the grand wizard of the Ku Klux Klan (KKK). This claim is partly false."
     publishedDateTime: 2020-10-07T15:15:00Z

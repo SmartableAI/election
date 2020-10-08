@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden uses 'inshallah' in response to Trump during debate, lighting up Twitter"
+    excerpt: "During one of the more charged moments of the chaotic US presidential debate, former Vice President Joe Biden dropped a phrase from everyday Muslim and Arab vocabulary and lit up the internet.\n    \n"
+    publishedDateTime: 2020-09-30T15:07:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3a14Vzq83_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/biden-inshallah-trump-debate-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/biden-inshallah-trump-debate-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001519-46-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign seizes on Trump tax report to underscore 'Scranton vs. Park Ave' message"
     excerpt: "Joe Biden's presidential campaign reacted swiftly following a bombshell report from The New York Times that Donald Trump paid no federal income taxes in 10 out of 15 years beginning in 2000, turning around a digital video and putting out merchandise within hours of the report's release.\n    \n"
     publishedDateTime: 2020-09-28T15:22:38Z
@@ -272,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump takes his antidemocratic campaign to the people"
+    excerpt: "If you haven't yet read about how President Donald Trump bullied, badgered and interrupted his way through an excruciating 90-minute presidential debate Wednesday night, there's plenty of outrage to choose from.\n    \n"
+    publishedDateTime: 2020-10-01T04:20:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HyGFDzrRe5k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/what-matters-september-30/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/what-matters-september-30/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930134810-donald-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign begins in-person canvassing in swing states"
     excerpt: "Joe Biden's campaign is launching an in-person canvassing effort in swing states after months of avoiding face-to-face outreach to potential voters amid the coronavirus pandemic.\n    \n"
     publishedDateTime: 2020-10-01T19:03:14Z
@@ -320,22 +352,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact-checking Biden's attempts to distance himself from the Green New Deal"
-    excerpt: "During Tuesday night's debate, Biden was asked by moderator Chris Wallace if he supported the Green New Deal, a wide-ranging joint, nonbinding resolution to combat climate change introduced by Rep. Alexandria Ocasio-Cortez and Sen. Ed Markey.\n    \n"
-    publishedDateTime: 2020-09-30T22:43:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KGIrT6wctoM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001519-46-debate-cleveland-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Employees of Big Four tech companies show lopsided support for Biden campaign"
     excerpt: "Political contributions from employees at some of the nation's largest technology companies to Democrat presidential nominee Joe Biden's campaign soared last month -- offering a snapshot of the way in which big tech is increasingly supporting his bid to oust President Donald Trump.\n    \n"
     publishedDateTime: 2020-09-28T17:47:44Z
@@ -351,6 +367,54 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200927123339-01-joe-biden-speech-0927-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump tries to turn first presidential debate into a campaign rally by talking over Biden and steamrolling moderator"
+    excerpt: "President Donald Trump heads into Tuesday's first presidential debate trailing former Vice President Joe Biden in the polls and on defense about his handling of a pandemic that has killed more than 200,000 Americans and led some 30 million people to file unemployment claims.\n    \n"
+    publishedDateTime: 2020-09-30T01:47:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EVjQXsZ6TN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/us-election-first-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/us-election-first-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929214430-03-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump needs to do better with women. Even Republicans say his debate performance failed to do that"
+    excerpt: "President Donald Trump took four years of personal venom and outright lies and stuffed it all into 90 minutes of chaotic sparring with former Vice President Joe Biden on Tuesday night -- a performance that, for all its sound and fury, even his allies said afterward was unlikely to change the dynamic"
+    publishedDateTime: 2020-09-30T13:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dVzhLOB3E7I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/women-voters-trump-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/women-voters-trump-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929215946-30-debate-cleveland-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence heads to Iowa, as Biden and Trump catch their breath and host fund-raisers."
+    excerpt: "Participates in a round table with supporters in Bedminster, N.J. 3:45 p.m.: Delivers remarks at a fund-raising committee reception. Former Vice President Joseph R. Biden Jr. Afternoon: Hosts online fund-raiser."
+    publishedDateTime: 2020-10-01T12:38:00Z
+    webUrl: "https://www.nytimes.com/2020/10/01/us/elections/pence-heads-to-iowa-as-biden-and-trump-catch-their-breath-and-host-fund-raisers.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/elections/pence-heads-to-iowa-as-biden-and-trump-catch-their-breath-and-host-fund-raisers.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/elections/pence-heads-to-iowa-as-biden-and-trump-catch-their-breath-and-host-fund-raisers.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden accuses Donald Trump of silence on 'dictator' Lukashenko in Belarus"
     excerpt: "Democratic presidential nominee Joe Biden on Friday chided President Donald Trump for not speaking out about repression of democratic protests in Belarus, a country he said is being run by a \"dictator."
@@ -528,6 +592,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
+    excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
+    publishedDateTime: 2020-09-27T16:26:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/how-will-biden-do-debating-trump-we-asked-those-who-n1241168"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241168"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241168"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3414788/200924-joe-biden-debater-one-time-use-only-se-600p_e74800a949a83dbfd84f797d16e0f484.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden calls out Trump for suggesting 'injecting bleach' to treat coronavirus"
     excerpt: "While speaking about vaccine production, Joe Biden called out President Donald Trump for suggesting that \"injecting bleach\" could help treat the coronavirus, while the president claimed it was said \"sarcastically."
     publishedDateTime: 2020-09-30T01:54:00Z
@@ -560,6 +640,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Poll: Most voters didn’t enjoy Trump-Biden clash, say they should still keep debating"
+    excerpt: "Half of all voters who watched Tuesday's debate said Joe Biden outperformed Donald Trump in their first televised showdown, according to a POLITICO/Morning Consult poll, with an overwhelming majority of respondents blaming the president for what they described as a disruptive event and an overall unpleasant viewing experience."
+    publishedDateTime: 2020-10-01T15:05:00Z
+    webUrl: "https://www.politico.com/news/2020/10/01/poll-trump-biden-presidential-debate-424398"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/01/poll-trump-biden-presidential-debate-424398"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/01/poll-trump-biden-presidential-debate-424398"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 143
+    images:
+      - url: "https://static.politico.com/0c/22/97a4927b4a35a69dad9a73a57068/201001-presidential-debate-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "'Upsetting': Swing state voters appalled by Trump-Biden debate, but will it change minds?"
     excerpt: "\"I watched every minute and did not learn anything,\" said a Trump backer in Ohio, who urged the president to be calmer at the next face off."
     publishedDateTime: 2020-10-01T04:19:00Z
@@ -576,37 +672,21 @@ related:
         width: 2500
         height: 1683
         isCached: true
-  - title: "Joe Biden’s Stutter Is His Superpower"
-    excerpt: "Embracing a lifelong struggle to overcome a stutter, and the stumbles that have happened along the way, Uncle Joe is a hard man to dislike. In that same vein, Biden has finally gone where Hillary Clinton would not,"
-    publishedDateTime: 2020-09-25T09:06:00Z
-    webUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
+  - title: "Top Trump campaign official ridicules Joe Biden's mask-wearing after president, allies infected"
+    excerpt: "A top adviser to President Donald Trump's campaign on Sunday ridiculed 2020 Democratic presidential nominee Joe Biden's mask-wearing even as President Donald Trump remains hospitalized with Covid-19."
+    publishedDateTime: 2020-10-04T14:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/top-trump-campaign-official-ridicules-joe-biden-s-mask-wearing-n1242041"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242041"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242041"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: NBC News
+      domain: nbcnews.com
+    quality: 138
     images:
-      - url: "https://static01.nyt.com/images/2020/09/25/opinion/25eganWeb/25eganWeb-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "How the new Supreme Court could stymie a Biden presidency"
-    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
-    publishedDateTime: 2020-09-25T23:16:00Z
-    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417375/201004-jason-miller-nbc-mtp-jm-1120_51996a489e320063ba7030e9fc079abf.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "A High-Stakes Test for Joe Biden’s Love of Senate Tradition"
     excerpt: "He reveres custom and recognizes the courts’ essential role in shaping a policy agenda. Those dual instincts have perhaps never been in greater conflict as they are in this Supreme Court fight."
@@ -640,21 +720,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Joe Biden Is Preparing for the Biggest Debate of His Life"
-    excerpt: "The first debate between Joseph R. Biden Jr. and President Trump on Tuesday represents one of the president’s last, best chances to move a race that polls show him losing. There are risks for Mr. Biden,"
-    publishedDateTime: 2020-09-28T09:03:00Z
-    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+  - title: "Trump tax records show duplicity. That's devastating for his campaign."
+    excerpt: "The New York Times report comes at a time when Trump is already on the defensive about his trustworthiness. That's bad positioning for victory."
+    publishedDateTime: 2020-09-28T13:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-tax-records-show-duplicity-s-devastating-his-campaign-n1241228"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241228"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241228"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28biden-debateprep1/28biden-debateprep1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415440/200928-donald-trump-mn-0821_d1fac2e4c777a6994293a94f4c45c6d2.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden smashes fund-raising records during chaotic debate"
     excerpt: "Democratic presidential nominee Joe Biden gestures while speaking during the first presidential debate on Tuesday at Case Western University in Cleveland. | Julio Cortez/AP Photo Joe Biden's campaign hauled in nearly $10 million during the first presidential debate Tuesday night — smashing its own single-hour fundraising record,"
@@ -688,6 +768,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "‘This is the worst nightmare for the Trump campaign’"
+    excerpt: "A president who once seemed impervious to October surprises is suddenly confronting one big enough to alter the election outcome."
+    publishedDateTime: 2020-10-02T13:18:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/02/the-campaign-as-we-knew-it-is-over-trumps-covid-test-upends-the-race-425020"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/26/40/ef5ba0034829b61b1cc457a0793f/ap20274066443442.png"
+        width: 1158
+        height: 773
+        isCached: true
+  - title: "Live updates: Trump tests positive for Covid-19"
+    excerpt: "A White House official told NBC News that Trump is experiencing \"mild symptoms.\" Trump becomes the latest world leader to be diagnosed with the virus just weeks ahead of the election and in the midst of a busy campaign schedule for him and Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-02T21:23:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416982/201002-donald-trump-melania-trump-ew-956a_cb5d986f4bf0c016415535cb244a4ef3.jpg"
+        width: 2500
+        height: 1584
+        isCached: true
   - title: "Watch live: NBC News Town Hall with Joe Biden"
     excerpt: "NBC News’ Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday, October 5th in Miami, Fla. A socially-distanced audience of undecided voters will be asking Biden where he stands on the critical issues impacting their lives."
     publishedDateTime: 2020-10-02T19:59:00Z
@@ -704,22 +816,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "More Democrats Embrace Structural Change. They’re Ready to Press Joe Biden."
-    excerpt: "A party that is increasingly seeking to play by different rules is led by a figure who helped create the current ones. The outcome of the fight will help define the Democratic Party going forward."
-    publishedDateTime: 2020-09-28T18:20:00Z
-    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28progressives-top/28progressives-top-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "‘He’s sort of like Goebbels’: Biden compares Trump to Nazi propagandist"
     excerpt: "Democratic presidential nominee Joe Biden on Saturday compared Donald Trump to a German Nazi propagandist for the president's barrage of attacks against him on the campaign trail. When Biden was asked during an interview with MSNBC’s Stephanie Ruhle how he would combat Trump’s repeated claim that he was pushing a socialist agenda,"
     publishedDateTime: 2020-09-27T03:11:00Z
@@ -733,6 +829,36 @@ related:
       - url: "https://static.politico.com/5f/58/0c23b78b48ddb0a0af2899c0d720/20200914-biden-gty-773.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "As Trump demands pre-debate drug tests, Team Biden fires back"
+    excerpt: "What does it say about a president's level of pre-election panic that he's fixated on a weird theory about performance-enhancing drugs?"
+    publishedDateTime: 2020-09-28T15:30:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-demands-pre-debate-drug-tests-team-biden-fires-back-ncna1241238"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_36/3409401/200902-trump-biden-1x1-al-1042_047beebe896dd26e461f49dce52ee8e3.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Former Trump campaign manager Brad Parscale hospitalized after self-harm threats"
+    excerpt: "Police took Parscale to a local hospital under the Baker Act, Greenlaw said. The mental health law allows for involuntary an"
+    publishedDateTime: 2020-09-28T02:11:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/former-trump-campaign-manager-brad-parscale-hospitalized-after-self-harm-n1241223"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241223"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241223"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_29/3359351/200521-brad-parscale-al-1115_3d125fc3d20f06a06e4a43407badfe31.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Brad Parscale steps down from Trump campaign to get 'help' after police incident"
     excerpt: "Parscale, 44, was taken to a hospital Sunday after his wife reported that he was armed and threatening to harm himself, authorities said."
@@ -789,6 +915,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/50/a5/685d9d2948b38e60ae7b091123b9/200929-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump campaign manager warns staffers about self-quarantining"
+    excerpt: "Bill Stepien's memo came less than 12 hours after Trump tweeted that he and the first lady had tested positive for Covid."
+    publishedDateTime: 2020-10-02T15:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/02/bill-stepien-trump-campaign-staffers-quarantine-425165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/72/da/de341a0e4af69106622c535a7480/201002-bill-stepien-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

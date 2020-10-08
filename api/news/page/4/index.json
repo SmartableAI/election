@@ -2,118 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-06-biden-says-small-groups-ppe-necessary-for-schools-to-be-open-during-pandemic.md",
-      "title": "Biden says small groups, PPE, necessary for schools to be open during pandemic",
-      "excerpt": "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/biden-says-small-groups-ppe-necessary-for-schools-to-be-open-during-pandemic-93197381884",
-      "originalUrl": "https://www.nbcnews.com/video/biden-says-small-groups-ppe-necessary-for-schools-to-be-open-during-pandemic-93197381884",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_schools_201005_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93197381884",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93197381884",
-      "publishedDateTime": "2020-10-05T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-biden-describes-the-first-debate-as-a-clownish-undertaking.md",
-      "title": "Biden describes the first debate as a 'clownish undertaking'",
-      "excerpt": "Joe Biden was asked about his first debate with President Trump, and if he could stand up to his opponent in the future. He said the debate frustrated him but should have described it as a \"clownish undertaking\" instead of calling the president a clown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
-      "originalUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_clown_201005_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "publishedDateTime": "2020-10-05T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-06-wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence.md",
       "title": "WSJ Opinion: The Trump Ticket Needs a Dose of Mike Pence",
       "excerpt": "Main Street: Wednesday night's prime-time face-off between Mike Pence and Kamala Harris could be the most consequential vice-presidential debate ever. Images: A",
@@ -171,23 +59,23 @@
       ]
     },
     {
-      "path": "_news/2020-10-05-ill-go-in-a-moon-suit-gop-senator-who-tested-positive-for-covid-vows-to-vote-for-trumps-scotus-pick.md",
-      "title": "'I'll go in a moon suit': GOP senator who tested positive for Covid vows to vote for Trump's SCOTUS pick",
-      "excerpt": "Sen. Ron Johnson, a Wisconsin Republican who recently tested positive for Covid-19, said on Monday that he will do everything he can to vote for President Donald Trump's Supreme Court nominee, Amy Coney Barrett, even if he has to wear a \"moon suit\" to do it.\n    \n",
+      "path": "_news/2020-10-05-trump-off-the-air-in-ohio-and-iowa-as-polls-show-tight-races-in-both-states.md",
+      "title": "Trump off the air in Ohio and Iowa as polls show tight races in both states",
+      "excerpt": "President Donald Trump's campaign canceled its planned television advertising in Iowa and Ohio this week, focusing its spending on states where Trump is behind even as polls show he is neck-and-neck with Democratic challenger Joe Biden in the two Midwestern states.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fa8p0-rwGdo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fa8p0-rwGdo/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYASQQmg6eI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYASQQmg6eI/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 178,
+      "heat": 193,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003135536-01b-sen-ron-johnson-file-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002092919-03-trump-1001-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -196,9 +84,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-supreme-court/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-supreme-court/index.html",
-      "publishedDateTime": "2020-10-05T15:22:48-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/index.html",
+      "publishedDateTime": "2020-10-05T16:27:36-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -285,7 +173,7 @@
       "originalUrl": "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami",
       "featuredContent": null,
       "highlight": null,
-      "heat": 720,
+      "heat": 740,
       "tags": null,
       "images": [
         {
@@ -1345,6 +1233,117 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-senior-adviser-biden-to-be-tested-again-sunday.md",
+      "title": "Senior adviser: Biden to be tested again Sunday",
+      "excerpt": "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
+      "originalUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
+      "publishedDateTime": "2020-10-04T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-dr-sanjay-gupta-trump-shouldnt-be-discharged-tomorrow.md",
+      "title": "Dr. Sanjay Gupta: Trump shouldn't be discharged tomorrow",
+      "excerpt": "CNN's Dr. Sanjay Gupta reacts to a presser given by President Trump's medical team in which one of the doctors said Trump might be discharged from Walter Reed medical center as early as tomorrow, despite the fact that the President has had at least two concerning drops in oxygen levels.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQQGDZdKZeM/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQQGDZdKZeM/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201004121844-gupta-10042020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
+      "publishedDateTime": "2020-10-04T09:41:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

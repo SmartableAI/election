@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-r
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
 type: article
 quality: 140
-heat: 4580
+heat: 4600
 published: true
 
 provider:
@@ -862,6 +862,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_8d5ab77409174e9c873674c8bf8467e9_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Who’s Hurt The Most By Trump Halting Second Stimulus Talks?"
+    excerpt: "Trump's tweeted on Tuesday his decision to end stimulus negotiations. Here's who is hurt the most by this decision."
+    publishedDateTime: 2020-10-08T11:39:00Z
+    webUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/"
+    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ef7aab5571027102156b2%2F0x0.jpg"
+        width: 1200
+        height: 784
         isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."

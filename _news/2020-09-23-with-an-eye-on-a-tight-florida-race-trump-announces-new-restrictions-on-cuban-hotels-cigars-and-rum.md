@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-cuba-announcement/index.html"
 type: article
 quality: 160
-heat: 220
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,52 +31,47 @@ images:
     isCached: true
 
 related:
-  - title: "Former Florida Supreme Court chief justice during 2000 recount warns Trump poses 'grave and real threat to democracy'"
-    excerpt: "The former chief justice of the Florida Supreme Court is warning that President Donald Trump poses a \"grave and real threat to our democracy\" because of his threat to not accept the outcome of the election.\n    \n"
-    publishedDateTime: 2020-09-28T17:45:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7oyO5eO_YhM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-justice-florida-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/charles-wells-chief-justice-florida-supreme-court/index.html"
+  - title: "Trump announces plan to deploy 150 million Covid rapid tests previously touted"
+    excerpt: "President Donald Trump formally announced a plan on Monday to disperse the 150 million rapid coronavirus tests first promoted by the White House in August.\n    \n"
+    publishedDateTime: 2020-09-28T21:16:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nZraVJpsqg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/donald-trump-tests-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 152
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928124713-charles-t-wells-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928140806-donald-trump-september-27-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump announces aid for Puerto Rico, infusing politics in an apparent play for Florida voters"
-    excerpt: "Polling shows Trump and Biden are tied in Florida, where thousands of Puerto Ricans relocated after Hurricane Maria."
-    publishedDateTime: 2020-09-18T22:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto-rico-infusing-politics-apparent-play-florida-n1240491"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240491"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240491"
+  - title: "Trump took photos, had roundtable with donors at Bedminster fundraiser hours before announcing Covid diagnosis"
+    excerpt: "President Donald Trump's big-dollar fundraiser at his New Jersey golf club went on as planned Thursday night despite the President and staff knowing he had been exposed to coronavirus.\n    \n"
+    publishedDateTime: 2020-10-03T19:48:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ig9EkUahAYU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/bedminister-trump-fundraiser-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/bedminister-trump-fundraiser-coronavirus/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 124
+      name: CNN
+      domain: cnn.com
+    quality: 155
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_38/2180696/ss-171006-twip-22_7607aec2d647d9aa65488040a7aadb8f.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003134236-donald-trump-morristown-new-jersey-1001-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Newsom bans new gas cars — and begs Trump for a fight"
-    excerpt: "The Democratic governor announced he is directing the California Air Resources Board to establish regulations requiring that all new cars and passenger trucks sold in California in 2035 be zero-emission vehicles."
-    publishedDateTime: 2020-09-24T00:00:00Z
-    webUrl: "https://www.politico.com/states/california/story/2020/09/23/newsom-bans-new-gas-cars-and-begs-trump-for-a-fight-1317947"
+  - title: "‘That’s on You!’: Whoopi Goldberg Blasts Trump Fans for Spreading COVID"
+    excerpt: "If Trump supporters “weren’t smart enough to put a mask on” at one of the president’s rallies, “The View” moderator said they only have themselves to blame."
+    publishedDateTime: 2020-09-23T16:51:00Z
+    webUrl: "https://www.thedailybeast.com/the-views-whoopi-goldberg-blasts-trump-fans-for-spreading-covid-19-at-rallies"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/f00273f6-6c5b-40ad-ba25-7102aa8168a0/216cfcff-5c66-4716-aa6b-a7757b14653a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "bu1SA1sHWAjhX475stp7yA/IOFIcKW9x0ZRCUTtUTxT/aEk4prHNhO7gBPdNsDeeabFvknrsp6PJwSblwYjaRltvnh6ha2wIRmcBDcjxsqvOp5fgXXPw4bH0z8xhgeO6P6xe9IXvoUeuhcKgZ5v9PROK46iF+eEfLBMVQEhFPyIVXYXY4lR3sBbBtTuPqyh1D4smQ76rb2Cpo1831nyQ2GoBk/ZelsFjSgkIN4CEf14795KduFDF9bdwlc/gT7HTFFvw71Ft4Kk2ifpazrBw3NQlcbqodGBNDFTgmFxSaaq49/PQaLqu3E6Jge5fhUkJ4U2RuRfL/6TOxMlBjSAh3AMl+6WxfF0da8TZ4rXdTYI=;Uv71gyJxHXjn428LKPurVw=="
 ---

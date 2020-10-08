@@ -32,148 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "There will be more space between Pence and Harris at next week's debate"
-    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will be separated by 12 feet at their debate on Wednesday, a source familiar with the plans tells CNN.\n    \n"
-    publishedDateTime: 2020-10-03T00:53:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ut2ExXTcjVE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 210
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930151306-01-commission-on-presidential-debates-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pence and Harris prepare for a debate clash on coronavirus"
-    excerpt: "Four years ago, then-Indiana Gov. Mike Pence let out an exasperated \"there you go again\" on the debate stage after his opponent, Virginia Sen. Tim Kaine, said \"America, you need a 'You're hired' president, not a 'You're fired' president.\"\n    \n"
-    publishedDateTime: 2020-10-07T17:00:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-gkR_GR4J2M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/pence-harris-debate-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/pence-harris-debate-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 210
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Kamala Harris and Mike Pence debate"
-    excerpt: "Vice President Mike Pence and Sen. Kamala Harris are participating Wednesday in the lone vice presidential debate of the 2020 election.\n    \n"
-    publishedDateTime: 2020-10-08T03:28:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JGtyCSfg5-o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 210
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Harris on Pence interruption: Mr. Vice President, I am speaking"
-    excerpt: "Sen. Kamala Harris hit back at Vice President Mike Pence after interrupting one of her answers about coronavirus during the only vice presidential debate of the 2020 election.\n    \n"
-    publishedDateTime: 2020-10-08T02:11:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nb498u0H4JU/kamala-harris-mike-pence-i-am-speaking-moment-dbx-2020-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/07/kamala-harris-mike-pence-i-am-speaking-moment-dbx-2020-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/07/kamala-harris-mike-pence-i-am-speaking-moment-dbx-2020-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 210
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007220124-harris-pence-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Kamala Harris rips Trump administration's response to coronavirus pandemic in only debate with Mike Pence"
-    excerpt: "Vice President Mike Pence and California Sen. Kamala Harris will square off Wednesday in their only debate as the Trump administration reels from an outbreak of Covid-19 at the White House and erratic decisions by the commander in chief.\n    \n"
-    publishedDateTime: 2020-10-08T01:59:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ax9Yj0-2Jw8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 208
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007204624-20-vp-debate-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Kamala Harris and Mike Pence to be separated by plexiglass at Wednesday's debate"
-    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will be separated by plexiglass at Wednesday night's debate, a source familiar with the preparations tells CNN, as the White House continues to be gripped by a coronavirus outbreak.\n    \n"
-    publishedDateTime: 2020-10-05T21:12:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ym6qI8Tn_YM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/vp-debate-plexiglass/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/vp-debate-plexiglass/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 205
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930151257-02-commission-on-presidential-debates-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Harris' goal in vice presidential debate: Focus on Trump, not Pence"
-    excerpt: "Kamala Harris and Mike Pence will be the two candidates on the debate stage in Utah on Wednesday night, but the California senator's goal is to make the contest all about the man who isn't there: President Donald Trump.\n    \n"
-    publishedDateTime: 2020-10-06T17:56:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Pq92NE2HCg/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 205
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827160803-kamala-harris-speech-0827-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "5 takeaways from the vice presidential debate between Kamala Harris and Mike Pence"
-    excerpt: "It was last week's debate, on decaf.\n    \n"
-    publishedDateTime: 2020-10-08T04:29:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v0uyySOTykA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/harris-pence-vp-debate-takeaways/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/harris-pence-vp-debate-takeaways/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 204
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007215231-02-split-vp-debate-harris-pence-facing-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Pence and Harris meet for vice presidential debate as administration is gripped by Covid-19"
-    excerpt: "Vice President Mike Pence and California Sen. Kamala Harris will square off Wednesday in their only debate as the Trump administration reels from an outbreak of Covid-19 at the White House and erratic decisions by the commander in chief.\n    \n"
-    publishedDateTime: 2020-10-07T23:39:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ax9Yj0-2Jw8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 200
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Joe Biden and Kamala Harris don't want to talk about changes to the Supreme Court"
     excerpt: "Joe Biden and Kamala Harris made it clear on Tuesday night that they don't want to talk about changes to the Supreme Court, including expanding the current nine-justice bench.\n    \n"
     publishedDateTime: 2020-09-30T17:06:00Z
@@ -206,165 +64,133 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden campaign highlights historic nature of Harris nomination in new ads ahead of VP debate"
-    excerpt: "Joe Biden's presidential campaign on Tuesday released a set of nationwide ads featuring only California Sen. Kamala Harris, the Democratic ticket's vice-presidential candidate, ahead of her face off with Vice President Mike Pence at the debate in Salt Lake City.\n    \n"
-    publishedDateTime: 2020-10-06T13:13:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_QkYXAYxDI8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/kamala-harris-solo-ad-rollout/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/kamala-harris-solo-ad-rollout/index.html"
+  - title: "10 false or misleading claims Biden and Trump make about each other"
+    excerpt: "President Donald Trump and his Democratic opponent Joe Biden have spent the past few months attacking each other on several fronts. While Trump has leveled numerous baseless accusations against Biden, often exaggerating for effect, Biden has also made misleading and false claims about Trump, at times"
+    publishedDateTime: 2020-09-29T21:56:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZJrhByHCxtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/biden-trump-attacks-debate-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/biden-trump-attacks-debate-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 189
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929102828-primera-debate-biden-trump-hoy-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence preps for debate as chances to shake up the race dwindle"
-    excerpt: "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n"
-    publishedDateTime: 2020-10-07T01:33:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
+  - title: "6 things to look for in the first Biden-Trump presidential debate"
+    excerpt: "Donald Trump could face the most direct challenge of his presidency to his handling of the coronavirus pandemic, the economy and his personal conduct in his first debate against Democratic nominee Joe Biden on Tuesday.\n    \n"
+    publishedDateTime: 2020-09-29T11:17:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SGSZXPAWbtQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/presidential-debate-tonight/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 185
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928104939-01-presidential-debate-stage-0928-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence accuses Biden, Harris of wanting to pack Supreme Court"
-    excerpt: "Mike Pence accuses Joe Biden and Kamala Harris of wanting to \"pack the court.\" Harris did not say whether she and Biden support adding more seats to the Supreme Court or not."
-    publishedDateTime: 2020-10-08T02:48:00Z
-    webUrl: "https://www.nbcnews.com/video/pence-accuses-biden-harris-of-wanting-to-pack-supreme-court-93399621584"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93399621584"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93399621584"
+  - title: "6 takeaways from the off-the-rails first debate between Biden and Trump"
+    excerpt: "President Donald Trump turned his first debate with Democratic rival Joe Biden into a chaotic disaster.\n    \n"
+    publishedDateTime: 2020-09-30T05:05:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X_Ls4sK7EfQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/trump-biden-first-debate-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225349-dana-bash-jake-tapper-split-09292020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Biden and Trump at the first debate"
+    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will face off in the first 2020 presidential debate Tuesday night live from Cleveland.\n    \n"
+    publishedDateTime: 2020-09-30T01:43:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0QmIwOIDx7k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/fact-check-biden-trump-first-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929202421-06-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Hits and misses from the first Trump-Biden debate"
+    excerpt: "The first general election debate between President Donald Trump and former Vice President Joe Biden is (thankfully) over.\n    \n"
+    publishedDateTime: 2020-09-30T04:29:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y7-4bTE44c4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/first-presidential-debate-hits-and-misses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929225858-trump-biden-debate-faces-split-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump is trying to divide the left. He's actually uniting it behind Biden."
+    excerpt: "When Joe Biden said on Tuesday night that he did not support the Green New Deal, President Donald Trump lit up.\n    \n"
+    publishedDateTime: 2020-10-01T21:41:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_5DM4lcNDR8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212326-18-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact-checking Biden's attempts to distance himself from the Green New Deal"
+    excerpt: "During Tuesday night's debate, Biden was asked by moderator Chris Wallace if he supported the Green New Deal, a wide-ranging joint, nonbinding resolution to combat climate change introduced by Rep. Alexandria Ocasio-Cortez and Sen. Ed Markey.\n    \n"
+    publishedDateTime: 2020-09-30T22:43:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KGIrT6wctoM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/joe-biden-green-new-deal-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001519-46-debate-cleveland-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "President Trump and Joe Biden prepare for first debate"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden face off in the first presidential debate in Ohio this Tuesday. National polls report that Biden is leading when it comes to his proposal for how to handle the pandemic,"
+    publishedDateTime: 2020-09-27T23:02:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/president-trump-and-joe-biden-prepare-for-first-debate-92672069864"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92672069864"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92672069864"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 185
+    quality: 160
     images:
-      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-mike-pence-debate-1920x1080-ac-1032p.nbcnews-fp-1200-630.jpg"
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/nn_avi_new_polls_debate_preview_200927_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Pence, Harris spar over federal Covid-19 response as Trump's illness looms"
-    excerpt: "The vice presidential candidates sat 12 feet apart and were separated by sheets of plexiglass in a debate that focused on the pandemic, the economy and the Supreme Court."
-    publishedDateTime: 2020-10-08T06:09:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-harris-meet-vice-presidential-debate-covid-19-cases-surge-n1242451"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242451"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242451"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 183
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3418182/201007-vp-debate-main-bar-main-cover-cs_1d92a419cac8bd365ab516f44cc13e0e.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Kamala Harris' past health care positions could come under the spotlight in debate"
-    excerpt: "California Sen. Kamala Harris could be forced into the uncomfortable position on Wednesday night of explaining her past support of \"Medicare for All,\" a proposal the Trump campaign has described as a socialized takeover of American health care -- and Harris' running mate, Democratic nominee Joe Biden,"
-    publishedDateTime: 2020-10-07T14:50:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1eM0wBoOyFU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/kamala-harris-health-care/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/kamala-harris-health-care/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 179
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Post-debate CNN poll: Harris seen as winner in a contest that matched expectations"
-    excerpt: "More Americans said Sen. Kamala Harris did the best job in the vice presidential debate Wednesday night, according to a CNN Instant Poll of registered voters who watched.\n    \n"
-    publishedDateTime: 2020-10-08T05:27:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7zUMRLZ-a4o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/mike-pence-kamala-harris-vice-presidential-debate-poll/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/mike-pence-kamala-harris-vice-presidential-debate-poll/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 179
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007201720-08-vp-debate-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Live updates: Pence, Harris to face off after Trump's Covid diagnosis"
-    excerpt: "Wednesday's vice presidential debate comes less than a week after Trump announced he had tested positive for Covid-19."
-    publishedDateTime: 2020-10-07T13:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/vice-presidential-debate-n1242346"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242346"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242346"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 175
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3417632/201005-vp-debate-live-blog-main-cover-cs_36a324da8209b59ae1ae41b6ae27debf.jpg"
-        width: 2500
-        height: 1405
-        isCached: true
-  - title: "Texas Supreme Court rules Harris County cannot mail out ballot applications to all registered voters"
-    excerpt: "The Texas Supreme Court ruled Wednesday that Harris County, one of the largest in the country, cannot mail out applications for absentee ballots to all of its 2.4 million registered voters.\n    \n"
-    publishedDateTime: 2020-10-07T17:46:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UPcosDECDVM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/texas-harris-county-ballot-applications/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/texas-harris-county-ballot-applications/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200903142822-i-voted-stickers-0407-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Harris worked to speak 'past Pence, at President Trump and to the American people'"
-    excerpt: "NBC's Hallie Jackson breaks down the Vice Presidential Debate between Sen. Kamala Harris and Vice President Mike Pence, and describes how Harris was speaking \"past Pence, at President Trump and to the American people."
-    publishedDateTime: 2020-10-08T03:16:00Z
-    webUrl: "https://www.nbcnews.com/video/harris-worked-to-speak-past-pence-at-president-trump-and-to-the-american-people-93400133641"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93400133641"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93400133641"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 169
-    images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-kamala-harris-debate-1920x1080-ac-1111p.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Biden campaign talks up Mike Pence’s debate skills before he faces Kamala Harris."
-    excerpt: "Biden campaign surrogates played up Vice President Mike Pence’s skill as a debater ahead of his matchup with Senator Kamala Harris on Wednesday, while previewing how Ms. Harris planned to make a case against President Trump’s handling of the coronavirus."
-    publishedDateTime: 2020-10-07T17:35:00Z
-    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/the-biden-campaign-talks-up-mike-pences-debate-skills-before-he-faces-kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/the-biden-campaign-talks-up-mike-pences-debate-skills-before-he-faces-kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-biden-campaign-talks-up-mike-pences-debate-skills-before-he-faces-kamala-harris.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 168
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/07/multimedia/07elections-briefing-pence2/07elections-briefing-pence2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
     excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
@@ -382,179 +208,147 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sen. Kamala Harris and VP Mike Pence 2020 debate preview"
-    excerpt: "The 2020 vice presidential candidates’ debate, between Democratic candidate Sen. Kamala Harris and Republican incumbent Vice President Mike Pence, will see Pence having to defend the record of the Trump administration,"
-    publishedDateTime: 2020-10-04T18:27:00Z
-    webUrl: "https://www.msnbc.com/am-joy/watch/sen-kamala-harris-and-vp-mike-pence-2020-debate-preview-93118021982"
-    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo93118021982"
-    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo93118021982"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 160
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/n_joy_debatepreview_201004_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Pence-Harris V.P. Debate Now Has Big Consequences"
-    excerpt: "Vice-presidential debates can often be afterthoughts in a presidential race. But with President Trump in the hospital, Mike Pence and Kamala Harris will now face an unusual amount of scrutiny, and a tricky balancing act."
-    publishedDateTime: 2020-10-05T21:17:00Z
-    webUrl: "https://www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.amp.html"
+  - title: "Trump and Biden Court Catholic Vote, in Very Different Ways"
+    excerpt: "Joseph Biden’s supporters are highlighting his Catholic faith and values while President Trump, with a Supreme Court selection looming, is operating on the culture-war turf he prefers."
+    publishedDateTime: 2020-09-25T09:09:00Z
+    webUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/us/politics/catholic-voters-trump-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 160
+    quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/10/04/us/04elections-Veep-pence/04elections-Veep-pence-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23campaign-catholics1/23campaign-catholics1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Kamala Harris and Mike Pence Debate: What to Watch For"
-    excerpt: "Mr. Pence will probably be pressed to defend President Trump’s handling of the coronavirus, and his own actions as well. Ms. Harris will have to defend not just her record, but also Joe Biden’s."
-    publishedDateTime: 2020-10-07T04:07:00Z
-    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.amp.html"
+  - title: "What Polls Say About the 2020 Race as Biden and Trump Square Off"
+    excerpt: "A crucial fraction of the millions who watch the first presidential debate on Tuesday will have yet to make up their minds. Here’s what polling tells us about the issues that will come up."
+    publishedDateTime: 2020-09-29T10:53:00Z
+    webUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/29/us/politics/polls-presidential.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 160
+    quality: 150
     images:
-      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-whattowatch3/07debate-whattowatch3-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-polling1/29debate-polling1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Pence, Harris vice presidential debate: Everything you need to know"
-    excerpt: "The only vice presidential debate of the 2020 election is scheduled for Wednesday — and President Donald Trump's coronavirus diagnosis and the vice president's possible exposure are bringing extra scrutiny to the already highly anticipated showdown between Vice President Mike Pence and Sen."
-    publishedDateTime: 2020-10-07T10:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-harris-vice-presidential-debate-everything-you-need-know-n1242173"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242173"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242173"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417889/201006-vp-debate-everything-know-main-cover-cs_4c3712a0043ec4dad00335f2647e93c0.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Vice presidential debate highlights between Pence and Harris"
-    excerpt: "Watch highlights from the 2020 vice presidential debate as Mike Pence and Kamala Harris face off on coronavirus, climate change and more."
-    publishedDateTime: 2020-10-08T05:13:00Z
-    webUrl: "https://www.nbcnews.com/video/vice-presidential-debate-highlights-between-pence-and-harris-93406277923"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93406277923"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93406277923"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/vp_mash_thumb.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mike Pence and Kamala Harris reflect America's demographic transformation"
-    excerpt: "The two vice presidential contenders who will share the stage Wednesday embody an evolution in the country over the last half-century."
-    publishedDateTime: 2020-10-07T19:01:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/mike-pence-kamala-harris-reflect-america-s-demographic-transformation-n1242434"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242434"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242434"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 159
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418229/201007-harris-pence-2up-2x1-jm-1333_45efe9ff8de2d3219ddc9f1f564cac52.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
-    excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
-    publishedDateTime: 2020-10-02T00:08:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-2020-vice-presidential-debate-between-mike-pence-and-kamala-harris-92934725542"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92934725542"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92934725542"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 156
-    images:
-      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/100120_Vice_Pres_Debate_NOW-Youtube.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Taylor Swift, leaning further into politics, endorses Joe Biden and Kamala Harris."
-    excerpt: "Taylor Swift, the pop megastar who has increasingly leveraged her fame and platform to weigh in on political matters and social causes, announced Wednesday that she would support Joseph R. Biden Jr. and Senator Kamala Harris in the."
-    publishedDateTime: 2020-10-07T23:06:00Z
-    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/taylor-swift-joe-biden-kamala-harris.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/taylor-swift-joe-biden-kamala-harris.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/taylor-swift-joe-biden-kamala-harris.amp.html"
+  - title: "Donald Trump and Joe Biden Debate Law and Order"
+    excerpt: "In the presidential debate Joseph R. Biden Jr. and Donald J. Trump debated the concept of law and order after recent unrest gripped the nation."
+    publishedDateTime: 2020-09-30T02:53:00Z
+    webUrl: "https://www.nytimes.com/video/us/elections/100000007368637/trump-biden-law-and-order-debate-video-clip.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 154
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/07/world/07elections-briefings-swift2/07elections-briefings-swift2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Best and Worst Moments of the Kamala Harris-Mike Pence Debate: ‘Most Bizarre Moment Was the Fly’"
-    excerpt: "Welcome to Opinion’s commentary for the vice-presidential debate between Kamala Harris and Mike Pence. In this special feature, Times Opinion writers pick the winner and then rank the victory on a scale of 1 to 10: 1 means it was a very narrow win;"
-    publishedDateTime: 2020-10-08T09:06:00Z
-    webUrl: "https://www.nytimes.com/2020/10/08/opinion/debate-kamala-harris-mike-pence.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/08/opinion/debate-kamala-harris-mike-pence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/opinion/debate-kamala-harris-mike-pence.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 147
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/08/opinion/08scorecard/08scorecard-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
-    excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"
-    publishedDateTime: 2020-10-07T08:34:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
     quality: 140
     images:
-      - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29vid-debate-trump-2/29vid-debate-trump-2-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Kamala Harris, a Disco-Dancing Teenager, Yearned for Home in Canada"
-    excerpt: "Senator Harris spent her adolescent years in Canada. Friends say being a California girl at a multicultural public high school in Montreal helped shape her."
-    publishedDateTime: 2020-10-05T09:04:00Z
-    webUrl: "https://www.nytimes.com/2020/10/05/world/canada/kamala-harris-montreal.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/05/world/canada/kamala-harris-montreal.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/05/world/canada/kamala-harris-montreal.amp.html"
+  - title: "Biden Could Be Our Second Catholic President. It Doesn’t Matter."
+    excerpt: "Kennedy in 1960, Catholic America achieved a long-sought victory. But what did we win? By Elizabeth Bruenig Ms. Bruenig is an Opinion writer. As Election Day approached 60 years ago, Catholics across the country followed the news with a nervous thrill of anticipation."
+    publishedDateTime: 2020-09-24T04:27:00Z
+    webUrl: "https://www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/opinion/biden-catholic-president-2020.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/02/world/00canada-harris-top/00canada-harris-top-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/09/23/opinion/23Bruenig/23Bruenig-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Joe Biden’s Stutter Is His Superpower"
+    excerpt: "Embracing a lifelong struggle to overcome a stutter, and the stumbles that have happened along the way, Uncle Joe is a hard man to dislike. In that same vein, Biden has finally gone where Hillary Clinton would not,"
+    publishedDateTime: 2020-09-25T09:06:00Z
+    webUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/opinion/joe-biden-stutter.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/25/opinion/25eganWeb/25eganWeb-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Progressives pledge to keep pushing Biden to expand Supreme Court"
+    excerpt: "Biden, who ran a relatively centrist primary campaign, hasn't embraced that push, worried they may intensify the nation's partisan split."
+    publishedDateTime: 2020-09-25T02:51:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/progressives-pledge-keep-pushing-biden-expand-supreme-court-n1241039"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241039"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241039"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414864/200924-joe-biden-face-mask-ac-1033p_d8fc8f4c9fd784e5bc8bd838100ec790.JPG"
+        width: 6048
+        height: 4024
+        isCached: true
+  - title: "How the new Supreme Court could stymie a Biden presidency"
+    excerpt: "A larger, emboldened conservative majority would have the power to upend decades of precedent to block a Democratic president and Congress from fulfilling their agenda."
+    publishedDateTime: 2020-09-25T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/09/25/supreme-court-regulations-biden-421934"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/supreme-court-regulations-biden-421934"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/47/dd/ede980d349dd9c2a2964544895a1/200925-scotus-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "How Joe Biden Is Preparing for the Biggest Debate of His Life"
+    excerpt: "The first debate between Joseph R. Biden Jr. and President Trump on Tuesday represents one of the president’s last, best chances to move a race that polls show him losing. There are risks for Mr. Biden,"
+    publishedDateTime: 2020-09-28T09:03:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/biden-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28biden-debateprep1/28biden-debateprep1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Biden discusses how to combat racial injustice"
+    excerpt: "Joe Biden discusses his work with the civil rights movement and the change he has seen in the country while also addressing how he would hope to fight racial injustice if elected president."
+    publishedDateTime: 2020-10-06T00:59:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-discusses-how-to-combat-racial-injustice-93196869645"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93196869645"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196869645"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_hate_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How Geraldine Ferraro and Sarah Palin set the stage for Kamala Harris"
     excerpt: "Thomas Balcerski writes that in order to win the VP debate on Wednesday, Kamala Harris will likely need to triangulate herself between the toughness of Geraldine Ferraro in 1984 and the likability of Sarah Palin in 2008."
@@ -572,117 +366,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Kamala Harris and the Push to Cut Hospital Bills in California"
-    excerpt: "She took on the drug and hospital industry as California attorney general, seeking consumer relief from anti-competitive pricing."
-    publishedDateTime: 2020-10-06T14:39:00Z
-    webUrl: "https://www.nytimes.com/2020/10/06/health/kamala-harris-health-care.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/06/health/kamala-harris-health-care.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/health/kamala-harris-health-care.amp.html"
+  - title: "The Times Endorses Joe Biden, and Readers Applaud"
+    excerpt: "I want to thank The Times for this thoughtful and accurate assessment of the candidate and the broader context of this race,” a reader writes."
+    publishedDateTime: 2020-10-07T19:10:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/opinion/letters/joe-biden-nyt-endorsement.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/opinion/letters/joe-biden-nyt-endorsement.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/opinion/letters/joe-biden-nyt-endorsement.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/05/science/00HARRISAG01/00HARRISAG01-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/06/us/politics/06biden02/06biden02-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "Kamala Harris and a history of trying to define 'Asian American'"
-    excerpt: "\"What it meant to be Asian was defined over time historically through laws on Asian exclusion on immigration and then also Asian exclusion from citizenship,\" researcher Karthick Ramakrishnan said."
-    publishedDateTime: 2020-10-06T20:07:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/kamala-harris-history-trying-define-asian-american-n1242200"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242200"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242200"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_33/3403819/200811-kamala-harris-se-525p_9c84098920c490c82f8f1e933ab9a989.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Kamala Harris calls Trump’s virus response the ‘greatest failure of any presidential administration.’"
-    excerpt: "Well, the American people have witnessed what is the greatest failure of any presidential administration in the history of our country. And here are the facts: 210,000 dead people in our country in just the last several months."
-    publishedDateTime: 2020-10-08T08:29:00Z
-    webUrl: "https://www.nytimes.com/2020/10/07/world/kamala-harris-calls-trumps-virus-response-the-greatest-failure-of-any-presidential-administration.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/07/world/kamala-harris-calls-trumps-virus-response-the-greatest-failure-of-any-presidential-administration.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/world/kamala-harris-calls-trumps-virus-response-the-greatest-failure-of-any-presidential-administration.amp.html"
+  - title: "More Democrats Embrace Structural Change. They’re Ready to Press Joe Biden."
+    excerpt: "A party that is increasingly seeking to play by different rules is led by a figure who helped create the current ones. The outcome of the fight will help define the Democratic Party going forward."
+    publishedDateTime: 2020-09-28T18:20:00Z
+    webUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07vid-VP-debate-012/07vid-VP-debate-012-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/09/28/us/politics/28progressives-top/28progressives-top-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "Kamala Harris could boost Asian American voter turnout, researchers say"
-    excerpt: "Jamaican — and was excited when Harris was chosen as Joe Biden’s vice presidential nominee. She said it motivated her even more to vote for the Democratic ticket in November. Hossain, 37, told NBC Asian America that having Harris on the ticket was a huge win for the South Asian community,"
-    publishedDateTime: 2020-10-07T20:34:00Z
-    webUrl: "https://www.nbcnews.com/news/asian-america/kamala-harris-could-boost-asian-american-voter-turnout-researchers-say-n1242333"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242333"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242333"
+  - title: "The moment Trump seized on Biden's sons"
+    excerpt: "Trump's attack-dog style in the first debate crescendoed when the subject shifted to Hunter as Joe Biden talked about his late son Beau."
+    publishedDateTime: 2020-09-30T11:41:00Z
+    webUrl: "https://www.politico.com/news/2020/09/29/trump-beau-biden-presidential-debate-423417"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 130
     images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_41/3417995/201005-sadhwani_sara_2019_ac-1045p_458064d86fdad69ac300d5b23939cf44.fit-320w.jpg"
-        width: 320
-        height: 480
-        isCached: true
-  - title: "Mike Pence’s Debate Performance Bugged Me Out"
-    excerpt: "If not, it was a bug doing an ace interpretation of a fly, and about two-thirds of the way through the debate in Salt Lake City on Wednesday night, it took up residence in Vice President Mike Pence’s hair,"
-    publishedDateTime: 2020-10-08T09:07:00Z
-    webUrl: "https://www.nytimes.com/2020/10/08/opinion/mike-pence-vp-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/08/opinion/mike-pence-vp-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/opinion/mike-pence-vp-debate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/08/opinion/08bruni/08bruni-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
-    excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
-    publishedDateTime: 2020-10-06T00:10:00Z
-    webUrl: "https://www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Likability, Authenticity, Smiles: The Debate Tightrope for Kamala Harris"
-    excerpt: "After a disastrous first presidential debate, all eyes will be on a vice-presidential debate that’s rife with gendered and racial challenges."
-    publishedDateTime: 2020-10-06T23:17:00Z
-    webUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/06/us/00ihw-harris2/00ihw-harris2-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/c075efe0-333d-4821-9bf4-75d0ca29bbb2/07e3938c-d245-42d0-9726-dd3a2d90c373/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris expresses concerns over Amy Coney Barrett overturning Affordable Care Act"
     excerpt: "Kamala Harris expresses concerns over President Donald Trump’s newly announced Supreme Court nominee, Judge Amy Coney Barrett. Harris said, both Barrett and the Trump administration “will overturn the Affordable Care Act."
@@ -700,79 +428,61 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris’s doubleheader: A debate and confirmation hearings with sky-high stakes."
-    excerpt: "Kamala Harris is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but Wednesday’s debate is a new challenge."
-    publishedDateTime: 2020-10-07T08:27:00Z
-    webUrl: "https://www.nytimes.com/2020/10/06/us/elections/kamala-harriss-doubleheader-a-debate-and-confirmation-hearings-with-sky-high-stakes.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/06/us/elections/kamala-harriss-doubleheader-a-debate-and-confirmation-hearings-with-sky-high-stakes.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/us/elections/kamala-harriss-doubleheader-a-debate-and-confirmation-hearings-with-sky-high-stakes.amp.html"
+  - title: "Five Things Biden and His Allies Should Be Worried About"
+    excerpt: "Second, Latinos, who are key to the outcome in several crucial states — Arizona and Florida, for example — have shown less support for Biden than for past Democratic nominees. Many Hispanic voters seem resistant to any campaign that defines them broadly as “people of color."
+    publishedDateTime: 2020-09-23T09:04:00Z
+    webUrl: "https://www.nytimes.com/2020/09/23/opinion/joe-biden-donald-trump-2020.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 127
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-facebookJumbo-v2.jpg"
+      - url: "https://static01.nyt.com/images/2020/09/23/opinion/23edsall3/23edsall3-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Kamala Harris can use tonight's vice president debate to subvert 'angry Black woman' tropes"
-    excerpt: "We've heard about the way gender differences influence how we perceive candidates. But what happens when the woman is Black?"
-    publishedDateTime: 2020-10-07T08:40:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/kamala-harris-can-use-tonight-s-vice-president-debate-subvert-ncna1242363"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242363"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242363"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418073/201006-kamala-harris-2019-ac-807p_b4257ecc4931dfb8a23df49ab56623fc.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "How ‘Generation Jones’ Shaped Kamala Harris"
-    excerpt: "The VP candidate grew up in a cultural moment that demanded a foot in different worlds. Is that a strength or a weakness now?"
-    publishedDateTime: 2020-10-07T08:30:00Z
-    webUrl: "https://www.politico.com/news/magazine/2020/10/07/kamala-harris-generation-veep-debate-426994"
+  - title: "Biden nets progressive climate endorsement"
+    excerpt: "The endorsement from 350 Action is the latest sign the former veep's move to boost his climate plan's ambition is winning over skeptical progressives."
+    publishedDateTime: 2020-09-24T13:36:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/biden-nets-progressive-climate-endorsement-420941"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/60/51/c3f2f30749dcb1091b44baba2301/ap20266760989174-773.jpg"
+      - url: "https://static.politico.com/d3/11/b8f90a8e47a29f72b70265621224/ap20258672621852.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "The Education of Kamala Harris"
-    excerpt: "From the election campaign that brought her head-to-head with her toughest opponent to the school debates where she honed her skills, how did Kamala Harris’ time at university prepare her for her run for Vice President?"
-    publishedDateTime: 2020-10-06T19:06:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/news/education-kamala-harris-2-ncna1242310"
+  - title: "Tester warns Biden to pick up the pace on campaigning"
+    excerpt: "\"I think Joe just needs to get out and talk to people tell them his vision for the country and I think he’ll be fine,” the Montana Democrat said."
+    publishedDateTime: 2020-09-24T16:20:00Z
+    webUrl: "https://www.politico.com/news/2020/09/24/tester-warns-biden-on-campaigning-421070"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Politico
+      domain: politico.com
     quality: 115
     images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_06/2379271/180328-howard-university-al-0933_a6a32bf73f93495e8be82db6ec53c279.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.politico.com/db/83/77d79f104c17a94257cc9eec5483/ap20008853778718.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Transcript: The Education of Kamala Harris"
-    excerpt: "The Education of Kamala Harris. Joy Reid: On a tree-lined street in West Berkeley, Carole Porter waited for the bus to school. Carole Porter: You know, I got some new school cloth"
-    publishedDateTime: 2020-10-07T16:21:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/podcast/transcript-education-kamala-harris-ncna1242424"
+  - title: "‘I Don’t Want to Be Attacking the President,’ Joe Biden Says"
+    excerpt: "In a town hall for union workers, Mr. Biden was asked about how he would handle the pandemic, but he said he did not want to take shots at President Trump."
+    publishedDateTime: 2020-10-03T22:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007376626/biden-trump-coronavirus.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 115
     images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2019_01/2705186/msnbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png"
-        width: 1200
-        height: 630
+      - url: "https://static01.nyt.com/images/2020/10/03/us/politics/03election-biden-vidcover/03election-biden-vidcover-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Kamala Harris says appointing Amy Coney Barrett to the Supreme Court would imperil health care and abortion rights."
     excerpt: "Senator Kamala Harris warns of far-reaching consequences to American society if Judge Amy Coney Barrett is confirmed to the Supreme Court."
@@ -790,33 +500,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Kamala Harris’ Main Vice President Debate Task: Humiliate Mike Pence on COVID Claims"
-    excerpt: "Yes, she has to pass the “heartbeat away” test. But the main thing is to keep the pressure on Trump’s top apologist on the dominant issue of this race."
-    publishedDateTime: 2020-10-07T15:06:00Z
-    webUrl: "https://www.thedailybeast.com/kamala-harris-main-vice-president-debate-task-humiliate-mike-pence-on-covid-claims"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 63
-  - title: "Voters Deserve More Than the Non-Answers Kamala Harris Gave Them"
-    excerpt: "If the Democrats want to run as the antidote to Trump, they can start by telling us the truth—and answering some basic questions. Tonight, Harris failed to do that."
-    publishedDateTime: 2020-10-08T04:25:00Z
-    webUrl: "https://www.thedailybeast.com/voters-deserve-more-than-the-non-answers-kamala-harris-gave-them"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
-  - title: "Maya Rudolph Reveals Goal of Her SNL Kamala Harris After VP Debate: I Need to ‘Make Sure She Wins’"
-    excerpt: "Live” star dished to Jimmy Fallon about her impression of the California senator following the vice presidential debate between her and Mike Pence."
-    publishedDateTime: 2020-10-08T05:09:00Z
-    webUrl: "https://www.thedailybeast.com/maya-rudolph-reveals-goal-of-her-snl-kamala-harris-after-vp-debate-i-need-to-make-sure-she-wins"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 31
 
 secured: "eagkWBtXBYggyB88PqldMivfoJT7i7Xzt8A7mQPlLdLfP9X6nfTPK6/MhcKEHP/lkPJs0iT4rYqCeL0qh0jbZdvTBsvd9P+FTzR3Jn8jyj+n3QvQ8qoD5DoHWO/cgYd1jbsXv541tr+eoVoxG/y7GtDlC2hJ/Qh/LahkIbDVIad3Dvn1lIIMxQgIYhcXg7HHZWG3HJ6hBpL958uhDxUDYJ044OVidOlXyDRzNpllKUjngpwUsqLg58aM3unsR4bOdXgKWVm0iQZPj14wksWCsEouvcIoeoKl1aAJwMUQluS4zjpiQGPHC9/i6bY2nDnDVWmYebFuqnZ9fOjcH3TZLJDMzozusJeocBLQgdWoKhRb0o9dVYFAwURegmzjbelG+9EbaA4TKqnvuRX9Fv5PvehDV1bnLH80hzwyiQCwhaXpflvOpIKdZ6rh0qPMHVlsoOkTW/x2dPGtY4rjSwk9DMJZzure2khUuO9aFvLZFuWKh4dRIbHwLJis3Jgs7oUczITdZEBv4l99ukH6jSK8fw==;RJvsk4TKYArhpqJqnAz/sA=="
 ---

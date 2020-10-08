@@ -29,245 +29,288 @@ images:
     isCached: true
 
 related:
-  - title: "Joe and Jill Biden test negative for COVID-19, doctor says"
-    excerpt: "Joe and Jill Biden tested negative for coronavirus Friday morning, after President Trump and First Lady Melania Trump tested positive."
-    publishedDateTime: 2020-10-02T17:46:00Z
-    webUrl: "https://www.cbsnews.com/news/joe-and-jill-biden-test-negative-for-covid-19/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-and-jill-biden-test-negative-for-covid-19/"
+  - title: "Joe Biden posed with a swatter after a fly landed on Mike Pence's head during the VP debate"
+    excerpt: "The Biden campaign was quick to capitalize on the moment in the vice-presidential debate. Its merchandise store already started selling fly swatters."
+    publishedDateTime: 2020-10-08T10:14:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/02/061d0c26-d4db-4165-9a46-4fdd228be443/thumbnail/1200x630/fdffb3a33dc359e38ea3e1f25c784e06/gettyimages-1277616091-1.jpg"
+      - url: "https://i.insider.com/5f7eda07c655f6001969ed95?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Biden again tests negative for COVID-19"
-    excerpt: "Democratic nominee Joe Biden tested negative for COVID-19 on Sunday, his campaign said. Biden was administered a PCR test for the virus, his campaign said, and COVID-19 was not detected. It marked the second time Biden has tested negative since President Trump revealed early Friday morning that he had the virus."
-    publishedDateTime: 2020-10-04T23:40:00Z
-    webUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19"
-    ampWebUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
+  - title: "Fly on Mike Pence's head steals the buzz from vice presidential debate, and Biden can't complain"
+    excerpt: "A fly that landed on Vice President Mike Pence's head during the presidential debate generated a lot of buzz online."
+    publishedDateTime: 2020-10-08T04:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_093020upi_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/vp-debate-pence-fly-ap-ps-201007_1602125166979_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Joe Biden tests negative for COVID-19, campaign says"
-    excerpt: "Joe Biden’s campaign says the Democratic presidential nominee tested negative for coronavirus Sunday. The results come five days after Biden spent more than 90 minutes on the debate stage with President Donald Trump."
-    publishedDateTime: 2020-10-04T23:53:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_1Du1qOnOZwbyj80OVwdjArXzeQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPYUJKXZFTSF7M2SXL4AX7ON74.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Watch Live: NBC News town hall with Biden"
-    excerpt: "NBC News’s Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami. The event is scheduled to begin at 8 p."
-    publishedDateTime: 2020-10-05T23:00:00Z
-    webUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe"
-    ampWebUrl: "https://thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/519649-watch-live-nbc-news-town-hall-with-democratic-presidential-nominee-joe?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_10022020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Democratic nominee Joe Biden campaigns in Michigan after testing negative for coronavirus"
-    excerpt: "The former vice president delayed his scheduled trip to the battleground state in order to take two coronavirus tests Friday morning."
-    publishedDateTime: 2020-10-03T01:39:00Z
-    webUrl: "https://www.cnbc.com/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/02/democratic-nominee-joe-biden-tests-negative-for-coronavirus-after-potential-exposure.html"
+  - title: "Here's who would pay more under Joe Biden's tax plan"
+    excerpt: "Joe Biden's tax plan increases taxes on those earning at least $400,000 per year. But the burden will fall primarily on the highest earners, those making more than $1 million a year, according to an analysis from the Tax Policy Center."
+    publishedDateTime: 2020-10-07T16:16:00Z
+    webUrl: "https://www.cnbc.com/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 116
+    quality: 125
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106712128-16007764692020-09-21t201730z_1749449824_rc283j97mwkc_rtrmadp_0_usa-election-biden.jpeg?v=1600776508"
-        width: 3500
-        height: 2334
+      - url: "https://image.cnbcfm.com/api/v1/image/106732322-1602003544711-gettyimages-1278126590-cs026704_2020100245452297.jpeg?v=1602003584"
+        width: 5472
+        height: 3648
         isCached: true
-  - title: "Battle for the suburbs: can Joe Biden flip Texas? – video"
-    excerpt: "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli"
-    publishedDateTime: 2020-10-07T10:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video"
+  - title: "Joe Biden should stop ducking the court-packing issue"
+    excerpt: "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing."
+    publishedDateTime: 2020-10-07T13:30:00Z
+    webUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue"
+    ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/ad2b6c6bc07ee8a1c8603135263f9c5f9afdd033/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddfef1d2d526de95827d109c891e36aa"
-        width: 1200
-        height: 630
+      - url: "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Joe Biden's wife, Jill, pulls him back to be socially distant"
-    excerpt: "Former second lady Jill Biden pulled back her husband, Democratic presidential nominee Joe Biden, to socially distance from reporters on the tarmac in New Castle, Del., before departing for Miami on Oct."
-    publishedDateTime: 2020-10-07T18:58:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/joe-bidens-wife-jill-pulls-him-back-to-be-socially-distant/2020/10/07/be680e76-8aec-433c-9b74-6a6dbd57016d_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-07-2020/t_2ec76ecc923d4db1b6fa0dbd5a05337d_name_56ad741c_0722_11eb_8719_0df159d14794.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
-        isCached: true
-  - title: "Joe Biden and his wife, Jill, paid nearly $300,000 in federal income taxes, newly released returns show"
-    excerpt: "The release served as a contrast to President Trump, after new reports that he has paid minimal or no federal taxes in recent years."
-    publishedDateTime: 2020-09-30T00:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-taxes/2020/09/29/d7afe3a8-027a-11eb-b7ed-141dd88560ea_story.html"
+  - title: "Joe Biden’s campaign, summed up in one simple gesture"
+    excerpt: "Jill Biden reminding her husband of proper social distancing -- and his response -- says everything about his campaign."
+    publishedDateTime: 2020-10-06T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 89
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EKSGUWQCRII6XN7NCQO5RBLA5I.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K2WXIHAHEII6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden campaign sees opportunity in military women, spouses and people of color"
-    excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
-    publishedDateTime: 2020-10-03T11:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
+  - title: "An unexpected guest: Fly lands on Mike Pence's head during debate, goes viral"
+    excerpt: "The fly, which was on Mike Pence's head for several minutes, quickly went viral and created a buzz – pun intended – online."
+    publishedDateTime: 2020-10-08T03:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/fly-lands-mike-pence-head-during-vice-presidential-debate/5919316002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5919316002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5919316002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 81
-  - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
-    excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
-    publishedDateTime: 2020-10-01T23:22:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/dc97230a-e74a-4d28-aecf-bc43087c617e-AP_Election_2020_Debate.jpg?auto=webp&crop=3148,1771,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Video Resurfaces of Kamala Harris Saying She Wants to Ban Fracking After Saying Biden Will Not During VP Debate"
+    excerpt: "\"There's no question I'm in favor of banning fracking,\" Kamala Harris said in video footage that resurfaced on social media Wednesday."
+    publishedDateTime: 2020-10-08T04:21:00Z
+    webUrl: "https://www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304"
+    ampWebUrl: "https://www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304?amp=1"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRZ2WVTVNNH53EO2BFXKHACEVQ.JPG"
-        width: 3000
-        height: 2000
+      - url: "https://d.newsweek.com/en/full/1647768/kamala-harris.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Mike Pence and his wife test negative for COVID-19"
-    excerpt: "Vice President Mike Pence has tested negative for COVID-19, his office said Friday. “As has been routine for months, Vice President Pence is tested for COVID-19 every day. This morning, Vice President Pence and the Second Lady tested negative for COVID-19."
-    publishedDateTime: 2020-10-02T14:54:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/2/mike-pence-and-his-wife-test-negative-covid-19/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/2/mike-pence-and-his-wife-test-negative-covid-19/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/2/mike-pence-and-his-wife-test-negative-covid-19/"
+  - title: "A fly landed on Mike Pence's head during the debate and rested there for nearly two minutes"
+    excerpt: "The vice presidential candidates were in a serious moment when the black bug landed on Mr. Pence's stark white hair. Most viewers' attention then turned to the fly – and stayed there until the pest flew away."
+    publishedDateTime: 2020-10-08T03:44:00Z
+    webUrl: "https://www.cbsnews.com/news/pence-fly-head-debate/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-fly-head-debate/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-fly-head-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/08/179a6725-59bf-4c8f-b6ff-20636367b45d/thumbnail/1200x630/8f2adafa8dd5e04314021e0fb774aa6d/ap-20282085044567.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "'He's from here': Biden and the battle for Scranton"
+    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
+    publishedDateTime: 2020-10-06T18:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
+    excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
+    publishedDateTime: 2020-10-06T12:21:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 102
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "Pence attacks Biden's economic vision: 'Day One Joe Biden is going to raise your taxes'"
+    excerpt: "Vice President Mike Pence on Wednesday delivered a blistering critique of Joseph R. Biden’s economic vision, warning that the Democrat is poised to raise taxes and enact policies that would cost hundreds of thousands of jobs."
+    publishedDateTime: 2020-10-08T02:37:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
-    quality: 75
+    quality: 92
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/01/Election_2020_Pence_36226.jpg-d165b_c0-0-3747-2185_s1200x700.jpg?24cac6732d6d744cded9531a05658813e184e584"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Election_2020_Debate_08391.jpg-a495c_c0-328-5386-3469_s1200x700.jpg?21d902c28853cc6a5d5f724c7b428dcc0c259c8f"
         width: 1200
         height: 700
         isCached: true
-  - title: "Joe Biden, in Grand Rapids, wearing a mask, urges Americans to follow COVID safety rules"
-    excerpt: "Biden's comments were his first since President Trump announced he and the first lady tested positive for COVID-19."
-    publishedDateTime: 2020-10-03T09:28:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/02/joe-biden-masked-touts-covid-safety-rules-grand-rapids-speech/3592260001/"
-    ampWebUrl: "https://amp.freep.com/amp/3592260001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3592260001"
+  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
+    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
+    publishedDateTime: 2020-10-05T20:50:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
+    excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."
+    publishedDateTime: 2020-10-03T22:54:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
+        width: 3771
+        height: 2514
+        isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Is Joe Biden the Konrad Adenauer of the U.S.?"
+    excerpt: "Former Vice President Joe Biden, the candidate who marched from victory to victory thereafter, and who is now both the Democrats' standard-bearer and the substantial favorite to be the next president,"
+    publishedDateTime: 2020-10-07T09:41:00Z
+    webUrl: "https://theweek.com/articles/942011/joe-biden-konrad-adenauer"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 55
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/bidenauer.jpg?itok=0tKkr3o7"
+        width: 1260
+        height: 560
+        isCached: true
+  - title: "'Truth Over Flies' fly swatters and 'I’m speaking' shirts: Joe Biden campaign, Etsy sellers capitalize on VP debate"
+    excerpt: "Following the vice presidential debate between Mike Pence and Kamala Harris, \"Truth Over Flies\" fly swatters and “I’m speaking” shirts are for sale."
+    publishedDateTime: 2020-10-08T07:12:00Z
+    webUrl: "https://www.freep.com/story/money/2020/10/08/vice-president-debate-2020-memorabilia-fly-swatters-shirts/5920511002/"
+    ampWebUrl: "https://amp.freep.com/amp/5920511002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5920511002"
     type: article
     provider:
       name: Detroit Free Press
       domain: freep.com
-    quality: 66
+    quality: 53
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PDTF/fc02fc8e-bdd9-48db-91c3-0f4dc84fe5ae-AP20276746861930.jpg?auto=webp&crop=5548,3121,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/5bb2fcea-566e-466f-b39e-fdb11994e396-debate2020.jpg?auto=webp&crop=931,524,x0,y45&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence, wife, test negative for COVID-19 after president tests positive"
-    excerpt: "Vice President Mike Pence and his wife tested negative for COVID-19 Friday morning, his office announced hours after the president tested positive."
-    publishedDateTime: 2020-10-02T12:42:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5892854002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5892854002"
+  - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
+    excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
+    publishedDateTime: 2020-10-07T04:38:00Z
+    webUrl: "https://www.chron.com/shopping/article/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 65
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "What if Mike Pence gets infected? White House COVID-19 outbreak could set off constitutional chaos"
-    excerpt: "NBC News reporter Ken Dilanian laid out the possible chain of events if Vice President Mike Pence also tests positive for the coronavirus. President Donald Trump announced that he and first lady Melania Trump had been infected, along with senior adviser ..."
-    publishedDateTime: 2020-10-02T11:44:00Z
-    webUrl: "https://www.rawstory.com/2020/10/what-if-mike-pence-gets-infected-white-house-19-outbreak-could-set-off-constitutional-chaos/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/what-if-mike-pence-gets-infected-white-house-19-outbreak-could-set-off-constitutional-chaos/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/what-if-mike-pence-gets-infected-white-house-19-outbreak-could-set-off-constitutional-chaos/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
-        width: 800
-        height: 412
-        isCached: true
-  - title: "White House: VP Mike Pence tests negative for COVID-19"
-    excerpt: "Vice President Mike Pence tested negative for the virus on Friday morning and “remains in good health,\" his spokesman said. President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus,"
-    publishedDateTime: 2020-10-02T12:28:00Z
-    webUrl: "https://www.stamfordadvocate.com/news/article/Alert-White-House-VP-Mike-Pence-tests-negative-15615282.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/36/77/20049899/115/rawImage.jpg"
+      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
         width: 2048
-        height: 1369
+        height: 1366
         isCached: true
-  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
-    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
+  - title: "Joe and Jill Biden Deliver Remarks in Miami"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife, Jill, speak at a campaign event in Miami’s Little Havana neighborhood. 2020 Democratic presidential candidate Joe Biden and his wife, Jill, speak at a campaign event in Miami’s Little Havana neighborhood."
+    publishedDateTime: 2020-10-05T12:47:00Z
+    webUrl: "https://www.c-span.org/video/?476606-1/joe-jill-biden-deliver-remarks-miami"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 51
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Says He'll Debate if Scientists Say it's Safe"
+    excerpt: "Democratic presidential candidate Joe Biden speaks briefly with reporters and says that if the scientists say it’s safe to go forward with the upcoming… read more Joe Biden, a 2020 Democratic presidential candidate,"
+    publishedDateTime: 2020-10-05T16:26:00Z
+    webUrl: "https://www.c-span.org/event/?476553/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "NBOJIayVhyEmC0vi1sPn69pa44Qh/itauDRFJb/vevJ0JOiSeYQJ8qq27A2K1uaJB8yFVUDm7Kn1rrIZCQc6+KNKgRbuhZ1//LhLapadyONaIjd3iK20tBmerkCKLr4WDpnZxo3TUq5adAfQsjU7tRQgJn9j/ns1zRLnl1ftTP7y2d50+/iEXjokZsCHQdTwVCR9axYJvAV5AdlPmE5Ny5fJyjHHk9XNg1naPbcUx9s7ftku82lhqTCvv6AIOylcxa48RYfdbI9wLUpAYbqAnRfaVpeOp8LsPWG/3X26A76ehozaykKhCW4sp4LKTfWg+ISn3VHjfpHEBR86NQpA7+9b1Tpm00cJse+M7Gs6pmsDao8iBieFonMKRd/cTqB2UJ+XkisIQVmL9QtTTyrSKj5kOY3dIIbV7jPnlXPUxssldNG1k7O1y/8XW5OZab+gfmA7vGHo7zXtKTC+YcbJOdDykkdqZePcj6VEtddTpDtp4XIdXtlqodjtRCaWeU9henZsSCoOlUwPyr/MdA+Oxw==;1mtjrUli6QwjBrDliKxQ6Q=="
 ---

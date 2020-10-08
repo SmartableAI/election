@@ -2,113 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-07-judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-24m-residents-there.md",
-      "title": "Judge rules Texas' Harris County can't send mail-in ballot applications to all 2.4M residents there",
-      "excerpt": "The Texas Supreme Court ruled that Harris County cannot send ballot applications to all 2.4 million of its registered voters.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGtcnbP7gA/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGtcnbP7gA/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11c3a614-9e59-4101-a0ee-1ba70ee3980c/5ec3e47b-4951-42b4-8649-77df6ec63756/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there.amp",
-      "publishedDateTime": "2020-10-07T08:31:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the-president.md",
-      "title": "Trump Jr. pushes back on Pelosi asking if steroids influenced the president",
-      "excerpt": "Donald Trump Jr. pushed back on Speaker Nancy Pelosi (D-Calif.) on Wednesday after the Democratic leader questioned whether steroids influenced President Trump’s",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the",
-      "originalUrl": "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp",
-      "publishedDateTime": "2020-10-07T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-appeals-court-rejects-trumps-effort-to-block-enforcement-of-tax-returns-subpoena.md",
       "title": "Appeals court rejects Trump's effort to block enforcement of tax returns subpoena",
       "excerpt": "The Second Circuit Court of Appeals Wednesday upheld a lower court ruling allowing Manhattan District Attorney Cy Vance's office to enforce a subpoena to get President Trump's tax returns and other documents dating back to 2011, rejecting Trump's attempt to block the effort.",
@@ -220,57 +113,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-joe-biden-should-stop-ducking-the-court-packing-issue.md",
-      "title": "Joe Biden should stop ducking the court-packing issue",
-      "excerpt": "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
-      "originalUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
-      "publishedDateTime": "2020-10-07T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-mike-pence-reluctantly-agrees-to-plexiglass-barriers-in-tonights-vp-debate.md",
       "title": "Mike Pence reluctantly agrees to plexiglass barriers in tonight’s V.P. debate.",
       "excerpt": "From \"The Daily 202\" podcast: the Commission on Presidential Debates said the vice president dropped his objections to a plexiglass barricade on his side of the stage for today’s debate after viewing the setup during a walk-through of the debate hall.",
@@ -319,6 +161,61 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-stimulus-latest-trump-tweets-halt-negotiations-meaning-federal-help-for-millions-is-not-coming-anytime-soon.md",
+      "title": "Stimulus latest: Trump tweets halt negotiations, meaning federal help for millions is not coming anytime soon",
+      "excerpt": "President Donald Trump abruptly -- and single-handedly -- short-circuited stimulus negotiations on Tuesday, only to appear to reverse course eight hours later in a pair of tweets.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lxknyNCQkRE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lxknyNCQkRE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190123091903-02-trump-pelosi-0123--super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/07/politics/stimulus-negotiations-latest/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/stimulus-negotiations-latest/index.html",
+      "publishedDateTime": "2020-10-07T05:19:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -374,61 +271,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-hipaa-and-what-it-means-for-trump-his-doctor-and-the-american-public.md",
-      "title": "HIPAA and what it means for Trump, his doctor and the American public",
-      "excerpt": "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html",
-      "publishedDateTime": "2020-10-07T04:25:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1016,6 +858,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-new-york-times-editorial-board-endorses-biden.md",
+      "title": "New York Times editorial board endorses Biden",
+      "excerpt": "The New York Times editorial board endorsed Joe Biden's White House bid on Tuesday, throwing its support behind the former vice president&nb",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden",
+      "originalUrl": "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe2_100620getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp",
+      "publishedDateTime": "2020-10-06T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-trump-says-itll-be-fast-and-easy-to-confirm-amy-coney-barrett.md",
       "title": "Trump says it'll be 'fast and easy' to confirm Amy Coney Barrett",
       "excerpt": "President Trump declared on Twitter Tuesday evening that the Senate battle to confirm Amy Coney Barrett to the Supreme Court “will be fast and easy.”",
@@ -1068,6 +961,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-pence-preps-for-debate-as-chances-to-shake-up-the-race-dwindle.md",
+      "title": "Pence preps for debate as chances to shake up the race dwindle",
+      "excerpt": "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
+      "publishedDateTime": "2020-10-06T18:33:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
       ]
     },
     {
@@ -1248,7 +1197,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 191,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1299,7 +1248,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1339,6 +1288,57 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-fact-check-satirical-post-falsely-claims-trump-would-be-fine-if-he-hadnt-gotten-tested.md",
+      "title": "Fact check: Satirical post falsely claims Trump would be fine if he hadn't gotten tested",
+      "excerpt": "A liberal commentator's Facebook post claims Trump would be fine if he didn't get tested, satirically referencing debunked claim about coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/06/fact-check-post-claims-trump-would-be-fine-if-he-hadnt-gotten-tested-satire/3626371001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/06/fact-check-post-claims-trump-would-be-fine-if-he-hadnt-gotten-tested-satire/3626371001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3626371001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3626371001",
+      "publishedDateTime": "2020-10-06T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-ar
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/donald-trump-national-archives-patriotic-education/index.html"
 type: article
 quality: 163
-heat: 183
+heat: 163
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Trump Calls for ‘Patriotic Education’ to Defend American History From the Left"
-    excerpt: "At the National Archives Museum, the president warned against a “radical movement” that has emerged from “decades of left-wing indoctrination in our schools.”"
-    publishedDateTime: 2020-09-18T02:00:00Z
-    webUrl: "https://www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/17/us/politics/17dc-trump/17dc-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "A9Lz7KAwMS0P5i5j8JpJ+idQWcqYkk9bbGeC2Jj9Aw9PGJKjHsQZETauKNw5k7TyyIgTsUw5rc/w1W1paHqBm7RawKuOIJok8gjGUGTPXli5VP1HzneVpB2B93tvrxhJc9UeSGkp/YME5SBLN7H+6zr5NHnmm576Qy6WgjGBLOycxbrDbFxGA9tVseMc2fY0OgJ0iP14D4SCrECbngAYc9NHa27AubM69Jl+v2gsHBHHAU4rj99tosnHpXXaiESp9Oyk4foNz1fGF+wlXbe13EyDiWFVXmeXorKKaZbL3JtHAxSYGSc+FtaM/E74qb7Zn1VKTDRGYvsRL7wnlEXWmpI/VvdPcNkncUDnrU/e2Z8=;Ami2MMDLOO8K8AIPsivkcw=="
 ---

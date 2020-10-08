@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden vs. Trump: Here's where each candidate stands on debt"
+    excerpt: "According to the Federal Reserve, the total consumer debt burden currently stands at over $14 trillion. That's made up of mortgages, credit cards, personal loans, and other debts. So, where do the presidential candidates stand on debt?"
+    publishedDateTime: 2020-10-08T10:08:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/10/08/biden-vs-trump-where-each-candidate-stands-on-debt/114218012/"
+    ampWebUrl: "https://amp.usatoday.com/amp/114218012"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/114218012"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
     publishedDateTime: 2020-10-07T02:42:00Z

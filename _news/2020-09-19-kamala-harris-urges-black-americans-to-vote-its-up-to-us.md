@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/kamala-harris-black-voters.amp.html"
 type: article
 quality: 135
-heat: -1
-published: false
+heat: 235
+published: true
 
 provider:
   name: New York Times
@@ -32,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stoking his base, Trump warns of a Kamala Harris presidency"
-    excerpt: "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president."
-    publishedDateTime: 2020-09-22T08:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240492"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 160
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG"
-        width: 2500
-        height: 1695
-        isCached: true
-  - title: "Trump will go to Pittsburgh and Pence to New Hampshire as Harris visits Flint and Detroit."
-    excerpt: "Delivers remarks at a campaign rally in a hangar at Pittsburgh International Airport. Afternoon — Tours small businesses that have been affected by the coronavirus pandemic in Flint, Mich. 4:30 p.m. — Participates in “Shop Talk” round-table conversation with Black men in Detroit."
-    publishedDateTime: 2020-09-22T12:10:00Z
-    webUrl: "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 140
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "‘Birtherism’ Lies About Kamala Harris Exceed Those About Obama"
     excerpt: "Mentions of the racist theory about Ms. Harris spiked higher than the peak of similar lies about President Barack Obama in 2017."
     publishedDateTime: 2020-09-23T01:45:00Z
@@ -79,22 +47,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/22/arts/22distortion-birtherism-sub/22distortion-birtherism-sub-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Kamala Harris uses personal story to court recent immigrants, communities of color"
-    excerpt: "The California senator is partly focused on increasing Democratic margins over Trump, including in key battleground states."
-    publishedDateTime: 2020-09-22T16:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/kamala-harris-uses-personal-story-court-recent-immigrants-communities-color-n1240703"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240703"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240703"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 129
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3413953/200922-kamala-harris-philadelphia-jm-1036_debe997629971be5336e00e39dcb5fe3.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Why Kamala Harris' nomination is pushing this academic idea further into the mainstream"
     excerpt: "Harris being on the Democratic ticket is historic. Here's why a Biden-Harris win could help center the concerns of women of color in public policy."
@@ -112,33 +64,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Barr accused of 'working hand in glove' with Team Trump, White House"
-    excerpt: "One former federal prosecutor said of Barr, \"The attorney general is working hand in glove with the White House and the Trump re-election campaign.\""
-    publishedDateTime: 2020-09-29T18:49:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366"
+  - title: "How Kamala Harris’s Immigrant Parents Found a Home, and Each Other, in a Black Study Group"
+    excerpt: "Donald Harris and Shyamala Gopalan grew up under British colonial rule on different sides of the planet. They were each drawn to Berkeley, and became part of an intellectual circle that shaped the rest of their lives."
+    publishedDateTime: 2020-09-13T07:05:00Z
+    webUrl: "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/13/us/kamala-harris-parents.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/13/us/kamala-harris-parents.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
+      name: New York Times
+      domain: nytimes.com
+    quality: 125
     images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3413850/200921-donald-trump-william-barr-profile-2019-ac-851p_2cfe3612ae4433cdb3e04d5d1f7d57a6.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
-    excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
-    publishedDateTime: 2020-09-18T03:18:00Z
-    webUrl: "https://www.politico.com/news/2020/09/17/trump-kamala-harris-president-417490"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 111
-    images:
-      - url: "https://static.politico.com/eb/61/c1f3860c4cdc85e87b8b815cf975/200917-trump-ap-4-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/09/12/us/politics/12harris-parents-india/12harris-parents-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+        width: 600
+        height: 484
         isCached: true
   - title: "Kamala Harris Wore Timberlands. The Internet Responded."
     excerpt: "Vice Presidential nominee Kamala Harris stepped off a plane to tour the scene of a devastating California wildfire in Timberland boots. Cue a social media chorus of boos and yays."

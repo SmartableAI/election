@@ -30,1372 +30,1054 @@ images:
     isCached: true
 
 related:
-  - title: "Trump foments mistrust of election he claims won't be honest"
-    excerpt: "President Donald Trump and top aides are responding to the uproar over his failure to guarantee a peaceful transfer of power by intensifying their efforts to create election chaos he can use to cling onto power should he lose in November.\n    \n"
-    publishedDateTime: 2020-09-25T08:57:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWYsLzAX4eM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html"
+  - title: "Pence does his best but Harris won't let him explain away Trump's failures"
+    excerpt: "Vice President Mike Pence tried his best on Wednesday to recast the reality of Donald Trump's presidency, but Sen. Kamala Harris, the Democratic pick for his job, refused to let him spin away the nation's current dire plight during their single debate.\n    \n"
+    publishedDateTime: 2020-10-08T11:09:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/125OZAHasvQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 223
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007211332-split-vp-debate-harris-pence-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "There will be more space between Pence and Harris at next week's debate"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will be separated by 12 feet at their debate on Wednesday, a source familiar with the plans tells CNN.\n    \n"
+    publishedDateTime: 2020-10-03T00:53:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ut2ExXTcjVE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 210
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930151306-01-commission-on-presidential-debates-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence and Harris prepare for a debate clash on coronavirus"
+    excerpt: "Four years ago, then-Indiana Gov. Mike Pence let out an exasperated \"there you go again\" on the debate stage after his opponent, Virginia Sen. Tim Kaine, said \"America, you need a 'You're hired' president, not a 'You're fired' president.\"\n    \n"
+    publishedDateTime: 2020-10-07T17:00:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-gkR_GR4J2M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/pence-harris-debate-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/pence-harris-debate-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 210
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Kamala Harris and Mike Pence debate"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris are participating Wednesday in the lone vice presidential debate of the 2020 election.\n    \n"
+    publishedDateTime: 2020-10-08T03:28:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JGtyCSfg5-o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 210
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris on Pence interruption: Mr. Vice President, I am speaking"
+    excerpt: "Sen. Kamala Harris hit back at Vice President Mike Pence after interrupting one of her answers about coronavirus during the only vice presidential debate of the 2020 election.\n    \n"
+    publishedDateTime: 2020-10-08T02:11:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nb498u0H4JU/kamala-harris-mike-pence-i-am-speaking-moment-dbx-2020-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/07/kamala-harris-mike-pence-i-am-speaking-moment-dbx-2020-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/07/kamala-harris-mike-pence-i-am-speaking-moment-dbx-2020-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 210
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007220124-harris-pence-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris rips Trump administration's response to coronavirus pandemic in only debate with Mike Pence"
+    excerpt: "Vice President Mike Pence and California Sen. Kamala Harris will square off Wednesday in their only debate as the Trump administration reels from an outbreak of Covid-19 at the White House and erratic decisions by the commander in chief.\n    \n"
+    publishedDateTime: 2020-10-08T01:59:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ax9Yj0-2Jw8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 208
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007204624-20-vp-debate-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris and Mike Pence to be separated by plexiglass at Wednesday's debate"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will be separated by plexiglass at Wednesday night's debate, a source familiar with the preparations tells CNN, as the White House continues to be gripped by a coronavirus outbreak.\n    \n"
+    publishedDateTime: 2020-10-05T21:12:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ym6qI8Tn_YM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/vp-debate-plexiglass/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/vp-debate-plexiglass/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 205
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930151257-02-commission-on-presidential-debates-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Harris' goal in vice presidential debate: Focus on Trump, not Pence"
+    excerpt: "Kamala Harris and Mike Pence will be the two candidates on the debate stage in Utah on Wednesday night, but the California senator's goal is to make the contest all about the man who isn't there: President Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-06T17:56:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Pq92NE2HCg/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 205
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827160803-kamala-harris-speech-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "5 takeaways from the vice presidential debate between Kamala Harris and Mike Pence"
+    excerpt: "It was last week's debate, on decaf.\n    \n"
+    publishedDateTime: 2020-10-08T04:29:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v0uyySOTykA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/harris-pence-vp-debate-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/harris-pence-vp-debate-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 204
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007215231-02-split-vp-debate-harris-pence-facing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence tests negative and continues campaigning despite Trump diagnosis"
+    excerpt: "Vice President Mike Pence tested negative for Covid-19 again, an administration official said Saturday morning, after traveling to multiple states for indoor and outdoor events, participating in numerous White House events and meetings and having been in frequent close contact with President Donald Trump"
+    publishedDateTime: 2020-10-03T18:03:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YjU5SL7xJBM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002094925-01-pence-0925-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pence and Harris meet for vice presidential debate as administration is gripped by Covid-19"
+    excerpt: "Vice President Mike Pence and California Sen. Kamala Harris will square off Wednesday in their only debate as the Trump administration reels from an outbreak of Covid-19 at the White House and erratic decisions by the commander in chief.\n    \n"
+    publishedDateTime: 2020-10-07T23:39:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ax9Yj0-2Jw8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/us-election-vice-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden being tested for coronavirus following Trump's positive test"
+    excerpt: "Democratic presidential nominee Joe Biden is being tested for coronavirus on Friday morning, following President Donald Trump's disclosure that he had tested positive just days after the first debate.\n    \n"
+    publishedDateTime: 2020-10-02T13:48:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/awQy7z3Y2fA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/joe-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/joe-biden-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924212439-23-week-in-photos-0924-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929171850-biden-arrives-cleveland-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump uses FBI director as a foil ahead of Election Day"
-    excerpt: "When the White House opened up a new line of attack Friday on President Donald Trump's hand-picked FBI director, it might have seemed like a precursor to another dismissal.\n    \n"
-    publishedDateTime: 2020-09-25T21:09:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mEEqhO-7tKY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/trump-christopher-wray-fbi-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/trump-christopher-wray-fbi-election/index.html"
+  - title: "Biden campaign highlights historic nature of Harris nomination in new ads ahead of VP debate"
+    excerpt: "Joe Biden's presidential campaign on Tuesday released a set of nationwide ads featuring only California Sen. Kamala Harris, the Democratic ticket's vice-presidential candidate, ahead of her face off with Vice President Mike Pence at the debate in Salt Lake City.\n    \n"
+    publishedDateTime: 2020-10-06T13:13:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_QkYXAYxDI8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/kamala-harris-solo-ad-rollout/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/kamala-harris-solo-ad-rollout/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 190
+    quality: 189
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191030104348-01-christopher-wray-1030-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump set to name Supreme Court pick as he sows fears of election chaos"
-    excerpt: "As President Donald Trump continues to sow doubt and uncertainty about the election, he's set to announce his third Supreme Court nominee in the Rose Garden Saturday, the capstone of the promise he made four years ago to name a long line of conservative judges who will reshape the courts for generations.\n"
-    publishedDateTime: 2020-09-26T13:38:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cKXSZRqjQ1U/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/donald-trump-supreme-court-nomination-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/donald-trump-supreme-court-nomination-2020-election/index.html"
+  - title: "Pence accuses Biden, Harris of wanting to pack Supreme Court"
+    excerpt: "Mike Pence accuses Joe Biden and Kamala Harris of wanting to \"pack the court.\" Harris did not say whether she and Biden support adding more seats to the Supreme Court or not."
+    publishedDateTime: 2020-10-08T02:48:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-accuses-biden-harris-of-wanting-to-pack-supreme-court-93399621584"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93399621584"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93399621584"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
+      name: NBC News
+      domain: nbcnews.com
+    quality: 185
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925151553-01-trump-0925-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-mike-pence-debate-1920x1080-ac-1032p.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump's chaotic debate underscores stakes of November's election"
-    excerpt: "It was easily the worst and most rancorous presidential debate in history. But it still left the country with its starkest election choice in many generations.\n    \n"
-    publishedDateTime: 2020-09-30T10:36:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-EzEHu_SChU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/donald-trump-joe-biden-debate-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/donald-trump-joe-biden-debate-analysis/index.html"
+  - title: "Pence, Harris spar over federal Covid-19 response as Trump's illness looms"
+    excerpt: "The vice presidential candidates sat 12 feet apart and were separated by sheets of plexiglass in a debate that focused on the pandemic, the economy and the Supreme Court."
+    publishedDateTime: 2020-10-08T06:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-harris-meet-vice-presidential-debate-covid-19-cases-surge-n1242451"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242451"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242451"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929235006-biden-trump-opinion-roundup-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump and Biden prepare for a clash over voter fraud claims at Tuesday's debate"
-    excerpt: "President Donald Trump is expected to wage an attack on the election itself at Tuesday night's debate with former Vice President Joe Biden by repeating his past claims that conflate and exaggerate problems with mail-in voting.\n    \n"
-    publishedDateTime: 2020-09-29T14:46:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/au2amYnOLWg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/trump-voter-fraud-claims/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/trump-voter-fraud-claims/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 186
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928173850-04-biden-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Dems to insist Trump's court nominee sit out legal challenges to election results "
-    excerpt: "Senate Democrats say they will press President Donald Trump's Supreme Court nominee to commit to recuse herself if the justices hear a case that could impact the outcome of the fall elections, a request that could become a major flashpoint amid Trump's persistent attacks on the legitimacy of the elections.\n"
-    publishedDateTime: 2020-09-25T23:35:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6PUvLiGFmYA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/democrats-supreme-court-nominee-election-results/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/democrats-supreme-court-nominee-election-results/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 184
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925173219-sen-patrick-leahy-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump and Biden set to square off in highly anticipated first presidential debate "
-    excerpt: "President Donald Trump heads into Tuesday's first presidential debate trailing former Vice President Joe Biden in the polls and on defense about his handling of a pandemic that has killed more than 200,000 Americans and led some 30 million people to file unemployment claims.\n    \n"
-    publishedDateTime: 2020-09-29T23:35:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EVjQXsZ6TN4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/us-election-first-presidential-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/us-election-first-presidential-debate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 184
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929092936-debate-stage-0928-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump has stacked the federal bench, but he's not winning many election court battles"
-    excerpt: "President Donald Trump stacked the federal judiciary long before nominating his third Supreme Court justice. So far, that hasn't helped him gain an advantage in 2020 voting nearly as much as he might have liked.\n    \n"
-    publishedDateTime: 2020-09-27T11:49:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ywcmzLuMi0A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/court-rulings-trump-campaign-judiciary/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/court-rulings-trump-campaign-judiciary/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 183
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925151553-01-trump-0925-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3418182/201007-vp-debate-main-bar-main-cover-cs_1d92a419cac8bd365ab516f44cc13e0e.jpg"
+        width: 2500
+        height: 1250
         isCached: true
-  - title: "Fact check: Trump Jr. touts baseless rigged-election claims to recruit 'army' for his dad "
-    excerpt: "Donald Trump Jr. is touting baseless election-rigging claims in videos posted to Facebook and Twitter asking \"able-bodied\" people to join an election security \"army\" for his father.\n    \n"
-    publishedDateTime: 2020-09-23T18:54:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q7eutsu64cM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless-rigged-election-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/donald-trump-jr-baseless-rigged-election-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 180
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200728102117-donald-trump-jr-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration planning to put up billboards of immigration violators ahead of election"
-    excerpt: "The Trump administration is considering putting up billboards of immigration violators, an unprecedented move in lockstep with the President's law-and-order message ahead of the election, according to two sources familiar with the proposal.\n    \n"
-    publishedDateTime: 2020-09-30T21:54:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tHL90-UCm2A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/immigration-sanctuary-city-billboards/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/immigration-sanctuary-city-billboards/index.html"
+  - title: "Kamala Harris' past health care positions could come under the spotlight in debate"
+    excerpt: "California Sen. Kamala Harris could be forced into the uncomfortable position on Wednesday night of explaining her past support of \"Medicare for All,\" a proposal the Trump campaign has described as a socialized takeover of American health care -- and Harris' running mate, Democratic nominee Joe Biden,"
+    publishedDateTime: 2020-10-07T14:50:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1eM0wBoOyFU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/kamala-harris-health-care/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/kamala-harris-health-care/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Vast majority of Senate campaign ads steer clear of linking Biden or Trump to their opponents "
-    excerpt: "To Senate Republicans, Joe Biden isn't much of a bogeyman.\n    \n"
-    publishedDateTime: 2020-09-29T17:36:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bI1jU1tzzds/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/senate-ads-biden-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/senate-ads-biden-trump/index.html"
+  - title: "Post-debate CNN poll: Harris seen as winner in a contest that matched expectations"
+    excerpt: "More Americans said Sen. Kamala Harris did the best job in the vice presidential debate Wednesday night, according to a CNN Instant Poll of registered voters who watched.\n    \n"
+    publishedDateTime: 2020-10-08T05:27:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7zUMRLZ-a4o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/mike-pence-kamala-harris-vice-presidential-debate-poll/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/mike-pence-kamala-harris-vice-presidential-debate-poll/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 178
+    quality: 179
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918012836-trump-biden-town-halls-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007201720-08-vp-debate-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump pushes back on FBI director's testimony about Russia"
-    excerpt: "Former FBI deputy director Andrew McCabe discusses President Trump pushing back on FBI director Chris Wray's testimony before Congress about Russian efforts to interfere in US elections.\n    \n"
-    publishedDateTime: 2020-09-18T19:07:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zsPS4VCDu4M/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/18/mccabe-trump-fbi-director-wray-russia-2020-election-sot-nr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917232448-christopher-wray-ctn-0917-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump says he thinks he'll have a Supreme Court nominee next week"
-    excerpt: "President Donald Trump on Saturday said that Republicans have an \"obligation\" to fill Justice Ruth Bader Ginsburg's vacant seat on the Supreme Court \"without delay,\" as Democrats argue the Senate should refrain from confirming a replacement until after the next president is sworn in.\n    \n"
-    publishedDateTime: 2020-09-20T00:31:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qijw0PhLzlw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/trump-ruth-bader-ginsburg-vacant-seat-fill/index.html"
+  - title: "Trump campaign says it doesn't want changes to debate format "
+    excerpt: "President Donald Trump's reelection campaign said Thursday it opposes the Commission on Presidential Debates making changes to the format of the remaining debates after the commission said it would be adopting changes.\n    \n"
+    publishedDateTime: 2020-10-01T22:24:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/So_DFwEIbSw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-debate-changes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-debate-changes/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918212719-01-trump-ginsburg-reaction-0918-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: The dark subtext of Trump's 'good genes' compliment"
-    excerpt: "Genes, genes, genes. If you're President Donald Trump, it's about genes.\n    \n"
-    publishedDateTime: 2020-09-22T23:38:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dnKP7EUmi6k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/donald-trump-genes-historical-context-eugenics/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/donald-trump-genes-historical-context-eugenics/index.html"
+  - title: "See Trump's busy week before his Covid-19 diagnosis"
+    excerpt: "Before President Donald Trump tested positive for Covid-19 he had a busy week, traveling from Washington, DC, to Pennsylvania, Ohio, Minnesota and New Jersey.\n    \n"
+    publishedDateTime: 2020-10-02T22:32:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kqMo-dJSV2E/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/02/trump-contact-tracing-coronavirus-orig-jm.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200920143221-trump-minnesota-rally-thumb-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002140502-21-trump-unf-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why Trump just got his best two polls of the cycle"
-    excerpt: "Political watchers awoke Wednesday morning to the two best polls for President Donald Trump in the last six months.\n    \n"
-    publishedDateTime: 2020-09-23T15:44:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8G_QoGyQY5M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/polls-trump-biden-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/polls-trump-biden-analysis/index.html"
+  - title: "Pelosi says she's not being briefed on Trump's health"
+    excerpt: "House Speaker Nancy Pelosi on Sunday said she has not been briefed on President Donald Trump's health since his Covid-19 diagnosis despite her position as second in the presidential line of succession behind Vice President Mike Pence.\n    \n"
+    publishedDateTime: 2020-10-04T21:49:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5ZYKYVdBTc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/pelosi-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/pelosi-trump-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172048-04-trump-0921-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929062046-file-nancy-pelosi-0724-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump again minimizes the pandemic as officials warn of a fall surge "
-    excerpt: "A new clash between Donald Trump's political goals and his duties to public health threatens to deprive America of presidential leadership in the critical weeks that will decide if a second wave of Covid-19 swamps the country this winter.\n    \n"
-    publishedDateTime: 2020-09-23T11:13:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M-VbPMA-PVQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/coronavirus-donald-trump-election-2020/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/coronavirus-donald-trump-election-2020/index.html"
+  - title: "Live updates: Pence, Harris to face off after Trump's Covid diagnosis"
+    excerpt: "Wednesday's vice presidential debate comes less than a week after Trump announced he had tested positive for Covid-19."
+    publishedDateTime: 2020-10-07T13:15:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/vice-presidential-debate-n1242346"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242346"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242346"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 175
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3417632/201005-vp-debate-live-blog-main-cover-cs_36a324da8209b59ae1ae41b6ae27debf.jpg"
+        width: 2500
+        height: 1405
+        isCached: true
+  - title: "White House prepared for Trump to return to Oval Office"
+    excerpt: "President Donald Trump's aides were preparing for him to return to the Oval Office on Wednesday, an eventuality one senior official seemed to believe was so inevitable he mistakenly claimed it already happened.\n    \n"
+    publishedDateTime: 2020-10-07T13:46:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Bgag4pkenJg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/trump-oval-office-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/trump-oval-office-coronavirus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922190137-trump-south-lawn-0922-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007002841-donald-trump-leaves-walter-reed-1005-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump to pay respects to Ginsburg at court"
-    excerpt: "President Donald Trump will visit the Supreme Court on Thursday to pay respects to the late Justice Ruth Bader Ginsburg, the White House said.\n    \n"
-    publishedDateTime: 2020-09-23T14:03:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b9GylWfBZho/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/donald-trump-ginsburg/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/donald-trump-ginsburg/index.html"
+  - title: "Texas Supreme Court rules Harris County cannot mail out ballot applications to all registered voters"
+    excerpt: "The Texas Supreme Court ruled Wednesday that Harris County, one of the largest in the country, cannot mail out applications for absentee ballots to all of its 2.4 million registered voters.\n    \n"
+    publishedDateTime: 2020-10-07T17:46:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UPcosDECDVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/texas-harris-county-ballot-applications/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/texas-harris-county-ballot-applications/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923092952-02-rbg-scotus-0923-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200903142822-i-voted-stickers-0407-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump booed as he pays respects to Ginsburg at court"
-    excerpt: "Emerging at the top of the Supreme Court steps on Thursday, President Donald Trump heard something he doesn't often hear -- at least directed toward him: booing.\n    \n"
-    publishedDateTime: 2020-09-24T15:56:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wNbE5KyrcuM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-supreme-court-boos/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-supreme-court-boos/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924100434-01-trumps-scotus-0924-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's health care 'vision' punts on two major issues"
-    excerpt: "President Donald Trump is touting what he calls his health care \"vision,\" but the executive orders he's planning to sign Thursday afternoon largely punt on addressing two major issues facing Americans.\n    \n"
-    publishedDateTime: 2020-09-24T21:41:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I3JkrSmNfao/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/trump-health-care-pre-existing-conditions/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-health-care-pre-existing-conditions/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924143514-01-campaign-unf-update-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's threats and actions bring America to the brink"
-    excerpt: "President Donald Trump's refusal on Wednesday to guarantee a peaceful transfer of power if he loses to Joe Biden in November is leading America towards a dark place during a year of incendiary political tensions.\n    \n"
-    publishedDateTime: 2020-09-24T08:19:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KBXk4kolQ1Q/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-democracy/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/donald-trump-election-democracy/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923212353-01-trump-presser-0923-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump has lost patience with CDC head after series of mixed messages"
-    excerpt: "President Donald Trump has lost patience with the head of the US Centers for Disease Control and Prevention, Dr. Robert Redfield, as well as with the other public health experts on his coronavirus team because their sober messaging on the future of the pandemic clashes with his rosy assessments.\n   "
-    publishedDateTime: 2020-09-25T14:10:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t0W5-Lq1VE8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/redfield-trump-cdc-morale/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/redfield-trump-cdc-morale/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200708181939-cdc-dr-robert-redfield-president-donald-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: 10 repeat Trump false claims to look out for at the debate"
-    excerpt: "Donald Trump made dozens of false claims during the three presidential debates against Hillary Clinton in 2016.\n    \n"
-    publishedDateTime: 2020-09-29T17:57:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/szDYFenbSLo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/trump-fact-check-debate-10-repeats/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/trump-fact-check-debate-10-repeats/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928225149-trump-camilo-2-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "See how voters in Georgia react to Trump tax news"
-    excerpt: "CNN's Martin Savidge speaks to voters in Georgia about the New York Times report on President Trump's taxes that revealed he has paid no income taxes for 10 out of 15 years.\n    \n"
-    publishedDateTime: 2020-09-29T00:51:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EARoM00sGS4/trump-taxes-nyt-voter-reaction-georgia-savidge-dnt-ebof-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/09/29/trump-taxes-nyt-voter-reaction-georgia-savidge-dnt-ebof-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/29/trump-taxes-nyt-voter-reaction-georgia-savidge-dnt-ebof-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928204221-ga-voter-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's debate callout bolsters far-right Proud Boys "
-    excerpt: "Members of the far-right group the Proud Boys are celebrating comments made by President Donald Trump after he was asked ​to condemn White supremacists, and refused to do so, during Tuesday's presidential debate.\n    \n"
-    publishedDateTime: 2020-09-30T23:17:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2jnYpJFSB2o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/proud-boys-trump-debate-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/proud-boys-trump-debate-trnd/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212329-19-debate-cleveland-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Avlon: Proud Boys see Trump's comments as an endorsement"
-    excerpt: "CNN's John Avlon goes over President Trump's past chances to speak out against white supremacy in America, and how often he balked at opportunities, and did not like it when he actually did.\n    \n"
-    publishedDateTime: 2020-10-01T12:08:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FMwzdBaAmNA/trump-white-supremacy-reality-check-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/01/trump-white-supremacy-reality-check-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/01/trump-white-supremacy-reality-check-newday-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929215947-31-debate-cleveland-trump-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration sets refugee cap at 15,000, a new historic low"
-    excerpt: "The Trump administration has informed Congress it intends to accept only 15,000 refugees this fiscal year, a new historic low for the US.\n    \n"
-    publishedDateTime: 2020-10-01T12:33:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dOZpS2yK7b4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/us-refugee-cap-fy21/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/us-refugee-cap-fy21/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191011160006-statue-of-liberty-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "President Donald Trump going to Walter Reed medical center"
-    excerpt: "President Donald Trump will be taken to Walter Reed National Military Medical Center, according to the White House.\n    \n"
-    publishedDateTime: 2020-10-02T21:47:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TNOHTVNrNYc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/president-donald-trump-walter-reed-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002092919-03-trump-1001-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration to announce $13 billion in additional aid to Puerto Rico"
-    excerpt: "The Trump administration on Friday is expected to announce $13 billion in additional aid to Puerto Rico to help with rebuilding in the aftermath of 2017's Hurricane Maria.\n    \n"
-    publishedDateTime: 2020-09-18T15:21:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JCYjL79XuBE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/trump-aid-puerto-rico/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/171003195612-president-trump-arrives-in-puerto-rico-in-aftermath-of-hurricane-maria-devastating-the-island-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "As Trump refuses to commit to a peaceful transition, Pentagon stresses it will play no role in the election"
-    excerpt: "President Donald Trump this week refused to commit to a peaceful transition should he lose the November election, leading some to speculate that he might seek to use the tools of presidential power including his role as commander in chief of the armed forces to prolong his time in office.\n    \n"
-    publishedDateTime: 2020-09-25T15:40:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O-92NmdGF1E/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/pentagon-election-insurrection-act/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/pentagon-election-insurrection-act/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200110164811-03-milley-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Donald Trump seems to think he has already won the Nobel Peace Prize"
-    excerpt: "At a campaign rally in Ohio on Monday night, President Donald Trump went on an extended attack of the media for not adequately covering the fact that he has been nominated for the Nobel Peace Prize.\n    \n"
-    publishedDateTime: 2020-09-22T16:06:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dSGeujFmDyw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/donald-trump-nobel-peace-prize-ohio/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/donald-trump-nobel-peace-prize-ohio/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921172048-04-trump-0921-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Don't miss the Ivanka Trump bombshell buried in the Times tax story"
-    excerpt: "The big bombshell in The New York Times tax returns story is, obviously, the fact that President Donald Trump paid just $750 in federal income taxes in each 2016 and 2017 -- and for 10 of the 15 previous years, paid no federal income taxes at all.\n    \n"
-    publishedDateTime: 2020-09-28T19:52:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ojEqElWZfsA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-donald-trump-tacves/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/ivanka-trump-donald-trump-tacves/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190628220733-01-g20-summit-ivanka-0629-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ex-NSC official accuses White House of trying to block Bolton book to satisfy Trump"
-    excerpt: "A former National Security Council official is accusing White House and Justice Department officials of trying to stop former national security adviser John Bolton's book publication to satisfy President Donald Trump, potentially circumventing the normal channels of handling classified disclosures.\n"
-    publishedDateTime: 2020-09-23T14:31:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mVeibmjYyV8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/john-bolton-ellen-knight/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/john-bolton-ellen-knight/index.html"
+  - title: "Federal appeals court rules Trump can't block New York subpoena for his tax returns"
+    excerpt: "The Manhattan district attorney can obtain President Donald Trump's tax returns, a federal appeals court ruled on Wednesday, dealing the President another setback in his effort to shield his tax returns from investigators but the case is likely to head to the Supreme Court.\n    \n"
+    publishedDateTime: 2020-10-07T15:46:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e-SqvyGrIxw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/trump-tax-returns-subpoena-ruling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/trump-tax-returns-subpoena-ruling/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200625111346-john-bolton-book-cover-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Here's what we know -- and what we don't -- about Trump's $200 drug discount cards"
-    excerpt: "In his latest bid to show that he's lowering drug prices, President Donald Trump said Thursday -- less than six weeks before the election -- that he will send $200 drug discount cards to 33 million Americans on Medicare.\n    \n"
-    publishedDateTime: 2020-09-25T20:00:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/amXZviHTVmY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/senior-citizens-drug-discount-cards-trump-health-care/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/senior-citizens-drug-discount-cards-trump-health-care/index.html"
+  - title: "Harris worked to speak 'past Pence, at President Trump and to the American people'"
+    excerpt: "NBC's Hallie Jackson breaks down the Vice Presidential Debate between Sen. Kamala Harris and Vice President Mike Pence, and describes how Harris was speaking \"past Pence, at President Trump and to the American people."
+    publishedDateTime: 2020-10-08T03:16:00Z
+    webUrl: "https://www.nbcnews.com/video/harris-worked-to-speak-past-pence-at-president-trump-and-to-the-american-people-93400133641"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93400133641"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93400133641"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200925122533-trump-healthcare-north-carolina-0924-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-kamala-harris-debate-1920x1080-ac-1111p.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The Point: Donald Trump's worst moment of the 1st debate (that you probably missed)"
-    excerpt: "President Donald Trump's bullying, cajoling and constant interruptions in the first 2020 general election debate with former Vice President Joe Biden on Tuesday night made the whole affair confusing and difficult to follow. And while there will (rightly) be scads of attention paid to Trump's unwillingness"
-    publishedDateTime: 2020-09-30T14:55:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fbV64PyK_vo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/polls-donald-trump-election-first-debate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/polls-donald-trump-election-first-debate/index.html"
+  - title: "The Biden campaign talks up Mike Pence’s debate skills before he faces Kamala Harris."
+    excerpt: "Biden campaign surrogates played up Vice President Mike Pence’s skill as a debater ahead of his matchup with Senator Kamala Harris on Wednesday, while previewing how Ms. Harris planned to make a case against President Trump’s handling of the coronavirus."
+    publishedDateTime: 2020-10-07T17:35:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/the-biden-campaign-talks-up-mike-pences-debate-skills-before-he-faces-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/the-biden-campaign-talks-up-mike-pences-debate-skills-before-he-faces-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-biden-campaign-talks-up-mike-pences-debate-skills-before-he-faces-kamala-harris.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929215949-32-debate-cleveland-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump makes false claims about his record on manufacturing and coal jobs"
-    excerpt: "President Donald Trump delivered a meandering speech in Ohio on Monday that was officially about fighting for American workers.\n    \n"
-    publishedDateTime: 2020-09-23T20:59:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0x6cvi9BdmI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/fact-check-trump-jobs-manufacturing-coal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/fact-check-trump-jobs-manufacturing-coal/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
+      name: New York Times
+      domain: nytimes.com
     quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921171405-02-trump-0921-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/10/07/multimedia/07elections-briefing-pence2/07elections-briefing-pence2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Flynn lawyer says she asked Trump not to pardon his former national security adviser"
-    excerpt: "A lawyer for former national security adviser Michael Flynn acknowledged at a court hearing on Tuesday that she recently spoke with President Donald Trump about the politically charged case.\n    \n"
-    publishedDateTime: 2020-09-29T17:48:27Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1-dIQxn3dgE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/flynn-trump-pardon-hearing/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/flynn-trump-pardon-hearing/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190624160038-01-michael-flynn-courthouse-0624-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Appellate judges skeptical of Trump's argument to block subpoena for financial records"
-    excerpt: "A lawyer for President Donald Trump told a federal appeals court Friday that there is no request for documents that could be made as part of the Manhattan district attorney's investigation concerning hush-money payments issued during the 2016 presidential election that he wouldn't consider overbroad.\n"
-    publishedDateTime: 2020-09-25T17:32:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pM7UmeJauDk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-lawsuit-financial-records/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-lawsuit-financial-records/index.html"
+  - title: "State officials brace for conflict after Trump tells his supporters to go to the polls"
+    excerpt: "State and local officials across the country are scrambling to respond to the potential for voter intimidation and violence on Election Day in the wake of President Donald Trump's calls during Tuesday's debate for his supporters to \"go into the polls.\"\n    \n"
+    publishedDateTime: 2020-10-01T21:39:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1ajVDfrbABQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/voting-polls-trump-intimidation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/voting-polls-trump-intimidation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200916192921-03-trump-press-briefing-0916-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924210438-01-voting-0811-connecticut-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: There's a historic insurrection against Donald Trump happening within the GOP"
-    excerpt: "There's a revolution happening within the GOP right under our noses.\n    \n"
-    publishedDateTime: 2020-09-28T16:07:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HSVKiRe9yL4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/28/politics/tom-ridge-colin-powell-biden-christine-todd-whitman/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/28/politics/tom-ridge-colin-powell-biden-christine-todd-whitman/index.html"
+  - title: "Trump's illness raises national security concerns as Pentagon looks to reassure public"
+    excerpt: "Military leaders moved quickly to reassure the American public Friday that it was business as usual at the Pentagon despite President Donald Trump's announcement that he tested positive for coronavirus, making it clear in the hours that followed there was no indication of an immediate threat to the US"
+    publishedDateTime: 2020-10-03T00:03:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/A3ZrAZTuGNk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-national-security-concerns/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/trump-coronavirus-national-security-concerns/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 167
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200928113202-02-trump-briefing-taxes-0927-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002183014-trump-virus-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "A package containing the poison ricin and addressed to Trump intercepted by law enforcement"
-    excerpt: "A package containing the poison ricin and addressed to President Donald Trump was intercepted by law enforcement earlier this week, according to two law enforcement officials.\n    \n"
-    publishedDateTime: 2020-09-19T19:56:57Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bwEQeP_09Eo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/19/politics/package-poison-ricin-addressed-to-trump-intercepted/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/19/politics/package-poison-ricin-addressed-to-trump-intercepted/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917092624-101-trump-briefing-0916-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Almost every single one of Trump's debate claims about mail-in voting was wrong"
-    excerpt: "President Donald Trump lied about a wide variety of topics -- including health care, the economy and the coronavirus pandemic -- during Tuesday's presidential debate. But he was especially dishonest on the subject of voting by mail.\n    \n"
-    publishedDateTime: 2020-10-01T00:54:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uM94CipKMTg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/fact-check-trump-first-debate-mail-voting-fraud/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/fact-check-trump-first-debate-mail-voting-fraud/index.html"
+  - title: "White House shows no signs of backing down from Trump's refusal to condemn White supremacy"
+    excerpt: "The White House is showing no signs of backing down from President Donald Trump's refusal to condemn White supremacy during Tuesday night's presidential debate, despite pleas from some Republican allies to clarify his comments.\n    \n"
+    publishedDateTime: 2020-10-01T18:39:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oiiwgUwfSbc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/donald-trump-white-house-white-supremacy-proud-boys/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/donald-trump-white-house-white-supremacy-proud-boys/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001053-44-debate-clevelant-0929-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001100032-01-trump-0930-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Outgoing US ambassador to China blames Beijing for coronavirus as he heads home to help Trump"
-    excerpt: "The outgoing United States Ambassador to China has denounced Beijing's initial handling of the coronavirus, saying that \"what could have been contained in Wuhan ended up becoming a worldwide pandemic.\"\n    \n"
-    publishedDateTime: 2020-09-18T09:17:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RL14ekAGYao/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/asia/china-us-ambassador-terry-branstad-intl-hnk/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/asia/china-us-ambassador-terry-branstad-intl-hnk/index.html"
+  - title: "Trump's doctors paint a rosy -- but vague -- picture of his health during Covid-19 treatment"
+    excerpt: "President Donald Trump's physicians on Saturday painted a rosy, but vague, picture of his health as he underwent treatment for coronavirus, saying he was doing well even as they declined to say how high his fever went and whether he ever needed supplemental oxygen.\n    \n"
+    publishedDateTime: 2020-10-03T19:54:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mSsFZtcwj2c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/health/trump-health-walter-reed-doctors-briefing-bn/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/health/trump-health-walter-reed-doctors-briefing-bn/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161207095547-terry-branstad-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003122844-01-trump-doctors-presser-1003-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact-check: Team Trump capitalizes on Pennsylvania incident to baselessly accuse Democrats of 'stealing' the 2020 election"
-    excerpt: "President Donald Trump and his campaign are spreading disinformation about an incident in Pennsylvania where nine ballots were improperly discarded, and are falsely claiming it proves widespread \"voter fraud\" and that Democrats are \"trying to steal the election.\"\n    \n"
-    publishedDateTime: 2020-09-25T23:40:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KVLTmIM7Epo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/trump-pennsylvania-ballots-fraud-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/trump-pennsylvania-ballots-fraud-fact-check/index.html"
+  - title: "The Point: 14 lingering questions about Donald Trump, coronavirus and the future of his presidency"
+    excerpt: "The 72 hours between President Donald Trump's acknowledgment early Friday morning that he had tested positive for Covid-19 and his wildly irresponsible parade by supporters gathered outside Walter Reed National Military Medical Center Sunday night have created more questions than they have answered.\n"
+    publishedDateTime: 2020-10-05T22:02:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-mBDDua5SmE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-coronavirus-2020-campaign-election-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-coronavirus-2020-campaign-election-walter-reed/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924162343-mail-in-ballots-voting-3-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003231343-01-donald-trump-walter-reed-1003-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration asks Supreme Court to intervene in census fight over undocumented immigrants"
-    excerpt: "The Trump administration asked the Supreme Court to step in and consider a second fight over citizenship and the 2020 census on Tuesday, and to do so on an expedited basis.\n    \n"
-    publishedDateTime: 2020-09-22T17:58:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84fbYNLbktU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/22/politics/census-citizenship-districts/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/census-citizenship-districts/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200706095749-01-scotus-0615-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump claims White House can overrule FDA's attempt to toughen guidelines for coronavirus vaccine"
-    excerpt: "President Donald Trump claimed Wednesday that the White House could override the US Food and Drug Administration if the agency released tougher standards for the authorization of a Covid-19 vaccine, casting such a move as \"political.\"\n    \n"
-    publishedDateTime: 2020-09-24T02:16:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3RhFVf5XhL8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/trump-fda-coronavirus-vaccine/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923204731-trump-press-conference-0923-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Former Pence aide: Staffers discussed scenarios where Trump won't leave White House"
-    excerpt: "White House staffers discussed scenarios where President Donald Trump doesn't accept the results of the November presidential election and refuses to leave, according to a former staffer who has since spoken out against the president."
-    publishedDateTime: 2020-09-26T01:49:00Z
-    webUrl: "https://www.politico.com/news/2020/09/25/olivia-troye-trump-leaving-white-house-421970"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/25/olivia-troye-trump-leaving-white-house-421970"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/25/olivia-troye-trump-leaving-white-house-421970"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 154
-    images:
-      - url: "https://static.politico.com/91/ff/b4679b1840a8b77c0b55a511b05d/200917-olivia-troye-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Fact Check: RNC and Trump campaign robocalls urge Republicans to vote absentee by falsely claiming Democrats oppose it "
-    excerpt: "Robocalls sent by Trump surrogates Kimberly Guilfoyle and the President's daughter-in-law Lara Trump are encouraging Republican voters to use absentee ballots to vote in November, calling them one of the \"best ways\" to support President Trump in November.\n    \n"
-    publishedDateTime: 2020-09-25T00:23:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/J4yNBe4LhRg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/fact-check-rnc-robocalls-misinformation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 151
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825144357-01-rnc-ratings-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump Won’t Commit to ‘Peaceful’ Post-Election Transfer of Power"
-    excerpt: "In response to a question, the president complained about mail-in ballots and said: “There won’t be a transfer, frankly. There will be a continuation.”"
-    publishedDateTime: 2020-09-24T01:54:00Z
-    webUrl: "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/23/us/politics/trump-power-transfer-2020-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/23/us/politics/23dc-trump-power/23dc-trump-power-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "State Department revoked award for journalist over social media posts critical of Trump and lied about it, watchdog finds"
-    excerpt: "The State Department revoked a prestigious award from a Finnish journalist because of social media posts critical of President Donald Trump, according to a report from the State Department Office of Inspector General.\n    \n"
-    publishedDateTime: 2020-09-25T15:21:20Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rc5Q67KLu9I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/jessikka-aro-iwoc-trump-state-department/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/jessikka-aro-iwoc-trump-state-department/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 150
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190407122542-jessikka-aro-2-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump and Pence push the Chamber of Commerce on Democratic endorsements."
-    excerpt: "President Trump and Vice President Mike Pence pushed officials at the U.S. Chamber of Commerce in a phone call on Thursday for answers about why they have endorsed roughly two dozen freshman House Democrats,"
-    publishedDateTime: 2020-09-19T03:57:00Z
-    webUrl: "https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/us/elections/trump-and-pence-push-the-chamber-of-commerce-on-democratic-endorsements.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 149
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/18/us/politics/18elections-briefing-wolfe-18-19-25/18elections-briefing-wolfe-18-19-25-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump's former national security adviser says President's refusal to commit to peaceful transfer of power is disappointing"
-    excerpt: "President Donald Trump's former national security adviser H.R. McMaster lamented Thursday the President's refusal to commit to providing a peaceful post-election transition of power on Thursday and dismissed the notion of potential military involvement.\n    \n"
-    publishedDateTime: 2020-09-24T23:11:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L69fJcHE3G8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/trump-mcmaster-peaceful-transfer/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/trump-mcmaster-peaceful-transfer/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 149
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922171921-lead-hr-mcmaster-live-jake-tapper-00013503-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "At Pentagon, Fears Grow That Trump Will Pull Military Into Election Unrest"
-    excerpt: "Defense Department officials said top generals could resign if Mr. Trump ordered the active-duty military into the streets to quell election protests."
-    publishedDateTime: 2020-09-25T09:14:00Z
-    webUrl: "https://www.nytimes.com/2020/09/25/us/politics/trump-military-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/25/us/politics/trump-military-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/25/us/politics/trump-military-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 148
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/24/us/24dc-military-2/24dc-military-2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Last monthly jobs report before election could help Trump win — or sink him"
-    excerpt: "If it’s the president's last month to demonstrate the voters should have confidence in him… it's maybe not the greatest start to the month for him,” one economist said."
-    publishedDateTime: 2020-10-02T03:33:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/last-monthly-jobs-report-election-could-help-trump-or-help-n1241606"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241606"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241606"
+  - title: "Stoking his base, Trump warns of a Kamala Harris presidency"
+    excerpt: "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president."
+    publishedDateTime: 2020-09-22T08:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240492"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 148
+    quality: 160
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416719/201001-donald-trump-jm-1435_67bd21b3e045dd53b202b0c6f3fde635.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG"
         width: 2500
-        height: 1666
+        height: 1695
         isCached: true
-  - title: "Most voters say Biden-Trump debates won't move them. Here's why they could matter."
-    excerpt: "The debate will feature two septuagenarians who are prone to verbal stumbles, and seeing them side by side could affect voter perceptions."
-    publishedDateTime: 2020-09-29T08:35:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/most-voters-say-biden-trump-debates-won-t-move-them-n1241259"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241259"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241259"
+  - title: "Sen. Kamala Harris and VP Mike Pence 2020 debate preview"
+    excerpt: "The 2020 vice presidential candidates’ debate, between Democratic candidate Sen. Kamala Harris and Republican incumbent Vice President Mike Pence, will see Pence having to defend the record of the Trump administration,"
+    publishedDateTime: 2020-10-04T18:27:00Z
+    webUrl: "https://www.msnbc.com/am-joy/watch/sen-kamala-harris-and-vp-mike-pence-2020-debate-preview-93118021982"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo93118021982"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo93118021982"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/n_joy_debatepreview_201004_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Pence-Harris V.P. Debate Now Has Big Consequences"
+    excerpt: "Vice-presidential debates can often be afterthoughts in a presidential race. But with President Trump in the hospital, Mike Pence and Kamala Harris will now face an unusual amount of scrutiny, and a tricky balancing act."
+    publishedDateTime: 2020-10-05T21:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/05/us/politics/pence-harris-vice-president-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/04/us/04elections-Veep-pence/04elections-Veep-pence-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris and Mike Pence Debate: What to Watch For"
+    excerpt: "Mr. Pence will probably be pressed to defend President Trump’s handling of the coronavirus, and his own actions as well. Ms. Harris will have to defend not just her record, but also Joe Biden’s."
+    publishedDateTime: 2020-10-07T04:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/presidential-debate-kamala-harris-mike-pence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07debate-whattowatch3/07debate-whattowatch3-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Pence, Harris vice presidential debate: Everything you need to know"
+    excerpt: "The only vice presidential debate of the 2020 election is scheduled for Wednesday — and President Donald Trump's coronavirus diagnosis and the vice president's possible exposure are bringing extra scrutiny to the already highly anticipated showdown between Vice President Mike Pence and Sen."
+    publishedDateTime: 2020-10-07T10:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-harris-vice-presidential-debate-everything-you-need-know-n1242173"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242173"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242173"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 144
+    quality: 160
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3415551/200928-debates-historical-mn-2x1-1350_fd4050a2bdc154bbf925d3af1001fbca.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417889/201006-vp-debate-everything-know-main-cover-cs_4c3712a0043ec4dad00335f2647e93c0.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Vice presidential debate highlights between Pence and Harris"
+    excerpt: "Watch highlights from the 2020 vice presidential debate as Mike Pence and Kamala Harris face off on coronavirus, climate change and more."
+    publishedDateTime: 2020-10-08T05:13:00Z
+    webUrl: "https://www.nbcnews.com/video/vice-presidential-debate-highlights-between-pence-and-harris-93406277923"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93406277923"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93406277923"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/vp_mash_thumb.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mike Pence and Kamala Harris reflect America's demographic transformation"
+    excerpt: "The two vice presidential contenders who will share the stage Wednesday embody an evolution in the country over the last half-century."
+    publishedDateTime: 2020-10-07T19:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/mike-pence-kamala-harris-reflect-america-s-demographic-transformation-n1242434"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242434"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242434"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 159
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418229/201007-harris-pence-2up-2x1-jm-1333_45efe9ff8de2d3219ddc9f1f564cac52.jpg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump's debate refusal to discourage unrest after the election shows he doesn't get the U.S."
-    excerpt: "America isn't great just because of the brilliance of the U.S. Constitution, but because its leaders have chosen not to override it with the use of force."
-    publishedDateTime: 2020-10-01T08:36:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-debate-refusal-discourage-unrest-after-election-shows-he-ncna1241617"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241617"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241617"
+  - title: "Watch live: 2020 vice presidential debate between Mike Pence and Kamala Harris"
+    excerpt: "Watch the 2020 vice presidential debate livestream and see Vice President Mike Pence and Senator Kamala Harris face off live. Coverage starts at 8pmET."
+    publishedDateTime: 2020-10-02T00:08:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-2020-vice-presidential-debate-between-mike-pence-and-kamala-harris-92934725542"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92934725542"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92934725542"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 139
+    quality: 156
     images:
-      - url: "https://media4.s-nbcnews.com/i/MSNBC/Components/Video/201801/th_termlimits_180109.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/100120_Vice_Pres_Debate_NOW-Youtube.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "How Culpable Is Trump, and How Dangerous is QAnon?"
-    excerpt: "Charlie on Facebook’s outsized power, QAnon in Congress and why it’s the most dangerous conspiracy theory of the 21st century Ross on what isn’t Trump’s fault, and on Jeffrey Epstein and QAnon Michelle on Woodward’s revelations and her April 2018 article on QAnon I’ve been an Op-Ed columnist at The New York Times since 2017,"
-    publishedDateTime: 2020-09-18T09:05:00Z
-    webUrl: "https://www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/18/opinion/the-argument-qanon-trump-woodward.amp.html"
+  - title: "Taylor Swift, leaning further into politics, endorses Joe Biden and Kamala Harris."
+    excerpt: "Taylor Swift, the pop megastar who has increasingly leveraged her fame and platform to weigh in on political matters and social causes, announced Wednesday that she would support Joseph R. Biden Jr. and Senator Kamala Harris in the."
+    publishedDateTime: 2020-10-07T23:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/taylor-swift-joe-biden-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/taylor-swift-joe-biden-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/taylor-swift-joe-biden-kamala-harris.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 154
     images:
-      - url: "https://static01.nyt.com/images/2020/09/18/opinion/18argumentNew/18argumentNew-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/07/world/07elections-briefings-swift2/07elections-briefings-swift2-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump hits FBI director again over testimony on antifa, Russia"
-    excerpt: "We are looking at a lot of different things,” the president said about whether he was considering replacing Wray."
-    publishedDateTime: 2020-09-18T22:04:00Z
-    webUrl: "https://www.politico.com/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-christopher-wray-fbi-417863"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/e1/34/1807ae6c4a58ba9a66dfa18d35ee/191210-christopher-wray-gty-773.jpg"
-        width: 3793
-        height: 2528
-        isCached: true
-  - title: "Trump says he has given approval to TikTok deal"
-    excerpt: "Speaking to reporters as he left for a rally in North Carolina, the president said he had approved the deal \"in concept.\""
-    publishedDateTime: 2020-09-19T23:17:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/trump-says-he-has-given-approval-tiktok-deal-n1240555"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240555"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240555"
+  - title: "Vice President Pence tests negative for Covid after Trump's diagnosis"
+    excerpt: "Pence, who was with Trump this week, is scheduled to debate Democratic Sen. Kamala Harris next week Salt Lake City."
+    publishedDateTime: 2020-10-02T12:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/vice-president-pence-tests-negative-covid-after-trump-s-diagnosis-n1241787"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241787"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241787"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_38/3411859/200914-tiktok-mc-931_d045f16ae7ef829e6efab84041185738.JPG"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416916/201002-mike-pence-mc-1204_78bac30ec0c4f0f66330f46d019dc39c.JPG"
         width: 2500
-        height: 1572
+        height: 1672
         isCached: true
-  - title: "What Trump Is Missing About American History"
-    excerpt: "Setting up a classroom battle between 1619 and 1776 gets history totally wrong and is damaging for our nation."
-    publishedDateTime: 2020-09-20T11:02:00Z
-    webUrl: "https://www.politico.com/news/magazine/2020/09/20/trump-1619-project-education-patriotic-american-history-1776-418539"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/09/20/trump-1619-project-education-patriotic-american-history-1776-418539"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/09/20/trump-1619-project-education-patriotic-american-history-1776-418539"
+  - title: "President Pelosi? Pence prepares to risk it all for Trump"
+    excerpt: "The vice president is under pressure from some Republicans to secure himself in Washington. Trump’s campaign has other plans."
+    publishedDateTime: 2020-10-05T00:50:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/president-pelosi-pence-shrugs-off-covid-risk-426219"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/president-pelosi-pence-shrugs-off-covid-risk-426219"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/president-pelosi-pence-shrugs-off-covid-risk-426219"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://static.politico.com/02/07/28470f754340b58f363b4bfd3e1d/1619-project-trump-773.jpg"
+      - url: "https://static.politico.com/92/6b/fc1f9a5f4996ad0a0857fc06ec6e/ap20276686451375-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump Administration Adds to American Travel Restrictions in Cuba"
-    excerpt: "Among other measures, Americans will no longer be able to import Cuban cigars or stay in hotels owned by the Cuban government."
-    publishedDateTime: 2020-09-24T14:56:00Z
-    webUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/travel/trump-cuba-travel-restrictions.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/24/travel/24cuba-restrictions/merlin_102835471_35a1815e-38ba-42ae-8901-a7fe88944f24-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump says he might reject stricter FDA vaccine guidelines"
-    excerpt: "The FDA has reportedly proposed stricter emergency authorization standards, which are now under review by the White House Office of Management and Budget."
-    publishedDateTime: 2020-09-24T08:34:00Z
-    webUrl: "https://www.politico.com/news/2020/09/23/trump-vaccine-fda-guidelines-420803"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/23/trump-vaccine-fda-guidelines-420803"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/67/1b/41e125de446d88c1170824ae7021/200922-trump-debate-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump Wants You to Think You Can’t Get Rid of Him"
-    excerpt: "But every once in a while Donald Trump outpaces the baseline of corruption, disloyalty and sadism we’ve been forced to get used to. Outrage builds and the weary political world stirs. Sometimes even a few Republican officeholders feel the need to distance themselves from things the president says or does."
-    publishedDateTime: 2020-09-24T19:56:00Z
-    webUrl: "https://www.nytimes.com/2020/09/24/opinion/trump-election-2020.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/24/opinion/trump-election-2020.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/opinion/trump-election-2020.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/24/opinion/24goldbergWeb/24goldbergWeb-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump's last best tactic: Burn it all down"
+  - title: "Pence's tough debate task is to defend Trump's actions over the past week"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-10-01T11:36:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-s-last-best-tactic-burn-it-all-down-n1241546"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241546"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241546"
+    publishedDateTime: 2020-10-07T12:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/pence-s-tough-debate-task-defend-trump-s-actions-over-n1242395"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242395"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242395"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 149
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416289/200930-debate-broadcast-jm-0823_20e858bce0cd484a627a22fed369096e.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418154/201007-mike-pence-jm-0811_53cb1cc218306b128f4dbfc7d99b0ddb.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump just became Exhibit A in the case that he failed on coronavirus"
-    excerpt: "Now the president has to square his assertion that he tamed the crisis with his positive test and an economy showing slower signs of recovery."
-    publishedDateTime: 2020-10-02T17:08:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-just-became-exhibit-case-he-failed-coronavirus-n1241845"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241845"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241845"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417003/201002-analysis-donald-trump-covid-rally-se-1050a_5b601510fb1ceb9a1dd044033b545236.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Supreme Court nominations are taking longer. Time is not on Trump's side."
-    excerpt: "Supreme Court nominations are taking longer. Time is not on Trump's side. With the death of Justice Ruth Bader Ginsburg — the second woman to serve on the high court and a feminist icon — President Donald Trump is nearing a third opportunity to nominate and,"
-    publishedDateTime: 2020-09-25T15:20:00Z
-    webUrl: "https://www.nbcnews.com/politics/supreme-court/supreme-court-nominations-are-taking-longer-time-not-trump-s-n1241077"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241077"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241077"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414658/200924-president-nominees-supreme-court-cs_6acf5b3d77fc2acaa9a8f9bf70e1f28b.jpg"
-        width: 2500
-        height: 1400
-        isCached: true
-  - title: "Trump Renews Fears of Voter Intimidation as G.O.P. Poll Watchers Mobilize"
-    excerpt: "Republicans are putting together what they call an army of Trump supporters to monitor election procedures. The group of Trump campaign officials came carrying cellphone cameras and a determination to help the president’s re-election efforts in Philadelphia."
-    publishedDateTime: 2020-10-01T00:12:00Z
-    webUrl: "https://www.nytimes.com/2020/09/30/us/trump-election-poll-watchers.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/30/us/trump-election-poll-watchers.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/30/us/trump-election-poll-watchers.amp.html"
+  - title: "Best and Worst Moments of the Kamala Harris-Mike Pence Debate: ‘Most Bizarre Moment Was the Fly’"
+    excerpt: "Welcome to Opinion’s commentary for the vice-presidential debate between Kamala Harris and Mike Pence. In this special feature, Times Opinion writers pick the winner and then rank the victory on a scale of 1 to 10: 1 means it was a very narrow win;"
+    publishedDateTime: 2020-10-08T09:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/08/opinion/debate-kamala-harris-mike-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/08/opinion/debate-kamala-harris-mike-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/opinion/debate-kamala-harris-mike-pence.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 134
+    quality: 147
     images:
-      - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30POLLWATCHERS1/30POLLWATCHERS1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump Virtually Cuts Off Refugees as He Unleashes a Tirade on Immigrants"
-    excerpt: "The Trump administration said it would lower the annual cap on refugees further into rock-bottom record territory as President Trump pursues pre-election xenophobic attacks."
-    publishedDateTime: 2020-10-01T21:29:00Z
-    webUrl: "https://www.nytimes.com/2020/10/01/us/politics/trump-refugees.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/01/us/politics/trump-refugees.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/trump-refugees.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-refugees/01dc-refugees-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump administration shakes up HHS personnel office after tumultuous hires"
-    excerpt: "The move leaves Health Secretary Alex Azar with more control over his department, which has been rocked by personnel scandals in recent weeks."
-    publishedDateTime: 2020-09-21T19:25:00Z
-    webUrl: "https://www.politico.com/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/21/trump-administration-hhs-personnel-shake-up-419519"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 133
-    images:
-      - url: "https://static.politico.com/5a/a2/7efda31446688bb14932e244740c/20200920-hhsazar-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Schiff Sees Rise in Russian Disinformation as Trump Attacks Mail-In Voting"
-    excerpt: "Foreign adversaries want to undermine confidence in the American election and the House Intelligence Committee chairman says they are amplifying President Trump’s false assertions."
-    publishedDateTime: 2020-09-29T17:52:00Z
-    webUrl: "https://www.nytimes.com/2020/09/29/us/politics/mail-in-voting-russian-disinformation.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/29/us/politics/mail-in-voting-russian-disinformation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/29/us/politics/mail-in-voting-russian-disinformation.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29dc-elections/29dc-elections-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/08/opinion/08scorecard/08scorecard-facebookJumbo-v2.jpg"
         width: 1050
         height: 549
         isCached: true
-  - title: "Trump's boasts about pre-coronavirus economy aren't relevant, economists say"
-    excerpt: "What’s most important is where the economy stands and where it’s headed… GDP will likely be contracting for the full year,” one economist said."
-    publishedDateTime: 2020-09-29T13:43:00Z
-    webUrl: "https://www.nbcnews.com/business/economy/trump-s-boasts-about-pre-coronavirus-economy-aren-t-relevant-n1241330"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241330"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241330"
+  - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
+    excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"
+    publishedDateTime: 2020-10-07T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/kamala-harris-biden-veep-debate-426898"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 140
+    images:
+      - url: "https://static.politico.com/8c/84/7bb82b9147a996dcb36ad0b1e664/webp.net-resizeimage%20(12).jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump indicates he's not open to rule changes at next debates"
+    excerpt: "President Donald Trump on Thursday suggested he would not agree to any rule changes for the second and third presidential debates a day after the debates' organizers vowed to adjust their formatting following Tuesday's chaotic faceoff."
+    publishedDateTime: 2020-10-01T19:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-indicates-he-s-not-open-rule-changes-next-debates-n1241726"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241726"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241726"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3415766/200929-doanld-trump-mc-1339_1c2509dc487bb525533fc3da7df502cd.JPG"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416725/201001-debate-cleveland-donald-trump-se-255p_d911b5232e10e9c23968f4be3a3d9468.jpg"
         width: 2500
-        height: 1883
+        height: 1676
         isCached: true
-  - title: "Trump Again Says He Would Welcome a ‘Smooth’ Transition. But He Has Conditions."
-    excerpt: "The president warned his supporters of Democratic schemes to “cheat” their way to victory in November and said, “We’re not going to stand for it.”"
-    publishedDateTime: 2020-09-26T14:14:00Z
-    webUrl: "https://www.nytimes.com/2020/09/26/us/politics/trump-rally-virginia.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/26/us/politics/trump-rally-virginia.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/trump-rally-virginia.amp.html"
+  - title: "The Tragedy of Donald Trump"
+    excerpt: "Last week, just two short days before Donald Trump tested positive for the coronavirus, several of my colleagues wrote a story about the early days of the pandemic, and the strong global public health consensus at the time that open borders and free movement of peoples should not be suspended,"
+    publishedDateTime: 2020-10-02T21:16:00Z
+    webUrl: "https://www.nytimes.com/2020/10/02/opinion/sunday/donald-trump-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/opinion/sunday/donald-trump-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/opinion/sunday/donald-trump-coronavirus.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 131
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/09/25/multimedia/25dc-trump-3/merlin_177600342_5dfff7e7-5111-47bc-8bf4-747daabf50d5-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/02/opinion/sunday/02Douthat/merlin_177934623_3abbd24e-350b-4868-b420-f69baa303428-facebookJumbo.jpg"
         width: 1050
         height: 549
         isCached: true
-  - title: "'An easy selection': Trump settled quickly on Barrett"
-    excerpt: "Even as Trump world tried to draw out the process and float other names, the Supreme Court decision was mostly made: Amy Coney Barrett."
-    publishedDateTime: 2020-09-26T11:03:00Z
-    webUrl: "https://www.politico.com/news/2020/09/26/trump-scotus-coney-barrett-easy-choice-422019"
+  - title: "For Trump, the Only Medical News Is Good Medical News"
+    excerpt: "Conflicting accounts of the president’s condition underline the fact that the public does not have a definitive answer about the president’s health."
+    publishedDateTime: 2020-10-04T01:02:00Z
+    webUrl: "https://www.nytimes.com/2020/10/03/us/politics/white-house-trump-health.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/03/us/politics/white-house-trump-health.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/03/us/politics/white-house-trump-health.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://static.politico.com/c3/47/9dc3090940cbadf1ca0d1a7e3523/0925trump.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/10/03/us/politics/03dc-virus-lies-pix/03dc-virus-lies-pix-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Trump is challenging a peaceful transition of power. We should take him at his word"
-    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
-    publishedDateTime: 2020-09-24T13:09:00Z
-    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-challenging-peaceful-transition-power-we-should-take-him-his-n1240918"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240918"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240918"
+  - title: "Why a Pro-Trump Town No Longer Sees Him as a Rescuer"
+    excerpt: "Portsmouth, Ohio, was facing hard times when our reporter spent a week there leading up to Election Day 2016. She went back to find the town rebounding, and loyal to President Trump. But its residents no longer tie their fortunes to him."
+    publishedDateTime: 2020-10-04T00:14:00Z
+    webUrl: "https://www.nytimes.com/2020/10/03/us/politics/ohio-election-trump-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/03/us/politics/ohio-election-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/03/us/politics/ohio-election-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/09/30/us/politics/00portsmouth-scrolltest1/merlin_177712542_ffe13476-8ba5-4d11-8075-d4bc1e9798e5-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris, a Disco-Dancing Teenager, Yearned for Home in Canada"
+    excerpt: "Senator Harris spent her adolescent years in Canada. Friends say being a California girl at a multicultural public high school in Montreal helped shape her."
+    publishedDateTime: 2020-10-05T09:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/05/world/canada/kamala-harris-montreal.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/05/world/canada/kamala-harris-montreal.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/05/world/canada/kamala-harris-montreal.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/02/world/00canada-harris-top/00canada-harris-top-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris and the Push to Cut Hospital Bills in California"
+    excerpt: "She took on the drug and hospital industry as California attorney general, seeking consumer relief from anti-competitive pricing."
+    publishedDateTime: 2020-10-06T14:39:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/health/kamala-harris-health-care.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/health/kamala-harris-health-care.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/health/kamala-harris-health-care.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/05/science/00HARRISAG01/00HARRISAG01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris and a history of trying to define 'Asian American'"
+    excerpt: "\"What it meant to be Asian was defined over time historically through laws on Asian exclusion on immigration and then also Asian exclusion from citizenship,\" researcher Karthick Ramakrishnan said."
+    publishedDateTime: 2020-10-06T20:07:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/kamala-harris-history-trying-define-asian-american-n1242200"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242200"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242200"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 129
+    quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414564/200924-donald-trump-jm-0810_fed89c6cbe26bbf5003bd3b020d6f63b.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_33/3403819/200811-kamala-harris-se-525p_9c84098920c490c82f8f1e933ab9a989.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "IRS chief asks watchdog to review safeguards after leak of Trump's tax information"
-    excerpt: "IRS Commissioner Chuck Rettig has asked an inspector general to review the agency’s safeguarding of taxpayer information, following revelations that President Donald Trump has routinely paid little or no federal income tax."
-    publishedDateTime: 2020-10-01T15:29:00Z
-    webUrl: "https://www.politico.com/news/2020/09/29/trump-tax-returns-irs-423183"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/09/29/trump-tax-returns-irs-423183"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/29/trump-tax-returns-irs-423183"
+  - title: "Kamala Harris calls Trump’s virus response the ‘greatest failure of any presidential administration.’"
+    excerpt: "Well, the American people have witnessed what is the greatest failure of any presidential administration in the history of our country. And here are the facts: 210,000 dead people in our country in just the last several months."
+    publishedDateTime: 2020-10-08T08:29:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/world/kamala-harris-calls-trumps-virus-response-the-greatest-failure-of-any-presidential-administration.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/world/kamala-harris-calls-trumps-virus-response-the-greatest-failure-of-any-presidential-administration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/world/kamala-harris-calls-trumps-virus-response-the-greatest-failure-of-any-presidential-administration.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07vid-VP-debate-012/07vid-VP-debate-012-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris could boost Asian American voter turnout, researchers say"
+    excerpt: "Jamaican — and was excited when Harris was chosen as Joe Biden’s vice presidential nominee. She said it motivated her even more to vote for the Democratic ticket in November. Hossain, 37, told NBC Asian America that having Harris on the ticket was a huge win for the South Asian community,"
+    publishedDateTime: 2020-10-07T20:34:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/kamala-harris-could-boost-asian-american-voter-turnout-researchers-say-n1242333"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242333"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242333"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_41/3417995/201005-sadhwani_sara_2019_ac-1045p_458064d86fdad69ac300d5b23939cf44.fit-320w.jpg"
+        width: 320
+        height: 480
+        isCached: true
+  - title: "Trump has Covid-19 antibodies. What does that mean?"
+    excerpt: "President Donald Trump's physician said Wednesday that the president has Covid-19 antibodies, though experts say it’s unclear what this means for his recovery. \"Of note today, the President's labs demonstrated detectable levels of SARS-CoV-2 IgG antibodies from labs drawn Monday,"
+    publishedDateTime: 2020-10-07T21:44:00Z
+    webUrl: "https://www.nbcnews.com/health/health-news/trump-has-covid-19-antibodies-what-does-mean-n1242437"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242437"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242437"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418277/201007-donald-trump-mask-balcony-jm-1625_26147c8c976f471acefe0d1f3f53e4ef.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
+    excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
+    publishedDateTime: 2020-10-06T00:10:00Z
+    webUrl: "https://www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/05/us/politics/kamala-harris-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Likability, Authenticity, Smiles: The Debate Tightrope for Kamala Harris"
+    excerpt: "After a disastrous first presidential debate, all eyes will be on a vice-presidential debate that’s rife with gendered and racial challenges."
+    publishedDateTime: 2020-10-06T23:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/us/likability-ambition-kamala-harris-debate-mike-pence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/06/us/00ihw-harris2/00ihw-harris2-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "G.O.P. Alarmed by Trump’s Comments on Extremist Group, Fearing a Drag on the Party"
+    excerpt: "For the second time in two weeks, Republicans distanced themselves from the president, expressing unease about his failure to disavow a right-wing organization linked with white supremacy and acts of violence."
+    publishedDateTime: 2020-10-01T08:22:00Z
+    webUrl: "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/30/us/politics/trump-debate-white-supremacy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 129
     images:
-      - url: "https://static.politico.com/ca/9c/5868148a44f3869a06b8387d8244/200526-irs-gty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30campaign-ledeall1/30campaign-ledeall1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Demographic shifts since 2016 could be enough to defeat Trump. But it's complicated."
-    excerpt: "Trump's core demographic is declining. Our new interactive tool lets readers test how changes to the U.S. electorate might affect the election."
-    publishedDateTime: 2020-09-24T06:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/demographic-shifts-2016-could-be-enough-defeat-trump-it-s-n1240724"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240724"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240724"
+  - title: "Kamala Harris’s doubleheader: A debate and confirmation hearings with sky-high stakes."
+    excerpt: "Kamala Harris is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but Wednesday’s debate is a new challenge."
+    publishedDateTime: 2020-10-07T08:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/us/elections/kamala-harriss-doubleheader-a-debate-and-confirmation-hearings-with-sky-high-stakes.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/us/elections/kamala-harriss-doubleheader-a-debate-and-confirmation-hearings-with-sky-high-stakes.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/us/elections/kamala-harriss-doubleheader-a-debate-and-confirmation-hearings-with-sky-high-stakes.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
+      name: New York Times
+      domain: nytimes.com
+    quality: 127
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3413970/200922-swing-the-election-trump-biden-cs_d6a2976d497ec7b751ab37bb3c6af8c0.jpg"
-        width: 2500
-        height: 1400
+      - url: "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Coalition backing TPS starts tour slamming Trump's 'racist' end to immigrant protections"
-    excerpt: "\"The president and his administration ... do not care about the damage they are causing to our community,\" an immigrant rights advocate said."
-    publishedDateTime: 2020-09-23T07:03:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/coalition-backing-tps-starts-tour-slamming-trump-s-racist-end-n1240711"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240711"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240711"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 126
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3413942/200922-tps-bus-telemundo-jm-1020_bc5fab3516ffe3621c22e4628a520eb1.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Trump announces aid package for Puerto Rico, claims he is 'best thing' to happen to island"
-    excerpt: "President Donald Trump has announced an emergency relief award for Puerto Rico to repair its electrical grid three years after Hurricane Maria. He added the claim that he is \"the best thing that ever happened to Puerto Rico."
-    publishedDateTime: 2020-09-18T20:47:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-announces-aid-package-for-puerto-rico-claims-he-is-best-thing-to-happen-to-island-92084293858"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92084293858"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92084293858"
+  - title: "Kamala Harris can use tonight's vice president debate to subvert 'angry Black woman' tropes"
+    excerpt: "We've heard about the way gender differences influence how we perceive candidates. But what happens when the woman is Black?"
+    publishedDateTime: 2020-10-07T08:40:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/kamala-harris-can-use-tonight-s-vice-president-debate-subvert-ncna1242363"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242363"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242363"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 125
     images:
-      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_puertorico_200918_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump Faces Torrent of Criticism From Fellow Republicans After Failing to Denounce White Supremacy"
-    excerpt: "The Commission on Presidential Debates plans to change the debate format after President Trump’s frequent interruptions threatened to derail the first debate. Mr. Trump’s attempts to sow doubts about the vote alarmed election experts."
-    publishedDateTime: 2020-10-01T06:09:00Z
-    webUrl: "https://www.nytimes.com/live/2020/09/30/us/presidential-debate"
-    ampWebUrl: "https://www.nytimes.com/live/2020/09/30/us/presidential-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/09/30/us/presidential-debate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 121
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/30/us/politics/30elections-briefing-trumpclinton/merlin_112331858_514c434b-0b7b-4b76-a125-3a515d99e7ce-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Trump team weighs whether to interview new candidates for high court"
-    excerpt: "The president’s aides prepared for months for a potential election-year Supreme Court replacement. Now they’re considering other election considerations."
-    publishedDateTime: 2020-09-19T18:25:00Z
-    webUrl: "https://www.politico.com/news/2020/09/19/trump-supreme-court-candidates-418366"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/e0/fd/0fd82ce74eb58d806b72bdb9e124/200919-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Trump-world clashes over Barrett vs. Lagoa"
-    excerpt: "On one side are political operatives focused on the reelection upsides. On the other are movement conservatives who say Trump can't afford to blow this."
-    publishedDateTime: 2020-09-22T22:50:00Z
-    webUrl: "https://www.politico.com/news/2020/09/22/trump-barrett-lagoa-supreme-court-420045"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/e3/e8/ce8981aa419db91589381be79ed2/200922-supreme-court-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "After promising to unveil a health care plan, Trump delivers a joke"
-    excerpt: "Ten weeks after promising he'd sign a \"full and complete\" health care plan, the emperor with no clothes made clear he's the president with no plan."
-    publishedDateTime: 2020-09-25T14:07:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/after-promising-unveil-health-care-plan-trump-delivers-joke-ncna1241056"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_39/3414767/200924-donald-trump-healthcare-ew-509p_7cad4ce1f54bbef2aeae39994f84a3de.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "On a coronavirus vaccine, Trump hints at yet another conspiracy"
-    excerpt: "Trump's claims about a coronavirus vaccine have gotten a little weird lately. His claims about a conspiracy to delay a vaccine was even worse."
-    publishedDateTime: 2020-09-25T15:05:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/coronavirus-vaccine-trump-hints-yet-another-conspiracy-ncna1241079"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3414422/200923-blood-samples-covid-vaccine-se-455p_e9fcf162d35a6475396839cc99fd3e8b.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tax Records Reveal How Fame Gave Trump a $427 Million Lifeline"
-    excerpt: "The Apprentice” rescued Donald J. Trump, bringing him new sources of cash and a myth that would propel him to the White House."
-    publishedDateTime: 2020-09-29T01:16:00Z
-    webUrl: "https://www.nytimes.com/interactive/2020/09/28/us/donald-trump-taxes-apprentice.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/28/us/donald-trump-taxes-apprentice-1601329619557/donald-trump-taxes-apprentice-1601329619557-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump basks in cheers of Minnesota rally, far from debate criticism"
-    excerpt: "The president bragged about ratings for his matchup with Joe Biden, glossing over negative headlines about the lack of substantial discussion."
-    publishedDateTime: 2020-10-01T02:31:00Z
-    webUrl: "https://www.politico.com/news/2020/09/30/trump-debate-minnesota-rally-424308"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/51/a0/95e9ceca48a59806d2cb1a4a618c/200930-trump-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "'There will be an orderly transition': McConnell dismisses Trump's refusal to commit to a peaceful transfer of power"
-    excerpt: "While top Republicans downplayed Trump's comments, Democrats pounced, with some describing the president's words as chilling and others calling him a fascist."
-    publishedDateTime: 2020-09-24T14:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/there-will-be-orderly-transition-mcconnell-dismisses-trump-s-refusal-n1240933"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1240933"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240933"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 112
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3414602/200924-mitch-mcconnell-jm-1020_7fce294ac69fee948b9c05670bcce01f.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418073/201006-kamala-harris-2019-ac-807p_b4257ecc4931dfb8a23df49ab56623fc.jpg"
         width: 2500
-        height: 1666
+        height: 1667
         isCached: true
-  - title: "Trump administration proposes bill to chip away at social media's legal protections"
-    excerpt: "The Justice Department proposed legislation Wednesday to narrow a key set of legal protections that shield internet companies like Facebook and Google from lawsuits over their efforts to police speech online,"
-    publishedDateTime: 2020-09-23T15:04:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2020/09/23/trump-administration-proposes-bill-to-chip-away-at-social-medias-legal-protections-1317932"
+  - title: "A Sick Donald Trump Takes His Own Medicine. How Will That Go?"
+    excerpt: "Like any normal person admitted to a hospital who can still talk and walk, President Donald Trump wanted out of there. According to CNN, he demanded his release on Sunday because, in part, he thought hospitalization made him look weak but settled for a quick lap outside the Walter Reed National Military Medical Center in a Secret Service Suburban to demonstrate his vitality."
+    publishedDateTime: 2020-10-05T22:14:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/05/a-sick-donald-trump-takes-his-own-medicine-how-will-that-go-426571"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 109
+    quality: 115
     images:
-      - url: "https://static.politico.com/ee/d9/931c8a65460d8cefb2c918b58e6b/ap20265635104910-1.jpg"
+      - url: "https://static.politico.com/cb/6c/92f299a546eea57cea4d00143b04/shafermedicine-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Donald Trump, Batman, and How Badness Became Madness"
-    excerpt: "In the shadow of “Batman Day,” understanding an archaic comic-book conceptualization of criminality can help us unlearn ableism."
-    publishedDateTime: 2020-09-21T12:46:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trump-batman-and-how-badness-became-madness"
+  - title: "How ‘Generation Jones’ Shaped Kamala Harris"
+    excerpt: "The VP candidate grew up in a cultural moment that demanded a foot in different worlds. Is that a strength or a weakness now?"
+    publishedDateTime: 2020-10-07T08:30:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/07/kamala-harris-generation-veep-debate-426994"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/60/51/c3f2f30749dcb1091b44baba2301/ap20266760989174-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The Education of Kamala Harris"
+    excerpt: "From the election campaign that brought her head-to-head with her toughest opponent to the school debates where she honed her skills, how did Kamala Harris’ time at university prepare her for her run for Vice President?"
+    publishedDateTime: 2020-10-06T19:06:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/news/education-kamala-harris-2-ncna1242310"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_06/2379271/180328-howard-university-al-0933_a6a32bf73f93495e8be82db6ec53c279.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Transcript: The Education of Kamala Harris"
+    excerpt: "The Education of Kamala Harris. Joy Reid: On a tree-lined street in West Berkeley, Carole Porter waited for the bus to school. Carole Porter: You know, I got some new school cloth"
+    publishedDateTime: 2020-10-07T16:21:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/podcast/transcript-education-kamala-harris-ncna1242424"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2019_01/2705186/msnbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
+    excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
+    publishedDateTime: 2020-09-18T03:18:00Z
+    webUrl: "https://www.politico.com/news/2020/09/17/trump-kamala-harris-president-417490"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 111
+    images:
+      - url: "https://static.politico.com/eb/61/c1f3860c4cdc85e87b8b815cf975/200917-trump-ap-4-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Pence Struggles to Explain Why Trump Admin Didn’t Follow Its Own COVID Guidelines"
+    excerpt: "Pence gave a rambling response beginning with how Americans were given adequate “facts” and finishing with a reference to Trump’s Supreme Court nominee."
+    publishedDateTime: 2020-10-08T03:39:00Z
+    webUrl: "https://www.thedailybeast.com/pence-struggles-to-explain-why-trump-admin-didnt-follow-its-own-covid-guidelines?scrolla=5eb6d68b7fedc32c19ef33b4"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 45
-  - title: "‘Agents of Chaos’ Breaks Down Exactly How Russia Helped Give Us Trump"
-    excerpt: "HBO docuseries from Alex Gibney (“Enron,” “Going Clear”) reveals the incredible lengths Putin’s Russia went to in order to ensure a Trump election win."
-    publishedDateTime: 2020-09-22T08:41:00Z
-    webUrl: "https://www.thedailybeast.com/agents-of-chaos-breaks-down-exactly-how-russia-helped-give-us-trump"
+    quality: 65
+  - title: "Kamala Harris’ Main Vice President Debate Task: Humiliate Mike Pence on COVID Claims"
+    excerpt: "Yes, she has to pass the “heartbeat away” test. But the main thing is to keep the pressure on Trump’s top apologist on the dominant issue of this race."
+    publishedDateTime: 2020-10-07T15:06:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-main-vice-president-debate-task-humiliate-mike-pence-on-covid-claims"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 45
-  - title: "It’s Time to Thank Donald Trump for His Dictator Routine"
-    excerpt: "Power Trump and Molly chats with a fellow podcaster about the Breonna Taylor case outcome and a nun who is voting for Biden."
-    publishedDateTime: 2020-09-25T19:39:00Z
-    webUrl: "https://www.thedailybeast.com/its-time-to-thank-donald-trump-for-his-dictator-routine"
+    quality: 63
+  - title: "Voters Deserve More Than the Non-Answers Kamala Harris Gave Them"
+    excerpt: "If the Democrats want to run as the antidote to Trump, they can start by telling us the truth—and answering some basic questions. Tonight, Harris failed to do that."
+    publishedDateTime: 2020-10-08T04:25:00Z
+    webUrl: "https://www.thedailybeast.com/voters-deserve-more-than-the-non-answers-kamala-harris-gave-them"
     type: article
     provider:
       name: The Daily Beast

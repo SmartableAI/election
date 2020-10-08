@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/21/politics/barbara-lagoa-trump-supr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/barbara-lagoa-trump-supreme-court/index.html"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200919074142-01-amy-coney-barrett-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Top Trump officials seen not wearing masks or social distancing at White House Supreme Court announcement"
+    excerpt: "Many of the guests for President Donald Trump's Supreme Court nomination announcement arrived at Saturday's event with masks on, but as the Rose Garden event got underway, masks were virtually non-existent.\n    \n"
+    publishedDateTime: 2020-09-26T23:44:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9oGIjYHlwGI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/26/politics/trump-officials-not-wearing-masks-supreme-court-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/26/politics/trump-officials-not-wearing-masks-supreme-court-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926165327-10-trump-scotus-announcement-0926-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

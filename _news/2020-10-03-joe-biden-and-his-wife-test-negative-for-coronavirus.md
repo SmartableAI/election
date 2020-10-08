@@ -365,20 +365,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
-    excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
-    publishedDateTime: 2020-10-06T12:21:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 102
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "Joe and Jill Biden reported earning $16.5 million from book deals and speaking engagements since leaving the White House"
     excerpt: "The Bidens released their 2019 tax returns ahead of Biden's first presidential debate against Trump on Tuesday, September 29."
     publishedDateTime: 2020-09-29T19:19:00Z
@@ -459,22 +445,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
-    excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."
-    publishedDateTime: 2020-10-03T22:54:00Z
-    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
-        width: 3771
-        height: 2514
-        isCached: true
   - title: "The Latest: Trump Diagnosis Proves Testing Alone Not Enough"
     excerpt: "President Donald Trump’s coronavirus diagnosis proved that testing alone wasn’t enough to protect him. Mask wearing and social distancing are other key ingredients for preventing the spread of COVID-19,"
     publishedDateTime: 2020-10-06T15:10:00Z
@@ -486,29 +456,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
-    excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
-    publishedDateTime: 2020-10-07T04:38:00Z
-    webUrl: "https://www.chron.com/shopping/article/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 52
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
-  - title: "Joe Biden Says He'll Debate if Scientists Say it's Safe"
-    excerpt: "Democratic presidential candidate Joe Biden speaks briefly with reporters and says that if the scientists say it’s safe to go forward with the upcoming… read more Joe Biden, a 2020 Democratic presidential candidate,"
-    publishedDateTime: 2020-10-05T16:26:00Z
-    webUrl: "https://www.c-span.org/event/?476553/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "0BwKp+7QpinXoEwRqlPkjQlVumlWHHWfRGzpm4jKWI3t0prMeCUJaovtFv95BUpLWweHNy7pq9m5Qig/4+RIzkBRHZ5LCiKOe/teSj8KNgGXaZ+ggKSdjRjvrADEySzdhWDIJjfnnLP95Zc7BSOjJy8Ff9V6xIKWwKUXupvCdbgq+EpC0HN0L3MzIxrZnKXfSM8nbSADee2j8y5hPAWgNeiYzhkvSSHOruHCXlGqCpuTALD2ci9Sr2nGF/eWDGL9NstktMpPC5O/jqI8a7KRr7YahgjZ0VoQ23IU10jsv28o33yTtkEuJQ/+8WZFsyRm9NLc8sJQ4nbmhgywqCuzcVlm1a4qzBI1UtdV1DqxB/OjWiSob+MRrd8iuIgS5hHLfMDIAAnDO1SuMlyNUQT/IZcrYi7+SLBACcvGOGp75Kt1RAYxXgv/5Wi5vUCluuyA0JfDL04cY0DuggBSgorVisa5lylyNgJZE03mcsjCvxlazRSE41hPhCuJmvmoPq+FLZ1581cBCP2DXHB7sbWSIg==;3LMiWRAFkw670ZGDKUedGg=="
 ---

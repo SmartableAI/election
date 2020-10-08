@@ -3,8 +3,8 @@ category: news
 title: "Former NSA Head Michael Hayden Endorses Biden: He's A Good Man, Donald Trump Is Not"
 excerpt: "Retired Gen. Michael Hayden, who served as director of both the CIA and the NSA during the Bush and Obama administrations, appears in this ad from the \"Republican Voters Against Trump\" group to endorse Democratic nominee Joe Biden."
 publishedDateTime: 2020-10-07T12:54:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA#!"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA#!"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA"
 type: article
 quality: 74
 heat: -1
@@ -119,6 +119,22 @@ related:
     quality: 210
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Top 5 vice presidential debate moments between Pence, Harris"
+    excerpt: "Vice President Mike Pence and Democratic presidential nominee Sen. Kamala Harris squared off Wednesday night on topics ranging from the pandemic to health care to the USMCA. "
+    publishedDateTime: 2020-10-08T10:19:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/okVvFEaFBfw/vice-presidential-debate-pence-harris-top-five-moments"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 210
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -617,6 +633,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/107-7.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Second Trump-Biden debate will be virtual, organizers say"
+    excerpt: "The second debate between President Trump and former Vice President Joe Biden will be virtual, with both candidates appearing from separate remote locations, the Commission on Presidential Debates announced Thursday -- nearly a week after Trump announced he'd tested positive for the coronavirus."
+    publishedDateTime: 2020-10-08T11:30:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/idKcyZ0X_cI/second-trump-biden-debate-will-be-virtual-organizers-say"
+    ampWebUrl: "https://www.foxnews.com/politics/second-trump-biden-debate-will-be-virtual-organizers-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/second-trump-biden-debate-will-be-virtual-organizers-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden clashes with Trump over Antifa: 'It's an idea, not an organization'"
     excerpt: "President Trump and former Vice President Joe Biden had a heated exchange over extremist violence with each facing questions over their stances towards them."
@@ -1702,6 +1734,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Watch the Full VP Debate With Mike Pence and Kamala Harris"
+    excerpt: "Sen. Kamala Harris and Vice President Mike Pence took part in the 2020 vice presidential debate in Salt Lake City. Watch the full program here."
+    publishedDateTime: 2020-10-08T01:30:00Z
+    webUrl: "https://www.wsj.com/video/watch-the-full-vp-debate-with-mike-pence-and-kamala-harris/1C345477-6AAB-4748-9AAD-528A9D5C37F7.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 140
+    images:
+      - url: "http://images.wsj.net/im-241322?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign calls out second debate moderator who interned for Biden, worked for Ted Kennedy"
     excerpt: "The second debate between President Trump and former Vice President Joe Biden will be moderated by a former intern for the latter."
     publishedDateTime: 2020-10-01T23:29:00Z
@@ -1919,6 +1965,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/281/be593fc0-1834-48ee-bfa2-f3642ff9012a.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Replay: 2020 Vice Presidential Debate Between Mike Pence, Kamala Harris In Utah"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris face-off for their first debate."
+    publishedDateTime: 2020-10-08T09:11:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/watch_live_2020_vice_presidential_debate_between_vp_mike_pence_kamala_harris_in_utah.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/52/523397.jpg"
+        width: 2300
+        height: 1533
         isCached: true
   - title: "Joe Biden's Pastoral Charms"
     excerpt: "Washington -- If I were a Democratic wheeler-dealer sitting atop the most left-wing major party in American history, I would be a little bit nervous. First, there is my party's"
@@ -2142,6 +2202,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "PLaPqXYZe8IV4OVPLceqFvnNFUkfwA8QrPzSS70IKqLiN9v1Ky8KdS8a06QGQg03qRb0OGCgLHHAf4WTcfREdKasdA6LjsdYwdLeOMME7Szf7vDAPP0GOsLdbPLEaXZT1qywrCHgJa/hhUHMeZe/7d6vOH0C5/K/5wxYfWonqjOP/gDLC22nHUJGS2KqRSQGq65ab+pytwr5afOCumexgpPJtFgXAVH3aqyq6+kz8j6cSKR+ktaekY60uEZlDzmPO8fk3KQf7iflCiuWiKT0qeVMKaDA61VZ9DGJspv0jZV8N8iXYzsQF9hFyqD1hMUMZIHMwTfsgClyxKukvtVW9VW/FtPIoe7bDv0G11xmkjFIQqla2YdZXG6t46irOR1JWQGMZw/TUVxCGax5ybKGwE6TDJfWgetHaZUI6mpI5kRMYrB/1c/LQ1x1ig4cR0c/QkO+wR5e/EZ1cQq3Q76QmA4LlNDFh8pBMELzx+HQxkB65yXozpMj3MKUFrERpZ+bag7/ci5XqFAcl6uVaLvHuA==;rR0tJ2xdkruW/2uEKFqH3A=="
+secured: "yvP+Q6NAJc2be1rdODkqbIYrIF4t03PBIMsnw632w/VHIrSqPg/NcsH4P4vmnRIbYc82k00eCcgHFEyvCXS2kkvZ+QCtYQJj5h01Di9lEEj65uwESnoKe8PPCjjCxwMJ3Y3Qy3sAtpUBu6R8cWan8QrP8o72V1dadwpelYFj8LSYHD56n6LNI3JD4kAWfdp+Qx1ux2LFhpOJFoo5AZwUJ9ZfAkyzj1r3T/bp1XbIHaXtlGW+XbBMJ28AxotHY9sjQKq7A5Ey/BEzRDGurLHwYVD8guhxCiOATZS2xw1I6meeY6/SCotcMIHtpjh+Ul9y4VRmAQkEryXmLSFUo7D9DCi8QFiASyU0iQq+Zsed2jQ=;v9Cb/1BzOxxmr1CXPb9ArA=="
 ---
 

@@ -2,101 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-01-heres-how-kamala-harris-puts-the-nail-in-the-trump-pence-coffin.md",
-      "title": "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin",
-      "excerpt": "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 5875,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
-      "publishedDateTime": "2020-10-01T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-second-lady-karen-pence-makes-3-veteran-themed-stops-in-jacksonville-area.md",
-      "title": "Second lady Karen Pence makes 3 veteran-themed stops in Jacksonville area",
-      "excerpt": "Karen Pence, wife of Vice President Mike Pence, made three stops in Jacksonville, focused on veterans' issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/",
-      "originalUrl": "https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/30/NFTU/4ea6f2a0-019f-4279-8b50-56fa316692ef-FLJAX_093020_KarenPence_01.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.jacksonville.com/amp/3574834001",
-      "cdnAmpWebUrl": "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/3574834001",
-      "publishedDateTime": "2020-09-30T18:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Florida Times-Union",
-        "domain": "jacksonville.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-vp-mike-pence-visits-atlanta-for-cobb-county-event.md",
       "title": "VP Mike Pence visits Atlanta for Cobb County event",
       "excerpt": "As part of the campaigning, Vice President Mike Pence will make a swing back through Georgia to energize Republican voters, less than a week after President Trump's visit. Here's what we know about the vice president's visit. According to the schedule from ...",
@@ -1165,6 +1070,62 @@
       ]
     },
     {
+      "path": "_news/2020-09-22-trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.md",
+      "title": "Trump will go to Pittsburgh and Pence to New Hampshire as Harris visits Flint and Detroit.",
+      "excerpt": "Delivers remarks at a campaign rally in a hangar at Pittsburgh International Airport. Afternoon — Tours small businesses that have been affected by the coronavirus pandemic in Flint, Mich. 4:30 p.m. — Participates in “Shop Talk” round-table conversation with Black men in Detroit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html",
+      "publishedDateTime": "2020-09-22T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-super-pac-american-bridge-posts-pence-oppo-book-online-for-free-ahead-of-debates.md",
       "title": "Super PAC American Bridge posts Pence oppo book online for free ahead of debates",
       "excerpt": "Super PAC American Bridge has posted a Vice President Mike Pence opposition book online for free ahead of the debates.",
@@ -1388,6 +1349,48 @@
       "provider": {
         "name": "Milwaukee Journal Sentinel",
         "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-mike-pence-florida-and-arizona-are-must-win-states-for-november.md",
+      "title": "Mike Pence: Florida and Arizona are “Must Win” States for November",
+      "excerpt": "The battleground states of Florida, Arizona, Pennsylvania and Michigan indicate a tight race for the presidency, as Biden leads by less than five percent in all three states on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-“must-win”-states-november-169032",
+      "originalUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-“must-win”-states-november-169032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/2020-08-24T191905Z_1386877617_RC2HKI9EJ46J_RTRMADP_3_USA-ELECTION-CONVENTION%20copy.jpg",
+          "width": 1800,
+          "height": 1130,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-%E2%80%9Cmust-win%E2%80%9D-states-november-169032?amp",
+      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-%E2%80%9Cmust-win%E2%80%9D-states-november-169032?amp",
+      "publishedDateTime": "2020-09-16T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
         "images": null,
         "publishers": null,
         "authors": null

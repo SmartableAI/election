@@ -2,169 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-05-cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health.md",
-      "title": "CNN supercut shows how Trump has repeatedly mocked his opponents’ health",
-      "excerpt": "CNN’s John Avlon on Monday showed how President Donald Trump has repeatedly used his political opponents’ health as a weapon, such as when he openly mocked Hillary Clinton for coming down with pneumonia in 2016.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
-      "originalUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2017/07/Trump-mocks-disabled-reporter.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/cnn-supercut-shows-how-trump-has-repeatedly-mocked-his-opponents-health/amp/",
-      "publishedDateTime": "2020-10-05T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-meadows-still-optimistic-trump-will-leave-hospital-later-on-monday.md",
-      "title": "Meadows: ‘Still optimistic’ Trump will leave hospital later on Monday",
-      "excerpt": "Trump's chief of staff said the president will meet with his doctors and nurses on Monday morning to assess his progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "originalUrl": "https://www.politico.com/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/95/64/e2030d6244139256e6df0f3d8ac3/ap20278592774995.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/meadows-trump-hospital-monday-426394",
-      "publishedDateTime": "2020-10-05T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-trumps-latest-political-theatrics-described-as-insanity.md",
-      "title": "Trump's latest political theatrics described as 'insanity'",
-      "excerpt": "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2020_40/3417409/201004-trump-drive-walter-reed-rd-541p_236d25083945c388acde5b25f325446f.nbcnews-fp-1200-630.JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-05-australia-shares-jump-2-on-jobs-stimulus-trumps-health-progress.md",
       "title": "Australia shares jump 2% on jobs stimulus, Trump's health progress",
       "excerpt": "Australian shares rose more than 2% on Monday after the government announced plans to earmark additional wage subsidies to help spur employment, and as investors continued to hope for a swifter recovery of U.",
@@ -324,62 +161,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-04-trump-and-the-gop-are-using-kyle-rittenhouse-in-last-ditch-2020-voter-strategy.md",
-      "title": "Trump and the GOP are using Kyle Rittenhouse in last-ditch 2020 voter strategy",
-      "excerpt": "With weeks to go before a chaotic and close election, Republicans are cultivating a vigilante identity — someone who breaks the rules to make things right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_40/3416625/201001-kyle-rittenhouse-jm-0936_ba06d965e936a9e276a03c1a82c2a974.jpg",
-          "width": 2000,
-          "height": 1331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241940",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241940",
-      "publishedDateTime": "2020-10-04T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-04-trump-said-to-be-improving-but-next-48-hours-critical.md",
       "title": "Trump said to be improving but next 48 hours 'critical'",
       "excerpt": "President Donald Trump says in a video from his hospital quarters that he is feeling better as he battles the novel coronavirus and hopes to “be back soon.”",
@@ -482,6 +263,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-04-trumps-physician-walks-back-earlier-statements-tries-to-clear-up-diagnosis-timeline.md",
+      "title": "Trump's physician walks back earlier statements, tries to clear up diagnosis timeline",
+      "excerpt": "President Donald Trump's physician walks back earlier statements and tries to clear up the diagnosis timeline.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241993",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241993",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1241952",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952",
+      "publishedDateTime": "2020-10-03T20:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-was-trump-ever-on-oxygen-health-security-experts-say-america-needs-total-honesty-on-presidents-condition.md",
       "title": "Was Trump ever on oxygen? Health, security experts say America needs 'total honesty' on president's condition",
       "excerpt": "Dr. Sean Conley created confusion about President Trump's COVID-19 diagnosis, which national security and health experts say is unnecessary.",
@@ -530,62 +367,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-trump-has-been-fever-free-for-over-24-hours-hasnt-need-supplemental-oxygen-at-hospital.md",
-      "title": "Trump has been 'fever-free' for over 24 hours, hasn't need supplemental oxygen at hospital",
-      "excerpt": "President Donald Trump has been fever-free for over 24 hours and has not needed supplemental oxygen Saturday morning, his doctors told reporters outside Walter Reed National Military Medical Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241980",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/live-blog/ncna1241952",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952",
-      "publishedDateTime": "2020-10-03T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1044,62 +825,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-if-he-doesnt-win-ohio-its-over-trump-slips-in-the-heartland.md",
-      "title": "‘If He Doesn’t Win Ohio, It’s Over’: Trump Slips in the Heartland",
-      "excerpt": "Four years ago, the president easily won Ohio by building a balanced coalition among white voters across educational lines. But his support has waned since then, particularly in the suburbs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/02/us/02pollwatch-newsletter/02pollwatch-newsletter-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
-      "publishedDateTime": "2020-10-02T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-pete-wilson-endorses-trump-says-president-has-very-good-judgment.md",
       "title": "Pete Wilson endorses Trump, says president has 'very good judgment'",
       "excerpt": "Wilson was among nearly seven dozen members of past GOP administrations and Congress who backed Trump in a signed letter.",
@@ -1531,7 +1256,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5875,
+      "heat": 5995,
       "tags": null,
       "images": [
         {
@@ -1572,6 +1297,252 @@
         "Election",
         "Kamala Harris",
         "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-texas-christian-on-trump-he-sounds-just-like-me.md",
+      "title": "Texas Christian on Trump: 'he sounds just like me'",
+      "excerpt": "Top News Texas Christian on Trump: 'he sounds just like me' Posted . In a golf cart decked out with a \"Trump 2020\" flag, Bernadette McLeroy and her husband tout President Donald T",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf",
+      "originalUrl": "https://www.reuters.com/video/watch/texas-christian-on-trump-he-sounds-just-id719990071?chan=94w50zwf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20201001&i=OVCYAXWIN&r=OVCYAXWIN&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-a-step-by-step-look-at-trumps-falsehoods-on-mail-in-voting-analysis.md",
+      "title": "A step-by-step look at Trump's falsehoods on mail-in voting: Analysis",
+      "excerpt": "Dissecting the president’s stream-of-consciousness and incomplete sentences on the subject is difficult, but here are some key facts and context around his statements.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "originalUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
+      "publishedDateTime": "2020-10-01T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-trump-falsely-claims-poll-watchers-blocked-from-observing-early-voting-sites-in-philadelphia.md",
+      "title": "Trump falsely claims 'poll watchers' blocked from observing early voting sites in Philadelphia",
+      "excerpt": "President Trump falsely claimed that \"poll watchers\" were blocked from entering early voting locations in Philadelphia, an issue his campaign and the RNC are litigating.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pennsylvania-election-01-gty-llr-200930_1601499860422_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
+      "publishedDateTime": "2020-09-30T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-sen-chuck-grassley-id-be-very-concerned-about-how-donald-trumps-tax-returns-got-out.md",
+      "title": "Sen. Chuck Grassley: 'I'd be very concerned' about how Donald Trump's tax returns got out",
+      "excerpt": "Asked about the substance of the New York Times' reporting that Trump paid $750 in income tax in 2016 and 2017, Grassley said he doesn't have enough evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/09/17/PDEM/80644d4b-a019-4ee7-a6b1-39785f7db425-grassley.jpg?auto=webp&crop=5999,3360,x0,y39&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5874449002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002",
+      "publishedDateTime": "2020-09-30T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-livestream-donald-trump-rallies-in-duluth-minnesota-wednesday.md",
+      "title": "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday",
+      "excerpt": "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\"",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday",
+      "originalUrl": "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/getty/22887410/20200930/125243/styles/patch_image/public/gettyimages-979770508___30125124036.jpg?width=984",
+          "width": 984,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
+      "publishedDateTime": "2020-09-30T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Donald Trump"
       ]
     }

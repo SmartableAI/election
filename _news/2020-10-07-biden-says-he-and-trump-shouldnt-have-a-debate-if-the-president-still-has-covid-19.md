@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden vs. Trump: Here's where each candidate stands on debt"
+    excerpt: "According to the Federal Reserve, the total consumer debt burden currently stands at over $14 trillion. That's made up of mortgages, credit cards, personal loans, and other debts. So, where do the presidential candidates stand on debt?"
+    publishedDateTime: 2020-10-08T10:08:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/10/08/biden-vs-trump-where-each-candidate-stands-on-debt/114218012/"
+    ampWebUrl: "https://amp.usatoday.com/amp/114218012"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/114218012"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden says October 15 presidential debate should not take place if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday he and President Donald Trump should not have their scheduled debate on Oct. 15 if Trump still had the coronavirus infection at that time."
     publishedDateTime: 2020-10-07T00:28:00Z

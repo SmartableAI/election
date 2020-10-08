@@ -2,41 +2,41 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-08-under-pence-politics-regularly-seeped-into-the-coronavirus-task-force.md",
-      "title": "Under Pence, Politics Regularly Seeped Into the Coronavirus Task Force",
-      "excerpt": "In taking a leading role in managing the White House’s response to the pandemic, the vice president and his team had an agenda that extended beyond public health.",
+      "path": "_news/2020-10-08-pence-does-his-best-but-harris-wont-let-him-explain-away-trumps-failures.md",
+      "title": "Pence does his best but Harris won't let him explain away Trump's failures",
+      "excerpt": "Vice President Mike Pence tried his best on Wednesday to recast the reality of Donald Trump's presidency, but Sen. Kamala Harris, the Democratic pick for his job, refused to let him spin away the nation's current dire plight during their single debate.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/08/us/politics/pence-coronavirus-task-force.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/08/us/politics/pence-coronavirus-task-force.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/125OZAHasvQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/125OZAHasvQ/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 135,
+      "heat": 1583,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07dc-virus-penc1-1/07dc-virus-penc1-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201007211332-split-vp-debate-harris-pence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/08/us/politics/pence-coronavirus-task-force.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/us/politics/pence-coronavirus-task-force.amp.html",
-      "publishedDateTime": "2020-10-08T02:09:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html",
+      "publishedDateTime": "2020-10-08T04:09:58-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -53,8 +53,61 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice",
         "Mike Pence",
-        "Democratic Voice"
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-joe-biden-posed-with-a-swatter-after-a-fly-landed-on-mike-pences-head-during-the-vp-debate.md",
+      "title": "Joe Biden posed with a swatter after a fly landed on Mike Pence's head during the VP debate",
+      "excerpt": "The Biden campaign was quick to capitalize on the moment in the vice-presidential debate. Its merchandise store already started selling fly swatters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10",
+      "originalUrl": "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 520,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7eda07c655f6001969ed95?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp",
+      "publishedDateTime": "2020-10-08T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Mike Pence"
       ]
     },
     {
@@ -70,7 +123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 2928,
+      "heat": 3008,
       "tags": null,
       "images": [
         {
@@ -386,113 +439,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-an-unexpected-guest-fly-lands-on-mike-pences-head-during-debate-goes-viral.md",
-      "title": "An unexpected guest: Fly lands on Mike Pence's head during debate, goes viral",
-      "excerpt": "The fly, which was on Mike Pence's head for several minutes, quickly went viral and created a buzz – pun intended – online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/07/fly-lands-mike-pence-head-during-vice-presidential-debate/5919316002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/07/fly-lands-mike-pence-head-during-vice-presidential-debate/5919316002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/08/USAT/dc97230a-e74a-4d28-aecf-bc43087c617e-AP_Election_2020_Debate.jpg?auto=webp&crop=3148,1771,x1,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5919316002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5919316002",
-      "publishedDateTime": "2020-10-07T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-plays-covid-defense-and-other-things-to-watch-at-the-vice-presidential-debate.md",
-      "title": "Pence plays Covid defense and other things to watch at the vice presidential debate",
-      "excerpt": "It’s the former radio host (turned governor) vs. the former prosecutor (turned senator) in Salt Lake City Wednesday for the first and only vice presidential debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/07/vp-debate-2020-what-to-watch-427305",
-      "originalUrl": "https://www.politico.com/news/2020/10/07/vp-debate-2020-what-to-watch-427305",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/6a/92/4dbc48bc421b81bf662001ed0fcb/201007-pence-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-08-ed-rollins-vp-debate-harris-pence-faceoff-in-utah-and-america-should-look-to-hear-this-one-word.md",
       "title": "Ed Rollins: VP debate –Harris, Pence faceoff in Utah and America should look to hear this one word",
       "excerpt": "It is not unrealistic to think that Pence or Harris could be America’s president in the not-too-distant future",
@@ -759,23 +705,23 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-pence-team-objects-to-plexiglass-being-installed-for-both-candidates-at-vp-debate.md",
-      "title": "Pence team objects to plexiglass being installed for both candidates at VP debate",
-      "excerpt": "Mike Pence does not want plexiglass barriers around him at the vice presidential debate against Kamala Harris on Wednesday, a top aide to the vice president told CNN on Tuesday, rebuffing an announcement from the Commission on Presidential debates that the dividers would be used to prevent the spread",
+      "path": "_news/2020-10-07-pence-preps-for-debate-as-chances-to-shake-up-the-race-dwindle.md",
+      "title": "Pence preps for debate as chances to shake up the race dwindle",
+      "excerpt": "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CBVhz9qngO0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CBVhz9qngO0/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 220,
+      "heat": 285,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002094634-01-pence-0928-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -784,9 +730,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/plexiglass-vp-debate/index.html",
-      "publishedDateTime": "2020-10-06T14:36:14-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
+      "publishedDateTime": "2020-10-06T18:33:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1255,62 +1201,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-pence-tests-negative-and-continues-campaigning-despite-trump-diagnosis.md",
-      "title": "Pence tests negative and continues campaigning despite Trump diagnosis",
-      "excerpt": "Vice President Mike Pence tested negative for Covid-19 again, an administration official said Saturday morning, after traveling to multiple states for indoor and outdoor events, participating in numerous White House events and meetings and having been in frequent close contact with President Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YjU5SL7xJBM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YjU5SL7xJBM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 5120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201002094925-01-pence-0925-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html",
-      "publishedDateTime": "2020-10-03T11:03:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-03-vp-pence-ordered-borders-closed-after-cdc-experts-refused.md",
       "title": "VP Pence ordered borders closed after CDC experts refused",
       "excerpt": "Two former U.S. health officials tell AP that Vice President Mike Pence in March directed the nation’s top disease control agency to use its emergency powers to effectively seal the borders against im",
@@ -1418,41 +1308,41 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-there-will-be-more-space-between-pence-and-harris-at-next-weeks-debate.md",
-      "title": "There will be more space between Pence and Harris at next week's debate",
-      "excerpt": "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will be separated by 12 feet at their debate on Wednesday, a source familiar with the plans tells CNN.\n    \n",
+      "path": "_news/2020-10-02-mike-pence-and-his-wife-tested-negative-friday-morning.md",
+      "title": "Mike Pence and his wife tested negative Friday morning.",
+      "excerpt": "Vice President Mike Pence announced Friday that he and his wife, Karen, had tested negative for the coronavirus, just hours after President Trump and the first lady announced they had both tested positive and were quarantining at the White House.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ut2ExXTcjVE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ut2ExXTcjVE/index.html",
+      "webUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1230,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200930151306-01-commission-on-presidential-debates-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://static01.nyt.com/images/2020/10/02/multimedia/02elections-briefing-pence/02elections-briefing-pence-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/vp-debate-coronavirus/index.html",
-      "publishedDateTime": "2020-10-02T17:53:28-07:00",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
+      "publishedDateTime": "2020-10-02T07:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1469,9 +1359,8 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice",
         "Mike Pence",
-        "Kamala Harris"
+        "Democratic Voice"
       ]
     },
     {
@@ -1597,6 +1486,101 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-heres-how-kamala-harris-puts-the-nail-in-the-trump-pence-coffin.md",
+      "title": "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin",
+      "excerpt": "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
+      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 5995,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
+      "publishedDateTime": "2020-10-01T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-second-lady-karen-pence-makes-3-veteran-themed-stops-in-jacksonville-area.md",
+      "title": "Second lady Karen Pence makes 3 veteran-themed stops in Jacksonville area",
+      "excerpt": "Karen Pence, wife of Vice President Mike Pence, made three stops in Jacksonville, focused on veterans' issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/",
+      "originalUrl": "https://www.jacksonville.com/story/news/politics/2020/09/30/second-lady-karen-pence-talks-veteran-issues-jacksonville-stops/3574834001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/30/NFTU/4ea6f2a0-019f-4279-8b50-56fa316692ef-FLJAX_093020_KarenPence_01.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.jacksonville.com/amp/3574834001",
+      "cdnAmpWebUrl": "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/3574834001",
+      "publishedDateTime": "2020-09-30T18:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Florida Times-Union",
+        "domain": "jacksonville.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

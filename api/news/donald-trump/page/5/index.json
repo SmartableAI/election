@@ -2,159 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-09-24-trump-said-jews-are-only-in-it-for-themselves-and-stick-together-according-to-a-new-report.md",
-      "title": "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report",
-      "excerpt": "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
-      "publishedDateTime": "2020-09-23T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-has-shady-political-motives-in-blaming-china-for-pandemic-beijing-official-says.md",
-      "title": "Trump has 'shady political motives' in blaming China for pandemic, Beijing official says",
-      "excerpt": "The attacks from China's foreign ministry come a day after Trump accused Beijing of allowing the virus to escape its borders and “infect the world.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
-      "originalUrl": "https://www.usatoday.com/story/news/world/2020/09/23/chinas-foreign-minister-says-trump-has-shady-political-motives-in-blaming-beijing-for-covid/3502844001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/ada6adda-5826-4b6f-a434-e2abeef42892-AFP_AFP_1VP17Q.jpg?auto=webp&crop=4170,2346,x0,y211&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3502844001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3502844001",
-      "publishedDateTime": "2020-09-23T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-rep-ilhan-omar-responds-to-president-donald-trumps-attacks-this-is-my-country.md",
-      "title": "Rep. Ilhan Omar responds to President Donald Trump's attacks: 'This is my country'",
-      "excerpt": "President Donald Trump again attacked Rep. Ilhan Omar at a campaign stop Tuesday, when he referenced her birth country of Somalia, drawing a rebuke from the Minnesota Democrat. At a campaign rally near Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/23/ilhan-omar-responds-president-trumps-attacks-this-my-country/3501453001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/07/18/USAT/7edc08c0-f71e-4775-b4d5-ff01613d72fe-VPC_TRUMP_SEND_HER_BACK_CHANTS_DESK_THUMB.00_00_05_21.Still001.jpg?auto=webp&crop=1919,1080,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3501453001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3501453001",
-      "publishedDateTime": "2020-09-23T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-23-judd-apatow-rob-reiner-accuse-donald-trump-of-mass-murder-in-separate-tweets.md",
       "title": "Judd Apatow, Rob Reiner accuse Donald Trump of 'mass murder' in separate tweets",
       "excerpt": "Filmmakers Judd Apatow and Rob Reiner took to Twitter on Tuesday to accuse Donald Trump of dishonesty and murder.",
@@ -310,6 +157,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-23-it-affects-virtually-nobody-trump-downplays-virus-threat-to-young-people.md",
+      "title": "‘It affects virtually nobody’: Trump downplays virus threat to young people",
+      "excerpt": "The president previously told The Washington Post’s Bob Woodward in March that Covid-19 affects “plenty of young people.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
+      "originalUrl": "https://www.politico.com/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8f/c6/3f4d0f284bc986003303ed785508/200922-donald-trump-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/22/trump-downplays-coronavirus-threat-young-people-419883",
+      "publishedDateTime": "2020-09-22T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -824,63 +727,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-stoking-his-base-trump-warns-of-a-kamala-harris-presidency.md",
-      "title": "Stoking his base, Trump warns of a Kamala Harris presidency",
-      "excerpt": "The president knocks Harris as \"super liberal\" and pushes conspiracy theories that Biden would quickly step down to elevate her to president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/stoking-his-base-trump-warns-kamala-harris-presidency-n1240492",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 340,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG",
-          "width": 2500,
-          "height": 1695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240492",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240492",
-      "publishedDateTime": "2020-09-22T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice",
         "Donald Trump"
       ]
     },
@@ -1544,6 +1390,159 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-sen-thune-says-trumps-supreme-court-nominee-will-receive-a-vote.md",
+      "title": "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'",
+      "excerpt": "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5832607002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002",
+      "publishedDateTime": "2020-09-19T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-urges-gop-to-move-without-delay-as-he-ponders-impact-of-supreme-court-on-election.md",
+      "title": "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election",
+      "excerpt": "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 391,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/19/USAT/64bfff5e-1f2f-4c5b-88e9-89942fb64e3b-AP_Election_2020_Trump_2.jpg?auto=webp&crop=5853,3293,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5837691002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002",
+      "publishedDateTime": "2020-09-19T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-speak-out-reader-opinion-trump-is-not-listening-to-scientists-on-climate-change.md",
+      "title": "Speak Out reader opinion: Trump is not listening to scientists on climate change",
+      "excerpt": "Speak Out allows readers to comment on the issues of the day. Email Speak Out at speakout@southtownstar.com or call 312-222-2427. Please limit comments to 30 seconds or about 120 words and give your first name and your hometown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/5cT98GJkAfC1aMD58R1up3l5BIQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SBKTP7Z2GYZQZ4X2L5GIIYAFDQ.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
+      "publishedDateTime": "2020-09-19T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

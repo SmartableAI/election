@@ -96,51 +96,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's reckless return met with a dramatically changed White House "
-    excerpt: "President Donald Trump may be eagerly seeking a return to normal after three nights in the hospital. But the White House he arrived home to Monday with dramatic and reckless flourish has changed drastically since he was airlifted off the South Lawn at the end of last week.\n    \n"
-    publishedDateTime: 2020-10-06T01:52:39Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_II6QKdDZgc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/trump-white-house-coronavirus-diagnosis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-white-house-coronavirus-diagnosis/index.html"
+  - title: "Trump returns to White House and removes mask despite having Covid"
+    excerpt: "It's been more than two days since President Donald Trump was airlifted to Walter Reed National Military Medical Center, but Americans remain largely in the dark about the trajectory of his infection with Covid-19 and the specifics of his condition as the White House tries to control the optics of his"
+    publishedDateTime: 2020-10-06T01:08:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Mz23KP1Wmo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-covid-condition-walter-reed/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005184613-03-trump-leaves-walter-reed-1005-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201004234718-04-trump-walter-reed-morotcade-1004-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump halted stimulus talks. Here's what it means for you"
-    excerpt: "Millions of Americans are still out of work. Many small businesses and major airlines are struggling to stay afloat. And states are still contending with massive budget gaps.\n    \n"
-    publishedDateTime: 2020-10-07T00:30:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aukOeIUYLek/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/stimulus-pelosi-trump-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/stimulus-pelosi-trump-coronavirus/index.html"
+  - title: "Pay attention to these headlines rather than Trump's anti-reality"
+    excerpt: "Pumped full of unapproved drugs not available to average Americans plus a steroid, President Donald Trump mounted the steps of the White House on Monday night, told Americans not to be afraid of Covid-19 and promised them they'd beat it.\n    \n"
+    publishedDateTime: 2020-10-07T00:30:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAGKyxQfVRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006173834-going-out-of-business-nyc-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump has personally pressured drug company CEOs repeatedly to speed vaccine"
-    excerpt: "A likely contagious President Donald Trump returned to the White House Monday evening, whipped off his mask and filmed a video, heavy on bluster and short on facts, that proclaimed: \"The vaccines are coming momentarily.\"\n    \n"
-    publishedDateTime: 2020-10-06T17:42:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOaLsS9OMwQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-pfizer-vaccine/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-pfizer-vaccine/index.html"
+  - title: "Former Trump campaign manager Brad Parscale steps down from role as senior adviser"
+    excerpt: "Brad Parscale stepped down from his role as a senior adviser to President Donald Trump's campaign on Wednesday, two sources close to the campaign confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-10-01T01:43:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6415mQt0pvs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/brad-parscale-steps-away-from-trump-campaign/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930163912-trump-white-house-south-lawn-0930-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200430103432-01-brad-parscale-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -175,6 +175,173 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/25/nyregion/00rochester-trump5/00rochester-trump5-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Live updates: Trump receives Covid-19 treatment at Walter Reed"
+    excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center as what was described as a precautionary measure on Friday, the same day he announced he and wife Melania had tested positive for Covid-19."
+    publishedDateTime: 2020-10-03T07:30:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/live-blog/2020-10-03-trump-covid-n1241952"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump campaign adviser spars with Chris Wallace over debate"
+    excerpt: "A senior campaign adviser to President Donald Trump accused \"Fox News Sunday\" host Chris Wallace of not being a neutral moderator during last week's presidential debate. \"He had to debate not just Joe Biden,"
+    publishedDateTime: 2020-10-04T14:26:00Z
+    webUrl: "https://www.politico.com/news/2020/10/04/trump-debate-wallace-cortes-425992"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/04/trump-debate-wallace-cortes-425992"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/trump-debate-wallace-cortes-425992"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/66/41/3375f88b4d5190ebda54b2ae25be/200929-chris-wallace-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump lets the tweets fly from inside Walter Reed hospital"
+    excerpt: "The president hasn't been this active on the social media platform in days as he's undergone treatment for Covid-19."
+    publishedDateTime: 2020-10-05T11:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-lets-tweets-fly-inside-walter-reed-hospital-n1242094"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242094"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242094"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417453/201005-trump-health-mc-1204_06e8020cbda3d2e9487750ac644a07f1.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Live updates: Trump to leave Walter Reed hospital Monday night"
+    excerpt: "President Donald Trump tweeted Monday afternoon that, after three days, he would be departing the hospital where he has been receiving treatment for Covid-19 at around 6:30 p.m. ET. White House physician Sean Conley said in a briefing with reporters after Trump's announcement that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released from Walter Reed National Military Medical Center later in the day for continued treatment at the White House."
+    publishedDateTime: 2020-10-05T21:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/2020-10-05-trump-covid-n1242088"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/nbc_spec_doctors_discharge_201005_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Live updates: Trump back at White House after Covid-19 treatment at Walter Reed"
+    excerpt: "President Donald Trump has returned to the White House after leaving Walter Reed National Military Medical Center, where he had been receiving treatment for Covid-19 since Friday. He immediately took off his mask to pose for pictures before walking into the building."
+    publishedDateTime: 2020-10-06T19:36:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/live-blog/2020-10-06-trump-covid-n1242234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242234"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417772/201006-trump-white-house-mc-9222_79f93e44e9a757ca1d9de38e3e8ec331.JPG"
+        width: 2500
+        height: 1672
+        isCached: true
+  - title: "Trump defends actions in lead up to Covid diagnosis in video posted from Walter Reed"
+    excerpt: "President Donald Trump on Saturday addressed his health and defended his actions in the lead up to his Covid-19 diagnosis in a video recorded from a Walter Reed hospital room. “I just didn’t want to stay in the White House."
+    publishedDateTime: 2020-10-03T23:55:00Z
+    webUrl: "https://www.politico.com/news/2020/10/03/trump-says-doing-much-better-in-new-video-425892"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/03/trump-says-doing-much-better-in-new-video-425892"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/03/trump-says-doing-much-better-in-new-video-425892"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 128
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/fc38fbab-13a6-4391-8b07-e78c2b79737a/8b9885fa-5de5-4533-9335-3cf4d7748571/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
+    excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
+    publishedDateTime: 2020-10-03T06:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-be-transported-walter-reed-medical-center-marine-one-helicopter-n1241899"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241899"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241899"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417089/201002-donald-trump-cs-405p_f7ec29fb41e9828b420a325e8de84b79.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "CDC changed report on Covid and kids after Trump official’s request"
+    excerpt: "Amid Trump’s push to reopen schools, Caputo’s science adviser asked that the health agency alter its warning about a study of pediatric coronavirus."
+    publishedDateTime: 2020-10-05T08:38:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/10/05/cdc-changed-report-on-covid-and-kids-after-trump-officials-request-1320225"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/cc/37/77fa5dcd4ca08a5710b9f8491a79/gettyimages-1277364658-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
+    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
+    publishedDateTime: 2020-10-03T15:30:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-02-trump-covid-n1241780"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241780"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
+  - title: "Hope Hicks, top Trump adviser who flew with him to debate, tests positive for Covid"
+    excerpt: "Hicks recently traveled on Air Force One with the president to Cleveland for Tuesday’s debate, along with roughly 20 to 30 aides and family members."
+    publishedDateTime: 2020-10-02T00:52:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/hope-hicks-top-trump-adviser-who-flew-him-debate-tests-n1241751"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 109
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_40/3416833/201001-hope-hicks-2018-ac-842p_58ccf042fc6d35570ea1522bae16016e.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Says He Is “Starting to Feel Good” in Video From Walter Reed"
+    excerpt: "After a day of confusion and conflicting information about President Donald Trump’s health, the commander in chief tweeted out a video message from Walter Reed saying his condition has improved. But he also made clear that he is well aware he’s far from being given the all-clear and will have to see how his treatment develops."
+    publishedDateTime: 2020-10-04T00:22:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/10/trump-starting-feel-good-video-walter-reed-coronavirus.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/10/trump-starting-feel-good-video-walter-reed-coronavirus.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/10/trump-starting-feel-good-video-walter-reed-coronavirus.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 85
+    images:
+      - url: "https://compote.slate.com/images/551350a5-d40e-4cdf-8186-83db94062aaa.png?width=780&height=520&rect=840x560&offset=64x0"
+        width: 780
+        height: 520
         isCached: true
 
 secured: "fdEFm1CZLllW53W0DJyqSaI0P9kmxnY4pTA53d2HMOgwBHll91e71kGhZxYv8J3M7wItKlME6kf0ykKBYP9PQ1lv/sqeNDwHj6jjsLMrvtitX1TsFf4YCQ5yy5LiG/K1xNXqSUspf7tfTODcvPY5VQcT3dsfW03VBALskqUrIXLRzZgyHy5W24ry6i0Cv2qVgwvPuE6xQuNEDo3Dbc1YLtqYiwZEq1xQAiKuTQX899XOISj/aadmg3efYZwbrnE1yl3KQq0K4CD7kJ0jCRdFYwoSlVeMBT73+Zxq2K9JaNWfR/BTD2k9BPwxN8I9/2AGW18dE8mn3QM9U9EYnWnhgEo7Lkxj0bzXvZ7hi4rs3oY=;RlN6P6Qo3l3xKZAuGp7cCw=="

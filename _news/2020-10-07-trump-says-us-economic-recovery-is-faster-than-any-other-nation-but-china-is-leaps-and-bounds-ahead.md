@@ -48,37 +48,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump offers no sign of lessons learned as he mulls a national address"
-    excerpt: "Awaking at home Tuesday after a weekend spent in hospital, President Donald Trump offered no indication his serious bout with coronavirus had changed his perceptions of a disease that has killed more than 210,000 Americans.\n    \n"
-    publishedDateTime: 2020-10-06T16:21:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vf2LB2-tPWs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house/index.html"
+  - title: "The Point: Donald Trump has a long history of refusing to condemn white supremacist and hate groups"
+    excerpt: "Asked directly during Tuesday night's debate to condemn the Proud Boys hate group, President Donald Trump told them to \"stand back and stand by.\"\n    \n"
+    publishedDateTime: 2020-09-30T15:16:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iJvXAfe-0RI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/30/politics/white-supremacy-trump-proud-boys-charlottesville-kkk-david-duke/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/white-supremacy-trump-proud-boys-charlottesville-kkk-david-duke/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 161
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200926165616-01-proud-boys-portland-0926-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "'This election is about Donald Trump, up or down': Focus group pollsters"
-    excerpt: "Peter Hart, Democratic Pollster, Hart Research Associates, and Nicole McCleskey, Republican Pollster, Public Opinion Strategies, talk to Chuck Todd about a post-debate focus group they conducted for Meet the Press."
-    publishedDateTime: 2020-10-04T12:59:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/-this-election-is-about-donald-trump-up-or-down-focus-group-pollsters-93106245716"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93106245716"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93106245716"
+  - title: "Meadows: Decision on Trump's discharge to be made later today"
+    excerpt: "White House physician Sean Conley said in a briefing with reporters after Trump's announcement that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released from Walter Reed National Military Medical Center later in the day for continued treatment at the White House."
+    publishedDateTime: 2020-10-05T23:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-05-trump-covid-n1242088/ncrd1242110"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 149
+    quality: 135
     images:
-      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_full_focus_201004.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417640/201005-doctors-walter-reed-ew-420p_b1ad8bbd55e872fa22c64b305dee773b.jpg"
+        width: 2500
+        height: 1676
+        isCached: true
+  - title: "White House floats a Trump speech as the outbreak spreads"
+    excerpt: "THE TRUMP ADMINISTRATION is considering having President DONALD TRUMP address the nation. He returned from the White House on Monday night after a weekend at Walter Reed. NYT's Maggie Haberman had this as well ALYSSA FARAH-- the White House comms director -- suggested to White House reporters that we will “hear from” TRUMP “at some point today."
+    publishedDateTime: 2020-10-06T17:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/06/white-house-floats-a-trump-speech-as-the-outbreak-spreads-490536"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/fc/db/81b47a084faaac9796b3dad22075/201006-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "fyq2bdu+kPSaeMmnzFMgjRtWpd+aZOMA5BfiSWHw3DOUF0QEL+iR76s/ovSfj3lU5g2+E65DdyIUjzLyjkkzc4Qsc82UkhqisxjnkjOPRrml9h1Q7RRI/bWFtCezWT8hcqUBmnlye24WA0elk+oAzBT+/QWSvsk6pk+G7lHI7TbWf3+GBM/bigG5PASiLLexXchBBYhCsI2AeVPXdhgIp5k2Am8lo8zS/XoS+3Gar/SRlAjxPgSFgzjv8asfEFumD89WIP/EsNgePmRSK2Z5QR68eJd8TJKEaMmNsgyCfhzc7PoZuaJf26LmKJFzIApvnObAIfuwk0WsWxha5A6RLlwGOCLbbHdf4mJNlKeANn8G2ruuH0KwolGYP4O2nhTcUsC9G5Q633YdaCaHm4CqMkkfh/X97HxyVI0qNDNtlF9JnB/xoZPpSSW/hQL/6J/lEPVdCgZeb05jkigZr6vj2wgZ3ZevPf+7RQleS8uMBVRFbZ4PvEg8sS6ipmHlshm4XnZFLzCMdlhyVSQJceqMGQ==;6puSDkboISxmk+YKFXlAYg=="

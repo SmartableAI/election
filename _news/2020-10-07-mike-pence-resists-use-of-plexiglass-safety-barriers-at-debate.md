@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pence preps for debate as chances to shake up the race dwindle"
+    excerpt: "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n"
+    publishedDateTime: 2020-10-07T01:33:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence team objects to plexiglass being installed for both candidates at VP debate"
     excerpt: "Mike Pence does not want plexiglass barriers around him at the vice presidential debate against Kamala Harris on Wednesday, a top aide to the vice president told CNN on Tuesday, rebuffing an announcement from the Commission on Presidential debates that the dividers would be used to prevent the spread"
     publishedDateTime: 2020-10-06T21:36:14Z
@@ -63,6 +79,36 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002094634-01-pence-0928-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Mike Pence’s Debate Performance Bugged Me Out"
+    excerpt: "If not, it was a bug doing an ace interpretation of a fly, and about two-thirds of the way through the debate in Salt Lake City on Wednesday night, it took up residence in Vice President Mike Pence’s hair,"
+    publishedDateTime: 2020-10-08T09:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/08/opinion/mike-pence-vp-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/08/opinion/mike-pence-vp-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/opinion/mike-pence-vp-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/opinion/08bruni/08bruni-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Pence plays Covid defense and other things to watch at the vice presidential debate"
+    excerpt: "It’s the former radio host (turned governor) vs. the former prosecutor (turned senator) in Salt Lake City Wednesday for the first and only vice presidential debate."
+    publishedDateTime: 2020-10-07T19:54:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/vp-debate-2020-what-to-watch-427305"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/6a/92/4dbc48bc421b81bf662001ed0fcb/201007-pence-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "9mO58XS4d+OPGSbebN7X8yRniiYAhpVHS0Cfp3dWY6cQZXgmJRNT8cvb80VWTOvHLz7kkHlUzH7rf8a2eDINE0C7ovpfMpf5vIjJUCQE7cyMEMg2+BSTVU5HtfMge8ZkDH+4mZTZycucVJg3IEITkskZBc+NIPhkDAiL8e1rDLkXMgoWTzpt+g8FYwYwm17YBExuZTByCcK+ZAg4XJO5JWH51x7WaBKFETDTwb2f3UZOShsGxii3HI6Vh+wMB2GtiZPhHnUExlaEIFpl5jLL3RXDWXssM4sZ7OYMM7AuNJIFY5HL0xCTODOfqpGMQwERkQp78sUMS0pChva5jKKmQP1Om0N2a2fKZhH7SJS7LajaLkB7O6TXqh5xYj8Ju3OVqz8IIfeeH06b/9pETFEkS+jt6DdwkWgHTvz/6kHwtvmILQOewVVpngkaghSABhMzdOT0Md5Zh4W76r4uhXHchs4GC2qoGUQFP79S7emogAjf78klcpVu3xS8rklh24nqLb72nbAHo68wpwp9TaURVA==;EfaK8UjA1yWSrQwRONMopA=="

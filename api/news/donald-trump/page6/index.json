@@ -2,159 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-09-20-sen-thune-says-trumps-supreme-court-nominee-will-receive-a-vote.md",
-      "title": "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'",
-      "excerpt": "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5832607002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002",
-      "publishedDateTime": "2020-09-19T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-urges-gop-to-move-without-delay-as-he-ponders-impact-of-supreme-court-on-election.md",
-      "title": "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election",
-      "excerpt": "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 391,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/19/USAT/64bfff5e-1f2f-4c5b-88e9-89942fb64e3b-AP_Election_2020_Trump_2.jpg?auto=webp&crop=5853,3293,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5837691002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002",
-      "publishedDateTime": "2020-09-19T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-speak-out-reader-opinion-trump-is-not-listening-to-scientists-on-climate-change.md",
-      "title": "Speak Out reader opinion: Trump is not listening to scientists on climate change",
-      "excerpt": "Speak Out allows readers to comment on the issues of the day. Email Speak Out at speakout@southtownstar.com or call 312-222-2427. Please limit comments to 30 seconds or about 120 words and give your first name and your hometown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/5cT98GJkAfC1aMD58R1up3l5BIQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SBKTP7Z2GYZQZ4X2L5GIIYAFDQ.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-19T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-19-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly.md",
       "title": "Trump is betting big on the suburbs, but his strategy is failing 'bigly'",
       "excerpt": "Just two years previously, then-candidate Donald Trump won the overall suburban vote by five percentage points according to exit polling. That margin fueled his razor-thin wins in the key “Blue Wall” states of Michigan,",
@@ -612,6 +459,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-19-trump-announces-aid-for-puerto-rico-infusing-politics-in-an-apparent-play-for-florida-voters.md",
+      "title": "Trump announces aid for Puerto Rico, infusing politics in an apparent play for Florida voters",
+      "excerpt": "Polling shows Trump and Biden are tied in Florida, where thousands of Puerto Ricans relocated after Hurricane Maria.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto-rico-infusing-politics-apparent-play-florida-n1240491",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto-rico-infusing-politics-apparent-play-florida-n1240491",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/2180696/ss-171006-twip-22_7607aec2d647d9aa65488040a7aadb8f.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240491",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240491",
+      "publishedDateTime": "2020-09-18T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     },
     {
@@ -1545,6 +1448,108 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-the-dojs-move-to-take-over-trumps-law-suit-may-be-legal-but-is-it-appropriate.md",
+      "title": "The DOJ's Move to Take Over Trump's Law Suit May Be Legal. But Is It Appropriate?",
+      "excerpt": "The Justice Department moved to take over President Donald Trump’s defense against a woman who claims he defamed her when he denied her accusation that he sexually assaulted her.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/",
+      "originalUrl": "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228304179.jpg",
+          "width": 1024,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true",
+      "cdnAmpWebUrl": "https://time-com.cdn.ampproject.org/c/s/time.com/5887999/donald-trump-e-jean-carroll-westfall-act-doj/?amp=true",
+      "publishedDateTime": "2020-09-13T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by-the-russians.md",
+      "title": "Strzok: 'I continue to believe that Donald Trump is compromised by the Russians'",
+      "excerpt": "Former FBI agent Peter Strzok told NBC’s Chuck Todd Sunday that he still believes President Trump to be “compromised by the Russians.”",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/strzokpeter_071218gn7_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "publishedDateTime": "2020-09-13T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Donald Trump"
       ]
     }

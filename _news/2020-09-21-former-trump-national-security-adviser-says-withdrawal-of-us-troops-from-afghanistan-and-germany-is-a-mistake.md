@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/20/politics/h-r-mcmaster-afghanistan-germany-us-troops/index.html"
 type: article
 quality: 156
-heat: 176
+heat: 196
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 135
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_39/3414087/200922-zalmay-khalilzad-jm-1625_616206e16f4ffcb5cabd88ba0f866530.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump pledges to withdraw troops from Afghanistan by Christmas; Taliban cheer"
+    excerpt: "Afghanistan's Taliban group on Thursday welcomed an announcement by President Donald Trump that he would pull out all U.S. troops from the country by Christmas. It was \"a positive step towards the implementation of (the) Doha agreement,"
+    publishedDateTime: 2020-10-08T10:13:00Z
+    webUrl: "https://www.nbcnews.com/news/world/trump-pledges-withdraw-troops-afghanistan-christmas-taliban-cheer-n1242590"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242590"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242590"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418118/201007-afghan-talks-mc-9532_2ba34940be30fa05e78d56ed414bdcf9.JPG"
         width: 2500
         height: 1667
         isCached: true

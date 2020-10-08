@@ -169,22 +169,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Pence attacks Biden's economic vision: 'Day One Joe Biden is going to raise your taxes'"
-    excerpt: "Vice President Mike Pence on Wednesday delivered a blistering critique of Joseph R. Biden’s economic vision, warning that the Democrat is poised to raise taxes and enact policies that would cost hundreds of thousands of jobs."
-    publishedDateTime: 2020-10-08T02:37:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 92
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Election_2020_Debate_08391.jpg-a495c_c0-328-5386-3469_s1200x700.jpg?21d902c28853cc6a5d5f724c7b428dcc0c259c8f"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Joe Biden releases 2019 tax returns ahead of debate"
     excerpt: "The Bidens’ returns show the couple paid almost $300,000 in federal taxes in 2019, including almost $288,000 in personal income tax."
     publishedDateTime: 2020-09-29T19:05:00Z

@@ -127,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Top 5 vice presidential debate moments between Pence, Harris"
+    excerpt: "Vice President Mike Pence and Democratic presidential nominee Sen. Kamala Harris squared off Wednesday night on topics ranging from the pandemic to health care to the USMCA. "
+    publishedDateTime: 2020-10-08T10:19:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/okVvFEaFBfw/vice-presidential-debate-pence-harris-top-five-moments"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 210
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "How to watch the vice presidential debate of Mike Pence vs. Kamala Harris"
     excerpt: "Fox News Channel will present special live programming surrounding the 2020 vice presidential debate this week in Salt Lake City between incumbent Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris, D-Calif. "
     publishedDateTime: 2020-10-06T10:33:26Z
@@ -622,6 +638,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/107-7.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Second Trump-Biden debate will be virtual, organizers say"
+    excerpt: "The second debate between President Trump and former Vice President Joe Biden will be virtual, with both candidates appearing from separate remote locations, the Commission on Presidential Debates announced Thursday -- nearly a week after Trump announced he'd tested positive for the coronavirus."
+    publishedDateTime: 2020-10-08T11:30:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/idKcyZ0X_cI/second-trump-biden-debate-will-be-virtual-organizers-say"
+    ampWebUrl: "https://www.foxnews.com/politics/second-trump-biden-debate-will-be-virtual-organizers-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/second-trump-biden-debate-will-be-virtual-organizers-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden clashes with Trump over Antifa: 'It's an idea, not an organization'"
     excerpt: "President Trump and former Vice President Joe Biden had a heated exchange over extremist violence with each facing questions over their stances towards them."
@@ -1707,6 +1739,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Watch the Full VP Debate With Mike Pence and Kamala Harris"
+    excerpt: "Sen. Kamala Harris and Vice President Mike Pence took part in the 2020 vice presidential debate in Salt Lake City. Watch the full program here."
+    publishedDateTime: 2020-10-08T01:30:00Z
+    webUrl: "https://www.wsj.com/video/watch-the-full-vp-debate-with-mike-pence-and-kamala-harris/1C345477-6AAB-4748-9AAD-528A9D5C37F7.html"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 140
+    images:
+      - url: "http://images.wsj.net/im-241322?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign calls out second debate moderator who interned for Biden, worked for Ted Kennedy"
     excerpt: "The second debate between President Trump and former Vice President Joe Biden will be moderated by a former intern for the latter."
     publishedDateTime: 2020-10-01T23:29:00Z
@@ -1911,6 +1957,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Replay: 2020 Vice Presidential Debate Between Mike Pence, Kamala Harris In Utah"
+    excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris face-off for their first debate."
+    publishedDateTime: 2020-10-08T09:11:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/watch_live_2020_vice_presidential_debate_between_vp_mike_pence_kamala_harris_in_utah.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 86
+    images:
+      - url: "https://assets.realclear.com/images/52/523397.jpg"
+        width: 2300
+        height: 1533
+        isCached: true
   - title: "Joe Biden's Pastoral Charms"
     excerpt: "Washington -- If I were a Democratic wheeler-dealer sitting atop the most left-wing major party in American history, I would be a little bit nervous. First, there is my party's"
     publishedDateTime: 2020-10-01T04:01:00Z
@@ -2094,7 +2154,7 @@ related:
   - title: "Former NSA Head Michael Hayden Endorses Biden: He's A Good Man, Donald Trump Is Not"
     excerpt: "Retired Gen. Michael Hayden, who served as director of both the CIA and the NSA during the Bush and Obama administrations, appears in this ad from the \"Republican Voters Against Trump\" group to endorse Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-07T12:54:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA#!"
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/former_nsa_head_michael_hayden_endorses_biden_hes_a_good_man_donald_trump_is_not.html?fbclid=IwAR3AfXYoU4nm6g842XM40ZKUDHHV2e-TK3-QHnGSjWt1GsXACepK2xLCQYA"
     type: article
     provider:
       name: RealClearPolitics

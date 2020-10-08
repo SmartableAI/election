@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump says his coronavirus deception was Churchillian. Scholars of Churchill say he's wrong"
+    excerpt: "President Donald Trump argued Thursday that his decision to mislead Americans about the severity of the coronavirus threat wasn't just the right thing to do -- it was positively Churchillian.\n    \n"
+    publishedDateTime: 2020-09-13T14:26:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q-IcolBZnTA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/fact-check-trump-churchill-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911203714-donald-trump-winston-churchill-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "SBcXaN7LZsTLj+eqRm4HJVGAl2wDvX3wrm/zfPlEnR1sC3DGkSWCa70KertaRMPmT3tGxWw6KoC1wX+9/8LvcRYlPDBt1LITBNDh9Yu2HnB9e3BASbUYA62Pa9lkKSQB/hf4TuHNznP0fDJ2gaJEn6mT5BI7fBt17FYXr8IDZKYUiciHkH/DnT0M1aO+mTnJRIS06fHDs+bcjPLdJY8sYbiWdK7QlCNaPIrk/4kr8RYdnsRF9mFyXQ9S/Tp/LbPcYeq+OsgINoGr/8QcaUXTz+OPs/YbPHNr3HHo2INaI0rO/hr219WE/cPWisjRYn9c+5oXDzwuSkb2NoNQi+bVGQDUeLGMjEF3MiTk+Cwq9us=;5rEtKYLSN1BAHT1QQQs4Vw=="
 ---

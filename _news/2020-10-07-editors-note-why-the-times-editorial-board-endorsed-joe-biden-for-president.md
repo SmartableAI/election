@@ -48,35 +48,51 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Progressives pledge to keep pushing Biden to expand Supreme Court"
-    excerpt: "Biden, who ran a relatively centrist primary campaign, hasn't embraced that push, worried they may intensify the nation's partisan split."
-    publishedDateTime: 2020-09-25T02:51:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/progressives-pledge-keep-pushing-biden-expand-supreme-court-n1241039"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241039"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241039"
+  - title: "Biden will get tested more frequently and continue in-person campaigning"
+    excerpt: "Joe Biden will be tested more frequently for Covid-19 and intends to move forward with in-person campaigning, following news of President Donald Trump and several individuals in his orbit testing positive, sources tell CNN.\n    \n"
+    publishedDateTime: 2020-10-03T21:42:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mn0soEl9KzU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/joe-biden-campaign-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/joe-biden-campaign-coronavirus/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 174
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_39/3414864/200924-joe-biden-face-mask-ac-1033p_d8fc8f4c9fd784e5bc8bd838100ec790.JPG"
-        width: 6048
-        height: 4024
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002150006-01-biden-1002-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Biden discusses how to combat racial injustice"
-    excerpt: "Joe Biden discusses his work with the civil rights movement and the change he has seen in the country while also addressing how he would hope to fight racial injustice if elected president."
-    publishedDateTime: 2020-10-06T00:59:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-discusses-how-to-combat-racial-injustice-93196869645"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93196869645"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196869645"
+  - title: "Biden begins to pull away in Pennsylvania"
+    excerpt: "With 28 days till the election, Pennsylvania is looking further and further out of reach for President Donald Trump. Democratic presidential nominee Joe Biden is ahead by 12 percentage points among registered voters here,"
+    publishedDateTime: 2020-10-06T16:00:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/d1/ff/e233f90e4037b175cd8ff9ab1fff/ap20280155144908-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Joe Biden campaigns in Miami ahead of NBC News town hall"
+    excerpt: "A new NBC News/Wall Street Journal poll shows Joe Biden opening a 14-point lead on President Trump nationally, with the election less than a month away. Biden told reporters that he’d listen to scientists about the next debate after President Trump’s Covid-19 diagnosis."
+    publishedDateTime: 2020-10-06T00:02:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/joe-biden-campaigns-in-miami-ahead-of-nbc-news-town-hall-93193797761"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93193797761"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93193797761"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_hate_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_gha_covid_and_the_campaign_201005_1920x1080.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

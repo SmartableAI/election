@@ -63,6 +63,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'A bit of a red flag': Trump receives steroid treatment for Covid-19"
+    excerpt: "The White House physician said on Sunday that President Donald Trump is now taking another drug for Covid-19, adding to his growing list of treatments for his illness. Dr. Sean Conley said the president was given a steroid called dexamethasone following “two episodes of transient drops in his oxygen saturation,"
+    publishedDateTime: 2020-10-04T18:31:00Z
+    webUrl: "https://www.nbcnews.com/health/health-news/bit-red-flag-trump-receives-steroid-treatment-covid-19-n1242069"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242069"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242069"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_25/3390382/200616-dexamethasone-al-1354_8fa7f50045bd54e384cc04a4191c4926.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Hear what these Trump supporters say about Covid and the president"
+    excerpt: "Donald Trump's coronavirus case received a sympathetic response from his supporters rallying on Maryland's Choptank River."
+    publishedDateTime: 2020-10-05T10:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-briefly-leaves-hospital-drive-supporters-n1242088/ncrd1242091"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3417432/201005-trump-cavalcade-mc-909_442fae005aa65d204c8c6cf3ad2cb39e.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Drugmaker says White House doctor described Trump treatment inaccurately"
     excerpt: "Dr. Sean Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
     publishedDateTime: 2020-10-05T17:22:00Z

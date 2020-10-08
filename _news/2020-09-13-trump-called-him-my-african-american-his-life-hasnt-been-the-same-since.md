@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-america
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/trump-my-african-american-cheadle-rally-blake/index.html"
 type: article
 quality: 173
-heat: -1
-published: false
+heat: 213
+published: true
 
 provider:
   name: CNN
@@ -31,91 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "HIPAA and what it means for Trump, his doctor and the American public"
-    excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
-    publishedDateTime: 2020-10-07T11:25:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+  - title: "Trump: 'I didn't lie' to Americans about coronavirus risks"
+    excerpt: "President Donald Trump on Thursday insisted \"I didn't lie\" to the American public about the severity of coronavirus, despite having told journalist Bob Woodward in March that he'd been ..."
+    publishedDateTime: 2020-09-10T23:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-says-he-didn-t-lie-americans-about-coronavirus-risks-n1239809"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1239809"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239809"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_37/3411237/200910-donald-trump-se-421p_3ef31d1fd5ccf1d27585c0d37ddd77da.jpg"
+        width: 2500
+        height: 1629
         isCached: true
-  - title: "Fact check: Trump falsely tweets that Covid-19 is less lethal than the flu"
-    excerpt: "President Donald Trump has consistently downplayed the threat of the coronavirus in public, and it seems testing positive for the virus himself has not changed his tune.\n    \n"
-    publishedDateTime: 2020-10-06T16:30:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
+  - title: "Trump Calls for ‘Patriotic Education’ to Defend American History From the Left"
+    excerpt: "At the National Archives Museum, the president warned against a “radical movement” that has emerged from “decades of left-wing indoctrination in our schools.”"
+    publishedDateTime: 2020-09-18T02:00:00Z
+    webUrl: "https://www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.html"
+    ampWebUrl: "https://www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/17/us/politics/trump-patriotic-education.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/09/17/us/politics/17dc-trump/17dc-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "Federal appeals court rules Trump can't block New York subpoena for his tax returns"
-    excerpt: "The Manhattan district attorney can obtain President Donald Trump's tax returns, a federal appeals court ruled on Wednesday, dealing the President another setback in his effort to shield his tax returns from investigators but the case is likely to head to the Supreme Court.\n    \n"
-    publishedDateTime: 2020-10-07T15:46:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e-SqvyGrIxw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/trump-tax-returns-subpoena-ruling/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/trump-tax-returns-subpoena-ruling/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190919130022-20190918-trump-tax-forms-generic-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but unswayed by debate"
-    excerpt: "After watching the first presidential debate Tuesday night, undecided voters from battleground states across the country still had plenty they wanted to know about coronavirus, racial injustice and what each candidate would do to unite the country."
-    publishedDateTime: 2020-09-30T07:28:00Z
-    webUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 110
-    images:
-      - url: "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Undecided voters call Trump ‘unhinged’ and ‘un-American’ — but are unswayed by debate"
-    excerpt: "You just saw 90 minutes. How can you still be undecided?” veteran GOP pollster Frank Luntz told a virtual focus group."
-    publishedDateTime: 2020-10-01T17:17:00Z
-    webUrl: "https://www.politico.com/news/2020/09/30/undecided-voters-trump-biden-debate-423545"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 108
-    images:
-      - url: "https://static.politico.com/88/b9/ecc4dc754481bd290b736d50b15a/gettyimages-1228795856.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
-    excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
-    publishedDateTime: 2020-10-04T09:02:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trump-might-lose-but-his-judges-will-keep-wrecking-america-for-years-to-come"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 38
 
 secured: "nhYhzo4wfJdUDGSUARGJCGRTF6k4BXnvNZmfSWHcdlZkVnaH5C5w7frscM9lUcuQ8mJsiUhQ9UZyM8sPqK5nvqIRXxkXuyGbBt6XOP6dSAnzRlLi9EgfUhJwCyVTaGlb7Ft9qcXoKY1BXsm+fROKYzQpRLSjia1BZfyYmZwf/wxheN2rq/ztt8xDpqSFVuY19Nw8svbIaSQgU/iAiioY1HQ2MN5A1B2HqcSptuQWfqHVAwAplt5NFK8my4q7iRA8dlV1ihV5d+y6Vs+9vAYG40jDs0BJq4pPEq583d4b752AifCsxgDgy/qh81Zn1Qu2hGliz6chg/4L+N8dEmkap2UEZ+VXTuPJOprnQdqWuTc=;OGfWA67aK9xR3QpC+zSRqQ=="
 ---

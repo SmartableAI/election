@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-29-end-the-filibuster-pack-the-court-the-left-is-pushing-biden.md",
+      "title": "End the Filibuster? Pack the Court? The Left Is Pushing Biden",
+      "excerpt": "A party that is increasingly seeking to play by different rules is led by a figure who helped create the current ones. The outcome of the fight will help define the Democratic Party going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28progressives-top/28progressives-top-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html",
+      "publishedDateTime": "2020-09-28T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election.md",
       "title": "Dwayne Johnson endorses Joe Biden and Kamala Harris for US presidential election",
       "excerpt": "The Rock has posted his support on social media for the Democratic candidates, including an interview with both",
@@ -1481,57 +1537,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday.md",
-      "title": "CNN to host first 'drive-in town hall' with Biden on Thursday",
-      "excerpt": "CNN says it will host a \"drive-in town hall\" with Democratic presidential nominee Joe Biden on Thursday night, which the network calls \"the latest adaptation to campaigning during the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
-      "originalUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe4_08312020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
-      "publishedDateTime": "2020-09-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

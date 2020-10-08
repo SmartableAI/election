@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-d
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
 type: article
 quality: 125
-heat: 325
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,53 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "New York Times editorial board endorses Biden"
-    excerpt: "The New York Times editorial board endorsed Joe Biden's White House bid on Tuesday, throwing its support behind the former vice president&nb"
-    publishedDateTime: 2020-10-07T02:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
+  - title: "Joe Biden posed with a swatter after a fly landed on Mike Pence's head during the VP debate"
+    excerpt: "The Biden campaign was quick to capitalize on the moment in the vice-presidential debate. Its merchandise store already started selling fly swatters."
+    publishedDateTime: 2020-10-08T10:14:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_100620getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://i.insider.com/5f7eda07c655f6001969ed95?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
-    excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."
-    publishedDateTime: 2020-10-07T09:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
+  - title: "Fly on Mike Pence's head steals the buzz from vice presidential debate, and Biden can't complain"
+    excerpt: "A fly that landed on Vice President Mike Pence's head during the presidential debate generated a lot of buzz online."
+    publishedDateTime: 2020-10-08T04:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 123
+    quality: 127
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-wave-mask_hpMain_20201006-224125_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/vp-debate-pence-fly-ap-ps-201007_1602125166979_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
-    excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."
-    publishedDateTime: 2020-10-01T23:46:00Z
-    webUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins"
-    ampWebUrl: "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp"
+  - title: "Here's who would pay more under Joe Biden's tax plan"
+    excerpt: "Joe Biden's tax plan increases taxes on those earning at least $400,000 per year. But the burden will fall primarily on the highest earners, those making more than $1 million a year, according to an analysis from the Tax Policy Center."
+    publishedDateTime: 2020-10-07T16:16:00Z
+    webUrl: "https://www.cnbc.com/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://image.cnbcfm.com/api/v1/image/106732322-1602003544711-gettyimages-1278126590-cs026704_2020100245452297.jpeg?v=1602003584"
+        width: 5472
+        height: 3648
+        isCached: true
+  - title: "Joe Biden’s campaign, summed up in one simple gesture"
+    excerpt: "Jill Biden reminding her husband of proper social distancing -- and his response -- says everything about his campaign."
+    publishedDateTime: 2020-10-06T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K2WXIHAHEII6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "An unexpected guest: Fly lands on Mike Pence's head during debate, goes viral"
+    excerpt: "The fly, which was on Mike Pence's head for several minutes, quickly went viral and created a buzz – pun intended – online."
+    publishedDateTime: 2020-10-08T03:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/fly-lands-mike-pence-head-during-vice-presidential-debate/5919316002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5919316002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5919316002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/dc97230a-e74a-4d28-aecf-bc43087c617e-AP_Election_2020_Debate.jpg?auto=webp&crop=3148,1771,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Video Resurfaces of Kamala Harris Saying She Wants to Ban Fracking After Saying Biden Will Not During VP Debate"
     excerpt: "\"There's no question I'm in favor of banning fracking,\" Kamala Harris said in video footage that resurfaced on social media Wednesday."
@@ -95,51 +127,79 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Detroit pastor wants Biden to reach out more to Black community"
-    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
-    publishedDateTime: 2020-10-01T19:52:00Z
-    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
+  - title: "A fly landed on Mike Pence's head during the debate and rested there for nearly two minutes"
+    excerpt: "The vice presidential candidates were in a serious moment when the black bug landed on Mr. Pence's stark white hair. Most viewers' attention then turned to the fly – and stayed there until the pest flew away."
+    publishedDateTime: 2020-10-08T03:44:00Z
+    webUrl: "https://www.cbsnews.com/news/pence-fly-head-debate/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/pence-fly-head-debate/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pence-fly-head-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/08/179a6725-59bf-4c8f-b6ff-20636367b45d/thumbnail/1200x630/8f2adafa8dd5e04314021e0fb774aa6d/ap-20282085044567.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden campaigns in Miami"
+    excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-05T20:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201005202222-joe-biden-campaigns-in-miami/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/05/story_07124914_1601930944.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Why Joe Biden can't expect to automatically get the Latino vote"
-    excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
-    publishedDateTime: 2020-10-03T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3533570001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001"
+  - title: "'He's from here': Biden and the battle for Scranton"
+    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
+    publishedDateTime: 2020-10-06T18:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
         width: 1200
-        height: 677
+        height: 675
         isCached: true
-  - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
-    excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
-    publishedDateTime: 2020-10-03T18:52:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
+  - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
+    excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
+    publishedDateTime: 2020-10-06T12:21:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 75
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 102
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
-        width: 1024
-        height: 684
+      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "Pence attacks Biden's economic vision: 'Day One Joe Biden is going to raise your taxes'"
+    excerpt: "Vice President Mike Pence on Wednesday delivered a blistering critique of Joseph R. Biden’s economic vision, warning that the Democrat is poised to raise taxes and enact policies that would cost hundreds of thousands of jobs."
+    publishedDateTime: 2020-10-08T02:37:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 92
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Election_2020_Debate_08391.jpg-a495c_c0-328-5386-3469_s1200x700.jpg?21d902c28853cc6a5d5f724c7b428dcc0c259c8f"
+        width: 1200
+        height: 700
         isCached: true
   - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
     excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
@@ -157,21 +217,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
-    excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
-    publishedDateTime: 2020-10-01T19:05:00Z
-    webUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/"
-    ampWebUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
+  - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
+    excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."
+    publishedDateTime: 2020-10-03T22:54:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
     type: article
     provider:
-      name: People
-      domain: people.com
-    quality: 63
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 73
     images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
-        width: 1500
-        height: 785
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
+        width: 3771
+        height: 2514
+        isCached: true
+  - title: "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy"
+    excerpt: "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video."
+    publishedDateTime: 2020-10-01T16:10:00Z
+    webUrl: "https://www.miamiherald.com/news/nation-world/national/article246142010.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "Is Joe Biden the Konrad Adenauer of the U.S.?"
     excerpt: "Former Vice President Joe Biden, the candidate who marched from victory to victory thereafter, and who is now both the Democrats' standard-bearer and the substantial favorite to be the next president,"
@@ -187,6 +263,54 @@ related:
         width: 1260
         height: 560
         isCached: true
+  - title: "'Truth Over Flies' fly swatters and 'I’m speaking' shirts: Joe Biden campaign, Etsy sellers capitalize on VP debate"
+    excerpt: "Following the vice presidential debate between Mike Pence and Kamala Harris, \"Truth Over Flies\" fly swatters and “I’m speaking” shirts are for sale."
+    publishedDateTime: 2020-10-08T07:12:00Z
+    webUrl: "https://www.freep.com/story/money/2020/10/08/vice-president-debate-2020-memorabilia-fly-swatters-shirts/5920511002/"
+    ampWebUrl: "https://amp.freep.com/amp/5920511002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5920511002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/5bb2fcea-566e-466f-b39e-fdb11994e396-debate2020.jpg?auto=webp&crop=931,524,x0,y45&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
+    excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
+    publishedDateTime: 2020-10-07T04:38:00Z
+    webUrl: "https://www.chron.com/shopping/article/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "Joe and Jill Biden Deliver Remarks in Miami"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife, Jill, speak at a campaign event in Miami’s Little Havana neighborhood. 2020 Democratic presidential candidate Joe Biden and his wife, Jill, speak at a campaign event in Miami’s Little Havana neighborhood."
+    publishedDateTime: 2020-10-05T12:47:00Z
+    webUrl: "https://www.c-span.org/video/?476606-1/joe-jill-biden-deliver-remarks-miami"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Says He'll Debate if Scientists Say it's Safe"
+    excerpt: "Democratic presidential candidate Joe Biden speaks briefly with reporters and says that if the scientists say it’s safe to go forward with the upcoming… read more Joe Biden, a 2020 Democratic presidential candidate,"
+    publishedDateTime: 2020-10-05T16:26:00Z
+    webUrl: "https://www.c-span.org/event/?476553/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Zq2uPdWU7Pfo5hVEAhxVbpisqoU/F7l/fUcIDm3NzrLg7tDRgNR+Cxd7Uy/h0OJRZhmLQhLIIvMoYVeA5eg1UENlnJF8cSWLi1xxPC7AM1FKuMstrq9rucfVYmA4+YgF3vf76lMbxlwMHJ/xWkmPc7OnmtP5v5iRhemB7TBoTPeCbPkfG8HfzLwrB4q2i2eARUysQe5zXCRQO8NCQKKcH0oJnzy5yKuMH3hjW79th4w1vinL/WDMyjVRCOJV8NzI4/nTJ8272RkxlSb9hgi00lLR5a1umIT4Ih7+j5UyS0TGzw98TLvO8LBZK0lK9Q5I9uKcC0tICVHpO2NRkR00Kd5M0qpT5Uf5mi/X+eZkfuVM7QlGkBWN10qTILDWk03tVqG7YGLlLXoVrRBh6Cc8eNbDNtmddMJUl/dFqQJqMcB87wB7E2Znc/U+LXM02IEiY3/HQgY0bqZF4jd7MUHav9LiuqefTtQ82qkCziNTaJLujGJNBHdkWcsURsugqnSFEo1AvkpC8Y80CERCBT/DCw==;4Wil1Ae12zYzmNZEaCXlDQ=="
 ---
