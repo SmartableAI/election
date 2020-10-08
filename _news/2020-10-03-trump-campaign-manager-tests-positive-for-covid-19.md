@@ -1870,6 +1870,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Justice Dept. Eases Election Fraud Inquiry Constraints as Trump Promotes False Narrative"
+    excerpt: "The move comes as President Trump promotes a false narrative of widespread voter fraud ahead of the election. For decades, federal prosecutors have been told not to mount election fraud investigations in the final months before an election for fear they could depress voter turnout or erode confidence in the results."
+    publishedDateTime: 2020-10-08T08:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/justice-department-election-fraud.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/justice-department-election-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/justice-department-election-fraud.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 141
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/world/07dc-justice1/07dc-justice1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Donald Trump and Joe Biden Debate Law and Order"
     excerpt: "In the presidential debate Joseph R. Biden Jr. and Donald J. Trump debated the concept of law and order after recent unrest gripped the nation."
     publishedDateTime: 2020-09-30T02:53:00Z
@@ -2939,6 +2955,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417772/201006-trump-white-house-mc-9222_79f93e44e9a757ca1d9de38e3e8ec331.JPG"
         width: 2500
         height: 1672
+        isCached: true
+  - title: "Trump's Covid-plagued White House proves testing alone can't keep America safe"
+    excerpt: "Just like a pregnancy test cannot take the place of birth control, Covid-19 tests should not be seen as substitutes for robust public health strategies to reduce community transmission."
+    publishedDateTime: 2020-10-08T08:34:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-covid-plagued-white-house-proves-testing-alone-can-ncna1242448"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242448"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242448"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418291/201007-kayleigh-mcenamy-mn-1800_2a0decd2cdb852ed5136e004a4d332b6.JPG"
+        width: 2500
+        height: 1568
         isCached: true
   - title: "Trump has spent a year building a legal network to fight the election"
     excerpt: "Dozens of lawyers from three major firms have been hired. Thousands of volunteer attorneys and poll watchers across the country have been recruited."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/25/nyregion/00rochester-trump5/00rochester-trump5-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump asked Walter Reed doctors to sign non-disclosure agreements in 2019"
+    excerpt: "At least two Walter Reed doctors who refused to sign non-disclosure agreements last year were not permitted to be involved in Trump’s care."
+    publishedDateTime: 2020-10-08T09:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-asked-walter-reed-doctors-sign-non-disclosure-agreements-2019-n1242293"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242293"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242293"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418267/201007-walter-reed-mn-1530_76a297a12a026ce9306916d1a9a781c3.JPG"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "1mO6V3nzy/R1H6dA7VPffgaSgeoUzkXifw49VGFZzWFAgJGs+LceIWrYoYflsx4dK1U9foFvqWI0eBemJZoWHHweG7GjSBfgrVDk83EYN2+qa1j4TWtSgx8aLs+mdWEfI/8IdJZ2Im0B5JgWV63GbTqcQ3ju2KaaeiZELMzv0jlS1GS4Ctz8WRwY2MUrloh5SfLmk3VepYiMvPCUgE2lkcCTlJ9h5Ata6GM0KBPAPrad9MurKOL8OlCVN0w6ZsYJeCdccPa6Ccyh5hEnOhLtnYn/yIjINHl0G5HTo/I40mZH3BH5nw6itm8/EcIlGFJ0YVTFjjo8kfVZH4lw2HYvVAl/ZNkrWZgFBdLIhRfJfNY=;wbxEryuyHdgefk6xChqf/w=="

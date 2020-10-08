@@ -503,6 +503,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Best and Worst Moments of the Kamala Harris-Mike Pence Debate: ‘Most Bizarre Moment Was the Fly’"
+    excerpt: "Welcome to Opinion’s commentary for the vice-presidential debate between Kamala Harris and Mike Pence. In this special feature, Times Opinion writers pick the winner and then rank the victory on a scale of 1 to 10: 1 means it was a very narrow win;"
+    publishedDateTime: 2020-10-08T09:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/08/opinion/debate-kamala-harris-mike-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/08/opinion/debate-kamala-harris-mike-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/opinion/debate-kamala-harris-mike-pence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/opinion/08scorecard/08scorecard-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
     excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"
     publishedDateTime: 2020-10-07T08:34:00Z
@@ -581,6 +597,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris calls Trump’s virus response the ‘greatest failure of any presidential administration.’"
+    excerpt: "Well, the American people have witnessed what is the greatest failure of any presidential administration in the history of our country. And here are the facts: 210,000 dead people in our country in just the last several months."
+    publishedDateTime: 2020-10-08T08:29:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/world/kamala-harris-calls-trumps-virus-response-the-greatest-failure-of-any-presidential-administration.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/world/kamala-harris-calls-trumps-virus-response-the-greatest-failure-of-any-presidential-administration.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/world/kamala-harris-calls-trumps-virus-response-the-greatest-failure-of-any-presidential-administration.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07vid-VP-debate-012/07vid-VP-debate-012-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris could boost Asian American voter turnout, researchers say"
     excerpt: "Jamaican — and was excited when Harris was chosen as Joe Biden’s vice presidential nominee. She said it motivated her even more to vote for the Democratic ticket in November. Hossain, 37, told NBC Asian America that having Harris on the ticket was a huge win for the South Asian community,"
     publishedDateTime: 2020-10-07T20:34:00Z
@@ -596,6 +628,22 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_41/3417995/201005-sadhwani_sara_2019_ac-1045p_458064d86fdad69ac300d5b23939cf44.fit-320w.jpg"
         width: 320
         height: 480
+        isCached: true
+  - title: "Mike Pence’s Debate Performance Bugged Me Out"
+    excerpt: "If not, it was a bug doing an ace interpretation of a fly, and about two-thirds of the way through the debate in Salt Lake City on Wednesday night, it took up residence in Vice President Mike Pence’s hair,"
+    publishedDateTime: 2020-10-08T09:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/08/opinion/mike-pence-vp-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/08/opinion/mike-pence-vp-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/opinion/mike-pence-vp-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/opinion/08bruni/08bruni-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."

@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump soldier Mike Pence faces off with an impressive Kamala Harris: Mastio and Lawrence"
+    excerpt: "Pence didn't even pretend Trump has a plan to protect insurance for people with preexisting conditions. And Harris didn't answer on 'packing the court.'"
+    publishedDateTime: 2020-10-08T04:58:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-column/5910000002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5910000002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5910000002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 156
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/054659b2-e6a2-4c75-a883-9b764a8c0ec6-harris_pence.jpg?auto=webp&crop=7000,3938,x0,y883&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
     excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
     publishedDateTime: 2020-09-20T16:54:00Z
@@ -108,6 +124,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5e44OeJFk9U/v0/360x-1.jpg"
         width: 360
         height: 239
+        isCached: true
+  - title: "Kamala Harris and Mike Pence debate reaction, Trump calls Covid diagnosis 'blessing' – live updates"
+    excerpt: "Coronavirus dominates VP debate as Trump declares his illness a ‘blessing from god’"
+    publishedDateTime: 2020-10-08T09:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 151
+    images:
+      - url: "https://i.guim.co.uk/img/media/b9e149a182836d654054f61a3cc98f6518543545/0_0_5905_3543/master/5905.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=58dabb145f8c415d3eb115efc9a59d6b"
+        width: 600
+        height: 360
         isCached: true
   - title: "Harris to voters: Don't give up as Trump rushes court pick"
     excerpt: "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election"
@@ -573,6 +605,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Kamala Harris Doesn't Trust Trump's Word on Vaccines. She's Not Alone"
+    excerpt: "The Democratic vice presidential candidate said she would trust medical professionals but not the president in regards to a COVID-19 vaccine."
+    publishedDateTime: 2020-10-08T08:44:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-doesnt-trust-trump-vaccines-1537331"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-doesnt-trust-trump-vaccines-1537331?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-doesnt-trust-trump-vaccines-1537331?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1647846/kamala-harris-vice-president-debate.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Pence: 'Slanders' against Trump on armed forces 'absurd'"
     excerpt: "Vice President Mike Pence in Wednesday night's vice presidential debate defended President Trump from allegations that he has disparaged the military and U.S. soldiers killed in action."
     publishedDateTime: 2020-10-08T03:34:00Z
@@ -964,6 +1012,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106730748-1601931141982-AP20279684793202.jpg?v=1601931215"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "4 Takeaways From The Mike Pence - Kamala Harris Vice Presidential Debate"
+    excerpt: "Wednesday's debate between Pence and Harris, by 2020 standards, was normal. The candidates ignored questions, defended Biden's and Trump's records, but it was the fly which created buzz."
+    publishedDateTime: 2020-10-08T09:00:00Z
+    webUrl: "https://www.npr.org/2020/10/08/921323806/4-takeaways-from-the-mike-pence-kamala-harris-vice-presidential-debate"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 129
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/08/gettyimages-1228948142_wide-a4e5bb22ccd3de639e9cb48b657c3c5e5423bff0.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
     excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
@@ -1382,6 +1444,22 @@ related:
       - url: "https://thehill.com/sites/default/files/harriskamala_pencemike2_100720getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Michelle Obama Praises Kamala Harris After 'Strong' Debate Performance"
+    excerpt: "The former first lady said the Democratic vice presidential nominee had been \"clear\" and \"honest\" throughout the 90-minute head-to-head."
+    publishedDateTime: 2020-10-08T08:09:00Z
+    webUrl: "https://www.newsweek.com/michelle-obama-kamala-harris-strong-debate-performance-1537321"
+    ampWebUrl: "https://www.newsweek.com/michelle-obama-kamala-harris-strong-debate-performance-1537321?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michelle-obama-kamala-harris-strong-debate-performance-1537321?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1647803/kamala-harris-vice-presidential-debate.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "The Picture of Donald J. Trump"
     excerpt: "That would not be a picture of strength. President Trump was putting his whole soul into this shot, and it had to be perfect. He had been at the hospital minutes ago; he was still battling the coronavirus."
@@ -1895,22 +1973,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7P4N2QIAII6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 951
-        isCached: true
-  - title: "Trump soldier Mike Pence faces off with an impressive Kamala Harris: Mastio and Lawrence"
-    excerpt: "Pence didn't even pretend Trump has a plan to protect insurance for people with preexisting conditions. And Harris didn't answer on 'packing the court.'"
-    publishedDateTime: 2020-10-08T07:47:00Z
-    webUrl: "https://www.cincinnati.com/story/opinion/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-column/5910000002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5910000002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5910000002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/054659b2-e6a2-4c75-a883-9b764a8c0ec6-harris_pence.jpg?auto=webp&crop=7000,3938,x0,y883&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
     excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
@@ -2528,14 +2590,14 @@ related:
         isCached: true
   - title: "Joe Biden, Kamala Harris to meet with tribal leaders, small business owners in Arizona"
     excerpt: "Democrat Joe Biden and his running mate, Kamala Harris, will meet with tribal leaders and small business owners during their trip to Arizona."
-    publishedDateTime: 2020-10-08T04:15:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
-    ampWebUrl: "https://amp.freep.com/amp/5910955002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5910955002"
+    publishedDateTime: 2020-10-07T22:29:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5910955002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5910955002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 92
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/76b27cc0-7e26-464d-83e8-b7d7c4c3eb32-AP20260030136787.jpg?auto=webp&crop=3755,2113,x0,y191&format=pjpg&width=1200"
@@ -3648,6 +3710,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0354de2-2fc7-422c-89df-cc7516e2f05e/01b86a55-d427-45ba-b8a6-369275b0a37f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Fact Check: Vice presidential candidates Sen. Kamala Harris and VP Mike Pence debate"
+    excerpt: "The 90-minute debate between Sen. Kamala Harris and Vice President Mike Pence covered a variety of topics. We fact checked statements made by both candidates. The first topic discussed was the coronavirus pandemic."
+    publishedDateTime: 2020-10-08T08:58:00Z
+    webUrl: "https://www.chron.com/news/article/Fact-Check-Vice-Presidential-candidates-Sen-15629742.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 73
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/45/54/20077356/15/rawImage.jpg"
+        width: 2048
+        height: 1430
         isCached: true
   - title: "Kamala Harris to tour Flint small businesses Tuesday before events in Detroit"
     excerpt: "Democrats need high voter turnout in Detroit and Flint to win Michigan, a state Trump won by 10,704 votes in 2016."

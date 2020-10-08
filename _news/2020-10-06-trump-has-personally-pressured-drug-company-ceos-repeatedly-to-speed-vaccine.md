@@ -159,6 +159,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump asked Walter Reed doctors to sign non-disclosure agreements in 2019"
+    excerpt: "At least two Walter Reed doctors who refused to sign non-disclosure agreements last year were not permitted to be involved in Trump’s care."
+    publishedDateTime: 2020-10-08T09:03:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-asked-walter-reed-doctors-sign-non-disclosure-agreements-2019-n1242293"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242293"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242293"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418267/201007-walter-reed-mn-1530_76a297a12a026ce9306916d1a9a781c3.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "TBK2YanALBdJJiD2Zhidn1hN+8TzfpKrAaq7rRbtGeTzse6FQ5y9ciLC9VgnCAdvMbvv3OKH8k6cE7Q/8JzzULZZzcIm1e8eHNwFje/seRO3WpZKncAZdN5x162fSz6qQ+ovCZ7z2p5yPKrKUo+UDEb2lvg/qgkjhLv9jSvHvzzqapr0Ifjsf3D6sdvJjqSLeifT+ATYfyulW0ZiGYucKbcHpckyqV1nHNTuQqZ9rvPEJv8NEHxfG6l4WJ+OOGS+Fa4Ujy29ZkfdGgHOHXv2Vc2DlZ1WUBbCqqA1jqaKjFJOENlXW/WkcsMY/vNx7tbFgtk6ohUiviPys0O37Kk0GtD4rCuldbeSkWmt4js1jx8=;jRCzAFg46C6a0AiFwx2Jmw=="
 ---
