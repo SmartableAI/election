@@ -27,35 +27,97 @@ images:
     isCached: true
 
 related:
-  - title: "'Despacito' isn't good enough, Joe Biden. Latino voters are slipping away"
-    excerpt: "Trump is actively courting Latino voters while Biden is out to lunch. Alarms should be ringing at Democratic headquarters"
-    publishedDateTime: 2020-09-23T12:55:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
+  - title: "In battleground Wisconsin, some Latinos feel ignored by Biden"
+    excerpt: "Cesar Hernandez says he has made thousands of phone calls since June urging Latinos in the battleground state of Wisconsin to support Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-02T11:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-latino-wisconsin/in-battleground-wisconsin-some-latinos-feel-ignored-by-biden-idUSKBN26N1MZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N1MZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N1MZ"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 124
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/cbe4a05165ec651bf6c9390fe279b0c22cef8a59/0_0_4928_3280/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=165a458bd29e4ab844c30e210c888aca"
-        width: 600
-        height: 400
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535837932&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9111I"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Joe Biden woos Latinx and Hispanic voters"
-    excerpt: "Watch \"Joe Biden woos Latinx and Hispanic voters\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-09-17T04:40:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200917063622-joe-biden-woos-latinx-and-hispanic-voters/"
+  - title: "Biden again tests negative for COVID-19"
+    excerpt: "Democratic nominee Joe Biden tested negative for COVID-19 on Sunday, his campaign said. Biden was administered a PCR test for the virus, his campaign said, and COVID-19 was not detected. It marked the second time Biden has tested negative since President Trump revealed early Friday morning that he had the virus."
+    publishedDateTime: 2020-10-04T23:40:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_093020upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "'He's from here': Biden and the battle for Scranton"
+    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
+    publishedDateTime: 2020-10-06T18:36:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg"
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘Bidin’ his time': Joe Biden battles being chronically late"
+    excerpt: "Joe Biden was running late. Again.On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at a subsequent press conference. When it was finally over,"
+    publishedDateTime: 2020-09-27T03:06:00Z
+    webUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
+    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
+    type: article
+    provider:
+      name: The Oklahoman
+      domain: oklahoman.com
+    quality: 75
+    images:
+      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Why Joe Biden can't expect to automatically get the Latino vote"
+    excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
+    publishedDateTime: 2020-10-03T13:14:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3533570001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
+    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
+    publishedDateTime: 2020-10-03T09:13:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 51
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "Lt8Hn3JSmkPb932Q9xGQ15r0ovXGz9UQgluEVO5p+u69wKzCvvgd8/IxTHs4SH6jTcfPlwIDkye++DH+9YpSZWMi51O9FHJ/Z0+molZtds+FP1vFOwyXznPbk1r3OUNMYivPPVtffwRpT8Fqy5NdtH7Uif9xxSGsCW1Iem5juFs9i2Dy8V8bZmt6M4GsnoldntjpvyG27+oWSoRJwKdZ9GoOc5zmkqheodecEU32/Opp0FmSj8gQNpTZ7css2q40IOjnCXHE/hQofd2eON0XZkfjwXgGpRqbYxqzofRKPDKYgRY8V/nWkGO+JZWLXt1UqcfczpiEcq4Nky/atS3++0NwRdSrRO8TTciwcin4lnH4Au0RQpd9rotY5NB44SB1RBpw9EG7Rk80XDhxzOaAVuDNUCj03k2ccZYjAwSA0EiuzQhJYu/U0WhC2VxovgpJBcNvtZ5N+zIQMkk+sWwAqc/rNGe+fw8hAxgryHxhfqylL2q7eCjNVfvYLPnlGAHpz8eW2uP37GwvhrfmSjZv8w==;dHQt/cVvFoFhDkDykFBqHA=="

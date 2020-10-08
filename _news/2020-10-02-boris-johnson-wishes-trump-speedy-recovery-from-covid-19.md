@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 135
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bcfbf85-4fee-4d63-a075-4a07d3b0cf37/01fcde80-46af-4c80-8839-34cfe61ac6bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Do liberals really believe Trump faked his COVID-19 diagnosis?"
+    excerpt: "You will decide whether or not Donald Trump gets a second term or the cognitively challenged, weak, frail Joe Biden takes over. God help us. But until then, well, we do know one thing for certain, per usual."
+    publishedDateTime: 2020-10-08T13:48:00Z
+    webUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c105924-6cdc-4f18-874f-9dbb7b3f6bd5/aba778b1-1ff8-4281-a5a0-8e4c4144771b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

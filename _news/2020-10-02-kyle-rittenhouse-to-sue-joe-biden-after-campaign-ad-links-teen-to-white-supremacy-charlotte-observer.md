@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246142010.html"
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 79
+published: true
 
 provider:
   name: Charlotte Observer
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 719
     isCached: true
+
+related:
+  - title: "Dallas Mavericks owner Mark Cuban to headline virtual fundraiser for Joe Biden’s White House campaign"
+    excerpt: "Dallas Mavericks owner Mark Cuban on Wednesday will headline a virtual fundraiser for Democrat Joe Biden’s presidential campaign,"
+    publishedDateTime: 2020-10-07T00:23:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/06/dallas-mavericks-owner-mark-cuban-to-headline-virtual-fundraiser-for-joe-bidens-white-house-campaign/"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 40
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/1UH52z8_KN1yGHeElH92yj3VlvU=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/4QQVLV4YTJDAZMWXKJTEO7MEYM.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "J6W1ufFhClEqpw1FfLW/Rb8+IIXDRqSiqy8wU47F22xmc1lvPeONa4y7yHIvNQhO7ZyQAAmRjhkqf4ruYj0chlBOirCWaei6Ysn5EENQbslCkiZcEfRAWBKSReVln7OYYsSG+VP153suKhF+GY3A8syiv0HdxGn58Y7JzCdJNzRtcXoxw3c5meLpqjtn1Fpua/9C6Ip8MzgG0/EEhu49z3svtjyPJ5Qrk6vaN8DT5rFZklYVEVXwg1smQ9a+eE84Qv5g3HA2SM11kMD4ik5gzpNI84n5BomFSrcVVrBLxCDEfpOvbOFNEHZWNL8oANQ5eB0G80QkZdrZgp/9RGhbkFBW3zIuu83CmMz65fF/GC8=;3LCRDTNCPXqxc8OHk6ldvQ=="
 ---

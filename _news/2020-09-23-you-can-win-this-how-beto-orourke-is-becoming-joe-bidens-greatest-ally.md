@@ -40,22 +40,17 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 85
-  - title: "‘Bidin’ his time': Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again.On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at a subsequent press conference. When it was finally over,"
-    publishedDateTime: 2020-09-27T03:06:00Z
-    webUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
+  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
+    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
+    publishedDateTime: 2020-09-24T14:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
     type: article
     provider:
-      name: The Oklahoman
-      domain: oklahoman.com
-    quality: 75
-    images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "phuYGcd0UOFYglkaMyI30uXPS8cg9IfN1XHRAnL7p7Nn1wu7Es7ZFe0k/8Y/YNC/sc4AbBukUgDuwJEN9WKw59A6GRScJNFyjsnwEwXfyv4JggIpbh8htWIeCZQNGz72gqi+avAPpm5OloTizJTP4FzA9LNvTRcfOReFERDnxbsOEK4+TpX4iYeYbSx2W3hjlwx7EnqLe+Ymtiu8U5lHfQfl6EndAoxGr6vozAsg2fxiF5whOdja6CWTib+uxr8AkaP5zb4xn4/5aWBZ9NH+mKtRuKgPDgluKMtMkL1ILy1+mK6K42Z+mbfi2AOpjYrH85fDaFIOheXz62qvlZmP31gDHeTh9+ycEOZWfO/qBhKMe+lts1ewWG5CxTjBighMePsfkCwIzO6a6vBwDWjlVaibu4CjgRapk2kmzfowMcGFZ73jtEccYXfVruWxSc5/az+Jxo1XvX9VbdRnRWYSyV4hzXBvtJNnvO+bsNYV3PwgaNkJWZDUgroz+2XQK6VvIxztEkH3vqZ0b77CPlP6xw==;kDXCk4QWgtyAnq9YXviazQ=="
 ---

@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden, Clarence Thomas, and Amy Coney Barrett with Angela Wright"
+    excerpt: "Angela Wright confides in Mary C. Curtis about former Vice President Joseph Biden, #MeToo and the inner workings of a contentious Supreme Court battle."
+    publishedDateTime: 2020-10-08T13:15:00Z
+    webUrl: "https://www.rollcall.com/podcasts/equal-time/joe-biden-clarence-thomas-and-amy-coney-barrett-with-angela-wright/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/BARRETT_004_10012020-1.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Judge Amy Coney Barrett Meets with Vice President Pence and Majority Leader McConnell"
     excerpt: "Senate Majority Leader Mitch McConnell (R-KY) met with Supreme Court nominee Judge Amy Coney Barrett on Capitol Hill. As part of the confirmation process, it is customary for the nominee to meet with senators individually."
     publishedDateTime: 2020-09-29T14:50:00Z

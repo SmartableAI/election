@@ -2882,6 +2882,22 @@ related:
         width: 6000
         height: 3081
         isCached: true
+  - title: "Donald Trump vows not to participate in virtual debate with Joe Biden"
+    excerpt: "President Donald Trump vowed Thursday not to participate in next week’s debate with Democratic nominee Joe Biden after organizers announced it will take place virtually because of the"
+    publishedDateTime: 2020-10-08T12:39:00Z
+    webUrl: "https://www.denverpost.com/2020/10/08/trump-biden-virtual-debate/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/08/trump-biden-virtual-debate/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/08/trump-biden-virtual-debate/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Virus_Outbreak_46522-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "“Noise Favors Trump”: How the Biden Camp Plans to Leverage the SCOTUS Fight"
     excerpt: "As Justice Ruth Bader Ginsburg‘s death roils the media-sphere, Democrats still see a Trump defeat as contingent on COVID. “This has been an incredibly stable race,” one Biden campaign pollster says. “I still think a plurality of people believe this issue makes no difference in how they would vote."
     publishedDateTime: 2020-09-23T11:54:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-v
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
 type: article
 quality: 140
-heat: 740
-published: true
+heat: -1
+published: false
 
 provider:
   name: PBS
@@ -31,69 +31,149 @@ images:
     isCached: true
 
 related:
-  - title: "Hayden endorses Biden, says Trump 'doesn't care about facts'"
-    excerpt: "Michael Hayden, who served as director of both the CIA and the National Security Agency under multiple presidents, on Tuesday night endorsed Democratic presidential nominee Joe Biden, saying President Trump “doesn't care about facts” and “ doesn't keep the country safe."
-    publishedDateTime: 2020-10-07T13:24:00Z
-    webUrl: "https://thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts"
-    ampWebUrl: "https://thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts?amp"
+  - title: "Pence targets Biden over ISIS hostages, brings family of executed aid worker to debate"
+    excerpt: "Vice President Pence invoked slain ISIS hostage Kayla Mueller on Wednesday as he sought to tout what he described as President Trump’s foreign policy accomplishments in his debate against Sen. Kamala Harris (D-Calif."
+    publishedDateTime: 2020-10-08T04:05:00Z
+    webUrl: "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to"
+    ampWebUrl: "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 140
+    quality: 142
     images:
-      - url: "https://thehill.com/sites/default/files/article_images/haydenmichael_120316getty.jpg"
+      - url: "https://thehill.com/sites/default/files/pencemike3_10072020getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden vs. Trump: Here's where each candidate stands on debt"
-    excerpt: "According to the Federal Reserve, the total consumer debt burden currently stands at over $14 trillion. That's made up of mortgages, credit cards, personal loans, and other debts. So, where do the presidential candidates stand on debt?"
-    publishedDateTime: 2020-10-08T10:08:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/10/08/biden-vs-trump-where-each-candidate-stands-on-debt/114218012/"
-    ampWebUrl: "https://amp.usatoday.com/amp/114218012"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/114218012"
+  - title: "Joe Biden posed with a swatter after a fly landed on Mike Pence's head during the VP debate"
+    excerpt: "The Biden campaign was quick to capitalize on the moment in the vice-presidential debate. Its merchandise store already started selling fly swatters."
+    publishedDateTime: 2020-10-08T10:14:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5f7eda07c655f6001969ed95?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Concern over Biden's possible exposure to COVID-19 after Trump tests positive"
+    excerpt: "New concerns have surfaced about former Vice President Joe Biden's possible exposure to COVID-19 following President Trump's positive diagnosis announced early Friday."
+    publishedDateTime: 2020-10-02T17:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 137
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-debate-1-gty-er-200929_1601428943927_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Only 2 Percent of Americans Said Donald Trump-Joe Biden Debate Changed Their Vote: Poll"
+    excerpt: "A new poll suggests that almost no voters are likely to change their vote after viewing the first debate between President Donald Trump and Democratic nominee Joe Biden, although most thought Biden won the debate."
+    publishedDateTime: 2020-10-01T23:47:00Z
+    webUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798"
+    ampWebUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1644891/trump-biden-debate-view-television.jpg"
+        width: 2500
+        height: 1632
+        isCached: true
+  - title: "Trump-Biden presidential debate ratings fall 13% from 2016's record-setting first debate"
+    excerpt: "Fox News Channel drew 17.8 million viewers, the most of any network, while ABC led the broadcast pack with 12.6 million viewers."
+    publishedDateTime: 2020-10-01T06:20:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/09/30/trump-biden-presidential-debate-drew-lower-ratings-than-2016-opener/5869777002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5869777002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5869777002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 140
+    quality: 131
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
-    excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
-    publishedDateTime: 2020-10-07T02:42:00Z
-    webUrl: "https://www.businessinsider.com/biden-he-trump-shouldnt-have-debate-if-trump-has-coronavirus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/biden-he-trump-shouldnt-have-debate-if-trump-has-coronavirus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-he-trump-shouldnt-have-debate-if-trump-has-coronavirus-2020-10?amp"
+  - title: "Biden campaign sells out 'truth over flies' swatter after fly lands on Pence during debate"
+    excerpt: "The Biden campaign quickly sold out of a “Truth Over Flies” fly swatter it was offering inspired by a viral moment from Wednesday's vice presidential debate."
+    publishedDateTime: 2020-10-08T13:56:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520156-biden-campaign-sells-out-truth-over-flies-swatter-after-fly-lands-on-pence"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520156-biden-campaign-sells-out-truth-over-flies-swatter-after-fly-lands-on-pence?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520156-biden-campaign-sells-out-truth-over-flies-swatter-after-fly-lands-on-pence?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 133
+      name: The Hill
+      domain: thehill.com
+    quality: 130
     images:
-      - url: "https://i.insider.com/5f7b6d0594fce90018f7b2d8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://thehill.com/sites/default/files/pencefly_10072020getty_0.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Biden says October 15 presidential debate should not take place if Trump still has COVID"
-    excerpt: "Democratic presidential candidate Joe Biden said on Tuesday he and President Donald Trump should not have their scheduled debate on Oct. 15 if Trump still had the coronavirus infection at that time."
-    publishedDateTime: 2020-10-07T00:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-biden-idUSKBN26R3RF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R3RF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R3RF"
+  - title: "Trump and Biden show own vulnerabilities in a messy argument that was barely a debate: ANALYSIS"
+    excerpt: "Former Vice President Joe Biden wanted a debate about President Donald Trump and his record. Trump wanted a debate about Biden – and Elizabeth Warren, Bernie Sanders and Biden’s son, Hunter, along the way."
+    publishedDateTime: 2020-09-30T09:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 131
+      name: ABC
+      domain: abcnews.go.com
+    quality: 128
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536450412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9526S"
-        width: 841
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/biden-trump-debate-splt-gty-ps-200929_1601430833917_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Fly on Mike Pence's head steals the buzz from vice presidential debate, and Biden can't complain"
+    excerpt: "A fly that landed on Vice President Mike Pence's head during the presidential debate generated a lot of buzz online."
+    publishedDateTime: 2020-10-08T04:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 127
+    images:
+      - url: "https://s.abcnews.com/images/Politics/vp-debate-pence-fly-ap-ps-201007_1602125166979_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden campaign raises record $3.8 million in second hour of debate"
+    excerpt: "Joe Biden's deputy campaign manager said the campaign set a new record for fundraising in the second half of the first debate."
+    publishedDateTime: 2020-09-30T14:21:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-record-debate/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/2a1a6315-027f-4c72-93ca-c4831b377fcc/thumbnail/1200x630/ed68bb5540f7b0481b6229e2e450c2c9/gettyimages-1228795810.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden in Michigan says he hopes first family recovers soon"
     excerpt: "Joe Biden wished President Trump and the first lady a speedy recovery from COVID-19 on Friday, speaking from the campaign trail in Michigan after his own campaign announced that Biden tested negative for the coronavirus."
@@ -111,145 +191,117 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GOP faces reckoning over Trump's virus strategy, diagnosis"
-    excerpt: "President Donald Trump ’s coronavirus diagnosis was a moment of reckoning for his Republican Party, whose leaders largely adopted his strategy of playing down the disease but are now confronted with a stark political nightmare a month from Election Day."
-    publishedDateTime: 2020-10-03T17:33:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-covid-infection-creates-challenge-gop-73391873"
+  - title: "Here's who would pay more under Joe Biden's tax plan"
+    excerpt: "Joe Biden's tax plan increases taxes on those earning at least $400,000 per year. But the burden will fall primarily on the highest earners, those making more than $1 million a year, according to an analysis from the Tax Policy Center."
+    publishedDateTime: 2020-10-07T16:16:00Z
+    webUrl: "https://www.cnbc.com/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CNBC
+      domain: cnbc.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b646160b63fb44cc87cda580de0d383c_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://image.cnbcfm.com/api/v1/image/106732322-1602003544711-gettyimages-1278126590-cs026704_2020100245452297.jpeg?v=1602003584"
+        width: 5472
+        height: 3648
         isCached: true
-  - title: "Top Israeli rabbis, and U.S. envoy, pray for Trump recovery"
-    excerpt: "Israel's rabbis prayed for U.S. President Donald Trump to recover from COVID-19 on Monday, invoking his name in a Jewish holiday ceremony at Jerusalem's Western Wall."
-    publishedDateTime: 2020-10-05T11:10:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-jewish-bless/top-israeli-rabbis-and-u-s-envoy-pray-for-trump-recovery-idUSKBN26Q1IE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q1IE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1IE"
+  - title: "Joe Biden’s campaign, summed up in one simple gesture"
+    excerpt: "Jill Biden reminding her husband of proper social distancing -- and his response -- says everything about his campaign."
+    publishedDateTime: 2020-10-06T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/06/joe-bidens-campaign-summed-up-one-simple-gesture/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536199207&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG940W5"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K2WXIHAHEII6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump takes to Twitter to make pitch to voters from Walter Reed"
-    excerpt: "President Trump on Monday fired off a string of tweets calling on his supporters to vote while he continues to receiving treatment at Walter Reed National Military Medical Center after testing positive for the coronavirus last week."
-    publishedDateTime: 2020-10-05T13:20:00Z
-    webUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed"
-    ampWebUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
+  - title: "New York Times editorial board endorses Biden"
+    excerpt: "The New York Times editorial board endorsed Joe Biden's White House bid on Tuesday, throwing its support behind the former vice president&nb"
+    publishedDateTime: 2020-10-07T02:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_100420getty.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe2_100620getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "President Trump will be discharged from Walter Reed, doctors say"
-    excerpt: "Dr. Sean Conley said the president \"may not be out of the woods yet,\" but he is healthy enough to return to the White House."
-    publishedDateTime: 2020-10-05T19:27:00Z
-    webUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
+  - title: "Why are seniors breaking hard to Joe Biden?"
+    excerpt: "But one thing that plainly is happening is that seniors are moving to Biden in surprising numbers. If these polls are outliers, the impression of movement among seniors may be inflated, but we can be reasonably sure that this movement is in fact happening to some degree,"
+    publishedDateTime: 2020-10-06T21:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5f7b3460282c500018c78907?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTCTYTQICMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
-    excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
-    publishedDateTime: 2020-09-29T03:37:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
+  - title: "Joe Biden pulls off a big speech at a sacred location"
+    excerpt: "The Democratic nominee is no Lincoln but, with Gettysburg as the backdrop, he delivers perhaps the best speech of his career."
+    publishedDateTime: 2020-10-07T18:45:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
-        width: 806
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4SWWKPQIDMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Biden: shouldn't have debate if Trump still sick"
-    excerpt: "Joe Biden says he and President Donald Trump \"shouldn't have a debate\" if he still has COVID-19. Biden said Tuesday that he's \"looking forward to being able to debate him\" but said they need to \"follow very strict guidelines."
-    publishedDateTime: 2020-10-07T04:01:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/biden-shouldnt-have-debate-if-trump-still-sick/5906265002/"
+  - title: "Video Resurfaces of Kamala Harris Saying She Wants to Ban Fracking After Saying Biden Will Not During VP Debate"
+    excerpt: "\"There's no question I'm in favor of banning fracking,\" Kamala Harris said in video footage that resurfaced on social media Wednesday."
+    publishedDateTime: 2020-10-08T04:21:00Z
+    webUrl: "https://www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304"
+    ampWebUrl: "https://www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1647768/kamala-harris.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Fact check: Joe Biden faces friendly fire – partly false – over age, pot, prisons and more"
+    excerpt: "An Instagram user levels strong charges against former Vice President Joe Biden but says he will vote for him against Trump"
+    publishedDateTime: 2020-10-01T12:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/01/fact-check-joe-biden-friendly-fire-over-age-pot-prisons/3518767001"
+    ampWebUrl: "https://amp.usatoday.com/amp/3518767001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3518767001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 120
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43cce496-bb12-4cbd-a52e-6d89017236ff_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "'This cannot be a partisan moment': Obama, Biden, and the Clintons offer prayers for Trump after he tests positive for COVID-19"
-    excerpt: "\"We wish the President and First Lady a speedy recovery,\" said Hillary Clinton, who competed against President Donald Trump in the 2016 election."
-    publishedDateTime: 2020-10-04T12:01:00Z
-    webUrl: "https://www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-and-biden-pray-for-trump-after-covid-19-diagnosis-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f77aec5282c500018c786ca?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/25/USAT/fa27bf47-bcf7-4a05-86c4-f0cb21e75b8b-AP_Election_2020_Biden.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden pushes back at President Trump for downplaying masks, says wearing one is \"patriotic\""
-    excerpt: "After President Trump's mask photo op on the White House balcony, his Democratic rival is emphasizing the importance of masks. In a NBC News town hall, former Vice President Biden told the audience wearing a mask was a \"big deal\" and \"patriotic."
-    publishedDateTime: 2020-10-06T11:57:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-pushes-back-at-president-trump-for-downplaying-masks-says-wearing-one-is-patriotic/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 108
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/06/65bab58e-ce84-47b9-af85-cb833ad248f6/thumbnail/1200x630/27bff0ec5b290c871da3a9b790d2e3bd/cbsn-fusion-joe-biden-pushes-back-at-president-trump-for-downplaying-masks-says-wearing-one-is-patriotic-thumbnail-560431-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump and Biden's campaign websites are not entirely accessible for voters with disablities, potentially shutting out 61 million people"
-    excerpt: "A report by digital accessibility group Ablr found 17 violations spread across the campaign websites of Donald Trump and Joe Biden."
-    publishedDateTime: 2020-10-06T13:06:00Z
-    webUrl: "https://www.businessinsider.com/trump-and-biden-have-inaccessible-campaign-websites-report-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-and-biden-have-inaccessible-campaign-websites-report-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-and-biden-have-inaccessible-campaign-websites-report-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+        height: 676
         isCached: true
   - title: "Poll after poll suggests Trump's chances of defeating Biden are rapidly dwindling after the debate and the president's COVID-19 diagnosis"
     excerpt: "The election is less than four weeks away, and COVID-19 positive Trump is in the negative on multiple fronts."
@@ -267,84 +319,89 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'"
-    excerpt: "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks."
-    publishedDateTime: 2020-10-06T05:00:00Z
-    webUrl: "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it"
+  - title: "Joe Biden's whistle-stop train tour to battleground states"
+    excerpt: "Joe Biden and his wife Jill take the stage in front of their campaign train during a campaign stop in Pittsburgh, Pennsylvania, September 30. REUTERS/Mike Segar"
+    publishedDateTime: 2020-10-01T22:40:00Z
+    webUrl: "https://www.reuters.com/news/picture/joe-bidens-whistle-stop-train-tour-to-ba-idUSRTX7ZBC0"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 99
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://media.npr.org/assets/img/2020/10/06/michelle-obama-closing-argument_wide-53ba9b0b61da569863ffca9af3caba3915ebbbfe.png?s=1400"
-        width: 1400
-        height: 786
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535743609&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-01T174006Z_36816_MRPRC279J99RZR9_RTRMADP_0_USA-ELECTION-BIDEN"
+        width: 810
+        height: 540
         isCached: true
-  - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
-    excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
-    publishedDateTime: 2020-10-06T14:54:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/06/trump-trails-biden-covid-economy-and-health-care-cnn-poll-says/3635336001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3635336001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3635336001"
+  - title: "Joe Biden campaigns in Miami"
+    excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-05T20:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201005202222-joe-biden-campaigns-in-miami/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 90
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
-    excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
-    publishedDateTime: 2020-10-05T15:32:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 89
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Trump-and-Biden.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Biden Says He’ll Debate Trump on Oct. 15 ‘If the Scientists Say It’s Safe’"
-    excerpt: "Joe Biden told assembled members of the press that he still intended on debating President Trump on October 15th if doctors and scientists feel that it is safe."
-    publishedDateTime: 2020-10-05T17:03:00Z
-    webUrl: "https://www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 88
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-05-at-12.33.52-PM.jpg"
-        width: 934
-        height: 548
-        isCached: true
-  - title: "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds"
-    excerpt: "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,"
-    publishedDateTime: 2020-10-05T11:40:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article246216955.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246216955.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246216955.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 83
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f4761fca-22cf-457b-bb5b-25c8c5877932/dc6ba712-84ad-49d0-be23-fb3df9b27dff/1280x720/match/image.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/05/story_07124914_1601930944.jpg"
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
+    excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
+    publishedDateTime: 2020-10-06T12:21:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 102
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "Pence attacks Biden's economic vision: 'Day One Joe Biden is going to raise your taxes'"
+    excerpt: "Vice President Mike Pence on Wednesday delivered a blistering critique of Joseph R. Biden’s economic vision, warning that the Democrat is poised to raise taxes and enact policies that would cost hundreds of thousands of jobs."
+    publishedDateTime: 2020-10-08T02:37:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 92
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Election_2020_Debate_08391.jpg-a495c_c0-328-5386-3469_s1200x700.jpg?21d902c28853cc6a5d5f724c7b428dcc0c259c8f"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
+    excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
+    publishedDateTime: 2020-10-08T10:40:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/08/second-debate-with-biden-going-virtual-amid-trumps-covid-19/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/08/second-debate-with-biden-going-virtual-amid-trumps-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/08/second-debate-with-biden-going-virtual-amid-trumps-covid-19/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 83
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/Virus_Outbreak_46522-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Biden campaign sees opportunity in military women, spouses and people of color"
+    excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
+    publishedDateTime: 2020-10-03T11:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 81
   - title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
     excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."
     publishedDateTime: 2020-10-04T15:34:00Z
@@ -377,134 +434,164 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden opens 9-point lead over President Trump in Michigan, Detroit News/WDIV-TV poll finds"
-    excerpt: "Democratic presidential candidate Joe Biden's lead in Michigan over President Donald Trump now stands at 9 percentage points."
-    publishedDateTime: 2020-10-06T03:18:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/05/biden-leads-trump-9-points-michigan-detroit-news-wdiv-tv-poll/3627544001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3627544001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3627544001"
+  - title: "Joe Biden to visit Grand Rapids Friday"
+    excerpt: "Joe Biden will visit Grand Rapids Friday, according to his campaign. Biden plans to discuss his “Build Back Better” economic plan, according to a release. The campaign has not released additional details about when or where the stop will be held."
+    publishedDateTime: 2020-09-30T23:03:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 78
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PDTN/ec170626-d7fb-4b6b-9f06-9c9943acc2a2-debate_sbs.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump campaign attacks Joe Biden for lack of ‘firsthand experience’ being infected with COVID-19"
-    excerpt: "Trump campaign aide Erin Perrine on Monday suggested that President Donald Trump is a better leader than Democratic candidate Joe Biden because he has the “firsthand experience” of being infected with COVID-19."
-    publishedDateTime: 2020-10-05T17:29:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 77
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/smith-perrine-1-791x430.jpg"
-        width: 791
-        height: 430
-        isCached: true
-  - title: "Joe Biden Is an Overhyped Debater"
-    excerpt: "Throughout Biden’s shaky 2020 Democratic primary debate performances, observers remarked that this wasn’t the same guy we saw debating Paul Ryan years ago."
-    publishedDateTime: 2020-09-29T15:47:00Z
-    webUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/"
-    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-is-an-overhyped-debater/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
+      name: MLive
+      domain: mlive.com
     quality: 75
     images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/Joe-Biden-1-DNC-scaled.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
+        width: 3771
+        height: 2514
         isCached: true
-  - title: "Joe Biden surges to 14-point lead against President Donald Trump in national poll after Tuesday’s debate"
-    excerpt: "Joe Biden surged from an 8-point lead to a 14-point lead after the debate, according to the latest Wall Street Journal/NBC News poll."
-    publishedDateTime: 2020-10-04T19:20:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-surges-to-14-point-lead-against-president-donald-trump-in-national-poll-after-tuesdays-debate.html?outputType=amp"
+  - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
+    excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
+    publishedDateTime: 2020-10-01T23:22:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRZ2WVTVNNH53EO2BFXKHACEVQ.JPG"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Taylor Swift endorses Joe Biden"
+    excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
+    publishedDateTime: 2020-10-08T04:37:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
+        width: 1024
+        height: 736
+        isCached: true
+  - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
+    excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."
+    publishedDateTime: 2020-10-03T22:54:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-on-social-media-joe-biden-wore-a-wire-during-the-debate-not-so.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
     quality: 73
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/I6HIPLLATNAHZM6MIDADJ6WHKE.png"
-        width: 1696
-        height: 916
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
+        width: 3771
+        height: 2514
         isCached: true
-  - title: "Biden Says No Debate if Trump Still Has Covid, But Looks Forward to Facing President ‘If and When He Shows Up’"
-    excerpt: "Joe Biden said he's looking forward to facing President Donald Trump in another debate \"if and when he shows up,\" but said \"there shouldn't be a debate\" if Trump is still infected with COVID-19."
-    publishedDateTime: 2020-10-07T11:42:00Z
-    webUrl: "https://www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/"
-    ampWebUrl: "https://www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/amp/"
+  - title: "In year of surprises, a win by Joe Biden should not be one"
+    excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
+    publishedDateTime: 2020-10-07T13:54:00Z
+    webUrl: "https://www.rollcall.com/2020/10/07/in-year-of-surprises-a-win-by-joe-biden-should-not-be-one/"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 70
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-6.jpg"
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/MAIL_IN_BALLOTS_004_10052020.jpg?resize=1200,600"
         width: 1200
+        height: 600
+        isCached: true
+  - title: "Is Joe Biden the Konrad Adenauer of the U.S.?"
+    excerpt: "Former Vice President Joe Biden, the candidate who marched from victory to victory thereafter, and who is now both the Democrats' standard-bearer and the substantial favorite to be the next president,"
+    publishedDateTime: 2020-10-07T09:41:00Z
+    webUrl: "https://theweek.com/articles/942011/joe-biden-konrad-adenauer"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 55
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/bidenauer.jpg?itok=0tKkr3o7"
+        width: 1260
+        height: 560
+        isCached: true
+  - title: "Dear Joe Biden: Don’t attend the next debate"
+    excerpt: "Since the coronavirus pandemic arrived on America’s shores, Democratic presidential nominee Joe Biden has done what President Trump is seemingly incapable of doing: He’s consistently demonstrated how Americans should protect themselves and others from COVID-19."
+    publishedDateTime: 2020-10-07T21:35:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
+  - title: "Former candidates support Joe Biden"
+    excerpt: "Former candidates who ran for the Democratic nomination in 2020 are now supporting Joe Biden’s candidacy. This is not unusual for former candidates, but these ex-candidates are more outwardly enthusia"
+    publishedDateTime: 2020-10-08T02:30:00Z
+    webUrl: "https://tulsaworld.com/news/article_cc305543-d0a0-59f2-8afc-bd091a72b44c.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/c3/cc305543-d0a0-59f2-8afc-bd091a72b44c/5f7e6847f0d2a.preview.jpg?resize=1120%2C630"
+        width: 1120
         height: 630
         isCached: true
-  - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
-    excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
-    publishedDateTime: 2020-10-06T16:04:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
+  - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
+    excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
+    publishedDateTime: 2020-10-07T04:38:00Z
+    webUrl: "https://www.chron.com/shopping/article/politics/article/Joe-Biden-poll-after-debate-Trump-2016-comparison-15622316.php"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 69
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JW5CKWAEIVGDVBOGUUYRDN7VEA.jpg"
-        width: 1024
-        height: 683
+      - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
+        width: 2048
+        height: 1366
         isCached: true
-  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
-    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
-    publishedDateTime: 2020-10-07T02:35:00Z
-    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+  - title: "Joe Biden Says He'll Debate if Scientists Say it's Safe"
+    excerpt: "Democratic presidential candidate Joe Biden speaks briefly with reporters and says that if the scientists say it’s safe to go forward with the upcoming… read more Joe Biden, a 2020 Democratic presidential candidate,"
+    publishedDateTime: 2020-10-05T16:26:00Z
+    webUrl: "https://www.c-span.org/event/?476553/"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 67
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
-    excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
-    publishedDateTime: 2020-10-05T22:54:00Z
-    webUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/"
-    ampWebUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Comments to Reporters on Future Debates"
+    excerpt: "Democratic Presidential Candidate Joe Biden took a couple of reporters' questions before boarding a plane in Hagerstown, MD. The Former Vice President held an event earlier in the afternoon a short distance away in Gettysburg,"
+    publishedDateTime: 2020-10-07T03:32:00Z
+    webUrl: "https://www.c-span.org/video/?476654-1/joe-biden-debate-ahead-president-covid-19"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 66
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Erin-Burnett-OutFront-07_07_02-PM-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Comments to Reporters"
+    excerpt: "Democratic 2020 presidential nominee Joe Biden answered a couple of reporters' questions before boarding vice president… White House Chief of Staff Mark Meadows talked to reporters about President Trump and the First Lady’s testing"
+    publishedDateTime: 2020-10-07T23:52:00Z
+    webUrl: "https://www.c-span.org/event/?476723/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "xrBXhhA9hy1FJyKG8cp3s+VQVNFDgqwADD8eaHAkwG26z0MxQHGwf/u2uoN609DQf35CnjbPaTK75buVSLq2xLmdahvwavIf+1knsRPRKOWyh/MebbStjy3r30jYR311ZiZPzC6kiAyeyfXBlzYwDPNkY7e6fxovKCaVPyZtUADcu9wCEc+HnNIEjN1OWOZ2WIuQkC+lM0lfyDloDdnw8CLVDthRY0SXDjsdkjUKUP5rdU0smiu2b/Xm0GPlsHyzeX49ZFx35IvTDdXhx37kPOU6mTuR9IrqFXsBTv8sCGWumenzdTwqhVwnjw6LEZP1HIww8T6h6yljXPdnWMgyL4EB1qsgee31P3JuiX/zuh9dfwKtHvk+MzOLKUt5yPcCoJdH8TCJshnkMbuaVRy+phqrPlLT5QfR4A+SlfAOn9njoLxVbCBVpcbUdyEBENaLCnThPR/M14WWWqzV+MlL/u87axVMt6xMDMoNnOa2fJAJHNsvBQE9BgHVpzA/Sjq3uiiB2ErVACnNKfiSTEGouw==;davU46A+wOFmDGY/ENue9w=="
 ---

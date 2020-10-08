@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away"
 type: article
 quality: 124
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "http://images-cbsn.cbsnews.com/prod/2020/09/17/story_06874331_1600324804.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Finally, Joe Biden is speaking (sort of) to Arizona Latinos. But it's not enough"
-    excerpt: "Joe Biden must have finally realized that he can't take Hispanics for granted and that this voting bloc is not homogenous. But we need more than ads."
-    publishedDateTime: 2020-09-29T21:19:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/op-ed/elviadiaz/2020/09/29/joe-biden-ads-finally-targeting-latinos-he-must-visit-arizona/3578385001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3578385001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3578385001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/NREC/efe08966-a43e-40b8-9324-10f85edb6c0e-AP20271594750728_1.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "5CgFyDQKTOEBojidE9IPvAxsJMq0vwU8Q+0fqGN1eZRlQ+mXHsNAYyrGs/hI/c6iU5LTH2YQy6VGZQLMhd9QpMYS+zfmZO9EiVapavhCteS7IixkIxgJhwyywpm+9eq7LEWXbUBEujedmpNAn207Tu3lEqXIiLEXwZM6nZotQ5IV6iiwrYK30c/cGaiur2dwE7rLCrSfZWCi8mVDuI++oFbmsgfwXilMKWHycE1joHtpRa+4A+j8L3cvferrM2ZYUmK7TKScdD8Cc9q0+NsR0FX652Ws2+K1P1ucf9u1U9ioPdDEFnNO5A/UAB2YJF7AOuk0C+u7Pg1EHFkt2UpXNnwZuDF0eXcryUhsiWDSYVoljDYejm8xFpTDXX8rCPcsmNUzLI8o0VUDLOilr0g4cL+6Ne+m8hk5b8WgiSs6NkJKRcddQWmGJijCstJzx4hkYDSfH+oQUmhcw79A3/KRY0YaOds7o5+Ch15rBKwcnO7w+Ue6UFGZ3PCKp16Bqtr4pe8QY5wSpuXGUK1FZBtVjQ==;E9dnln9aEe6dkQrpp2zCww=="

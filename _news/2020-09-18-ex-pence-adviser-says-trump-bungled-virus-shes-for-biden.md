@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5495
+heat: 5515
 published: true
 
 provider:
@@ -2869,6 +2869,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PCTMRWWNQZB3NPRWOD7VLWW36E.jpg"
         width: 6000
         height: 3081
+        isCached: true
+  - title: "Donald Trump vows not to participate in virtual debate with Joe Biden"
+    excerpt: "President Donald Trump vowed Thursday not to participate in next week’s debate with Democratic nominee Joe Biden after organizers announced it will take place virtually because of the"
+    publishedDateTime: 2020-10-08T12:39:00Z
+    webUrl: "https://www.denverpost.com/2020/10/08/trump-biden-virtual-debate/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/08/trump-biden-virtual-debate/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/08/trump-biden-virtual-debate/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Virus_Outbreak_46522-2.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"

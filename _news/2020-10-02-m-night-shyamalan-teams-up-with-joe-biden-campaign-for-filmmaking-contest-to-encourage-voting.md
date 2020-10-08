@@ -9,7 +9,7 @@ ampWebUrl: "https://people.com/movies/m-night-shyamalan-joe-biden-campaign-filmm
 cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/movies/m-night-shyamalan-joe-biden-campaign-filmmaking-contest-encourage-voting/?amp=true"
 type: article
 quality: 63
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,86 @@ images:
     width: 1500
     height: 785
     isCached: true
+
+related:
+  - title: "Joe Biden should stop ducking the court-packing issue"
+    excerpt: "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing."
+    publishedDateTime: 2020-10-07T13:30:00Z
+    webUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue"
+    ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
+    excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."
+    publishedDateTime: 2020-10-07T09:40:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-wave-mask_hpMain_20201006-224125_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Detroit pastor wants Biden to reach out more to Black community"
+    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
+    publishedDateTime: 2020-10-01T19:52:00Z
+    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
+    excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
+    publishedDateTime: 2020-10-03T18:52:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
+        width: 1024
+        height: 684
+        isCached: true
+  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
+    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
+    publishedDateTime: 2020-10-05T20:50:00Z
+    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 75
+    images:
+      - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qgzrrf2EQD+LO4RcEtoUeEF4R2ERRQkKOdgiDxXjoPCXjJz5uar1NNJ/1rAwFx9PZdrPl85alXBNzHklj+P/tk1uluCh830lLPE5PAJvmV+TWTTu+TEPux4gJow5JrF1RZO6v3SHa8VN8Dvf+dbP4DScYrKRm5hT4oIeLPWEu4IN+RL+n1VpRfNY7K+XIszxRgxu5cDSxvMBUZPtNd54vaJBmCZJV2WzkegsAq0jnqtIEN8D8/5abJxn5fRVzZaSocUzFc888PJG4IR5HQ8iS2AJwFZyDv0CdEb996lztPw/VKgrvjL+leXO8fYv1Hcyw74vNlZjNkfpIOQycW7A6NQ0LSmdK0P+2KLJ6o7QvoY97dPsyI520cW5qoMtSbFhbEomqp34YP4nksywZn+g7XnMXPXIJ7GI25O/1aJeMoaBeb8KJu8U3P0ctjtycF8cCGDUcze5dvOkBhDm7aKU6hnFQj/jPbSjuEhEOz7w/fhRpFbwRTTC/jYs/bND21EQSPLgdoPnPZgoJPVNymIn8w==;usrsRmJOyGVvCX5FoDMXig=="
 ---

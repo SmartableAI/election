@@ -252,6 +252,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence validated Harris. That's good for Pence, but bad for Trump."
+    excerpt: "The vice president tacitly conceded his Democratic rival is prepared to be commander-in-chief. In doing so, he gave away one of the GOP ticket's last lines of attack."
+    publishedDateTime: 2020-10-08T13:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-validated-harris-s-good-pence-bad-trump-n1242603"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242603"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242603"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 185
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418387/201007-bw-analysis-kamala-harris-mike-pence-ew-1156p_1a94086b6b80820f7787e76e52313775.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Pence, Harris spar over federal Covid-19 response as Trump's illness looms"
     excerpt: "The vice presidential candidates sat 12 feet apart and were separated by sheets of plexiglass in a debate that focused on the pandemic, the economy and the Supreme Court."
     publishedDateTime: 2020-10-08T06:09:00Z

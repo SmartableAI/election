@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
 type: article
 quality: 140
-heat: 480
+heat: 320
 published: true
 
 provider:
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why are seniors breaking hard to Joe Biden?"
-    excerpt: "But one thing that plainly is happening is that seniors are moving to Biden in surprising numbers. If these polls are outliers, the impression of movement among seniors may be inflated, but we can be reasonably sure that this movement is in fact happening to some degree,"
-    publishedDateTime: 2020-10-06T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
+  - title: "Trump says he will drop out of second presidential debate with Biden after organizers made it remote"
+    excerpt: "The second presidential debate plans are in chaos after organizers said it would be held remotely and Trump said he would not be taking part."
+    publishedDateTime: 2020-10-08T13:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-second-debate-with-biden-will-be-remote-commission-says-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-second-debate-with-biden-will-be-remote-commission-says-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-second-debate-with-biden-will-be-remote-commission-says-2020-10?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTCTYTQICMI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Joe Biden pulls off a big speech at a sacred location"
-    excerpt: "The Democratic nominee is no Lincoln but, with Gettysburg as the backdrop, he delivers perhaps the best speech of his career."
-    publishedDateTime: 2020-10-07T18:45:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4SWWKPQIDMI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/5f73fa2f0ab50d00184ad303?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
     excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
@@ -94,38 +78,6 @@ related:
       - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
         width: 1200
         height: 864
-        isCached: true
-  - title: "Joe Biden to visit Grand Rapids Friday"
-    excerpt: "Joe Biden will visit Grand Rapids Friday, according to his campaign. Biden plans to discuss his “Build Back Better” economic plan, according to a release. The campaign has not released additional details about when or where the stop will be held."
-    publishedDateTime: 2020-09-30T23:03:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/joe-biden-to-visit-grand-rapids-friday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
-        width: 3771
-        height: 2514
-        isCached: true
-  - title: "Taylor Swift endorses Joe Biden"
-    excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
-    publishedDateTime: 2020-10-08T04:37:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
-        width: 1024
-        height: 736
         isCached: true
   - title: "Reuters/Ipsos Poll Shows Biden Leading Trump in Florida; Tied in Arizona"
     excerpt: "Democratic presidential candidate Joe Biden appeared to lead President Donald Trump among likely voters in Florida and the two were locked in a tight race in Arizona, according to Reuters/Ipsos opinion polls released on Wednesday."
@@ -197,67 +149,10 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "In year of surprises, a win by Joe Biden should not be one"
-    excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
-    publishedDateTime: 2020-10-07T13:54:00Z
-    webUrl: "https://www.rollcall.com/2020/10/07/in-year-of-surprises-a-win-by-joe-biden-should-not-be-one/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 55
-    images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/MAIL_IN_BALLOTS_004_10052020.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Dear Joe Biden: Don’t attend the next debate"
-    excerpt: "Since the coronavirus pandemic arrived on America’s shores, Democratic presidential nominee Joe Biden has done what President Trump is seemingly incapable of doing: He’s consistently demonstrated how Americans should protect themselves and others from COVID-19."
-    publishedDateTime: 2020-10-07T21:35:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
-  - title: "Former candidates support Joe Biden"
-    excerpt: "Former candidates who ran for the Democratic nomination in 2020 are now supporting Joe Biden’s candidacy. This is not unusual for former candidates, but these ex-candidates are more outwardly enthusia"
-    publishedDateTime: 2020-10-08T02:30:00Z
-    webUrl: "https://tulsaworld.com/news/article_cc305543-d0a0-59f2-8afc-bd091a72b44c.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/c3/cc305543-d0a0-59f2-8afc-bd091a72b44c/5f7e6847f0d2a.preview.jpg?resize=1120%2C630"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Joe Biden Remarks to U.S. Conference of Mayors"
     excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"
     publishedDateTime: 2020-09-27T17:52:00Z
     webUrl: "https://www.c-span.org/video/?476255-1/joe-biden-remarks-us-conference-mayors"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Comments to Reporters on Future Debates"
-    excerpt: "Democratic Presidential Candidate Joe Biden took a couple of reporters' questions before boarding a plane in Hagerstown, MD. The Former Vice President held an event earlier in the afternoon a short distance away in Gettysburg,"
-    publishedDateTime: 2020-10-07T03:32:00Z
-    webUrl: "https://www.c-span.org/video/?476654-1/joe-biden-debate-ahead-president-covid-19"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Comments to Reporters"
-    excerpt: "Democratic 2020 presidential nominee Joe Biden answered a couple of reporters' questions before boarding vice president… White House Chief of Staff Mark Meadows talked to reporters about President Trump and the First Lady’s testing"
-    publishedDateTime: 2020-10-07T23:52:00Z
-    webUrl: "https://www.c-span.org/event/?476723/"
     type: article
     provider:
       name: C-SPAN

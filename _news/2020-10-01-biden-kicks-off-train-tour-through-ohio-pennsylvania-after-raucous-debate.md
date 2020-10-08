@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-perform
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
 type: article
 quality: 133
-heat: 493
+heat: 473
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YS5THVX52YI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Biden campaign raises record $3.8 million in second hour of debate"
-    excerpt: "Joe Biden's deputy campaign manager said the campaign set a new record for fundraising in the second half of the first debate."
-    publishedDateTime: 2020-09-30T14:21:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-campaign-fundraising-record-debate/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-record-debate/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/2a1a6315-027f-4c72-93ca-c4831b377fcc/thumbnail/1200x630/ed68bb5540f7b0481b6229e2e450c2c9/gettyimages-1228795810.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Ex-Pennsylvania Gov. Ridge explains vote for Biden in Philadelphia paper"
     excerpt: "Tom Ridge, the former Republican governor of Pennsylvania and the first U.S. secretary of Homeland Security, has announced he will be backing former Vice President Joe Biden Joe Biden Biden says voters should choose who nominates Supreme Court justice Trump,"

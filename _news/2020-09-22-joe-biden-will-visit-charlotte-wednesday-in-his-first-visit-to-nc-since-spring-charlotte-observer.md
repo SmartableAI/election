@@ -132,6 +132,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe and Jill Biden Deliver Remarks in Miami"
+    excerpt: "Democratic presidential candidate Joe Biden and his wife, Jill, speak at a campaign event in Miami’s Little Havana neighborhood. 2020 Democratic presidential candidate Joe Biden and his wife, Jill, speak at a campaign event in Miami’s Little Havana neighborhood."
+    publishedDateTime: 2020-10-05T12:47:00Z
+    webUrl: "https://www.c-span.org/video/?476606-1/joe-jill-biden-deliver-remarks-miami"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "N0KHOiGelaUyUfcqDFDqLFcQ4BHAF0JcS8Tx4x3KqgH4Amn8+ktx/Hki7C+LEWXhKToMOjOqdmDVSAyZTB7Acrcx9Et1DqiJ6bXqfp+hVD0i5jTl1zFmQe425nDjQkdaFHOp6RHn/D8TEcVInoJk5HbdLBX5M9IzoFNjExcUsARJBKt/SXpjeJ1IC1iPyfIERe7JuZB2/0ffYTFZhje2qvA1v356Z3meKMVkOJOiwXRduknvq2T6q1dP7khJsBV/2VZTZ8/fyO5WFXDRyT9jHDWcl9PVVKlPFZC+OYhaJ+ndt+fzEPD7Ai78hklWONyfgYGTlAza/g7kt8WJ3rBvuDDbMNpWUeI+y66gNtPLh+mS4GwOXbdPv58UrEBxrSnE+rYfbOMQsu026+dDF1ljbfFbHLQXRNcg4rlJ72CSd/OOSqiQmR01O5dBoHlTyyBusbFB3+A8bnyzSX42QQpilZ8iXf6FukTGEhs0wAmqZ8d5C47OOSi9uzhXp9aVjzf4WLQjKVhEpH/ZAQZSgnb9lA==;2n/M+wQGMRG3Rmq8Di+5Mg=="
 ---

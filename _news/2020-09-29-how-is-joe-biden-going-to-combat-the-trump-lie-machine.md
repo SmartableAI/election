@@ -329,22 +329,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Concern over Biden's possible exposure to COVID-19 after Trump tests positive"
-    excerpt: "New concerns have surfaced about former Vice President Joe Biden's possible exposure to COVID-19 following President Trump's positive diagnosis announced early Friday."
-    publishedDateTime: 2020-10-02T17:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/concern-bidens-exposure-covid-19-trump-tests-positive/story?id=73383174"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 137
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-debate-1-gty-er-200929_1601428943927_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "'How you doing man?': Trump, Biden start debate with socially distant greeting"
     excerpt: "In the latest sign of how COVID-19 has upended the election, Trump and Biden skipped the handshake at the first presidential debate in Cleveland."
     publishedDateTime: 2020-09-30T01:29:00Z
@@ -553,22 +537,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Only 2 Percent of Americans Said Donald Trump-Joe Biden Debate Changed Their Vote: Poll"
-    excerpt: "A new poll suggests that almost no voters are likely to change their vote after viewing the first debate between President Donald Trump and Democratic nominee Joe Biden, although most thought Biden won the debate."
-    publishedDateTime: 2020-10-01T23:47:00Z
-    webUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798"
-    ampWebUrl: "https://www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/only-2-percent-americans-said-donald-trump-joe-biden-debate-changed-their-vote-poll-1535798?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1644891/trump-biden-debate-view-television.jpg"
-        width: 2500
-        height: 1632
-        isCached: true
   - title: "Biden can beat (and infuriate) Trump by being the adult on the presidential debate stage"
     excerpt: "Joe Biden’s campaign is based around being calm, rational and a healer. He shouldn't try to call more names or be more pugnacious than Donald Trump."
     publishedDateTime: 2020-09-28T10:06:00Z
@@ -598,22 +566,6 @@ related:
     quality: 131
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump-Biden presidential debate ratings fall 13% from 2016's record-setting first debate"
-    excerpt: "Fox News Channel drew 17.8 million viewers, the most of any network, while ABC led the broadcast pack with 12.6 million viewers."
-    publishedDateTime: 2020-10-01T06:20:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/09/30/trump-biden-presidential-debate-drew-lower-ratings-than-2016-opener/5869777002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5869777002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5869777002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -662,22 +614,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f728604db5427c4332c2898%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump and Biden show own vulnerabilities in a messy argument that was barely a debate: ANALYSIS"
-    excerpt: "Former Vice President Joe Biden wanted a debate about President Donald Trump and his record. Trump wanted a debate about Biden – and Elizabeth Warren, Bernie Sanders and Biden’s son, Hunter, along the way."
-    publishedDateTime: 2020-09-30T09:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/analysis-trump-biden-show-vulnerabilities-messy-argument-barely/story?id=73304047"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 128
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-trump-debate-splt-gty-ps-200929_1601430833917_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Pro-Trump websites aren't buying the president's claim that Joe Biden really meant US troops are 'stupid bastards'"
     excerpt: "It is extremely unlikely that Joe Biden maliciously disparaged US troops in a 2016 speech. His own son, Beau, served in the National Guard."
@@ -1149,20 +1085,6 @@ related:
       - url: "https://i.insider.com/5f77a8c22400440019129cc1?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Joe Biden's whistle-stop train tour to battleground states"
-    excerpt: "Joe Biden and his wife Jill take the stage in front of their campaign train during a campaign stop in Pittsburgh, Pennsylvania, September 30. REUTERS/Mike Segar"
-    publishedDateTime: 2020-10-01T22:40:00Z
-    webUrl: "https://www.reuters.com/news/picture/joe-bidens-whistle-stop-train-tour-to-ba-idUSRTX7ZBC0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535743609&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-01T174006Z_36816_MRPRC279J99RZR9_RTRMADP_0_USA-ELECTION-BIDEN"
-        width: 810
-        height: 540
         isCached: true
   - title: "In a state with one of the largest Somali communities, Trump claims Biden 'will turn Minnesota into a refugee camp' before attacking Rep. Omar again"
     excerpt: "\"How the hell did Minnesota elect her? What the hell is wrong with you people?\" Trump asked the crowd in reference to Rep. Ilhan Omar."

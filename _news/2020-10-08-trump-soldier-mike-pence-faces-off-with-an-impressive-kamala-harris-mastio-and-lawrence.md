@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/opinion/2020/10/08/vice-presidential-deb
 ampWebUrl: "https://amp.usatoday.com/amp/5910000002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5910000002"
 type: article
-quality: 156
+quality: 166
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Mike Pence
   - Kamala Harris
+  - Donald Trump
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/054659b2-e6a2-4c75-a883-9b764a8c0ec6-harris_pence.jpg?auto=webp&crop=7000,3938,x0,y883&format=pjpg&width=1200"
@@ -1416,6 +1417,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris’s critics fell into the ‘Is she likable?’ trap"
+    excerpt: "Kamala D. Harris (D-Calif.) was going up against a White man, Vice President Pence, who because of his race and gender doesn’t have to consider whether he’s likable to get votes. Thus, Pence could and did interrupt Harris’s allotted speaking time (not to the degree of President Trump in his debate last week,"
+    publishedDateTime: 2020-10-08T11:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/08/kamala-harriss-critics-fell-into-is-she-likable-trap/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/08/kamala-harriss-critics-fell-into-is-she-likable-trap/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/08/kamala-harriss-critics-fell-into-is-she-likable-trap/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLEZPJAJD4I6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 1008
+        isCached: true
   - title: "Kamala Harris's facial expressions during debate go viral"
     excerpt: "Twitter users on Wednesday had mixed reactions to Democratic vice presidential nominee Kamala Harris’s facial expressions aimed at Vice President Pence’s remarks during their debate."
     publishedDateTime: 2020-10-08T03:17:00Z
@@ -1787,6 +1804,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Megyn Kelly scolds Kamala Harris on debate facial expressions: 'Take it like a woman'"
+    excerpt: "Megyn Kelly scolded Sen. Kamala Harris Kamala Harris Five takeaways from the vice presidential debate Pence targets Biden over"
+    publishedDateTime: 2020-10-08T13:26:00Z
+    webUrl: "https://thehill.com/homenews/media/520147-megyn-kelly-scolds-kamala-harris-on-debate-facial-expressions-take-it-like-a"
+    ampWebUrl: "https://thehill.com/homenews/media/520147-megyn-kelly-scolds-kamala-harris-on-debate-facial-expressions-take-it-like-a?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/520147-megyn-kelly-scolds-kamala-harris-on-debate-facial-expressions-take-it-like-a?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_pencemike2_100720getty_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Taylor Swift Will Cheer on Kamala Harris With Custom Cookies During Tonight's Debate"
     excerpt: "The singer also formally announced that she's voting for Joe Biden, and shared a photo of cookies she made featuring the Biden/Harris campaign logo."
     publishedDateTime: 2020-10-07T21:30:00Z
@@ -1990,6 +2023,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7P4N2QIAII6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 951
+        isCached: true
+  - title: "Trump handmaid Mike Pence faces off with an impressive Kamala Harris: Mastio and Lawrence"
+    excerpt: "Pence didn't even pretend Trump has a plan to protect insurance for people with preexisting conditions. And Harris didn't answer on 'packing the court.'"
+    publishedDateTime: 2020-10-08T13:25:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-column/5910000002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5910000002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5910000002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/054659b2-e6a2-4c75-a883-9b764a8c0ec6-harris_pence.jpg?auto=webp&crop=7000,3938,x0,y883&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
     excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
@@ -2461,6 +2510,22 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Joe Biden, Kamala Harris headed to Arizona for 1st campaign visit to state"
+    excerpt: "With early voting underway, the Democratic ticket of Joe Biden and Kamala Harris will hold dueling campaign events against Vice President Mike Pence."
+    publishedDateTime: 2020-10-08T13:33:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/08/joe-biden-presidential-campaign-kamala-harris-arizona-visit/5917484002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5917484002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5917484002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 98
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence, Kamala Harris spar over coronavirus in vice presidential debate"
     excerpt: "Vice President Mike Pence and U.S. Sen. Kamala Harris tangled over the Trump administration’s response to the coronavirus pandemic in their sole vice presidential debate, with Harris"
     publishedDateTime: 2020-10-08T03:19:00Z
@@ -2571,6 +2636,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Joe Biden and Kamala Harris fly swatter sold 15,000 in one night after fly lands on Vice President Mike Pence’s head during debate"
+    excerpt: "The fly that landed on Vice President Mike Pence’s head during the debate Wednesday night got a lot of attention on social media."
+    publishedDateTime: 2020-10-08T12:47:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-and-kamala-harris-fly-swatter-sold-15000-in-one-night-after-fly-lands-on-vice-president-mike-pences-head-during-debate.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-and-kamala-harris-fly-swatter-sold-15000-in-one-night-after-fly-lands-on-vice-president-mike-pences-head-during-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-and-kamala-harris-fly-swatter-sold-15000-in-one-night-after-fly-lands-on-vice-president-mike-pences-head-during-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 95
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SHPPR6FIA5DTXPWUWSSRXVVBJU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
     excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
     publishedDateTime: 2020-10-02T17:40:00Z
@@ -2602,6 +2683,22 @@ related:
       - url: "https://www.pewresearch.org/wp-content/uploads/2020/10/FT_20.10.07_vp_featured.jpg?w=1200&h=628&crop=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Who won vice presidential debate? Kamala Harris? Mike Pence? The fly? Will it matter?"
+    excerpt: "The vice-presidential debate between Mike Pence and Kamala Harris on Wednesday featured little of the interruptions, attacks and chaos that marred the first confrontation between President Donald Trump and former Vice President Joe Biden."
+    publishedDateTime: 2020-10-08T13:12:00Z
+    webUrl: "https://www.nj.com/politics/2020/10/who-won-vice-presidential-debate-kamala-harris-mike-pence-the-fly-will-it-matter.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/10/who-won-vice-presidential-debate-kamala-harris-mike-pence-the-fly-will-it-matter.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/who-won-vice-presidential-debate-kamala-harris-mike-pence-the-fly-will-it-matter.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 93
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODGKSEFQEZH4VBIK7EOKGKTMS4.png"
+        width: 1098
+        height: 569
         isCached: true
   - title: "This chart shows the dozens of high-level officials Trump has interacted with over the past week and the results of their COVID-19 tests"
     excerpt: "Trump was in contact with dozens of high-level government officials in the days prior to testing positive for COVID-19."
@@ -2666,6 +2763,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Read the full transcript of vice presidential debate between Mike Pence and Kamala Harris"
+    excerpt: "This is a transcript of the 90-minute debate between Vice President Mike Pence and vice presidential nominee Sen. Kamala Harris."
+    publishedDateTime: 2020-10-08T13:47:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/08/vice-presidential-debate-full-transcript-mike-pence-and-kamala-harris/5920773002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5920773002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5920773002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/c6372512-1c23-44ef-8f0a-52a97dd5c330-AFP_AFP_8RN2ME.jpg?auto=webp&crop=3199,1799,x1,y136&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mike Pence and Ivanka Trump visit salon damaged in Minneapolis unrest"
     excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd’s death, part"
@@ -2861,14 +2974,14 @@ related:
         isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
-    publishedDateTime: 2020-10-08T11:44:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5896940002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5896940002"
+    publishedDateTime: 2020-10-08T11:51:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5896940002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5896940002"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Des Moines Register
+      domain: desmoinesregister.com
     quality: 89
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/0296cbe8-efeb-4ed5-95ac-85ff46138096-Salt_Lake_4.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
@@ -4130,6 +4243,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 61
+  - title: "‘Mr. Vice President, I’m speaking’: Women praise Kamala Harris’s response to Mike Pence’s debate interruptions"
+    excerpt: "The phrase began trending on Twitter, with Harris’s use of the line sparking support from women who appeared to empathize with being interrupted by men at work."
+    publishedDateTime: 2020-10-08T13:19:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/08/nation/mr-vice-president-im-speaking-women-praise-kamala-harriss-response-mike-pences-debate-interruptions/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/08/nation/mr-vice-president-im-speaking-women-praise-kamala-harriss-response-mike-pences-debate-interruptions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/08/nation/mr-vice-president-im-speaking-women-praise-kamala-harriss-response-mike-pences-debate-interruptions/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 60
   - title: "ZIP codes donating the most money to Donald Trump"
     excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
     publishedDateTime: 2020-10-01T11:22:00Z
@@ -4408,6 +4532,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "CST4pkl0Bsxdql6XPCFCc1Bvp1SxuvoEH+D4cCgK8cIE2Dm6Lwn5aU3hxuc407QoiswQINMBia6FF4XVQCJg3G67iTWT9zB/tUgsw7g5rJmxQTtamXZgpTMWzuHcdpYF53y7VrtpgxpfQRBz+xvuYpCzIu/UDVAJiuwKe3w16ZTzRX8o5o/+FjXgeTQ0Lcvvt9VJIqbyJMsC9NgUKYxlW9mcsosotmPY8MMOqGIFE8MfmjCwbi56AsXN0mhqtzaQOXaA5xseWQu4cE7psdgqawGLYzFCO50EKO/rJYGiJl0gzfnC0YPyxVJEIniimcBdwSIj5txwo4RahYhwCmaK4tDNs/rKaqFh1zicEW7NCOI=;Nko/JBMIkTA70q+q17Vyvg=="
+secured: "MfaWJYnWf8JrpyS0QGviwn/Ko/DE2hHPcDgc2cTlTAhnUY99L6sVa5PC6GKX1W16dZCcmhTfvXSBcogBhCQGx0tfT/FHSZHUlURtLJBCTCOTJKK7e41wSxg+rX0xRftii7eFVSggtvrZh/In0RYoXCpMuHDxN17F2y6tI09/FMA3JWPHmpCyHTvcmEfEg3/EdhFuuIrFV22qOFly1KbLhihYp4+ulUaikdLPEtcgTsz2DfnPcVYT4ALii9SqO2+9gNguCUz6aABroJzbDhEh/HK2EjeUzuCRffXAeJSe71tEEjVAGfvSXeyjcEjkFiu3LC7o1GHnnnbDMeDPO7/CjLjfSva/Nm6J90HuL+GUsjlW8nkyQ7YnE6X8cRAh6jRWQaLTeEInIHsTAtgc3SLvehmxpb/SLM8ChSJ/ftr+ttNFc4YBVjkW+ib6AQ6Ot1dWDLoJlyrXKzGtFos3qqzhx9uxtRlrKX1+0NxPCu6xqbEw1oHPucvZzEwVoYY3R4WXCuSSucOjhe8jZ6946duUXQ==;iwq7F0mGg7botc+HaV72Zw=="
 ---
 

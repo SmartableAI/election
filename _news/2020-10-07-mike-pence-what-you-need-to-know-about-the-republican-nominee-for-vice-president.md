@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence does not seem prepared to save the republic, should he be called upon to do so"
+    excerpt: "Like his boss, Pence says that only a 'fair' election will be acceptable — and then claims it may not be fair."
+    publishedDateTime: 2020-10-08T13:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HS6KQBAJEMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "5 Things You Need to Know About Mike Pence"
     excerpt: "Republican Vice President Mike Pence will debate Democratic Vice-Presidential candidate, Kamala Harris Oct. 7, 2020, in Salt Lake City, and the 2020 election is just around the corner. Here are five things you should know about Pence, his personal ..."
     publishedDateTime: 2020-09-22T19:39:00Z

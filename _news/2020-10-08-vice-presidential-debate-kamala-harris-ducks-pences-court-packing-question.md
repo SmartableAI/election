@@ -1927,6 +1927,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris-inspired shirts, fly-themed items pop up at online retailers following vice presidential debate"
+    excerpt: "Following Wednesday night’s vice presidential debate between Sen. Kamala Harris and Vice President Mike Pence, a slew of online retailers, largely on Amazon and Etsy, began selling shirts emblazoned with the phrase “I’m speaking” or “Mr."
+    publishedDateTime: 2020-10-08T12:52:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/kamala-harris-inspired-shirts-fly-swatters-selling-etsy-amazon"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/kamala-harris-inspired-shirts-fly-swatters-selling-etsy-amazon.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/kamala-harris-inspired-shirts-fly-swatters-selling-etsy-amazon.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/ImSpeakingEtsy.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump Critics Ponder: Should Joe Biden Boycott the Next Two Debates?"
     excerpt: "As the proceedings rapidly deteriorated on Tuesday night, a narrative began to congeal on social media: The event was such a disgrace that Joe Biden, already pursuing a 'prevent defense' electoral strategy,"
     publishedDateTime: 2020-10-01T14:25:00Z
@@ -1942,6 +1958,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "NBC's Hallie Jackson: Kamala Harris Worked to Speak \"Past Pence,\" And At President Trump"
+    excerpt: "NBC's Hallie Jackson breaks down the Vice Presidential Debate between Sen. Kamala Harris and Vice President Mike Pence, and describes how Harris was speaking \"past Pence, at President Trump and to the American people."
+    publishedDateTime: 2020-10-08T12:26:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/08/nbcs_hallie_jackson_kamala_harris_worked_to_speak_past_pence_and_at_president_trump.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 96
+    images:
+      - url: "https://assets.realclear.com/images/52/523479.jpg"
+        width: 1084
+        height: 812
         isCached: true
   - title: "LIVE Blog: VP Debate - Mike Pence vs Kamala Harris"
     excerpt: "Vice President Mike Pence faces opponent Kamala Harris in Salt Lake City."

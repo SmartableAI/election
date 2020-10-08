@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-spe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/michelle_obama_c20-0-880-502_s1200x700.jpg?fb980a6d3389ca7cc435a478cad5a7e1c62b1a57"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Sixers’ Doc Rivers ‘honored’ to be quoted by Joe Biden during campaign speech in Gettysburg"
+    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
+    publishedDateTime: 2020-10-08T12:08:00Z
+    webUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html"
+    ampWebUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 65
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CI2PXOSQNBGHBJQEZBHJSFHWU.jpg"
+        width: 5654
+        height: 3769
         isCached: true
   - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"

@@ -91,6 +91,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Sixers’ Doc Rivers ‘honored’ to be quoted by Joe Biden during campaign speech in Gettysburg"
+    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
+    publishedDateTime: 2020-10-08T12:08:00Z
+    webUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html"
+    ampWebUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 65
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CI2PXOSQNBGHBJQEZBHJSFHWU.jpg"
+        width: 5654
+        height: 3769
+        isCached: true
   - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
     publishedDateTime: 2020-10-02T19:32:00Z

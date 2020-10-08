@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 1583
+heat: 1603
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-mike-pence-debate-1920x1080-ac-1032p.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Pence validated Harris. That's good for Pence, but bad for Trump."
+    excerpt: "The vice president tacitly conceded his Democratic rival is prepared to be commander-in-chief. In doing so, he gave away one of the GOP ticket's last lines of attack."
+    publishedDateTime: 2020-10-08T13:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-validated-harris-s-good-pence-bad-trump-n1242603"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242603"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242603"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 185
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418387/201007-bw-analysis-kamala-harris-mike-pence-ew-1156p_1a94086b6b80820f7787e76e52313775.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Pence, Harris spar over federal Covid-19 response as Trump's illness looms"
     excerpt: "The vice presidential candidates sat 12 feet apart and were separated by sheets of plexiglass in a debate that focused on the pandemic, the economy and the Supreme Court."
@@ -1085,6 +1101,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "zI/oF1L70bpRia118XnA/2c1/3So7dKd4eHnyDZA4KZunW9xLjGuaM0NSEPEa5jwwuiKEpE1Q1ij6VUIGlitkVEVZOd1YKn+d1Fz3IQUe0J9mTmUfW/JxrFpvn6Sd4ItB+qCzq70mc65n1ePyX2IHWr3usyPLmCma9tQ1mOCbgWMd3e5jlUKX8VHHRB07mVO7kY0MbhMQNMlVbO6RsqHoNtVnkwla1iuEZ/DhFMm4pzx8p7EGpeKrpyk3ZHia4i+qfjhXjH7EQUrrVPrkBvn9B7yac+jHWTuinwl2/+9C2r+wRGsd4RpSb3ob/tymdwSu8s6A7+cbbK/XpZ2buuTtF1tJ1AEb3SDJ5Gq4DTNMNY=;XEjGBNau0PWBFWt4WY2bNg=="
+secured: "IESAVzhMWws4wLRtZ6s8zcYVEUi9Tl6R48WwucDhALBj0pXuXrOUzUqMq+lSPwGrhJ7zW6Z8XBVBkS75jyV8jtip37F057SNNZ4YSmUtLyrs77mHNvD3eaQTA6FWzh1jET4A8bLX5AS8I6Pfh4aFOuF6xsMKI9Ei0CwyRwYwFRL2OKJc5gBdZTBgKk8o9c2/ou/x8dDgvtUfSXdgctOslCJ/lrFppi7iEyyf4VhfXZmNXc9OFoIPpZpBwhjIB43fMcqUh8h99X5Z7FvirbiIDB5hnZWHZPFaJBMAEw+XljywyiHI1pBGxthXUua/XFbf632kAKKq3RnoytkOzNA5zobiK6TsxMXvxAAxZ0ODlUs=;Ost8zJHPDWrvls2hYH2p8A=="
 ---
 

@@ -944,6 +944,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump says Gold Star families could have given him Covid-19"
+    excerpt: "President Donald Trump suggested Thursday that he might have contracted Covid-19 from Gold Star family members who were too close to him when telling stories of their loved ones who died in the line of duty."
+    publishedDateTime: 2020-10-08T13:40:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/59/51/b5ca307e4b8fa2097a5e0d532614/201008-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Under Pence, Politics Regularly Seeped Into the Coronavirus Task Force"
     excerpt: "In taking a leading role in managing the White House’s response to the pandemic, the vice president and his team had an agenda that extended beyond public health."
     publishedDateTime: 2020-10-08T09:09:00Z

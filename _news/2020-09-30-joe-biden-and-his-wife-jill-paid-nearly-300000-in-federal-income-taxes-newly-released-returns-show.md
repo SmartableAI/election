@@ -45,38 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden again tests negative for COVID-19"
-    excerpt: "Democratic nominee Joe Biden tested negative for COVID-19 on Sunday, his campaign said. Biden was administered a PCR test for the virus, his campaign said, and COVID-19 was not detected. It marked the second time Biden has tested negative since President Trump revealed early Friday morning that he had the virus."
-    publishedDateTime: 2020-10-04T23:40:00Z
-    webUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19"
-    ampWebUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_093020upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden tests negative for COVID-19, campaign says"
-    excerpt: "Joe Biden’s campaign says the Democratic presidential nominee tested negative for coronavirus Sunday. The results come five days after Biden spent more than 90 minutes on the debate stage with President Donald Trump."
-    publishedDateTime: 2020-10-04T23:53:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-joe-biden-covid19-test-20201004-36ztcgh3arccvjimidflgxk6cm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_1Du1qOnOZwbyj80OVwdjArXzeQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RPYUJKXZFTSF7M2SXL4AX7ON74.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Watch Live: NBC News town hall with Biden"
     excerpt: "NBC News’s Lester Holt will anchor a live town hall discussion with Democratic presidential nominee and former Vice President Joe Biden on Monday evening in Miami. The event is scheduled to begin at 8 p."
     publishedDateTime: 2020-10-05T23:00:00Z
@@ -136,31 +104,6 @@ related:
       - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-07-2020/t_2ec76ecc923d4db1b6fa0dbd5a05337d_name_56ad741c_0722_11eb_8719_0df159d14794.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
         width: 1484
         height: 834
-        isCached: true
-  - title: "Biden campaign sees opportunity in military women, spouses and people of color"
-    excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
-    publishedDateTime: 2020-10-03T11:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/biden-campaign-sees-opportunity-military-women-spouses-people-color/3547501001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 81
-  - title: "Joe Biden’s Grand Rapids visit targets former Republican stronghold"
-    excerpt: "Joe Biden is heading to Grand Rapids on Friday, making a play for voters in a traditionally Republican county that has become more blue in recent elections. President Donald Trump won Kent County in 2016 when he became the first Republican to flip Michigan in nearly three decades."
-    publishedDateTime: 2020-10-01T23:22:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/joe-bidens-grand-rapids-visit-targets-former-republican-stronghold.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XRZ2WVTVNNH53EO2BFXKHACEVQ.JPG"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Mike Pence and his wife test negative for COVID-19"
     excerpt: "Vice President Mike Pence has tested negative for COVID-19, his office said Friday. “As has been routine for months, Vice President Pence is tested for COVID-19 every day. This morning, Vice President Pence and the Second Lady tested negative for COVID-19."
@@ -239,20 +182,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/36/77/20049899/115/rawImage.jpg"
         width: 2048
         height: 1369
-        isCached: true
-  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
-    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 51
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
 
 secured: "FbWP4K/Lf/X+yPph9/eWcoqxTE+oJO/YI2t164DT3826P47Y0e3aD9hstb/U+0y3RhB1+TlWa0XmL5CvjjouRrhP7ZueHUy1PdGZoS6197KdLpG+SmtjU2lI6BXF53dS/PSEO4dDiyDithW0Oa1/U3TBdpLSEbKaoAjuTdoQMp5B6fGAME5h1JjOwWFxQF1TrjyebIjG3ZLw0un+Yvf8LTHqc5EOn2b608zTb1tENfY4ZepBw/vuALz3pLanegDC4970kUYKqoXJAsdRVJ3zXXdU97CiLTs05Vv/4mM0Hppk/raDBX8u9Tva/Y7YgSClR6/rM/pMonp1d4LFPkCC4aWUKQ//5SgBfpYaDNObf58=;mxQi9LDoCHH9RtmOrlIngA=="

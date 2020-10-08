@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html"
 type: article
 quality: 168
-heat: 188
+heat: 168
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "A Fly Landed on Mike Pence"
-    excerpt: "During Wednesday night’s debate, a large fly landed on Vice President Mike Pence’s head and rested there. Advertisement 5:15 3:03 NOW PLAYING Advertisement 0:52 0:49 1:17 Advertisement"
-    publishedDateTime: 2020-10-08T03:37:00Z
-    webUrl: "https://www.nytimes.com/video/us/elections/100000007383978/debate-fly-lands-on-pence.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-38/07elections-briefing-07-22-38-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 549
-        isCached: true
 
 secured: "ewUQLmiI58sunarQ1EqdJdm0ocHp6RJSCy/hAKazgPmjcNeYNppWOr/++uhVYU1SU6MNIFeiO7/SfHnONPRuE/3JD+84uXXj6F0kRuOT+YIntLUDOwtGWHcPT8jf8N6eKmgshrbo7iXaCro8WSZres5KDDkfyHgVuLgurtEOwfXsfMUvZbJsgy6yLWYzr/e7xg8pazgbLOOYx/f6C1GphKBh/7d2Ng7xgKRAuA00huyNyKJum8zellxZkQ/OVZdMsVEyTsv0doIdW7mDVNh6xuG3xZ7P0SyRS9RWi5Sd5oWoE11XHJX9bDNv/6rl86WfOtqOppctCm8OPzs5Kt8scsMjN7Rs2dpfGJsbhfkAuok=;s7VzKicXKmvqXkBK/h/jhA=="
 ---

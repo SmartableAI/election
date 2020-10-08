@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mike Pence does not seem prepared to save the republic, should he be called upon to do so"
+    excerpt: "Like his boss, Pence says that only a 'fair' election will be acceptable — and then claims it may not be fair."
+    publishedDateTime: 2020-10-08T13:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/08/mike-pence-does-not-seem-prepared-save-republic-should-he-be-called-upon-do-so/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HS6KQBAJEMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "WYc+YKBmomf8Z9Y98a8keCuCU5bUwQSlTx8/l/VpUXNBp0MPwDCgDJ2Fvzq3ZIFJiNsjnm2dMlqCwUqkn5zImgbHkjbNZwKSbukqK7zhHS7nF6mjD7FZmizG94MwCGzqp2Vqfcs+5OOm7cGPDXPqZPF9u8WKBSv4k3qORBrH1WOnVGxmXhV2baD4gaQbgQUDp8aIpBUjXE0bVcKpoGSYboYNFOTv2waALBLy5u6HtPzRFPte8wJ7DL+HU6jjB3lYDRXoCm3eB/3zgfZkN1QvOwepCblnxGUg1dNT1boJ1tY9JMHIc/85yj5LnCU2ZIuN0XXtbMK9q2dXLaqQpbHLQOMMjp/GXd4rYqR9K28kvANikiRy04Yqe6ieR/lUk8n4x/3UBgnzkG5614M/5pVYb0OyrPmcuGj58ysDL0974b53Vf0Vm8UEsAwJ5RoEKkzGRi3kRenOHHOTmWElLUdN7wETvcNtGnR2AFAVjCFF7YRBu7fxLSFfO0pAYvc9uN0kZSFxRudpyWccXOqJLRU7eQ==;TK044J1Cwy4VpJIgEKTdaA=="
 ---

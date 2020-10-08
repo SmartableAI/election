@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2020/sep/26/joe-biden-amy-coney-barrett-threat-obamacare/"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden, Clarence Thomas, and Amy Coney Barrett with Angela Wright"
+    excerpt: "Angela Wright confides in Mary C. Curtis about former Vice President Joseph Biden, #MeToo and the inner workings of a contentious Supreme Court battle."
+    publishedDateTime: 2020-10-08T13:15:00Z
+    webUrl: "https://www.rollcall.com/podcasts/equal-time/joe-biden-clarence-thomas-and-amy-coney-barrett-with-angela-wright/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/BARRETT_004_10012020-1.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden: Vacancy about health law, not court expansion | Charlotte Observer"
     excerpt: "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law."
     publishedDateTime: 2020-09-28T07:53:00Z

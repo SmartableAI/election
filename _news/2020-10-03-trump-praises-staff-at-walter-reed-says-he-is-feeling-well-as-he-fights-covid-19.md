@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Do liberals really believe Trump faked his COVID-19 diagnosis?"
+    excerpt: "You will decide whether or not Donald Trump gets a second term or the cognitively challenged, weak, frail Joe Biden takes over. God help us. But until then, well, we do know one thing for certain, per usual."
+    publishedDateTime: 2020-10-08T13:48:00Z
+    webUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/do-liberals-really-believe-trump-faked-his-covid-19-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c105924-6cdc-4f18-874f-9dbb7b3f6bd5/aba778b1-1ff8-4281-a5a0-8e4c4144771b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "d0io51PgO4SscZip9mm5yCaWy369cmMfAt3jXbCPBaCwt+BOU0mJxzdBQnCcd9O7awQa+mwS3dSl/9GOjEoYxOcBNU9m5B1eEebJky6bpxbwfkjCjg9ZcvWnVoFUJvFORGJ69l7xWoYxmQ/106X0IkCr7SZv+WLnTSToPfOc3SZfccXW9vUPsZqEvcVCg79GpMLnneJ6pGV4pYY+YV/36RKMy2CL5CqaOe6/HtO7ivBZsCtCPFwK9A0+Q6RRZeqV+iWTP24gcrpsUH0TYYHI1UJ4J8Z2sT0hzfFwo4CnrrWmnvR/Q7z6/3weSgdriqxafKw3sb6cl7c1KpVfFsvBnY1g5hmis8ZlWbgROBRZxWk=;Uhba2fNPD9guvRJB8VTcQA=="
 ---
