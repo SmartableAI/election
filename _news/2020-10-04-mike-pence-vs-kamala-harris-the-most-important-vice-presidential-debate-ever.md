@@ -76,6 +76,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Mike Pence, Kamala Harris end vice presidential debate that focused on Trump's policies"
+    excerpt: "The 90-minute exchange, the only vice presidential debate of the 2020 cycle, became – as expected -- a battle over President Donald Trump"
+    publishedDateTime: 2020-10-08T03:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/live-vice-presidential-debate-mike-pence-and-kamala-harris-square-off/5916417002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5916417002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5916417002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 157
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/bf51c65e-ece4-47bf-91cc-86f7ed0aadad-AFP_AFP_8RN2T9.jpg?auto=webp&crop=5068,2851,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
     excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
     publishedDateTime: 2020-09-20T16:54:00Z
@@ -220,6 +236,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fact-checking Mike Pence and Kamala Harris on claims from the VP debate"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris tussled Wednesday in the first and only vice presidential debate before the Nov. 3 election, coming as the coronavirus sidelined President Donald Trump at the White House."
+    publishedDateTime: 2020-10-08T02:09:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 150
+    images:
+      - url: "https://www.chicagotribune.com/resizer/48iZPIOdfCSQE1BVnQr9t4943kk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BBWARIXL5BDKZK3BNBZEZGOGVI.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Factbox: Quotes from the Kamala Harris-Mike Pence debate"
+    excerpt: "Republican Vice President Mike Pence and Democratic challenger Kamala Harris squared off on Wednesday evening in Salt Lake City, Utah, ahead of the Nov. 3 election. Here are some of key quotes from the debate,"
+    publishedDateTime: 2020-10-08T02:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-debate-quotes-factbox-int/factbox-quotes-from-the-kamala-harris-mike-pence-debate-idUSKBN26T04W"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T04W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T04W"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 150
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201008&t=2&i=1536635399&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9703Z"
+        width: 817
+        height: 545
+        isCached: true
   - title: "VP debate live updates: Pence vs. Harris and what you need to know"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris of California will debate in Salt Lake City on Tuesday in the sole matchup between the 2020 vice presidential candidates."
     publishedDateTime: 2020-10-08T01:05:00Z
@@ -347,6 +395,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535828951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910W2"
         width: 817
         height: 545
+        isCached: true
+  - title: "Fact-checking the 2020 vice presidential debate between Mike Pence and Kamala Harris"
+    excerpt: "ABC News fact-checks Vice President Mike Pence and Democratic challenger Sen. Kamala Harris during the 2020 vice presidential debate."
+    publishedDateTime: 2020-10-08T02:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/fact-checking-2020-vice-presidential-debate-mike-pence/story?id=73464669"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fact-checking-2020-vice-presidential-debate-mike-pence/story?id=73464669"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fact-checking-2020-vice-presidential-debate-mike-pence/story?id=73464669"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 143
+    images:
+      - url: "https://s.abcnews.com/images/Politics/harris-pence-vp-debate-02-gty-jef-201007_1602120753578_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "LIVE: Fact-checking the vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Wednesday's debate will likely be a referendum on the Trump administration's handling of COVID-19 as Trump himself grapples with the disease."
@@ -476,6 +540,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Pence: 'Slanders' against Trump on armed forces 'absurd'"
+    excerpt: "Vice President Mike Pence in Wednesday night's vice presidential debate defended President Trump from allegations that he has disparaged the military and U.S. soldiers killed in action."
+    publishedDateTime: 2020-10-08T03:34:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520125-pence-slanders-against-trump-on-armed-forces-absurd"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520125-pence-slanders-against-trump-on-armed-forces-absurd?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520125-pence-slanders-against-trump-on-armed-forces-absurd?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/pencemike3_10072020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Vice presidential debate live updates: Mike Pence and Kamala Harris get ready to square off"
     excerpt: "This is CNBC's live blog for the vice presidential debate between Mike Pence and Kamala Harris. This blog will be updated throughout the evening. Watch our livestream, too."
     publishedDateTime: 2020-10-07T23:15:00Z
@@ -507,6 +587,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/23/PPHX/8091c353-8ac3-444f-a247-c68ebb7a8e4d-DW1_3466.JPG?auto=webp&crop=3507,1973,x0,y157&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
+    excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
+    publishedDateTime: 2020-10-08T03:11:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-mr-vice-president-pence-interruptions/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-mr-vice-president-pence-interruptions/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-mr-vice-president-pence-interruptions/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 139
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/08/6d2d21bc-527f-468c-9f29-a89bfc582811/thumbnail/1200x630/889ab825d9d57157676a9d82446415e8/ap-20282068965829.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "1st Trump-Biden Presidential Debate Was ‘Exhausting,’ 8 Things To Do To Recover"
     excerpt: "U.S. President Donald Trump began interrupting Democratic challenger and former Vice-President Joe Biden and then moderator Chris Wallace. It all went downhill from there."
@@ -1174,6 +1270,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Kamala Harris Memes Flood Internet As Vice Presidential Debate Heats Up"
+    excerpt: "Memes of Democratic Senator Kamala Harris flooded the internet during the Wednesday night vice presidential debate as social media users posted humorous images and videos that highlighted her opposition to One of the earliest memes posted during the debate was from the Republican-led political action committee,"
+    publishedDateTime: 2020-10-08T01:56:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-memes-flood-internet-vice-presidential-debate-heats-1537283"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-memes-flood-internet-vice-presidential-debate-heats-1537283?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-memes-flood-internet-vice-presidential-debate-heats-1537283?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1647747/kamala-harris-vice-presidential-debate-memes-funny.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The Picture of Donald J. Trump"
     excerpt: "That would not be a picture of strength. President Trump was putting his whole soul into this shot, and it had to be perfect. He had been at the hospital minutes ago; he was still battling the coronavirus."
     publishedDateTime: 2020-10-07T21:24:00Z
@@ -1302,6 +1414,17 @@ related:
         width: 1440
         height: 967
         isCached: true
+  - title: "VP debate live: Kamala Harris slams Mike Pence over coronavirus response and healthcare"
+    excerpt: "Harris attacks the Trump administrations coronavirus response and plans on healthcare"
+    publishedDateTime: 2020-10-08T03:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020?page=with:block-5f7e7c258f08aa9a8353623b"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
   - title: "'No wonder I didn't lose my hair!': Trump credits McDonald's fries for his hair"
     excerpt: "Between a flurry of tweets about the coming election, President Donald Trump replied to an article suggesting McDonald's fries might cure baldness."
     publishedDateTime: 2020-10-01T19:29:00Z
@@ -2098,6 +2221,22 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Mike Pence, Kamala Harris spar over coronavirus in vice presidential debate"
+    excerpt: "Vice President Mike Pence and U.S. Sen. Kamala Harris tangled over the Trump administration’s response to the coronavirus pandemic in their sole vice presidential debate, with Harris"
+    publishedDateTime: 2020-10-08T03:19:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/07/mike-pence-kamala-harris-spar-over-coronavirus-in-vice-presidential-debate/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/07/mike-pence-kamala-harris-spar-over-coronavirus-in-vice-presidential-debate/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/07/mike-pence-kamala-harris-spar-over-coronavirus-in-vice-presidential-debate/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 98
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/harrispence.jpg?w=1024&h=512"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Our resident Mike Pence biographer details the veep's ticks, traits and other debate skills ahead of the big showdown with Kamala Harris"
     excerpt: "Mike Pence's debates in 1990, 2000 and 2016 show the evolution of the man who will face Democratic vice presidential nominee Kamala Harris"
     publishedDateTime: 2020-10-06T21:43:00Z
@@ -2111,6 +2250,22 @@ related:
       - url: "https://i.insider.com/5f7cd59b282c500018c78f99?width=600&format=jpeg&auto=webp"
         width: 600
         height: 450
+        isCached: true
+  - title: "5 takeaways from the vice-presidential debate between Mike Pence, Kamala Harris"
+    excerpt: "Vice President Mike Pence and vice-presidential nominee Sen. Kamala Harris faced off in the only vice-presidential debate before the election. Moderated by Susan Page, Washington bureau chief for USA Today,"
+    publishedDateTime: 2020-10-08T03:36:00Z
+    webUrl: "https://www.chron.com/news/politics/election2020/article/5-takeaways-from-the-vice-presidential-debate-15629771.php"
+    ampWebUrl: "https://www.chron.com/news/politics/election2020/amp/5-takeaways-from-the-vice-presidential-debate-15629771.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/politics/election2020/amp/5-takeaways-from-the-vice-presidential-debate-15629771.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 96
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Kamala Harris, Mike Pence to Take Center Stage for Highly Anticipated VP Debate"
     excerpt: "What a difference eight days makes. Just last week the nation settled in for the first televised debate between President Donald Trump and Democratic challenger Joe Biden. Before the dust from that contest had a chance to settle Trump revealed he’s contracted COVID-19 and a small platoon of his inner circle have since come forward to reveal they’ve contracted the disease as well."
@@ -2210,14 +2365,14 @@ related:
         isCached: true
   - title: "Joe Biden, Kamala Harris to meet with tribal leaders, small business owners in Arizona"
     excerpt: "Democrat Joe Biden and his running mate, Kamala Harris, will meet with tribal leaders and small business owners during their trip to Arizona."
-    publishedDateTime: 2020-10-07T22:29:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5910955002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5910955002"
+    publishedDateTime: 2020-10-08T02:24:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5910955002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5910955002"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 92
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/76b27cc0-7e26-464d-83e8-b7d7c4c3eb32-AP20260030136787.jpg?auto=webp&crop=3755,2113,x0,y191&format=pjpg&width=1200"
@@ -2528,6 +2683,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "What Mike Pence, Kamala Harris Said About The US Economy, Trade War At Vice Presidential Debate"
+    excerpt: "Vice President Mike Pence praised Trump's economic policies as resulting in a \"V-Shaped recovery\" while Democratic vice presidential nominee Kamala Harris said the Trump administration only cares about the wealthy."
+    publishedDateTime: 2020-10-08T03:06:00Z
+    webUrl: "https://www.ibtimes.com/what-mike-pence-kamala-harris-said-about-us-economy-trade-war-vice-presidential-3058499"
+    ampWebUrl: "https://www.ibtimes.com/what-mike-pence-kamala-harris-said-about-us-economy-trade-war-vice-presidential-3058499?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-mike-pence-kamala-harris-said-about-us-economy-trade-war-vice-presidential-3058499?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 88
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/gettyimages-1279067675.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "How Mike Pence could assume control if Trump becomes incapacitated from COVID"
     excerpt: "Trump on Thursday confirmed he and wife Melania tested positive for COVID-19 The two were forced to quarantine after Trump counselor Hope Hicks became ill Vice President Mike Pence could potentially assume presidential control if Trump were to become ..."
     publishedDateTime: 2020-10-02T05:48:00Z
@@ -2777,6 +2948,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Who Won The Vice Presidential Debate? VIDEO Of Key Moments, How Experts Felt About Mike Pence, Kamala Harris"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris debated Wednesday night in Salt Lake City amid an ongoing pandemic that has resulted in over 210,000 deaths in the U.S. and with questions about the direction of the economy."
+    publishedDateTime: 2020-10-08T03:25:00Z
+    webUrl: "https://www.ibtimes.com/who-won-vice-presidential-debate-video-key-moments-how-experts-felt-about-mike-pence-3058449"
+    ampWebUrl: "https://www.ibtimes.com/who-won-vice-presidential-debate-video-key-moments-how-experts-felt-about-mike-pence-3058449?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-won-vice-presidential-debate-video-key-moments-how-experts-felt-about-mike-pence-3058449?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 81
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/gettyimages-1279065138.jpg"
+        width: 1200
+        height: 824
+        isCached: true
   - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
     excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
     publishedDateTime: 2020-10-04T21:41:00Z
@@ -2850,6 +3037,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Quotes From the Kamala Harris-Mike Pence Debate"
+    excerpt: "Republican Vice President Mike Pence and Democratic challenger Kamala Harris squared off on Wednesday evening in Salt Lake City, Utah, ahead of the Nov. 3 election. Here are some of key quotes from the debate,"
+    publishedDateTime: 2020-10-08T02:09:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-07/quotes-from-the-kamala-harris-mike-pence-debate"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-07/quotes-from-the-kamala-harris-mike-pence-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-07/quotes-from-the-kamala-harris-mike-pence-debate?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 80
   - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
     excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."
     publishedDateTime: 2020-10-07T02:19:00Z
@@ -2929,6 +3127,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/0bf46f13-28fd-4d6e-bc78-c919a3028ab7/main/1280x720/5s/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Fact-checking Mike Pence and Kamala Harris on claims about COVID-19, health care, the economy and more in the VP debate"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris tussled Wednesday in the first and only vice presidential debate before the Nov. 3 election, coming as the coronavirus sidelined President Donald Trump at the White House."
+    publishedDateTime: 2020-10-08T03:18:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 76
+    images:
+      - url: "https://www.dailypress.com/resizer/48iZPIOdfCSQE1BVnQr9t4943kk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BBWARIXL5BDKZK3BNBZEZGOGVI.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice Presidential debate: How to watch Mike Pence-Kamala Harris debate online (Live stream, start time, network info.)"
     excerpt: "Voters on Wednesday night have an opportunity to contrast the debating styles and temperaments of President Donald Trump and Democratic nominee Joe Biden with their running mates as Vice President Mike Pence and Sen."
@@ -3153,6 +3367,22 @@ related:
       - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/kamala-harris-raleigh-nc.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris’ Dangerous Vaccine Game"
+    excerpt: "On numerous occasions during the vice-presidential debate, Kamala Harris said that Democrats would listen and follow the “science.” Her cynically dangerous answer on vaccines says otherwise. Given an opportunity to walk back her previous attacks on massive private-public efforts to come up with a COVID vaccine,"
+    publishedDateTime: 2020-10-08T03:10:00Z
+    webUrl: "https://www.nationalreview.com/corner/kamala-harris-dangerous-vaccine-game/"
+    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-dangerous-vaccine-game/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-dangerous-vaccine-game/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/vp-debate-kamala-harris-3.jpg?resize=300%2C300&ssl=1"
+        width: 300
+        height: 300
         isCached: true
   - title: "MAGA: Donald Trump May Have Exposed Thousands of People to COVID-19"
     excerpt: "President Donald Trump and other White House insiders infected with COVID-19 carried the virus across the country in a matter of days, potentially exposing hundreds, perhaps thousands, of people as they went about their business,"

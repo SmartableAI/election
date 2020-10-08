@@ -3116,6 +3116,22 @@ related:
         width: 765
         height: 430
         isCached: true
+  - title: "Twitter Reacts To Donald Trump Calling COVID-19 Diagnosis A Blessing In Disguise: ‘How Dare You’"
+    excerpt: "Many netizens were annoyed when President Donald Trump said that his COVID-19 diagnosis was a \"blessing in disguise.\""
+    publishedDateTime: 2020-10-08T02:55:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-donald-trump-calling-covid-19-diagnosis-blessing-disguise-how-dare-you-3058456"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-donald-trump-calling-covid-19-diagnosis-blessing-disguise-how-dare-you-3058456?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-donald-trump-calling-covid-19-diagnosis-blessing-disguise-how-dare-you-3058456?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/qanon-followers-believe-us-president-donald-trump-is.jpg"
+        width: 1024
+        height: 672
+        isCached: true
   - title: "‘Don’t tell anyone’: Trump tried to hide positive COVID-19 tests spreading through the White House"
     excerpt: "The Wall Street Journal reported Sunday that President Donald Trump tried to hide that he first tested positive for COVID-19 when he waited for a second test on Thursday. According to the report, Trump attempted to hide his first rapid test that gave him a positive test result."
     publishedDateTime: 2020-10-04T23:48:00Z

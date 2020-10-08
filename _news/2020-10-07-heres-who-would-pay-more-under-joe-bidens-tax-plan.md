@@ -127,6 +127,38 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Fact check: Will Joe Biden raise your taxes on day one?"
+    excerpt: "On day one, Joe Biden’s going to raise your taxes,” Vice President Mike Pence said during his debate with Sen. Kamala Harris. Details: How much your taxes go up would depend on how much you make. Harris and Biden are pushing an economic plan that would impose much higher taxes on the wealthy,"
+    publishedDateTime: 2020-10-08T01:45:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246283800.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246283800.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246283800.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/cd1132fd-82b4-4ce3-8e94-cb196d81faf2/5ac1b7ed-3ce9-46b7-b04c-ef3406a51f2d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fact check: Will Joe Biden raise your taxes on day one? | Charlotte Observer"
+    excerpt: "On day one, Joe Biden’s going to raise your taxes,” Vice President Mike Pence said during his debate with Sen. Kamala Harris. Rating: True Details: How much your taxes go up would depend on how much you make."
+    publishedDateTime: 2020-10-08T03:35:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246283800.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246283800.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246283800.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/cd1132fd-82b4-4ce3-8e94-cb196d81faf2/5ac1b7ed-3ce9-46b7-b04c-ef3406a51f2d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
     excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
     publishedDateTime: 2020-09-29T22:50:00Z

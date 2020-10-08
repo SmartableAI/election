@@ -3104,6 +3104,22 @@ related:
         width: 765
         height: 430
         isCached: true
+  - title: "Twitter Reacts To Donald Trump Calling COVID-19 Diagnosis A Blessing In Disguise: ‘How Dare You’"
+    excerpt: "Many netizens were annoyed when President Donald Trump said that his COVID-19 diagnosis was a \"blessing in disguise.\""
+    publishedDateTime: 2020-10-08T02:55:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-donald-trump-calling-covid-19-diagnosis-blessing-disguise-how-dare-you-3058456"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-donald-trump-calling-covid-19-diagnosis-blessing-disguise-how-dare-you-3058456?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-donald-trump-calling-covid-19-diagnosis-blessing-disguise-how-dare-you-3058456?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/qanon-followers-believe-us-president-donald-trump-is.jpg"
+        width: 1024
+        height: 672
+        isCached: true
   - title: "Trump Was in Maskless ‘Close Contact’ with Dozens of Donors After Hope Hicks Got Covid-19 Symptoms"
     excerpt: "President Donald Trump was in \"close contact\" and not wearing a mask while interacting with \"dozens\" of donors and others in the hours after Hope Hicks developed symptoms of COVID-19."
     publishedDateTime: 2020-10-02T11:27:00Z
@@ -3372,6 +3388,6 @@ related:
         height: 624
         isCached: true
 
-secured: "PW2mLOr31fOJGaynzdsHdwK/OGjBq7pH9zd8qi2SmUap024ldSVL08AKjNLdXtmmwIE+UeYhFlJ3G1QYid0Qgp+VQx0qU5W0lBJdfQ+LijUd9lMKzts6l0WAs8RrixaFfvCIWxPE0D/0ArfIIeJUY1mJj9/s3bmO3XW6kBHo0/ipeuu4Bcfwsfen7sHtxsb72TCciQrPZqz4cGQwtFx8Nzun2/yEyLn82WOlaO6SRkE9fWz+Ob9QTmKJGvJzVFp1hGcK0b6VkTIgsPGBM7jZrhO7wCKiKAPHwYYD3BJZ7drORBTnIIfwYH4Op0EayOliu3OOE7OFtYpZWm5FOudwjRi8z6/4QC1RsVXSc08wpaw=;ofr7zxwLBmG0MFruYPv0bw=="
+secured: "7215Byni+Cprw965Kc+DF58YYGKXXlEREdIj18lw0qVhzv+fhQbZJafCjHnkNXsbpgaR0N7WWCb3Ya6hBJRaKZH//NYFa6HncRQnCqbj6hXoX36902HSEnKapczaFDYVOf8VvA+FX0d/gCrNymBefpPhFrAC7Uuosl8tl5gAR/wnCrfwE1PyW0YNKERwLiLvauslDwhj/nRTgVsSrJKAQrqx5MgM3xZL99GTEPXpTj6r98j7QMUwxwhJWI+mH9eE6HpENKsDdkeYBWkmyvmSuzINtwcGSBP4kzBg23v0DVdklayARPpncm54WsyrYVIruXrCtekp51NiWeG7xges2IGcAmhIkH0ac1kAyyB6VTDmScNaMemgpEBHaZq1V9qzXelWbaEDvszf7S/+jRYa4ZfFFOUlJ+hjK3rsd52Kn9P4Hew2xprCvsmPESbYxAXYL/DT12fYdN8h38O9mpMoM9nVz7D9Wocrqdu6EA6g+qARnihnyST3W2le1LU53Cp2dUb3bL+Q8RXGcaj3wDwV3w==;B9b+wbtvAS4TaaQsLyeG+g=="
 ---
 

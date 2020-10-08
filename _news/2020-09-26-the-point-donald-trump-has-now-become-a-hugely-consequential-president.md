@@ -831,6 +831,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration asks Supreme Court to take another census case"
+    excerpt: "The Trump administration has asked the Supreme Court to intervene and allow it to wrap up the 2020 census by blocking a lower court opinion requiring the count to continue until the end of October.\n    \n"
+    publishedDateTime: 2020-10-08T02:31:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DKcOwTEgJZA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/census-supreme-court-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/census-supreme-court-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here are the Cabinet members and others around Trump who have been tested"
     excerpt: "President Donald Trump's positive coronavirus diagnosis has raised questions about the health of those around him, including members of his cabinet and his Vice President.\n    \n"
     publishedDateTime: 2020-10-02T15:20:01Z
@@ -3717,6 +3733,15 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "Pence Struggles to Explain Why Trump Admin Didn’t Follow Its Own COVID Guidelines"
+    excerpt: "Pence gave a rambling response beginning with how Americans were given adequate “facts” and finishing with a reference to Trump’s Supreme Court nominee."
+    publishedDateTime: 2020-10-08T03:39:00Z
+    webUrl: "https://www.thedailybeast.com/pence-struggles-to-explain-why-trump-admin-didnt-follow-its-own-covid-guidelines?scrolla=5eb6d68b7fedc32c19ef33b4"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 65
   - title: "Ex-Trump Doc Suggests on Fox That Biden’s on Drugs"
     excerpt: "The former White House physician turned Trumpy congressional candidate diagnosed Biden through the TV and backed Trump’s claims that he is taking a secret drug to aid his memory."
     publishedDateTime: 2020-09-29T11:58:00Z

@@ -65,6 +65,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Kamala Harris and Mike Pence debate"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris are participating Wednesday in the lone vice presidential debate of the 2020 election.\n    \n"
+    publishedDateTime: 2020-10-08T03:28:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JGtyCSfg5-o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 210
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris rips Trump administration's response to coronavirus pandemic in only debate with Mike Pence"
     excerpt: "Vice President Mike Pence and California Sen. Kamala Harris will square off Wednesday in their only debate as the Trump administration reels from an outbreak of Covid-19 at the White House and erratic decisions by the commander in chief.\n    \n"
     publishedDateTime: 2020-10-08T01:59:42Z
@@ -191,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Pence accuses Biden, Harris of wanting to pack Supreme Court"
+    excerpt: "Mike Pence accuses Joe Biden and Kamala Harris of wanting to \"pack the court.\" Harris did not say whether she and Biden support adding more seats to the Supreme Court or not."
+    publishedDateTime: 2020-10-08T02:48:00Z
+    webUrl: "https://www.nbcnews.com/video/pence-accuses-biden-harris-of-wanting-to-pack-supreme-court-93399621584"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93399621584"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93399621584"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 185
+    images:
+      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-mike-pence-debate-1920x1080-ac-1032p.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris' past health care positions could come under the spotlight in debate"
     excerpt: "California Sen. Kamala Harris could be forced into the uncomfortable position on Wednesday night of explaining her past support of \"Medicare for All,\" a proposal the Trump campaign has described as a socialized takeover of American health care -- and Harris' running mate, Democratic nominee Joe Biden,"
     publishedDateTime: 2020-10-07T14:50:28Z
@@ -238,6 +270,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200903142822-i-voted-stickers-0407-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Harris worked to speak 'past Pence, at President Trump and to the American people'"
+    excerpt: "NBC's Hallie Jackson breaks down the Vice Presidential Debate between Sen. Kamala Harris and Vice President Mike Pence, and describes how Harris was speaking \"past Pence, at President Trump and to the American people."
+    publishedDateTime: 2020-10-08T03:16:00Z
+    webUrl: "https://www.nbcnews.com/video/harris-worked-to-speak-past-pence-at-president-trump-and-to-the-american-people-93400133641"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93400133641"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93400133641"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 169
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-kamala-harris-debate-1920x1080-ac-1111p.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
     excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."
@@ -334,6 +382,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418229/201007-harris-pence-2up-2x1-jm-1333_45efe9ff8de2d3219ddc9f1f564cac52.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Taylor Swift, leaning further into politics, endorses Joe Biden and Kamala Harris."
+    excerpt: "Taylor Swift, the pop megastar who has increasingly leveraged her fame and platform to weigh in on political matters and social causes, announced Wednesday that she would support Joseph R. Biden Jr. and Senator Kamala Harris in the."
+    publishedDateTime: 2020-10-07T23:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/taylor-swift-joe-biden-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/taylor-swift-joe-biden-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/taylor-swift-joe-biden-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 154
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/world/07elections-briefings-swift2/07elections-briefings-swift2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
     excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"

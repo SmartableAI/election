@@ -220,6 +220,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Former candidates support Joe Biden"
+    excerpt: "Former candidates who ran for the Democratic nomination in 2020 are now supporting Joe Biden’s candidacy. This is not unusual for former candidates, but these ex-candidates are more outwardly enthusia"
+    publishedDateTime: 2020-10-08T02:30:00Z
+    webUrl: "https://tulsaworld.com/news/article_cc305543-d0a0-59f2-8afc-bd091a72b44c.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/c3/cc305543-d0a0-59f2-8afc-bd091a72b44c/5f7e6847f0d2a.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Joe Biden Remarks to U.S. Conference of Mayors"
     excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"
     publishedDateTime: 2020-09-27T17:52:00Z
@@ -248,6 +262,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "gFROBF59mGY+t6pAf1MR3s8MlTEqeIttLoHboRJfv1mH9d9cokQF4baz+LeNzfVfq5fLg4je5vItGiZsoKjjVncooKo9FLKJyzk7nnlKPJP9XAUkQ19pX6Rqh37CeLjHjVCXrwatbEBh8c/FeyFlunxBrv+y623Ne1E+OA3eW/CNJQlgVef7fIzKjaGUYLzEbuOIpRrbVFzpj78CkqzoAo5ZPNiiRWDwYz/fgd6yVuIwcumKv0QvBYJcSV2pyUy7bFBwdCjzmPrsQR0nmUDRLYjDHJUS54smODXVpgBG3F/AxnwLHrsamY3SwxTuoc611KShC/Pm3pJNVl1CljQBGD16xsFxDLMSmW75uGsong8=;WH25xCdiTSQOaoPQVBC8KQ=="
+secured: "XIMhZ0rW8rchIbYCp41hfwB6CSVaMyIig2HMZWL5gv1PwSsgdViaJUPoUpsIjQO2Xank+9z4Q+ZhjjsMnP/aPUyIORqO2LN/lqU/4ibcwowL2/TDwZb3iSu6PyfnxRvnApyInbLzITkaDFs0ZtVfLmtGshfSrajooHmphLRv31+n9/Yz+Z2Rq1Sdzyyj0AE5ya6/a9e2JhlmkXsefw9yjkxWhbWh+QfujtRqG06znhk4f2FxJZ8/O/HcQInP+3gZJxE0HMwVoPvOpZyrMqAPsNerurEqVE1A+VOgTvgqmOcT3Ghkvw5xjP3c0aSrM6kN7K+0Ql5lqJk7/yanT2kRtCxQ+0JHcGFV9MMu76AcoKcFR3HI7Ed3+GkMsTuSohdvhSYT0Z1uYvggWudl6HOR6q9Mmo/V+/CYjOfBP0NpkKuug8vs75XkJsi3b1/uMBE2bdoOceGXu08LABB6l58tDp8O9VtTrUUfFri83MqqPGPltuQ8IYZY0w4+ZBhDjmFKdExCMWQSmJ4rSCIZr7Ylng==;Tk/y20Ekp6fNhdOYiy19CQ=="
 ---
 

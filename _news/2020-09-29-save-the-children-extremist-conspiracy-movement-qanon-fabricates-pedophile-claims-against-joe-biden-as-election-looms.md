@@ -216,6 +216,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Former candidates support Joe Biden"
+    excerpt: "Former candidates who ran for the Democratic nomination in 2020 are now supporting Joe Biden’s candidacy. This is not unusual for former candidates, but these ex-candidates are more outwardly enthusia"
+    publishedDateTime: 2020-10-08T02:30:00Z
+    webUrl: "https://tulsaworld.com/news/article_cc305543-d0a0-59f2-8afc-bd091a72b44c.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/c3/cc305543-d0a0-59f2-8afc-bd091a72b44c/5f7e6847f0d2a.preview.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Joe Biden Remarks to U.S. Conference of Mayors"
     excerpt: "Democratic presidential nominee Joe Biden spoke at the 2020 fall leadership meeting of the U.S. Conference of Mayors. He talked about the importance of local government, the need to address systemic racism,"
     publishedDateTime: 2020-09-27T17:52:00Z

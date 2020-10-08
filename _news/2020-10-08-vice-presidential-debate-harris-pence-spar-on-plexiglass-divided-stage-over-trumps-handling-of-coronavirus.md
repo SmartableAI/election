@@ -2,13 +2,13 @@
 category: news
 title: "Vice presidential debate: Harris, Pence spar on plexiglass-divided stage over Trump's handling of coronavirus"
 excerpt: "Democratic vice presidential nominee Kamala Harris and Vice President Mike Pence didn't waste any time trading fire over President Trump's handling of the coronavirus pandemic as they faced off Wednesday in their first and only debate during the general election."
-publishedDateTime: 2020-10-08T01:50:17Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OLlCQnjBdg/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OLlCQnjBdg/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage"
+publishedDateTime: 2020-10-08T01:57:00Z
+originalUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage"
+webUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage"
 ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage.amp"
 type: article
-quality: 206
+quality: 156
 heat: -1
 published: false
 
@@ -22,14 +22,14 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Mike Pence
+  - Republican Voice
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/28a1e0ad-c3f9-479b-a0a5-482366fc402c/1ad3543b-ce65-4e26-9978-2805eaf1cbe1/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282058890857.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -145,6 +145,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Vice presidential debate: Kamala Harris ducks Pence’s court-packing question"
+    excerpt: "Vice President Mike Pence hammered Sen. Kamala Harris Wednesday night over whether Democrats would pack the Supreme Court should they not “get their way,” and should Judge Amy Coney Barrett be confirmed to the high court before Election Day."
+    publishedDateTime: 2020-10-08T02:41:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uNEq_WhFsxo/vice-presidential-debate-kamala-harris-ducks-pences-court-packing-question"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-kamala-harris-ducks-pences-court-packing-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-kamala-harris-ducks-pences-court-packing-question.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 207
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden, Harris express wishes for speedy 'recovery' after Trump's positive coronavirus test"
     excerpt: "Joe Biden on Friday morning tweeted he and his wife, Jill, are sending their thoughts to President Trump and first lady Melania Trump and wishing \"for a swift recovery\" after the Trumps announced they'd tested positive for COVID-19."
     publishedDateTime: 2020-10-02T12:52:18Z
@@ -190,6 +206,86 @@ related:
     quality: 203
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89bf11-2e28-454f-95eb-ba332598ae37/c4318333-5578-4fa3-b85c-5fc881cbef9e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice presidential debate: Pence blasts Biden as 'cheerleader for communist China’"
+    excerpt: "Vice President Mike Pence slammed Democratic nominee Joe Biden for being a “cheerleader for Communist China,” while saying the Trump administration, while wanting to “improve” relations with Beijing, will “hold China accountable” for the novel coronavirus."
+    publishedDateTime: 2020-10-08T02:08:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/q87568OEtiM/vice-presidential-debate-pence-blasts-biden-as-cheerleader-for-communist-china"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-pence-blasts-biden-as-cheerleader-for-communist-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-pence-blasts-biden-as-cheerleader-for-communist-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 195
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Vice presidential debate: Harris rips Trump administration on ‘standing’ vs. China"
+    excerpt: "Sen. Kamala Harris knocked the Trump administration on foreign policy during Wednesday's debate in Utah against Vice President Mike Pence, claiming the U.S. was losing support among allies as a result of its actions."
+    publishedDateTime: 2020-10-08T02:52:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks83k0fp3xc/vice-presidential-debate-harris-standing-vs-china"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-standing-vs-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-harris-standing-vs-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 194
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282074254286.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pence slams Democrats for 'trying to overturn results' of 2016 election, says he has 'confidence' in Trump victory"
+    excerpt: "Vice President Pence slammed Democrats Wednesday night for spending “the last three and a half years” trying to “overturn the results” of the 2016 election, after being asked whether the Trump administration would accept the results of the 2020 race should they be defeated."
+    publishedDateTime: 2020-10-08T02:57:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Miu00guIAZ0/pence-slams-democrats-for-trying-to-overturn-results-of-2016-election-says-he-has-confidence-in-trump-victory"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-slams-democrats-for-trying-to-overturn-results-of-2016-election-says-he-has-confidence-in-trump-victory.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-slams-democrats-for-trying-to-overturn-results-of-2016-election-says-he-has-confidence-in-trump-victory.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 193
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Vice presidential debate: Harris, Pence spar on plexiglass-divided stage over coronavirus, Supreme Court"
+    excerpt: "Democratic vice presidential nominee Kamala Harris and Vice President Mike Pence did not waste time trading fire over President Trump's handling of the coronavirus pandemic, the idea of packing the Supreme Court and taxes as they faced off Wednesday in their first and only debate during the general election."
+    publishedDateTime: 2020-10-08T01:50:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0OLlCQnjBdg/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-harris-pence-spar-on-plexiglass-divided-stage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 193
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282058890857.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Vice presidential debate: Kamala Harris claims she won't take vaccine if Trump recommends"
+    excerpt: "VP Pence slammed Harris for 'undermining public confidence' in a potential vaccine."
+    publishedDateTime: 2020-10-08T02:13:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w4rrpbIavgU/vice-presidential-debate-kamala-harris-coronavirus-vaccine-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-kamala-harris-coronavirus-vaccine-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-kamala-harris-coronavirus-vaccine-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 191
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/00e2df3f-a7b2-4a4f-97f4-b46b4ccadfbe/fc033476-fc2a-42e1-ab01-2af237ebd742/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -288,6 +384,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7eef60c1-c037-44f3-91f3-ab7f0a5f168e/b4f53350-6bcb-4585-bab6-ebe95093d432/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"
+    excerpt: "Vice presidential Democratic candidate Kamala Harris went after President Trump for not paying enough in taxes, and questioned who he might owe money to."
+    publishedDateTime: 2020-10-08T02:36:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vpCOTgRR8cU/vice-presidential-debate-harris-hits-trump-over-tax-returns-asks-president-who-he-owes-money-to"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-harris-hits-trump-over-tax-returns-asks-president-who-he-owes-money-to.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-harris-hits-trump-over-tax-returns-asks-president-who-he-owes-money-to.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice presidential debate: Pence raises Biden plagiarism scandal in defending coronavirus response"
+    excerpt: "Vice President Mike Pence, in Wednesday's vice presidential debate in Utah, brought up the plagiarism scandals that embroiled Joe Biden decades ago when arguing that the Democratic nominee’s coronavirus plan looks a lot like President Trump’s. "
+    publishedDateTime: 2020-10-08T02:01:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2phKDatnjZM/vice-presidential-debate-pence-raises-biden-plagiarism-scandal-in-defending-coronavirus-response"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-pence-raises-biden-plagiarism-scandal-in-defending-coronavirus-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-pence-raises-biden-plagiarism-scandal-in-defending-coronavirus-response.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Pence-Harris-SPLIT-Debate.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Trump campaign leaves ticket for Tupac at VP debate after Kamala Harris named him ‘best rapper alive’"
     excerpt: "The Trump campaign is reportedly leaving a vice presidential debate ticket for Tupac Shakur as a jab at Democratic candidate Kamala Harris, who recently called the hip-hop icon, who was killed in 1996, the “best rapper alive.”"
@@ -529,6 +657,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion"
+    excerpt: "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. "
+    publishedDateTime: 2020-10-08T02:50:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Trump returns to the Oval Office for the first time since COVID care"
     excerpt: ""
     publishedDateTime: 2020-10-07T19:44:23Z
@@ -734,6 +878,22 @@ related:
     quality: 154
     images:
       - url: "https://images.wsj.net/im-240874/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Mike Pence, Kamala Harris Clash on Combatting Coronavirus at Vice Presidential Debate"
+    excerpt: "The candidates immediately sparred over the coronavirus pandemic at the sole vice presidential debate of the 2020 campaign, which has taken on new importance following President Trump’s Covid-19 diagnosis."
+    publishedDateTime: 2020-10-08T02:27:00Z
+    webUrl: "https://www.wsj.com/articles/trumps-covid-19-diagnosis-amps-up-spotlight-on-vice-presidential-debate-11602084013"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trumps-covid-19-diagnosis-amps-up-spotlight-on-vice-presidential-debate-11602084013"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trumps-covid-19-diagnosis-amps-up-spotlight-on-vice-presidential-debate-11602084013"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 153
+    images:
+      - url: "https://images.wsj.net/im-242113/social"
         width: 1280
         height: 640
         isCached: true
@@ -1019,6 +1179,17 @@ related:
         width: 2300
         height: 1597
         isCached: true
+  - title: "Rand Paul slams Kamala Harris's 'lie' about Biden's support of fracking ban"
+    excerpt: "Kentucky Sen. Rand Paul called out Democratic vice presidential nominee Kamala Harris for denying Joe Biden’s support for banning fracking during the vice presidential debate."
+    publishedDateTime: 2020-10-08T03:04:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/rand-paul-slams-kamala-harriss-lie-about-bidens-support-of-fracking-ban"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/rand-paul-slams-kamala-harriss-lie-about-bidens-support-of-fracking-ban?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/rand-paul-slams-kamala-harriss-lie-about-bidens-support-of-fracking-ban?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 78
   - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
     excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"
     publishedDateTime: 2020-10-07T18:15:00Z
@@ -1064,6 +1235,6 @@ related:
         height: 856
         isCached: true
 
-secured: "A/b7PspkOGdJ96h2C1VDoiZv3ZfSKv+FXK/3tDB7Foyym3vDj/Ef2UKL0v4DWkrNnLoSPz+J2sgiyw3EHwvMW6Ms24if7+bee1xtmZQy/31RVNmde1VEl1jrLWRKHUIzc9bcrPiWx4EfiRm9HASQ3xFkdrCVd9AgQcvrHW464iqtM41bGl5tlsr5rKOC6r+ROgdCLOJyVlSyPdXvirO8DnnSpMigzD12kEOXmynsUH2VyA0835uoGIOdwynoKvE1GUFJ9N6LL8N4lSdkz/flfgyNeAHD4Wo+KNDrO7H5+xKMzzqQ9yC1b9f037rJnaxdtWxp+X4iGHRRclSFtm1SW3Ed1YMKcc1X3Rbo9ZHUNrk=;qErkIlbgg9PSD8pe5ldY3Q=="
+secured: "1b3fxOkYJI4A0PSNLriR70cqTUrtaJadgHPsXf9obXq6ffzY+mZj66yvVsaSIgp/scifSP2TcvNvE+h7a6djgEVEz6PlmXUBtfFUVBTGCRL+gWOWaU+2yLipVwtDV5BMQL5lOjMwIxtjfqHZp6JTFLels0nJVrsql37+BFH8aetekGIUJhcpneej92Gz0hJ8Y7q4k3Sl+g7ZpcVzF+UeOlfJW+npgzRKKdCxkQ3949DIGxRIj/vCExYzR/mUDYf9+Dyzq8VZ9ypYPjc6rjfnQLqpIPmhq3qPh446z4pt5BBjuSErIJ5CUFfw6rdxl07up16/pv8iqF9TLtM8hPRz1voh+QgpW4gOGn5T539gzCM=;13n8Zs/lEhOOd3WHsK/WcA=="
 ---
 

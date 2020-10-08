@@ -833,6 +833,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration asks Supreme Court to take another census case"
+    excerpt: "The Trump administration has asked the Supreme Court to intervene and allow it to wrap up the 2020 census by blocking a lower court opinion requiring the count to continue until the end of October.\n    \n"
+    publishedDateTime: 2020-10-08T02:31:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DKcOwTEgJZA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/census-supreme-court-trump-administration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/census-supreme-court-trump-administration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump has now become a hugely consequential president "
     excerpt: "President Donald Trump has made no secret of his desire to write his name in history, to leave a presidential legacy that can't be erased no matter what happens on November 3. And now he has it.\n    \n"
     publishedDateTime: 2020-09-26T21:33:06Z
@@ -3719,6 +3735,15 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "Pence Struggles to Explain Why Trump Admin Didn’t Follow Its Own COVID Guidelines"
+    excerpt: "Pence gave a rambling response beginning with how Americans were given adequate “facts” and finishing with a reference to Trump’s Supreme Court nominee."
+    publishedDateTime: 2020-10-08T03:39:00Z
+    webUrl: "https://www.thedailybeast.com/pence-struggles-to-explain-why-trump-admin-didnt-follow-its-own-covid-guidelines?scrolla=5eb6d68b7fedc32c19ef33b4"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 65
   - title: "Ex-Trump Doc Suggests on Fox That Biden’s on Drugs"
     excerpt: "The former White House physician turned Trumpy congressional candidate diagnosed Biden through the TV and backed Trump’s claims that he is taking a secret drug to aid his memory."
     publishedDateTime: 2020-09-29T11:58:00Z
@@ -3783,6 +3808,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "uISzeoX0e3sLUlQvHz6bINREnQWQu/O5RchS1AieDmbAREDn28y+nPcZVREPxJKLorWxEgYBtVtruX8yLJOxKbH3jSrzqpUG9u9m61/D39/MgJtdcAbhv8ZXQ5EQtYcOmXOU/ouocWhAXub2i6KIWfxrYubyknE8dE4Lo11m3HXThqFJVblcpHIcwnhr6iRWh8SFjUPKFCGqro1TFsUO7UHq4LixMAGhQkAXJsokJESNsujx8BYkuXBKGKSHxIWQYcHSRdpoeSsG9tUg3vOQCLEkiF9k2aglBw7gAJ064jlpReiPWCuoi/ECeSHqrXyk0+XxOwhqsbDO3PbWBSwP9dcS4SYFc0oAGFUCrH+RwKE=;b0jOdvz/fpvBKiTnZnIpWw=="
+secured: "ekWPgIbjs8YFYFSsgYwMkkwPBfcFvQ4QFlgsVKGuy/aNeJkb8viARdBSCIkLE+iGUi1X+5a0jkBny4Mk6JMh0QsoxmSIiCuGlx2G204LjDwlkyhdoWhQpSY+38mjG8S3dI9zfjTwR+Sf7a7CY/sJ6hU34PXOLkHLoHtClkd54bQIMBn+LuO3A0mfJXorO17zvghm9UR4DFgxUPtXOK8g5iN9nMRlu6ahWqKWD+0d/KSCi296pQ+FPVTof9Ev8QsTTGQuqRD3OyKpWjFTSE+ACteuG5MHF/k82N44tQuR1rWlCreYC/TpsJCpfP5ExUY7B1Hlq0GsyCR95NqmhJKj9NMeoHp2RXFXMqsxWnVxKwSUPUCslr3dfkecOdbxqMgjqd4FDxcsPIx0fzu4vp2vcTBD+68txoH9oYi+aGzRJqdervRLMT08ufwBPtzPs4KKIT8HHwOKxvPb6i6o8kvZJYXVwl8Rwz2Z/1FnE+6AmLkv23SvSrwgLe4DqS/lH1GqDEsYTVR62RHCguJqufUuHQ==;xnMqfpOWOgrM9ac6vMJGfg=="
 ---
 
