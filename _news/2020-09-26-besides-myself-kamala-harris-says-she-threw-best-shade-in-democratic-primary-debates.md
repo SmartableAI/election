@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris Brings Hollywood Cash to Biden Campaign"
+    excerpt: "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said."
+    publishedDateTime: 2020-09-24T11:47:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-235890/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Kamala Harris accidentally touts plans under a 'Harris administration' during virtual roundtable"
     excerpt: "Kamala Harris raised eyebrows on Monday evening after she accidentally touted economic plans under a \"Harris administration.\""
     publishedDateTime: 2020-09-15T04:04:22Z

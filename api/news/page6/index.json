@@ -2,34 +2,140 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-10-02-putin-will-be-trump-campaign-surrogate-while-he-quarantines-dem-sen-chris-murphy-says.md",
-      "title": "Putin will be Trump campaign 'surrogate' while he quarantines, Dem Sen. Chris Murphy says",
-      "excerpt": "Murphy says Russia has a “clear desire to try to elect President Trump to a second term.”",
+      "path": "_news/2020-10-03-white-house-says-trump-remains-fatigued-amid-reports-he-has-fever.md",
+      "title": "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever",
+      "excerpt": "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y21UlsjG3LY/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y21UlsjG3LY/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus",
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/",
+      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
+      "highlight": null,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9e60596-3e66-4c43-961c-c2d3465b8270/72404b90-658f-4350-b0df-1676b54306a0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77965b260487e5b2299495%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4475%26cropY1%3D226%26cropY2%3D2743",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus.amp",
-      "publishedDateTime": "2020-10-02T13:03:57-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/",
+      "publishedDateTime": "2020-10-02T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-trump-team-thinks-nevada-is-in-play-is-it.md",
+      "title": "Trump team thinks Nevada is in play. Is it?",
+      "excerpt": "The Trump campaign has been hitting Nevada harder than ever this election season, and they seem certain the state might be President Trump’s for the taking this November. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85pFVFkLklI/trump-team-thinks-nevada-is-in-play-is-it",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85pFVFkLklI/trump-team-thinks-nevada-is-in-play-is-it",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/donald-trump-nevada-2-AP.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp",
+      "publishedDateTime": "2020-10-02T13:04:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-trumps-campaign-may-be-more-focused-and-disciplined-without-in-person-events-karl-rove.md",
+      "title": "Trump’s campaign ‘may be more focused and disciplined’ without in-person events: Karl Rove",
+      "excerpt": "President Trump being forced to hold virtual campaign events after testing positive for coronavirus may cause him to be more \"focused and disciplined\" in his messaging, Fox News contributor Karl Rove suggested on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
+      "publishedDateTime": "2020-10-02T11:49:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -376,6 +482,61 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-no-one-wore-a-mask-during-trump-debate-prep-chris-christie-says.md",
+      "title": "No one wore a mask during Trump debate prep, Chris Christie says",
+      "excerpt": "Former N.J. Gov. Chris Christie revealed that no one in the room was wearing a mask when a small group of people gathered in the White House's map room on Monday to help prep President Trump for the first debate. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
+      "publishedDateTime": "2020-10-02T07:46:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-boris-johnson-wishes-trump-speedy-recovery-from-covid-19.md",
       "title": "Boris Johnson wishes Trump 'speedy recovery' from COVID-19",
       "excerpt": "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. ",
@@ -388,7 +549,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 355,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -596,7 +757,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1129,118 +1290,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.md",
-      "title": "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’",
-      "excerpt": "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States.",
+      "path": "_news/2020-10-01-biden-endorsed-by-more-than-120-former-gop-national-security-officials.md",
+      "title": "Biden endorsed by more than 120 former GOP national security officials",
+      "excerpt": "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7jyuoI3o2g/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 225,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
-      "publishedDateTime": "2020-10-01T12:01:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-borat-2-trailer-sacha-baron-cohen-dresses-as-trump-to-prank-mike-pence.md",
-      "title": "Borat 2 Trailer: Sacha Baron Cohen Dresses As Trump To Prank Mike Pence",
-      "excerpt": "The first trailer for the sequel to \"Borat\" dropped on Thursday and it appears Sacha Baron Cohen is up to his old tricks again.",
-      "sourceUrl": null,
-      "webUrl": "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "originalUrl": "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.toofab.com/image/5a/16by9/2020/10/01/5aaded4cdb5145c0ada0b1c570b0b3b1_xl.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "cdnAmpWebUrl": "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "publishedDateTime": "2020-10-01T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TooFab",
-        "domain": "toofab.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says.md",
-      "title": "Trump 'Will Not Accept Any Result That Is Not A Victory,' 'Atlantic' Writer Says",
-      "excerpt": "Atlantic writer Barton Gellman says the 2020 election could trigger a constitutional crisis: \"This is not going to be a normal election. ... Preserving its legitimacy is going to take extra effort.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "originalUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/01/gettyimages-1273384685_wide-e24471991c8648589f4ed71dda06062f7b5c082f.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-4.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1249,62 +1317,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-pelosi-warns-trump-aint-no-light-at-the-end-of-the-tunnel-should-election-be-decided-in-house.md",
-      "title": "Pelosi warns Trump 'ain't no light at the end of the tunnel' should election be decided in House",
-      "excerpt": "Speaker Nancy Pelosi spelled out a dire prediction for President Trump should the election come down to the House to be decided.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qb-3-3Bn6Ek/pelosi-election-outcome-no-light-for-trump-in-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qb-3-3Bn6Ek/pelosi-election-outcome-no-light-for-trump-in-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/2f2219a9-AP20268562631818.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp",
-      "publishedDateTime": "2020-10-01T10:50:02-07:00",
+      "publishedDateTime": "2020-10-01T12:04:41-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

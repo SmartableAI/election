@@ -46,6 +46,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump soldier Mike Pence faces off with an impressive Kamala Harris: Mastio and Lawrence"
+    excerpt: "Pence didn't even pretend Trump has a plan to protect insurance for people with preexisting conditions. And Harris didn't answer on 'packing the court.'"
+    publishedDateTime: 2020-10-08T04:58:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-column/5910000002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5910000002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5910000002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 166
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/054659b2-e6a2-4c75-a883-9b764a8c0ec6-harris_pence.jpg?auto=webp&crop=7000,3938,x0,y883&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Briggs: Why Donald Trump chose a Mike Pence, and not a Kamala Harris, as VP"
     excerpt: "It came as President Donald Trump tried to sort former Vice President Joe Biden into the left wing of the Democratic Party. When Biden rejected that premise, Trump altered his framing and allowed that perhaps Biden is a moderate,"
     publishedDateTime: 2020-10-07T12:46:00Z
@@ -334,6 +350,22 @@ related:
         width: 1024
         height: 703
         isCached: true
+  - title: "Mike Pence should have self-quarantined instead of debating Kamala Harris"
+    excerpt: "After all the hubbub over the plexiglass dividers placed between Vice President Pence and Democratic vice presidential nominee Sen. Kamala D. Harris (Calif.), it turned out that Pence would have been wise to duck out altogether."
+    publishedDateTime: 2020-10-08T04:00:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/mike-pence-should-have-self-quarantined-instead-debating-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/07/mike-pence-should-have-self-quarantined-instead-debating-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/07/mike-pence-should-have-self-quarantined-instead-debating-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 149
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WRGEZVQJBYI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Mike Pence vs Kamala Harris: Here's how to watch the vice presidential debate"
     excerpt: "Pence and Harris will meet for their only debate. It will be moderated by Susan Page, USA TODAY's Washington Bureau chief."
     publishedDateTime: 2020-10-07T09:17:00Z
@@ -445,6 +477,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1646992/vice-presidential-debate.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Taylor Swift backs Joe Biden and Kamala Harris in first public presidential endorsement"
+    excerpt: "\"Under their leadership, I believe America has a chance to start the healing process it so desperately needs,\" Swift said in an interview for V Magazine."
+    publishedDateTime: 2020-10-08T04:10:00Z
+    webUrl: "https://www.cbsnews.com/news/taylor-swift-joe-biden-kamala-harris-presidential-endorsement/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/taylor-swift-joe-biden-kamala-harris-presidential-endorsement/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/taylor-swift-joe-biden-kamala-harris-presidential-endorsement/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 142
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/01/24/c5ecc6b0-4568-4222-96b4-8ce82a6486c5/thumbnail/1200x630/aee0aad1a06963fdfce45e9eca24b41e/gettyimages-1170383972.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
     excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
@@ -606,6 +654,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The biggest moments from the 2020 vice presidential debate between Mike Pence and Kamala Harris"
+    excerpt: "Vice President Mike Pence and Senator Kamala Harris had some noteworthy moments until a fly stole the show."
+    publishedDateTime: 2020-10-08T03:50:00Z
+    webUrl: "https://www.businessinsider.com/biggest-moments-takeaways-vice-presidential-debate-pence-harris-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biggest-moments-takeaways-vice-presidential-debate-pence-harris-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biggest-moments-takeaways-vice-presidential-debate-pence-harris-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 138
+    images:
+      - url: "https://i.insider.com/5f7e77a5282c500018c79433?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "1st Trump-Biden Presidential Debate Was ‘Exhausting,’ 8 Things To Do To Recover"
     excerpt: "U.S. President Donald Trump began interrupting Democratic challenger and former Vice-President Joe Biden and then moderator Chris Wallace. It all went downhill from there."
     publishedDateTime: 2020-10-01T17:24:00Z
@@ -702,6 +766,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'Mr. Vice President, I'm speaking:' Takeaways from the VP debate between Mike Pence and Kamala Harris"
+    excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
+    publishedDateTime: 2020-10-08T04:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5896940002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5896940002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/0296cbe8-efeb-4ed5-95ac-85ff46138096-Salt_Lake_4.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
     excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
     publishedDateTime: 2020-10-04T00:30:00Z
@@ -733,6 +813,22 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/10/kamala-harris-mike-pence-vp-debate.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Kamala Harris Dodges Supreme Court Packing Question While Pence is Evasive on Peaceful Transfer of Power"
+    excerpt: "Harris refused to answer a question that Pence asked her about \"packing\" the Supreme Court. Later, Pence refused to say what he'd do if Trump refused to cede power."
+    publishedDateTime: 2020-10-08T03:44:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-dodges-supreme-court-packing-question-while-pence-evasive-peaceful-transfer-power-1537299"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-dodges-supreme-court-packing-question-while-pence-evasive-peaceful-transfer-power-1537299?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-dodges-supreme-court-packing-question-while-pence-evasive-peaceful-transfer-power-1537299?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1647766/kamala-harris-mike-pence-supreme-peaceful-trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Former Pence aide says there were private meetings about the possibility of Trump refusing to accept election results"
     excerpt: "Former aide to VP Mike Pence said Friday there were \"conversations behind closed doors\" about what would happen if Trump \"loses and refuses to leave.\""
@@ -1288,6 +1384,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris's facial expressions during debate go viral"
+    excerpt: "Twitter users on Wednesday had mixed reactions to Democratic vice presidential nominee Kamala Harris’s facial expressions aimed at Vice President Pence’s remarks during their debate."
+    publishedDateTime: 2020-10-08T03:17:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520124-kamala-harriss-facial-expressions-during-debate-go-viral"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520124-kamala-harriss-facial-expressions-during-debate-go-viral?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520124-kamala-harriss-facial-expressions-during-debate-go-viral?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_pencemike2_100720getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The Picture of Donald J. Trump"
     excerpt: "That would not be a picture of strength. President Trump was putting his whole soul into this shot, and it had to be perfect. He had been at the hospital minutes ago; he was still battling the coronavirus."
     publishedDateTime: 2020-10-07T21:24:00Z
@@ -1614,6 +1726,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/24/12/20005524/3/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "Election Countdown: Mike Pence-Kamala Harris debate and the fly"
+    excerpt: "Vice President Mike Pence and U.S. Sen. Kamala Harris debated Tuesday night. Unlike last week's presidential debate, this encounter didn't unravel into shouting and name calling. But it was contentious,"
+    publishedDateTime: 2020-10-08T05:06:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/08/election-countdown-mike-pence-kamala-harris-debate-and-fly/5919935002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5919935002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5919935002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/NPPP/6c982919-1a65-4965-a51e-896e9f6fd8c2-APTOPIX_Election_2020_Debate.jpg?auto=webp&crop=7246,4076,x0,y368&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Temporary contractor threw Trump mail-in ballots in trash, Pennsylvania county officials say"
     excerpt: "An incident regarding \"a small number\" of discarded mail-in ballots in Pennsylvania -- which has sparked a Department of Justice investigation and drawn the attention of President Donald Trump-- appears to be rooted in an administrative error by a temporary contractor working at the Luzerne County Elections Bureau,"
@@ -2113,6 +2241,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris and Mike Pence clash, but in a civilized way"
+    excerpt: "The vice presidential debate pitted a kinder, gentler Donald Trump against a former prosecutor turned senator. It wasn't a 'no-fly' zone."
+    publishedDateTime: 2020-10-08T05:46:00Z
+    webUrl: "https://www.freep.com/story/opinion/todaysdebate/2020/10/08/kamala-harris-mike-pence-clash-but-civilized-editorials-debates/5908331002/"
+    ampWebUrl: "https://amp.freep.com/amp/5908331002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5908331002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/5bb2fcea-566e-466f-b39e-fdb11994e396-debate2020.jpg?auto=webp&crop=931,524,x0,y45&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris v Mike Pence: Who won the VP debate?"
+    excerpt: "While that has won them plaudits from environmentalists on the left, there are voters in swing states like Pennsylvania and Ohio who might view more government regulation as a threat to their economic livelihood."
+    publishedDateTime: 2020-10-08T05:01:00Z
+    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54455637?at_campaign=64&"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54455637"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54455637"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 100
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/116C/production/_114806440_vp_debate_14_reuters.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Live Coverage: VP Mike Pence, Kamala Harris Square Off in Debate"
     excerpt: "Vice President Mike Pence faces off with Democratic vice presidential nominee Sen. Kamala Harris Wednesday night in the only vice presidential debate of the 2020 election. Follow our live coverage here starting at 9 p."
     publishedDateTime: 2020-10-07T18:41:00Z
@@ -2369,14 +2529,14 @@ related:
         isCached: true
   - title: "Joe Biden, Kamala Harris to meet with tribal leaders, small business owners in Arizona"
     excerpt: "Democrat Joe Biden and his running mate, Kamala Harris, will meet with tribal leaders and small business owners during their trip to Arizona."
-    publishedDateTime: 2020-10-08T02:24:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5910955002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5910955002"
+    publishedDateTime: 2020-10-08T04:15:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
+    ampWebUrl: "https://amp.freep.com/amp/5910955002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5910955002"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 92
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/76b27cc0-7e26-464d-83e8-b7d7c4c3eb32-AP20260030136787.jpg?auto=webp&crop=3755,2113,x0,y191&format=pjpg&width=1200"
@@ -2734,6 +2894,22 @@ related:
       - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "PHOTOS: Vice President Mike Pence and Calif. Sen. Kamala Harris meet for vice presidential debate"
+    excerpt: "Vice President Mike Pence and Calif. Sen. Kamala Harris met Wednesday for the single vice presidential debate before the Nov. 3, 2020, general election."
+    publishedDateTime: 2020-10-08T03:40:00Z
+    webUrl: "https://www.denverpost.com/2020/10/07/mike-pence-kamala-harris-vice-presidential-debate-photos/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/07/mike-pence-kamala-harris-vice-presidential-debate-photos/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/07/mike-pence-kamala-harris-vice-presidential-debate-photos/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 87
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/TDP-L-DEBATE-_ADO8563x.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Watch live: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
     excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."

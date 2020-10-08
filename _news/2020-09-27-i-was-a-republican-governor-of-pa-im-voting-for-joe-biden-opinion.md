@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Taylor Swift endorses Joe Biden"
-    excerpt: "Posted [NFA] Ten-time grammy-winning artist Taylor Swift on Wednesday endorsed Democratic presidential nominee Joe Biden and Kamala Ha"
-    publishedDateTime: 2020-10-08T01:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP2E5?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7e5ef6e4b04d445762f9e9-1602117366328?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Joe Biden to visit Grand Rapids Friday"
     excerpt: "Joe Biden will visit Grand Rapids Friday, according to his campaign. Biden plans to discuss his “Build Back Better” economic plan, according to a release. The campaign has not released additional details about when or where the stop will be held."
     publishedDateTime: 2020-09-30T23:03:00Z
@@ -120,6 +106,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
         width: 3771
         height: 2514
+        isCached: true
+  - title: "Taylor Swift endorses Joe Biden"
+    excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
+    publishedDateTime: 2020-10-08T04:37:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
+        width: 1024
+        height: 736
         isCached: true
   - title: "Reuters/Ipsos Poll Shows Biden Leading Trump in Florida; Tied in Arizona"
     excerpt: "Democratic presidential candidate Joe Biden appeared to lead President Donald Trump among likely voters in Florida and the two were locked in a tight race in Arizona, according to Reuters/Ipsos opinion polls released on Wednesday."

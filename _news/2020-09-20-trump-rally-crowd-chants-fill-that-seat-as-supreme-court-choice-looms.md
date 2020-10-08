@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp"
 type: article
 quality: 174
-heat: -1
-published: false
+heat: 274
+published: true
 
 provider:
   name: Fox News
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump: Supreme Court pick to be announced Saturday at White House"
-    excerpt: "President Trump tweeted Tuesday morning that he'll announce his choice for the Supreme Court this coming Saturday at the White House."
-    publishedDateTime: 2020-09-22T13:48:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h2T-RgvD-w0/trump-supreme-court-pick-to-be-announced-saturday-at-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-pick-to-be-announced-saturday-at-white-house.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2c51eaf2-9c26-496a-a80b-f17479d0a667/25261a6e-5290-46c7-8d0d-d702cbe69a15/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Bernie Sanders plans news conference on Trump's 'threats' to democracy"
-    excerpt: "Sen. Bernie Sanders, I-Vt., announced Wednesday he plans to hold a news conference Thursday regarding what he described as President Trump's “threats” to democracy in the presidential election."
-    publishedDateTime: 2020-09-24T10:04:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JkP10UeggR4/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy"
-    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-plans-news-conference-on-trumps-threats-to-democracy.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15ff01a1-e13b-4d7e-a7e0-bb507d82af57/f8a5555d-b256-4892-bb9c-d41e69a05a59/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Markey threatens to pack Supreme Court, abolish filibuster if Trump fills seat"
     excerpt: "A leading Democrat in the U.S. Senate came out in support of \"packing\" the U.S. Supreme Court and eliminating the Senate filibuster if Majority Leader Mitch McConnell works to confirm a potential nominee to fill the seat left by Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-19T02:09:52Z
@@ -78,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20253670026799-e1600478488486.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Trump tells 'Fox & Friends' he wanted to choose a textualist for Supreme Court"
-    excerpt: "President Donald Trump told Fox & Friends co-host Pete Hegseth that he thinks his nominee to the Supreme Court, Judge Amy Coney Barrett, will be a textualist. "
-    publishedDateTime: 2020-09-27T10:01:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AgbsZi93HyM/trump-fox-friends-amy-coney-barrett-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-fox-friends-amy-coney-barrett-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-friends-amy-coney-barrett-supreme-court.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b167b0c-6ad3-49af-a657-da79edaded76/61f20eff-373e-4a29-a410-a8d394e09a57/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Pelosi won't rule out using impeachment as option to stop Trump Supreme Court pick"
     excerpt: "House Speaker Nancy Pelosi on Sunday would not rule out impeachment as an option to stop President Trump’s Supreme Court pick from being confirmed to the bench, saying Democrats will “use every arrow in our quiver” to block the eventual nominee."
@@ -127,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump says Supreme Court list is down to 5 people, announcement coming Friday or Saturday"
-    excerpt: "President Trump on Monday said he has narrowed his list of potential Supreme Court nominees to fill the seat held by Justice Ruth Bader Ginsburg to five people and vowed to announce his pick by Friday or Saturday."
-    publishedDateTime: 2020-09-21T12:20:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7fmK37G8WBc/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-supreme-court-list-is-down-to-5-announcement-coming-friday-or-saturday.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump says Supreme Court pick will ‘most likely’ be a woman, announcement could come ‘next week’"
     excerpt: "President Trump said his nominee to replace the late Justice Ruth Bader Ginsburg would likely be a woman. "
     publishedDateTime: 2020-09-19T22:28:03Z
@@ -158,6 +94,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-NEWSLETTER-xx.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Might Win N.C., But That Doesn't Mean Tillis Will"
+    excerpt: "North Carolina is a state to watch not just for the presidential race, but for which party will control the United States Senate. Recent polling conducted on the race between Donald Trump and"
+    publishedDateTime: 2020-09-15T10:02:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/09/15/trump_might_win_nc_but_that_doesnt_mean_tillis_will_144197.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/513024_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "IchtfEyZT307UmBchPNJM9aYslh82/yuYQZkjvR0T/SSfqAFpCkRaQ8iAsFawysuE7edcAXR9x96MsrfTAvhu8tXDt/mRjqRnIKjH6QkCbgh6C0zDxCb3W5q1cwgeeKTHfE5zznhtKYUENPshXVDG+ZCwpdGOzY+H1ewE/KscBWtBWTAwXY2j3NoKZ+/972c129QokAjqhife2MG3JrQTqXVuEMwS1gKu11MWao2wN4lIRQotVHQ13eciLImeUVKLbn85pgRVCg3hp4qX7vLipkTJ2UdJ4L5jEvRRzU66rrB1Rk96Gm4TIQxnWiJaQxwXYS9/Ly6/r8dXtqROaggLnpBb8noG8LPE0Bw29l5/xY=;7b6rPwrQgQt0DdRsDbjsKQ=="

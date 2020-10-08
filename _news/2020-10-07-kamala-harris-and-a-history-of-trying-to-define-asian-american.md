@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Harris on Pence interruption: Mr. Vice President, I am speaking"
+    excerpt: "Sen. Kamala Harris hit back at Vice President Mike Pence after interrupting one of her answers about coronavirus during the only vice presidential debate of the 2020 election.\n    \n"
+    publishedDateTime: 2020-10-08T02:11:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nb498u0H4JU/kamala-harris-mike-pence-i-am-speaking-moment-dbx-2020-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/07/kamala-harris-mike-pence-i-am-speaking-moment-dbx-2020-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/07/kamala-harris-mike-pence-i-am-speaking-moment-dbx-2020-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 210
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007220124-harris-pence-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris rips Trump administration's response to coronavirus pandemic in only debate with Mike Pence"
     excerpt: "Vice President Mike Pence and California Sen. Kamala Harris will square off Wednesday in their only debate as the Trump administration reels from an outbreak of Covid-19 at the White House and erratic decisions by the commander in chief.\n    \n"
     publishedDateTime: 2020-10-08T01:59:42Z
@@ -123,6 +139,22 @@ related:
     quality: 205
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200827160803-kamala-harris-speech-0827-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "5 takeaways from the vice presidential debate between Kamala Harris and Mike Pence"
+    excerpt: "It was last week's debate, on decaf.\n    \n"
+    publishedDateTime: 2020-10-08T04:29:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/v0uyySOTykA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/harris-pence-vp-debate-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/harris-pence-vp-debate-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 204
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007215231-02-split-vp-debate-harris-pence-facing-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -235,6 +267,22 @@ related:
     quality: 179
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200819234140-kamala-harris-dnc-august-19-2020-07-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Post-debate CNN poll: Harris seen as winner in a contest that matched expectations"
+    excerpt: "More Americans said Sen. Kamala Harris did the best job in the vice presidential debate Wednesday night, according to a CNN Instant Poll of registered voters who watched.\n    \n"
+    publishedDateTime: 2020-10-08T05:27:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7zUMRLZ-a4o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/mike-pence-kamala-harris-vice-presidential-debate-poll/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/mike-pence-kamala-harris-vice-presidential-debate-poll/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007201720-08-vp-debate-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -365,6 +413,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417889/201006-vp-debate-everything-know-main-cover-cs_4c3712a0043ec4dad00335f2647e93c0.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Vice presidential debate highlights between Pence and Harris"
+    excerpt: "Watch highlights from the 2020 vice presidential debate as Mike Pence and Kamala Harris face off on coronavirus, climate change and more."
+    publishedDateTime: 2020-10-08T05:13:00Z
+    webUrl: "https://www.nbcnews.com/video/vice-presidential-debate-highlights-between-pence-and-harris-93406277923"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93406277923"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93406277923"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/vp_mash_thumb.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Mike Pence and Kamala Harris reflect America's demographic transformation"
     excerpt: "The two vice presidential contenders who will share the stage Wednesday embody an evolution in the country over the last half-century."
@@ -655,6 +719,24 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 63
+  - title: "Voters Deserve More Than the Non-Answers Kamala Harris Gave Them"
+    excerpt: "If the Democrats want to run as the antidote to Trump, they can start by telling us the truth—and answering some basic questions. Tonight, Harris failed to do that."
+    publishedDateTime: 2020-10-08T04:25:00Z
+    webUrl: "https://www.thedailybeast.com/voters-deserve-more-than-the-non-answers-kamala-harris-gave-them"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "Maya Rudolph Reveals Goal of Her SNL Kamala Harris After VP Debate: I Need to ‘Make Sure She Wins’"
+    excerpt: "Live” star dished to Jimmy Fallon about her impression of the California senator following the vice presidential debate between her and Mike Pence."
+    publishedDateTime: 2020-10-08T05:09:00Z
+    webUrl: "https://www.thedailybeast.com/maya-rudolph-reveals-goal-of-her-snl-kamala-harris-after-vp-debate-i-need-to-make-sure-she-wins"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 31
 
 secured: "WthRh+tJ05rjGlL3VGvRarPv3VkuU4W7dLfSoJtDADR0l1vmdaENj0JdHcXySErauAaYLVBqvaSzWiHJbVHlnXwmerR8OSM0mqjhDzPRbWquSMSxMM/1uDdIyDYyXgYt3TD9WkWJOhDpUIySxEkItAOQlGM4/EpmCV0K3bF5gAyCCDOpxi00m62PSS1COc1LRnNfa488UFPz/tITpuSQ2+iKPLzl7q+ET8XfQayK2Ulgwza2VT/HLXqJwdOsp9TmRcwFO3Z/Jl6rmovhLzkj6GusvYOjaNigFZ1/ClL4f3Bhedabc/8NiEEMUE0yGyraBvFwdWhMX3TyGxrhh0p7sAr21DMfK7YDyjOYEQhN85ab9ZfASKpqx3YwTgOB8XOvvL/M34TrJbCLsdQQeSVCfBd33z5rkuWiCCdRw/dYIo9KiVb0oOvtS7+mlN3/mikEjD8LNJ2Jt9IywQQINMVV22sM9DRyPFIpKIvchBtxBEoBEzhcCsfWAIgttFWkuwcY+cbZl7DrRzFDEe5341iJRw==;5+hs0kpq+s9SbFsHTraaqQ=="
 ---

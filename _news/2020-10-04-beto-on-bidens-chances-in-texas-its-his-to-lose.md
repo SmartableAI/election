@@ -31,86 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Sanders to host socially distant rally for Biden in New Hampshire"
-    excerpt: "Bernie Sanders will hold a socially distanced rally for Democratic nominee Joe Biden in New Hampshire on Saturday, the Biden campaign announced. "
-    publishedDateTime: 2020-10-02T21:16:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WKW8nWOI1bQ/sanders-distant-rally-biden-new-hampshire"
-    ampWebUrl: "https://www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-distant-rally-biden-new-hampshire.amp"
+  - title: "Biden downplays ties to Bernie Sanders policies in general election despite unity platform"
+    excerpt: "With November's presidential election only weeks away, Democratic presidential nominee Joe Biden has begun to pivot toward the more moderate wing of his party while steadily downplaying his ties to Sen. Bernie Sanders and the Vermont independent's policies despite the “unity platform” the Democratic"
+    publishedDateTime: 2020-10-06T23:50:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpFcdnBAmoA/biden-downplays-ties-bernie-sanders-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 180
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Sanders-4.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20280655277053.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
+    excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
+    publishedDateTime: 2020-09-30T01:51:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5dxXvOBdIu4/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79e49bf7-b944-49eb-905b-4594b0fa8bc0/19832c56-70c3-4add-a268-662177528c18/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden distances himself from ‘socialists’ during NBC News town hall"
-    excerpt: ""
-    publishedDateTime: 2020-10-06T08:43:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4PEaQg82td4/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-distances-himself-from-socialists-during-nbc-news-town-hall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Joe Biden’s ObamaCare Tax Avoidance"
-    excerpt: "In 2019 he and his wife legally dodged payroll levies on $228,703 in income."
-    publishedDateTime: 2020-09-30T22:53:00Z
-    webUrl: "https://www.wsj.com/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-bidens-obamacare-tax-avoidance-11601488381"
+  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
+    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
+    publishedDateTime: 2020-10-04T23:47:00Z
+    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-238687/social"
+      - url: "https://images.wsj.net/im-240436/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Enough With Fraudulent Biden 'Town Halls'"
-    excerpt: "Beware the carefully scripted puffball \"town halls\" that have been organized by CNN and NBC to help Joe Biden's campaign. As Biden makes a virtue out of having tiny, underpopulated"
-    publishedDateTime: 2020-10-07T04:01:00Z
-    webUrl: "https://townhall.com/columnists/timgraham/2020/10/07/enough-with-fraudulent-biden-town-halls-n2577582"
-    ampWebUrl: "https://townhall.com/columnists/timgraham/2020/10/07/enough-with-fraudulent-biden-town-halls-n2577582?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/timgraham/2020/10/07/enough-with-fraudulent-biden-town-halls-n2577582?amp=true"
+  - title: "There is no pro-life case for Biden"
+    excerpt: "During his NBC town hall on Monday, Joe Biden reiterated his unyielding support for abortion on demand, putting to rest the idea that there is a pro-life case to vote for Biden."
+    publishedDateTime: 2020-10-06T17:53:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters"
-    excerpt: "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church"
-    publishedDateTime: 2020-10-01T17:10:00Z
-    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289"
-    ampWebUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 80
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
-        width: 650
-        height: 340
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "7zfhO1PhrKFI4+Z83jvJFOufwlriQEfl3R2xMl8tqNT3am3wCSvVoMVJUOWVqbVHgIcEmvMpi5nGT9L0MXt/JjyxCsDGDktkdjXPyOyVFdgjrA+vg19dbDeJdIeF1E+aTY7MTLFmULscYZdNRWSeguHYF8toGmc/PXfeM9S8OwIL5Av0M514hlij8bjzFvZjG1e7ugFU/ct0gYkVFnHzBXHyY7UHKGfR/csJxkqo15ysyzMivYv+Fq/OUJNc1c7WyWt33jFrgi/l+x22TZL1fJXz8QColtrWFrdlpofEisxa9bLrENq5TLGo6C6q1hlZm3gJtCGb5XscrIQZM1KpYz0cWp8fS4++ML57Ven8hTI=;mz8Ns5tcYZO5FfGrq9FS1Q=="
 ---

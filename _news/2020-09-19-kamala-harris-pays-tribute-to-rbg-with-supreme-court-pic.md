@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-tribute-rgb-supreme-court.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tribute-rgb-supreme-court.amp"
 type: article
 quality: 160
-heat: 480
+heat: 500
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d539c59-bfa2-41d6-8f8d-7304216859f5/6caa7c64-5374-4cdb-b548-906493f1486a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris Brings Hollywood Cash to Biden Campaign"
+    excerpt: "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said."
+    publishedDateTime: 2020-09-24T11:47:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-235890/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Kamala Harris accidentally touts plans under a 'Harris administration' during virtual roundtable"
     excerpt: "Kamala Harris raised eyebrows on Monday evening after she accidentally touted economic plans under a \"Harris administration.\""

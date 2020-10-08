@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Ivanka Trump, Pence to visit Minneapolis, lead law-and-order charge"
-    excerpt: "Ivanka Trump and Mike Pence are scheduled to visit Minneapolis on Thursday to promote President Trump's law-and-order message."
-    publishedDateTime: 2020-09-24T15:51:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8yj2Ti6dMhk/ivanka-trump-pence-minneapolis-law-order"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-pence-minneapolis-law-order.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/AP20192643706569.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Trump campaign promises to nominate a woman to fill Supreme Court vacancy"
     excerpt: "President Trump's 2020 campaign released a statement Sunday, saying the commander-in-chief will nominate a woman to fill the vacant Supreme Court seat left open following the death of Justice Ruth Bader Ginsburg. "
     publishedDateTime: 2020-09-20T19:25:33Z

@@ -31,51 +31,115 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign cancels Ohio, Iowa TV ads amid optimism over swing state election chances"
-    excerpt: "“President Trump and his campaign are extremely confident about our chances in these states,” a Trump campaign spokeswoman said."
-    publishedDateTime: 2020-10-07T19:39:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7wRtyKXITsc/trump-cancels-ohio-iowa-tv-ads"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp"
+  - title: "Pence to maintain 'aggressive schedule' as Trump remains in hospital, campaign adviser says"
+    excerpt: "A senior Trump campaign adviser said on Sunday that Vice President Mike Pence will maintain “a very full aggressive schedule” while the president is being treated in the hospital for COVID-19."
+    publishedDateTime: 2020-10-04T20:15:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQeLpeCdLwo/pence-maintain-aggressive-campaign-schedule-trump-hospital"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 181
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29bfe935-daa8-4470-8854-e86a54083904/73b2af23-e387-4c77-bfc9-a57bce52aa82/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275781881586.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Ohio Dem backs Trump after history of feuds with her party"
-    excerpt: "Democratic Ohio state Rep. Bernadine Kennedy Kent endorsed President Trump on Tuesday after a history of feuding with Ohio Democrats."
-    publishedDateTime: 2020-09-30T15:30:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KlPJnhfEkQs/ohio-dem-backs-trump-after-history-party-feuds"
-    ampWebUrl: "https://www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds.amp"
+  - title: "The Trump show goes into reruns"
+    excerpt: "Will voters want to hit pause?"
+    publishedDateTime: 2020-10-06T19:17:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jdoY_ayPzBU/the-trump-show-goes-into-reruns"
+    ampWebUrl: "https://www.foxnews.com/politics/the-trump-show-goes-into-reruns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-trump-show-goes-into-reruns.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/db4210bf-8b0d-46c7-9cdd-da299ddc0cdf/3d2bbdb7-c69a-4e2e-9c66-c483d52aa989/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump canceling ads in key Midwest battlegrounds, moving money south"
-    excerpt: "President Trump’s cutting back on campaign commercials in some of the key midwestern battlegrounds that helped him win the White House four years ago – and shifting resources to a bunch of crucial swing states further south."
-    publishedDateTime: 2020-10-08T00:52:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0FqAem_ACkA/trump-canceling-ads-midwest-moving-money-south"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-canceling-ads-midwest-moving-money-south.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-canceling-ads-midwest-moving-money-south.amp"
+  - title: "Trump campaign senior adviser Steve Cortes says Trump 'upbeat and assertive' after coronavirus diagnosis"
+    excerpt: "The president was flown to Walter Reed National Military Medical Center on Friday after testing positive for the coronavirus overnight Thursday into Friday."
+    publishedDateTime: 2020-10-04T13:16:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajY4TaizzNY/campaign-steve-cortes-fox-news-sunday-trump-walter-reed-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/campaign-steve-cortes-fox-news-sunday-trump-walter-reed-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/campaign-steve-cortes-fox-news-sunday-trump-walter-reed-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump coronavirus adviser Atlas fires back against Redfield criticisms, says advice based on 'current science'"
+    excerpt: "EXCLUSIVE: Special Adviser to President Trump Dr. Scott Atlas fired back at criticisms leveled against him and his role on the Coronavirus Task Force on Monday, defending his record and expertise while maintaining that his advice to the president is based on the current science."
+    publishedDateTime: 2020-09-28T19:41:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/06cH5nnVpj0/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-coronavirus-adviser-atlas-fires-back-against-redfield-criticisms-says-advice-to-trump-based-on-current-science.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Pence to maintain 'aggressive schedule' as Trump remains in hospital, campaign adviser says"
+    excerpt: "A senior Trump campaign adviser said on Sunday that Vice President Mike Pence will maintain “a very full aggressive schedule” while the president is being treated in the hospital for COVID-19."
+    publishedDateTime: 2020-10-04T20:20:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275781881586.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Spicer: Trump campaign 'will move forward' while president in hospital"
+    excerpt: "That was what we all watched together just moments ago, a site that you don't see very often, the President of the United States, leaving the White House and heading to the hospital. He'll check in there for a few days."
+    publishedDateTime: 2020-10-07T08:02:00Z
+    webUrl: "https://www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital"
+    ampWebUrl: "https://www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e5b36b2-2c59-4c4f-a6c0-da5896cc36ec/be05a75b-087d-4600-a13a-8d5b7085cd1f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Trump show goes into reruns"
+    excerpt: "President Trump has at various times in the country’s long, punishing struggle with coronavirus tried to present himself as a wartime leader. If you are a Trump supporter, this sounds like pretty good stuff."
+    publishedDateTime: 2020-10-06T19:27:00Z
+    webUrl: "https://www.foxnews.com/politics/the-trump-show-goes-into-reruns"
+    ampWebUrl: "https://www.foxnews.com/politics/the-trump-show-goes-into-reruns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/the-trump-show-goes-into-reruns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b13bccd9-2942-400c-9951-17b27e20aca4/ada37a4f-0571-4012-a856-9136565c6c38/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

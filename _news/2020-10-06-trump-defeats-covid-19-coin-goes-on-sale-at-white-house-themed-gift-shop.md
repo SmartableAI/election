@@ -63,22 +63,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Bill Clinton wishes Trump well after COVID diagnosis"
-    excerpt: "Former President Bill Clinton and 2016 Democratic nominee Hillary Clinton wished President Trump and Melania Trump well after they tested positive for COVID-19."
-    publishedDateTime: 2020-10-03T16:17:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kXEvtpc879A/bill-clinton-trump-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-clinton-trump-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-clinton-trump-covid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f6490f9-508e-415a-9a5f-23cb6055413a/c8dc9900-c39d-457d-b6c0-d5c8a7c5f362/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Trump praises staff at Walter Reed, says he is 'feeling well' as he fights COVID-19"
     excerpt: "President Trump on Saturday praised the staff at Walter Reed National Military Medical Center, and said he is \"feeling well,\" a day after he was transferred to the center after testing positive for COVID-19."
     publishedDateTime: 2020-10-03T17:29:09Z
@@ -159,15 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Ron Johnson's 'Big Idea': Don't stop investigating Trump-Russia probe 'until we have uncovered the truth'"
-    excerpt: "The Big Idea is a series that asks top lawmakers and figures to discuss their moonshot – what’s the one proposal, if politics and polls and even price tag were not an issue, they’d implement to change the country for the better? "
-    publishedDateTime: 2020-10-03T11:51:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ESbV59rfqcA/ron-johnsons-big-idea-continue-investigating-trump-russia-probe-until-we-have-uncovered-the-truth"
+  - title: "Trump campaign keeping at ‘full speed’ as president fights COVID-19"
+    excerpt: "The campaign is launching \"Operation MAGA,\" which features virtual events ahead of the VP debate, and resumes in-person events with Pence, members of Trump family."
+    publishedDateTime: 2020-10-03T19:44:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 118
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bcfbf85-4fee-4d63-a075-4a07d3b0cf37/01fcde80-46af-4c80-8839-34cfe61ac6bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "R7+O0X8F/EIAYB6J98sc8fMh5qNwrjCHLiHWwODv8wDTzqFs/BnvnpG+0d5IPVdfG1qyGRsaEO9MJeXUayubkC/BKjr335dgC50WEuMb0VDrV6L9ZQgd/KXAch6RgzVxkKDLhIZhk4B1OI4GTFhPEqjTbYYFFv7z2ux1swZ5bLE/OqvjKY0qfICsjXRwe5nD0YwQom/PeOgZ93PQjqkyImlnM5TMyRJvnV276j3S7fbEQzIBnwdDkBkUIhE1TwpHhM+lMucVTfLsVMwOzM2+jPqPHSo1sXi9z1EYJvjKpRYBZffs0OHkcuAV5WowQ21JuKjzjAmX5M79U8axPH75w+tbBrmcG26q7NioytTXazc=;LBaOnrNa0MxOp4Yr56/irA=="
 ---

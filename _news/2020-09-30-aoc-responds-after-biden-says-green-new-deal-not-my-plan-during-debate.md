@@ -64,6 +64,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's wife pulls Dem nominee away from reporters in social-distancing reminder"
+    excerpt: "2020 presidential candidate Joe Biden's wife Jill, had to pull him away from a group of reporters on Monday, in an effort to maintain social distancing in the lead up to November's election. "
+    publishedDateTime: 2020-10-06T01:50:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbF_muffj5c/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder"
+    ampWebUrl: "https://www.foxnews.com/politics/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ill-biden-has-to-physically-pull-joe-away-from-reporters-in-social-distancing-reminder.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a89bf11-2e28-454f-95eb-ba332598ae37/c4318333-5578-4fa3-b85c-5fc881cbef9e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing"
     excerpt: "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why."
     publishedDateTime: 2020-09-23T07:03:08Z
@@ -78,21 +94,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
-    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
-    publishedDateTime: 2020-10-04T23:47:00Z
-    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+  - title: "Biden Couldn't Name Support From a Single Law Enforcement Group"
+    excerpt: "After months of rioting, looting, and unrest in streets across America, President Trump has positioned himself as the law and order candidate. Only recently did Democrats start caring and speaking"
+    publishedDateTime: 2020-09-30T12:15:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/09/30/biden-law-enforcementantifa-n2577188?amp=true"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Townhall
+      domain: townhall.com
+    quality: 85
     images:
-      - url: "https://images.wsj.net/im-240436/social"
-        width: 1280
-        height: 640
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/ed2b43e7-9d41-4017-bb0d-1916ec16d4b7.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Joe Biden, the Father of 'Borking'"
     excerpt: "RealClearPolitics"

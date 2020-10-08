@@ -2,6 +2,113 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-07-is-joy-reid-hoping-that-president-trump-dies-it-sure-seems-like-it-curtis-houck-wrote.md",
+      "title": "'Is Joy Reid hoping that President Trump dies? It sure seems like it,' Curtis Houck wrote",
+      "excerpt": "MSNBC host Joy Reid said President Trump looks like a “very sick elderly man” and was accused of hoping he dies from coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/05/13/694940094001_6036228258001_6036224895001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
+      "publishedDateTime": "2020-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-joe-biden-should-stop-ducking-the-court-packing-issue.md",
+      "title": "Joe Biden should stop ducking the court-packing issue",
+      "excerpt": "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
+      "originalUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
+      "publishedDateTime": "2020-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-mike-pence-reluctantly-agrees-to-plexiglass-barriers-in-tonights-vp-debate.md",
       "title": "Mike Pence reluctantly agrees to plexiglass barriers in tonight’s V.P. debate.",
       "excerpt": "From \"The Daily 202\" podcast: the Commission on Presidential Debates said the vice president dropped his objections to a plexiglass barricade on his side of the stage for today’s debate after viewing the setup during a walk-through of the debate hall.",
@@ -53,62 +160,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-scott-walker-on-helping-vp-prepare-for-debate-pence-will-do-a-fabulous-job.md",
-      "title": "Scott Walker on helping VP prepare for debate: Pence will do 'a fabulous job'",
-      "excerpt": "Americans will see a “calm” yet “emotional and aggressive” vice president at Wednesday’s debate between Vice President Mike Pence and Sen. Kamala Harris, D-Calif., former Wisconsin Gov. Scott Walker, who has been helping Pence prepare for the big night, told “Fox & Friends.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zhZutCNl0WE/scott-walker-pence-debate-prep",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zhZutCNl0WE/scott-walker-pence-debate-prep",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scott-walker-pence-debate-prep.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scott-walker-pence-debate-prep.amp",
-      "publishedDateTime": "2020-10-07T05:27:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-sen-cotton-calls-out-obama-biden-admin-clinton-on-russia-collusion-hoax.md",
       "title": "Sen. Cotton calls out Obama-Biden admin, Clinton on Russia collusion hoax",
       "excerpt": "The declassification of former CIA director John Brennan's notes proves Hillary Clinton colluded with foreign entities to inject disinformation into the 2016 campaign, Sen. Tom Cotton, R-Ark., told \"Fox & Friends\" Wednesday.",
@@ -121,7 +172,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 294,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -428,62 +479,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-pence-will-come-under-extreme-pressure-over-covid-19-response-in-vp-debate-pollster-predicts.md",
-      "title": "Pence will come 'under extreme pressure' over COVID-19 response in VP debate, pollster predicts",
-      "excerpt": "Vice President Mike Pence will be under \"extreme pressure to answer tough questions\" during Wednesday's vice presidential debate about the Trump administration's response to the coronavirus pandemic, Fox News contributor Kristen Soltis Anderson told the \"Fox News Rundown\" podcast.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GphQUBwldKE/vice-presidential-debate-preview-pence-harris",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GphQUBwldKE/vice-presidential-debate-preview-pence-harris",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/KAMALA-HARRIS-pence-AP.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T03:09:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-column-upon-his-release-from-hospital-president-trump-is-denounced-as-a-heretic-by-media-high-priests.md",
       "title": "Column: Upon his release from hospital, President Trump is denounced as a heretic by media high priests",
       "excerpt": "Estimates released in September show a death rate that is low across the board, especially among the young and healthy, but the drumbeat in politics and media has been all about fear. The high priests of the Washington establishment media who have thrown their lot in with the Democratic Party and Joe Biden for the 2020 campaign were outraged by Trump.",
@@ -693,62 +688,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-spicer-trump-campaign-will-move-forward-while-president-in-hospital.md",
-      "title": "Spicer: Trump campaign 'will move forward' while president in hospital",
-      "excerpt": "That was what we all watched together just moments ago, a site that you don't see very often, the President of the United States, leaving the White House and heading to the hospital. He'll check in there for a few days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital",
-      "originalUrl": "https://www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e5b36b2-2c59-4c4f-a6c0-da5896cc36ec/be05a75b-087d-4600-a13a-8d5b7085cd1f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/spicer-trump-campaign-will-move-forward-while-president-in-hospital.amp",
-      "publishedDateTime": "2020-10-07T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-07-mike-pence-brought-conservatives-home-what-if-they-dont-need-him-anymore.md",
       "title": "Mike Pence Brought Conservatives Home. What If They Don’t Need Him Anymore?",
       "excerpt": "Evangelical Christians were drawn to the vice president because he shared their values. But Trump’s style has made defiance of political norms, not a Pence specialty, seem appealing.",
@@ -802,6 +741,61 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.md",
+      "title": "'Spygate' author Bongino cheers Trump declassification move while awaiting surgery",
+      "excerpt": "Dan Bongino has lived Russiagate for nearly four years, but he learned of President Trump’s sweeping order to declassify relevant documents on the eve of an event even more serious and personal to him.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbsKA6TtQ_M/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbsKA6TtQ_M/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/d0a5d77d-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp",
+      "publishedDateTime": "2020-10-06T20:32:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -872,7 +866,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -943,6 +937,61 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-06T17:26:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-biden-downplays-ties-to-bernie-sanders-policies-in-general-election-despite-unity-platform.md",
+      "title": "Biden downplays ties to Bernie Sanders policies in general election despite unity platform",
+      "excerpt": "With November's presidential election only weeks away, Democratic presidential nominee Joe Biden has begun to pivot toward the more moderate wing of his party while steadily downplaying his ties to Sen. Bernie Sanders and the Vermont independent's policies despite the “unity platform” the Democratic",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpFcdnBAmoA/biden-downplays-ties-bernie-sanders-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpFcdnBAmoA/biden-downplays-ties-bernie-sanders-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20280655277053.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp",
+      "publishedDateTime": "2020-10-06T16:50:51-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1289,61 +1338,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-the-point-donald-trump-dealmaker-not-so-much.md",
-      "title": "The Point: Donald Trump, dealmaker? Not so much.",
-      "excerpt": "Donald Trump came to the White House promising that he would make deals the likes of which the country and the world never seen.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kSUtTtkHQ4c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kSUtTtkHQ4c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005190645-trump-arrives-white-house-1005-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html",
-      "publishedDateTime": "2020-10-06T15:07:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

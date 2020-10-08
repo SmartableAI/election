@@ -26,65 +26,22 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Could California’s policies work on a federal scale under a Biden-Harris administration?"
-    excerpt: "California has long been known for its push toward more progressive policies, many of which now form the basis of the Joe Biden-Kamala Harris presidential ticket. But whether or not such proposals have been successful – and whether California should be lauded as a model, is subject to debate."
-    publishedDateTime: 2020-09-30T13:30:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eum3nk0zFTk/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration"
-    ampWebUrl: "https://www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-californias-policies-work-on-a-federal-scale-under-a-biden-harris-administration.amp"
+  - title: "Biden-Schumer-Pelosi would do more damage in 2 years than Obama did in 8: Ted Cruz"
+    excerpt: "A “Biden-Schumer-Pelosi government” would be a “nightmare,” Sen. Ted Cruz, R-Texas, said on Thursday as he encouraged Republicans to vote in the upcoming elections.  "
+    publishedDateTime: 2020-10-01T17:22:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 191
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/holliemckay_headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Kamala Harris Brings Hollywood Cash to Biden Campaign"
-    excerpt: "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said."
-    publishedDateTime: 2020-09-24T11:47:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-235890/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Dwayne 'The Rock' Johnson endorses Joe Biden, Kamala Harris – his first public political backing"
-    excerpt: "Dwayne “The Rock” Johnson endorsed former Vice President Joe Biden and Sen. Kamala Harris, marking the first time he’s ever publicly thrown his weight behind a political candidate."
-    publishedDateTime: 2020-09-27T13:58:00Z
-    webUrl: "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing"
-    ampWebUrl: "https://www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/dwayne-the-rock-johnson-endorses-joe-biden-kamala-harris-marking-first-public-political-backing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/dwayne-the-rock-johnson-getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "There is no pro-life case for Biden"
-    excerpt: "During his NBC town hall on Monday, Joe Biden reiterated his unyielding support for abortion on demand, putting to rest the idea that there is a pro-life case to vote for Biden."
-    publishedDateTime: 2020-10-06T17:53:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
 
 secured: "BuYC+3/SHcJiNJmJt2e02px6bzVP+sTbXtSXy5lvx4YEhLdLYMjyJwHmizCRmN8C+zO0xg7bljYA6kGkjeOqEmxPtHINY3niyym4SQBieX8GwDKgibD0AM37THeoTHqIA+cnSELAiwvEwWSTYiPgL/cf3epk9bMrgNKJfeWiIsxpfV2n0w/XDXewTWAC6OPGWiwMD7npemvuofD32WkyaxAlG6c0roigiioCJFvVNYfApFijKw7EAvnlUrDenypNmEunRbRPNzby7ca4i0J+iiLu4+UR7ThBrOEA7kdqPfGaViNRXDWeSvLVDy5eOYDnWryrl4k2CdpbW1lQ7AzC1+4mvQNdDS3ohBHWPRsBIeUwG1p0z+/R0MJX3tdv5WNLih9Kw4g0eop5DhG8miJUjpx/kr+tQl3aDTPO9Qkc0M+7RGHZe67Vt3avCMMoeiJVsyRcGkCHsACVQndSLkdw+5T1BCzaT2Jodx70FQW7BVBPJ6AFFWYvZOSm+FVAh+3JJNZbS1owvZG1+TmSiTG3Yw==;05RtjmKLEDGkYP9dZDxDsQ=="
 ---

@@ -31,70 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says he'll begin prepping for debate ‘really heavily’ on Thursday"
-    excerpt: "Democratic presidential nominee Joe Biden said on Wednesday that he’s begun to prepare for next week’s presidential debate, but that more intense preparation begins on Thursday."
-    publishedDateTime: 2020-09-23T15:22:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rc2pWQlOyXg/biden-debate-prep-heavily-thursday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
+  - title: "Biden downplays ties to Bernie Sanders policies in general election despite unity platform"
+    excerpt: "With November's presidential election only weeks away, Democratic presidential nominee Joe Biden has begun to pivot toward the more moderate wing of his party while steadily downplaying his ties to Sen. Bernie Sanders and the Vermont independent's policies despite the “unity platform” the Democratic"
+    publishedDateTime: 2020-10-06T23:50:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpFcdnBAmoA/biden-downplays-ties-bernie-sanders-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20280655277053.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Beto on Biden's chances in Texas: It's his to lose"
+    excerpt: "Former Texas Rep. Beto O’Rourke believes that Democratic presidential nominee Joe Biden can win Texas’ 38 electoral votes this November – a move that would mark a drastic change for a state once considered firmly in the hands of the Republican Party."
+    publishedDateTime: 2020-10-04T22:46:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pLkDpKGaTTM/beto-on-bidens-chances-in-texas-its-his-to-lose"
+    ampWebUrl: "https://www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden says he'll begin prepping for debate ‘really heavily’ on Thursday"
-    excerpt: "Democratic presidential nominee Joe Biden said on Wednesday that he’s begun to prepare for next week’s presidential debate, but that more intense preparation begins on Thursday."
-    publishedDateTime: 2020-09-25T01:08:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-prep-heavily-thursday.amp"
+  - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
+    excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
+    publishedDateTime: 2020-10-04T23:47:00Z
+    webUrl: "https://www.wsj.com/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-cynicism-of-joe-bidens-minimum-wage-politics-11601843018"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/110422eb-4f54-44bd-8014-d61033f645fc/dfbe803d-bae5-42b9-84a9-4dc09a997e44/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-240436/social"
         width: 1280
-        height: 720
+        height: 640
         isCached: true
-  - title: "Keeping a Lid on Things: Joe Biden Once Again Called It A Day Before 10 AM Yesterday"
-    excerpt: "What is Joe Biden doing? I will keep asking this question because the 2020 election cycle just got hit with a nuke with the passing of Justice Ruth Bader Ginsburg—and"
-    publishedDateTime: 2020-09-27T07:10:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/27/keeping-a-lid-on-things-joe-biden-once-again-called-it-a-day-before-10-am-yesterday-n2577014"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/27/keeping-a-lid-on-things-joe-biden-once-again-called-it-a-day-before-10-am-yesterday-n2577014?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/27/keeping-a-lid-on-things-joe-biden-once-again-called-it-a-day-before-10-am-yesterday-n2577014?amp=true"
+  - title: "There is no pro-life case for Biden"
+    excerpt: "During his NBC town hall on Monday, Joe Biden reiterated his unyielding support for abortion on demand, putting to rest the idea that there is a pro-life case to vote for Biden."
+    publishedDateTime: 2020-10-06T17:53:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 78
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/41c8d6b9-9c0d-4269-8644-a02f7a4d4128.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "This Is Probably Why Joe Biden Called It A Day Before 10 AM Yesterday...And Hunter Might Be the Reason."
-    excerpt: "It happened again. Cortney wrote about it yesterday. Joe Biden called it a day before 10 AM. Less than 45 days from Election Day, with a Supreme Court fight about"
-    publishedDateTime: 2020-09-25T10:00:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/09/25/this-is-probably-why-joe-biden-called-it-a-day-before-10-am-yesterdayand-hunter-might-be-the-reason-n2576896?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 69
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/252/61d5387e-6648-485a-b140-a23700adc812.jpg"
-        width: 650
-        height: 340
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "Lye3aL3uc4erj66DngZEwnjb1WOYx6tGqYRuNZSFVMj5zziLfkAt0KbB35KhAHYp5DROv245Ts+5Ce7IAYuHkaxAQZYc4BJp8c+8DwgGCNWA2WcYXiERdaJoSL/TZzJzfTwzNJUX6DoN6BPU3nC3ceF2iSYrwWsdEoyp66AWtZoEJAtUmmiIaBuhOjT4+Z64KxNSFZm2kMyn1U5hLuamu3Quqg2++4ZD74by9G4LjHsV9MwTkiE0Syshw5I6YNHKgAXiv5uK61p9NMJmBxsgmLBSoHl8IoOf/whjSPWF4C8zFi96dn5BNm7Oy69RFmDtFtj6rmzlodK52K+bD8z6tUTUyBg6EmxMskLaFTdc0Sg=;4E9bhTXgOHYXLKX9Q4K5tg=="
 ---

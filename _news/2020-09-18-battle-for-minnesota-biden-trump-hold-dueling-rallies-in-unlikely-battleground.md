@@ -127,6 +127,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
+    excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people.” "
+    publishedDateTime: 2020-09-17T23:27:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ta0oBfwy4aM/pence-adviser-trump-coronavirus-response"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden calls Trump a ‘climate arsonist’ who ‘won’t take responsibility’ for wildfires"
     excerpt: "Democratic presidential nominee Joe Biden accused President Trump of being “a climate arsonist” and charged that if the president wins another four years in the White House, the wildfires raging in the western U.S. will become more “devastating and more deadly.”"
     publishedDateTime: 2020-09-14T20:34:55Z
@@ -318,6 +334,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/donald-trump-14.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Former Pence adviser will vote for Biden, says Trump botched coronavirus response"
+    excerpt: "A former adviser to Vice President Mike Pence who served on the coronavirus task force said President Trump once said coronavirus might be a good thing because he wouldn’t have to shake hands with “disgusting people."
+    publishedDateTime: 2020-09-17T23:37:00Z
+    webUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response"
+    ampWebUrl: "https://www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-trump-coronavirus-response.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/AP20143647290594.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Joe Biden and Mike Pence greet each other at 9/11 ceremony"
     excerpt: "Democratic presidential nominee Joe Biden and Vice President Mike Pence shared an elbow bump Friday at the annual 9/11 memorial ceremony in NYC."

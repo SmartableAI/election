@@ -2,34 +2,34 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-04-white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.md",
-      "title": "White House gives New Jersey officials list of at least 206 people who attended Trump fundraiser",
-      "excerpt": "The White House has supplied the New Jersey Department of Health with the names of more than 200 individuals who attended a fundraiser last week just hours before President Trump announced that he had contracted COVID-19.",
+      "path": "_news/2020-10-05-who-is-dr-sean-conley-president-trumps-physician.md",
+      "title": "Who is Dr. Sean Conley, President Trump's physician?",
+      "excerpt": "Conley, an officer in the U.S. Navy, earned his B.S. from the University of Notre Dame in 2002, according to his LinkedIn. He earned his D.O. from the Philadelphia College of Osteopathic Medicine and is an experienced emergency physician.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GXF3Zbs2eps/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GXF3Zbs2eps/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoZbwOiSh2M/sean-conley-walter-reed-osteopathic-medicine",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BoZbwOiSh2M/sean-conley-walter-reed-osteopathic-medicine",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 162,
+      "heat": 195,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20278602412679-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp",
-      "publishedDateTime": "2020-10-04T13:38:01-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/sean-conley-walter-reed-osteopathic-medicine.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sean-conley-walter-reed-osteopathic-medicine.amp",
+      "publishedDateTime": "2020-10-05T09:01:46-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,6 +54,117 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-biden-visits-miamis-little-havana-haiti-ahead-of-national-town-hall-from-key-swing-state-of-florida.md",
+      "title": "Biden visits Miami's Little Havana, Haiti ahead of national town hall from key swing state of Florida",
+      "excerpt": "Democratic presidential candidate Joe Biden is expected to visit Miami’s Little Havana and Little Haiti ahead of a televised town hall Monday, as the former vice president returns to the critical swing state of Florida in the final homestretch of his election campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N0-nubYj1og/biden-miami-town-hall-little-havana-haiti",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N0-nubYj1og/biden-miami-town-hall-little-havana-haiti",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-miami-town-hall-little-havana-haiti.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-miami-town-hall-little-havana-haiti.amp",
+      "publishedDateTime": "2020-10-05T06:12:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-pence-to-maintain-aggressive-schedule-as-trump-remains-in-hospital-campaign-adviser-says.md",
+      "title": "Pence to maintain 'aggressive schedule' as Trump remains in hospital, campaign adviser says",
+      "excerpt": "A senior Trump campaign adviser said on Sunday that Vice President Mike Pence will maintain “a very full aggressive schedule” while the president is being treated in the hospital for COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQeLpeCdLwo/pence-maintain-aggressive-campaign-schedule-trump-hospital",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AQeLpeCdLwo/pence-maintain-aggressive-campaign-schedule-trump-hospital",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 330,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20275781881586.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-maintain-aggressive-campaign-schedule-trump-hospital.amp",
+      "publishedDateTime": "2020-10-04T13:15:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
       ]
     },
     {
@@ -113,89 +224,34 @@
       ]
     },
     {
-      "path": "_news/2020-10-04-white-house-chief-of-staff-mark-meadows-confirms-trumps-condition-deteriorated-on-friday.md",
-      "title": "White House chief of staff Mark Meadows confirms Trump’s condition deteriorated on Friday",
-      "excerpt": "White House chief of staff Mark Meadows confirms on \"Justice with Judge Jeanine\" Saturday evening that President Trump’s condition had deteriorated on Friday following his COVID-19 diagnosis.",
+      "path": "_news/2020-10-04-trump-health-update-expected-at-walter-reed-medical-center.md",
+      "title": "Trump health update expected at Walter Reed Medical Center",
+      "excerpt": "President Trump’s medical team is expected to give an update on his health Sunday morning, as members of the White House press pool head to the Walter Reed Medical Center to be briefed on his condition.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SkV1-nExZeU/white-house-chief-of-staff-mark-meadows-confirms-trumps-condition-deteriorated-on-friday",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SkV1-nExZeU/white-house-chief-of-staff-mark-meadows-confirms-trumps-condition-deteriorated-on-friday",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bPgBX6_YUVA/trump-coronavirus-health-update-sunday-walter-reed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bPgBX6_YUVA/trump-coronavirus-health-update-sunday-walter-reed",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 166,
+      "heat": 415,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c548cadf-8dda-411b-9357-ac1248978a89/891a119a-c34f-43dc-992b-06dadd9625d3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-chief-of-staff-mark-meadows-confirms-trumps-condition-deteriorated-on-friday.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-chief-of-staff-mark-meadows-confirms-trumps-condition-deteriorated-on-friday.amp",
-      "publishedDateTime": "2020-10-03T18:55:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.md",
-      "title": "Supporters gather for Prayer vigil for Trump outside Walter Reed",
-      "excerpt": "President Trump supporters lined up in front of Walter Reed Hospital Saturday evening, to show support for Trump who was recently diagnosed with coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3m_XV2nSRFs/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3m_XV2nSRFs/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2738da37-1419-4682-9089-68409501409d/96dde887-984b-47d6-ab6a-a2c7703711bd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supporters-gather-for-prayer-vigil-for-trump-outside-walter-reed.amp",
-      "publishedDateTime": "2020-10-03T18:39:18-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp",
+      "publishedDateTime": "2020-10-04T08:26:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -275,62 +331,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-trump-campaign-says-pence-expected-to-add-more-events-as-president-deals-with-coronavirus.md",
-      "title": "Trump campaign says Pence expected to add more events as president deals with coronavirus",
-      "excerpt": "Vice President Mike Pence will step up on the campaign trail as President Trump deals with a case of the coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSVNSqZwsnk/trump-campaign-pence-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BSVNSqZwsnk/trump-campaign-pence-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 2051,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da4fefe0-619b-413c-8314-ecabc05fc010/18684257-14cd-4416-a6ae-4cc575d57702/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-pence-coronavirus.amp",
-      "publishedDateTime": "2020-10-03T14:46:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     },
     {
@@ -568,7 +568,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -623,7 +623,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -666,34 +666,34 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-putin-will-be-trump-campaign-surrogate-while-he-quarantines-dem-sen-chris-murphy-says.md",
-      "title": "Putin will be Trump campaign 'surrogate' while he quarantines, Dem Sen. Chris Murphy says",
-      "excerpt": "Murphy says Russia has a “clear desire to try to elect President Trump to a second term.”",
+      "path": "_news/2020-10-02-trumps-campaign-may-be-more-focused-and-disciplined-without-in-person-events-karl-rove.md",
+      "title": "Trump’s campaign ‘may be more focused and disciplined’ without in-person events: Karl Rove",
+      "excerpt": "President Trump being forced to hold virtual campaign events after testing positive for coronavirus may cause him to be more \"focused and disciplined\" in his messaging, Fox News contributor Karl Rove suggested on Friday.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y21UlsjG3LY/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y21UlsjG3LY/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 166,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9e60596-3e66-4c43-961c-c2d3465b8270/72404b90-658f-4350-b0df-1676b54306a0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-chris-murphy-putin-trump-campaign-surrogate-coronavirus.amp",
-      "publishedDateTime": "2020-10-02T13:03:57-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
+      "publishedDateTime": "2020-10-02T11:49:39-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -776,6 +776,61 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-no-one-wore-a-mask-during-trump-debate-prep-chris-christie-says.md",
+      "title": "No one wore a mask during Trump debate prep, Chris Christie says",
+      "excerpt": "Former N.J. Gov. Chris Christie revealed that no one in the room was wearing a mask when a small group of people gathered in the White House's map room on Monday to help prep President Trump for the first debate. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MZnSKOHbnGM/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
+      "publishedDateTime": "2020-10-02T07:46:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-boris-johnson-wishes-trump-speedy-recovery-from-covid-19.md",
       "title": "Boris Johnson wishes Trump 'speedy recovery' from COVID-19",
       "excerpt": "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. ",
@@ -788,7 +843,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 355,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -843,7 +898,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1051,6 +1106,61 @@
       ]
     },
     {
+      "path": "_news/2020-10-01-biden-endorsed-by-more-than-120-former-gop-national-security-officials.md",
+      "title": "Biden endorsed by more than 120 former GOP national security officials",
+      "excerpt": "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Kd2Ki4dIprA/biden-former-gop-national-security-officials-endorsement",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Trump-Biden-Debate-4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T12:04:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.md",
       "title": "Hillary Clinton: Trump shows his ‘first allegiance is not to the United States of America’",
       "excerpt": "Former Democratic presidential nominee Hillary Clinton on Thursday reiterated allegations that called into question President Donald Trump’s loyalty to the United States.",
@@ -1118,7 +1228,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 237,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1173,7 +1283,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1228,7 +1338,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1354,116 +1464,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
       "publishedDateTime": "2020-09-30T17:46:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-trump-says-he-doesnt-know-who-proud-boys-are-says-let-law-enforcement-do-their-work.md",
-      "title": "Trump says he doesn't know who Proud Boys are, says 'let law enforcement do their work'",
-      "excerpt": "President Trump on Wednesday tried to clear up confusion after telling the right-wing men’s group the Proud Boys to “stand back and stand by,” saying he didn’t know who the group was but they should let law enforcement do their job. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20274113905862.jpg",
-          "width": 1024,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
-      "publishedDateTime": "2020-09-30T12:55:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-chicago-mayor-lightfoot-slams-trump-after-he-blasts-windy-city-violence.md",
-      "title": "Chicago Mayor Lightfoot slams Trump after he blasts Windy City violence",
-      "excerpt": "Democratic Chicago Mayor Lori Lightfoot fired back at President Trump on Tuesday night after he skewered her city during a presidential campaign debate against Joe Biden as a hotbed of crime and violence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/78Ybvo1OA5c/chicago-mayor-lightfoot-trump-violence",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1fb66182-ac8a-497e-ac3a-bf667a87f5b8/34ab8c88-9cbd-4877-81a3-a089af7c4ff3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-mayor-lightfoot-trump-violence.amp",
-      "publishedDateTime": "2020-09-30T11:16:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

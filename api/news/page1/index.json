@@ -2,41 +2,41 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-08-a-fly-landed-on-mike-pence.md",
-      "title": "A Fly Landed on Mike Pence",
-      "excerpt": "During Wednesday night’s debate, a large fly landed on Vice President Mike Pence’s head and rested there. Advertisement 5:15 3:03 NOW PLAYING Advertisement 0:52 0:49 1:17 Advertisement",
+      "path": "_news/2020-10-08-vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.md",
+      "title": "Vice presidential debate: Both Trump, Biden campaign claim victory after Pence, Harris showdown",
+      "excerpt": "Both the Trump campaign and the Biden campaign claimed victory after Wednesday night’s vice presidential debate—with team Trump touting Vice President Pence, saying he is “ready to lead,” and team Biden praising Sen. Kamala Harris for making a “forceful case” for a Biden presidency.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/video/us/elections/100000007383978/debate-fly-lands-on-pence.html",
-      "originalUrl": "https://www.nytimes.com/video/us/elections/100000007383978/debate-fly-lands-on-pence.html",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
       "featuredContent": null,
       "highlight": {
-        "text": "Democratic Voice",
+        "text": "Republican Voice",
         "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
+        "backgroundColor": "#FF0000"
       },
-      "heat": 115,
+      "heat": 2908,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-38/07elections-briefing-07-22-38-facebookJumbo.jpg?video-overlay",
-          "width": 1050,
-          "height": 549,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T20:37:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
+      "publishedDateTime": "2020-10-07T22:43:13-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -53,8 +53,223 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice",
         "Mike Pence",
-        "Democratic Voice"
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-former-cia-director-accuses-mike-pence-of-lying-about-hillary-clinton-and-russia-during-vp-debate.md",
+      "title": "Former CIA Director Accuses Mike Pence of Lying About Hillary Clinton and Russia During VP Debate",
+      "excerpt": "Vice President Mike Pence \"lied about handwritten notes of mine from 2016 that referenced unsubstantiated Russian allegation about Secretary Clinton\" during his debate with Senator Kamala Harris, former CIA Director John Brennan tweeted on Wednesday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
+      "originalUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1647769/vice-president-mike-pence.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
+      "publishedDateTime": "2020-10-07T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-analysis-this-is-vice-president-mike-pences-answer-on-a-peaceful-transfer-of-power-read-it-carefully.md",
+      "title": "Analysis: This is Vice President Mike Pence's answer on a peaceful transfer of power. Read it carefully.",
+      "excerpt": "The vice presidential debate Wednesday night will be remembered more for how the candidates evaded questions than how they answered them.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201007213656-30-vp-debate-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
+      "publishedDateTime": "2020-10-07T22:20:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.md",
+      "title": "AOC to VP Pence: ‘It’s Congresswoman Ocasio-Cortez to you’",
+      "excerpt": "U.S. Rep. Alexandria Ocasio-Cortez appeared to be closely watching the vice presidential debate Wednesday night, tweeting several responses to comments by Vice President Mike Pence.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1YEsGrTirgU/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1YEsGrTirgU/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/Pence-AOC_AP-Getty.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.amp",
+      "publishedDateTime": "2020-10-07T21:07:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-to-you.md",
+      "title": "AOC Corrects Mike Pence During VP Debate: 'It's Congresswoman Ocasio-Cortez to You'",
+      "excerpt": "Cortez tweeted to Vice President Mike Pence as he referred to her as \"AOC\" during his debate with Senator Kamala Harris. \"It's Congresswoman Ocasio-Cortez to you.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301",
+      "originalUrl": "https://www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1647767/rep-alexandria-ocasio-cortez.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301?amp=1",
+      "publishedDateTime": "2020-10-07T21:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -166,24 +381,24 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-pence-bringing-minneapolis-owner-of-destroyed-salon-shop-to-debate.md",
-      "title": "Pence bringing Minneapolis owner of destroyed salon shop to debate",
-      "excerpt": "The owner of a Minneapolis salon shop that was destroyed amind the unrest days after the death of George Floyd will attend Wednesday night's debate as the guest of Vice President Mike Pence, Fox News has learned. ",
+      "path": "_news/2020-10-08-harris-says-she-is-a-person-of-faith-insulting-to-suggest-she-would-knock-anyone-for-religion.md",
+      "title": "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion",
+      "excerpt": "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. ",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DQT7jUooWeo/pence-minneapolis-salon-debate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DQT7jUooWeo/pence-minneapolis-salon-debate",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 185,
+      "heat": 232,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Pence.jpg",
-          "width": 1066,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg",
+          "width": 1280,
           "height": 720,
           "title": null,
           "attribution": null,
@@ -191,9 +406,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-minneapolis-salon-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-minneapolis-salon-debate.amp",
-      "publishedDateTime": "2020-10-07T18:31:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
+      "publishedDateTime": "2020-10-07T19:50:43-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -218,62 +433,7 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-trump-says-us-troops-in-afghanistan-will-be-home-by-christmas.md",
-      "title": "Trump says US troops in Afghanistan will be home by Christmas",
-      "excerpt": "President Trump took to Twitter Wednesday night and announced that the “remaining number” of the American troops stationed in Afghanistan will be home before the end of the year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoSMYi-UbW4/trump-says-us-troops-in-afghanistan-will-be-home-by-christmas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YoSMYi-UbW4/trump-says-us-troops-in-afghanistan-will-be-home-by-christmas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b468b1-4f70-4041-9a0f-55c9b76b6ea1/c5c841bc-815e-4652-81b0-1100ba6a883d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-us-troops-in-afghanistan-will-be-home-by-christmas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-us-troops-in-afghanistan-will-be-home-by-christmas.amp",
-      "publishedDateTime": "2020-10-07T17:46:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
+        "Kamala Harris"
       ]
     },
     {
@@ -567,7 +727,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 241,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -661,41 +821,41 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-heres-more-funny-business-regarding-how-pollsters-sample-republicans-for-their-anti-trump-polls.md",
-      "title": "Here's More Funny Business Regarding How Pollsters Sample Republicans for their Anti-Trump Polls",
-      "excerpt": "Sorry about letting this fall through the crack folks. We all know that the polling is looking nutty. I mean, Joe Biden is ahead of Donald Trump by 10-17 points",
+      "path": "_news/2020-10-08-ed-rollins-vp-debate-harris-pence-faceoff-in-utah-and-america-should-look-to-hear-this-one-word.md",
+      "title": "Ed Rollins: VP debate –Harris, Pence faceoff in Utah and America should look to hear this one word",
+      "excerpt": "It is not unrealistic to think that Pence or Harris could be America’s president in the not-too-distant future",
       "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/mattvespa/2020/10/07/heres-more-funny-business-regarding-how-pollsters-sample-republicans-for-their-antitrump-polls-n2577654",
-      "originalUrl": "https://townhall.com/tipsheet/mattvespa/2020/10/07/heres-more-funny-business-regarding-how-pollsters-sample-republicans-for-their-antitrump-polls-n2577654",
+      "webUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins",
+      "originalUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 72,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/273/c7b8ac30-e0e0-4820-9344-a4bddc8a4fb2.jpg",
-          "width": 650,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e9237c49-0e3b-44b1-852b-13637dd6bd4a/fa189495-4350-42bd-a9f1-b6601bcdc060/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/mattvespa/2020/10/07/heres-more-funny-business-regarding-how-pollsters-sample-republicans-for-their-antitrump-polls-n2577654?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/07/heres-more-funny-business-regarding-how-pollsters-sample-republicans-for-their-antitrump-polls-n2577654?amp=true",
-      "publishedDateTime": "2020-10-07T12:00:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/vp-debate-harris-pence-utah-ed-rollins.amp",
+      "publishedDateTime": "2020-10-07T11:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -712,8 +872,9 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Republican Voice"
+        "Mike Pence",
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -1054,7 +1215,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 191,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1149,34 +1310,34 @@
       ]
     },
     {
-      "path": "_news/2020-10-07-emphatic-trump-jr-rails-on-mainstream-media-democrats-after-latest-russia-probe-declassification.md",
-      "title": "Emphatic Trump Jr. rails on mainstream media, Democrats after latest Russia probe declassification",
-      "excerpt": "Donald Trump Jr. slammed the mainstream media and Democrats after President Trump announced Tuesday he authorized the declassification of all documents related to the high-profile Russia investigation.",
+      "path": "_news/2020-10-07-appeals-court-rejects-trumps-effort-to-block-enforcement-of-tax-returns-subpoena.md",
+      "title": "Appeals court rejects Trump's effort to block enforcement of tax returns subpoena",
+      "excerpt": "The Second Circuit Court of Appeals Wednesday upheld a lower court ruling allowing Manhattan District Attorney Cy Vance's office to enforce a subpoena to get President Trump's tax returns and other documents dating back to 2011, rejecting Trump's attempt to block the effort.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FzTby4Lyy18/trump-declassifies-russia-hoax-media-dems",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FzTby4Lyy18/trump-declassifies-russia-hoax-media-dems",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nnLUyLR2awk/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nnLUyLR2awk/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 201,
+      "heat": 210,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81360eac-8bd9-45d6-ade4-a674a7097bb2/99c19865-80a4-493c-a3bb-66c2aedb0f8c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-declassifies-russia-hoax-media-dems.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declassifies-russia-hoax-media-dems.amp",
-      "publishedDateTime": "2020-10-07T06:45:10-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena.amp",
+      "publishedDateTime": "2020-10-07T08:03:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1201,170 +1362,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-pence-harris-in-utah-for-vice-presidential-debate-trump-quarantining-at-the-white-house.md",
-      "title": "Pence, Harris in Utah for vice presidential debate; Trump quarantining at the White House",
-      "excerpt": "With the November election less than one month away, the running mates of Trump and Democratic rival Joe Biden are scheduled to appear for 90 minutes at the University of Utah in Salt Lake City for the first and only vice presidential debate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa3Nf1Ty2IA/pence-harris-utah-vice-presidential-debate-trump-quarantining-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pa3Nf1Ty2IA/pence-harris-utah-vice-presidential-debate-trump-quarantining-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1756,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/90b6ae9d-abc4-4eef-b852-0f45e4c217fd/ebcc77c1-f4ca-47f5-85f3-91b8cb81ae92/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-harris-utah-vice-presidential-debate-trump-quarantining-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-harris-utah-vice-presidential-debate-trump-quarantining-white-house.amp",
-      "publishedDateTime": "2020-10-07T06:40:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-is-joy-reid-hoping-that-president-trump-dies-it-sure-seems-like-it-curtis-houck-wrote.md",
-      "title": "'Is Joy Reid hoping that President Trump dies? It sure seems like it,' Curtis Houck wrote",
-      "excerpt": "MSNBC host Joy Reid said President Trump looks like a “very sick elderly man” and was accused of hoping he dies from coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/05/13/694940094001_6036228258001_6036224895001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
-      "publishedDateTime": "2020-10-07T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-joe-biden-should-stop-ducking-the-court-packing-issue.md",
-      "title": "Joe Biden should stop ducking the court-packing issue",
-      "excerpt": "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
-      "originalUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
-      "publishedDateTime": "2020-10-07T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

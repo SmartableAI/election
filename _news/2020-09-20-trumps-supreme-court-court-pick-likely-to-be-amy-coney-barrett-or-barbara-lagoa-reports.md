@@ -143,22 +143,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "McConnell says Trump ‘sounds well’ after call to discuss pandemic, Amy Coney Barrett"
-    excerpt: "Senate Majority Leader Mitch McConnell said on Saturday that President Trump “sounds well and says he’s feeling good” -- after a phone call in which the two Republican leaders talked about issues including the COVID-19 pandemic and confirming Judge Amy Coney Barrett to the Supreme Court."
-    publishedDateTime: 2020-10-03T20:53:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FGrbVqBf-u0/mcconnell-trump-call-pandemic-amy-coney-barrett"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-trump-call-pandemic-amy-coney-barrett.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-trump-call-pandemic-amy-coney-barrett.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Dems slam Barrett nomination over health care, 'illegitimate process' after Trump nomination"
     excerpt: "Democrats took to social media to slam President Trump's choice of Judge Amy Coney Barrett for the Supreme Court nominee after the president's announcement Saturday night -- with one senator claiming the nomination is the result of an \"illegitimate process.\""
     publishedDateTime: 2020-09-27T00:25:49Z
@@ -426,6 +410,17 @@ related:
     webUrl: "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes"
     ampWebUrl: "https://www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true"
     cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/campaigns/naked-ballots-could-strip-biden-of-pennsylvania-votes?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "Biden's Pennsylvania polling lead may not be what it seems"
+    excerpt: "At first glance, 2020 Democratic presidential nominee Joe Biden seems well positioned should his Nov. 3 election against President Trump come down to Pennsylvania."
+    publishedDateTime: 2020-10-02T10:17:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-pennsylvania-polling-lead-may-not-be-what-it-seems?_amp=true"
     type: article
     provider:
       name: Washington Examiner

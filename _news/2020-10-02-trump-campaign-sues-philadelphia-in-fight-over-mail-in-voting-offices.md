@@ -63,21 +63,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Nevada AG says Trump is urging supporters to intimidate voters at polls"
-    excerpt: "Nevada’s Democratic Attorney General Aaron Ford claimed Wednesday that President Trump was telling supporters during the debate to intimidate voters at polling locations. "
-    publishedDateTime: 2020-09-30T22:50:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjrPhllOmEc/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nevada-ag-trump-urging-supporters-intimidate-voters-at-polls.amp"
+  - title: "Trump’s warning on voting by mail: 'This is not going to end well’"
+    excerpt: "A combustible debate Tuesday night between President Trump and Democratic presidential nominee Joe Biden concluded with a fiery exchange over the integrity of the election and ominous warning from the president."
+    publishedDateTime: 2020-09-30T05:01:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZuHg1yois4g/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-warning-on-voting-by-mail-this-is-not-going-to-end-well.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/a379f4f2-Florida.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-debate-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Meadows defends Trump comments on mail-in voting: 'He is stating the facts'"
     excerpt: "White House Chief of Staff Mark Meadows defended President Trump's criticism of mail-in voting on Sunday, asserting that there is truth behind the president's concerns."
@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "WV official corrects Trump's ballot-selling mailman story, says 'election will be safe, secure and fair'"
-    excerpt: "West Virginia's Republican Secretary of State Mac Warner clarified a false claim made by President Trump during Tuesday night's debate about a mailman who sold ballots, saying that the incident never happened and \"voters should be confident that this election will be safe, secure, and fair.\""
-    publishedDateTime: 2020-10-01T19:26:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rJpJBDx99j0/trump-accuses-wv-mailman-of-selling-ballots-but-state-says-it-never-happened-reassures-voters-that-mail-in-ballots-are-being-closely-monitored-for-security"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-accuses-wv-mailman-of-selling-ballots-but-state-says-it-never-happened-reassures-voters-that-mail-in-ballots-are-being-closely-monitored-for-security.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-accuses-wv-mailman-of-selling-ballots-but-state-says-it-never-happened-reassures-voters-that-mail-in-ballots-are-being-closely-monitored-for-security.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Ex-campaign aide claims Trump in 2016 used to talk about making Ivanka his running mate"
     excerpt: "President Donald Trump allegedly considered his daughter Ivanka to be his running mate during the 2016 presidential campaign, according to claims made in a forthcoming book by former Trump campaign official Rick Gates."
     publishedDateTime: 2020-09-28T21:55:07Z
@@ -126,22 +110,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20267052465066.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Trump administration moves to limit student visa stays over fraud, national security concerns"
-    excerpt: "The Trump administration has announced a rule limiting the open-ended stay for international students from countries, amid concerns about overstays, fraud and potential risks to national security."
-    publishedDateTime: 2020-09-25T20:37:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dSShAf8fg4A/trump-administration-limit-student-visa-stays"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-limit-student-visa-stays.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-limit-student-visa-stays.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Trump fires back after Dems indicate impeachment could be used to block court nominee: ‘If they do that, we win’"
     excerpt: "President Trump on Monday claimed he would win the presidential election if House Speaker Nancy Pelosi actually attempted to use impeachment as an option to block his eventual Supreme Court nominee from being confirmed to the seat vacated by the late Justice Ruth Bader Ginsburg."

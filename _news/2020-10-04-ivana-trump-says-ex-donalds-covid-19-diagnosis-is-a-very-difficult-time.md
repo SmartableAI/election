@@ -236,6 +236,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Meadows says he believes Harris will be active in Barrett hearings: 'I think we'll see more of Kamala'"
+    excerpt: "White House Chief of Staff Mark Meadows said during a discussion about the Amy Coney Barrett Supreme Court confirmation process Thursday that he expects Democratic vice-presidential nominee Kamala Harris, who is also a senator on the Judiciary Committee, to play a visible role in what will likely be"
+    publishedDateTime: 2020-10-01T17:21:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eEwSLxIxzhQ/meadows-harris-barrett-hearings"
+    ampWebUrl: "https://www.foxnews.com/politics/meadows-harris-barrett-hearings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-harris-barrett-hearings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump doubles down on vow to nominate woman to Supreme Court, says vetting process underway"
     excerpt: "President Trump on Monday reiterated during a campaign rally that he will nominate a woman to fill the empty seat on the Supreme Court that has been vacated following the death of Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-21T22:39:10Z
@@ -392,6 +408,22 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "Trump Would Double Down on Tax Cuts in Second Term"
+    excerpt: "President Trump and Republicans got much of the tax code they wanted in 2017. In a second term, he would face expiration dates on those and push for more tax cuts."
+    publishedDateTime: 2020-09-29T13:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-would-double-down-on-tax-cuts-in-second-term-11601384401"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-237041/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Mark Meadows says this is what Donald Trump is looking for in a Supreme Court pick"
     excerpt: "White House chief of staff Mark Meadows joined Fox News’ \"Outnumbered Overtime\" Thursday to discuss what President Trump is looking for in his pick for the ."
     publishedDateTime: 2020-09-24T19:56:00Z
@@ -435,6 +467,22 @@ related:
     quality: 123
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/640/320/AP18346067568640.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Meadows says he believes Harris will be active in Barrett hearings: 'I think we'll see more of Kamala'"
+    excerpt: "White House Chief of Staff Mark Meadows said during a discussion about the Amy Coney Barrett Supreme Court confirmation process Thursday that he expects Democratic vice-presidential nominee Kamala Harris,"
+    publishedDateTime: 2020-10-01T17:27:00Z
+    webUrl: "https://www.foxnews.com/politics/meadows-harris-barrett-hearings"
+    ampWebUrl: "https://www.foxnews.com/politics/meadows-harris-barrett-hearings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-harris-barrett-hearings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Kamala-Harris.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -495,6 +543,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Is Trump Now Down Double Digits?"
+    excerpt: "There was lots of oohing and ahhing on social media yesterday, following the release of a new NBC/WSJ poll showing Joe Biden opening up a 14-point lead over Donald Trump."
+    publishedDateTime: 2020-10-05T17:05:00Z
+    webUrl: "https://townhall.com/tipsheet/guybenson/2020/10/05/is-trump-down-double-digits-n2577441"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 65
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/276/f9e1fd9b-6188-4fd2-be72-a4a764193fb9.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris Answers Question On Packing Supreme Court: \"People Are Already Voting\""
     excerpt: "Democratic vice-presidential nominee Sen. Kamala Harris condemned President Donald Trump and Senate Republicans trying to \"rush\" a Supreme Court appointment before the election and said it is important to remember that \"people are already voting."
     publishedDateTime: 2020-09-29T13:52:00Z
@@ -508,6 +570,20 @@ related:
       - url: "https://assets.realclear.com/images/52/522630.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "Tucker Carlson: Kamala Harris Will Bring Black Lives Matter Agenda To The White House"
+    excerpt: "Tucker Carlson delivered a monologue Thursday night on how the Democratic party has fully embraced the Black Lives Matter movement and incorporated the organization's talking points in the party's platform."
+    publishedDateTime: 2020-10-02T16:08:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/02/tucker_carlson_kamala_harris_will_bring_black_lives_matter_agenda_to_the_white_house.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
+    images:
+      - url: "https://assets.realclear.com/images/51/517744.jpg"
+        width: 1142
+        height: 856
         isCached: true
 
 secured: "HzK5iqMvNZ6OltFzSryUGnS2J0jKEdOqzzrmeD7ZYUqQy1KS884VIxb5Il6FFpUWh0F6/c19f1BnWq/h0y1hKG3aYGWBDtooPDuhKeQ18zQDOoj1kSKLQnZF+9Nva/LZtGNs1uSSM861zhyHolbsAB2DZuEw30UmtnhAroDMzt2WrVAc9q8JYrCxr5aZSk2Ev+wRc7e258tZWtbmg8DLLZRaX6X5Ia3ntgERwVdy1GZfggp5qzIp5EPfcQEwHLc+QiTfJkpW60ACgGlAE3o5c8mYqbfHs5HTAD9jqb13mDsO54mlOn2Bjxd0MC5FP3Q1O7Stc1FTcEfStgT9ptEgC8bOGnQxgtKHFLNMbSBrRjJqJ8mesR2/ObfK0b+aqNHra48fq1oI5jNJOeRRpMgeTQPFb7WWgdYwRDeZLe+xnMQ+4RmT10ewoDktS6+pCCbLoYm6hnIggb+O98URptIKxH4MZ8ErJ7BDhBMEDQf/99rBSJWT5K3lVadz9VpEz70y2QcYcr24Jh2+CuWIn8mg5g==;N9PTjmwwPPfvEM1pE/f8HA=="

@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump's call to declassify Russia collusion, Clinton documents sparks fierce debate online"
-    excerpt: "President Trump’s decision Tuesday to authorize the declassification of all documents related to the high-profile Russia investigation and the FBI probe into Hillary Clinton’s use of a private email server while serving as secretary of state was embraced by supporters and brushed off by detractors."
-    publishedDateTime: 2020-10-07T09:01:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVxWLpK_2sk/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "DNI declassifies Brennan notes, CIA memo on Hillary Clinton 'stirring up' scandal between Trump, Russia"
     excerpt: "Director of National Intelligence John Ratcliffe on Tuesday declassified documents that revealed former CIA Director John Brennan briefed former President Obama on Hillary Clinton’s purported “plan” to tie then-candidate Donald Trump to Russia as “a means of distracting the public from her use of a private"
     publishedDateTime: 2020-10-06T18:41:58Z

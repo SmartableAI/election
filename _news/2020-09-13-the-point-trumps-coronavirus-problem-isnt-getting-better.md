@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ah
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/13/politics/us-election-2020-week-ahead/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416925/201003-trump-coronavirus-mn-0740_68feaad9839ca1bbfc3d8938263fd2d6.JPG"
         width: 2500
         height: 1406
+        isCached: true
+  - title: "Trump returns to Oval Office, declares himself cured of coronavirus"
+    excerpt: "The president called the drug cocktail he received a \"cure,\" although his doctors have said it's too early to tell."
+    publishedDateTime: 2020-10-08T05:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-returns-oval-office-despite-being-treated-coronavirus-n1242460"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242460"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242460"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418268/201007-marine-white-house-jm-1541_06eeb416e73d5d82ae9614d936b364eb.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "WfwOvzsYk0BPoOzcBQtBdqZnB5+MMYt/ECl8mVQtZ1k3oFfUwI2C4zkwbm1yFUGKT7mJhRDnsLcJ5fZc3bQeTcf2v5x81TglLKQVYaxHmRxG99lnoeJr4dWxP86+9cFJiXumK1TNvRtWKd6E+ZIjx777jai0zogM5cggjkyys34wDqpfGlg1o1m58euuWI12pRSqOCUeiaWjVW4XpZyIA9qISxajYMUMBeHrJgR1J07tdDXFj/TRZ4/xL8YBuVroeLzo9aitUPnd5Kj7NSrHeCkMa3Q0o1V8a281renM3B1ieUB9NqNV7ioEKba1CynG0ponHmtA63skZsp2L7mepSJSh6etNSITOjyUbJBtVxE=;ljmQ6mvUuvulAABwzJFBkQ=="

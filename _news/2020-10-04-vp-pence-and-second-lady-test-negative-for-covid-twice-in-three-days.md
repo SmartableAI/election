@@ -48,22 +48,17 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "White House physician to give update on Trump's condition after COVID diagnosis"
-    excerpt: "White House physician Sean Conley will give an update on President Trump’s condition on Saturday, a day after Trump tested positive for COVID-19 and was moved to Walter Reed National Military Medical Center."
-    publishedDateTime: 2020-10-03T14:50:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/033BTYmLTSs/white-house-physician-update-trumps-condition-covid-walter-reed"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-physician-update-trumps-condition-covid-walter-reed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-physician-update-trumps-condition-covid-walter-reed.amp"
+  - title: "Mike Pence 'not a close contact' of anyone with COVID-19 seven days after meeting with Trump, doctor says"
+    excerpt: "Mike Pence's physician released a memo ahead of Wednesday night's debate saying the vice president \"is not a close contact with any individuals who have tested positive for COVID-19.\""
+    publishedDateTime: 2020-10-06T18:38:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/mike-pence-not-a-close-contact-of-anyone-with-covid-19-seven-days-after-meeting-with-trump-doctor-says"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/mike-pence-not-a-close-contact-of-anyone-with-covid-19-seven-days-after-meeting-with-trump-doctor-says?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/mike-pence-not-a-close-contact-of-anyone-with-covid-19-seven-days-after-meeting-with-trump-doctor-says?_amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 63
 
 secured: "e1I+8dI4fDV0kV46SGFrup2ML9zBooWcb0qcJg3DOWLd82BpVxXXpBXBOt3O8cn1x5vaIVYN+GOt9pcDI1et4CZV7bGBnLm0Kgo8ZzIGk7sjs6VsW/TSQUzG5YoFGe8l+hdmCtHIUJXnItCNftOWlUmdHW25ww3aEfzP8w82GP9YXk8ECvpwIPGncIqBBzzcR83LLC5W/7pyAvBVPSF/kj+vxgF0Y3KSZ6UVvDy3pk3WX6s8bQ2Cvl9kzW1ROEzKRjUrwKCYQXDNgyTA7S0N/9jku5J2hrBUVMH4gFlzpuKap1ueksLqkKZUixu+Ul1SzfA3Y32AmKRxbjcL0ofCvZKAwnM8VNSRGT5Gbenbwgg=;NHUqTq1Ms8oPcSpdVoj39Q=="
 ---

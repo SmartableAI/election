@@ -32,129 +32,65 @@ images:
     isCached: true
 
 related:
-  - title: "Biden’s whistle-stop: Democratic nominee taking post-debate train swing"
-    excerpt: "Democratic presidential nominee Joe Biden is hitting the rails once the first presidential debate is over."
-    publishedDateTime: 2020-09-28T17:20:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp"
+  - title: "Biden downplays ties to Bernie Sanders policies in general election despite unity platform"
+    excerpt: "With November's presidential election only weeks away, Democratic presidential nominee Joe Biden has begun to pivot toward the more moderate wing of his party while steadily downplaying his ties to Sen. Bernie Sanders and the Vermont independent's policies despite the “unity platform” the Democratic"
+    publishedDateTime: 2020-10-06T23:50:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BpFcdnBAmoA/biden-downplays-ties-bernie-sanders-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 180
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271543058705.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20280655277053.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Biden says Antifa is just an idea, but here's what we know about it"
-    excerpt: "Democratic nominee Joe Biden, during the first presidential debate on Tuesday, dismissed Antifa as “an idea” when asked to condemn left-wing violent extremism – but that claim is highly disputed by Republicans, and some who have covered them up-close."
-    publishedDateTime: 2020-09-30T17:03:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0ntitUMG3Uk/biden-antifa-idea-what-we-know"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-antifa-idea-what-we-know.amp"
+  - title: "Beto on Biden's chances in Texas: It's his to lose"
+    excerpt: "Former Texas Rep. Beto O’Rourke believes that Democratic presidential nominee Joe Biden can win Texas’ 38 electoral votes this November – a move that would mark a drastic change for a state once considered firmly in the hands of the Republican Party."
+    publishedDateTime: 2020-10-04T22:46:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pLkDpKGaTTM/beto-on-bidens-chances-in-texas-its-his-to-lose"
+    ampWebUrl: "https://www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Why Biden is sidestepping SCOTUS fight, won’t embrace court-packing"
-    excerpt: "Joe Biden’s lead in the presidential race hasn’t changed all that much since he surged to the nomination, and the last few days help explain why."
-    publishedDateTime: 2020-09-23T07:03:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4d3GnjXtTdo/why-biden-is-sidestepping-scotus-fight-wont-embrace-court-packing"
+  - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
+    excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
+    publishedDateTime: 2020-09-30T01:51:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5dxXvOBdIu4/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0cc26de3-0e85-40c8-8ace-aed10ffbeb63/20192085-93ff-4170-8533-66ec760513ef/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79e49bf7-b944-49eb-905b-4594b0fa8bc0/19832c56-70c3-4add-a268-662177528c18/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "AOC responds after Biden says Green New Deal ‘not my plan’ during debate"
-    excerpt: "U.S. Rep. Alexandria Ocasio-Cortez issued a toned-down reaction Tuesday night after Democratic nominee Joe Biden separated himself from the multitrillion-dollar Green New Deal, her signature legislative proposal."
-    publishedDateTime: 2020-09-30T10:07:00Z
-    webUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate"
-    ampWebUrl: "https://www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-responds-after-biden-says-green-new-deal-not-my-plan-during-debate.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 134
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/aoc-biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Joe Biden, the Father of 'Borking'"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-09-25T11:36:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/09/25/joe_biden_the_father_of_borking_524424.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/521846_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Biden's debate use of Arabic phrase sparks conversation among Muslims"
-    excerpt: "Former Vice President Joe Biden on Tuesday used a bit of Arabic slang that piqued the interest of Muslims on Twitter."
-    publishedDateTime: 2020-09-30T22:04:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-debate-use-of-arabic-phrase-sparks-conversation-among-muslims?_amp=true"
+  - title: "There is no pro-life case for Biden"
+    excerpt: "During his NBC town hall on Monday, Joe Biden reiterated his unyielding support for abortion on demand, putting to rest the idea that there is a pro-life case to vote for Biden."
+    publishedDateTime: 2020-10-06T17:53:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/there-is-no-pro-life-case-for-biden?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
-  - title: "Mercedes Schlapp: Joe Biden Is Hiding His List Of Potential Supreme Court Nominee"
-    excerpt: "Trump 2020 campaign senior adviser Mercedes Schlapp talks to FOX Business' Connell McShane on voter outreach, the Trump campaign, and the Supreme Court \"The president has made it very clear: he wants someone on the Court who’s going to interpret the law -- not necessarily make the law."
-    publishedDateTime: 2020-09-22T06:01:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/09/21/mercedes_schlapp_joe_biden_is_hiding_his_list_of_potential_supreme_court_nominee.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
-    images:
-      - url: "https://assets.realclear.com/images/52/521949.jpg"
-        width: 1046
-        height: 784
-        isCached: true
-  - title: "Biden's refusal to rule out court-packing confirms he can't restrain his progressive wing"
-    excerpt: "There is a lot of discussion about how Joe Biden can’t really be a Trojan horse for the progressives in his party or how Biden is a true centrist who can hold the party in line. But neither of these things are true,"
-    publishedDateTime: 2020-09-22T17:42:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/joe-bidens-refusal-to-rule-out-court-packing-confirms-he-cant-restrain-his-progressive-wing?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 56
-  - title: "‘Some black woman’: Video of Joe Biden saying why people stayed home during pandemic goes viral"
-    excerpt: "Democratic nominee for president Joe Biden attributed people's ability to stay home during the pandemic to “some black woman” stocking grocery store shelves."
-    publishedDateTime: 2020-10-05T21:42:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/some-black-woman-video-of-joe-biden-saying-why-people-stayed-home-during-pandemic-goes-viral?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 53
 
 secured: "YXQjZ5mcXZ93yLlWHI0P4nhYfAL8y/U8YB4Q+P6Hex2YDywcvYJgKbGj/sZM4bq05ouMfLYBbUbx8gMKhQd6XVrSBgLhDooiiVTSn8JDDXFjF2LOZ+9VeDv7WFSDAFded14cZaLHgmODg6Y+L46LNbXMC8iQKBZkd0Rvu1ckRi0vGlX4mAkeXl0tb7JCGa67Ni/W9Rn+ONk2KqgAStL+YqOfGIBA9dze4cXt2Jr/Rn6uVfmTI7lMTlUf5ygwPsKFq6W73Kja7d6JTFSdbcqM9tPWiRPCbbQ3URzkRS5X7qPFvKubMnw2xv1vP3d1Zjb15axLlW8JISx6zpJ7HxA1ugvCxDSxNCj0AyhNKiAmK15uCZFaoAWmK5OLxdRu5dKqHKHZaNAbdcvfeZPGsIhuWLVsghvNMq3HUCqd1gSxarqJ+26tfviQ6JIKz2KXgLSMshiPVsacdP9IcSW8KTb+RFoIPmseL9pHRt+QKZD2U2qOxtCpFENhR76NEOjhJutKUAO3oia5EHIVIreaF5ZHuQ==;0gCDr6YlqYF8jVZdhSdNeA=="
 ---

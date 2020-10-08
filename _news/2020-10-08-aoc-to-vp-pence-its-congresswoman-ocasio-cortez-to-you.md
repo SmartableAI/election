@@ -9,7 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.amp"
 type: article
 quality: 185
-heat: 185
+heat: 205
+published: true
 
 provider:
   name: Fox News
@@ -29,6 +30,22 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Pence will come 'under extreme pressure' over COVID-19 response in VP debate, pollster predicts"
+    excerpt: "Vice President Mike Pence will be under \"extreme pressure to answer tough questions\" during Wednesday's vice presidential debate about the Trump administration's response to the coronavirus pandemic, Fox News contributor Kristen Soltis Anderson told the \"Fox News Rundown\" podcast."
+    publishedDateTime: 2020-10-07T10:09:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GphQUBwldKE/vice-presidential-debate-preview-pence-harris"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/KAMALA-HARRIS-pence-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "PQqsWpExR0ILzK9csmu7w+59vLk+ZOdpMJz2ZztfDMDSvxXHsHrTlEkT6B0kr/Dt5/Lal7ZX7Za/PtB03mqPrhu+GtW7WpxCdcR7SDCIfC4ifWaeM7upV0FfjB63kCvJDNMJIUav9XbIahrtL7t5eE2JObNRcKxGHTdXNxOc0cDKV9Su8Eo1wh425j0WWsJV7u4zkcnjKqrMfDWPfJmqmI7wAjzGYxxzV4RjjYvRr9hpjezWGEIpEsajWlYq8ocg9KXtBvY/RKdc2aad+w5FjxwcewrxUbHgOi+2kDcTjZEBNsNaT21HgtB8Q+6/GFxaPpujprVBJqHpMXYaHLiynoGtrFBFU0gP8gLYY1ZT0Vw=;ydGlYP9J8FRgYp5rqJcEdw=="
 ---

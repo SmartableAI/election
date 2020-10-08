@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Taylor Swift endorses Joe Biden"
-    excerpt: "Posted [NFA] Ten-time grammy-winning artist Taylor Swift on Wednesday endorsed Democratic presidential nominee Joe Biden and Kamala Ha"
-    publishedDateTime: 2020-10-08T01:12:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP2E5?now=true"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7e5ef6e4b04d445762f9e9-1602117366328?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
     excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
     publishedDateTime: 2020-09-27T09:19:00Z
@@ -120,6 +106,22 @@ related:
       - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
         width: 1200
         height: 864
+        isCached: true
+  - title: "Taylor Swift endorses Joe Biden"
+    excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
+    publishedDateTime: 2020-10-08T04:37:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 75
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
+        width: 1024
+        height: 736
         isCached: true
   - title: "Reuters/Ipsos Poll Shows Biden Leading Trump in Florida; Tied in Arizona"
     excerpt: "Democratic presidential candidate Joe Biden appeared to lead President Donald Trump among likely voters in Florida and the two were locked in a tight race in Arizona, according to Reuters/Ipsos opinion polls released on Wednesday."

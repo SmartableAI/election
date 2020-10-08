@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp"
 type: article
 quality: 175
-heat: 355
+heat: 335
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-8dn8554-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Bill Clinton wishes Trump well after COVID diagnosis"
-    excerpt: "Former President Bill Clinton and 2016 Democratic nominee Hillary Clinton wished President Trump and Melania Trump well after they tested positive for COVID-19."
-    publishedDateTime: 2020-10-03T16:17:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kXEvtpc879A/bill-clinton-trump-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/bill-clinton-trump-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-clinton-trump-covid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f6490f9-508e-415a-9a5f-23cb6055413a/c8dc9900-c39d-457d-b6c0-d5c8a7c5f362/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "'Trump defeats COVID-19' coin goes on sale at White House-themed gift shop"
     excerpt: "Commemorative coins marking President Trump's battle with COVID-19 are available for preorder at a White House-themed gift shop."
@@ -159,15 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Ron Johnson's 'Big Idea': Don't stop investigating Trump-Russia probe 'until we have uncovered the truth'"
-    excerpt: "The Big Idea is a series that asks top lawmakers and figures to discuss their moonshot – what’s the one proposal, if politics and polls and even price tag were not an issue, they’d implement to change the country for the better? "
-    publishedDateTime: 2020-10-03T11:51:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ESbV59rfqcA/ron-johnsons-big-idea-continue-investigating-trump-russia-probe-until-we-have-uncovered-the-truth"
+  - title: "Trump campaign keeping at ‘full speed’ as president fights COVID-19"
+    excerpt: "The campaign is launching \"Operation MAGA,\" which features virtual events ahead of the VP debate, and resumes in-person events with Pence, members of Trump family."
+    publishedDateTime: 2020-10-03T19:44:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-keeping-at-full-speed-as-president-recovers-from-covid-19.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 118
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0bcfbf85-4fee-4d63-a075-4a07d3b0cf37/01fcde80-46af-4c80-8839-34cfe61ac6bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KzMz6EYYBt73wHZLLx85THWXr4OU6aCNl9kstYrA+J/VRY8vbepLBwyKL4NYOyuenh/RevQzAnggvBevAMSG2JBQaFW01zjbEtA9kaMmowEq8Eh0qUx5ZUUt9orVqrIbJmJAAl8MRVICwrU9r17xmzFQT3tswfsqcHRO2bAv0AJLbi1Fr0ib2XQ6OcAqJ+RZs1GnmNLm83a1rX9ANtmSbGc+mzqf7lwlFbFWyKp3j2QCZrVpHM9tL7Hp0g0a7PR4FvC/CqzAnYg8/vILXtk0sOWtrIyKb4zuZTGhS8Fg1gxC0tZTPkKzqL4h4LPVh1fFNP9mwodsPlsxqdVUiEDAYeqTfByRd2Kqr9B/rmMltIg=;Ag3PDyq89GmJ54WamIz6kQ=="
 ---

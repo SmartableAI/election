@@ -128,6 +128,22 @@ related:
         width: 2500
         height: 1406
         isCached: true
+  - title: "Trump returns to Oval Office, declares himself cured of coronavirus"
+    excerpt: "The president called the drug cocktail he received a \"cure,\" although his doctors have said it's too early to tell."
+    publishedDateTime: 2020-10-08T05:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-returns-oval-office-despite-being-treated-coronavirus-n1242460"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242460"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242460"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418268/201007-marine-white-house-jm-1541_06eeb416e73d5d82ae9614d936b364eb.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "NuzJqaqKl2fPfQ/BzQe4lEOiRGPj7V+bVhpIWuutm+b/Dlrdqg04IoPRgzGo+JFj1QDHXi6IAdru41TRpYLQuKoVDhw3nfxwb6iQibXehbJko5+oYWHP7n91hHhCkrAVJ5qDYEABO6idHY9TkMsAibLWawcHCjHH6tjpoQQzBnYmKseIYUzcbpQ+aiiqeJhE4oVSEvjJQ07zkvLgV8JJd5Xh5fFWjLy/MlIPBCV1tEQaoMWbJLgWA1KNzdnVh1Ffg0OpymEsbNsfTPT+8zpOZuS7nUJwYZn6NIxE3suN0ByxI+TY1s/SLOYUuQmwXsMckveZvgbIiUm+XJ3dp3gezSt3c5mzNgn6QzZl0FvLHB4=;tvdJLqykyCpXcac4QBXdjA=="
 ---

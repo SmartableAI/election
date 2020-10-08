@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Beto on Biden's chances in Texas: It's his to lose"
-    excerpt: "Former Texas Rep. Beto O’Rourke believes that Democratic presidential nominee Joe Biden can win Texas’ 38 electoral votes this November – a move that would mark a drastic change for a state once considered firmly in the hands of the Republican Party."
-    publishedDateTime: 2020-10-04T22:46:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pLkDpKGaTTM/beto-on-bidens-chances-in-texas-its-his-to-lose"
-    ampWebUrl: "https://www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/beto-on-bidens-chances-in-texas-its-his-to-lose.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Joe Biden distances himself from ‘socialists’ during NBC News town hall"
     excerpt: ""
     publishedDateTime: 2020-10-06T08:43:15Z
@@ -93,22 +77,6 @@ related:
     quality: 85
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Biden Campaign Unveils Shameless, Vapid Ad Campaign Directed at Christian Voters"
-    excerpt: "Joe Biden's campaign team has lifted the curtain on their latest campaign ad target: Christians. The team will air several ads featuring the Democratic Presidential candidate engaged in various church"
-    publishedDateTime: 2020-10-01T17:10:00Z
-    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289"
-    ampWebUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/01/biden-campaign-unveils-shameless-ad-campaign-directed-at-christian-voters-n2577289?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 80
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/258/975425a2-dc58-48b8-890f-1687c3ed9ac2.jpg"
         width: 650
         height: 340
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/brad-parscale-hospitalized-fort-lau
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brad-parscale-hospitalized-fort-lauderdale-trump.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/576d770a-696a-426b-a2de-fc39c21ad669/b8359fd3-5cda-44aa-91e5-633c77dd35ee/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump's Physician Reveals When Trump Could Be Released From Walter Reed"
+    excerpt: "The doctors at Walter Reed Medical Center on Sunday offered an update on President Donald Trump's battle with the Wuhan coronavirus. According to Dr. Sean Dooley, Trump continues to improve. \"He has remained without fever since Friday morning."
+    publishedDateTime: 2020-10-04T16:25:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/277/eb5d690a-a1de-4c62-bfe4-fcb0669bf3aa.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "gGZHswlLFtrzkeeNcTMDA5pXbgKIm3u3gGTrrL056xh/o8BO62DVWXoMnxeWqkWVlUcdfkk54lBPqjk+ALcIsgKoQM8LB/wddpBcZSCzMTlCdLPDJaToB6doaLFqQ+Yh0vzmF0jsAv9lMztt7GPVkKok8xQpTlREZwB/qv9lrAgGzRB15RsAElc1Mb+q9dfGBWhv4RT7SDHPO9qAj7m0Aol/5vSXf28MK7v4vFWA+8Cf+zNtKUl4x8kCqGG7mxKJG+EA5LSPOpAb1qMxv/w8Hpf1uJmKM6b/Z88fOG5aB2ePKb2PwxSSoUVX6JiY4pHP4Tm0q2S+BSWAhlzj857+guO3Iq6VOBuz1ynkH+c2WyM=;ZwivtMkSogQjZrUqkQKasA=="

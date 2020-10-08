@@ -10,6 +10,7 @@ cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/
 type: article
 quality: 119
 heat: 119
+published: true
 
 provider:
   name: Newsweek

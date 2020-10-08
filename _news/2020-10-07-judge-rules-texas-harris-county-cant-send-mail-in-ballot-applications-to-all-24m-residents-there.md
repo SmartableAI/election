@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/judge-rules-texas-harris-county-can
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there.amp"
 type: article
 quality: 171
-heat: 191
+heat: 171
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Republican Attorneys General Spotlight 'Lawless' Record of Kamala Harris"
-    excerpt: "The Republican Attorneys General Association (RAGA) unveiled a blistering ad about their former colleague and current Democratic vice presidential candidate, Sen. Kamala Harris, ahead of Wednesday nig"
-    publishedDateTime: 2020-10-07T20:00:00Z
-    webUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/10/07/republican-attorneys-general-spotlight-lawless-record-of-kamala-harris-n2577660"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 64
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/274/fe5a3c6a-4bf0-4214-9d71-e32c164b4d12.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "gJRmRii//rvTNskSSCsqTcQmyqWUqlUgJbsMe420b3BHtvqo/Y8Yv/Ea88FZChwMly9/Eo8Pa8Uz81+qRcSVjFvW6zjj7FWY6v6UJNhP7M3vp1fQpa3tTzs9fbWkBqgLcKTjvBr7ZtjJvv9BkRgFlgjif5XXhVPOQOkV+hFOFDDXjGC4jbJXUepoxvjfSbbJFugoQ+Vk6gIt5JZKCvyg1KcbTEMMAheFhufRhL5Lhke8fgDbWsecjMU1Ort91SNxcZzURGmLI1OMXzDBXCP2dkDMZihUqTscggVbi+GoH/nRSAcBWBmFYe3nd4Umhuw58UleKLmGZ7SR/luRMSbTUdeqU1XsVJYvYepkjqiBVX8=;aYN5qF23ip9bz8ik8tqyaQ=="
 ---

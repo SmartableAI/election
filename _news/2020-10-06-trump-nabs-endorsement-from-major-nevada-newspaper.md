@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "President Trump leads Facebook ad spending in Arizona"
+    excerpt: "President Trump has spent more money on Facebook advertising in Arizona and other parts of the Sun Belt than any other candidate, campaign or business. "
+    publishedDateTime: 2020-10-03T16:51:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u34Jr-tiLQA/president-trump-leads-facebook-ad-spending-in-arizona"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-leads-facebook-ad-spending-in-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Trump-Biden-THUMB-3.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Wisconsin gov tells Trump to require masks at state rallies — or skip them"
     excerpt: "Gov. Tony Evers suggested President Trump not come to Wisconsin for two campaign rallies this weekend, as the state struggles with record-breaking numbers of hospitalizations and new coronavirus cases."
     publishedDateTime: 2020-09-30T20:16:50Z

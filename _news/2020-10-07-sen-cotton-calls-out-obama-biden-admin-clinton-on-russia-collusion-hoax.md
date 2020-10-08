@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-clinton-obama-trump-russia-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
 type: article
 quality: 174
-heat: 294
+heat: 274
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's call to declassify Russia collusion, Clinton documents sparks fierce debate online"
-    excerpt: "President Trump’s decision Tuesday to authorize the declassification of all documents related to the high-profile Russia investigation and the FBI probe into Hillary Clinton’s use of a private email server while serving as secretary of state was embraced by supporters and brushed off by detractors."
-    publishedDateTime: 2020-10-07T09:01:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vVxWLpK_2sk/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online"
-    ampWebUrl: "https://www.foxnews.com/politics/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-call-to-declassify-russia-collusion-clinton-documents-sparks-fierce-debate-online.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
     excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
     publishedDateTime: 2020-10-07T00:54:57Z

@@ -1919,6 +1919,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Breaking down the first debate between Trump and Joe Biden"
+    excerpt: "The first debate between President Trump and Joe Biden was marred by constant interruptions and personal attacks. \"CBS Evening News\" anchor and managing editor Norah O'Donnell, \"CBS This Morning\" co-host Gayle King and CBS News political analyst John Dickerson break down the candidates’ performances,"
+    publishedDateTime: 2020-10-08T05:10:00Z
+    webUrl: "https://www.cbsnews.com/video/breaking-down-the-first-debate-between-trump-and-joe-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/4f369eee-2d2b-4407-85c3-704b1a9b0be1/thumbnail/1200x630/2e1cf6f425c026fe4671036b284e9f8c/0929-debate-broadcast-postshow-new-556669-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z

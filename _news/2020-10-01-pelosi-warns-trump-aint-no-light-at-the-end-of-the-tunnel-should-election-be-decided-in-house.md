@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-election-outcome-no-light-fo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp"
 type: article
 quality: 177
-heat: 237
+heat: 197
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump White House can't end census early, judge rules"
-    excerpt: "President Trump won't be allowed to end this year's census a month early after new evidence presented by Census Bureau officials indicates that an early deadline could lead to severe undercounts, a federal judge ruled Friday. "
-    publishedDateTime: 2020-09-25T14:49:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvXlueNm6oI/trump-white-house-cant-end-census-early"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-white-house-cant-end-census-early.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Meadows slams Pelosi suggestion that steroids influencing Trump's judgement"
-    excerpt: "White House Chief of Staff Mark Meadows fired back at House Speaker Nancy Pelosi, D-Calif., Wednesday after she questioned whether the president's use of steroids to treat his coronavirus infection had impacted his sudden decision to halt negotiations on another relief bill."
-    publishedDateTime: 2020-10-07T23:45:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vsmECDElk7U/meadows-pelosi-suggestion-steroids-trump-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/meadows-pelosi-suggestion-steroids-trump-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-pelosi-suggestion-steroids-trump-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3534655a-6a31-4a6e-87a5-6e988ed2075e/629987b6-3920-4a1d-9110-ec6743fe05ec/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pelosi not considering another Trump impeachment: ‘I don’t think he’s worth the trouble at this point’"
     excerpt: "House Speaker Nancy Pelosi, D-Calif., now says she’s not considering a fresh round of impeachment charges against President Trump to delay a Supreme Court confirmation vote. "
     publishedDateTime: 2020-09-24T17:57:24Z

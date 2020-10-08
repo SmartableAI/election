@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/spygate-author-bongino-cheers-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp"
 type: article
 quality: 169
-heat: -1
-published: false
+heat: 229
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Bongino on ‘infuriating’ media attacks of Trump’s drive-by 'visit' outside hospital"
-    excerpt: "The mainstream media’s attacks of President Trump’s surprise drive-by visit to his supporters outside Walter Reed Medical Center on Sunday is “infuriating,” former Secret Service agent Dan Bongino told “Fox & Friends” on Monday."
-    publishedDateTime: 2020-10-05T15:04:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital"
-    ampWebUrl: "https://www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp"
+  - title: "Emphatic Trump Jr. rails on mainstream media, Democrats after latest Russia probe declassification"
+    excerpt: "Donald Trump Jr. slammed the mainstream media and Democrats after President Trump announced Tuesday he authorized the declassification of all documents related to the high-profile Russia investigation."
+    publishedDateTime: 2020-10-07T13:45:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FzTby4Lyy18/trump-declassifies-russia-hoax-media-dems"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-declassifies-russia-hoax-media-dems.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declassifies-russia-hoax-media-dems.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 161
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump allies, Republicans say American people 'deserve the truth,' praise declassification of Russia probe docs"
+    excerpt: "Top Republicans and allies of President Trump praised his move to declassify all documents related to the Russia investigation saying the “American people deserve the truth.”"
+    publishedDateTime: 2020-10-07T02:09:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UW50QdBpflk/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Donald Trump Jr. Responds To Declassified Russia Probe Documents: \"We Knew All Along\""
+    excerpt: "President Trump's son, Donald Trump Jr., reacts to the declassification of former CIA Director John Brennan’s notes on ‘Fox & Friends.’ FOX NEWS, AINSLEY EARHARDT: So, Don, your dad has authorized declassifying all of the Russia collusion documents."
+    publishedDateTime: 2020-10-07T13:16:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/donald_trump_jr_responds_to_declassified_russia_probe_documents_we_knew_all_along.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 58
+    images:
+      - url: "https://assets.realclear.com/images/50/501477.jpg"
+        width: 1004
+        height: 752
         isCached: true
 
 secured: "6Hn7SfYI9jazh3WKLE/CwVqquEeBQM5bDtJu9KUS//uvCfFmZlqlCAjhpLPYAsQx5/QsIpbM7lGpblQJfQgskqd7Dyfx8tHirhfZee1FqwzE50xT7puig9dPhlxPVcJFMNES0wl+3qzzoyIu7/9Fuqn6TJ7a+DGHP2i58SJeCeiXRmYTxXoMJvIvm/rKJSOj4yv8RbUqsEIKUZVXF/u9i+hYPCe+up2o1P7/nfjpPS6XMxiRlZF/uT0cKmLbkLXFpMGAqlfbnDDCIf89jhYse2xTIunIraQCwWqtRcG5wr0IxNoKSdWnqhCnwbGXe+T3nA+f1OpEiduuAxQljap/ANz0+HO7QZNm5nlcL8TUOZo=;pf3zTQZJL2XewL6uyIqm6Q=="

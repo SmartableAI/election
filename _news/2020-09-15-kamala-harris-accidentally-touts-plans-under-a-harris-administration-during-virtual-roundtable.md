@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris Brings Hollywood Cash to Biden Campaign"
+    excerpt: "The California senator has close relationships with Democratic women and people of color in the entertainment industry, a dozen donors and fundraisers said."
+    publishedDateTime: 2020-09-24T11:47:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-brings-hollywood-cash-to-biden-campaign-11600947479"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-235890/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Pete Buttigieg reportedly posing as Mike Pence in Kamala Harris VP debate prep"
     excerpt: "Vice presidential nominee Kamala Harris has tapped former 2020 Democratic primary candidate Pete Buttigieg to play Vice President Mike Pence as she prepares for their one and only debate ..."
     publishedDateTime: 2020-09-23T17:28:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/appeals-court-rejects-trumps-effort
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena.amp"
 type: article
 quality: 170
-heat: -1
-published: false
+heat: 210
+published: true
 
 provider:
   name: Fox News
@@ -31,49 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Sheriff in Portland denies Trump's debate claim of winning his endorsement"
-    excerpt: "The sheriff of Multnomah County, which includes Portland, Ore., emphatically denied supporting President Trump Tuesday evening shortly after the president made the claim."
-    publishedDateTime: 2020-09-30T08:27:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GBX4f9VL_b8/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement"
-    ampWebUrl: "https://www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sheriff-in-portland-denies-trumps-debate-claim-of-winning-his-endorsement.amp"
+  - title: "Trump says he doesn't know who Proud Boys are, says 'let law enforcement do their work'"
+    excerpt: "President Trump on Wednesday tried to clear up confusion after telling the right-wing men’s group the Proud Boys to “stand back and stand by,” saying he didn’t know who the group was but they should let law enforcement do their job. "
+    publishedDateTime: 2020-09-30T19:55:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/sheriff.png?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Reagan, Bush government officials endorse Trump, citing foreign policy accomplishments"
-    excerpt: "In an open letter, 70 former officials lauded the president for pursuing a \"strong foreign and national security policy in America's interests.\" "
-    publishedDateTime: 2020-09-28T17:33:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l0VrmmwwIpw/reagan-bush-officials-endorse-trump-citing-foreign-policy-accomplishments"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20271818435544.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20274113905862.jpg"
         width: 1024
-        height: 576
+        height: 685
         isCached: true
-  - title: "Trump denies ‘ridiculous’ report that he wanted Ivanka to be his running mate"
-    excerpt: "President Trump is calling reports claiming he wanted his daughter Ivanka Trump to be his 2016 running mate “ridiculous.”"
-    publishedDateTime: 2020-09-29T11:50:00Z
-    webUrl: "https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/"
-    ampWebUrl: "https://nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/09/29/trump-calls-reports-that-he-wanted-ivanka-as-vp-ridiculous/amp/"
+  - title: "Trump signs short-term spending bill to prevent government shutdown"
+    excerpt: "President Donald Trump signed a spending bill early Thursday to prevent an imminent government shutdown. The Senate voted 84-10 to pass the bipartisan bill, extending federal agency funding to"
+    publishedDateTime: 2020-10-01T06:43:00Z
+    webUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/"
+    ampWebUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 132
+    quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/09/trump-ivanka-vp-61.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/AP20275174301260.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

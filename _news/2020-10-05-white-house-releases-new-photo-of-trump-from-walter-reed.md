@@ -125,6 +125,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump's Physician Reveals When Trump Could Be Released From Walter Reed"
+    excerpt: "The doctors at Walter Reed Medical Center on Sunday offered an update on President Donald Trump's battle with the Wuhan coronavirus. According to Dr. Sean Dooley, Trump continues to improve. \"He has remained without fever since Friday morning."
+    publishedDateTime: 2020-10-04T16:25:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/10/04/trumps-physician-reveals-when-trump-could-be-released-from-walter-reed-n2577435?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/277/eb5d690a-a1de-4c62-bfe4-fcb0669bf3aa.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "XD6NqhiSvy1gZg0fRlz8mlxXtT8chAtv1c031LemcEB+P7hq6ONx74ii2hJQpiHTFmOxYSlKLjVFTuTjjGE4aAKyXhavshXmpkK3tWIT2yT+U2MRk6EeAKzCKlbU9f0c9PN1OsPLtUZRCdykuDp4ZSBktHY5zwG4D4vMfPuKUQX4C07ilYb2ZblDnt7QAFrzpjnhLu+WCrq2+ZxuGyve11Ags3rDBrGgRENxSZlZZwuKI3g0B6+zR6dHKaT3L1UEMJmQTNCqkA4yjvekI3cXZ+7ioUwKUGydA+9Suj6g9o4gK9w18nlptmdkn2dN0sy85q8XRw4uNC4zzoLVJiouYa2hQ1PhrS/Gmx960zhtHX4=;mDQLvP6zgyFCxWBEjuk/fw=="
 ---
