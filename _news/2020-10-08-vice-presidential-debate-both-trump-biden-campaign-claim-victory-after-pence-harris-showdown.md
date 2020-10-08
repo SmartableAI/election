@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 2908
+heat: 2928
 published: true
 
 provider:
@@ -2077,6 +2077,20 @@ related:
         width: 2300
         height: 1597
         isCached: true
+  - title: "Kamala Harris to Pence: \"You Respect The American People When You Tell Them The Truth\" on Coronavirus"
+    excerpt: "Vice President Mike Pence defended the Trump administration's actions on the coronavirus pandemic at the vice presidential debate Wednesday night with Democratic VP nominee Sen. Kamala Harris. \"President Trump and I trust the American people to make choices in the best interest of their health,"
+    publishedDateTime: 2020-10-08T06:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/08/kamala_harris_to_pence_you_respect_the_american_people_when_you_tell_them_the_truth_on_coronavirus.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/52/523474.jpg"
+        width: 1120
+        height: 840
+        isCached: true
   - title: "Former NSA Head Michael Hayden Endorses Biden: He's A Good Man, Donald Trump Is Not"
     excerpt: "Retired Gen. Michael Hayden, who served as director of both the CIA and the NSA during the Bush and Obama administrations, appears in this ad from the \"Republican Voters Against Trump\" group to endorse Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-07T12:54:00Z
@@ -2133,6 +2147,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "1MyA+/h/Rqm+kdrCDJELbjGwG2me2UVMIrW7C3oXJROu5mAHnkK/6ErOSjTfNy6L+9M1xuJKjyuMqEGbkO90tRC4nspZIltaxuXIgNg/VKbM3XjUkmQ95VRkBsoGTk+5xHP3EK2HxY1lJtzdFvjk69iwDZm32ZMN7SMH7x0TjlPqBptsMd/j1g7FPCrIeX7ZYkNrweIb9ZDYYYCGvhMJHXZazY3pn3spg+InTBVnSqwTdjg6DaKRn5mMBAu+mClvww/BQK5ghyJywcDfBlTWjuebBQqEA2qVWSfY4z0Wj7rq8Ftrx0MxMvuVItOUjSa26dyhI579jt90f7hNSLbXG2GGKPoXuNTbBZoeeYzXWNc=;FmF/M07I2016YPEUxCZv7Q=="
+secured: "U/FXwpplbtIc6FQS4/6G3istxq4fGDklCarWyzigPWxBbIJtTk8v47cUMvyBws/nOCa3xz4MHvFZ2zFiaNkjKFnk4m/osJCPrPNsJ7YxNFmao2J/FT1ETyCxLLuzrkGl7xo9vqHAvle0oLYlhoh/DcaDsC7xwdnfukxJGy9wwx1/fS7yt47CAMQCJKmivYku53xBjNFD6xHCERAE2WeeNsBQaIDKjmnj6g1rvYP50tLiy9kMd1LEPwb+5W6LAAUTgVH7YYvHpWI47ljrVsi094ffXMDVrx/jvbX0x4aFL57WxP9rogTs3ctjKiMAFgwbVL/YLXkBso/kHJPAi+15MKl53/9d83VKbTQ91Um2jYY=;rYe+eolWJ+aukrsXLbo49w=="
 ---
 

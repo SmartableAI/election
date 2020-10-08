@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronaviru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
 type: article
 quality: 187
-heat: 1707
+heat: 1727
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Live coverage: President Trump's coronavirus recovery"
+    excerpt: "President Trump Wednesday said he's feeling great and views it as a \"blessing from God\" that he caught the coronavirus after returning to the White House from the hospital. "
+    publishedDateTime: 2020-10-08T07:10:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SjoRuJvEHlQ/live-coverage-presdient-trumps-coronavirus-receovery"
+    ampWebUrl: "https://www.foxnews.com/politics/live-coverage-presdient-trumps-coronavirus-receovery.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-coverage-presdient-trumps-coronavirus-receovery.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/34f65397-f5bb-441a-96a0-0b5d4d6ec3b5/61757318-f5a8-4bc6-b2d5-d93841e148ee/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "McConnell refocuses on Trump's judicial nominees as coronavirus talks stall"
     excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., has turned the Senate's gaze to confirming judicial nominees as talks about a fifth coronavirus stimulus package have stalled."

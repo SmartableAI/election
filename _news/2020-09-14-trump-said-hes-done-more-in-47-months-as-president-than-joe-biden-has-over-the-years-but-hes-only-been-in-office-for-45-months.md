@@ -1214,6 +1214,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Breaking down the first debate between Trump and Joe Biden"
+    excerpt: "The first debate between President Trump and Joe Biden was marred by constant interruptions and personal attacks. \"CBS Evening News\" anchor and managing editor Norah O'Donnell, \"CBS This Morning\" co-host Gayle King and CBS News political analyst John Dickerson break down the candidates’ performances,"
+    publishedDateTime: 2020-10-08T05:10:00Z
+    webUrl: "https://www.cbsnews.com/video/breaking-down-the-first-debate-between-trump-and-joe-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 130
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/4f369eee-2d2b-4407-85c3-704b1a9b0be1/thumbnail/1200x630/2e1cf6f425c026fe4671036b284e9f8c/0929-debate-broadcast-postshow-new-556669-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Coronavirus Task Force Shifted From Science to Trump's Personal Agenda, Former Pence Aide Says"
     excerpt: "Olivia Troye, who was Vice President Mike Pence's lead staffer on the White House coronavirus task force, said the team was forced by the administration to shift the national response from science to President Donald Trump's personal agenda. \"Suddenly ..."
     publishedDateTime: 2020-09-22T14:22:00Z
@@ -1907,19 +1921,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Breaking down the first debate between Trump and Joe Biden"
-    excerpt: "The first debate between President Trump and Joe Biden was marred by constant interruptions and personal attacks. \"CBS Evening News\" anchor and managing editor Norah O'Donnell, \"CBS This Morning\" co-host Gayle King and CBS News political analyst John Dickerson break down the candidates’ performances,"
-    publishedDateTime: 2020-10-08T05:10:00Z
-    webUrl: "https://www.cbsnews.com/video/breaking-down-the-first-debate-between-trump-and-joe-biden/"
+  - title: "Trump or Biden, the U.S. and Europe Will Split"
+    excerpt: "If Donald Trump wins on Nov. 3, the transatlantic rupture will be fast and disastrous. With Joe Biden, it’ll be slower and open-ended."
+    publishedDateTime: 2020-10-08T06:05:00Z
+    webUrl: "https://www.washingtonpost.com/business/energy/trump-or-biden-the-us-and-europe-will-split/2020/10/08/9d5f8c6e-092b-11eb-8719-0df159d14794_story.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 120
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/4f369eee-2d2b-4407-85c3-704b1a9b0be1/thumbnail/1200x630/2e1cf6f425c026fe4671036b284e9f8c/0929-debate-broadcast-postshow-new-556669-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TOO4K5QJFMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1024
+        height: 681
         isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."

@@ -2092,6 +2092,20 @@ related:
         width: 2300
         height: 1597
         isCached: true
+  - title: "Kamala Harris to Pence: \"You Respect The American People When You Tell Them The Truth\" on Coronavirus"
+    excerpt: "Vice President Mike Pence defended the Trump administration's actions on the coronavirus pandemic at the vice presidential debate Wednesday night with Democratic VP nominee Sen. Kamala Harris. \"President Trump and I trust the American people to make choices in the best interest of their health,"
+    publishedDateTime: 2020-10-08T06:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/08/kamala_harris_to_pence_you_respect_the_american_people_when_you_tell_them_the_truth_on_coronavirus.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/52/523474.jpg"
+        width: 1120
+        height: 840
+        isCached: true
   - title: "Former NSA Head Michael Hayden Endorses Biden: He's A Good Man, Donald Trump Is Not"
     excerpt: "Retired Gen. Michael Hayden, who served as director of both the CIA and the NSA during the Bush and Obama administrations, appears in this ad from the \"Republican Voters Against Trump\" group to endorse Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-07T12:54:00Z

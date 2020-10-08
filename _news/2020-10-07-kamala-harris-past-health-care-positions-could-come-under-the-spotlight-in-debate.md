@@ -254,6 +254,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pence, Harris spar over federal Covid-19 response as Trump's illness looms"
+    excerpt: "The vice presidential candidates sat 12 feet apart and were separated by sheets of plexiglass in a debate that focused on the pandemic, the economy and the Supreme Court."
+    publishedDateTime: 2020-10-08T06:09:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/pence-harris-meet-vice-presidential-debate-covid-19-cases-surge-n1242451"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242451"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242451"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 183
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3418182/201007-vp-debate-main-bar-main-cover-cs_1d92a419cac8bd365ab516f44cc13e0e.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Post-debate CNN poll: Harris seen as winner in a contest that matched expectations"
     excerpt: "More Americans said Sen. Kamala Harris did the best job in the vice presidential debate Wednesday night, according to a CNN Instant Poll of registered voters who watched.\n    \n"
     publishedDateTime: 2020-10-08T05:27:59Z
@@ -317,6 +333,22 @@ related:
       - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-kamala-harris-debate-1920x1080-ac-1111p.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Biden campaign talks up Mike Pence’s debate skills before he faces Kamala Harris."
+    excerpt: "Biden campaign surrogates played up Vice President Mike Pence’s skill as a debater ahead of his matchup with Senator Kamala Harris on Wednesday, while previewing how Ms. Harris planned to make a case against President Trump’s handling of the coronavirus."
+    publishedDateTime: 2020-10-07T17:35:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/the-biden-campaign-talks-up-mike-pences-debate-skills-before-he-faces-kamala-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/the-biden-campaign-talks-up-mike-pences-debate-skills-before-he-faces-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-biden-campaign-talks-up-mike-pences-debate-skills-before-he-faces-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 168
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/multimedia/07elections-briefing-pence2/07elections-briefing-pence2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden, Harris focus campaign on importance of vacant Supreme Court seat"
     excerpt: "Joe Biden’s running mate Kamala Harris is campaigning in battleground state North Carolina where she spoke about the high stakes of the Supreme Court fight. NBC News’ Mike Memoli reports on how the Biden campaign is talking about the Supreme Court with voters."

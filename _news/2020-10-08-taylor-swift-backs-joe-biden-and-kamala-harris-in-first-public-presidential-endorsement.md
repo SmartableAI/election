@@ -48,22 +48,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump soldier Mike Pence faces off with an impressive Kamala Harris: Mastio and Lawrence"
-    excerpt: "Pence didn't even pretend Trump has a plan to protect insurance for people with preexisting conditions. And Harris didn't answer on 'packing the court.'"
-    publishedDateTime: 2020-10-08T04:58:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-column/5910000002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5910000002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5910000002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 166
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/054659b2-e6a2-4c75-a883-9b764a8c0ec6-harris_pence.jpg?auto=webp&crop=7000,3938,x0,y883&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Briggs: Why Donald Trump chose a Mike Pence, and not a Kamala Harris, as VP"
     excerpt: "It came as President Donald Trump tried to sort former Vice President Joe Biden into the left wing of the Democratic Party. When Biden rejected that premise, Trump altered his framing and allowed that perhaps Biden is a moderate,"
     publishedDateTime: 2020-10-07T12:46:00Z
@@ -1899,6 +1883,22 @@ related:
         width: 1440
         height: 951
         isCached: true
+  - title: "Trump soldier Mike Pence faces off with an impressive Kamala Harris: Mastio and Lawrence"
+    excerpt: "Pence didn't even pretend Trump has a plan to protect insurance for people with preexisting conditions. And Harris didn't answer on 'packing the court.'"
+    publishedDateTime: 2020-10-08T07:47:00Z
+    webUrl: "https://www.cincinnati.com/story/opinion/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-column/5910000002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5910000002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5910000002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/054659b2-e6a2-4c75-a883-9b764a8c0ec6-harris_pence.jpg?auto=webp&crop=7000,3938,x0,y883&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
     excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
     publishedDateTime: 2020-09-11T23:16:00Z
@@ -3217,6 +3217,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Claims from Mike Pence and Kamala Harris at the VP debate"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris tussled Wednesday in the first and only vice presidential debate before the Nov. 3 election, coming as the coronavirus sidelined President Donald Trump at the White House."
+    publishedDateTime: 2020-10-08T07:32:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/07/nation/fact-check-claims-mike-pence-kamala-harris-vp-debate/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/nation/fact-check-claims-mike-pence-kamala-harris-vp-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/nation/fact-check-claims-mike-pence-kamala-harris-vp-debate/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 80
   - title: "Quotes From the Kamala Harris-Mike Pence Debate"
     excerpt: "Republican Vice President Mike Pence and Democratic challenger Kamala Harris squared off on Wednesday evening in Salt Lake City, Utah, ahead of the Nov. 3 election. Here are some of key quotes from the debate,"
     publishedDateTime: 2020-10-08T02:09:00Z
@@ -4229,6 +4240,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "nQRS2wvFAMobzJAu3jHZC/5K21FOYRSdCB08tLFZPa6tMU/qYj/a9Tc5bLkAo72UA8h9IHxKqF/6TXmSN2nNfjoMnFBY3lNSXVGDObX0W4zszTkfa7wrMTSl06flhTUVpMgVLpOsXcl2jftDKgKtP4IHpUgeK82E/eIlWROXFALk321f3U/6L4gEiQ7Fg95bs5L8Gc7FtWQ1YRHevQmYFtIwUea7oKO//4r5o223xzBokdI3uHbgF6BBFPvs6CkeipnQgX+lrvOvJ35TOXpV3UciVdoxhNFr57czqoVGXXLTV73pV05PN76SuXTZYWgxe06UQpMvTTXzzM9ibD93i6yTXahtD4y9vziucQlcfrg=;9Ogdr3XcldKuc/ZuKgdIRQ=="
+secured: "uck136PGO6WvGA55QeMsOXNEsNS6SfyqT3+QVRL5yHlTIO0/Nuwd4BO5mawlezVlHOjb3PffCfh7UK4GgzFps0mc1W25mUwXF+FXLxW0bwICyxkbD8L7elXWoyBOU1v28v37mvTpTKz0pstQGxiWDx6yCqMR+UDnfj3Cee0nTvhijJ4WEdrxdDLqYp8O0GD5dAlpVK2WYVdLe2bfoA9F/WF8mMKwoko75lpf9Tgs4oJ2ywvdclpIms5z8rqX0h83TjlNn6Q9TGCLsXTX5QCRsQtsz/etoIVB0GymAEWdQ7pLYcpVr7KBk0NXxqQP6faS2x124O/w8EIJ1Ek8F8f75gb5y5A1sxaIZO5pwNU74d/GjhVrBBKaTgn6L8urSAXad52joQT9d4f1d4nv9sRHLjvu1dSx5uUwUeM0c1FFnEksEIAqc+QH4r6fHyNFS9mCK/5S2m3bq2WywQH2ttL0n0PYNX3dZ3o5WItWx/drWjFxK4RLdOcEspwm+lePOmowrS6KpqH3kWl6HYJLd1uRfQ==;Qb8P/IUt5YeEv5z1qK5vCQ=="
 ---
 

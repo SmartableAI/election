@@ -2086,6 +2086,20 @@ related:
         width: 2300
         height: 1597
         isCached: true
+  - title: "Kamala Harris to Pence: \"You Respect The American People When You Tell Them The Truth\" on Coronavirus"
+    excerpt: "Vice President Mike Pence defended the Trump administration's actions on the coronavirus pandemic at the vice presidential debate Wednesday night with Democratic VP nominee Sen. Kamala Harris. \"President Trump and I trust the American people to make choices in the best interest of their health,"
+    publishedDateTime: 2020-10-08T06:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/08/kamala_harris_to_pence_you_respect_the_american_people_when_you_tell_them_the_truth_on_coronavirus.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 75
+    images:
+      - url: "https://assets.realclear.com/images/52/523474.jpg"
+        width: 1120
+        height: 840
+        isCached: true
   - title: "Why a WSJ Columnist Thinks Biden Might Have Hurt Himself with Progressives After First Debate Chaos"
     excerpt: "For many, last night’s presidential debate was a mess. President Trump didn’t stop knifing Joe Biden. Joe Biden, frustrated to the nth degree, told the president to shut up. A"
     publishedDateTime: 2020-09-30T20:30:00Z

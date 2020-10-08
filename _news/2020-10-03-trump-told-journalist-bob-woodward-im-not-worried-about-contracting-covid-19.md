@@ -2758,6 +2758,22 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "The White House warned a veterans group of potential COVID-19 exposure at an event that Trump and almost 20 of his aides attended last Sunday"
+    excerpt: "Adm. Charles W. Ray, the vice commandant of the Coast Guard, who attended the Sunday event tested positive for COVID-19."
+    publishedDateTime: 2020-10-08T07:04:00Z
+    webUrl: "https://www.businessinsider.com/trump-admin-warned-veterans-group-covid-exposure-five-days-after-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-admin-warned-veterans-group-covid-exposure-five-days-after-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-admin-warned-veterans-group-covid-exposure-five-days-after-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/5f7e8f19c655f6001969ed7d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Daywatch: Trump tests positive for COVID-19, inside Democratic Speaker Michael Madigan’s job machine and a guide to the Midwest’s fall foliage"
     excerpt: "Late Thursday night, President Trump tweeted that he and Melania Trump tested positive for COVID-19. Earlier in the evening, Trump said that he and the First Lady were beginning the “quarantine process” as they awaited their test results after one of his closest aides,"
     publishedDateTime: 2020-10-02T11:24:00Z
@@ -2787,6 +2803,22 @@ related:
     quality: 87
     images:
       - url: "https://i.insider.com/5f7adb552400440019129e20?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump released a 5-minute video applauding the drugs and treatments he received while sick with COVID-19 without ever mentioning the virus by name"
+    excerpt: "The video was released hours before the vice presidential debate Wednesday night. Trump used it to tout his own experience with COVID-19."
+    publishedDateTime: 2020-10-08T06:04:00Z
+    webUrl: "https://www.businessinsider.com/trump-never-mentioned-covid-19-during-new-video-treatment-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-never-mentioned-covid-19-during-new-video-treatment-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-never-mentioned-covid-19-during-new-video-treatment-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5f7eaa6ac655f6001969ed7f?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

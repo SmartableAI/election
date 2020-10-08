@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 739
         isCached: true
+  - title: "Analyzing Trump's illness is humbling for media's med teams"
+    excerpt: "It's a daunting assignment for any doctor: assess a patient's condition for an audience of millions without being able to examine him or see a complete medical chart"
+    publishedDateTime: 2020-10-08T07:12:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_1dc1c08e20f14b1fb59b43d639b6bf70_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'Mailmen selling ballots. Dumped in rivers. Found in creeks': Trump makes unfounded claims about mail-in voting"
     excerpt: "From claiming mailmen are \"selling the ballots\" to arguing that mail ballots are being \"dumped in rivers,\" Trump ramped up his assault on mail-voting"
     publishedDateTime: 2020-09-30T23:15:00Z

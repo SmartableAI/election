@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37KSBJQICEI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 739
+        isCached: true
+  - title: "Analyzing Trump's illness is humbling for media's med teams"
+    excerpt: "It's a daunting assignment for any doctor: assess a patient's condition for an audience of millions without being able to examine him or see a complete medical chart"
+    publishedDateTime: 2020-10-08T07:12:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_1dc1c08e20f14b1fb59b43d639b6bf70_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is"
     excerpt: "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep."

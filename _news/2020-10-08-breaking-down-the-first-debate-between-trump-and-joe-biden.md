@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-08T05:10:00Z
 originalUrl: "https://www.cbsnews.com/video/breaking-down-the-first-debate-between-trump-and-joe-biden/"
 webUrl: "https://www.cbsnews.com/video/breaking-down-the-first-debate-between-trump-and-joe-biden/"
 type: article
-quality: 120
+quality: 130
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/4f369eee-2d2b-4407-85c3-704b1a9b0be1/thumbnail/1200x630/2e1cf6f425c026fe4671036b284e9f8c/0929-debate-broadcast-postshow-new-556669-640x360.jpg"
@@ -1919,6 +1920,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/4b3712af-6ef7-497e-a6d0-b46c3f28d29f_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump or Biden, the U.S. and Europe Will Split"
+    excerpt: "If Donald Trump wins on Nov. 3, the transatlantic rupture will be fast and disastrous. With Joe Biden, it’ll be slower and open-ended."
+    publishedDateTime: 2020-10-08T06:05:00Z
+    webUrl: "https://www.washingtonpost.com/business/energy/trump-or-biden-the-us-and-europe-will-split/2020/10/08/9d5f8c6e-092b-11eb-8719-0df159d14794_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TOO4K5QJFMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1024
+        height: 681
         isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
@@ -4076,6 +4091,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "XQcrs0+j2jyqidmIPLiGpHSFlCbfmfYfIzQvXcCboNYMbt3X7zXpcUFzcj1iIAPXyCJjAosJHYppYjoketgbel/cvoHM9OTo/lwGxiFVJsy868tjNpdqNcWmYsoCkmNVPb5FhNXnaCZuTS95IkwB/h2EELtRxl2+2LJJzGaQDlf1ldw2tVPuoDFXLkiUIOYJ2dMI96w5pWB1rQtPPAxF6VZi8DBydzkNmPz65/u3Q2O9zC7ljMVCDkGV6yVuW4AwAK36B9gdG1AJzptWfMENGrqe2487wqoiet3C7xm6+l5QxdhPO7GDf4xlCp3aQ5jQgxRy0vo2tURdiT3vqxcHmBgLL1YLJl7iAi3Cdl9ncq4=;Ht+87q3K3UBXj3KNN2aDwQ=="
+secured: "OI3slQWtWItX/Scwq+Lb3WgjwZPjJX5750d/33QiFW5Pj38u/gMQy4HwJjhKcUsL3BnBAEpFDP5i3RkFrIb1RC9uNbUwS2S/TnXRI989yXI7Xfv4iruVtY8grPYy/4drT78FYtmIDjnmcUJNgTxVjU8v5KcYtvpx5Pe6VnSM9RxNJ5qCxIIrBIOO5GqbuZvCA2N/jaDe7Bh6Ci6K33mOaUaM2QlZTu41GAZkgLA8fNjgBRusP+AurL+DTKzx4fXyhOCPn/WHAluZrgQF41AuJTrsBowdvgeLtOFWj6KmZ6IIzAdwm7kBfXrUHKPWxtJLnrZEaxmy8QAtsaN0hGmKD2bSQcE29oraf6ln9NN3jnK5GsQyZ3AcUqigYZMvF6wM0/d6NHx5qwJjmKoh2CV8NAkcTMVXht5cMBCjAHjyuhrWa29C0DrxvdIT2RHcuW32ADK/FngnG3pklzPo0G5Rdsg7/iDJ8QZdBsLe+j/Zl2X7dne3GQvNl+ZS7IA7dp0AI2nXn1CEk7fxwwjEoHtT0Q==;KsYZzMRkijJKsQRpSY2v6Q=="
 ---
 
