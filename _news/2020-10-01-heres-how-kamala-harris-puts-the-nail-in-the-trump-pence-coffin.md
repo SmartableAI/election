@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
 type: article
 quality: 175
-heat: 6795
+heat: 6815
 published: true
 
 provider:
@@ -4249,6 +4249,22 @@ related:
       - url: "https://cdn.theatlantic.com/thumbor/vADEJKAs1t4uy5B5-HYvH9C_G-s=/0x326:5734x3550/570x320/media/img/mt/2020/10/2020_10_08T012724Z_1572561296_RC21EJ9KLRMW_RTRMADP_3_USA_ELECTION_DEBATE_copy/original.jpg"
         width: 570
         height: 320
+        isCached: true
+  - title: "The Kamala Harris Dishonesty Insult"
+    excerpt: "Kamala Harris’s own references to the Harris administration seem to make this reality even more obvious. Her radicalism should be an issue. His stands on its own, but hers is bold. If she were running at the top of the ticket,"
+    publishedDateTime: 2020-10-09T19:36:00Z
+    webUrl: "https://www.nationalreview.com/corner/the-kamala-harris-dishonesty-insult/"
+    ampWebUrl: "https://www.nationalreview.com/corner/the-kamala-harris-dishonesty-insult/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/the-kamala-harris-dishonesty-insult/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/kamala-harris-washington.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."

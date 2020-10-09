@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html"
 type: article
 quality: 190
-heat: 1930
+heat: 1950
 published: true
 
 provider:
@@ -1054,6 +1054,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418715/201008-arizona-mike-pence-campaign-ac-1129p_c073013f710fea438a90515b0a98e3e8.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Donald Trump’s Alternate Constitutional Reality"
+    excerpt: "But the highest test of politicians’ constitutional scruples is not how they populate another branch of government. It is how they carry out their responsibilities in their own spheres. By that test,"
+    publishedDateTime: 2020-10-09T18:05:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/opinion/sunday/trump-barrett-mcconnell.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/opinion/sunday/trump-barrett-mcconnell.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/opinion/sunday/trump-barrett-mcconnell.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/opinion/sunday/09gregweiner/09gregweiner-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump attacks moderator for second debate over deleted tweet"
     excerpt: "The apparent request for advice from Scully's account came after the Oct. 15 town hall, which was to be moderated by Scully, was thrown into disarray."

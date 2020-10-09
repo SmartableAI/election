@@ -78,6 +78,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
+    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
+    publishedDateTime: 2020-10-09T19:28:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
   - title: "Republican Attorneys General Spotlight 'Lawless' Record of Kamala Harris"
     excerpt: "The Republican Attorneys General Association (RAGA) unveiled a blistering ad about their former colleague and current Democratic vice presidential candidate, Sen. Kamala Harris, ahead of Wednesday nig"
     publishedDateTime: 2020-10-07T20:00:00Z

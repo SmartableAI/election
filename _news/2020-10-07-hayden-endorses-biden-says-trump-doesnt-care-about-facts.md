@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519940-hayden-endorses-b
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts?amp"
 type: article
 quality: 140
-heat: 880
+heat: 900
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-town-hall-2-rt-er-201005_1601944628741_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "'Record-breaking group' of faith leaders endorses Biden"
+    excerpt: "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group."
+    publishedDateTime: 2020-10-09T19:47:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Democratic Armed Services chairman predicts defense budget fight if Biden wins"
     excerpt: "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win."

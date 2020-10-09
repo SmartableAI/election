@@ -1072,6 +1072,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Donald Trump’s Alternate Constitutional Reality"
+    excerpt: "But the highest test of politicians’ constitutional scruples is not how they populate another branch of government. It is how they carry out their responsibilities in their own spheres. By that test,"
+    publishedDateTime: 2020-10-09T18:05:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/opinion/sunday/trump-barrett-mcconnell.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/opinion/sunday/trump-barrett-mcconnell.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/opinion/sunday/trump-barrett-mcconnell.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/opinion/sunday/09gregweiner/09gregweiner-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Dow falls 400 points after Trump calls off negotiations on stimulus package"
     excerpt: "Wall Street fell on Tuesday after President Donald Trump said he had would be halting all negotiations on a new round of coronavirus stimulus relief. The Dow Jones Industrial Average fell by almost 400 points,"
     publishedDateTime: 2020-10-06T19:34:00Z

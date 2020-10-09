@@ -4248,6 +4248,22 @@ related:
         width: 570
         height: 320
         isCached: true
+  - title: "The Kamala Harris Dishonesty Insult"
+    excerpt: "Kamala Harris’s own references to the Harris administration seem to make this reality even more obvious. Her radicalism should be an issue. His stands on its own, but hers is bold. If she were running at the top of the ticket,"
+    publishedDateTime: 2020-10-09T19:36:00Z
+    webUrl: "https://www.nationalreview.com/corner/the-kamala-harris-dishonesty-insult/"
+    ampWebUrl: "https://www.nationalreview.com/corner/the-kamala-harris-dishonesty-insult/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/the-kamala-harris-dishonesty-insult/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/kamala-harris-washington.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
     publishedDateTime: 2020-09-28T20:51:00Z

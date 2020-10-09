@@ -927,6 +927,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Visualizing the people exposed to COVID-19 by Trump outbreak"
+    excerpt: "Since last week’s announcements that President Donald Trump and his adviser Hope Hicks tested positive for coronavirus, dozens who came into contact with them or their associates have also contracted the virus."
+    publishedDateTime: 2020-10-09T19:40:00Z
+    webUrl: "https://www.usatoday.com/in-depth/graphics/2020/10/09/visualizing-those-exposed-to-covid-19-by-trump-white-house-superspreader-outbreak/5927865002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5927865002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927865002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/d821f97e-5909-4ee6-bbc1-52a6bf72bdb1-wh-top.jpg?auto=webp&crop=1274,717,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Voters know Trump isn’t just a bad president. He’s a bad person."
+    excerpt: "Donald Trump is not.” That one, jolting line gets to the bedrock issue of the 2020 campaign — and why the electorate now seems poised to reject an incumbent president for the first time in 28 years. It’s not that Trump and Biden don’t have ideological differences that matter;"
+    publishedDateTime: 2020-10-09T19:37:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWWNOYAJ4YI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
     publishedDateTime: 2020-10-02T08:44:00Z
@@ -3614,6 +3646,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "White House: No “Public Health Value” in Revealing If Trump Still Has COVID-19 Even If He Holds a Rally This Weekend"
+    excerpt: "Apparently the public should mind its own business re: whether or not the president still has a contagious disease."
+    publishedDateTime: 2020-10-09T19:22:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rallies"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rallies/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-rallies/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 52
+    images:
+      - url: "https://media.vanityfair.com/photos/5f7725028cb24481eb54eae0/master/pass/donaldtrumpcovid19.jpg"
+        width: 2000
+        height: 1331
+        isCached: true
   - title: "Days After Trump Diagnosed With Covid, White House Staff Finally Given Instructions: ‘Do Not Come To Work’ If You Have Symptoms"
     excerpt: "Days after the news broke that President Donald Trump had Covid-19, the White House Management Office finally sent out a message to the staff with instructions."
     publishedDateTime: 2020-10-05T02:05:00Z

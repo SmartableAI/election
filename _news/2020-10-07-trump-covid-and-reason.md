@@ -1088,6 +1088,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump to hold first in-person event at White House since getting coronavirus"
+    excerpt: ""
+    publishedDateTime: 2020-10-09T19:49:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R4i4SBnbFh0/trump-to-hold-first-in-person-event-at-white-house-since-getting-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Dr. Marc Siegel: Trump coronavirus treatment likely 'precautionary', may continue for 'several days'"
     excerpt: "The course of medication given to President Trump for treatment of COVID-19 is \"being done for precautionary reasons\" and \"may continue for the next several days,\" Fox News medical contributor Dr. Marc Siegel told \"Fox News @ Night\" Friday. "
     publishedDateTime: 2020-10-03T05:59:48Z
@@ -1149,6 +1163,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-health-91.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump: Anti-Covid Commander and Patient"
+    excerpt: "I’ve been dismayed by the open and intensifying stigmatization of Covid infection especially with the furious coverage the infection of the president and many in his circle."
+    publishedDateTime: 2020-10-09T19:06:00Z
+    webUrl: "https://www.wsj.com/articles/trump-anti-covid-commander-and-patient-11602265235?mod=opinion_major_pos16"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-anti-covid-commander-and-patient-11602265235"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-anti-covid-commander-and-patient-11602265235"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-241538/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says"
     excerpt: "Vice President Mike Pence and second lady Karen Pence have tested negative for COVID-19, Pence Press Secretary Devin O'Malley announced Friday morning, hours after President Trump, first lady Melania Trump and White House adviser Hope Hicks confirmed they'd tested positive."

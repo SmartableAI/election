@@ -1001,6 +1001,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Kamala Harris and the ‘Double Bind’ of Racism and Sexism"
+    excerpt: "Reactions to her debate performance show not only the bias that women and people of color face, but the fact that for women of color, that bias is more than the sum of its parts."
+    publishedDateTime: 2020-10-09T19:11:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/kamala-harris-racism-sexism.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/kamala-harris-racism-sexism.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/kamala-harris-racism-sexism.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09harris-racism1/09harris-racism1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris’s ‘Canadian Dream’"
+    excerpt: "The Democratic nominee for vice president grew up in the same Montreal neighborhood where a Times reporter lived. He reflects on how Canada helped shape her."
+    publishedDateTime: 2020-10-09T19:05:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/world/canada/kamala-harris-canada.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/world/canada/kamala-harris-canada.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/world/canada/kamala-harris-canada.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/world/09canadaletter-1/09canadaletter-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
     publishedDateTime: 2020-10-06T00:10:00Z
@@ -1303,6 +1335,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "+MWhpZrEIrHLr1TU8K5g8Ux/rpLuOeBHheQHHNuKeDjjDx8PxgOkmMKDUOvwE95kQC0hpW5A2wZD4ppP/oGqUkR151kvAgO/khuab3uRchg5aEduL1wUUIg1w8vF9yH4g8U/SzrxrUeI6Kj5dJBK3BJBTr35qNPt87j33JTeQ53iHrU56XEH2Xp4JhnPoIrCoWA1cXgtJ1Gd4jtIXqyi3ysa0OB9/W88Z03m1Ne+EKgwJt+rXucSZSpksMbGSeVaOV+AuvFc74LbvCda7zBkZ4+LrPQyfu2nOEPDb3K1TPD6VY+fSsqssIpCI3X/KivaS9fp7TMHPB38CG4wW0WAyr8d7Z01Gw/99M350dQXqbI=;pq9UBjXZzaF77ZtQ0NOZIg=="
+secured: "ggqAEU3QDQmfbwp+XxJ/ZRR+JZ+iKGdoiZWEOb/ngTZlhNsJmvq20mhaq2y94NKtb3H/y64xV82f8iaXcvR9IRJ2mlvuaVuCJ8/nU0m75EwbKXZQRNppI+Uqu9g6Xsg3ht1dE3Igvn3MPHL0rMuo1Bc4wSbcpmR81KpBSmagwXW8H/c0kBNfJ/I8Elx7K8kKVgP6WfbWqWn6tQYFfmAOvbtoNNIWWBsEIzcSKyq+LEf4pYfYvjV4EK/lijt722HZI3M3Oe73Yizac14B2GADvkD91PJ1p4q2dXz6xG0/o34Dwx7JQYsexECwH9w9aemXr9vi9SkN6Th4kW8RcMK6awS3NxY5/gT0klMzHGlIHlY2aQRIoQvWD7gI3QubgEiFB+qNXc6gml3AXo0pkBVa+cGYLtjwTe+Um5eZLYFw8viU1ueL/0xKXe74uwkA/YEWyfUAOgfb3QIdboR5sbCtVU0PkmWcA6GGudmh2jLX8pmY4Q3oER/KXNUBR+zDXluyT5IKfNewP/CT0UfyaOg5kg==;xzQHh3Beg9i2cxa0IrfXTg=="
 ---
 

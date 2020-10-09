@@ -1085,6 +1085,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump to hold first in-person event at White House since getting coronavirus"
+    excerpt: ""
+    publishedDateTime: 2020-10-09T19:49:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R4i4SBnbFh0/trump-to-hold-first-in-person-event-at-white-house-since-getting-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 152
+    images:
+      - url: "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden says he and Jill Biden tested negative for coronavirus"
     excerpt: "Joe Biden confirmed Friday that he and his wife, Jill, tested negative for the coronavirus, days after the former vice president appeared on the debate stage with President Trump, and hours after Trump revealed he and first lady Melania Trump tested positive."
     publishedDateTime: 2020-10-03T02:19:00Z
@@ -1139,6 +1153,22 @@ related:
     webUrl: "https://www.wsj.com/articles/trump-covid-and-reason-11602026102"
     ampWebUrl: "https://www.wsj.com/amp/articles/trump-covid-and-reason-11602026102"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-covid-and-reason-11602026102"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-241538/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump: Anti-Covid Commander and Patient"
+    excerpt: "I’ve been dismayed by the open and intensifying stigmatization of Covid infection especially with the furious coverage the infection of the president and many in his circle."
+    publishedDateTime: 2020-10-09T19:06:00Z
+    webUrl: "https://www.wsj.com/articles/trump-anti-covid-commander-and-patient-11602265235?mod=opinion_major_pos16"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-anti-covid-commander-and-patient-11602265235"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-anti-covid-commander-and-patient-11602265235"
     type: article
     provider:
       name: Wall Street Journal

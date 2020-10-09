@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242707"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242707"
 type: article
 quality: 132
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 469
     height: 351
     isCached: true
+
+related:
+  - title: "Trump steel tariffs raised prices, shriveled up demand, led to job losses, some Michigan workers say"
+    excerpt: "\"I don't see any policy that helped us. We are losing our damn jobs here,\" said the head of a steelworker union."
+    publishedDateTime: 2020-10-09T18:38:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/trump-steel-tariffs-raised-prices-shriveled-demand-led-job-losses-n1242695"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242695"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242695"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418782/201009-steel-michigan-mn-0850_f7e28b4683f076efb1969aa400ae6663.jpg"
+        width: 2500
+        height: 1462
+        isCached: true
 
 secured: "mod4d0lH7lN2QlbQqfUVHbR3pnOzFRBYMQz8cX3w+Ypf5UU+Mb0PgcwQnh96+zsqqwjez5ExAkrGPcMOeG1TFnWX84ALFM7m+vdmeegiLZ45BQ9wPs8Tu+xQgIfUJy32jrFPFQJrp89Kt8+JNBHlB7VNdVsNiUWX7W4XVrAJGeOAiCOL2okuFBEx2E1WLOrPlXTSON0vMGQivP5e20g/8AbnKl6nQzkuDfCiD1zULDX6i6WYQ01xaL+7bIg5lr/KQYepGynzhTterFxHiXKYyajKfff3He+mRaI6Zo6d5oYyl72g+aEwt4KuwNN0rj6CNudLVCOL5cOgmHWin7DdtNnu0WNMEMLD9IJdfeaTats=;409OVc00V/LsQIkEHAz/KQ=="
 ---
