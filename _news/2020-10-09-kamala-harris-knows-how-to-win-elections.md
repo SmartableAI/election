@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Knows How to Win Elections"
 excerpt: "The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Donald Trump. How to beat Covid-19. The shrinkage happened in three stages. First, Democratic primary voters decided that beating Trump was more important than the revolution."
 publishedDateTime: 2020-10-08T18:32:00Z
-originalUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-knows-how-to-win-elections.html"
-webUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-knows-how-to-win-elections.html"
+originalUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-2020-election.html"
+webUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-2020-election.html"
 type: article
 quality: 130
 heat: -1
@@ -748,6 +748,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Mike Pence’s Trumpian Makeover"
+    excerpt: "In April, as the country’s coronavirus outbreak surged, President Trump mocked Mike Pence’s filibustering skills, presenting himself as a teller of tough truths compared with his slippery Vice-President."
+    publishedDateTime: 2020-10-09T10:34:00Z
+    webUrl: "https://www.newyorker.com/news/letter-from-trumps-washington/mike-pences-trumpian-makeover-at-the-vice-presidential-debate"
+    ampWebUrl: "https://www.newyorker.com/news/letter-from-trumps-washington/mike-pences-trumpian-makeover-at-the-vice-presidential-debate/amp"
+    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/news/letter-from-trumps-washington/mike-pences-trumpian-makeover-at-the-vice-presidential-debate/amp"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 150
+    images:
+      - url: "https://media.newyorker.com/photos/5f7f1d5b28c87358b3ee8ef4/master/pass/glasser-pence.jpg"
+        width: 7820
+        height: 5213
+        isCached: true
   - title: "Pence's tough debate task is to defend Trump's actions over the past week"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2020-10-07T12:59:00Z
@@ -1263,6 +1279,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "LDR6mtnlO45kcGcBN7pHzcGC/FJL1sNgywT2faC0FLv1RXFauNtLtNTOmSOwvlFJ9l8BKAfb9ra/0zM/be3YZRqzVOyqYjFUqitUb3BYS60HnsPEp0Y6lT+auBapqeRD1TH23EqD0Ii0b7tKYp4sZE7XP0OTaKg520pMmpWgIbUs4qHlEwBNlEjTxtynzWh49rACixHYYz7xKSbs3AcVmOC5szPtHqdBzqICmlSfCWtHL9l4YV5xQkUvTDYHmTso2lX5leFoUTLOsSkymr1Y50oZjhrGs8ljj/lK+GTUTt9QRHx8ovFuVb7DG8ODB/zmPvWtyRKd6VxSScY0NyYjNVUuViNxJFtAtr/angXXe2owalhGLI5Rj9DEXRkKxg8nGCqgHmEGzLzbi+hdA1EQnwv4MGRxmuiVE7Fxndn5Nx+PaEQqt+KPG+O3yviXhVYhbTLKP57+MtTRGahZmK7mHb9szIulXbgSYoSK6nPhtkV9ZqGucsuxO31iyVMNy+QQ+WHBsE+cU/IRCn3waOD5yA==;geW0WMozOsXUqr4ON9lXjA=="
+secured: "h45XJ8SSWXgoFjrIIOlrk0iB0EoPOSaFvKZClOyBlK85c/1DURGBbgztOE52jKEe+BaTEgWGzeZbq8pWl4jJA0MPMh6wQorkx+PD6sKRfpsoHzouU8CQE6EJgwLQJmEVy9F0fgXMheWbW1+llTS4vUjBVQ9pFfza7wf1Q92ni30/isys4MVsBDYng3H3zGnSffRoMfZGk0c9pNL6IzhQ/SPv0qHSkME/wbISrkEhA9OjoUzFWPyXhrNWeUXOGlMNwHGcZYBunoAJynHcvkA8DdtbhBBWu/7Sq7sAepxQqJsdOGl/aOtl5bGGQjr5h8+FjlQ5EQ0Jc3W+vxK4J7ASHn9bdE5JBrLqqkXhBU34HL0=;I3j+68G5B8mXXykGkoxCnw=="
 ---
 

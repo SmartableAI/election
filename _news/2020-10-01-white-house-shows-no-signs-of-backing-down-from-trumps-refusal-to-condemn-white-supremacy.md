@@ -733,6 +733,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Mike Pence’s Trumpian Makeover"
+    excerpt: "In April, as the country’s coronavirus outbreak surged, President Trump mocked Mike Pence’s filibustering skills, presenting himself as a teller of tough truths compared with his slippery Vice-President."
+    publishedDateTime: 2020-10-09T10:34:00Z
+    webUrl: "https://www.newyorker.com/news/letter-from-trumps-washington/mike-pences-trumpian-makeover-at-the-vice-presidential-debate"
+    ampWebUrl: "https://www.newyorker.com/news/letter-from-trumps-washington/mike-pences-trumpian-makeover-at-the-vice-presidential-debate/amp"
+    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/news/letter-from-trumps-washington/mike-pences-trumpian-makeover-at-the-vice-presidential-debate/amp"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 150
+    images:
+      - url: "https://media.newyorker.com/photos/5f7f1d5b28c87358b3ee8ef4/master/pass/glasser-pence.jpg"
+        width: 7820
+        height: 5213
+        isCached: true
   - title: "Pence's tough debate task is to defend Trump's actions over the past week"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
     publishedDateTime: 2020-10-07T12:59:00Z
@@ -1004,7 +1020,7 @@ related:
   - title: "Kamala Harris Knows How to Win Elections"
     excerpt: "The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Donald Trump. How to beat Covid-19. The shrinkage happened in three stages. First, Democratic primary voters decided that beating Trump was more important than the revolution."
     publishedDateTime: 2020-10-08T18:32:00Z
-    webUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-knows-how-to-win-elections.html"
+    webUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-2020-election.html"
     type: article
     provider:
       name: New York Times

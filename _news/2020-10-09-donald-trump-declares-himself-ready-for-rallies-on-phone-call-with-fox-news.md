@@ -93,6 +93,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Hope Hicks returned to the White House to pull Trump across the finish line. Then coronavirus hit."
+    excerpt: "The pandemic may never have been more palpable for the president than the moment his most trusted aide took ill."
+    publishedDateTime: 2020-10-09T14:40:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/hope-hicks-job-coronavirus-trump-covid/2020/10/09/e73f97e6-0806-11eb-9be6-cf25fb429f1a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/hope-hicks-job-coronavirus-trump-covid/2020/10/09/e73f97e6-0806-11eb-9be6-cf25fb429f1a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/hope-hicks-job-coronavirus-trump-covid/2020/10/09/e73f97e6-0806-11eb-9be6-cf25fb429f1a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FC36ZDE2EAI6VLLZ5334242GIE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Comey: Trump 'spraying gasoline on a fire'"
     excerpt: "The former FBI Director James Comey says President Donald Trump's inability to condemn white supremacist groups is like \"spraying gasoline with a fire hose\" on a fire. Comey was testifying before a senate panel on the Trump-Russia probe."
     publishedDateTime: 2020-09-30T21:00:00Z
@@ -124,6 +140,6 @@ related:
         height: 683
         isCached: true
 
-secured: "QSHvwZHGPpyIzEqMeCKQ1Nj/aS5S21pBESlwCNyKOthXeYE9Mu5JqBzwotHZOqb9yfoWAkQvG8nF5oP8v8SwM5N0H32PO9y65HcOv61VJAeYYLUY1pdkm98isfs44WacQB0voG4+Y3AoEs0Hk+IzNYzK8NJ0tEUSnFvRjT8SMzCMdM6AFqzcSFsniQfCgN1L5BZyw9AiaJPNHuFkDh8z3yWHe8tBGns7D7YYlR0YeYAkJeXQosA4kZ+mI1dMEjEhKKr3D970AHsjxCPdSWhM+94tYfreo5BYF2+XOTfkDIWD8lszEaNLG+eO4Od180USikMl7/kiggqC7c0hlyeTgWRvNswhn4Hn9UGYPf7iahg=;X2+EhCbjIR6glB7VGExkjA=="
+secured: "AAJ1T4neNHk8r2Sxb3YitlwbJq981h5RzqUjp/lmG9uA22o3A2MuaOnCxXs/+DqeDQgnTW9al+uCGJl65TGlszqzBQ8obMf979DE8QOvu/V4LyG75P/I1Zdk6bQRn/buh2HtbEp5g2BLgvMOY+B5a2yB8dt3tKjaKDAHPFcJNKiOalgZUdUvK29aVYLh3K5NoPuVSx+GTSy8T88wnN85wWycWcC80l4i2Sk8oa22f0mEbW8zHGfpeHjseez1l+ApxWYqKtleNcoDWi0HgLs+1HVMNAx3Z/u5DbQ9cWYW3iTu7zEntaxxm47VIeh0uG+gGTDpmI30iltWq/UGQCGmp3gVy8m6gu+1VxUtQGUQZptkIM5mDeHIKAWYf3IGNUHmyfFT2cpUrw+IyIQonVljtWS9tI51PhMCEpi0yySB62nVeqiC0JPXo6vukut64uzeZ22RZ1YzOItvUxJOzKd4L8TLCqZnH+ai0Wn7pZEP/RKmXNLUFdxZdGaWu+HvGBLxzGuqCKhFPFdScyQQaJBIRg==;CemXAfq+lJ2k6H8+ysP4GQ=="
 ---
 

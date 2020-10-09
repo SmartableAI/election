@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
     quality: 65
     images:
       - url: "https://assets.realclear.com/images/52/523120_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Why Do I Support Donald Trump? Look at His Record"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-09T03:03:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/09/why_do_i_support_donald_trump_look_at_his_record_525809.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/523613_5_.jpg"
         width: 750
         height: 500
         isCached: true

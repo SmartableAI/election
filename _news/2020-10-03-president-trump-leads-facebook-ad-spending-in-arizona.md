@@ -93,6 +93,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Why Do I Support Donald Trump? Look at His Record"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-09T03:03:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/09/why_do_i_support_donald_trump_look_at_his_record_525809.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/523613_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "U5sEIJNdpmWeFFllL2Yhk/9vixtH8PIHM0AiJKsJetSJjRX3mbc0M5RyqfZwZz2DaMVy/ak/KbeuN3pj43udwp/mDzgkwwxnGNpn3dU3VzGxl9sqciEBg8Auc1Uy/gTAL//Hb/XhZj2kaE4UFlSz3dW9GIQHqdZcr37Pu7nIH3u7li5cLRgfZ/467pKlAafhbKtbwI1LN+/W+U0Kb+744GCH/fK+an1EggFenWyw7jFyaiB1WdHTiKdoZz/HrsvoxHtL+SLwENjHtbBBIEAVz9xq6MF0I0giLPKPb3MWsSo1yQmZULgsD8Dvmkydmni1xGTYBC624keqrDtuDetETtiZUfTXSsq4SL+Mwx9j5wU=;7WvCt9x0wq2pAknJDS3cTA=="
 ---

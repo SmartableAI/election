@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-r
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
 type: article
 quality: 140
-heat: 4780
+heat: 4820
 published: true
 
 provider:
@@ -862,6 +862,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ef7aab5571027102156b2%2F0x0.jpg"
         width: 1200
         height: 784
+        isCached: true
+  - title: "Pelosi unveils 25th Amendment bid, questions Trump's fitness"
+    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president"
+    publishedDateTime: 2020-10-09T15:38:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness-73522467"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness-73522467"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness-73522467"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_6e20c21cbeb548c6b46f74822e788ab4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
@@ -3083,6 +3099,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/03/John-Cornyn.jpg"
         width: 800
         height: 430
+        isCached: true
+  - title: "Trump administration targets diversity hiring by contractors"
+    excerpt: "But advocates for corporate diversity initiatives worry that more cautious executives will halt or scale back efforts to make their workplaces more inclusive out of fear that a wrong step could jeopardize lucrative public contracts."
+    publishedDateTime: 2020-10-09T15:51:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-administration-targets-diversity-hiring-by-15633926.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-targets-diversity-hiring-by-15633926.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-targets-diversity-hiring-by-15633926.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/47/54/20085552/3/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."

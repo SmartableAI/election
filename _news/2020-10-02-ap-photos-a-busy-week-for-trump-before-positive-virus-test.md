@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trum
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536154811&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9402O"
         width: 818
         height: 545
+        isCached: true
+  - title: "Hope Hicks returned to the White House to pull Trump across the finish line. Then coronavirus hit."
+    excerpt: "The pandemic may never have been more palpable for the president than the moment his most trusted aide took ill."
+    publishedDateTime: 2020-10-09T14:40:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/hope-hicks-job-coronavirus-trump-covid/2020/10/09/e73f97e6-0806-11eb-9be6-cf25fb429f1a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/hope-hicks-job-coronavirus-trump-covid/2020/10/09/e73f97e6-0806-11eb-9be6-cf25fb429f1a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/hope-hicks-job-coronavirus-trump-covid/2020/10/09/e73f97e6-0806-11eb-9be6-cf25fb429f1a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FC36ZDE2EAI6VLLZ5334242GIE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Comey: Trump 'spraying gasoline on a fire'"
     excerpt: "The former FBI Director James Comey says President Donald Trump's inability to condemn white supremacist groups is like \"spraying gasoline with a fire hose\" on a fire. Comey was testifying before a senate panel on the Trump-Russia probe."
