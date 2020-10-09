@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Fact check: Satirical post falsely claims Trump would be fine if he hadn't gotten tested"
+    excerpt: "A liberal commentator's Facebook post claims Trump would be fine if he didn't get tested, satirically referencing debunked claim about coronavirus."
+    publishedDateTime: 2020-10-06T22:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/06/fact-check-post-claims-trump-would-be-fine-if-he-hadnt-gotten-tested-satire/3626371001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3626371001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3626371001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ur0t5AhnPcc3zcaq+vdHfftjwTf0svFhaS3iHe4xFIMMszyOMOfuRlLgmMAR3+duDv4El1DIg0MwOpL0nIlT8AGgO6yO2dMsCVxu+DQ/rWJpiwzBshkYgoi/2ghS8LcXzGDw6RbNupepG35KlSGmmaeHTbcOD/hmIU4N56nfuoWyXNA06mhIm/cuEcTkKCe9DM8PfXliYZGgtwc9m9jtkpuDTVPEH/t3IcjN5rzgp5SDuJ8TQ8eVnvDOHFmpbkBhIIDRli1TX4T+j/e/2sEuhOUxMyLVedl0E0l8T0ZFz7CXI7vrCy7USq5mkIbnvOcMuWKYpTGy6DlD0OBON53BLUaNAVU/xk8K4h2E6WESFFpkgDmbWkDitFyI15eZwZNEQjrRaNf8ZoeUrSMVLRPP6y0dvi1FDBkVeX8saq1V4nx8HqNF4Gehd0R+Y4UdQHSFwgn+ZDle3+byrq3hWhb4UlYofvTLkAKTMPatek7qmrRiE/d/HhZT+bDrVEG/jxR0ZU89tK9CgoHMOWf9XEsx3g==;DhFjE/QHSUJKaSNAm+dVxw=="
 ---

@@ -201,6 +201,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Get-Out-The-Vote Event in Las Vegas, Nevada"
+    excerpt: "Democratic presidential candidate Joe Biden appeals to members of the Latino community at a “Get-Out-The-Vote” event in Las Vegas, Nevada. Pete Buttigieg, a 2020 Democratic presidential candidate, spoke to supporters in Las Vegas after the close of"
+    publishedDateTime: 2020-10-09T21:08:00Z
+    webUrl: "https://www.c-span.org/event/?476841/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "zgW/4tz0JgTzLB8MIsrEVCop9iWmiapLia8ypJ/bDw7c4tAAXgg/v6NSibtcweaeTkREC/lPqRZoZnA6DLOId6oHULRecFpzbouoisGsmD4BuvC+caWerLtvpwW0FEIOmVHPfT9Mn83tOAdL2E9l0DN4gL/2NqO8OqeWoIpu+5ep2NvR63x4fJw3LMwMQ1k+FVrfu04eOE/5vbDkfwecgiRykxcoAMduOw3sFr/aDushpotlRFltw+iCdclKzbA4o12To4cwyMb83J1XzBql+ZT1/ad7b+Gbt2SgJeCFQpCBXi+L5y1Lo848xb0hZW460WxtBl5XgqmLjwQ0YIupBD6oEwz8yosOJhwbz3Y2sD8prCTxi7S1gGQUMGoKg+h2CCwqdVoSWs+wFIylRI/YIK48WHxBoKO0DLsKPRotObo6BinMLy+GKcnthL3WYa9kFt+yn7XiGwrtFpVUv6MA/xjNLRdissHbfhj/AQnNoWAMxrvfMU5fxD5vSShKVcZ3Y5QVXOu5qb+KgQulzpdzQA==;twLsLOcp9DpjbSAtzUuzMg=="
 ---

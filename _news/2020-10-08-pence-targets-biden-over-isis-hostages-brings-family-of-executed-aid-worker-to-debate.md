@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/520134-pence-targets-biden-over-i
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp"
 type: article
 quality: 142
-heat: 922
+heat: 942
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/biden-trump-debate-splt-gty-ps-200929_1601430833917_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The Biden campaign is selling swatters after a fly landed on Mike Pence's head during the VP debate"
+    excerpt: "The Biden campaign was quick to capitalize on the moment in the vice-presidential debate, releasing a range of campaign-slogan-branded fly swatters."
+    publishedDateTime: 2020-10-09T21:30:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-swatter-mike-pence-vp-debate-fly-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5f7eda07c655f6001969ed95?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden campaign raises record $3.8 million in second hour of debate"
     excerpt: "Joe Biden's deputy campaign manager said the campaign set a new record for fundraising in the second half of the first debate."

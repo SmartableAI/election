@@ -328,6 +328,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence and Kamala Harris face off — pointedly but civilly — in vice presidential debate"
+    excerpt: "Senator Kamala Harris tied Vice President Mike Pence to a “disaster” of an economy, a “failure” of a coronavirus response, and a “weird obsession” with undoing the achievements of the Obama administration in a tense but civil debate between the two candidates Wednesday night that avoided the chaos of last week’s presidential debate."
+    publishedDateTime: 2020-10-09T20:20:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/07/nation/pence-harris-face-off-pointedly-civilly-vice-presidential-debate/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/nation/pence-harris-face-off-pointedly-civilly-vice-presidential-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/nation/pence-harris-face-off-pointedly-civilly-vice-presidential-debate/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 70
   - title: "Briggs: Kamala Harris brought out the worst in Mike Pence"
     excerpt: "Mike Pence started Wednesday’s vice presidential debate by taking us to an alternate universe. One in which President Donald Trump prevented a pandemic before it could even begin. “Before there were more than five (coronavirus) cases in the United States,"
     publishedDateTime: 2020-10-09T09:12:00Z

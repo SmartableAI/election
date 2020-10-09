@@ -336,6 +336,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence and Kamala Harris face off — pointedly but civilly — in vice presidential debate"
+    excerpt: "Senator Kamala Harris tied Vice President Mike Pence to a “disaster” of an economy, a “failure” of a coronavirus response, and a “weird obsession” with undoing the achievements of the Obama administration in a tense but civil debate between the two candidates Wednesday night that avoided the chaos of last week’s presidential debate."
+    publishedDateTime: 2020-10-09T20:20:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/07/nation/pence-harris-face-off-pointedly-civilly-vice-presidential-debate/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/nation/pence-harris-face-off-pointedly-civilly-vice-presidential-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/nation/pence-harris-face-off-pointedly-civilly-vice-presidential-debate/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 70
   - title: "Former candidates support Joe Biden"
     excerpt: "Former candidates who ran for the Democratic nomination in 2020 are now supporting Joe Biden’s candidacy. This is not unusual for former candidates, but these ex-candidates are more outwardly enthusia"
     publishedDateTime: 2020-10-08T02:30:00Z

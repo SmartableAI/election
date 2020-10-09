@@ -120,6 +120,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "On Radio, TV, Trump Sets Out to Get Campaign Back on Track"
+    excerpt: "President Donald Trump is setting out to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T21:37:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "cS7tz6XIzkKJ7Al5VJetzTiKCm0IdqRUD3Dl1XY6DSfmSBDTwh0TZkgbkUp+3M9ZkiRLhNCV9F0DXDqerXMvX00QHtJlUNkJydFtHAV0SU7vZYaN4ovvYKX0Bwrmj2K+57RnpQ0i9vNTSi2A+IwWx3bwUK3rhzi+xC/oRq+Ba0wOZN7+pf2L9nxSavDYecFnc8gwiXF10ufzfBBN4susFWf+sBAS7E8dV6O+7EerAvBJmxS95J4PRaAl21XNiO4+Eeq+uQeWcvPYTK+nAcv92H9CVhrTIdMRUyP6+sqjdWaUUj920DppwEwhfezLZRd350ES0HB8H0lYuf0wXmODo6HCNjL+gPZZx9X0SX5OQ/A=;dOSgAMz48hAPo35MhSq90Q=="
 ---

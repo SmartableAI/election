@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pro-Trump commentator banned from Fox News after calling Kamala Harris 'lying b---h'"
+    excerpt: "President Trump commentator Harlan Hill is no longer welcome on Fox News after he called Democratic vice presidential candidate Kamala D. Harris a “lying b–h” on Twitter, the network said Thursday."
+    publishedDateTime: 2020-10-09T20:55:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/9/harlan-hill-pro-trump-commentator-banned-from-fox-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/9/harlan-hill-pro-trump-commentator-banned-from-fox-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/9/harlan-hill-pro-trump-commentator-banned-from-fox-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 83
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/09/harlan_hill_c0-0-865-505_s1200x700.jpg?312734b8f272ba751a8ecd61209e640c5e31d82c"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Fact-check: Does Kamala Harris support police defunding?"
     excerpt: "As vice president, Kamala Harris would \"defund, dismantle, and dissolve police departments.\"PolitiFact’s ruling:"
     publishedDateTime: 2020-10-09T16:57:00Z
@@ -74,6 +90,22 @@ related:
       - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201009&Category=NEWS&ArtNo=201008973&Ref=AR"
         width: 750
         height: 422
+        isCached: true
+  - title: "Kamala Harris says 'I'm answering the question' as she dodges on court-packing"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Thursday she was answering the question on whether Democrats should try to pack the U.S. Supreme Court as she declined to take a position on the issue."
+    publishedDateTime: 2020-10-09T20:23:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/9/kamala-harris-says-im-answering-question-she-dodge/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/9/kamala-harris-says-im-answering-question-she-dodge/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/9/kamala-harris-says-im-answering-question-she-dodge/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Supreme_Court_34010.jpg-13433_c0-0-4500-2625_s1200x700.jpg?27c25af2ea4591cbd287e099859ceda78efd15e3"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "At5puyGJX53G1MLcTVLXulqkEmhwTaNNjwLOaPIBKN/ZzIP7pd/gdpRSAcn7su1uRfwTajVm1cFS3qqSnizs6GlOWJgrDoQgVHRFhKnqw3Ld5F9hL3eEJU7FVNUd5A3iroeZh7NxuHS+/cEaqHdMMPS66T/UFab/GGTc6NapPlvWwONzFkWU50nnXFG5AifpCMgvZCXfAVkQ3C8J9YTQereOyATp5AisSZe2/AkL2k7DQTKyVkUdt+/3DSVpV526Jbx5hJW6Jr8xZ+AsG4/rny7jANXmcwpAtPQ01XZaD/GpJ0Xiwe6LWlKk4sFCtAGQVmcXJKl0mpNrdRQINVwd64ynO50QI1hOmMqiOihQBBaR/ktIKQqWkAYRutYBnUNy/ptJP4esxpb1oEyWCIEnk6hbbFy3sxmJPDs5s1gXROLYwdRPJqIdQiPrmKHas22mMRhyrOB5gMR4qYnCXT0HaECy0ZzaRlFS0EDJo5ZJoV2pdK15lxZjrnWSfl/4zogTiF1/RSONvC568cv2zsYTQg==;Gb9FbHbQyZ7mLsenXQvL8Q=="

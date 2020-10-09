@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Trump to hold first in-person event at White House since getting coronavirus"
-excerpt: ""
+excerpt: "President Trump plans to hold his first in-person event at the White House on Saturday since getting coronavirus, Fox News has confirmed."
 publishedDateTime: 2020-10-09T19:49:44Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R4i4SBnbFh0/trump-to-hold-first-in-person-event-at-white-house-since-getting-coronavirus"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R4i4SBnbFh0/trump-to-hold-first-in-person-event-at-white-house-since-getting-coronavirus"

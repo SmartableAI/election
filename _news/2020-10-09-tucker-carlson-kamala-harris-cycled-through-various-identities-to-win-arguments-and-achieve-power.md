@@ -3,8 +3,8 @@ category: news
 title: "Tucker Carlson: Kamala Harris Cycled Through Various Identities To Win Arguments And Achieve Power"
 excerpt: "Tucker Carlson delivered a monologue on the vice presidential debate on his FOX News show Wednesday and said the media denounced Vice President Mike Pence as sexist while praising Sen. Kamala Harris for her smile."
 publishedDateTime: 2020-10-09T13:30:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
 type: article
 quality: 51
 heat: -1
@@ -2525,6 +2525,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "EUW7YGF10jXhNC6kuF5kMJRazscYvrEm5Dm7+JMDNlOTsnH1PcLF0jhVZ1UA1X+BPNcvjdTXJZRGuO8Kwhj2niIic7bOtH/wbH32xAtLw3PDVi/AwuNAdeuUB2cCje7p062CFVLcHOUb6k1cxZAVNvLvSZJ5hXEOPcC/k4uq1O8MHFmPAp1a5sfXb+3c+chGsc9UGW0zaMdPSNoqBbmPDRcntgr09GmPfG0j/lODwHPYWPZEggPa1HtrXt7YyUASA5TehZ0Cyo1DL39IhbOsMSGdl7jwLTAMv1X4CsEbo3ISQ8AC15vM5KGq3IoLT98XUV6ze/3D2Xr6yCJA2w9GHX+rWECejTkyO44DdVJvrKP6YFLEia/CNTR5+ZhwcG2r2JLzjWwDby6I8dntkjDezKz7yki4ZtCBNiqNXW7hBQJsuLdPwd9YhhUQOKWf10xHRMcuzjFsXGBbyx7KiydOK14WSoxtefthBmOoxArk+LDpYfGfu/P/bV+kuxkMQ2+/fk9UAUt5Nsgl9uRZcwVumw==;ttHUNBMMhd2DqMQwuQ+xIQ=="
+secured: "dFQiyVawqGoiayyMmCxWnql3VibFzMhneXRvrTnqhi2R7eUGG6ZS3VSQM1NkRoDrZuKQ/Dngki103HOMYefm2w8mcKp021Ebj44fDFp76o6aW6FsRrz0cueqwIZryMrCyMow2P5aoPX4zHvuAyCmiTwJ/UppF3K4aemZckqDwJcVK3FhHhLwTU42+WCL2uizcAqwZYRBrUjU9yxUK5qcb6XMsGsMC4QAnJZ3O7xqhcYbj9vmKAueM3voG4lxpfByCC30jsHD4NfLgL3W5ZdvSTQ5X6LvcLzfXWY4hwlg8BHRiVK3GPemQ8FzPpdfL8m75kI86SR+huWiJ+RafrF6rbSvz4cAehiFNIv1diftGLA=;TAHiRaUeQAIPGnvb0juH0g=="
 ---
 

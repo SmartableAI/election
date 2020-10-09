@@ -927,6 +927,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump administration targets diversity hiring by contractors"
+    excerpt: "American companies promising to hire more Black employees in leadership roles and teach their workforce about racism are getting a message from President Donald Trump’s administration: Watch your step"
+    publishedDateTime: 2020-10-09T21:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_c8e94ad396ef40b993b513caa4224bcd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Visualizing the people exposed to COVID-19 by Trump outbreak"
     excerpt: "Since last week’s announcements that President Donald Trump and his adviser Hope Hicks tested positive for coronavirus, dozens who came into contact with them or their associates have also contracted the virus."
     publishedDateTime: 2020-10-09T19:40:00Z
@@ -958,6 +974,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWWNOYAJ4YI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "What you need to know about the COVID-19 cocktail Trump is raving about"
+    excerpt: "Regeneron's stock has soared 60% this year, while its CEO has been a member of one of the president's golf clubs."
+    publishedDateTime: 2020-10-09T21:06:00Z
+    webUrl: "https://www.cbsnews.com/news/what-is-regeneron-covid-antibody-cocktail-trump-covid-19/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/what-is-regeneron-covid-antibody-cocktail-trump-covid-19/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/what-is-regeneron-covid-antibody-cocktail-trump-covid-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/08/451bddff-be48-47a4-8918-5a25abc93bb1/thumbnail/1200x630/a73a8edcb18486baeeec90522562161c/cbsn-fusion-doctor-president-trump-calling-regeneron-therapeutic-drug-cure-for-coronavirus-thumbnail-562227-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump COVID-19 live updates: Campaign manager Bill Stepien tests positive"
     excerpt: "President Donald Trump and first lady Melania Trump are in isolation with what some are calling \"mild\" symptoms."
@@ -3619,6 +3651,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Restarts Public Speeches, Falsely Claims Covid Has A Cure"
+    excerpt: "US President Donald Trump will give a public speech at the White House on Saturday for the first time since testing positive for Covid-19, and will also hold a Florida rally next week in an attempt to relaunch his stumbling reelection campaign with only 25 days to go."
+    publishedDateTime: 2020-10-09T21:41:00Z
+    webUrl: "https://www.ibtimes.com/trump-restarts-public-speeches-falsely-claims-covid-has-cure-3059629"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "U.S. Agency Shows No Sign of Quick Action on Trump Social Media Petition"
     excerpt: "The Federal Communications Commission has given no indication it will move quickly on an effort by President Donald Trump to narrow the ability of social media companies to remove objectionable content and require new transparency rules."
     publishedDateTime: 2020-10-07T10:18:00Z

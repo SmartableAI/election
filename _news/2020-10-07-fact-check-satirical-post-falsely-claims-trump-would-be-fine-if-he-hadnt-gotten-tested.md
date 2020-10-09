@@ -31,49 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Despite Trump's claims, officials in vote-by-mail states insist process can be secure"
-    excerpt: "As the president continues to attack vote-by-mail as ripe for fraud, ABC News Live got an inside look at the process in Colorado, which has done mail-in voting for years."
-    publishedDateTime: 2020-10-09T10:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
+  - title: "Fact-check: Did Trump's 'Liberate Michigan' Tweet Inspire Plot to Kidnap Gov. Whitmer?"
+    excerpt: "The governor of Michigan has linked the plot to kidnap her to President Donald Trump's rhetoric during the pandemic."
+    publishedDateTime: 2020-10-09T10:46:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://s.abcnews.com/images/Politics/mail-in-ballots-sample-01-abc-llr-201008_1602190248467_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://d.newsweek.com/en/full/1648482/michigan-governor-gretchen-whitmer.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "If Trump's symptoms started before Friday, he may have been highly infectious during the debate"
-    excerpt: "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden."
-    publishedDateTime: 2020-10-03T12:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
+  - title: "Michigan's attorney general talks Trump, far-right violence, the role of Facebook, and the alleged plot to kidnap Gov. Whitmer"
+    excerpt: "Michigan Attorney General Dana Nessel spoke to Business Insider about members of a paramiltitary group accused of plotting to kidnap the governor."
+    publishedDateTime: 2020-10-09T07:16:00Z
+    webUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
+    quality: 97
     images:
-      - url: "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
+      - url: "https://i.insider.com/5f76599c74fe5b0018a8e9e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Collins: Maskless Trump Set a Poor Example at White House"
-    excerpt: "Republican U.S. Sen. Susan Collins of Maine says she was “shocked” to see President Donald Trump discharged from the hospital so soon."
-    publishedDateTime: 2020-10-07T02:31:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "IAHwfVonhmWQ893j1uDnOQ0PRf5stiIxbkeAG3kBOg075rTLHxwR6cMSoyp4P8361FDoKAXelMhqGILm8UkQ1ExhNKbskMvj9AQUNOL5et4S96w8RwoJA620vRvn0z9kZ1vQA5gue59qtkram9yhGpNDWyYni0rwabc4E0IipBWUdRCmBNMrqdtk/3Gj73I2s8g7x/GWPxpsfDyrbuYVJr/28QdUB/eatphu5VrrqViSgJ7lb/pwuXVGj7hTTR65N9tq/TcpbzNQB8y9xWI9msQKqa706wcphgJwfW6UV6vVNJkwarITou7HfVdutT6F3ZIHUZvmcVjyKh5CVXk91/jvvQyDPiFo2TuiVXNunXw=;Bi5SI580kmMsreYTf/89pQ=="
 ---

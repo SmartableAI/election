@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump personnel office weighs asking appointees to offer their resignations"
+    excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."
+    publishedDateTime: 2020-10-09T21:26:00Z
+    webUrl: "https://www.politico.com/news/2020/10/09/white-house-appointees-resignations-428412"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/09/white-house-appointees-resignations-428412"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/09/white-house-appointees-resignations-428412"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/2f/82/1d35ad4a4aee9069628e092332c8/201009-trump-mcentee-ap-773.jpg"
+        width: 700
+        height: 489
+        isCached: true
 
 secured: "vXLXX/u2bPmwO1lUcAVNiCsJkakfXtSc2MtyjJNmi8U3hXn9LCOPI5gIiPQ9sX6D/f1lkXAqOhPbcMWVY1ZLB9zeN5ADkwzE2Jn3XnBBBkYJBkoCdN9SdnVSPvdxeeKkzTTdAVgO4Pdi7h/dU5pgeZ+0QKiSu6nC/bIZ3aHbyU0ut6KDLk6EzyBpLgsrN9JqwscVqWh+ZHf+T0SPsHXpB4L3UfEzyxe5he6x/N8YxFkKpxwfDw3KaDZeHIriTjkJkHYI/r5z2FCcqPXfscZjWQC/zyRWahJtjff97iBdYjJE9f2mcU5VX75E19yJH/pwF0Say0o4Lz2tW+dEh7i//GRnt1gJ1eCPJ34xoWIC3uw=;+oPSx1FgD7jfFIwSVNbVAw=="
 ---

@@ -119,6 +119,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "On Radio, TV, Trump Sets Out to Get Campaign Back on Track"
+    excerpt: "President Donald Trump is setting out to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T21:37:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "mTwY/EmKKpvSl2lzXmkzvTwPCbMrNVhtOQ6ew8dbAhLzxb9kX3jJ5LeGzAfwURTesTwS+JUj7q/VJsDRf6cIdRtThxS552ZK0zUi23NaY29A6H9r1Ptll8v8UTxXOeLuwtJg4V2m1Al8tleLXwjQAmzaudY7jA9i+EMRJbOW9njn9V41LyWOtN5eBJE8XaS15IGx0oxLHervDzHAPXpQEovacXDpM+3bfZqnhhuWwQaz2o2+ed7GizgL87r6kHZNWXU8oyrm4FueM6mdFsW44bGY1Pz3JGPCDNVLdjbJZTHaFxFzaxFVQ+j7IEw+KUPstJUGZTAkziYDlpuuj1PD22Nk+uHUa/ki5tIgO/f+9U0=;wlyXU7rP2tIYhY8YGc8Lzw=="
 ---

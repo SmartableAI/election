@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden and Senator Harris Campaign in Arizona"
 excerpt: "Democratic presidential nominee Joe Biden and running mate Senator Kamala Harris (D-CA) campaigned in Arizona the day after the vice presidential debate."
 publishedDateTime: 2020-10-09T01:10:00Z
-originalUrl: "https://www.c-span.org/event/?476759/c2020-joe-biden-sen-kamala-harris-dca-campaign-arizona"
-webUrl: "https://www.c-span.org/event/?476759/c2020-joe-biden-sen-kamala-harris-dca-campaign-arizona"
+originalUrl: "https://www.c-span.org/video/?476759-1/joe-biden-senator-harris-campaign-arizona"
+webUrl: "https://www.c-span.org/video/?476759-1/joe-biden-senator-harris-campaign-arizona"
 type: article
 quality: 60
 heat: -1
@@ -1067,6 +1067,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/08/story_07160693_1602118925.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris flies high over Mike Pence in vice president debate"
+    excerpt: "The vice presidential debate, featuring Sen. Kamala Harris and Vice President Mike Pence, was the next big stop in the 2020 election. Give Harris the clear edge. She was cool, Pence was on the defensive."
+    publishedDateTime: 2020-10-09T21:15:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/article/Kamala-Harris-flies-high-over-Mike-Pence-in-vice-15629977.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 130
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/45/57/20077531/7/rawImage.jpg"
+        width: 2048
+        height: 1387
         isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
@@ -5028,6 +5042,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "vRSL0RPlOowP/+T6vcPqCLqhTC0MG9erxNo+jxMFaItWDDd36ldcczIsmzSif0JbOs/dMUWJYsgiU2C/4+X4HDsdB5OjArnNL6T/j9KELGCBKjYcDXb6a1wv0DBJ+Ur+0SkndyJDHuFrwXrLzAxm6O+8Zj2arg9NY3bdHnroLk20OvW9mDIqfWd88TeO9T4I7x0a/8BWbK+C1eVXzX0uKejkZgsnVgO2Me+BVCqgmjJeqOToIFHmKFbRj3fgA3pGAa+nRqmXEhTVgsrSQD89DjEuN++Bx3qedwEZl5bYCLNigoa/4511K8Af4JlxTxs8sfyJaS5xKCBR/fyQsgJNYbY2I/E6I0AYaW6xTUMVpZ0U4Y1z8z7SdOJXDZisjV5JiuZjS7WAtvr4LMsvEZNGEWdPna+9MiyzIbqBlbnPWv1GIEwmbEOXHgmOEG0bGJW4sbOBHVuhcrNSP2cCX4LnmglZ1Ax241cBnv5vAsfaG6rzoSTGJWHAHFSQ3oiEaehrMRmCIy7tueE8MlMK37vvPg==;1KJwH9d8fHYK589fhcH8hg=="
+secured: "Ncr244RFig/lb5MHV6HObyITq+AM8XTqrdAR+s3zUaoL8x8hykjhI2vrkml3BpQuDKjRf8gU4PW68ALOPZINcUSD4Z1lo5YyBuqy7KEvO4Fo7Ki+JAsytsBQf4zNVel2ygx8GSJez0vqRtjQ1ihRWpUblnv6YVugvo4KDley6L38mUpOT/m3U7+ok5PnmVy+MWWBEMRhnganQ+0Vlw7i9SA73RzEDEtiGHNPlZKy8LTFiWRK1i3N5laSVr9cP212JDFhvZ2+BGffkF3062GWohANtI+QH1/8MPXT6N3fY+Xi0c/H5/4Dh06Dk9lNNbpOwZ35uAkdcIV55CjejJuWQ0OVK7SWc+3r3LfTuxwUTQRn0cUkA/FNYOfTitx7tfa4CBsYrMbaDHGEIspnSST6QS4v4eSlO6hYCG2dpTjQieIEzLF4HHPIqjmffwn3xv+iCtOtvXzBaBkumhsdG8ol+8pY85zdSBIPGg/exyYDRys2VUAvfy9pGowe1v6j9Yyx9HlFeyaC9no2smKXGECp0Q==;7KIIFAU2snWWZX0/xS0ldA=="
 ---
 

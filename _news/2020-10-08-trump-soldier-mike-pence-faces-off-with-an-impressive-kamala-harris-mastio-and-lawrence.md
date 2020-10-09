@@ -1065,6 +1065,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris flies high over Mike Pence in vice president debate"
+    excerpt: "The vice presidential debate, featuring Sen. Kamala Harris and Vice President Mike Pence, was the next big stop in the 2020 election. Give Harris the clear edge. She was cool, Pence was on the defensive."
+    publishedDateTime: 2020-10-09T21:15:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/article/Kamala-Harris-flies-high-over-Mike-Pence-in-vice-15629977.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 130
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/45/57/20077531/7/rawImage.jpg"
+        width: 2048
+        height: 1387
+        isCached: true
   - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
     excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
     publishedDateTime: 2020-10-05T17:32:00Z
@@ -4727,7 +4741,7 @@ related:
   - title: "Joe Biden and Senator Harris Campaign in Arizona"
     excerpt: "Democratic presidential nominee Joe Biden and running mate Senator Kamala Harris (D-CA) campaigned in Arizona the day after the vice presidential debate."
     publishedDateTime: 2020-10-09T01:10:00Z
-    webUrl: "https://www.c-span.org/event/?476759/c2020-joe-biden-sen-kamala-harris-dca-campaign-arizona"
+    webUrl: "https://www.c-span.org/video/?476759-1/joe-biden-senator-harris-campaign-arizona"
     type: article
     provider:
       name: C-SPAN

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -120,6 +120,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "On Radio, TV, Trump Sets Out to Get Campaign Back on Track"
+    excerpt: "President Donald Trump is setting out to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T21:37:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "exLJjzUyD4s5pNdXrkjsISCIzyzFXxGCaC81tpxO5zTlc3H0ekDP+ee5DmKSEkHSNgQ5wAnJZIGqNAbBesn/v7HrtEE+QzZ7sg7gx+VMJvj6OTbCFA2HOSTeQcLCwJJs4vwzXCWcGSMosFNvhV/23tEB/e5e5sMP6IgkiMTBmBuf8iInJRjny1h8g0UBD6U5puQJ2/PZyQn15hIvyTFu4Z6VslFkPU0Kb5MGG7RdCBvTOtxjl4kDbzQjklpGtJXt5tKJQaONYlv0fl1maB1/F++SA5VheaAkTGmCdibB8XJGykwyaUihG8zywLs27SZayCo9/aO8LIoC78IjjzH4sVtN9DUvSW8VkgFSphYaTV8=;0vXqtYpfbkLLLbcokTJW3g=="
 ---
