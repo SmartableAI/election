@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-d
 ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/amp/"
 type: article
-quality: 118
+quality: 128
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f680b31c893fa2c7fe913%2F0x0.jpg"
@@ -4166,6 +4167,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "b91zhow3VUnNWq83MGyZBcP3iFOhx+ai/+Ndsg9Nmlcd9fSewJJiHmKgDY6MobPKobkrg1nUEZUuNNIelFmn3QZvOwSpIvfRziA1HGEVgRV6rRuZbiApKNO6uDMtkDvY/MrfXSUwXSgIL/krtwYyVc77JXw4k94qOqaTQLAskupdu9fby+zbOP8XfL7qb2XfIu5ASaD+lCPmCCoD4Hj3VXm8LV5K6v73sJYyEXWQgjfQ7h2uCCw5KNb7rzYf4bHCheq8pG+KWAtdrWfPPD0a0RUX3iPD1ckqj0WLe33+t/QRBNrShClp4zk8oMPUGGd46glaQvPdNJEjLvdIa3Zu4+qPjJo/X6OOyxfpNhB2azs=;i5uoLuNWNijsNyXgnuGRug=="
+secured: "C9SFPaYibcYFGMqwCV226pdOvtiirGxb1SKhhMNLhx8pqedKGvoyz3O8yvEZm5sv9BTYC/CgAP5ff4VmRIY+5duoo0g5urWiyEwn1xo1lT26QAHVioNom43sLgJj6Yb+01w8Pa6RLt+5QRxjUPjL06lCI7Qxk9p2BVPHcurjIpip9Rvf8ibN2+q05qXEKk6/5h0rg1X7Vei/fYnLHqGG2MCfVPfvNn05gQxZDCZpTdK2cejczFAmE7iO87jsAYmFvWVNNc+OpRguv/mSCHKhuche7CVSDorh2BS0sahA+ssmJNWM8Ma3ZdLzcIoS7HwqEP/XZeJNsAN1qgSk3aR9L/DZ3fhKNU2/sLpb4gyNPW0JV4P8j+DmCBm08Hh78jL0d6b1u0Rd7smKHoAzo6H0iBgphZfkOKhyh26347V8ADHHLMUDbDxqozWQDtkc7FzagHB4jBZODkRhc4R4M27NAM/wdjwcY4IXWDM9KnpIgMeVGLxlllTMgIMhA/RsKm+l9shXcj0JBpIcohKR+hkwZQ==;Ix0x8miJib0xkb023TKVaA=="
 ---
 

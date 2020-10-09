@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3368
+heat: 3388
 published: true
 
 provider:
@@ -2487,6 +2487,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 63
+  - title: "Tucker Carlson: Kamala Harris Cycled Through Various Identities To Win Arguments And Achieve Power"
+    excerpt: "Tucker Carlson delivered a monologue on the vice presidential debate on his FOX News show Wednesday and said the media denounced Vice President Mike Pence as sexist while praising Sen. Kamala Harris for her smile."
+    publishedDateTime: 2020-10-09T13:30:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/51/514550.jpg"
+        width: 1098
+        height: 822
+        isCached: true
 
 secured: "U/FXwpplbtIc6FQS4/6G3istxq4fGDklCarWyzigPWxBbIJtTk8v47cUMvyBws/nOCa3xz4MHvFZ2zFiaNkjKFnk4m/osJCPrPNsJ7YxNFmao2J/FT1ETyCxLLuzrkGl7xo9vqHAvle0oLYlhoh/DcaDsC7xwdnfukxJGy9wwx1/fS7yt47CAMQCJKmivYku53xBjNFD6xHCERAE2WeeNsBQaIDKjmnj6g1rvYP50tLiy9kMd1LEPwb+5W6LAAUTgVH7YYvHpWI47ljrVsi094ffXMDVrx/jvbX0x4aFL57WxP9rogTs3ctjKiMAFgwbVL/YLXkBso/kHJPAi+15MKl53/9d83VKbTQ91Um2jYY=;rYe+eolWJ+aukrsXLbo49w=="
 ---

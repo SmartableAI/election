@@ -59,6 +59,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Column: The fly on Mike Pence’s head during the vice presidential debate: A transcript"
+    excerpt: "For about two minutes in Wednesday's vice presidential debate, a large, black fly planted itself on Vice President Mike Pence’s white hair. Here's what it had to say."
+    publishedDateTime: 2020-10-09T13:30:00Z
+    webUrl: "https://www.chicagotribune.com/columns/rex-huppke/ct-vice-presidential-debate-fly-pence-head-kamala-harris-huppke-20201008-xxdqxifzxjarxbb6ukylns7xcm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/rex-huppke/ct-vice-presidential-debate-fly-pence-head-kamala-harris-huppke-20201008-xxdqxifzxjarxbb6ukylns7xcm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/rex-huppke/ct-vice-presidential-debate-fly-pence-head-kamala-harris-huppke-20201008-xxdqxifzxjarxbb6ukylns7xcm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 117
+    images:
+      - url: "https://www.chicagotribune.com/resizer/WWPm17twfy7aME7DrXjnDNRFRc8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/HCL5PRPQRZA5JKGOAVASRUQ2BA.jpg"
+        width: 1200
+        height: 860
+        isCached: true
   - title: "As Pence is about to take the debate stage next week, the 2024 primary is already in sight"
     excerpt: "Vice President Mike Pence takes center stage next week when he debates Senator Kamala Harris for the only time in the campaign. While the debate is less than a week away, Pence stopped by Iowa on Thursday,"
     publishedDateTime: 2020-10-01T20:58:00Z

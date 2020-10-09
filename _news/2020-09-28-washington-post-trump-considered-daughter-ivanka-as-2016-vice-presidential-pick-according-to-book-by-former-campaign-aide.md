@@ -687,6 +687,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "2020 Election Live Updates: With Clock Ticking Down, Trump Lashes Out"
+    excerpt: "President Trump, down by double digits in national polls, is attacking his enemies and even his aides. His doctor said the president could return to public engagements tomorrow. Joe Biden heads to Nevada today."
+    publishedDateTime: 2020-10-09T12:08:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/09/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/09/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/09/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/us/politics/08elections-briefings-hannity4/08elections-briefings-hannity4-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Pence aide blasts former coronavirus task force member who criticized Trump"
     excerpt: "Retired Gen. Keith Kellogg, the vice president’s national security adviser, said he was “not proud of Olivia Troye.”"
     publishedDateTime: 2020-09-22T15:23:00Z
@@ -1006,6 +1022,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09pollwatch-newsletter/09pollwatch-newsletter-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Donald Trump’s baffling debate boycott"
+    excerpt: "Privacy Policy It seemed novel when Donald Trump boycotted the final debate before the Iowa caucuses four years ago. This time, polls and the timing of the election suggest, it looks more like a mistake."
+    publishedDateTime: 2020-10-08T21:40:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/trump-debate-boycott-428039"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/trump-debate-boycott-428039"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/trump-debate-boycott-428039"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/05/a5/2858a1cb4c30bb37f964510c1e75/201008-trump-debate-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump campaign does little to adjust to realities of Covid-19 outbreak"
     excerpt: "The campaign continues to projects normalcy, flouting health rules even as the president recovers from his own positive diagnosis."

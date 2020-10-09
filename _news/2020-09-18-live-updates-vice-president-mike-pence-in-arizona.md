@@ -27,282 +27,281 @@ images:
     isCached: true
 
 related:
-  - title: "President Donald Trump returns to Arizona to campaign for Latino votes"
-    excerpt: "In the ballroom of an Arizona resort, President Donald Trump will seek to make the case at the “Latinos for Trump” coalition event that his administration can bring back the economy to its full potential after coronavirus-related shutdowns,"
-    publishedDateTime: 2020-09-14T15:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5771841002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002"
+  - title: "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday"
+    excerpt: "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners."
+    publishedDateTime: 2020-10-09T10:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5917943002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 162
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PPHX/f2acf441-2cf3-4f9a-9984-74f5c35288bc-01Z_2082.jpg?auto=webp&crop=4637,2609,x0,y487&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/PPHX/396ce7e5-ea64-44a7-9ed8-f700212b8412-AP20282855874609.jpg?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "The long history behind Donald Trump’s outreach to LGBTQ voters"
-    excerpt: "But the president’s campaign is also targeting LGBTQ voters, hoping to attract their electoral support. The campaign has named Richard Grenell, Trump’s former acting director"
-    publishedDateTime: 2020-09-14T15:24:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/14/long-history-behind-donald-trumps-outreach-lgbtq-voters/?outputType=amp"
+  - title: "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris"
+    excerpt: "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected."
+    publishedDateTime: 2020-09-14T19:03:00Z
+    webUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/"
+    ampWebUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Forbes
+      domain: forbes.com
+    quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRCSLIFB6AI6NCDEN6ESZLIIMU&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Why Donald Trump is Trying to Reach Latino Voters"
-    excerpt: "President Donald Trump sat at a table at the Arizona Grand Resort, flanked at a distance by local Republican leaders with ties to the Latino community. “We’re here to discuss my Administration ..."
-    publishedDateTime: 2020-09-14T00:00:00Z
-    webUrl: "https://time.com/5889556/donald-trump-latino-voters/"
-    ampWebUrl: "https://time.com/5889556/donald-trump-latino-voters/?amp=true"
-    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5889556/donald-trump-latino-voters/?amp=true"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 125
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/latinos-donald-trump-arizona-02.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Fact check: Fake article from 2015 quoting Donald Trump resurfaces"
-    excerpt: "The article reports Trump the candidate was in Indianapolis and disparaged African Americans at an event. The claim is false; that never happened."
-    publishedDateTime: 2020-09-18T01:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/17/fact-check-fake-article-2015-quoting-donald-trump-resurfaces/5778734002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5778734002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5778734002"
+  - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
+    excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
+    publishedDateTime: 2020-10-04T11:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608558001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608558001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 139
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/10/USAT/151948e3-55a7-4f90-b847-757918815f80-President_Donald_Trump_White_House.jpg?auto=webp&crop=3559,2002,x0,y176&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Judge dismisses Trump challenge to Nevada mail voting law"
-    excerpt: "A federal judge has dismissed a lawsuit from President Donald Trump’s reelection campaign challenging Nevada’s new vote-by-mail law, saying the campaign failed to show how it could be harmed by the la"
-    publishedDateTime: 2020-09-21T21:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-dismisses-trump-challenge-nevada-mail-voting-law-73150442"
+  - title: "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL"
+    excerpt: "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others."
+    publishedDateTime: 2020-10-04T05:23:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/tv/h-aqttywddi-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 127
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cc38a37/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh-aqTtywDDI%2Fhqdefault.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
+    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
+    publishedDateTime: 2020-10-05T14:23:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615416001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615416001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fly on Mike Pence's head steals the buzz from vice presidential debate, and Biden can't complain"
+    excerpt: "A fly that landed on Vice President Mike Pence's head during the presidential debate generated a lot of buzz online."
+    publishedDateTime: 2020-10-08T04:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fly-mike-pences-head-steals-buzz-vice-presidential/story?id=73492512"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 127
     images:
-      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/vp-debate-pence-fly-ap-ps-201007_1602125166979_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "As campaign heats up, Trump woos Latino, Black voters"
-    excerpt: "President Donald Trump is trying to chip away at his Democratic rival’s advantage with Black and Hispanic voters, wrapping up a two-day campaign swing that is ticking off boxes, both geographically an"
-    publishedDateTime: 2020-09-26T02:53:00Z
-    webUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+  - title: "Pence tests negative for virus on Thursday"
+    excerpt: "U.S. Vice President Mike Pence tested negative for the coronavirus on Thursday, a senior administration official said."
+    publishedDateTime: 2020-10-08T15:46:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-pence-idUSKBN26T2S7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T2S7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T2S7"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201008&t=2&i=1536724769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG971QB"
+        width: 784
+        height: 545
         isCached: true
-  - title: "Students are in a lose-lose situation during the pandemic, and Trump is to blame"
-    excerpt: "Trump's leadership during the pandemic has left students stuck between a rock and a hard place. Joe Biden has the skills necessary to succeed."
-    publishedDateTime: 2020-09-20T14:11:00Z
-    webUrl: "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-leadership-college-students-covid-19-2020-9?amp"
+  - title: "Video Resurfaces of Kamala Harris Saying She Wants to Ban Fracking After Saying Biden Will Not During VP Debate"
+    excerpt: "\"There's no question I'm in favor of banning fracking,\" Kamala Harris said in video footage that resurfaced on social media Wednesday."
+    publishedDateTime: 2020-10-08T04:21:00Z
+    webUrl: "https://www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304"
+    ampWebUrl: "https://www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-resurfaces-kamala-harris-saying-she-wants-ban-fracking-after-saying-biden-will-not-during-1537304?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 120
     images:
-      - url: "https://i.insider.com/5f5fd19757b7da001ee1185e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://d.newsweek.com/en/full/1647768/kamala-harris.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "If the Justice Department intervenes for Trump in defamation lawsuit, the case would ‘end’"
-    excerpt: "Constitutional law expert Leah Litman explains the latest twist in E. Jean Carroll’s lawsuit against the president."
-    publishedDateTime: 2020-09-18T11:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/18/doj-asks-defend-trump-rape-accuser-e-jean-carroll-defamation-suit/5779515002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5779515002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5779515002"
+  - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
+    excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
+    publishedDateTime: 2020-10-08T16:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/5-things-you-may-not-know-mike-pence-ties-arizona/5913390002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5913390002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913390002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/07/09/USAT/90437511-bbb0-44bb-9c79-6c0b74341c23-01_AP_Trump_New_Accuser.JPG?auto=webp&crop=3599,2024,x0,y47&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump's Campaign Crafted a Careful Climate Message. Trump Ignored It"
-    excerpt: "Donald Trump's campaign has sought to modulate its climate change message. The president doesn't seem to have noticed"
-    publishedDateTime: 2020-09-21T20:26:00Z
-    webUrl: "https://time.com/5890273/donald-trump-climate-message/"
+  - title: "Joe Biden, Kamala Harris announce campaign stops in Yuma and Tucson"
+    excerpt: "Here are the latest updates regarding Vice President Joe Biden and Sen. Kamala Harris' visit to the Valley on Thursday."
+    publishedDateTime: 2020-10-09T08:59:00Z
+    webUrl: "https://www.12news.com/article/news/local/arizona/live-updates-joe-biden-kamala-harris-visit-arizona-for-first-campaign-stop-of-2020-election/75-87789cf1-a3dd-4562-a31d-db9ec9a6c647"
+    ampWebUrl: "https://www.12news.com/amp/article/news/local/arizona/live-updates-joe-biden-kamala-harris-visit-arizona-for-first-campaign-stop-of-2020-election/75-87789cf1-a3dd-4562-a31d-db9ec9a6c647"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/local/arizona/live-updates-joe-biden-kamala-harris-visit-arizona-for-first-campaign-stop-of-2020-election/75-87789cf1-a3dd-4562-a31d-db9ec9a6c647"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 103
+      name: KPNX
+      domain: 12news.com
+    quality: 100
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/GettyImages-1228515042.jpg"
-        width: 1024
-        height: 683
+      - url: "https://media.12news.com/assets/KPNX/images/9be14f1c-e0b7-479e-97c3-fd4611327e19/9be14f1c-e0b7-479e-97c3-fd4611327e19_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Trump Is Running His Campaign Like He Ran His Businesses"
-    excerpt: "In 2016, Donald Trump’s campaign ran on a shoestring, and won. He planned a different 2020: It would be the biggest, richest, most expensive presidential campaign ever. But with just two months ..."
-    publishedDateTime: 2020-09-09T12:15:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2020/09/how-donald-trump-blew-1-billion-fundraising-lead/616156/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/616156/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616156/"
+  - title: "Pence attacks Biden's economic vision: 'Day One Joe Biden is going to raise your taxes'"
+    excerpt: "Vice President Mike Pence on Wednesday delivered a blistering critique of Joseph R. Biden’s economic vision, warning that the Democrat is poised to raise taxes and enact policies that would cost hundreds of thousands of jobs."
+    publishedDateTime: 2020-10-08T02:37:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/7/mike-pence-attacks-joe-biden-economic-plan-will-ra/"
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 92
     images:
-      - url: "https://cdn.theatlantic.com/thumbor/ylBioBsa975Omlnm8-JCHssZtao=/570x321/media/img/mt/2020/09/GettyImages_1201947805_copy/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "Canadian woman behind the poison sent to Trump"
-    excerpt: "A letter was intercepted containing the poison ricin when it was on the way to President Donald Trump. Now some facts about the person who sent it are being known. CNN.com reported Sunday that it was a woman from Canada who was also trying to cross into New York state from Canada,"
-    publishedDateTime: 2020-09-20T23:38:00Z
-    webUrl: "https://www.rawstory.com/2020/09/canadian-woman-was-behind-the-poison-sent-to-trump/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/canadian-woman-was-behind-the-poison-sent-to-trump/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/canadian-woman-was-behind-the-poison-sent-to-trump/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Donald-Trump-5.png"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Trump promotes new book by Fox Business anchor but neglects to mention his last name"
-    excerpt: "President Donald Trump promoted a book by one of his favorite broadcasters as another book by a famed journalist reveals some of his failures and lies. Reporter Bob Woodward continues revealing audio recordings of the president bragging about his coronavirus response,"
-    publishedDateTime: 2020-09-21T13:22:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-promotes-new-book-by-fox-business-anchor-but-neglects-to-mention-his-last-name/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-promotes-new-book-by-fox-business-anchor-but-neglects-to-mention-his-last-name/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-promotes-new-book-by-fox-business-anchor-but-neglects-to-mention-his-last-name/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 68
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/trump-abc-town-hall.jpeg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Vice President Pence heads to Arizona on campaign swing"
-    excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
-    publishedDateTime: 2020-09-18T13:57:00Z
-    webUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html"
-    ampWebUrl: "https://www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1497515/vice-president-pence-heads-to-arizona-on-campaign-swing.html/amp"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 55
-  - title: "The Latest: Trump Statement Calls RBG a 'Titan of the Law'"
-    excerpt: "President Donald Trump says in a statement that the late Supreme Court Justice Ruth Bader Ginsburg was a “titan of the law.”."
-    publishedDateTime: 2020-09-19T03:56:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "The Latest: President Trump Returns to the Oval Office"
-    excerpt: "President Donald Trump has returned to the Oval Office for the first time since he was diagnosed with COVID-19."
-    publishedDateTime: 2020-10-07T21:21:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-07/the-latest-india-adds-72k-virus-cases-gives-festival-rules"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-07/the-latest-india-adds-72k-virus-cases-gives-festival-rules?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-07/the-latest-india-adds-72k-virus-cases-gives-festival-rules?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump ‘cares more about his tee times than Black Americans’: Ex-Trump White House aide Omarosa"
-    excerpt: "In his upcoming book Rage, veteran reporter Bob Woodward asks President Donald Trump about race issues, he answered that racism is a lot less in the United States than in other places. But his former aide Omarosa Onee Manigault Newman,"
-    publishedDateTime: 2020-09-13T20:19:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-cares-more-about-his-tee-times-than-black-americans-ex-trump-white-house-aide-omarosa/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 53
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Omarosa.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "On Western Swing, Trump Aims to Court Pivotal Latino Voters"
-    excerpt: "President Donald Trump is pitching his reelection to Latino voters during a second day of campaigning in Nevada."
-    publishedDateTime: 2020-09-13T21:32:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-13/on-western-swing-trump-aims-to-court-pivotal-latino-voters?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 45
-  - title: "Trump Campaign Rallies An Unchanged Ritual Since 2016"
-    excerpt: "US President Donald Trump's campaign rallies are packed with familiar rituals, classic chants and routines. They are essentially the same as the Republican billionaire's 2016 campaign, giving a sense of traveling through time,"
-    publishedDateTime: 2020-09-13T22:16:00Z
-    webUrl: "https://www.ibtimes.com/trump-campaign-rallies-unchanged-ritual-2016-3045051"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 45
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/13/us-president-donald-trump-speaks-during-a-campaign.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Donald Trump Is Considering Pouring $100 Million Into His Campaign. Does He Even Have the Cash?"
-    excerpt: "Responding to a report that his campaign was a facing a possible cash crunch in the final weeks before the election, Donald Trump tweeted Tuesday morning that, if his reelection operation comes up ..."
-    publishedDateTime: 2020-09-09T00:00:00Z
-    webUrl: "https://www.motherjones.com/politics/2020/09/donald-trump-is-considering-pouring-100-million-into-his-campaign-does-he-even-have-the-cash/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 43
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2020/09/20200908TrumpCampaign.jpeg?w=1200&h=630&crop=1"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Election_2020_Debate_08391.jpg-a495c_c0-328-5386-3469_s1200x700.jpg?21d902c28853cc6a5d5f724c7b428dcc0c259c8f"
         width: 1200
+        height: 700
+        isCached: true
+  - title: "\"SNL\" Gives Sneak-Peek Of Jim Carrey As Joe Biden, Maya Rudolph As Kamala Harris"
+    excerpt: "Ahead of tomorrow's 'Saturday Night Live' season premiere, the show shared a teaser clip featuring Jim Carrey and Maya Rudolph as Joe Biden and Kamala Harris. S.N.L is returning tomorrow night for its first live episode since the start of the COVID-19 pandemic in March,"
+    publishedDateTime: 2020-10-03T02:53:00Z
+    webUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 85
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601661847_d2b1086c31d907151d23dce6970a5e02.jpg/0232a7f3f125a3597b97b33ed1941b66/1601661847_8938d8a81a9303511c14efe9777758ba.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
+    excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
+    publishedDateTime: 2020-10-04T23:01:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3608558001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3608558001"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 79
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
+    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
+    publishedDateTime: 2020-10-04T14:23:00Z
+    webUrl: "https://www.jsonline.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3615416001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3615416001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘SNL’ season premiere with Chris Rock: See Jim Carrey as Joe Biden and Maya Rudolph as Kamala Harris"
+    excerpt: "This weekend, “SNL” is live once again and back onstage at Studio 8H with host Chris Rock. Here’s what to expect for the 46th season premiere of “SNL.\" For Chris Rock, “Saturday Night Live” is always something of a homecoming."
+    publishedDateTime: 2020-10-03T20:37:00Z
+    webUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html"
+    ampWebUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VTRDUHBP3FDJHMGJDGVL46HLOA.jpg"
+        width: 1260
+        height: 846
+        isCached: true
+  - title: "Vice President Mike Pence should be in quarantine not visiting Arizona"
+    excerpt: "The president has COVID-19 and the vice president needs to stay safe and keep others safe. Campaigning should be a distant second."
+    publishedDateTime: 2020-10-05T14:25:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/05/vice-president-mike-pence-should-quarantine-not-visiting-arizona/3619318001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3619318001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3619318001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Briggs: Kamala Harris brought out the worst in Mike Pence"
+    excerpt: "Mike Pence started Wednesday’s vice presidential debate by taking us to an alternate universe. One in which President Donald Trump prevented a pandemic before it could even begin. “Before there were more than five (coronavirus) cases in the United States,"
+    publishedDateTime: 2020-10-09T09:12:00Z
+    webUrl: "https://www.tennessean.com/story/opinion/columnists/james-briggs/2020/10/08/kamala-harris-mike-pence-debate-interrupt-talk-over-election/5920479002/"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 60
+  - title: "Former candidates support Joe Biden"
+    excerpt: "Former candidates who ran for the Democratic nomination in 2020 are now supporting Joe Biden’s candidacy. This is not unusual for former candidates, but these ex-candidates are more outwardly enthusia"
+    publishedDateTime: 2020-10-08T02:30:00Z
+    webUrl: "https://tulsaworld.com/news/article_cc305543-d0a0-59f2-8afc-bd091a72b44c.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/c3/cc305543-d0a0-59f2-8afc-bd091a72b44c/5f7e6847f0d2a.preview.jpg?resize=1120%2C630"
+        width: 1120
         height: 630
         isCached: true
 

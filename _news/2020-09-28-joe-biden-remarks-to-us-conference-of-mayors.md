@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Progressive Democrats have a fragile alliance with Joe Biden. But they're readying for internal party warfare if he wins the election."
+    excerpt: "Fear of a Trump second term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
+    publishedDateTime: 2020-10-09T13:02:00Z
+    webUrl: "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
     excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
     publishedDateTime: 2020-09-27T09:19:00Z
@@ -168,6 +182,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/26/election_2020_debate_13227_c0-212-5082-3176_s1200x700.jpg?db917b09d8cbb24332b5ca6852b875bd774a8b48"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Joe Biden the favorite of New Orleans area thought leaders, The Times-Picayune Power Poll finds"
+    excerpt: "Picayune Power Poll survey, a new partnership between New Orleans' daily newspaper and powerpoll.com, a non-partisan survey, news and information company focused on the opinions of influential people."
+    publishedDateTime: 2020-10-09T11:00:00Z
+    webUrl: "https://www.nola.com/news/politics/article_974b82be-099a-11eb-87fb-9bcc12512685.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 43
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/2/a6/2a67ffce-099a-11eb-b864-0b4965894730/5f7f64b8f300f.image.png?resize=760%2C630"
+        width: 760
+        height: 630
         isCached: true
 
 secured: "3EpyhZlq64atLM30hYYbT+LgVPiIQ6MdWR1lAZ7qH8QqB7KpHyhpiKIwYlLHhZcSfD+zfgK+mDtpZ4nD37HFpqxCokuk7eQaUXEnDqY9zRXF9c30qMJKimeILVHdv1H6eJSopXCDzQuDTHrhJE6nc2QrhSzfi3kk+XF8pm53Et8vmyXyrHloJmN7hd8MAcwnUkGqiPS0QtjcYm0EtwD4TeJlrEi1CVJbbIqm2OAY6xHD16+ZYNi39zaKD3vZX3yLiayAGXziJxZWt2JXI6X+TfMRum3Y8/MWR5L5qvTmbAENMo+WnyyyT5+/u3m31nseMzEGKk057vj4XvS33kifPvNDfAKNpEYlJ59U+0RPGz1jxp0yUqKnU6u/Z1aCYe9kAkiHwdGOALffktJoJ682rlLvVJXDPTf/uhxEqezd5fM/Fa+ODAw9fHafq65u5SSUQ84Fn/J6eyZED9s+B3v5zGRH5cheFZbGMcTkvWZQPWE2Q9nAeajtwEjLxOwLNjgQ6xbj8cejwuX2Wctc5heSRg==;fIUMVS/jXx+zNBc16xY9ag=="

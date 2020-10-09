@@ -159,6 +159,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Will Donald Trump participate in any more debates? – States of America"
+    excerpt: "Phillip Bailey and guests discuss the presidential debates and what we learned from the VP debate, including thoughts from the moderator, Susan Page."
+    publishedDateTime: 2020-10-09T12:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2020/10/09/donald-trump-participate-any-more-debates-states-america/5933564002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
   - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
     excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
     publishedDateTime: 2020-10-04T11:46:00Z

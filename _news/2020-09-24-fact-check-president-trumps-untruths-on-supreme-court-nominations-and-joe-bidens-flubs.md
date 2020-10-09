@@ -191,22 +191,6 @@ related:
         width: 1024
         height: 821
         isCached: true
-  - title: "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris"
-    excerpt: "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected."
-    publishedDateTime: 2020-09-14T19:03:00Z
-    webUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/"
-    ampWebUrl: "https://www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/09/14/how-for-profit-colleges-might-fare-under-joe-biden-and-kamala-harris/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5fb7b1f734baeeab7acc41%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Trump, Biden are preparing for first presidential debate"
     excerpt: "Ahead of the first debate-stage matchup between President Donald Trump and his Democratic challenger Joe Biden, each campaign is promising a stark contrast in policy, personality and preparation"
     publishedDateTime: 2020-09-26T21:56:00Z
@@ -414,36 +398,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/30/30b5dc30-2366-439f-a554-4970fc354da2/thumbnail/1200x630/e5ea71f9b1c1a4ef81a26865169cf77d/ap-18155447401557.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL"
-    excerpt: "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others."
-    publishedDateTime: 2020-10-04T05:23:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/tv/h-aqttywddi-123"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 127
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/cc38a37/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh-aqTtywDDI%2Fhqdefault.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
-    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
-    publishedDateTime: 2020-10-05T14:23:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3615416001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615416001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 127
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Supreme Court fight could elevate Kamala Harris' profile"
     excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick"
@@ -1615,22 +1569,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "\"SNL\" Gives Sneak-Peek Of Jim Carrey As Joe Biden, Maya Rudolph As Kamala Harris"
-    excerpt: "Ahead of tomorrow's 'Saturday Night Live' season premiere, the show shared a teaser clip featuring Jim Carrey and Maya Rudolph as Joe Biden and Kamala Harris. S.N.L is returning tomorrow night for its first live episode since the start of the COVID-19 pandemic in March,"
-    publishedDateTime: 2020-10-03T02:53:00Z
-    webUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 85
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601661847_d2b1086c31d907151d23dce6970a5e02.jpg/0232a7f3f125a3597b97b33ed1941b66/1601661847_8938d8a81a9303511c14efe9777758ba.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
     excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
     publishedDateTime: 2020-09-27T17:22:00Z
@@ -1774,22 +1712,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/0e32aD7nMJhR5A4-HXXQ9fDNYag=/0x0:7000x6000/1400x1050/filters:focal(2940x2440:4060x3560):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67553607/1228768908.jpg.0.jpg"
         width: 1400
         height: 1050
-        isCached: true
-  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
-    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
-    publishedDateTime: 2020-10-04T14:23:00Z
-    webUrl: "https://www.jsonline.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
-    ampWebUrl: "https://amp.jsonline.com/amp/3615416001"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3615416001"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 77
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
@@ -2046,22 +1968,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/democrat-joe-biden-goes-into-his-first-debate.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "‘SNL’ season premiere with Chris Rock: See Jim Carrey as Joe Biden and Maya Rudolph as Kamala Harris"
-    excerpt: "This weekend, “SNL” is live once again and back onstage at Studio 8H with host Chris Rock. Here’s what to expect for the 46th season premiere of “SNL.\" For Chris Rock, “Saturday Night Live” is always something of a homecoming."
-    publishedDateTime: 2020-10-03T20:37:00Z
-    webUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html"
-    ampWebUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VTRDUHBP3FDJHMGJDGVL46HLOA.jpg"
-        width: 1260
-        height: 846
         isCached: true
   - title: "What would your tax rate be under Joe Biden's proposed plan?"
     excerpt: "Presidential candidate Joe Biden has announced that, if elected, his goal will be to make major changes to tax rules, mostly by raising taxes on the wealthy as well as on corporations. In fact, the Penn Wharton model,"

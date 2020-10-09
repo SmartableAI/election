@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 957
         isCached: true
+  - title: "Trump got a $21 million tax break for saving the forest outside his NY mansion. Now the deal is under investigation."
+    excerpt: "New York Attorney General Letitia James (D) is investigating whether the Trump Organization improperly inflated the value of Seven Springs estate."
+    publishedDateTime: 2020-10-09T12:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-got-a-21-million-tax-break-for-saving-the-forest-outside-his-ny-mansion-now-the-deal-is-under-investigation/2020/10/07/de84c1ba-ff6b-11ea-830c-a160b331ca62_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-got-a-21-million-tax-break-for-saving-the-forest-outside-his-ny-mansion-now-the-deal-is-under-investigation/2020/10/07/de84c1ba-ff6b-11ea-830c-a160b331ca62_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-got-a-21-million-tax-break-for-saving-the-forest-outside-his-ny-mansion-now-the-deal-is-under-investigation/2020/10/07/de84c1ba-ff6b-11ea-830c-a160b331ca62_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EF72L5QIAUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 1079
+        isCached: true
 
 secured: "aYGJaa9rnlnDgCw5GMmjkatTvZLnQ3XMUBKT/eqLbGMiaZep5qLPkJUss9QxHwB/aykINvdseBljbNMTxRwle9WQe0mAhOHulRpmBhIxwzCsScLHXGD0rQ8GL9r766zWLOX3EbNqG0fSFwTEhpBgY5wVGzwFhn+xk+3XE2nATrabzn+LLRCZjJ7wzmcIArP8UT4C0IBSY0emq7daRHApjVTTDUpRbqrnl5X6+5R8QFoC9BDdJXQAx/7XWeUGXILDob/MXf8XlcVUbaWtONMzhUOYvKxG5nSgGpZDcjMQLQp9Sj4Aeu310hMKbDgrFnGJXYHZUioMjAj93iCdFZCEX1yAiCnnBh1Z/xMaA69R3T0=;wcSt6jFreXv/QKzyFMNorg=="
 ---

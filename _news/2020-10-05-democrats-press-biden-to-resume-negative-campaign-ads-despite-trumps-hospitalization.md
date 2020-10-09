@@ -2485,6 +2485,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 63
+  - title: "Tucker Carlson: Kamala Harris Cycled Through Various Identities To Win Arguments And Achieve Power"
+    excerpt: "Tucker Carlson delivered a monologue on the vice presidential debate on his FOX News show Wednesday and said the media denounced Vice President Mike Pence as sexist while praising Sen. Kamala Harris for her smile."
+    publishedDateTime: 2020-10-09T13:30:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/51/514550.jpg"
+        width: 1098
+        height: 822
+        isCached: true
 
 secured: "/2yCvb36/v6Il1slA9BsA2+u47ZI81DJUjN4JvEPGGN+AcwjhIIq4b/648RVuzVmQqot7kTXUcM6W1mAxw/3lIGofDvAwfF3C5xlzSCQSgmHPeV3IJxjBBb90rdmvn6cnqGnqZE0w++CPJ2AdafQathEVD7ryXB8lVBpY/tDUnXjmcMmV6roudDsRo8rHQrEv1UNq/IOCAcCV6+g1XnIVNQXpJVzMBODk8TW1y0TuZup8nMijy5AmAefeiqNcVnHwoVToIgxCb1P12TEeOwdsIQtRCg85rSbo0yw/R95ElUlcELvh4eAj0tczGkJ1I/oVgyh3zlzS10Hh1ISeYuIYqTEoHnjirY+NPIWA3Zh3E0=;jQvifiQIxFAjjPL7Z7KPuA=="
 ---

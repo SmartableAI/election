@@ -2597,22 +2597,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday"
-    excerpt: "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners."
-    publishedDateTime: 2020-10-08T17:35:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5917943002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5917943002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 102
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/f7def4d1-394b-49c5-a0fd-c130cf1a6238-pence-biden.jpg?auto=webp&crop=899,506,x0,y45&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Mike Pence vs. Kamala Harris: When Is The Vice Presidential Debate?"
     excerpt: "After the first presidential debate Tuesday night between President Donald Trump and Democratic nominee Joe Biden, Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will square off on Oct. 7. The vice presidential debate will ..."
     publishedDateTime: 2020-09-30T00:50:00Z
@@ -5044,6 +5028,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "QADkNYselsrZQmzQx77vHwwyRnXha4NfrhyfxcDpLYZzp+iZCXD0vDYxRmTzQ5aJMbaF7T+RR7N02AZ82V2yX7WIQisnBtB2NzdenMYgXu2QBj52+G1V4R8XoVKzPyLXzuJ9XOoFJhGqbc8wVhrIrJQI/rRsO6vG2leO7vovtj+v2SmTfHLAzpCy08iMIbYrL8zRqORDRw1DRxMTusJyDLJvyZY4uFjoDi2AZb+vRDTzUlQQ7ceDJ9ON7Vp9DAETz7KSoh/pP/FKFR5Xp3n8Xlb1C8NklXP77J4/QLhouYuCbT35oh3hFchTdM5Lvr9CHUwgHwrVEWj3Z4JCHbJ4Vw3pvoy93CEnnf5RaE9Gn5Y=;V3BeKgqVQRYwQge0uoZdXg=="
+secured: "sx/PPzlfCRVFdr12FxEoUlkaWPRhcZo2Oy0CkpITsBkS6StXQYIyGwlS0ssk69cbomfnaS0qvBdJyQPRbqhyRh8I8LcA+LF9GsNmPTd3RVWWSFxEiqlgnlxDEdwbIu6L2mYfATDJynFk4np1v+2K9CTB7PHFn0FygkuhMFe4Ja/4BAh4IC3WZEHrIWz3ExfBCdWGfx1zvp+6es44T5AAtmARptcZDZMG5AM15BWsNFmhBhrclXhkPHtdntls67BW6eyacI20nRKx0f4TFOkY7lcxacfRYzeNveYm7+O7/yx6qMXe0lFmjpdT3X85qFFOx+AXiMleUoQHWgmRqBi9IqXZq06oqFPOEIBf6QZQjymUXZqb7hfzIH3KA5zxn/QwgxL/bRsISLiwB9XPYbCiFeLgu44L78eV2CKar2K+LKcuf4/AwvVhOlFk1svTVidWMdnrCDW5oHrTK5tqIQ27fijSJ7avtFpXlgXOdvJYrjS1XNeGhoouVSS44kPP2gSa433278gkQqdpzRsJv2LBPQ==;K0lSFuTXDrZd/4hhAtpuhg=="
 ---
 

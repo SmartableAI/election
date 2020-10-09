@@ -175,6 +175,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Will Donald Trump participate in any more debates? – States of America"
+    excerpt: "Phillip Bailey and guests discuss the presidential debates and what we learned from the VP debate, including thoughts from the moderator, Susan Page."
+    publishedDateTime: 2020-10-09T12:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2020/10/09/donald-trump-participate-any-more-debates-states-america/5933564002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
   - title: "Trump's policy chief explains in an exclusive interview why the White House just punted on a coronavirus stimulus deal"
     excerpt: "\"I know we tried really, really hard,\" White House adviser Brooke Rollins told Insider after the president punted on passing stimulus legislation."
     publishedDateTime: 2020-10-07T00:19:00Z

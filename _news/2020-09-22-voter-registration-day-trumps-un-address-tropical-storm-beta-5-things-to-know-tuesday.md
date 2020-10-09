@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Doctors Say President Donald Trump Suffered Two Bouts of Low Oxygen, But Could Leave Hospital Monday"
+    excerpt: "White House physician Sean Conley continued to avoid directly answering a few crucial questions about Trump's health"
+    publishedDateTime: 2020-10-05T03:13:00Z
+    webUrl: "https://time.com/5896203/trump-covid-19-physician-white-house-briefing-oxygen-dexamethasone/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 90
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/Conley-trump.jpg"
+        width: 5568
+        height: 3712
+        isCached: true
 
 secured: "uxVPlWBszSd5n2uvFBOnTQQ4e+5qrNA8pyEuvcUSEOkY+/6OMIIC//mPbopeL5QfR7ErnmquqUkzilH3DMF3kcwFexxJx/3bfUMB9KfoEuNpqgEd2TeLDOgf7a9c+QhJWS+o2IdNMK+2gNmeAWCWVG+avHJta2cCWXmJkRa4YiBlBdUIXR6hj7QFEGKPruqI/AGM0EknRmnk5p98dO8r4l/LQD6yfGSuL5lnH+Iv6Gn6KQFR6STH2t1VV1AAAwA2d9o9ByeWv0AfJT3N1kpgSKrofsI+jgCoChmVV1B2uoQ/TObCoH6GK2iTTDb40ns7x/LRu0ZTGwFnTAd1eaGj6ATdU7f4/9pbDCDNlCUkNR0=;rBiEAeGb52D2BqsgsEyaBA=="
 ---

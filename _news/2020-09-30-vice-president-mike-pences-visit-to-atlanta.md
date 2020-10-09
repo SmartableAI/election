@@ -293,6 +293,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Vice President Mike Pence to visit Iowa Thursday"
+    excerpt: "DES MOINES, Iowa (KWQC) - Vice President Mike Pence will visit Iowa on Thursday, October 1. Pence first plans on delivering remarks at a Trump Administration event in Carter Lake. During the event, he is expected to discuss Iowa’s unemployment rate and jobs."
+    publishedDateTime: 2020-09-28T18:01:00Z
+    webUrl: "https://www.kwqc.com/2020/09/28/vice-president-mike-pence-to-visit-iowa-thursday/"
+    type: article
+    provider:
+      name: KWQC
+      domain: kwqc.com
+    quality: 55
+    images:
+      - url: "https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/kcB7o0lw_jZrIAo0QwzBwDAxYDg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/47P4UKJBEJG2FECIEDGZ2PJ5YI.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Yes, That Is Vice President Mike Pence In The Borat 2 Trailer"
     excerpt: "And, before you ask, yes, that does appear to be Vice President Pence himself in the trailer. The clip includes footage of Cohen crashing the Conservative Political Action Conference while dressed as Trump back in February."
     publishedDateTime: 2020-10-01T16:55:00Z

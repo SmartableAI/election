@@ -47,16 +47,23 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Briggs: Kamala Harris brought out the worst in Mike Pence"
-    excerpt: "Mike Pence started Wednesday’s vice presidential debate by taking us to an alternate universe. One in which President Donald Trump prevented a pandemic before it could even begin. “Before there were more than five (coronavirus) cases in the United States,"
-    publishedDateTime: 2020-10-09T09:12:00Z
-    webUrl: "https://www.tennessean.com/story/opinion/columnists/james-briggs/2020/10/08/kamala-harris-mike-pence-debate-interrupt-talk-over-election/5920479002/"
+  - title: "The VP debate is over. Did Sen. Kamala Harris’ performance light a fire under women voters?"
+    excerpt: "With the gender gap widening when it comes to presidential preferences, the power of the women’s vote, especially if the election is close, is all the more consequential."
+    publishedDateTime: 2020-10-09T13:13:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 60
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 65
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_70dd3658a4d2eb9ef428f24c9e71719f-h_ebc103cbe12a1add9a23b31dd1f56886.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "97DUo7aFC2hj9bIwnuPCKCh+g8MdEhw7V/sGbmNUOWmBVJGSCuIKEN13iIxdsk7NamQUOVP19wP2uGQH+si9BWU9SdMOzT0UG7dzSAIC4oSAwpk6sqcYOB/Ae8cOhO0jWpuNiAaQnVivoFdbTOA/wIY803fdgVVX/gUWxKCBmBlcyx4YdjFo8YGwV4WUgn/EPnkjVyKDmOR/K5sAaigCqIidGKXKHY/cUCJUevhP+XgEimmxL6wj9nefv1/T5ER3X/fjrHN6m8mDLNTqMvM739IKF86sZgleJlJU1o/lzLURq8umkyXyM5y/udsBDdF0y7hWqIA2/WVCQvO+A7QXpR47dyQX6j62Ci8ctGQsUHU=;DgCcWR5QEjFm6M0UxbhRjA=="
+secured: "OiLG0ImS0o4kovwtYdewYL1vSg6mXbvj/RyhhSvdFa7pdOHk4BI4dt31otj3leZ/kCOpz3Ag0pg0RXzSxQP7L5NERPX0gfF0E4B1CWVIS8EQ2EgaYX4ExbNIgMVHKLLY9J9OoHVWQopvwfGif89+AhuMkoBeWVVTjN4yTgo41W8DI3wO6jgIvlFEM+i+3u2zQ5Pl1ArrVvAfk+XqEXNhyC3RaBWvx2UKvl31sCJIkw7XqWxsF0XlHa/KxEPeYHXGHHKCO0Loee3YmQXul94qF7fdG8XVKfE/joNka7trcHK3rwde8ZCb2zh0BzH/DK+skYKnnFR4BIA6JqNHubyMd7L/NNtXfgzOQwODOLM6L1xBhq21cYs0lT/8c/Qbj/eL2X7BQBa0MJ817CUjfSRb/TPbk5t+SYuHMpo17RWCtZRvY4TXjZzpUGcjvVbkTuulr6tGwOl3Vpm4CHEToUKcRNBzHZM3Kn2U9eO/74qxGYlUspSPYMPqj6lAFFo7AcwEk/j26EcV0HMrs4mwrVw8Yg==;UL3YFCX6rXOUiLf7j9zFcg=="
 ---
 

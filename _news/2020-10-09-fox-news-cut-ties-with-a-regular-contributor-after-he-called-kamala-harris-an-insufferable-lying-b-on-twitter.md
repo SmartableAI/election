@@ -47,15 +47,22 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "Briggs: Kamala Harris brought out the worst in Mike Pence"
-    excerpt: "Mike Pence started Wednesday’s vice presidential debate by taking us to an alternate universe. One in which President Donald Trump prevented a pandemic before it could even begin. “Before there were more than five (coronavirus) cases in the United States,"
-    publishedDateTime: 2020-10-09T09:12:00Z
-    webUrl: "https://www.tennessean.com/story/opinion/columnists/james-briggs/2020/10/08/kamala-harris-mike-pence-debate-interrupt-talk-over-election/5920479002/"
+  - title: "The VP debate is over. Did Sen. Kamala Harris’ performance light a fire under women voters?"
+    excerpt: "With the gender gap widening when it comes to presidential preferences, the power of the women’s vote, especially if the election is close, is all the more consequential."
+    publishedDateTime: 2020-10-09T13:13:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 60
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 65
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_70dd3658a4d2eb9ef428f24c9e71719f-h_ebc103cbe12a1add9a23b31dd1f56886.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "hHI6HeBaiCJKBhdcR/RxqmknNMSMS1crCkzDlYSnIBaKFLNlVuA83SZZ8uUY85xOc/K0yRsrYddzqZhdZKJtn0p+FSOvpNGWHkQwwKkXJx6j6UqV1L1d3K2B6YL3C/xXYON6vElPW0B+KtIA9feqqlLrgo8WITq1Llb8kGOTiK2qZydPWSY02vjkXygYN4/jvvRSjyzpFwoSSzA9R/4TUo1oGebBLslYnMXHRGKKu4U2YnNnjL/WpgOEUZ7m215/PwmvZswE6bmRzAVC4GCmc59FlOo+fM0HFnnSfHn7Zx1KYlqA/v02qowSFsG5LAq953uSyRy4oVZO2VKJhKpQVNfuk7izZeG/2X6dQ1rozVA=;fO0/tLhZfBOpewf+ZjQf1w=="
 ---

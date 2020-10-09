@@ -1242,6 +1242,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Cannabis Stocks Rallied, But Don’t Be Fooled: Neither Donald Trump Nor Joe Biden Is Good For Marijuana Legalization"
+    excerpt: "Cannabis stocks jumped Thursday after the vice-presidential debate, but don't get too excited. Neither political party's ticket is nationwide marijuana legalization's magic bullet."
+    publishedDateTime: 2020-10-09T04:26:00Z
+    webUrl: "https://www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/"
+    ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 128
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f680b31c893fa2c7fe913%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Ruth Bader Ginsburg: Joe Biden accuses Trump and Republicans of 'abuse of power' – as it happened"
     excerpt: "Trump promises to nominate woman within a week but mourners at vigil and Democratic leaders vow to hit back"
     publishedDateTime: 2020-09-20T21:28:00Z
@@ -2054,22 +2070,6 @@ related:
       - url: "https://i.insider.com/5f6c1638c4049200115cb4de?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Cannabis Stocks Rallied, But Don’t Be Fooled: Neither Donald Trump Nor Joe Biden Is Good For Marijuana Legalization"
-    excerpt: "Cannabis stocks jumped Thursday after the vice-presidential debate, but don't get too excited. Neither political party's ticket is nationwide marijuana legalization's magic bullet."
-    publishedDateTime: 2020-10-09T04:26:00Z
-    webUrl: "https://www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/"
-    ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 118
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f680b31c893fa2c7fe913%2F0x0.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Biden: \"I trust vaccines, I trust scientists, but I don't trust Donald Trump\""
     excerpt: "Democratic presidential nominee Joe Biden used a speech Wednesday to attack President Trump's handling of the coronavirus crisis and express his confidence in science. CBSN political reporter Caitlin Huey-Burns asked Biden about his comments at his event in Delaware,"

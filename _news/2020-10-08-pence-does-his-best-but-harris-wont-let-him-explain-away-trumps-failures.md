@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 1823
+heat: 1843
 published: true
 
 provider:
@@ -1180,6 +1180,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-51/07elections-briefing-07-22-51-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The one question Trump won't answer about his viral infection"
+    excerpt: "If Trump heard the question, he chose to ignore it. In the same interview, the president added, \" [T]here's no reason to test all the time. I didn't go into it greatly with the doctors.\" Oh. So, the sitting president of the United States was recently hospitalized with a life-threatening virus,"
+    publishedDateTime: 2020-10-09T12:41:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/one-question-trump-won-t-answer-about-his-viral-infection-ncna1242699"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_4e845b262807a1763877e9318d7c613b.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
     excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."

@@ -86,6 +86,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "President Trump, who is infected with coronavirus, has tweeted 120 times since being released from the hospital Monday night"
+    excerpt: "Trump's tweets have included attacks on Joe Biden, praise for the economy, a push for a focus on the Supreme Court, and allegations of voter fraud."
+    publishedDateTime: 2020-10-07T19:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "0QGYdaVrfGpmD+4pCn7Xq0iOuOv1wBX6NBeNy5+lQj0mszOteH0nDROtpzbN4hLxGUPBRWT3DxPaVBi+mvU++6AnKAEp+7lW75JDNeQz3HS8bKTHCeuiYtpIGZ7Ha+WmKqW1i4oG8PLWcGZ23qRcGV/8lfTajnw214imWkc+vFWLdCF3rFEJtEMWNctRniJix7+b8v0k/4eItdivBLR8XABAt+lNV3oXVP89KpB0X2f89P3cngd6qTBhi2jROR6Rf64IPjDETjRrgunzl8YrcMkQbLTF/BIbbzr9ZWFuZfbkJqQWKWcymZ/cvNYhRjDaVkqb20DeaGHPWMdm9uz+74ID/h94u6L+uyF5IC0Po7k=;3CxpvTKkNBRnP0slswHuHw=="
 ---

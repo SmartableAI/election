@@ -105,6 +105,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Donald Trump declares himself ready for rallies on phone call with Fox News"
+    excerpt: "Donald Trump insisted on Thursday he was ready to resume campaign rallies and felt “perfect” only one week after his Covid-19 diagnosis."
+    publishedDateTime: 2020-10-09T13:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/09/donald-trump-declares-himself-ready-rallies-https-platform-videoelephant-video-2018352-2018352-p/5935284002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/e67808b0-8854-456e-9690-c1ede6dacad3-133293ad-e8d9-4205-8007-a1a4de89a127_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
 
 secured: "tiUAK++2lxHwQIn/mqXldbPnmL27Jmowt1DYKtUmuXGK3GPGoRUC8JOfShcVsFXsnS6mlP2Uinh8tfVnYPm88yct5ei6dY1zuCwBkOXiTLUls1kFB1zZ5cVUmbOcATnn4sPyJKt8hh04eFCwdbVdZiiIoNauaSkERbIo1ieMxELw3A4DnGkZCXDEoH9V1KRo26kkTfzfU5q1q38GUYgK+pMnvjrR2CieaMo4hi0gxbbv8MI8KE81aoN/nERGEQ7jOq7KOG3gKRf9DKHuzTFuINfx87PNBG3RJJwoNfCLW+0LE0PYCIPctnvmZkxygglhUuKYOFqtxn0qNxVCG9MQ6IKPfs5QZUsnuY0JHkO0wKILT8JmLBF9UG2J2MxLu79gh2UL55uCKhAn73MdjCzqCCn7jnFOt89N+b0tiYC4o3/bCUC69dbbpqc0asBofD/ToRRVEQ4yTYDrqvWUTX2GTuGsBtK05Wg6tod5lfkI8CbzvFrpfj9NjZDv7pq+Wq7uspQR/+m5XsmdlMLZPccZwg==;uO65fRoI4o5YJv39aWPcAg=="
 ---

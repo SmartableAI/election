@@ -1194,6 +1194,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "The one question Trump won't answer about his viral infection"
+    excerpt: "If Trump heard the question, he chose to ignore it. In the same interview, the president added, \" [T]here's no reason to test all the time. I didn't go into it greatly with the doctors.\" Oh. So, the sitting president of the United States was recently hospitalized with a life-threatening virus,"
+    publishedDateTime: 2020-10-09T12:41:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/one-question-trump-won-t-answer-about-his-viral-infection-ncna1242699"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_4e845b262807a1763877e9318d7c613b.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence Struggles to Explain Why Trump Admin Didn’t Follow Its Own COVID Guidelines"
     excerpt: "Pence gave a rambling response beginning with how Americans were given adequate “facts” and finishing with a reference to Trump’s Supreme Court nominee."
     publishedDateTime: 2020-10-08T03:39:00Z
