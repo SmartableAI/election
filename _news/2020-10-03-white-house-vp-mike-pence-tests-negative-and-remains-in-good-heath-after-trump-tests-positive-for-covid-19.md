@@ -1991,6 +1991,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Isolated in the White House, Trump struggles to project a sense of normalcy after canceled debate"
+    excerpt: "Though he was just released from Walter Reed National Military Medical Center on Monday, the president is eager to return to the campaign trail, advisers said."
+    publishedDateTime: 2020-10-09T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-debate-coronavirus-quarantine/2020/10/08/81e639be-0972-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-debate-coronavirus-quarantine/2020/10/08/81e639be-0972-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-debate-coronavirus-quarantine/2020/10/08/81e639be-0972-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3AEKCAJXAI6XBM37HBHVPTDRU.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Trump, 10 others test positive for COVID: A running list of everyone being tested and their results"
     excerpt: "White House officials said Friday that President Donald Trump is feeling only \"mild symptoms\" following the announcement that he and first lady Melania Trump have tested positive for COVID-19. Trump announced his positive test early Friday morning,"
     publishedDateTime: 2020-10-03T01:19:00Z
@@ -2209,6 +2225,22 @@ related:
       - url: "https://i.insider.com/5f7dbfb7282c500018c790d8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Is Trump contagious? How is Chris Christie? We're answering your questions about the president and COVID-19"
+    excerpt: "Is President Donald Trump contagious? Will his COVID-19 treatments be available to the rest of the nation? We're answering your coronavirus questions."
+    publishedDateTime: 2020-10-09T02:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-update-reader-questions-answered/3635959001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3635959001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3635959001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/1bf80870-669e-4a7b-ad05-39188534921c-AP_APTOPIX_Virus_Outbreak_Trump.jpg?auto=webp&crop=2341,1317,x0,y119&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Column: Trump puts Secret Service agents at risk with COVID Car Ride - but relax, it was medically necessary"
     excerpt: "As President Donald Trump battles COVID-19, questions have come up about the accuracy of his health updates and his ride to wave to supporters outside Walter Reed Medical Center."

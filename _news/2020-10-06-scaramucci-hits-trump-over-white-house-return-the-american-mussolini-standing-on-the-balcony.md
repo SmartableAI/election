@@ -75,22 +75,6 @@ related:
         width: 687
         height: 430
         isCached: true
-  - title: "Corporate America first: Trump fails to un-rig the U.S. economy"
-    excerpt: "In the middle of the last century, a General Motors president told Congress that what was good for GM was good for America and vice versa. As U.S. president, Donald Trump — who as a candidate promised to put the economy back on the side of the little guy — has revised the old saw: What’s good for big business,"
-    publishedDateTime: 2020-10-04T14:48:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/mFC1sYjf2HtE6o-8Z641B3SProM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VG7IIGPOMRFKNPULBIBXSLHQ7E.JPG"
-        width: 1200
-        height: 706
-        isCached: true
 
 secured: "IetcdFOoMuMvngbZCFIfHFryn9p+GoBDpI+6b4WDIj7dx2niFw3WfixIfrp5rybMQIXLdsz+EiuvpDRNDOJ9Ogv667cE0u0c1jHkVn1Cafu9nrA0gYZD9hqKRsGFb1paiKq88I7gWxisMuem3f8yiNAeOXx6dzHsnBi+aZal1dAaaBQ1j7Zh2m2er1FF87O72znPMiT79QPd0qpiJtFGvGf8Y9McAB12GMEkgeiO3vSOwGNcc9rPmrctZnY9ZQsV4KlM8VNVOeU6+3zOD8LE3R90z5acNdGOZFPcQp6xMge2gqzaDg7wk0RO9bvAw5FjqI493wL50xTTKqSOanzAjzbtMIcMNY0WUhlqf55+5nc=;P8RdNLF1xEQ1JmtXJym9cQ=="
 ---

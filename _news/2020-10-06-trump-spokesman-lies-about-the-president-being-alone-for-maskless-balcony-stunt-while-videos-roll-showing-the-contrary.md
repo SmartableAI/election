@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Jr. pushes back on Pelosi asking if steroids influenced the president"
-    excerpt: "Donald Trump Jr. pushed back on Speaker Nancy Pelosi (D-Calif.) on Wednesday after the Democratic leader questioned whether steroids influenced President Trump’s"
-    publishedDateTime: 2020-10-07T15:28:00Z
-    webUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the"
-    ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized"
     excerpt: "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\""
     publishedDateTime: 2020-10-05T12:24:00Z
@@ -62,6 +46,36 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Column: Upon his release from hospital, President Trump is denounced as a heretic by media high priests"
+    excerpt: "Estimates released in September show a death rate that is low across the board, especially among the young and healthy, but the drumbeat in politics and media has been all about fear. The high priests of the Washington establishment media who have thrown their lot in with the Democratic Party and Joe Biden for the 2020 campaign were outraged by Trump."
+    publishedDateTime: 2020-10-07T10:03:00Z
+    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/70JOGZkj3argNBh0CWW4_Jqf2AY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UFHVOGS3GFKFB7CNA27ZYEPPXM.jpg"
+        width: 1200
+        height: 777
+        isCached: true
+  - title: "President Donald Trump left hospital to wave to crowd from SUV outside Walter Reed"
+    excerpt: "President Donald Trump left the hospital minutes after tweeting that he was going to surprise supporters outside Walter Reed."
+    publishedDateTime: 2020-10-04T23:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/04/president-trump-makes-surprise-visit-suv-outside-walter-reed/3619686001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/a1626c6f-f577-4a36-aee8-a0aa4e3b95ec-Screen_Shot_2020-10-04_at_6.59.46_PM.jpg?quality=10"
+        width: 2062
+        height: 1154
         isCached: true
 
 secured: "+asZJ0JAzumMzGCSjqHpw6gqRCqr5FUCiMpTkIpPplnMdbvcyKlCQGbDSm5TZXahgZdXo0ElFhMLe2vt2JMWl32/Sr3Ru7XFYxdeSYyOeWm3sYwmCIqQblpip5EgpzHPp5Evlub3eTssgOoGRRU2cSS8b8rHkJRMBJuzKLB7mBObojkB7fSTP7bhWepIUqZI03KHfzyirhrwE6VHUEyx2GDhmqByZIA+0pwYHYcZwsJz2gQIjdEaC77U5nF5uhBVXakB5I+CfP0z7CR1MZm5+1LomjOhuvkE+j+EsqDAI/B/2HGosji29rO5meYIN2SiGLnSPzgw2EkeJHyeuSdss5kkzn74bxlvktMtouTVFWo=;j9FuY+yJrS0M8eJcBH22Cw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002092919-03-trump-1001-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Health officials scrambling to produce Trump's ‘last-minute’ drug cards by Election Day"
+    excerpt: "As officials debate how to get Trump’s name on the cards, health officials warn of a taxpayer-funded boondoggle to bolster president’s flagging poll numbers."
+    publishedDateTime: 2020-10-09T02:28:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/seema-verma-mark-meadows-drug-card-plan-427950"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/seema-verma-mark-meadows-drug-card-plan-427950"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/seema-verma-mark-meadows-drug-card-plan-427950"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 142
+    images:
+      - url: "https://static.politico.com/63/f7/633226d24867bd031645e6b3566b/201008-seema-verma-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump Attacked Rochester Protesters. Not All Local Republicans Agree."
     excerpt: "In Western New York, the president’s vilification of Black Lives Matter protests has forced candidates to decide whether to line up behind him."

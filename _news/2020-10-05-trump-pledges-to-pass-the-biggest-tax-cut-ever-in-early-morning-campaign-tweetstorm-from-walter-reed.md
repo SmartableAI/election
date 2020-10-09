@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-camp
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10?amp"
 type: article
 quality: 109
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "President Donald Trump left hospital to wave to crowd from SUV outside Walter Reed"
-    excerpt: "President Donald Trump left the hospital minutes after tweeting that he was going to surprise supporters outside Walter Reed."
-    publishedDateTime: 2020-10-04T23:19:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/04/president-trump-makes-surprise-visit-suv-outside-walter-reed/3619686001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 99
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/a1626c6f-f577-4a36-aee8-a0aa4e3b95ec-Screen_Shot_2020-10-04_at_6.59.46_PM.jpg?quality=10"
-        width: 2062
-        height: 1154
-        isCached: true
   - title: "Trump Ignores Reporter Questions on Being a ‘Super Spreader’ as He Leaves Walter Reed Hospital"
     excerpt: "Trump doesn't answer when reporter asks if he is a 'potential super spreader' during discharge walk out of Walter Reed Medical Center"
     publishedDateTime: 2020-10-05T23:50:00Z

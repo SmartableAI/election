@@ -91,6 +91,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Joe Biden focused on flies: Democrat mines viral debate moment for campaign cash"
+    excerpt: "Joe Biden ’s campaign is trying to turn flies into campaign gold. The 2020 presidential hopeful used a fly’s pit stop on Vice President Mike Pence’s head during Wednesday’s debate in Salt Lake City as a springboard for donations."
+    publishedDateTime: 2020-10-09T04:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/8/joe-biden-focused-on-flies-democrat-mines-viral-de/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/8/joe-biden-focused-on-flies-democrat-mines-viral-de/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/8/joe-biden-focused-on-flies-democrat-mines-viral-de/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Joe_Biden_fly_swatter_Twitter_c0-0-1000-583_s1200x700.jpg?dc4b0b391b4b3f8e45ac6a9820b080411cef8307"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Sixers’ Doc Rivers ‘honored’ to be quoted by Joe Biden during campaign speech in Gettysburg"
     excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
     publishedDateTime: 2020-10-08T12:08:00Z

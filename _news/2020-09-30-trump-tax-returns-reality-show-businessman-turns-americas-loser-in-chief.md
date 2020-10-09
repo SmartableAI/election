@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3565963001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565963001"
 type: article
 quality: 123
-heat: 203
+heat: 183
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
         width: 687
         height: 430
-        isCached: true
-  - title: "Corporate America first: Trump fails to un-rig the U.S. economy"
-    excerpt: "In the middle of the last century, a General Motors president told Congress that what was good for GM was good for America and vice versa. As U.S. president, Donald Trump — who as a candidate promised to put the economy back on the side of the little guy — has revised the old saw: What’s good for big business,"
-    publishedDateTime: 2020-10-04T14:48:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/mFC1sYjf2HtE6o-8Z641B3SProM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VG7IIGPOMRFKNPULBIBXSLHQ7E.JPG"
-        width: 1200
-        height: 706
         isCached: true
   - title: "Scaramucci Hits Trump Over White House Return: ‘The American Mussolini Standing on the Balcony’"
     excerpt: "Anthony Scaramucci likened President Donald Trump to Mussolini in reacting to his return from Walter Reed Medical Center."

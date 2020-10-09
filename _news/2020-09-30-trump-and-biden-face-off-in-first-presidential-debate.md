@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's pandemic record in spotlight as Harris, Pence trade blows at VP debate"
+    excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris clashed over the Trump administration's handling of the coronavirus pandemic during their debate on Wednesday, as the White House struggled to contain an outbreak that has infected President Donald Trump"
+    publishedDateTime: 2020-10-08T22:17:00Z
+    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN26S1HZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S1HB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S1HB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 161
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201008&t=2&i=1536622854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9703C"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Pence-Harris VP debate to draw outsized attention after Trump's coronavirus diagnosis"
     excerpt: "This week's vice presidential debate has taken on an outsized and perhaps unprecedented significance, with questions about President Donald Trump's health now looming over the U.S. election less than a month away."
     publishedDateTime: 2020-10-06T10:16:00Z
@@ -316,6 +332,38 @@ related:
       - url: "https://s.abcnews.com/images/Politics/harris-pence-vp-debate-02-gty-jef-201007_1602120753578_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "How Pence, Harris compared in the vice presidential debate"
+    excerpt: "A USA TODAY debate analysis found Pence talked over Harris and exceeded his allotted speaking time more often than the senator. Here's how the candidates compared: More: Trump, Biden debate was exchange of insults and incivility."
+    publishedDateTime: 2020-10-08T22:55:00Z
+    webUrl: "https://www.usatoday.com/in-depth/news/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-fly-susan-page/5921584002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5921584002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921584002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 150
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/6af2fcd0-d0bf-46dc-ae3d-1dee8cb1894c-VP-debate-topper_Promp.jpg?auto=webp&crop=1961,1103,x279,y885&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Fly on Pence's Head Has Its Own Remix, Starring Kamala Harris"
+    excerpt: "Now, one person has gifted Twitter with this surprisingly catchy remix about the fly on Pence's head, that uses chopped-up bits of audio from the debate. Thanks to the editing, Harris sounds like she's telling Pence,"
+    publishedDateTime: 2020-10-08T21:08:00Z
+    webUrl: "https://www.newsweek.com/fly-pences-head-has-its-own-remix-starring-kamala-harris-1537633"
+    ampWebUrl: "https://www.newsweek.com/fly-pences-head-has-its-own-remix-starring-kamala-harris-1537633?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fly-pences-head-has-its-own-remix-starring-kamala-harris-1537633?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 150
+    images:
+      - url: "https://d.newsweek.com/en/full/1648369/kamala-harris.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Vice President Mike Pence defends Trump holding rallies amid coronavirus"
     excerpt: "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored."
@@ -1571,6 +1619,68 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "2nd presidential debate in doubt after Trump objects to virtual format"
+    excerpt: "The Commission on Presidential Debates announced that the second debate scheduled for October 15 in Miami would instead feature virtual appearances by the two candidates, a change the president quickly dismissed as \"not acceptable."
+    publishedDateTime: 2020-10-09T02:23:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-says-wont-participate-virtual-debate-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-says-wont-participate-virtual-debate-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-says-wont-participate-virtual-debate-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/36f754fe-3262-4302-8486-9dddd56b2717/thumbnail/1200x630/a0c061084ee92e97dcfcfca6eac82e2f/gettyimages-1228797368.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris makes debate history and inspires girls of color"
+    excerpt: "Kamala Harris showed some young girls of color they can be represented on the nation’s highest political stage too."
+    publishedDateTime: 2020-10-09T03:50:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/kamala-harris-makes-debate-history-inspires-girls-color/story?id=73505162"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/kamala-harris-makes-debate-history-inspires-girls-color-73505162"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/kamala-harris-makes-debate-history-inspires-girls-color-73505162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-03-vp-debate-gty-jef-201007_1602126010401_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Mike Pence and Kamala Harris face off in first and only vice presidential debate"
+    excerpt: "Vice President Mike Pence and Senator Kamala Harris squared off in the first and only vice presidential debate Wednesday in Salt Lake City, Utah. The two sparred over a number of issues including the coronavirus pandemic,"
+    publishedDateTime: 2020-10-08T20:15:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-mike-pence-and-senator-kamala-harris-face-off-in-first-and-only-vice-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/08/92dce2de-3a0e-4d43-8302-7e1292932c5e/thumbnail/1200x630/9da616bff0e45159442e78ec636b2a3f/cbsn-fusion-vice-president-mike-pence-and-senator-kamala-harris-face-off-in-first-and-only-vice-presidential-debate-thumbnail-561860-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Weed stocks surge as Kamala Harris vows to decriminalize pot in debate"
+    excerpt: "U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said marijuana would be decriminalized at a federal level in the United States under a Biden administration."
+    publishedDateTime: 2020-10-09T00:15:00Z
+    webUrl: "https://www.reuters.com/article/us-cannabis-stocks-idUKKBN26T3IH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26T3IH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26T3IH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536796600&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98041"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -1864,6 +1974,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo"
+    excerpt: "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes."
+    publishedDateTime: 2020-10-08T21:31:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "China had mocked Trump for not taking the pandemic seriously. Now it's very personal."
     excerpt: "China is riveted by news of Trump’s positive coronavirus test, even as senior officials remain reserved in their public comments."
     publishedDateTime: 2020-10-03T13:34:00Z
@@ -1927,6 +2051,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1647999/kamala-harris-vice-presidential-debate-getty.jpg"
         width: 3112
         height: 2071
+        isCached: true
+  - title: "Rick Santorum cut off female co-panelist Gloria Borger while she was talking about Mike Pence interrupting Kamala Harris at the VP debate"
+    excerpt: "Pence interrupted Harris twice as often during Wednesday night's vice-presidential debate, prompting criticism from the CNN analyst Borger."
+    publishedDateTime: 2020-10-08T09:53:00Z
+    webUrl: "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f7ed3e0c655f6001969ed92?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism"
     excerpt: "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans."
@@ -3111,6 +3251,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Joe Biden and Kamala Harris meet tribal leaders, rally supporters in joint visit to Phoenix"
+    excerpt: "Americans deserve a president who understands what they are going through,” Joe Biden said during his first visit to Phoenix this election cycle."
+    publishedDateTime: 2020-10-09T03:34:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/08/joe-biden-presidential-campaign-kamala-harris-arizona-visit/5917484002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5917484002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5917484002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris' husband criticizes Trump's lack of compassion"
+    excerpt: "The husband of Democratic vice presidential nominee Kamala Harris said Thursday President Donald Trump’s response to COVID-19 underscores the lack of compassion he's shown for Americans needing help on numerous fronts."
+    publishedDateTime: 2020-10-08T23:16:00Z
+    webUrl: "https://www.chron.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/47/06/20083098/3/375x250.jpg"
+        width: 358
+        height: 250
         isCached: true
   - title: "How to Watch Wednesday Night’s Debate Between Mike Pence and Kamala Harris—and What to Expect"
     excerpt: "The debate, which will take place at 9 p.m. on Wednesday, will feature increased social distancing protocols, including greater distance between the two candidates and plexiglass shields in front of each of their lecterns."
@@ -4466,6 +4638,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In context: Kamala Harris jumped to conclusions about Lincoln’s delayed Supreme Court nomination"
+    excerpt: "Democratic vice presidential candidate Kamala Harris invoked Abraham Lincoln to say why a nominee to succeed the late Justice Ruth Bader Ginsburg should"
+    publishedDateTime: 2020-10-08T18:55:00Z
+    webUrl: "https://www.statesman.com/news/20201008/in-context-kamala-harris-jumped-to-conclusions-about-lincolnrsquos-delayed-supreme-court-nomination"
+    ampWebUrl: "https://www.statesman.com/news/20201008/in-context-kamala-harris-jumped-to-conclusions-about-lincolnrsquos-delayed-supreme-court-nomination?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201008/in-context-kamala-harris-jumped-to-conclusions-about-lincolnrsquos-delayed-supreme-court-nomination?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 62
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201008&Category=NEWS&ArtNo=201009104&Ref=AR"
+        width: 2626
+        height: 1762
+        isCached: true
   - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
     publishedDateTime: 2020-10-02T15:23:00Z
@@ -4487,6 +4675,15 @@ related:
     provider:
       name: The Boston Globe
       domain: bostonglobe.com
+    quality: 60
+  - title: "Joe Biden and Senator Harris Campaign in Arizona"
+    excerpt: "Democratic presidential nominee Joe Biden and running mate Senator Kamala Harris (D-CA) campaigned in Arizona the day after the vice presidential debate."
+    publishedDateTime: 2020-10-09T01:10:00Z
+    webUrl: "https://www.c-span.org/event/?476759/c2020-joe-biden-sen-kamala-harris-dca-campaign-arizona"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 60
   - title: "ZIP codes donating the most money to Donald Trump"
     excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
@@ -4626,6 +4823,29 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/44/10/20070939/33/rawImage.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "In Reno, Kamala Harris’ husband criticizes Trump’s lack of compassion"
+    excerpt: "The husband of Democratic vice presidential nominee Kamala Harris said Thursday President Donald Trump’s response to COVID-19 underscores the lack of compassion he's shown for Americans needing help on numerous fronts."
+    publishedDateTime: 2020-10-09T02:04:00Z
+    webUrl: "https://lasvegassun.com/news/2020/oct/08/in-reno-kamala-harris-husband-criticizes-trumps-la/"
+    type: article
+    provider:
+      name: Las Vegas Sun
+      domain: lasvegassun.com
+    quality: 50
+  - title: "Ad Watch: Kamala Harris doesn’t want to ‘defund, dismantle and dissolve’ the police"
+    excerpt: "Biden’s official campaign platform says his administration would not defund police departments. Harris’ press secretary said she does not support defunding the police. Her former presidential campaign platform did not mention it."
+    publishedDateTime: 2020-10-08T21:38:00Z
+    webUrl: "https://www.politifact.com/factchecks/2020/oct/08/mike-pence/ad-watch-kamala-harris-doesnt-want-defund-dismantl/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 49
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
+        width: 438
+        height: 392
         isCached: true
   - title: "What happens if Donald Trump dies or gets seriously ill? President Mike Pence"
     excerpt: "Karen and I send our love and prayers to our dear friends President Donald Trump and First Lady Melania Trump,” Mr Pence said in a statement after Mr Trump’s positive test. “We join millions across America praying for their full and swift recovery."

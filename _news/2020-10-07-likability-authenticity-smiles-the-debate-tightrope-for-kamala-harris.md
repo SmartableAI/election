@@ -780,6 +780,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Flash poll: Harris beat Pence in VP debate, and the fly stole the attention"
+    excerpt: "Four in 10 voters gave the vice president the win, the POLITICO/Morning Consult survey found, compared with 51 percent for his Democratic challenger."
+    publishedDateTime: 2020-10-08T21:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/harris-pence-debate-stole-attention-428105"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 138
+    images:
+      - url: "https://static.politico.com/68/87/4697249f4f808f0b3d16fc7f9bf0/1007debate4.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump indicates he's not open to rule changes at next debates"
     excerpt: "President Donald Trump on Thursday suggested he would not agree to any rule changes for the second and third presidential debates a day after the debates' organizers vowed to adjust their formatting following Tuesday's chaotic faceoff."
     publishedDateTime: 2020-10-01T19:22:00Z
@@ -940,6 +954,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris and her delicate debate dance"
+    excerpt: "Kamala Harris walked a fine, yet familiar, line, one that’s all too recognizable to other women — particularly women of color. In an historical vice presidential debate, the California senator applied her prosecutorial chops to hammer Vice President Mike Pence on his administration’s record on key voting issues like the coronavirus and race."
+    publishedDateTime: 2020-10-09T01:23:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/kamala-harris-delicate-debate-dance-428232"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/kamala-harris-delicate-debate-dance-428232"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/kamala-harris-delicate-debate-dance-428232"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/a8/c6/99f6ce9748a8a9ad7ec4183d6b38/gettyimages-1279070488-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
     publishedDateTime: 2020-10-06T00:10:00Z
@@ -953,6 +983,20 @@ related:
     quality: 134
     images:
       - url: "https://static01.nyt.com/images/2020/10/05/us/politics/05harris-moment1/05harris-moment1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Kamala Harris Knows How to Win Elections"
+    excerpt: "The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Donald Trump. How to beat Covid-19. The shrinkage happened in three stages. First, Democratic primary voters decided that beating Trump was more important than the revolution."
+    publishedDateTime: 2020-10-08T18:32:00Z
+    webUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-knows-how-to-win-elections.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/opinion/08brooks/08brooks-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -1138,6 +1182,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 63
+  - title: "Terrorists, Dictators, Hurricanes, and Kamala Harris: The Things Trump Has Called ‘Monster’"
+    excerpt: "The president on Thursday morning described Kamala Harris as “this monster,” lumping her in with a long list of other things he considers monstrous."
+    publishedDateTime: 2020-10-08T21:09:00Z
+    webUrl: "https://www.thedailybeast.com/terrorists-dictators-hurricanes-and-kamala-harris-the-things-trump-has-called-monster"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 50
   - title: "Voters Deserve More Than the Non-Answers Kamala Harris Gave Them"
     excerpt: "If the Democrats want to run as the antidote to Trump, they can start by telling us the truth—and answering some basic questions. Tonight, Harris failed to do that."
     publishedDateTime: 2020-10-08T04:25:00Z

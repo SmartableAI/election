@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-b
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
 type: article
 quality: 123
-heat: 163
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized"
-    excerpt: "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\""
-    publishedDateTime: 2020-10-05T12:24:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3621055001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001"
+  - title: "In 25th Amendment bid, Pelosi mulls Trump's fitness to serve"
+    excerpt: "House Speaker Nancy Pelosi is questioning President Donald Trump's fitness to serve, announcing legislation Thursday that would create a commission to allow Congress to intervene under the 25th Amendment to the Constitution and remove the president from executive duties."
+    publishedDateTime: 2020-10-09T04:05:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Health/WireAP_7037dad961d744cb84711d4fe7797ae7_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
-    excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
-    publishedDateTime: 2020-10-06T14:54:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
+  - title: "Corporate America first: Trump fails to un-rig the U.S. economy"
+    excerpt: "In the middle of the last century, a General Motors president told Congress that what was good for GM was good for America and vice versa. As U.S. president, Donald Trump — who as a candidate promised to put the economy back on the side of the little guy — has revised the old saw: What’s good for big business,"
+    publishedDateTime: 2020-10-04T14:48:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 51
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png"
-        width: 800
-        height: 430
+      - url: "https://www.nydailynews.com/resizer/mFC1sYjf2HtE6o-8Z641B3SProM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VG7IIGPOMRFKNPULBIBXSLHQ7E.JPG"
+        width: 1200
+        height: 706
         isCached: true
 
 secured: "ks4ueiXOG9BlM/hto4/qj5Ey2ZNG2oUn3FKrNrFrhP8rT/ewF8pgMEGUnJtvZ38u2V3mI4Dk5ATkIXChMTpvDYEILVLtIz3B1WSf+UPiy3P4vjAExURtRvrTqgHctf6huu601YEA5wPxBiVfeidfvgWNeyLhF+KOMl3KUuxfFKnre7vs+tlzqWrDU4XBbXmwwQV4fqV0ouRQtVw56oDM8xl8qOWXse2vMk8R+GD6m0A/FEhDK5yV3QW8SwaXaXU7Aa/D/mGULSi3IWEcxcvw0muJblPYDQmItD3rdUrXYC7h4/ZNszfLOQcsnoztWhiQ03uG7/AH7f2IRypCwRXxC4irYtpr+RjsTzdx6q3AZ7zQV96ajlLFXRouS8y0g0o8wh5AkMTnVD9YU6EyZJRQH51gRKb40shtDnVI8FQ/ElffLKEJ2LuHbqhiHifwCtHLTjNaK54dkD8LSJ5Nh8sbkH1YHq/z3Ronx3yfJdVO284sGOC38YZuG7vvEu8kw8N8OhoQIfP+bl04S/KNDXiAZA==;AuPPNnvP+egu0QQHbKOs4Q=="

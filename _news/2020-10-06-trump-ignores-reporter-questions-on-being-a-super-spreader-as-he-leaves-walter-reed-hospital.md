@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "President Donald Trump left hospital to wave to crowd from SUV outside Walter Reed"
-    excerpt: "President Donald Trump left the hospital minutes after tweeting that he was going to surprise supporters outside Walter Reed."
-    publishedDateTime: 2020-10-04T23:19:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/04/president-trump-makes-surprise-visit-suv-outside-walter-reed/3619686001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 99
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/a1626c6f-f577-4a36-aee8-a0aa4e3b95ec-Screen_Shot_2020-10-04_at_6.59.46_PM.jpg?quality=10"
-        width: 2062
-        height: 1154
-        isCached: true
 
 secured: "Vzsx+TS4EEqvi4B2+KMwZID0oV/AHHihmldzMEORCsazjAQ1McgdSICBerG26xGfH2hlwhK3iEuzVuk+kzxJdz9EQwnYLQVGhAZxUKgmrE/MNBaj973Xmr6lVWAT95RIlGHiSBGnpwiuUUb5vbadrD7vVVkojo8Tp3V6qagUU/JsSpPKtrr6bzL+kxtCD5CzQKpRkit3/qgm2vQNSyb81FavYWBxHFJlfo6NQzCCDIKi8f3SBRYWzmyQAgGX729iDS2V7n3zW1MV+RMcUDvJP2/7gOA0Idjx16n/SXKWUUlT137ZKcIJxFG7SDmIdSuQ+peTIESxmAzf80t1xkqHKSSL40lyciGcwz4yj2eoQXI=;altqSoHSM03N3XEHaVJPKg=="
 ---

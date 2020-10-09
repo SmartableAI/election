@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ABC News announces town hall with Democratic nominee Joe Biden"
+    excerpt: "ABC News announced on Thursday that it will hold a town hall with Democratic presidential nominee and former vice president Joe Biden on Thursday, Oct. 15, allowing voters to ask questions to the former vice president less than a month before Election Day."
+    publishedDateTime: 2020-10-08T20:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/abc-news-announces-town-hall-democratic-nominee-joe/story?id=73506593"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/abc-news-announces-town-hall-democratic-nominee-joe/story?id=73506593"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/abc-news-announces-town-hall-democratic-nominee-joe/story?id=73506593"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-town-hall-2-rt-er-201005_1601944628741_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden: shouldn't have debate if Trump still sick"
     excerpt: "Joe Biden says he and President Donald Trump \"shouldn't have a debate\" if he still has COVID-19. Biden said Tuesday that he's \"looking forward to being able to debate him\" but said they need to \"follow very strict guidelines."
     publishedDateTime: 2020-10-07T04:01:00Z
@@ -355,6 +371,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f4761fca-22cf-457b-bb5b-25c8c5877932/dc6ba712-84ad-49d0-be23-fb3df9b27dff/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden: 'Throughline from President Trump’s dog whistles' to Whitmer kidnapping plot"
+    excerpt: "The Democratic presidential nominee said he reached out to Whitmer earlier in the day, after news broke of the thwarted kidnapping plot."
+    publishedDateTime: 2020-10-09T03:16:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/08/biden-trump-dog-whistles-whitmer-kidnapping-plot/5932432002/"
+    ampWebUrl: "https://amp.freep.com/amp/5932432002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5932432002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/24/PDTF/ce1d71ab-7580-4236-9ead-b6ed0bb426a2-biden_091218_05.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden opens 9-point lead over President Trump in Michigan, Detroit News/WDIV-TV poll finds"
     excerpt: "Democratic presidential candidate Joe Biden's lead in Michigan over President Donald Trump now stands at 9 percentage points."

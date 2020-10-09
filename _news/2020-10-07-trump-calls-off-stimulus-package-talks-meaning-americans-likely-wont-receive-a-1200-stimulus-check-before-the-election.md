@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-no-stimulus-checks-until-after
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10?amp"
 type: article
 quality: 114
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Treating us like garbage': New sanctions announced as many Iranian Americans feel fed up with Trump"
+    excerpt: "Sanctions unveiled Thursday by the U.S. Treasury Department target Iran's financial sector. While some Iranian-Americans support Donald Trump, others are fed up."
+    publishedDateTime: 2020-10-09T04:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/iran-sanctions-trump-iranian-americans-vote-election/3528381001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3528381001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528381001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/db8f4a6b-712c-4583-b634-81488d181138-GTY_994906866.JPG?auto=webp&crop=4672,2628,x1,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "What Trump's comments about ceasing stimulus-package negotiations mean for future $1,200 payments — in one minute or less"
     excerpt: "Confused on all the news around the stimulus talks and Trump's tweets? Catch up on what it all means for the chances of another stimulus check here."
     publishedDateTime: 2020-10-08T09:09:00Z

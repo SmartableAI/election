@@ -26,19 +26,19 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Cruz slams Biden for dodging court-packing questions, claims ex-VP 'doesn't want to be honest' with Americans"
-    excerpt: "Joe Biden does not possess the strength to stand up to the \"rage and fury\" of the far left as evidenced by his refusal to say whether he supports expanding the Supreme Court if elected, Sen. Ted Cruz, R-Texas, told \"The Story\" Thursday."
-    publishedDateTime: 2020-10-02T00:57:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4xeYqBRfJA/ted-cruz-joe-biden-court-packing"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.amp"
+  - title: "Hunter Biden's ex-business partner to face sentencing after court reinstates fraud conviction"
+    excerpt: "Hunter Biden was never accused of having knowledge of the scheme to defraud the Oglala Sioux tribe."
+    publishedDateTime: 2020-10-09T01:34:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PX1pGK3AaVA/hunter-biden-business-partner-devon-archer-fraud-conviction"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-business-partner-devon-archer-fraud-conviction.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-business-partner-devon-archer-fraud-conviction.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80823b08-3de2-4be6-9bfa-dfba50c92343/bc295ce7-692b-40d3-b0de-3ab64ac13454/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcdd0a17-7cca-4683-ad66-cbeadfae5e18/51e282ec-b6ff-4cee-bbd6-2afda26de534/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

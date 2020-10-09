@@ -495,6 +495,38 @@ related:
         width: 3771
         height: 2514
         isCached: true
+  - title: "Joe Biden Once Again Refuses to Answer Whether He’ll Blow Up the Supreme Court"
+    excerpt: "I want to underscore once again just how flatly unacceptable Joe Biden’s now oft-repeated non-answer on packing the Supreme Court is."
+    publishedDateTime: 2020-10-08T20:56:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-biden-once-again-refuses-to-answer-whether-hell-blow-up-the-supreme-court/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-once-again-refuses-to-answer-whether-hell-blow-up-the-supreme-court/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-once-again-refuses-to-answer-whether-hell-blow-up-the-supreme-court/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 71
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/supreme-court-columns.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Joe Biden to participate in prime-time town hall event on Oct. 15 in lieu of debate"
+    excerpt: "Joseph R. Biden will participate in a prime-time town hall event hosted by ABC News on Oct. 15, the network announced on Thursday."
+    publishedDateTime: 2020-10-08T21:29:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/8/joe-biden-to-participate-in-prime-time-town-hall-e/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/8/joe-biden-to-participate-in-prime-time-town-hall-e/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/8/joe-biden-to-participate-in-prime-time-town-hall-e/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 69
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_BIden_63454.jpg-d2718_c0-47-5586-3305_s1200x700.jpg?8664421bedb4b083d72ea6f46156033d5c502437"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "In year of surprises, a win by Joe Biden should not be one"
     excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
     publishedDateTime: 2020-10-07T13:54:00Z

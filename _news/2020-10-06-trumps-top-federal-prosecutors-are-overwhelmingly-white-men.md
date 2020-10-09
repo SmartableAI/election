@@ -47,6 +47,22 @@ related:
         width: 807
         height: 545
         isCached: true
+  - title: "Donald Trump, High on His Own Supply, Now Wants to Do the Stimulus Deal He Blew Up Two Days Ago"
+    excerpt: "Remember two days ago, when Donald Trump spent his first day back at work blowing up the economy via tweet? Which was a self-defeating move so crazy, even for him, that people were left wondering if the steroids he was on had affected his thinking?"
+    publishedDateTime: 2020-10-08T23:24:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-steroids"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-steroids/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-stimulus-steroids/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 63
+    images:
+      - url: "https://media.vanityfair.com/photos/5f3ffc42e6ce2ef35c05f886/master/pass/Trump821.2.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "DrNjIvoFl0j305BSUxcGzsbeckxzwwVfdokp9/Cf7bVVQFA0sA/syhERiRZSO+XN2OiO4D80+ptCSvB4TCumq0fGsuTXr3f5lD8ugBD8vUrTj7NPP7CnR+KeOptBnMVp89RlhZz75xdachOXWfELpHVJVaaSj7F6fHWoF6JICFcNY9lXqFx9VFXHb7hgJz14HanaC9HJz2fA++IWWteeqQeU+GSYRVYLn2mA5/ME2dGaDIE7IsxCLuNqacmTp7nWagCYa6Mwy9AeTGPPDf5tlnugTIsysIkD0tsnUN2fibrjwQH6PUXf0ZzOzr1xv/hSkMah2tZL6gheSLBeT9RlnwJuykmUpbLeQ26xzXsW/gE=;DvLptHIMV5MjaEQPicDrUA=="
 ---

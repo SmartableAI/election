@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-20-sen-thune-says-trumps-supreme-court-nominee-will-receive-a-vote.md",
+      "title": "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'",
+      "excerpt": "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5832607002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002",
+      "publishedDateTime": "2020-09-19T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-urges-gop-to-move-without-delay-as-he-ponders-impact-of-supreme-court-on-election.md",
       "title": "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election",
       "excerpt": "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue.",
@@ -1494,62 +1545,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-la-mayor-instead-of-hitting-the-golf-course-trump-and-congress-should-ensure-wildfire-aid.md",
-      "title": "L.A. mayor: ‘Instead of hitting the golf course,’ Trump and Congress should ensure wildfire aid",
-      "excerpt": "He is going to come out here and probably tell us, ‘I'm going to send you rakes instead of more help,’” Garcetti said on CNN.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "originalUrl": "https://www.politico.com/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d6/58/f71ce4224d8fbb143ec87668114c/20200913-cawildfire-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/13/garcetti-trump-congress-wildfire-aid-413342",
-      "publishedDateTime": "2020-09-13T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
         "Donald Trump"
       ]
     }

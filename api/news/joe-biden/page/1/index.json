@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-09-daily-beast-reporter-progressives-feel-alienated-after-bidens-socialism-jab.md",
+      "title": "Daily Beast reporter: Progressives feel alienated after Biden's socialism jab",
+      "excerpt": "Beast reporter Hanna Trudo said Thursday that Joe Biden’s recent comments panning socialism have frustrated some progressives who supported Sen.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/hilltv/rising/520224-daily-beast-reporter-says-progressives-feel-alienated-by-bidens-attacks-on",
+      "originalUrl": "https://thehill.com/hilltv/rising/520224-daily-beast-reporter-says-progressives-feel-alienated-by-bidens-attacks-on",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/hilltv/rising/520224-daily-beast-reporter-says-progressives-feel-alienated-by-bidens-attacks-on?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/520224-daily-beast-reporter-says-progressives-feel-alienated-by-bidens-attacks-on?amp",
+      "publishedDateTime": "2020-10-08T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to-debate.md",
       "title": "Pence targets Biden over ISIS hostages, brings family of executed aid worker to debate",
       "excerpt": "Vice President Pence invoked slain ISIS hostage Kayla Mueller on Wednesday as he sought to tout what he described as President Trump’s foreign policy accomplishments in his debate against Sen. Kamala Harris (D-Calif.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
       "featuredContent": null,
       "highlight": null,
-      "heat": 922,
+      "heat": 962,
       "tags": null,
       "images": [
         {
@@ -282,7 +333,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -654,7 +705,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 340,
       "tags": null,
       "images": [
         {
@@ -1520,57 +1571,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in-cross-country-trip.md",
-      "title": "ABC's Martha Raddatz says she didn't see a lot of 'enthusiasm for Joe Biden' in cross-country trip",
-      "excerpt": "ABC's chief global affairs correspondent Martha Raddatz reports “there wasn't a whole lot of enthusiasm for Joe Biden\" during her recent 6,000-mile road trip across America, and that the economy is voters’ main focus.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
-      "originalUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_09182020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518786-abcs-martha-raddatz-says-she-didnt-see-a-lot-of-enthusiasm-for-joe-biden-in?amp",
-      "publishedDateTime": "2020-09-29T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

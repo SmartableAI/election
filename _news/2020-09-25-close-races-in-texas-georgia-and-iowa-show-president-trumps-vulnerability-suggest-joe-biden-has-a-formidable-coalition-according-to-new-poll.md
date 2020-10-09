@@ -2306,6 +2306,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "8 ways Joe Biden would use the Trump playbook to unravel the Republican president's legacy"
+    excerpt: "Trump relishes how he's used his executive power to demolish the Obama legacy. A Biden administration would do the exact same thing right back."
+    publishedDateTime: 2020-10-09T01:32:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-reverse-trump-legacy-policies-transition-regulations-executive-orders-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 110
+    images:
+      - url: "https://i.insider.com/5f7f2e6e282c500018c79588?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden endorsed, Trump ripped by nearly 500 retired military, national security officials"
     excerpt: "Nearly 500 retired generals, admirals and senior civilian national security officials endorse Joe Biden and blast President Donald Trump."
     publishedDateTime: 2020-09-25T00:10:00Z

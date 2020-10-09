@@ -655,6 +655,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A Trump-Pence Strategy on the Virus: Interrupt, Distract, Change the Subject"
+    excerpt: "The White House’s approach to avoiding accountability for its record is becoming clearer than ever, and it was on display as Mike Pence faced Kamala Harris."
+    publishedDateTime: 2020-10-09T03:25:00Z
+    webUrl: "https://www.nytimes.com/2020/10/08/us/politics/pence-harris-debate-interruption.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/08/us/politics/pence-harris-debate-interruption.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/us/politics/pence-harris-debate-interruption.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 157
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/us/politics/08interruptions1/08interruptions1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Lindsey Graham: Trump 'very focused' on confirming Barrett to Supreme Court despite his coronavirus diagnosis"
     excerpt: "Senate Judiciary Chairman Lindsey Graham said Friday that President Trump is \"very focused\" on getting Amy Coney Barrett onto the Supreme Court and said that confirmation hearings remain \"on track\" after the news of the President's coronavirus diagnosis.\n    \n"
     publishedDateTime: 2020-10-02T17:28:34Z
@@ -975,6 +991,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump campaign does little to adjust to realities of Covid-19 outbreak"
+    excerpt: "The campaign continues to projects normalcy, flouting health rules even as the president recovers from his own positive diagnosis."
+    publishedDateTime: 2020-10-09T03:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-campaign-does-little-adjust-realities-covid-19-outbreak-n1242675"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242675"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242675"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418715/201008-arizona-mike-pence-campaign-ac-1129p_c073013f710fea438a90515b0a98e3e8.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Dow falls 400 points after Trump calls off negotiations on stimulus package"
     excerpt: "Wall Street fell on Tuesday after President Donald Trump said he had would be halting all negotiations on a new round of coronavirus stimulus relief. The Dow Jones Industrial Average fell by almost 400 points,"
     publishedDateTime: 2020-10-06T19:34:00Z
@@ -1022,6 +1054,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3417269/201003-donald-trump-mask-jm-1319_01022721167e60d88ee1c2dfaee1bbc0.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Inside Donald Trump's Election Day poll-watching army"
+    excerpt: "The mood was pure jubilation at Trump Tower as returns trickled in on election night 2016. But a few of the candidate’s senior aides weren’t quite ready to join the party. As they gathered on the fifth floor,"
+    publishedDateTime: 2020-10-09T00:07:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/trump-election-poll-watching-427008"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/4e/c4/2534ff36469c9a5ac091b63cfd47/201008-voting-booth2-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
     excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."

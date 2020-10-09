@@ -2,6 +2,141 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-02-brian-howey-barrett-confirmation-would-be-a-pence-achievement.md",
+      "title": "Brian Howey: Barrett confirmation would be a Pence achievement",
+      "excerpt": "It stands to be a future framed picture in Vice President Mike Pence’s office: On Monday, he was climbing the U.S. Capitol steps with 7th Circuit Judge Amy Coney Barrett of South Bend. The tall, slender judge is adjusting her necklace;",
+      "sourceUrl": null,
+      "webUrl": "https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/",
+      "originalUrl": "https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/0a79383d066b2c97ceaee4ee7c4fc9ed864b8dfc/c=0-278-2398-1633/local/-/media/2018/01/18/INGroup/Evansville/636518704926298184-Howey2011.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.courierpress.com/amp/5891503002",
+      "cdnAmpWebUrl": "https://amp-courierpress-com.cdn.ampproject.org/c/s/amp.courierpress.com/amp/5891503002",
+      "publishedDateTime": "2020-10-01T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Evansville Courier & Press",
+        "domain": "courierpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-borat-2-trailer-sacha-baron-cohen-dresses-as-trump-to-prank-mike-pence.md",
+      "title": "Borat 2 Trailer: Sacha Baron Cohen Dresses As Trump To Prank Mike Pence",
+      "excerpt": "The first trailer for the sequel to \"Borat\" dropped on Thursday and it appears Sacha Baron Cohen is up to his old tricks again.",
+      "sourceUrl": null,
+      "webUrl": "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
+      "originalUrl": "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.toofab.com/image/5a/16by9/2020/10/01/5aaded4cdb5145c0ada0b1c570b0b3b1_xl.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
+      "cdnAmpWebUrl": "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
+      "publishedDateTime": "2020-10-01T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TooFab",
+        "domain": "toofab.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-watch-live-vice-president-pence-speaks-at-iowa-rallies.md",
+      "title": "WATCH LIVE: Vice President Pence speaks at Iowa rallies",
+      "excerpt": "Vice President Mike Pence will visit Carter Lake and Des Moines, Iowa Oct. 1, where he will speak at political rallies being held in the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 625,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/vote2020_tape7-1024x630.jpg",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "publishedDateTime": "2020-10-01T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-heres-how-kamala-harris-puts-the-nail-in-the-trump-pence-coffin.md",
       "title": "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin",
       "excerpt": "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest.",
@@ -10,7 +145,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 6455,
+      "heat": 6755,
       "tags": null,
       "images": [
         {
@@ -1245,150 +1380,6 @@
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/super-pac-american-bridge-posts-pence-oppo-book/story?id=73144864",
       "publishedDateTime": "2020-09-22T03:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement.md",
-      "title": "Vice President Pence on honoring Ginsburg and moving forward with her replacement",
-      "excerpt": "Vice President Mike Pence will play a key role in the nomination process and interview of each of the candidates President Trump is considering. Pence speaks with CBS News in this exclusive interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/",
-      "originalUrl": "https://www.cbsnews.com/video/vice-president-pence-on-honoring-ginsburg-and-moving-forward-with-her-replacement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 320,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/21/fd16145c-fa6d-43c0-b94e-05773864daab/thumbnail/1200x630/4f363a5682ba93d74d9a23557db931a5/0921-en-pence-odonnell-551647-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear.md",
-      "title": "Anthony Anderson, Jimmy Kimmel Chant ‘Black Lives Matter’ at Emmy Awards: ‘Say it So That Mike Pence Can Hear!’",
-      "excerpt": "Anthony Anderson and Jimmy Kimmel chanted Black lives matter during the Emmy Awards on Sunday -- Anderson encouraging Kimmel to say it louder, \"so that Mike Pence can hear!\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/",
-      "originalUrl": "https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-20-at-10.01.08-PM-1200x678.jpg",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/amp/",
-      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/entertainment/anthony-anderson-jimmy-kimmel-chant-black-lives-matter-at-emmy-awards-say-it-so-that-mike-pence-can-hear/amp/",
-      "publishedDateTime": "2020-09-20T19:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mediaite",
-        "domain": "mediaite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-ex-pence-adviser-says-trump-bungled-virus-shes-for-biden.md",
-      "title": "Ex-Pence adviser says Trump bungled virus; she's for Biden",
-      "excerpt": "President Donald Trump says he doesn’t know a former adviser to Vice President Mike Pence who is publicly criticizing Trump’s response to the coronavirus pandemic and urging voters to deny him a secon",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 5535,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_1bec538515e64fb3af51c633c99f57bc_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758",
-      "publishedDateTime": "2020-09-18T01:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",

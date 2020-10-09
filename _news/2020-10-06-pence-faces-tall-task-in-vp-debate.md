@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519691-pence-faces-tall-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The medical facts about Mike Pence's debate red eye"
+    excerpt: "Internet users suggested his red eye was a sign the vice president has coronavirus. Is there any truth to that?"
+    publishedDateTime: 2020-10-08T21:32:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/longevity/520261-the-medical-facts-about-mike-pences-debate-red-eye"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/longevity/520261-the-medical-facts-about-mike-pences-debate-red-eye?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/longevity/520261-the-medical-facts-about-mike-pences-debate-red-eye?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_penceredeye_100820getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "As Pence is about to take the debate stage next week, the 2024 primary is already in sight"
     excerpt: "Vice President Mike Pence takes center stage next week when he debates Senator Kamala Harris for the only time in the campaign. While the debate is less than a week away, Pence stopped by Iowa on Thursday,"
     publishedDateTime: 2020-10-01T20:58:00Z

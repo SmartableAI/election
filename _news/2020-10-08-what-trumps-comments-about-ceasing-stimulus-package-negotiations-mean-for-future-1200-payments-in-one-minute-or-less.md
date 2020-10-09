@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'Treating us like garbage': New sanctions announced as many Iranian Americans feel fed up with Trump"
+    excerpt: "Sanctions unveiled Thursday by the U.S. Treasury Department target Iran's financial sector. While some Iranian-Americans support Donald Trump, others are fed up."
+    publishedDateTime: 2020-10-09T04:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/iran-sanctions-trump-iranian-americans-vote-election/3528381001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3528381001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528381001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/db8f4a6b-712c-4583-b634-81488d181138-GTY_994906866.JPG?auto=webp&crop=4672,2628,x1,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Stimulus 2: Trump Now Says He Would ‘Immediately’ OK Standalone Bill for $1,200 Checks"
     excerpt: "After announcing the end to coronavirus stimulus negotiations Tuesday, President Trump later signaled that he would sign a standalone bill sending $1,200 checks to Americans."
     publishedDateTime: 2020-10-07T02:56:00Z

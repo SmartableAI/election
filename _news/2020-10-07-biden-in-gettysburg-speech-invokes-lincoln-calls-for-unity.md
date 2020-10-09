@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-spe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 75
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/michelle_obama_c20-0-880-502_s1200x700.jpg?fb980a6d3389ca7cc435a478cad5a7e1c62b1a57"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Joe Biden focused on flies: Democrat mines viral debate moment for campaign cash"
+    excerpt: "Joe Biden ’s campaign is trying to turn flies into campaign gold. The 2020 presidential hopeful used a fly’s pit stop on Vice President Mike Pence’s head during Wednesday’s debate in Salt Lake City as a springboard for donations."
+    publishedDateTime: 2020-10-09T04:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/8/joe-biden-focused-on-flies-democrat-mines-viral-de/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/8/joe-biden-focused-on-flies-democrat-mines-viral-de/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/8/joe-biden-focused-on-flies-democrat-mines-viral-de/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 70
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Joe_Biden_fly_swatter_Twitter_c0-0-1000-583_s1200x700.jpg?dc4b0b391b4b3f8e45ac6a9820b080411cef8307"
         width: 1200
         height: 700
         isCached: true

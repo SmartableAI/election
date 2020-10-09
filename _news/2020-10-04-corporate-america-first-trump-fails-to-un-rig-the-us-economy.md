@@ -27,69 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump tax returns: Reality show businessman turns America's loser in chief"
-    excerpt: "How did Donald Trump bankrupt his presidency and fail to save America from COVID-19? Answers lie in his success in dodging taxes and debts."
-    publishedDateTime: 2020-09-29T17:27:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3565963001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565963001"
+  - title: "In 25th Amendment bid, Pelosi mulls Trump's fitness to serve"
+    excerpt: "House Speaker Nancy Pelosi is questioning President Donald Trump's fitness to serve, announcing legislation Thursday that would create a commission to allow Congress to intervene under the 25th Amendment to the Constitution and remove the president from executive duties."
+    publishedDateTime: 2020-10-09T04:05:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_7037dad961d744cb84711d4fe7797ae7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Jr. pushes back on Pelosi asking if steroids influenced the president"
+    excerpt: "Donald Trump Jr. pushed back on Speaker Nancy Pelosi (D-Calif.) on Wednesday after the Democratic leader questioned whether steroids influenced President Trump’s"
+    publishedDateTime: 2020-10-07T15:28:00Z
+    webUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the"
+    ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/f065e03b-91bf-4678-aad0-a2161d916085-Trump.jpg?auto=webp&crop=5087,2861,x0,y423&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "This ethnic group barely receives attention in American media and politics. The Midwest, home to many German Americans, is a battleground for the 2020 presidential election. Will this inconspicuous group yet again cast the deciding votes in the upcoming election?"
-    publishedDateTime: 2020-10-01T13:10:00Z
-    webUrl: "https://www.chron.com/news/article/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 82
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
-    publishedDateTime: 2020-10-04T11:46:00Z
-    webUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 82
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
-        width: 687
-        height: 430
-        isCached: true
-  - title: "Scaramucci Hits Trump Over White House Return: ‘The American Mussolini Standing on the Balcony’"
-    excerpt: "Anthony Scaramucci likened President Donald Trump to Mussolini in reacting to his return from Walter Reed Medical Center."
-    publishedDateTime: 2020-10-06T03:29:00Z
-    webUrl: "https://www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/"
-    ampWebUrl: "https://www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 63
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/scaramucci.jpg"
-        width: 1200
-        height: 630
+      - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "W7bHWPNukV34xhkORac0+dGuagYiJ3wui0FQF+suD+5Lz820MJRpeF2qZPB/0isG0ZX6RSajM65zzSiO6Fbf2y7e5weWlbAI7fYRvDOvacxMKjinwXYQXb3VFKg11Lm96muyi5ZcrwY/T+jpyGktzPE0XRhIpkZygPdHyU7Pd1yY1L6WEy9bnyME/1FexnxQ9zihffKm37+uslVSfEDt+vc5eawKQpay37vm3+YM32cgWkD9G9eu1kuxrH1+nt5SiTRolegUoK2lBnG1k9Ql4bvsIo64FOZQciwyjrER1u2iflxAhawPe42YD/As0d1p12qA32qVUHD5GPOrEmd7m2zjazXoweslNs1nMi6HECg=;NXUNdzCuF1/+sAIIiHL1JA=="

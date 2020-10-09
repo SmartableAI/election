@@ -1409,6 +1409,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Trump blasts Biden over silence on court-packing question, predicts Dem won't last three months in office"
+    excerpt: "President Trump ripped Democratic presidential nominee Joe Biden during an exclusive interivew on \"Hannity\" Thursday after the former vice president refused yet again to say whether he’d support efforts to add more seats to the Supreme Court."
+    publishedDateTime: 2020-10-09T02:44:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cde0IZNybDs/trump-biden-court-packing-wont-last-three-months"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-court-packing-wont-last-three-months.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-court-packing-wont-last-three-months.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82547877-ca99-469d-97ed-d1d12eb85c62/5cd196a0-b825-43d7-8768-bde3bf2730fe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden on Trump saying he won't do a virtual debate: 'You never know what's going to come out of his mouth'"
     excerpt: "Democratic presidential nominee Joe Biden is shining a spotlight on President Trump’s unpredictable nature."
     publishedDateTime: 2020-10-08T15:03:13Z
@@ -1614,6 +1630,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282058890857.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Mike Huckabee: At VP debate Harris made 3 big mistakes in faceoff against Pence"
+    excerpt: "Harris began by attempting to deceive the American people about the COVID-19 pandemic, insisting that the Trump administration was too slow to react to the virus. Challenging Mike Pence on the facts of the pandemic was Sen."
+    publishedDateTime: 2020-10-09T03:16:00Z
+    webUrl: "https://www.foxnews.com/opinion/vp-debate-harris-mistakes-pence-mike-huckabee"
+    ampWebUrl: "https://www.foxnews.com/opinion/vp-debate-harris-mistakes-pence-mike-huckabee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/vp-debate-harris-mistakes-pence-mike-huckabee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b88c7196-83c6-4ec0-bf17-4b56113c08db/fb72f1a0-ed69-43b7-bd98-41051ec530ce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Taylor Swift endorses Joe Biden, Kamala Harris ahead of vice presidential debate"
     excerpt: "The country-pop music superstar issued a public declaration to her followers to cast their vote for Democratic presidential nominee Joe Biden and his running mate Sen. Kamala Harris in November's election."
@@ -2055,6 +2087,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Susan Collins isn't done yet; Biden capitalizes on Trump's COVID diagnosis"
+    excerpt: "Susan Collins has work to do, but could still win reelection. F or so many years, Sen. Susan Collins has been Maine's immovable object. The Republican survived the Democra"
+    publishedDateTime: 2020-10-09T03:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/susan-collins-isnt-done-yet-biden-capitalizes-on-trumps-covid-diagnosis"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/susan-collins-isnt-done-yet-biden-capitalizes-on-trumps-covid-diagnosis?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/susan-collins-isnt-done-yet-biden-capitalizes-on-trumps-covid-diagnosis?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 98
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/497b3e9/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F41%2F9c%2F1c034edc43f1b985f1c59870ddfb%2Fwb.Campign.jpg"
+        width: 2290
+        height: 1322
+        isCached: true
   - title: "NBC's Hallie Jackson: Kamala Harris Worked to Speak \"Past Pence,\" And At President Trump"
     excerpt: "NBC's Hallie Jackson breaks down the Vice Presidential Debate between Sen. Kamala Harris and Vice President Mike Pence, and describes how Harris was speaking \"past Pence, at President Trump and to the American people."
     publishedDateTime: 2020-10-08T12:26:00Z
@@ -2156,6 +2204,22 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 85
+  - title: "Biden once ran and hid; now, he runs and hides his policies"
+    excerpt: "Once upon a time, Joe Biden’s bid for the White House was a run-and-hide campaign; he was running for the presidency while hiding in his basement. It worked well enough. His handlers’ strategy kept attention away from the no-longer-smoking Joe and left President Trump alone in the limelight,"
+    publishedDateTime: 2020-10-09T03:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/biden-once-ran-and-hid-now-he-runs-and-hides-his-policies"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/biden-once-ran-and-hid-now-he-runs-and-hides-his-policies?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/biden-once-ran-and-hid-now-he-runs-and-hides-his-policies?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 85
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/3bbb61e/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fc6%2F3b%2F728e9dba4028ac85d5cf51f9bfc6%2Flettereditor.jpg"
+        width: 2290
+        height: 1322
+        isCached: true
   - title: "Watch Live: 2020 Vice Presidential Debate Between Mike Pence, Kamala Harris In Utah"
     excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris face-off for their first debate."
     publishedDateTime: 2020-10-07T23:52:00Z

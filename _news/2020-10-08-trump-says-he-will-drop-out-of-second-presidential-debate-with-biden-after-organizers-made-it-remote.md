@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden says he would reveal his view on expanding Supreme Court post-election"
+    excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans would learn his position on increasing the number of justices on the U.S. Supreme Court after the November election if he were to win."
+    publishedDateTime: 2020-10-08T20:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-biden-court-int-idUSKBN26T3HA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T3HA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T3HA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536789549&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9725O"
+        width: 893
+        height: 545
+        isCached: true
   - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
     excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
     publishedDateTime: 2020-10-06T11:02:00Z
