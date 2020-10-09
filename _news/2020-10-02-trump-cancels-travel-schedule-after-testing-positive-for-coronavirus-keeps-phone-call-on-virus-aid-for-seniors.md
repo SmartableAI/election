@@ -1039,6 +1039,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Trump can return to 'public engagements' this weekend after coronavirus diagnosis, doctor says"
+    excerpt: "White House physician Dr. Sean Conley sent out a memorandum on Thursday stating that President Trump will be able to return to public engagements this weekend."
+    publishedDateTime: 2020-10-09T07:37:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TVTN9JTZ0zg/live-updates-trump-can-return-to-public-engagements-this-weekend-after-coronavirus-diagnosis-doctor-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-can-return-to-public-engagements-this-weekend-after-coronavirus-diagnosis-doctor-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-can-return-to-public-engagements-this-weekend-after-coronavirus-diagnosis-doctor-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03957425-562e-4a08-9416-8c97e308d3b0/bba0db18-ae44-4233-b350-ecf576d4d522/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump 'fever-free' for four days, 'symptom-free' for 24 hours in coronavirus fight, White House physician says"
     excerpt: "White House physician Dr. Sean Conley said in a new memo on Wednesday that President Trump has been “fever-free” for four days and has not had any symptoms of the novel coronavirus for “over 24 hours.”"
     publishedDateTime: 2020-10-07T17:21:38Z

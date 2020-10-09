@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronaviru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
 type: article
 quality: 187
-heat: 1727
+heat: 1747
 published: true
 
 provider:
@@ -1022,6 +1022,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Live Updates: Trump can return to 'public engagements' this weekend after coronavirus diagnosis, doctor says"
+    excerpt: "White House physician Dr. Sean Conley sent out a memorandum on Thursday stating that President Trump will be able to return to public engagements this weekend."
+    publishedDateTime: 2020-10-09T07:37:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TVTN9JTZ0zg/live-updates-trump-can-return-to-public-engagements-this-weekend-after-coronavirus-diagnosis-doctor-says"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-can-return-to-public-engagements-this-weekend-after-coronavirus-diagnosis-doctor-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-can-return-to-public-engagements-this-weekend-after-coronavirus-diagnosis-doctor-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03957425-562e-4a08-9416-8c97e308d3b0/bba0db18-ae44-4233-b350-ecf576d4d522/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump cancels travel schedule after testing positive for coronavirus, keeps phone call on virus aid for seniors"
     excerpt: "President Trump cleared his Friday schedule except for a phone call on coronavirus support for vulnerable seniors after he and first lady Melania Trump confirmed they had tested positive for the virus in the early morning hours, multiple reports said. "

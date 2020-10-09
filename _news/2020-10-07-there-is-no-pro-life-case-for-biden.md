@@ -107,20 +107,20 @@ related:
         height: 640
         isCached: true
   - title: "Joe Biden Is Flirting with the Destruction of the Judiciary"
-    excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to"
-    publishedDateTime: 2020-10-09T04:01:00Z
-    webUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754"
-    ampWebUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754?amp=true"
+    excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to the constitutional order in modern American history."
+    publishedDateTime: 2020-10-09T01:55:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
+      name: RealClearPolitics
+      domain: realclearpolitics.com
     quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/52/522082_5_.jpg"
+        width: 750
+        height: 523
         isCached: true
 
 secured: "1bkI3HFI0+YAiYXG2QUaRYKKgbiCrFgSEYm0P4VqN0gGUvt94I/PF+cXjZsrO1C3/qbOqQMuTGsw5clD8RwieIt+6OfcxBYeyUMQDjXWqeKee3vYN7L48hn0XHMtWDOsUnKP7+UEA2V7HSFS7gupe+8FCCzzDFSgmAb58xGszdt7Cx42r2re4tqzED311hP6i+TjhUlgyKWigbtOE/kly9wjzR99oHtYJQXHWYJ2teHPYhrhFdmguR4xzTD8axjDKg7VFqJZIEmbXKtq86hYSd8t/v1C0mnyVEsXEGRMDPGxjxH1mZca+wHrwJKm5kQJgULUpj+UJN7COeD4+68JVhEmUopdGHc91ubn89gFjBRFe1huAwYaGRKCsg04BgDtKt6EyWXbnwyqts9gPc/95YNCqIJjfGEpdxNI22nhFHxSCbHsuutGAZqTtS657VSbUfZFCZKFqEg+en/UhwD/zTB1PF/4v0zMo4Tq8WrtNMGm5aczdHVioM0X1PGx5MyYgHclUpQ+42n9oFznYzdx7Q==;ba0eIK9Cp7vwbOBm/j9Rvw=="

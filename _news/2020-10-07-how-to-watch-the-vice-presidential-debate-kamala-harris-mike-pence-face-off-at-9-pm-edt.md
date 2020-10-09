@@ -81,9 +81,9 @@ related:
   - title: "Trump's pandemic record in spotlight as Harris, Pence trade blows at VP debate"
     excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris clashed over the Trump administration's handling of the coronavirus pandemic during their debate on Wednesday, as the White House struggled to contain an outbreak that has infected President Donald Trump"
     publishedDateTime: 2020-10-08T22:17:00Z
-    webUrl: "https://www.reuters.com/article/BigStory12/idUSKBN26S1HZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S1HB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S1HB"
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26S1HZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S1HZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S1HZ"
     type: article
     provider:
       name: Reuters
@@ -2177,6 +2177,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "VP debate 2020: Kamala Harris attacks Trump administration over Covid-19 healthcare"
+    excerpt: "Kamala Harris attacked the Trump administration's handling of healthcare for those with pre-existing conditions."
+    publishedDateTime: 2020-10-09T06:25:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-54459143"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 114
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08tphmm.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Hillary Clinton praises Kamala Harris debate performance: 'She swatted away the lies with ease'"
     excerpt: "Hillary Clinton congratulated Democratic vice presidential nominee Kamala Harris (D-Calif.) on Thursday for what the former secretary of State called a “masterful debate performance” the night before."
     publishedDateTime: 2020-10-08T15:35:00Z
@@ -3881,6 +3895,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 80
+  - title: "President Trump calls Kamala Harris a ‘monster’ in rambling post-hospital interview on Fox"
+    excerpt: "Dialing in for his first interview since being hospitalized, President Donald Trump went on an hour-long ramble that devolved into vicious and sexist attacks on the Democrats running against him,"
+    publishedDateTime: 2020-10-08T19:50:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/08/president-trump-calls-kamala-harris-a-monster-in-rambling-post-hospital-interview-on-fox/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/08/president-trump-calls-kamala-harris-a-monster-in-rambling-post-hospital-interview-on-fox/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/08/president-trump-calls-kamala-harris-a-monster-in-rambling-post-hospital-interview-on-fox/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 80
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_6ead7e405e439a90e08dc33b143a4424-h_a09588973c3114b58bfb3cd270c77408.jpg?w=1024&h=754"
+        width: 1024
+        height: 754
+        isCached: true
   - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
     excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."
     publishedDateTime: 2020-10-07T02:19:00Z

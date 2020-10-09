@@ -1520,6 +1520,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: 2020 presidential race heats up, Trump suggests he might hold weekend rallies"
+    excerpt: "The 2020 presidential race is heating up after the first vice presidential debate between Vice President Mike Pence and Democratic challenger Sen. Kamala Harris, D-Calif., at the University of Utah in Salt Lake City on Wednesday."
+    publishedDateTime: 2020-10-09T07:37:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lYtBnt6p7-k/live-updates-2020-presidential-race-heats-up-trump-suggests-he-might-hold-weekend-rallies"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-heats-up-trump-suggests-he-might-hold-weekend-rallies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-heats-up-trump-suggests-he-might-hold-weekend-rallies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82547877-ca99-469d-97ed-d1d12eb85c62/5cd196a0-b825-43d7-8768-bde3bf2730fe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Committee on Presidential Debates discussing holding next debate between US President Trump and Joe Biden outdoors: report"
     excerpt: "The Committee on Presidential Debates (CPD) is reportedly discussing holding the next presidential debate in open air. "
     publishedDateTime: 2020-10-06T22:05:04Z

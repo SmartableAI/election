@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden says he would reveal his view on expanding Supreme Court post-election"
-excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans would learn his position on increasing the number of justices on the U.S. Supreme Court after the November election if he were to win."
+excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans will learn his position on increasing the number of justices on the U.S. Supreme Court if he defeats President Donald Trump in the Nov."
 publishedDateTime: 2020-10-08T20:40:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-biden-court-int-idUSKBN26T3HA"
-webUrl: "https://www.reuters.com/article/usa-election-biden-court-int-idUSKBN26T3HA"
+originalUrl: "https://www.reuters.com/article/us-usa-election-biden-court/biden-says-he-would-reveal-his-view-on-expanding-supreme-court-post-election-idUSKBN26T3H3"
+webUrl: "https://www.reuters.com/article/us-usa-election-biden-court/biden-says-he-would-reveal-his-view-on-expanding-supreme-court-post-election-idUSKBN26T3H3"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T3HA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T3HA"
 type: article
@@ -175,6 +175,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "NGP86I+SjNtkbZ2+3kPsw0g36O0yJMfOyRuKTLk1KILZ6GgnyZBZXBZmnYyaP2nfVb20PorzAYna/4UxwivjnX3xSDWVIKzOiPnv+SFMZ6eByWP2hK8PjKJL+N1o/TUZNg3QTCHq/D+L/XsBaEPOMQ42+uOiLD8uvEzHZVXMMfoubl/xULf2ZC8de3Y/1zd99fQK2G99+Abri92md6Yg6iuGmfWGlARTJKQinrW5QyfFfbqnKSnz22LHxM0/RTl/M/n4jpOxwHa9uIa5HvoMpPC7Nev8+5UHPy27QKSWLNLSDFyafRmuXlclJqKot+c1VZc636N1MAyR3YDdhj0sbxLs4i/CqPgSwl6Ngvr9DsnlGlM7rYnNtumcM5Bi/ttvleJnSs89jPoaHRLh5flfjtvwl4HIpAFCw3+f9b5nfzwkDX9pMrmsGncvdypnFRCDunDUR3NPJpcNnhsKU4trm1G0vSAggZKjb9HG7qnjoOtpkY8PggpNOKEIWwIHRATskNw/9EnhRhst3HFFuRRzrg==;FZ5b18UStHwFfu4fZCDBSA=="
+secured: "yawbKnxX0b74k6MMDP2SOZ9YpmI41c9HJOFi7t6K+9A8t5QVdXXM/91l3hVduyyeVe0OcWF4nACymkb1fXBf2Falmer1tE0qm7P/ry4Tb/yj2qcQkAZSf/9GOatHqpAgczCfnIaQnoSl//N+28JNNAavrAvPXYDtA71nlGPrBzUDD/GNHuYg6v5kI9Z+8QaNjzvBdc3k3dyqhxwpHt7Re9BjPzFxVxmlqph7ldBgyRuZ/YCrb2P6gDWu6Spezr4KP0sFqwxHS76zCgQxvI2+Xv4yZwbuZoNteQGLhMXDk6vdY7iSwH3klDgCkae1YTPMR2+zNvrNInp5pbR4y7yBLEIMqFPMa+SBx+hMBE5txZk=;ATJF+w3DPBAIRFl0jmKCHQ=="
 ---
 

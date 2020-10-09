@@ -44,9 +44,9 @@ related:
         height: 551
         isCached: true
   - title: "Biden says he would reveal his view on expanding Supreme Court post-election"
-    excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans would learn his position on increasing the number of justices on the U.S. Supreme Court after the November election if he were to win."
+    excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans will learn his position on increasing the number of justices on the U.S. Supreme Court if he defeats President Donald Trump in the Nov."
     publishedDateTime: 2020-10-08T20:40:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-biden-court-int-idUSKBN26T3HA"
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-court/biden-says-he-would-reveal-his-view-on-expanding-supreme-court-post-election-idUSKBN26T3H3"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T3HA"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T3HA"
     type: article

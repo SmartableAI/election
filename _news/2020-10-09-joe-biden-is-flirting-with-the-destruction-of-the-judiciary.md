@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Joe Biden Is Flirting with the Destruction of the Judiciary"
-excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to"
-publishedDateTime: 2020-10-09T04:01:00Z
-originalUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754"
-webUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754"
-ampWebUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754?amp=true"
-cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754?amp=true"
+excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to the constitutional order in modern American history."
+publishedDateTime: 2020-10-09T01:55:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.html#!"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
 type: article
 quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Townhall
-  domain: townhall.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
-    width: 650
-    height: 340
+  - url: "https://assets.realclear.com/images/52/522082_5_.jpg"
+    width: 750
+    height: 523
     isCached: true
 
 related:
@@ -124,6 +120,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "frS8yiSPn4RKMhhZZfzRCAaxqVvQmGhH5yd3mky7AoR/osOAom149aDGy4N9iFBGozxVDuzabPxKl3gl9fvzzdxy8U/+ROfz3OZ/6y5xLABSqyUUg44tVkTrr2quERK3Rw/M0e0jUQVhlAE+wxlBu0q0A0aIvnAGl8dZzJZ2UdjlcDHzVR/pMfSmkL07YWULjDiyH2+874w6gPVMJgQquCwkIXmoRrmZ5r5EsZY2LWH9/fvzHsMDf8uDQF2TR5sTzqjOuRH8JOHsQ8rEzf7PBFA8yupq8w4hKZ2DFcSKB9tITPx9n5AzGJDfxBYj7CuXryjXcA8UsSiGKIUd9oNcy4traVk7HaC7+Oi7wUQ9/DVeqmaaBYkd5onWxL5McYh4XQBnpTkwJQSBgsaAegPObwuqexMILRPV90P3d2GUmtTr/EMIAJronjfFeZCAfctQ9F69B3JVfrHCGGskgDJ2f6ol/azEZgxlMQtf0TgXyyg9Vj1fxLShVWKntDO6UIU836t9UshlbNbL1huTMLuilA==;LakLnDolcY4YMOCoKyAKFg=="
+secured: "Il+JyOgADbLtmbccNrmYc519+NLLxHpaoMTfCyACTMZxpLArWudOqsBNVdNX7JIcKU4JZUoAD46jrI6ewJ+iAn4PPjRgIjOI/sOAPViG1Ak80Cyt71S+n1F9xnezWQFEJuJuXzGKNZiZGVfIw3+TRNpuslRq6wemvN/hIdjbhCQBEJFOmPLT0T9pgNrlx1CdX3AZymbU2tv/Bnlr+z+Yy+W5PRX0vYNEPjMB7OlGG64DvcHoK+sCamo+tqOIXpCGWkgwl4zuwYEDbjxB8bqcHOLDlWmUlynsKu1UDQOssoDJhOq2Vw4pJNXltZhp06+lI9aAsKG/6EWeSkvBzikrkloY72DzJOFxe5xG2QSEA3E=;0ANHyPVAtQ0pWkIoeb8Hlw=="
 ---
 
