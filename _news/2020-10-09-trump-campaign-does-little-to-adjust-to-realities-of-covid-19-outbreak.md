@@ -1008,6 +1008,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "A Surging Virus. Angry Packers Fans. Can Trump Hold On to Wisconsin?"
+    excerpt: "With the coronavirus raging in the state, particularly in the politically competitive northeast, the president faces an uphill battle to repeat his 2016 victory."
+    publishedDateTime: 2020-10-09T11:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/wisconsin-polls-trump-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/wisconsin-polls-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/wisconsin-polls-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09pollwatch-newsletter/09pollwatch-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Dow falls 400 points after Trump calls off negotiations on stimulus package"
     excerpt: "Wall Street fell on Tuesday after President Donald Trump said he had would be halting all negotiations on a new round of coronavirus stimulus relief. The Dow Jones Industrial Average fell by almost 400 points,"
     publishedDateTime: 2020-10-06T19:34:00Z

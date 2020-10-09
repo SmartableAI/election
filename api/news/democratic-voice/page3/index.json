@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-29-donald-trump-was-the-real-winner-of-the-apprentice.md",
+      "title": "Donald Trump Was the Real Winner of ‘The Apprentice’",
+      "excerpt": "The reality show temporarily revived his business fortunes by creating the illusion that he was already doing great.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/arts/28apprentice1/28apprentice1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/arts/television/trump-taxes-apprentice.amp.html",
+      "publishedDateTime": "2020-09-28T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing.md",
       "title": "Pence tells Americans to 'anticipate that cases will rise' with more coronavirus testing",
       "excerpt": "Vice President Mike Pence said that \"the American people should anticipate that cases will rise\" as efforts for increased coronavirus testing are implemented and states in the Midwest are experiencing a surge.",
@@ -1582,61 +1638,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
       "publishedDateTime": "2020-09-22T17:32:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trumps-ex-russia-adviser-fiona-hill-us-increasingly-seen-as-object-of-pity.md",
-      "title": "Trump's ex-Russia adviser Fiona Hill: US increasingly seen as 'object of pity'",
-      "excerpt": "President Donald Trump's former top Russia adviser said Tuesday that the United States is increasingly seen as \"an object of pity\" and its standing on the world stage is eroding.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVsX2ejtE44/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVsX2ejtE44/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922133737-fiona-hill-citizen-9-22-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/fiona-hill-foreign-view-of-us/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/fiona-hill-foreign-view-of-us/index.html",
-      "publishedDateTime": "2020-09-22T12:02:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

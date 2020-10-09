@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nesse
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
 type: article
 quality: 97
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,6 +30,24 @@ images:
     height: 600
     isCached: true
 
-secured: "c50FBlKM08vRAclUFFLptUsVV8KRIXE9hpaJXbLTRrpjytEJl/qjpyZ/Ya5Nul1VBQqWiSXwf9TPFsbOUUzHqbyVy41HPveE2udz+SM6Cy6lffa0N77TawQ6Ur0zJmPfBQ7BHldP/VpvfCBs6GuAQ5WTAAmG4YDQpZ0ZMf+ZdbgKOPNWiS+9btx6EqlX2LOKa73GEjhajIZdsUDcFRfElkzA5SFSc+swLsx+OvEnHYaZiukDuxx/RWqk67+kCiy9mAfFWEygiG/qrF69vMr5Hj6QT6UM2feYFC/qux2GY5uTUa8JD+zTXkJWX9pObPqBvzC90eeexdrNHgIJ8uRN2IG6tdiKqR4QiAM6wUSX9+s=;VJSZsZSuKUG+xGfRF55QQA=="
+related:
+  - title: "Fact-check: Did Trump's 'Liberate Michigan' Tweet Inspire Plot to Kidnap Gov. Whitmer?"
+    excerpt: "The governor of Michigan has linked the plot to kidnap her to President Donald Trump's rhetoric during the pandemic."
+    publishedDateTime: 2020-10-09T10:46:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1648482/michigan-governor-gretchen-whitmer.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+
+secured: "ur0t5AhnPcc3zcaq+vdHfftjwTf0svFhaS3iHe4xFIMMszyOMOfuRlLgmMAR3+duDv4El1DIg0MwOpL0nIlT8AGgO6yO2dMsCVxu+DQ/rWJpiwzBshkYgoi/2ghS8LcXzGDw6RbNupepG35KlSGmmaeHTbcOD/hmIU4N56nfuoWyXNA06mhIm/cuEcTkKCe9DM8PfXliYZGgtwc9m9jtkpuDTVPEH/t3IcjN5rzgp5SDuJ8TQ8eVnvDOHFmpbkBhIIDRli1TX4T+j/e/2sEuhOUxMyLVedl0E0l8T0ZFz7CXI7vrCy7USq5mkIbnvOcMuWKYpTGy6DlD0OBON53BLUaNAVU/xk8K4h2E6WESFFpkgDmbWkDitFyI15eZwZNEQjrRaNf8ZoeUrSMVLRPP6y0dvi1FDBkVeX8saq1V4nx8HqNF4Gehd0R+Y4UdQHSFwgn+ZDle3+byrq3hWhb4UlYofvTLkAKTMPatek7qmrRiE/d/HhZT+bDrVEG/jxR0ZU89tK9CgoHMOWf9XEsx3g==;DhFjE/QHSUJKaSNAm+dVxw=="
 ---
 

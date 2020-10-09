@@ -1567,6 +1567,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top 5 vice presidential debate moments between Pence, Harris"
+    excerpt: "Vice President Mike Pence and Democratic presidential nominee Sen. Kamala Harris squared off Wednesday night on topics ranging from the pandemic to health care to the USMCA."
+    publishedDateTime: 2020-10-08T20:28:00Z
+    webUrl: "https://www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a43c54b-ed81-4dbc-9ebe-c05591196c5d/7aa1d312-6222-4316-8d82-ac2bcf4df303/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign says Commission on Presidential Debates 'not impartial,' amid talks of rules, format changes"
     excerpt: "The Trump campaign on Thursday slammed the Commission on Presidential Debates as partisan, as the organization suggested it could modify the rules and format for the remaining presidential debates between President Trump and Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-01T22:28:52Z
@@ -1821,6 +1837,38 @@ related:
     images:
       - url: "https://images.wsj.net/im-241725/social"
         width: 1280
+        height: 640
+        isCached: true
+  - title: "Georgia Poll: Trump, Biden Virtually Tied, Open Senate Race Tight"
+    excerpt: "The presidential race in Georgia is a statistical tie, with President Trump at 47% and Democratic challenger Joe Biden at 46% in a new poll from the University of Georgia, and more in Washington Wire."
+    publishedDateTime: 2020-10-09T09:41:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-poll-trump-biden-virtually-tied-open-senate-race-tight-11602235802"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-poll-trump-biden-virtually-tied-open-senate-race-tight-11602235802"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-poll-trump-biden-virtually-tied-open-senate-race-tight-11602235802"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-242325/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "It’s Easier to Avoid Taxes When You Own a Business. Just Ask Donald Trump (and Joe Biden)."
+    excerpt: "As business owners, the two candidates have something in common: It’s difficult for the IRS to audit them. Proposals are now surfacing to make it easier."
+    publishedDateTime: 2020-10-09T09:38:00Z
+    webUrl: "https://www.wsj.com/articles/its-easier-to-avoid-taxes-when-you-own-a-business-just-ask-donald-trump-and-joe-biden-11602235806"
+    ampWebUrl: "https://www.wsj.com/amp/articles/its-easier-to-avoid-taxes-when-you-own-a-business-just-ask-donald-trump-and-joe-biden-11602235806"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/its-easier-to-avoid-taxes-when-you-own-a-business-just-ask-donald-trump-and-joe-biden-11602235806"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-242382/social"
+        width: 1279
         height: 640
         isCached: true
   - title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"

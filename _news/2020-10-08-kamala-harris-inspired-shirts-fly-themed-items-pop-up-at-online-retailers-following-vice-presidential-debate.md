@@ -1582,6 +1582,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Top 5 vice presidential debate moments between Pence, Harris"
+    excerpt: "Vice President Mike Pence and Democratic presidential nominee Sen. Kamala Harris squared off Wednesday night on topics ranging from the pandemic to health care to the USMCA."
+    publishedDateTime: 2020-10-08T20:28:00Z
+    webUrl: "https://www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments"
+    ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a43c54b-ed81-4dbc-9ebe-c05591196c5d/7aa1d312-6222-4316-8d82-ac2bcf4df303/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign says Commission on Presidential Debates 'not impartial,' amid talks of rules, format changes"
     excerpt: "The Trump campaign on Thursday slammed the Commission on Presidential Debates as partisan, as the organization suggested it could modify the rules and format for the remaining presidential debates between President Trump and Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-01T22:28:52Z
@@ -1836,6 +1852,38 @@ related:
     images:
       - url: "https://images.wsj.net/im-241725/social"
         width: 1280
+        height: 640
+        isCached: true
+  - title: "Georgia Poll: Trump, Biden Virtually Tied, Open Senate Race Tight"
+    excerpt: "The presidential race in Georgia is a statistical tie, with President Trump at 47% and Democratic challenger Joe Biden at 46% in a new poll from the University of Georgia, and more in Washington Wire."
+    publishedDateTime: 2020-10-09T09:41:00Z
+    webUrl: "https://www.wsj.com/articles/georgia-poll-trump-biden-virtually-tied-open-senate-race-tight-11602235802"
+    ampWebUrl: "https://www.wsj.com/amp/articles/georgia-poll-trump-biden-virtually-tied-open-senate-race-tight-11602235802"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/georgia-poll-trump-biden-virtually-tied-open-senate-race-tight-11602235802"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-242325/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "It’s Easier to Avoid Taxes When You Own a Business. Just Ask Donald Trump (and Joe Biden)."
+    excerpt: "As business owners, the two candidates have something in common: It’s difficult for the IRS to audit them. Proposals are now surfacing to make it easier."
+    publishedDateTime: 2020-10-09T09:38:00Z
+    webUrl: "https://www.wsj.com/articles/its-easier-to-avoid-taxes-when-you-own-a-business-just-ask-donald-trump-and-joe-biden-11602235806"
+    ampWebUrl: "https://www.wsj.com/amp/articles/its-easier-to-avoid-taxes-when-you-own-a-business-just-ask-donald-trump-and-joe-biden-11602235806"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/its-easier-to-avoid-taxes-when-you-own-a-business-just-ask-donald-trump-and-joe-biden-11602235806"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-242382/social"
+        width: 1279
         height: 640
         isCached: true
   - title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"
@@ -2439,6 +2487,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "mtnmixAjicq3vlRReOVlzta4e/Bmja26hr1HTLqun5F1yrZ2/G3axLeAmcvqfL8kW41GUpeb5pCs4KaTJnOoQqeSVCO/e0MIMVMGSOBWcaJz4P+fxL/3ST7yjh1udyDxzI0EOHm9gbj0MyH+t6U7ND5icAbkza/V7ndk2hxFXVNNA4VViTBQtBAaQ1dc5G/o62gX7wpxiJDLMqyEhilOsq+tBXNN8rzLy8bPY5RpcJC+p+WNCKWPDAkN3g7JzOG1eqmn7QM5jJ5be3PCSzmMHUs3/wBctH2/EzrH8Tp/sVRKchbTSIvvUaCAoHMjz+baUQi8qKvW0wFFK72VoSzhJgJazW65fj8W+mlZwp0MuxU=;jqFXW3/yp8fKanpKQ8N4Wg=="
+secured: "pbq+pIZ8jrZDPVOHlewrIXbIUdO20/NPQFfUYvNrVYA4AyArx8/6TQPhzH758s9CSv0yewtezlPf2Q5i1HUuvgK+tsrQQ6q9htayjHRAKCvL6C7+HS06O4g39MEJnlT24wyPXT0foHIxhkMO3BgHtsMnQM/u/zkPtFzcbZl5aDDB/4QQz+8Lm6siczGShB3HDdGeWSJXcK5eeYpxJlZLVavhKQX/UTvD8FwBEdDLkhvYTnMbx2EcAff5iUBrCN9S63sHzvq0PKEDouCQOamwIyB7O7SHGZxadHM7egXt1DNj9BOfljnaKL2i/TxAczNsRgN7+OwhE7L5Z2RuiF+wod6N1pwwIiAHr7V6L/tl4jssAG/a2J17ns+LpnB3ilRf0CKs0X9PwsmnnwOef7ONoI3pthiYYNtaBxh/Z+us0amZF7Tib4C8KuvE6MpqVsD6c40L7wkdqwgo+FpWnysngeSaMpPV7J4IYEXY5bwJ7lRvB1h+JBKOosmGB3QG7HCbywz41yxFKsZViIkd0Flemw==;fZFeo+pNdm5YaVKRVVdiCg=="
 ---
 

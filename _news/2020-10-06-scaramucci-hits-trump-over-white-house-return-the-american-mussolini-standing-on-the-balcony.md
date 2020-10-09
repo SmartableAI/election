@@ -59,22 +59,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
-    publishedDateTime: 2020-10-04T11:46:00Z
-    webUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 82
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
-        width: 687
-        height: 430
-        isCached: true
 
 secured: "IetcdFOoMuMvngbZCFIfHFryn9p+GoBDpI+6b4WDIj7dx2niFw3WfixIfrp5rybMQIXLdsz+EiuvpDRNDOJ9Ogv667cE0u0c1jHkVn1Cafu9nrA0gYZD9hqKRsGFb1paiKq88I7gWxisMuem3f8yiNAeOXx6dzHsnBi+aZal1dAaaBQ1j7Zh2m2er1FF87O72znPMiT79QPd0qpiJtFGvGf8Y9McAB12GMEkgeiO3vSOwGNcc9rPmrctZnY9ZQsV4KlM8VNVOeU6+3zOD8LE3R90z5acNdGOZFPcQp6xMge2gqzaDg7wk0RO9bvAw5FjqI493wL50xTTKqSOanzAjzbtMIcMNY0WUhlqf55+5nc=;P8RdNLF1xEQ1JmtXJym9cQ=="
 ---

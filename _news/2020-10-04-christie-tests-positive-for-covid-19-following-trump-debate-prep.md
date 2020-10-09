@@ -222,6 +222,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Democrats rip Trump for suggesting Gold Star families could have given him Covid-19"
+    excerpt: "Top congressional Democrats condemned President Donald Trump on Thursday after the commander in chief suggested that he might have contracted Covid-19 from Gold Star family members who were too close to him when telling stories of their loved ones who died in the line of duty."
+    publishedDateTime: 2020-10-09T09:05:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/ea54be74-dda6-4152-90ea-8bcbbf960c7b/e94d3d04-9b56-472d-98b4-c3b1f0003594/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump, battling Covid-19, says he's 'looking forward to' the next presidential debate"
     excerpt: "Centers for Disease Control and Prevention guidelines say people should isolate for 10 days from the point of showing systems, and in severe cases, 20 days."
     publishedDateTime: 2020-10-06T16:10:00Z
@@ -251,6 +267,22 @@ related:
     quality: 124
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3417239/201003-donald-trump-walter-reed-jm-0944_0c66757de5217988a173bd6472543645.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump points to slain veterans' families in response to questions about how he caught Covid-19"
+    excerpt: "The organization that brought the Gold Star families to the White House said none have fallen ill since the event."
+    publishedDateTime: 2020-10-09T08:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-points-slain-veteran-families-response-questions-about-how-he-n1242624"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242624"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242624"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418536/201008-donald-trump-jm-1221_6ea3459b175b64fd4c9b8298d47623c0.jpg"
         width: 2500
         height: 1667
         isCached: true

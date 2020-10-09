@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
 type: article
 quality: 113
-heat: 153
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,38 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Doctors say giving Trump the antiviral drug remdesivir is a sign his infection may be serious — even though the timeline is still unclear"
-    excerpt: "Trump received an IV infusion of the antiviral drug remdesivir on Friday. The therapy is typically reserved for severe cases."
-    publishedDateTime: 2020-10-03T20:51:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp"
+  - title: "Despite Trump's claims, officials in vote-by-mail states insist process can be secure"
+    excerpt: "As the president continues to attack vote-by-mail as ripe for fraud, ABC News Live got an inside look at the process in Colorado, which has done mail-in voting for years."
+    publishedDateTime: 2020-10-09T10:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
     images:
-      - url: "https://i.insider.com/5f6c734ae3e76700117163ed?width=1200&format=jpeg"
+      - url: "https://s.abcnews.com/images/Politics/mail-in-ballots-sample-01-abc-llr-201008_1602190248467_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Fact check: Satirical post falsely claims Trump would be fine if he hadn't gotten tested"
+    excerpt: "A liberal commentator's Facebook post claims Trump would be fine if he didn't get tested, satirically referencing debunked claim about coronavirus."
+    publishedDateTime: 2020-10-06T22:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/06/fact-check-post-claims-trump-would-be-fine-if-he-hadnt-gotten-tested-satire/3626371001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3626371001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3626371001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Trump, who has a highly contagious infectious disease, left Walter Reed to pay a 'surprise visit' to cheering 'fans' outside the hospital"
-    excerpt: "He was moved to the hospital on Friday for a \"few days.\""
-    publishedDateTime: 2020-10-04T22:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp"
+  - title: "Collins: Maskless Trump Set a Poor Example at White House"
+    excerpt: "Republican U.S. Sen. Susan Collins of Maine says she was “shocked” to see President Donald Trump discharged from the hospital so soon."
+    publishedDateTime: 2020-10-07T02:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5f7a437d282c500018c787e0?width=1200&format=jpeg"
-        width: 1004
-        height: 502
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "BC16ziJ1ca746Ya40EHoFvab2vrwfQ3nqPj92BBOaBBlkfbEgnRpffniWfXjmW26Y2uWrD0Jqn7HLSSu6r0SPPHxrz/hCqasQ81B2/b1VosOQduNGaOLkD51paN97/3mLHulQ/71EJ1z4InQGbUDowWYTxnSmsD+x/PMIpSWaictt4qkhYlimFtPwqzH5I9s6HtFZl/qrvl55tU/oKfjtNKJf19ag+UXIjE7t94Hs92gqsKmABQ5X+FdvG+zW/jv7+dwl5nA+H7KFc5L+i9LSlNX9WlNDRCGyualfEblyZIyPy5sdg42CfKOIfKEXc9oOeoFvx8714DG5NHg2QH7YULEcRCpiYt4pM2ycYtYapw=;w82hOINOTL/E7EqlG/jloQ=="
 ---

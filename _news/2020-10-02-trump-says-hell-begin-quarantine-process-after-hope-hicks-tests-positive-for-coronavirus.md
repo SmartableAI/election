@@ -1008,6 +1008,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "A Surging Virus. Angry Packers Fans. Can Trump Hold On to Wisconsin?"
+    excerpt: "With the coronavirus raging in the state, particularly in the politically competitive northeast, the president faces an uphill battle to repeat his 2016 victory."
+    publishedDateTime: 2020-10-09T11:06:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/wisconsin-polls-trump-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/wisconsin-polls-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/wisconsin-polls-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09pollwatch-newsletter/09pollwatch-newsletter-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump campaign does little to adjust to realities of Covid-19 outbreak"
     excerpt: "The campaign continues to projects normalcy, flouting health rules even as the president recovers from his own positive diagnosis."
     publishedDateTime: 2020-10-09T03:07:00Z

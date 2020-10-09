@@ -2,6 +2,113 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-09-26-trump-plans-visit-to-minnesota-next-week-whats-at-stake.md",
+      "title": "Trump plans visit to Minnesota next week — what's at stake",
+      "excerpt": "President Trump has plans to visit Duluth, Minn., next Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ys4cWWjvdfw/trump-minnesota-duluth-visit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20263040959005.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-minnesota-duluth-visit.amp",
+      "publishedDateTime": "2020-09-26T13:39:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-former-pence-adviser-it-does-not-surprise-her-trump-wouldt-commit-to-peaceful-transfer-of-power.md",
+      "title": "Former Pence adviser: 'It does not' surprise her Trump would't commit to peaceful transfer of power",
+      "excerpt": "President Trump has said \"we're going to have to see what happens,\" when asked if he would commit to a peaceful transition if he lost the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 396,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/20/USAT/c4e7b672-eeca-4e1a-bd9c-abba2401577f-AP_Trump_3.jpg?auto=webp&crop=4076,2293,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3547679001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001",
+      "publishedDateTime": "2020-09-26T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-franklin-graham-pence-lead-prayer-march-thanking-god-for-trump-scotus-nominee.md",
       "title": "Franklin Graham, Pence Lead Prayer March Thanking God for Trump, SCOTUS Nominee",
       "excerpt": "Christian evangelist Franklin Graham and Vice President Mike Pence led prayers Saturday at the Lincoln Memorial in Washington, thanking God for President Donald Trump and his opportunity to nominate a third Supreme Court nominee. Graham joined former ...",
@@ -1182,103 +1289,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-pence-ivanka-visit-salon-damaged-by-minneapolis-unrest.md",
-      "title": "Pence, Ivanka visit salon damaged by Minneapolis unrest",
-      "excerpt": "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd's death, part of a campaign visit aimed at driving home President Donald Trump's law-and-order message in a key swing state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9",
-      "originalUrl": "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp",
-      "publishedDateTime": "2020-09-24T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-touts-return-of-pac-12s-college-football-season-youre-welcome.md",
-      "title": "Trump touts return of Pac-12's college football season: 'You're welcome!!!'",
-      "excerpt": "Trump called out Pac-12 officials at a White House press briefing last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab215347-e557-4d3f-9fc7-e778370fc4e0/f369f538-086f-4f4d-b2bf-476624d1cbab/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
-      "publishedDateTime": "2020-09-24T18:47:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

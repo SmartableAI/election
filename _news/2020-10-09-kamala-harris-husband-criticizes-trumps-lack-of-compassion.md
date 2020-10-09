@@ -2,19 +2,19 @@
 category: news
 title: "Kamala Harris' husband criticizes Trump's lack of compassion"
 excerpt: "The husband of Democratic vice presidential nominee Kamala Harris said Thursday President Donald Trump’s response to COVID-19 underscores the lack of compassion he's shown for Americans needing help on numerous fronts."
-publishedDateTime: 2020-10-08T23:16:00Z
-originalUrl: "https://www.chron.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-webUrl: "https://www.chron.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+publishedDateTime: 2020-10-08T23:08:00Z
+originalUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
@@ -5044,6 +5044,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "CfLgxqsWaww/l6MNAfE3ZqAKIAG7HS+ML1A6pKggfDmjH+ZJGArtIuD24sQVijvXNg1/R7Vk5I9SdYbY4a6MC3zwwhZNaV+A9pKuGGFbjcvMo8MwxCLfn7t3AX+V1LTU8jY9cZgB4Dt8A598eVS+FTi8UHCRmRrPDnNtIAYs7RfZ7yyZJlyMJ/t3JqguA4Yt4y9mX8TDPLrarU3wT1rPZ8qM7agjLniTI3b3OYSEf8HMtw49OPW1IAY3ykvUKg2xsA2I0oE8l+V4vwf6WMq0/IH+dkKXi2/VKWZ/Z8hkzgKiPdCMZa6ca+lMqpIB3q8d0UVUKwNMAJOELSaS+ljI52tUXiJZAlsUpyPTMMnp7BRL5WMZHUtCqnA+FdRkI75GBe+pernKfbEUAoWT6RrptdHoN6ZkX0gk8omFuzHDK3cPjUzSOwbFL1bk9jcFSQqVitBMeXuuQE00VX4c8N4tK7Z+IZ4ugSJqzIh2gaJ5AuoeWc41raXBGGCURh7W47GxpCHmq8BwQ++cyxRPzgYHPg==;5d4NNC8Rzx+RM/yqmjXDDA=="
+secured: "QADkNYselsrZQmzQx77vHwwyRnXha4NfrhyfxcDpLYZzp+iZCXD0vDYxRmTzQ5aJMbaF7T+RR7N02AZ82V2yX7WIQisnBtB2NzdenMYgXu2QBj52+G1V4R8XoVKzPyLXzuJ9XOoFJhGqbc8wVhrIrJQI/rRsO6vG2leO7vovtj+v2SmTfHLAzpCy08iMIbYrL8zRqORDRw1DRxMTusJyDLJvyZY4uFjoDi2AZb+vRDTzUlQQ7ceDJ9ON7Vp9DAETz7KSoh/pP/FKFR5Xp3n8Xlb1C8NklXP77J4/QLhouYuCbT35oh3hFchTdM5Lvr9CHUwgHwrVEWj3Z4JCHbJ4Vw3pvoy93CEnnf5RaE9Gn5Y=;V3BeKgqVQRYwQge0uoZdXg=="
 ---
 

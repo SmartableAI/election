@@ -3301,14 +3301,14 @@ related:
         isCached: true
   - title: "Kamala Harris' husband criticizes Trump's lack of compassion"
     excerpt: "The husband of Democratic vice presidential nominee Kamala Harris said Thursday President Donald Trump’s response to COVID-19 underscores the lack of compassion he's shown for Americans needing help on numerous fronts."
-    publishedDateTime: 2020-10-08T23:16:00Z
-    webUrl: "https://www.chron.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+    publishedDateTime: 2020-10-08T23:08:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
     quality: 90
     images:
       - url: "https://s.hdnux.com/photos/01/14/47/06/20083098/3/375x250.jpg"
@@ -5049,6 +5049,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "iV5GjNHXlWMMqLs6t8gsqHB7+JJRHswGI2haJ2MmVicvv1m2DTMLnEZ5I6ugNQV73djbbsRHLDW+JsB8JY/W0yT+vR2lYoM04uu4qLBJg9Ky/REkDlDZXLbE86FHMXWLvSfcP9vWjicpAGFK6wKRoonMujJp9H1rxoDS5ydZHaIPbV3ZRPvuhEQP/HIel/GGcBsilG+mtZMA4pVWETChOwLwklnNMwYERDNhmp22blkyKx0a9GvSOAHwpOmOwrN8SZPMmk9jVyOUz95K7xdTTh5ZLHU7FwX+FTiB7m7m5+WbqnhbEBHHHsRE8hrz0F/sE4FdloamVVIGoRJur6bXH5RRLDzNUR1oRI0hs9jBPp4=;Mnh03AEHbGv0MjZERnq0OQ=="
+secured: "41KvOGXqJ2CK691SXEg7pJ5QDYbMHRtL0EYrWLL50ha0pOr32fG8lZj5NRuW2R1NxBy01Lr2+L0KM19C5Q1tayzKE0rUPg4JYGZ+RFxdZvT4zLxxYeEvCkGjyT3ivnAdR8AfPTspnjlBaAK8WsyuRBnaGpoYQLarSH7PoAuYo3289a7d174QzhTnDutAHQb3QQHjZkYJWb/ll2gYbUsbYsmEU0fEwuDdFGYeKbNFDDMVR9pgrNVmxc/WzYMS4hpQDI8tAOkhbzGFb6hO3s/T6BZSA63vuZA14NyHlvYIq3gPLjIiaHhNQUwryJwcFhyYU37TRAHLu5TMVi3REkVklKip4BbPMBIJ3IyTkGn06xoKWShWrM+27FWj51jIy0YIxDh+9RhAswtZhfb7eVmk9hfnI9ZPBX1GRoeSENFGkOlfCrbMWJfB9UsDTDwZhs4Qoc7GYmvo+xkj/29VEVgGLuM2CBop8AIgUn01C3F8VlI/mgusZrJMzzRDZT7t/Yu61hBlnNgw/9lagGx8LbJ7Jg==;6r9WvLbjbnaEUed7kJCW6g=="
 ---
 

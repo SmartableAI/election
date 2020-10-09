@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
-    publishedDateTime: 2020-10-04T11:46:00Z
-    webUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 82
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
-        width: 687
-        height: 430
-        isCached: true
   - title: "Scaramucci Hits Trump Over White House Return: ‘The American Mussolini Standing on the Balcony’"
     excerpt: "Anthony Scaramucci likened President Donald Trump to Mussolini in reacting to his return from Walter Reed Medical Center."
     publishedDateTime: 2020-10-06T03:29:00Z

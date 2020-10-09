@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-r
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
 type: article
 quality: 140
-heat: 4720
+heat: 4780
 published: true
 
 provider:
@@ -1390,6 +1390,38 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cc4d4c5a627c507008af0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4752%26cropY1%3D0%26cropY2%3D2673"
         width: 1200
         height: 675
+        isCached: true
+  - title: "2020 election live updates: Trump says he may hold rallies this weekend; doctor said he's completed COVID therapy"
+    excerpt: "President Donald Trump said Thursday he may hold campaign rallies this weekend in Florida and Pennsylvania, an announcement that comes a week after he tested positive for COVID-19 as part of a larger White House coronavirus outbreak."
+    publishedDateTime: 2020-10-09T11:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/2020-election-updates-trump-says-he-may-hold-rallies-weekend/5882165002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5882165002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882165002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/7077f37f-bd3d-40b2-bd2e-b11a7fe2af2b-AP_Election_2020_House_New_York.jpg?auto=webp&crop=5653,3180,x0,y565&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump eyes return to rallies Saturday after doctor says COVID-19 therapy completed"
+    excerpt: "President Donald Trump said on Thursday he may return to the campaign trail with a rally on Saturday after the White House physician said he had completed his course of therapy for the novel coronavirus and could resume public events."
+    publishedDateTime: 2020-10-09T03:33:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump/trump-eyes-return-to-rallies-saturday-after-doctor-says-covid-19-therapy-completed-idUSKBN26T0KU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T0KU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T0KU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536820675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG970CV"
+        width: 1007
+        height: 545
         isCached: true
   - title: "Trump May Have ‘Serious Risk Factors’ For Covid-19 Complications, Health Experts Say"
     excerpt: "Health experts warn that factors including President Donald Trump’s age and weight could put him at a higher risk of contracting serious complications of Covid-19, after he announced early Friday that he had contracted the virus."
@@ -2926,6 +2958,22 @@ related:
     quality: 87
     images:
       - url: "https://i.insider.com/5f7eaa6ac655f6001969ed7f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump said he hasn't tested negative for COVID-19, despite boasting of his recovery, as the White House continues to obscure details of his health"
+    excerpt: "Donald Trump wave away questions from Fox News Host Sean Hannity, and said he would \"probably\" get a test on Friday."
+    publishedDateTime: 2020-10-09T10:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-interview-not-tested-negative-for-covid-claiming-recovery-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-interview-not-tested-negative-for-covid-claiming-recovery-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-interview-not-tested-negative-for-covid-claiming-recovery-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://i.insider.com/5f7c5567282c500018c78c2b?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

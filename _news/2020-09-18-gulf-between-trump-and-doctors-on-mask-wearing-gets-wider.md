@@ -2066,6 +2066,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Cannabis Stocks Rallied, But Don’t Be Fooled: Neither Donald Trump Nor Joe Biden Is Good For Marijuana Legalization"
+    excerpt: "Cannabis stocks jumped Thursday after the vice-presidential debate, but don't get too excited. Neither political party's ticket is nationwide marijuana legalization's magic bullet."
+    publishedDateTime: 2020-10-09T04:26:00Z
+    webUrl: "https://www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/"
+    ampWebUrl: "https://www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chrisroberts/2020/10/08/actually-neither-donald-trump-nor-joe-biden-is-good-for-marijuana-legalization/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 118
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f680b31c893fa2c7fe913%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Biden: \"I trust vaccines, I trust scientists, but I don't trust Donald Trump\""
     excerpt: "Democratic presidential nominee Joe Biden used a speech Wednesday to attack President Trump's handling of the coronavirus crisis and express his confidence in science. CBSN political reporter Caitlin Huey-Burns asked Biden about his comments at his event in Delaware,"
     publishedDateTime: 2020-09-18T00:38:00Z
@@ -2203,6 +2219,20 @@ related:
     quality: 114
     images:
       - url: "https://i.guim.co.uk/img/media/091c0cbc1482a58c934b39530e578a8f3e94196d/0_0_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8fb718ff998535aa613e08c9aceae7d0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Donald Trump says he will not participate in virtual debate with Joe Biden – video"
+    excerpt: "Donald Trump has said he will not participate in a virtual debate with Joe Biden adding the moderator can 'cut you off'"
+    publishedDateTime: 2020-10-08T16:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/oct/08/donald-trump-says-he-will-not-participate-in-virtual-debate-with-joe-biden-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/4eff83a97da24131a4bcfec790c6df02d2b66d3d/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d03da5ca5987a7aa15314448981bcf49"
         width: 1200
         height: 630
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-vide
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Raw Story
@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH: Former NSA, CIA Director Gen. Michael Hayden Warns Against Second Term for Trump in New Ad: ‘I Don’t Know What Happens to America’"
-    excerpt: "Former NSA, CIA Director Gen. Michael Hayden warns against second term for Trump in new Republican Voters Against Trump Ad: 'I don't know what happens to America'"
-    publishedDateTime: 2020-10-07T03:48:00Z
-    webUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
+  - title: "The Note: Trump campaigns in a bubble amid signs of GOP worry about race"
+    excerpt: "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all."
+    publishedDateTime: 2020-10-09T10:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 42
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Gen.-Michael-Hayden-Warns-Against-Second-Term-for-Trump-in-New-Ad.jpg"
-        width: 842
-        height: 473
+      - url: "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Doctors: Trump 'not entirely be out of the woods'"
+    excerpt: "President Donald Trump's medical team says the president \"may not entirely be out of the woods yet\" as he heads back home to the White House. Dr. Sean Conley, the president's physician, delivered an update on the president's health Monday."
+    publishedDateTime: 2020-10-05T20:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/doctors-trump-not-entirely-out-woods/3629960001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/395788b2-2df3-4c6a-86fa-60427e99bafb_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "tLrxnoWtI5f4WHXtmXaK//uBv/ajnuOmpR47N7r/1a3wnIy+LUWPl8WX7PJ/xpZ/pa0Vge7fqX5b9470rCkoDnUqh/WXMr0XLi3yzmtHADqiGIbVwZKp+vNEix+MrJ6RhfDVwfTsk+zSfCBbNa5SXZMN10kezZqcw7u+Z0WovZ1QkUNnZKkB4uzKfPW0lDNHikHUgAyrTovI1A1mHwJcqhdaue8mEgiJueoZ9kOug92lvngU6QqVnsqnkL7DpRaskQ67TzxJRtoLGMPTycAL6rgiv8FYKpqAcyIuyguNa2yZLcYvTjVj/RDcnMFRPHA0RyPy2MBHNzDYf7CTG002lfjNnTXeAaS5y31ylMlZutw=;4E4MEZbIO0LIB6XX7ccZiA=="

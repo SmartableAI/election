@@ -2,6 +2,113 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-30-fraud-like-you-have-never-seen-trump-denounces-mail-in-voting.md",
+      "title": "‘Fraud like you have never seen’: Trump denounces mail-in voting",
+      "excerpt": "President Donald Trump railed against mail-in voting and unsubstantiated claims that ballots have been found in wastepaper baskets, even as former Vice President Joe Biden urged Americans to exercise their right to vote by any means necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/30/trump-mail-in-voting-423432",
+      "originalUrl": "https://www.politico.com/news/2020/09/30/trump-mail-in-voting-423432",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8c/be/4f6cba2948409c457bbb682c56b3/200814-hillary-clinton-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/30/trump-mail-in-voting-423432",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/30/trump-mail-in-voting-423432",
+      "publishedDateTime": "2020-09-30T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-said-portlands-sheriff-supports-him-the-sheriff-disputes-that.md",
+      "title": "Trump said Portland's sheriff supports him. The sheriff disputes that.",
+      "excerpt": "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "originalUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/dbf8d5f7-cc73-41b9-81a0-053b416b4ac2/thumbnail/1200x630/55135e432af3c30438ab4da906fbdd7a/ap-20274041554822.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "publishedDateTime": "2020-09-30T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-snl-is-back-this-weekend-with-jim-carrey-as-joe-biden-chris-rock-as-host-and-a-whole-lot-of-restrictions-heres-what-to-expect.md",
       "title": "SNL is back this weekend with Jim Carrey as Joe Biden, Chris Rock as host and a whole lot of restrictions. Here’s what to expect.",
       "excerpt": "Live\" will return for its 46th season with more Alec Baldwin as Trump, Maya Rudolph as Kamala Harris and three new cast members.",
@@ -970,7 +1077,7 @@
       "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1218,117 +1325,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-gets-third-2020-nobel-peace-prize-nomination.md",
-      "title": "Trump gets third 2020 Nobel Peace Prize nomination",
-      "excerpt": "President Trump received his third Nobel Peace Prize nomination in September, this time from a group of Australian law professors.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CF_jAUdr6lk/trump-third-nobel-nomination-doctrine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CF_jAUdr6lk/trump-third-nobel-nomination-doctrine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/trump-peace-signing-1-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-third-nobel-nomination-doctrine.amp",
-      "publishedDateTime": "2020-09-29T07:02:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-deeply-unpatriotic-mary-trump-slams-the-president-for-not-paying-taxes-for-years.md",
-      "title": "'Deeply unpatriotic': Mary Trump slams the president for not paying taxes for years",
-      "excerpt": "President Donald Trump's niece, Mary Trump, say the topic of her uncle not paying income taxes for 10 of the last 15 years must be “hammered on” during the first general election debate Tuesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/deeply-unpatriotic-mary-trump-slams-president-not-paying-taxes-years-n1241323",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/deeply-unpatriotic-mary-trump-slams-president-not-paying-taxes-years-n1241323",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_29/3397710/200716-mary-trump-snip-maddow-1920x1080-ac-1016p_29576b1aae6b177e327eba96bc046776.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241323",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241323",
-      "publishedDateTime": "2020-09-29T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

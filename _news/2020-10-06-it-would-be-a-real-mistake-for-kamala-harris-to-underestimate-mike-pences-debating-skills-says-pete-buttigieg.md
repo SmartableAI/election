@@ -3301,14 +3301,14 @@ related:
         isCached: true
   - title: "Kamala Harris' husband criticizes Trump's lack of compassion"
     excerpt: "The husband of Democratic vice presidential nominee Kamala Harris said Thursday President Donald Trump’s response to COVID-19 underscores the lack of compassion he's shown for Americans needing help on numerous fronts."
-    publishedDateTime: 2020-10-08T23:16:00Z
-    webUrl: "https://www.chron.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+    publishedDateTime: 2020-10-08T23:08:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
     quality: 90
     images:
       - url: "https://s.hdnux.com/photos/01/14/47/06/20083098/3/375x250.jpg"

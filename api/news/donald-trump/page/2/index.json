@@ -374,6 +374,57 @@
       ]
     },
     {
+      "path": "_news/2020-10-05-trump-who-has-a-highly-contagious-infectious-disease-left-walter-reed-to-pay-a-surprise-visit-to-cheering-fans-outside-the-hospital.md",
+      "title": "Trump, who has a highly contagious infectious disease, left Walter Reed to pay a 'surprise visit' to cheering 'fans' outside the hospital",
+      "excerpt": "He was moved to the hospital on Friday for a \"few days.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7a437d282c500018c787e0?width=1200&format=jpeg",
+          "width": 1004,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp",
+      "publishedDateTime": "2020-10-04T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-with-trump-hospitalized-vp-mike-pence-will-visit-arizona-for-a-thursday-rally-campaign-says.md",
       "title": "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says",
       "excerpt": "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign.",
@@ -584,37 +635,37 @@
       ]
     },
     {
-      "path": "_news/2020-10-04-was-trump-ever-on-oxygen-health-security-experts-say-america-needs-total-honesty-on-presidents-condition.md",
-      "title": "Was Trump ever on oxygen? Health, security experts say America needs 'total honesty' on president's condition",
-      "excerpt": "Dr. Sean Conley created confusion about President Trump's COVID-19 diagnosis, which national security and health experts say is unnecessary.",
+      "path": "_news/2020-10-04-doctors-say-giving-trump-the-antiviral-drug-remdesivir-is-a-sign-his-infection-may-be-serious-even-though-the-timeline-is-still-unclear.md",
+      "title": "Doctors say giving Trump the antiviral drug remdesivir is a sign his infection may be serious — even though the timeline is still unclear",
+      "excerpt": "Trump received an IV infusion of the antiviral drug remdesivir on Friday. The therapy is typically reserved for severe cases.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
+      "webUrl": "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/03/USAT/d224b2f6-0e48-445e-8fad-f60dcb191eaa-AP_Trump.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200",
+          "url": "https://i.insider.com/5f6c734ae3e76700117163ed?width=1200&format=jpeg",
           "width": 1200,
-          "height": 675,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3609196001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3609196001",
-      "publishedDateTime": "2020-10-03T13:55:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp",
+      "publishedDateTime": "2020-10-03T13:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -643,7 +694,7 @@
       "originalUrl": "https://abcnews.go.com/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -666,57 +717,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-if-trumps-symptoms-started-before-friday-he-may-have-been-highly-infectious-during-the-debate.md",
-      "title": "If Trump's symptoms started before Friday, he may have been highly infectious during the debate",
-      "excerpt": "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

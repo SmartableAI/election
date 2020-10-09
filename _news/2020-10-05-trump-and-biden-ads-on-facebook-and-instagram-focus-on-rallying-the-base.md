@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden vs. Trump: Here's where each candidate stands on income"
+    excerpt: "Donald Trump and Joe Biden have differing views when it comes to the minimum wage and other income-related issues."
+    publishedDateTime: 2020-10-09T11:03:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/10/09/biden-vs-trump-heres-where-each-candidate-stands-on-income/114229982/"
+    ampWebUrl: "https://amp.usatoday.com/amp/114229982"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/114229982"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
     publishedDateTime: 2020-10-07T02:42:00Z
@@ -324,6 +340,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump leads Joe Biden by 5 points in Texas, UT/TT Poll finds"
+    excerpt: "The president leads the former vice president 50%-45% in Texas, according to the latest University of Texas/Texas Tribune Poll."
+    publishedDateTime: 2020-10-09T09:06:00Z
+    webUrl: "https://www.texastribune.org/2020/10/09/texas-poll-donald-trump-joe-biden/"
+    ampWebUrl: "https://www.texastribune.org/2020/10/09/texas-poll-donald-trump-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/09/texas-poll-donald-trump-joe-biden/amp/"
+    type: article
+    provider:
+      name: Texas Tribune
+      domain: texastribune.org
+    quality: 90
+    images:
+      - url: "https://thumbnails.texastribune.org/cZwCxr8gFfdXCUyY9IYLzlGKYVA=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/8a1b9a5503a4eea54bd0e482a6a641d9/UT%20TT%20Trump%20Biden.jpg"
+        width: 1200
+        height: 804
+        isCached: true
   - title: "Trump, Biden teams debate debate: Virtual or not, next week?"
     excerpt: "It's suddenly unclear whether President Donald Trump and Democratic challenger Joe Biden will square off in debate again, where they might do so and whether they would face each other in person or virtually,"
     publishedDateTime: 2020-10-08T17:34:00Z
@@ -355,6 +387,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-05-at-12.33.52-PM.jpg"
         width: 934
         height: 548
+        isCached: true
+  - title: "Democrats’ poll shows a toss-up between Joe Biden and Donald Trump in Texas"
+    excerpt: "Former Vice President Joe Biden is leading President Donald Trump in a new poll by Public Policy Polling, a Democratic polling firm. The poll,"
+    publishedDateTime: 2020-10-09T02:48:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/08/democrats-poll-shows-a-toss-up-between-biden-and-trump-in-presidential-race-in-texas/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/08/democrats-poll-shows-a-toss-up-between-biden-and-trump-in-presidential-race-in-texas/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/08/democrats-poll-shows-a-toss-up-between-biden-and-trump-in-presidential-race-in-texas/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 88
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zR6qPU6Wp4oloJvSEM_SnsnGnPc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XYBLJ3PI2KMZVJ4TW7APTBYZ6A.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds"
     excerpt: "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,"

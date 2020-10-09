@@ -622,6 +622,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Watch 6 Standout Moments From Harris and Pence at the Debate"
+    excerpt: "The vice-presidential matchup, far less combative than its presidential predecessor the week before, was marked by flashes of tension and political chess moves."
+    publishedDateTime: 2020-10-09T08:31:00Z
+    webUrl: "https://www.nytimes.com/2020/10/08/us/politics/video-kamala-harris-mike-pence.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/08/us/politics/video-kamala-harris-mike-pence.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/us/politics/video-kamala-harris-mike-pence.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/us/politics/-07vid-VP-debate-10-2/-07vid-VP-debate-10-2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Mike Pence and Kamala Harris reflect America's demographic transformation"
     excerpt: "The two vice presidential contenders who will share the stage Wednesday embody an evolution in the country over the last half-century."
     publishedDateTime: 2020-10-07T19:01:00Z
@@ -1150,6 +1166,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris faced a double standard on the debate stage."
+    excerpt: "It was the first time a woman of color had ever appeared on a presidential or vice-presidential general election debate stage, and the tightrope Senator Kamala Harris had to walk was never far from sight."
+    publishedDateTime: 2020-10-08T13:34:00Z
+    webUrl: "https://www.nytimes.com/2020/10/07/us/politics/kamala-harris-faced-a-double-standard-on-the-debate-stage.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-51/07elections-briefing-07-22-51-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
     excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
     publishedDateTime: 2020-09-18T03:18:00Z
@@ -1200,6 +1230,24 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Dr. Trump Is Treating Himself Just as Badly as He Did America"
+    excerpt: "Donald Trump insured that the fly, not Mike Pence or that “monster,” Kamala Harris, who womansplained to the vice president, would be the story coming out of the vice presidential debate by calling into Fox News before the sun was barely up."
+    publishedDateTime: 2020-10-09T09:01:00Z
+    webUrl: "https://www.thedailybeast.com/dr-trump-is-treating-himself-just-as-badly-as-he-did-america"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "Fox News Bans Harlan Hill After He Called Kamala Harris an ‘Insufferable Lying Bitch’"
+    excerpt: "After the diehard Trumpkin unleashed a sexist smear on Sen. Harris, Fox News Media suggested he is no longer welcome on their air."
+    publishedDateTime: 2020-10-08T22:54:00Z
+    webUrl: "https://www.thedailybeast.com/fox-news-bans-frequent-guest-harlan-hill-after-he-called-kamala-harris-an-insufferable-lying-bitch"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 38
 
 secured: "PIEhv3XtaJ0IguDXbsQZyALbZAPaR12+BPVl4vphTqI6jzB/hWBW1beXPqwBTuxh5bLAlh7RBY0alC5gnNUyR0C6nSSFqdxVtT7n5iw7ADlRUwVqTLCij7U6uLyVCf2P95erYAfPdpnKyHEzO2U04RC1KBB7TR4GzxYyEJCVJvSfK0EOiM9SrVxBiFrF61kNrAIiAjJJ6QqAKi4JQPkHk7AlSGceKgi/2tuJzTLq/ip143i+YWxCB+QuLWVrXRuXSWcbBHzQLJOSBMjMDCPNEuinPAQE1AXjDn4ICLVFdjk6pUF82R63/hoVs057NdQ/tt+RgbV6yGvzlWHO9C9honE46rrxuOz5YRFmRf2uNww=;0QbtxXl/5Q8MxTlNSRqcJg=="
 ---

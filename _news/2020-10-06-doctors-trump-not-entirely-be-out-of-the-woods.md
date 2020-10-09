@@ -29,37 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Santorum: Not illegal for Trump 'to do everything he can not to pay taxes'"
-    excerpt: "Former Sen. Rick Santorum (R-Pa.) said in a new interview that it's not illegal for Trump \"to do everything he can not to pay taxes\" while discussin"
-    publishedDateTime: 2020-09-28T22:50:00Z
-    webUrl: "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes"
-    ampWebUrl: "https://thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518643-santorum-not-illegal-for-trump-to-do-everything-he-can-not-to-pay-taxes?amp"
+  - title: "The Note: Trump campaigns in a bubble amid signs of GOP worry about race"
+    excerpt: "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all."
+    publishedDateTime: 2020-10-09T10:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
     images:
-      - url: "https://thehill.com/sites/default/files/santorumrick_092517gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "'Too hot': GOP allies urge Trump to change tactics for next debate. It's not clear he'll heed the advice"
-    excerpt: "With some Republican allies giving Trump tepid reviews for his first debate against Biden, the question for his campaign is whether to switch strategy."
-    publishedDateTime: 2020-10-01T21:24:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-must-decide-whether-change-gears-next-debate-biden/5871363002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5871363002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5871363002"
+  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
+    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
+    publishedDateTime: 2020-10-07T02:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ef4e9e12-fc35-4735-b7c5-3b2479d78a8e-AP_Election_2020_Debate.jpg?auto=webp&crop=4802,2701,x0,y125&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "MRKoleGmM2ZRtuPLaZ/tIYY09y7hszf77HcOsJtv6MV6DsjgdZQR5O38NjnKrbj3rfghA2Iyn9bBHCWxrFVWW+e9kUjXaUtqq/nszbf/hYkoy3puleB2ORN0ncWLRNYCTd3Lm865tq7WJFuiM/3QfnOSiyh6EoyLVnvXng6T2hc6M9oGn//YwvJQ0Z3HNmJHDMNRD7PzJ5XiB3XnDR818843Zd/UwU4APqYMfCVQCJvUvIFT5QlzjxQ4bIYKXCUKDpsxMdKx+l65NpET5yvsuOSzGauW+Nz3aPRDtpDJ76xDwr/TJbcqotjkUyz9DDOPZgf+Kw0ZxC2nxugC1hsjqQQFl0lpPvzBmSuSNbIIqYU=;O19KSH6V7vVWmhigVgSKug=="

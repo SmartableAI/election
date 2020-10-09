@@ -97,20 +97,20 @@ related:
         height: 640
         isCached: true
   - title: "Joe Biden Is Flirting with the Destruction of the Judiciary"
-    excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to the constitutional order in modern American history."
-    publishedDateTime: 2020-10-09T01:55:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
+    excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to"
+    publishedDateTime: 2020-10-09T04:01:00Z
+    webUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754"
+    ampWebUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754?amp=true"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
+      name: Townhall
+      domain: townhall.com
     quality: 85
     images:
-      - url: "https://assets.realclear.com/images/52/522082_5_.jpg"
-        width: 750
-        height: 523
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "There is no pro-life case for Biden"
     excerpt: "During his NBC town hall on Monday, Joe Biden reiterated his unyielding support for abortion on demand, putting to rest the idea that there is a pro-life case to vote for Biden."
