@@ -1667,6 +1667,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Weed stocks surge after Kamala Harris promises to decriminalize pot"
+    excerpt: "U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said the Biden administration would decriminalize marijuana at the federal level in the United States if they were elected."
+    publishedDateTime: 2020-10-08T20:55:00Z
+    webUrl: "https://www.reuters.com/article/us-cannabis-stocks-idUSKBN26T3IH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T3IH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T3IH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536796600&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98041"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z
@@ -3283,6 +3299,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/47/06/20083098/3/375x250.jpg"
         width: 358
         height: 250
+        isCached: true
+  - title: "Vice Presidential debate: What to know about Mike Pence as he spars with Sen. Kamala Harris"
+    excerpt: "Vice President Mike Pence takes to the debate stage Wednesday night against Sen. Kamala Harris, in the first and only vice presidential debate of this election. The debate comes as President Donald Trump continues to recover from the novel coronavirus at the White House."
+    publishedDateTime: 2020-10-08T18:48:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/07/mike-pence-what-to-know-indiana-governor-trump-covid-19/3607390001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3607390001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3607390001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/27/PIND/3ea2e357-2d98-4711-986e-55204f041ca2-AP20057861829867.jpg?auto=webp&crop=5336,3002,x0,y156&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How to Watch Wednesday Night’s Debate Between Mike Pence and Kamala Harris—and What to Expect"
     excerpt: "The debate, which will take place at 9 p.m. on Wednesday, will feature increased social distancing protocols, including greater distance between the two candidates and plexiglass shields in front of each of their lecterns."
@@ -4986,6 +5018,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "rWMl24eL00yjX+zUHLxo92LkasfnuvV9LkZ0xRpmf3D/IXMcGKGv+1/9bM84wiYHCnvI1+z4CU5bcMhPCzQxwf/QbL4B/aJrCaCX2LHWOcWe8BBmo7w5YS2B1y8oHkJajFEtKVLMgIIUEqdsucVsJibA11XWqnX9B2LxV75uZwXyVTcTrSYsMCHa8BpLt50GujljyneS+mHUmwfJoPkEv7i/acBjKd00xZ81d6h1TN3wOrlqC4fzR2HsZoGQkpdyYnx6KGVRZE3RWSelnTFb4D7+pKp5DaHKrO6Q36gG7ck6SwaQupRmlSAG7yS+zJ8JKQh8RctLRcRMcWyqPsa7iF/h7PanIWGG9Md5Qto1ZT8=;h2iUh1FSFj5WJ9Ep7DMRUA=="
+secured: "upAA2pDhCqxnY3Y8GphmtsywUocKK3SLI/0ezYQIcELrziILI748hyJKA8W8KalrE26SfC0/IZEgazB5wAM0+GkdjHZx8mlHKDDEUrWDBAxm/x8qH9LxYdDwY6Dni0FOWapp0o/soO0SDC6qjAIUdeqXEq2Q/ZiDDk4CUqxPgpv2WNIHsSNfLlzDGpUSfUN8Dxp4v914AB+NX4xpYtwPvzeeudYlmgAPPmMKUFsdx4ArzyEXBd+afDymxKsb4r1HrTvK5BRPRRVVFPmDQzRztEN37q7PhBHhYcADpw1hm4rqkqJ/La18ZcLdj1NN6zQFr4JgNwLrEWpKq8DMnvD4FC+05vwT/8yfHAh64/2LJjcXoj6KfCUuc29dczrJ4NDg9NKtotdq4nlZK5SslunCoLRE5fkAyevCcUXOY1yjjzZHoHsuq4xKY3B7U7ees0dkuNPtprSUAmLLHcZ8vN/fns3Rq6xtOL8SMSBbg4Q77i9aX7NVzDRJKCEzoEVAauC8jqVoAGJX6Iwg3WQNYbADEA==;RN7zR+Xxkd3cVx410I9Ocg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-r
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
 type: article
 quality: 140
-heat: 4700
+heat: 4720
 published: true
 
 provider:
@@ -1614,6 +1614,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump maps return to campaign trail after White House says COVID-19 treatment complete"
+    excerpt: "Republican President Donald Trump on Friday prepared to return to the campaign trail with a pair of weekend rallies after his COVID-19 diagnosis sidelined him for a week in the race against Democratic nominee Joe Biden for the White House."
+    publishedDateTime: 2020-10-09T05:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26U0F5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U0F5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U0F5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536808831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98085"
+        width: 968
+        height: 545
         isCached: true
   - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
     excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."

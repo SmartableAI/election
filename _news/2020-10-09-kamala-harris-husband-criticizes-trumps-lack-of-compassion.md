@@ -1663,6 +1663,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Weed stocks surge after Kamala Harris promises to decriminalize pot"
+    excerpt: "U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said the Biden administration would decriminalize marijuana at the federal level in the United States if they were elected."
+    publishedDateTime: 2020-10-08T20:55:00Z
+    webUrl: "https://www.reuters.com/article/us-cannabis-stocks-idUSKBN26T3IH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T3IH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T3IH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536796600&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98041"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Weed stocks surge as Kamala Harris vows to decriminalize pot in debate"
     excerpt: "U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said marijuana would be decriminalized at a federal level in the United States under a Biden administration."
     publishedDateTime: 2020-10-09T00:15:00Z
@@ -3277,6 +3293,22 @@ related:
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice Presidential debate: What to know about Mike Pence as he spars with Sen. Kamala Harris"
+    excerpt: "Vice President Mike Pence takes to the debate stage Wednesday night against Sen. Kamala Harris, in the first and only vice presidential debate of this election. The debate comes as President Donald Trump continues to recover from the novel coronavirus at the White House."
+    publishedDateTime: 2020-10-08T18:48:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/07/mike-pence-what-to-know-indiana-governor-trump-covid-19/3607390001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3607390001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3607390001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/27/PIND/3ea2e357-2d98-4711-986e-55204f041ca2-AP20057861829867.jpg?auto=webp&crop=5336,3002,x0,y156&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -4982,6 +5014,6 @@ related:
       domain: newsobserver.com
     quality: 15
 
-secured: "juBcXtMNtcUOZt5qsQv9/M5EusKJarDl4tA/sB46Zg4gGPRqvgW3zmGh4/YNrD53vnHNvtP1VWy8NkCgskh/HA80sf+FwCE+WpQhOdZ+JyGLsZ7E9lq2owFGQoc1uyoEdkU0X5lt72h8Q2yvBNz6bec/IwklUSciaoods0BX15Vsc2eNBUr+6TNL71ObxSRUFVoIvMC5P/yMQRGNdk66JqYnlqrkzPW+PAPA0+tzsCsgb8UrqI1T+3LzU/Dtw2SPdmtgpmP5u6eFf7pTlUPc20tEnx9wjfAAQU3tkEp33yrlsnoACvOjgdIZDyNsECYZg5wUjoyeOI9GPlpi7MpxqQ5sfN3f28hVnxlgUL4duKg=;SLc1QEaj+oHNp9gCDRnIAA=="
+secured: "CfLgxqsWaww/l6MNAfE3ZqAKIAG7HS+ML1A6pKggfDmjH+ZJGArtIuD24sQVijvXNg1/R7Vk5I9SdYbY4a6MC3zwwhZNaV+A9pKuGGFbjcvMo8MwxCLfn7t3AX+V1LTU8jY9cZgB4Dt8A598eVS+FTi8UHCRmRrPDnNtIAYs7RfZ7yyZJlyMJ/t3JqguA4Yt4y9mX8TDPLrarU3wT1rPZ8qM7agjLniTI3b3OYSEf8HMtw49OPW1IAY3ykvUKg2xsA2I0oE8l+V4vwf6WMq0/IH+dkKXi2/VKWZ/Z8hkzgKiPdCMZa6ca+lMqpIB3q8d0UVUKwNMAJOELSaS+ljI52tUXiJZAlsUpyPTMMnp7BRL5WMZHUtCqnA+FdRkI75GBe+pernKfbEUAoWT6RrptdHoN6ZkX0gk8omFuzHDK3cPjUzSOwbFL1bk9jcFSQqVitBMeXuuQE00VX4c8N4tK7Z+IZ4ugSJqzIh2gaJ5AuoeWc41raXBGGCURh7W47GxpCHmq8BwQ++cyxRPzgYHPg==;5d4NNC8Rzx+RM/yqmjXDDA=="
 ---
 

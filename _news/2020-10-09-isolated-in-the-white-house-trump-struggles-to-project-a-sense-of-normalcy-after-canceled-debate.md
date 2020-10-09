@@ -1631,6 +1631,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump maps return to campaign trail after White House says COVID-19 treatment complete"
+    excerpt: "Republican President Donald Trump on Friday prepared to return to the campaign trail with a pair of weekend rallies after his COVID-19 diagnosis sidelined him for a week in the race against Democratic nominee Joe Biden for the White House."
+    publishedDateTime: 2020-10-09T05:32:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26U0F5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U0F5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U0F5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536808831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98085"
+        width: 968
+        height: 545
+        isCached: true
   - title: "The President's COVID-19 diagnosis wipes out half of the most important resource the Trump re-election effort has: Time"
     excerpt: "Trump was running out of time to turn around an eight-point polling deficit, but weeks away from voters makes it far harder."
     publishedDateTime: 2020-10-02T07:42:00Z
@@ -3535,6 +3551,6 @@ related:
         height: 624
         isCached: true
 
-secured: "Vdrq0wSflmtNROEnjc0nc7QkuadH434c89g7m3+kRSTPgRxLfi13ETee1fIwqSzRWO03xudHvRXZk59D6LTNGLz8YFvxSbLHO1QLlEVSURy2+rCVTdFJvIx4tUth76Hctq4pvWZbUPc1j5SveOsoOGn+c0n+fZ863TZbXWeg6TGX62sRJfpi+4ijmLHjzHZoNBfFVTTgUQpDPGogVX82JZfnKrm9DN4evsKmd9knec8GJYtMhCOGkq66oSEWb+jcoAb2ANbfagav4u7HVOIuC/V3V2riujYremB1hRumOV7cfC53cplXxyGDfoUriDE/J4/GlQBFPriYnRy0Z2uuFS2y6HOIsMxdgx5c5CfGyz0=;FHi1FqmYTZ6LdmFzPsVr0Q=="
+secured: "RwVxywsW1IjpzyeytjR8qp3N8hMAsJ+7jabrmGPLaVvBHyjy4Kyl9QSFIBNplYjD0C4eDl0LbFQ1KbVnAicO+RrYKAK1CCk/LwjIqcNel8NpEEQw5ygJPRQNYIVKeDy/mhK8kSxLh2tbhtS3Mo3zE8yidI4DkY/V1ETlwus6BlV9UsYuIEVZgxPhNPGzo4tCKPDArDGhe77I57odDsODWWkfqUSfHKCjZh37kJ1nc7lAA333jQM5y6dduFW8gnUFFgThaTvtfZ7LEH536fqtUnyLRnBtkSrglg9xlQJo3SDlRl0zREBPCyCaw+Bv2TPvTLL+2XbfRxp/ogcboDyOeBIRm5vfPUJtZYAktHFYg2/4JABAeZOO+zOy8ovpbkoS4nNqRvc2ELNtsZJoysI3p0F4ldqyci1XEyoUv6S+ulYviOysAvFdFd96BQQFCbNPYU+DW8oUPhU7q7B/siAh81zjFA1escamECAawptgOtSljmVEOqEyPJqZrt3N+fZH3CJ5u55sid+HhhD6U60zIg==;R3wkyIpfqaLuCX9zc0Vr1w=="
 ---
 
