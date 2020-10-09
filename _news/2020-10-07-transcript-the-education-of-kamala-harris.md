@@ -3,8 +3,8 @@ category: news
 title: "Transcript: The Education of Kamala Harris"
 excerpt: "The Education of Kamala Harris. Joy Reid: On a tree-lined street in West Berkeley, Carole Porter waited for the bus to school. Carole Porter: You know, I got some new school cloth"
 publishedDateTime: 2020-10-07T16:21:00Z
-originalUrl: "https://www.nbcnews.com/msnbc/podcast/transcript-education-kamala-harris-ncna1242424"
-webUrl: "https://www.nbcnews.com/msnbc/podcast/transcript-education-kamala-harris-ncna1242424"
+originalUrl: "https://www.nbcnews.com/podcast/transcript-education-kamala-harris-n1242424"
+webUrl: "https://www.nbcnews.com/podcast/transcript-education-kamala-harris-n1242424"
 type: article
 quality: 115
 heat: -1
@@ -810,6 +810,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump: Pence's best debate answer was balking at peaceful transition"
+    excerpt: "As Election Day nears, Trump, with increasing frequency, scoffing aloud at the very idea of \"a peaceful transition to power.\""
+    publishedDateTime: 2020-10-09T17:06:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-pence-s-best-debate-answer-was-balking-peaceful-transition-ncna1242742"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_09/3250021/200229-trump-pence-al-1416_4a53fe56a4822464399ca570a6d7a799.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Flash poll: Harris beat Pence in VP debate, and the fly stole the attention"
     excerpt: "Four in 10 voters gave the vice president the win, the POLITICO/Morning Consult survey found, compared with 51 percent for his Democratic challenger."
     publishedDateTime: 2020-10-08T21:34:00Z
@@ -1035,7 +1049,7 @@ related:
   - title: "Kamala Harris Knows How to Win Elections"
     excerpt: "The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Donald Trump. How to beat Covid-19. The shrinkage happened in three stages. First, Democratic primary voters decided that beating Trump was more important than the revolution."
     publishedDateTime: 2020-10-08T18:32:00Z
-    webUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-2020-election.html"
+    webUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-knows-how-to-win-elections.html"
     type: article
     provider:
       name: New York Times
@@ -1269,6 +1283,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Chris Wallace Hammers Trump, Says His Behavior Justifies Debate Rule Changes"
+    excerpt: "The White House has refused to say the last time that the president tested negative before he went to the debate. And so I think there is some concern.”"
+    publishedDateTime: 2020-10-09T16:49:00Z
+    webUrl: "https://www.thedailybeast.com/chris-wallace-says-debate-commission-justified-in-changing-rules-because-of-trumps-behavior"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 42
   - title: "Fox News Bans Harlan Hill After He Called Kamala Harris an ‘Insufferable Lying Bitch’"
     excerpt: "After the diehard Trumpkin unleashed a sexist smear on Sen. Harris, Fox News Media suggested he is no longer welcome on their air."
     publishedDateTime: 2020-10-08T22:54:00Z
@@ -1279,6 +1302,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "n+5qO5m14NplFHPeY6aE5/TLd7ketjL7lwPzQIDK9By/uA4sUw7u15yJRXlaL9QcGBD30NXn3KF0RUJu7RDQxIMIop8sr8Ol7D7l4ncZV+5k+tnpiQZsasn5qpatAN/Jr130sFx6YhKoeWsmFWVBvjNHtBH9M+Wi/CG2odn9DETiKA2jdx5SLju/DeBVGbyKhjSVl66HFsnyZ1w+vjufYzCi/A1GHs8RdakVSU4wP42kmNEwm7M//mWpWG0engnzMiQYhLKzWU5AS5N10w2T12xmFE1l5WSVKZsgLeQenbNuwjmaX4bDqUSL/9iO0rR4ME/psDaJznpaDXw5+oj/NjVweuQg3c/6LWwAGcnt+3AcrLN0QEZRiv3/fTr1bXlrH1VzSu1Ne4NRHB7a5DvHmvQsiiU9vVIHF2qiYrIPX6eiwg6rVl2C82ZTaCwxwNSmPLLtGpPDcibuhUxMmuofrMJ2EuH5rfUnPQNBAmRig77Bk5e9tAWfCQrqSXdws5W9PuwCdXrbaY5StpWxkG12Iw==;M/eoaXIfEl2VK9+BbaDXPA=="
+secured: "LVij3xBEOCuwC/KbeZxzlN4NdsHP1JdX63OjRXAiA2wyEht56D6Gi8SZXWszVQaQrSjcQ75OhG3MqtFaVCtyO+sii7FEb36v8vhB2WgOuZ8casyS3PhvDvMy7JZgaArInXk9rhlfXZ/7D+NnP+8DgEsBZlGTIhrmLblXtQ47t2xY4ixOHD1VPomldMnJmfsdeKqTD0QCxuNVWxeq0omaHiOvp2NoPkmefH/FznsNQTyVRpmOjuihDftrOqXWfvejlNHXVbc4aFxkRMHD0aFihyFldaqNKVn/BBPqPkFV3sNLFzv7Lrz5SDIK8TuJ7CvepLcrxvQI/YIyxVPpw+6y1dbVrYbeJ8IRHiWo4TmnqJw=;XhRO7+57+qWZ17UlPxPqMA=="
 ---
 

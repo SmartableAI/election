@@ -811,6 +811,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump: Pence's best debate answer was balking at peaceful transition"
+    excerpt: "As Election Day nears, Trump, with increasing frequency, scoffing aloud at the very idea of \"a peaceful transition to power.\""
+    publishedDateTime: 2020-10-09T17:06:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-pence-s-best-debate-answer-was-balking-peaceful-transition-ncna1242742"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_09/3250021/200229-trump-pence-al-1416_4a53fe56a4822464399ca570a6d7a799.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump indicates he's not open to rule changes at next debates"
     excerpt: "President Donald Trump on Thursday suggested he would not agree to any rule changes for the second and third presidential debates a day after the debates' organizers vowed to adjust their formatting following Tuesday's chaotic faceoff."
     publishedDateTime: 2020-10-01T19:22:00Z
@@ -1022,7 +1036,7 @@ related:
   - title: "Kamala Harris Knows How to Win Elections"
     excerpt: "The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Donald Trump. How to beat Covid-19. The shrinkage happened in three stages. First, Democratic primary voters decided that beating Trump was more important than the revolution."
     publishedDateTime: 2020-10-08T18:32:00Z
-    webUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-2020-election.html"
+    webUrl: "https://www.nytimes.com/2020/10/08/opinion/kamala-harris-knows-how-to-win-elections.html"
     type: article
     provider:
       name: New York Times
@@ -1172,7 +1186,7 @@ related:
   - title: "Transcript: The Education of Kamala Harris"
     excerpt: "The Education of Kamala Harris. Joy Reid: On a tree-lined street in West Berkeley, Carole Porter waited for the bus to school. Carole Porter: You know, I got some new school cloth"
     publishedDateTime: 2020-10-07T16:21:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/podcast/transcript-education-kamala-harris-ncna1242424"
+    webUrl: "https://www.nbcnews.com/podcast/transcript-education-kamala-harris-n1242424"
     type: article
     provider:
       name: NBC News
@@ -1270,6 +1284,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Chris Wallace Hammers Trump, Says His Behavior Justifies Debate Rule Changes"
+    excerpt: "The White House has refused to say the last time that the president tested negative before he went to the debate. And so I think there is some concern.”"
+    publishedDateTime: 2020-10-09T16:49:00Z
+    webUrl: "https://www.thedailybeast.com/chris-wallace-says-debate-commission-justified-in-changing-rules-because-of-trumps-behavior"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 42
   - title: "Fox News Bans Harlan Hill After He Called Kamala Harris an ‘Insufferable Lying Bitch’"
     excerpt: "After the diehard Trumpkin unleashed a sexist smear on Sen. Harris, Fox News Media suggested he is no longer welcome on their air."
     publishedDateTime: 2020-10-08T22:54:00Z

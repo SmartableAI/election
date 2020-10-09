@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Progressives unveil new agenda to pressure Joe Biden to the left"
+    excerpt: "The Working Families Party’s “People’s Charter,” released calls for free public health care, a jobs program for 16 million people, and retroactive hazard pay for essential workers."
+    publishedDateTime: 2020-10-09T14:23:00Z
+    webUrl: "https://nypost.com/2020/10/09/progressives-unveil-new-agenda-to-pressure-biden-to-the-left/"
+    ampWebUrl: "https://nypost.com/2020/10/09/progressives-unveil-new-agenda-to-pressure-biden-to-the-left/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/09/progressives-unveil-new-agenda-to-pressure-biden-to-the-left/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/ocasio-biden-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "There is no pro-life case for Biden"
     excerpt: "During his NBC town hall on Monday, Joe Biden reiterated his unyielding support for abortion on demand, putting to rest the idea that there is a pro-life case to vote for Biden."
     publishedDateTime: 2020-10-06T17:53:00Z

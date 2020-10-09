@@ -156,6 +156,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says he's disappointed in Barr over status of Durham probe"
+    excerpt: "The president on Friday expressed outrage at reports Attorney General William Barr has communicated to lawmakers that the Durham report will not be released until after the presidential election. "
+    publishedDateTime: 2020-10-09T17:48:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pBF5-R14SRw/trump-slams-durham-report-investigation-not-being-released-before-election"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82547877-ca99-469d-97ed-d1d12eb85c62/5cd196a0-b825-43d7-8768-bde3bf2730fe/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi to announce bill on 25th Amendment after questioning Trump's health"
     excerpt: "House Speaker Nancy Pelosi on Friday will introduce legislation to create a commission that would allow Congress to oust President Trump from office, using the 25th Amendment."
     publishedDateTime: 2020-10-09T12:40:49Z

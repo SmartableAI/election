@@ -58,6 +58,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Deadline Gets Punched in the Mouth for Publishing Fake COVID News About Mike Pence"
+    excerpt: "These are nasty, filthy people, folks. They’re the enemies of the people. They’re liberal. They’re weak. And they cannot be trusted. Oh, and they’re also hoping for our president to"
+    publishedDateTime: 2020-10-09T17:10:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/09/deadline-pence-screw-up-n2577775"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/09/deadline-pence-screw-up-n2577775?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/09/deadline-pence-screw-up-n2577775?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/281/24454676-16bd-4277-bf75-92d7e8887f48.jpg"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "SSiO/gGdhs0kYS0tC6k0B4a/gltqmzgkC97HDxtAFf4znCcYodUAibTPQCf6n3w/mX8hRCsByiKsCx+0twamejZGBiDKNaaUR5h8bjY6J5Qrjt55wFbUkhc9rmqZwEV6DsLMIJ9IVp2ELrQi1D+qcsUp10RAX7a5UjFXJj8rfyECd1ap0KCfPR+jdeq7RaELK2UGF6l/QAOuCgDgZVxsPfKgK+vZJ2B8ghhIh2loMBZWP5kD3N8LeQi9sFXV5ZvTwWd30JOHELB5rZWrCbH0mEtXz7VUyLqw6b4gDe2xFc7JOOoeCjKNzgQ5LQuablikWkPmnmnTFge40xAmUFj7KgpjOjqLnJ6AEie+4eS2rQJvipHqYzitsY8oDhwvnU2op7s8JMaXvPBr7D+B1ssAhw6Kl9ZxFgmeg94l3G9atquAJ5AEly/tGosxSK188yj70SZOcJpHSrQR/4+f0lQGMuvbpFM6dNBySvTK3fQILwxN0SZxXjAXyYySr3hsFHbODSqFxiLYSb9brBsdOJ16Jg==;azvteC22LeDO9nIpSYIhaA=="
 ---

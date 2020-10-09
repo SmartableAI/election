@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5bdycyAy0/pelosi
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5bdycyAy0/pelosi-trump-25th-amendment-white-house-congress-kayleigh-mcenany"
 type: article
 quality: 155
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     height: 720
     isCached: true
 
-secured: "6CMwW1MOTxLBVX295swy3n/yhXoUm7yYXtL0Pq00YYA49aNzO5r4hAj7/4kRrVm5v/YMjeSJJaEPlzADfgkCM6gC1NcEckyc5NtunQkzjkZvRZTsRWmpvNcHt9PEhA3oEHIwQUwIzD/2wzmoqE8i3GoBKM9yKoix6y+H9AfWvfgfPESgGEIM4whqVXP4kqKcH7ZCqU1njOECyMBO+TPErq3WC3J4nPHGcGjrppjvO6RKoIuk5cYmip9Ksw5TKSpXzr+M2e3vPyXtasMgNesvSrFgT7ITN1B2FFuta7QuIMyKClfbzhi/akLJCmFf93PL4ubZyp1CyCLlpQjfH1z/bTgbUHRSQ0lUTisBIZDWekw=;MLOOidsutazrAnyicy6TQQ=="
+related:
+  - title: "Trump hits back at Pelosi's 25th Amendment move, says her real target is 'Sleepy Joe'"
+    excerpt: "The White House pounced on Speaker Nancy Pelosi's 25th Amendment talk Friday, hitting her for her own mental fitness for office and also suggesting she was trying to target Democrat Joe Biden."
+    publishedDateTime: 2020-10-09T16:52:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rGHDYKpM_Ao/trump-pelosis-25th-amendment-move-dem-target-really-sleepy-joe"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "fC/NdGuGlsVcVqUKK6lVkQvX8QcGQFrkFt8OkMBjAAkmG8aZJnUqOB6KZV8+HuI1zPsLvritks2QxU7rn+S8DSnAD8VUUzP09xtAl4IFo/iLtTcpAHoR+3fR2FQufRgtvl5cDbObuoZsEjfs3JrqSRfdoFSz+Ckj80/2vJpp6UWIVlSgS4hZ2AXi8tz27eye2wWUL12YCQF2hf7pP0Da1zEZN4o28P/GqsaywQH05htOAk+qscMRgblanYbaJdKsbEvBTU5eQwA8yBSKg1hChGY+vEHfXF8rGLGnRh9wdAQLG8Ul9esQTAQ7sMacPo5J7KZr1xeLNUqB7e5myUYlvBQldCsq81O74eyCdjsUPns=;m4JcYBT1pvol4KVGEixTzQ=="
 ---
 

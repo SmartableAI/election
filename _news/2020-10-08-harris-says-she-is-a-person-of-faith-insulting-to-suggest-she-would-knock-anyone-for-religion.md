@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-cour
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
 type: article
 quality: 172
-heat: 232
+heat: 252
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Harris has been open to packing Supreme Court, NY Times reporter says"
+    excerpt: "New York Times reporter Alex Burns revealed the highly anticipated opinion of the Biden-Harris ticket on packing the Supreme Court. "
+    publishedDateTime: 2020-10-09T17:19:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbyP_z5lbDg/harris-open-packing-supreme-court-ny-times-reporter"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/17eb6749-AP20282098478486.jpg"
+        width: 1024
+        height: 695
+        isCached: true
   - title: "Kamala Harris’s American Example"
     excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
     publishedDateTime: 2020-10-06T23:38:00Z

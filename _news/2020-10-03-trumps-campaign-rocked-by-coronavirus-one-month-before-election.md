@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html"
 type: article
 quality: 190
-heat: 1910
+heat: 1930
 published: true
 
 provider:
@@ -1054,6 +1054,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418715/201008-arizona-mike-pence-campaign-ac-1129p_c073013f710fea438a90515b0a98e3e8.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump attacks moderator for second debate over deleted tweet"
+    excerpt: "The apparent request for advice from Scully's account came after the Oct. 15 town hall, which was to be moderated by Scully, was thrown into disarray."
+    publishedDateTime: 2020-10-09T17:15:00Z
+    webUrl: "https://www.politico.com/news/2020/10/09/trump-attacks-debate-moderator-428332"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/09/trump-attacks-debate-moderator-428332"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/09/trump-attacks-debate-moderator-428332"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/54/3a/5760add94344bfafea9d29ac3d9d/ap20279706828397-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Dow falls 400 points after Trump calls off negotiations on stimulus package"
     excerpt: "Wall Street fell on Tuesday after President Donald Trump said he had would be halting all negotiations on a new round of coronavirus stimulus relief. The Dow Jones Industrial Average fell by almost 400 points,"

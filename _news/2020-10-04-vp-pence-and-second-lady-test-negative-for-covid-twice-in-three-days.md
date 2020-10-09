@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vp-pence-second-lady-negative-covid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-pence-second-lady-negative-covid-again.amp"
 type: article
 quality: 185
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
+        height: 340
+        isCached: true
+  - title: "Deadline Gets Punched in the Mouth for Publishing Fake COVID News About Mike Pence"
+    excerpt: "These are nasty, filthy people, folks. They’re the enemies of the people. They’re liberal. They’re weak. And they cannot be trusted. Oh, and they’re also hoping for our president to"
+    publishedDateTime: 2020-10-09T17:10:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/09/deadline-pence-screw-up-n2577775"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/09/deadline-pence-screw-up-n2577775?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/09/deadline-pence-screw-up-n2577775?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/281/24454676-16bd-4277-bf75-92d7e8887f48.jpg"
+        width: 650
         height: 340
         isCached: true
   - title: "Mike Pence 'not a close contact' of anyone with COVID-19 seven days after meeting with Trump, doctor says"

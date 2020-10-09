@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Fact-check: Does Kamala Harris support police defunding?"
+    excerpt: "As vice president, Kamala Harris would \"defund, dismantle, and dissolve police departments.\"PolitiFact’s ruling:"
+    publishedDateTime: 2020-10-09T16:57:00Z
+    webUrl: "https://www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding"
+    ampWebUrl: "https://www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201009&Category=NEWS&ArtNo=201008973&Ref=AR"
+        width: 750
+        height: 422
+        isCached: true
   - title: "The VP debate is over. Did Sen. Kamala Harris’ performance light a fire under women voters?"
     excerpt: "With the gender gap widening when it comes to presidential preferences, the power of the women’s vote, especially if the election is close, is all the more consequential."
     publishedDateTime: 2020-10-09T13:13:00Z
@@ -64,6 +80,6 @@ related:
         height: 576
         isCached: true
 
-secured: "hHI6HeBaiCJKBhdcR/RxqmknNMSMS1crCkzDlYSnIBaKFLNlVuA83SZZ8uUY85xOc/K0yRsrYddzqZhdZKJtn0p+FSOvpNGWHkQwwKkXJx6j6UqV1L1d3K2B6YL3C/xXYON6vElPW0B+KtIA9feqqlLrgo8WITq1Llb8kGOTiK2qZydPWSY02vjkXygYN4/jvvRSjyzpFwoSSzA9R/4TUo1oGebBLslYnMXHRGKKu4U2YnNnjL/WpgOEUZ7m215/PwmvZswE6bmRzAVC4GCmc59FlOo+fM0HFnnSfHn7Zx1KYlqA/v02qowSFsG5LAq953uSyRy4oVZO2VKJhKpQVNfuk7izZeG/2X6dQ1rozVA=;fO0/tLhZfBOpewf+ZjQf1w=="
+secured: "EBuZ38xplEE0gBY1h+nBzLfJZb2hbEv9GO1c0tkOrJ8dskkShJ5Xin/Cim3o+HPpTQl8HdyCsTHY3jU+LF5xEgmbqHc9VfpEh8AKjhq6IDNl5+2pODa2EfQsCFlUP3iD3oW+i5VOsx8RdYAxGTgw7XSnIZ0JnP2TZofnIhSy9/WE6XSbfKrNp/v0GuGgKTBPU2tA6dA23kSGRaHkmSPBpV5ftX1yyK7yW7L4IYYUacmEntmrSxCIS9ER9RDGK234lxPlszGP517/i7LFR9Mn/4dFhBwsG7gMji2qFQuhw3Sx3wlGIsZTE10l7gKhCY0U5O+7//p9GKj2kbZCDjK2R3enItZjgCEJdVd6/YYVt1UldOXPfio/xYMtYVsE34xUwkB5pbY4t+eYBikKdeSYjOIhJhPrs9yGmcomzy3/VdbgLALMd3dtgoABgYM+3RGuyBd0+5WTePXY46HneJWthVtZs1T4Ag9TwpTirQNb3TTVTtdI+xiuZzVOcquXbk+nA/bDpbLKPY7I/z4vagEOUA==;2JE1guyplvdioWlFqu0Vxw=="
 ---
 

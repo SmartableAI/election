@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Progressives unveil new agenda to pressure Joe Biden to the left"
+    excerpt: "The Working Families Party’s “People’s Charter,” released calls for free public health care, a jobs program for 16 million people, and retroactive hazard pay for essential workers."
+    publishedDateTime: 2020-10-09T14:23:00Z
+    webUrl: "https://nypost.com/2020/10/09/progressives-unveil-new-agenda-to-pressure-biden-to-the-left/"
+    ampWebUrl: "https://nypost.com/2020/10/09/progressives-unveil-new-agenda-to-pressure-biden-to-the-left/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/09/progressives-unveil-new-agenda-to-pressure-biden-to-the-left/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/ocasio-biden-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden Is Flirting with the Destruction of the Judiciary"
     excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to the constitutional order in modern American history."
     publishedDateTime: 2020-10-09T01:55:00Z

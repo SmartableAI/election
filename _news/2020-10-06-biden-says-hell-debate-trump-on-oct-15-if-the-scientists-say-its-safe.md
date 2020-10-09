@@ -107,6 +107,22 @@ related:
         width: 2560
         height: 1600
         isCached: true
+  - title: "Biden's Big Spend: Dem nominee hits half-billion-dollar mark for ads in Trump challenge"
+    excerpt: "Joe Biden’s campaign has spent over $500 million on TV, digital and radio ads this year. Biden’s campaign has opened its checkbooks to target voters through ad buys in key states such as Ohio, Iowa, Pennsylvania,"
+    publishedDateTime: 2020-10-09T17:43:00Z
+    webUrl: "https://www.cnbc.com/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 132
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106737489-1602243862399-bide.jpg?v=1602243936"
+        width: 1892
+        height: 1262
+        isCached: true
   - title: "Biden says October 15 presidential debate should not take place if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday he and President Donald Trump should not have their scheduled debate on Oct. 15 if Trump still had the coronavirus infection at that time."
     publishedDateTime: 2020-10-07T00:28:00Z
@@ -382,6 +398,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Donald Trump leads Joe Biden by 5 points in Texas, UT/TT Poll finds"
+    excerpt: "President Trump has the support of 50% percent of Texas' likely voters compared to Biden's 45% in the 2020 presidential race."
+    publishedDateTime: 2020-10-09T17:22:00Z
+    webUrl: "https://abc13.com/president-donald-trump-leading-in-texas-joe-biden-tribune-poll-voting-ballot-2020/6892031/"
+    ampWebUrl: "https://abc13.com/amp/president-donald-trump-leading-in-texas-joe-biden-tribune-poll-voting-ballot-2020/6892031/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/president-donald-trump-leading-in-texas-joe-biden-tribune-poll-voting-ballot-2020/6892031/"
+    type: article
+    provider:
+      name: abc13.com
+      domain: abc13.com
+    quality: 90
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6893237_100920-ap-split.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
     excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
     publishedDateTime: 2020-10-05T15:32:00Z
@@ -413,6 +445,22 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zR6qPU6Wp4oloJvSEM_SnsnGnPc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XYBLJ3PI2KMZVJ4TW7APTBYZ6A.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump leads Joe Biden by 5 points in Texas, UT/Texas Tribune poll finds"
+    excerpt: "Trump and his running mate, Vice President Mike Pence — had strong support from white (62%-34%) and male (55%-39%) voters, while the Democrats, Biden and U.S. Sen. Kamala Harris,"
+    publishedDateTime: 2020-10-09T12:54:00Z
+    webUrl: "https://www.kxan.com/news/us-politics/donald-trump-leads-joe-biden-by-5-points-in-texas-ut-texas-tribune-poll-finds/"
+    ampWebUrl: "https://www.kxan.com/news/us-politics/donald-trump-leads-joe-biden-by-5-points-in-texas-ut-texas-tribune-poll-finds/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/us-politics/donald-trump-leads-joe-biden-by-5-points-in-texas-ut-texas-tribune-poll-finds/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 86
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/20274049843913.jpg?w=1280"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds"
     excerpt: "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,"

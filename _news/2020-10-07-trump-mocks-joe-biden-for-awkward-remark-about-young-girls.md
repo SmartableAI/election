@@ -1452,6 +1452,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden traveling to Las Vegas; Trump weighing return to campaign trail"
+    excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending Friday, Oct. 9, 2020, just 26 days away from the election."
+    publishedDateTime: 2020-10-09T16:33:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdU-z188A2U/biden-las-vegas-trump-return-campaign-trail-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump-mask.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Where has President Trump been in the last week? Rallies, Rose Garden and a debate"
     excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19."
     publishedDateTime: 2020-10-02T15:21:12Z
@@ -1559,6 +1573,20 @@ related:
     quality: 162
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump camp still pushing for in-person Miami debate with Biden amid turmoil over schedule"
+    excerpt: "President Trump’s campaign is still pushing for an in-person debate to take place in Miami next week even though plans for the remaining showdowns with Joe Biden have unraveled over the last day."
+    publishedDateTime: 2020-10-09T17:16:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iWWAbkROEmA/trump-camp-still-pushing-in-person-miami-debate-biden-schedule-turmoil"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cc3b421-767e-4d05-b57b-55e5bdee6e9a/2bf9fc33-cc9b-4e02-8dea-9ac6c9626982/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -2485,7 +2513,7 @@ related:
   - title: "Tucker Carlson: Kamala Harris Cycled Through Various Identities To Win Arguments And Achieve Power"
     excerpt: "Tucker Carlson delivered a monologue on the vice presidential debate on his FOX News show Wednesday and said the media denounced Vice President Mike Pence as sexist while praising Sen. Kamala Harris for her smile."
     publishedDateTime: 2020-10-09T13:30:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html"
     type: article
     provider:
       name: RealClearPolitics

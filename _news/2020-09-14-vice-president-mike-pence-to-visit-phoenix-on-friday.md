@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence abruptly cancels Indiana trip"
+    excerpt: "Vice President Mike Pence on Thursday abruptly postponed a trip to Indiana on Friday in which he planned to join Second Lady Karen Pence in casting their ballots early."
+    publishedDateTime: 2020-10-09T04:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_Pence_57522.jpg-f34e6_c0-0-5230-3050_s1200x700.jpg?70a6d040525b95b75fe6c36479c516dde92ee6e5"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "QRmnpzcZT8VpHfzB2gxcWan0QumxjTwVFxr/1s4C/ne7/dzJUORAIFFK3fGlKJN3MHOu4YJcs5JM5e0HxV+8bT9JMn6JwN8YdJJX+W8Tt3DAdnqpqf/hMDoh24+PdiC6NNR8XZ/Dui3GN11QwGmSosyOSBZ2RsHKvLsiUpWe85N4p5isNedBu1fzzWsk/Fy0LBqLCeqxs09vydqDMKw1CnfNHbapFLLrW17HE5uNsWXPUIqElLC72tORWiPu8ttHjh/LCDFIivR5QQ/jF1QL1y7u60ycfKD2LTrwOAjssQOVmN2jGRoIK6KaR7zl3ouSUozeiWTuwFG0VabzDgpTAXrlaDXAxLJk5BsKsVBAHXU=;yzoYP70nxb5kdWjP4MyQLw=="
 ---

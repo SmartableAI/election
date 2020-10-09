@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fact-check: Does Kamala Harris support police defunding?"
+    excerpt: "As vice president, Kamala Harris would \"defund, dismantle, and dissolve police departments.\"PolitiFact’s ruling:"
+    publishedDateTime: 2020-10-09T16:57:00Z
+    webUrl: "https://www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding"
+    ampWebUrl: "https://www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201009&Category=NEWS&ArtNo=201008973&Ref=AR"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "At5puyGJX53G1MLcTVLXulqkEmhwTaNNjwLOaPIBKN/ZzIP7pd/gdpRSAcn7su1uRfwTajVm1cFS3qqSnizs6GlOWJgrDoQgVHRFhKnqw3Ld5F9hL3eEJU7FVNUd5A3iroeZh7NxuHS+/cEaqHdMMPS66T/UFab/GGTc6NapPlvWwONzFkWU50nnXFG5AifpCMgvZCXfAVkQ3C8J9YTQereOyATp5AisSZe2/AkL2k7DQTKyVkUdt+/3DSVpV526Jbx5hJW6Jr8xZ+AsG4/rny7jANXmcwpAtPQ01XZaD/GpJ0Xiwe6LWlKk4sFCtAGQVmcXJKl0mpNrdRQINVwd64ynO50QI1hOmMqiOihQBBaR/ktIKQqWkAYRutYBnUNy/ptJP4esxpb1oEyWCIEnk6hbbFy3sxmJPDs5s1gXROLYwdRPJqIdQiPrmKHas22mMRhyrOB5gMR4qYnCXT0HaECy0ZzaRlFS0EDJo5ZJoV2pdK15lxZjrnWSfl/4zogTiF1/RSONvC568cv2zsYTQg==;Gb9FbHbQyZ7mLsenXQvL8Q=="
 ---

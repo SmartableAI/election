@@ -2,30 +2,26 @@
 category: news
 title: "David Brooks column: Kamala Harris knows how to win elections"
 excerpt: "This has turned into the least ideological election in recent times. The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Trump. How to beat COVID-19."
-publishedDateTime: 2020-10-09T14:36:00Z
-originalUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html"
-webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html"
-ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
+publishedDateTime: 2020-10-09T15:46:00Z
+originalUrl: "https://www.baltimoresun.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html"
+webUrl: "https://www.baltimoresun.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html"
+ampWebUrl: "https://www.baltimoresun.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
 type: article
-quality: 140
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/weMd1o2h9mRwikHA_a7geSaCrHU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBS7QEH2M5C5VUNRIYK6KKOKWQ.jpg"
+  - url: "https://www.baltimoresun.com/resizer/weMd1o2h9mRwikHA_a7geSaCrHU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBS7QEH2M5C5VUNRIYK6KKOKWQ.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -792,6 +788,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "t1YIFdkh4oTLbS/JV4MPLdqkXYo4I4ayBJmzdAy9kO7yq5klUlrLMoyX3LwVQVUeCUq3OuNP1GVp9IgjkaTFkID32ixzY/bpIqZweR/dK3n9pgB6MoJB6B1dm3RAra1lGOlsShYcVmlteaIGNSGY+IBfrB3EYAVFpAoKF0t5AV4TV5rwHRGMkCW6MLdFJ8lFxBZQetGx3pJbqYEQR35sImjAn3l/x98DLropQEfu9+uA78XSeVa2o29VXFeHmEKn5MhDItvOeOC9bKw+qcq2Fj1KU7pNFZYyK3yCyoh+jWRhLzuP/wkBR1y867ZHYNqB6Bt2HD7lVrXO3Bs/pcIp6sgL4zxAiVdLD1QyI1rkSyI=;BW0z3IOZ2Y3cRNJFirsOsA=="
+secured: "w5Cn+pPLAQcblfQwJz6jQIi0WWFfvkmPT18a5d87dVLB9CXjGeHB2KJ51hacfySQDrvwh+cHqmyU8YQUjXE1K5d8qj1wgBDSS15BKCLAUsB3g5Jcfwsl8k8Zo+2OHPjgN3uQtANGCTwHA3wX0UPoexhrmZUuA6ptFmDnspMMuOb91Zvc3RzVykiJdX2JdV0gM8rN1cm6aFXvFXmXtds71mtSLHplKjLMSTHQ/NFQ2r8U28zKf4dOHeYhss/bETBDl1XrfDlEJAlW/FJV7WwZWXK/ldWdejUvFo4fvs7/I0vv1YhrqprMr3iCGU6TRq511gtQXFIUoO6wKfd1EJvHfJDv67mXbvHJq1oaM4x03rU=;sL2mhxDea02K9Sb6nu0xsQ=="
 ---
 

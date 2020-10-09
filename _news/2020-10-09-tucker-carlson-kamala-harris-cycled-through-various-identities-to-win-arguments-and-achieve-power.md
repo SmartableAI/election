@@ -3,8 +3,8 @@ category: news
 title: "Tucker Carlson: Kamala Harris Cycled Through Various Identities To Win Arguments And Achieve Power"
 excerpt: "Tucker Carlson delivered a monologue on the vice presidential debate on his FOX News show Wednesday and said the media denounced Vice President Mike Pence as sexist while praising Sen. Kamala Harris for her smile."
 publishedDateTime: 2020-10-09T13:30:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html"
 type: article
 quality: 51
 heat: -1
@@ -1450,6 +1450,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden traveling to Las Vegas; Trump weighing return to campaign trail"
+    excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending Friday, Oct. 9, 2020, just 26 days away from the election."
+    publishedDateTime: 2020-10-09T16:33:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sdU-z188A2U/biden-las-vegas-trump-return-campaign-trail-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump-mask.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Where has President Trump been in the last week? Rallies, Rose Garden and a debate"
     excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19."
     publishedDateTime: 2020-10-02T15:21:12Z
@@ -1557,6 +1571,20 @@ related:
     quality: 162
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump camp still pushing for in-person Miami debate with Biden amid turmoil over schedule"
+    excerpt: "President Trump’s campaign is still pushing for an in-person debate to take place in Miami next week even though plans for the remaining showdowns with Joe Biden have unraveled over the last day."
+    publishedDateTime: 2020-10-09T17:16:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iWWAbkROEmA/trump-camp-still-pushing-in-person-miami-debate-biden-schedule-turmoil"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cc3b421-767e-4d05-b57b-55e5bdee6e9a/2bf9fc33-cc9b-4e02-8dea-9ac6c9626982/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -2497,6 +2525,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "j3eBC5mWd5rTGpjLXTY6rZ7fFuvJaR9AgR9BVq0ozmTKvKnJ5ZAyuo316UiHTGozmmuAukHQ9nrpthnAamg+KhU6ZIMInVn5jn++uPPAfUS8717ia1LPuo5FeXqsdLNjg6i5hYsnyOXM/EhvVCo4c/j56uzlePJzwE5IkpTn0/Zorqb/s5H6amTaOneFSDL0ZWkRKilRcfZxJxlumml9Et/mYjztjfV6DjkE/El/vyK7vZFGjnQz4zBb2VGZjNRCtGP5tjdJEJUQpGdD/CY16xs8rK2ddGZkKpZbkbHjikHz36/W+vLI4nzzqA7In/KSWVcX3DIgvOOI+uvgE15iqJOrAZ/bpCWLruJCbQM7r36Dm81jHPB5KGe2CL2qXNTAP7XyJZMVmFz3Xot4YBTlZM/0/RNFg/8eDf3gTi1XUu8NQhKK3TwGyUXOaZlmHJzwFwT7szij0v2BQZrYapU74SVurdS9PLIniSm/zd1xKzlMGnpmJkHmaVxSu3InDiJz+mJpPeJ9iCqOoQceSVYR7Q==;OTFpDdGlflFHuUEst5x/uw=="
+secured: "vvh0QBXxPWisNOzVUYcEBHXkv5x5Dqd+EBWQIMeJzlFtEkCVJoBQlVKXJEuPkCypLr8vQVPYrNOrx+/jy6hyJo4PxEGEMHO6v0BeeD/Em1AeUf0KGByWoB8Wa6j8GF0R6apqIwrAqP6W9fRFMRZO+TAO71zjlDiEyWq+YgEuX29wxwkIT4PHSJ1XHMKdxxjKRp72Cd7JYpoI+m18RfQTJpssPTVh9Pw+LEtYt/uhqgTeZLD1rZWDv6GGa9HhBGYTJom66cmddJVb+rDF1AT/CH6zY7VTW3kl5k3MlUPhPzdSW7H40DJRwes/tS1RwLVYRWop57hAdtlbXYn7rYGxDULimgGBFFEYDW2d++aZiaE=;N2IUpHa38v9IYHoHQO0hOA=="
 ---
 

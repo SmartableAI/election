@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5911905002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5911905002"
 type: article
 quality: 122
-heat: 222
+heat: 242
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mike Pence abruptly cancels Indiana trip"
+    excerpt: "Vice President Mike Pence on Thursday abruptly postponed a trip to Indiana on Friday in which he planned to join Second Lady Karen Pence in casting their ballots early."
+    publishedDateTime: 2020-10-09T04:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/8/mike-pence-abruptly-cancels-indiana-trip/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_Pence_57522.jpg-f34e6_c0-0-5230-3050_s1200x700.jpg?70a6d040525b95b75fe6c36479c516dde92ee6e5"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "dC/yp/slcK/k3wthXKp0w/VKXUI7FXAtLjaWRuJKH1t4+iy8oqONjQYajVNrUsRn+Ox2vMcAeo68DrKXFku2E42/xXT0SpHbXek6mzIUJG0cY1hCb2OqZMkE5fMXt5Uh+wAMBSwQX92UJwgMAKZXuFYgOwoWIhas+9+IqpPa91hlTRiZpOz/hmSfOSL7qhNqrOCq/BszXpC0PogM82ImfH0cxTbyiADqzSaiEx2tLPsf/hqCOD2qOpQkgm6e8Aww6i4Ez8J3BaVPmlU2s0PHXvcJ2rJskLr4wrbL/2o36C4XrWdHQSkJrK9LMV4whyvtAPsyy/GzRkA6tbJK06V4AA/2pFR972PMu1khh18/7KFMjOdmce51Eg00jtbg4pjUOeNt0IvaWPlN8wwUrQAcBkAWsNHMYf7aavTwaLii7ct2SW30tAQLEIEYVQD2VTcUjJdIqRshCfFtCuqlRDvddlfNYuvPcCkgyu+Z4OvhSj9uITTzN5dlAk4t2YiKoRf6cC9qB7Cb2uqtOef7Hrw7zg==;bX2G9HcG9oM6Z6Rp3ay1gA=="

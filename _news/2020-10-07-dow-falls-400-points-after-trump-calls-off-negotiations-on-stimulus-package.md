@@ -1072,6 +1072,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump attacks moderator for second debate over deleted tweet"
+    excerpt: "The apparent request for advice from Scully's account came after the Oct. 15 town hall, which was to be moderated by Scully, was thrown into disarray."
+    publishedDateTime: 2020-10-09T17:15:00Z
+    webUrl: "https://www.politico.com/news/2020/10/09/trump-attacks-debate-moderator-428332"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/09/trump-attacks-debate-moderator-428332"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/09/trump-attacks-debate-moderator-428332"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/54/3a/5760add94344bfafea9d29ac3d9d/ap20279706828397-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Chris Christie, who helped Trump prep for debate, tests positive for coronavirus"
     excerpt: "Trump started remdesivir therapy, which is an experimental antiviral, and completed a first dose. Trump's coronavirus diagnosis has thrown his campaign into confusion with a little more than four weeks before the Nov."
     publishedDateTime: 2020-10-04T02:14:00Z

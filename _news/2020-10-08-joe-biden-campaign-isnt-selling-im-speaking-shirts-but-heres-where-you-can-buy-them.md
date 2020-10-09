@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
+    excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
+    publishedDateTime: 2020-10-09T17:43:00Z
+    webUrl: "https://heavy.com/news/biden-taxes/"
+    ampWebUrl: "https://heavy.com/news/biden-taxes/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-taxes/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-36-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
   - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
     excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
     publishedDateTime: 2020-10-01T19:05:00Z

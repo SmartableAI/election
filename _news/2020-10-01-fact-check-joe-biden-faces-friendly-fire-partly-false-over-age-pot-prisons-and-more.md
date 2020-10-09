@@ -271,6 +271,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "How Joe Biden Can Change The World"
+    excerpt: "A Biden Presidency is seen by some as an 'interregnum' but climate change, human development and Latin America offer him a chance to make a lasting impact."
+    publishedDateTime: 2020-10-09T15:59:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2020/10/09/how-joe-biden-can-change-the-world/"
+    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2020/10/09/how-joe-biden-can-change-the-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2020/10/09/how-joe-biden-can-change-the-world/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8086f837a381a01f0a2999%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Poll after poll suggests Trump's chances of defeating Biden are rapidly dwindling after the debate and the president's COVID-19 diagnosis"
     excerpt: "The election is less than four weeks away, and COVID-19 positive Trump is in the negative on multiple fronts."
     publishedDateTime: 2020-10-07T21:13:00Z

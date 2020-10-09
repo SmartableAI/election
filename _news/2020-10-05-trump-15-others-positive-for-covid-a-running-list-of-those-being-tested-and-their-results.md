@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Twitter’s New Rules Try To Prevent Election—And Trump-Related—Chaos"
+    excerpt: "The social media network announced a slew of new rules ahead of the election making it harder to spread misinformation."
+    publishedDateTime: 2020-10-09T17:33:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f809c2cde5f721bca837434%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Says He Told Aides To Stop Negotiating Stimulus Until After Election"
     excerpt: "The president blasted Speaker Nancy Pelosi's plan as too expensive and said Senate Majority Leader Mitch McConnell should focus on the Supreme Court."
     publishedDateTime: 2020-10-06T19:06:00Z
@@ -895,6 +911,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Clinton says Trump's COVID-19 not 'comparable' to her 2016 pneumonia"
+    excerpt: "Former Democratic presidential nominee Hillary Clinton said in an interview published by The Atlantic on Friday that her mid-campaign pneumonia diagnosis was not “comparable” to President Trump ’s contraction of COVID-19."
+    publishedDateTime: 2020-10-09T17:58:00Z
+    webUrl: "https://thehill.com/homenews/news/520371-hillary-clinton-says-trumps-covid-19-not-comparable-to-her-2016-pneumonia"
+    ampWebUrl: "https://thehill.com/homenews/news/520371-hillary-clinton-says-trumps-covid-19-not-comparable-to-her-2016-pneumonia?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/520371-hillary-clinton-says-trumps-covid-19-not-comparable-to-her-2016-pneumonia?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/clintonhillary_011720getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
     publishedDateTime: 2020-10-02T08:44:00Z
@@ -1004,6 +1036,22 @@ related:
     quality: 124
     images:
       - url: "https://i.insider.com/5f7e0be794fce90018f7bb83?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump can't seem to win over women voters. It may cost him a second term."
+    excerpt: "Biden leads among women voters by an average of 18.6 percentage points in the 46 national polls tracked by the Center for American Women and Politics."
+    publishedDateTime: 2020-10-09T17:45:00Z
+    webUrl: "https://www.businessinsider.com/trump-struggles-to-win-women-voters-may-be-too-late-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-struggles-to-win-women-voters-may-be-too-late-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-struggles-to-win-women-voters-may-be-too-late-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5f807788ea74820019ca62dd?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

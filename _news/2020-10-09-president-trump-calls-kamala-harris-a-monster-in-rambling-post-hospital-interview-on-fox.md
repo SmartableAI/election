@@ -1679,22 +1679,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Weed stocks surge as Kamala Harris vows to decriminalize pot in debate"
-    excerpt: "U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said marijuana would be decriminalized at a federal level in the United States under a Biden administration."
-    publishedDateTime: 2020-10-09T00:15:00Z
-    webUrl: "https://www.reuters.com/article/us-cannabis-stocks-idUKKBN26T3IH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26T3IH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26T3IH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536796600&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98041"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
     excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
     publishedDateTime: 2020-09-27T12:20:00Z

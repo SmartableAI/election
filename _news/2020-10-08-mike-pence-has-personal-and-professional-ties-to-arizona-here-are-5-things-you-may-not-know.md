@@ -141,6 +141,22 @@ related:
         width: 784
         height: 545
         isCached: true
+  - title: "Weed stocks surge as Kamala Harris vows to decriminalize pot in debate"
+    excerpt: "U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said marijuana would be decriminalized at a federal level in the United States under a Biden administration."
+    publishedDateTime: 2020-10-09T15:12:00Z
+    webUrl: "https://www.reuters.com/article/cannabis-stocks-idUSKBN26U071"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U071"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U071"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201008&t=2&i=1536766054&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9726E"
+        width: 856
+        height: 545
+        isCached: true
   - title: "Video Resurfaces of Kamala Harris Saying She Wants to Ban Fracking After Saying Biden Will Not During VP Debate"
     excerpt: "\"There's no question I'm in favor of banning fracking,\" Kamala Harris said in video footage that resurfaced on social media Wednesday."
     publishedDateTime: 2020-10-08T04:21:00Z
@@ -188,6 +204,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Election_2020_Debate_08391.jpg-a495c_c0-328-5386-3469_s1200x700.jpg?21d902c28853cc6a5d5f724c7b428dcc0c259c8f"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris, Mike Pence clash over handling of coronavirus pandemic in vice presidential debate"
+    excerpt: "Sen. Harris condemned what she called “the greatest failure of any presidential administration.” Vice President Pence defended the Trump administration’s handling of the pandemic."
+    publishedDateTime: 2020-10-09T08:46:00Z
+    webUrl: "https://www.inquirer.com/politics/election/vice-presidential-debate-kamala-harris-mike-pence-20201007.html"
+    ampWebUrl: "https://www.inquirer.com/politics/election/vice-presidential-debate-kamala-harris-mike-pence-20201007.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/vice-presidential-debate-kamala-harris-mike-pence-20201007.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 87
+    images:
+      - url: "https://www.inquirer.com/resizer/gh-holtbZwbW8NZdwEFu6X2V4a8=/1200x0/center/middle/www.inquirer.com/resizer/tSx26v0EQOt_QETfnkT2bjM4Nys=/0x86:5341x3641/1400x932/cloudfront-us-east-1.images.arcpublishing.com/pmn/R72I2VNPWBBT3LRQWZSUM6JR7M.jpg"
+        width: 1200
+        height: 799
         isCached: true
   - title: "\"SNL\" Gives Sneak-Peek Of Jim Carrey As Joe Biden, Maya Rudolph As Kamala Harris"
     excerpt: "Ahead of tomorrow's 'Saturday Night Live' season premiere, the show shared a teaser clip featuring Jim Carrey and Maya Rudolph as Joe Biden and Kamala Harris. S.N.L is returning tomorrow night for its first live episode since the start of the COVID-19 pandemic in March,"
@@ -285,6 +317,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "These Kamala Harris Quotes About Joe Biden Illustrate Friendship & Mutual Respect"
+    excerpt: "Following Democratic presidential nominee Joe Biden's historic decision to tap Kamala Harris as his running mate on Aug. 11, the former rivals have put on a unified front. The pair previously made headlines for a tense exchange during the"
+    publishedDateTime: 2020-10-09T15:17:00Z
+    webUrl: "https://www.elitedaily.com/p/these-kamala-harris-quotes-about-joe-biden-illustrate-friendship-mutual-respect-37458879"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 75
+    images:
+      - url: "https://imgix.bustle.com/uploads/getty/2020/10/9/0b055a40-374b-4010-9fbd-720381895f3f-getty-1228037233.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Briggs: Kamala Harris brought out the worst in Mike Pence"
     excerpt: "Mike Pence started Wednesday’s vice presidential debate by taking us to an alternate universe. One in which President Donald Trump prevented a pandemic before it could even begin. “Before there were more than five (coronavirus) cases in the United States,"
     publishedDateTime: 2020-10-09T09:12:00Z
@@ -308,6 +354,17 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Women’s groups band together to defend Kamala Harris"
+    excerpt: "Are you guys serious? Have you learned nothing?” Katie Couric asked on Twitter after the Democractic VP candidate was hit with gendered criticisms of her likability."
+    publishedDateTime: 2020-10-09T15:52:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/09/metro/womens-groups-band-together-defend-kamala-harris/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/09/metro/womens-groups-band-together-defend-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/09/metro/womens-groups-band-together-defend-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
 
 secured: "K1oNQXZ5xYf4BWL8x1s+boPAyURjHWKTqo36KMdKlT8wJSZqti3c/Lef+PXkIP+7dCkoePoLB2+ET9te6m361bHC3dmeDtUqdeIzhLXSyVDQpjKAtsObRoBx6jraNYqHGQNTSnC3xuaMYoOG8MZeaEI7JJSpUtI+HTYHvLPgws2WJnbBGsHQo+aeH6rPU5M/8vX77YKwvCl0sE/QzLWcRmBqI2I9xn4MmRPXYqF2VXHB80A+jLeWsxnK+H/kmimlWw8EwuI86nu9VH4JktAMn8QH1y5h08v699y8ybzdR6Ig7aJite7jzzbqpFQ6uRgoZBNDFEw2dXFgcr7t6zsTKieFehU198dYO116eSBiAu6t0PTV6qVvHOZctClKXxL4kLtIsHUTg5jnqr54nX2Wm/9bLWlyaXOr+zq2Sxez1aOpt93wMp7Fr5R82QLzyIRt+mpIHwtzM/UiXUUfGBAw0xZFRicpW9lcyvd0kuSaR6sN51vh3lc5c2qxRDxW+C5z8jvWuBHKL2x2Dz3X/usqYw==;aNyIX+85nmlORx6SCt7ZzQ=="
 ---

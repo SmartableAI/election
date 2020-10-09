@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442"
 type: article
 quality: 120
-heat: 160
+heat: 200
 published: true
 
 provider:
@@ -60,6 +60,36 @@ related:
     quality: 75
     images:
       - url: "https://www.investopedia.com/thmb/aF-pBxgRB3LgjRb5NvOzwmdKvsM=/1024x683/filters:fill(auto,1)/GettyImages-468209888-578a33593df78c09e9b807fd.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Vice President Mike Pence and his wife had requested absentee ballots by mail"
+    excerpt: "IndyStar has learned Vice President Mike Pence and his wife, Karen Pence, in September requested absentee ballots from Marion County."
+    publishedDateTime: 2020-10-09T16:37:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/09/vice-president-mike-pence-had-requested-absentee-ballots-mail/5937655002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5937655002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5937655002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/28/PIND/5da0b7fe-137b-430f-89b1-c6fcbbba4e30-AP19234698294491.jpg?auto=webp&crop=6719,3780,x0,y178&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Want to Know What a Return to “Normal” Will Look Like? Stare Into Mike Pence’s Dead Eyes."
+    excerpt: "Mike Pence spent the vice presidential debate lying, rule-breaking, and selling the Trump agenda, but he did so unburdened by Donald Trump’s chaotic personal behavior — and the political establishment on both sides of the aisle swooned."
+    publishedDateTime: 2020-10-09T15:15:00Z
+    webUrl: "https://www.jacobinmag.com/2020/10/mike-pence-vp-vice-presidential-debate-trump"
+    type: article
+    provider:
+      name: Jacobin
+      domain: jacobinmag.com
+    quality: 46
+    images:
+      - url: "https://images.jacobinmag.com/wp-content/uploads/2020/10/09110338/GettyImages-1279064285.jpg"
         width: 1024
         height: 683
         isCached: true

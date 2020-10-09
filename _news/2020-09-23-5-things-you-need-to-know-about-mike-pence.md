@@ -59,6 +59,36 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Vice President Mike Pence and his wife had requested absentee ballots by mail"
+    excerpt: "IndyStar has learned Vice President Mike Pence and his wife, Karen Pence, in September requested absentee ballots from Marion County."
+    publishedDateTime: 2020-10-09T16:37:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/09/vice-president-mike-pence-had-requested-absentee-ballots-mail/5937655002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5937655002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5937655002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/08/28/PIND/5da0b7fe-137b-430f-89b1-c6fcbbba4e30-AP19234698294491.jpg?auto=webp&crop=6719,3780,x0,y178&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Want to Know What a Return to “Normal” Will Look Like? Stare Into Mike Pence’s Dead Eyes."
+    excerpt: "Mike Pence spent the vice presidential debate lying, rule-breaking, and selling the Trump agenda, but he did so unburdened by Donald Trump’s chaotic personal behavior — and the political establishment on both sides of the aisle swooned."
+    publishedDateTime: 2020-10-09T15:15:00Z
+    webUrl: "https://www.jacobinmag.com/2020/10/mike-pence-vp-vice-presidential-debate-trump"
+    type: article
+    provider:
+      name: Jacobin
+      domain: jacobinmag.com
+    quality: 46
+    images:
+      - url: "https://images.jacobinmag.com/wp-content/uploads/2020/10/09110338/GettyImages-1279064285.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "WYc+YKBmomf8Z9Y98a8keCuCU5bUwQSlTx8/l/VpUXNBp0MPwDCgDJ2Fvzq3ZIFJiNsjnm2dMlqCwUqkn5zImgbHkjbNZwKSbukqK7zhHS7nF6mjD7FZmizG94MwCGzqp2Vqfcs+5OOm7cGPDXPqZPF9u8WKBSv4k3qORBrH1WOnVGxmXhV2baD4gaQbgQUDp8aIpBUjXE0bVcKpoGSYboYNFOTv2waALBLy5u6HtPzRFPte8wJ7DL+HU6jjB3lYDRXoCm3eB/3zgfZkN1QvOwepCblnxGUg1dNT1boJ1tY9JMHIc/85yj5LnCU2ZIuN0XXtbMK9q2dXLaqQpbHLQOMMjp/GXd4rYqR9K28kvANikiRy04Yqe6ieR/lUk8n4x/3UBgnzkG5614M/5pVYb0OyrPmcuGj58ysDL0974b53Vf0Vm8UEsAwJ5RoEKkzGRi3kRenOHHOTmWElLUdN7wETvcNtGnR2AFAVjCFF7YRBu7fxLSFfO0pAYvc9uN0kZSFxRudpyWccXOqJLRU7eQ==;TK044J1Cwy4VpJIgEKTdaA=="
 ---
