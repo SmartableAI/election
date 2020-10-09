@@ -1631,22 +1631,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump maps return to campaign trail after White House says COVID-19 treatment complete"
-    excerpt: "Republican President Donald Trump on Friday prepared to return to the campaign trail with a pair of weekend rallies after his COVID-19 diagnosis sidelined him for a week in the race against Democratic nominee Joe Biden for the White House."
-    publishedDateTime: 2020-10-09T05:32:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26U0F5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U0F5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U0F5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536808831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98085"
-        width: 968
-        height: 545
-        isCached: true
   - title: "Fact check: Trump could have been exposed to COVID-19 before Sept. 29 presidential debate"
     excerpt: "A claim suggesting Trump caught COVID-19 from the 'left' during the Sept. 29 debate is conspiratorial with no basis in fact. We rate it false."
     publishedDateTime: 2020-10-04T18:18:00Z
@@ -3518,6 +3502,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Maps Return to Campaign Trail After White House Says COVID-19 Treatment Complete"
+    excerpt: "Republican President Donald Trump on Friday prepared to return to the campaign trail with a pair of weekend rallies after his COVID-19 diagnosis sidelined him for a week in the race against Democratic nominee Joe Biden for the White House."
+    publishedDateTime: 2020-10-09T06:07:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "After Stopping Negotiations, Trump Sets Off Confusion With Tweet Seemingly Agreeing With Fed Chair’s Call for Urgent Covid Relief"
     excerpt: "President Donald Trump announced he's telling his people to stop covid relief stimulus negotiations after the election. This came hours after a serious warning from Fed Chair Jero"
     publishedDateTime: 2020-10-07T00:29:00Z

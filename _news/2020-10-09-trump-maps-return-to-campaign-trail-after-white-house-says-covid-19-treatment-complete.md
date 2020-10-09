@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump maps return to campaign trail after White House says COVID-19 treatment complete"
+title: "Trump Maps Return to Campaign Trail After White House Says COVID-19 Treatment Complete"
 excerpt: "Republican President Donald Trump on Friday prepared to return to the campaign trail with a pair of weekend rallies after his COVID-19 diagnosis sidelined him for a week in the race against Democratic nominee Joe Biden for the White House."
-publishedDateTime: 2020-10-09T05:32:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26U0F5"
-webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26U0F5"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U0F5"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U0F5"
+publishedDateTime: 2020-10-09T06:07:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete?context=amp"
 type: article
-quality: 117
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536808831&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98085"
-    width: 968
-    height: 545
-    isCached: true
 
 related:
   - title: "Trump halts COVID-19 relief talks until after election"
@@ -3551,6 +3545,6 @@ related:
         height: 624
         isCached: true
 
-secured: "bokjK02lIJthrAps6ktuWjlnkYoBxF4TeeKVxAASXDVwWj+hmv6EtqIBj9aEMrLscBDaTlUFuLX5VDcqKTvp0Ikkk2fTLGvSVT9EPeLpxPsh8nSQUCnOhkQE3Enwy/aDXdyT4/CtPNgC+0d2Dk9jS/oeprQDcxVbVZnPtINYWZuzXV4cvIE7Az/nxoMFkiRAL2fcsK/lYnTq3zD9+wPVkxBIgOA7XauthfT3Y2K3S/CaeV5uKb5bqe0ud31X8Zn4DntTeltcYfhRlNeyA4y5QN2V9e5/kUBVjDa02SVN5/PLmOXlIplzqHWDTLqjweGt5bEkbYhvsxLfZdCHBNJrQ71zZ4gZf1XC9CDJb92GfAk=;wWUQI6C/6ONBMXeV+iDwqg=="
+secured: "T48ZBjApizcu4uPMs2zft1r/YzRsd1PPXSUsjAG9zhK1ePGKGh+/5ffOIb24gTDvkzfLPnRISgX42PaCl3yu3Y+603cr1sV2HYgUSfqLqCgDCRQo9b5MzC8UnslAKv03GgsdSArksnFDq9N4oppeiW8MQiNVKCrrtfC4aYhPp0wmFYWYoFK7Rl9QwMsN0gT7nC5grzbFEYfa6DxM621Hvud2i2OC8idLHoxVLZCFTxDXYMJ0EWup3RILT2V1vyNRFu8/PQ/GOqdcdsUf7wHhFExfP/yXlABGW5XAkS/Bgm8OJmGCJJWx/+UoMpuqFDXBMBycCE4VdBloplS/zlmArQN/Es/RfGnYSqgA0zbdck0csnmwuX87MQIF1guzfCCB5IR6E2sOmzTWyBIZo7MDE7G6gpaUyEiS9M0Ifk2QdnyR3758NJgm2a0a1wyArwnwG8QlMSW3tDAk53C9z8KjlObuPo9DKYA/U5KQ1egT4qY1G6KP+ZOucsi62GOx8r+Eg/bzOjMuxHYeKnsUPt2Fdg==;z85r+cQD8tY8vs89Nf3B/g=="
 ---
 
