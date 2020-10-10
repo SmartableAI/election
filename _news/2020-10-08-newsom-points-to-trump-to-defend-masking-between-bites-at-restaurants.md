@@ -250,6 +250,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Remembering Wayne Barrett, the Journalist Who Saw Trump Coming Decades Ago"
+    excerpt: "He taught us to dig. That the facts were knowable, written down and filed somewhere. That facts steadfastly accumulated could reveal what was hidden and be agents of justice."
+    publishedDateTime: 2020-10-10T08:24:00Z
+    webUrl: "https://www.thedailybeast.com/remembering-wayne-barrett-the-journalist-who-saw-trump-coming-decades-ago"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 43
   - title: "‘Fox & Friends’ Trashes Trump for Blowing the Debate Over White Supremacists"
     excerpt: "Host Brian Kilmeade delivered a rare criticism of Trump, saying he completely failed to deal with Chris Wallace’s challenge to condemn white supremacy."
     publishedDateTime: 2020-09-30T15:44:00Z

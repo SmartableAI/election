@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: 2020 Election: Trump plans return to campaign trail after coronavirus diagnosis"
+    excerpt: "President Trump will be able to return to public engagements this weekend after testing positive for the coronavirus as the presidential race heads into its final weeks. "
+    publishedDateTime: 2020-10-10T08:32:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBt-_ofDFQ/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Doctors say president shows no coronavirus symptoms, Pence 'does not need to quarantine'"
     excerpt: "President Trump's physician, Dr. Sean Conley, announced Tuesday afternoon the president \"reports no symptoms\" of the coronavirus and had \"a restful first night at home,\" after doctors discharged Trump from Walter Reed National Military Medical Center the previous evening."
     publishedDateTime: 2020-10-06T16:55:38Z
@@ -669,6 +685,22 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fbf8f37d-4908-4abf-a756-64a6bf13926e/c16f8a61-6cac-4a6a-9e1f-e359ba3059fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Trump to hold first in-person White House event since coronavirus diagnosis"
+    excerpt: "President Trump plans to hold his first in-person event at the White House on Saturday since contracting the coronavirus, Fox News has confirmed."
+    publishedDateTime: 2020-10-10T08:53:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nLluMhYllAM/live-updates-trump-to-hold-first-in-person-white-house-event-since-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-to-hold-first-in-person-white-house-event-since-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-to-hold-first-in-person-white-house-event-since-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/39ae011e-03e1-4500-a867-de52aaf3767a/f25bec51-081f-49ff-a438-aa7e452b3fd0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -3,8 +3,8 @@ category: news
 title: "Donna Edwards: Trump Acts Like He's Running Against Barack Obama And Hillary Clinton, Not Joe Biden"
 excerpt: "Former Democratic Rep. Donna Edwards marveled at President Trump focusing on Hillary Clinton's emails four years later during a conversation Friday with MSNBC's Nicole Wallace. \"Donald Trump today ran against Barack Obama,"
 publishedDateTime: 2020-10-09T23:56:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/09/donna_edwards_trump_acts_like_hes_running_against_barack_obama_and_hillary_clinton_not_joe_biden.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/09/donna_edwards_trump_acts_like_hes_running_against_barack_obama_and_hillary_clinton_not_joe_biden.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/09/donna_edwards_trump_acts_like_hes_running_against_barack_obama_and_hillary_clinton_not_joe_biden.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/09/donna_edwards_trump_acts_like_hes_running_against_barack_obama_and_hillary_clinton_not_joe_biden.html#!"
 type: article
 quality: 66
 heat: -1
@@ -2583,6 +2583,6 @@ related:
         height: 822
         isCached: true
 
-secured: "5IVlucVWe8dJeW2Sc7W0ZBBrGA09L1wyCoktoYmHpAnQdpTKiEhI0OPrrJTyFQzHOvnXEdXH6uYOLvfA0JJhNf2LzEAyEsmCulng/5FNsLr1Bby/BLfZLDLs3wPmc6S6xcl6lhNcVBfSjNcUELMJzpJYWJ57edmPb64K5XhUwSj/eDUX7wBGzLZ7J357TsViG4guwf+S1DJL/qXMDGhh4SKai+FL4L7TKPfp1ZBKDWkl9hxbnF6yeKMdWxnHLssC/sEVCKAmOKayQaeeTbLH6kgRDZeJip1xWG2ZMEDM5ZdLuDHhMBlZomStGPnBsAPrgeIM9w/npc3rR/eyo4wvujAVAWuhE9oWoIctViC54RLG85bBJKdtbjsRDLgY3VTHEOtM58s88LdBCguEGezqURw20fNva5ELbUTrjZSjwdyCRmSPVgSTdBWQrGkMk2xoGjrOdBTZ15EmVGWxfJ2BmOTG+yjPEgZK7G8eicjc479jE/zjp9fW1wz7rNuW75SiFp9NbEsp7v6jW+Z89yKBbA==;QIc3HC67KGdVXkLczVzBpQ=="
+secured: "Cy78eVo1c9MxBzmbI7+TuAa+BRn3Cpem4/z1futx0rsqnVbxmui7+JmsDRp855xkYn+2EljiCynswAwPe4QzR4KlMLLwHk3bzhX1uJ9JXQnoUJ6Pj8+U//HmK5AA2qoiyB9z4PJggl63Wun+2cohJOJmQzliZk/dPzM74dwab4fPPhCjJ3hnpyiYSLl4d83OymH8TVQFQ8HB6LPPOTgWl2d0Zy9DfxvqiX0MgMl9Np8VP6radw74hW+zN6tGqjbtLOroF10zWFkGzmxfBV1wc3JGGkmQodpS6DJMORfwMtLqP3c6IAGEtWL/9XmvxiXTzFHHsimoLANyhp6CgvFxN5nknAO+EcPEj7Uuvxz+oR4=;tRVOsMiE6sFhKY9OU9kzHA=="
 ---
 

@@ -480,6 +480,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
+    excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
+    publishedDateTime: 2020-10-10T06:09:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/08/5-things-you-may-not-know-mike-pence-ties-arizona/5913390002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5913390002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5913390002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Briggs: Kamala Harris brought out the worst in Mike Pence"
     excerpt: "Mike Pence started Wednesday’s vice presidential debate by taking us to an alternate universe. One in which President Donald Trump prevented a pandemic before it could even begin. “Before there were more than five (coronavirus) cases in the United States,"
     publishedDateTime: 2020-10-09T09:12:00Z
@@ -529,6 +545,6 @@ related:
         height: 600
         isCached: true
 
-secured: "FiENiZRz9UMtNTz3WeLXdvUaqutiU/+NWfpNpIW3QazbNywFji2p3pP9UckXN74G7pRB9EuKkZ2SxtRIHzPythNeynjHJtiBgJOzeQNVww8jmtN4k5LFpyxon7akeo9aoLv1xEcbZCZrkXYwIsBiz23dktC+Z/r3kzDALXR+mJEA0/J3fzM784dbXluyM8FPdl7VkDQ9/AD9AAz7MclgSClPelIyBxVaW5Z5A4RtM4lDiqNFcJ1naNDKP5Is4mcrSC7e592hQ1VOtj6t1KljLrcNhzoHxxYWudiDOAdAi+DSW0lG/Jt+3D+6mpdUAuVwUHAln1aTuMvCSMJU81pZfOjbDTH4NVbJTjTY9jcLj+A=;TOJsiPrAfRfJr2sZa8A4ow=="
+secured: "dbGBimzCUEVc6Jc0q0uMoOUoeM0CChsu2yEuFkVuaSUwd9l1i7YzKYRf9ie2dTBDpNKBYHc5/mIM9bN87jULdU4dHyjf4flMu37nTGdUvBUCFOTXTtul2MKRdxDq9X3hmrg8zleyjgM7WAy8VEX0NL9p56bhefXKWhxNRJC/RAuycDov3HeJGyvtT/6obqtjCVtAdLBcSj53AVxrbmOUUwbgMNWEuLuQm2LqR+QQaHorUPda6MP1FJcgyPZl/SBXbR1GyRDnznQqW1f+uPTlX0msrqxmIRMV5EqYdbgJSAsrHyOCspzMc412vcuHwDiLS/Qg3YONs8NlUbV4/A2cWabwu7PlfCajDIGpAFWRfeA7fVfBg4L2uiqrO1CViaPkkhLQo3qAFh+HG2i1fpe6hY9FfpIf7hRqvciU52cqcdvVfDiQ2GTktKMNnsPzkyvwLw2sSgRFoDl0K/eTzbEAuY1zv+w/V+GlnsUQtvDyIy4MC9LPlZvd61hXUw8n6Lvq1mcY5jRUJR0U8fSq28AeNQ==;B5dv5STzKO+Lhe4VffxnQQ=="
 ---
 

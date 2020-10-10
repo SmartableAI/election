@@ -239,6 +239,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Why Trump's viral Covid and flu misinformation is hard for Facebook and Twitter to stop"
+    excerpt: "A perfect storm of medical misinformation and political disinformation is creating new challenges for the press, for social media platforms and for the public. Take just the events of the last few days."
+    publishedDateTime: 2020-10-10T08:37:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/why-trump-s-viral-covid-flu-misinformation-hard-facebook-twitter-ncna1242665"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242665"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242665"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3417964/201006-donald-trump-balcony-jm-1501_042a7db35c2d2476e6bc93602ef6dea2.jpg"
+        width: 2500
+        height: 1633
+        isCached: true
   - title: "Trump's Covid diagnosis spawned conspiracy theories and showed the limits of 'the resistance'"
     excerpt: "It has been easy for some liberals to make the fight solely about defeating Donald Trump. But that absolves us of responsibility for what comes after him."
     publishedDateTime: 2020-10-04T08:35:00Z

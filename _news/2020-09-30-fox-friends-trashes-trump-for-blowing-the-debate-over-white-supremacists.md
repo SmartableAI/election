@@ -258,6 +258,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Remembering Wayne Barrett, the Journalist Who Saw Trump Coming Decades Ago"
+    excerpt: "He taught us to dig. That the facts were knowable, written down and filed somewhere. That facts steadfastly accumulated could reveal what was hidden and be agents of justice."
+    publishedDateTime: 2020-10-10T08:24:00Z
+    webUrl: "https://www.thedailybeast.com/remembering-wayne-barrett-the-journalist-who-saw-trump-coming-decades-ago"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 43
 
 secured: "MPnL7hbMKp5QlMe6+AyKisfjZ8w00wqpA+rZQJhxbZlzCH64modsS1ui0W+t1LsePklpjLoGgWDpKnGztx4aoV8zrsrBA1T4BRKiuiULK9VWxo4orBGX0nSXy5jzWYJ+bMaeeo1eXJG7r41PFkvjPxJORc6WBGJEUuZ+8VgXFIBNu19exu2BrwJAnF7GdZF/tk5//Xt/lE2c/TpRg/mWJb94f5MEKO9b5sUcgAz9QxiOjx1sICwscPLbAFbTcV4mwRjc6G042efy+AB6Iuhjxf7msL1NgCL0xlX8XbRJ60rTi147iciRlJcsFEmb5DptMiqu15w6QmZcuIidImV8wqlNGx/cXpZy8m5tOAXnhYVFMbg+Qc2vxXsrOdBBU5YajHYWQ1Figy2ld3zeyocBIAlgOqN4VUpWmt0Gkp5k4d6sOYR5C9ao3A4FLI8uLm56RvSvhIlSVWlOEeCHu6AqmnpUqbhWv6cal+KGg3a1xX71vXVGdK3wN/tAWvxNOKDiRZrJY4munAlLmFRiBWvbgA==;4sbhhYfCauSmBrLdC57XOA=="
 ---

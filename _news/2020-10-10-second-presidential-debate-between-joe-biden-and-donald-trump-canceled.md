@@ -2,23 +2,23 @@
 category: news
 title: "Second presidential debate between Joe Biden and Donald Trump canceled"
 excerpt: "Both campaigns have agreed to appear at the third and final presidential debate, a podium format set for Nashville on Oct. 22, the source said."
-publishedDateTime: 2020-10-10T00:26:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-ampWebUrl: "https://amp.cincinnati.com/amp/5944269002"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5944269002"
+publishedDateTime: 2020-10-10T02:02:00Z
+originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+ampWebUrl: "https://amp.palmbeachpost.com/amp/5944269002"
+cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5944269002"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: Palm Beach Post
+  domain: palmbeachpost.com
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
@@ -4272,6 +4272,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "YGuyWUjc+PfOuTAob6kb8XdeBkKJiz4IqiDN+NjJc95A71xELfUGJI7bddjEpX6xJ56awP6gkAa/wjS2wMutuV4sIPU2mGG3G0au6GSd3uwp77OdAGd2+SWitBcHw0EDcgQk09AH8a39L2t8BU8tzoK2C2c3DeUXkeh54iY6vuwr1z9q52srI5kUW0iIFQ6/oPLK/taC6q6S3ssTrC5GkwzeBAd9Ax/I4EC3d7WZT8gOQJ0BaN2ophYO8WNrmtAq6gwKY8gOOAzw8YmKvKKWI6v2KoGqCBKBwgXejMn848rYnCCJNipxquKJCXN5wqzaNaGRvqhF2zvjSmbtJMa0/g/GV7tS101TpUIWyjUIdzI=;5eAFAqC/wss9+g8vdTyYaQ=="
+secured: "nuSpjCXM60MS11MRDfvFGrgMASkubpuRyU9HKIQngtxi6iW+0gsQTNLK4Lnoyulu3mk/NJ3hJqPjnJkZc7G1GK9ENjUvKVr7eW0GdkDhNdICU0thQZDV3To2miV2mCNL6z65tOVzjTTKc8a5x4cMdamaYnW+Tsjq0itEJ9sZfBfFDDdbIBPdl+Mp3akT/10Qdn1jn15BHyoSrnPy8tt+aWnlf8cZSs/uHvipNuON1t2E1Dg1iILqmGlWSUBkho95dl3pfQVns3IB2fuws8oiCDegd2OZ4JVvEm+ss1ya9Dniil73L+E87rd7uuKijf5W77fbsGzLhPklhNa04K4WhGFZnYY+dc4+gmcxOyGqijw=;xclpVCigGYoXax8g4BwaxQ=="
 ---
 

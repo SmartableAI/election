@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis"
+    excerpt: "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled."
+    publishedDateTime: 2020-10-10T08:16:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5911905002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5911905002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PIND/a4c4657d-4f89-4e21-ad93-fd72a40134a3-pence.jpg?auto=webp&crop=4607,2592,x0,y691&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "zyhOAhu7ktJKI3bVXxJG28fXNTADonYK2bokLuOG0UGQq2+WX0wCzG28LuNdwDQqVY4QcK7Joq79NqE/R3Itf1YNnU5BC7p7xftvvWbZgBGzNwx9xYfKzCnaLLXZ04zA1AW/m49R7OI4UP74BWPo82+AA8HkBzeNSd2T07EqyiJ1mYLfZ+KTxVismvULP1yFrKvPcfjjFofvc78Ln/N/QJXfqNQmVVmWbmM68brESquy4bINJ7UE0pX5TlNE8iqp8D9F5MxTm92HEzTe3HEIPXgph0FDUyQE9UThqw6NJU5ex3p1LkI93tvp59x3dAJfOkyb5UXYop6aS2+bHMoHvj4Y45qYMPrLCKmVU5Fa2y8=;MoyWnYKPJ+YFrcqefFTVnw=="
 ---

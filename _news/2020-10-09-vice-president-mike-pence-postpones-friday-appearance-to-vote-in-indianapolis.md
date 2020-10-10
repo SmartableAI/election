@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5911905002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5911905002"
 type: article
 quality: 122
-heat: 242
+heat: 262
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_Pence_57522.jpg-f34e6_c0-0-5230-3050_s1200x700.jpg?70a6d040525b95b75fe6c36479c516dde92ee6e5"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis"
+    excerpt: "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled."
+    publishedDateTime: 2020-10-10T08:16:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5911905002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5911905002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PIND/a4c4657d-4f89-4e21-ad93-fd72a40134a3-pence.jpg?auto=webp&crop=4607,2592,x0,y691&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "dC/yp/slcK/k3wthXKp0w/VKXUI7FXAtLjaWRuJKH1t4+iy8oqONjQYajVNrUsRn+Ox2vMcAeo68DrKXFku2E42/xXT0SpHbXek6mzIUJG0cY1hCb2OqZMkE5fMXt5Uh+wAMBSwQX92UJwgMAKZXuFYgOwoWIhas+9+IqpPa91hlTRiZpOz/hmSfOSL7qhNqrOCq/BszXpC0PogM82ImfH0cxTbyiADqzSaiEx2tLPsf/hqCOD2qOpQkgm6e8Aww6i4Ez8J3BaVPmlU2s0PHXvcJ2rJskLr4wrbL/2o36C4XrWdHQSkJrK9LMV4whyvtAPsyy/GzRkA6tbJK06V4AA/2pFR972PMu1khh18/7KFMjOdmce51Eg00jtbg4pjUOeNt0IvaWPlN8wwUrQAcBkAWsNHMYf7aavTwaLii7ct2SW30tAQLEIEYVQD2VTcUjJdIqRshCfFtCuqlRDvddlfNYuvPcCkgyu+Z4OvhSj9uITTzN5dlAk4t2YiKoRf6cC9qB7Cb2uqtOef7Hrw7zg==;bX2G9HcG9oM6Z6Rp3ay1gA=="

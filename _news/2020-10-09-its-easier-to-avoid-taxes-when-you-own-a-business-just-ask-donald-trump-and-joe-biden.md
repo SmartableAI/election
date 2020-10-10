@@ -2537,7 +2537,7 @@ related:
   - title: "Donna Edwards: Trump Acts Like He's Running Against Barack Obama And Hillary Clinton, Not Joe Biden"
     excerpt: "Former Democratic Rep. Donna Edwards marveled at President Trump focusing on Hillary Clinton's emails four years later during a conversation Friday with MSNBC's Nicole Wallace. \"Donald Trump today ran against Barack Obama,"
     publishedDateTime: 2020-10-09T23:56:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/donna_edwards_trump_acts_like_hes_running_against_barack_obama_and_hillary_clinton_not_joe_biden.html"
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/donna_edwards_trump_acts_like_hes_running_against_barack_obama_and_hillary_clinton_not_joe_biden.html#!"
     type: article
     provider:
       name: RealClearPolitics
