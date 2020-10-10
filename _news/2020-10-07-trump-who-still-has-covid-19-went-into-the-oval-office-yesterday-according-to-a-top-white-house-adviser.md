@@ -2442,6 +2442,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump tells Fox News he had 'congestion' in his lungs, giving a small window into his COVID-19 infection"
+    excerpt: "\"Initially, I think they had some congestion in there, but ultimately it tested good, and with each day it got better,\" Trump said."
+    publishedDateTime: 2020-10-10T11:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-condition-had-congestion-in-lungs-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-condition-had-congestion-in-lungs-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-condition-had-congestion-in-lungs-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f8103c6642e9400180b5258?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Is Trump contagious? How is Chris Christie? We're answering your questions about the president and COVID-19"
     excerpt: "Is President Donald Trump contagious? Will his COVID-19 treatments be available to the rest of the nation? We're answering your coronavirus questions."
     publishedDateTime: 2020-10-09T02:11:00Z

@@ -112,6 +112,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump to hold public event at the White House on Saturday"
+    excerpt: "His first official public event since his hospital discharge is slated to feature presidential remarks on law and order, a White House official said Friday."
+    publishedDateTime: 2020-10-10T06:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/president-trump-make-public-remarks-white-house-saturday-n1242774"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242774"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242774"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417873/201006-donald-trump-balcony-jm-1130_8a2f2b23f83eea87f27d39fb7a180457.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "0Rfhz94vAIia7zeUhgblmF14Z8I5kvMJJRKLdlhyK0g8irj6SGNnbVLPd6xNJqooZLZ1W90vJbwf8Hgpk59UrKCt3RVqbUd8MHU27s41AkL6v7tsH9nm88SNF868CocTJwrqFUqA6EU5hHhEUM1tq1okEWUNBLg69yw8xrwIhM/tIJuxsNByA4WEo6qMuI1RYOZptjWJkqTkfAfA8QCKdFBzaH6Y+b4qlWPpg75ul/2LnTVDyybiJZLuTu/KZbPJ/baT71j25vQkiu85P/NN3NhZiEBnYUgNBTIjvLxdMaoLlcT+3+GSRpcyVdU1v1sGfq4dUkjfN+z4ccmdGfLs7HobUTKP9hR0lm4sV/3Nvwo=;hVYFbbsKno+CM1X+FzalDg=="
 ---

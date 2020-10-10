@@ -2,19 +2,19 @@
 category: news
 title: "Second presidential debate between Joe Biden and Donald Trump canceled"
 excerpt: "Both campaigns have agreed to appear at the third and final presidential debate, a podium format set for Nashville on Oct. 22, the source said."
-publishedDateTime: 2020-10-10T02:02:00Z
-originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-ampWebUrl: "https://amp.palmbeachpost.com/amp/5944269002"
-cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5944269002"
+publishedDateTime: 2020-10-09T23:16:00Z
+originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+ampWebUrl: "https://amp.desmoinesregister.com/amp/5944269002"
+cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5944269002"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Des Moines Register
+  domain: desmoinesregister.com
 
 topics:
   - Election
@@ -4272,6 +4272,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "nuSpjCXM60MS11MRDfvFGrgMASkubpuRyU9HKIQngtxi6iW+0gsQTNLK4Lnoyulu3mk/NJ3hJqPjnJkZc7G1GK9ENjUvKVr7eW0GdkDhNdICU0thQZDV3To2miV2mCNL6z65tOVzjTTKc8a5x4cMdamaYnW+Tsjq0itEJ9sZfBfFDDdbIBPdl+Mp3akT/10Qdn1jn15BHyoSrnPy8tt+aWnlf8cZSs/uHvipNuON1t2E1Dg1iILqmGlWSUBkho95dl3pfQVns3IB2fuws8oiCDegd2OZ4JVvEm+ss1ya9Dniil73L+E87rd7uuKijf5W77fbsGzLhPklhNa04K4WhGFZnYY+dc4+gmcxOyGqijw=;xclpVCigGYoXax8g4BwaxQ=="
+secured: "lvKKyWIs5it6RzTt3LAn0qJkFOTBfSt1+EljD9PTHVwEMGyu/JDbuEgiKWVZJC9Wz1j7+1kaHqVB1FVieZM8F8I8ZzICXhT/6Bhfy/htsCRimcDXs0rqQEYmGHR53yXRCpIHan6FgN1Ecq5MUUcPh0d8uY+HJ2QWwHbRq8uLg/G8Jjag8b7GgGrkH7K8Y8rpJR56+0fXz7ZC+pHsZcDsL9L2OnW2N9RJ+Rf5d4mad0muqP7VGSZjVPN/kIGzjriTDIC3WPu5cYwIOCZ/Y+eIa5ww6JCG+HDeRwnkeudtlAnCfnMmQceGh25W93qfHSrh1hx+ftkA7yHXaoEL/5u21T1PzysRVpjVU1AmsQYxOAE=;1FZbg8yns3yxeUn4Gkf9fA=="
 ---
 

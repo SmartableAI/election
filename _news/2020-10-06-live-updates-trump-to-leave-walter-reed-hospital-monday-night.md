@@ -391,6 +391,15 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "Here’s How the GOP Can Get Rid of That Trump Stench"
+    excerpt: "Donald Trump is headed toward a massive defeat —at least, if any of the polls (or our eyes) are to be believed. What is more, there’s a decent chance a massive blue wave could do the unthinkable, sweeping even “safe” Republicans like South Carolina Senator Lindsey Graham out to sea."
+    publishedDateTime: 2020-10-10T08:22:00Z
+    webUrl: "https://www.thedailybeast.com/heres-how-the-gop-can-get-rid-of-that-trump-stench"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "QWXOSlkhz4Psj1h4cg5WglVyjhQ98rFtVuPx1+J7H0k4rhlSCcSCQY+aJAvKvUP5Eo7zvaXIad3ZdTaVv5vsZR1l2Mf8RzW2cY4TtnNmabfObP1/OABlfJEDwClqZJWIItdGpzCEzqJmz8OK98ZDAQXiA78rBIXlemfwc3bfRppb3Kknzac6h7sPFFfur+zPWvsXwpSkgH+XrVzVvz+Twfdnrl5qEeUXNYTE1Wp6N/PV0sw/MDCPm+KQcVBLmI8Npo6KEqNAWi+rjrGYOJ3btcqSxz5EQKxFkcBitil1BxxDaEttTBbM6ylWdzVFkr0GcK4sZlVDuW4CtmkuwSfmnjVlX6RtzDLFEjWZhXB04LI=;D0qTmRWhcGDuVlJj+Bq9LA=="
 ---
