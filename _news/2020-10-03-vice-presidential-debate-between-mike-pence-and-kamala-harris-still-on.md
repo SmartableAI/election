@@ -1006,6 +1006,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Companies distance themselves from Trump ally who launched vulgar attack on Kamala Harris"
+    excerpt: "Big companies distanced themselves from a Washington, D.C., consultant and Trump ally who launched a vulgar attack on Sen. Kamala Harris."
+    publishedDateTime: 2020-10-09T17:59:00Z
+    webUrl: "https://www.cnbc.com/2020/10/08/companies-slam-trump-ally-harlan-hill-after-vulgar-attack-on-kamala-harris.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/08/companies-slam-trump-ally-harlan-hill-after-vulgar-attack-on-kamala-harris.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/companies-slam-trump-ally-harlan-hill-after-vulgar-attack-on-kamala-harris.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 131
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106724316-1601500623795-tru.jpg?v=1601500672"
+        width: 3132
+        height: 2088
+        isCached: true
   - title: "Vice President Pence, Sen. Kamala Harris set to face off in VP debate"
     excerpt: "CNBC's Andrew Ross Sorkin takes a look at what's ahead for the week, including some news from the Fed and the vice presidential debates."
     publishedDateTime: 2020-10-05T11:15:00Z

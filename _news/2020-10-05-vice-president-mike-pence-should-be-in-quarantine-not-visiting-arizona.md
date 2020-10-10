@@ -295,6 +295,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Public display in support of Joe Biden, Kamala Harris at Western Massachusetts farm set on fire"
+    excerpt: "With buckets of paint and bales of hay, Holiday Brook Farm in Dalton set out to share a message ahead of the election. A day later, that message was set on fire."
+    publishedDateTime: 2020-10-10T13:20:00Z
+    webUrl: "https://www.masslive.com/news/2020/10/public-display-in-support-of-joe-biden-kamala-harris-at-western-massachusetts-farm-set-on-fire.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/10/public-display-in-support-of-joe-biden-kamala-harris-at-western-massachusetts-farm-set-on-fire.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/public-display-in-support-of-joe-biden-kamala-harris-at-western-massachusetts-farm-set-on-fire.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 88
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RTQST23U3BFRJPCMEZY27TBOKU.jpg"
+        width: 720
+        height: 960
+        isCached: true
   - title: "Kamala Harris, Mike Pence clash over handling of coronavirus pandemic in vice presidential debate"
     excerpt: "Sen. Harris condemned what she called “the greatest failure of any presidential administration.” Vice President Pence defended the Trump administration’s handling of the pandemic."
     publishedDateTime: 2020-10-09T08:46:00Z
@@ -422,6 +438,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VTRDUHBP3FDJHMGJDGVL46HLOA.jpg"
         width: 1260
         height: 846
+        isCached: true
+  - title: "A Brief History of Kamala Harris and the Knights of Columbus"
+    excerpt: "NRPLUS MEMBER ARTICLE D uring their debate earlier this week, Vice President Mike Pence put California senator Kamala Harris on the spot for her attacks on the religious views of several recent judicial nominees — a topic on which,"
+    publishedDateTime: 2020-10-09T14:03:00Z
+    webUrl: "https://www.nationalreview.com/2020/10/a-brief-history-of-kamala-harris-and-the-knights-of-columbus/"
+    ampWebUrl: "https://www.nationalreview.com/2020/10/a-brief-history-of-kamala-harris-and-the-knights-of-columbus/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2020/10/a-brief-history-of-kamala-harris-and-the-knights-of-columbus/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/Kamala-Harris-in-Arizona.jpg?fit=1200%2C700&ssl=1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "These Kamala Harris Quotes About Joe Biden Illustrate Friendship & Mutual Respect"
     excerpt: "Following Democratic presidential nominee Joe Biden's historic decision to tap Kamala Harris as his running mate on Aug. 11, the former rivals have put on a unified front. The pair previously made headlines for a tense exchange during the"

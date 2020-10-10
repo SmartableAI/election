@@ -279,6 +279,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "David Brooks: Kamala Harris knows how to win elections"
+    excerpt: "Third, Joe Biden and Kamala Harris decided to run a professional campaign. Instead of trying to please those of us who consume large amounts of media, they have ruthlessly and effectively focused their campaign on the Exhausted Majority — people who are disgusted by and semidetached from politics in working-class homes in the Midwest,"
+    publishedDateTime: 2020-10-10T13:47:00Z
+    webUrl: "https://www.palmbeachpost.com/story/opinion/columns/more-voices/2020/10/10/david-brooks-kamala-harris-and-presidential-debate/5940743002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5940743002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5940743002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/15d25488872a274679d0afc94fafd75352d70a4a/c=0-24-259-170/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200709441-ef34f932.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Melania Trump Ridiculed, Kamala Harris Praised After Wearing Same Timberland Boots: 'Media Bias'"
     excerpt: "Melania Trump and Kamala Harris sported the same footwear but received different reception, which Amy Kremer, co-founder for Women for Trump blamed to \"media bias.\""
     publishedDateTime: 2020-09-18T11:25:00Z

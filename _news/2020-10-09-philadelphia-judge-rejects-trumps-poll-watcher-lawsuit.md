@@ -1,0 +1,53 @@
+---
+category: news
+title: "Philadelphia judge rejects Trump's poll-watcher lawsuit "
+excerpt: "A local judge on Friday rejected an effort by the Trump campaign to send poll watchers to voting sites in Philadelphia, ruling that the campaign's attempted poll-watching isn't allowed under state law.\n    \n"
+publishedDateTime: 2020-10-09T18:32:05Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html"
+type: article
+quality: 175
+heat: 195
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009003625-voto-anticipado-elecciones-estados-unidos-encuesta-analisis-seg-pkg-michael-roa-00000311-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Federal judge rejects Trump's efforts to curtail New Jersey vote-by-mail plans"
+    excerpt: "A federal judge in New Jersey on Tuesday rejected an attempt by President Donald Trump's campaign to curtail part of the state's vote-by-mail plan just weeks before Election Day.\n    \n"
+    publishedDateTime: 2020-10-06T22:51:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OxFoj5hbM_w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/federal-judge-new-jersey-canvass/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/federal-judge-new-jersey-canvass/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924162151-mail-in-ballots-voting-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "ruKrDoJDHxv1o3jm1ylm6ARYc/AwBs8nr4gC+NSyMlAmVH1CFLsmSDLhGzsQvU01R1h0clS0xoaMroqouCw1i1LLudJzQjlu5nI7aRu8rS9BKq7zTI943qOpXs4ZIKLmPHiU8syiapGhkYBoNF5HViVEdvD06uOCqfcV/uMeEeaysg6dzyCp/nuZyBv7X4CPXzSV393x5Uv0+oD5FXccVfCUEc6mYReqYGGIDeKWGuklF77dg2CevJ+OYrYNtE+5nU2+sgknwl+lFKeBigwJjJeBVmfvewmiIlRAPQsNp4EYxPqHhpFnGry03cwUCe9WZhnzeEWScGQtigpIGGYlvRGy8GysLSJ19kh+Fb1GXpY=;HLelxC6bj1W6YM22SdpqSg=="
+---
+

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Commission cancels second debate between Trump and Biden"
+    excerpt: "The Commission on Presidential Debates on Friday canceled the second debate between Donald Trump and Joe Biden after the President declined to do a virtual debate despite concerns over his Covid-19 diagnosis, organizers said.\n    \n"
+    publishedDateTime: 2020-10-09T23:14:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9b5jLCxypg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/second-presidential-debate-canceled/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/second-presidential-debate-canceled/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002091918-01-trump-biden-debate-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
     excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
     publishedDateTime: 2020-09-22T18:10:03Z
@@ -828,6 +844,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/21/us/politics/21elections-briefing-hill-21-09-57/21elections-briefing-hill-21-09-57-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "The Trump Taxes Story Exposes a Glaring Hole in Biden’s Criminal Justice Platform"
+    excerpt: "A series of recent reports on President Donald Trump’s finances raises reasonable questions about whether Trump may have committed criminal conduct in the course of tax evasion. The fallout also exposes a glaring hole in Joe Biden’s criminal justice platform—namely,"
+    publishedDateTime: 2020-10-10T12:29:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/10/trump-taxes-biden-campaign-financial-crime-425160"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/10/10/trump-taxes-biden-campaign-financial-crime-425160"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/10/10/trump-taxes-biden-campaign-financial-crime-425160"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 145
+    images:
+      - url: "https://static.politico.com/0c/34/67d77e274bbdb30640709c8f2c6a/pexels-karolina-grabowska-4386346-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden says Senate should wait to replace Ginsburg, Trump lowers flags at White House"
     excerpt: "Ginsburg's death is likely to set off a fierce political battle over filling her seat on the nine-person Supreme Court."

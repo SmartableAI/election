@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 1983
+heat: 2003
 published: true
 
 provider:
@@ -380,6 +380,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007002841-donald-trump-leaves-walter-reed-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump mixes his coronavirus messages -- again"
+    excerpt: "After scuttling talks for an economic stimulus deal by tweet, then signaling interest in resuming those talks, President Donald Trump has muddied the waters on Capitol Hill yet again.\n    \n"
+    publishedDateTime: 2020-10-10T00:06:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y2HKs0t6s_E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/donald-trump-coronavirus-economic-relief-package-uncertain/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/donald-trump-coronavirus-economic-relief-package-uncertain/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

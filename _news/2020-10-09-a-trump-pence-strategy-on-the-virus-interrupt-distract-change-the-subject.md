@@ -1151,6 +1151,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "2020 Election Live Updates: Trump Returns to Campaigning Less Than a Week After Being Hospitalized for Covid-19"
+    excerpt: "President Trump’s campaign has invited hundreds to an event at the White House on Saturday, raising concerns from health experts over the possible spread of the coronavirus there. The Commission on Presidential Debates officially canceled the second debate."
+    publishedDateTime: 2020-10-10T13:06:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/10/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/10/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/10/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10elections-brief-trumpback/10elections-brief-trumpback-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
     excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."
     publishedDateTime: 2020-10-02T07:33:00Z

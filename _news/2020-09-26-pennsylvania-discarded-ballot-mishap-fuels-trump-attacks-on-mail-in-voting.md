@@ -285,6 +285,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Campaigns in Erie, Pennsylvania"
+    excerpt: "Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. 2020 Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. Joe Biden, a 2020 Democratic presidential candidate,"
+    publishedDateTime: 2020-10-10T13:05:00Z
+    webUrl: "https://www.c-span.org/video/?476864-1/joe-biden-campaigns-erie-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "aRCqYntPcpJTy7dYq6o4H7Mh+GrsBNF3bUGXNi21Gda8ZLsmwEDpcIZs/J1/scc9prE0oHkS47HCVCH8fe4YMRPj9ut8n+TpyKNlt7D9MdsVK2uyl9TWpyEMFRB5RsmDWIDcux7ej+cFtSZwA1cZ1Jn+/T3AGz2Ng1OGMXBrXPeJzm4ohmGHshmaaXl4XmI/g+h7zW5TaQmC/sRo/7Kiyll71JitP2CNI7MvCAguHLFKHa8wTEd2Lr1/bk+Pj9YtpCUYDQiAdI0ROM9xVraDC9kDPo9l36OQMk3iwyvydLHnuznYnsWWk7+FruL14FboDBiEF+Xj/R1TxvYdsHw8uXsZKVEdqhxwr4493lt2GdA=;y3iRx7Xw6AsHimHsd7yHzQ=="
 ---

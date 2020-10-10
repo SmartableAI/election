@@ -267,6 +267,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "David Brooks: Kamala Harris knows how to win elections"
+    excerpt: "Third, Joe Biden and Kamala Harris decided to run a professional campaign. Instead of trying to please those of us who consume large amounts of media, they have ruthlessly and effectively focused their campaign on the Exhausted Majority — people who are disgusted by and semidetached from politics in working-class homes in the Midwest,"
+    publishedDateTime: 2020-10-10T13:47:00Z
+    webUrl: "https://www.palmbeachpost.com/story/opinion/columns/more-voices/2020/10/10/david-brooks-kamala-harris-and-presidential-debate/5940743002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5940743002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5940743002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/15d25488872a274679d0afc94fafd75352d70a4a/c=0-24-259-170/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200709441-ef34f932.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "California fires: Trump, Kamala Harris visit state today amid historic wildfires"
     excerpt: "Kamala Harris, the Democratic vice presidential nominee, will visit the Golden State in the midst of a wildfire season that has shattered records and ravaged other Western states. Protesters and supporters are gathered in Sacramento where Trump is expected to arrive at 10:40 a."
     publishedDateTime: 2020-09-14T17:41:00Z

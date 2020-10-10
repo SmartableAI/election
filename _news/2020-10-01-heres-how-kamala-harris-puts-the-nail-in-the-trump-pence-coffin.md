@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
 type: article
 quality: 175
-heat: 6895
+heat: 6915
 published: true
 
 provider:
@@ -992,6 +992,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Companies distance themselves from Trump ally who launched vulgar attack on Kamala Harris"
+    excerpt: "Big companies distanced themselves from a Washington, D.C., consultant and Trump ally who launched a vulgar attack on Sen. Kamala Harris."
+    publishedDateTime: 2020-10-09T17:59:00Z
+    webUrl: "https://www.cnbc.com/2020/10/08/companies-slam-trump-ally-harlan-hill-after-vulgar-attack-on-kamala-harris.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/08/companies-slam-trump-ally-harlan-hill-after-vulgar-attack-on-kamala-harris.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/companies-slam-trump-ally-harlan-hill-after-vulgar-attack-on-kamala-harris.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 131
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106724316-1601500623795-tru.jpg?v=1601500672"
+        width: 3132
+        height: 2088
         isCached: true
   - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
     excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"

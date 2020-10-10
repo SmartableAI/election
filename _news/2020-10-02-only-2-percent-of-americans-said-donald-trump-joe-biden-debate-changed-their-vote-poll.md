@@ -514,6 +514,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Don't trust presidential polls that show huge leads for Joe Biden. The race isn't over."
+    excerpt: "The presidential election is much, much closer than national polling data indicate. Blame the outdated and patently racist Electoral College system."
+    publishedDateTime: 2020-10-10T13:11:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/greg-moore/2020/10/10/polls-showing-huge-joe-biden-leads-misleading/5916004002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5916004002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5916004002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9d1e0e27b1d1c0b236043279ceb547c968a223bc/c=0-899-4133-3234/local/-/media/2018/03/08/NJGroup/AsburyPark/636561123315479526-GettyImages-671312804.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "In year of surprises, a win by Joe Biden should not be one"
     excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
     publishedDateTime: 2020-10-07T13:54:00Z

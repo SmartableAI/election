@@ -120,6 +120,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "North Carolina Democrat's sex scandal renews GOP hopes of keeping majority despite Trump's drag on the ticket"
+    excerpt: "President Donald Trump's eroded political standing has hurt GOP senators in crucial races across the country, but Republicans now hope a sex scandal in North Carolina will help them fend off the Trump effect in a race that's central to holding the Senate majority.\n    \n"
+    publishedDateTime: 2020-10-09T19:52:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4g8mbzoPQ-E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/north-carolina-senate-race-cal-cunningham-thom-tillis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/north-carolina-senate-race-cal-cunningham-thom-tillis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009111757-02-cunningham-tillis-debate-1001-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "‘Don’t Be Afraid of Covid,’ Trump Says. But Many Are."
     excerpt: "Readers discuss the president’s comments and removal of his mask upon his return from the hospital, and the “world-class care” he received compared with that available to others."
     publishedDateTime: 2020-10-06T17:39:00Z
