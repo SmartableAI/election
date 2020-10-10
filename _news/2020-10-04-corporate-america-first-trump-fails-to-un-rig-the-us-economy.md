@@ -59,6 +59,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
+    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
+    publishedDateTime: 2020-10-09T16:24:00Z
+    webUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 74
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Virus_Outbreak_Congress_13038.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "W7bHWPNukV34xhkORac0+dGuagYiJ3wui0FQF+suD+5Lz820MJRpeF2qZPB/0isG0ZX6RSajM65zzSiO6Fbf2y7e5weWlbAI7fYRvDOvacxMKjinwXYQXb3VFKg11Lm96muyi5ZcrwY/T+jpyGktzPE0XRhIpkZygPdHyU7Pd1yY1L6WEy9bnyME/1FexnxQ9zihffKm37+uslVSfEDt+vc5eawKQpay37vm3+YM32cgWkD9G9eu1kuxrH1+nt5SiTRolegUoK2lBnG1k9Ql4bvsIo64FOZQciwyjrER1u2iflxAhawPe42YD/As0d1p12qA32qVUHD5GPOrEmd7m2zjazXoweslNs1nMi6HECg=;NXUNdzCuF1/+sAIIiHL1JA=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Tucker Carlson: Kamala Harris Cycled Through Various Identities To Win Arguments And Achieve Power"
 excerpt: "Tucker Carlson delivered a monologue on the vice presidential debate on his FOX News show Wednesday and said the media denounced Vice President Mike Pence as sexist while praising Sen. Kamala Harris for her smile."
 publishedDateTime: 2020-10-09T13:30:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html"
 type: article
 quality: 51
 heat: -1
@@ -2529,6 +2529,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Donna Edwards: Trump Acts Like He's Running Against Barack Obama And Hillary Clinton, Not Joe Biden"
+    excerpt: "Former Democratic Rep. Donna Edwards marveled at President Trump focusing on Hillary Clinton's emails four years later during a conversation Friday with MSNBC's Nicole Wallace. \"Donald Trump today ran against Barack Obama,"
+    publishedDateTime: 2020-10-09T23:56:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/donna_edwards_trump_acts_like_hes_running_against_barack_obama_and_hillary_clinton_not_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 66
+    images:
+      - url: "https://assets.realclear.com/images/49/499335.jpg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Biden's Most Important Answer of the Debate"
     excerpt: "President Donald Trump’s performance at the first debate was bizarre, cruel, and at times, truly dangerous. For all those reasons, it probably had the net effect of making it likelier that Joe Biden wins the presidency — that’s certainly what the betting markets thought,"
     publishedDateTime: 2020-10-01T12:49:00Z
@@ -2555,6 +2569,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "QcN8LRSQW+rLVJDYEcJ5hIt2C52IOAHLzKYRzMmLdlieHea+mKKhUv7E0UZWUkodCozokmIksdG8T4pyYwOlDMydY5NBc5GUIteaG43NZG5Uw9XwgWytgbzYkshDzEPickRH2UKcBIdiwGkc7HFGfpWVvPHeqwbZpDomgr2jEWO/xc1cxSoiYFQK2u4ICAu4l+9yBKwh6rTlPIct12msMemGqdWuInTl/jBjLHOqrcgljHOyT+P4+1D98Ui1JjrLOhaVcBwHoL+Fmst+2167BCoTTxACagGgwkX2aFoCg/XyektlZxnZnOTi/kAMOSYLZVj6jvJyTfQLUrS2q4RFbXi0+/a7Pq4J486QYOEdcy9IImFxUYXOoVbafDJkJV7IPzdiEGkJ3Ydnb5LF04H/4JDYn/p/B++bU8tApDIjWBdLDQBEaojKuBEmHd+PvZTX2xaGkVibeGonaVncBlBoxu3ippVq9Z1Z6UsVfOJCJl/BxFOBUXtqUgKIIFgqxEnCMN9CIZZcSeauNlHI4CJOIg==;Vs0Y7g9g/tqb5bZIwrB7Ug=="
+secured: "8kICckcSz2Qpw77dpP4kPvtiqNpASN/Z/bBKaDImtVO/vwSLGmrlX7FUGIGRrqPqPtpJIvKx5z+fQK07j3m8nRpIXtals7rukiijjC/J+atW2SO4U3Oo1w9iNpVwiYxFL7YgvS0fpEkmJL0hizQ4QGgfZ3zA7/22BZmNUHPt8xpEdNu2xK2iQJ2VwV9pgZpFF6IRajnLmIxcXU3Az1AS0CQZfEllKJ/dTgIBxmv3dlb2mLOx0GNKd2mwfjCqeXHQTwCEY2M9G/1NsTtQYWSMJ2L+3tPRorZHZKzW8BM91V4R+xqZe0INGou3vEIDsY4Ofw6PBpIFhZn2zzQhwWc8nOqF5Kq6BLjyIHywy83OzI0=;bbS+B6WCVOdO0wSDzkOKyA=="
 ---
 

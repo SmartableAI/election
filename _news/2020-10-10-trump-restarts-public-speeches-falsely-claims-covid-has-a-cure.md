@@ -3681,6 +3681,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Donald Trump: Mark Drakeford hits back after Covid retweet"
+    excerpt: "Fox News host Laura Ingraham tweeted it would be America's future \"under Biden\", with a link to a BBC news story reporting comments from senior Welsh doctor Frank Atherton. Mark Drakeford said many Americans would be \"absolutely delighted\" if the United States had similar Covid-19 levels to Wales."
+    publishedDateTime: 2020-10-10T01:37:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-wales-54482065"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08tvj7w.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "U.S. Agency Shows No Sign of Quick Action on Trump Social Media Petition"
     excerpt: "The Federal Communications Commission has given no indication it will move quickly on an effort by President Donald Trump to narrow the ability of social media companies to remove objectionable content and require new transparency rules."
     publishedDateTime: 2020-10-07T10:18:00Z

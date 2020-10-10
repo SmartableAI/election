@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
 type: article
 quality: 175
-heat: 6835
+heat: 6855
 published: true
 
 provider:
@@ -4261,6 +4261,22 @@ related:
     quality: 75
     images:
       - url: "https://cdn.theatlantic.com/thumbor/vADEJKAs1t4uy5B5-HYvH9C_G-s=/0x326:5734x3550/570x320/media/img/mt/2020/10/2020_10_08T012724Z_1572561296_RC21EJ9KLRMW_RTRMADP_3_USA_ELECTION_DEBATE_copy/original.jpg"
+        width: 570
+        height: 320
+        isCached: true
+  - title: "Kamala Harris’s Ambition Trap"
+    excerpt: "An American Journey, Kamala Harris talks about how, during her first run for office—for San Francisco district attorney, in 2002—she taught herself to campaign. The lessons were partly about logistics (carry an ironing board in your car—the ideal portable podium for ad hoc campaign stops)."
+    publishedDateTime: 2020-10-10T01:23:00Z
+    webUrl: "https://www.theatlantic.com/magazine/archive/2020/11/kamala-harris-female-ambition/616470/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616470/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616470/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/MvPabuIfgHsqNsRdmcYnUQMu1T0=/2x0:1558x875/570x320/media/img/2020/09/DIS_Garber_Harris_Thumbnail/original.jpg"
         width: 570
         height: 320
         isCached: true

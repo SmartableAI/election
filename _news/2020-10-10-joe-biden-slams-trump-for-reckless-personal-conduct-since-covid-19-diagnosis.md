@@ -139,6 +139,22 @@ related:
         width: 841
         height: 545
         isCached: true
+  - title: "Donald Trump Supports Outdoor Debate Idea So Joe Biden Can't Read Answers 'Off a Computer'"
+    excerpt: "\"Joe has a tendency to get the answers and read them off a computer for when he's asked questions,\" Trump said."
+    publishedDateTime: 2020-10-10T01:38:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1649128/donald-trump-debate-joe-biden-computer-outdoors.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Fact check: Joe Biden did not say he attended Delaware State University"
     excerpt: "Tens of thousands of social media users have been sharing posts that say Democratic presidential candidate Joe Biden lied about attending Delaware State University (DSU). This claim is false: Biden did not say that he attended DSU."
     publishedDateTime: 2020-09-30T15:37:00Z
@@ -590,6 +606,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Restarts Public Speeches, Biden Calls It 'Reckless'"
+    excerpt: "US President Donald Trump will give a public speech at the White House Saturday for the first time since testing positive for Covid-19, as he prepares a dramatic campaign trail return just three weeks before the election."
+    publishedDateTime: 2020-10-10T01:34:00Z
+    webUrl: "https://www.ibtimes.com/trump-restarts-public-speeches-biden-calls-it-reckless-3059629"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z
@@ -629,6 +659,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "a6gFdZSlt6jdesVz3sj9GGDQEpdaRvsmoU+iPVRYdKeM+Aefk9Gn8T1PpTD+Lp9dDR99S+OY52JccCnuCZN9zBN469u+ggAmiaBkbMvKcPHTr38BTmeUGgZ2h1j04zz2RbJipiUVAdA0GcM9aIU/r6e8BtZC9gcOJmgvcQP9Zc+1htWz7AGb2QkHash3kC0prHXdDEVmSEBc4j0qpNV4F+k9hmTsKFhPUdK4AW1f5obrNGwME9VFhSLgo8T2J+45/axhGBKXqLq4a/OE/Wb3cQioM7gZZzI25qeKtgGK81l9oraTT2etl/o/H8hLnHkY2P9ia+tvqaJgqhzoopSDi5XlqRw6Dm6sSs7ge0ckipk=;RhE3CwpeSX7PazQvDlqsEQ=="
+secured: "5dUwC8zS6MVnwjNGhOlfoYygDplKmpuxxOh4ZCdOkwTczHHN9bDSIHSW3J10iMZ/+VPwPL1gph6mBdi9xzpu7eBZoyT4xzYeFBSLw46KEzOEcnuZ1e1PVJwlJ+qwq3/PIvXMs5xwmHFNIFSao31uyw+ALIPOkv5UgF37AD5qtTGZIijjFSfTxdvmTQuFr1ewJUaQuLnBzdhjXFerX3e+dex53x5K8ZuIn6NUloMZQCvU2xihqogSpiPIEaYzzmnVbPVWlrYG4/LitfJDOws8wS2XnnwMABX1taZ5Y96rwwASvsjzUhd4/g3x9TDj61yrKgAFdF9VXqNJcWq4LRB+F1wg0gKbntQjKnS2XVaK/ypwAnR9+ltFj6Rc/lJY2xIT9noezURjDydkU7dR8hVZWa8QrfPkPZyymPWrjXFt/E0IbYve4n37s/ER6fmAHeBrb7c4ZIrr6Nm+nadIUDPRW2iPLH9dsaRiOu26FHYGLbFG7V+KBVHWIYy50uv6CX10jQAg7fS36dY3EU1G1BKY4A==;zm1pBv0o1m8gJptfT4dYCw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrap
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/mFC1sYjf2HtE6o-8Z641B3SProM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VG7IIGPOMRFKNPULBIBXSLHQ7E.JPG"
         width: 1200
         height: 706
+        isCached: true
+  - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
+    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
+    publishedDateTime: 2020-10-09T16:24:00Z
+    webUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 74
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Virus_Outbreak_Congress_13038.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "nzaEVF8DQh+JZrMyr8cuXg5pA9Wmu18ukVDz8fonusIGNoSD2cqQBxSQpa0Zg5QBvOdjHuWpMeW6yeJgX4aG6BPQgNXTaeMwUxi9ssX6Lua3RsmGJagwufrb6c1EWr3FM354zaiHpj81ZbZKm3AeAic0nLU/LPo+L8zgpLTpbrlGCcRI8nKbtaMKQ1YhZW5gxTW2ZHyKJElgu7VrDYjSGttSZFwq47vdm5mniDu3DZXO86q4KVJ5T5v/bnUKRsRJ21dQfQx/nL3OF6eiWN1q2kd8lmPm5Gc4RReFEZ9vGoAKW26OhVKRF/q5abwCMvemKBE8bv/vTjH+IwdVzwH1uuM8Cc0yTxHrY7Y5bJxMfTrLc2sIC/2kjDgM608k99rvS9+A0iDk4tjnxn+udTnobx8uh4UQYYZsa5xJJ+75PXgKOBBvj+LGr1JVIVPPnU3EYEH2hrUsevo8apLBiLxVPlwCMQ/JQaj418unYvdNiI93LMa33RyOVJGdc6bb3YPz/qyQiqo44+S9jiJFSVDoxA==;m/dEnB+YkXrmgKdGdMUbcQ=="

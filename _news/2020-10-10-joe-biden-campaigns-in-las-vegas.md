@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden Campaigns in Las Vegas"
-excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Las Vegas, Nevada. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Las Vegas,"
+excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a campaign event in Las Vegas, Nevada."
 publishedDateTime: 2020-10-09T22:17:00Z
-originalUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaigns-las-vegas"
-webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaigns-las-vegas"
+originalUrl: "https://www.c-span.org/event/?476748/campaign-2020-joe-biden-campaigns-las-vegas"
+webUrl: "https://www.c-span.org/event/?476748/campaign-2020-joe-biden-campaigns-las-vegas"
 type: article
 quality: 35
 heat: -1
@@ -128,6 +128,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "/sxCl0LOIApRB7tHXzSQFAcgRUarlq07+QOvs8iy6I8TXWhfIfzpf3dQ1OEiBK98MgjFXvE8FW9xiGQAWBFVlzsSI6SrgPh4cUtuxbVYWrqGbeKFMluVqf/T5ctbo/3WeEGJWinUi5R4ssJXG2eH2O7cTawt4fCuYwC7hS7eeweWaDWxfbyYKbcvm967WR4ClIiuTGIJ8zyAV6u75r2I7i5MGXiyeFawgPeR5SaaV+WhD/Z1cDG9m4u7xRA0yy8Tbx7jfylGA4i6BkXBl8HaacwP+Pn0aur82sqPT7LW480K38X1sUcHMWQAk45ExGdE7MClyZeba3M5SfpCE0VtZwtiTpwMUDbEXYHSocycZU0eLzyAtM/meJOIfz7eFuFBluXdXDkHoUfsqw/krughkIFmGgQwSjaapDHbuBFPKUljQzs5RpQzfB4JHLqt4GY2kgLdqGbXDnfgTGYqQzMXPJ5tQHnQKQdPeHDmbb7C6lwDHN0nK1mOjuPER73CUD6wiP5IfcwvMw5O0DXvCcTBwQ==;1POxlVEvWmmt7WTl1bhhwA=="
+secured: "qCuBs4AhN88UxU8hYCXPWVcTMS9bU5URPl5fD+p8D6HjscyTjxdXIJqHrbXQEEON8a2AczGS6NyzELvvgZB4YIWXt2995UNpauRlLlWeh+iCm8rCscuG6TZUXvYqVa3VJIn1bz8IBbfPkw0xMKd8lJneIWhh02LfhTY6UEojMF32Vbxwl/E5kZ+IOad56E3DJNJDqwH80nFA/WEoq9+f50MSh52PVlBZjVl08ljkyXv9dunV4HPq13hM0eWwqJJdfqg7uQ6pyKnnW3xNrjuwHh84uZQ0tq1X+bZoAbL3EmBbeJ9YketBmWwJH4dTLi/UioYvZCG7PQYxkcXgeBpedPahqmE3YV+atIfu7NNPgC+JcIrwlNl6gJZOwpUJoSFzWFHMUvFfmUPxKxP0FswGYVzMetvpLiD8Z1qKsyXQM98IZ6Vi5cnvfm7hPCBt0lIKbTxnxJQPfiArVaNS2O+pZKHfwKqakMONfMLgemyR6y1CeU1G+VICuhBoafPVwQxn6OvOs82p7NHMZ+0iw5IMyA==;VBQRo8DRgTnAs3kR+8WSzA=="
 ---
 

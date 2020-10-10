@@ -2519,6 +2519,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Donna Edwards: Trump Acts Like He's Running Against Barack Obama And Hillary Clinton, Not Joe Biden"
+    excerpt: "Former Democratic Rep. Donna Edwards marveled at President Trump focusing on Hillary Clinton's emails four years later during a conversation Friday with MSNBC's Nicole Wallace. \"Donald Trump today ran against Barack Obama,"
+    publishedDateTime: 2020-10-09T23:56:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/donna_edwards_trump_acts_like_hes_running_against_barack_obama_and_hillary_clinton_not_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 66
+    images:
+      - url: "https://assets.realclear.com/images/49/499335.jpg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Biden's Most Important Answer of the Debate"
     excerpt: "President Donald Trump’s performance at the first debate was bizarre, cruel, and at times, truly dangerous. For all those reasons, it probably had the net effect of making it likelier that Joe Biden wins the presidency — that’s certainly what the betting markets thought,"
     publishedDateTime: 2020-10-01T12:49:00Z
@@ -2547,7 +2561,7 @@ related:
   - title: "Tucker Carlson: Kamala Harris Cycled Through Various Identities To Win Arguments And Achieve Power"
     excerpt: "Tucker Carlson delivered a monologue on the vice presidential debate on his FOX News show Wednesday and said the media denounced Vice President Mike Pence as sexist while praising Sen. Kamala Harris for her smile."
     publishedDateTime: 2020-10-09T13:30:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html"
     type: article
     provider:
       name: RealClearPolitics
@@ -2559,6 +2573,6 @@ related:
         height: 822
         isCached: true
 
-secured: "tuL/t69Z48xZY+8FUe7AnANZ/7erBveZjuyU89X5b8ApyA2GgHLkHxN+wTNG1OLu/Q5Y16hlrw/wQJhpXnMCEPGWKYWUvkFuv2sv8ZCN0TdQpjVHZgztGwsCLEdbC2n6wkxoZp6L7QbOowgu/OyOmeTg2xM22V1JGrEaFnUokcqrLihaAWLqZ7DoU7UDVoB3XuaHCI8EAoa6H9cma0wvRkj2tNTGDyii/yQbr9z0lbu5OQBce/vG4mxLT7ns2XoVyxyWJwxCKynTL4CfZ0W0JoiT3m+dbXBPH7kmnWazbUdkr1HCBxqA+1vdrZqbJwn5Ry43MuP7AedJfb5Qb6coTgPpD0pgs2+NKKTwPypHKjg=;Q7obIfN5frgmpwLICTR2TA=="
+secured: "p9hExzQL3UINZna4AkCy2mAJem07TLhKWfH6S3N+fNfvu2EoA2+0uP4eViuQkey8eYQVW05S99XzEzpvFjeDvm6C37FFiOq644HE6rhfmsTGHCzLRhvC9hM52kiYgpbVqw8vGxBYp25p5rs0A/r26Q4c8FGwGG/iU0WbEeQLJ5tLIdTjtkTONHcvomKYVqNZJo46OphX0w64KDTjZkuPDhFYRi0VNt+XTYxz42XCxO2Bs2+rxhVtsSAZF0jRI9+ujwBHM8lc4h6mwl1q2LkibgqiL8VNC4Tt3v194b00CVo/Xj2TAiw+nbosWlu11UBJXF7dm0ba74PZI1dB7Y0v7QNyzf/Jp+6j5Uy25Vmn/6L9muNyCS/nQ+eo6DhAjf1DzH/sqXYfBH07JmqxEkvMhAK+OgadtCKjMhYj+1T9DJzqt3Roxad4l7VxpI4C93a2QCfLoZBjB/eG33b0xClJUU2DR8UoBMQsoMe+sQVZCSSSARhPY/19R6Wzf0HJwgQn3en+KNQtz38tO08KINCrnA==;gk1gh4MIjilQYlMU7bK4Kg=="
 ---
 

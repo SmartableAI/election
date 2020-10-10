@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Progressive Democrats are united behind Joe Biden but readying for an internal 'World War III' if he wins the election"
+    excerpt: "Trump term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
+    publishedDateTime: 2020-10-10T00:11:00Z
+    webUrl: "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
     excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
     publishedDateTime: 2020-10-05T20:50:00Z

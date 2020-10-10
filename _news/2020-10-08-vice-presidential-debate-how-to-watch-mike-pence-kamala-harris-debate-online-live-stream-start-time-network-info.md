@@ -4259,6 +4259,22 @@ related:
         width: 570
         height: 320
         isCached: true
+  - title: "Kamala Harris’s Ambition Trap"
+    excerpt: "An American Journey, Kamala Harris talks about how, during her first run for office—for San Francisco district attorney, in 2002—she taught herself to campaign. The lessons were partly about logistics (carry an ironing board in your car—the ideal portable podium for ad hoc campaign stops)."
+    publishedDateTime: 2020-10-10T01:23:00Z
+    webUrl: "https://www.theatlantic.com/magazine/archive/2020/11/kamala-harris-female-ambition/616470/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616470/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616470/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/MvPabuIfgHsqNsRdmcYnUQMu1T0=/2x0:1558x875/570x320/media/img/2020/09/DIS_Garber_Harris_Thumbnail/original.jpg"
+        width: 570
+        height: 320
+        isCached: true
   - title: "The Kamala Harris Dishonesty Insult"
     excerpt: "Kamala Harris’s own references to the Harris administration seem to make this reality even more obvious. Her radicalism should be an issue. His stands on its own, but hers is bold. If she were running at the top of the ticket,"
     publishedDateTime: 2020-10-09T19:36:00Z

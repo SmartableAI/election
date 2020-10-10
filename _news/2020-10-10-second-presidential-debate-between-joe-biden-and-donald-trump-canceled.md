@@ -2,23 +2,23 @@
 category: news
 title: "Second presidential debate between Joe Biden and Donald Trump canceled"
 excerpt: "Both campaigns have agreed to appear at the third and final presidential debate, a podium format set for Nashville on Oct. 22, the source said."
-publishedDateTime: 2020-10-09T23:16:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/5944269002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5944269002"
+publishedDateTime: 2020-10-10T00:26:00Z
+originalUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+ampWebUrl: "https://amp.cincinnati.com/amp/5944269002"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5944269002"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
@@ -1098,22 +1098,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534891778&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O0UH"
         width: 817
         height: 545
-        isCached: true
-  - title: "2nd presidential debate between President Trump and Joe Biden is officially canceled"
-    excerpt: "The second presidential debate between President Donald Trump and Democrat Joe Biden is officially off. The nonpartisan Commission on Presidential Debates confirmed Friday that the Oct. 15 faceoff would be scrapped."
-    publishedDateTime: 2020-10-09T22:50:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 133
-    images:
-      - url: "https://www.chicagotribune.com/resizer/zVANSDw8Joy4KBr8YgjilzqQco8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5XDAVX273RA2DG3ZQ3XNLWY53E.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Over 200 Retired Senior Military Leaders Endorse Donald Trump, Criticize Biden's Record"
     excerpt: "The endorsement comes after it was reported that Trump disparaged American soldiers killed in combat as \"losers\" and \"suckers.\""
@@ -3195,19 +3179,35 @@ related:
         isCached: true
   - title: "Polls show Joe Biden leading Donald Trump, but after 2016, should we believe them?"
     excerpt: "National and state polls continue to show Joe Biden leading Trump. In some cases, it's by a double digit margin. But how accurate are they?"
-    publishedDateTime: 2020-10-09T21:12:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5942922002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5942922002"
+    publishedDateTime: 2020-10-09T21:15:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
+    ampWebUrl: "https://amp.freep.com/amp/5942922002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5942922002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 84
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "2nd presidential debate between President Trump and Joe Biden is officially canceled"
+    excerpt: "The seco Donald Trump and Democrat Joe Biden is officially off. The nonpartisan Commission on Presidential Debates confirmed Friday that the Oct. 15 faceoff would be scrapped. The decision was made a day after the commission announced the debate would take place “virtually” because Trump had contracted the coronavirus."
+    publishedDateTime: 2020-10-09T23:14:00Z
+    webUrl: "https://www.dailypress.com/nation-world/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html"
+    ampWebUrl: "https://www.dailypress.com/nation-world/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 83
+    images:
+      - url: "https://www.dailypress.com/resizer/zVANSDw8Joy4KBr8YgjilzqQco8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5XDAVX273RA2DG3ZQ3XNLWY53E.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
     excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
@@ -4242,6 +4242,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "zAcjfGqkMse2FJU2spPPNMCJAFQeMl8E2RBgBburmhod3SyPsfPWVbP6ycNCvM1/HyPHus93mDssdichia1nfjr7Oi8tegujchkS0l2J2F1ADDgkGA42Fa83NnugOdLPvP0U1m4tZMEg1TtGHcYdtzZqK2X5fnmV8SwO2e7ZrAKClFrmVpxUGi4117r6zq3EbNpygbwVr5ZQ6hVAIwkt6TWkqM/Y0bTgvvh8f1+zWNRtN8FNzgYpQl1mmyJkEhiIv5ym54sQ3YKhoEznU6tlN8YrwGxQlQzITtPO1ylf9o2UdapWqcA+C+zOS8kkeOvJavJE2YLWipXLlrCVa6sEZAh/xW/wJZ5ndnr9fgHKPas=;E+1OBVB2vPYuNIdf+GqgJg=="
+secured: "NS4ONBTRfrHFSI8JRBhv1zpwE7sgvE0LOThvQSKpeHBKZ36hecR5Swg7dnkzzTEyltbljgqifrTaqhSUprf5h+dQYXcT9GMbQWtcS3/6tlM4qfzBkk6e7HdCbRAOV9Go5eUbUlgATq5Dl8Bj2mU+3tySUAPeFoDtnAKmABVxgOouMrfHdmVBqNR0UIGHMzrnIX1HilgHg5uLxgCqUNObVHsVjAEcRm+FvEZJSx/SsNB22uidcJSYk6GGpc3HWc3d6S2VuiffqtoCIlV4LVhdyuml7R+liXAfxCwsWh1i2YniTRivQJY1rezV+VdYGsR8iZtfv9ezq0nhIXS7dqAjqcukU1im3cHTVFLqqNlh9Og=;XCkwmXQ6G6O3n+yKznqjHQ=="
 ---
 

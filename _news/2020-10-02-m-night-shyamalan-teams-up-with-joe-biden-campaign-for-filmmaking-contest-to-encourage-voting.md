@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Progressive Democrats are united behind Joe Biden but readying for an internal 'World War III' if he wins the election"
+    excerpt: "Trump term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
+    publishedDateTime: 2020-10-10T00:11:00Z
+    webUrl: "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
     excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
     publishedDateTime: 2020-10-03T18:52:00Z

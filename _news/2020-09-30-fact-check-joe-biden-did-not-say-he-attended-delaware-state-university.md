@@ -143,6 +143,22 @@ related:
         width: 841
         height: 545
         isCached: true
+  - title: "Donald Trump Supports Outdoor Debate Idea So Joe Biden Can't Read Answers 'Off a Computer'"
+    excerpt: "\"Joe has a tendency to get the answers and read them off a computer for when he's asked questions,\" Trump said."
+    publishedDateTime: 2020-10-10T01:38:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1649128/donald-trump-debate-joe-biden-computer-outdoors.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Why Trump doesn’t want to talk about abortion rights"
     excerpt: "President Donald Trump doesn’t want to talk about abortion. After years of saying he would appoint “pro-life” judges and bragging that the landmark Roe v. Wade decision would be overturned “automatically” if he won,"
     publishedDateTime: 2020-10-02T05:04:00Z
@@ -593,6 +609,20 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-6.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump Restarts Public Speeches, Biden Calls It 'Reckless'"
+    excerpt: "US President Donald Trump will give a public speech at the White House Saturday for the first time since testing positive for Covid-19, as he prepares a dramatic campaign trail return just three weeks before the election."
+    publishedDateTime: 2020-10-10T01:34:00Z
+    webUrl: "https://www.ibtimes.com/trump-restarts-public-speeches-biden-calls-it-reckless-3059629"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"

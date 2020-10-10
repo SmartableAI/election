@@ -157,6 +157,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Why Joe Biden, Kamala Harris are dodging ‘court-packing’ question"
+    excerpt: "Democrats would much rather talk about the perceived unfairness of confirming Judge Amy Coney Barrett to the Supreme Court than what they might do about it if they win in November. “The moment I answer that question,"
+    publishedDateTime: 2020-10-10T01:11:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Why-Joe-Biden-Kamala-Harris-are-dodging-15633555.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 120
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/47/00/20082734/7/rawImage.jpg"
+        width: 2048
+        height: 1488
+        isCached: true
   - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
     excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
     publishedDateTime: 2020-10-08T16:10:00Z
@@ -407,6 +421,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0WppReDTS9GKmjtv4sczjCEJ8PJzB5waYtaqmaSOUZHDvD14Q0BFNG4vBxkek8Prix8Ns7tecGJacQhwJdnOWNCG4aK3xRBdjXH9D8e9PVUezg16lT5gmBavQ04EOizaDnJ0uIz6rJauYgOIjheRtGacEWt+Xqo5eJQoSw1rBk7ybmuc3YINsRCDCCeG39cBk9xvJ3lvh4ILQZoxtN7AgcUObqfvnkOPVqgZ0byJpilP0C4D42I42YJYqgp1xAccAOIxDI8frDRF5pquyWjs0DjOr3rMTJUBqTZhKa+hWhxGx8lGRea+l+r+p3ij0jLJ5YMhIlmGoKw4Zr2tm90jr7PnFg0krDAGUmW2l5PqciM=;JgwlX55h/lh6eDJt8MwCgQ=="
+secured: "DzJyELAyDXhyMXtOHkqz/geiXoy28KvufRUx7MRl+PNwauxBoMMj/6V6Pf3bqlZ2SJ0HaaqGfc782F/L9aDfTjUEoEDUh372gvbperspzEt2Tc7ptlMwYKzUmybY5v98LpplY0m0MPewZ3ohtmcmDlVErKpIT/TfBubW1Dm/IdqJonYuVoGthrd1UCg0L1UrOzi+2e4DCEmzKthP1M8oWPhqbaxQNW01QeKe/d4VXdGgGN92gNC5VAg+pq1SpSX/YwWxTztt5PvSZx2gv0AE6CSx3iDB1FRc9AgyQl/Q73/pqXb6v2NfPKiD6BOgEbL3tZlafnMi4mXGDKsPmr34uqebYrhfN9CAFdzkyZDlQKwXM/di+bctKiwEewqUD8LvuDP0ws5m6h82IGHQUoZeyYOqcbPnNxx2fidGXTZqy/WC0ZNVHoomzIVV4BiWsaKW/Z+p7TqrPqY4PQcge8JKfIjYoggtuNhDD6+5Yo7tQnSoFjsfu82VsOi0xcRk1AeYm1H5T9iiFqLUGLJILvNEdw==;NX4tTUYHjZlYngg7VlEBhg=="
 ---
 

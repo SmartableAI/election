@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Joe Biden Is Flirting with the Destruction of the Judiciary"
-excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to the constitutional order in modern American history."
-publishedDateTime: 2020-10-09T01:55:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.html"
-webUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.html"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
+excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to"
+publishedDateTime: 2020-10-09T04:01:00Z
+originalUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754"
+webUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754"
+ampWebUrl: "https://townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754?amp=true"
+cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/davidharsanyi/2020/10/09/joe-biden-is-flirting-with-the-destruction-of-the-judiciary-n2577754?amp=true"
 type: article
 quality: 85
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Townhall
+  domain: townhall.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/52/522082_5_.jpg"
-    width: 750
-    height: 523
+  - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
+    width: 650
+    height: 340
     isCached: true
 
 related:
@@ -75,6 +79,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/79e49bf7-b944-49eb-905b-4594b0fa8bc0/19832c56-70c3-4add-a268-662177528c18/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Viral clip shows Biden lowering his mask to cough in his hand"
+    excerpt: "Joe Biden on Friday coughed into his hand during a campaign stop in Las Vegas, Nevada."
+    publishedDateTime: 2020-10-10T01:13:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ym08idE2ua4/biden-lowering-mask-cough-in-his-hand"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg"
+        width: 1500
+        height: 844
         isCached: true
   - title: "Joe Biden doubles down on court packing: ‘You'll know my position’ after the election"
     excerpt: "Democratic presidential nominee Joe Biden is remaining silent on whether he supports a move by many progressives to expand the number of justices on the Supreme Court if the Democrats win back the White House and take control of the Senate in November’s elections."
@@ -136,6 +154,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "BpmhBpoUciLemoH77d5QJl3esZklq9AERslkzhRBaBa63W41Mak3ShxAuWcw4RzJq+iz1UQ0kLgJjvov4eqHu4mUdwkDrnNi6pIpCGHRO7W7cvBezIljhurCRPb8RuRUMty8om87NHn/9fdBgmrfm4c2hl9eV9SmG2ShVzCcOtxNmewfBkMWMs5fm00tip3ZqUe7JcFFNft6ISRJ2tx+aIb9ggcsSJtY67FIr+LNDuyWlVonjwBuWXU8NRUsJvXbjUsWSZO+r4TS9HulkPKLR1JEJOiF3LzE2sy/lhIAaAEx4PV2UIDELnhkzOEnGO3mzXH/6kOTtUsuSBJuOQAEDNald+AhY1zVZO+jGXMri3MOJuysPLjrph3leAmx0C2I2XGkblCzSppzWpokSHpb0ZtGupAZVeyeWZnXMY7GkrEnZfZt41brCfuxQzhz5MyZ5BEpSJe+QW7Cvqt7XJqwSuDtOxmd1WkfsvIO/lyBE/M2Txah+gHi+qT9IProwZMJizex/vF8EVTYuihyLCWWFA==;CWZoJky5uEsjEuJf/IqUPA=="
+secured: "xR1FhozQlJ3/IPliqgxsUbpqQQ0fqZh94bfpi+Pb0ZWcM643re0hwcyKKPEImwAqsb9Mpb6HHEnFQJrrRoGfHIZE9SfEfTbGb19AblZHryI05jUwVsyRrZaQTzrMDiLeIa1bKV9OHRByZaGlNrgXDrFE3HHK5f6KJWhWbqVmn0lI8Xhu1S+gu+4mKsTLTtKTM3wJt2vi8Fk9xb3mjVTHaMJ17RW9B35DlXudccqVP3ajbSvlRpgUVCDUHjSMEHj5KNhtdgyVqiPndU5LW1MOFwGIT2mFP4apYesr4Xw9ktHSBIxSe73nthVP04Ue+fFQhAec2LUb7dmVGAI29Iy99aq6Y2P8Y9G+iDXIOo+/9dA=;ItnNL7BOgM/lTS6TJGXglQ=="
 ---
 

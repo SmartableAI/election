@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-d
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Progressive Democrats are united behind Joe Biden but readying for an internal 'World War III' if he wins the election"
+    excerpt: "Trump term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
+    publishedDateTime: 2020-10-10T00:11:00Z
+    webUrl: "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
     excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."

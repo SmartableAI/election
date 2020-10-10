@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3468
+heat: 3488
 published: true
 
 provider:
@@ -2520,6 +2520,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Donna Edwards: Trump Acts Like He's Running Against Barack Obama And Hillary Clinton, Not Joe Biden"
+    excerpt: "Former Democratic Rep. Donna Edwards marveled at President Trump focusing on Hillary Clinton's emails four years later during a conversation Friday with MSNBC's Nicole Wallace. \"Donald Trump today ran against Barack Obama,"
+    publishedDateTime: 2020-10-09T23:56:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/donna_edwards_trump_acts_like_hes_running_against_barack_obama_and_hillary_clinton_not_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 66
+    images:
+      - url: "https://assets.realclear.com/images/49/499335.jpg"
+        width: 500
+        height: 375
+        isCached: true
   - title: "Biden's Most Important Answer of the Debate"
     excerpt: "President Donald Trump’s performance at the first debate was bizarre, cruel, and at times, truly dangerous. For all those reasons, it probably had the net effect of making it likelier that Joe Biden wins the presidency — that’s certainly what the betting markets thought,"
     publishedDateTime: 2020-10-01T12:49:00Z
@@ -2548,7 +2562,7 @@ related:
   - title: "Tucker Carlson: Kamala Harris Cycled Through Various Identities To Win Arguments And Achieve Power"
     excerpt: "Tucker Carlson delivered a monologue on the vice presidential debate on his FOX News show Wednesday and said the media denounced Vice President Mike Pence as sexist while praising Sen. Kamala Harris for her smile."
     publishedDateTime: 2020-10-09T13:30:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/09/tucker_carlson_kamala_harris_cycled_through_various_identities_to_win_arguments_and_achieve_power.html"
     type: article
     provider:
       name: RealClearPolitics

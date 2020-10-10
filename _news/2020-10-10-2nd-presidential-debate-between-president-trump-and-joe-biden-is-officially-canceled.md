@@ -1,31 +1,27 @@
 ---
 category: news
 title: "2nd presidential debate between President Trump and Joe Biden is officially canceled"
-excerpt: "The second presidential debate between President Donald Trump and Democrat Joe Biden is officially off. The nonpartisan Commission on Presidential Debates confirmed Friday that the Oct. 15 faceoff would be scrapped."
-publishedDateTime: 2020-10-09T22:50:00Z
-originalUrl: "https://www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html"
-webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html"
-ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
+excerpt: "The seco Donald Trump and Democrat Joe Biden is officially off. The nonpartisan Commission on Presidential Debates confirmed Friday that the Oct. 15 faceoff would be scrapped. The decision was made a day after the commission announced the debate would take place “virtually” because Trump had contracted the coronavirus."
+publishedDateTime: 2020-10-09T23:14:00Z
+originalUrl: "https://www.dailypress.com/nation-world/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html"
+webUrl: "https://www.dailypress.com/nation-world/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html"
+ampWebUrl: "https://www.dailypress.com/nation-world/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
 type: article
-quality: 133
+quality: 83
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daily Press
+  domain: dailypress.com
 
 topics:
   - Election
   - Joe Biden
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/zVANSDw8Joy4KBr8YgjilzqQco8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5XDAVX273RA2DG3ZQ3XNLWY53E.jpg"
+  - url: "https://www.dailypress.com/resizer/zVANSDw8Joy4KBr8YgjilzqQco8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5XDAVX273RA2DG3ZQ3XNLWY53E.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -2996,14 +2992,14 @@ related:
         isCached: true
   - title: "Second presidential debate between Joe Biden and Donald Trump canceled"
     excerpt: "Both campaigns have agreed to appear at the third and final presidential debate, a podium format set for Nashville on Oct. 22, the source said."
-    publishedDateTime: 2020-10-09T23:16:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5944269002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5944269002"
+    publishedDateTime: 2020-10-10T00:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5944269002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5944269002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
@@ -3199,14 +3195,14 @@ related:
         isCached: true
   - title: "Polls show Joe Biden leading Donald Trump, but after 2016, should we believe them?"
     excerpt: "National and state polls continue to show Joe Biden leading Trump. In some cases, it's by a double digit margin. But how accurate are they?"
-    publishedDateTime: 2020-10-09T21:12:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5942922002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5942922002"
+    publishedDateTime: 2020-10-09T21:15:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
+    ampWebUrl: "https://amp.freep.com/amp/5942922002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5942922002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 84
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
@@ -4246,6 +4242,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "m/AXgeISgTYqf6XbjfW8vmcyUXvG5yoWvafqf8TPhR3ut+w91YpSaFysVe5Np+QuFEG4I/ORGJkYs+qWHs0UHnTM7tQgY8Cf8hDhnnUwd8eFlyQxnjUz3rp6y9kxZofdixVfzHD3cpuIhCiKptUCm1wapCipKBLuJZUOqcQjCXWgx2DNZ+vwBg6e4qG3Edny8Ck5a1EvnoW+rTe7jKyHyIhzN4NG62LNSnqkrflKtugmvPbXPV1mIqVcq0dXCPaq8m8Pn50e//DbCZMnOzMpsojdWgf7+TwMwUL8Dm036VWS4Q07f7Qd3PGlb6SEktrEQZqPV3jZzcwfcM+SPn0GDvcdxgNArcaGWTCc0MQpMJ8=;1aC99z8B3f+TOAUNsEonjQ=="
+secured: "X6m+qrJYZ8OUdVljhbC7C7qDbYdT7qMPCMMWua4murkkWwH4lV1TOSE/XE8/XNfxVIX6U1yOseKWY9QZk2tgvkqVbdr3m510N4Ihb2kfZO0/UyhUerfphD2NcSV689FSxttDPNcu6OEbwBMasY+AUT2C615ivNqVxe/r+xA540dgmeJ/M3M9+QmiNpNxlTWAoxtJokyqXr7RccWM6HVqlITGqxqohVEJlTxMSssoEuy2M9+6v5s9PMxKangjTisq6TQ3foLt6dEA+S2uUzXBI+mAlbvQlMIkV+QEtyZkqUHZCOLmiIeFX3QZLSDmpbC5DyUYLzGjPkPt9nZ6e40xs9Vu5oz73Ol6Odpd8dwQrbI=;vWWPNqhZuQIsavUjwJEo5A=="
 ---
 

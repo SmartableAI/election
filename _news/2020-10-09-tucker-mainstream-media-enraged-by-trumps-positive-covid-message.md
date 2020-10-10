@@ -160,6 +160,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump says he's 'medication free,' details COVID-19 recovery in first on-camera interview since diagnosis"
+    excerpt: "“I wanted to leave after the first day,” Trump said of his stint at Walter Reed."
+    publishedDateTime: 2020-10-10T01:09:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hTY37mms_48/trump-medication-free-covid-19-recovery-tucker-carlson"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12856a10-0319-4812-9d69-e810b72a2daf/6a59da7e-173f-4a4c-ad67-6a6a7e4d061c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign keeping at ‘full speed’ as president fights COVID-19"
     excerpt: "The campaign is launching \"Operation MAGA,\" which features virtual events ahead of the VP debate, and resumes in-person events with Pence, members of Trump family."
     publishedDateTime: 2020-10-03T19:44:00Z

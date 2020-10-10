@@ -3663,6 +3663,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Donald Trump: Mark Drakeford hits back after Covid retweet"
+    excerpt: "Fox News host Laura Ingraham tweeted it would be America's future \"under Biden\", with a link to a BBC news story reporting comments from senior Welsh doctor Frank Atherton. Mark Drakeford said many Americans would be \"absolutely delighted\" if the United States had similar Covid-19 levels to Wales."
+    publishedDateTime: 2020-10-10T01:37:00Z
+    webUrl: "https://www.bbc.co.uk/news/av/uk-wales-54482065"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08tvj7w.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Trump Restarts Public Speeches, Falsely Claims Covid Has A Cure"
     excerpt: "US President Donald Trump will give a public speech at the White House on Saturday for the first time since testing positive for Covid-19, and will also hold a Florida rally next week in an attempt to relaunch his stumbling reelection campaign with only 25 days to go."
     publishedDateTime: 2020-10-09T21:41:00Z
