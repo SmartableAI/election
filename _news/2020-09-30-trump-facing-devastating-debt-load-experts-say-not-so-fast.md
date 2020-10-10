@@ -135,22 +135,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump Eases Back Into Work by Choking the Economy to Death"
-    excerpt: "The president has torpedoed stimulus talks, telling suffering Americans to bother someone else with their so-called problems."
-    publishedDateTime: 2020-10-06T21:35:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/5ac273d647083864d0b3be79/master/pass/Trump.jpg"
-        width: 2000
-        height: 1278
-        isCached: true
   - title: "Trump is stubbornly clinging to stunts to show all is well — even as his condition worsens: analysis"
     excerpt: "Writing for Vox, correspondent German Lopez slammed President Donald Trump for his ongoing series of stunts to prove that everything in the country is normal and there is nothing to be afraid of or criticize his government for — even as COVID-19 has made him very sick."
     publishedDateTime: 2020-10-05T15:45:00Z

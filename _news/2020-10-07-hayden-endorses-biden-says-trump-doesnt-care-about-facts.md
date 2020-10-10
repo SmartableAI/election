@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519940-hayden-endorses-b
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts?amp"
 type: article
 quality: 140
-heat: 900
+heat: 920
 published: true
 
 provider:
@@ -481,6 +481,22 @@ related:
       - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/20274049843913.jpg?w=1280"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Joe Biden slams Trump for 'reckless personal conduct' since COVID-19 diagnosis"
+    excerpt: "Biden’s sympathy for a COVID-stricken Trump is apparently over. Mr. Biden on Friday condemned Mr. Trump for “reckless” personal conduct after the preside"
+    publishedDateTime: 2020-10-09T23:29:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/9/joe-biden-slams-trump-for-reckless-personal-conduc/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/9/joe-biden-slams-trump-for-reckless-personal-conduc/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/9/joe-biden-slams-trump-for-reckless-personal-conduc/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 86
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/09/Election_2020_Biden_24551.jpg-19bcd_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds"
     excerpt: "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,"

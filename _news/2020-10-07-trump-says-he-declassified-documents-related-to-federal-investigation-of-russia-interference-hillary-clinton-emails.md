@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Eric Trump answers questions from NY investigators in examination of family business"
-    excerpt: "President Donald Trump's son Eric answered questions Monday from New York state investigators looking into his family's business practices. The office of New York Attorney General Letitia James confirmed that the video deposition took place as scheduled,"
-    publishedDateTime: 2020-10-06T13:35:00Z
-    webUrl: "https://www.cbsnews.com/news/eric-trump-deposition-new-york-investigators-family-business/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
+  - title: "Trump lashes out at Barr after realizing inquiry into Russia probe won't be public before election"
+    excerpt: "President Trump has ramped up his criticism of Attorney General Barr as he seeks to make the origins of the Russia probe a major election issue."
+    publishedDateTime: 2020-10-09T22:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/09/donald-trump-frustrated-william-barr-over-inquiry-into-russia-probe/5939328002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5939328002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5939328002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/06/17cd3855-485e-4dfc-aea1-bf33d733ce9d/thumbnail/1200x630/605201032786294968670388fc939ec5/gettyimages-1277456367.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/6fb9c6aa-6b4d-4d86-80c9-a44242a95e7d-GTY_1151036768.JPG?auto=webp&crop=5318,2992,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Acrimonious debate sparks calls for new rules to rein in Trump and questions about the format’s usefulness for voters"
-    excerpt: "Debate organizers pledged swift action to help “maintain order” going forward. One area of agreement? Something needs to change."
-    publishedDateTime: 2020-09-30T23:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/debate-trump-biden-commission/2020/09/30/3385ff64-0334-11eb-897d-3a6201d6643f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/debate-trump-biden-commission/2020/09/30/3385ff64-0334-11eb-897d-3a6201d6643f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/debate-trump-biden-commission/2020/09/30/3385ff64-0334-11eb-897d-3a6201d6643f_story.html?outputType=amp"
+  - title: "Donald Trump Eases Back Into Work by Choking the Economy to Death"
+    excerpt: "The president has torpedoed stimulus talks, telling suffering Americans to bother someone else with their so-called problems."
+    publishedDateTime: 2020-10-06T21:35:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBBGJPQCYEI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 957
-        isCached: true
-  - title: "Trump got a $21 million tax break for saving the forest outside his NY mansion. Now the deal is under investigation."
-    excerpt: "New York Attorney General Letitia James (D) is investigating whether the Trump Organization improperly inflated the value of Seven Springs estate."
-    publishedDateTime: 2020-10-09T12:48:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-got-a-21-million-tax-break-for-saving-the-forest-outside-his-ny-mansion-now-the-deal-is-under-investigation/2020/10/07/de84c1ba-ff6b-11ea-830c-a160b331ca62_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-got-a-21-million-tax-break-for-saving-the-forest-outside-his-ny-mansion-now-the-deal-is-under-investigation/2020/10/07/de84c1ba-ff6b-11ea-830c-a160b331ca62_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-got-a-21-million-tax-break-for-saving-the-forest-outside-his-ny-mansion-now-the-deal-is-under-investigation/2020/10/07/de84c1ba-ff6b-11ea-830c-a160b331ca62_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EF72L5QIAUI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 1079
+      - url: "https://media.vanityfair.com/photos/5ac273d647083864d0b3be79/master/pass/Trump.jpg"
+        width: 2000
+        height: 1278
         isCached: true
 
 secured: "aYGJaa9rnlnDgCw5GMmjkatTvZLnQ3XMUBKT/eqLbGMiaZep5qLPkJUss9QxHwB/aykINvdseBljbNMTxRwle9WQe0mAhOHulRpmBhIxwzCsScLHXGD0rQ8GL9r766zWLOX3EbNqG0fSFwTEhpBgY5wVGzwFhn+xk+3XE2nATrabzn+LLRCZjJ7wzmcIArP8UT4C0IBSY0emq7daRHApjVTTDUpRbqrnl5X6+5R8QFoC9BDdJXQAx/7XWeUGXILDob/MXf8XlcVUbaWtONMzhUOYvKxG5nSgGpZDcjMQLQp9Sj4Aeu310hMKbDgrFnGJXYHZUioMjAj93iCdFZCEX1yAiCnnBh1Z/xMaA69R3T0=;wcSt6jFreXv/QKzyFMNorg=="

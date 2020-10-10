@@ -1338,6 +1338,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nine coronavirus cases tied to Trump Minnesota rally"
+    excerpt: "Nine people who have contracted the coronavirus reported attending a Donald Trump rally in Bemidji, Minn., last month, state health officials said Friday, including two who were hospitalized. One of them remains in an intensive care unit."
+    publishedDateTime: 2020-10-09T23:16:00Z
+    webUrl: "https://www.politico.com/news/2020/10/09/trump-minnesota-rally-coronavirus-cases-428425"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/66/bb/49997abc449fb0bb0b7a32b99ae4/201009-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Meadows says White House stimulus efforts ongoing amid Trump's back-and-forth"
     excerpt: "White House chief of staff Mark Meadows said Wednesday morning that he and Treasury Secretary Steven Mnuchin were actively considering a stimulus measure aimed at distributing checks to Americans while providing aid to airlines and small businesses — further muddling the administration’s messaging after President Donald Trump appeared to abruptly call off coronavirus relief talks a day earlier."
     publishedDateTime: 2020-10-07T14:23:00Z

@@ -3,8 +3,8 @@ category: news
 title: "The Crises of America’s Sick Presidents, From George Washington to Donald Trump"
 excerpt: "The Founders didn’t anticipate how often presidential illness would become an issue"
 publishedDateTime: 2020-10-09T20:31:00Z
-originalUrl: "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815?mod=hp_featst_pos3"
-webUrl: "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815?mod=hp_featst_pos3"
+originalUrl: "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815"
+webUrl: "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815"
 ampWebUrl: "https://www.wsj.com/amp/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 640
     isCached: true
 
-secured: "m+F6COPmEzUfmlpws+rc0hzjdwu9/nesnz2YycVUthx0zUz5Tau+Zf64sB07vveUEjsgkWYiC1aDElD5/DDrH6KdkEwRBq2LKOzAXRDrZ8aJqvSZJbKPao9lKfh25p5Os3QrnrPNlUM3mODfXK4BjGsN1fzisD2/xetIhQ/Ryp4NGJlrfPcYjfpgtMNsAIRAywX34JrKOsMeFGF+0qNun0UFm3mVxnSWyb4wJEwlaKu4X71eNKG4ommOpUhPaxWjyK9biZgSvuinFWsocnrBCCeJRpQrT6N7XWhuww0ATts11dLfCAi7+z63pzya73O+avsjFRBoTwUEUgM4SNofwhKKfXcqmqpDIb2VQ/xorAU=;7qrwwGew6jugsgwBaDDOxw=="
+secured: "EZPwgX6FLvHzkfV3IgT+le7iALc7SPXVKjraIIO1vxqGUAUOqrN8/zm7K2ez2bZPGqnFE4dphcSSAPQGSbLvrWGsNNWzSuWH6DtbhomHGhsZv1Edi5bxZTYVGdMgx9Wd+9vdH/a4FCulaugc1MG4sDlbNqyMiXswdvqzXB2xGvGwWoWlhwceL3fh5AQ6qLYVRRKqhEK92GGmvNW1xZo+Mt6CgVr8t1UO4FdWvnvQLS4Sh+sgZ7Y2Jp88D0UHGqwDnhtFazxyFoLwEVu+0AxdqBrFVqd4Rc/cPN/7+ZUUkXzPW4S/gkShiBi1uvED8ttgx/6Lns7DW64gTVagsHR39SNsu0YNmN4i53TBg+Ag/Y0=;5Ie21iHeXZTGt/7jpAt+hA=="
 ---
 

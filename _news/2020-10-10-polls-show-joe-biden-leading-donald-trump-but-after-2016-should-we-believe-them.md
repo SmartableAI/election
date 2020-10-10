@@ -747,6 +747,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "2nd presidential debate between Biden and Trump canceled"
+    excerpt: "The second presidential debate between former Vice President Joe Biden and President Donald Trump was canceled Friday. The move comes one day after the Commission on Presidential Debates announced the debate would be held virtually,"
+    publishedDateTime: 2020-10-09T23:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/2nd-presidential-debate-biden-trump-canceled/story?id=73529017"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/2nd-presidential-debate-biden-trump-canceled/story?id=73529017"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/2nd-presidential-debate-biden-trump-canceled/story?id=73529017"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/debate-behind-gty-ps-200929_1601428591456_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -1083,6 +1099,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "2nd presidential debate between President Trump and Joe Biden is officially canceled"
+    excerpt: "The second presidential debate between President Donald Trump and Democrat Joe Biden is officially off. The nonpartisan Commission on Presidential Debates confirmed Friday that the Oct. 15 faceoff would be scrapped."
+    publishedDateTime: 2020-10-09T22:50:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-presidential-debate-canceled-20201009-ni47q4incjhaldblechfncguye-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 133
+    images:
+      - url: "https://www.chicagotribune.com/resizer/zVANSDw8Joy4KBr8YgjilzqQco8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5XDAVX273RA2DG3ZQ3XNLWY53E.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Over 200 Retired Senior Military Leaders Endorse Donald Trump, Criticize Biden's Record"
     excerpt: "The endorsement comes after it was reported that Trump disparaged American soldiers killed in combat as \"losers\" and \"suckers.\""
     publishedDateTime: 2020-09-14T15:24:00Z
@@ -1334,6 +1366,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1641857/joe-biden.jpg"
         width: 594
         height: 395
+        isCached: true
+  - title: "Next scheduled presidential debate between Trump and Biden has been canceled, according to reports"
+    excerpt: "The Commission on Presidential Debates canceled the upcoming debate, scheduled for October 15, which was changed to a virtual town hall."
+    publishedDateTime: 2020-10-09T22:56:00Z
+    webUrl: "https://www.businessinsider.com/october-15-presidential-debate-between-trump-biden-canceled-report-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/october-15-presidential-debate-between-trump-biden-canceled-report-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/october-15-presidential-debate-between-trump-biden-canceled-report-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/5f80e25abab422001979a936?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden senior adviser says campaign has 'work to do' with Latino voters"
     excerpt: "Joe Biden's campaign senior adviser Symone Sanders acknowledged Sunday that the former vice president's campaign has work to do to woo Latino voters with just over 50 days until the November election."
@@ -2958,6 +3006,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Second presidential debate between Joe Biden and Donald Trump canceled"
+    excerpt: "Both campaigns have agreed to appear at the third and final presidential debate, a podium format set for Nashville on Oct. 22, the source said."
+    publishedDateTime: 2020-10-09T23:16:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5944269002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5944269002"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"
     publishedDateTime: 2020-09-24T21:01:00Z
@@ -4178,6 +4242,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "C47hQjPWQC6e3GBbpeBpaJvIDmXC0Fz/aeKArKOE3g93mienuWPZXmEyuxXhWhwx162E1gPGXtxu3zoNkqg0uU+7ufLM+D9fry3AwEHMVbRWwNCPzXXhULnMhAOBqH8UkWPMA0cJMf8niXVjEDXkgGny1absta1MmmDM79JEzmKg7BAXtVFSOuQRqUtaYk78Stu/NPrQDr2l7m7M327xZyf2SVSDw2FRcHAHgCclyOu/NP8QaoYQ9T5sQSZKIu7YHrB4EsEBPPXthIIgYk22V5HNjZgW8I4dJQxXurPTgJ7CF0FBn8UtD5nyK5OL3HD23ChE+gI9jQk+I297Nzqfs5PntgRBGbSZwaUNQThSdTc=;qnMlEB/VRgDh5GELH/e9Lw=="
+secured: "r5tzUtY0xNUU/9Kg6QEdlhvqq/uekq6C8pRHqWIbRFNbgiDWfDr3Px7jMPyubV78DrhwfQB/cTCytUwwEUH4kf8YHY3DZdU3SepOU3FfRpDzjqCfkCovwK88egUspU6sc0N+EudgxSi1/rVSEDNclWZe6jPZSN3lNNnS5hqXaC0/5C56+rZy0b4GxoRR6pFDygi0YahYiaF2A2ZSZZFP67BqgkD+fwF1zMWjVkFft5m654D9xsnSmPh/kHkqaHun5KqIBKDcg1xbHKKMN9s7XaVjOAoQK2trcj3bsUV50V/9YL5mve8Mu8e/K9R0CUKlg2+W1WcTjOSmLZb/ieEApQCXMiAOYqe8zly01Nj3Y5gjZyuH8apMKe2F+r0wfrOpbQvgpbVlUNm+zuowEp9Abj18Lh8JyTttN7aioUz8r6r1QBnXhHEw0BH2ZE6n/vzaR6fWMCkQiOgNTKXizLA2dZY/C+zE+f/8qRQzprogOo0hmF5m3J6F5yu64nK4oeZX8TeEMXFNoeqHvSjCkjcBMw==;Jdxs2cjVy3SbL8RVf6B/nw=="
 ---
 

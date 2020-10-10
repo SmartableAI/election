@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 957
         isCached: true
-  - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
-    excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
-    publishedDateTime: 2020-10-07T02:17:00Z
-    webUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829"
-    ampWebUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/08/former-special-counsel-robert-mueller-who-led-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "8J4z4IVAYIJwWEb0y9WTPrRlNYwO1k8h5ulJ1i/hbZrkiqQdTXRnIXvMZck/qdL2bJVmgglMrkTMV0m9k7qzeFQZUqxWIcIpO5ldX45XyQqPN+VZ1Xu0HcxWRd5OMfwIzoivaniuanTf3bvv7sbPgQGry5L0vJvJSasBAucILc+63vUO9JaxS1qC2BRoOvPwroEaa08npm7Gi9wg5I2QzKThE5CKDbJq2rCqkFGzH/89OU+TvhrtX0eEMUzmzAlBRe23EMHcXgDkBoUMfQJxoXbHvf79sqpLnfLjEkCcfnCrN7HffxvihGEVgz04AHHYXV1AyTHWgTp7LQWHFPd09mjNJ8aa43OFhxzUjKbXtDDuwKuC0ygwf33MNGSxyvrofbJDMI9uOqGjdORDWtOwCj00OppFFNYsN8WZ0TyVtfTrQF9RVo+R3Of48QU0JnIv0CKwHzcHP2+xUM87fjMC5dxFfP3AGnMc4/08OAjC+AaO9+aemGNOKsCfxYzdEtB2xfhfOKmdFrnTdf3IHQNZqA==;woRl0cx2OUMnoajxb8MbRQ=="
 ---

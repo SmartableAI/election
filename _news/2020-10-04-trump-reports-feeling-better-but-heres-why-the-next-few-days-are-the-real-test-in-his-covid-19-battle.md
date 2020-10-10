@@ -2223,6 +2223,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump claims he got COVID from Gold Star event. Evidence shows he likely was already sick by then."
+    excerpt: "The president implied he caught the coronavirus during a ceremony for fallen soldiers. It’s more likely he exposed the military families to the virus."
+    publishedDateTime: 2020-10-09T23:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/investigations/2020/10/09/trump-suggested-he-got-covid-19-gold-star-event-experts-disagree/5936784002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5936784002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5936784002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/22a8cbd7-0a07-4a86-9414-a17ecd1caed1-Gold_Star_event.jpg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Dow futures decline as stock investors worry as President Trump says he tested positive for COVID-19"
     excerpt: "The stock market appeared headed for a sharp drop early Friday morning after President Donald Trump said he and his wife, Melania, had tested positive for COVID-19. Dow futures  w"
     publishedDateTime: 2020-10-02T05:47:00Z

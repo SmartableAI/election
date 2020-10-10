@@ -144,9 +144,9 @@ related:
   - title: "Weed stocks surge as Kamala Harris vows to decriminalize pot in debate"
     excerpt: "U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said marijuana would be decriminalized at a federal level in the United States under a Biden administration."
     publishedDateTime: 2020-10-09T15:12:00Z
-    webUrl: "https://www.reuters.com/article/cannabis-stocks-idUSKBN26U071"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U071"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U071"
+    webUrl: "https://www.reuters.com/article/us-cannabis-stocks/weed-stocks-surge-as-kamala-harris-vows-to-decriminalize-pot-in-debate-iduskbn26t3ih"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T3IH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T3IH"
     type: article
     provider:
       name: Reuters
@@ -204,6 +204,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Election_2020_Debate_08391.jpg-a495c_c0-328-5386-3469_s1200x700.jpg?21d902c28853cc6a5d5f724c7b428dcc0c259c8f"
         width: 1200
         height: 700
+        isCached: true
+  - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
+    excerpt: "The debate between Mike Pence and Kamala Harris lacked the name-calling and searing insults of the Trump-Biden showdown, but there were flashes of tension."
+    publishedDateTime: 2020-10-09T22:55:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
+    ampWebUrl: "https://amp.freep.com/amp/5896940002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5896940002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 89
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/0296cbe8-efeb-4ed5-95ac-85ff46138096-Salt_Lake_4.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris, Mike Pence clash over handling of coronavirus pandemic in vice presidential debate"
     excerpt: "Sen. Harris condemned what she called “the greatest failure of any presidential administration.” Vice President Pence defended the Trump administration’s handling of the pandemic."
@@ -376,6 +392,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Kamala Harris, Honest Abe and the Supreme Court"
+    excerpt: "Was Sen. Kamala Harris’ story at the vice presidential debate about President Abraham Lincoln’s 1864 Supreme Court vacancy correct? A: There’s no evidence that Lincoln said he delayed the nomination to let voters choose the next president,"
+    publishedDateTime: 2020-10-09T23:25:00Z
+    webUrl: "https://www.factcheck.org/2020/10/kamala-harris-honest-abe-and-the-supreme-court/"
+    type: article
+    provider:
+      name: FactCheck.org
+      domain: factcheck.org
+    quality: 55
+    images:
+      - url: "https://cdn.factcheck.org/UploadedFiles/lincolnportrait_thumb.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "K1oNQXZ5xYf4BWL8x1s+boPAyURjHWKTqo36KMdKlT8wJSZqti3c/Lef+PXkIP+7dCkoePoLB2+ET9te6m361bHC3dmeDtUqdeIzhLXSyVDQpjKAtsObRoBx6jraNYqHGQNTSnC3xuaMYoOG8MZeaEI7JJSpUtI+HTYHvLPgws2WJnbBGsHQo+aeH6rPU5M/8vX77YKwvCl0sE/QzLWcRmBqI2I9xn4MmRPXYqF2VXHB80A+jLeWsxnK+H/kmimlWw8EwuI86nu9VH4JktAMn8QH1y5h08v699y8ybzdR6Ig7aJite7jzzbqpFQ6uRgoZBNDFEw2dXFgcr7t6zsTKieFehU198dYO116eSBiAu6t0PTV6qVvHOZctClKXxL4kLtIsHUTg5jnqr54nX2Wm/9bLWlyaXOr+zq2Sxez1aOpt93wMp7Fr5R82QLzyIRt+mpIHwtzM/UiXUUfGBAw0xZFRicpW9lcyvd0kuSaR6sN51vh3lc5c2qxRDxW+C5z8jvWuBHKL2x2Dz3X/usqYw==;aNyIX+85nmlORx6SCt7ZzQ=="
 ---

@@ -1000,6 +1000,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "As Trump Pushes for In-Person Debate, Doctor Gives Him Green Light"
+    excerpt: "President Trump, down in the polls and confined to the White House, lashed out at his aides in an erratic interview and called for his political enemies to be indicted. Joe Biden, campaigning in Arizona,"
+    publishedDateTime: 2020-10-09T23:19:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/world/08elections-briefing-conley3/merlin_177994710_503b6161-ff30-45fd-9072-168fd45fec15-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Kamala Harris and the ‘Double Bind’ of Racism and Sexism"
     excerpt: "Reactions to her debate performance show not only the bias that women and people of color face, but the fact that for women of color, that bias is more than the sum of its parts."
     publishedDateTime: 2020-10-09T19:11:00Z

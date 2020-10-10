@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519691-pence-faces-tall-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_penceredeye_100820getty.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Pence performed pitifully in the VP debate"
+    excerpt: "Vice President Pence argued in Wednesday’s debate that there was no difference between President Trump and Democratic presidential nominee Joe Biden in how they handled or would handle the coronavirus pandemic,"
+    publishedDateTime: 2020-10-09T22:55:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/pence-performed-pitifully-in-the-vp-debate/2020/10/09/66833f1c-0979-11eb-8719-0df159d14794_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/pence-performed-pitifully-in-the-vp-debate/2020/10/09/66833f1c-0979-11eb-8719-0df159d14794_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/pence-performed-pitifully-in-the-vp-debate/2020/10/09/66833f1c-0979-11eb-8719-0df159d14794_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6KPKPMQJAUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
   - title: "Column: The fly on Mike Pence’s head during the vice presidential debate: A transcript"
     excerpt: "For about two minutes in Wednesday's vice presidential debate, a large, black fly planted itself on Vice President Mike Pence’s white hair. Here's what it had to say."

@@ -304,6 +304,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Pushed False Claims of Voter Fraud as Justice Dept. Moved to Investigate Matter"
+    excerpt: "Former department officials from both parties have warned that under Attorney General William P. Barr, the department is slipping into a partisan morass it had long sought to avoid."
+    publishedDateTime: 2020-10-09T23:08:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-justice-department-voter-fraud.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-justice-department-voter-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/trump-justice-department-voter-fraud.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09dc-justice1/09dc-justice1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
     excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
     publishedDateTime: 2020-10-03T06:10:00Z

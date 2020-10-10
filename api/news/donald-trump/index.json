@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-10-trump-lashes-out-at-barr-after-realizing-inquiry-into-russia-probe-wont-be-public-before-election.md",
+      "title": "Trump lashes out at Barr after realizing inquiry into Russia probe won't be public before election",
+      "excerpt": "President Trump has ramped up his criticism of Attorney General Barr as he seeks to make the origins of the Russia probe a major election issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/09/donald-trump-frustrated-william-barr-over-inquiry-into-russia-probe/5939328002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/09/donald-trump-frustrated-william-barr-over-inquiry-into-russia-probe/5939328002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/02/12/USAT/6fb9c6aa-6b4d-4d86-80c9-a44242a95e7d-GTY_1151036768.JPG?auto=webp&crop=5318,2992,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5939328002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5939328002",
+      "publishedDateTime": "2020-10-09T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race.md",
       "title": "NYT: Casino connections helped Trump engineer $21M windfall during 2016 race",
       "excerpt": "President Trump's tax records reveal that the president engineered a windfall of more than $21 million during his 2016 presidential run,",
@@ -108,8 +159,8 @@
       "title": "The Crises of America’s Sick Presidents, From George Washington to Donald Trump",
       "excerpt": "The Founders didn’t anticipate how often presidential illness would become an issue",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815?mod=hp_featst_pos3",
-      "originalUrl": "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815?mod=hp_featst_pos3",
+      "webUrl": "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
+      "originalUrl": "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
@@ -433,7 +484,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1065,7 +1116,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts",
       "featuredContent": null,
       "highlight": null,
-      "heat": 900,
+      "heat": 920,
       "tags": null,
       "images": [
         {
@@ -1223,7 +1274,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5000,
+      "heat": 5020,
       "tags": null,
       "images": [
         {
@@ -1325,7 +1376,7 @@
       "originalUrl": "https://www.cbsnews.com/news/eric-trump-deposition-new-york-investigators-family-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1514,57 +1565,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-an-embarrassment-trump-tweet-angers-pandemic-survivors.md",
-      "title": "'An embarrassment': Trump tweet angers pandemic survivors",
-      "excerpt": "Some survivors of COVID-19 and people who have lost loved ones to the pandemic are angry over President Donald Trump's advice not to fear the disease",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_0c3ded261d674c6b8dfbbb215da83719_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "publishedDateTime": "2020-10-05T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

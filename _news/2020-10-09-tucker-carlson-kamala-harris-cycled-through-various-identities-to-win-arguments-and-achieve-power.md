@@ -1924,6 +1924,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Organizers scrap next presidential debate after Trump said he wouldn't agree to virtual format"
+    excerpt: ""
+    publishedDateTime: 2020-10-09T22:31:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g5C6It9F6WQ/organizers-scrap-next-presidential-debate-after-trump-said-he-wouldnt-agree-to-virtual-format"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign says Pence expected to add more events as president deals with coronavirus"
     excerpt: "Vice President Mike Pence will step up on the campaign trail as President Trump deals with a case of the coronavirus."
     publishedDateTime: 2020-10-03T22:00:00Z
@@ -2063,6 +2077,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20281642189049.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Kamala Harris Gets a Fracking Education"
+    excerpt: "Shale drilling for natural gas has cut C02 emissions."
+    publishedDateTime: 2020-10-09T23:07:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-gets-a-fracking-education-11602283301?mod=opinion_lead_pos2"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-gets-a-fracking-education-11602283301"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-gets-a-fracking-education-11602283301"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-243140/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Kamala Harris’s Record Shows Courtroom-Honed Approach, Complicated Ideology"
     excerpt: "Kamala Harris’s record will be a focal point of Wednesday’s debate with Vice President Mike Pence. He has portrayed the Democrat as an emissary of the ‘radical left,’ but some Republicans say they have found common ground."
@@ -2525,6 +2555,6 @@ related:
       domain: washingtonexaminer.com
     quality: 63
 
-secured: "dFQiyVawqGoiayyMmCxWnql3VibFzMhneXRvrTnqhi2R7eUGG6ZS3VSQM1NkRoDrZuKQ/Dngki103HOMYefm2w8mcKp021Ebj44fDFp76o6aW6FsRrz0cueqwIZryMrCyMow2P5aoPX4zHvuAyCmiTwJ/UppF3K4aemZckqDwJcVK3FhHhLwTU42+WCL2uizcAqwZYRBrUjU9yxUK5qcb6XMsGsMC4QAnJZ3O7xqhcYbj9vmKAueM3voG4lxpfByCC30jsHD4NfLgL3W5ZdvSTQ5X6LvcLzfXWY4hwlg8BHRiVK3GPemQ8FzPpdfL8m75kI86SR+huWiJ+RafrF6rbSvz4cAehiFNIv1diftGLA=;TAHiRaUeQAIPGnvb0juH0g=="
+secured: "QcN8LRSQW+rLVJDYEcJ5hIt2C52IOAHLzKYRzMmLdlieHea+mKKhUv7E0UZWUkodCozokmIksdG8T4pyYwOlDMydY5NBc5GUIteaG43NZG5Uw9XwgWytgbzYkshDzEPickRH2UKcBIdiwGkc7HFGfpWVvPHeqwbZpDomgr2jEWO/xc1cxSoiYFQK2u4ICAu4l+9yBKwh6rTlPIct12msMemGqdWuInTl/jBjLHOqrcgljHOyT+P4+1D98Ui1JjrLOhaVcBwHoL+Fmst+2167BCoTTxACagGgwkX2aFoCg/XyektlZxnZnOTi/kAMOSYLZVj6jvJyTfQLUrS2q4RFbXi0+/a7Pq4J486QYOEdcy9IImFxUYXOoVbafDJkJV7IPzdiEGkJ3Ydnb5LF04H/4JDYn/p/B++bU8tApDIjWBdLDQBEaojKuBEmHd+PvZTX2xaGkVibeGonaVncBlBoxu3ippVq9Z1Z6UsVfOJCJl/BxFOBUXtqUgKIIFgqxEnCMN9CIZZcSeauNlHI4CJOIg==;Vs0Y7g9g/tqb5bZIwrB7Ug=="
 ---
 

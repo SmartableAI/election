@@ -119,6 +119,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Joe Biden Campaigns in Las Vegas"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Las Vegas, Nevada. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-09T22:17:00Z
+    webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaigns-las-vegas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "vFcYyuB8wQvYzIVvfCLQFjShIYGusd4awdViq1opjfFMyvBofbPn+XL2dPa5QE4tarwqmA2j15DGgKods40zbrx+7+Dwmzzk/v3WLPhx3FeKyX/ZuIgJ537ftcl5CUBLDhQQH/KXECL+aSn9oKorJ0EjUiSsweMs3jbif8WEjOOqtXwGh69fAFdyqOaGq1rYRYzrEABUIIHy+KrsBBOoKtir8rg8UBi3pUP0jpnmFrKKiVG7Y4TnmMbKb+GJg64fhl57E+UwO5F5tROiXkyq5WFATetq+jbw803rdUIurNpjGGZoeSbaO+g1g15A9pcdCSwztfhuYAp3ct1pYu91sTu1iimpFUgfl/3XfJBbH5m4Jk80CvW9pLSKSTXbMlo7IoJLpc9ZSYKqWQULGy/6q4S0p17VyFqgmEpd6aVykeN8NhlMWfg6jR06sF94vHmxZulDpzvRh0u9OrAZIYK4d5ox2B7SLzJt5pLoNIRvso1SQTNvUuYyqVWDlgiTfHmGKOswbig6EpUrCCQV1E9C+g==;GyKQKmsnDjSUmVy4GK1L7w=="
 ---

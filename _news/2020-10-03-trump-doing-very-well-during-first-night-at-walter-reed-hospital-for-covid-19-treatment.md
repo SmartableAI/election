@@ -304,6 +304,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Pushed False Claims of Voter Fraud as Justice Dept. Moved to Investigate Matter"
+    excerpt: "Former department officials from both parties have warned that under Attorney General William P. Barr, the department is slipping into a partisan morass it had long sought to avoid."
+    publishedDateTime: 2020-10-09T23:08:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-justice-department-voter-fraud.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-justice-department-voter-fraud.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/trump-justice-department-voter-fraud.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09dc-justice1/09dc-justice1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump tries to prove he's back in fighting form in freewheeling Fox Business interview"
     excerpt: "President Donald Trump returned to form on Thursday morning, engaging in a freewheeling, 55-minute interview on Fox Business in which he made bold claims about his health and coronavirus in general just days after announcing he had contracted the deadly disease."
     publishedDateTime: 2020-10-08T16:28:00Z

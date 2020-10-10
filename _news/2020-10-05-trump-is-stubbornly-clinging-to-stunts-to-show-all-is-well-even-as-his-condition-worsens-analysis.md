@@ -141,22 +141,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump Eases Back Into Work by Choking the Economy to Death"
-    excerpt: "The president has torpedoed stimulus talks, telling suffering Americans to bother someone else with their so-called problems."
-    publishedDateTime: 2020-10-06T21:35:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/5ac273d647083864d0b3be79/master/pass/Trump.jpg"
-        width: 2000
-        height: 1278
-        isCached: true
   - title: "Trump Facing Devastating Debt Load? Experts Say Not So Fast"
     excerpt: "President Donald Trump reportedly must pay back more than $300 million in loans over the next four years, raising the possibility his lenders could face an unprecedented situation should he win a second term and not be able to raise the money: foreclosing on the leader of the free world."
     publishedDateTime: 2020-09-29T21:05:00Z

@@ -139,6 +139,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Sets Big Events for WH, Florida, Restarting Campaign"
+    excerpt: "President Donald Trump is looking to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T23:24:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "nakvq7GOvSBB2sqwp/c8Rdtk8LEqhP0PuhkJYjRwDwRXL+NwUm5ITTvJ0by24UaLwa1oReYLKg3SZFYIlnT3Eyt9Azpj27RgmYXg7g8gK8UpXQVEaTNEc/nHIGlpL3NvQRNbUgrrOqRSg7D6yxbm2wxse85as4fY4anSxCvMEUhNeARqqNEn1tVde4w2jWoAjqCH0A2K0ZhtFkhm/myDAx1SusVoyKp4zIjBULSbSw01XpCvjXsv4jBqRSRChs/EgvWiDO+zmeGSEJsMF9Ul9umlq88ujfCRXDqlv4vjnDg++QGt/cvBN9gkepbzFLqdgWtfK8xrPSy5pocQrLHUCdQjS2Xt0FbkIUwzQ29A43nRByG9OYEg8dOdwL7w59PykiQEZf91300bwGurqu8BV+pc7h5TIBjPwR1pyxRsoQObLHA4UIxn2M0lRtTcw5xT6c8qr+G5n0g0GkmYeCpcN5yYS/WoXqy0q/ckx3oGXS5/uGTUs0JZq8J7ulSLoMHOfZ03CL7bTW40Vgt39h54XA==;0wpQQMQtkB7dVnSQnsi3rA=="
 ---

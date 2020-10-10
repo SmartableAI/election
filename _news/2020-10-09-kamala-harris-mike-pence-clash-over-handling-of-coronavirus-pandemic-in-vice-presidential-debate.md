@@ -141,9 +141,9 @@ related:
   - title: "Weed stocks surge as Kamala Harris vows to decriminalize pot in debate"
     excerpt: "U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said marijuana would be decriminalized at a federal level in the United States under a Biden administration."
     publishedDateTime: 2020-10-09T15:12:00Z
-    webUrl: "https://www.reuters.com/article/cannabis-stocks-idUSKBN26U071"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U071"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U071"
+    webUrl: "https://www.reuters.com/article/us-cannabis-stocks/weed-stocks-surge-as-kamala-harris-vows-to-decriminalize-pot-in-debate-iduskbn26t3ih"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T3IH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T3IH"
     type: article
     provider:
       name: Reuters
@@ -217,6 +217,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Election_2020_Debate_08391.jpg-a495c_c0-328-5386-3469_s1200x700.jpg?21d902c28853cc6a5d5f724c7b428dcc0c259c8f"
         width: 1200
         height: 700
+        isCached: true
+  - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
+    excerpt: "The debate between Mike Pence and Kamala Harris lacked the name-calling and searing insults of the Trump-Biden showdown, but there were flashes of tension."
+    publishedDateTime: 2020-10-09T22:55:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
+    ampWebUrl: "https://amp.freep.com/amp/5896940002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5896940002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 89
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/0296cbe8-efeb-4ed5-95ac-85ff46138096-Salt_Lake_4.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "\"SNL\" Gives Sneak-Peek Of Jim Carrey As Joe Biden, Maya Rudolph As Kamala Harris"
     excerpt: "Ahead of tomorrow's 'Saturday Night Live' season premiere, the show shared a teaser clip featuring Jim Carrey and Maya Rudolph as Joe Biden and Kamala Harris. S.N.L is returning tomorrow night for its first live episode since the start of the COVID-19 pandemic in March,"
@@ -373,6 +389,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Kamala Harris, Honest Abe and the Supreme Court"
+    excerpt: "Was Sen. Kamala Harris’ story at the vice presidential debate about President Abraham Lincoln’s 1864 Supreme Court vacancy correct? A: There’s no evidence that Lincoln said he delayed the nomination to let voters choose the next president,"
+    publishedDateTime: 2020-10-09T23:25:00Z
+    webUrl: "https://www.factcheck.org/2020/10/kamala-harris-honest-abe-and-the-supreme-court/"
+    type: article
+    provider:
+      name: FactCheck.org
+      domain: factcheck.org
+    quality: 55
+    images:
+      - url: "https://cdn.factcheck.org/UploadedFiles/lincolnportrait_thumb.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "A9SHbkPuDPbgZOVJbKOx8bM1NlV5wJjJ4X73g0aoKC9L45vZNuWvYmDzzqTcBksWsonfZtnWl+hW9DZarB+n3zpC6XZhqIeIk0i/sVg1E892HVz4eVssYBv+WBY9VQEt3sCUefXdUk70r7WxdCCIcY/saf+m+53GraxZzpgNUhzm7jYx1QfdZg3Dakd6+eCtIFoP8dIIcmUiNUlResDcNHQoPVoM22MKVJ5sPy/MRL1ytsoC2LJqw0V7HWgdG2kHdnrX+y9DCHyyzZDeIeCt36c3GyVGekufX6VupqBsA++nKcMmv8uokxHqGDlfFYiKebOxK2Z1rcT6z2dhCBILzTgBYcJWuPOy6KIrioiV8YY=;ZsUCLORRISn0GSBShh2nOg=="
 ---

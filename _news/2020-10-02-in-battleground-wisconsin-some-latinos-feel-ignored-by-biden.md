@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N1MZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N1MZ"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -123,6 +123,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Joe Biden Campaigns in Las Vegas"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Las Vegas, Nevada. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-09T22:17:00Z
+    webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaigns-las-vegas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "F36SSMeJpJGsW5L/xOO2v6/ELulYaXurwl9vVE//1ymjy14FaFQoo3d4hqzRyBoC7ghYiOlYeMO5o2PO3/xiCFz5HaZzFXRFNYAdPgG4Gqgw8ef8YEHUPYefaNYy8/Xt6SyRtAiMXj3si8JcgPTWOfgoal3W471TBgLQqxeLOz+MTu3pFeDs/RHUeeAjoEj9WwjJykkaQ3ZAcEqPEgnPDpSZkgwUFWCuaIkfj4OET+kZhyU6tfVQespS5RRg3FS0bFVqjQ2AuSg2544uQx6eFAmy5FbXDWxN+c+S0HZH8fYVtBewIF9wTv5M105FXHnKOUGNDYnLLO4NoghEKY/0Lxtv4CIUYivbeNeh+nGGBY4=;srEXtDjSW6OXV32n57cSHQ=="
 ---

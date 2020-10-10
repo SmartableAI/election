@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/eric-trump-deposition-new-york-inve
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
 type: article
 quality: 118
-heat: 178
+heat: 158
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EF72L5QIAUI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 1079
-        isCached: true
-  - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
-    excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
-    publishedDateTime: 2020-10-07T02:17:00Z
-    webUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829"
-    ampWebUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/08/former-special-counsel-robert-mueller-who-led-the.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "fpOUeogLposeGQAQJJEAmbG8p80+T4M+IuOdm+SjGFyju6a6y8BHZEGFdv/GcUkqBNOX22zT0iKMZDW6061EUojPX/1egVG+BYJOB6AFmGabQWwGqs/mYEB8lxeFThtu2E++Hy9hfHzKduc8yO2aJQlhQhdjIuNlTgy5gNOVMlzGCmrg0SJjEReRFiVB7bSsq7QBE4tcRQGC7m6eoil36tMTDwS/fQyslq+GpzsUA4owqHNw88FMEhS9eWqacPwgT3CEsCjiIeM8dgmEk2HkQmRuSXaxqlSvMcUi/Lk7iuIxSYPGnBtnEr8He9RpMpY38YAQVpwga8jKfzyo5XG3DutMA9vUaLkpsRB46bkuXHI=;bwSdNg1GCCXnCQl7cGqr6w=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 1943
+heat: 1963
 published: true
 
 provider:
@@ -1000,6 +1000,22 @@ related:
       - url: "https://static.politico.com/a8/c6/99f6ce9748a8a9ad7ec4183d6b38/gettyimages-1279070488-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "As Trump Pushes for In-Person Debate, Doctor Gives Him Green Light"
+    excerpt: "President Trump, down in the polls and confined to the White House, lashed out at his aides in an erratic interview and called for his political enemies to be indicted. Joe Biden, campaigning in Arizona,"
+    publishedDateTime: 2020-10-09T23:19:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/world/08elections-briefing-conley3/merlin_177994710_503b6161-ff30-45fd-9072-168fd45fec15-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Kamala Harris and the ‘Double Bind’ of Racism and Sexism"
     excerpt: "Reactions to her debate performance show not only the bias that women and people of color face, but the fact that for women of color, that bias is more than the sum of its parts."

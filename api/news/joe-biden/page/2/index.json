@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-30-biden-hes-the-racist.md",
+      "title": "Biden: 'He's the racist'",
+      "excerpt": "During the first presidential debate, President Donald Trump claimed he ended racial sensitivity training because it was \"racist\" and Joe Biden responded that Trump is the racist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/biden-he-s-the-racist-92828741868",
+      "originalUrl": "https://www.nbcnews.com/video/biden-he-s-the-racist-92828741868",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden_trump_racist.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92828741868",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92828741868",
+      "publishedDateTime": "2020-09-29T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-joe-biden-tweets-joke-mocking-earpiece-and-drug-allegations-with-photo-of-headphones-and-ice-cream.md",
       "title": "Joe Biden tweets joke mocking 'earpiece' and 'drug' allegations with photo of headphones and ice cream",
       "excerpt": "\"I’ve got my earpiece and performance enhancers ready,\" Biden wrote on Twitter with a photo of tangled earbuds and a pint of ice cream.",
@@ -1503,57 +1559,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-the-note-biden-squares-scranton-up-vs-park-avenue-as-in-person-voting-begins.md",
-      "title": "The Note: Biden squares Scranton up vs. Park Avenue as in-person voting begins",
-      "excerpt": "Biden was not and is not the candidate Trump thought he would be running against. Part of what he brings to the campaign's final stretch will be where he is from.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
-      "originalUrl": "https://abcnews.go.com/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/biden-2-rt-er-200917_1600388645705_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-biden-squares-scranton-park-avenue-person-voting/story?id=73079588",
-      "publishedDateTime": "2020-09-18T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
