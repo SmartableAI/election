@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5874449002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002"
 type: article
 quality: 116
-heat: 156
+heat: 136
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's condition 'very concerning' over past day, official says on day of mixed messaging"
-    excerpt: "Trump remained at Walter Reed hospital Saturday after he and first lady Melania Trump tested positive for COVID-19 and were experiencing symptoms"
-    publishedDateTime: 2020-10-04T00:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/trump-doing-very-well-says-white-house-physician-sean-conley/3607711001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3607711001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3607711001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/6c05a9a9-6a2c-48db-93b6-701f4f6eb42d-AFP_AFP_8RB43N.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "WH Chief Of Staff: Trump Improving But Doctors Were 'Very Concerned'"
     excerpt: "White House Chief of Staff Mark Meadows said Saturday Donald Trump's health, including a fall in his blood oxygen level, had left the president's doctors \"very concerned\" but that he had improved and there was never a risk he would have to hand over power."
     publishedDateTime: 2020-10-04T05:42:00Z

@@ -1517,6 +1517,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Biden has immigrants, advocates hoping for reversal of Trump's border policies"
+    excerpt: "Immigration advocates and even some Central Americans mulling entering the U.S. are reportedly rooting hard for a Joe Biden victory in November, encouraged by the Democratic nominee's pledge to dismantle President Trump’s border policies."
+    publishedDateTime: 2020-10-10T05:34:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_u6bGJtv3OM/biden-has-immigrants-advocates-hoping-for-reversal-of-trumps-border-policies"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Live Updates: 2020 presidential race heats up, Trump suggests he might hold weekend rallies"
     excerpt: "The 2020 presidential race is heating up after the first vice presidential debate between Vice President Mike Pence and Democratic challenger Sen. Kamala Harris, D-Calif., at the University of Utah in Salt Lake City on Wednesday."
     publishedDateTime: 2020-10-09T07:37:07Z
@@ -2070,7 +2084,7 @@ related:
   - title: "Kamala Harris Gets a Fracking Education"
     excerpt: "Shale drilling for natural gas has cut C02 emissions."
     publishedDateTime: 2020-10-09T23:07:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harris-gets-a-fracking-education-11602283301?mod=opinion_lead_pos2"
+    webUrl: "https://www.wsj.com/articles/kamala-harris-gets-a-fracking-education-11602283301"
     ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-gets-a-fracking-education-11602283301"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-gets-a-fracking-education-11602283301"
     type: article

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Campaigns in Las Vegas"
 excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a campaign event in Las Vegas, Nevada."
 publishedDateTime: 2020-10-09T22:17:00Z
-originalUrl: "https://www.c-span.org/event/?476748/campaign-2020-joe-biden-campaigns-las-vegas"
-webUrl: "https://www.c-span.org/event/?476748/campaign-2020-joe-biden-campaigns-las-vegas"
+originalUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaigns-las-vegas&ICID=ref_fark"
+webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaigns-las-vegas&ICID=ref_fark"
 type: article
 quality: 35
 heat: -1
@@ -128,6 +128,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "qCuBs4AhN88UxU8hYCXPWVcTMS9bU5URPl5fD+p8D6HjscyTjxdXIJqHrbXQEEON8a2AczGS6NyzELvvgZB4YIWXt2995UNpauRlLlWeh+iCm8rCscuG6TZUXvYqVa3VJIn1bz8IBbfPkw0xMKd8lJneIWhh02LfhTY6UEojMF32Vbxwl/E5kZ+IOad56E3DJNJDqwH80nFA/WEoq9+f50MSh52PVlBZjVl08ljkyXv9dunV4HPq13hM0eWwqJJdfqg7uQ6pyKnnW3xNrjuwHh84uZQ0tq1X+bZoAbL3EmBbeJ9YketBmWwJH4dTLi/UioYvZCG7PQYxkcXgeBpedPahqmE3YV+atIfu7NNPgC+JcIrwlNl6gJZOwpUJoSFzWFHMUvFfmUPxKxP0FswGYVzMetvpLiD8Z1qKsyXQM98IZ6Vi5cnvfm7hPCBt0lIKbTxnxJQPfiArVaNS2O+pZKHfwKqakMONfMLgemyR6y1CeU1G+VICuhBoafPVwQxn6OvOs82p7NHMZ+0iw5IMyA==;VBQRo8DRgTnAs3kR+8WSzA=="
+secured: "elqS3osQwe4SleyRjjQtWuIDj+eplf5+2Cu/rYaA3cODiJp9+jpd+50K9SGkSktvJUKeaIaAZ1idXjq/0v+hNiHHb8SVIe2O3h1qOs3a06fuuWbwMqSziQVfctUjout+S3rhQEX7s3Y+KQXZOk39vidfItdWiZGDDVXJf5n6iAFOPDamqMf6mRuYqGm8dWJJjOGYAT2BM4C9USTnbY0b+T5E/d2QLSfLD9dG0mukx8dD0CVrdY0bQ68ywiYpKQjk4vlRM77Fvl/CO9ycXrFFZWra2K+FtW6I2kfMGY7llR8Iyr8JH/rxXZ48GrPVWoV+bQvLXlmClRD5EsYZv06NFvBG4/oySXy3PXluNXvTpu0imF3Ic2RLxRI0uJv67EJpYXaC3+WuXR8VabNkK3VGljaLMk+eMKCQVrfq/Ad23jRC0+n5EhIQGmmjyBYUa3I8smp6bI7VBqrVFChAYXdxMUVy853Igs7fDRqeDZEC3fWke859CelANzJCuxnKOXy6wT9uep4CH9xEiaLUjKktZQ==;/O13UihjVt2T+9Vb0nLzBw=="
 ---
 

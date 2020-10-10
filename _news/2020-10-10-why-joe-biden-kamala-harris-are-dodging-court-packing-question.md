@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-10T01:11:00Z
 originalUrl: "https://www.houstonchronicle.com/politics/article/Why-Joe-Biden-Kamala-Harris-are-dodging-15633555.php"
 webUrl: "https://www.houstonchronicle.com/politics/article/Why-Joe-Biden-Kamala-Harris-are-dodging-15633555.php"
 type: article
-quality: 120
+quality: 130
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://s.hdnux.com/photos/01/14/47/00/20082734/7/rawImage.jpg"
@@ -155,6 +156,38 @@ related:
         width: 856
         height: 545
         isCached: true
+  - title: "Video of 11-year-old dressed as Kamala Harris goes viral"
+    excerpt: "Kamala Harris showed some young girls of color they can be represented on the nation’s highest political stage too."
+    publishedDateTime: 2020-10-10T04:17:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/kamala-harris-makes-debate-history-inspires-girls-color/story?id=73505162"
+    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/kamala-harris-makes-debate-history-inspires-girls-color-73505162"
+    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/kamala-harris-makes-debate-history-inspires-girls-color-73505162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-03-vp-debate-gty-jef-201007_1602126010401_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden has spent $500 million on ads this year as he seeks the presidency"
+    excerpt: "Joe Biden's campaign has spent over $500 million on TV, digital and radio ads this year. Biden's campaign has opened its checkbooks to target voters through ad buys in key states such as Ohio, Iowa, Pennsylvania,"
+    publishedDateTime: 2020-10-09T22:40:00Z
+    webUrl: "https://www.cnbc.com/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 122
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106737489-1602243862399-bide.jpg?v=1602243936"
+        width: 1892
+        height: 1262
+        isCached: true
   - title: "Video Resurfaces of Kamala Harris Saying She Wants to Ban Fracking After Saying Biden Will Not During VP Debate"
     excerpt: "\"There's no question I'm in favor of banning fracking,\" Kamala Harris said in video footage that resurfaced on social media Wednesday."
     publishedDateTime: 2020-10-08T04:21:00Z
@@ -219,6 +252,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice presidential debate: Mike Pence, Kamala Harris clash over COVID-19 in more civil fight"
+    excerpt: "Kamala Harris condemned \"the greatest failure of any presidential administration\" during a largely civil debate dominated by the coronavirus."
+    publishedDateTime: 2020-10-10T05:22:00Z
+    webUrl: "https://abc7.com/politics/pence-harris-spar-vigorously-over-covid-19-in-vp-debate/6840637/"
+    ampWebUrl: "https://abc7.com/amp/debate-fly-who-won-vp-2020-vice-presidential-the/6840637/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/debate-fly-who-won-vp-2020-vice-presidential-the/6840637/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 90
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6861930_100820-cc-getty-debate-vp-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Mike Pence and Kamala Harris lacked the name-calling and searing insults of the Trump-Biden showdown, but there were flashes of tension."
     publishedDateTime: 2020-10-09T22:55:00Z
@@ -251,6 +300,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Joe Biden And Kamala Harris Raise Epic Amounts Of Money On The Day Of The Vice Presidential Debate"
+    excerpt: "Kamala Harris and Vice President Mike Pence had their only vice presidential debate. While Harris was called a “monster ” by President Donald Trump and other vulgar language by Republican pundits, the Biden/Harris campaign still raised an enormous amount of money as a direct result of Harris’ participation on Wednesday."
+    publishedDateTime: 2020-10-09T23:46:00Z
+    webUrl: "https://www.bet.com/news/national/2020/10/09/joe-biden-fundraising-12-million-vice-presidential-debate-kamala-harris.html"
+    ampWebUrl: "https://www.bet.com/news/national/2020/10/09/joe-biden-fundraising-12-million-vice-presidential-debate-kamala-harris.amp.html"
+    cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/news/national/2020/10/09/joe-biden-fundraising-12-million-vice-presidential-debate-kamala-harris.amp.html"
+    type: article
+    provider:
+      name: BET
+      domain: bet.com
+    quality: 86
+    images:
+      - url: "https://www.bet.com/news/national/2020/10/09/joe-biden-fundraising-12-million-vice-presidential-debate-kamala-harris/_jcr_content/image.large2x1image.dimg/__1602286507419__1602286488391/100920-national-biden-harris-fundraising.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "\"SNL\" Gives Sneak-Peek Of Jim Carrey As Joe Biden, Maya Rudolph As Kamala Harris"
     excerpt: "Ahead of tomorrow's 'Saturday Night Live' season premiere, the show shared a teaser clip featuring Jim Carrey and Maya Rudolph as Joe Biden and Kamala Harris. S.N.L is returning tomorrow night for its first live episode since the start of the COVID-19 pandemic in March,"
     publishedDateTime: 2020-10-03T02:53:00Z
@@ -266,6 +331,22 @@ related:
       - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601661847_d2b1086c31d907151d23dce6970a5e02.jpg/0232a7f3f125a3597b97b33ed1941b66/1601661847_8938d8a81a9303511c14efe9777758ba.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris and Mike Pence Go Head-to-Head in Debate, with Plexiglass Between Them: The Highlights"
+    excerpt: "Vice President Mike Pence and Sen. Kamala Harris met face-to-face — albeit, while separated by plexiglass and seated some 12 feet apart — in 2020's first and only vice presidential debate, moderated by USA Today Washington bureau chief Susan Page."
+    publishedDateTime: 2020-10-09T21:55:00Z
+    webUrl: "https://people.com/politics/kamala-harris-mike-pence-vice-presidential-debate/"
+    ampWebUrl: "https://people.com/politics/kamala-harris-mike-pence-vice-presidential-debate/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/kamala-harris-mike-pence-vice-presidential-debate/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 85
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F08%2Fdebate-64.jpg"
+        width: 1500
+        height: 783
         isCached: true
   - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
     excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
@@ -361,6 +442,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In Peoria, Mike Pence rallies Arizona supporters, vows to back police"
+    excerpt: "Vice President Mike Pence visited a Peoria tactical gear supply shop on Thursday during his fourth visit to Arizona in 2020."
+    publishedDateTime: 2020-10-10T01:50:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/08/trump-campaign-hobbled-mike-pence-makes-fourth-arizona-stop/5917080002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5917080002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5917080002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/458aca1a-332f-4f80-b4b5-3379ac04e496-VicePresidentPence_Peoria_Oct8_2.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence and Kamala Harris face off — pointedly but civilly — in vice presidential debate"
     excerpt: "Senator Kamala Harris tied Vice President Mike Pence to a “disaster” of an economy, a “failure” of a coronavirus response, and a “weird obsession” with undoing the achievements of the Obama administration in a tense but civil debate between the two candidates Wednesday night that avoided the chaos of last week’s presidential debate."
     publishedDateTime: 2020-10-09T20:20:00Z
@@ -421,6 +518,6 @@ related:
         height: 600
         isCached: true
 
-secured: "n8mGPHp3/UZDTmS96Evy7pW7K/ZdikvAEoTHcZSGsBwVnfWm1Wvag38Lw4leZXzeutB3bIcRgdljyKETk9kJl4ZhsmLgecQ/TdsA69+utqBUJtyg1X6etxlwGX1/2k5gSst1IZA/AHbqr4UET0/afLrqocR62uy6KNDvosEjjfa1Krp8su3B+f/IIzjBewCbFGDrThe++p0+60HzLeR+4nl2YUT6HreflvDpkLu7ic1RJdTa1VHMVyVK0Q8pqm70kr/ciC3VK5GoBJBX7yrgiMBJxHK/5LhaYA4aMW+MW9C0UL2PdDZFV+Kw5/13MvFUB5iaBYUglUwZCo9FIY4QBkpgOwJKk+OIlTIFuw5zlNg=;oyfeQk8hAWkhDmg3wFyggQ=="
+secured: "cyK2AZVjk9RY7rE+Wcnw3B5+j1lz5Uuscocez06IXnJbPQJM3SOh8avf+P6R3tzIGVoxKcTry2xe0Y+DTrf3bKH6/mday0NwJm3MTrMrrK02ZxXHXKFlEeDLpgCOuHXaTUqS4IFgXCWPZ64fOSV3I6c9MFuSek0D/9csgvmfggkZDGRIw3G8zGfbc8KgwaOUcCGycB49JYdPgem1po4NgMRhXmwKFLIrTHs9lTJjPuR9KMT0hP9SbgVqe736vtLeGV+mxZ0VuImBqexZaQEWOKLEy9IulfAwKOfkLjNl1P5lT9D0ITSl6fI/hkOHvBqhWBOlRibtlImYmUM2xPZM828boho8fixiqWoB8TZy1/kXNb1dStl541Ug66QOS2p6PhofB6jdYgtBaUxkF+P0hu9gRU92mshrdp2nN0HfKrW7TX/5lczDYYqPPpEGk7Rpgz/tcupYhnEbO9Inu1HjmJ+COdLU0uoXavbYB67/dy6s75DTBJ7UcQa80S1ZsU/bfP2cs8lbWg4cojm8PtzLkQ==;D7oa72KsWilnzakbkpnalg=="
 ---
 

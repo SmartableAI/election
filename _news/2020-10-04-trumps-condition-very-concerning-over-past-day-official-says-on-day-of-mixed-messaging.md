@@ -31,35 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Chuck Grassley: 'I'd be very concerned' about how Donald Trump's tax returns got out"
-    excerpt: "Asked about the substance of the New York Times' reporting that Trump paid $750 in income tax in 2016 and 2017, Grassley said he doesn't have enough evidence."
-    publishedDateTime: 2020-09-30T23:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/5874449002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002"
+  - title: "Trump official says vaccine expected starting in January"
+    excerpt: "A Trump administration official leading the response to the coronavirus pandemic says the U.S. can expect delivery of a vaccine starting in January 2021, despite statements from the president that ino"
+    publishedDateTime: 2020-10-10T02:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2018/09/17/PDEM/80644d4b-a019-4ee7-a6b1-39785f7db425-grassley.jpg?auto=webp&crop=5999,3360,x0,y39&format=pjpg&width=1200"
-        width: 1200
-        height: 672
+      - url: "https://s.abcnews.com/images/Health/WireAP_edb8df1370fa42678aa7380771b5a6a8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "WH Chief Of Staff: Trump Improving But Doctors Were 'Very Concerned'"
-    excerpt: "White House Chief of Staff Mark Meadows said Saturday Donald Trump's health, including a fall in his blood oxygen level, had left the president's doctors \"very concerned\" but that he had improved and there was never a risk he would have to hand over power."
-    publishedDateTime: 2020-10-04T05:42:00Z
-    webUrl: "https://www.ibtimes.com/wh-chief-staff-trump-improving-doctors-were-very-concerned-3056365"
+  - title: "Despite Trump's claims, officials in vote-by-mail states insist process can be secure"
+    excerpt: "As the president continues to attack vote-by-mail as ripe for fraud, ABC News Live got an inside look at the process in Colorado, which has done mail-in voting for years."
+    publishedDateTime: 2020-10-09T10:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/white-house-chief-of-staff-mark-meadows-speaks.jpg"
-        width: 1024
-        height: 682
+      - url: "https://s.abcnews.com/images/Politics/mail-in-ballots-sample-01-abc-llr-201008_1602190248467_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "5lp40q9gsocBAVqz+zZrA9w7LLskdfzNw+fq/w3P6J1c6cQXEcis2pXSS4tV7Zd2nwYnBW0g9i3dQc6DU6LIhl9m67SO3Mdj790T7/rRNAODvhhNqjoiTfJ1FP47wt3NYN0wsMLmMbs+ztMFj60+FHgJ26sHZN13BhWZY1dnDFrMQy21djW4rmsxiMKZr6qGQCuhjtT7SheJz8Gcl/2L7gcPaNlrfCkOE4v61SVTs9hF1qsRZkcA4+bI+lNd0amu6NMWJhwGW8wPPfrO290v2RVXQ35b2rloCqN1wYZyDixB+PNqZrg/wLlo2m59t0RzRZnxNPF0eKTsZvUYsvLUuIwfUy0CWsJKGumt9vpUKmE=;GCm/3V6OLWJC0msxbXDzAA=="

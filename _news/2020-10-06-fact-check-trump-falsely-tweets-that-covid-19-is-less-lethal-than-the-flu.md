@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
 type: article
 quality: 173
-heat: 533
+heat: 553
 published: true
 
 provider:
@@ -308,6 +308,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Trump Conceals COVID Test Info During Fake Fox News ‘Medical Evaluation’"
+    excerpt: "In one of his stranger spectacles to date, President Trump underwent a “medical evaluation” on Fox News Friday night that consisted of him boasting about how great he feels."
+    publishedDateTime: 2020-10-10T05:02:00Z
+    webUrl: "https://www.thedailybeast.com/trump-conceals-covid-test-info-during-fake-fox-news-medical-evaluation"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 44
 
 secured: "9Kjdq3iyjp2EUHAB5jxrciFtRdqAyUASN7kIrE2J/1JpqRO1I9qY5LNwma1AI1lRX0Ej7GfuUsjfC0yZysaMeg+i+/koPak3SeJ20BCkeB8RG29SRrR9RT3q9Z/GTcTa7Po6P0yXCAq+iGO5YR6ina1e8BGjJB9+mcZQtfodX/7dWcBl5/oFC6v78MUqjBMYZCApDbjA5Qh95EHXybW+k64XW1KJqxU1heS7Zu42ZKq8MaesyHEqytsWBxFoS7049BZQM4JVrh1fJiTPQTjvCo8ga3knFBL6rvJt3nkjNG+1X31i/mQiaVZlvo+yyc741FvoDKz/+Co/zpwVoYZo8ZsMn8kTwxF4zFI0gJHWGRc=;mANM41U91PgwP5xovrr8uA=="
 ---

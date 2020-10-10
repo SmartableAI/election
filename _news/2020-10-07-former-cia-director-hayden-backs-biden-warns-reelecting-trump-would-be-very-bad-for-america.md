@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
 type: article
 quality: 178
-heat: 358
+heat: 378
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/08/multimedia/08elections-briefing-virtualdebate/08elections-briefing-virtualdebate-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Second Debate Canceled as Biden Condemns Trump for ‘Reckless’ Conduct"
+    excerpt: "President Trump has refused to participate in a virtual event, so next week’s debate is off. Instead, there may be dueling town halls on the same night, as the president ramps up plans for resuming his rallies."
+    publishedDateTime: 2020-10-10T02:13:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09biden-campaign1/09biden-campaign1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Taylor Swift endorses Joe Biden for President"
     excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."

@@ -95,6 +95,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Trump planning to host 1st in-person event since diagnosis at White House on Saturday: Sources"
+    excerpt: "President Donald Trump is scheduled to host his first in-person event since testing positive for the coronavirus on Saturday at the White House discussing \"law and order,\" despite evidence of a growing coronavirus outbreak at the White House this week."
+    publishedDateTime: 2020-10-10T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 113
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-white-house-return-gty-jc-201006_1602021609016_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Comey: Trump 'spraying gasoline on a fire'"
     excerpt: "The former FBI Director James Comey says President Donald Trump's inability to condemn white supremacist groups is like \"spraying gasoline with a fire hose\" on a fire. Comey was testifying before a senate panel on the Trump-Russia probe."
     publishedDateTime: 2020-09-30T21:00:00Z
@@ -108,6 +124,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/28b57a74-6ea3-4133-a8ad-079673e91e9b_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump will speak at a public event at the White House; it is not clear if he’s still contagious with coronavirus"
+    excerpt: "President Trump is planning to hold his first public event since he tested positive for the coronavirus, speaking at a Saturday gathering at the White House in a show of defiance that has become a central theme of his reelection campaign."
+    publishedDateTime: 2020-10-10T05:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4K7GGQKQMI6XBM37HBHVPTDRU.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "Donald Trump declares himself ready for rallies on phone call with Fox News"
     excerpt: "Donald Trump insisted on Thursday he was ready to resume campaign rallies and felt “perfect” only one week after his Covid-19 diagnosis."
@@ -139,6 +171,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Restarting Campaign With White House, Florida Events"
+    excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
+    publishedDateTime: 2020-10-10T04:25:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Trump Sets Big Events for WH, Florida, Restarting Campaign"
     excerpt: "President Donald Trump is looking to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
     publishedDateTime: 2020-10-09T23:24:00Z

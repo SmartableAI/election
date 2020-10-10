@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VP Mike Pence Cancels Trip To Indiana To Vote..."
+    excerpt: "Watch \"VP Mike Pence Cancels Trip To Indiana To Vote\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-10T02:58:00Z
+    webUrl: "https://www.cbsnews.com/live/cbsn-local-chi/video/20201009213026-vp-mike-pence-cancels-trip-to-indiana-to-vote/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/09/story_07196211_1602279132.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'The road to victory goes straight through Pa': VP Pence amps up campaign in Lititz"
     excerpt: "Vice President Mike Pence made a campaign stop in Lititz on Tuesday, Sept. 29 to host a presidential debate watch party."
     publishedDateTime: 2020-09-30T03:10:00Z

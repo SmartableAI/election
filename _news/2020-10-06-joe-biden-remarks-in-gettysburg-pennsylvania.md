@@ -189,6 +189,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Joe Biden to make a stop in Erie, Pennsylvania, NBC News reports"
+    excerpt: "The Democratic nominee for President of the United States, former Vice President Joe Biden, will be close to Western New York on Saturday. Mike Memoli of NBC News says that Biden will be making a stop in Erie,"
+    publishedDateTime: 2020-10-09T23:52:00Z
+    webUrl: "https://www.wgrz.com/article/news/politics/joe-biden-to-make-a-stop-in-erie-pennsylvania-nbc-news-reports/71-89478deb-1e1d-4f8e-9e3c-c58507a13f54"
+    ampWebUrl: "https://www.wgrz.com/amp/article/news/politics/joe-biden-to-make-a-stop-in-erie-pennsylvania-nbc-news-reports/71-89478deb-1e1d-4f8e-9e3c-c58507a13f54"
+    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/politics/joe-biden-to-make-a-stop-in-erie-pennsylvania-nbc-news-reports/71-89478deb-1e1d-4f8e-9e3c-c58507a13f54"
+    type: article
+    provider:
+      name: WGRZ
+      domain: wgrz.com
+    quality: 75
+    images:
+      - url: "https://media.wgrz.com/assets/WGRZ/images/530883383/530883383_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Donald Trump Jr. Among Names Floated for Open Pennsylvania Senate Seat [REPORT]"
     excerpt: "Media reports are conflicting about whether or not Donald Trump Jr.'s name is being considered for a 2022 Pennsylvania run."
     publishedDateTime: 2020-10-04T22:47:00Z

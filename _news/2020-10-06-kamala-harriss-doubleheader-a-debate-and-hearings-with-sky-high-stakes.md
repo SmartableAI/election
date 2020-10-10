@@ -1064,6 +1064,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump chose his political brand over his presidency"
+    excerpt: "Less than a month out from Election Day, President Donald Trump is dealing with a hostage crisis of sorts — he is both the captor and the captive of a badly tarnished political brand. The more it fades,"
+    publishedDateTime: 2020-10-10T04:17:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-chose-his-brand-over-his-presidency-n1242743"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242743"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242743"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3418885/201009-donald-trump-rally-ew-111p_1c6d92254f0149e0de785c988dabcd34.jpg"
+        width: 2500
+        height: 1588
+        isCached: true
   - title: "Likability, Authenticity, Smiles: The Debate Tightrope for Kamala Harris"
     excerpt: "After a disastrous first presidential debate, all eyes will be on a vice-presidential debate that’s rife with gendered and racial challenges."
     publishedDateTime: 2020-10-06T23:17:00Z

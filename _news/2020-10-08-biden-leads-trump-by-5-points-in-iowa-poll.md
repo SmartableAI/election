@@ -1040,6 +1040,20 @@ related:
         width: 5368
         height: 3577
         isCached: true
+  - title: "Debate commission cancels Oct. 15 Biden-Trump showdown"
+    excerpt: "The co-chair of the Commission on Presidential Debates had rejected efforts by Trump’s campaign to clear him for in-person participation in the town hall-style forum."
+    publishedDateTime: 2020-10-10T01:01:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/09/debate-commission-cancels-oct-15-biden-trump-showdown-1323100"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/04/c8/555b349c44279927580db54b7239/200929-debate-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden labels Trump a ‘climate arsonist,’ accusing him of not heeding science"
     excerpt: "The Democratic nominee’s remarks were meant to address the wildfires that have been raging across Western states for three weeks."
     publishedDateTime: 2020-09-14T19:45:00Z

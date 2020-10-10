@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris Gets a Fracking Education"
 excerpt: "Shale drilling for natural gas has cut C02 emissions."
 publishedDateTime: 2020-10-09T23:07:00Z
-originalUrl: "https://www.wsj.com/articles/kamala-harris-gets-a-fracking-education-11602283301?mod=opinion_lead_pos2"
-webUrl: "https://www.wsj.com/articles/kamala-harris-gets-a-fracking-education-11602283301?mod=opinion_lead_pos2"
+originalUrl: "https://www.wsj.com/articles/kamala-harris-gets-a-fracking-education-11602283301"
+webUrl: "https://www.wsj.com/articles/kamala-harris-gets-a-fracking-education-11602283301"
 ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-gets-a-fracking-education-11602283301"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-gets-a-fracking-education-11602283301"
 type: article
@@ -1518,6 +1518,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Biden has immigrants, advocates hoping for reversal of Trump's border policies"
+    excerpt: "Immigration advocates and even some Central Americans mulling entering the U.S. are reportedly rooting hard for a Joe Biden victory in November, encouraged by the Democratic nominee's pledge to dismantle President Trump’s border policies."
+    publishedDateTime: 2020-10-10T05:34:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_u6bGJtv3OM/biden-has-immigrants-advocates-hoping-for-reversal-of-trumps-border-policies"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Trump campaign says it still wants two more debates, after president rejects virtual format"
     excerpt: "The Trump campaign on Thursday said President Trump will participate in a debate on Oct. 22 in a town hall-format, while proposing the final presidential debate be pushed back a week to Oct. 29."
     publishedDateTime: 2020-10-08T17:03:13Z
@@ -2573,6 +2587,6 @@ related:
         height: 822
         isCached: true
 
-secured: "p9hExzQL3UINZna4AkCy2mAJem07TLhKWfH6S3N+fNfvu2EoA2+0uP4eViuQkey8eYQVW05S99XzEzpvFjeDvm6C37FFiOq644HE6rhfmsTGHCzLRhvC9hM52kiYgpbVqw8vGxBYp25p5rs0A/r26Q4c8FGwGG/iU0WbEeQLJ5tLIdTjtkTONHcvomKYVqNZJo46OphX0w64KDTjZkuPDhFYRi0VNt+XTYxz42XCxO2Bs2+rxhVtsSAZF0jRI9+ujwBHM8lc4h6mwl1q2LkibgqiL8VNC4Tt3v194b00CVo/Xj2TAiw+nbosWlu11UBJXF7dm0ba74PZI1dB7Y0v7QNyzf/Jp+6j5Uy25Vmn/6L9muNyCS/nQ+eo6DhAjf1DzH/sqXYfBH07JmqxEkvMhAK+OgadtCKjMhYj+1T9DJzqt3Roxad4l7VxpI4C93a2QCfLoZBjB/eG33b0xClJUU2DR8UoBMQsoMe+sQVZCSSSARhPY/19R6Wzf0HJwgQn3en+KNQtz38tO08KINCrnA==;gk1gh4MIjilQYlMU7bK4Kg=="
+secured: "pBZPtv+C/li/J87D4azykwJF8dZNry0rXi6X8gtdm4amRTDBbwQOjuUIUTNEBq0a3s8/yrJOwtzSJWO5yyxvjB0+vp/qZaZW13LVaBgfXnLZ9kuesqdgvBlXqMaVkTSz/mecnh0qN0k4f2xqqmOEveJ83dLJpRFDwKWoswLEHM1tcZHoHvE4yL4UiByWkWjTcGMol71GNEMYQPyOOs7Hi21rp7fRnGVuvYtRoaoww+DhmKtrbQ3TfSMlXAWFLde0a/439xfmTg5L3cbBiVDlaThwWlRBhIPE6v1hwwxcpCRu/yUrSPD6C0M4mPR2THsN0M/eZSa1VXqAQURQzdrse7omVRk7Ict8WyJea5++oh0=;VkCiecxpU4ZayZORJ3X30g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-k
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719?amp=1"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 116
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Trump's antibody therapy not made from fetal stem cells but fetal-derived cells used during testing"
+    excerpt: "A post online falsely claims the antibody therapy received by President Donald Trump to treat COVID-19 is made from fetal stem cells."
+    publishedDateTime: 2020-10-10T04:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/08/fact-check-trumps-antibody-therapy-not-made-fetal-stem-cells/5901542002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5901542002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5901542002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/d890957a-cfab-4eaa-ae7a-03b8ca543956-Antibodies.jpg?auto=webp&crop=2347,1321,x0,y156&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

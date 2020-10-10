@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/10/04/us/politics/russia-election-inter
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html"
 type: article
 quality: 147
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Team Trump Admits Its ‘Russiagate’ Head Fake Has Been a Flop"
+    excerpt: "Loyalists like Director of National Intelligence John Ratcliffe are trying to craft a counter-narrative. But the country isn’t in the mood for the tale."
+    publishedDateTime: 2020-10-10T04:43:00Z
+    webUrl: "https://www.thedailybeast.com/team-trump-admits-its-russiagate-head-fake-has-been-a-flop"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "BDzX93BCNf0z/XC//sIf1YxRkafOsn6Jx0LLOyc+vRJJjE7eoseQRnDjXJ0+ILWv5GHXEVQ/hN3fOnHe1yMSxC81KixxKN9B6M6EonyMEgzwCvSb4B+rRLuiaw/EisbbXRI9bkAMU1Pb4i43B6Ig9cjRw2Y/JhDKMs6dpg8ztbzmpz30WPT0fxsvoC/TLpptH2VS7jhfujYn2puCDJVaPrNyVfA6he/KKZ7uLT2p11Ik/8616m05Jj+MBcat2ddtBEd3QVfb4BzcWcILE52KQ4EoASxaTG8/SI82noNl8Y8DtoKTGVWwvTcw4HUGDshS3PDwNAHd1b69ENWiKHbJLLAV/pu4BeuG9ayhZGTsv80=;uYbVkJyD0GshCxa1/kbeJA=="
 ---

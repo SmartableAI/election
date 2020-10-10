@@ -89,6 +89,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Trump planning to host 1st in-person event since diagnosis at White House on Saturday: Sources"
+    excerpt: "President Donald Trump is scheduled to host his first in-person event since testing positive for the coronavirus on Saturday at the White House discussing \"law and order,\" despite evidence of a growing coronavirus outbreak at the White House this week."
+    publishedDateTime: 2020-10-10T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 113
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-white-house-return-gty-jc-201006_1602021609016_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Hope Hicks returned to the White House to pull Trump across the finish line. Then coronavirus hit."
     excerpt: "The pandemic may never have been more palpable for the president than the moment his most trusted aide took ill."
     publishedDateTime: 2020-10-09T14:40:00Z
@@ -118,6 +134,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/28b57a74-6ea3-4133-a8ad-079673e91e9b_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump will speak at a public event at the White House; it is not clear if he’s still contagious with coronavirus"
+    excerpt: "President Trump is planning to hold his first public event since he tested positive for the coronavirus, speaking at a Saturday gathering at the White House in a show of defiance that has become a central theme of his reelection campaign."
+    publishedDateTime: 2020-10-10T05:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 104
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4K7GGQKQMI6XBM37HBHVPTDRU.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "Donald Trump declares himself ready for rallies on phone call with Fox News"
     excerpt: "Donald Trump insisted on Thursday he was ready to resume campaign rallies and felt “perfect” only one week after his Covid-19 diagnosis."
@@ -149,6 +181,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Trump Restarting Campaign With White House, Florida Events"
+    excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
+    publishedDateTime: 2020-10-10T04:25:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "ytU4DzhH/sApp2wlXjMQ1tD3VkQaLgcGi+KT2xFi/A3x+EY2Spq871ViBnJBHqxgWB9TOOdSXur7u6wh62m30wYd7nct5I1eK/Voa5rJmZ3v3Slg1iFnfOsw2IllOOpqxgzp8Tmlx1Prs86PT1mvnxaZzm5lKGgTa9kNp9fdXqSgVXqO9lVaRXXKJ6YjQut36oa2HXSy7DWYHbvPgcg0Yu+ar4WMqRG0d/vIRsBKHUBv9OsVFXzVo9VqtphGc3LMGhCVEU6WsL24it29Vy3mgFT0czkMVynd98uTfJz4Z4RrvjzdF29hXowc0PNqlgYWtnMSFkmnm9sUb791my8TytWi2EmHIkGXUSeJMDJy6cCvYs/p4JDHVhnA2+NW8Cj3YprSDcl/suJ2IryU8uBg2Q0PnrlSX+oYfV4QNIKSSb3UHFhKEI6bLLawnhbcZxv2lsePHoj7YeCBg12Rlvf7wj6LSHAkaF2/O/+5WhXrtBJ+UgTIV0DjjlRydwsaf4OfIndH7YKVjH8Y41jt0JXMag==;zwX1Tli2VtjDai5chhXmww=="
 ---

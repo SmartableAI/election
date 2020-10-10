@@ -309,6 +309,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Trump Conceals COVID Test Info During Fake Fox News ‘Medical Evaluation’"
+    excerpt: "In one of his stranger spectacles to date, President Trump underwent a “medical evaluation” on Fox News Friday night that consisted of him boasting about how great he feels."
+    publishedDateTime: 2020-10-10T05:02:00Z
+    webUrl: "https://www.thedailybeast.com/trump-conceals-covid-test-info-during-fake-fox-news-medical-evaluation"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 44
 
 secured: "Bj7DHnG7qdM7jgkfkpyI/eO5mCkN6meLiIB/Ejc7R5dgBTZRG66G5CHV/KRPAWRHiHzFChqDf+CF4FDDDH4mhw6tLmPVal7M/7PEasRg7b38zMRCXOcv8v1eifA8QTTOlBlanGiD1ZWvj5TQR5wTyPM6HufU1r5tvlnNHc1qI4iXDNJNY+tciktkix6cC5XeuyT5xcR0cSe9r3PxTMdUYx45AfFSuOTNH6TgIjJH8brY9fQ7kR3UMeD/1pKdFaHd9MwGVEKhXHrn9M3U5HYZOCZdYfmXb1ul/MuuyH+gvzGvDvQfd7CKT09RxlyV5WokfGXgNIoDW1H1912FiiZUjQ0yc/Szgfgm/zz1DjYPopnEtznWKu/zucqG8CYo4GgTTJ/bsyUAb+xVEbUws20hMxfYAnDgSAeosZGGwU2DRygRMUkMdw8ICKypFYlMSoRGyWaAnc/QNdwXa9J3reZES3emCqQNOw9jwqvnpGFPgeSXihfHzOXCLsmIT809wedO1iMeRbeg9rW9JAmFzLfQCg==;nIrORtlbfM9Vx3KYdR0eOQ=="
 ---

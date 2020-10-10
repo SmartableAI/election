@@ -1054,6 +1054,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Debate commission cancels Oct. 15 Biden-Trump showdown"
+    excerpt: "The co-chair of the Commission on Presidential Debates had rejected efforts by Trump’s campaign to clear him for in-person participation in the town hall-style forum."
+    publishedDateTime: 2020-10-10T01:01:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/09/debate-commission-cancels-oct-15-biden-trump-showdown-1323100"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/04/c8/555b349c44279927580db54b7239/200929-debate-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘Cindy can have Sleepy Joe!’: Trump targets McCain’s widow after Biden endorsement"
     excerpt: "The attack comes after Cindy McCain tweeted that there is “only one candidate” in the presidential race “who stands up for our values as a nation.”"
     publishedDateTime: 2020-09-23T13:52:00Z

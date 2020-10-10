@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
 type: article
 quality: 122
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "Despite Trump's claims, officials in vote-by-mail states insist process can be secure"
-    excerpt: "As the president continues to attack vote-by-mail as ripe for fraud, ABC News Live got an inside look at the process in Colorado, which has done mail-in voting for years."
-    publishedDateTime: 2020-10-09T10:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/mail-in-ballots-sample-01-abc-llr-201008_1602190248467_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
 
 secured: "Y+wbmFNvi8iKH43sijg98tZ1mNShidSCFkhdzjR7lypMz5xxQA6QLEvYV5nVI8wVkWK7/dJpoVHU1NOlTPMG+WspukQWT2g3fOaKAs2x153KbNfHSMnBHlnz2QnT5oRJBfXF1hvIG18KSGpP/oeEI9gep34RWi9aH0vUkhU6kH9AnCQszrahrr3ZA1bMqqQNlxWx0ouXg14C+0gZtMthBqVPqTo2pl1KIt2U2DZP6VaHkb1HOqC3AUdmDaOmNFBeFxm66+AYn9r+dFAVJu6ijpZk5AJGXz+Xuc96idkHevj0C1d2j/NH7wWbgI69XsJQmymWBWCBhoolpoZvEL+AlSC5RxOT+A90MO31a1EdNQY=;f6GlKJ1k83ynAGFdtIyx9Q=="
 ---

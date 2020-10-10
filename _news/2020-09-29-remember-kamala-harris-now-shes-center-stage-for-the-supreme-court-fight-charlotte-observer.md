@@ -2523,6 +2523,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Trump: Kamala Harris will have to take over for Biden after three months"
+    excerpt: "President Trump predicted Thursday that Joseph R. Biden wouldn’t last more than a few months if he’s elected president before Sen. Kamala D. Harris, his running mate, would have to take over."
+    publishedDateTime: 2020-10-10T02:22:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/9/trump-kamala-harris-will-have-take-over-joe-biden-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/9/trump-kamala-harris-will-have-take-over-joe-biden-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/9/trump-kamala-harris-will-have-take-over-joe-biden-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 104
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_BIden_38230.jpg-c6f1d_c0-123-2946-1841_s1200x700.jpg?d6904f16af061206ca30c81bd1d572bfaf544cd7"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Democrats hammer Trump's Supreme Court pick, say could jeopardize Obamacare"
     excerpt: "Democratic presidential candidate Joe Biden and others in his party on Saturday blasted President Donald Trump's choice of conservative judge Amy Coney Barrett for the Supreme Court, focusing in particular on the threat they said she would pose to healthcare for"
     publishedDateTime: 2020-09-27T04:35:00Z

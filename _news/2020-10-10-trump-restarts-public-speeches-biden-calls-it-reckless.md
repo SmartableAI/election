@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump Supports Outdoor Debate Idea So Joe Biden Can't Read Answers 'Off a Computer'"
+    excerpt: "\"Joe has a tendency to get the answers and read them off a computer for when he's asked questions,\" Trump said."
+    publishedDateTime: 2020-10-10T01:38:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1649128/donald-trump-debate-joe-biden-computer-outdoors.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
     publishedDateTime: 2020-10-07T02:42:00Z
@@ -140,22 +156,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536450412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9526S"
         width: 841
         height: 545
-        isCached: true
-  - title: "Donald Trump Supports Outdoor Debate Idea So Joe Biden Can't Read Answers 'Off a Computer'"
-    excerpt: "\"Joe has a tendency to get the answers and read them off a computer for when he's asked questions,\" Trump said."
-    publishedDateTime: 2020-10-10T01:38:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 130
-    images:
-      - url: "https://d.newsweek.com/en/full/1649128/donald-trump-debate-joe-biden-computer-outdoors.jpg"
-        width: 2500
-        height: 1668
         isCached: true
   - title: "Fact check: Joe Biden did not say he attended Delaware State University"
     excerpt: "Tens of thousands of social media users have been sharing posts that say Democratic presidential candidate Joe Biden lied about attending Delaware State University (DSU). This claim is false: Biden did not say that he attended DSU."
@@ -663,6 +663,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "MusMnaPk8StgsB4X3uwHmjgPcOQS3mBYw9a/Gqh6U7lYm+6J9UjumadpxL/ySrxCORTYkSh52eHtxxN8pgu5jVCtlt4PJPNId1ZAZape4SBTJh6A654TE/+Aq/eaeyEXMr+/yj1Bv3rYUptPhkDQefaWSZCc1ab0zY+79/NqUR3CQw4b/Mj4PV/Bm0ZrtSDKISI2h103k5j+Ky0w3UaPMrgWPRbze5hGAacy87VaO/CG2vO7VvCaKkFD5QzuXhZMuk+6kwZOaQyGZL5VHGCsGXsM1ENqWn7diIbdGMvzqCmsKuPJpyNR0z2W/75RC1U7n0vT8+HW3vP9qB4c9mk1tNgbTyEpOXsvOx5blqJpsmg=;mk7hJqrqz2jZ5nyStTlT+w=="
+secured: "WhA0Iv4xN/pgbkrjUJRmLDqc23YCUAXXw/lm+6Sxc0H/8t2k1iFkyccppccjq+VW+PrkADljmN9jczy7jSm5QyPqVULncliWKKznl4BceYBiVXfzI6c+0a42dpUxG6Ki2zrGyWGN7z4aqaL8ARvI+1Ho/O+bXi4NuSF/Qabm6K1WN/0ARGiE6VgMYFQbFMpN+HneF1MDgKqwZnatqtUPixaN7mycLsREuZuYfA4HQS985wAVGiHy1htPC+BoSg3phFqW+XtRfgw0G7bmbhq9i+qoEX19UXAPQiiDOy4RNFdUr0VghawI0vIs28B9ZWLvE54TcceKECdSu77u4FnKCRa0UDWwgKTChOHYQp2djw9zgL91jWhj+kmIbpVNCOSz0cHVZQJA1sPWDjlWb20jtiNC+R41JHSJUrLhd+P2luxYlnvT//dwLjQSllHOBhzX4bW4aNO+kYixf2GD0N5L5bv2BuphUCAUzD5kMoBiQIRRwqLLa6rlIJcD9NUCSWfJsXE++CmxAMMFfsdarTGghA==;jdNI4e7cLCi/H+cNV8k1vA=="
 ---
 

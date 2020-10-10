@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519691-pence-faces-tall-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/48abca91-ccc2-4c01-bf70-794a7156d1b2/thumbnail/1200x630/47440c54969d12ffd13188b98bf07fd3/ap-20275714567576.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "VP Mike Pence Cancels Trip To Indiana To Vote..."
+    excerpt: "Watch \"VP Mike Pence Cancels Trip To Indiana To Vote\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-10T02:58:00Z
+    webUrl: "https://www.cbsnews.com/live/cbsn-local-chi/video/20201009213026-vp-mike-pence-cancels-trip-to-indiana-to-vote/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/09/story_07196211_1602279132.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "'The road to victory goes straight through Pa': VP Pence amps up campaign in Lititz"
     excerpt: "Vice President Mike Pence made a campaign stop in Lititz on Tuesday, Sept. 29 to host a presidential debate watch party."

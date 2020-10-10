@@ -128,6 +128,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Second Debate Canceled as Biden Condemns Trump for ‘Reckless’ Conduct"
+    excerpt: "President Trump has refused to participate in a virtual event, so next week’s debate is off. Instead, there may be dueling town halls on the same night, as the president ramps up plans for resuming his rallies."
+    publishedDateTime: 2020-10-10T02:13:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09biden-campaign1/09biden-campaign1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden: If Trump still has Covid, call off the debate"
     excerpt: "The Democratic nominee said he still looked forward to facing off against the president in Miami next week, but “I don’t know what his status is.”"
     publishedDateTime: 2020-10-07T00:33:00Z

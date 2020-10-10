@@ -179,6 +179,22 @@ related:
         width: 800
         height: 412
         isCached: true
+  - title: "Joe Biden scales back rare Democratic investment in Texas, but dispatches Jill Biden to stoke the embers"
+    excerpt: "Former vice president Joe Biden hasn’t set foot in Texas since the primary, but on Friday, his campaign announced that he’s sending wife"
+    publishedDateTime: 2020-10-10T03:22:00Z
+    webUrl: "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/"
+    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 58
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/ZvCr4APszKnYx5_p2sPqxbo8mb0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/CYH7CODPP2EWWRO7Y2VL6QDFKU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4dkSRQlERnDRh5I2S0AN9iWztoruP2mhhzCesw35+S7gBADd7863+WGthsXp7YxVNwgCJbOoS4RN/BVovTGKWu4AeF/hU2qlKIGNOtqijuB6Dz/nThln9Zc4ZfNEh+MtWPFpFVr5cvKARNEtYjmBCmX5mK5Ky/fd61jC3Gmg2DzYeevWQktYLuqkoD9w/pYBhdi91yGVRSUbQMsPfeUxe6CQvG3MQQmFl/VNXjEsJ5lyZ/bRWX31oJ1OQ2NI2eAJZd698FISQV451h7Gy6jpAQVMtAbENEqet40ddvFTe96aHDuxkN2cyNPScRrlJ7ZPwxmcSextHXZEzHHgQMYXon/89DPCBZRFw5CBw1ph0wY=;dSZ+08idZaDIMr8fIGolLw=="
 ---

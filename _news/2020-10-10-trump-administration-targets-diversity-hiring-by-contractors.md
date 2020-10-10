@@ -927,6 +927,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump on drugs. Who could have seen this coming?"
+    excerpt: "President Trump on drugs. Wow. I have to admit that I failed to see this one coming. Trump’s political career has been such a wild ride all by itself, it never occurred to me to wonder what would happen if this grandiose narcissist with the bombastic flair were to be filled to the gills with a powerful steroid."
+    publishedDateTime: 2020-10-10T02:30:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/trump-on-drugs-who-could-have-seen-this-coming/2020/10/09/d7219e90-0a4a-11eb-859b-f9c27abe638d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/trump-on-drugs-who-could-have-seen-this-coming/2020/10/09/d7219e90-0a4a-11eb-859b-f9c27abe638d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/trump-on-drugs-who-could-have-seen-this-coming/2020/10/09/d7219e90-0a4a-11eb-859b-f9c27abe638d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ANHDEYAJW4I6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump's Columbus Day proclamation includes stark warnings"
+    excerpt: "President Donald Trump’s proclamation Friday commemorating Columbus Day includes stark warnings of “radical activists” seeking to tarnish the explorer’s legacy"
+    publishedDateTime: 2020-10-10T02:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2ce87445e0364020bc9de911a121d356_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Visualizing the people exposed to COVID-19 by Trump outbreak"
     excerpt: "Since last week’s announcements that President Donald Trump and his adviser Hope Hicks tested positive for coronavirus, dozens who came into contact with them or their associates have also contracted the virus."
     publishedDateTime: 2020-10-09T19:40:00Z
@@ -3026,6 +3058,22 @@ related:
       - url: "https://i.insider.com/5f7cb1ff94fce90018f7b6dc?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
+        isCached: true
+  - title: "'I could be one of the diers': Trump recognized own mortality after COVID-19 diagnosis, according to a report from New York Magazine"
+    excerpt: "\"This thing could go either way,\" Trump said, according to New York Magazine's Intelligencer. \"It's tricky. They told me it's tricky. You can tell it can go either way.\""
+    publishedDateTime: 2020-10-10T05:42:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-i-could-be-one-of-the-diers-nymag-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-i-could-be-one-of-the-diers-nymag-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-i-could-be-one-of-the-diers-nymag-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5f811af5642e9400180b5262?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump's COVID-19 Diagnosis Is Forcing Him to Face His Personal—and Political—Vulnerability"
     excerpt: "His supporters reveled in his return. A Congressman crowed that Trump had beaten the virus just like he beat the Russia investigation and the Democrats’ impeachment. His press secretary– who announced her own case of COVID-19 earlier that day–hailed his ability to “stand strongly on the balcony!"

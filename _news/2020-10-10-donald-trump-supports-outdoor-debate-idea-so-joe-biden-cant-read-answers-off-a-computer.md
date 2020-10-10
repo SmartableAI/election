@@ -8,7 +8,7 @@ webUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-j
 ampWebUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
 type: article
-quality: 130
+quality: 140
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://d.newsweek.com/en/full/1649128/donald-trump-debate-joe-biden-computer-outdoors.jpg"
@@ -663,6 +664,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "PUAZF534PSBvYsLTJ1Zf5JwpCRvaUQrXP4DQRk5C0yUj3qcYCQFqoyuUu8FaIm4aRB9QMUryYCO+7DygGpTTNdTWkQo3yRqJsB4i37UEXWeWTHYiQ5+QNy6lhWg+Tqta9B7MZ5AiBpqcFHnDKdWpVGhK7ADzgkczymbZEF2MZJpZm9ueGjYczLR5LMB1HxN0FTeHlOIBOQYDT9lfGMPSFCe7VCLTKopiZ/xAZ5S3VLTZFdhoUKOraIt4mpryaZF3vpA+L7LzgmQeTITlBS5oBcsnfUIOmVHzCD9/vfjX8vx/8bS3nEfn7gNVkQYtaL6sQSKzN64IL7mtChthC6ON7ui0/FvurijGG43MIJnI8tw=;FBeFDaXpcuGKHEZYrUvt4A=="
+secured: "nc388tZ/gLuTlKIZpIlUNpPu1xeZouDGn7WX9DLmLTYWz4+FKVyjFr0dnBrdEjdN2UDF2dN/05braWMwPFOqPBCpCNSne4iXUt+IlVXVg+Kn/lS7Wdq4OG+tQ032QUC8iF8YF77X8GwviV/+5+vn+xj6j9PL0cGKEXG/ZD86QcS3C6ac5vykCkGWkv8C6Os0SsRQuMhnjnpdixxp9z4QzuksKInJQmG7ACv1/DX+OMWckZar/xEYB4e+NJEW5nqp9d5dADYeY0KPzkpKJXwk6r8yEp8Yv0SWG+putTLti+WNZSESkEReoeH9LZURy27TRE0ttaroT7mECPZa2JErVaWIqUwYKocz733zWN1yUitKhIKKPbgTPCcNIVq9U6nQGw6IECBWFx6zpz1MM83kDHneJTopwhJFU+DKzTsoWyOA00w5/AD6ygPAdgBPFnLR8lyTEuL6S72KkDpCPGkAznQEY8wwgirxm4Rx5ExHgtfSbqCkf9B2eltsEkGRW22QXSols9I+j4F8g2HEvFnP8g==;5/HLHaaSButc76cP/ni8iw=="
 ---
 
