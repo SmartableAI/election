@@ -501,6 +501,22 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 70
+  - title: "Lonnie Durfee, of Dalton, arrested in connection with display in support of Joe Biden, Kamala Harris at Western Massachusetts farm"
+    excerpt: "A Western Massachusetts man has been arrested in connection with the destruction of a public display of support for the Democratic presidential nominee."
+    publishedDateTime: 2020-10-10T17:23:00Z
+    webUrl: "https://www.masslive.com/news/2020/10/lonnie-durfee-of-dalton-arrested-in-connection-with-display-in-support-of-joe-biden-kamala-harris-at-western-massachusetts-farm.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/10/lonnie-durfee-of-dalton-arrested-in-connection-with-display-in-support-of-joe-biden-kamala-harris-at-western-massachusetts-farm.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/lonnie-durfee-of-dalton-arrested-in-connection-with-display-in-support-of-joe-biden-kamala-harris-at-western-massachusetts-farm.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RYN32WDU7BFTJGUFDB735VEMOM.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
     excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
     publishedDateTime: 2020-10-10T06:10:00Z

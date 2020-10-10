@@ -64,6 +64,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris says Amy Coney Barrett's faith shouldn't be scrutinized in confirmation hearings"
+    excerpt: "Democratic vice presidential nominee Kamala Harris said Supreme Court nominee Amy Coney Barrett should \"absolutely not\" be questioned about her faith during her confirmation process. "
+    publishedDateTime: 2020-10-10T16:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a89xgruYdXI/kamala-harris-amy-coney-barrett-faith-off-the-table-during-confirmation"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282841382936.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "Zd3n8yB/R4ot0f99dn8qvVs8BxACSII1Yn5swgV17uvtFx4MNj/SLZjaT67kqjDpL5+ZJwSn1BVgmxPvao7RohVjyoPH3zpHAwMCfzIC/QK3aS4SKMG4+5/9jff4mn2qADgWmme72A6R+al1U4Y1M9F/ZwD7QmaRqg8aJkSgdFcR3bmc3oWf6Cv1EHACxA+Hg/p09Xv6qQh74avSpU7m0cwxW+iBKCc1Jnxa0CZcljybu9bjKWDOj2f4yfeqPlHDEETAJ8Bhm9d07K+jD9pUM6b1F5SWnhTxrm3jfxtb0qN0nNUz2pnGGlG77gbJAul0YBCVUK6a63czct35dBzogMilxMgAc69TQxwLZoLgwXA=;DE4XZO/k8zMB0t9uzVI5zg=="
 ---

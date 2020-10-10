@@ -75,6 +75,17 @@ related:
         width: 1200
         height: 706
         isCached: true
+  - title: "Nancy Pelosi calls Donald Trump plan ‘one step forward, two steps back’"
+    excerpt: "Pelosi and Treasury Secretary Steven Mnuchin head into weekend negotiations with the top-line number for relief fast approaching the $2 trillion level that many Senate Republicans say they cannot accept."
+    publishedDateTime: 2020-10-10T17:22:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK.html"
+    ampWebUrl: "https://m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
 
 secured: "882QyLGVt3vPPP4xF2jmvMhUEBRITryeb5hUfNqWWf/+BHL2K5yMlOMMiJZgLJgcXV3kYdsqflDq07qX3b9Rn7zZmrTOUQiRM0C1E8nq6LISLt4yxSS2SqDw54JeT29MgeUQ0Z51HcakiMSMPlH3MLwwJJXNmgYp33kZSkjMjpVMza37tTESjtcnq7LqtcGVFlFA2gBf/IOaP8qA/B/wN8hJX66gnq0kZO46cOYvcP+yAj0LTHS1asrjFnf84d3oAFjwkkYXa+GfEFR8GOMaaygGQdjT2oUcP3JVXn85OICm4eQ1Km0Q69UVZjg9RkIpU0M2AqunRpwicnsxBLQ/Rr14o3562A643Gmzvr9opg8=;kcoyWVOZN9FWDDkfXK9TMA=="
 ---

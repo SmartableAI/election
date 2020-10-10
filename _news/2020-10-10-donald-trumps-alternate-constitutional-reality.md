@@ -1072,6 +1072,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Donald Trump’s Campaign Rallies Are Now Confirmed Public-Health Hazards"
+    excerpt: "As the President prepares to return to the campaign trail after his coronavirus diagnosis, his rallies are now confirmed public-health hazards."
+    publishedDateTime: 2020-10-10T16:51:00Z
+    webUrl: "https://www.newyorker.com/news/campaign-chronicles/donald-trumps-campaign-rallies-are-now-confirmed-public-health-hazards"
+    ampWebUrl: "https://www.newyorker.com/news/campaign-chronicles/donald-trumps-campaign-rallies-are-now-confirmed-public-health-hazards/amp"
+    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/news/campaign-chronicles/donald-trumps-campaign-rallies-are-now-confirmed-public-health-hazards/amp"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 135
+    images:
+      - url: "https://media.newyorker.com/photos/5f80ebdd9ee31e60d7875241/master/pass/Lach-TrumpIsSuperSpreader.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Trump attacks moderator for second debate over deleted tweet"
     excerpt: "The apparent request for advice from Scully's account came after the Oct. 15 town hall, which was to be moderated by Scully, was thrown into disarray."
     publishedDateTime: 2020-10-09T17:15:00Z
@@ -1351,6 +1367,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/66/bb/49997abc449fb0bb0b7a32b99ae4/201009-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump campaign leans on Fauci in new ad"
+    excerpt: "The president appears to be attempting to capitalize upon the nation's top infectious diseases expert's popularity among voters."
+    publishedDateTime: 2020-10-10T15:41:00Z
+    webUrl: "https://www.politico.com/news/2020/10/10/fauci-trump-campaign-ad-428501"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/e8/37/f73cf5ab4bd1976c408deadc4377/fauci-trump-773-ap.jpg"
         width: 1160
         height: 773
         isCached: true

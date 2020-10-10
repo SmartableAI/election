@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINL4N2GW009"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINL4N2GW009"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://media.vanityfair.com/photos/5f3ffc42e6ce2ef35c05f886/master/pass/Trump821.2.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "President Donald Trump leads a strategic and policy CEO discussion"
+    excerpt: "US President Donald Trump flanked by Secretary of Transportation Elaine Chao (L) and Stephen A. Schwarzman, Chairman, CEO and Co-Founder of Blackstone speaks during a strategic and policy discussion with CEOs in the State Department Library in the Eisenhower Executive Office Building (EEOB) in Washington,"
+    publishedDateTime: 2020-10-10T13:12:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5f64d01f6512a41b5ca3e7677016737a/President-Donald-Trump-leads-a-strategic-and-policy-CEO-discussion/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5f64d01f6512a41b5ca3e7677016737a/TRUMP-CEOS.jpg"
+        width: 650
+        height: 436
         isCached: true
 
 secured: "UYPewaUAz74Yw94t+TkUR3zFX1+v0DuxVgCTsRvxc4S15L3ZMZ/P4WzXYX5cD1rTWXfg+qRp1aX32KOTJpO3YefBBjoC3QH44Lt6C7924Go+nsqGewum5nHSfi1z1X8IXMMxiMGW4wWmn5GWmRB6wfcurefnlv+I49Hg7IvhCHQshpvSFicYoKwgMFjkRkojIRzF4EB1zvCrFLMxaXEaNjKsGh9WlYuYwTHmlCk/aTfdzj0lCpdPKfvnmFNUnF7dbpdboaaIseajQr724DujAlTIfA5klz07eKO4IUOjPGagdg6AcOLohA86TnWOF+Zsw10z+KrjgnMMyIvNusnmTACUIA9dC7z87NRdDQwwBqI=;hwL4mC+YELPse8K2cCPbTQ=="

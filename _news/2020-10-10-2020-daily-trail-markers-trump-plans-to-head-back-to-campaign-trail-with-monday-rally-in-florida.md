@@ -77,6 +77,17 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Judge Throws Out Trump Campaign's Pennsylvania Lawsuit"
+    excerpt: "A federal judge in Pennsylvania is throwing threw out a lawsuit filed by President Donald Trump’s campaign, dismissing its challenges to the battleground state’s poll-watching law and its efforts to limit how mail-in ballots can be collected and which of them can be counted."
+    publishedDateTime: 2020-10-10T17:29:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania"
+    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "kIlxprixxQDFKEkjld2QjLW11S2eI7m4qR8jf17PU96ob6j2zxvA9+Wjgda/DriVxJf/7gI3DqgQv6OgntR0zxR/7mjbtGREVjBeEpd7xpgTdxYt5lV0iWP/kAWNIOuP1im2ncjbW59ArIEFpuXGKb2vGFpglUaP7yE8kyoi/+en6nNCZzYBkB6PCEPcSWIy7NusWGUJxpO/teMLRMnCOtBdBLAOd9y2BGKHuBoIlOeZoPqmHzkVEuXCiIpD1+/oDNqgeiiPeYJ927Q1jTEdYdeFcwf0gpAOCH1rU2FTp52nFr0cIbD1raTsLn5fB7AKsrWx3IgLqLOkgp6+DBC65iD0pIEYiZAsjHrk9YMyLiY=;82I7FErc67D03btJP1thfw=="
 ---

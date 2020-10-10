@@ -1,0 +1,101 @@
+---
+category: news
+title: "Trump to resume public events, starting today on the White House balcony"
+excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
+publishedDateTime: 2020-10-10T17:45:00Z
+originalUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html"
+webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html"
+ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
+type: article
+quality: 124
+heat: -1
+published: false
+
+provider:
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://www.chicagotribune.com/resizer/cHJjzXPTqoLa50ZEN2bjroeMHQg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6TXVNEALUFFMJ7DLWG4S4CJ3BY.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Trump lashes out at Barr after realizing inquiry into Russia probe won't be public before election"
+    excerpt: "President Trump has ramped up his criticism of Attorney General Barr as he seeks to make the origins of the Russia probe a major election issue."
+    publishedDateTime: 2020-10-09T22:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/09/donald-trump-frustrated-william-barr-over-inquiry-into-russia-probe/5939328002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5939328002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5939328002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/6fb9c6aa-6b4d-4d86-80c9-a44242a95e7d-GTY_1151036768.JPG?auto=webp&crop=5318,2992,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump Eases Back Into Work by Choking the Economy to Death"
+    excerpt: "The president has torpedoed stimulus talks, telling suffering Americans to bother someone else with their so-called problems."
+    publishedDateTime: 2020-10-06T21:35:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/5ac273d647083864d0b3be79/master/pass/Trump.jpg"
+        width: 2000
+        height: 1278
+        isCached: true
+  - title: "Trump: Justice Dept. had 'plenty of time' for Durham probe"
+    excerpt: "President Donald Trump is increasingly at odds with Attorney General William Barr over the status of the Justice Department's investigation into the origin of the Russia probe, with the president growing ever more critical about a lack of arrests and Barr frustrated by Trump's public pronouncements about the cas Trump and his allies had high hopes for the investigation led by Connecticut U."
+    publishedDateTime: 2020-10-10T13:08:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Barr-at-odds-over-slow-pace-of-Durham-15632927.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Barr-at-odds-over-slow-pace-of-Durham-15632927.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Barr-at-odds-over-slow-pace-of-Durham-15632927.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/46/66/20082110/17/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
+    excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
+    publishedDateTime: 2020-10-07T02:17:00Z
+    webUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829"
+    ampWebUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/08/former-special-counsel-robert-mueller-who-led-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+
+secured: "l4i9zp5lAY0HB7gdv8D/RyJ97a5q88Ukh7F6sbHS6h0ASno3Fhh+Dj/DxciuGbCt2wTiB0a0pOxcbSXgpy8agxUq95XiP2WPivDaEZ9M+cFrNzZvm3Eny88AW9EVCWKn6E0UAbwN6aIYPfNkN2eyf90pCzj5XAcpbKMfsK15JxYJd+idx9oMQoh/ZRtxwJe4xnl2B7OOojle/8OfcjcCMZ22EQEnsYuLlYXc7rd4UfWgHdCEXx0Asc5UqTMEHQLmqqB6cGbzLjkan/w8xqBGniimFjHG5AmjkVooF6JKD14MW6MvUHNEFSYBAq1OUzvNu9GcumJO9IDXHfZtDRiB41ufVOvbBtTS6AtcSopPQ9E=;Lo1IN/wpCu6wzcvZDQzoaQ=="
+---
+

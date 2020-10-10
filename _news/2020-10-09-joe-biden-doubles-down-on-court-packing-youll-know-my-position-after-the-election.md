@@ -80,6 +80,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Bernie Sanders to stump for Biden in Arizona with virtual town hall"
+    excerpt: "Independent Vermont Sen. Bernie Sanders will headline a virtual town hall Saturday in support of Arizona Democrats to help drum up support for Democratic presidential nominee Joe Biden and running-mate California Sen. Kamala Harris."
+    publishedDateTime: 2020-10-10T14:41:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xMwbk48xJBM/bernie-sanders-to-stump-for-arizona-democrats-in-virtual-town-hall"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279856040245.jpg"
+        width: 3000
+        height: 2027
+        isCached: true
   - title: "Viral clip shows Biden lowering his mask to cough in his hand"
     excerpt: "Joe Biden on Friday coughed into his hand during a campaign stop in Las Vegas, Nevada."
     publishedDateTime: 2020-10-10T01:13:05Z
@@ -93,6 +107,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Biden says voters don't deserve to know his stance on packing Supreme Court"
+    excerpt: "Democratic nominee Joe Biden on Friday said that voters don’t deserve to know if he would attempt to pack the Supreme Court if he wins in November and Amy Coney Barrett is confirmed to the high court."
+    publishedDateTime: 2020-10-10T15:45:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9HUTv_FY1Xg/biden-voters-deserve-packing-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9810bc4e-f9a2-4907-9eb6-21f85a4165c7/b8b9b429-1b1c-4cf0-8b6e-165b5af3d67e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
     excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."

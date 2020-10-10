@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump to resume public events, starting today on the White House balcony"
+    excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
+    publishedDateTime: 2020-10-10T17:45:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/cHJjzXPTqoLa50ZEN2bjroeMHQg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6TXVNEALUFFMJ7DLWG4S4CJ3BY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump: Justice Dept. had 'plenty of time' for Durham probe"
+    excerpt: "President Donald Trump is increasingly at odds with Attorney General William Barr over the status of the Justice Department's investigation into the origin of the Russia probe, with the president growing ever more critical about a lack of arrests and Barr frustrated by Trump's public pronouncements about the cas Trump and his allies had high hopes for the investigation led by Connecticut U."
+    publishedDateTime: 2020-10-10T13:08:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Barr-at-odds-over-slow-pace-of-Durham-15632927.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Barr-at-odds-over-slow-pace-of-Durham-15632927.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Barr-at-odds-over-slow-pace-of-Durham-15632927.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/46/66/20082110/17/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
     excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
     publishedDateTime: 2020-10-07T02:17:00Z

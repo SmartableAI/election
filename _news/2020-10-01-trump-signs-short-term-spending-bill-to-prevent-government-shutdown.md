@@ -60,6 +60,20 @@ related:
         width: 1024
         height: 685
         isCached: true
+  - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
+    excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
+    publishedDateTime: 2020-10-10T15:30:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKivqdpxy9w/ivanka-trump-returns-to-arizona-on-sunday-for-campaign-event"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20274795229924.jpg"
+        width: 2000
+        height: 1264
+        isCached: true
 
 secured: "XGMP0YxOXv/PsUeB/Zpy0sLDa96AZa8qviY1M4QQ9cFDex7xgYlULsbu2RhRh4yMZV/QBFSiU1d/634J85SDZxSXFnSVMgRQS2kfC+hUWabDscqVqdNAdOXJ2b7s8lfigc5krizU0ktrw1fRGVPGRX8EIIRIg54D54HtpRaCha8ApKmL/aCKYtdp8eBJIfOSdMPUZpVoVAuLiyoSYlmCcL9lZOdBFaZ2E0XMdjxw3T6Kc+h+MdUE5gTy5cx4jxUGH9GdBbXuI+Z4dr19h9Ijrk+dVO10pQ2+ZxGcIwdiG7CqrietXss86W6RaBkF5ASfSGnF6G06vJzi2nuTPm3uehz0eLQvKSzrB1aIK11UeY9H7HzZZh/CnePvYu0bblPWiIgdxsX7X9Wv7gVANhl8KxvczqJCneQZvccN67Q3CG5RO1RJhSuU6KHIMRqHUfYpIzrCyXG89NC/xPJnS3CJT9Mf6tNNMfaJ+OZ+WsQu40BIXft7Y8yoc2l3SyZk093Uz4C9Q7WRLBHqY0/iIttzFA==;9iYLoqBJQ1GjZDHADa9gXA=="
 ---

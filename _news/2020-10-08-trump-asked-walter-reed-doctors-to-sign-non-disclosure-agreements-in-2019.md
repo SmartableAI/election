@@ -256,6 +256,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "As Trump Recovers, He Retreats to a Conservative Media Safe Space"
+    excerpt: "The president is opting for settings where there is virtually no risk he will encounter an uncomfortable question, but in doing so he is missing a chance to talk to a broader range of voters."
+    publishedDateTime: 2020-10-10T15:38:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/10trump-media/10trump-media-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live updates: Trump back at White House after Covid-19 treatment at Walter Reed"
     excerpt: "President Donald Trump has returned to the White House after leaving Walter Reed National Military Medical Center, where he had been receiving treatment for Covid-19 since Friday. He immediately took off his mask to pose for pictures before walking into the building."
     publishedDateTime: 2020-10-06T19:36:00Z

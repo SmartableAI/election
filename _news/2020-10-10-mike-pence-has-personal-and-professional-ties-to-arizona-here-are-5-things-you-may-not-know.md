@@ -512,6 +512,22 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 70
+  - title: "Lonnie Durfee, of Dalton, arrested in connection with display in support of Joe Biden, Kamala Harris at Western Massachusetts farm"
+    excerpt: "A Western Massachusetts man has been arrested in connection with the destruction of a public display of support for the Democratic presidential nominee."
+    publishedDateTime: 2020-10-10T17:23:00Z
+    webUrl: "https://www.masslive.com/news/2020/10/lonnie-durfee-of-dalton-arrested-in-connection-with-display-in-support-of-joe-biden-kamala-harris-at-western-massachusetts-farm.html"
+    ampWebUrl: "https://www.masslive.com/news/2020/10/lonnie-durfee-of-dalton-arrested-in-connection-with-display-in-support-of-joe-biden-kamala-harris-at-western-massachusetts-farm.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2020/10/lonnie-durfee-of-dalton-arrested-in-connection-with-display-in-support-of-joe-biden-kamala-harris-at-western-massachusetts-farm.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RYN32WDU7BFTJGUFDB735VEMOM.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
     excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
     publishedDateTime: 2020-10-10T06:10:00Z
@@ -577,6 +593,6 @@ related:
         height: 600
         isCached: true
 
-secured: "VUyhGtklGt5Tz/TsB+vG8xCaxAklHTPsyAZ5wp3vtRbT/O9olInNeXt5rYcffhpEXbvIPj5SHMOrbxJbnRX4yyYOJpeoIsAQcPfWKFc3HJaiRRbiMNwb7NbNs4OqknCJDapZzdArbvExn98yP463U+70NUaUOSDFiexTE/OW8T520XCF83du9DGXIT0aeysw2p0LvkuF5R3pe/5+E3lGH/UcPQsFl6Keqi0ZIVWgKDWh8qCWZgJWYxZa7CDdZOSAZAlbPgv0JzhHuEasEXtLp4aAI6YZhdewvtKmknu4tWIVpDKv5PHpncrJeNHkJIT+tHcHMFCZA53pLvTLXVWIPJrKPg4fCUVr2pIn+k9ZYnw=;gmH/qEKsWROioLAWSwQmQw=="
+secured: "2mduynPl50sCKegrWctGFxweRVfJyOMMVYbXrr+aNfSX/jhp7uq5rlQgKz9hwQ9qD6omZ3DkHbtC62e/88om1rkWU/bzdZwf5ymVdgKP3IxUoeZVVDr/rr607rD420JXh9upqBQ7UgWR+EB11r2jnehPoURAASw61NCt1XbdT31mJ5ioIw+n+4wuDGMs2p4KzypSodScAYD4pot5maEJz4oFuoIBj0SOOPDxmZmm+WJ9iA9etv8QrVQ1P1Z2gfWyNnwPTwxLqYABUekMM9ip6G8FtWEfIZwe8qWRGqOo/86O9uT4ELrSG/2MPhG5iV8tP5xLvYyXmOD36uExODDm9OAHofxzeWRw+RsFQjxL2cObBeDwGvBe91wh7wUV2vqtUsrH9Mtv6/mNZAPxxYte52DkQ4iRtCzXlH6IT+50SGxmc+aEhhUkk5jXEDR/cA7nt6yxyyvnLZKLXaHp1Sa3F5Fj7ttMVYbN+WkoBbgosuVPv1+nOeR3b8i2MwUU8DrFf3y2QdVQ2cdpjOvEk8ru7g==;pe5YGxbKWRNpvomRCJXq7g=="
 ---
 

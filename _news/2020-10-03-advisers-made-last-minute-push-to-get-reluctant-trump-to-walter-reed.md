@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
 type: article
 quality: 175
-heat: 655
+heat: 675
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/nbc_spec_doctors_discharge_201005_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "As Trump Recovers, He Retreats to a Conservative Media Safe Space"
+    excerpt: "The president is opting for settings where there is virtually no risk he will encounter an uncomfortable question, but in doing so he is missing a chance to talk to a broader range of voters."
+    publishedDateTime: 2020-10-10T15:38:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/10trump-media/10trump-media-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump asked Walter Reed doctors to sign non-disclosure agreements in 2019"
     excerpt: "At least two Walter Reed doctors who refused to sign non-disclosure agreements last year were not permitted to be involved in Trump’s care."

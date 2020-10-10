@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrap
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Nancy Pelosi calls Donald Trump plan ‘one step forward, two steps back’"
+    excerpt: "Pelosi and Treasury Secretary Steven Mnuchin head into weekend negotiations with the top-line number for relief fast approaching the $2 trillion level that many Senate Republicans say they cannot accept."
+    publishedDateTime: 2020-10-10T17:22:00Z
+    webUrl: "https://www.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK.html"
+    ampWebUrl: "https://m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
 
 secured: "nzaEVF8DQh+JZrMyr8cuXg5pA9Wmu18ukVDz8fonusIGNoSD2cqQBxSQpa0Zg5QBvOdjHuWpMeW6yeJgX4aG6BPQgNXTaeMwUxi9ssX6Lua3RsmGJagwufrb6c1EWr3FM354zaiHpj81ZbZKm3AeAic0nLU/LPo+L8zgpLTpbrlGCcRI8nKbtaMKQ1YhZW5gxTW2ZHyKJElgu7VrDYjSGttSZFwq47vdm5mniDu3DZXO86q4KVJ5T5v/bnUKRsRJ21dQfQx/nL3OF6eiWN1q2kd8lmPm5Gc4RReFEZ9vGoAKW26OhVKRF/q5abwCMvemKBE8bv/vTjH+IwdVzwH1uuM8Cc0yTxHrY7Y5bJxMfTrLc2sIC/2kjDgM608k99rvS9+A0iDk4tjnxn+udTnobx8uh4UQYYZsa5xJJ+75PXgKOBBvj+LGr1JVIVPPnU3EYEH2hrUsevo8apLBiLxVPlwCMQ/JQaj418unYvdNiI93LMa33RyOVJGdc6bb3YPz/qyQiqo44+S9jiJFSVDoxA==;m/dEnB+YkXrmgKdGdMUbcQ=="
 ---
