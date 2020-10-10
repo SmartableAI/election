@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-22-cia-found-putin-probably-directing-campaign-against-biden-report.md",
+      "title": "CIA found Putin 'probably directing' campaign against Biden: report",
+      "excerpt": "American intelligence agencies believe Russian President Vladimir Putin is behind a disinformation campaign targeting Democratic presidential nominee Joe Biden, according to a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report",
+      "originalUrl": "https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/putin_security_council_08052019_1.jpg",
+          "width": 980,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/517546-cia-found-putin-probably-directing-campaign-against-biden-report?amp",
+      "publishedDateTime": "2020-09-22T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-election-live-updates-romney-backs-voting-this-year-on-trump-nominee-to-replace-ginsburg.md",
       "title": "Election live updates: Romney backs voting this year on Trump nominee to replace Ginsburg",
       "excerpt": "Meanwhile, Trump is headed to Pennsylvania, while Democratic nominee Joe Biden is dispatching his running mate, Kamala D. Harris, to Michigan, while he holds fundraisers.",
@@ -1232,61 +1283,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-trying-to-expand-map-biden-launches-ad-blitz-in-georgia-iowa.md",
-      "title": "Trying to expand map, Biden launches ad blitz in Georgia, Iowa",
-      "excerpt": "Hours after the Democratic presidential nominee’s campaign announced it had a large campaign cash advantage over President Trump’s reelection team at the beginning of September, Biden officials said Monday morning they were going up with a new ad blitz in Georgia and Iowa as they try to expand the general",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj0IBTa60Fw/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/740fb994-93fa-4d55-b4d6-d08ebdf8390b/a38a8844-2b62-4980-913d-57a673c19c69/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trying-to-expand-map-biden-goes-up-with-ad-blitz-in-georgia-iowa.amp",
-      "publishedDateTime": "2020-09-21T07:52:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

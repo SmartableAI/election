@@ -139,6 +139,22 @@ related:
         width: 780
         height: 439
         isCached: true
+  - title: "Opinion/Chidester: Joe Biden’s credibility issue"
+    excerpt: "\"Since the early 1970s, Joe Biden has been a serial liar when it comes to his ‘work’ in the civil rights movement. It's the equivalent of"
+    publishedDateTime: 2020-10-10T15:44:00Z
+    webUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue"
+    ampWebUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
+    cdnAmpWebUrl: "https://www-seacoastonline-com.cdn.ampproject.org/c/s/www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201010&Category=OPINION&ArtNo=201019995&Ref=AR"
+        width: 520
+        height: 816
+        isCached: true
   - title: "Joe Biden Campaign Isn’t Selling ‘I’m Speaking’ Shirts, But Here’s Where You Can Buy Them"
     excerpt: "T-shirts, coffee mugs, face masks, and other products were selling online after the Harris-Pence debate, capturing key phrases from the event."
     publishedDateTime: 2020-10-08T14:20:00Z
@@ -170,6 +186,38 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
         width: 1500
         height: 785
+        isCached: true
+  - title: "WATCH: Joe Biden Tells Local Reporter Court-Packing is ‘A Legitimate Question’ — Then Gives Almost Perfect Answer"
+    excerpt: "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it's \"a legitimate question\" — then gave an almost perfect answer."
+    publishedDateTime: 2020-10-10T14:07:00Z
+    webUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/"
+    ampWebUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 54
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-9c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden says voters 'don't deserve' to know his position on packing the Supreme Court with additional justices ahead of the November election"
+    excerpt: "Joe Biden said on Friday that American voters 'don't deserve' to know his stance on packing the Supreme Court in remarks made to a reporter in Las Vegas, Nevada, during a campaignn stop."
+    publishedDateTime: 2020-10-10T21:32:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8826943/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 54
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/10/22/34237734-0-image-a-34_1602363783713.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "ZSqfwniCtdbMFiqV65vxgAHaGtXsJhmnpYUdWXjZEBXlAC3WVINDW1ezLcimTtyRTKN9toBpuVXdYna9gQBTdAxquuqqyay3uABjb5wT6e+cQpMzZCRRksS0JkHl41OQA2wkNPkH4yF0JfJWhgjvpneBTKWcZgXH4+0eynp9JKDDXV6axPx517FaxhhRg3KYPEvPWbGVZI9pBh1dyxSRzYM8T/pO7AAl+p+dNhWeNA3uaBijGttyxZuP6gdj6UDpSTF0iqnB47YiseczZNhxxX9cKZ0lTM0omfxbzAZw8jpGcZczNScIXD48ptQ/sBBgtYmB5DRC8D3lWhY0ouQcVnG6TVGtguc8aNgFmW570CXi0js+rLq3TU4aXwRIABM9eTk/3nUzj3wjV9xFrXoKHqhf2CzAQCf6YcBCFrh1ItZrHRcHWIE1CfL+oeYfSIQoOaNaHcuXnXDDp1NM7saQ2SE7W+DvHhKbxwogV9zHETfNgxMlB+G+sNXk+9VfApGl+Wteb4I/xt/KJ3gK4NGmNA==;mNI041zKVy6GjJ4TNEjfLw=="

@@ -663,6 +663,62 @@
       ]
     },
     {
+      "path": "_news/2020-09-30-matt-gorman-trump-has-a-new-running-mate-now.md",
+      "title": "Matt Gorman: Trump has a new running mate now",
+      "excerpt": "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
+      "originalUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94a65f6-5ffd-48bb-a83f-27cccf0be04a/265a668a-7607-4662-85c1-473e327e8464/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
+      "publishedDateTime": "2020-09-30T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-borat-sequel-with-pence-name-in-title-to-be-released-before-2020-election-by-amazon.md",
       "title": "'Borat' sequel -- with Pence name in title -- to be released before 2020 election by Amazon",
       "excerpt": "The 2006 original film, written and produced by Cohen, follows the titular character, a Kazakh television personality, as he explores America.",
@@ -1226,7 +1282,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1574,61 +1630,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.amp",
       "publishedDateTime": "2020-09-28T08:41:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-trump-slams-medias-treatment-of-barretts-catholicism-i-thought-we-settled-this-with-jfk.md",
-      "title": "Trump slams media’s treatment of Barrett’s Catholicism: ‘I thought we settled this’ with JFK",
-      "excerpt": "President Donald Trump on Sunday took the media to task for going after the Catholicism of his Supreme Court justice pick, Amy Coney Barrett, saying he thought the matter had been put to rest with the election of President John F. Kennedy.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rifGT98GjDk/trump-treatment-barretts-catholicism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rifGT98GjDk/trump-treatment-barretts-catholicism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271781176125.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-treatment-barretts-catholicism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-treatment-barretts-catholicism.amp",
-      "publishedDateTime": "2020-09-27T17:13:06-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

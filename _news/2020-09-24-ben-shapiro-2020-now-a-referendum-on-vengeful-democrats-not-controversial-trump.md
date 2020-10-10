@@ -80,6 +80,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump picks up another Nobel Peace Prize nomination from Europe after diplomatic victories"
+    excerpt: "President Trump has picked up another nomination for the Nobel Peace Prize, after a Finnish member of the European Parliament (MEP) has called for the American president to be given the honor."
+    publishedDateTime: 2020-10-10T20:33:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TBVo42WulqA/trump-nobel-peace-prize-europe-diplomatic"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e8e094d-02fb-436e-b8c2-34d55254b703/1d37db9d-91f1-4844-8be6-32ccc9adf7b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Judge Napolitano on Trump's third Supreme Court nominee: 'This is a moment of triumph'"
     excerpt: "President Trump has been 'utterly faithful' to his Supreme Court nomination promises, Judge Andrew Napolitano tells 'Fox & Friends.'"
     publishedDateTime: 2020-09-28T02:24:00Z

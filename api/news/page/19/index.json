@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-20-sen-thune-says-trumps-supreme-court-nominee-will-receive-a-vote.md",
+      "title": "Sen. Thune says Trump's Supreme Court nominee 'will receive a vote'",
+      "excerpt": "Thune's statement Friday night was a shift from his position after Justice Antonin Scalia died in February 2016, leaving a Supreme Court vacancy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/09/18/sen-thune-calls-filling-scotus-vacancy-after-passing-bader-ginsburg/5832607002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2019/10/07/PSIF/765619f7-f078-476b-b166-7c2dcaded255-Poet126.JPG?auto=webp&crop=4308,2424,x0,y169&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5832607002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002",
+      "publishedDateTime": "2020-09-19T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-urges-gop-to-move-without-delay-as-he-ponders-impact-of-supreme-court-on-election.md",
       "title": "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election",
       "excerpt": "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue.",
@@ -1269,61 +1320,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-melania-trump-favorability-remains-same-according-to-new-poll.md",
-      "title": "Melania Trump favorability remains same, according to new poll",
-      "excerpt": "First lady Melania Trump's favorability rating remains at 47%, according to a new Gallup poll, and her unfavorable rating increased by seven points, to 43%, following her Republican National Convention speech last month.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67Be1S5fbTY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/67Be1S5fbTY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/18/politics/melania-trump-new-poll/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/melania-trump-new-poll/index.html",
-      "publishedDateTime": "2020-09-18T10:25:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

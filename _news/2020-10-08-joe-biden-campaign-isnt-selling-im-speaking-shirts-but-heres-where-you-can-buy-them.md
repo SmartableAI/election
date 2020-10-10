@@ -155,6 +155,22 @@ related:
         width: 780
         height: 439
         isCached: true
+  - title: "Opinion/Chidester: Joe Biden’s credibility issue"
+    excerpt: "\"Since the early 1970s, Joe Biden has been a serial liar when it comes to his ‘work’ in the civil rights movement. It's the equivalent of"
+    publishedDateTime: 2020-10-10T15:44:00Z
+    webUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue"
+    ampWebUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
+    cdnAmpWebUrl: "https://www-seacoastonline-com.cdn.ampproject.org/c/s/www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201010&Category=OPINION&ArtNo=201019995&Ref=AR"
+        width: 520
+        height: 816
+        isCached: true
   - title: "M. Night Shyamalan Teams Up with Joe Biden Campaign for Filmmaking Contest to Encourage Voting"
     excerpt: "We really feel this is an important way that all of us can be a part of this incredible moment in history,” M. Night Shyamalan said of the contest"
     publishedDateTime: 2020-10-01T19:05:00Z
@@ -170,6 +186,38 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B405%2C380%5D&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F10%2F01%2FM-Night-Shyamalan-Joe-Biden.jpg"
         width: 1500
         height: 785
+        isCached: true
+  - title: "WATCH: Joe Biden Tells Local Reporter Court-Packing is ‘A Legitimate Question’ — Then Gives Almost Perfect Answer"
+    excerpt: "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it's \"a legitimate question\" — then gave an almost perfect answer."
+    publishedDateTime: 2020-10-10T14:07:00Z
+    webUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/"
+    ampWebUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 54
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-9c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden says voters 'don't deserve' to know his position on packing the Supreme Court with additional justices ahead of the November election"
+    excerpt: "Joe Biden said on Friday that American voters 'don't deserve' to know his stance on packing the Supreme Court in remarks made to a reporter in Las Vegas, Nevada, during a campaignn stop."
+    publishedDateTime: 2020-10-10T21:32:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8826943/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 54
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/10/22/34237734-0-image-a-34_1602363783713.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "60qNuV0xlINIZZYSsEHJilJTTEOsp8FZ20C8hLFE40NxMl8CDGTLCeP/wdcd9OqY3GHDMqS13gUjs95a2QWAtlfYegFezNBNX4iYzJ2PHFgx4Ej7GxQTQ06I+NvRhjXN6oX0sJ29W9w5UfBUN/euVg1q0uRA4dU81AKtRVTttu+tXJYdlG98M4arWBLud+o2UUbjj0Jt/lGSMSqnIgX6bH0HpnoraNoNWgLDnKyGPAx/PIBt8MYMoIqW0TSM8WjHrWxRl43RlG3tgxhiW46a124+O2ueK/c3sVBuR7rQ+TjrrKBJcZimO+RBE8lZAcVwJ483n+c4C2u6/H7pTynUJvYTPaJpy03Z4QS+E5tgbuA=;CMDwNkrQGECduRTXieqJ1A=="

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-11-victor-davis-hanson-trump-must-make-election-about-class-not-race.md",
+      "title": "Victor Davis Hanson: Trump must make election about class, not race",
+      "excerpt": "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race",
+      "originalUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab281d45-8c11-4bd0-8b40-7067347c261a/d9a98de5-8731-421a-851e-211aab65eee2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp",
+      "publishedDateTime": "2020-10-10T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-2020-election-live-updates-trump-tells-crowd-at-white-house-hes-feeling-great-christie-out-of-hospital.md",
       "title": "2020 election live updates: Trump tells crowd at White House he's 'feeling great'; Christie out of hospital",
       "excerpt": "\"I'm feeling great, I don't know about you,\" Trump said in a nearly 20-minute speech while standing on the Blue Room balcony overlooking the South Lawn. The event was billed as a \"peaceful protest for law and order.",
@@ -901,7 +957,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1122,7 +1178,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1260,57 +1316,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-donald-trump-is-a-tyrant-and-not-your-friend-says-suspect-in-governor-whitmer-kidnapping-plot.md",
-      "title": "Donald Trump is a 'Tyrant' and 'Not Your Friend', Says Suspect in Governor Whitmer Kidnapping Plot",
-      "excerpt": "\"Trump is not your friend dude and it amazes me that people actually like believe that,\" Brandon Caserta, one of the men charged with conspiring to kidnap Whitmer, said in a video posted to Twitter by American producer and director Robby Starbuck.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821",
-      "originalUrl": "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1648606/gretchen-whitmer.jpg",
-          "width": 2500,
-          "height": 1685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1",
-      "publishedDateTime": "2020-10-09T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

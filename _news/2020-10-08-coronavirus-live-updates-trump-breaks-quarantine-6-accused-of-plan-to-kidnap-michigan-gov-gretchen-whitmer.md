@@ -230,6 +230,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
+    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
+    publishedDateTime: 2020-10-10T19:43:00Z
+    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
+        width: 769
+        height: 433
+        isCached: true
 
 secured: "y3UPO/QWhbRln+DSXR4Lcdd6QPg18VVS+v4Za9o6tcdDFeWWZgi+QYL0BDAkbfch/HiJdUBNZ9l1u5sh/oqim5o02c86IKg92akNkKlBOZqh/7xGA4fGf2rKIPk9LxNzm6JSOmmqCDdqQx68jw8Kw7x0J8pDqt4kdW5VcO6NFtMQlwFMdduIDwVhnDbKYAiAVfb0Jc4c5IY4VaEJOAdfnGdFg1sPem9YQ78dgcj8DjwNPYg6/Nqm48jhp9VNpdHlEexhzyTWq4jLI9iGmpxtXYm20B5L+3sWEKaMCmFN/9N4qHYnXeo5ynyTW2FDavUVvLhtEzezYKxRk5TbL6za7/Vh0ZgZjfGxpI7Arfvhluc=;0K/ADeFe9Wixp+tJaU0Q1w=="
 ---

@@ -151,6 +151,22 @@ related:
         width: 780
         height: 439
         isCached: true
+  - title: "Opinion/Chidester: Joe Biden’s credibility issue"
+    excerpt: "\"Since the early 1970s, Joe Biden has been a serial liar when it comes to his ‘work’ in the civil rights movement. It's the equivalent of"
+    publishedDateTime: 2020-10-10T15:44:00Z
+    webUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue"
+    ampWebUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
+    cdnAmpWebUrl: "https://www-seacoastonline-com.cdn.ampproject.org/c/s/www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201010&Category=OPINION&ArtNo=201019995&Ref=AR"
+        width: 520
+        height: 816
+        isCached: true
   - title: "Joe Biden Campaign Isn’t Selling ‘I’m Speaking’ Shirts, But Here’s Where You Can Buy Them"
     excerpt: "T-shirts, coffee mugs, face masks, and other products were selling online after the Harris-Pence debate, capturing key phrases from the event."
     publishedDateTime: 2020-10-08T14:20:00Z
@@ -166,6 +182,38 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "WATCH: Joe Biden Tells Local Reporter Court-Packing is ‘A Legitimate Question’ — Then Gives Almost Perfect Answer"
+    excerpt: "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it's \"a legitimate question\" — then gave an almost perfect answer."
+    publishedDateTime: 2020-10-10T14:07:00Z
+    webUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/"
+    ampWebUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 54
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-9c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden says voters 'don't deserve' to know his position on packing the Supreme Court with additional justices ahead of the November election"
+    excerpt: "Joe Biden said on Friday that American voters 'don't deserve' to know his stance on packing the Supreme Court in remarks made to a reporter in Las Vegas, Nevada, during a campaignn stop."
+    publishedDateTime: 2020-10-10T21:32:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8826943/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 54
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/10/10/22/34237734-0-image-a-34_1602363783713.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "qgzrrf2EQD+LO4RcEtoUeEF4R2ERRQkKOdgiDxXjoPCXjJz5uar1NNJ/1rAwFx9PZdrPl85alXBNzHklj+P/tk1uluCh830lLPE5PAJvmV+TWTTu+TEPux4gJow5JrF1RZO6v3SHa8VN8Dvf+dbP4DScYrKRm5hT4oIeLPWEu4IN+RL+n1VpRfNY7K+XIszxRgxu5cDSxvMBUZPtNd54vaJBmCZJV2WzkegsAq0jnqtIEN8D8/5abJxn5fRVzZaSocUzFc888PJG4IR5HQ8iS2AJwFZyDv0CdEb996lztPw/VKgrvjL+leXO8fYv1Hcyw74vNlZjNkfpIOQycW7A6NQ0LSmdK0P+2KLJ6o7QvoY97dPsyI520cW5qoMtSbFhbEomqp34YP4nksywZn+g7XnMXPXIJ7GI25O/1aJeMoaBeb8KJu8U3P0ctjtycF8cCGDUcze5dvOkBhDm7aKU6hnFQj/jPbSjuEhEOz7w/fhRpFbwRTTC/jYs/bND21EQSPLgdoPnPZgoJPVNymIn8w==;usrsRmJOyGVvCX5FoDMXig=="

@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-11-victor-davis-hanson-trump-must-make-election-about-class-not-race.md",
+      "title": "Victor Davis Hanson: Trump must make election about class, not race",
+      "excerpt": "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race",
+      "originalUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab281d45-8c11-4bd0-8b40-7067347c261a/d9a98de5-8731-421a-851e-211aab65eee2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp",
+      "publishedDateTime": "2020-10-10T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-state-dept-slams-china-for-censoring-pence-debate-answer-critical-of-chinese-communist-party.md",
       "title": "State Dept. slams China for censoring Pence debate answer critical of Chinese Communist Party",
       "excerpt": "China censors \"any sort of criticism\" of the Chinese Community Party fearing it is bad news if their citizens see \"what actually happens,\" State Department spokesperson Morgan Ortagus told \"Fox & Friends\" Saturday.",
@@ -292,7 +348,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -569,7 +625,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 204,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -624,7 +680,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3508,
+      "heat": 3528,
       "tags": null,
       "images": [
         {
@@ -1568,7 +1624,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 211,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -1584,61 +1640,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln.amp",
       "publishedDateTime": "2020-10-06T16:12:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-biden-raises-eyebrows-after-telling-these-beautiful-young-ladies-he-wants-to-see-them-dancing-when-theyre-four-years-older.md",
-      "title": "Biden raises eyebrows after telling 'these beautiful young ladies' he wants to 'see them dancing when they're four years older'",
-      "excerpt": "Joe Biden has been raising eyebrows again with remarks he made to a group of \"beautiful young ladies\" during a campaign stop in Miami. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToQk2mH8KBE/biden-beautiful-young-ladies-see-them-dancing-four-years-older",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToQk2mH8KBE/biden-beautiful-young-ladies-see-them-dancing-four-years-older",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/742f3511-f207-4f14-8d92-2ccb96e3a22d/7dacdd04-ef8d-412a-9179-ce277aaff2a0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-beautiful-young-ladies-see-them-dancing-four-years-older.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-beautiful-young-ladies-see-them-dancing-four-years-older.amp",
-      "publishedDateTime": "2020-10-06T15:12:23-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -288,6 +288,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Turning Power of State Against Rivals, Trump Seeks Power of Authoritarians"
+    excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."
+    publishedDateTime: 2020-10-10T21:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump defends actions in lead up to Covid diagnosis in video posted from Walter Reed"
     excerpt: "President Donald Trump on Saturday addressed his health and defended his actions in the lead up to his Covid-19 diagnosis in a video recorded from a Walter Reed hospital room. “I just didn’t want to stay in the White House."
     publishedDateTime: 2020-10-03T23:55:00Z

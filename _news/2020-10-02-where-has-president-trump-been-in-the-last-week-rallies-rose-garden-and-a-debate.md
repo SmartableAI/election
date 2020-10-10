@@ -1469,6 +1469,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Warren vows Biden will 'hold Trump accountable' for pandemic"
+    excerpt: "The comments were vague, but Senator Warren repeatedly talked about \"accountability\""
+    publishedDateTime: 2020-10-10T21:52:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NuAH6q9M_So/warren-biden-trump-accountable-pandemic"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/gettyimages-warren.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump scored 'historic victory' in first presidential debate, campaign adviser claims"
     excerpt: "President Trump was the \"dominant force\" in Tuesday night's presidential debate against Democratic nominee Joe Biden Trump 2020 Campaign Senior Adviser Jason Miller told “Special Report\" Wednesday."
     publishedDateTime: 2020-10-01T01:39:50Z

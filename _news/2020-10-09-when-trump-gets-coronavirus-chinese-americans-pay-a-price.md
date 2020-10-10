@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -229,6 +229,20 @@ related:
       - url: "https://i.insider.com/5f7ce235282c500018c79013?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
+    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
+    publishedDateTime: 2020-10-10T19:43:00Z
+    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
+        width: 769
+        height: 433
         isCached: true
 
 secured: "+Uq4y6y9zvJt9ShUYus+JrBcCkHdTmOQrNsVgcNzZOtpulHvY1l0Zh2+R8AzdOK3BUT5imydSjFce7Dk6PZitraJfZgJLPUpD0asEmXlB/hDw6sW1zx+mt7e+8Rw6C3MWBNyMuBDnmtIMlBo2GUOI4Vyr9K1VinaRYk8SfGjGlWeeAzUc/srEPAsMlAcdfWJJadMGJwE1z8UBSPmPZ0xVFPTWKhfspV1hwBloHhnZw6B1koaBH/6SjcS6vbKAv7pibYau9KlsLUW5qUA0KpR3/wYdHcA47OhP3OK+XeHtpoZyhVphVhlnJS8njld4cHCwafYswfviqCWexVnHLn9fmjQZq/GAUwO4gdrCQiT48wlYxtOkTGw3Z2ZT2gfqVaEyevb57xfAGLMgFF+rj6xLrtCKA6V8KEjhuo23/abUILfXVByuo0uQFNMuYXbl4T5xTDN+0MJkPtMy0ZT6XGyNiJkZr3iApPDIjTB9jrk3DxWb+8JCH8tD3rkk155P/4vGHjrJet5uo93jq3Atn25CA==;EGgfM83kZD8cAzG5B5OZWg=="

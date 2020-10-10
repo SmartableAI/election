@@ -63,6 +63,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump picks up another Nobel Peace Prize nomination from Europe after diplomatic victories"
+    excerpt: "President Trump has picked up another nomination for the Nobel Peace Prize, after a Finnish member of the European Parliament (MEP) has called for the American president to be given the honor."
+    publishedDateTime: 2020-10-10T20:33:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TBVo42WulqA/trump-nobel-peace-prize-europe-diplomatic"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e8e094d-02fb-436e-b8c2-34d55254b703/1d37db9d-91f1-4844-8be6-32ccc9adf7b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ben Shapiro: 2020 now a referendum on vengeful Democrats, not controversial Trump"
     excerpt: "Supreme Court Justice Ruth Bader Ginsburg's death last week immediately initiated a political firestorm in Washington, D.C."
     publishedDateTime: 2020-09-24T10:09:00Z

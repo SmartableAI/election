@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3508
+heat: 3528
 published: true
 
 provider:
@@ -1452,6 +1452,20 @@ related:
     quality: 170
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump-mask.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Warren vows Biden will 'hold Trump accountable' for pandemic"
+    excerpt: "The comments were vague, but Senator Warren repeatedly talked about \"accountability\""
+    publishedDateTime: 2020-10-10T21:52:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NuAH6q9M_So/warren-biden-trump-accountable-pandemic"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/gettyimages-warren.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 695
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418267/201007-walter-reed-mn-1530_76a297a12a026ce9306916d1a9a781c3.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Turning Power of State Against Rivals, Trump Seeks Power of Authoritarians"
+    excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."
+    publishedDateTime: 2020-10-10T21:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Live updates: Trump back at White House after Covid-19 treatment at Walter Reed"
     excerpt: "President Donald Trump has returned to the White House after leaving Walter Reed National Military Medical Center, where he had been receiving treatment for Covid-19 since Friday. He immediately took off his mask to pose for pictures before walking into the building."

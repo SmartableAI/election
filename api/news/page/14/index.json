@@ -2,6 +2,61 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-25-trump-foments-mistrust-of-election-he-claims-wont-be-honest.md",
+      "title": "Trump foments mistrust of election he claims won't be honest",
+      "excerpt": "President Donald Trump and top aides are responding to the uproar over his failure to guarantee a peaceful transfer of power by intensifying their efforts to create election chaos he can use to cling onto power should he lose in November.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWYsLzAX4eM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UWYsLzAX4eM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 3310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200924212439-23-week-in-photos-0924-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/election-2020-electoral-fraud-donald-trump-joe-biden/index.html",
+      "publishedDateTime": "2020-09-25T01:57:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-pence-ivanka-visit-salon-damaged-by-minneapolis-unrest.md",
       "title": "Pence, Ivanka visit salon damaged by Minneapolis unrest",
       "excerpt": "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd's death, part of a campaign visit aimed at driving home President Donald Trump's law-and-order message in a key swing state.",
@@ -1257,57 +1312,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-biden-urges-protests-be-peaceful-after-prosecutors-clear-police-of-criminal-charges-in-breonna-taylor-death.md",
-      "title": "Biden urges protests be peaceful after prosecutors clear police of criminal charges in Breonna Taylor death",
-      "excerpt": "U.S. Democratic presidential candidate Joe Biden urged that protests be peaceful after prosecutors on Wednesday cleared police officers of criminal charges in the death of Breonna Taylor, a Black medical worker killed in March in her Louisville,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
-      "originalUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534678914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M2AH",
-          "width": 826,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26E3LK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E3LK",
-      "publishedDateTime": "2020-09-23T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

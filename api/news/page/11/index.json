@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-29-former-pence-adviser-appalled-at-pressure-white-house-placed-on-cdc-to-open-schools.md",
+      "title": "Former Pence Adviser 'Appalled' At Pressure White House Placed On CDC To Open Schools",
+      "excerpt": "Olivia Troye's latest comments confirm reports in New York Times about pressure from the White House to downplay the coronavirus' impact on children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781",
+      "originalUrl": "https://www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/04/09/coronavirus-pandemic-new-guidelines-issued-cdc.jpg",
+          "width": 1200,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/former-pence-adviser-appalled-pressure-white-house-placed-cdc-open-schools-3053781?amp=1",
+      "publishedDateTime": "2020-09-29T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-trump-gets-third-2020-nobel-peace-prize-nomination.md",
       "title": "Trump gets third 2020 Nobel Peace Prize nomination",
       "excerpt": "President Trump received his third Nobel Peace Prize nomination in September, this time from a group of Australian law professors.",
@@ -14,7 +65,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1272,61 +1323,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/brad-parscale-hospitalized-fort-lauderdale-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brad-parscale-hospitalized-fort-lauderdale-trump.amp",
       "publishedDateTime": "2020-09-28T09:34:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.md",
-      "title": "Trump on defense after NYT publishes tax info, says he is 'entitled' to credits 'like everyone else'",
-      "excerpt": "President Trump on Monday defended his tax history, saying that he paid “millions of dollars” to the Internal Revenue Service, and touted his “impressive” financial statements and willingness to “give up” his presidential salary, in the wake of a new report that called into question what taxes, if any,",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2cj61vxfGHY/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2cj61vxfGHY/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.amp",
-      "publishedDateTime": "2020-09-28T08:41:37-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

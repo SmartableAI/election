@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-25-trump-says-da-is-using-speculation-and-innuendo-to-get-his-tax-returns.md",
+      "title": "Trump Says D.A. Is Using ‘Speculation and Innuendo’ to Get His Tax Returns",
+      "excerpt": "Prosecutors have suggested in court papers that an investigation into the president could focus on a range of possible crimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/24/nyregion/24nytrumptaxes/24nytrumptaxes-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html",
+      "publishedDateTime": "2020-09-24T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-25-mary-trump-alleges-in-lawsuit-her-family-fleeced-her-out-of-millions-of-dollars.md",
       "title": "Mary Trump alleges in lawsuit her family 'fleeced' her out of millions of dollars",
       "excerpt": "President Donald Trump and his siblings \"fleeced\" their niece out of tens of millions of dollars, Mary L. Trump alleges in a lawsuit filed on Thursday. The president's niece is suing her uncle, his sister,",
@@ -1496,57 +1552,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-told-a-crowd-of-nearly-all-white-supporters-that-they-have-good-genes.md",
-      "title": "Trump told a crowd of nearly all white supporters that they have 'good genes'",
-      "excerpt": "Trump has previously suggested that he has superior genes and expressed pride in his \"German blood.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f69141b323fc4001e0d79c7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp",
-      "publishedDateTime": "2020-09-22T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

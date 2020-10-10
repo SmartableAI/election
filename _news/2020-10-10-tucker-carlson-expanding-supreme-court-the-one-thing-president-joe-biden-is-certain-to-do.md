@@ -46,6 +46,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden: Reporters should ‘focus’ on Republicans after pressed on court packing stance"
+    excerpt: "Democratic nominee Joe Biden said reporters should be focused on Republicans pushing through a Supreme Court nomination, rather than his opinion on court packing. "
+    publishedDateTime: 2020-10-10T21:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZEFUBjgrDw8/biden-reporters-focus-on-republicans-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f9b0894-75c0-421e-8092-805c0744fa61/290c82e2-fb8e-439e-9092-4154d073de22/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
     excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
     publishedDateTime: 2020-10-07T13:30:00Z

@@ -1465,6 +1465,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Warren vows Biden will 'hold Trump accountable' for pandemic"
+    excerpt: "The comments were vague, but Senator Warren repeatedly talked about \"accountability\""
+    publishedDateTime: 2020-10-10T21:52:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NuAH6q9M_So/warren-biden-trump-accountable-pandemic"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/gettyimages-warren.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Where has President Trump been in the last week? Rallies, Rose Garden and a debate"
     excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19."
     publishedDateTime: 2020-10-02T15:21:12Z

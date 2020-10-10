@@ -2502,6 +2502,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail"
+    excerpt: "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization."
+    publishedDateTime: 2020-10-10T21:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump, who still has COVID-19, went into the Oval Office yesterday, according to a top White House adviser"
     excerpt: "Kudlow would not say whether Trump wore a mask, instead claiming \"additional measures\" that are \"much greater than simply masking\" were taken."
     publishedDateTime: 2020-10-07T13:41:00Z
@@ -2533,6 +2549,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/1bf80870-669e-4a7b-ad05-39188534921c-AP_APTOPIX_Virus_Outbreak_Trump.jpg?auto=webp&crop=2341,1317,x0,y119&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump's first public address since COVID-19 diagnosis had hallmarks of a campaign event at the White House"
+    excerpt: "White House spokesman Judd Deere said the event was an \"official\" event, and \"the campaign is not involved in this.\""
+    publishedDateTime: 2020-10-10T21:23:00Z
+    webUrl: "https://www.cbsnews.com/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/10/8edbe822-2635-4cdf-83fd-290898f33e7e/thumbnail/1200x630/ceb27539b1ede26b1d98e19256853537/gettyimages-1228998575.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Column: Trump puts Secret Service agents at risk with COVID Car Ride - but relax, it was medically necessary"
     excerpt: "As President Donald Trump battles COVID-19, questions have come up about the accuracy of his health updates and his ride to wave to supporters outside Walter Reed Medical Center."
@@ -2779,6 +2811,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump delivers remarks to the public at White House"
+    excerpt: "US President Donald Trump on Saturday said he was \"feeling great\" as he made his first public appearance since returning to the White House after being treated for the coronavirus. (Oct. 10)"
+    publishedDateTime: 2020-10-10T20:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/10/trump-delivers-remarks-public-white-house/5955879002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/ad52620b-480c-45b4-b0f2-0ad9972f6359-14bc8e40-603a-41ad-b09e-4294c57b5b29_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z
@@ -3039,6 +3085,20 @@ related:
       - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "President Trump Makes First Public Appearance Since His Hospitalization for COVID-19"
+    excerpt: "President Donald Trump on Saturday made his first public appearance since returning to the White House after being treated for the coronavirus. The White House has refused to declare that he is no longer contagious,"
+    publishedDateTime: 2020-10-10T20:09:00Z
+    webUrl: "https://time.com/5898983/trump-white-house-covid-19-hospital/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 98
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/AP20284653128349.jpg"
+        width: 4458
+        height: 2972
         isCached: true
   - title: "Ex-FDA commissioners, including former Trump advisor, warn against White House efforts to 'tip the scales' on COVID-19 vaccine"
     excerpt: "Trump's first commissioner, and six others, suggest he's manipulating the FDA and undermining trust in any future coronavirus vaccine."

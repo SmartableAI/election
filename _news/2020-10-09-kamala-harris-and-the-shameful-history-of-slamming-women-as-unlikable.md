@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fox News cut ties with a frequent guest after he called Kamala Harris an 'insufferable lying b----' on Twitter"
+    excerpt: "Harlan Hill, who has ties to President Donald Trump's reelection campaign, was a frequent guest on Fox News until he tweeted an insult about Harris."
+    publishedDateTime: 2020-10-10T20:26:00Z
+    webUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/5f802c4eea74820019ca61a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fox News cut ties with a regular contributor after he called Kamala Harris an 'insufferable lying b----' on Twitter"
     excerpt: "Harlan Hill, who has ties to Trump's re-election campaign, was a regular contributor to Fox News until he tweeted a misogynistic insult about Harris."
     publishedDateTime: 2020-10-09T09:49:00Z

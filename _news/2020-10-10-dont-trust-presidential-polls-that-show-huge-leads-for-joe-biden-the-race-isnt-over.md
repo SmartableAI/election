@@ -359,6 +359,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden on economy & working families"
+    excerpt: "Watch \"Joe Biden delivers on economy & working families\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-10T21:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201010210848-joe-biden-delivers-on-economy-working-families/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/10/story_07203810_1602365464.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
     excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
     publishedDateTime: 2020-10-06T12:21:00Z
@@ -477,6 +491,38 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
         width: 1024
         height: 736
+        isCached: true
+  - title: "Joe Biden for president"
+    excerpt: "America is in peril. Our nation is buffeted by crises, and the warning lights are flashing red. We need a president with experience and character, someone who can extinguish the flames and rebuild the"
+    publishedDateTime: 2020-10-10T11:06:00Z
+    webUrl: "https://www.newsday.com/opinion/editorial/2020-presidential-election-joe-biden-newsday-opinion-1.50032702"
+    ampWebUrl: "https://www.newsday.com/amp/opinion/editorial/2020-presidential-election-joe-biden-newsday-opinion-1.50032702"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/editorial/2020-presidential-election-joe-biden-newsday-opinion-1.50032702"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 75
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50032703.1602331572!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
+  - title: "Joe Biden Takes a Dark Turn on Blowing Up the Court"
+    excerpt: "Now voters “don’t deserve” to know his position. This transmutes an untenable position into a downright nefarious one."
+    publishedDateTime: 2020-10-10T18:30:00Z
+    webUrl: "https://www.nationalreview.com/corner/joe-biden-takes-a-dark-turn-on-blowing-up-the-court/"
+    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-takes-a-dark-turn-on-blowing-up-the-court/amp/"
+    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-takes-a-dark-turn-on-blowing-up-the-court/amp/"
+    type: article
+    provider:
+      name: National Review
+      domain: nationalreview.com
+    quality: 75
+    images:
+      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/biden-vegas.jpg?fit=1200%2C675&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
     excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."

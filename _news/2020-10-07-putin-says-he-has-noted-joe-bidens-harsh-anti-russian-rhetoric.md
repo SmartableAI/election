@@ -709,6 +709,17 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 55
+  - title: "Elizabeth Warren stumps for Joe Biden at N.H. rally"
+    excerpt: "The scene in the parking lot of Teamsters Local 633 in Manchester, N.H., offered a sharp contrast to the big gatherings Warren hosted during the New Hampshire presidential primary, when supporters packed large venues and waited in long lines for a selfie with the Massachusetts senator."
+    publishedDateTime: 2020-10-10T20:25:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
 
 secured: "/Ce0g8H5C4dzceLyFqv8CVC/g6BLmeuLviyvypJNzlTOgFH5NrNARjC+xTZUZxcUwysZ/Dg2Wqq2mahLR6yMappnfXiAJWLvcU7zsSkQM4U9cOc/XS12ujpQaDHmLPRSjtHMVRAvmSPKSTkTIMAefloezgUPoMfD2mY4Ci1oqtSSCi3c+gG/+lmBKg/mtqrCh2My6UZYH78O4pjSkUWUaM4nO87dQwDghCwAm4pKuIjPZxRJg7WlHhCgMKoX5+lqHdObZpXInAERirApFTbXnICkRNJp7Sr8aNzZc/eP5jqpCQqUlNYVlTarPHYZzziIGtD6ZojAoCwkBfBuloO6W7tpPeWnVng2yfG24cWhtJX+oVDGlgcNzryZpdoQG1Z5TcIy4VbFLMe+Y7EFot3LiY8PeWjhirGsQ7a8uA8ahNbqxpCPykBluaQADEMwicSh/pFPBQpQqPDsSMTfcM8UlVVzMmMQ/kjPtu0wy/RbyKIfjnPqFihGEC7gmOGhKt/sxi4fb2sEL6kX1ujCteW4Hw==;E9rJCjd6ta4GE1yxczQHvQ=="
 ---

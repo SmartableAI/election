@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5735
+heat: 5755
 published: true
 
 provider:
@@ -3025,6 +3025,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Next Trump-Biden debates uncertain, though Oct. 22 is likely"
+    excerpt: "The campaign's final debates between President Donald Trump and Democrat Joe Biden were thrown into uncertainty Thursday as the rival camps offered dueling proposals for the remaining"
+    publishedDateTime: 2020-10-10T21:37:00Z
+    webUrl: "https://madison.com/news/national/trump-vows-not-to-participate-in-virtual-debate-with-biden/article_e657da8a-3b89-5de4-b130-e9b063321d68.html"
+    ampWebUrl: "https://madison.com/news/national/next-trump-biden-debates-uncertain-though-oct-22-is-likely/article_e657da8a-3b89-5de4-b130-e9b063321d68.amp.html"
+    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/national/next-trump-biden-debates-uncertain-though-oct-22-is-likely/article_e657da8a-3b89-5de4-b130-e9b063321d68.amp.html"
+    type: article
+    provider:
+      name: Madison.com
+      domain: madison.com
+    quality: 90
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/a3/8a389ad5-925c-5343-98ac-5f1e8c3c788d/5f7f3492701cd.image.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"

@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden: Reporters should ‘focus’ on Republicans after pressed on court packing stance"
+    excerpt: "Democratic nominee Joe Biden said reporters should be focused on Republicans pushing through a Supreme Court nomination, rather than his opinion on court packing. "
+    publishedDateTime: 2020-10-10T21:42:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZEFUBjgrDw8/biden-reporters-focus-on-republicans-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f9b0894-75c0-421e-8092-805c0744fa61/290c82e2-fb8e-439e-9092-4154d073de22/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
     excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."
     publishedDateTime: 2020-10-10T02:38:00Z
