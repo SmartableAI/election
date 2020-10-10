@@ -131,6 +131,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Gathers Supporters At White House, Plans More Rallies"
+    excerpt: "US President Donald Trump was readying to host hundreds of partisans at the White House on Saturday, in hopes of relaunching his struggling campaign less than four weeks from Election Day. Trump has declared he is feeling \"really good\" -- but doubts linger over his health,"
+    publishedDateTime: 2020-10-10T18:46:00Z
+    webUrl: "https://www.ibtimes.com/trump-gathers-supporters-white-house-plans-more-rallies-3060042"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "q4THZUI1T9dcHZfPWvyCo04+fsjBud3PyWhS7PEiKvntV6oN+y2xjdMODI+1loTnwf2rgS/LNsi+Qcj1E3Ndn8vtKG3lTHbmsjny9qOut+Qru2ttCrnM+LFLAotZ27kK2VS39DfclTQT7b5ucLQjT1RVrzTguy3b3IGBSvlRNKHZRzXVRbxG6y9qedTa9dfoj7M5MNW1F22Mm2E7I0KNqbYLCC4yz6fvOucjhUMGF49MjHEUiTH08BPQFo9DwjUsmH3TlAftmme310WBgnQN3yGE/lJmiCrN1j5FCp8uUXXzUuS7oSLuQIL/EXtzc03AQpYD5wofyhpuME5gC1CRor8zX+0WRdhb9ErZboXNd5E=;XzoRfXDsUlLgPvxMqBhWRQ=="
 ---

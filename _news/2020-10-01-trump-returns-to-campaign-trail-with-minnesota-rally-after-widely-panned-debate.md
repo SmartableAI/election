@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump makes 1st public appearance since his hospital stay"
+    excerpt: "President Donald Trump has made his first public appearance since returning to the White House after being treated for the coronavirus"
+    publishedDateTime: 2020-10-10T18:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-restarting-campaign-white-house-florida-events-73533619"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-restarting-campaign-white-house-florida-events-73533619"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-restarting-campaign-white-house-florida-events-73533619"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9069dcf49a294ded8e03b9ed532f28c1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Police: Friend convinced Trump ex-campaign boss to surrender"
     excerpt: "A standoff between South Florida police and President Donald Trump’s former campaign manager Brad Parscale ended after an officer who was friends with Parscale convinced him to surrender, officials said."
     publishedDateTime: 2020-09-29T07:57:00Z
@@ -58,6 +74,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "President Donald Trump makes first public appearance since returning from hospital"
+    excerpt: "Trump is also priming for a Florida rally on Monday and campaign events in Iowa and Pennsylvania later in the week.T he president addressed the large crowd even as the White House refuses to declare that he is no longer contagious and against the guidance of public health officials."
+    publishedDateTime: 2020-10-10T18:56:00Z
+    webUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WJQ34OE7ZRFRHBLMLIFT2XGPWY.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "x2hM4HsdekJgpijR1o1G5xGCgMWgy2RUetnkRQITQfaj0TSXn745oAtxAxLK2QaW2+P4rWc7e3eR1oPP+bmF61hQg/fakDED8U2gfwAreco676f1Xt2NtG9hHhlrTzp6q4IK/DZdfyptV3+gbMIR4scCnfLC9A3omMncHrkMN/co0Ik0KhdU6M87m4LKo9DtUwHUGOS90+N0faOmDLxaczD6DP50gh7e1P0lQ+b6QxUM+KmRJU0zvuU5l2vsLjEjTcqsgj0sOSTKcA5RokfZtoPFLNzH6bejLlGwl+YkNnGDjucW7zp1hSIsX5iAnuIJ+NqBwfJKGE8bQTSoTh1W2qNDKTxEzGIWdhFfegrb/n4=;CdaTlsjcBF0dWNbj2IfRhA=="
 ---

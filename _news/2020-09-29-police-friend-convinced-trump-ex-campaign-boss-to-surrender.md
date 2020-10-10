@@ -41,6 +41,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump makes 1st public appearance since his hospital stay"
+    excerpt: "President Donald Trump has made his first public appearance since returning to the White House after being treated for the coronavirus"
+    publishedDateTime: 2020-10-10T18:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-restarting-campaign-white-house-florida-events-73533619"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-restarting-campaign-white-house-florida-events-73533619"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-restarting-campaign-white-house-florida-events-73533619"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9069dcf49a294ded8e03b9ed532f28c1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
     excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
     publishedDateTime: 2020-09-30T23:13:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Donald Trump makes first public appearance since returning from hospital"
+    excerpt: "Trump is also priming for a Florida rally on Monday and campaign events in Iowa and Pennsylvania later in the week.T he president addressed the large crowd even as the White House refuses to declare that he is no longer contagious and against the guidance of public health officials."
+    publishedDateTime: 2020-10-10T18:56:00Z
+    webUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
+    ampWebUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WJQ34OE7ZRFRHBLMLIFT2XGPWY.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "vvDlOdYmI2Gtmyn9lIfARI9iIWzB++xTmleeBCGx5iCYlIoMrFsshzs4YTQVCSdE872wtQTd++CsQhkLPvacq1kjtgdhDUoOw/qAH2zjYxpGs2tzuNbBd86NYl/Dr9fz+29JbUHvsW2OA1M1Vhh0UeP9XXg/OQcvQDmdRf9ZhNGpIJo+Vm9Q6O2jA+PPQ2m4gk3kc0HNmpjQstXBho61jBjyya2D7j8Q4EYW4bkbNGKnAWlCStQFlvuHfFYD3q4m2ADQRGVafMrsBFuoLf5CYredRPGda5G6D9rFO/c2BFkEyEFp729tvRoCIpjzbyQ5PV0Os+nW2lMj6TZ7laZBIHkrhe+1kO3azBTK4k52hWc=;qrd1ooJ9TNJyyUe51O6xfg=="

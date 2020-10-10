@@ -176,6 +176,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump makes brief first public appearance since returning from hospital"
+    excerpt: "The president again downplayed the coronavirus, as he seeks to project a sense of normalcy in the final few weeks before the election."
+    publishedDateTime: 2020-10-10T19:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-makes-brief-first-public-appearance-returning-hospital-n1242829"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242829"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242829"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3419061/201010-donald-trump-white-house-mn-1420_5c11ab86a068428a6f421852ceea4ed1.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump and the GOP are using Kyle Rittenhouse in last-ditch 2020 voter strategy"
     excerpt: "With weeks to go before a chaotic and close election, Republicans are cultivating a vigilante identity — someone who breaks the rules to make things right."
     publishedDateTime: 2020-10-04T08:36:00Z
@@ -263,6 +279,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/dd/98/543c5dcf457192472a4ec33989f6/ap20184626091205-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump keeps things brief in first public address since hospitalization"
+    excerpt: "President Donald Trump on Saturday made his first public appearance since returning from a three-day hospitalization due to coronavirus, addressing hundreds of Black and Latino supporters crowded together on the White House lawn."
+    publishedDateTime: 2020-10-10T19:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/10/trump-white-house-speech-coronavirus-428516"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7d/90/2b7dc87d485486b1546ee723b41b/201010-trump-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5917943002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002"
 type: article
 quality: 162
-heat: 902
+heat: 922
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden-Harris hay bale display set on fire in Massachusetts"
+    excerpt: "A hay bale display constructed on a Massachusetts farm in support of Democratic presidential candidate Joe Biden and his running mate, Sen. Kamala Harris (D-Calif.), was set on fire Friday night."
+    publishedDateTime: 2020-10-10T18:36:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news/520478-biden-harris-hay-bale-display-set-on-fire-in-massachusetts"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news/520478-biden-harris-hay-bale-display-set-on-fire-in-massachusetts?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news/520478-biden-harris-hay-bale-display-set-on-fire-in-massachusetts?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 150
+    images:
+      - url: "https://thehill.com/sites/default/files/cranedicken_facebook10102020.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "How For-Profit Colleges Might Fare Under Joe Biden And Kamala Harris"
     excerpt: "For-profit colleges have had it made the last few years. After years of scrutiny and tougher regulation, many for-profit executives made a sigh of relief when Trump—the owner of an unaccredited for-profit college—was elected."
     publishedDateTime: 2020-09-14T19:03:00Z

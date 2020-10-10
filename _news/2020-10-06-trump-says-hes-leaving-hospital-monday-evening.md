@@ -1453,6 +1453,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Trump Hosts Hundreds at White House but Won’t Say If He’s Virus Free"
+    excerpt: "The balcony appearance Saturday kicked off Trump’s COVID recovery tour that will include stops in three states in three days."
+    publishedDateTime: 2020-10-10T19:31:00Z
+    webUrl: "https://www.thedailybeast.com/trump-hosts-hundreds-of-fans-in-first-white-house-event-since-covid-19-diagnosis"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "XrEIKvTQgHn31XZDanfjyFNNCARajREx4HDCbA72MpnAqDDJ2IhSp338XQlxBG+5n42qVt4XmsXoroZJ5uCfylbE78lUdDh8+1nPQbE9mOw4v1BzQ6SQ3ne1Y8ce9vXRko3mpRBV3U264Epe3fSeazugOaShWzKTy5ukOxKvd6jPDN9I4kqQKx9PzllgmV5+dNmvYfruBrSCqKmH8lKfcz03eum7aZ77qZJ392aN10gVusUx92MIcZtlTNkbhGIiqyY8IIefmHzaA/IdmHZ5Zaaw6ohhLef2T0kyQ3OXScHbq7HQIHdKNWbcbgTKqvOJ9Gngiz6Q1lpCYxPUQsKMHkniffFiL7xSiSkxUar1psA=;id0jHX/VeZbGERWdaNMXew=="
 ---

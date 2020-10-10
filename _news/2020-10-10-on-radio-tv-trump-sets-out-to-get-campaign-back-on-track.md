@@ -130,6 +130,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Trump Gathers Supporters At White House, Plans More Rallies"
+    excerpt: "US President Donald Trump was readying to host hundreds of partisans at the White House on Saturday, in hopes of relaunching his struggling campaign less than four weeks from Election Day. Trump has declared he is feeling \"really good\" -- but doubts linger over his health,"
+    publishedDateTime: 2020-10-10T18:46:00Z
+    webUrl: "https://www.ibtimes.com/trump-gathers-supporters-white-house-plans-more-rallies-3060042"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "AMr+ReJ3ExpfUFbHGtW0jcAmqWIdSDSlpxCDpnZ3wKM7zlrrKkwPWxgACN9bY1O7GJa8Nom4AO6QyP7pvy9w9X/jLjOVCcOWkkEWlYei8zRgEdFriBekGmtUvcOxl7HDXgHUpsAsccrcvSKTWu4OsvtQJFDVbzqzy5OXvJsvSa9rutJARkjlLhFPAkHm4hoVPmiXJyFPSsxakaACxg9pUGZPUvGiNEH4FX61moEAq1n5gdDzeCNKjC8v6OYLPGcMH4RYTzGU+1ouYeQN9o9rXSMQNQHEMVZ/vZUg9oJfzAikya0jXbuEm6omWekRblUkXsINk+M4iLYjR9mJLfd7vFL8XXmWqcKsRfGrFu2atQsMW21UyWKvuApy/9cNe42Gm7DmlQsJfDzOKrfyjn3WrxSF86FwiIf95n831vzUnFgTi7Zz/BX1ibYv/xcbN73umK+R5KFEJPHrMU/F53Na7WF+x7mmCJelN19GiUz+Ej4CV3jz1eb6tbzr1IxU2ro6jEVClPEP675I99Gow1svkQ==;vura4wJkJujQFMqiCQsmZw=="
 ---

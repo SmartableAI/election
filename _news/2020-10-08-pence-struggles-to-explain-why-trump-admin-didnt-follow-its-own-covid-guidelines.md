@@ -1089,6 +1089,22 @@ related:
         width: 2500
         height: 1588
         isCached: true
+  - title: "There Will Be No Trump Coup"
+    excerpt: "Three weeks from now, we will reach an end to speculation about what Donald Trump will do if he faces political defeat, whether he will leave power like a normal president or attempt some wild resistance."
+    publishedDateTime: 2020-10-10T18:35:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/opinion/sunday/trump-election-authoritarianism.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/opinion/sunday/trump-election-authoritarianism.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/opinion/sunday/trump-election-authoritarianism.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Douthat/10Douthat-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
     publishedDateTime: 2020-10-06T00:10:00Z
