@@ -2,23 +2,23 @@
 category: news
 title: "Second presidential debate between Joe Biden and Donald Trump canceled"
 excerpt: "Both campaigns have agreed to appear at the third and final presidential debate, a podium format set for Nashville on Oct. 22, the source said."
-publishedDateTime: 2020-10-09T23:16:00Z
-originalUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-ampWebUrl: "https://amp.desmoinesregister.com/amp/5944269002"
-cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5944269002"
+publishedDateTime: 2020-10-10T00:26:00Z
+originalUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+ampWebUrl: "https://amp.cincinnati.com/amp/5944269002"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5944269002"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Des Moines Register
-  domain: desmoinesregister.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
@@ -1066,22 +1066,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Polls show Joe Biden leading Donald Trump, but after 2016, should we believe them?"
-    excerpt: "National and state polls continue to show Joe Biden leading Trump. In some cases, it's by a double digit margin. But how accurate are they?"
-    publishedDateTime: 2020-10-09T20:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5942922002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942922002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 134
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Will Biden visit? Dem rival's absence raises the question after flurry of stops by Trump, Pence and family members"
     excerpt: "Democrat Joe Biden has yet to commit to stopping in a state that some believe could settle the election. But do candidate visits really matter, especially in a first-in-a-lifetime pandemic?"
@@ -3225,6 +3209,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Polls show Joe Biden leading Donald Trump, but after 2016, should we believe them?"
+    excerpt: "National and state polls continue to show Joe Biden leading Trump. In some cases, it's by a double digit margin. But how accurate are they?"
+    publishedDateTime: 2020-10-09T21:12:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5942922002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5942922002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 84
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
     excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
     publishedDateTime: 2020-09-14T22:52:00Z
@@ -3962,6 +3962,20 @@ related:
         width: 1300
         height: 759
         isCached: true
+  - title: "Second US presidential debate between Donald Trump and Joe Biden cancelled"
+    excerpt: "The second presidential debate between Donald Trump and Joe Biden has been cancelled. The nonpartisan Commission on Presidential Debates confirmed on Friday that the October 15 event would be scrapped."
+    publishedDateTime: 2020-10-10T07:44:00Z
+    webUrl: "https://www.standard.co.uk/news/us-politics/presidential-debate-cancelled-donald-trump-joe-biden-a4567906.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 68
+    images:
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/10/01/11/bidentrumpdebate0110.jpg"
+        width: 2467
+        height: 1645
+        isCached: true
   - title: "Vice President Mike Pence visits Arizona again for \"Veterans for Trump\" event"
     excerpt: "Vice President Mike Pence spoke about law enforcement, COVID-19, and trade at a \"Veterans for Trump\" event at The Wigwam in Litchfield Park on Sept. 18, 2020."
     publishedDateTime: 2020-09-19T00:23:00Z
@@ -4258,6 +4272,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "BMxDw7+Xvh00+2RK/nzTC6G6e8bDDcj4ek2osEHW5W5xC9zGsPCA44KnfyIyBkUp4JluCygWif+o0xu77ylnqIe5egUGhZ2xYynhZo0KD2dOxj0o4jBXquCvEiRxdNqhsaL5jCpfYkFNOnvnWyOMTzarT2S0efjx8jI0b12HEJLzukIRUUQYp44HprkCP0OyMN4m5B7lCxzXOoD6EUaPWkC4Db1DJNlpZL4DRXxnveJ+L8I9tgEAZcvNjgDpECV7ki9Mdaw0ANSZjy8elJc6M/osJ/KpKqZTGTws6+Nnx/OKKjniBKb+LnHmFt/4zlpnEff2IKYlTgFOG1AAxvrDUXh/UDIHVlH/vYXuazSK1aw=;EuG4/gCX6IGNIWu/SuJR9w=="
+secured: "YGuyWUjc+PfOuTAob6kb8XdeBkKJiz4IqiDN+NjJc95A71xELfUGJI7bddjEpX6xJ56awP6gkAa/wjS2wMutuV4sIPU2mGG3G0au6GSd3uwp77OdAGd2+SWitBcHw0EDcgQk09AH8a39L2t8BU8tzoK2C2c3DeUXkeh54iY6vuwr1z9q52srI5kUW0iIFQ6/oPLK/taC6q6S3ssTrC5GkwzeBAd9Ax/I4EC3d7WZT8gOQJ0BaN2ophYO8WNrmtAq6gwKY8gOOAzw8YmKvKKWI6v2KoGqCBKBwgXejMn848rYnCCJNipxquKJCXN5wqzaNaGRvqhF2zvjSmbtJMa0/g/GV7tS101TpUIWyjUIdzI=;5eAFAqC/wss9+g8vdTyYaQ=="
 ---
 

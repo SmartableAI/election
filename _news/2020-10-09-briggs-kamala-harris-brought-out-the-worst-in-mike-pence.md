@@ -473,6 +473,22 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 70
+  - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
+    excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
+    publishedDateTime: 2020-10-10T06:10:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/arizona/2020/10/08/kamala-harris-set-visit-arizona-voters-see-history-making/5913304002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5913304002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5913304002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former candidates support Joe Biden"
     excerpt: "Former candidates who ran for the Democratic nomination in 2020 are now supporting Joe Biden’s candidacy. This is not unusual for former candidates, but these ex-candidates are more outwardly enthusia"
     publishedDateTime: 2020-10-08T02:30:00Z

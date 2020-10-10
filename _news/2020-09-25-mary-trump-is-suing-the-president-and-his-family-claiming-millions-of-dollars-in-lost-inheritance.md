@@ -2238,6 +2238,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says he'll skip debate, calls Kamala Harris a 'monster' in wide-ranging interview"
+    excerpt: "President Trump gave a wide-ranging interview on Fox Business Network on Oct. 8. Here are some key moments from those remarks."
+    publishedDateTime: 2020-10-10T06:04:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/trump-says-hell-skip-debate-calls-kamala-harris-a-monster-in-wide-ranging-interview/2020/10/08/024c3d97-89a8-4452-ab63-b5fac3e55b36_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-08-2020/t_284839ba492d4f93b3443d65dfabb7cc_name_trump.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
+        isCached: true
   - title: "Pressure mounts on Trump to clearly condemn white supremacy. The White House insists he already has"
     excerpt: "President Donald Trump avoided reporters when departing the White House Thursday as the White House maintains he has nothing to clarify on his stance on white supremacy."
     publishedDateTime: 2020-10-01T21:44:00Z

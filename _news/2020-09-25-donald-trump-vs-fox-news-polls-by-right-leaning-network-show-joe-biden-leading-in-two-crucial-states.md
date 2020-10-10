@@ -1072,22 +1072,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Polls show Joe Biden leading Donald Trump, but after 2016, should we believe them?"
-    excerpt: "National and state polls continue to show Joe Biden leading Trump. In some cases, it's by a double digit margin. But how accurate are they?"
-    publishedDateTime: 2020-10-09T20:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5942922002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942922002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 134
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Will Biden visit? Dem rival's absence raises the question after flurry of stops by Trump, Pence and family members"
     excerpt: "Democrat Joe Biden has yet to commit to stopping in a state that some believe could settle the election. But do candidate visits really matter, especially in a first-in-a-lifetime pandemic?"
     publishedDateTime: 2020-09-16T15:43:00Z
@@ -3045,14 +3029,14 @@ related:
         isCached: true
   - title: "Second presidential debate between Joe Biden and Donald Trump canceled"
     excerpt: "Both campaigns have agreed to appear at the third and final presidential debate, a podium format set for Nashville on Oct. 22, the source said."
-    publishedDateTime: 2020-10-09T23:16:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5944269002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5944269002"
+    publishedDateTime: 2020-10-10T00:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5944269002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5944269002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
@@ -3229,6 +3213,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/17/democratic-presidential-nominee-joe-biden-voiced-his-support.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Polls show Joe Biden leading Donald Trump, but after 2016, should we believe them?"
+    excerpt: "National and state polls continue to show Joe Biden leading Trump. In some cases, it's by a double digit margin. But how accurate are they?"
+    publishedDateTime: 2020-10-09T21:12:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5942922002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5942922002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 84
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
     excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
@@ -3966,6 +3966,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WSSYAHR6KJAINA47WUBXULY44Q.JPG"
         width: 1300
         height: 759
+        isCached: true
+  - title: "Second US presidential debate between Donald Trump and Joe Biden cancelled"
+    excerpt: "The second presidential debate between Donald Trump and Joe Biden has been cancelled. The nonpartisan Commission on Presidential Debates confirmed on Friday that the October 15 event would be scrapped."
+    publishedDateTime: 2020-10-10T07:44:00Z
+    webUrl: "https://www.standard.co.uk/news/us-politics/presidential-debate-cancelled-donald-trump-joe-biden-a4567906.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 68
+    images:
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/10/01/11/bidentrumpdebate0110.jpg"
+        width: 2467
+        height: 1645
         isCached: true
   - title: "Vice President Mike Pence visits Arizona again for \"Veterans for Trump\" event"
     excerpt: "Vice President Mike Pence spoke about law enforcement, COVID-19, and trade at a \"Veterans for Trump\" event at The Wigwam in Litchfield Park on Sept. 18, 2020."

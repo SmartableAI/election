@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Coronavirus updates: Trump can return to 'public engagements' on Saturday, doctor says"
+    excerpt: "A pandemic of the novel coronavirus has now killed more than 1 million people worldwide. Over 36.4 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,"
+    publishedDateTime: 2020-10-10T07:35:00Z
+    webUrl: "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/US/donald-trump-taxes-01-ap-llr-201007_1602087324181_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
     excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
     publishedDateTime: 2020-10-09T17:29:00Z

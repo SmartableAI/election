@@ -468,6 +468,22 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 70
+  - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
+    excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
+    publishedDateTime: 2020-10-10T06:10:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/arizona/2020/10/08/kamala-harris-set-visit-arizona-voters-see-history-making/5913304002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5913304002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5913304002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Briggs: Kamala Harris brought out the worst in Mike Pence"
     excerpt: "Mike Pence started Wednesday’s vice presidential debate by taking us to an alternate universe. One in which President Donald Trump prevented a pandemic before it could even begin. “Before there were more than five (coronavirus) cases in the United States,"
     publishedDateTime: 2020-10-09T09:12:00Z
@@ -517,6 +533,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ivuzyXmBuAkOB0JQW7FaaGMMJPnuV5xN6AwME0NkgpBDSTC+jk97fvNlxnrJBk1auTcubGplKRO+2viytuZxop/7Chptrp1VmFJuATh/IJb2EW5XS9RUzHNWXGORc+fIf3BG+bWEXZXH5QoLLpJlKMkDQPjesGFa5XEKQh23P2izAghRcrY40/to3SJZ9PGDbGoBurWqn2u/sMPVy9z6bZZcvBjuoIzCTsGWEeuXNTvGcu0VWpamMUO4vk3FuTV+uDdV/WokscRMuDpgsO95rIlAPMEQen1J+cRfuox2eJT2O+2chewK29YWKgN0E97CUqi1Zc01oImpwaSrYDaKOJprwHuyr5irwZgqXvSLQQ0=;n1rG2EBy8Dh8Gi2cTqmoUA=="
+secured: "5kyauq91UmFderHGXhr6BjzW0xqVoFA6QwhNq/eTwL4W6uQ+LOnKwzA4RspBL0F0uCel5M8VJQuH+yXoQBoFtw7SiFe+ftxVM8fKD8EitonVrHcm04GSap0M5aX201/yjdkxOO3kw5R9GLARDzoEJL7SYQUmjGf4eAmtLOYGFvPlWZ3wksbsHC/1zokJjKPhuxLpE0pQxvsymz02BTbn7dPjci/kq8wqdudWuEtqibPBqeK7xRiulr9mvpsd49iHOs4HCXRwJj6lWBQ7Zbl7iPd+uA1+gFF1D4ZiwUajMPSHxh4uQ/I3u0yn34vLmcQjFGdZ3N/k/Tmx7VH6DWhL6HV5+ffB+dCOUvJMPkyaTiRnViFLxJLWfz+8Aockk9r42Gf6N2Zj6iIw7oZRVxtPvNiYIBBBIzWKP6V7plYP7run56vtocWYjM/jSWFjqpfU+DG2Mo7nG2CB9rVWqIahehlvm71HtxMwYeZ6ImdbkaE+ryyw4vNKx+3SXEyUFB1OJc1kWbbmfF6AJXcN7KXnOg==;PPgRaIppi93kvfjPiyLHwg=="
 ---
 

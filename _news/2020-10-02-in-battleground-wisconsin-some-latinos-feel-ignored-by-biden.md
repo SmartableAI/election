@@ -126,7 +126,7 @@ related:
   - title: "Joe Biden Campaigns in Las Vegas"
     excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a campaign event in Las Vegas, Nevada."
     publishedDateTime: 2020-10-09T22:17:00Z
-    webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaigns-las-vegas&ICID=ref_fark"
+    webUrl: "https://www.c-span.org/event/?476748/campaign-2020-joe-biden-campaigns-las-vegas"
     type: article
     provider:
       name: C-SPAN

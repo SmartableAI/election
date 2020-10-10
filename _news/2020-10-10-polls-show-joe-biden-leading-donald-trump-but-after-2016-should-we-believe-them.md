@@ -2,23 +2,19 @@
 category: news
 title: "Polls show Joe Biden leading Donald Trump, but after 2016, should we believe them?"
 excerpt: "National and state polls continue to show Joe Biden leading Trump. In some cases, it's by a double digit margin. But how accurate are they?"
-publishedDateTime: 2020-10-09T20:51:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
-webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
-ampWebUrl: "https://amp.usatoday.com/amp/5942922002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942922002"
+publishedDateTime: 2020-10-09T21:12:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
+webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/09/polls-biden-trump/5942922002/"
+ampWebUrl: "https://amp.azcentral.com/amp/5942922002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5942922002"
 type: article
-quality: 134
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -3028,14 +3024,14 @@ related:
         isCached: true
   - title: "Second presidential debate between Joe Biden and Donald Trump canceled"
     excerpt: "Both campaigns have agreed to appear at the third and final presidential debate, a podium format set for Nashville on Oct. 22, the source said."
-    publishedDateTime: 2020-10-09T23:16:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5944269002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5944269002"
+    publishedDateTime: 2020-10-10T00:26:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/09/presidential-debate-second-debate-between-trump-biden-cancelled/5944269002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5944269002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5944269002"
     type: article
     provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
@@ -3966,6 +3962,20 @@ related:
         width: 1300
         height: 759
         isCached: true
+  - title: "Second US presidential debate between Donald Trump and Joe Biden cancelled"
+    excerpt: "The second presidential debate between Donald Trump and Joe Biden has been cancelled. The nonpartisan Commission on Presidential Debates confirmed on Friday that the October 15 event would be scrapped."
+    publishedDateTime: 2020-10-10T07:44:00Z
+    webUrl: "https://www.standard.co.uk/news/us-politics/presidential-debate-cancelled-donald-trump-joe-biden-a4567906.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 68
+    images:
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/10/01/11/bidentrumpdebate0110.jpg"
+        width: 2467
+        height: 1645
+        isCached: true
   - title: "Vice President Mike Pence visits Arizona again for \"Veterans for Trump\" event"
     excerpt: "Vice President Mike Pence spoke about law enforcement, COVID-19, and trade at a \"Veterans for Trump\" event at The Wigwam in Litchfield Park on Sept. 18, 2020."
     publishedDateTime: 2020-09-19T00:23:00Z
@@ -4262,6 +4272,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "8G8USmh4wrn9vWjbPpUb+BQnJiKLxcxLARDoP5dGNDnXq9Y3xrpJ78OTOkxIK4Uj+X3HYhnQpBrkkSF9YPGTjNEI5iy9LeUrOoHL97CCIKxWyZ+mRSpLblw5rNzCKY8qLhMmJAnyacO6VFluOldDxGk3R9DlYiN126hlxvpHuFmKw+q/tGKr7YqvrgPT6TFHCL4SySyfcbvDJxLuBOyb/e69BITL4nUq0FO56oe4PSrPx1C7xCygkqrvf8mvFbHj+IVeQR9S+ww5OQIkfSghEqpx2li74yWubBjpm0egokAxHVzFsPJMTRDEncDHCsQgs11ab9vyyD+xuBOs2h1iRWdnHX1e8K6skzO3ZDZn+5M=;ZCkJd7RHcu5NjaKJmJkvjw=="
+secured: "xBYMjWKd5qK+c9oxAX9B52s/F1LOO7gKMn8obmT7C1R00JVeK4KEwCBEvxRgosdgCJ0qTM4mbDbcNrVyMtfV2pY/nqEOm7FLumwZFJcfDS5GH4D/YMThsnjsJbOOVIVtOnU2Ko4HknrmI9WkeCVkGqq7HDysFDdgtY+bJAorsRPWyeZSMknoQgHC4T3/cYmYqQGAcW3rxzl91BQezznsoU+h8/ygFtnb4vxMWKAMBSmwiNYvE1b38UGyG4wX1zWEaEmPIqcNNV/QV0BraURCg4MYMu22eoXqm+fGCzBc2zfE+5ZYFz3bjmo54W+TXEXTFlcOAOxXwJxEXktWfH62l0U+Ew7GOPDZhZSM88zkrHg=;yN7aPn8+lXtChvtnZjadtg=="
 ---
 

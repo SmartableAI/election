@@ -3308,6 +3308,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Donald Trump Says He's Fine, No Apologies for COVID Conduct"
+    excerpt: "Donald Trump says he feels great and special treatment at Walter Reed Hospital ... as he put it -- \"It's good to be President.\""
+    publishedDateTime: 2020-10-10T00:58:00Z
+    webUrl: "https://www.tmz.com/2020/10/09/donald-trump-says-hes-fine-covid-fox-news-tucker-carlson/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/09/donald-trump-says-hes-fine-covid-fox-news-tucker-carlson/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/09/donald-trump-says-hes-fine-covid-fox-news-tucker-carlson/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 75
+    images:
+      - url: "https://imagez.tmz.com/image/d0/16by9/2020/10/10/d004f24fd2d842c3893a71b13bc31855_xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
     publishedDateTime: 2020-10-02T12:11:00Z
