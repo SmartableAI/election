@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
 type: article
 quality: 107
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself"
+    excerpt: "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911."
+    publishedDateTime: 2020-09-28T09:08:00Z
+    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/"
+    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 109
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Reports: Former Donald Trump campaign manager Brad Parscale hospitalized after threatening to harm himself"
     excerpt: "Multiple outlets reported former Donald Trump campaign manager Brad Parscale was taken to a hospital without incident after police were called."
     publishedDateTime: 2020-09-28T02:24:00Z
@@ -76,6 +92,22 @@ related:
       - url: "https://i.insider.com/5f767a250ab50d00184adb74?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump Ignores Reporter Questions on Being a ‘Super Spreader’ as He Leaves Walter Reed Hospital"
+    excerpt: "Trump doesn't answer when reporter asks if he is a 'potential super spreader' during discharge walk out of Walter Reed Medical Center"
+    publishedDateTime: 2020-10-05T23:50:00Z
+    webUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 63
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/trump_ignores_reporter_questions_on_being_a__super_spreader__as_he_leaves_walter_reed_hospital.jpg"
+        width: 799
+        height: 444
         isCached: true
 
 secured: "+iZFBzD89JJb/0JBcqjtedDvvT0tcHm2iR5/grKRWaZzu0qF335W1XGLuhr74BjX5H9JRcFQQTzelHCF7O19xw1xzJ/Mhtn99jLXc92EShYYq+18QQy1d63Cc/NFK+dtqW3ZS0EoL/uDZfP10kD0I4GgaUQ5I8ZjR7Dgcum0bq3+L9fJ/jrVAiVYUniSGTfa1E73PYO3FJacGFAwpv3uTmo2zWLVCJaK62m85Zw55U1ukrxr6He24l9fVgUcGs6a5fBUauQZVWZ0Jkq0LWosspKs4jY7HB7asYt2W7RSjYZm4P4LXQkk0Ywmj74lgHUGPDo44rjk0lTe1P0M/ZdrP7o7R40fKfQuqvtaOrjiaK0=;NV1TXsgr83LDMhmMI/tm1g=="

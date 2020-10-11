@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-biggest-tax-cut-ever-2020-camp
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biggest-tax-cut-ever-2020-campaign-tweetstorm-2020-10?amp"
 type: article
 quality: 109
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Trump Ignores Reporter Questions on Being a ‘Super Spreader’ as He Leaves Walter Reed Hospital"
-    excerpt: "Trump doesn't answer when reporter asks if he is a 'potential super spreader' during discharge walk out of Walter Reed Medical Center"
-    publishedDateTime: 2020-10-05T23:50:00Z
-    webUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 63
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/trump_ignores_reporter_questions_on_being_a__super_spreader__as_he_leaves_walter_reed_hospital.jpg"
-        width: 799
-        height: 444
-        isCached: true
 
 secured: "BjEdt0fWindizjBYXkHfIP/HuqzjyOhs38UCRnVoOkXthsqJP2lifcOYFGBYEXzB4HUTUQf+Uhrckdpsn/B0e+zjfgd5pG8NrWcSSlNO9VaUO2Oytq4MFlVf+VcjGG2bJFfLhEK/U9/uhHgIC7F3pi1Vn/SrWuNzkdpaVk7t2NJpAehlBkw36J648h/FLw+Ma6q+8MaK4YWqD9yU5AgBvhPrR9TOyb8qHLdSxokbS5RK5TUN6u1NL7O/EAYuInv/7n8Jzw7eejFvVV0fXTXUa5Im/fy/FIFyrkJEc6SFmKL9ue2/NEIY57PYTUiWiB+Htso4MBTN0ri6Qh01mYHT+uvi/A2TKFwbvLPagiFJ67I=;PvY5oyCd6c9uTGE0wJ0HiQ=="
 ---

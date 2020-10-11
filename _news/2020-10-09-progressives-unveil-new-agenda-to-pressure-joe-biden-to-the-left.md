@@ -104,20 +104,6 @@ related:
         width: 1500
         height: 844
         isCached: true
-  - title: "Biden says voters don't deserve to know his stance on packing Supreme Court"
-    excerpt: "Democratic nominee Joe Biden on Friday said that voters don’t deserve to know if he would attempt to pack the Supreme Court if he wins in November and Amy Coney Barrett is confirmed to the high court."
-    publishedDateTime: 2020-10-10T15:45:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9HUTv_FY1Xg/biden-voters-deserve-packing-supreme-court"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9810bc4e-f9a2-4907-9eb6-21f85a4165c7/b8b9b429-1b1c-4cf0-8b6e-165b5af3d67e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Joe Biden doubles down on court packing: ‘You'll know my position’ after the election"
     excerpt: "Democratic presidential nominee Joe Biden is remaining silent on whether he supports a move by many progressives to expand the number of justices on the Supreme Court if the Democrats win back the White House and take control of the Senate in November’s elections."
     publishedDateTime: 2020-10-08T21:21:00Z
@@ -149,6 +135,20 @@ related:
       - url: "https://images.wsj.net/im-240436/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden says voters don't deserve to know his stance on packing Supreme Court"
+    excerpt: "Democratic nominee Joe Biden on Friday said that voters don’t deserve to know if he would attempt to pack the Supreme Court if he wins in November and Amy Coney Barrett is confirmed to the high court."
+    publishedDateTime: 2020-10-10T16:02:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-voters-deserve-packing-supreme-court"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 113
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9810bc4e-f9a2-4907-9eb6-21f85a4165c7/b8b9b429-1b1c-4cf0-8b6e-165b5af3d67e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden Is Flirting with the Destruction of the Judiciary"
     excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to the constitutional order in modern American history."

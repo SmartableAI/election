@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-ma
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
 type: article
 quality: 150
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -46,7 +46,21 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Arnon Mishkin: Trump reelection in trouble, polling indicates — race is referendum on him"
+    excerpt: "Following his debate performance and hospitalization with COVID-19, President Trump continues to trail former Vice President Joe Biden in national polling in their presidential race."
+    publishedDateTime: 2020-10-10T23:33:00Z
+    webUrl: "https://www.foxnews.com/opinion/polling-trump-election-arnon-mishkin"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81202508-7b03-4a6b-ae69-4308c016af33/d037b5e2-486b-4fdf-9e57-1e6048897a4b/1280x720/match/image.jpg"
+        width: 1079
+        height: 720
+        isCached: true
 
-secured: "WBcnuMxZ5UDU21el/QVGydkUnZ2WTgdDbSG3jX6NW7wSUhuU+07fDpwqceV+pPaFd8stLrQFQcKrh7ek/maVDJHirjoHQ5s8f85XmwlIatkKb+oyUOpMLFzy5tJEglnWgSi1x9lqSYcT8u2YuCIhPZVSZuR7N5CHRddTA3JA5E+oWFkQWXSPEWa68cQ+8CJpW8/hJdLtyzugd67CeeYFO2rf/vHwHEVwKBmc7Nz5cSIcnDLsfgC19pzk9I3GMpmcYSDx7zswD3Qz/ym30tDUfc2Wh91OWU7JveWO3nlWExL1Td1GNHNRgD3e9NXrwfA1Alxdk2iupSdZfWdxT/FOsSaxA5FEWJuUauPByv8y8Os=;EmA4zMi2hQ/jTNGUSGQbEA=="
+secured: "0SaqWZw+nAVU+XQ2SOXsaJHkf2ckzgUw6p3gf9PswFj9fnizrw5XiTsU1Bf23d/gQa3wZhoeXOHSP69l3Vpl4X50TtxPFlNA0sptNkIXY2YOtAKN3R+yxmDYqtiZ752khsbeoyhF0qSJxfYO+OVspQg4m8AGwSpwuUlf291QBSW0DbFZbKoJ8tLWAP00uvGoSmDM2ZfxzwJcVXTEdSkhijXWDJW/5dco/IddnxT5WzAbnrTZGUJ5c1d5UsAeuMRKrEg3IYhZAdIvKtVIumLTAvAlvh6KuZS1e3N6nqkoIXAcsfzAGb2+jyHli7iSjxpqVJTCVnZW14cCUihErEZoXpX26ezZOY/vFO7SeH0r08LfS7PbQweXqvJ2rF9/0rse8om82eAuOSLYxjFjP9B4CHF1H6eF7bHzRjnbPkU0Y/W10y9T1zVNlvPZi5MPhutOv/M4xqF0znWK3XVgDRlDA6SilL6kJ1rXhV0MnGEilh7HtvI31xYvvc2sxSNCoCvxCHl+04QlPD5KWHYerDaMzw==;+VVLoh/lA6rvPgF0M3OODg=="
 ---
 

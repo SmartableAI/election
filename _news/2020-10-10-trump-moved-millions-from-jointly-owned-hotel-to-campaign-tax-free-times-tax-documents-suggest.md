@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-cam
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793?amp=1"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: International Business Times
@@ -31,54 +31,17 @@ images:
     isCached: true
 
 related:
-  - title: "Progressive groups launch 'We Paid More' campaign in response to Trump taxes report"
-    excerpt: "A coalition of progressive groups on Monday launched an initiative to make the case that the tax code is too favorable to the wealthy, after The New York Times reported last week that President Trump"
-    publishedDateTime: 2020-10-05T17:42:00Z
-    webUrl: "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on"
-    ampWebUrl: "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp"
+  - title: "Jackie Robinson's daughter wants father's image removed from Donald Trump campaign ad"
+    excerpt: "A recent campaign ad released by Donald Trump features a photo of Baseball Hall of Famer Jackie Robinson, and the Dodgers legend's family is not please. Shortly after the ad came out on Tuesday, Robinson's daughter,"
+    publishedDateTime: 2020-10-09T17:14:00Z
+    webUrl: "https://www.cbssports.com/mlb/news/jackie-robinsons-daughter-wants-fathers-image-removed-from-donald-trump-campaign-ad/"
+    ampWebUrl: "https://www.cbssports.com/mlb/news/jackie-robinsons-daughter-wants-fathers-image-removed-from-donald-trump-campaign-ad/amp/"
+    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/mlb/news/jackie-robinsons-daughter-wants-fathers-image-removed-from-donald-trump-campaign-ad/amp/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 119
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump turned his hotels, resorts into 'Beltway's new back rooms,' New York Times reports"
-    excerpt: "The New York Times has released a staggering report,</a> the fourth in its series, based on President Donald Trump's federal tax returns."
-    publishedDateTime: 2020-10-10T19:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 116
-    images:
-      - url: "https://s.abcnews.com/images/US/trump-gty-rc-201010_1602342464487_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself"
-    excerpt: "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911."
-    publishedDateTime: 2020-09-28T09:08:00Z
-    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/"
-    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 109
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839"
-        width: 1200
-        height: 675
-        isCached: true
+      name: CBSSports.com
+      domain: cbssports.com
+    quality: 48
 
 secured: "qWwMHYaGyfd/Ssbjk7Vez14lKeu28sr9rj3wA2Jg96cm+SB0xu8dhZQkhMg6rVBNQt5AyiRETV45fly9uHwBFc0KUXlcBPbwvnWLQNRYmy9YoR9VF/ep12WPw3+NAZTwsueRyGVk2ohKCpRXzfDTj7wSwBQ9Fxtit2HYVpmrlQ2DhiouLumoRdC9j/ttO/cH52gCQmact3EwlsLdwfzE2Il39F/aCBvwfEtu3SuZGLf1k8kIixHtMK3GGYDbitMgrPujw2jQQ6+QhlPKh6WwrCSA63aaAVsepAt5OYXtVz5WlzgWN715ykurBJCBAhL5v+nfHi04NFZj3v4Mqr9xBQ/5umH48HMWL+T7gAuaLWU=;vbaS1o8C79n1hVz9YqKAiw=="
 ---

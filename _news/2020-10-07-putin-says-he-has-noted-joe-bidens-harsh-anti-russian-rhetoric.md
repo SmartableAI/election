@@ -89,6 +89,22 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Biden hits Trump on economy in critical Pennsylvania county"
+    excerpt: "Democratic presidential candidate Joe Biden is blistering President Donald Trump as only pretending to care about the working-class voters who helped flip the Rust Belt to the Republican column four y"
+    publishedDateTime: 2020-10-10T22:28:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-hits-trump-economy-critical-pennsylvania-county-73543380"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-hits-trump-economy-critical-pennsylvania-county-73543380"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-hits-trump-economy-critical-pennsylvania-county-73543380"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_867f90bf79d74c53b4ddd31d8d4350a4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?"
     excerpt: "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades."
     publishedDateTime: 2020-10-10T11:13:00Z
@@ -412,6 +428,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden makes campaign stop in Erie, Pa."
+    excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-10T22:33:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201010231901-joe-biden-makes-campaign-stop-in-erie-pa/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/10/story_07204051_1602372125.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says he doesn't know Proud Boys, but 'they need to stand down,' as he faces backlash for not criticizing white supremacists"
     excerpt: "Facing criticism for not denouncing white supremacist groups during the debate Tuesday, President Trump said he's \"always denounced any form of any of that.\""
     publishedDateTime: 2020-10-01T04:12:00Z
@@ -599,6 +629,22 @@ related:
       name: Detroit Free Press
       domain: freep.com
     quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/24/PDTF/ce1d71ab-7580-4236-9ead-b6ed0bb426a2-biden_091218_05.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden: 'Through line from President Trump’s dog whistles' to Whitmer kidnapping plot"
+    excerpt: "The Democratic presidential nominee said he reached out to Whitmer earlier in the day, after news broke of the thwarted kidnapping plot."
+    publishedDateTime: 2020-10-10T23:28:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/08/biden-trump-dog-whistles-whitmer-kidnapping-plot/5932432002/"
+    ampWebUrl: "https://amp.freep.com/amp/5932432002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5932432002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 81
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/04/24/PDTF/ce1d71ab-7580-4236-9ead-b6ed0bb426a2-biden_091218_05.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
         width: 1200

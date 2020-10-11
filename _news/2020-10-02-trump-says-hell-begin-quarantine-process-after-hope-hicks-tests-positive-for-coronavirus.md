@@ -1214,6 +1214,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Judge in battleground state tosses Trump campaign's lawsuit challenging voting policies"
+    excerpt: "The ruling by Pennsylvania federal Judge J. Nicholas Ranjan — a Trump appointee — also poured cold water on Trump’s claims that Pennsylvania is fertile ground for election fraud."
+    publishedDateTime: 2020-10-10T22:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/judge-battleground-state-tosses-trump-campaign-s-lawsuit-challenging-voting-n1242834"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242834"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242834"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2018_12/2368201/180319-pennsylvania-voting-mn-1600_64fdcf3e7ea913b7b1e8edb965aafeb2.jpg"
+        width: 2400
+        height: 1222
+        isCached: true
   - title: "California school districts spurn Trump food box letter weeks before Election Day"
     excerpt: "Critics have accused the president of politicizing poverty and using the food relief program as a campaign tool."
     publishedDateTime: 2020-10-07T23:39:00Z

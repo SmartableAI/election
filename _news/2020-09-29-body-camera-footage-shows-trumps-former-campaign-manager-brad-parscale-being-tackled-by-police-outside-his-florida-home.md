@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself"
+    excerpt: "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911."
+    publishedDateTime: 2020-09-28T09:08:00Z
+    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/"
+    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 109
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former Trump 2020 campaign manager Brad Parscale hospitalized after threatening to harm himself, police say"
     excerpt: "Brad Parscale, who served as President Trump's 2020 campaign manager until July, was taken to a mental health facility Sunday night after barricading himself in his home with weapons and threatening to harm himself,"
     publishedDateTime: 2020-09-28T02:43:00Z
@@ -76,6 +92,22 @@ related:
       - url: "https://i.insider.com/5f767a250ab50d00184adb74?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump Ignores Reporter Questions on Being a ‘Super Spreader’ as He Leaves Walter Reed Hospital"
+    excerpt: "Trump doesn't answer when reporter asks if he is a 'potential super spreader' during discharge walk out of Walter Reed Medical Center"
+    publishedDateTime: 2020-10-05T23:50:00Z
+    webUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 63
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/trump_ignores_reporter_questions_on_being_a__super_spreader__as_he_leaves_walter_reed_hospital.jpg"
+        width: 799
+        height: 444
         isCached: true
 
 secured: "ZCjf/o8t8c3aSLlimwAkWYImd6snPl7pk8CcIfAbKH1eFDBzmTU7nPjZygmLVzkNO93nr4KsvRbFB6ynCM/btytufBM+r2xCDsmOHL7cJdnzRr3n1jgKWKVBECnxpuqSWowzE/CcKMDEzsDq3O03FuFGX5VH790xBSSjPFWyULwEEtBnc0vvCdZrItqkZDcQ3DDo5SZ8vpSxjl8JNbcCO3rritsWanbGBDRCtUMcM/PHCM0wNotDYE/dskmdsUoc/9Urhl9zAZ5ijTMYXEjQAUXxkTUv7oOcHrx3jhs95MUH035tBTa1Fob75FAOce1pUnuGl0MSqrBdfxFxZfcsw+U+RJ5IIHiSGPR3pBGCOh5sxpcfTS6cQlBGPTx95fhwkwDQMjnVnl6+8xN3hxcytN2a9ddRvmmC/S0FJHszBRRLWK6PRkxrPGSaRHqETfi+uRlwZIJ84pLbvn+DgBA5faUgJXfobcbHew68rfPnEOMmM4xMqkdFFUvQN10uXXZYZq7X9KpCdTBPATBtRtTbrw==;xchNNa6KI/LcOakIAgFJvg=="

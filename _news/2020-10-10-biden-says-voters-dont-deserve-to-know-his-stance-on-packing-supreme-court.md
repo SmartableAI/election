@@ -2,11 +2,11 @@
 category: news
 title: "Biden says voters don't deserve to know his stance on packing Supreme Court"
 excerpt: "Democratic nominee Joe Biden on Friday said that voters don’t deserve to know if he would attempt to pack the Supreme Court if he wins in November and Amy Coney Barrett is confirmed to the high court."
-publishedDateTime: 2020-10-10T15:45:45Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9HUTv_FY1Xg/biden-voters-deserve-packing-supreme-court"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9HUTv_FY1Xg/biden-voters-deserve-packing-supreme-court"
+publishedDateTime: 2020-10-10T16:02:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-voters-deserve-packing-supreme-court"
+webUrl: "https://www.foxnews.com/politics/biden-voters-deserve-packing-supreme-court"
 type: article
-quality: 153
+quality: 113
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -181,6 +182,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "PPkaoUmr8jfAjervCnup49e0eDh06ugMifFsPwHMD+PWi41JoheMffn/T6QqsoMEiCM6TRAsbLgYqnuGYKA6iKCsJBW9uy3hFLl9jXw7kuEsLhSqenhDMPeV4XWVwKxDyaFsaCBQsKOWfAv1t1u0oaSmyD3Tg0X6I7KLz8IXTTq2ZTfg19IHmdQG+p6H1Ht8FW6C8eu+ZWxpX2Posu/7xVEwl9aE+i7BCHKsUoYrQukfmOekaqrgvIdYYfIZVNN8WYxGfz7c+QbyhG+7YFTCQmPrN/JNlCDAAIOvxBNdVEC7TVLObKQRBlUUP8Z0n1RUegoYEHH6KquOB0G+8uJqtdUF9fzz8w4B8l72Slr/McI=;H0YlFKAzColcCY7wFhriNA=="
+secured: "ylmHBZAhblerGrIULukGQR5d8GoIzNE4fLvj9nfcyGuCsfnxbCZ0tBsGQoZ1Vm69jmLP7QznI5eR1kwiVt4NYaLDGZKLZsK4TLtuZBXo0Zq2zJFr6uppZ6C/Rm89q2kx6w3iyFEdTfXByq2LXPmaOoGVRNWBfeUY8ELWoy+u8YDdbeRIqW6Q9h6/M9FgLaRsdQxJCnKhFGDXV5A8KjcKY6TyzCSR+aWqsIs2tin8QIycBvuPIX1Qa9FDpC3r+vjMxIFbXn3yLqk0lRrzVXxCixD///uuymKetLbzl7udMAjGLMILuG+FPA80HF+bM5Hxgr4oAnBwYfkmYmdKau5FMV6gAizu/AuszaMpTPI745Q=;Al8dguqcJJCyRELiQ7XaYA=="
 ---
 

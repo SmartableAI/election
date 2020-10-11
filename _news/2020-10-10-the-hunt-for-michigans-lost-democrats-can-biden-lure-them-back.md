@@ -3,8 +3,8 @@ category: news
 title: "The hunt for Michigan's lost Democrats: Can Biden lure them back?"
 excerpt: "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state."
 publishedDateTime: 2020-10-10T11:07:00Z
-originalUrl: "https://www.nbcnews.com/news/us-news/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711"
-webUrl: "https://www.nbcnews.com/news/us-news/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711"
+originalUrl: "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711"
+webUrl: "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711"
 ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242711"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242711"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 5202
     isCached: true
 
-secured: "P5pUsrtYaC2DT9+u4xlyRgtRTuvgvOn2ZWUYiQJG+bcChej+5+S6tyuazQnATaafe7B378VGwnZ4rOlW1xo2mALC+WNINJwRHBGHunLrmEUhHJG4E0++/LP1R3ZqvTu20XGQtalhysEt9WuxmknxxZyM5mWFTLddJ7Cy1vhNR12i8SYrs01XSPSheKi0y6FiEbbVN9FnAEiOjeEBbfLslZddveY8dNUE8WtC8N5cDbSnLZryItCVc0wLbw/XQl46vSeeQvK+rhE4PYwbWaal2iR/U06dykTmWYIqRsuW3lrietK7W+cxTOmrHUSK1FZdiV+37hZTHJBN0xla95+N0ZuQ+zbqIHebROEKV4Izz3I=;At2iclPWDW/5htgXHVcWVw=="
+secured: "Revk58gDZejgkMKu/0AAM1ykFYIN318Hx7KyzXiaIhZs+HV303Haz1jBy8Xq2VJAW4wQRI2V7h1MVeCHiSgf3BfT7/7UmQqrEdwwYErnNqoHFXvQfU0xzqGsKeKFEB4zRTnZGDA22UcAaXkI8ItG5Y3wCy07AGyUwQKT3v4LwgJXdSz897s0/3+rKTE546sM6kxdlWtbOqFwMJeiX8TQrFXAyuWb7pbaaIB4zzI4KZzI6PecBStDkKPA4MOfIqpJVDfW8gZHhH9TZGEwDToePdu3x3PJL30h5fy8bGe2CxJa11xwcmogJ6Pt8mFh3fS7HC9yl5huPrnOzdqnbeabyD6KSesTC8Ab1GbGBdl0iPw=;YvM/pVxeNEGLzBTiFYl+RQ=="
 ---
 
