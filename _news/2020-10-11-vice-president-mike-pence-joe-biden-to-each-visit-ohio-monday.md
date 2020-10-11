@@ -280,6 +280,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "‘SNL’ Fly Sketch Mocks VP Debate Between Kamala Harris And Mike Pence"
+    excerpt: "One pesky guest—a fly—stole the show from Mike Pence during the first and only vice presidential debate (October 7) against his Democratic challenger Kamala Harris. RELATED: Vice Presidential Debate: 10 Best Fly Memes That Destroyed Mike Pence’s Chances Of Coming Out On Top After hopping into a teleportation machine that accidentally turns him into a fly,"
+    publishedDateTime: 2020-10-11T15:38:00Z
+    webUrl: "https://www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph.html"
+    ampWebUrl: "https://www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph.amp.html"
+    cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph.amp.html"
+    type: article
+    provider:
+      name: BET
+      domain: bet.com
+    quality: 100
+    images:
+      - url: "https://www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph/_jcr_content/image.large2x1image.dimg/__1602430261898__1602427006798/101120-celebs-snl-maya-rudolph-kamala-harris-vp-debate-fly.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Did Mike Pence accuse Kamala Harris of receiving debate questions in advance? Nope"
     excerpt: "The tweet was made to look like it was sent from @VP, one of the Twitter accounts used by the vice president, and has the same photo as Pence’s actual account."
     publishedDateTime: 2020-10-10T23:31:00Z
@@ -658,6 +674,6 @@ related:
         height: 600
         isCached: true
 
-secured: "GUUGYCktgfbrxE851joWrgh2lRheDXDQiGFzDkbQzQSA9kOJl1BjyaQg2xmpdScB7FcHHjUrMOMZRcf4Jxb1l8RtJeLVHN73WBAxkQVP6NvWvVvtga6X3o6reS+zyKzEgwZSHTdTFxvSmgFgzmMsMLaI6XP5pUUJl0wHF3Sz/rdG7Ov9wfAfK070pHQhQq8aH5fy8NkMIthPsY1lEqhAvVifdnlA2bQj93MSF/x3fv89T0mMBgJam0cdoIUrEKUBZ+enpEFQ3ShuAyGYBVPsFXpi5sHY60FkCxQGERvg4GwlikXiGqiDBQSBxGyidjgTIOxgPKxRJ1dY4YwqBCDUMstc6bx0ru0pZq6YxUHBidw=;KUkFSMLleTJ33KdFu9GcHw=="
+secured: "XhD438FmopbPdds6jq0wqnCkSpssLIe9DEx94wC1esnzG/LKAAYSk53yTlqcGZ4JJiAbNO/QOLmS9Gz0sSvL72xmCn4r7LWNTU+iQoZIbQW8LRFdP8EmGIj1EWwvoki2Kax4mgoTLdO8+DKxcmAyHxqoMkoVcycZZHyC+i8eWx1zfHNpWiMtAZP7aE4gsuW1MjoEsXwLu4JSiNo3pb9yhIS00ZDVFoQnMSDZOOVB4th8rv2L+tm+H2welAIBx/ciB8FwxcBhNwwQmdwB6Ub7PNNxrGHaINI1+wFWFGvRksXMWfGm/WWaTgfpLcV1s5VZC5oSA1raQG8pXyidqjXkJ3MJMotUT/9opwkE8kxzLkn/J21T2Kd2NrOSRi+sZXG1UsfCraa+nyknE+9bSbPRCrn/rUbYBrAaKeRYsC7RJyeZr1/jserhfffPq4RdbBwWGkB5bwhikR3hKpfpEPFOaLD6EUMm7YdqQkxKbnF3VFgiIv9XamV70XLjYfALyI4nNgA2hpWYBuSZUi6tjqeKJQ==;KcVlLvGJJUi6H2/RyYmomg=="
 ---
 

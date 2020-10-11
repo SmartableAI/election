@@ -91,6 +91,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Democrats need to turn Kamala Harris loose on Amy Coney Barrett: columnist"
+    excerpt: "According to New York Times Legal Affairs journalist Christian Farias, Senate Judiciary Committee Democrats would be wise to cede their time to Sen. Kamala Harris (D-CA) when hearings open on Monday over the nomination of Amy Coney Barrett to the Supreme Court."
+    publishedDateTime: 2020-10-11T19:21:00Z
+    webUrl: "https://www.rawstory.com/2020/10/democrats-need-to-turn-kamala-harris-loose-on-amy-coney-barrett-columnist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/democrats-need-to-turn-kamala-harris-loose-on-amy-coney-barrett-columnist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/democrats-need-to-turn-kamala-harris-loose-on-amy-coney-barrett-columnist/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 73
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/kamala-amy.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Kamala Harris says 'I'm answering the question' as she dodges on court-packing"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Thursday she was answering the question on whether Democrats should try to pack the U.S. Supreme Court as she declined to take a position on the issue."
     publishedDateTime: 2020-10-09T20:23:00Z
@@ -138,6 +154,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_70dd3658a4d2eb9ef428f24c9e71719f-h_ebc103cbe12a1add9a23b31dd1f56886.jpg?w=1024&h=576"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Jamaicans in Florida energised by Kamala Harris on 2020 ticket"
+    excerpt: "President Donald Trump and Joe Biden are entering the final stretch of the campaign in a fierce battle for Latino voters who could sway the results in Florida and determine who wins the White House. B"
+    publishedDateTime: 2020-10-11T19:49:00Z
+    webUrl: "https://www.dailypioneer.com/2020/world/jamaicans-in-florida-energised-by-kamala-harris-on-2020-ticket.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 55
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
         isCached: true
 
 secured: "I6q1LXZiUh+SR1JdNKIbUxcsOp4UiQeOQepTDNjEGLtsRdKhJkOn7R8Hb2Ypj2O1j/dUIVIdvJ5L9LcKZWowUvzioINFvsyD5zZ+Kxc878AruMXsiA+BU9bwWghDju7kdVsuozKz2elaYCW5hQUPK2ZlC8ZVJcsylpKnzK4MUxDcUc2We8Xeymr7x7pvQYlRm90z6uIn05QC4AcAjjJUDFMMkNCc1jhz0+ZsztihpdztJJYiJ/5lX7TQaI6AHgCJ9jlGbDOPlJnokZp0grIt91SQCRvHfyb0D/+Q3KYCsyaT/kKzyc7Fq7TuHi5PB05JeXr+qaVg7AV/e6Bnh69AFqw1nTfejnCMy/fXH4wkqpICjrj4RJ7iENgskbN4W7Ic4lWIw9QSEeN0h37z7HWix4v+HYYx67n70WnXSePR8cJAhmqGIUGj9+GYQp/GP8BdTKhMLym17u10AwF1oKDgdfVd3yZKs2IypHvuuTcRKElzYfxKYJ1sg+5K8PEjN5FsYkV7R62omXl6+JoZiig7Bw==;AWlOcNgfx6MnbBp0VBEVyA=="

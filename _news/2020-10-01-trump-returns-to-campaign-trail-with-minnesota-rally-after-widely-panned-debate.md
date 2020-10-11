@@ -76,20 +76,15 @@ related:
     quality: 105
   - title: "President Donald Trump makes first public appearance since returning from hospital"
     excerpt: "Trump is also priming for a Florida rally on Monday and campaign events in Iowa and Pennsylvania later in the week.T he president addressed the large crowd even as the White House refuses to declare that he is no longer contagious and against the guidance of public health officials."
-    publishedDateTime: 2020-10-10T18:56:00Z
-    webUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
-    ampWebUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    publishedDateTime: 2020-10-10T22:36:00Z
+    webUrl: "https://www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
+    ampWebUrl: "https://www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WJQ34OE7ZRFRHBLMLIFT2XGPWY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: al.com
+      domain: al.com
+    quality: 49
 
 secured: "x2hM4HsdekJgpijR1o1G5xGCgMWgy2RUetnkRQITQfaj0TSXn745oAtxAxLK2QaW2+P4rWc7e3eR1oPP+bmF61hQg/fakDED8U2gfwAreco676f1Xt2NtG9hHhlrTzp6q4IK/DZdfyptV3+gbMIR4scCnfLC9A3omMncHrkMN/co0Ik0KhdU6M87m4LKo9DtUwHUGOS90+N0faOmDLxaczD6DP50gh7e1P0lQ+b6QxUM+KmRJU0zvuU5l2vsLjEjTcqsgj0sOSTKcA5RokfZtoPFLNzH6bejLlGwl+YkNnGDjucW7zp1hSIsX5iAnuIJ+NqBwfJKGE8bQTSoTh1W2qNDKTxEzGIWdhFfegrb/n4=;CdaTlsjcBF0dWNbj2IfRhA=="
 ---

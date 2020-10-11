@@ -268,6 +268,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "‘SNL’ Fly Sketch Mocks VP Debate Between Kamala Harris And Mike Pence"
+    excerpt: "One pesky guest—a fly—stole the show from Mike Pence during the first and only vice presidential debate (October 7) against his Democratic challenger Kamala Harris. RELATED: Vice Presidential Debate: 10 Best Fly Memes That Destroyed Mike Pence’s Chances Of Coming Out On Top After hopping into a teleportation machine that accidentally turns him into a fly,"
+    publishedDateTime: 2020-10-11T15:38:00Z
+    webUrl: "https://www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph.html"
+    ampWebUrl: "https://www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph.amp.html"
+    cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph.amp.html"
+    type: article
+    provider:
+      name: BET
+      domain: bet.com
+    quality: 100
+    images:
+      - url: "https://www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph/_jcr_content/image.large2x1image.dimg/__1602430261898__1602427006798/101120-celebs-snl-maya-rudolph-kamala-harris-vp-debate-fly.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Vice President Mike Pence, Joe Biden to each visit Ohio Monday"
     excerpt: "Vice President Mike Pence is slated to visit Ohio Monday, the same day former Vice President and Democratic presidential nominee Joe Biden plans to campaign in the state."
     publishedDateTime: 2020-10-11T15:24:00Z
@@ -662,6 +678,6 @@ related:
         height: 600
         isCached: true
 
-secured: "mlaJ4AN45f/xPztllBcqUA9HV4zTKfOcccT6u941XCAWFtqBVIA9OCUy0l2fHk0xJIu4ny4WLLok1AmmpEbitGUbpza8evC3dVcuEBxa38wAecJHN1wYylSshT1Ezc4COqmIWX4aRb1nCQwnAWYVxPn5scBQh/pYsth/6fOSqbmFakgGR9k5vsAqsPn8exLNbYdI33CHwGGdUpa3sOUV05I75rlD4hlYiEs6wLU/MBXUJ/YoKleJqSDqSkiXI9xxdjrn63c7BymHx1FQV6HvXQdULwjMwr7Q1m4XKMquj1ygBHWLLi+MW+cnm80l5BMsHlj0b4D9mjx/p4lgJeNpZ2Yo48Sf5vpXub0NT0xOg0A=;3IVsURuOCeCt1mUOSbRNQQ=="
+secured: "VZ5sWgsxIalJgtexG5EgLworuYz413DDafnplfL3iF7az790x8ATLQlsFYGuo1wL2hugBnLOF57N7q+tEXlncgaMoqd/1wnNTyLNALrE59qCcF4VgOGscqfqJtI+GWF37ROhTy1UvBss1Gs4MDf58tgG8DHwfdLo/mzlRqWhnTxFuZJDd5G+2GxzDjV+jpzQhraT7QRm7x328kR9IZ8v+NJsxR7eGZAITppQcrK0yJX4fJ4huZQkvAXdUFyXxXDRfGfkaeslzElTcXwmlREoH0YyV/R+kLiFcX6Oi6PLBeaWYZFr0DIhu+kuWRY6YoCx0zR1NyxD91MClWGngcg5Yf/UGn/tfPQJ+BaEdtcZHblKVMSTJII68uVsRcaZAYVEW+fdYU+EBYOU59XRMYspPnQ+TrlRyf4RKEARIOLDvZMWBM5ag59aauX3SC5L+Z30l0OnjeyRtExn4L1vVvBFcSJbaJx7IGVxQZ0FrR5TqEndXqsQ6tdxNN76DsuwtrEWi4PwlGG1e+D1RT0mrTP5+A==;563640Em7hBITGCsh6GvDg=="
 ---
 

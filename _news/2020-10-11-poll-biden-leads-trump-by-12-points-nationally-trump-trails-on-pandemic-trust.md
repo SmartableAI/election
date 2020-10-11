@@ -3341,6 +3341,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "President Donald Trump claims he’s COVID-free, ready for campaign trail against Joe Biden"
+    excerpt: "President Donald Trump on Sunday declared he was COVID-19-free and ready to return to the campaign trail despite unanswered questions about his health on the eve of a Florida rally meant to kick off the stretch run before Election Day."
+    publishedDateTime: 2020-10-11T19:31:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2020/10/president-donald-trump-claims-hes-covid-free-ready-for-campaign-trail-against-joe-biden.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2020/10/president-donald-trump-claims-hes-covid-free-ready-for-campaign-trail-against-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/10/president-donald-trump-claims-hes-covid-free-ready-for-campaign-trail-against-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 81
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P6NXVABOIBHPLCPWXXVUGTXBQ4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Mike Pence launches 'Farmers and Ranchers for Trump' coalition in Des Moines"
     excerpt: "Vice President Mike Pence visited Iowa Thursday to campaign for President Donald Trump with 82 days until the election. Pence, who last visited Iowa in June, arrived at the Des Moines International Airport shortly after noon before delivering remaerks at the Iowa State Fairgrounds to launch the \"Farmers and Ranchers for Trump\" coalition."
     publishedDateTime: 2020-09-11T22:26:00Z
@@ -4340,6 +4356,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "GGR5HmkrhAJmu26gluWBLU640To5a3BLfOEROvnH/0LeM9HA45XZLF8sEXZqmQ+VOt1PesRRzoEF7JjutyiaO1PdRCy0HNBZpEI/ZnKWtTj1vxqPHEYD7lLYnamGrKkTAtAhntalghTAz0A8627v4bz0Fy6QskadDxuwtWzzjyMFAaNKj/C1gZdnAm7euJnX7apK8OotslFSl9NfnLAtMyqEe67lPSW/iQqrL+W3P4hpJWvnJUFMFkjsCNvXMtIrXxRpexqex3cjH5oHEiABe0Cn4naa9G4Cxnp+NsM85c2AspL5BgMZkvIGjP3/RkyE1wvxE3KvbYGvndQjvD04+DbjaTSuxbrlQNvdURPa0Nk=;pd25QOzdF+i3PD/qKhRRDA=="
+secured: "XjOBcs/d0eXg50hBinCGEFO8tQ7cYCCCrViITKd2CXOQuAMCepjO9Vzd/lyuIIJVjtdLA81y3UzTVS74xdciXYfoy80EfZYow/E8x3+hj33M7t0/15MOyoySCU+ZvF323Afkq1ZZifo/LQhCf1x9rkKXQBO+Pz1j32gOFJn5oSaZ4NIo0RLU9tF/nzPLXQaSu5dPfrT1VaODNOu2CH6Yrz9T7eFRZf0D3Q3hfVa2B4YwCgskNWBxr2+YEkSeAqUc3e9cETtcVzB+VrA6B0kcgxEnxlUIEVA85AhCyUddilT3qljm1sZEZQ0H75BKIs8Y4A8noo0f7snCLHanahKDH0c7SAXjY4b/EuFET9MV4q2uczof/KZF4Ql9j7D6oPxI1YBOKMCHa5+81GZ1SOsnmM0ZTr5/Pyca/VTqlTdsKsyBXvbOlrkITIt4MEHpqLJ8PVQxRVlmOPndJFVPyl+AmZuBPxtcPKZgsV7aGXEZ/BY6LCGItaDdikz8eXV3JOPE0VIqkkMyz+aPldtR/0ZQXg==;Nyoqpp5/13tSYQHm2BFKow=="
 ---
 

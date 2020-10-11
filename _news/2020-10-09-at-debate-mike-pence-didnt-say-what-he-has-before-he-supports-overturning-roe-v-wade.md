@@ -63,6 +63,22 @@ related:
         width: 3684
         height: 2456
         isCached: true
+  - title: "Vice President Mike Pence to host campaign event in Grand Rapids Wednesday"
+    excerpt: "United States Vice President, Mike Pence, will reportedly visit Michigan next week after the Republican National Convention."
+    publishedDateTime: 2020-10-11T06:08:00Z
+    webUrl: "https://www.clickondetroit.com/decision-2020/2020/10/11/vice-president-mike-pence-to-host-campaign-event-in-grand-rapids-wednesday/"
+    ampWebUrl: "https://www.clickondetroit.com/decision-2020/2020/10/11/vice-president-mike-pence-to-host-campaign-event-in-grand-rapids-wednesday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/decision-2020/2020/10/11/vice-president-mike-pence-to-host-campaign-event-in-grand-rapids-wednesday/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 73
+    images:
+      - url: "https://www.clickondetroit.com/resizer/iAJPnlcv37wvv43msq_VFZ1c3qY=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/CT43XHH5UJBRXMH63EKKNRK2JI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence to visit Grand Rapids on Wednesday for campaign event"
     excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."
     publishedDateTime: 2020-10-11T02:30:00Z

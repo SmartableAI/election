@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-as-trump-revives-push.md",
+      "title": "Pelosi calls latest Trump stimulus proposal 'grossly inadequate' as Trump revives push",
+      "excerpt": "\"It is hard to understand who is shaping their approach,\" Pelosi said of the Trump administration, \"which to date has been a miserable and deadly failure.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242854",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242854",
+      "publishedDateTime": "2020-10-11T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-trump-claims-covid-immunity-having-really-a-protective-glow-means-something.md",
+      "title": "Trump claims Covid immunity: ‘Having really a protective glow means something’",
+      "excerpt": "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661",
+      "originalUrl": "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661",
+      "publishedDateTime": "2020-10-11T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-can-trump-squeeze-more-from-his-white-base-in-pennsylvania-and-beyond.md",
       "title": "Can Trump Squeeze More From His White Base in Pennsylvania and Beyond?",
       "excerpt": "With President Trump trailing Joseph R. Biden Jr. in Pennsylvania in nearly every poll, his last refuge and perhaps best hope is to maximize the turnout of working-class white voters.",
@@ -1430,108 +1524,6 @@
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
       "publishedDateTime": "2020-10-09T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-when-trump-gets-coronavirus-chinese-americans-pay-a-price.md",
-      "title": "When Trump gets coronavirus, Chinese Americans pay a price",
-      "excerpt": "Researchers monitoring Twitter several days after Trump announced his diagnosis noticed a startling spike in hateful sentiments against both China and Asian-Americans, as well as the recycling of other conspiracies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQGDHEAIY4I6XBYZBXYVTUKHSQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp",
-      "publishedDateTime": "2020-10-09T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-in-25th-amendment-bid-pelosi-mulls-trumps-fitness-to-serve.md",
-      "title": "In 25th Amendment bid, Pelosi mulls Trump's fitness to serve",
-      "excerpt": "House Speaker Nancy Pelosi is questioning President Donald Trump's fitness to serve, announcing legislation Thursday that would create a commission to allow Congress to intervene under the 25th Amendment to the Constitution and remove the president from executive duties.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_7037dad961d744cb84711d4fe7797ae7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668",
-      "publishedDateTime": "2020-10-08T21:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",

@@ -76,20 +76,15 @@ related:
     quality: 105
   - title: "President Donald Trump makes first public appearance since returning from hospital"
     excerpt: "Trump is also priming for a Florida rally on Monday and campaign events in Iowa and Pennsylvania later in the week.T he president addressed the large crowd even as the White House refuses to declare that he is no longer contagious and against the guidance of public health officials."
-    publishedDateTime: 2020-10-10T18:56:00Z
-    webUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
-    ampWebUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    publishedDateTime: 2020-10-10T22:36:00Z
+    webUrl: "https://www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
+    ampWebUrl: "https://www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WJQ34OE7ZRFRHBLMLIFT2XGPWY.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: al.com
+      domain: al.com
+    quality: 49
 
 secured: "JJGl6rmBJj/g2198ZplQs+mUxsP3QGpxSaJobbUx8EsMeg5C1hZ/o7M6PzT94c+vtsY606MdQhrIX0fQGHjbekffhq+3ovmt/XNPtNbDe4dw36x9U9PDkKABXWqa/vpOGFYcDAKSRUx0XG+05fkDHd/m2sX/KKUHxVEsxknTtwi568exzJ+BK3NTUq2cU2QX1+ehPzfsomys5ORLgaRfx5uEiywbqmTipkSX562Ax7Uz48dGOgyI/KmUorxSP8cP+Vx3ZJrDx+KYyZJzN+iK2zTJWZFNj5uSlBpjvt/dyj+Lu43dv/1vSujQY9Ap8SJmDKLaqWOMC6siP+ydnEZYsRzLkMi5a9ngn5NqWzdJSDR8NQHsyEaF4StFChT2cEb01KL/TIOrxdiCyHZ8xbQ+GqFlzXxxnRLSajajc7NY1Er5Y9vsXyEiFXpU0p7CcchPyMZZemFisNTyuiF8orVPmlrezN1SKR7iNIsTyYv/8EsGQWZZ5EkoDnao0Mz6jSPjdZGvkZHgOLGNerwUSfuaKA==;+ipLupWvmtXX2FrCargY4Q=="
 ---

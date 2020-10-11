@@ -2,29 +2,23 @@
 category: news
 title: "President Donald Trump makes first public appearance since returning from hospital"
 excerpt: "Trump is also priming for a Florida rally on Monday and campaign events in Iowa and Pennsylvania later in the week.T he president addressed the large crowd even as the White House refuses to declare that he is no longer contagious and against the guidance of public health officials."
-publishedDateTime: 2020-10-10T18:56:00Z
-originalUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
-webUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
-ampWebUrl: "https://www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
-cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+publishedDateTime: 2020-10-10T22:36:00Z
+originalUrl: "https://www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
+webUrl: "https://www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
+ampWebUrl: "https://www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
 type: article
-quality: 69
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: NJ.com
-  domain: nj.com
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WJQ34OE7ZRFRHBLMLIFT2XGPWY.jpg"
-    width: 1024
-    height: 683
-    isCached: true
 
 related:
   - title: "Minneapolis restaurant quarantines 13 who worked Trump event"
@@ -87,6 +81,6 @@ related:
       domain: businessinsider.com
     quality: 105
 
-secured: "LSPWmq5WRMHDBlsCQCv5s+KRlrYH5LbURmhrtoLvnq5zhAIIgO9yBRtUxZm6xq6nEsq4mp8trrJ7NVXY39kiQKtyLZH4YjPW2eMyKBtABdX3qoTcay8JUwVAHxw0oi9RryjhKmqgoSqRyYftuNgIGv5ZMWnPbq436KsBPDanGfgbAksF+m3EdTEZH9aQt9y79nlJHwUWoetTst5upa8cLG7TYfj+NFRf/bMOLWM6jX53GJIDoGj3Tb94pMuEej/QLyBGtGUe5QqsiJ8D1jm+Df1dEu/9ldjfurw+4QFTWFcXutd7W1hhaOuw6JjBVDTC3S90dw/5jGNEmpuPYwyPGesiTgre0Qe0n4Hq9GW7nNSkz8TSFXOHxlE2Hs7dIpAzv6W0p9pht7uO/YkiTyj6ssRABmLIPxs9YHMZ0Xt6y07bu+HqP9iiGicrfAnKA1fE0C7lqXw12EFZRo1GEPQaxJrTpKQUswFum85y39G2mXs35GPwGPrBEDiVUUxo/Y4V3hew4zuORn3teUJsk17l5g==;sraz66L4hCAVKVjIVQfwiA=="
+secured: "Tl87sIePUeSE+e0a44OsX2YZHumuo4U+Flqpwn3dQE6cjZf+/7g51g6UVvcPy37B4WxY4xpputH6qAkf0JL5AYlb1NIuqodh3X5uCDIcgChIKKxKyfdAoceVkrVrQOn4vYyXvAOTeLX9cy403uHhPXoHSzRUUajnIyEH3CDZxNOo+TvQqcq44q0sx92uQC9wQ10A4w0k84qFDavZF5lBMbEMkGNhDMiV0QImFiaVCVA/kvKIfnadBU5G1kK6EFaziefemP8t3xjAc+8dhMUO985XSAcIhfSOBYsP4p/BQKBpaRFI7nFInraBsxtd9NaXxv7bXazIkc5/b/c1H1e38mlQ2e8No5EGoiJ5JVfWKl5gVh5eAbPcQ/s5DT8kISn+xGKz9DpVCyg30fr2J9LNxmz/4uKMYk1HRtgPzAWfHT2bhsk1bv0H8QTleCqO4P8Ehmfg+Dnzt/KuQKBvAnQ+UbMKsVUWjcL1zQ2j/UTL6OUt4KuncOUFYzI8vcap5Wzf6DbFhpHHsqcc+RZTafLctw==;gKl1tGaIiczTqaDv2LY6/g=="
 ---
 

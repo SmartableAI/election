@@ -316,6 +316,17 @@ related:
         width: 5004
         height: 3334
         isCached: true
+  - title: "Trump declares himself 'immune' to Covid-19. His doctors won't say when he last tested negative."
+    excerpt: "President Donald Trump on Sunday said he may have the \"protective glow\" of immunity from Covid-19 although it remains unknown when he last tested negative for the disease. In an extensive interview with Fox News' Maria Bartiromo,"
+    publishedDateTime: 2020-10-11T16:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-declares-himself-immune-covid-19-his-doctors-won-t-n1242851"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242851"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242851"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 102
   - title: "‘The View’ Rips COVID-Riddled Trump: ‘He’s Learned Nothing!’"
     excerpt: "The co-hosts of “The View” absolutely unloaded on President Trump for telling the American people they don’t have to fear the coronavirus."
     publishedDateTime: 2020-10-06T20:33:00Z

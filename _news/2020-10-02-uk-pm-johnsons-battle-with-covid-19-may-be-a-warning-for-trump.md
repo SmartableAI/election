@@ -1241,6 +1241,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says he is free of COVID-19 as he aims to get back to campaign trail"
+    excerpt: "U.S. President Donald Trump said on Sunday he is fully recovered from COVID-19 and will not be a transmission risk to others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
+    publishedDateTime: 2020-10-11T18:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26W09G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W09G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W09G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537013841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A05D"
+        width: 861
+        height: 545
+        isCached: true
   - title: "Vice President Mike Pence to continue campaigning while Trump quarantines after testing positive for COVID"
     excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
     publishedDateTime: 2020-10-02T21:21:00Z
@@ -1958,6 +1974,22 @@ related:
     quality: 116
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2521a07bc790006d548%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5096%26cropY1%3D296%26cropY2%3D3163"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Alex Jones' claims about Trump's COVID-19 treatments, 'deep state' are false"
+    excerpt: "An InfoWars video claims evidence is mounting the president is being deliberately killed by his doctors on behalf of the \"deep state.\" That's false."
+    publishedDateTime: 2020-10-11T18:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/11/fact-check-alex-jones-false-claims-donald-trump-covid-19-treatment/5924540002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5924540002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5924540002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/460fd447ea1cbd8510959c5c38ba81f33286cb31/c=0-106-2048-1258/local/-/media/2020/10/05/USATODAY/usatsports/donald-trump-at-a-desk.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -2885,6 +2917,17 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Donald Trump's illusion and reality"
+    excerpt: "Donald Trump Donald John Trump North Korea unveils large intercontinental ballistic missile at military parade Trump no longer considered a risk to transmit COVID-19, doctor says"
+    publishedDateTime: 2020-10-11T17:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/520515-donald-trumps-illusion-and-reality"
+    ampWebUrl: "https://thehill.com/opinion/campaign/520515-donald-trumps-illusion-and-reality?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520515-donald-trumps-illusion-and-reality?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 105
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z
@@ -2992,6 +3035,22 @@ related:
     quality: 102
     images:
       - url: "https://i.insider.com/5f516a4f7ed0ee001e25d6a0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Twitter slapped a warning label on a Trump tweet that says he is immune from the coronavirus and no longer contagious"
+    excerpt: "Twitter flagged Trump's tweet for violating its rules about \"spreading misleading and potentially harmful information related to COVID-19.\""
+    publishedDateTime: 2020-10-11T19:09:00Z
+    webUrl: "https://www.businessinsider.com/twitter-labels-trump-tweet-saying-he-has-coronavirus-immunity-as-misleading-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-labels-trump-tweet-saying-he-has-coronavirus-immunity-as-misleading-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-labels-trump-tweet-saying-he-has-coronavirus-immunity-as-misleading-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f63c52257b7da001ee12596?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -3547,6 +3606,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump claims he's free of virus, ready for campaign trail"
+    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus but did not say explicitly whether Trump had tested negative for it."
+    publishedDateTime: 2020-10-11T19:44:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/50/77/20090820/77/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
     publishedDateTime: 2020-10-02T12:11:00Z
@@ -4046,6 +4121,15 @@ related:
         width: 2000
         height: 1331
         isCached: true
+  - title: "Claiming Covid-19 'Immunity,' Trump Ready For Election Fight"
+    excerpt: "US President Donald Trump on Sunday declared himself immune from Covid-19 and ready for a fight as his White House race against surging rival Joe Biden enters its critical final weeks. Trump was given the all-clear Saturday to return to the campaign trail after he was ruled no longer a coronavirus transmission risk -- although he has yet to be declared virus-free."
+    publishedDateTime: 2020-10-11T17:21:00Z
+    webUrl: "https://www.ibtimes.com/claiming-covid-19-immunity-trump-ready-election-fight-3060417"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
   - title: "Days After Trump Diagnosed With Covid, White House Staff Finally Given Instructions: ‘Do Not Come To Work’ If You Have Symptoms"
     excerpt: "Days after the news broke that President Donald Trump had Covid-19, the White House Management Office finally sent out a message to the staff with instructions."
     publishedDateTime: 2020-10-05T02:05:00Z

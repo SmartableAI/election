@@ -44,22 +44,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "David Brooks column: Kamala Harris knows how to win elections"
-    excerpt: "This has turned into the least ideological election in recent times. The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Trump. How to beat COVID-19."
-    publishedDateTime: 2020-10-09T14:36:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 140
-    images:
-      - url: "https://www.chicagotribune.com/resizer/weMd1o2h9mRwikHA_a7geSaCrHU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBS7QEH2M5C5VUNRIYK6KKOKWQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kamala Harris: Black Americans have been 'disproportionately harmed' by Trump"
     excerpt: "Kamala Harris Kamala Harris Scott Walker helping to prep Pence for debate against Harris: report California family frustrated that governor, Harris used fire-damaged property for 'photo opportunity' Moderna releases coronavirus vaccine trial plan as enrollment pushes toward 30,"
     publishedDateTime: 2020-09-18T21:26:00Z
@@ -263,22 +247,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/dltisw5XeAussafPYD1Ym0fJgw4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/O7YWXFVHOBBI7P6CUAH4WLDDRE.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "David Brooks: Kamala Harris knows how to win elections"
-    excerpt: "Third, Joe Biden and Kamala Harris decided to run a professional campaign. Instead of trying to please those of us who consume large amounts of media, they have ruthlessly and effectively focused their campaign on the Exhausted Majority — people who are disgusted by and semidetached from politics in working-class homes in the Midwest,"
-    publishedDateTime: 2020-10-10T13:47:00Z
-    webUrl: "https://www.palmbeachpost.com/story/opinion/columns/more-voices/2020/10/10/david-brooks-kamala-harris-and-presidential-debate/5940743002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/5940743002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5940743002"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 90
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/15d25488872a274679d0afc94fafd75352d70a4a/c=0-24-259-170/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200709441-ef34f932.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 676
         isCached: true
   - title: "California fires: Trump, Kamala Harris visit state today amid historic wildfires"
     excerpt: "Kamala Harris, the Democratic vice presidential nominee, will visit the Golden State in the midst of a wildfire season that has shattered records and ravaged other Western states. Protesters and supporters are gathered in Sacramento where Trump is expected to arrive at 10:40 a."

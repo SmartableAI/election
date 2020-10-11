@@ -324,6 +324,17 @@ related:
         width: 5004
         height: 3334
         isCached: true
+  - title: "Trump declares himself 'immune' to Covid-19. His doctors won't say when he last tested negative."
+    excerpt: "President Donald Trump on Sunday said he may have the \"protective glow\" of immunity from Covid-19 although it remains unknown when he last tested negative for the disease. In an extensive interview with Fox News' Maria Bartiromo,"
+    publishedDateTime: 2020-10-11T16:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-declares-himself-immune-covid-19-his-doctors-won-t-n1242851"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242851"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242851"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 102
   - title: "SNL’s Michael Che Can’t Hide Disappointment That Trump Survived COVID"
     excerpt: "Either Trump’s telling the truth and we finally have a cure for COVID,” the “Weekend Update” anchor said. “Or Trump is lying and he’s still going to die.”"
     publishedDateTime: 2020-10-11T05:10:00Z

@@ -1119,6 +1119,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign says Harris 'driving the bus' on court packing issue"
+    excerpt: "The Trump campaign on Sunday questioned who was “driving the bus” for the Biden ticket on the issue of Supreme Court \"packing.\""
+    publishedDateTime: 2020-10-11T19:01:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HOS4se8clTw/trump-campaign-says-harris-driving-the-bus-on-court-packing-issue"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "McCarthy slams mute button suggestion for presidential debates, urges Trump to let Biden talk"
     excerpt: "House Minority Leader Kevin McCarthy, R-Ca., slammed the use of a \"mute button\" in reaction to the unruly first presidential debate on \"Fox & Friends.\""
     publishedDateTime: 2020-10-01T18:30:35Z

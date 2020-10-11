@@ -3353,6 +3353,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "President Donald Trump claims he’s COVID-free, ready for campaign trail against Joe Biden"
+    excerpt: "President Donald Trump on Sunday declared he was COVID-19-free and ready to return to the campaign trail despite unanswered questions about his health on the eve of a Florida rally meant to kick off the stretch run before Election Day."
+    publishedDateTime: 2020-10-11T19:31:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2020/10/president-donald-trump-claims-hes-covid-free-ready-for-campaign-trail-against-joe-biden.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2020/10/president-donald-trump-claims-hes-covid-free-ready-for-campaign-trail-against-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/10/president-donald-trump-claims-hes-covid-free-ready-for-campaign-trail-against-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 81
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P6NXVABOIBHPLCPWXXVUGTXBQ4.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Mike Pence launches 'Farmers and Ranchers for Trump' coalition in Des Moines"
     excerpt: "Vice President Mike Pence visited Iowa Thursday to campaign for President Donald Trump with 82 days until the election. Pence, who last visited Iowa in June, arrived at the Des Moines International Airport shortly after noon before delivering remaerks at the Iowa State Fairgrounds to launch the \"Farmers and Ranchers for Trump\" coalition."
     publishedDateTime: 2020-09-11T22:26:00Z

@@ -62,6 +62,20 @@ related:
         width: 1024
         height: 695
         isCached: true
+  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee Amy Coney Barrett. "
+    publishedDateTime: 2020-10-11T17:18:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fg91IhTV_c0/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris’s American Example"
     excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
     publishedDateTime: 2020-10-06T23:38:00Z
@@ -91,6 +105,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
         width: 5472
         height: 3648
+        isCached: true
+  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."
+    publishedDateTime: 2020-10-11T17:42:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 103
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Republican Attorneys General Spotlight 'Lawless' Record of Kamala Harris"
     excerpt: "The Republican Attorneys General Association (RAGA) unveiled a blistering ad about their former colleague and current Democratic vice presidential candidate, Sen. Kamala Harris, ahead of Wednesday nig"

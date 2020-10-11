@@ -264,6 +264,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "‘SNL’ Fly Sketch Mocks VP Debate Between Kamala Harris And Mike Pence"
+    excerpt: "One pesky guest—a fly—stole the show from Mike Pence during the first and only vice presidential debate (October 7) against his Democratic challenger Kamala Harris. RELATED: Vice Presidential Debate: 10 Best Fly Memes That Destroyed Mike Pence’s Chances Of Coming Out On Top After hopping into a teleportation machine that accidentally turns him into a fly,"
+    publishedDateTime: 2020-10-11T15:38:00Z
+    webUrl: "https://www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph.html"
+    ampWebUrl: "https://www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph.amp.html"
+    cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph.amp.html"
+    type: article
+    provider:
+      name: BET
+      domain: bet.com
+    quality: 100
+    images:
+      - url: "https://www.bet.com/celebrities/news/2020/10/11/saturday-night-live-kamala-harris-debate-maya-rudolph/_jcr_content/image.large2x1image.dimg/__1602430261898__1602427006798/101120-celebs-snl-maya-rudolph-kamala-harris-vp-debate-fly.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Vice President Mike Pence, Joe Biden to each visit Ohio Monday"
     excerpt: "Vice President Mike Pence is slated to visit Ohio Monday, the same day former Vice President and Democratic presidential nominee Joe Biden plans to campaign in the state."
     publishedDateTime: 2020-10-11T15:24:00Z

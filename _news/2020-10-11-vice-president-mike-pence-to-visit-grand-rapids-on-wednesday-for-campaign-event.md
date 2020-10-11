@@ -75,6 +75,22 @@ related:
         width: 3684
         height: 2456
         isCached: true
+  - title: "Vice President Mike Pence to host campaign event in Grand Rapids Wednesday"
+    excerpt: "United States Vice President, Mike Pence, will reportedly visit Michigan next week after the Republican National Convention."
+    publishedDateTime: 2020-10-11T06:08:00Z
+    webUrl: "https://www.clickondetroit.com/decision-2020/2020/10/11/vice-president-mike-pence-to-host-campaign-event-in-grand-rapids-wednesday/"
+    ampWebUrl: "https://www.clickondetroit.com/decision-2020/2020/10/11/vice-president-mike-pence-to-host-campaign-event-in-grand-rapids-wednesday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/decision-2020/2020/10/11/vice-president-mike-pence-to-host-campaign-event-in-grand-rapids-wednesday/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 73
+    images:
+      - url: "https://www.clickondetroit.com/resizer/iAJPnlcv37wvv43msq_VFZ1c3qY=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/CT43XHH5UJBRXMH63EKKNRK2JI.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/wxAFIhskhb1TGsykDFLpXO+o4nnC6umrn6PwxGgYYggKpqdTMZ5+DIG8+vX1jXnewtiaoKgkcwtdJzb4tLOv3dD6SRmdk9+/nVVSCUDUsBVYvGZ79sr0Ba0gVWHrmec1ZTj9raf1PSbnn0llgTTtZJlg99Vv/UIgZn5+Y6eGdktKp8QYektfXISHeOS4WhHfcOXNgf0Dl6q35/wZXS+URMwnDAEI7LwK6pzPmJkY7pJJO9SUHVQeHKlUz2kc0EfVLQfPvMbsToDFZahGwdnJwX142G7LYqRTTYBJFNmcMSO7Mg8eh7yBFU/ucLPlc6Xs4ZFFJ7pIAInrE5or6dYGiGzekV+N9/9gcANDm0m4VKWCfogxrlzaVRDZHvuPQe/d63aEqX00ZqO58JBlwlMxX5wt+HteRh5m4hD4t47iHymhRm+dLebdjahhGfsLAU7JrZ6Xgy8MJFDx8g+DJoEos34jsfa6ZmZRBGs10guU7owZrXCsC3iymzzp9vLdun/r+fi6NEd2g3cIUXgCHDxUA==;1fFj+zGri2uL05wSE5UrSw=="
 ---
