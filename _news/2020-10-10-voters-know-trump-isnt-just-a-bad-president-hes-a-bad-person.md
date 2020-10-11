@@ -2847,6 +2847,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "These Zip Codes Are Donating the Most Money to Donald Trump"
+    excerpt: "Though both Joe Biden and President Trump have similar numbers of donations overall, Biden received more money from his top 50 zip codes."
+    publishedDateTime: 2020-10-11T15:00:00Z
+    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-donald-trump-1537837"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1648618/zip-codes-donating-most-money-donald-trump.jpg"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Trump delivers remarks to the public at White House"
     excerpt: "US President Donald Trump on Saturday said he was \"feeling great\" as he made his first public appearance since returning to the White House after being treated for the coronavirus. (Oct. 10)"
     publishedDateTime: 2020-10-10T20:54:00Z

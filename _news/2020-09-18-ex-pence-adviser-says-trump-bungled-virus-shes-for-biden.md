@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5795
+heat: 5815
 published: true
 
 provider:
@@ -1006,6 +1006,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1640957/vice-president-mike-pence-rnc-charlotte.jpg"
         width: 2529
         height: 1686
+        isCached: true
+  - title: "Poll: Biden leads Trump by 12 points nationally, Trump trails on pandemic trust"
+    excerpt: "Biden's 12-point lead in Sunday's ABC News/Washington Post poll was the latest in a series of surveys to find the president down by double digits."
+    publishedDateTime: 2020-10-11T14:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/11/biden-leads-trump-12-points-nationally-polls-finds/5960232002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5960232002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960232002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump randomly agrees to an extra debate with Biden if Joe Rogan is the moderator"
     excerpt: "The Commission on Presidential Debates has already chosen its moderators, but President Donald Trump tweeted support for one hosted by Rogan anyway."

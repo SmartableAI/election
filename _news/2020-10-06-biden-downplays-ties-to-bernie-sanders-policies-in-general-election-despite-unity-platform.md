@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
 type: article
 quality: 180
-heat: 400
+heat: 420
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Biden deputy campaign chair deflects court packing question, says it's Republican distraction"
+    excerpt: "One of Biden's top aides sparred with CNN host Jake Tapper over her statement that court packing concerns are a \"distraction\" manufactured by Republicans."
+    publishedDateTime: 2020-10-11T15:20:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yLKCBimtIxo/joe-biden-supreme-court-packing-kate-bedingfield"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Biden-Trump-Supreme-Court.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Joe Biden doubles down on court packing: ‘You'll know my position’ after the election"
     excerpt: "Democratic presidential nominee Joe Biden is remaining silent on whether he supports a move by many progressives to expand the number of justices on the Supreme Court if the Democrats win back the White House and take control of the Senate in November’s elections."

@@ -389,6 +389,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "These Zip Codes Are Donating the Most Money to Joe Biden"
+    excerpt: "The top 50 zip codes that have been most generous toward the Biden for President campaign span nine states, although 14 were contained within the island of Manhattan alone."
+    publishedDateTime: 2020-10-11T14:02:00Z
+    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-joe-biden-1537886"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1648835/zip-codes-donating-most-money-joe-biden.jpg"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
     excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
     publishedDateTime: 2020-10-06T12:21:00Z

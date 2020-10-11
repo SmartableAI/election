@@ -123,6 +123,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden campaign co-chair says Supreme Court packing question is 'hypothetical'"
+    excerpt: "\"I think it's a legitimate question for you to ask, but it is a distraction with 22 days before the election,\" Richmond said on ABC's \"This Week.\" Speaking with guest host Jon Karl, the congressman was asked where Biden stood on the issue of court-packing."
+    publishedDateTime: 2020-10-11T15:26:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/richmondcedric_061020gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden Says Amy Coney Barrett Appointment 'Not Constitutional' as He Evades Court Packing Question Again"
     excerpt: "\"Look, the only court packing is going on right now. It's going on with the Republicans packing the court now,\" Joe Biden said."
     publishedDateTime: 2020-10-11T02:07:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2063
+heat: 2083
 published: true
 
 provider:
@@ -1096,6 +1096,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3418885/201009-donald-trump-rally-ew-111p_1c6d92254f0149e0de785c988dabcd34.jpg"
         width: 2500
         height: 1588
+        isCached: true
+  - title: "Kamala Harris Should Grill Amy Coney Barrett"
+    excerpt: "Senate Democrats would be wise to let Joe Biden’s running mate lead their questioning at the nominee’s confirmation hearing."
+    publishedDateTime: 2020-10-11T15:15:00Z
+    webUrl: "https://www.nytimes.com/2020/10/11/opinion/kamala-harris-barrett-supreme-court.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/11/opinion/kamala-harris-barrett-supreme-court.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/opinion/kamala-harris-barrett-supreme-court.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/opinion/11farias-alt/11farias-alt-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "There Will Be No Trump Coup"
     excerpt: "Three weeks from now, we will reach an end to speculation about what Donald Trump will do if he faces political defeat, whether he will leave power like a normal president or attempt some wild resistance."

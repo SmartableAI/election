@@ -73,6 +73,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Doctor says President Donald Trump won’t transmit virus, stays mum on tests"
+    excerpt: "Navy Cmdr. Dr. Sean Conley says that by “currently recognized standards” Trump is no longer considered a transmission risk."
+    publishedDateTime: 2020-10-11T03:30:00Z
+    webUrl: "https://www.nj.com/coronavirus/2020/10/doctor-says-president-trump-no-longer-at-risk-of-transmitting-coronavirus.html"
+    ampWebUrl: "https://www.nj.com/coronavirus/2020/10/doctor-says-president-trump-no-longer-at-risk-of-transmitting-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/coronavirus/2020/10/doctor-says-president-trump-no-longer-at-risk-of-transmitting-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KD4TNMBPSBGX3CIYM6XMFSJULU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Donald Trump, High on His Own Supply, Now Wants to Do the Stimulus Deal He Blew Up Two Days Ago"
     excerpt: "Remember two days ago, when Donald Trump spent his first day back at work blowing up the economy via tweet? Which was a self-defeating move so crazy, even for him, that people were left wondering if the steroids he was on had affected his thinking?"
     publishedDateTime: 2020-10-08T23:24:00Z

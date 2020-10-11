@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden 'wants to debate Donald Trump again': National campaign co-chair"
+    excerpt: "Rep. Cedric Richmond, D-La., national co-chair of Joe Biden's presidential campaign, appeared on ABC's \"This Week.\""
+    publishedDateTime: 2020-10-11T15:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-debate-donald-trump-national-campaign-chair/story?id=73541834"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-debate-donald-trump-national-campaign-chair/story?id=73541834"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-debate-donald-trump-national-campaign-chair/story?id=73541834"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cedric-richmond-gty-rc-201010_1602358539594_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?"
     excerpt: "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades."
     publishedDateTime: 2020-10-10T11:13:00Z
@@ -624,6 +640,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Election 2020: Joe Biden holds 12-point lead over President Donald Trump in latest ABC/Washington Post poll"
+    excerpt: "Biden picked up support from 54% of voters, while 42% said they’d vote for Trump if the election were held today. The results represent a 5% uptick in support for Biden and a drop of 1% for Trump since the Post’s and ABC News' last poll released in late September."
+    publishedDateTime: 2020-10-11T15:30:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/election-2020-joe-biden-holds-12-point-lead-over-president-donald-trump-in-latest-abcwashington-post-poll.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/election-2020-joe-biden-holds-12-point-lead-over-president-donald-trump-in-latest-abcwashington-post-poll.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/election-2020-joe-biden-holds-12-point-lead-over-president-donald-trump-in-latest-abcwashington-post-poll.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 87
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YIG4NCIBBNGP5NCC2ALVHF2FZM.jpg"
+        width: 5433
+        height: 3793
+        isCached: true
   - title: "James Gill: Donald Trump and Joe Biden are fighting for votes. But not ours."
     excerpt: "Voters in Florida or Pennsylvania, say, are bombarded with campaign propaganda, and, in normal circumstances, President Donald Trump and Joe Biden would be schmoozing up a storm in swing states right now."
     publishedDateTime: 2020-10-11T11:00:00Z
@@ -859,6 +891,6 @@ related:
       domain: bostonglobe.com
     quality: 55
 
-secured: "IK7nKpCzYvEFRwmfnJueQTBRVdagHcZYWSm5bueAPdtXF3KbTAwV2/7JcKoibSYM1GGMj/yOq6npQA1NdPpQOeHP8egaay86woLX4hbnmwTAXRdf71MroCpWTSUJAkrtEm5msf7liQ6jeA402VkyLeQYiWQw2G2FRbC9Xrd/SQzj89qBn+SSK/nfXrqBIM59lYzhl+dXScO2vfoRU0FHtzVaRRt+4ogM47Q0r6OgPJoVMUZjuNn/AZRiEfpqgBYB47H1zhP1uLyJIjOEqivVwXbmp/Wm7PyRhFKjdeaeCRJfCRmVmCQamMVcRNfpd+VYzYB3xRPpmcu/BkSHI8B3S/taML90G/nogz5tbdTkj8A=;JQPv+5jDh6EgYU7ktcRgSQ=="
+secured: "HLXyZZGzjP6lOizS2oahdEoHTB8BnYMGLsEfir+e+999yo9Wg8ALinoD+Svay1L8Dftrc2JhzjYyyny+p0JK/xs7s+3c0vPvwGkcSUWr1cLkHiHXhZNhhFgtESA0qLjUwxoaNHvEuh6qUex/Q9/NuGZcUHtSvC5F/U2y1OAkb6oexHA20OwrE701djRDZqjdQEGctjt+IHuugMJGdiwLUhgI9UGXDnR066x9DhBODEEUWs7NGik3KJFoCziFEG491AJk2pLoT4nZ3MkoLVbNaLODD0J+U3voVn3KhVsAGyoIIw/qTm+JZSohitvolYt5SGV6vLX4zaHGZ0OcpGneAaa67mKu1mF2E0vkxNsehtc3+LlI8Qq3JJhHS+cZsUEoKA0ZZ+Fy5s+pf44gswmgw5M1F4l04H0uzu6ZSNASMSDvuZPgcq0TJaXvvDBRfflHIIB/Lon/sRVH1Z7vbdNsDcDhacrgKFr5IRZWgTdakttkOtIgEUgrrNbGibaV6s3S9S0URq5sxhIcNvuN2PMcMA==;vEHOneuntyFZMjst3gecWw=="
 ---
 

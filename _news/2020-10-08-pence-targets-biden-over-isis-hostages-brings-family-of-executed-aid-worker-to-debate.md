@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/520134-pence-targets-biden-over-i
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp"
 type: article
 quality: 142
-heat: 1102
+heat: 1122
 published: true
 
 provider:
@@ -376,6 +376,20 @@ related:
     images:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/10/story_07203810_1602365464.jpg"
         width: 1280
+        height: 720
+        isCached: true
+  - title: "These Zip Codes Are Donating the Most Money to Joe Biden"
+    excerpt: "The top 50 zip codes that have been most generous toward the Biden for President campaign span nine states, although 14 were contained within the island of Manhattan alone."
+    publishedDateTime: 2020-10-11T14:02:00Z
+    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-joe-biden-1537886"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1648835/zip-codes-donating-most-money-joe-biden.jpg"
+        width: 1010
         height: 720
         isCached: true
   - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"

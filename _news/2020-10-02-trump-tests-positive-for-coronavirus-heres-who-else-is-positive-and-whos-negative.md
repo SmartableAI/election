@@ -607,6 +607,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign rejects Taliban support for 2020 reelection"
+    excerpt: "President Trump’s campaign has firmly rejected the Taliban’s support for his 2020 reelection."
+    publishedDateTime: 2020-10-11T15:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OirX2_6GXgM/trump-campaign-taliban-2020-election-afghanistan"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ecc20d7-7866-4baf-909b-8dfa96bdb3e4/8336188e-a1b3-4dde-a9c1-36dc5d28ca4f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell says Trump ‘sounds well’ after call to discuss pandemic, Amy Coney Barrett"
     excerpt: "Senate Majority Leader Mitch McConnell said on Saturday that President Trump “sounds well and says he’s feeling good” -- after a phone call in which the two Republican leaders talked about issues including the COVID-19 pandemic and confirming Judge Amy Coney Barrett to the Supreme Court."
     publishedDateTime: 2020-10-03T20:53:41Z
@@ -1134,6 +1148,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump indicates he no longer has the coronavirus, says he is 'immune'"
+    excerpt: "President Trump on Sunday indicated that he is no longer testing positive for the coronavirus and claimed that he is now \"immune\" from the disease as he is set to rejoin the campaign trail soon. "
+    publishedDateTime: 2020-10-11T14:47:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/piGorazzxjQ/trump-sunday-morning-futures-interview-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284714411056-e1602427318571.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump to hold first in-person event at White House since getting coronavirus"
     excerpt: "President Trump plans to hold his first in-person event at the White House on Saturday since getting coronavirus, Fox News has confirmed."

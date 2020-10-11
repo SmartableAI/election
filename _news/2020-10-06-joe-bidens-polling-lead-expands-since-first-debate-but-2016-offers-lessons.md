@@ -391,6 +391,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "These Zip Codes Are Donating the Most Money to Joe Biden"
+    excerpt: "The top 50 zip codes that have been most generous toward the Biden for President campaign span nine states, although 14 were contained within the island of Manhattan alone."
+    publishedDateTime: 2020-10-11T14:02:00Z
+    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-joe-biden-1537886"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1648835/zip-codes-donating-most-money-joe-biden.jpg"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
     excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
     publishedDateTime: 2020-10-08T10:40:00Z

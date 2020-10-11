@@ -75,6 +75,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Doctor says President Donald Trump won’t transmit virus, stays mum on tests"
+    excerpt: "Navy Cmdr. Dr. Sean Conley says that by “currently recognized standards” Trump is no longer considered a transmission risk."
+    publishedDateTime: 2020-10-11T03:30:00Z
+    webUrl: "https://www.nj.com/coronavirus/2020/10/doctor-says-president-trump-no-longer-at-risk-of-transmitting-coronavirus.html"
+    ampWebUrl: "https://www.nj.com/coronavirus/2020/10/doctor-says-president-trump-no-longer-at-risk-of-transmitting-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/coronavirus/2020/10/doctor-says-president-trump-no-longer-at-risk-of-transmitting-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KD4TNMBPSBGX3CIYM6XMFSJULU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "President Donald Trump leads a strategic and policy CEO discussion"
     excerpt: "US President Donald Trump flanked by Secretary of Transportation Elaine Chao (L) and Stephen A. Schwarzman, Chairman, CEO and Co-Founder of Blackstone speaks during a strategic and policy discussion with CEOs in the State Department Library in the Eisenhower Executive Office Building (EEOB) in Washington,"
     publishedDateTime: 2020-10-10T13:12:00Z

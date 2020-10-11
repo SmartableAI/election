@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden 'wants to debate Donald Trump again': National campaign co-chair"
+    excerpt: "Rep. Cedric Richmond, D-La., national co-chair of Joe Biden's presidential campaign, appeared on ABC's \"This Week.\""
+    publishedDateTime: 2020-10-11T15:39:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-debate-donald-trump-national-campaign-chair/story?id=73541834"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-debate-donald-trump-national-campaign-chair/story?id=73541834"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-debate-donald-trump-national-campaign-chair/story?id=73541834"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cedric-richmond-gty-rc-201010_1602358539594_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?"
     excerpt: "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades."
     publishedDateTime: 2020-10-10T11:13:00Z
@@ -623,6 +639,22 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zR6qPU6Wp4oloJvSEM_SnsnGnPc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XYBLJ3PI2KMZVJ4TW7APTBYZ6A.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Election 2020: Joe Biden holds 12-point lead over President Donald Trump in latest ABC/Washington Post poll"
+    excerpt: "Biden picked up support from 54% of voters, while 42% said they’d vote for Trump if the election were held today. The results represent a 5% uptick in support for Biden and a drop of 1% for Trump since the Post’s and ABC News' last poll released in late September."
+    publishedDateTime: 2020-10-11T15:30:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/election-2020-joe-biden-holds-12-point-lead-over-president-donald-trump-in-latest-abcwashington-post-poll.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/election-2020-joe-biden-holds-12-point-lead-over-president-donald-trump-in-latest-abcwashington-post-poll.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/election-2020-joe-biden-holds-12-point-lead-over-president-donald-trump-in-latest-abcwashington-post-poll.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 87
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YIG4NCIBBNGP5NCC2ALVHF2FZM.jpg"
+        width: 5433
+        height: 3793
         isCached: true
   - title: "James Gill: Donald Trump and Joe Biden are fighting for votes. But not ours."
     excerpt: "Voters in Florida or Pennsylvania, say, are bombarded with campaign propaganda, and, in normal circumstances, President Donald Trump and Joe Biden would be schmoozing up a storm in swing states right now."

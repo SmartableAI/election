@@ -2861,6 +2861,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "These Zip Codes Are Donating the Most Money to Donald Trump"
+    excerpt: "Though both Joe Biden and President Trump have similar numbers of donations overall, Biden received more money from his top 50 zip codes."
+    publishedDateTime: 2020-10-11T15:00:00Z
+    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-donald-trump-1537837"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1648618/zip-codes-donating-most-money-donald-trump.jpg"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z

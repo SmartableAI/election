@@ -1958,6 +1958,20 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Lara Trump: 'Suspect' that presidential debate commission won't add a fourth date"
+    excerpt: "Trump 2020 Campaign senior adviser Lara Trump said it was \"suspect\" that the Commission on Presidential Debates declined to add a fourth debate after President Trump contracted coronavirus ahead of the second debate's original date."
+    publishedDateTime: 2020-10-11T14:21:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rpKMga78tHc/presidential-debate-lara-trump-commission"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/lara.jpg"
+        width: 334
+        height: 206
+        isCached: true
   - title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"
     excerpt: "Vice presidential Democratic candidate Kamala Harris went after President Trump for not paying enough in taxes, and questioned who he might owe money to."
     publishedDateTime: 2020-10-08T15:27:00Z
@@ -2604,6 +2618,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 63
+  - title: "President Trump: Nancy Pelosi's 25 Amendment Bill Is About Joe Biden, Not Me"
+    excerpt: "President Trump told FNC's \"Sunday Morning Futures\" with Maria Bartiromo that Nancy Pelosi preparing a bill regarding the 25th Amendment is about using it against Joe Biden if he is elected, not against Trump before the election."
+    publishedDateTime: 2020-10-11T15:14:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/11/president_trump_nancy_pelosis_25_amendment_bill_is_about_joe_biden_not_me.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 57
   - title: "Kamala Harris to Pence: \"You Respect The American People When You Tell Them The Truth\" on Coronavirus"
     excerpt: "Vice President Mike Pence defended the Trump administration's actions on the coronavirus pandemic at the vice presidential debate Wednesday night with Democratic VP nominee Sen. Kamala Harris. \"President Trump and I trust the American people to make choices in the best interest of their health,"
     publishedDateTime: 2020-10-08T06:10:00Z
@@ -2628,6 +2651,6 @@ related:
         height: 822
         isCached: true
 
-secured: "JxRMfIqU0WFaIViJkTpgSSEjjKgE0KfYDnbfyezZtdM7XN3LH5ljqsgpfnK1F2FrC7vF+otc8l9ZKaU9zRjTqU+zo15oNrnUUOnSgIOlrcNdz8bxLBFAJDDERw17CjLpdoZCXUyZ9WmIteSPFQUafgdFGGEKOI1ZdkLClWij/LYTCoRV9RHIglh8cnE2lMh195ieeXlHKGHdlyCfLyzCAumnQx+LhIseGlnqE2Qj3zXRVECABoBNeVbsiS+xY3D1cmP8GgIb7LcWUcsfVEC1fbqbKj8cLWMFWusNO9IGVDPGMwlbFfx3GP9D/rk2NVQQ2+rkLSZrdHD/Kd9RM/Ac8j1lSzoMp6KNHj8wNrDjvBM=;a4OvEKh5GuPFCaWdgT4opA=="
+secured: "jf3oSoaRJ40ho02GOEsOUulu1bVGeFiheibfm3ckhxbAz69M9TRXb5HYkRd0rdoCPHzCOPbz9A9hmFGRYvjDbvrVjpNbOqwyROZUlAZ9fNoToJBAUAQmBXseiXDITs2no/ZUZn2ezVY2tk0hzg5xcUteoXQJChA7cEYLCDEjQ9hzygO0PM+ntr5zftrORfEJVTfhjx9B1hv8QsK57BBq+FfJ9ZrMoFH5DvfEqx/A/a0gxCriGXgmxqtbEMJ87x0LF4Sz42gh4RtzzJ85nApnS9CKgEEG0sCMRJ4yY8qT3LXX7lV7/aCaXfGVvizvZznHsEHUsSD8Zd2Mf9dZSCRJRG4ehJxdARqTTqaP2E7wRwc0Q2mYBJ/qSOJp1NwDtAnxxGFDiV5DkWQt6oK9FtdX4LOg5EBgSxRamhucTb98EGIK0OhGEVIcMt7oPeSA1vg60KRiZsrX2UIX+Mvb/96keuGwk6oWQq4G0o6MeBG6HGtq8KVdTnipGVvVk6wn1fVoNhDihbLMr/wyWkfwaxDB2A==;dToy2jJ5HlMsqpXv2kGfrA=="
 ---
 

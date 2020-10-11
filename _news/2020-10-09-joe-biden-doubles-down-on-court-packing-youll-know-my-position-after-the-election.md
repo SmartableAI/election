@@ -122,6 +122,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Biden deputy campaign chair deflects court packing question, says it's Republican distraction"
+    excerpt: "One of Biden's top aides sparred with CNN host Jake Tapper over her statement that court packing concerns are a \"distraction\" manufactured by Republicans."
+    publishedDateTime: 2020-10-11T15:20:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yLKCBimtIxo/joe-biden-supreme-court-packing-kate-bedingfield"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Biden-Trump-Supreme-Court.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
     excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
     publishedDateTime: 2020-10-04T23:47:00Z

@@ -248,6 +248,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘SNL’ Cold Open Tackles Mike Pence’s Fly And Kamala Harris’ Smile"
+    excerpt: "As soon as the fly landed on Mike Pence’s head during the vice presidential debate, “Saturday Night Live” fans were waiting to see how the NBC show would tackle it. They didn't have to wait long. The cold open on last night’s “SNL” showed that the fly was Joe Biden,"
+    publishedDateTime: 2020-10-11T14:06:00Z
+    webUrl: "https://www.ibtimes.com/snl-cold-open-tackles-mike-pences-fly-kamala-harris-smile-3060363"
+    ampWebUrl: "https://www.ibtimes.com/snl-cold-open-tackles-mike-pences-fly-kamala-harris-smile-3060363?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/snl-cold-open-tackles-mike-pences-fly-kamala-harris-smile-3060363?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/snl-cold-open-fly.JPG"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Vice President Mike Pence, Joe Biden to each visit Ohio Monday"
+    excerpt: "Vice President Mike Pence is slated to visit Ohio Monday, the same day former Vice President and Democratic presidential nominee Joe Biden plans to campaign in the state."
+    publishedDateTime: 2020-10-11T15:24:00Z
+    webUrl: "https://www.cleveland.com/open/2020/10/vice-president-mike-pence-joe-biden-to-each-visit-ohio-monday.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/10/vice-president-mike-pence-joe-biden-to-each-visit-ohio-monday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/10/vice-president-mike-pence-joe-biden-to-each-visit-ohio-monday.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 100
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4CLQQ3GKZVBADG6PGNZI5RFRG4.jpg"
+        width: 3851
+        height: 2316
+        isCached: true
   - title: "Did Mike Pence accuse Kamala Harris of receiving debate questions in advance? Nope"
     excerpt: "The tweet was made to look like it was sent from @VP, one of the Twitter accounts used by the vice president, and has the same photo as Pence’s actual account."
     publishedDateTime: 2020-10-10T23:31:00Z

@@ -389,6 +389,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "These Zip Codes Are Donating the Most Money to Joe Biden"
+    excerpt: "The top 50 zip codes that have been most generous toward the Biden for President campaign span nine states, although 14 were contained within the island of Manhattan alone."
+    publishedDateTime: 2020-10-11T14:02:00Z
+    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-joe-biden-1537886"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1648835/zip-codes-donating-most-money-joe-biden.jpg"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
     excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
     publishedDateTime: 2020-10-06T12:21:00Z
@@ -733,6 +747,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "85adgQv2ep9RH3DXl6SOEYH/pi2I/1e9gyL0ankO7Zs5Dmyj7G+zNNeXnkwBpRciVqX2yvSPw3qzVsjQ7gQNw2hCDYq5+qMgKYcA+BwNO3pBd5sLSbHGXxtVkXKlXqXA6OjKAJ34jLzSVqMb/Ion/ch2ijbdqQUL+XuDfBeWq+mo0+y6HXk4mHWdxgoMkaPg+a6LLgD0Q/vxIb94AkjshnHPgoUmHktK7e2wSC5O/0U48jAFF+x82J9hyARZffNx2YqynXvsyggVywZxPtqLyMZWJW/VFFJBKXPr23dtBh5hrH02Cf4EB6Xhj4bptR6x+fqF9pZRAOEH/x/lIYOScx/rd+Bl7bef+eQVH+BDSew=;0mXrh6c8D3vEpEFy4lGw9Q=="
+secured: "7tUFWFR35OCilYWuJuk9dgXg4U00ntwsnuCKGAI7DgXjnKsO6/77dK7sg4Vv/wr+uSZSATummAbeeDAB1IbCdkOcN/vcrIaU8ZmkPtSa+sanSlHDWLoph0DnYm4Bv6rtsmvz/v5B9+GXXOCDoKFRxMtca6BbQ4AZw1HgB5QI+oKvA+T7rzUD7tW99ymiWgYhqmRQcdRzUsC6hTK1uP/DWm0ryxjH994T4gB8dDAG8fslqTI9HuDMgGs69Cvwii20wtGZOfC9sycWVH/aDoA2+mfePtUEWyG2qxTUOPVpIH9KkyOatCwu1Og+Kr9VDKJxxxASXZ/Vw/X7G9ATAhyOHlqwoVpLW5qm/F6ON0yXOVvzfb/pjVM5vcO3PameWnuGCBUhB0CvNwO43+l+fc3hHxz7A73R1yozYKVylWbGstOMrLfitwf7jHQ7g/yyJA3n3AnD/7YwCQScbL6dlkLDlWaNWWyzyx+CvolCGd+j1u/pN/GlUIj4s0/HECX82ZcudlYiGrkhj/aqX4A+tug/3A==;Xaj2hbSh7FeZsUM9j3uMFg=="
 ---
 

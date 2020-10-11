@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronaviru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
 type: article
 quality: 187
-heat: 1867
+heat: 1907
 published: true
 
 provider:
@@ -591,6 +591,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump campaign rejects Taliban support for 2020 reelection"
+    excerpt: "President Trump’s campaign has firmly rejected the Taliban’s support for his 2020 reelection."
+    publishedDateTime: 2020-10-11T15:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OirX2_6GXgM/trump-campaign-taliban-2020-election-afghanistan"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ecc20d7-7866-4baf-909b-8dfa96bdb3e4/8336188e-a1b3-4dde-a9c1-36dc5d28ca4f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tests positive for coronavirus: Here's who else is positive, and who's negative"
     excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19 -- raising immediate questions about who else in the administration could be positive."
     publishedDateTime: 2020-10-02T15:49:31Z
@@ -1134,6 +1148,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump indicates he no longer has the coronavirus, says he is 'immune'"
+    excerpt: "President Trump on Sunday indicated that he is no longer testing positive for the coronavirus and claimed that he is now \"immune\" from the disease as he is set to rejoin the campaign trail soon. "
+    publishedDateTime: 2020-10-11T14:47:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/piGorazzxjQ/trump-sunday-morning-futures-interview-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284714411056-e1602427318571.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump to hold first in-person event at White House since getting coronavirus"
     excerpt: "President Trump plans to hold his first in-person event at the White House on Saturday since getting coronavirus, Fox News has confirmed."
