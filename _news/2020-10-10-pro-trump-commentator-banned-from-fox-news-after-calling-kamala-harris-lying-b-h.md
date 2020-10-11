@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
+    excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
+    publishedDateTime: 2020-10-11T12:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246337265.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The VP debate is over. Did Sen. Kamala Harris’ performance light a fire under women voters?"
     excerpt: "With the gender gap widening when it comes to presidential preferences, the power of the women’s vote, especially if the election is close, is all the more consequential."
     publishedDateTime: 2020-10-09T13:13:00Z

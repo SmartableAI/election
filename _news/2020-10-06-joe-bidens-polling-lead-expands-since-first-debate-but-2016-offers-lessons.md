@@ -391,22 +391,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden, Herman Cain appear as flies on Mike Pence's head during 'SNL' VP debate spoof"
-    excerpt: "Live predictably spoofed this week's Vice Presidential debate, after mocking the first debate in the episode's season premiere."
-    publishedDateTime: 2020-10-11T04:49:00Z
-    webUrl: "https://www.azcentral.com/story/entertainment/tv/2020/10/11/snl-joe-biden-herman-cain-play-flies-mike-pences-head-during-debate/5955728002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5955728002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5955728002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/45207cc0-cb14-4197-933c-58c0f969a7d5-NUP_191888_0024.JPG?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
     excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
     publishedDateTime: 2020-10-08T10:40:00Z
@@ -432,6 +416,22 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 81
+  - title: "Joe Biden, Herman Cain appear as flies on Mike Pence's head during 'SNL' VP debate spoof"
+    excerpt: "Live predictably spoofed this week's Vice Presidential debate, after mocking the first debate in the episode's season premiere."
+    publishedDateTime: 2020-10-11T05:40:00Z
+    webUrl: "https://www.freep.com/story/entertainment/tv/2020/10/11/snl-joe-biden-herman-cain-play-flies-mike-pences-head-during-debate/5955728002/"
+    ampWebUrl: "https://amp.freep.com/amp/5955728002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5955728002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 81
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/USAT/eba73bc4-8da1-4202-86ab-a200216a4d3b-NUP_191959_0007_1.JPG?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden surges to 14-point lead over Donald Trump after caustic first debate, poll finds"
     excerpt: "Former Vice President Joe Biden’s national lead against President Donald Trump jumped to a nearly two-to-one margin after Sept. 29’s chaotic presidential debate, according to an NBC News/Wall Street Journal poll released Sunday."
     publishedDateTime: 2020-10-04T15:34:00Z

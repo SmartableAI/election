@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The UK is telling ministers to cozy up to the Biden camp, as Boris Johnson is 'writing off Trump' in the upcoming US election"
+    excerpt: "Polls suggest that Joe Biden has a sustained lead over Trump with 23 days to go until the US election. The UK is keen to be on the winning side."
+    publishedDateTime: 2020-10-11T11:40:00Z
+    webUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 138
+    images:
+      - url: "https://i.insider.com/5f82cc04642e9400180b5349?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump addresses supporters at White House event; Biden campaigns in Erie, Pa."
     excerpt: "President Trump, who has yet to reveal results of his most recent coronavirus test, will address supporters at the White House from a balcony as they gather on the lawn."
     publishedDateTime: 2020-10-10T22:52:00Z
@@ -235,19 +251,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The UK is telling ministers to cozy up to the Biden camp, as Boris Johnson is 'writing off Trump' in the upcoming US election"
-    excerpt: "Polls suggest that Joe Biden has a sustained lead over Trump with 23 days to go until the US election. The UK is keen to be on the winning side."
-    publishedDateTime: 2020-10-11T11:40:00Z
-    webUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
+  - title: "It's not just Trump and Biden on the ballot. America's commitment to truth and democracy is too."
+    excerpt: "The election will determine America's ability to contain the pandemic, heal the economy, retake our place in the world, and advocate for truth."
+    publishedDateTime: 2020-10-11T13:35:00Z
+    webUrl: "https://www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 128
+    quality: 127
     images:
-      - url: "https://i.insider.com/5f82cc04642e9400180b5349?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7f76b3ea74820019ca60e3?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -481,14 +497,14 @@ related:
   - title: "Joe Biden makes campaign stop in Erie, Pa."
     excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-10T22:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201011091901-joe-biden-makes-campaign-stop-in-erie-pa/"
+    webUrl: "https://www.cbsnews.com/live/video/20201011121901-joe-biden-makes-campaign-stop-in-erie-pa/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07205791_1602408125.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07205931_1602418924.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -839,6 +855,6 @@ related:
       domain: bostonglobe.com
     quality: 55
 
-secured: "/BMvDwVdhgnbpbpbP/5HO0Cw7iQS8cT5gqMGVRTMf9Tm9D7SbZjgppMapRy5Y9NLY+RPhRPXzkmsVO37sTnFsLYc9g05ThvdXBlKPrf4rw+iTa3S2Kc9by4r2AieOS6FMmwc0KBbtiNW9YUrpQ7tOeQol7364Mmas5YR0rlQY4F9kkcctCWjONMs6FQD61Vgv7WBIMiyoAri8bTp3wZIdjLA8sek1HkbJoQIbAONL4WCKNd2Nn4YUT5zkn76MgZEulDO+5JSF9c58JS82smh1oYCyWlIpInCHsv0rPIUgDNMuQeip0Q3//tk0FhJLgyPSb5dOvPPJzjiMTYt2DPB9BldCnmifr2ueNFEIy1m04o=;/lp4mUJznVENwq4b2l1OJg=="
+secured: "P15t9+E9+KvfHbSNoBnnT8o83LAL6w7uwugRCZXyMJOXmknpPSsrDRAki0nb88AOm8GMzzh8F1DBgKTXeLywE4NVPyq17W+pPvtAjNPps4+/RkWje+g2itBHN0VsJIUAqkXexLpDah60fkyd1tlavuMCMGnTAp9z+avtcgRaT8IPcu2QL/bC25Qxf8KzrlgOOsULqTP+qFW5FPB/qjOS7TeU4sf8gkYWDPNTItOP7WovC7sZ0xMTz5TpmgpPOSc3Kxiz2czwJQHrfIFEJBkKZT3GJul7zrQEBJenUB76Fwu+UaSDw2UoexYjWe6PwqyCoNECAf4EaiZPOMsMhd991PscoJp3osa6VDU5jvu9MU2pak2+Cwq2hNUUT0ydJKOmEwaBjtELotzZziydoQXjRiuMQz36V8osK2nd7G9xIs2OEoudJ0JvD/kVyzbtojoMBRMs/pF3W4REC+jf9sn23sP4S3aXFQ9XGErg7TFYJMzqyJPxS7zRAjRUHItn8FKmNTqq5yz2UsOWvO6W2z2x+w==;jmBbrLDP5CWVCL/bUPcApg=="
 ---
 

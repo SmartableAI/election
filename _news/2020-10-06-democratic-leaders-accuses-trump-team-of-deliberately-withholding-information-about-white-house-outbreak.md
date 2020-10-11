@@ -175,6 +175,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump's slipping poll numbers imperil down ballot Republicans"
+    excerpt: "From his first day in office, Donald Trump has been the shock and awe president. But with three weeks until Election Day, has Mr. Trump lost his ability to shock and awe us?"
+    publishedDateTime: 2020-10-11T12:19:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/trump-s-slipping-poll-numbers-imperil-down-ballot-republicans-93627973695"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93627973695"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93627973695"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_clip_a2_201011_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump and the GOP are using Kyle Rittenhouse in last-ditch 2020 voter strategy"
     excerpt: "With weeks to go before a chaotic and close election, Republicans are cultivating a vigilante identity — someone who breaks the rules to make things right."
     publishedDateTime: 2020-10-04T08:36:00Z

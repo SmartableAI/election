@@ -1,0 +1,31 @@
+---
+category: news
+title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’ | Charlotte Observer"
+excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
+publishedDateTime: 2020-10-11T12:00:00Z
+originalUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246337265.html"
+webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246337265.html"
+ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246337265.html"
+cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246337265.html"
+type: article
+quality: 58
+heat: 58
+published: false
+
+provider:
+  name: Charlotte Observer
+  domain: charlotteobserver.com
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "iupkD7fjcstgadx8h555b5ai7gLfJFe78xDex55V1cMcHPi6puGYIjeMimC+oeUTHvcO4WONcuviVTSNs1E+i2/UTsO4hJ9iCEhSm5gcyxrLIVlctBHodNM25vH/kEiWvVAY0CBTwiJ/U3hKEVNzi5sij30LCM2qRwpNllItC87Gjlzf+MjujxeS432awKQ9DPOgdkfRd1XllKntdGTMvDHLLCLJyaoxhC7LS+AIVqH04oFVVKD8Emv4u3pR3Qqt1XSvlMO3VIKUpOldg+jxb5mOcjChEuN4BlFnYUIBzEbCaQKj3lo1Xr7KTz0ehGB1px/x1SBgh5mdBnvvhVy1WDw3rVxgxhE+p8++QRc3Pkg=;lhxO3wCWJT6uwnOG/o1lcA=="
+---
+

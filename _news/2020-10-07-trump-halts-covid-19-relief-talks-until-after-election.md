@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-r
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
 type: article
 quality: 140
-heat: 5400
+heat: 5420
 published: true
 
 provider:
@@ -1630,6 +1630,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536820675&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG970CV"
         width: 1007
         height: 545
+        isCached: true
+  - title: "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns"
+    excerpt: "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,"
+    publishedDateTime: 2020-10-11T13:36:00Z
+    webUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138"
+    ampWebUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg"
+        width: 3000
+        height: 1933
         isCached: true
   - title: "Trump May Have ‘Serious Risk Factors’ For Covid-19 Complications, Health Experts Say"
     excerpt: "Health experts warn that factors including President Donald Trump’s age and weight could put him at a higher risk of contracting serious complications of Covid-19, after he announced early Friday that he had contracted the virus."

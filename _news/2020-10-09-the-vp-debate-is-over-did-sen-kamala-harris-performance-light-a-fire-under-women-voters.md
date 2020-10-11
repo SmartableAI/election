@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
+    excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
+    publishedDateTime: 2020-10-11T12:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246337265.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "At5puyGJX53G1MLcTVLXulqkEmhwTaNNjwLOaPIBKN/ZzIP7pd/gdpRSAcn7su1uRfwTajVm1cFS3qqSnizs6GlOWJgrDoQgVHRFhKnqw3Ld5F9hL3eEJU7FVNUd5A3iroeZh7NxuHS+/cEaqHdMMPS66T/UFab/GGTc6NapPlvWwONzFkWU50nnXFG5AifpCMgvZCXfAVkQ3C8J9YTQereOyATp5AisSZe2/AkL2k7DQTKyVkUdt+/3DSVpV526Jbx5hJW6Jr8xZ+AsG4/rny7jANXmcwpAtPQ01XZaD/GpJ0Xiwe6LWlKk4sFCtAGQVmcXJKl0mpNrdRQINVwd64ynO50QI1hOmMqiOihQBBaR/ktIKQqWkAYRutYBnUNy/ptJP4esxpb1oEyWCIEnk6hbbFy3sxmJPDs5s1gXROLYwdRPJqIdQiPrmKHas22mMRhyrOB5gMR4qYnCXT0HaECy0ZzaRlFS0EDJo5ZJoV2pdK15lxZjrnWSfl/4zogTiF1/RSONvC568cv2zsYTQg==;Gb9FbHbQyZ7mLsenXQvL8Q=="
 ---

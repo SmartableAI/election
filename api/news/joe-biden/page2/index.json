@@ -2,62 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-01-three-quarters-of-lgbtq-voters-back-joe-biden-glaad-poll-finds.md",
-      "title": "Three-quarters of LGBTQ voters back Joe Biden, GLAAD poll finds",
-      "excerpt": "With the presidential election just a month away, 75 percent of LGBTQ voters said they support Biden, while 17 percent back Trump, according to a GLAAD poll.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/three-quarters-lgbtq-voters-back-joe-biden-glaad-poll-finds-n1241690",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/three-quarters-lgbtq-voters-back-joe-biden-glaad-poll-finds-n1241690",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241690",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241690",
-      "publishedDateTime": "2020-10-01T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-joe-biden-tells-proud-boys-and-white-supremacist-groups-to-cease-and-desist.md",
       "title": "Joe Biden tells Proud Boys and white supremacist groups to 'cease and desist'",
       "excerpt": "US Democratic presidential candidate Joe Biden has told far-right group Proud Boys and white supremacist groups to \"cease and desist\". It follows Tuesday night's presidential debate, when President Donald Trump refused to condemn white supremacist and militia groups - and called on Proud Boys to \"stand back and stand by\".",
@@ -1550,6 +1494,62 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-20-pelosi-wont-rule-out-new-impeachment-to-delay-scotus-vote-if-biden-wins.md",
+      "title": "Pelosi won't rule out new impeachment to delay SCOTUS vote if Biden wins",
+      "excerpt": "\"Well, we have our options,\" Pelosi told ABC's \"This Week.\" \"We have arrows in our quiver that I’m not about to discuss right now.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/congress/pelosi-won-t-rule-out-new-impeachment-delay-scotus-vote-n1240568",
+      "originalUrl": "https://www.nbcnews.com/politics/congress/pelosi-won-t-rule-out-new-impeachment-delay-scotus-vote-n1240568",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_38/3413482/200920-nancy-pelosi-jm-1004_6b21c48e95f8662c4ac1a999feb91c40.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240568",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240568",
+      "publishedDateTime": "2020-09-20T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

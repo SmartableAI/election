@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden makes campaign stop in Erie, Pa."
 excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-10T22:33:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201011091901-joe-biden-makes-campaign-stop-in-erie-pa/"
-webUrl: "https://www.cbsnews.com/live/video/20201011091901-joe-biden-makes-campaign-stop-in-erie-pa/"
+originalUrl: "https://www.cbsnews.com/live/video/20201011121901-joe-biden-makes-campaign-stop-in-erie-pa/"
+webUrl: "https://www.cbsnews.com/live/video/20201011121901-joe-biden-makes-campaign-stop-in-erie-pa/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07205791_1602408125.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07205931_1602418924.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -124,6 +124,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The UK is telling ministers to cozy up to the Biden camp, as Boris Johnson is 'writing off Trump' in the upcoming US election"
+    excerpt: "Polls suggest that Joe Biden has a sustained lead over Trump with 23 days to go until the US election. The UK is keen to be on the winning side."
+    publishedDateTime: 2020-10-11T11:40:00Z
+    webUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 138
+    images:
+      - url: "https://i.insider.com/5f82cc04642e9400180b5349?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump addresses supporters at White House event; Biden campaigns in Erie, Pa."
     excerpt: "President Trump, who has yet to reveal results of his most recent coronavirus test, will address supporters at the White House from a balcony as they gather on the lawn."
@@ -237,19 +253,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The UK is telling ministers to cozy up to the Biden camp, as Boris Johnson is 'writing off Trump' in the upcoming US election"
-    excerpt: "Polls suggest that Joe Biden has a sustained lead over Trump with 23 days to go until the US election. The UK is keen to be on the winning side."
-    publishedDateTime: 2020-10-11T11:40:00Z
-    webUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
+  - title: "It's not just Trump and Biden on the ballot. America's commitment to truth and democracy is too."
+    excerpt: "The election will determine America's ability to contain the pandemic, heal the economy, retake our place in the world, and advocate for truth."
+    publishedDateTime: 2020-10-11T13:35:00Z
+    webUrl: "https://www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 128
+    quality: 127
     images:
-      - url: "https://i.insider.com/5f82cc04642e9400180b5349?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7f76b3ea74820019ca60e3?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -843,6 +859,6 @@ related:
       domain: bostonglobe.com
     quality: 55
 
-secured: "fxfjuhg4jJFiGrS1a6ACgUnA1f+pfSSuABggzu0Pr7EJiauVRHMpGQw5htGrF+8oNrn7nbUsaEa2ZI9F/3d/B4doz42dj7rELXLcW06tSWm7oF+ZAucTv4+L70vAf+1cRG5JI7lawwY0CaeoEcjlj5Wx+iIK+kOULfaDyopJIYiRdF9T07T+1ncHxx8N4R/c9dXoHl1rv4j2NXw2pz0xJYJyepD6lYR89GN0LJeWGqY6W+XCtKUKAkogMU4/wscchZ7T7eMVcqqx4SBQWjA1EMjm2zsGhC2+8tTW7beklvBTwCfUqgPLHhc/WyC2XgbfgYz67MkzyWt31DsvyPgueVpjeX0AURaDH6yQmb8NgRw=;rOVsiU4ebEKsPTU2WNu5GA=="
+secured: "n/D/u3CoB7vOX8W03rmXw6vBLyJ5OM3Iac6kKiX2/18+ERYlr3/eMwhUdsDCoMtP2QCI7uGb1/x24uMABKHYh6lOua0KIG/q68znqL0TEIVXaAcBG6FwyYDoSrZM68V4K1k4sD64TyPfPy1gebBNA3XVnPH67wa+pD+j0kk4Ri9X9yfhtKkmXH/miR3OlcJgfi0+uJwKovzEcZ2tItwXq31iAkNrFMblVq4CmtOo70xvSvRFnSibNa5M909OIjD6JaZtrHVO13Vm3yIuEUDJJfvH5+qnI7RfKplhlOumKJkjqs+jI39RcvPuCIbPE5tq7HG+TcU01wq9uDyrQ/3fWenyIVEJks8xrUxeAuB6c+8=;OW0t0Clt3RqviVb7VJvL2w=="
 ---
 

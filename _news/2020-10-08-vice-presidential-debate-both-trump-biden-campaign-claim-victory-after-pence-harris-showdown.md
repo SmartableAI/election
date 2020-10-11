@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3548
+heat: 3568
 published: true
 
 provider:
@@ -1941,6 +1941,22 @@ related:
     images:
       - url: "https://images.wsj.net/im-242382/social"
         width: 1279
+        height: 640
+        isCached: true
+  - title: "Biden Woos Working-Class White Voters Who Backed Trump"
+    excerpt: "Democrats say they can cut into President Trump’s edge with this segment of the electorate and take back Wisconsin, Michigan and Pennsylvania."
+    publishedDateTime: 2020-10-11T13:17:00Z
+    webUrl: "https://www.wsj.com/articles/biden-woos-working-class-white-voters-who-backed-trump-11602421204"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-woos-working-class-white-voters-who-backed-trump-11602421204"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-woos-working-class-white-voters-who-backed-trump-11602421204"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-239563/social"
+        width: 1280
         height: 640
         isCached: true
   - title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"

@@ -61,6 +61,20 @@ related:
         width: 2000
         height: 1264
         isCached: true
+  - title: "Trump: Packing Supreme Court would 'permanently destroy the Court'"
+    excerpt: "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court."
+    publishedDateTime: 2020-10-11T12:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-split-lightned.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump signs short-term spending bill to prevent government shutdown"
     excerpt: "President Donald Trump signed a spending bill early Thursday to prevent an imminent government shutdown. The Senate voted 84-10 to pass the bipartisan bill, extending federal agency funding to"
     publishedDateTime: 2020-10-01T06:43:00Z

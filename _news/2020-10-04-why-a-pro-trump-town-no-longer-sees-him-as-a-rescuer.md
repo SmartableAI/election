@@ -1350,6 +1350,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Maya Rudolph’s Kamala Harris Shuts Down Mike Pence on SNL"
+    excerpt: "But things really got weird when Herman Cain showed up as a reincarnated fly to attack “white devil” Trump for giving “the ‘rona.”"
+    publishedDateTime: 2020-10-11T08:03:00Z
+    webUrl: "https://www.thedailybeast.com/maya-rudolphs-kamala-harris-shuts-down-mike-pence-on-snl"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 70
   - title: "Pence Struggles to Explain Why Trump Admin Didn’t Follow Its Own COVID Guidelines"
     excerpt: "Pence gave a rambling response beginning with how Americans were given adequate “facts” and finishing with a reference to Trump’s Supreme Court nominee."
     publishedDateTime: 2020-10-08T03:39:00Z

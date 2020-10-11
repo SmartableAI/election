@@ -8,7 +8,7 @@ webUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandonin
 ampWebUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
 type: article
-quality: 128
+quality: 138
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://i.insider.com/5f82cc04642e9400180b5349?width=1200&format=jpeg"
@@ -236,6 +237,22 @@ related:
     quality: 129
     images:
       - url: "https://i.insider.com/5f808bdd4c3b2e0019bba2cd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "It's not just Trump and Biden on the ballot. America's commitment to truth and democracy is too."
+    excerpt: "The election will determine America's ability to contain the pandemic, heal the economy, retake our place in the world, and advocate for truth."
+    publishedDateTime: 2020-10-11T13:35:00Z
+    webUrl: "https://www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5f7f76b3ea74820019ca60e3?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -469,14 +486,14 @@ related:
   - title: "Joe Biden makes campaign stop in Erie, Pa."
     excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-10T22:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201011091901-joe-biden-makes-campaign-stop-in-erie-pa/"
+    webUrl: "https://www.cbsnews.com/live/video/20201011121901-joe-biden-makes-campaign-stop-in-erie-pa/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07205791_1602408125.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07205931_1602418924.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -843,6 +860,6 @@ related:
       domain: bostonglobe.com
     quality: 55
 
-secured: "PhfhnXeZLYrpL9f+LPLgZXR9Jsqng8FXvlDLaObD7F23WHUwkdDkIQWUvnTHpCZTWzzzeakBpOz++xuUbvx/oPWIDOPOn+7ja6Zp4JbYQuhg/aa4+XcVdgXIf9JOqAPvt378o8rvMuQ9IIoe56pVGYXrmHERuoyRF0j4kZh+lsYBXqq4LNKdamPpZ7E+G56ZpGdW98uztdMPB3glLMFEHxzUhOxQATmS6D1uQyPzsglgPT7M5qwwtmHa5vQ/SKekHHcE77MUTbdlKOpsCm5iy1doHi9/RycuNIcEyqDT+UojDIoAZfLsdbDf0nX/AaGg1OONghsPhYvVa1R1hYCOA5Dk4kU+ydxElGdQfISVIK8=;xB70QnPIOXvU164s+XGcTA=="
+secured: "Em1FNXDpMeqmXKJI67gojKiosRKVZokMt6okqlfDmg7yIGtZkGRMGXf0V9RLmJzEep49GPbQ21Es7t+nVN2mRd54togQmEw3/py2yXRMvl8PMMD1D7Ov8HUPTcDKGcAvkUrW/vFoAgh6tTe6iKxpfehzgEnON/J442Cuu9cPBmHUV4e2AjkyT35vkK7h/wzX5oby9WeSaudK+cCaX2JhZUhNELyYm6p0abN3aU18Vx66vYDJah4G8//7pGC6//jzhSwiedUsV4Ggp1sZyQnCrr9mxnI0dTpTT8aNaRfon43quKi+Q1JXx9vN6r6mrbrp9rhT+dMf/t6OtloxRsXMNBphx0LR3+eXEpxsAW0np8DZ64sUTf5xWrR8kjiie01KN/RYFyxVctD7Tsd1rgUSApnQEE03QfmmE1pJakjWYRblV8wTHJLiM+FBTprDW1gK57caBH14CdX5TjdTd9j+IA2petiyhEZODVyvc3ER6h7xN8A+DuX5gqJ7z19JRSuy37H37cpKDzf8o0CIjRMWgQ==;Y4uZLJ6/h+8C+SKfAuFDSw=="
 ---
 

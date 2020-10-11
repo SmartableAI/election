@@ -74,6 +74,20 @@ related:
         width: 2000
         height: 1264
         isCached: true
+  - title: "Trump: Packing Supreme Court would 'permanently destroy the Court'"
+    excerpt: "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court."
+    publishedDateTime: 2020-10-11T12:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-split-lightned.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "XGMP0YxOXv/PsUeB/Zpy0sLDa96AZa8qviY1M4QQ9cFDex7xgYlULsbu2RhRh4yMZV/QBFSiU1d/634J85SDZxSXFnSVMgRQS2kfC+hUWabDscqVqdNAdOXJ2b7s8lfigc5krizU0ktrw1fRGVPGRX8EIIRIg54D54HtpRaCha8ApKmL/aCKYtdp8eBJIfOSdMPUZpVoVAuLiyoSYlmCcL9lZOdBFaZ2E0XMdjxw3T6Kc+h+MdUE5gTy5cx4jxUGH9GdBbXuI+Z4dr19h9Ijrk+dVO10pQ2+ZxGcIwdiG7CqrietXss86W6RaBkF5ASfSGnF6G06vJzi2nuTPm3uehz0eLQvKSzrB1aIK11UeY9H7HzZZh/CnePvYu0bblPWiIgdxsX7X9Wv7gVANhl8KxvczqJCneQZvccN67Q3CG5RO1RJhSuU6KHIMRqHUfYpIzrCyXG89NC/xPJnS3CJT9Mf6tNNMfaJ+OZ+WsQu40BIXft7Y8yoc2l3SyZk093Uz4C9Q7WRLBHqY0/iIttzFA==;9iYLoqBJQ1GjZDHADa9gXA=="
 ---

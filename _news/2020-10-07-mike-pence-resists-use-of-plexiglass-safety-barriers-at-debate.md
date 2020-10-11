@@ -96,6 +96,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "What caused Mike Pence’s bloody eye"
+    excerpt: "Vice President Mike Pence ignited speculation about his health when he arrived at the only vice presidential debate Wednesday night with a bloody left eye, but a senior administration official on Thursday said there’s no reason to be concerned."
+    publishedDateTime: 2020-10-08T14:57:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/vice-president-mike-pence-bloody-eye-debate-427912"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/vice-president-mike-pence-bloody-eye-debate-427912"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/vice-president-mike-pence-bloody-eye-debate-427912"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c4/9f/168e43a244849a2d6519243d7b4b/gettyimages-1279073912-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Pence plays Covid defense and other things to watch at the vice presidential debate"
     excerpt: "It’s the former radio host (turned governor) vs. the former prosecutor (turned senator) in Salt Lake City Wednesday for the first and only vice presidential debate."
     publishedDateTime: 2020-10-07T19:54:00Z

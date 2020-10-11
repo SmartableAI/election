@@ -2,6 +2,61 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-07-trump-says-itll-be-fast-and-easy-to-confirm-amy-coney-barrett.md",
+      "title": "Trump says it'll be 'fast and easy' to confirm Amy Coney Barrett",
+      "excerpt": "President Trump declared on Twitter Tuesday evening that the Senate battle to confirm Amy Coney Barrett to the Supreme Court “will be fast and easy.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s7qeKGpTq1Y/trump-fast-confirm-amy-coney-barrett",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s7qeKGpTq1Y/trump-fast-confirm-amy-coney-barrett",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20273529004578.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp",
+      "publishedDateTime": "2020-10-06T18:57:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-pence-preps-for-debate-as-chances-to-shake-up-the-race-dwindle.md",
       "title": "Pence preps for debate as chances to shake up the race dwindle",
       "excerpt": "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n",
@@ -14,7 +69,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -614,7 +669,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593",
       "featuredContent": null,
       "highlight": null,
-      "heat": 5400,
+      "heat": 5420,
       "tags": null,
       "images": [
         {
@@ -1152,7 +1207,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 555,
+      "heat": 575,
       "tags": null,
       "images": [
         {
@@ -1285,62 +1340,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-video-shows-seattle-area-teacher-scold-10-year-old-for-admiring-trump-mom.md",
-      "title": "Video shows Seattle-area teacher scold 10-year-old for admiring Trump: mom",
-      "excerpt": "A Seattle-area middle school teacher scolded his 10-year-old student and briefly kicked him out of his virtual classroom last week after the child said he admires President Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/seattle-teacher-trump",
-      "originalUrl": "https://www.foxnews.com/us/seattle-teacher-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/School.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/seattle-teacher-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/seattle-teacher-trump.amp",
-      "publishedDateTime": "2020-10-05T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],
