@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump addresses supporters at White House event; Biden campaigns in Erie, Pa."
+    excerpt: "President Trump, who has yet to reveal results of his most recent coronavirus test, will address supporters at the White House from a balcony as they gather on the lawn."
+    publishedDateTime: 2020-10-10T22:52:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/10/10/trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/10/10/trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/10/10/trump-biden-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 137
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O5K4ZNAIGAI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
     publishedDateTime: 2020-10-07T02:42:00Z
@@ -768,6 +784,6 @@ related:
       domain: bostonglobe.com
     quality: 55
 
-secured: "A5R1bprGLvJnF5LBq+TzL5x3shiMMpTkbI9PPmfXDPqYc3zwTlnx/HWqO5UjVreIO+Jd3mIXNCHj3IovWksLYCw2jmhrQAWnS/4Bgie0H8PBWql1VFqdanKeSAN3Gl8cGwxfm9VVuXCsFKVyuwmwMm99tF7N117SN6XMFjz/p8BgOHRYFeK0cd9lM66DWXAKHRDKOXLvXxHwRBRp0ZlfsFpdnS4LOBjR35HxCIUvy0IpXkXfvUaSC3ndtLhrqefq5d/TeYOwVg1cI7O+cGKgfwheqPoEugReNIe5kdmZn5s74WbwDNGcBhdWm4JwVJS4H5xDEOsYKk8iOYlqh7EwUQ7bKcw4CKxMYI876SDQVpA=;ocJ09eo0QPxpSzLLGwpPcQ=="
+secured: "zMa7gDKJiSUDMNW263h/NzXChd/lQUwMiZrxJZpyoIpSsRI918e7V1HzvPrpmRdZbH9q0UTk7qXidQvNR/uAK5HaTCyZgXzZCo/N1eh1k2XchzlqipbC7VXyomxGHivDsEOjl2L25cAcGclADlSQeG1rbhfPaAC52nHkSv3MTJmayPKc7ZWqKDZLKT8rtCqvY6BegRXPk476ETt4xEE8mK0sZz24lH7sMOg3pVOyKgk46icRX6mwGb6H3UsxqbNh/vzeFbqutfUtweX9xtQNapIiymMhDgIEiYjiBl9i4Y5g/G0TZMJwG6NVHFueM25UaR6NNv0Io/g+REgT7bs/M1r2qRlI3JmwW1nbnS6PBHfYBf8Js85N7ufyyyIHOteV47oKYliUKYKiPE1FGj38fmo2Z5xB0LLi50CYjL3XY9oERLFZ+cL/TYi0O55dMel5RPIKT7pSWN1rkM+BxrGjJCPgMDS4ZZmAMp5kX+QZS+ImQYYQSE5mtOLX0tl0mqYoS4g6w7YyFLXCkB7Wq4sXvQ==;LhJfhBjnEepFaOnlvwh6rg=="
 ---
 

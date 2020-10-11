@@ -2,13 +2,13 @@
 category: news
 title: "A fly landed on Mike Pence's head during the debate and rested there for nearly two minutes"
 excerpt: "The vice presidential candidates were in a serious moment when the black bug landed on Mr. Pence's stark white hair. Most viewers' attention then turned to the fly – and stayed there until the pest flew away."
-publishedDateTime: 2020-10-08T03:44:00Z
-originalUrl: "https://www.cbsnews.com/news/fly-landed-pence-head-vp-debate/"
-webUrl: "https://www.cbsnews.com/news/fly-landed-pence-head-vp-debate/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/fly-landed-pence-head-vp-debate/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fly-landed-pence-head-vp-debate/"
+publishedDateTime: 2020-10-08T14:00:00Z
+originalUrl: "https://www.cbsnews.com/news/fly-pence-head-vp-debate/"
+webUrl: "https://www.cbsnews.com/news/fly-pence-head-vp-debate/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/fly-pence-head-vp-debate/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fly-pence-head-vp-debate/"
 type: article
-quality: 115
+quality: 95
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Mike Pence
-
-images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/08/179a6725-59bf-4c8f-b6ff-20636367b45d/thumbnail/1200x630/8f2adafa8dd5e04314021e0fb774aa6d/ap-20282085044567.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "An unexpected guest: Fly lands on Mike Pence's head during debate, goes viral"
@@ -48,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "N5NB1Vpj2cItWEJnSorqAHTX0n0ISgQRtCjBEhwcFhnSViKav2xj5gwD5cbSQPXDHP2EmpClhLc0qR+s+bsHyDgaf8kmbLG1dlD8FoKGgZ72iteOo/HTzqVLsL5o2n2SyggPenoUb4BHjKkuvFYEjFqpQee8X/x7dhBkn1vzWFYWWl3nJvDCJQtttT5ZvPedMZo7clVTyGFM6S2CwDJm8iPbAOE+Hl5Y7PUf1HrvZf8IlEvUu1SnvLiZmEhcreJ9AOUq0eYgqUZCV5RTHKm+kHT0AbnptAkgQnKLfifHKZtTUeIgQTO0yoYip0QePWGrvE1Of3Do2A9VBbyGRH/4KwOhtxo5t/+44c90Fd/O53+RmEJz2VrLauTPxTnyqvvEUWp1ID3sbq5BBcOmA6OokHUr7hHEOk1lqkaOP8DhbV78b/iMOU5i5VGhlCj2dhAtRuaVOJGCh3BKhKiSuDr6xn2C+KQAjYL2RvEzGFibId/3zeTPEjjqGVu2jbZkk0owSmLV/xml75Lnz3YwQ6c3/Q==;Hts/w2H3NLxYWnynZELCng=="
+secured: "4QzcSPT/J+5RWU16Sfs7kJIU9EHEIHl5fXSdzjszpq1Eo27ZDrVupz4o8m5z/ScFtjG+raWozyMdegiM0c8tGrw8kBjbc57W3aT56F1Vt122lRvdHgnhGqGTjNqEGF3GUwy9HOMTe8pcgLEuJgyvncZveC7B63jUihzIvizeL0sKyZ+OBlspOCgu2lFo+7GKZ02XDFbo7g06uEEJmVXRKwC6VndIByUa2QgjqTkNGUKBA6Djdz8vE/OuZXze1YUV8hCyh7GTiSApsNevmMewhml74U49Qw7ab6c6TznMdgY/EjYztvi9z3Q6dqkzxHbfksGWhgXuyzOMgIn0M/8X5fCaHfCLye7uPx5E0eHfzy08nLfIP9Z7cP/f9Tf4BXD3aPSr1spMtuBhTKYTVGlRbfzq9YWVSnrGKW3jfk8o4jARm/qGCx4hjRp8SerSxnULpijIfydDpH2cMAPZqK1ZNc3M0SQLWXnZO8jRomBiELyhCmt1DPOyWJAbj674r1ve2yST25ZURUasA48RH7Rz3A==;0CXjNX8X2VyYfQP/R62lVg=="
 ---
 

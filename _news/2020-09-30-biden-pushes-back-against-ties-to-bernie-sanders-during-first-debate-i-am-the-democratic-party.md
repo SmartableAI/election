@@ -63,6 +63,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says 'chicanery' at polls is the only way he could lose U.S. election"
+    excerpt: "Democratic nominee Joe Biden said the only way he could lose the 2020 election was through “chicanery,” before later adding he would accept the results of the election. "
+    publishedDateTime: 2020-10-11T01:30:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK1mLDBb-qo/biden-chicanery-polls-only-way-he-could-lose-election"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282729245624.jpg"
+        width: 4563
+        height: 3042
+        isCached: true
   - title: "Bernie Sanders to stump for Biden in Arizona with virtual town hall"
     excerpt: "Independent Vermont Sen. Bernie Sanders will headline a virtual town hall Saturday in support of Arizona Democrats to help drum up support for Democratic presidential nominee Joe Biden and running-mate California Sen. Kamala Harris."
     publishedDateTime: 2020-10-10T14:41:49Z

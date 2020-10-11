@@ -58,6 +58,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says 'chicanery' at polls is the only way he could lose U.S. election"
+    excerpt: "Democratic nominee Joe Biden said the only way he could lose the 2020 election was through “chicanery,” before later adding he would accept the results of the election. "
+    publishedDateTime: 2020-10-11T01:30:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OK1mLDBb-qo/biden-chicanery-polls-only-way-he-could-lose-election"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282729245624.jpg"
+        width: 4563
+        height: 3042
+        isCached: true
   - title: "Biden pushes back against ties to Bernie Sanders during first debate: 'I am the Democratic party'"
     excerpt: "Democratic presidential nominee Joe Biden pushed back against President Trump's efforts to link him to Bernie Sanders during the first debate on Tuesday night."
     publishedDateTime: 2020-09-30T01:51:26Z

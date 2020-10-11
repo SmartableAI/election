@@ -171,6 +171,22 @@ related:
         width: 520
         height: 816
         isCached: true
+  - title: "Joe Biden's tax returns: 3 things we can learn about Social Security"
+    excerpt: "Although many retirees pay no tax on the benefits, those whose \"provisional income\" exceeds $25,000 or $32,000 for joint filers are taxed."
+    publishedDateTime: 2020-10-11T00:23:00Z
+    webUrl: "https://www.azcentral.com/story/money/2020/10/10/3-things-we-can-learn-about-social-security-from-the-bidens-tax-returns/114243008/"
+    ampWebUrl: "https://amp.azcentral.com/amp/114243008"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/114243008"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/09/27/USATODAY/usatsports/joe-biden-whitehousegov.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden Campaign Isn’t Selling ‘I’m Speaking’ Shirts, But Here’s Where You Can Buy Them"
     excerpt: "T-shirts, coffee mugs, face masks, and other products were selling online after the Harris-Pence debate, capturing key phrases from the event."
     publishedDateTime: 2020-10-08T14:20:00Z
@@ -236,6 +252,6 @@ related:
         height: 382
         isCached: true
 
-secured: "9ka1mOzfqXSpJZ/EWTkSnjXqvQs+kjQEEqbqNyTd9rfdFkitQoJYvCHUaS+qXLCuH8gGxZeXhsWiEun6KkEEcyLmFTnsI/yjtCfcLzNNzBh/NiIFsIJtZAJH5S17cL0dMp0ZDIiNB3eFwMyfhdN1qaWk5yNKvwZ5HZZhwBa+1CsiE99ws90XlvPpL5fmGj7xdYfUiPWdlnFdmHPR+/lmqOFhAYnWrY9WlzfLaAkz4zm6mHMzNrM+MtodT8NNasJ+9uxmWRExpTS8+OI5hmQxwjh8CRlDtJlCNMm5jWOU712HCHDbZDYGC3+H6UWJsvd1eoyr5eWreCDta3FQXebhSPxrtQ10NJ3D3YhdJPJPHm0=;q5K8chaeS5U9gkGRuEkZjQ=="
+secured: "TK/qRtjf7bQWyL0E7e6RzrJAfJ4JjUI/gu+rLimGhi43/QvBXrT0VWMKHiZoZZE0IpUxh42JCpw1IS0StOZvRLJ2U8X86y2igIWQvUSfmv1NsJ/ALPBglJGRr2Qv8jTDZT9doeeuTZnry3spj4AvQrvk5QKife1Kw11JtnjMfAlb1zhvEOoy1xTy24O1zLpHMHCOFAbr5YI0YmiVVsaxcM013EE8Xex8/7q5vDHlnASqKN5HcCnIBTHeQOgyksQRIvWqhTOakJeXHz2Nws2qg9tPeziedB9joXC6KJI+uZRFuvyJ4pWl9RlrBcN13fTkikibIbV+VmjTe/03zK0Ieifi+ga0WNkG0IjRckmnPRdUncKGNB0QB6T5rPin0HFYrNh66JQWgqW8Ji3TmsdugfNfjihv2uqjHKDV5xB0valYsT7ePj9aRj1QT8UabvJsdfx4LtfDdDnGYp3u+QP8W5jtCAhwlQiJouJz2xureW0FvZY3Fqu1WJp7K/pJUw4iN8tLAamJBnAF0MieN4L+OQ==;UbLVwGqap89KCsY269tDeA=="
 ---
 

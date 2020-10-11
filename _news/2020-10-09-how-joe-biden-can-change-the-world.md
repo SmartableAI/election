@@ -287,6 +287,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "For the good of the country, Biden must answer the court-packing question"
+    excerpt: "If a Democrat of national prominence has stepped up to defend the court as an anchor of stability in a deeply divided country, I missed it. “Court packing” is now a major issue in the presidential campaign because neither Democratic presidential nominee Joe Biden nor his running mate,"
+    publishedDateTime: 2020-10-11T00:14:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/10/good-country-biden-must-answer-court-packing-question/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/10/good-country-biden-must-answer-court-packing-question/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/10/good-country-biden-must-answer-court-packing-question/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RJ4MI6QLIMI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Fact check: Joe Biden faces friendly fire – partly false – over age, pot, prisons and more"
     excerpt: "An Instagram user levels strong charges against former Vice President Joe Biden but says he will vote for him against Trump"
     publishedDateTime: 2020-10-01T12:40:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Kamala Harris to Pence: \"You Respect The American People When You Tell Them The Truth\" on Coronavirus"
 excerpt: "Vice President Mike Pence defended the Trump administration's actions on the coronavirus pandemic at the vice presidential debate Wednesday night with Democratic VP nominee Sen. Kamala Harris. \"President Trump and I trust the American people to make choices in the best interest of their health,"
 publishedDateTime: 2020-10-08T06:10:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/08/kamala_harris_to_pence_you_respect_the_american_people_when_you_tell_them_the_truth_on_coronavirus.html"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/08/kamala_harris_to_pence_you_respect_the_american_people_when_you_tell_them_the_truth_on_coronavirus.html"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/08/kamala_harris_to_pence_you_respect_the_american_people_when_you_tell_them_the_truth_on_coronavirus.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/08/kamala_harris_to_pence_you_respect_the_american_people_when_you_tell_them_the_truth_on_coronavirus.html#!"
 type: article
-quality: 75
+quality: 55
 heat: -1
 published: false
 
@@ -19,12 +19,6 @@ topics:
   - Kamala Harris
   - Republican Voice
   - Mike Pence
-
-images:
-  - url: "https://assets.realclear.com/images/52/523474.jpg"
-    width: 1120
-    height: 840
-    isCached: true
 
 related:
   - title: "Vice presidential debate: Both Trump, Biden campaign claim victory after Pence, Harris showdown"
@@ -2598,6 +2592,6 @@ related:
         height: 822
         isCached: true
 
-secured: "Y8JcxxPwwfF6N8yoWTsd6VC5ZXYiuj6QVTzo9k1Fly7zBWYy/67tr482Jn9qCiydcSPtZNEZJUAlXiQcHPAax2Ht17s7ZkJQRfUIWokGK2kAQ6q/u1zWIZLPSBLasnGcQjlxahJkMR9bkdSPoHa2vi+9V/hEph1gs6MiVH2OvmtgTFvGZNk4bxDV0OcWa5iGHA50335sBLdvsKVCEOg3FbAEhBd8Zo4hZGyIfbnh9O6Ibuy7zCY383LTlzMSaav2tZBrNy252XYI5yzyGPcLL6ckNEdYn8FC6+hmzShlVR0b+/PFv9dH1DDCHvnFJiPd4Eu4+3QtGHyk+5JfuIw76w/xOxykR2RYcUpZnLNjkdPbfjZ5knTOUvubAyFJQMXWq/U74j7KbFCba6RWH5ZBNRPl2ZmxuPw+LRdNemzhhp2PfjQsFI0Sz9u0ZHUqj0L2XVl10ZxqyxSTI390qx6yvg1EIM5zbJXXcq7JVnqrFml4HqPxnjoVd8BKgU8eGNpDVnS08J48v4jYc2seSbijGA==;K+8IG2QvdWdrysTh+7XRhA=="
+secured: "KT7TXwAHMGvpCJalvGhma4i52SSqu32n8nLXyXhyuxwNy/+7MeqfXAw6l/Ml6FFsWI1DkVsKPx997/S/2hPPNwIe8fEZkuV4/mMm7dsnFPlvrMJXdten2nmGclNNeL5xOt57YrCuHdKghxKWb6k8qa3wgrZ5V0DfbDp/19w2mq1raJ/UPVDHCREAdlgvGhKvTZ6uirDBuU7BMRmN23gxJk8yHm2GmlnECDNFnSGpjM5RzODa160TROZ5m4dNIcnkgR0mh2BDyKHGq2/+WwiO9hCIZlthdeUIxrwnUqjcBDWYziHRIzsw4FG29C/Xr0pkZYME23l0WMuHbkTzjruEpxLR5wiq+Pw2mt4LeS49DHvSwwN7vRr1UjjL5VkCKVwLV95xmbNh6Y6b/vxBELX68VqKKI3lU1GXTOg0FZLjsUPP3llh0oI0cyG8amkAoQwrfpk6Rzf6oGcFe++a1eJ3SRYBrw1A/zoHNH6PZe8qalvaRR77O9gzGI4oV2+boMXp5VFZry5aGTJaKBALdgwjcg==;Lq/DXcZq6JX6vvAjlOQYkQ=="
 ---
 

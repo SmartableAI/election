@@ -2513,20 +2513,6 @@ related:
         width: 2300
         height: 1597
         isCached: true
-  - title: "Kamala Harris to Pence: \"You Respect The American People When You Tell Them The Truth\" on Coronavirus"
-    excerpt: "Vice President Mike Pence defended the Trump administration's actions on the coronavirus pandemic at the vice presidential debate Wednesday night with Democratic VP nominee Sen. Kamala Harris. \"President Trump and I trust the American people to make choices in the best interest of their health,"
-    publishedDateTime: 2020-10-08T06:10:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/08/kamala_harris_to_pence_you_respect_the_american_people_when_you_tell_them_the_truth_on_coronavirus.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 75
-    images:
-      - url: "https://assets.realclear.com/images/52/523474.jpg"
-        width: 1120
-        height: 840
-        isCached: true
   - title: "Former NSA Head Michael Hayden Endorses Biden: He's A Good Man, Donald Trump Is Not"
     excerpt: "Retired Gen. Michael Hayden, who served as director of both the CIA and the NSA during the Bush and Obama administrations, appears in this ad from the \"Republican Voters Against Trump\" group to endorse Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-07T12:54:00Z
@@ -2596,6 +2582,15 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 63
+  - title: "Kamala Harris to Pence: \"You Respect The American People When You Tell Them The Truth\" on Coronavirus"
+    excerpt: "Vice President Mike Pence defended the Trump administration's actions on the coronavirus pandemic at the vice presidential debate Wednesday night with Democratic VP nominee Sen. Kamala Harris. \"President Trump and I trust the American people to make choices in the best interest of their health,"
+    publishedDateTime: 2020-10-08T06:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/08/kamala_harris_to_pence_you_respect_the_american_people_when_you_tell_them_the_truth_on_coronavirus.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 55
 
 secured: "/xN2sh1OO3lHnz3FFDlimsQNt/joncDm0SWSXykMuLyCuNDnzronmto8qrEmzoHheT3PxAketKquSoCd45YVyKT4F63F5tLnsYVTAofq3RlJz2xEswxYojk7ACeQzC942DvHB/Aq+cqTA3buhjhjEAVmTNt0CnuFk+K30DwC5Rt/J3XrdUrO0XDeZ5Or8+QjXh7R7J9z6pgJfFCqn8JBY4TbCdzkFbHB2/6jTTeEax+lH+hhyh8wpIim/ukeB41npJp3yFzVQEg2nnGj3weIFz8QJEnmXWgiawQBE7REG1gBNQRfzzhmVdTv8BAII9UrYj+JkutonFunJni+FM+9t11gYa5f/BCn8zZDyIrCtzRYh6czRXbvB7Aah5meCkpBahMKst6ZiYc9MBCMiRDR4rMSc8kgKrPuC6Mv8sIlMy4FUNFmuUM9RpPqvvbe58+chgQU1qSA3VyUuRF4pIpKVusiz9ffaj+8znPO9SUF9NimS6+7oBMtO+5L4d6Pa0WnD/AqrSGfqCdPJQrdDROXlA==;lO/gaKHOJmGW6/n3qlQzbg=="
 ---

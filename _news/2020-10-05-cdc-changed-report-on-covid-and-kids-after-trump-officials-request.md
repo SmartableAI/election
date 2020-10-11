@@ -382,6 +382,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Trump administration's latest Covid relief proposal to Dems gets closer, but hurdles remain"
+    excerpt: "Any deal would have to pass the Republican-led Senate and time is running out with just over three weeks until Election Day."
+    publishedDateTime: 2020-10-10T23:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-administration-s-latest-covid-relief-proposal-dems-gets-closer-n1242835"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242835"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242835"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 125
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3419097/201010-steve-mnuchin-mn-1650_2be1d9bfc1aa52efa11347b88c3855b5.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
     excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
     publishedDateTime: 2020-10-03T15:30:00Z
