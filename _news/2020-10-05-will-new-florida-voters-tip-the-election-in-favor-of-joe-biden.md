@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
 type: article
 quality: 140
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
         width: 2285
         height: 1524
         isCached: true
-  - title: "Editorial: We recommend Joe Biden for president"
-    excerpt: "Character, without question, is the starkest divide between President Donald Trump and former Vice President Joe Biden, the Houston Chronicle Editorial Board writes."
-    publishedDateTime: 2020-10-11T08:21:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
-    ampWebUrl: "https://www.houstonchronicle.com/opinion/editorials/amp/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/editorials/amp/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 125
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/51/05/20091246/7/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
     excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
     publishedDateTime: 2020-10-06T11:02:00Z
@@ -140,6 +124,22 @@ related:
       - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
         width: 1200
         height: 864
+        isCached: true
+  - title: "Editorial: Weary nation needs Joe Biden as president"
+    excerpt: "Biden has grown in leadership and stature to meet the historic challenges under which President Donald Trump has shrunk."
+    publishedDateTime: 2020-10-11T09:18:00Z
+    webUrl: "https://www.expressnews.com/opinion/editorials/article/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
+    ampWebUrl: "https://www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/50/23/20088055/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Reuters/Ipsos Poll Shows Biden Leading Trump in Florida; Tied in Arizona"
     excerpt: "Democratic presidential candidate Joe Biden appeared to lead President Donald Trump among likely voters in Florida and the two were locked in a tight race in Arizona, according to Reuters/Ipsos opinion polls released on Wednesday."
@@ -210,6 +210,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/26/election_2020_debate_13227_c0-212-5082-3176_s1200x700.jpg?db917b09d8cbb24332b5ca6852b875bd774a8b48"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Editorial: We recommend Joe Biden for president"
+    excerpt: "Character, without question, is the starkest divide between President Donald Trump and former Vice President Joe Biden, the Houston Chronicle Editorial Board writes."
+    publishedDateTime: 2020-10-11T11:33:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/51/05/20091246/7/rawImage.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Joe Biden the favorite of New Orleans area thought leaders, The Times-Picayune Power Poll finds"
     excerpt: "Picayune Power Poll survey, a new partnership between New Orleans' daily newspaper and powerpoll.com, a non-partisan survey, news and information company focused on the opinions of influential people."

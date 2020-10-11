@@ -2,23 +2,17 @@
 category: news
 title: "Editorial: We recommend Joe Biden for president"
 excerpt: "Character, without question, is the starkest divide between President Donald Trump and former Vice President Joe Biden, the Houston Chronicle Editorial Board writes."
-publishedDateTime: 2020-10-11T08:21:00Z
-originalUrl: "https://www.houstonchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
-webUrl: "https://www.houstonchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
-ampWebUrl: "https://www.houstonchronicle.com/opinion/editorials/amp/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/editorials/amp/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+publishedDateTime: 2020-10-11T11:33:00Z
+originalUrl: "https://www.sfchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+webUrl: "https://www.sfchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
@@ -141,6 +135,22 @@ related:
         width: 1200
         height: 864
         isCached: true
+  - title: "Editorial: Weary nation needs Joe Biden as president"
+    excerpt: "Biden has grown in leadership and stature to meet the historic challenges under which President Donald Trump has shrunk."
+    publishedDateTime: 2020-10-11T09:18:00Z
+    webUrl: "https://www.expressnews.com/opinion/editorials/article/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
+    ampWebUrl: "https://www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/50/23/20088055/3/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Reuters/Ipsos Poll Shows Biden Leading Trump in Florida; Tied in Arizona"
     excerpt: "Democratic presidential candidate Joe Biden appeared to lead President Donald Trump among likely voters in Florida and the two were locked in a tight race in Arizona, according to Reuters/Ipsos opinion polls released on Wednesday."
     publishedDateTime: 2020-10-07T19:14:00Z
@@ -244,6 +254,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "B+D2BfdDn1OLII7RGZp34Fkkf6Rso2dzPmaEbGyNbKvM0/hyATVaX2zSudN2snHO7GepFR2G51IOzrP8SKySNRV1UGNsA5UQnirLkTbRlSVMkiYfY0yyuaCoRHVdq7dOhK7ULsgVzGEkU8VT9/cURXehdgfTfQN16IhlJH2tai8kL2MRcvsnJUixR1+NtWa/MTtmWeKjMq5n5CmNX7qYe4uUmTCZSvxKvjO2tP9raHZeMZpnODDd3LViWIbt1lZpYj5pkiZp7/RTM0R5un1yy974hv2F35PDGl7VFNUdi/viGCmuj6wzCxqBdtc1Ak+A5clA1BGPnS+pM5vhO/XQmxN4DtaJ8nEQA9MbAvfGNcc=;808X6KwE5NoIoGkzd7zUUw=="
+secured: "WASasccfPM+AyuAxnTcyST4VivIQovy993ZzPBYMfcPUbhWeLeM4+CWTRKqp2eNp7BAujgwlFSJBIXieVIcIu8Qg1p1+JSKPJ9O5kIMVAdh81zihnv01zdNCFJoX0O94FXb0acZzH2IVitR+fm0/mY3Idr94rfXw8yaRsMTKYe1BSJ6UXM7qQTFrMrony1Ejam+RfGfOnYk7P849Qb060l3exbExJyXennXCKKZULJe5QQULWTab/vN2QN+rtJHvVp2zDhSM4Ima+1QShyucrxP2LaB44duAncjNrwiRhTIwwUqSIbGrwyeYExGpSEguAVN1wqT3gWOna9fjwKkD7/hFSBlqfqFVhHaAwB4lLSE=;AqsUM6DpV2OLTUpwdQNLIg=="
 ---
 

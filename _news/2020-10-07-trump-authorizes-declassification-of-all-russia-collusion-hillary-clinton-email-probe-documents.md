@@ -109,6 +109,17 @@ related:
         width: 1082
         height: 720
         isCached: true
+  - title: "Should Joe Biden Follow the Scranton Political Model?"
+    excerpt: "When I was growing up on the outskirts of Scranton in the 1970s and 1980s, my mother and I would drive into the city to shop at a popular downtown department store. On our way, we would pass"
+    publishedDateTime: 2020-10-11T10:55:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/11/should_joe_biden_follow_the_scranton_political_model_144406.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/11/should_joe_biden_follow_the_scranton_political_model_144406.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/11/should_joe_biden_follow_the_scranton_political_model_144406.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
 
 secured: "UG5TGKKJST4NSlF61iUUQbax9g8y7ayaBS83MxFmWURZT8QIwoQfrBGeA773fo5FPnTI+Ie2OyRLlQW0OM5scF8pBFPYuThpg/wKqmhHzvRvLnO1NpHA4/Mh6Fy6zx7DO/53Pq6JNrUUqwg1BggRMIaD7tchLSPIYDEWyvi+0Vjd52nnzmbrFOJAUB0RY2LS0Y0IlAp1pPg00hCWToUhaQSrlmYinXbekyV/pA12KAwH/y+8IOU1ZHUc8kJROFFX3JO2uopi4I6i1WtJxzQEFsspS83WDRQk4gsn8Q2HDvZ/lUNZ5NsYGSyjKnVV2R8oZFSEM7nV9SZRhNLLDvwbpZoELRxxu6pimC/TYuWbbuk=;ommn/mymkUNCrr+djW+52A=="
 ---

@@ -233,6 +233,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The UK is telling ministers to cozy up to the Biden camp, as Boris Johnson is 'writing off Trump' in the upcoming US election"
+    excerpt: "Polls suggest that Joe Biden has a sustained lead over Trump with 23 days to go until the US election. The UK is keen to be on the winning side."
+    publishedDateTime: 2020-10-11T11:40:00Z
+    webUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 128
+    images:
+      - url: "https://i.insider.com/5f82cc04642e9400180b5349?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fact check: Joe Biden did not say he attended Delaware State University"
     excerpt: "Tens of thousands of social media users have been sharing posts that say Democratic presidential candidate Joe Biden lied about attending Delaware State University (DSU). This claim is false: Biden did not say that he attended DSU."
     publishedDateTime: 2020-09-30T15:37:00Z
@@ -591,6 +607,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "James Gill: Donald Trump and Joe Biden are fighting for votes. But not ours."
+    excerpt: "Voters in Florida or Pennsylvania, say, are bombarded with campaign propaganda, and, in normal circumstances, President Donald Trump and Joe Biden would be schmoozing up a storm in swing states right now."
+    publishedDateTime: 2020-10-11T11:00:00Z
+    webUrl: "https://www.nola.com/opinions/james_gill/article_573a6d74-0996-11eb-bbd8-7bc17d157cbb.html"
+    ampWebUrl: "https://www.nola.com/opinions/james_gill/article_573a6d74-0996-11eb-bbd8-7bc17d157cbb.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/opinions/james_gill/article_573a6d74-0996-11eb-bbd8-7bc17d157cbb.amp.html"
+    type: article
+    provider:
+      name: NOLA.com
+      domain: nola.com
+    quality: 87
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/d0/4d009e1c-0961-11eb-9177-a784642d43c0/5f7f05466a9dd.image.jpg?resize=1024%2C526"
+        width: 1024
+        height: 526
+        isCached: true
   - title: "Donald Trump leads Joe Biden by 5 points in Texas, UT/Texas Tribune poll finds"
     excerpt: "Trump and his running mate, Vice President Mike Pence — had strong support from white (62%-34%) and male (55%-39%) voters, while the Democrats, Biden and U.S. Sen. Kamala Harris,"
     publishedDateTime: 2020-10-09T12:54:00Z
@@ -765,6 +797,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden Hits President Donald Trump On Economy In Critical Pennsylvania County"
+    excerpt: "Biden blistered Trump as only pretending to care about the working-class voters who helped flip the Rust Belt to the GOP four years ago."
+    publishedDateTime: 2020-10-11T04:25:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/10/10/joe-biden-hits-president-donald-trump-on-economy-in-critical-pennsylvania-county/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/10/joe-biden-hits-president-donald-trump-on-economy-in-critical-pennsylvania-county/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/10/joe-biden-hits-president-donald-trump-on-economy-in-critical-pennsylvania-county/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 65
   - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
     excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
     publishedDateTime: 2020-10-06T22:21:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/presi
 ampWebUrl: "https://amp.usatoday.com/amp/5944269002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5944269002"
 type: article
-quality: 140
+quality: 150
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Election
   - Donald Trump
+  - Joe Biden
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ac6df524-3216-44bc-8e43-f887a4f0e6d6-GTY_1228796150.jpg?auto=webp&crop=4266,2399,x362,y318&format=pjpg&width=1200"
@@ -4324,6 +4325,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "VvlvzgyIGZUVEhDR8gXI7iVynIMmKfD81xn9OJDU11wLD2eIkBHwjfHPyjJ0mB+yj67nwXTpbNv3Ji0SMBSrfPLPeZo7ISR+mNGde8dGf6sDxAoT4OJgwSym19eN2KUwk9KEul/FLWmV31hDjfvjYUlRyckrhacomUAfkasmw/NiWYIVqwzYzXmAqe7ZrApSdaySZqKlwCCdIPWgiUk22vFoR03ACCuMAkoaT1Vucdx3ZBWmQRJfYZxu0ZjteyNeewYu5e2unQHNr5bK2+UHSowGDQU2NpD+qdbWPEOUfxUk6BYPoQuwr50gfgIx4lUMbkowhhj8YwidNJqZcE17osrHY1LkK4FckdqdJgsx/L4=;ptWx7wCs9FP+EjlrdJgRHw=="
+secured: "rDLecnBsXzg6ckQEXjXxBHJkgpo4cpNEztmi4aIKVdN0P0lnw3fsLra9TGKsTGLsKEHrusgn5MihuQNt3QLcOF+WieLoOas7f+ZdQZEczN4WOC3EF2G54WXKwHnPiXvXPnjuYI8LgISvQa9hFcHR+WjY1iWoxuaLBfHkZiCec11P5A0Gs+P44BL56vHttZ0LMGG8Z18kxqkqK1ZheWQ8e3QyaaVqJpUVQi5Vw41G4BDMyYOSkE7VxtP21l7om95gYgLUOk0g5cqDsQ80Rapp4trCYLLgSNp3mTHDZ+11zbwr2yttTz1YM5/MD+NqH1H3NdOjuBlhm7anAjptyUPzRo4P3a9q5Y64dsd7tD8Qc5nn6BLclDwTAFOuXKEQhRdY+hHT/e85jYXWA0LlxgvAtThHdeXeG7JWoZ6SDEYzVVxUjliS/V2Ib+o1mjn7dkMk1MCn9y1H8+M/MzyOPBkjNu9I2ubOw93gZdoqwsmUzIDrQTfVhula8F1xqL4ZFPKTN+53pfr1AKhUOAFp8r7bxg==;Kby7Hzliwg96/xcGByUdaA=="
 ---
 

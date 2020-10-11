@@ -660,6 +660,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
+    excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"
+    publishedDateTime: 2020-10-11T11:12:00Z
+    webUrl: "https://theweek.com/speedreads/942651/trumps-campaign-wild-conspiracy-theory-about-why-next-debate-going-virtual"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 53
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1228794954.jpg?itok=3OW1dKsi"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
     excerpt: "Every Tuesday between now and Election Day, SFGATE will report on how the current 2020 presidential election polling averages compare to the polling averages at the same time in the 2016 presidential election."
     publishedDateTime: 2020-10-07T04:38:00Z
@@ -720,6 +734,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "dXW5yQJEyPdfNtud40Sx+yUZs7sR5IspHIEKvciM19O3q1PgmPMH0zAcK7TiO52iIY6vHCR63GMidNlcrRFTM5/8Xfu4e+aUxGSCLkY5hHsDoeveipyDb618PY/ksFISID6EcnOnURe6D8umfXmaSxBGO7AiBypxu3wIprRjf7CZQqdQVNhId/xSAcfSa1ZliWFpQlCtaqo4QbcFhQ7Xu6KXhMxRNdYXEbeiL5UwjkWlkjCijwiJLf/9J+20qoQlHWePD5VHQ6dwxn1OYAt3z1nf2KaXYh4Nh4S6uieGTAW98zBY0yor27OM4BXHtEI5RSp+UwFjdAXGXtMLyGp/WO0yYl/iajw4rjdHWgBo7Zo=;dyPkFdne3PPQAhaXOv0lSg=="
+secured: "ZJXIcnBtt9joEJB8gGUkz+O7ofXyVlZS2yn+5ZBYTPLlTrfzqZBjckMxCo3Zb6DcbXV2lE3c/VXrrnAw0forQzHALIQdcC4l6/tUCgZByut8GB7ub2C7xzd/E4XyvMe93pdUa/4cBzN+/QmCq/FLg7tfAKw3NPKR399db5ABCdzjGbBhMaH7KZuXZCpDJN2wwB7CD8Mbx5QuwZJ1iGPAOgHc6bqqxjVvj5cNyt+KaaynkaRtd7kzLucDwPViq2LM7zuBRl+LhosNghZf3+6t9DADSeY1u6TwkM/WDTmzjCGIwTxrgniblM/bHjgd1jzYDjl2q7AzxslCPbxMMqhywklfGUgyGJtGcHVB3Z4O2SZS2W1Hs80hrZ/PCoUju/6mql+JhOUgSJ4hwOVKtN2x9zw8C2M3RLWIr6ARs6KeTj1vAMCC3FHIXXBUByQGWVseQR1cQxICbTZMx8NAJ0xAHL5/khe5cHTxkVUDfEXrM8k49IwW27tw86OvAZz4LqVFv0DetgVAvKrF4fuaf5F/GA==;5qIEalkx5e343CQeQr0kAA=="
 ---
 

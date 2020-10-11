@@ -673,6 +673,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
+    excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"
+    publishedDateTime: 2020-10-11T11:12:00Z
+    webUrl: "https://theweek.com/speedreads/942651/trumps-campaign-wild-conspiracy-theory-about-why-next-debate-going-virtual"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 53
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1228794954.jpg?itok=3OW1dKsi"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Pence: Biden COVID Plan ‘Looks a Little Bit Like Plagiarism, Which Is Something Joe Biden Knows a Little Bit About’"
     excerpt: "Vice President Mike Pence accused Democratic presidential nominee Joe Biden of plagiarizing the Trump administration’s coronavirus plan, saying it “talks about advancing testing, creating new PPE,” and developing a vaccine."
     publishedDateTime: 2020-10-09T01:08:00Z

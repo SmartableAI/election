@@ -264,6 +264,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Did Mike Pence accuse Kamala Harris of receiving debate questions in advance? Nope"
+    excerpt: "The tweet was made to look like it was sent from @VP, one of the Twitter accounts used by the vice president, and has the same photo as Pence’s actual account."
+    publishedDateTime: 2020-10-10T23:31:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/10/did-mike-pence-accuse-kamala-harris-of-receiving-debate-questions-in-advance-nope.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-mike-pence-accuse-kamala-harris-of-receiving-debate-questions-in-advance-nope.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-mike-pence-accuse-kamala-harris-of-receiving-debate-questions-in-advance-nope.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 94
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GRKRI2ICNRDAXB6ZBHROGJWBZA.jpg"
+        width: 1887
+        height: 942
+        isCached: true
   - title: "Vice presidential debate: Mike Pence, Kamala Harris clash over COVID-19 in more civil fight"
     excerpt: "Kamala Harris condemned \"the greatest failure of any presidential administration\" during a largely civil debate dominated by the coronavirus."
     publishedDateTime: 2020-10-10T05:22:00Z

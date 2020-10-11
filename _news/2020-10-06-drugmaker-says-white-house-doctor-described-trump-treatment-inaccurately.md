@@ -128,6 +128,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Amateur hour at the Trump White House"
+    excerpt: "But recent days, in the wake of Trump being stricken with coronavirus, have highlighted just how the lurching improvisation th"
+    publishedDateTime: 2020-10-11T07:01:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/amateur-hour-trump-white-house-428533"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/amateur-hour-trump-white-house-428533"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/amateur-hour-trump-white-house-428533"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5b/6e/900faecc43c1b4ecc44186cb9466/ap20282461941048.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "0Rfhz94vAIia7zeUhgblmF14Z8I5kvMJJRKLdlhyK0g8irj6SGNnbVLPd6xNJqooZLZ1W90vJbwf8Hgpk59UrKCt3RVqbUd8MHU27s41AkL6v7tsH9nm88SNF868CocTJwrqFUqA6EU5hHhEUM1tq1okEWUNBLg69yw8xrwIhM/tIJuxsNByA4WEo6qMuI1RYOZptjWJkqTkfAfA8QCKdFBzaH6Y+b4qlWPpg75ul/2LnTVDyybiJZLuTu/KZbPJ/baT71j25vQkiu85P/NN3NhZiEBnYUgNBTIjvLxdMaoLlcT+3+GSRpcyVdU1v1sGfq4dUkjfN+z4ccmdGfLs7HobUTKP9hR0lm4sV/3Nvwo=;hVYFbbsKno+CM1X+FzalDg=="
 ---
