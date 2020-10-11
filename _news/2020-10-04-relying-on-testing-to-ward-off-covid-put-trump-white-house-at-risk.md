@@ -1357,6 +1357,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says he is recovered from COVID-19, prepares for return to campaign trail"
+    excerpt: "U.S. President Donald Trump said on Sunday he had fully recovered from COVID-19 and was not an infection risk for others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
+    publishedDateTime: 2020-10-11T21:16:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUSKBN26W0AG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0AG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0AG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537013841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A05D"
+        width: 861
+        height: 545
+        isCached: true
   - title: "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID"
     excerpt: "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result."
     publishedDateTime: 2020-10-02T14:34:00Z

@@ -3,18 +3,18 @@ category: news
 title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
 excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
 publishedDateTime: 2020-10-11T12:00:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
-webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246337265.html"
+originalUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
+webUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
+ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246337265.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Election
@@ -170,6 +170,6 @@ related:
         height: 325
         isCached: true
 
-secured: "ido7koTr8sSwo6c6pNLatR6QW5kZ9x1SPu+h4ThGvkzzXDNDzEJ9ej5GAwCQkcLyUrc0UjpIyF2cbiNyPwyR+fJI0jQTpFKlD1dl18cb2rXPsXt7bbKhoNrEmYzD7qyy9hMgRap/RV20JDIA9imAFO4JIdKFk/sR5fMAcFyQ+h2xGF+lI1e0vaN8UO9lDvXqbo5OxA3o4pad80N/ZBDhaiBTMCzMx4tNJmvl/vuXrw4BXIs0e2RwRP9R+RaSeCLnkIwcyIMTbrqd7XGQwthe1lU2lNpb5Smcya1VFq3hpyMneqI+IhSUf9uezJeSNKRIQjWH/593N3YqziWG9oiq8kRmC7irh/2Qr4tsTbioQq8=;bEw/7U46fF9joX8XBHywZw=="
+secured: "LMzHbCqU9Hrg/ndEodksu3oxat9L4Tw/zrwTaL6mhiJ32hJ+mjDsAlW1E9aq4lHp3vahlirO8FraGmYXLKYehe20LseBLP7UZMdT84avKu2Ul33Hm8O2ZreY0qfey5mFYgagSnBWDZn2ZV68u80qhFOMVwh4Zl22+T/w7I80Hx/NDyZofnUzkjSz/M+DwYKp+/px0UHTzZukzmeIijoc3JB+6QWtohFVfvws/rpfqqlF5uxlJ9lsY7jkCKbeaQT94anLLzv7KV//aoWzCDouRSr4opH92sSyPCZLaJh0KQwchlOy/p64iaYuHUTog/G59oItuFSJb6UKGM9lR6E+5uNDjha2F6/Ml1ugXtJ5y38=;Q90eqY8Q0OD2vAiSGIi7qA=="
 ---
 

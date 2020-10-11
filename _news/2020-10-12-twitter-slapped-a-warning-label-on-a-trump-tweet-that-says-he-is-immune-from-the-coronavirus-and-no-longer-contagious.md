@@ -1359,6 +1359,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says he is recovered from COVID-19, prepares for return to campaign trail"
+    excerpt: "U.S. President Donald Trump said on Sunday he had fully recovered from COVID-19 and was not an infection risk for others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
+    publishedDateTime: 2020-10-11T21:16:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUSKBN26W0AG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0AG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0AG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537013841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A05D"
+        width: 861
+        height: 545
+        isCached: true
   - title: "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID"
     excerpt: "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result."
     publishedDateTime: 2020-10-02T14:34:00Z
@@ -4191,6 +4207,6 @@ related:
         height: 624
         isCached: true
 
-secured: "UzEdOS+/U6EPsdCf5p3v0Rt4sE/abiQA7+EGEWwiloY0kKyLEwtz/ePjbZ01+PxjPuXWQ3bIa4m7xk24yA9t7bIfsEA7z6vO29j2PYs3Z/v8zRl08hwFm7c5LRzTWG0awFsKE86J6hZ8rUw24ATeb/fk7zc+OLyqSDSfAYvCz+jA5eVn9Qji+SJ45g/8+ahcj5MdtSJxRgReXrRx4OhA9oKurxsFsKESe4j+6XTR46mQ7LjrDHFTIUHesQ9t29bPnqsHqeor3wJrGCapF5emrhe99tIY9ibRmNrsftWYe7mgfqM1HwzVJO/tGLEOOrxlO9eNYxUY2bGrewbNNZIGpnBS87Xkyd98QWtq4PjGA1M=;p3KLL7k/zCqhBuPQN+q2gA=="
+secured: "0da9j703+XzpoTZBXR+nKeWZ+vFTC+2P/aAtqTWADkqIova79VERMPH8lMBkFk0cCnftwRtxcnQjQvI/FeiLSzDJWKABy4XUgheprglkiY7cfSQuMfoUMJ4G8GHqawH3ojqVisAcg6tz07ZAX+3IAhyNTslg36cLGRsEkV/syY9b6R8J7aDEPclv9yLsmVPZ7BDsQgSWyP+FCxuC+KzgWv1CYnuypTncPu/eb4q/OJwiX33SzWGbN8T5Mst1wjnR7pQCXQ/ods2X6TwFhqyp7Azu2GwibOgTbtrmdnaFg/TMK80570x8fH32XYCj4sNZJhZj9TRtWgs5ZsSt2tjIPz2UIjf0TqBWdoMrtOwj67T5YuBHi+ig16nlbZRWhCxrRBTGPWZiImbwpq0HVsPxcsctjJAySeB1AfaQjYrZBoG/A+ANSGNshRcrBzhys9eOgp1XBUYyRDwxabAZzfS1B5158PJEZLXYqdwkCih//jYfifehrf4KWab3HBZ4ZXQPekH7o4/ALK87SYVex/isNQ==;ww1KerUwWuwAAHXQl1ftuA=="
 ---
 

@@ -879,6 +879,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "As Trump stumbles, voters finalize their choices, and Biden’s lead grows"
+    excerpt: "Peg Bohnert, an Arizona retiree, voted for Donald Trump in 2016 because she thought the businessman would transform the White House into “a well-run machine.” Ruth Mierzwa, a Pennsylvania business owner,"
+    publishedDateTime: 2020-10-11T19:59:00Z
+    webUrl: "https://www.washingtonpost.com/national/as-trump-stumbles-voters-finalize-their-choices-and-bidens-lead-grows/2020/10/11/0ed19f6e-0a7f-11eb-991c-be6ead8c4018_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/as-trump-stumbles-voters-finalize-their-choices-and-bidens-lead-grows/2020/10/11/0ed19f6e-0a7f-11eb-991c-be6ead8c4018_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/as-trump-stumbles-voters-finalize-their-choices-and-bidens-lead-grows/2020/10/11/0ed19f6e-0a7f-11eb-991c-be6ead8c4018_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 139
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M35OYIAJXEI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pence says Trump has an \"obligation\" to quickly name Supreme Court nominee"
     excerpt: "The vice president told Norah O'Donnell that confirming a new justice to the Supreme Court during an election year is not without precedent."
     publishedDateTime: 2020-09-21T22:34:00Z

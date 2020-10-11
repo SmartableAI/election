@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hotnewhiphop.com/tupacs-brother-blasts-trump-over-disres
 cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/tupacs-brother-blasts-trump-over-disrespectful-shot-at-kamala-harris-news.119403.html?_amp"
 type: article
 quality: 90
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: HotNewHipHop
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Tupac's relative says the Trump campaign was 'clearly disrespectful' to leave a ticket for the late rapper at vice presidential debate"
+    excerpt: "The dig came after vice presidential nominee Kamala Harris said Tupac Shakur is the \"best rapper alive\" during a recent interview."
+    publishedDateTime: 2020-10-11T21:08:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f837a70642e9400180b5410?width=1200&format=jpeg"
+        width: 720
+        height: 359
+        isCached: true
 
 secured: "1CmLgJb4tkn/Z619Xw1mmZC9jxbPkWYT8kSwgnPMEn7OwwK96HIyjM3ZrzFecFNZe8jN8mRY2gxQ/pmnQfGq7vD3+o/fPpJkucj41LMY4j59cq4kdQWNHHsjuda33w8LECaEmlT7EhTfDzDbkKC1knZiQWvY27sJBhpxK+qh2NJ/Y4eujP1Cc0be40WcYP3pCiu+UTfT8MjLO7joLJPtXSesmPGwQ2C2csjA8iBnqnKD5GLGQuBIEhrl5BqTGqm/J7J4kd0POEVsJEIkiP8sidzJPrUvgYq33PmRjmp02BTuAlEoPFA9b2HVAN5MVcWliGXIKVktuYv3Ztu81CzpatXryU+vGqAXh5PmM6UYosA=;500lZZg5+lwQHh4ls3rbbg=="
 ---

@@ -1320,6 +1320,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lara Trump: It appears by all accounts the president is clear of the coronavirus"
+    excerpt: "President Trump gets back on the campaign trail, facing an uphill battle against Joe Biden. DONALD TRUMP, PRESIDENT OF THE UNITED STATES: This is the single, most important election in the history of our country."
+    publishedDateTime: 2020-10-11T20:44:00Z
+    webUrl: "https://www.foxnews.com/transcript/lara-trump-it-appears-by-all-accounts-the-president-is-clear-of-the-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/transcript/lara-trump-it-appears-by-all-accounts-the-president-is-clear-of-the-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/lara-trump-it-appears-by-all-accounts-the-president-is-clear-of-the-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3adaab2-06f0-47ce-ac5b-0b8ad3188a11/c13f59d4-407f-439e-969c-06b9986355bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dennis Quaid bashes 'cancel culture media,' denies he did a pro-Trump PSA about coronavirus"
     excerpt: "Dennis Quaid shared a video on Instagram explaining that reports he participated in a pro-Trump ad campaign funded by taxpayers about the administration’s COVID-19 response are inaccurate."
     publishedDateTime: 2020-09-29T12:41:00Z

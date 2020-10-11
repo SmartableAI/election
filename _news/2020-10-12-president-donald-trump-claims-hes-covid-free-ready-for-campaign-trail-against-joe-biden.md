@@ -875,6 +875,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "As Trump stumbles, voters finalize their choices, and Biden’s lead grows"
+    excerpt: "Peg Bohnert, an Arizona retiree, voted for Donald Trump in 2016 because she thought the businessman would transform the White House into “a well-run machine.” Ruth Mierzwa, a Pennsylvania business owner,"
+    publishedDateTime: 2020-10-11T19:59:00Z
+    webUrl: "https://www.washingtonpost.com/national/as-trump-stumbles-voters-finalize-their-choices-and-bidens-lead-grows/2020/10/11/0ed19f6e-0a7f-11eb-991c-be6ead8c4018_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/as-trump-stumbles-voters-finalize-their-choices-and-bidens-lead-grows/2020/10/11/0ed19f6e-0a7f-11eb-991c-be6ead8c4018_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/as-trump-stumbles-voters-finalize-their-choices-and-bidens-lead-grows/2020/10/11/0ed19f6e-0a7f-11eb-991c-be6ead8c4018_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 139
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M35OYIAJXEI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden and Trump Tied in Key State of Iowa, Gender Divide Widest of All Time"
     excerpt: "Trump holds a 21 percent advantage over Biden among Iowa men, 57 to 36 percent. But Biden holds a 20 percent lead over Trump among women voters, 57 to 37 percent."
     publishedDateTime: 2020-09-22T13:47:00Z
@@ -4352,6 +4368,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "OwnO1yxJb7JZraAH8j+wndTKO2SRuQ/zAvGLUibhmt3iIlFsnA5H2xo/wPIqJ7v7489o3WOJ6MimXG6W3tgo830ALMvQehyHxVncacIZLRqhoXndj3QmNXPbcXGnvPToBBUxVLoUfd5IBWh7Ws8E+HT2irYYg88lqV7bJXZQOXWokAlrBz1oSG4k4wGSfh0m18UtFTbA5r+CNVPFEie3pBesqopwEL3T2XFDW7peG+c1i72XfF+aCzY71bhGQhAxB3XCxn3AluvvnisetzargpiCHLRZQTc1knn+A9pHTxjiMCqFiru5Bm8RMF4oNNLnB657TnSoT22yN5t8390VpcYYdKY4O9/JPS501iPBBD8=;dG86jUav8y8h9r+p5HIVkA=="
+secured: "1diNYxECUqT6ruUgkmjWdUTQbbY+emm1YmsWAAp6sxGJdF9iEJyUZx5mLUe08tDEdPmPDBLFrgWnJ3qlfKNyfIWswmVXcaTl3QfHDR/DCc5bjwuFndGXFDgVTT+svTBNQyQVkfphUCApW8Lmsp+vGPZVyBuk6+prcs+dczXrmQdEPtwaKhTykZHI5oCqH93nvcLf8iPqWInbDMOH7M6CVO3bfpvj0QIiEA3+mbsHUX/3OMBXTTokWEsXf/qMOiBeOvRI5eBS5fYKO+MLHXZg4de+gQ+jfIJrPZozwlJha7F4DvbchilH2Zg7GzHjulZtXHyEoctpLcKkxZw309G/6JaTzQayGd7Wu+FHXbE7EmxQEO7EUHJEDCwVscxjpHtJLP2wfVYj1zknKsiphstvmEY/gqvyjixKE5t87QfDtG5bVnJtwSeGgSbtOXUYtVyhWT1L2316ecgFj9+rvumEiL2iNlAcDXRAtmV8MfAnS2n192csKzIzwdiuOak0gB5U4pgwLPYX0EgWBweEQZTZpQ==;i8jbPdq3CQGp8iBesOAnCA=="
 ---
 
