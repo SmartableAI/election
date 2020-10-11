@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
 type: article
 quality: 173
-heat: 573
+heat: 593
 published: true
 
 provider:
@@ -319,6 +319,15 @@ related:
     excerpt: "The co-hosts of “The View” absolutely unloaded on President Trump for telling the American people they don’t have to fear the coronavirus."
     publishedDateTime: 2020-10-06T20:33:00Z
     webUrl: "https://www.thedailybeast.com/the-view-rips-covid-riddled-trump-say-hes-learned-nothing"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "SNL’s Michael Che Can’t Hide Disappointment That Trump Survived COVID"
+    excerpt: "Either Trump’s telling the truth and we finally have a cure for COVID,” the “Weekend Update” anchor said. “Or Trump is lying and he’s still going to die.”"
+    publishedDateTime: 2020-10-11T05:10:00Z
+    webUrl: "https://www.thedailybeast.com/snls-michael-che-cant-hide-disappointment-that-trump-survived-covid"
     type: article
     provider:
       name: The Daily Beast

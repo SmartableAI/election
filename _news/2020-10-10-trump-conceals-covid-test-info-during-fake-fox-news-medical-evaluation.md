@@ -333,6 +333,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "SNL’s Michael Che Can’t Hide Disappointment That Trump Survived COVID"
+    excerpt: "Either Trump’s telling the truth and we finally have a cure for COVID,” the “Weekend Update” anchor said. “Or Trump is lying and he’s still going to die.”"
+    publishedDateTime: 2020-10-11T05:10:00Z
+    webUrl: "https://www.thedailybeast.com/snls-michael-che-cant-hide-disappointment-that-trump-survived-covid"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "jkK3kTLXdanw3POvTgATIe18mPHEpo5rMsD55a07UlEt2XQKhICyfE/Nq4m25BwbiJ56LE0LfrMlVxm21PbSaWu+9vspo6W6ROp7EHk26Nb4uv01m1gXlbzfWWb/ooRxAY+GJSbslFQxXFEPqEM/8fsXy+zbUlNvBeV4n1CGC9cwGW7+XZP/ZqOsZwLHyyGgrzspKhmH+qAnw74XNYJiuucuzUT5amcGE11VbzA2jjOg32jkESljBh25uY2LJN2nVo8lE0oB5XBVnV0B4h9cl8vvdakNU8aEoM4WHOnqyDfuiLGptcOWt+9TB6fYJgayIbHJ8obQx56ovt2q2H+BxqUMm3vOCX/eFz5GUfK18PEqFiEkcAAaZUmGHwHVgmx0FN57+CKkfP+KTuNFOU0bEtR95Ngh5pKO5LZDtmhHrYrcwa10GqZ30Rj1YKuiZnMoXBU6PGZjnAoDeKcJ4G4RABkgvFmL0nBAAs0qOUWcS8McdoR1M0ViNlHeuofgOY1Y2B65QmwxAC9Ln1oRZ84wFA==;ULRsburUxpID0qdWuGAR0A=="
 ---

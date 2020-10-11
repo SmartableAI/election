@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Powered by trust on the pandemic, Biden leads by 12 points nationwide: POLL"
+    excerpt: "Joe Biden holds a 17-point lead over Donald Trump in trust to handle the coronavirus pandemic in a new ABC News/Washington Post poll, powering the Democrat to a double-digit advantage in vote preference with the presidential election three weeks away."
+    publishedDateTime: 2020-10-11T04:39:00Z
+    webUrl: "https://abcnews.go.com/amp/Politics/powered-trust-pandemic-biden-leads-12-points-nationwide/story?id=73528233"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/powered-trust-pandemic-biden-leads-12-points-nationwide/story?id=73528233"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/powered-trust-pandemic-biden-leads-12-points-nationwide/story?id=73528233"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-plumbers-main_hpMain_20201010-193754_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Detroit pastor wants Biden to reach out more to Black community"
     excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
     publishedDateTime: 2020-10-01T19:52:00Z
@@ -268,6 +284,6 @@ related:
         height: 382
         isCached: true
 
-secured: "ipw75AujyjaPL1Nn5pkfYcreWfZohB1pyfNk2PYJ9xCjma105fnV+haFjuFPb2MlIRMZXvwuFMwMUBiN/kmKe2x8C9mG2o/aT3VjSX75cq0nb7SU7AvOwtTK/CPymdwMlQhKFbOX4zGeHG4HVz2LM0aVFNR75h+bqFlj8xoUeUPLRXEUxvsDI6TLtgQ2k+3DxLP3ICVM+NDeahwTALFrR22gR4UthLKOrTZf97lRoqr76QdxyjlqtOs9ifQRWIhqrN6UTnYo72UL7hJpSNon3mETYp7yTa/+KUUj4iyFp58Fn/36pWbZODcNtLNetK1L/p/UOHd6ozyXPlad3RUllylfBzyAR9F4OXGxWMD/ads=;N+8o62AxUhfCZc3qPaxi2A=="
+secured: "mMjzWaKXNrf/V4rcuujxoxMsD0PlC88Xql8vJaHnhBs8B+KhCk4LXeRTL09efMGhIc4vwFoKxCs5GLOpTWFhmr3doKxVBWeR7R4hN9N5LQMGyKTIk/tSNJNr/K5PkZFa9F6oj525ObaLMpUfX+1vsMH9RTaXNKAxK/xtBS5qBo9JRbAcJywm13LBWBwf4YtFhb8B4s7t5lKI+mL/kiKgOF/iCLVC8tSrnoni50tJ1ckNuG8nep2SZ99qLwi9gXLwaYZA1h2ZLQiTq++RV8mRcz5szccd5cDnnnAgDbB0V16EchFtsLU/fCYoRP8kvq6cExOom4ZoZF8WyKSXk4dCqR6qxO7pKa8M5zEnEhI80DftS/wGvz9y6ew5d/GfsAC36dFwtnwt8rAZfKO6s8X0XVXoIOLBVxuZQto+AzRSR2rNi5nLfrkSjwYy1de9QOB54uyKlMWzARVTnwSl/xp5/2rVxnP5pydqKa4cmveKZaMIt39mCHLoFZuj/KhFRiI4bmtjidHH+7hPPMuWZnWNYQ==;cHGP0sPEXe/ttfF9W8S21A=="
 ---
 

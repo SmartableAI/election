@@ -467,14 +467,14 @@ related:
   - title: "Joe Biden makes campaign stop in Erie, Pa."
     excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-10T22:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201011032231-joe-biden-makes-campaign-stop-in-erie-pa/"
+    webUrl: "https://www.cbsnews.com/live/video/20201011042231-joe-biden-makes-campaign-stop-in-erie-pa/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07204442_1602386705.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07204694_1602390304.jpg"
         width: 1280
         height: 720
         isCached: true

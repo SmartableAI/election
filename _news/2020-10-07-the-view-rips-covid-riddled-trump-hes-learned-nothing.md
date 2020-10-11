@@ -324,6 +324,15 @@ related:
         width: 5004
         height: 3334
         isCached: true
+  - title: "SNL’s Michael Che Can’t Hide Disappointment That Trump Survived COVID"
+    excerpt: "Either Trump’s telling the truth and we finally have a cure for COVID,” the “Weekend Update” anchor said. “Or Trump is lying and he’s still going to die.”"
+    publishedDateTime: 2020-10-11T05:10:00Z
+    webUrl: "https://www.thedailybeast.com/snls-michael-che-cant-hide-disappointment-that-trump-survived-covid"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
   - title: "Trump Conceals COVID Test Info During Fake Fox News ‘Medical Evaluation’"
     excerpt: "In one of his stranger spectacles to date, President Trump underwent a “medical evaluation” on Fox News Friday night that consisted of him boasting about how great he feels."
     publishedDateTime: 2020-10-10T05:02:00Z

@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden says he will hold a solo town hall after Trump backed out of the next debate"
+    excerpt: "After Biden's announcement, Trump's campaign manager called for two in-person debates, each delayed by a week, to October 22 and 29."
+    publishedDateTime: 2020-10-11T04:23:00Z
+    webUrl: "https://www.businessinsider.com/biden-solo-town-hall-trump-backed-out-virtual-presidential-debate-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-solo-town-hall-trump-backed-out-virtual-presidential-debate-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-solo-town-hall-trump-backed-out-virtual-presidential-debate-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 142
+    images:
+      - url: "https://i.insider.com/5f7f3b9c282c500018c79614?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "At town hall, Biden blasts Trump's 'criminal' virus response"
     excerpt: "Joe Biden is deriding President Donald Trump for his handling of COVID-19, calling his downplaying of the pandemic “criminal” and his administration “totally irresponsible.”"
     publishedDateTime: 2020-09-18T05:39:00Z

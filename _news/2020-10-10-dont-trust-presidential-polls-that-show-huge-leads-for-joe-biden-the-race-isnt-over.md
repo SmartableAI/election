@@ -403,6 +403,22 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Joe Biden, Herman Cain appear as flies on Mike Pence's head during 'SNL' VP debate spoof"
+    excerpt: "Live predictably spoofed this week's Vice Presidential debate, after mocking the first debate in the episode's season premiere."
+    publishedDateTime: 2020-10-11T05:40:00Z
+    webUrl: "https://www.freep.com/story/entertainment/tv/2020/10/11/snl-joe-biden-herman-cain-play-flies-mike-pences-head-during-debate/5955728002/"
+    ampWebUrl: "https://amp.freep.com/amp/5955728002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5955728002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/45207cc0-cb14-4197-933c-58c0f969a7d5-NUP_191888_0024.JPG?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
     excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
     publishedDateTime: 2020-10-08T10:40:00Z
@@ -587,6 +603,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_BIden_63454.jpg-d2718_c0-47-5586-3305_s1200x700.jpg?8664421bedb4b083d72ea6f46156033d5c502437"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Scott J. Hamilton: Joe Biden is the best choice for president to manage the U.S. economy"
+    excerpt: "One thing the current president does perfectly is segment and divide our nation. He has divided families, communities and states. He has divided by race, culture, ethnicity, veteran status. And he has divided the 1% from the rest of us."
+    publishedDateTime: 2020-10-11T05:00:00Z
+    webUrl: "https://tulsaworld.com/opinion/columnists/scott-j-hamilton-joe-biden-is-the-best-choice-for-president-to-manage-the-u/article_2ac5ae2c-f92c-11ea-924c-3bcca63b71e5.html"
+    ampWebUrl: "https://tulsaworld.com/opinion/columnists/scott-j-hamilton-joe-biden-is-the-best-choice-for-president-to-manage-the-u/article_2ac5ae2c-f92c-11ea-924c-3bcca63b71e5.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/scott-j-hamilton-joe-biden-is-the-best-choice-for-president-to-manage-the-u/article_2ac5ae2c-f92c-11ea-924c-3bcca63b71e5.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 66
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/a2/0a20afdc-f94a-11ea-8e78-57ccbea5854c/5f64065678030.image.jpg"
+        width: 956
+        height: 1144
         isCached: true
   - title: "In year of surprises, a win by Joe Biden should not be one"
     excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."

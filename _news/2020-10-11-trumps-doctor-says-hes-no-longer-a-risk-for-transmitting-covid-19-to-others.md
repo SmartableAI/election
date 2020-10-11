@@ -1023,6 +1023,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump says he's ready for rallies; doctor says therapy done"
+    excerpt: "President Donald Trump insists he is ready to resume campaign rallies and feels “perfect” one week after his diagnosis with the coronavirus that has killed more than 210,000 Americans"
+    publishedDateTime: 2020-10-11T04:19:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_a3e8cbcf458646c987a0d847ba3edfa0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
     publishedDateTime: 2020-10-02T08:44:00Z
@@ -4061,6 +4077,6 @@ related:
         height: 624
         isCached: true
 
-secured: "JfCWQtw03E47AdGDja4EgfiT9Dzij3b1QeHozUOG/gjCmTP9umJ6b5EEpjsebgT25E9B2tMx04Tma5KhbCwnfHQ1EAryCMmpGwRG9bNZEkeyaeXERfECVrmzxmLmRXqYC1EnXaBWYysdJm6Pi11Aod5IIuQMkdu0iyC12rchW2xz68rTEgorXU7/fsD9QCJJ6blxqyt+Vi4utWkkeoEBMqeaHwy/nKA2rjoNEVkVLdXYgGbyPHNcPKhiEsmj7/uD6KhUUwvqU5ibwyfwr9jqo9Y39XA2uSVe7dnc2SmkBHgZqgfmnmxUKMTRq7PSX5RKBza0Il4CL41EF8eXZmS3etjaLLsVaUNkjmlqa4aNGZQ=;Yv8krHrVpDS1Uyo3/M5TyA=="
+secured: "1FPZj9saCxzXFzC+143gwKJZkiTYCz0BU5iwNrVEicPOaQHs3wZ2QC++AGMqQ30ehJ2I11+Y32eyVap1jt7aRu48OzdVO15YfqdU0KS3UCtwXeZIf5OcXwku/WgZ1Fc4Wo66QJKj0NfCv6N6g3mF9zNBr6Uy7coWBs+FcRlx0+6GbCLYmE6umXhnJW2nzlMWKrQuDhI+5ZmoqnRZbfdWry1PfCoxcKGfSYWzjUusKjSN4L6JLmis83wSWIzxXYW+vbubP9dlIRtFNNoj2B9Ch3+9LRZ6ZpHMS9pIjQM+pVQgGv0hMHmQyDVWiaKHzs7oTUvLRhefxOYBXDyYlTLE9Th/udbiZN48/VoZ+fXG6thdiqGqh0BZLyLeXMQ25Myea2CrTVq2ES40T6dnXmCnsmE6Q8BoWdUZLGUevWnq9JPYwZxPT0ljPRO1Myo07JK31LxjtOqLfT64cVF730FhAEQ15g++bHPRLWSNQj02/A5MjHyrTx8dA3XPrjLKnoPvzd20QrKoat1CyoCh50THcQ==;IPZE0VXO6mlQp5avYVUW+Q=="
 ---
 

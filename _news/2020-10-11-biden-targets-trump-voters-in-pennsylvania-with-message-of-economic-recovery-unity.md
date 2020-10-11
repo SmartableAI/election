@@ -453,14 +453,14 @@ related:
   - title: "Joe Biden makes campaign stop in Erie, Pa."
     excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-10T22:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201011032231-joe-biden-makes-campaign-stop-in-erie-pa/"
+    webUrl: "https://www.cbsnews.com/live/video/20201011042231-joe-biden-makes-campaign-stop-in-erie-pa/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07204442_1602386705.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07204694_1602390304.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -800,6 +800,6 @@ related:
       domain: bostonglobe.com
     quality: 55
 
-secured: "sjgce16Elk8PoKNh47FoOLjUmxD6J/GY/YhA/wv483Nb+45PKavme9BAVlXpnjAxrL4KutuP6wsARrAckPUxWeU+3LAPFtR32+Bq8rIxE5evlkI0BUsIbG3wXOI8xKdcIHrCeHZf0CB1J46WVHAbN6Y3AJzOK4f0J3GJEVpeQat4MrxqrSKXf8fQQqlS9D68RmMSAbzp1kiAgTjJP7e7pQGos7lS1DE+6zcUw8FW6VbowCFqiygplT44+hkT8REJWZwQ7/JA+Ep+4V8Vw4wadcBEMpCtI/TOn+/9pwrB4j9a+QlR0sK6IRRR2XEMjnW+H+bz8hwPb1K//38ZPhevG/bJNmKsYonPV8I+OmXBAgM=;jDCoonvAcME7tJ+oN6D9bQ=="
+secured: "Kxg7Xq1Fu422LLZGB0JnHjryfUNhmJvFMHsaMxQe8AIAvOghgda65bFeVJVe4q46t9PCqxNQw0VuVHEF5nFRw4MtFBm4EdtJfXa4vHnQ6SfzFrkrdXLiHa05Ul153GyKGmSjNsYCGvd+J7hmZx8VjehsCBfNSjbfNTKcLu3mKQjEIrJ4Mju8t+++RKmyIHfvaGgVWyKLvArddWfCXoYeU31TaLJGOKtr0P0MN3DqbUFsyncfJHAJsxkSdTFNCmQzvw2TgOf6gPo4PTv3tcHxHmTBCmb5FrSt06yonHhGQEK6oUc01E+xCKsBEDFNPSRh4H0hpLOlMLZTF0Tetu5YhGxD6lP3POogtnbJUxU8arhcErqRkL//mrs19GCBRjl9xvjsZZQOXv81N/xV4+dz+26udUDSy4hrw9falGPQtdQR51VNS+xBd354nPTz14PtmSvAQWC+7/s57vYt8mpJfbUFfZij6Vw0DNBYQ0dOThhf1zwljez0yumohXf8xlc1J72s6gQt1DhAu8GeKG+iSQ==;bD4irZJ/y/Fq4dz8EB7nAg=="
 ---
 
