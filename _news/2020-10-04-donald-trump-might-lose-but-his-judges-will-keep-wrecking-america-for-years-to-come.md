@@ -198,6 +198,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Anti-Trump, but not fully for Biden: Will Gen Z vote?"
+    excerpt: "Young people hold the key to many states. They're also navigating a confusing voting process and aren't sold on the Democratic nominee."
+    publishedDateTime: 2020-10-11T09:12:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/gen-z-vote-2020-trump-biden-424571"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/6a/5a/3e8020b54c64b8503d65d94c2031/politco-shelikescutie-bijoukarman-final-100120.jpg"
+        width: 2320
+        height: 1546
+        isCached: true
   - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
     excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
     publishedDateTime: 2020-10-04T08:07:00Z

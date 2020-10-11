@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Editorial: We recommend Joe Biden for president"
+    excerpt: "Character, without question, is the starkest divide between President Donald Trump and former Vice President Joe Biden, the Houston Chronicle Editorial Board writes."
+    publishedDateTime: 2020-10-11T08:21:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+    ampWebUrl: "https://www.houstonchronicle.com/opinion/editorials/amp/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/editorials/amp/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/51/05/20091246/7/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
     excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
     publishedDateTime: 2020-10-06T11:02:00Z

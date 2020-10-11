@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Told Supporters to ‘Watch’ Voting. His Staff Is More Than Watching."
+    excerpt: "The campaign’s focus on Election Day operations has intensified, with aggressive plans for poll monitoring and other tactics that Democrats say are efforts at vote suppression."
+    publishedDateTime: 2020-10-11T08:11:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-campaign-poll-watch.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-campaign-poll-watch.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/trump-campaign-poll-watch.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/05/us/politics/00vote-suppress/00vote-suppress-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "QO27PkD7rMemB9Og4Q/9iWWjcdyZqeYxLl5Xmw6WH5r0Eike4DO2K/JQiUYNHGxee59Ar33gIoB+EMtqHKNL6dbNQKg2UVCxYWqb0DOKuwb5zkeYQspuvVndxjYPNSF30l0aJtr0/Je73Ue/nbzOZnmOdDxUmtI5JNrBEuM0eNGD4MGGBhHs588xrXD9TTsS6iQxRGYw2kCMLtSIx9zoyYyQC3kVAsu2ijoiuaGyA3AxH0ZQbigpC1h5keW1+MosQt2pmarEvW3/EA4MGo7OI+hKH1etlpJOn8m8q0XhvAZsxzdoO6286anh+cVkbIWF0jEy4uH00y/QjMBgBmihQfyRhOi4VCnhaWa9OKcanr8=;yC7cUurvEoHuN5q2+PhtLQ=="
 ---

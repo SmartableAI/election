@@ -64,6 +64,22 @@ related:
         width: 700
         height: 489
         isCached: true
+  - title: "With Covid back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
+    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
+    publishedDateTime: 2020-10-11T08:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_32a16910e24a32b24dab5713ac1d1f2e.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "vXLXX/u2bPmwO1lUcAVNiCsJkakfXtSc2MtyjJNmi8U3hXn9LCOPI5gIiPQ9sX6D/f1lkXAqOhPbcMWVY1ZLB9zeN5ADkwzE2Jn3XnBBBkYJBkoCdN9SdnVSPvdxeeKkzTTdAVgO4Pdi7h/dU5pgeZ+0QKiSu6nC/bIZ3aHbyU0ut6KDLk6EzyBpLgsrN9JqwscVqWh+ZHf+T0SPsHXpB4L3UfEzyxe5he6x/N8YxFkKpxwfDw3KaDZeHIriTjkJkHYI/r5z2FCcqPXfscZjWQC/zyRWahJtjff97iBdYjJE9f2mcU5VX75E19yJH/pwF0Say0o4Lz2tW+dEh7i//GRnt1gJ1eCPJ34xoWIC3uw=;+oPSx1FgD7jfFIwSVNbVAw=="
 ---

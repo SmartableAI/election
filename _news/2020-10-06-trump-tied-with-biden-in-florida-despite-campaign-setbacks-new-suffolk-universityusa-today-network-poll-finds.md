@@ -95,6 +95,22 @@ related:
         width: 2285
         height: 1524
         isCached: true
+  - title: "Editorial: We recommend Joe Biden for president"
+    excerpt: "Character, without question, is the starkest divide between President Donald Trump and former Vice President Joe Biden, the Houston Chronicle Editorial Board writes."
+    publishedDateTime: 2020-10-11T08:21:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+    ampWebUrl: "https://www.houstonchronicle.com/opinion/editorials/amp/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/editorials/amp/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/51/05/20091246/7/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Progressive Democrats have a fragile alliance with Joe Biden. But they're readying for internal party warfare if he wins the election."
     excerpt: "Fear of a Trump second term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
     publishedDateTime: 2020-10-09T13:02:00Z

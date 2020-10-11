@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden, Herman Cain appear as flies on Mike Pence's head during 'SNL' VP debate spoof"
 excerpt: "Live predictably spoofed this week's Vice Presidential debate, after mocking the first debate in the episode's season premiere."
-publishedDateTime: 2020-10-11T05:40:00Z
-originalUrl: "https://www.freep.com/story/entertainment/tv/2020/10/11/snl-joe-biden-herman-cain-play-flies-mike-pences-head-during-debate/5955728002/"
-webUrl: "https://www.freep.com/story/entertainment/tv/2020/10/11/snl-joe-biden-herman-cain-play-flies-mike-pences-head-during-debate/5955728002/"
-ampWebUrl: "https://amp.freep.com/amp/5955728002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5955728002"
+publishedDateTime: 2020-10-11T04:49:00Z
+originalUrl: "https://www.azcentral.com/story/entertainment/tv/2020/10/11/snl-joe-biden-herman-cain-play-flies-mike-pences-head-during-debate/5955728002/"
+webUrl: "https://www.azcentral.com/story/entertainment/tv/2020/10/11/snl-joe-biden-herman-cain-play-flies-mike-pences-head-during-debate/5955728002/"
+ampWebUrl: "https://amp.azcentral.com/amp/5955728002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5955728002"
 type: article
 quality: 91
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -720,6 +720,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "DdOB4yIOHtoFGxJvXSy6Yz6ahrHFDubIlrATbOI9VF1Tz3t3eVlMvwnT4e8Pkh50Twqx7kC5ZxRYWCjJrTl4e4prb4DhPEcGfcslzUE9aD1cpxuLcoF8Q2mpO2fhNQemx5vRcrXHA7XSqkl6juWmxsF8m51qhppwRa3BeRYUdlMDpOBEZ+B4d2lpNhkYEtXT1Wcxv0EP5YVMd14iRegmIpgN6VABUy1kmYWjmsOiTHG2BRQqRSrGrLmbKT9RJ35AxtE3WHktzxwvvGvtU9VfpjBRNnIu9f3uCBXNz6RGts+QHBjKQG5WraQ8elda7tP/kpp4m0l3fLJV+tfi/W0gbwAJbfTvOCxiXx4vO7us0AiQ8xue2hv7tXU4b/9USUq4Yo0aLO/hibUUzX5HU1xezu/YS9UBW1dnZeXNXYkSCfIol1uBJrjPMQhtdzWWuDWLrFLSX4pjTXR8d56aReHLK62QLdxiHEIXfIE0WdEmg9GCkHH65HiD47u26H/KJYqtFZAyqlYHFwC9bU9/eYpbDw==;TOIjKZ0AHYulo1v7plrDZQ=="
+secured: "dXW5yQJEyPdfNtud40Sx+yUZs7sR5IspHIEKvciM19O3q1PgmPMH0zAcK7TiO52iIY6vHCR63GMidNlcrRFTM5/8Xfu4e+aUxGSCLkY5hHsDoeveipyDb618PY/ksFISID6EcnOnURe6D8umfXmaSxBGO7AiBypxu3wIprRjf7CZQqdQVNhId/xSAcfSa1ZliWFpQlCtaqo4QbcFhQ7Xu6KXhMxRNdYXEbeiL5UwjkWlkjCijwiJLf/9J+20qoQlHWePD5VHQ6dwxn1OYAt3z1nf2KaXYh4Nh4S6uieGTAW98zBY0yor27OM4BXHtEI5RSp+UwFjdAXGXtMLyGp/WO0yYl/iajw4rjdHWgBo7Zo=;dyPkFdne3PPQAhaXOv0lSg=="
 ---
 

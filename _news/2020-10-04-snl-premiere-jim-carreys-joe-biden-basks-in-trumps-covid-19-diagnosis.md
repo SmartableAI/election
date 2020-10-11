@@ -198,6 +198,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Anti-Trump, but not fully for Biden: Will Gen Z vote?"
+    excerpt: "Young people hold the key to many states. They're also navigating a confusing voting process and aren't sold on the Democratic nominee."
+    publishedDateTime: 2020-10-11T09:12:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/gen-z-vote-2020-trump-biden-424571"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/6a/5a/3e8020b54c64b8503d65d94c2031/politco-shelikescutie-bijoukarman-final-100120.jpg"
+        width: 2320
+        height: 1546
+        isCached: true
   - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
     excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
     publishedDateTime: 2020-10-04T09:02:00Z

@@ -397,14 +397,14 @@ related:
         isCached: true
   - title: "Joe Biden, Herman Cain appear as flies on Mike Pence's head during 'SNL' VP debate spoof"
     excerpt: "Live predictably spoofed this week's Vice Presidential debate, after mocking the first debate in the episode's season premiere."
-    publishedDateTime: 2020-10-11T05:40:00Z
-    webUrl: "https://www.freep.com/story/entertainment/tv/2020/10/11/snl-joe-biden-herman-cain-play-flies-mike-pences-head-during-debate/5955728002/"
-    ampWebUrl: "https://amp.freep.com/amp/5955728002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5955728002"
+    publishedDateTime: 2020-10-11T04:49:00Z
+    webUrl: "https://www.azcentral.com/story/entertainment/tv/2020/10/11/snl-joe-biden-herman-cain-play-flies-mike-pences-head-during-debate/5955728002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5955728002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5955728002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 91
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/45207cc0-cb14-4197-933c-58c0f969a7d5-NUP_191888_0024.JPG?auto=webp&crop=999,562,x0,y0&format=pjpg&width=1200"

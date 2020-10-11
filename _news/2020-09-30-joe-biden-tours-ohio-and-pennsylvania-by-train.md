@@ -253,6 +253,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Endorsement: Pennsylvania needs Joe Biden"
+    excerpt: "From COVID-19 to the environment to racial justice, Donald Trump has failed. Joe Biden and Kamala Harris can set us on a new course. The stakes for Pennsylvanians could not be higher."
+    publishedDateTime: 2020-10-11T09:16:00Z
+    webUrl: "https://www.inquirer.com/opinion/editorials/a/philadelphia-inquirer-2020-endorsements-biden-trump-20201011.html"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 55
+    images:
+      - url: "https://www.inquirer.com/resizer/xv0aCzajDcue01kI6g9qRH2zP5Q=/1200x0/center/middle/www.inquirer.com/resizer/58G0AwdvoBWhoRhhb87lE6fkog8=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/4ZLGKDUXCZE6BHWZOQFEF4FPEY.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Vice President Pence Hosts Debate Watch Party in Lititz, Pennsylvania"
     excerpt: "President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz, Pennsylvania. Vice President Pence delivers remarks at a “Make America Great Again” debate watch party in Lilitz,"
     publishedDateTime: 2020-09-29T22:26:00Z

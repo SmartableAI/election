@@ -190,6 +190,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Anti-Trump, but not fully for Biden: Will Gen Z vote?"
+    excerpt: "Young people hold the key to many states. They're also navigating a confusing voting process and aren't sold on the Democratic nominee."
+    publishedDateTime: 2020-10-11T09:12:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/gen-z-vote-2020-trump-biden-424571"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/6a/5a/3e8020b54c64b8503d65d94c2031/politco-shelikescutie-bijoukarman-final-100120.jpg"
+        width: 2320
+        height: 1546
+        isCached: true
   - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
     excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
     publishedDateTime: 2020-10-04T08:07:00Z
@@ -209,6 +223,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "gXzV5/fC8Cjt4kSSWMMKvUUxP3gVAwpCV/4naMtXp7NvCMgfPnmvgAIFiuS7XSEpl0oors12ol1XLu8AJxnUkLaeCPIJeDk28o4xNYPWZHhk72SJS9iSLKJ2EVC110ei3GO94Ug6in8jX3JHAlkntYXr5G3MxpE7FUY7cKW9eF2IHWIEAKYEWf2lsUu8GmMJQ7qT3jT/Qgv7/Ic3vP480RZmLGs5kFUjKeeKvZyFE7qjLyUmZAWPp0xowJvhOdk6SfSfvejQ10OsGHxBH9lCY1Wx/SMcCQ0ML3Nn9q8+OM8hCEEAq+ZJOb9CkUQkgdUpwhMtvXOHGucpf9oTj6+H7KbaXQiDDlBlbyP9zJu7C10=;XU3BtGPWqd8vw5t1g3KR1w=="
+secured: "r2LWmlIWq1cYv05wMT8MA+ONtpSGZ+lbEaGGUmcDvzTefA1/uuABuFMFbf/oNj0hcZ0/cs+Jfmk2Ytz4roVW4l3hF9qwKCvHFBzOPtTShPb1JJ8ORbU805lgbQqf/Tf461rQa03uBFQkS7K1eNRQFZcqmU6HsX2swn06a2Hkma5gHcVEaWZwbUveQ3gAfcZ1YcjNMKu4QiVegpTiYnE+a7fKU9nApQk0UFm9Xo62hOkLWcnZf1tqjtfSfdwcyNZ0r+iq4belFkQsepa27tMWtsWIapQ7f/n/2Vor0pQj9UAUmzhotASMup/BrcxeMfp1hCx32LJ/76ose5HcfSamsrYaOLgKuAUMmO/+Ksmwl9TACHCmQKHuywCG2Ol7Z/ut33yQeE6Qif3IUQzfq11J/vorR5QMwlU3OaaN6wvpAW391U9TIkJVaAY8E3nZIi82K1GF1Ea6f0/tAVoKpfcXYi45ea1FweZ+aML0u2h+4GcETmQnKvNIOfI9BWsbyZqrcHG8SYq6n9vU9XSHsHj0Yw==;pROzT1cipVXHpmiSvvIA0w=="
 ---
 

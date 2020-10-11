@@ -59,6 +59,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Why Trump's illness probably won't persuade anti-maskers to take the coronavirus seriously"
+    excerpt: "Data show more people may wear masks after Trump's coronavirus diagnosis, but some will be anti-mask regardless of evidence. Psychologists explain why"
+    publishedDateTime: 2020-10-11T09:16:00Z
+    webUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f7c9266282c500018c78d96?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
     excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
     publishedDateTime: 2020-10-09T16:24:00Z

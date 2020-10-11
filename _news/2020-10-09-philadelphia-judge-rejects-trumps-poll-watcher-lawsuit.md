@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watche
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924162151-mail-in-ballots-voting-1-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump Told Supporters to ‘Watch’ Voting. His Staff Is More Than Watching."
+    excerpt: "The campaign’s focus on Election Day operations has intensified, with aggressive plans for poll monitoring and other tactics that Democrats say are efforts at vote suppression."
+    publishedDateTime: 2020-10-11T08:11:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-campaign-poll-watch.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/trump-campaign-poll-watch.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/trump-campaign-poll-watch.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/05/us/politics/00vote-suppress/00vote-suppress-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "ruKrDoJDHxv1o3jm1ylm6ARYc/AwBs8nr4gC+NSyMlAmVH1CFLsmSDLhGzsQvU01R1h0clS0xoaMroqouCw1i1LLudJzQjlu5nI7aRu8rS9BKq7zTI943qOpXs4ZIKLmPHiU8syiapGhkYBoNF5HViVEdvD06uOCqfcV/uMeEeaysg6dzyCp/nuZyBv7X4CPXzSV393x5Uv0+oD5FXccVfCUEc6mYReqYGGIDeKWGuklF77dg2CevJ+OYrYNtE+5nU2+sgknwl+lFKeBigwJjJeBVmfvewmiIlRAPQsNp4EYxPqHhpFnGry03cwUCe9WZhnzeEWScGQtigpIGGYlvRGy8GysLSJ19kh+Fb1GXpY=;HLelxC6bj1W6YM22SdpqSg=="
