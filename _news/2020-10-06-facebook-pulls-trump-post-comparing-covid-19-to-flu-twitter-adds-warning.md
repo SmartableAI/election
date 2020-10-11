@@ -1247,6 +1247,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's doctor says he's no longer a risk for transmitting COVID-19 to others"
+    excerpt: "President Donald Trump's physician said Trump is not a \"transmission risk to others\" in a memo released after he held his first public event."
+    publishedDateTime: 2020-10-11T02:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/10/trump-not-risk-transmitting-covid-19-dr-conley-says/5958045002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5958045002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5958045002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "For some high-dollar Trump donors, Bedminster hobnobbing now means COVID tests"
     excerpt: "Several supporters of President Donald Trump who just days before had been toasting him at a fundraiser at his Bedminster, New Jersey, golf club said they are now quarantining themselves and going for coronavirus tests."
     publishedDateTime: 2020-10-04T16:14:00Z

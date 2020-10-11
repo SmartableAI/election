@@ -655,6 +655,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence, Kamala Harris and the Fly0"
+    excerpt: "It was a night of somber, serious suits and signals for both Kamala Harris and Mike Pence. Then the bug arrived."
+    publishedDateTime: 2020-10-08T21:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/08/style/vice-presidential-debate-kamala-harris-style-fly.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/08/style/vice-presidential-debate-kamala-harris-style-fly.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/08/style/vice-presidential-debate-kamala-harris-style-fly.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/fashion/08VPFASH-Pence-fly/08VPFASH-Pence-fly-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Mike Pence and Kamala Harris reflect America's demographic transformation"
     excerpt: "The two vice presidential contenders who will share the stage Wednesday embody an evolution in the country over the last half-century."
     publishedDateTime: 2020-10-07T19:01:00Z

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump Did Not Win This Year's Nobel Peace Prize"
+    excerpt: "President Donald Trump didn't win this year's Nobel Peace Prize after scoring another nomination from his supporters. On Friday, the Norwegian Nobel Committee announced that the prize has been awarded to the U."
+    publishedDateTime: 2020-10-11T03:42:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "GQukjOdhvRFTQdu1I/0GgvK0ZKs74CPTCsDmX3XC+wlWBn93rXxOnJRHfZoOTYI0dk/j4n/CHKUOAkiU2QfFgHp37xa4+iBczMfu5jlulpaxwNXKz2TD6dX/7T0uG2IMtPJyFpsrjEggVskcl4lQux+sbcbs2pyG/LfoEgtfeW66NXWIAtqmwdEu7e3MjbaA1SGoMqTUfbPVPH2WHNacaKcmKYOtr9l5pqG6Efv5vvybNnildahqdYV/8r/71KzlYkxmdAsaPYgRpCZ102VwfX5wPXS5kiUFZhwG0Ij+EnA5VHtwUjFk97Vo5HLOLXNZGOHOq1OK+OuaSOZZDGN/5BNaRk0o1AQbEutsJmeQsYYm9AXjJjjtP4zxntFVOkrOaD+ZHEbj+hk2BAO6JTdzOFOw9C86Bjd0tSsTKsfxJQkYwLN9gvxiVgqnz7NZbUwVTDCULMASJPEq19QG3ciINFbc815d7YMxb5Hr41PmOeWcxPIUvFZ3EbTmU0RHYlz5tzntzMM8q3KSv42cXprfJw==;ok9yQBdvBYkMStuI2ZKIeQ=="
 ---

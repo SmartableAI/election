@@ -91,6 +91,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Says Amy Coney Barrett Appointment 'Not Constitutional' as He Evades Court Packing Question Again"
+    excerpt: "\"Look, the only court packing is going on right now. It's going on with the Republicans packing the court now,\" Joe Biden said."
+    publishedDateTime: 2020-10-11T02:07:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 107
+    images:
+      - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
+        width: 2500
+        height: 1571
+        isCached: true
   - title: "Detroit pastor wants Biden to reach out more to Black community"
     excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
     publishedDateTime: 2020-10-01T19:52:00Z
@@ -248,6 +264,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Oubo2G1oawtVpc1ClNW7hmd/rAMbiQyaVvc2+fgzRqnpFEr+igdgQn33YIjpH9fRk14Mr7tvjvdkwEYvA0IjYd+8JmLbMyjFrH35syhaWQ5125blapvcnx005S/GFi+Zr9D5/L32PDWmPH3d3oyjgyfxasZSvT90OM3HRdNMyNqGDedekn+ODQFoIImpX5bNST8wh5B0jMlNwhEykI6Ljkt1ufg00kaUmr9YgX6JVP3e7OfnDkFke+KAb85kjDswvWaJYUVN91lY+VUVJ3BWmMTgM/rYlH9pzB5wnPwFaZKQP//NSxXPzxAXDp0NhehrgJdjsJ8cFKoVJTwqqQKeFdwp1OxE2xgU+FAez6K/NVU=;EAx16/XmVQfvkYAjuKIGUg=="
+secured: "YHHiwHYULFWiaBXF/0t/62L9tul6oyTSOv0f4jlh3vHHStoDB66wDXJhCd21ovs8lbYOOfDlPqTC3Wg8doFo1LCXhr6ynWS89Vg8YySsRUCBKWhkU+2DdbR9/wIvcAHtvPBS53wSSJR/kL8Gmr+nK1MBASUsnrcMm0sNnzZ2oWO9RDKeN1B4d8jdqOx0OouC16lh5xzrv6BuN6px2aTVrNEgMUnvDom1B2Zre+MnwQc9hHH3kvwifVYJpB9o+S2upDRzHSvK6BLcURRrllCp7dFyYAzrp00SkR287iOkFqdmbInHO89zsh+s+4iA487K79q4EvMq/8O4DlqRgviWZ5kInmp3fqhHZ4/hPwHqv5inuez+i1T1/eTDC5svgSC3zsgzfVTCMG2Axcj5o8/HafQkwElR8ZkMhX7roPv2S6foa96YtZapT4FUt+ETx//cGARsc3iIBWSqh5tz/aiDR5YKGnV93wh16+tz0eVg7yxs7wihCe5dKwX/Px6bZg8L+g9veFWkTxUqDJ6MgG0R9Q==;0hS5OyTZ35HmJuGhG+amIg=="
 ---
 

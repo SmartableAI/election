@@ -1120,6 +1120,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump no longer poses infection risk, White House doctor says"
+    excerpt: "The latest information still leaves out some crucial information for judging Trump's health — such as the condition of his lungs."
+    publishedDateTime: 2020-10-11T02:53:00Z
+    webUrl: "https://www.politico.com/news/2020/10/10/trump-infection-risk-conley-428538"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/10/trump-infection-risk-conley-428538"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/10/trump-infection-risk-conley-428538"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/1e/ff/c311c0024f02bbb41c101f806f36/ap20279704680423.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Chris Christie, who helped Trump prep for debate, tests positive for coronavirus"
     excerpt: "Trump started remdesivir therapy, which is an experimental antiviral, and completed a first dose. Trump's coronavirus diagnosis has thrown his campaign into confusion with a little more than four weeks before the Nov."
     publishedDateTime: 2020-10-04T02:14:00Z

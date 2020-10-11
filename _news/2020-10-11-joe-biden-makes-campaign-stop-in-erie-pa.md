@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden makes campaign stop in Erie, Pa."
 excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-10T22:33:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201010231901-joe-biden-makes-campaign-stop-in-erie-pa/"
-webUrl: "https://www.cbsnews.com/live/video/20201010231901-joe-biden-makes-campaign-stop-in-erie-pa/"
+originalUrl: "https://www.cbsnews.com/live/video/20201011032231-joe-biden-makes-campaign-stop-in-erie-pa/"
+webUrl: "https://www.cbsnews.com/live/video/20201011032231-joe-biden-makes-campaign-stop-in-erie-pa/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/10/story_07204051_1602372125.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07204442_1602386705.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -138,6 +138,22 @@ related:
     quality: 137
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O5K4ZNAIGAI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden targets Trump voters in Pennsylvania with message of economic recovery, unity"
+    excerpt: "\"The choice couldn’t be more stark; the stakes couldn’t be higher,\" Biden told supporters in Erie, Pa., during his 11th trip to the battleground state."
+    publishedDateTime: 2020-10-11T02:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/10/biden-targets-trump-voters-pennsylvania-with-message-economic-recovery-unity/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/10/biden-targets-trump-voters-pennsylvania-with-message-economic-recovery-unity/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/10/biden-targets-trump-voters-pennsylvania-with-message-economic-recovery-unity/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5IEAIQLIEI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
@@ -784,6 +800,6 @@ related:
       domain: bostonglobe.com
     quality: 55
 
-secured: "zMa7gDKJiSUDMNW263h/NzXChd/lQUwMiZrxJZpyoIpSsRI918e7V1HzvPrpmRdZbH9q0UTk7qXidQvNR/uAK5HaTCyZgXzZCo/N1eh1k2XchzlqipbC7VXyomxGHivDsEOjl2L25cAcGclADlSQeG1rbhfPaAC52nHkSv3MTJmayPKc7ZWqKDZLKT8rtCqvY6BegRXPk476ETt4xEE8mK0sZz24lH7sMOg3pVOyKgk46icRX6mwGb6H3UsxqbNh/vzeFbqutfUtweX9xtQNapIiymMhDgIEiYjiBl9i4Y5g/G0TZMJwG6NVHFueM25UaR6NNv0Io/g+REgT7bs/M1r2qRlI3JmwW1nbnS6PBHfYBf8Js85N7ufyyyIHOteV47oKYliUKYKiPE1FGj38fmo2Z5xB0LLi50CYjL3XY9oERLFZ+cL/TYi0O55dMel5RPIKT7pSWN1rkM+BxrGjJCPgMDS4ZZmAMp5kX+QZS+ImQYYQSE5mtOLX0tl0mqYoS4g6w7YyFLXCkB7Wq4sXvQ==;LhJfhBjnEepFaOnlvwh6rg=="
+secured: "oq7LStKNrl/LW4GSBEeWAKA2H/6ndpLJ6JOrGURc5um1Yak+GWRbz7guHD8IL/Z/yeVV0ctJU6ZOxH0howKFS9yUO+83kZkCNYeXrBdtOBHgm2UXu2LI+1YZtJlpzcvuSt5mex783oeJLFbUaERzjMAhwb3nJ/FH0zUxrOaNMU0LX2tRV/6V/Dd7Vj3U11zer0+FDI5KWIl5Sj4Z3Wi9131rFOh/N2YY6L7bYXRLrtnD/y9lVT+K6QxPYTmRZsfrGAq74Kom4ibeYjvG2lCZeRBpk0Ks/ODxTaG8OvPl/q+Qz0eoCzAtnNTeg7zK9nSmFcoxsL3GEHYemIdrZDq8CCHy6Sn0bvyJILbG9PDXNpY=;bzDz2y5dpMVDG3kyK0pVXg=="
 ---
 

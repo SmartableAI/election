@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence makes campaign stop in The Villages"
+    excerpt: "The rally took place just 24 days before he and President Trump will face former Vice President Joe Biden and Sen. Kamala Harris, D-California."
+    publishedDateTime: 2020-10-11T03:07:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/2020/10/10/pence-makes-campaign-stop-villages/5941575002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5941575002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5941575002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/NDAC/060cfb7e-55ac-4251-a36e-00d717dee960-FL_LEE_pence_0529.JPG?auto=webp&crop=3255,1831,x0,y540&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis"
     excerpt: "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled."
     publishedDateTime: 2020-10-10T08:16:00Z

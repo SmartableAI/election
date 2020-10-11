@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden targets Trump voters in Pennsylvania with message of economic recovery, unity"
+    excerpt: "\"The choice couldn’t be more stark; the stakes couldn’t be higher,\" Biden told supporters in Erie, Pa., during his 11th trip to the battleground state."
+    publishedDateTime: 2020-10-11T02:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/10/biden-targets-trump-voters-pennsylvania-with-message-economic-recovery-unity/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/10/biden-targets-trump-voters-pennsylvania-with-message-economic-recovery-unity/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/10/biden-targets-trump-voters-pennsylvania-with-message-economic-recovery-unity/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5IEAIQLIEI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
     publishedDateTime: 2020-10-07T02:42:00Z
@@ -437,14 +453,14 @@ related:
   - title: "Joe Biden makes campaign stop in Erie, Pa."
     excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-10T22:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201010231901-joe-biden-makes-campaign-stop-in-erie-pa/"
+    webUrl: "https://www.cbsnews.com/live/video/20201011032231-joe-biden-makes-campaign-stop-in-erie-pa/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/10/story_07204051_1602372125.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07204442_1602386705.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -784,6 +800,6 @@ related:
       domain: bostonglobe.com
     quality: 55
 
-secured: "yXLWvpytm2d1WsRVeZZ7GDBNHBjSwE5H5b0JCgtucYSzzPW7YwGMruRG1SdvxkXRMDbNIiXwOte1SjbsNG5K5cCvrIut5U+8Bqo1K+GR5LO98kFoROzHa5ptTVDBNEbs4Gdywmobz/m63LAyoHJh9zvS2RsRxS7RrPQ/DyjHZU6c7R09SQ8wlUPHdU2tAi8bk4ejsdYwkGYrm8zKRWDZf99LJZHKqzPH4jitckJjaMmc9Osb0Y39jTqHbtBypeqY6qKqrb/HtdSO+CALg0ih3bVcDmOOX03jNPIa8f8TfL4uB+qyrelNbk6DwVeu1wfJPSi833ljrAru2T9y7pp/2EHN0Sbu1f99XE+m8eWQTMI=;dqrOVpr7MAsMorfxBI6R3w=="
+secured: "Ipu3t0LKYDg46bf/gtjjg/8VW0lpZj571Mhu9DRpu8XA4sZNS6T0blWC5fvzuqn/CxWN6s8BpIXNQ1DuTpNU5mcC2IhyFH51lAuGB7Cjg5XLWX0Ri2Czrg+BHShG6/Dkt2eS1kaPMFcJFEwV6eAD+7u9pQKZ4euFcJg6j29PMDravN/Wzn9iBrkJBMDMlLvWTds6oaXYJYia5B4IhRhDkLiCC3dk3vxX6JfVMaB4NlLXVRLPyF3DNxr8F0De29TtFPDiwFRvLIZ44PEepOygNTJUwZXabOanLaGUXBpIdmgyw5wjTy0SHrBFhVEIwm7eOk8tQ8KEi5hfRgw8EBTyFrvURATuw/dh6KoFgRc2Ytvtrzn7rqCuXeFRDZlnqffH3MoEcvenWcsfRuiZ3p+HTZm3z3jPeBStAoA2F68e+beixYJ2OqBxzBxPwYBrBwRW5tVFxwP1dN6gBjfEunjUTIxQEChW9bNg+twBn9phUZ8JhE0/DNrwfVZJC+2PxMk6l41QpuBw9bd8tBX/UIJgIg==;d0Cfy11A/eP944u3uy72PA=="
 ---
 

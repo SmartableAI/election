@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Mike Pence makes campaign stop in The Villages"
+    excerpt: "The rally took place just 24 days before he and President Trump will face former Vice President Joe Biden and Sen. Kamala Harris, D-California."
+    publishedDateTime: 2020-10-11T03:07:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/2020/10/10/pence-makes-campaign-stop-villages/5941575002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5941575002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5941575002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/NDAC/060cfb7e-55ac-4251-a36e-00d717dee960-FL_LEE_pence_0529.JPG?auto=webp&crop=3255,1831,x0,y540&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "pjEp9cHY1FsAp4uKs+3il/lTfVs+E/GXNbE1nyUbT11UsiaLQ3hcOKCb44lFg+Ra8qhSzKJV+esJ+DsZ/c2ZJUsDPvYeJrhF4s3FGBsW2LiAvi7mPiLZOH9FgHoc8T3so4l3eD37ac1u21RyAPTjFrZr7yZr+xmZbi6bXE9QZtTo6Xr5RtaJrQENNoio7VSjr8Gn9Ikq8M0NGp8o+pyXUISUStH2AdidTflZH1BN5vj3ELLFelw06pgEM61VUZ4oX/hJ1ZcRRy9Az9Y7nG/fAqU5d1RRxKq9MP9+Dsgs1bCawZDp1qJyb422owWwB8zJ5oaIbNTsrew0rTRoUht65xqMN+i5I6r5G2Id9KouUkdrBjmbTqZT7y795vcP4mRO6pJGHLf66bPmdyv3gwyEaSRQQc5Bm/TExCsws08s8KX74qfzCEfRLvNovDdZ/6AFWVkUGkUm+n7/jNsMo/IVkgkRfSiJZiVG/F7Vg85yCriENqNJg3tX5vHv+UZzp4dIQI0D+MOhwzZ1XGMAoeOWKw==;wQp2lT7QpxKxV9TCpanbXg=="
 ---

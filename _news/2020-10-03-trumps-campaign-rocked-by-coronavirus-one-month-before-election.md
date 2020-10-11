@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html"
 type: article
 quality: 190
-heat: 2070
+heat: 2090
 published: true
 
 provider:
@@ -1100,6 +1100,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/54/3a/5760add94344bfafea9d29ac3d9d/ap20279706828397-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump no longer poses infection risk, White House doctor says"
+    excerpt: "The latest information still leaves out some crucial information for judging Trump's health — such as the condition of his lungs."
+    publishedDateTime: 2020-10-11T02:53:00Z
+    webUrl: "https://www.politico.com/news/2020/10/10/trump-infection-risk-conley-428538"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/10/trump-infection-risk-conley-428538"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/10/trump-infection-risk-conley-428538"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/1e/ff/c311c0024f02bbb41c101f806f36/ap20279704680423.jpg"
         width: 1160
         height: 773
         isCached: true

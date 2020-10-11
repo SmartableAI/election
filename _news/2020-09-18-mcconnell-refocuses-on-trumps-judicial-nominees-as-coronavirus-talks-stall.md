@@ -351,6 +351,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Doctor says Trump no longer at risk of transmitting virus"
+    excerpt: "President Donald Trump's doctor said Saturday the president is no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T02:11:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yfLteX3PRm0/doctor-trump-risk-of-transmitting-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/doctor-trump-risk-of-transmitting-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doctor-trump-risk-of-transmitting-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/699756ba-97d5-4def-a0d5-355653e387c9/298b5b20-3ab3-42d1-b551-db529a0e6716/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WV official corrects Trump's ballot-selling mailman story, says 'election will be safe, secure and fair'"
     excerpt: "West Virginia's Republican Secretary of State Mac Warner clarified a false claim made by President Trump during Tuesday night's debate about a mailman who sold ballots, saying that the incident never happened and \"voters should be confident that this election will be safe, secure, and fair.\""
     publishedDateTime: 2020-10-01T19:26:59Z
