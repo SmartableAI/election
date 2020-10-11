@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden silent on potential court packing as Trump taunts him"
-excerpt: "The fight over the seat vacated by the late Justice Ruth Bader Ginsburg has thrown the Supreme Court into focus once again."
-publishedDateTime: 2020-09-30T17:33:55Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6TU7gfYmOHM/court-packing-biden-trump-debate-filibuster"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6TU7gfYmOHM/court-packing-biden-trump-debate-filibuster"
-ampWebUrl: "https://www.foxnews.com/politics/court-packing-biden-trump-debate-filibuster.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/court-packing-biden-trump-debate-filibuster.amp"
+title: "Live Updates: 2020 presidential race: Trump prepares to return to campaign trail"
+excerpt: "President Trump held a campaign event at the White House on Saturday, his first since contracting the coronavirus, and Democratic nominee Joe Biden campaigned in Pennsylvania.  "
+publishedDateTime: 2020-10-11T05:54:37Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F-acZffQLzc/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F-acZffQLzc/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail"
+ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail.amp"
 type: article
-quality: 190
+quality: 170
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20270789646213.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -398,6 +398,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f3c1523-b26e-498e-82ba-4f05a8f4482a/94d5263d-4a78-4f96-bf8d-8dbfb7b843b4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden silent on potential court packing as Trump taunts him"
+    excerpt: "The fight over the seat vacated by the late Justice Ruth Bader Ginsburg has thrown the Supreme Court into focus once again."
+    publishedDateTime: 2020-09-30T17:33:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6TU7gfYmOHM/court-packing-biden-trump-debate-filibuster"
+    ampWebUrl: "https://www.foxnews.com/politics/court-packing-biden-trump-debate-filibuster.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/court-packing-biden-trump-debate-filibuster.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20270789646213.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump-Biden presidential debate in Cleveland: Top 5 moments"
     excerpt: "President Trump and Democratic presidential candidate Joe Biden attacked each other in starkly personal terms for more than 90 minutes as moderator Chris Wallace worked to get both candidates, but especially Trump, to follow the debate rules the candidates had agreed to."
@@ -1464,22 +1480,6 @@ related:
     quality: 170
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/gettyimages-warren.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Live Updates: 2020 presidential race: Trump prepares to return to campaign trail"
-    excerpt: "President Trump held a campaign event at the White House on Saturday, his first since contracting the coronavirus, and Democratic nominee Joe Biden campaigned in Pennsylvania.  "
-    publishedDateTime: 2020-10-11T05:54:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F-acZffQLzc/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -2611,6 +2611,6 @@ related:
         height: 822
         isCached: true
 
-secured: "iAPB2cAwATFMcPoOM9mGksZsjB+85b8jOvI3aQyo1FG2oZ0WqeusSYWKpR+m50Xu2+QJA9E9+IyDVkAy8cG8TnOpRHxPMMzcmbMJ7mEExCK0kWmm7wxIhawaU8NrxhO45ckhV0U5oQ5F8wZSYPfrVVKurIr927h33+PmsPwpx8T5JVA66+iiOm6uQ3i9LZTRm0gBUkbyFGcMb1Lbuqc1aSUMlryQejxQZ0h77FGzyP8bYtb2jcs8x/xfu6Zc3zN8t4fbzS3t61/XAtRLq4/+wbeOfwwn7FIKZCKoFJQXswIjN9uDJv5R2yC3sdwPol5neySv8kBkQR3zjeZNFDrrRGYSg+PdfE81TWFYdYw+rCg=;7WIXwM+T+9vYbMD/yM3Sug=="
+secured: "T1GMxaNN6sKwxOVIPQD45RAFiuE9DARKMN1/uIU2UXlcyoAQV+I7fy8GvKD/1Rc4MMNJqiL+botQeH90cv/wCcSzCzQlqeDyLsdKkg9crQP7CWtm6mzfTatYiFzDaSYkjqNLC2L1QLUlFm+oOtETi/V30PraU2WO4r9KmxKfqKe6owEz9xVrw7Kz4nsHya3qcTCPXeJF4whkRaNVD7iM2T8CH1k5MCGJC7Fc23xvLRid3YmF311P3nNt6Den0CS+UOegS4UGrUDPsOZepQ02PVtK0CP8WsJ02IewP/Ir8I86qG10fMqBOUqasJa8wKpvPBP6Cy6b/4dCX9ASAj5AS7Vou20jfhrdwQMhALUUglI=;gdS2bb3V/sb+G242TwYLww=="
 ---
 

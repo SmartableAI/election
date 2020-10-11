@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump's 2020 polls prove Democrats need to start planning for a Biden White House"
+    excerpt: "It feels like the majority of people who believe Trump can win again in 2020 are Democrats, for better or for worse."
+    publishedDateTime: 2020-10-11T06:13:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-2020-polls-proves-democrats-need-start-planning-biden-ncna1242631"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242631"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242631"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden: If Trump still has Covid, call off the debate"
     excerpt: "The Democratic nominee said he still looked forward to facing off against the president in Miami next week, but “I don’t know what his status is.”"
     publishedDateTime: 2020-10-07T00:33:00Z

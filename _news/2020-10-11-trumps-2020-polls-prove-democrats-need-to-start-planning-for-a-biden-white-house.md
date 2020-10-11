@@ -1,33 +1,34 @@
 ---
 category: news
-title: "HIPAA and what it means for Trump, his doctor and the American public"
-excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
-publishedDateTime: 2020-10-07T11:25:11Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+title: "Trump's 2020 polls prove Democrats need to start planning for a Biden White House"
+excerpt: "It feels like the majority of people who believe Trump can win again in 2020 are Democrats, for better or for worse."
+publishedDateTime: 2020-10-11T06:13:00Z
+originalUrl: "https://www.nbcnews.com/think/opinion/trump-s-2020-polls-proves-democrats-need-start-planning-biden-ncna1242631"
+webUrl: "https://www.nbcnews.com/think/opinion/trump-s-2020-polls-proves-democrats-need-start-planning-biden-ncna1242631"
+ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242631"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242631"
 type: article
-quality: 175
+quality: 145
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -60,6 +61,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "HIPAA and what it means for Trump, his doctor and the American public"
+    excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
+    publishedDateTime: 2020-10-07T11:25:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -143,22 +160,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Trump's 2020 polls prove Democrats need to start planning for a Biden White House"
-    excerpt: "It feels like the majority of people who believe Trump can win again in 2020 are Democrats, for better or for worse."
-    publishedDateTime: 2020-10-11T06:13:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-2020-polls-proves-democrats-need-start-planning-biden-ncna1242631"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242631"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242631"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 145
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Taylor Swift endorses Joe Biden for President"
     excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."
     publishedDateTime: 2020-10-07T22:47:00Z
@@ -208,6 +209,6 @@ related:
       domain: thedailybeast.com
     quality: 38
 
-secured: "atWJFh6UoPQ8CpyiUBYSGbM/XQ6iOyeiGN9ORNJKCfPiK1zif1MR59ikoULXtd0b13+ISyHxwNBs9WJj003fVeMdooPruAh9v5dymw/MI+dJJCWBHhsUz0S6IBMDxL3rKSTM1wkyr7n8BEaLyRZVHlf5rZT+vIZAjmRGaCfWC7VpyUFko2kUBKKrjFeQytoQf7btdbqZEep5ipcT0bbr/l+z7KrXytcyb4hPcFtQq7sMnQ6iExtjhqmg9P+6UaZ8WB3Jzo75Y4F+pAQy9LXeLK79u7dCznwSmBkH6gKe53FaVmhCSy5Yf0oflVON2hHAu3XkUxB45qr24VDylZTlzxhlte8wHpFPZvAoizZqRVs=;MpNcAbOq9KHH2laFpjW24w=="
+secured: "gXzV5/fC8Cjt4kSSWMMKvUUxP3gVAwpCV/4naMtXp7NvCMgfPnmvgAIFiuS7XSEpl0oors12ol1XLu8AJxnUkLaeCPIJeDk28o4xNYPWZHhk72SJS9iSLKJ2EVC110ei3GO94Ug6in8jX3JHAlkntYXr5G3MxpE7FUY7cKW9eF2IHWIEAKYEWf2lsUu8GmMJQ7qT3jT/Qgv7/Ic3vP480RZmLGs5kFUjKeeKvZyFE7qjLyUmZAWPp0xowJvhOdk6SfSfvejQ10OsGHxBH9lCY1Wx/SMcCQ0ML3Nn9q8+OM8hCEEAq+ZJOb9CkUQkgdUpwhMtvXOHGucpf9oTj6+H7KbaXQiDDlBlbyP9zJu7C10=;XU3BtGPWqd8vw5t1g3KR1w=="
 ---
 

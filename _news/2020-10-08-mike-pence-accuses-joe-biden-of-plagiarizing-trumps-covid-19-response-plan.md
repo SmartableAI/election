@@ -145,6 +145,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump's 2020 polls prove Democrats need to start planning for a Biden White House"
+    excerpt: "It feels like the majority of people who believe Trump can win again in 2020 are Democrats, for better or for worse."
+    publishedDateTime: 2020-10-11T06:13:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-2020-polls-proves-democrats-need-start-planning-biden-ncna1242631"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242631"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242631"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Taylor Swift endorses Joe Biden for President"
     excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."
     publishedDateTime: 2020-10-07T22:47:00Z

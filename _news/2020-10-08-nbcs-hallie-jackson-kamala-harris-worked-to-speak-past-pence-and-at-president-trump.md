@@ -1479,6 +1479,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: 2020 presidential race: Trump prepares to return to campaign trail"
+    excerpt: "President Trump held a campaign event at the White House on Saturday, his first since contracting the coronavirus, and Democratic nominee Joe Biden campaigned in Pennsylvania.  "
+    publishedDateTime: 2020-10-11T05:54:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F-acZffQLzc/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-trump-prepares-to-return-to-campaign-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Where has President Trump been in the last week? Rallies, Rose Garden and a debate"
     excerpt: "President Trump announced early Friday that he and first lady Melania Trump had tested positive for COVID-19."
     publishedDateTime: 2020-10-02T15:21:12Z
