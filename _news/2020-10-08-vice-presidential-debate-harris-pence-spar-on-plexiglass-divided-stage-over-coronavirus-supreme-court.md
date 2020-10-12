@@ -1561,6 +1561,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump returns to campaign trail with trip to Florida; Biden traveling to Ohio"
+    excerpt: "The battle between incumbent President Trump and Democratic rival Joe Biden is coming to a head, with just a little more than three weeks until the November presidential election and millions of Americans already voting."
+    publishedDateTime: 2020-10-12T13:29:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/awFhUDwkGjc/trump-biden-harris-pence-campaign-trail-october-12"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284658597602.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Eric Trump suggests presidential debates should have clear podiums to avoid use of notes"
     excerpt: "President Trump’s son Eric Trump proposed clear podiums for the next presidential debate to prevent candidates from relying on notes, “the way the real world works.” "
     publishedDateTime: 2020-10-07T22:57:08Z

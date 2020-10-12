@@ -1575,6 +1575,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump returns to campaign trail with trip to Florida; Biden traveling to Ohio"
+    excerpt: "The battle between incumbent President Trump and Democratic rival Joe Biden is coming to a head, with just a little more than three weeks until the November presidential election and millions of Americans already voting."
+    publishedDateTime: 2020-10-12T13:29:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/awFhUDwkGjc/trump-biden-harris-pence-campaign-trail-october-12"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284658597602.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden has immigrants, advocates hoping for reversal of Trump's border policies"
     excerpt: "Immigration advocates and even some Central Americans mulling entering the U.S. are reportedly rooting hard for a Joe Biden victory in November, encouraged by the Democratic nominee's pledge to dismantle President Trump’s border policies."
     publishedDateTime: 2020-10-10T05:34:33Z

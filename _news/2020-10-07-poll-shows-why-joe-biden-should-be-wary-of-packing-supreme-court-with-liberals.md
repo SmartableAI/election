@@ -114,6 +114,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Andrew McCarthy: No, Joe Biden, it is not packing the Court for the president and Senate to fill vacancies"
+    excerpt: "It is not PACKING the Court for the elected president and Senate to fill vacancies that arise under existing law"
+    publishedDateTime: 2020-10-12T13:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/joe-biden-packing-court-president-senate-andrew-mccarthy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 97
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cafa300-8f67-451b-af56-6c395b2fd3f3/05912f30-a861-49d5-9739-bd0b291f9548/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "BxyxoaOZ1PFM6xzkfE8CL1UyhMuegeUjeRvFrsEQlngj9jlf0yb4h2EIdjce9JaCzeYLoUtCBCz0mSuKU94hNuiE/F9z5MhgQ4doiTzOlPL6tISelCZRJ2D7zRFh7Lv7UB/hVuSrqRr+DHkwx9yfGFSE3n8WoNR3iMz0CRiS4evV7Dost/MO914DJqE3tII3kPV4kA9eC6vJesl3If2nxvfj7sOdGGg+3a5shDDOEU6+RjM+j/qQEPQzkAz/AQUJ0UPmyZNbPZXROPeB7UNF3kI6bLzb2gTHKOie/RvBlELb9rVpXPWOJEKy4WkOjncW23ZaucTCNPIELFN4ui364+/IyTl52khZXmPM9bWcItp23Yj7n8oQ60RR5moBhOwbReHDdXdUmcPQ0MusxIxf8vUogbizVUA2N5sL67HVW7GY3A80cRHygHUI0VUEk7qH8rK4+Jsy9e4qjzoTZ+dcLVxgIMhKSuKN8GKk/MwYnkDyTwa4NyOVnrziT44KBnrNDpb+p+cy5JnRYZc+1Ra+LA==;6itKIkTIOJzak69G9acx/w=="
 ---

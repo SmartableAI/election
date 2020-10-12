@@ -104,6 +104,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Andrew McCarthy: No, Joe Biden, it is not packing the Court for the president and Senate to fill vacancies"
+    excerpt: "It is not PACKING the Court for the elected president and Senate to fill vacancies that arise under existing law"
+    publishedDateTime: 2020-10-12T13:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/joe-biden-packing-court-president-senate-andrew-mccarthy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 97
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cafa300-8f67-451b-af56-6c395b2fd3f3/05912f30-a861-49d5-9739-bd0b291f9548/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
     excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
     publishedDateTime: 2020-10-07T13:30:00Z

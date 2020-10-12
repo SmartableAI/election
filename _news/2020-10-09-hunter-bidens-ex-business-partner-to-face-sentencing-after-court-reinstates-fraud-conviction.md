@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-business-partner-devon
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-business-partner-devon-archer-fraud-conviction.amp"
 type: article
 quality: 164
-heat: 284
+heat: 304
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
     quality: 105
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18014665-571f-4e7f-adfc-f5a4a9f7b9be/edb37719-8de4-40d1-be5c-d7568711c7b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Andrew McCarthy: No, Joe Biden, it is not packing the Court for the president and Senate to fill vacancies"
+    excerpt: "It is not PACKING the Court for the elected president and Senate to fill vacancies that arise under existing law"
+    publishedDateTime: 2020-10-12T13:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/joe-biden-packing-court-president-senate-andrew-mccarthy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 97
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cafa300-8f67-451b-af56-6c395b2fd3f3/05912f30-a861-49d5-9739-bd0b291f9548/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

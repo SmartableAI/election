@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3748
+heat: 3768
 published: true
 
 provider:
@@ -1560,6 +1560,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b882ebd6-9114-42ed-8b44-c1f6b8c9af72/c46d8994-0a49-4c88-a286-2ecade59b62b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump returns to campaign trail with trip to Florida; Biden traveling to Ohio"
+    excerpt: "The battle between incumbent President Trump and Democratic rival Joe Biden is coming to a head, with just a little more than three weeks until the November presidential election and millions of Americans already voting."
+    publishedDateTime: 2020-10-12T13:29:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/awFhUDwkGjc/trump-biden-harris-pence-campaign-trail-october-12"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284658597602.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Eric Trump suggests presidential debates should have clear podiums to avoid use of notes"
     excerpt: "President Trump’s son Eric Trump proposed clear podiums for the next presidential debate to prevent candidates from relying on notes, “the way the real world works.” "

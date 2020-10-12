@@ -27,17 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "2020 Watch: Is It Too Late for Trump to Turn Things Around?"
-    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid."
-    publishedDateTime: 2020-10-12T09:33:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/2020-watch-is-it-too-late-for-trump-to-turn-things-around"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/2020-watch-is-it-too-late-for-trump-to-turn-things-around?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/2020-watch-is-it-too-late-for-trump-to-turn-things-around?context=amp"
+  - title: "2020 Watch: Is it too late for Trump to turn things around?"
+    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid"
+    publishedDateTime: 2020-10-12T10:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
+    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
+    publishedDateTime: 2020-10-07T02:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "PPhbIslmj3KkzhTUh+Tc11EmkzutIi6YERgKr5pcvohmUcG0rwXWxH46cnHdMNO/5W2sI2MjRWqjTjr8fJIm641jQhlmN5NbvbOx5zO3XHUkaMuqowssYd28WaEzS6qICj+qRBs4NvsUkePIcuGE9UoANAgkt67ZwCHKWjK0iGGoWv+T08/0lglaFPQs6mE7jBTQMZYsp+VVEKwtEX0DtwsjbojIh7NxOgaYBor/o2IyiXVkD2Dco2y3lsBjEHSV0gIzDkmAy4i33Rcz3wNi0qOUoKs5yo18SQlFP6X3gQk8NYAHsV5+mfpAmJpw+ezJMP1uQb3nQl1XOLFYadBtRqfgTiUc7gZ/lSeABd0UYlzx5QPVCTzhFGkSYyhdYQDC28Nnqb4XOk3zXGtAv3LRunlA+ZEJvF1r8SUgH3CqSjJZ0J8GfaR59K8QTs6TwqUi8h/07uzpULP+2iEc5Ylzk3SfNjbX2Qed85kpHuzqrzKeRWXtPDlE4tHy5JEbXLCym/sIwZajIWzV7DMHPIT7mw==;0mTbwe+Qj5EbwkvVmiyk/Q=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-11-how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too.md",
+      "title": "How Kamala Harris Stopped Pence’s Manterruptions (And How You Can Stop Them, Too)",
+      "excerpt": "Assert your power like Senator Harris so that you are not interrupted. Take note of how Harris stopped Pence from interrupting her by following these four tips: Senator Harris told Vice President Pence that she is speaking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/",
+      "originalUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f825b2e8118f5d60fbcc30e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/",
+      "publishedDateTime": "2020-10-11T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-kamala-harris-faces-sexism-and-racism-as-online-commenters-label-her-black-hillary-charlotte-observer.md",
       "title": "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’ | Charlotte Observer",
       "excerpt": "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced.",
@@ -1257,53 +1309,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-cenk-uygur-awesome-to-listen-donald-trump-and-rush-limbaugh-cry-about-fox-news.md",
-      "title": "Cenk Uygur: \"Awesome\" To Listen Donald Trump And Rush Limbaugh Cry About FOX News",
-      "excerpt": "\"The Young Turks\" host Cenk Uygur spoke Friday about the schadenfreude of listening to Donald Trump complain about FOX News during an interview with Rush Limbaugh. \"He complains about everything, he will not stop crying,",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2020/10/09/cenk_uygur_awesome_to_listen_donald_trump_and_rush_limbaugh_cry_about_fox_news.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/video/2020/10/09/cenk_uygur_awesome_to_listen_donald_trump_and_rush_limbaugh_cry_about_fox_news.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/51/513828.jpg",
-          "width": 1202,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

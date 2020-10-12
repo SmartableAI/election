@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings"
+    excerpt: "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination."
+    publishedDateTime: 2020-10-12T13:43:00Z
+    webUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296"
+    ampWebUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1649537/sanders-harris.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings"
     excerpt: "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket."
     publishedDateTime: 2020-10-11T16:12:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/50/24/20088119/5/375x250.jpg"
         width: 367
         height: 250
+        isCached: true
+  - title: "Joe Biden, Clarence Thomas, and Amy Coney Barrett with Angela Wright"
+    excerpt: "Angela Wright confides in Mary C. Curtis about former Vice President Joseph Biden, #MeToo and the inner workings of a contentious Supreme Court battle."
+    publishedDateTime: 2020-10-08T13:15:00Z
+    webUrl: "https://www.rollcall.com/podcasts/equal-time/joe-biden-clarence-thomas-and-amy-coney-barrett-with-angela-wright/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/BARRETT_004_10012020-1.jpg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "evI42GL07Ocq/K3DH/kt5V4IL8VX+libqVei+hYgxWyrsUVhUxMj0Gfjjhx26Qif++V0fVuCc1b9+kf01PohKRQ6PpQ+69hZ1TDcUrb6rfF+030mJ2vI2u2LOtix9wxM/vgjNbl9enonZTjJc1AeFUV7m23hNYqGOESNEWDWLffFWbIqJ4DqGkYdA+2hUZsIV0xbslAn+ttgxeXZO9NX3B1wa6AOy3yVQQNKa/Iv4TGYYbo1fbcGSzE8O7yiBpGNKhlhXRskCRc3U5zFpzDwvfG4O7FgwYk4eEBnlmXPqX15z8Nhe7obtvzdrwiOiPB5ja9dK6TtDk/IghuLYK80onGd/RLNwX6BzX1U8QS/6sg=;TmZIBdpGQuVRJivQ6MINAg=="

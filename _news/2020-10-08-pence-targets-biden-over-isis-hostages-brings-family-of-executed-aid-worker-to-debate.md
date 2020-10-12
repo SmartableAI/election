@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/policy/defense/520134-pence-targets-biden-over-i
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp"
 type: article
 quality: 142
-heat: 1162
+heat: 1182
 published: true
 
 provider:
@@ -407,6 +407,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1648835/zip-codes-donating-most-money-joe-biden.jpg"
         width: 1010
         height: 720
+        isCached: true
+  - title: "Why Big Oil Should Vote for Joe Biden"
+    excerpt: "A Biden administration would absolutely kill our industry. Such comments from oil and gas chiefs featured in the Dallas Fed’s latest sector survey. It is received wisdom that, if elected president alongside a few more Democratic senators,"
+    publishedDateTime: 2020-10-12T12:04:00Z
+    webUrl: "https://www.washingtonpost.com/business/energy/why-big-oilshould-vote-for-joe-biden/2020/10/12/949105a4-0c82-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SK242PAMQII6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
     excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."

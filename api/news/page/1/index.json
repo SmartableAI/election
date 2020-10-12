@@ -2,6 +2,113 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-kamala-harris-bernie-sanders-urge-stimulus-bill-focus-over-amy-coney-barrett-hearings.md",
+      "title": "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings",
+      "excerpt": "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
+      "originalUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1649537/sanders-harris.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1",
+      "publishedDateTime": "2020-10-12T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-2020-election-live-updates-trump-will-hit-the-trail-as-the-barrett-hearings-begin.md",
+      "title": "2020 Election Live Updates: Trump Will Hit the Trail as the Barrett Hearings Begin",
+      "excerpt": "The financial record of Tommy Tuberville, the Republican Senate candidate in Alabama, raises questions. Dr. Anthony Fauci said his words were “taken out of context” in a Trump campaign ad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2020/10/12/us/trump-vs-biden",
+      "originalUrl": "https://www.nytimes.com/live/2020/10/12/us/trump-vs-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/12/us/politics/12elections-brief--barrett/12elections-brief--barrett-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2020/10/12/us/trump-vs-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/12/us/trump-vs-biden.amp.html",
+      "publishedDateTime": "2020-10-12T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-flashback-when-biden-called-court-packing-a-bonehead-idea.md",
       "title": "Flashback: When Biden Called Court Packing a 'Bonehead Idea'",
       "excerpt": "Democratic presidential nominee Joe Biden continues to avoid answering whether or not he would pack the Supreme Court as president if Judge Amy Coney Barrett is confirmed. Biden went so",
@@ -89,6 +196,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-2020-watch-is-it-too-late-for-trump-to-turn-things-around.md",
+      "title": "2020 Watch: Is it too late for Trump to turn things around?",
+      "excerpt": "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786",
+      "publishedDateTime": "2020-10-12T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -275,48 +433,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-12-2020-watch-is-it-too-late-for-trump-to-turn-things-around.md",
-      "title": "2020 Watch: Is It Too Late for Trump to Turn Things Around?",
-      "excerpt": "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/politics/articles/2020-10-12/2020-watch-is-it-too-late-for-trump-to-turn-things-around",
-      "originalUrl": "https://www.usnews.com/news/politics/articles/2020-10-12/2020-watch-is-it-too-late-for-trump-to-turn-things-around",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/politics/articles/2020-10-12/2020-watch-is-it-too-late-for-trump-to-turn-things-around?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/2020-watch-is-it-too-late-for-trump-to-turn-things-around?context=amp",
-      "publishedDateTime": "2020-10-12T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-12-our-goal-is-record-black-voter-turnout-to-fire-trump-and-save-black-lives-naacp-president.md",
       "title": "Our goal is record Black voter turnout to fire Trump and save Black lives: NAACP president",
       "excerpt": "It's not just Donald Trump and Joe Biden on the ballot, it’s a decision about the country we want. Honor John Lewis and Ruth Bader Ginsburg by voting.",
@@ -486,7 +602,7 @@
       "originalUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
       "featuredContent": null,
       "highlight": null,
-      "heat": 455,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -647,7 +763,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 143,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -996,48 +1112,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-kamala-harris-lindsey-graham-among-senators-to-watch-at-amy-coney-barrett-hearings.md",
-      "title": "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings",
-      "excerpt": "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wltx.com/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30",
-      "originalUrl": "https://www.wltx.com/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wltx.com/assets/KFMB/images/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wltx.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30",
-      "cdnAmpWebUrl": "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30",
-      "publishedDateTime": "2020-10-11T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLTX19",
-        "domain": "wltx.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-11-saturday-night-live-jim-carrey-mike-pence-and-a-very-pesky-fly.md",
       "title": "Saturday Night Live: Jim Carrey, Mike Pence and a very pesky fly",
       "excerpt": "Low-energy sketch skewers vice-presidential debate and comic Bill Burr hosts for the first time",
@@ -1240,58 +1314,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too.md",
-      "title": "How Kamala Harris Stopped Pence’s Manterruptions (And How You Can Stop Them, Too)",
-      "excerpt": "Assert your power like Senator Harris so that you are not interrupted. Take note of how Harris stopped Pence from interrupting her by following these four tips: Senator Harris told Vice President Pence that she is speaking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/",
-      "originalUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f825b2e8118f5d60fbcc30e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/",
-      "publishedDateTime": "2020-10-11T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Mike Pence"
       ]
     }
   ],

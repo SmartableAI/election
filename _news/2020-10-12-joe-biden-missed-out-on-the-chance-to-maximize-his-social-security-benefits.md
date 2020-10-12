@@ -419,6 +419,20 @@ related:
         width: 1010
         height: 720
         isCached: true
+  - title: "Why Big Oil Should Vote for Joe Biden"
+    excerpt: "A Biden administration would absolutely kill our industry. Such comments from oil and gas chiefs featured in the Dallas Fed’s latest sector survey. It is received wisdom that, if elected president alongside a few more Democratic senators,"
+    publishedDateTime: 2020-10-12T12:04:00Z
+    webUrl: "https://www.washingtonpost.com/business/energy/why-big-oilshould-vote-for-joe-biden/2020/10/12/949105a4-0c82-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SK242PAMQII6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
     excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
     publishedDateTime: 2020-10-06T12:21:00Z
@@ -779,6 +793,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "d6dJEqPBf5Llm289a2JhWCD+iAF7WmsglK6gzV21Mow/kSpys29xtY0hEGMSVSVAW4Cgiq2j1DLZsj/T1nc2S/iZ14Vbtwe2/Mh45NRHleVycLlYxvm1PRS4UCYbezMdSJlj8YkH7w/B1rHWJqkzGaFDdNKJY9dVnooL9KM/k3Gk78/HZ2robs1j9JNg5lsaZCUntgw66b3ACIpCeUpVrdfDIluPeK4nsszC+la2/71Zh2BAeK3tzVEkMjVlE49DXESQV7Wlw+SrxDQx7+DLlvoRdAXccviO3GUlkusgTtMwKalO0G0CxFzsnP+fHa1egf4NbxLywax7cor/2AFRSunvPyKZ5k4NjSkcLYSwtbg=;zcS8TqTnYy3C5flqM1w2jw=="
+secured: "p7Y+aLu6TI78AAC+MrLPINH9x1DKWXxWU2wnO1Vl/KfjeP3Yg9NdS/AAUCx9u+jVVrVFLlIsIBG0DSi9cPKpswFxIN10QQEjVOYrUoz6IHSf9T0hu1fxxd3N2EV3g7gDd9vE9F5c28jH0CrrzuoJr5hmaGLarTTO8rxkF1oIJahnLipuBjavOmRAWYE75O1GVNccZVvmnjKn4BsEXUtDRUc3H5t2WfCNNNezcUvkXAcNtPNINZ+kDnZcsB72wbtI8maJafzwRQwBX+YUote6V0NZ5ZbzxEwuLFgarWlGndsmLKLY9bCcEfTvitlLt++7LxqIA2ndvLW8H5tBbkKS+ZZS4+ZmZr5IwfBaC37EOoagFe4lPCzRXeVtVWuC8dzYYcxBY6/NVgkVfGl/cBq2Eb6gpBpbVM/yAUKrK5ym0DpKc0E49rbIM3JvEXp1qKCxGGkfTNgdLMZgiFvPGBrq6zHO/LcwdW4ILhFVk6EwRPflZDrz0MN10e0AahZR+/ftLJu3HGcmScua2Q+WhWyF3w==;7SXb9ZBJsmntSfh4Ml0Usg=="
 ---
 

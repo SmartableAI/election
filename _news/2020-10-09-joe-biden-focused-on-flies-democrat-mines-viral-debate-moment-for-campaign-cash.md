@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "All eyes on Ohio with Joe Biden's visit to Cincinnati and Toledo"
+    excerpt: "Former Vice President Joe Biden will visit Cincinnati this afternoon, an indication his campaign sees Ohio as competitive for the Democratic presidential nominee. Biden's Cincinnati visit is an invitation-only voter mobilization event and will follow social distancing and masking guidelines."
+    publishedDateTime: 2020-10-12T13:31:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/12/election-2020-biden-visit-shows-ohio-play-democrats/5965538002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5965538002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5965538002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Sixers’ Doc Rivers ‘honored’ to be quoted by Joe Biden during campaign speech in Gettysburg"
     excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
     publishedDateTime: 2020-10-08T12:08:00Z

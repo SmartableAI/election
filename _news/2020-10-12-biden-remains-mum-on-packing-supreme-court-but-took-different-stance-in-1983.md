@@ -104,6 +104,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Andrew McCarthy: No, Joe Biden, it is not packing the Court for the president and Senate to fill vacancies"
+    excerpt: "It is not PACKING the Court for the elected president and Senate to fill vacancies that arise under existing law"
+    publishedDateTime: 2020-10-12T13:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/joe-biden-packing-court-president-senate-andrew-mccarthy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 97
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cafa300-8f67-451b-af56-6c395b2fd3f3/05912f30-a861-49d5-9739-bd0b291f9548/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
     excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
     publishedDateTime: 2020-10-07T13:30:00Z
@@ -116,6 +130,6 @@ related:
       domain: washingtonexaminer.com
     quality: 61
 
-secured: "x730rAqNEQziZAqF+Rfk/EfRE451OW5xRprZdMrS8BU7UXnDwHZjt0wM6F2NPdCNS3WXRbvYxH4NnoRVQAEkokaLbkeeuAZwH/fY9d0ligq/1bTou1zxBI33hESDJBZo6hqcemgeY13NK0YvyUtUiwj3+ip9NL4/gLzPWbdEfPoKsUzb1kk/+K2Q3cdedzZCq6/GyFgFc+HWuIIHLtG4DcjydZRoZ4ly1l7JaJDGsgYuttuP3PtO5Zz3fo1NaARfEqF0mauZ85X1daeGIPDuG7Sc9Dl7Gw9JUBDmuAizODSCbtzRF91Qxw9853IY26swWJlvjIqdG+yBbUf0xpLvJSXOiM4yvwLRa4zS8Xr1A9k=;LKr4fM/w/6tD4SBjvDzc8A=="
+secured: "byNf6HtYb9bgEjaYH6/Rh34Mm4nBtN4SHoVMkwX8sthmspkrr8nwK+0YOA9FJRqW6u9Mzvy7GTac/LDYJ5ZAX9IJGcGauzAC3rhgWzCJKSRBkWPJa806/BJ6DrUnK9MnyqXEE0ddNlIwyBgfFXHm99+yOEJf3ZCeMGOZPnL9suEaoUuc8JfwgS5kl2lQ92Z82ACJGiH2bI2MbWvONRBEJycrTWW6tkfOuSzqEBMy6uWXgIeM6NOqc+zVcPkAvzTMlS06UmLWpC4C5fpJR4iXmgEF+2TTkZ4s7nszBbqM4oGe5Oc4jhGGJesaP6rWLFzB1Pf4QK3zyXawFAy54973WUGSBuZpJfzWXv1bQ88EH93QtuT5gk2Wus97mRelVSRTG1y6yqNqpz216W39ZHdwTA62CCv6h6/+9OZJF8JuxFawQspV+Iiu3oFj7nOvLMOlZUsg1GviTmF7JrM1MA8yraHRBTcGwTCLRFkB+CRzWwJa7fBq/jIuc+fkjAg2z+mVxsJQu7UCwFo8GVncrjBpCw==;m0uI7oM6njFTji4Ehlhjsw=="
 ---
 

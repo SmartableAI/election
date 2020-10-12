@@ -1260,6 +1260,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump is back on the trail, but he still can't shake the coronavirus politically"
+    excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."
+    publishedDateTime: 2020-10-12T13:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/trump-back-trail-he-still-can-t-shake-coronavirus-politically-n1242925"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242925"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242925"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3419326/201012-trump-campaign-mc-1310_9b5e6eee9246dce37e30ba25345bd50e.JPG"
+        width: 2500
+        height: 1651
+        isCached: true
   - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
     excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."
     publishedDateTime: 2020-10-02T07:33:00Z
@@ -1477,6 +1493,20 @@ related:
       - url: "https://static.politico.com/e8/37/f73cf5ab4bd1976c408deadc4377/fauci-trump-773-ap.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "As coronavirus cases climb, Trump peddles false 'disappearing' pitch"
+    excerpt: "There is no sane way to look at the landscape and see a viral threat that's \"disappearing\" -- and yet, there was the president, pushing the message anyway."
+    publishedDateTime: 2020-10-12T12:06:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/coronavirus-cases-climb-trump-peddles-false-disappearing-pitch-ncna1242917"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_41/3419163/201011-donald-trump-balcony-jm-1001_94b79c27ff164afc79321817b1fba575.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "2020 Election Live Updates: President Trump Is Hospitalized With Coronavirus"
     excerpt: "Mr. Trump is currently at the Walter Reed National Military Medical Center in Bethesda, Md., where officials said he will be monitored for “a few days,” strictly as a precaution. Mr."

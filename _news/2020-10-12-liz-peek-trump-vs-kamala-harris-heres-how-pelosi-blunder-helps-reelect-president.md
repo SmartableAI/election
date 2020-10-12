@@ -1574,6 +1574,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump returns to campaign trail with trip to Florida; Biden traveling to Ohio"
+    excerpt: "The battle between incumbent President Trump and Democratic rival Joe Biden is coming to a head, with just a little more than three weeks until the November presidential election and millions of Americans already voting."
+    publishedDateTime: 2020-10-12T13:29:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/awFhUDwkGjc/trump-biden-harris-pence-campaign-trail-october-12"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284658597602.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Eric Trump suggests presidential debates should have clear podiums to avoid use of notes"
     excerpt: "President Trump’s son Eric Trump proposed clear podiums for the next presidential debate to prevent candidates from relying on notes, “the way the real world works.” "
     publishedDateTime: 2020-10-07T22:57:08Z
@@ -2753,6 +2767,6 @@ related:
         height: 822
         isCached: true
 
-secured: "0lxeMNz2saew9KVpVG3/7mZZtT9a7GJnZivr0bmknQliV+mFjcRpwwXZBZS/w6BMaVive+SgQUaR5YWIdfY0cophN9gZXjwVzsxpFpzpdkdEv4SNMckvX+II6Io9Z66QSwRJv/Oo5pMavXM47Ax+1zI/sqE1cBJDRq8Rak87hZ/WuNjdQqeQjp6SuMtyhyB9SjMh6zRI2rNMeNA68tcJvz4w2jyNgAcyDJX56ZxP5ZbO7sMHtNmQIGiWDUtSqauXFtOKWqRsf4fvoJIkP2MH70gA33s7aZRe+94wEnxbBjMiApp8bf12PVx55fP+I6uQaJAHfX6pNFrq7Pem6SnvGMwofvzzhUAbBNy+uyyMeGo=;sdotQkJk7KF0iJIor8mKVQ=="
+secured: "Xcyxfv4MjBahHkoqUHIRL9ENuVPPTHGc3y4gYtc4LIGzDqFdxbxUubWJSoLmSNDct2hyaQBtoDv4k8VqNBirouyWtDG4o2v/pLyPWXqOKtxUa/bf7RTWGvBoZq54WvYewHxvFUhj+q2QzgxTWQAuzBwLkiQtjGr/F+VUlwAEb/XdqBCRJucrXKMLamANqCEkhZ9mPKncHSNY08QCzXlxa9KmM//TQLXnPktPF1qnOnJJX6bkVSPKCayy0RLRi8LDOW9/93wiLfHK8jw2vm9cuMGVM8cdsupKOXgbSBLKJqP+4U1K/rd+iTL2bilnsN2qDUIlql1E3+tIiotIucBK4XlBZ7crWaPCT3CBbzELo0OvRM2+6nQPQlZgLOWFdceNDQ/9fOJQEtyIluaLxfZvLKTY6Mad5d7xe40T0gmizUgrsXVJaAVQ6SpxdBQyad413xnTcjKpB0mqPxinyfrhsNfhm6O9fB16SAb9taYCIe4X2NtsYbXS3WYJf0FmftqTTv2/D9tkREO3Ko9+KZBpHA==;RWZbDiPl+Ptugg03eJlw4A=="
 ---
 

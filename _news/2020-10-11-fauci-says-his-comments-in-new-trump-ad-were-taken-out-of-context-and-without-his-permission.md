@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5rPOq6qYwm4/fauci-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5rPOq6qYwm4/fauci-comments-out-of-context"
 type: article
 quality: 143
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Fauci says he was taken ‘out of context’ in Trump COVID-19 campaign ad"
+    excerpt: "Dr. Anthony Fauci says his words were taken “out of context” in a new political ad about the Trump administration’s response to the coronavirus pandemic, according to a report. “In my nearly"
+    publishedDateTime: 2020-10-12T13:17:00Z
+    webUrl: "https://nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/"
+    ampWebUrl: "https://nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/fauci-ad-49.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "QuG0hO/e4xlCkV76kSwIcytKFlruz8yHJ3ubq5oIe5nKbsIcAgjSoUMKBCqBEQ5WqNnagNrUroXImQ6By7ZrbQqDqSrTZ1th3swyElAKA+EHNe2M5NBt3S154faLnyB0aEa6Jw3TgVjBwgtBrOplNl/6v2rbp+UpBIKXDI3BqCZdqPvJDgeMdA3Xgq+JDgMKWgMk+So4EfvfsTfrVWxN4ITKz6MaSMfKIQgZOpihUNatFvuE79ynqTtofZ6w30UV3ZaPzr74QgfYFfd1HWjPCWCYZSZCx4tnI+/SW4kIuIZyCpfhNj3EFMc89er7b6MnDGwVWm3nWkWobETnnmKRjhyjfdeYhX1mUcMv4rpSYIw=;c0AW9VzfjxOLSDlF0fuZ6w=="
 ---

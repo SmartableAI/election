@@ -421,6 +421,20 @@ related:
         width: 1010
         height: 720
         isCached: true
+  - title: "Why Big Oil Should Vote for Joe Biden"
+    excerpt: "A Biden administration would absolutely kill our industry. Such comments from oil and gas chiefs featured in the Dallas Fed’s latest sector survey. It is received wisdom that, if elected president alongside a few more Democratic senators,"
+    publishedDateTime: 2020-10-12T12:04:00Z
+    webUrl: "https://www.washingtonpost.com/business/energy/why-big-oilshould-vote-for-joe-biden/2020/10/12/949105a4-0c82-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SK242PAMQII6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
     excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
     publishedDateTime: 2020-10-08T10:40:00Z

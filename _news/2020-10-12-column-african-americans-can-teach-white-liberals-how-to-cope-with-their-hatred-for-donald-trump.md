@@ -47,6 +47,22 @@ related:
         width: 594
         height: 393
         isCached: true
+  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
+    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
+    publishedDateTime: 2020-10-12T12:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
     excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
     publishedDateTime: 2020-09-19T23:33:00Z
@@ -142,6 +158,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/db8f4a6b-712c-4583-b634-81488d181138-GTY_994906866.JPG?auto=webp&crop=4672,2628,x1,y210&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump signs Savanna's Act, 'a critical first step' to address missing and murdered Native Americans"
+    excerpt: "President Donald Trump signed a bill Saturday aimed at addressing missing and murdered Native Americans. Savanna's Act will establish national law enforcement guidelines between the federal government and American Indian tribes to help track,"
+    publishedDateTime: 2020-10-12T12:07:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/11/donald-trump-savannas-act-missing-murdered-native-americans/5964329002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5964329002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5964329002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/5671b7ea-1959-4d66-be64-15e1486f1431-AP19333815580740.jpg?auto=webp&crop=2105,1185,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Will Donald Trump participate in any more debates? – States of America"
     excerpt: "Phillip Bailey and guests discuss the presidential debates and what we learned from the VP debate, including thoughts from the moderator, Susan Page."
@@ -271,6 +303,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "GunXtoBbIDRdcuZq5jb5SyPFeasZEVI0GH2RS5NurEVCSP6nd7grLMe/KQf5VvNrjr9poCwDlE0BmCj8L1r+Vuvr1tDxYoZJhHctUFoPQ7A9v/cNN+AMoBpyhLLZ7Dc4VkZeprad38W0PAZGhx8z4PSv7CNIToporlypryTLzzi7LGC73VHFilwzCKFSXOUXP7vqW8z7IQ8EYKobDaVEh8wDEVeNdI1zm4irnGrP8XmGS3Y+TMlb6V8Vxq43/inI6FCRRtcqPpYXIrWWcSN9hAgLL/ArwXncKg8hS3WousuazWxE+KtUUJuhz6vr1z3ZYt1vCTEHOJsAz9ASKMkln9sb5OxYwlblnkgv6oXPur0=;ZA9e6Ilmo4HcdP8B+H4xHw=="
+secured: "0Pi0g0vGIOjHlaB90eq51bA0w33RTP96okDxBEBn1BMLBUygCP939HxmtD/KTdZmvwstTdrhC7eZ3HvqBp1YX8cgbwpwd/5G0qkY6Hh/uoCAm1hniwo4LR4x5d/hbgz/Y37JwqZmFrem+rvknBS3qWdIJSCcN//z7fjxnBvaT3S3Zi6wFX9MCo/Q9SVFMJZ5NGAl4zFHKAALHUVsEw9CS2LmTb0DpFvsIDU47hb9E+URPbU6cc/d/zXF3PJVzx7p1T3KKFPftW9AZs8G9Okq3yaYmBwE2j2DBW5o+s0gvMCDfGehKReQnMX2x2W63vHKM465FotiRl+GMl3n+se0WnL/4F9ncQygifIZyeLC+opuwc8uC3qO5guF2mEH1ftqXNmIBcitssL/atcDsaKac+rH7osO6CiWGzg6RLBp++Rsocp6uuGLq6QNn/L3mS4/gch0C1FLf/T56yqa8WhxGGJ95z8a/55bzOWef/nZ89FciAnL8U0P/tsljj/s/sNfUMW9k1lyBSkz6dL6n+U+ZQ==;BU7XDdc40icqmmglQ5n0dg=="
 ---
 
