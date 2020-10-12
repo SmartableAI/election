@@ -196,6 +196,15 @@ related:
         width: 2320
         height: 1546
         isCached: true
+  - title: "Biden Allies Ponder: Skip Debate or Let Trump Blow Himself Up Again?"
+    excerpt: "If Trump is going to take his football and go home, I say good riddance to bad rubbish,” said one longtime Biden confidant."
+    publishedDateTime: 2020-10-12T07:28:00Z
+    webUrl: "https://www.thedailybeast.com/joe-biden-allies-ponder-skip-debate-or-let-trump-blow-himself-up-again"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
   - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
     excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
     publishedDateTime: 2020-10-04T08:07:00Z

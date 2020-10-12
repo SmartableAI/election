@@ -196,6 +196,15 @@ related:
         width: 2320
         height: 1546
         isCached: true
+  - title: "Biden Allies Ponder: Skip Debate or Let Trump Blow Himself Up Again?"
+    excerpt: "If Trump is going to take his football and go home, I say good riddance to bad rubbish,” said one longtime Biden confidant."
+    publishedDateTime: 2020-10-12T07:28:00Z
+    webUrl: "https://www.thedailybeast.com/joe-biden-allies-ponder-skip-debate-or-let-trump-blow-himself-up-again"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
   - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
     excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
     publishedDateTime: 2020-10-04T09:02:00Z

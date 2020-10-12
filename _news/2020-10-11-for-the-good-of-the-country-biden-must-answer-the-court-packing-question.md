@@ -303,6 +303,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The US's cold war with China won't disappear if Joe Biden becomes president"
+    excerpt: "A change of president would be a relief to progressives, but don’t expect a thaw in relations with Beijing, says Alex Doherty of the Politics Theory Other podcast"
+    publishedDateTime: 2020-10-12T07:00:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2020/oct/12/us-cold-war-china-disappear-joe-biden-president-beijing"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/oct/12/us-cold-war-china-disappear-joe-biden-president-beijing"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/oct/12/us-cold-war-china-disappear-joe-biden-president-beijing"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/e878869e9ed518efec0643ff9e45eb7f392e4c18/0_8_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3aef1b480e517db9ef1a3119de0625b4"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Fact check: Joe Biden faces friendly fire – partly false – over age, pot, prisons and more"
     excerpt: "An Instagram user levels strong charges against former Vice President Joe Biden but says he will vote for him against Trump"
     publishedDateTime: 2020-10-01T12:40:00Z

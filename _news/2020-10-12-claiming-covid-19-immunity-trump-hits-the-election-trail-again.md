@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Proud Boys Supporter Warns of 'Civil War' if Donald Trump Loses Election"
+    excerpt: "A video has emerged of a Proud Boys supporter warning that there will be a \"civil war\" if Donald Trump does not get re-elected in November and advises people to stock up on guns. The clip featuring the self-proclaimed supporter of the far-right group was posted online by actor and blogger Walter Masterson and took place during a Trump rally in Staten Island,"
+    publishedDateTime: 2020-10-12T07:41:00Z
+    webUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208"
+    ampWebUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 139
+    images:
+      - url: "https://d.newsweek.com/en/full/1649423/proud-boys.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump Says He Told Aides To Stop Negotiating Stimulus Until After Election"
     excerpt: "The president blasted Speaker Nancy Pelosi's plan as too expensive and said Senate Majority Leader Mitch McConnell should focus on the Supreme Court."
     publishedDateTime: 2020-10-06T19:06:00Z
@@ -4283,6 +4299,6 @@ related:
         height: 624
         isCached: true
 
-secured: "tQ30nycIHcIafF7fcvOIMVOJahNfSeBX8pr+BnQWrDufe7T6x6ebdwB4ygC/EAsB3MCXzHVmzJSnOyP5dbdMWFXUfaxo55T7Z5Ab4/Fkhzkz8Gcy0/fqth+7m66g8syCyL6M9/wevpA/DGj6NuFuI1BblY+0iVtB/oeQ7bvw7aPDyVykLtnwvwh+RS+KFx2+JcrQYjaWLHsvKz2rNP4f/giIhCBHZPNtW5wnxAc+SGXyFhH0YuTsPr4SLpWxL55AIYqn4zEfCSwUvrPvLbMjRhRXLXIQNX9KK0HLBfr6AfApWtm9Bc582J7oc6N++weh4HpHn5xHDds4icy7Ycw7PYTLSI9gyS1UoUTIW3b/zB0=;hR2zxAhixLK4SKICywTBnQ=="
+secured: "oJpD0CBYEpuLHc0qPUtxDhK3DJratzoUQlGMCKrsS/HiHr4DBlMMqaOPn3CuH+ZnR4LTAShQoQY6CpzW0EbN6dCDabDIEVGv2fwRniz7pOLtUnfITPxf8gVtHlwjnDizRFD7qnhBS3pBFOzKyGytmw3V1opYY3YMBXFP19elQUR5gv0OeCpxchM+vU/hYfL4Dj+/44aaKadzuuKkm0JsnIDXXobZfF324UfFBhujmJRt7y6xmNrKpEsWLuO9KuSayDeXS+CKGNrRINjd4pr/HWV9rOMwkNAflL8+58CXYP4sxJ2s/VtrV64/tI10SGLGLETbWsAkgS3s70DrGkfaoKjECvqeVTYHKcbMsDWHnV4LncGNpDtxXzS72DyIa7qUEb73z0d4FVfJjoBVQXgy4B9RvDHcqY78P20ujioFfMuETgPpH3FBCr8EvuuT9o8BoGxLpFy8vyA/oh52mis6zY6mASb4swkC5nS7l5rmlSmPhVRnwIROGiLyjZIQUr0QUjS65ot3ZxGQ8bIh2LGL4A==;4DnXXO2+7dJi9W96pfohQg=="
 ---
 
