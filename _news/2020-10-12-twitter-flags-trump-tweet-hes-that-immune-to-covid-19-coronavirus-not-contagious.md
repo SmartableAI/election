@@ -2634,6 +2634,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump claims he no longer has COVID-19 as White House dodges questions on whether he has tested negative"
+    excerpt: "Trump did not say in the interview whether he has tested negative for COVID-19. A memo by his physician, Dr. Sean Conley, didn’t address that either."
+    publishedDateTime: 2020-10-12T00:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/11/trump-says-he-no-longer-has-covid-doesnt-say-if-he-tested-negative/5960497002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5960497002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960497002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump, who still has COVID-19, went into the Oval Office yesterday, according to a top White House adviser"
     excerpt: "Kudlow would not say whether Trump wore a mask, instead claiming \"additional measures\" that are \"much greater than simply masking\" were taken."
     publishedDateTime: 2020-10-07T13:41:00Z
@@ -4237,6 +4253,6 @@ related:
         height: 624
         isCached: true
 
-secured: "HpScIvoT0A7kjxLB3CPSQ5EFPKNkYuVdDZem4otrBOOxg8ZCVfRqcn+tGhrt/oXgM7+qHJbR29zgr/wjjiaH8ZNphvnubYZ45E18Z8Js5k/3wtbdz0PIjkS9pYWI5cUf/jhZAgT4c0J5uHmHQTifnIeWzn/NfgziP06TN40/SQitBI9ec7vrVxOqYzbgmBdP6iAJTedHJg0IdE/ZtGbEpEuSG9D0tNiZl5h/8/SVowNMjsGl9fA21bf6nktOj/FjyQr9aPJArELyDkVyqWijWaOVUUOKjUiwUTXCD0NVDixDBXqaKvexQHd1ZzJZ4WUZ3oyBpinaB4CBDZEgyYm7VuW8IZ5A17WRNOlaCHUo+xE=;M4Jfh8faaMRTnSM6UJLIPw=="
+secured: "uocfd6fwfTQ110c2GSIipqfPI2PDH6N+WCQa6ASQgUJoUKxJlUlPhcrTw5VZ7MNZXUJcIdJ15kZ+kH2rq2jgKoIjvq8eCsQNKR5HZCw+BSBPcHJUYJ88XCwcFumuRKHwnaJZmtC1GO4EYo3bNVEsjbupF9cHWY4U3XUZ/7QY3qzEUUFkzmemxjSZpzrbT+O7YzldMjsrUZpcZoBLb6hOvGepypkbk7XarK5P0+6lQHb9Cqck0pUA+rhO8uLLebjL3WlCU/2lS6yVX5fpKrn96bDFuKtO3s6618XJqGYTnQQG3K9+LR4glVrzf3DlSZ5g6ZDYPRsdlEpHoCPyJSXluSkFMrTzucqNGAJsxUAbtWVofUXqVSNojAUknRDfD7b6hBpqjVUWGGw81mOjfTjuMWcJwOlVPo48mVxoau29YiYqvvlhV6lEk69dt/WH6UAlrRPBNaV3P9fECtWJDT3JLELe7ieXv2Qp3QUoSLxqS61qcbTbdKqbbLtdbOMQHR+EWpnJf3KN681PfkLt5HE8uA==;jqNIxFupVqtuX7dWgNoLcA=="
 ---
 

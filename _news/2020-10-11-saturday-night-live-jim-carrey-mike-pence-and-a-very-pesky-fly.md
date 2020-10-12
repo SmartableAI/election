@@ -3,8 +3,8 @@ category: news
 title: "Saturday Night Live: Jim Carrey, Mike Pence and a very pesky fly"
 excerpt: "Low-energy sketch skewers vice-presidential debate and comic Bill Burr hosts for the first time"
 publishedDateTime: 2020-10-11T15:51:00Z
-originalUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly?ref=hvper.com"
-webUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly?ref=hvper.com"
+originalUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly"
+webUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly"
 type: article
 quality: 105
 heat: 125
@@ -44,6 +44,6 @@ related:
         height: 625
         isCached: true
 
-secured: "DzlFsL7LsG6g0+Z2DvrctNDPQCXZfCKii/eD0dFdZnxDiakPUNG9ktk4KePevIqMU06frTp6pBJXk4FdXY2eZ6ZSP9NSbaSINupQqg4qy8t3IrOpLTzgeNb+UFfr2Xw6y2IKgupHhOBAE09lfK+DzvRvllnVG7A+Uk/vsGh1+IvJgOaXtdJaMr7hL2Rn4w4zst1OU1mhAt9/1QTFtK0Z2po/jxcROU7A/Lc9PopZHNpvqRuBRaIhOOp3sBdaX3J4dPOUFyJqYTWzOod9MNdqEH17byzDyxH70mdjYpGjXzn8jrGocy86OPVHh+rs7NnBoxUvtk6iaDDjie6YPPDGaMSANfBqhbVevnoQAjxO4js=;9xaIR++tOlMdGy2K7PIUlQ=="
+secured: "aPDLgOKTxXUHzwDAE1y5ZJDB4f6FW3emzplPjWxEfE6TetVh1umcaG5LPCmJkEkOxPhi3TyuNBnzFqbHZAGp4v7a+hs5fcswAKqb9ZnXg+2AzXunVSA+W53Apsi85yztE37xCLQLSoKIMvLE68Xi0natP4rIHOfow8HkOXfQUBNRu4MEw7OVKgjRQ2aES9hBu26AWCSwVksWVgJHRLalYrGIiU2mFVzxN1Yb8/WTEzLCWHu6Ud2Ztt5K1rtvP69ltsjmgfv7Pm0iBZ3U28RMs3m+TAtl4KRtLRzvh9Pp2vZjfZCoAUoi02GFYCNznbSbYzLZ2mPOX47YmaNbTrZrVALZjF8QxWWmXPYvKSPnHjg=;aiR9G8+5KQX5HwbGUqj5Sw=="
 ---
 

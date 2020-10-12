@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-trump-promised-to-bring-china-to-heel-he-didnt-and-the-result-is-a-pitched-conflict-between-the-worlds-two-major-powers.md",
+      "title": "Trump promised to bring China to heel. He didn’t and the result is a pitched conflict between the world’s two major powers.",
+      "excerpt": "Aides say the president is standing up to Beijing. But critics warn he’s created a dangerously tense relationship born out of a chaotic and undisciplined style that has defined many aspects of his presidency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R476SQQKSUI6XBYZBXYVTUKHSQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-11T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-tupacs-relative-says-the-trump-campaign-was-clearly-disrespectful-to-leave-a-ticket-for-the-late-rapper-at-vice-presidential-debate.md",
       "title": "Tupac's relative says the Trump campaign was 'clearly disrespectful' to leave a ticket for the late rapper at vice presidential debate",
       "excerpt": "The dig came after vice presidential nominee Kamala Harris said Tupac Shakur is the \"best rapper alive\" during a recent interview.",
@@ -290,57 +341,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-reportedly-wanted-to-rip-open-his-button-down-to-reveal-a-superman-t-shirt-to-surprise-people-when-he-left-the-hospital.md",
-      "title": "Trump reportedly wanted to rip open his button-down to reveal a Superman T-shirt to surprise people when he left the hospital",
-      "excerpt": "Upon leaving the hospital, Trump would rip open a button-down dress shirt to reveal a t-shirt with the Superman logo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f822f5dbab422001979a9fe?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp",
-      "publishedDateTime": "2020-10-10T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

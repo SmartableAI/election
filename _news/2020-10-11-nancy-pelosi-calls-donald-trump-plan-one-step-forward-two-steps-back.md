@@ -101,6 +101,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Second Stimulus Check Update: Pelosi Slams Trump's Relief Proposal As 'Grossly Inadequate'"
+    excerpt: "The Trump administration's $1.8 trillion offer remains below the $2.2 trillion bill passed by House Democrats last week."
+    publishedDateTime: 2020-10-12T01:20:00Z
+    webUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446"
+    ampWebUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/democratic-house-speaker-nancy-pelosi-wants-to-spend.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "uf9eZHpmuN4xsi56J+CBHtt2xiBNCn0/GwbcPWAaxZRsTfG1uCQZ6FXzPq2mBLCsir3itjcbImVpAv1yTFmyvc8zdr1VpGBcB76ee8BqvVOOhhbE28RSPE84yJW3BAAx6tXH9eygcea3STILaTVEDqaByXQqgFH2bTXalX5Q+xGTIpwbfDyAEfLp96yt/EEMvHLTjZmmMHHRATY1lRvnvpx3q7GQ69J8LLIozddVZghzC8vwZ+D6Uu+N8JGsrDbLz/h03I4loje4wKLgdLuiWva3PXekvbSGdaSatDa4/tdOWwV8ynMD1cwxj+zT5Rcrlw/PbkOOX1bp8cp+H0114/cPhskscopKrESMItS+13xK2NKDLkS6NOOLz6sZ4EXATR8fGCfp8YIgdRWAh0pbjVfh+VQu4jbXhuuULLCiOCAH93ZcyS+WPALuu0s3URvmBGyviM5fOV+arXPE4q4CJHDhKU79K0gaphJ3LaiZefd+0EZycxqNQAM/iByCzuc9sw/czJTUHV3gR6CrgMU6HQ==;4FScEt34lz0i9e2ZGGxdpQ=="
 ---

@@ -105,6 +105,22 @@ related:
       name: Mother Jones
       domain: motherjones.com
     quality: 60
+  - title: "What to watch for when Kamala Harris questions Amy Coney Barrett at her nomination hearing this week"
+    excerpt: "Sen. Kamala Harris, in her dual role on Judiciary Committee and as vice presidential nominee, will question Supreme Court nominee Amy Coney Barrett."
+    publishedDateTime: 2020-10-12T00:23:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/11/kamala-harris-question-supreme-court-nominee-amy-coney-barrett/5937743002/"
+    ampWebUrl: "https://amp.freep.com/amp/5937743002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5937743002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/b6c549b2-adf1-4ca0-bd10-690023465c36-AP_Election_2020_Debate_4.jpg?auto=webp&crop=2483,1397,x0,y199&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3OdiqGuSxPLdA1U0CGteW3BTs6BufzGiXkuvgAInyLrLI5lF4Cpk2rMcKTEJALF11wgZVDEMP2m6dla+I6psj48JNl+eHSKzJFV1VMId76qgRyFcCca5Zl/2nMhnSuXnHLKI+1pj9+GtCOMoxLpLbiIY+KAp4kkCEDE/mXJrMl+iujJ1YUfcwb+Zl+J2lU3PtlgHP8bc5eu3rZ0fwpfTXDxkUOAokL0r56ZOnyr+SXmM+b7C3iBsiQC2MjzJ0FluUHY3+GTqneAGX4X2FuEefz/DdUENKWAK5t3BdZbRDAaw3t3UOhVO5KsUL1sma61DM+5Q8L2eRhG0OgIbwO2YS9RI+a8twyFBrKjHZu0LLlDg30gVYfWwX2ih0n13VE+z8HnpETpMR3ReXw8L+CSzIP8tl9Hz4S3Zhax3mZ0OpczzXhoX5wNmWuS0TXhDwVy0/PW6lQ9IyNev4xEdM+APjBzffjof9KJVsj7PtpEsodJpDhuigsppud3BZYgWeykRAJqa9QfykZx54xJ93dzByw==;+F+wNeMGTVU2jQmCrSNfDA=="
 ---

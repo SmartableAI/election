@@ -45,6 +45,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden is silent now on court-packing stance, but in 1983 he called it a 'bonehead' idea"
+    excerpt: "Democratic nominee Joe Biden and his running mate Kamala Harris have been mum on the question of court-packing should they win the November election, but in 1983 Biden was much more outspoken on the issue, calling it a “bonehead idea.”"
+    publishedDateTime: 2020-10-12T01:52:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yVRNthjn9E8/biden-court-packing-stance-1983-bonehead-idea"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
     excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."
     publishedDateTime: 2020-10-10T02:38:00Z

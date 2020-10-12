@@ -1177,6 +1177,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump tells supporters he's 'tested totally negative' for coronavirus"
+    excerpt: "President Trump on Sunday said in a phone call to a group of supporters that he’s “tested totally negative” for the novel coronavirus, despite White House physcian, Navy Cmdr. Dr. Sean Conley, releasing no new statements on the president’s health."
+    publishedDateTime: 2020-10-12T00:43:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZTo3lIpttCc/trump-says-hes-tested-totally-negative-for-coronavirus-despite-silence-from-wh-physcian"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3feda8a-9f09-4f04-8b12-362f78fe55a2/4dcd18cb-2e8e-4d06-9acb-92f7162bae8e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dr. Marc Siegel: Trump coronavirus treatment likely 'precautionary', may continue for 'several days'"
     excerpt: "The course of medication given to President Trump for treatment of COVID-19 is \"being done for precautionary reasons\" and \"may continue for the next several days,\" Fox News medical contributor Dr. Marc Siegel told \"Fox News @ Night\" Friday. "
     publishedDateTime: 2020-10-03T05:59:48Z

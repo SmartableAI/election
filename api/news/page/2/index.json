@@ -2,37 +2,41 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-11-trump-reportedly-wanted-to-rip-open-his-button-down-to-reveal-a-superman-t-shirt-to-surprise-people-when-he-left-the-hospital.md",
-      "title": "Trump reportedly wanted to rip open his button-down to reveal a Superman T-shirt to surprise people when he left the hospital",
-      "excerpt": "Upon leaving the hospital, Trump would rip open a button-down dress shirt to reveal a t-shirt with the Superman logo.",
+      "path": "_news/2020-10-10-pence-says-dogma-lives-loudly-in-him-condemns-dem-attacks-on-barretts-faith.md",
+      "title": "Pence says 'dogma' lives loudly in him, condemns Dem attacks on Barrett's faith",
+      "excerpt": "Vice President Mike Pence focused heavily on religious freedom during a Saturday rally in The Villages, the nation’s largest retirement community, located in one of the most traditionally conservative sectors of the country.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f822f5dbab422001979a9fe?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282814405498.jpg",
+          "width": 3600,
+          "height": 2400,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp",
-      "publishedDateTime": "2020-10-10T16:07:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T16:22:28-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +53,8 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Republican Voice",
+        "Mike Pence"
       ]
     },
     {

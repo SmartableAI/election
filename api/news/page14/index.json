@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-09-27-borat-2-gets-official-title-targets-mike-pence-rudy-giuliani-and-more.md",
+      "title": "Borat 2 Gets Official Title, Targets Mike Pence, Rudy Giuliani and More",
+      "excerpt": "Sacha Baron Cohen's secretly-filmed sequel to Borat has a title in keeping with the original, and hints about its unwitting co-stars have surfaced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/",
+      "originalUrl": "https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/Borat-Mockumentary.jpg",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/amp/",
+      "publishedDateTime": "2020-09-26T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-former-pence-aide-says-staffers-discussed-trumps-potential-refusal-to-leave-the-white-house.md",
       "title": "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House",
       "excerpt": "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election.",
@@ -1234,57 +1276,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results.md",
-      "title": "Trump campaign plotting ‘tremendously dangerous’ challenges to election results",
-      "excerpt": "President Donald Trump’s campaign is preparing for a brutal legal battle on the ground after ballots are cast in the Nov. 3 election. The president has refused to commit to a peaceful transition of power,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/",
-      "originalUrl": "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/09/trump-eyes-closed.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-campaign-plotting-tremendously-dangerous-challenges-to-election-results/amp/",
-      "publishedDateTime": "2020-09-25T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

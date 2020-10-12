@@ -3,8 +3,8 @@ category: news
 title: "Should Joe Biden Follow the Scranton Political Model?"
 excerpt: "When I was growing up on the outskirts of Scranton in the 1970s and 1980s, my mother and I would drive into the city to shop at a popular downtown department store. On our way, we would pass"
 publishedDateTime: 2020-10-11T10:55:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2020/10/11/should_joe_biden_follow_the_scranton_political_model_144406.html"
-webUrl: "https://www.realclearpolitics.com/articles/2020/10/11/should_joe_biden_follow_the_scranton_political_model_144406.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2020/10/11/should_joe_biden_follow_the_scranton_political_model_144406.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2020/10/11/should_joe_biden_follow_the_scranton_political_model_144406.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/11/should_joe_biden_follow_the_scranton_political_model_144406.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/11/should_joe_biden_follow_the_scranton_political_model_144406.amp.html"
 type: article
@@ -126,6 +126,6 @@ related:
       domain: realclearpolitics.com
     quality: 33
 
-secured: "fxkDf9hamrdxDvmA4vrnt4+LIvQqpD0vReWulZ5gFYpj5bAO1Uo19VDwZ0Jw5Le5s37RZxTYnX5jYPqfPBxYf2MsTy1UIUwjDCnRVfeGVNftI0EiuqxfUIPvP99sknQgZ0vtv4IJxOvLsucRmpN+oMjEfRkPhw7n/3xlgjeWw/oI/0s3lXKBwnYGEBo2EiXWEW/ILayoa2CVfWWmzQ+HZg0EaCBu60hAZcpvf9QdskX3nZHpumWbGvFQ92ecmU02m4dLMKZhHh8n3HP5hFmQRShNJcIt5iMaMrm3tp9geVOj+BgrM7ouZRkrWjx2wHy9uU8irTLL8u3iqswVMiJvFCTKfGw2xW3rpl2QuuSi8BbX7MyZgyDUlZT/jdMgmH3+WQF77eRJTozi36PPoRS6m7H/KnTLh20SlIV2WVamYsNEwMqdUxm52DqX6dVRepP3eaPfzIEtU31QvaUSuQ40yJzzsqbU5+n4N7sZhOVioHJZFf68Tem0gahg83ML08rYagGfKE+RsZwkhh3cfnJjQg==;OTBNjJCiwMoFGzMGHS+wPw=="
+secured: "YAYm4vjosaRbMhNH/jN379kGvXPrS6f1rLoTnmCB40MzE44bZik/JkK+5qtBkh7ON0cl2bn5F+0Fll5Dx1W6+P2J+LutPFpkp74ZzbzFPCEi8BdlWkk96ONhBZVTCc+xCqUAI8BLf1sT9scuRVofWPTPi7Re0R/+sHpYSVesKyLOg1871xHGSt6HFzma2wrp1s3O7bkKFHS9h+oQqbofvOhqODvBp1iNY+FAUEVjFutAnIyaBZAMPHDyQZ9yQqOvLruIexfuUipqpSA5ZxlXGPqKHH8zAugl43me8NSKH5sHxxvl34UTUh9TlFQmomQoa+bF+8Z0VuyeXhb1SxqVFqaBanbrWRCSqJDc1xB8zjWtPBgDowO/KSvlRyLqtjtJjiPqlptQquWEKZFwlarhyfNRDMjvj66NmUBu7GxUq1p/GMbdMlVM+CxGyKyAMhkYwuupiMyXakKvf7WSbmFyrSfU0ihBdplY5fxn1O9kORca7gh9lWH7IhepIZ82vyoNjyvUMWFOONqiDOp6ln7ptg==;hkSFTHeWdn55FcPqey/mLw=="
 ---
 

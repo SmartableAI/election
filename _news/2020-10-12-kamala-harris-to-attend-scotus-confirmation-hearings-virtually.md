@@ -97,6 +97,22 @@ related:
     quality: 60
   - title: "What to watch for when Kamala Harris questions Amy Coney Barrett at her nomination hearing this week"
     excerpt: "Sen. Kamala Harris, in her dual role on Judiciary Committee and as vice presidential nominee, will question Supreme Court nominee Amy Coney Barrett."
+    publishedDateTime: 2020-10-12T00:23:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/11/kamala-harris-question-supreme-court-nominee-amy-coney-barrett/5937743002/"
+    ampWebUrl: "https://amp.freep.com/amp/5937743002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5937743002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/b6c549b2-adf1-4ca0-bd10-690023465c36-AP_Election_2020_Debate_4.jpg?auto=webp&crop=2483,1397,x0,y199&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What to watch for when Kamala Harris questions Amy Coney Barrett at her nomination hearing this week"
+    excerpt: "Sen. Kamala Harris, in her dual role on Judiciary Committee and as vice presidential nominee, will question Supreme Court nominee Amy Coney Barrett."
     publishedDateTime: 2020-10-11T15:48:00Z
     webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/11/kamala-harris-question-supreme-court-nominee-amy-coney-barrett/5937743002/"
     ampWebUrl: "https://amp.azcentral.com/amp/5937743002"

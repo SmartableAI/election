@@ -863,6 +863,22 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 65
+  - title: "Fact check: Yes, Joe Biden took a knee in Miami. No, it wasn’t during the national anthem."
+    excerpt: "A Miami Herald photo of former vice president and Democratic presidential nominee Joe Biden taken during a campaign event in Miami’s Little Haiti neighborhood is being recirculated in social media with a false narrative that the national anthem was playing when the photo was taken."
+    publishedDateTime: 2020-10-12T00:40:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246385535.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246385535.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246385535.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 65
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0193b67-c79f-4001-8a27-6109bd7bb30d/de4342bb-06c5-4dde-98b1-4c8915f4b177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
     excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
     publishedDateTime: 2020-10-06T22:21:00Z

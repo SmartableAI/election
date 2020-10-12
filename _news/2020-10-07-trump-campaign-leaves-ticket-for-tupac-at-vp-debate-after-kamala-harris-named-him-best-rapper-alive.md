@@ -2382,6 +2382,20 @@ related:
         width: 2300
         height: 1533
         isCached: true
+  - title: "Local Reporter Notes Biden-Harris Campaign Event Was Boring and Lacked Fanfare"
+    excerpt: "A rare, honest journalist reported the facts on the ground at a Biden-Harris campaign event earlier this week that was headlined by both candidates on the Democratic ticket. Former Vice"
+    publishedDateTime: 2020-10-12T01:15:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/11/local-reporter-notes-bidens-campaign-event-was-boring-and-lame-n2577858"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 86
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden's Pastoral Charms"
     excerpt: "Washington -- If I were a Democratic wheeler-dealer sitting atop the most left-wing major party in American history, I would be a little bit nervous. First, there is my party's"
     publishedDateTime: 2020-10-01T04:01:00Z

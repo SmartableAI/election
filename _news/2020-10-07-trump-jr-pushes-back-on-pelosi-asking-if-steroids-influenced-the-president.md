@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Second Stimulus Check Update: Pelosi Slams Trump's Relief Proposal As 'Grossly Inadequate'"
+    excerpt: "The Trump administration's $1.8 trillion offer remains below the $2.2 trillion bill passed by House Democrats last week."
+    publishedDateTime: 2020-10-12T01:20:00Z
+    webUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446"
+    ampWebUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/democratic-house-speaker-nancy-pelosi-wants-to-spend.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Nancy Pelosi calls Donald Trump plan ‘one step forward, two steps back’"
     excerpt: "Pelosi and Treasury Secretary Steven Mnuchin head into weekend negotiations with the top-line number for relief fast approaching the $2 trillion level that many Senate Republicans say they cannot accept."
     publishedDateTime: 2020-10-10T17:22:00Z
