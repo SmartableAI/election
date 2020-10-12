@@ -447,6 +447,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fauci says Trump campaign should take down ad featuring him"
+    excerpt: "Dr. Anthony Fauci said Monday that the Trump campaign should take down the political advertisement that he's featured in, calling his presence in the spot \"really unfortunate and really disappointing.\"\n    \n"
+    publishedDateTime: 2020-10-12T21:05:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PJC-5V02bi8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/fauci-trump-coronavirus-campaign-ad-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/fauci-trump-coronavirus-campaign-ad-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump team tries to keep debate fight going but others move on"
     excerpt: "President Donald Trump's reelection campaign and the White House are pushing for an in-person presidential debate after Trump -- who has repeatedly flouted best public health practices since his Covid-19 diagnosis -- declined last week to participate in a virtual format.\n    \n"
     publishedDateTime: 2020-10-12T02:36:28Z

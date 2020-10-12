@@ -1,0 +1,51 @@
+---
+category: news
+title: "Trump: Kavanaugh should 'sue the women' who accused him during his Supreme Court confirmation"
+excerpt: "President Trump on Monday said Supreme Court Justice Brett Kavanaugh should “sue the women” who leveled “false and disgusting accusations” against him during his confirmation process to the high court in 2018."
+publishedDateTime: 2020-10-12T21:31:12Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liWPo5sNZ5o/trump-says-kavanaugh-should-sue-the-women-who-accused-him-during-his-confirmation-to-the-supreme-court"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liWPo5sNZ5o/trump-says-kavanaugh-should-sue-the-women-who-accused-him-during-his-confirmation-to-the-supreme-court"
+type: article
+quality: 144
+heat: 164
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/28/694940094001_6090161738001_6090159029001-vs.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Video shows Seattle-area teacher scold 10-year-old for admiring Trump: mom"
+    excerpt: "A Seattle-area middle school teacher scolded his 10-year-old student and briefly kicked him out of his virtual classroom last week after the child said he admires President Trump."
+    publishedDateTime: 2020-10-06T06:58:00Z
+    webUrl: "https://www.foxnews.com/us/seattle-teacher-trump"
+    ampWebUrl: "https://www.foxnews.com/us/seattle-teacher-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/seattle-teacher-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/School.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+
+secured: "mTBznFJ/ot2Dn2+HPtfXPUSJxZQEXu/mvtYQBu/1ZxgpyfKOaXvuqRnagpUbmYtu1lmmYxuzZ0GSnK9/+/vp/SpTushW5eJvBnadkV5vMnWN0zVn080s6CIrd9WHd3NOatf+FQeOlLwuA1YE1Ix5CUrIsf/pBbxTpD7Q1A9NVhPLGyvR0Vf0wndEbhnEmxhOaXaC48hY/4s5clHwfJziOjWnahOJ3fvvbKCR8BHc4tWrD8nDQv97nOUAPyKN/iQM0Es8sVAEraAjn5m6z2wHmd8TX48b1MtYQ88JVeVcWWAv1I9WTuR8pEh6EgB6Dghqdbj5UxpkW29yM/klGygx9YTVCMtsN2uAG4/Qxcejc4o=;lZfZtIF5RAZoqnk3LILmMw=="
+---
+

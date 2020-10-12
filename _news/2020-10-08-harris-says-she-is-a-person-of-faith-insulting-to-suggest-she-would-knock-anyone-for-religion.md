@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-cour
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
 type: article
 quality: 172
-heat: 372
+heat: 392
 published: true
 
 provider:
@@ -175,6 +175,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/274/fe5a3c6a-4bf0-4214-9d71-e32c164b4d12.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
+    publishedDateTime: 2020-10-12T20:16:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 46
+    images:
+      - url: "https://assets.realclear.com/images/52/523854.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "/kX5pog70AV+vp0ArWCXrXpdY1Nc6ga9wEzGMtkkG20a5gHACMz/MuLSQCymwl+5h1E+oE7whLgIaTDvqmFw/uHxbF3U6I1I5uURPLKkx2oyZ4HfjdFovlSxwFdHwR+Ws0Ar4HWfTrjjzBfYkXDfxRRgZCu5LRiZQxzh7VQdeiU/2myMDK8iRzNCxX03FqSNzGQ+bcEGTtKSS9EYyAQ151GmSg96mj7xpUPDrkF5/wdK3FAQcq5zzF294KIk0soB3bY+8nh653bA8RVYU12lBfS/8UvoSMZ4KIVr4McTitLUAO9fgXvST2XyGfZWFoX7+DkQs2EdohBYTla4+SxsveCaICClYxbY240AevNKg2A=;X+JbzTxh6ZPM4IiJt7D3DQ=="

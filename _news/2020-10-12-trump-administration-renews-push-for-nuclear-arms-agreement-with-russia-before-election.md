@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump Funnels Record Subsidies to Farmers Ahead of Election Day"
+    excerpt: "Despite an extraordinary government bailout, America’s agriculture sector remains under severe economic pressure."
+    publishedDateTime: 2020-10-12T20:00:00Z
+    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/08/business/08DC-FarmAid-01/08DC-FarmAid-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump official pressured CDC to change report on Covid and kids"
     excerpt: "Amid Trump’s push to reopen schools, Michael Caputo’s science adviser asked that the health agency alter its warning about a study of pediatric coronavirus."
     publishedDateTime: 2020-10-05T10:14:00Z

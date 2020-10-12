@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2143
+heat: 2163
 published: true
 
 provider:
@@ -428,6 +428,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fauci says Trump campaign should take down ad featuring him"
+    excerpt: "Dr. Anthony Fauci said Monday that the Trump campaign should take down the political advertisement that he's featured in, calling his presence in the spot \"really unfortunate and really disappointing.\"\n    \n"
+    publishedDateTime: 2020-10-12T21:05:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PJC-5V02bi8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/fauci-trump-coronavirus-campaign-ad-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/fauci-trump-coronavirus-campaign-ad-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -1054,6 +1054,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign mocks Biden event in Ohio, says he was 'visiting a state he cannot win'"
+    excerpt: "Biden spoke to members of the United Auto Workers in Toledo during his campaign stop."
+    publishedDateTime: 2020-10-12T21:04:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iQ1w_4Y2Xt0/trump-campaign-biden-rally-toledo-ohio"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-biden-rally-toledo-ohio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-biden-rally-toledo-ohio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dffaa872-aef6-403f-b19e-7b90b2f5a3b5/906de055-b200-4d27-920c-33fa9ae089bb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden deflects yet again on court packing questions: 'I'm not going to play Trump's game'"
     excerpt: "Democratic presidential nominee Joe Biden once again avoided giving a straight answer on whether he would support packing the Supreme Court if elected, after making clear during Tuesday’s debate that he would not address the issue."
     publishedDateTime: 2020-10-01T13:05:14Z
@@ -1664,6 +1680,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign confident in standing in 2020 race, despite Biden's lead in polls"
+    excerpt: "The Trump campaign on Monday expressed confidence in President Trump's standing in the 2020 race, despite trailing former Vice President Joe Biden in the polls, citing Democrats \"falling short\" of their goal in requested and submitted absentee ballots, while maintaining supporters of the president will"
+    publishedDateTime: 2020-10-12T20:18:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iBWueRkvQHI/trump-campaign-confident-in-trumps-standing-in-2020-race-despite-dems-lead-in-absentee-requests"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/71f20ef0-43dd-45f1-b640-8d230bd20817/259bc9bd-a582-4bd3-853d-a90c9c63cd75/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Committee on Presidential Debates discussing holding next debate between US President Trump and Joe Biden outdoors: report"
     excerpt: "The Committee on Presidential Debates (CPD) is reportedly discussing holding the next presidential debate in open air. "
     publishedDateTime: 2020-10-06T22:05:04Z
@@ -1705,6 +1735,20 @@ related:
     quality: 161
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2cc3b421-767e-4d05-b57b-55e5bdee6e9a/2bf9fc33-cc9b-4e02-8dea-9ac6c9626982/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says Trump’s ‘reckless personal conduct’ since COVID diagnosis is ‘unconscionable’"
+    excerpt: "Democratic presidential nominee Joe Biden is questioning President Trump’s actions since the president was diagnosed a week and a half ago with COVID-19."
+    publishedDateTime: 2020-10-12T20:48:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gWIK1dYeJhI/biden-trump-reckless-personal-conduct-covid"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4da6db8-4d89-4b79-85e1-a441ff74f56d/59585345-b89f-44be-ae5c-2cf4e7395729/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1817,6 +1861,20 @@ related:
     quality: 156
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b88c7196-83c6-4ec0-bf17-4b56113c08db/fb72f1a0-ed69-43b7-bd98-41051ec530ce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Polls showing big Biden lead 'have massive oversampling of Democrats,' Trump adviser Cortes claims"
+    excerpt: "Less attention should be paid to national presidential election polls than those in individual states, Trump 2020 campaign adviser Steve Cortes said Monday, as his candidate trails Joe Biden in the latest ABC News/Washington Post survey by a dozen points."
+    publishedDateTime: 2020-10-12T21:18:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AujrHLx6ix8/polls-biden-trump-2020-election-steve-cortes"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/image-2020-10-12T155041.203.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -1233,6 +1233,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump tests negative for coronavirus, 'not infectious to others,' White House physician says"
+    excerpt: "President Trump has tested negative for the novel coronavirus “on consecutive days,” according to the White House physician, who said maintained that the president “is not infectious to others.”"
+    publishedDateTime: 2020-10-12T21:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bpd-Jy74pOM/white-house-physician-releases-results-of-president-trumps"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284658597602.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Joe Biden says he and Jill Biden tested negative for coronavirus"
     excerpt: "Joe Biden confirmed Friday that he and his wife, Jill, tested negative for the coronavirus, days after the former vice president appeared on the debate stage with President Trump, and hours after Trump revealed he and first lady Melania Trump tested positive."
     publishedDateTime: 2020-10-03T02:19:00Z

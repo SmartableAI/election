@@ -26,17 +26,17 @@ topics:
   - Republican Voice
 
 related:
-  - title: "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?"
-    excerpt: "It’s been nearly three decades since a Democrat carried Georgia in a presidential election."
-    publishedDateTime: 2020-10-10T11:28:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia"
+  - title: "Jill Biden to campaign in Texas as Dems look to flip Lone Star State"
+    excerpt: "Democratic presidential nominee Joe Biden hasn't traveled to Texas in months, but on Tuesday, his campaign will dispatch his wife, Jill Biden, to help boost early voting turnout. "
+    publishedDateTime: 2020-10-12T21:13:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OdGmLv64P28/jill-biden-to-campaign-in-texas-as-dems-look-to-flip-lone-star-state"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 150
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/jill-joe-biden.jpg"
         width: 1280
         height: 720
         isCached: true

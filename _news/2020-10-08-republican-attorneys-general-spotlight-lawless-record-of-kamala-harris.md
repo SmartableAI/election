@@ -176,6 +176,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
+    publishedDateTime: 2020-10-12T20:16:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 46
+    images:
+      - url: "https://assets.realclear.com/images/52/523854.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "SYyjM0+JNDERHt7lhqTybBUw7L+z+5q1/ESkr+ll6v8+eWtR7ct6fdDeInpe1RAmK0lI/lFpHpCa4fM2BaAdFuhVYT5vwM7PsxInugIhLaxPlp/kMTH9l0l6V/1c/xssdDPrkFTK29X0mvmgCtn5fkx02fOs7Cr2i2IOqDa782H5tTPM8hDJkF1tFHoXp7Iokvg5LRukG08GqQezBw6L9AyxRj/BnO/3aqgLrYWR0LTkjTT2LqnVrCMvQba0JLOOQAo2yAa+t8KQpmDdtBcpjr84sdGp7hpTX7nYsag4QwtRUYLchZfaATZQUOTfEt8IQAq6SURJ6L95UflNI1Mldy2tRR3xTWRBt19QWq1Tp8k=;EdYh6Z/x8DLBRjtsiKIsDg=="
 ---

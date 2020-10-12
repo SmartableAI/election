@@ -1232,6 +1232,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump tests negative for coronavirus, 'not infectious to others,' White House physician says"
+    excerpt: "President Trump has tested negative for the novel coronavirus “on consecutive days,” according to the White House physician, who said maintained that the president “is not infectious to others.”"
+    publishedDateTime: 2020-10-12T21:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bpd-Jy74pOM/white-house-physician-releases-results-of-president-trumps"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284658597602.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Dr. Marc Siegel: Trump coronavirus treatment likely 'precautionary', may continue for 'several days'"
     excerpt: "The course of medication given to President Trump for treatment of COVID-19 is \"being done for precautionary reasons\" and \"may continue for the next several days,\" Fox News medical contributor Dr. Marc Siegel told \"Fox News @ Night\" Friday. "
     publishedDateTime: 2020-10-03T05:59:48Z

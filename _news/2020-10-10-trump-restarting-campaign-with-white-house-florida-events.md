@@ -105,6 +105,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump returns to the campaign trail in critical Florida region"
+    excerpt: "President Donald Trump returns Monday night to Central Florida, a region that political operatives say will prove critical this fall in the battleground state."
+    publishedDateTime: 2020-10-12T20:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-begins-return-campaign-trail-critical-florida-region/story?id=73374112"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-begins-return-campaign-trail-critical-florida-region/story?id=73374112"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-begins-return-campaign-trail-critical-florida-region/story?id=73374112"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-rally-orlando-file-gty-jef-201011_1602440223003_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "WATCH LIVE: Trump holds campaign rally in Sanford, Florida"
+    excerpt: "The White House doctor has said Trump is no longer at risk of transmitting the coronavirus but has not said explicitly whether Trump has tested negative for it."
+    publishedDateTime: 2020-10-12T19:58:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-holds-campaign-rally-in-sanford-florida"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-holds-campaign-rally-in-sanford-florida"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-holds-campaign-rally-in-sanford-florida"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-04T000123Z_1626123769_RC2CRI92JSD2_RTRMADP_3_USA-ELECTION-TRUMP-1-1024x691.jpg"
+        width: 1024
+        height: 691
+        isCached: true
   - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
     excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
     publishedDateTime: 2020-10-12T14:43:00Z

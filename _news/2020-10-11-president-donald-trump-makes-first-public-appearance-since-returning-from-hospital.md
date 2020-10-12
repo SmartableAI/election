@@ -398,6 +398,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Ready for 1st Rally Since Contracting Coronavirus"
+    excerpt: "President Donald Trump is returning to the campaign trail as he tries to stage a late comeback just a week after his release from the hospital over a serious case of COVID-19."
+    publishedDateTime: 2020-10-12T21:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/trump-ready-for-1st-rally-since-contracting-coronavirus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "Tl87sIePUeSE+e0a44OsX2YZHumuo4U+Flqpwn3dQE6cjZf+/7g51g6UVvcPy37B4WxY4xpputH6qAkf0JL5AYlb1NIuqodh3X5uCDIcgChIKKxKyfdAoceVkrVrQOn4vYyXvAOTeLX9cy403uHhPXoHSzRUUajnIyEH3CDZxNOo+TvQqcq44q0sx92uQC9wQ10A4w0k84qFDavZF5lBMbEMkGNhDMiV0QImFiaVCVA/kvKIfnadBU5G1kK6EFaziefemP8t3xjAc+8dhMUO985XSAcIhfSOBYsP4p/BQKBpaRFI7nFInraBsxtd9NaXxv7bXazIkc5/b/c1H1e38mlQ2e8No5EGoiJ5JVfWKl5gVh5eAbPcQ/s5DT8kISn+xGKz9DpVCyg30fr2J9LNxmz/4uKMYk1HRtgPzAWfHT2bhsk1bv0H8QTleCqO4P8Ehmfg+Dnzt/KuQKBvAnQ+UbMKsVUWjcL1zQ2j/UTL6OUt4KuncOUFYzI8vcap5Wzf6DbFhpHHsqcc+RZTafLctw==;gKl1tGaIiczTqaDv2LY6/g=="
 ---

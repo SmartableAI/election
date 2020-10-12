@@ -445,6 +445,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fauci says Trump campaign should take down ad featuring him"
+    excerpt: "Dr. Anthony Fauci said Monday that the Trump campaign should take down the political advertisement that he's featured in, calling his presence in the spot \"really unfortunate and really disappointing.\"\n    \n"
+    publishedDateTime: 2020-10-12T21:05:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PJC-5V02bi8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/fauci-trump-coronavirus-campaign-ad-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/fauci-trump-coronavirus-campaign-ad-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Texas Supreme Court rules Harris County cannot mail out ballot applications to all registered voters"
     excerpt: "The Texas Supreme Court ruled Wednesday that Harris County, one of the largest in the country, cannot mail out applications for absentee ballots to all of its 2.4 million registered voters.\n    \n"
     publishedDateTime: 2020-10-07T17:46:55Z

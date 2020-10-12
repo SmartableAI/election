@@ -3,8 +3,8 @@ category: news
 title: "New poll shows Joe Biden ahead in Michigan"
 excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-12T18:55:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201012184256-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
-webUrl: "https://www.cbsnews.com/live/video/20201012184256-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
+originalUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
+webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
 type: article
 quality: 105
 heat: 205
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07216706_1602528485.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -101,6 +101,6 @@ related:
         height: 1680
         isCached: true
 
-secured: "3wjoKU8tgf3c5JFDcmpMpSOfV1Ojaf3cigLlF+AvvLLx7ZFXd2Th1vClD60EBkdTiL55gWJkRCx5QK67Fc/l/xR2yA5Ej0IUj/n60iIq/bIlMvXad9RlSmaL0vYvP0Bfe0dKR3+cRVLtTVVSnxaZgM2bH2qqOOHzS1MVPki8r8M0Wca47wlkRqRSQveI4UVcgxvJRS59RRtvawHCSTL29dgdAwDWQ60hphr7zO1RCtUpqtIDwnZDKC0TYitDOBNWb9ETt/dzws03kaKAHy4xsM3W/jTpic3gTGHkP2s+UZJkt+FKXzVfuPRFI6tqcOSXajXGrdLPiuA8kBRWQD4oTeUCqYqWn6wPnHCOHh+mb0w=;OOZLscbpaFMJ/YbqtNdQbg=="
+secured: "iw9KMCiKSevTLuxwzv8JJk7HsgkqMq4mOsVUYtCtOZS0153Q0zqVE6kBIHkcgGnIA+d4wk91smQKTjSfSD6OWh4tQINd6nyLmxRmK7U4iRN8Ug0gOi9/0eTvjPlwwDZCk3uLMA2jGZ6/NYli7NNq2zb5fYsHeNFrXQ0+XwV+ydhc7nisxGxRde2QXf4CcKm0dN+Cw3F9isN0VojbzCmCfswLj3YlBNCkGhVszqxqD0I0qyO+I/lHJkLXO4zJAcilnXlG7ykVyISWnUWfQPa94zKcCr4NkzEHS9udhxdQqXUfDKd16sngznqv79I6iu5PBezXAicqohXLayK66Ea3LoNkHgYwlc+PaIVvloDwNXY=;iUQ2kwPejggyfmJWE1HX/w=="
 ---
 

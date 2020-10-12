@@ -733,6 +733,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "We should listen to scientists sounding the alarm on Trump"
+    excerpt: "The fact that so many scientists are speaking out now is a testament to the damage that the Trump administration has done to our country and scientific institutions."
+    publishedDateTime: 2020-10-12T21:43:00Z
+    webUrl: "https://thehill.com/opinion/white-house/520664-we-should-listen-to-scientists-sounding-the-alarm-on-trump"
+    ampWebUrl: "https://thehill.com/opinion/white-house/520664-we-should-listen-to-scientists-sounding-the-alarm-on-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520664-we-should-listen-to-scientists-sounding-the-alarm-on-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trump101220.jpg"
+        width: 797
+        height: 551
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z
@@ -1390,6 +1406,22 @@ related:
         width: 2000
         height: 1332
         isCached: true
+  - title: "Joe Biden should rebuke court-packing idea"
+    excerpt: "Democratic nominee Joe Biden’s refusal to answer a straightforward question about “court packing” not only is frustrating for voters, but undermines his main election theme of rolling back the"
+    publishedDateTime: 2020-10-12T20:08:00Z
+    webUrl: "https://www.dailynews.com/2020/10/12/joe-biden-should-rebuke-court-packing-idea/"
+    ampWebUrl: "https://www.dailynews.com/2020/10/12/joe-biden-should-rebuke-court-packing-idea/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/12/joe-biden-should-rebuke-court-packing-idea/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 75
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2020/10/Election_2020_Debate_52718-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Doctor says President Donald Trump won’t transmit virus, stays mum on tests"
     excerpt: "Navy Cmdr. Dr. Sean Conley says that by “currently recognized standards” Trump is no longer considered a transmission risk."
     publishedDateTime: 2020-10-11T03:30:00Z
@@ -1670,6 +1702,17 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Joe Biden has a history of keeping women safe from domestice violence | Opinion"
+    excerpt: "Many Floridians are wondering who the real Joe Biden beyond the public persona that we know well from his decades in public service. As a senior advisor to Vice President Biden in the White House from 2015-2017,"
+    publishedDateTime: 2020-10-12T21:09:00Z
+    webUrl: "https://www.miamiherald.com/opinion/op-ed/article246405055.html"
+    ampWebUrl: "https://amp.miamiherald.com/opinion/op-ed/article246405055.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/opinion/op-ed/article246405055.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 51
   - title: "Joe Biden Comments to Reporters on Future Debates"
     excerpt: "Democratic Presidential Candidate Joe Biden took a couple of reporters' questions before boarding a plane in Hagerstown, MD. The Former Vice President held an event earlier in the afternoon a short distance away in Gettysburg,"
     publishedDateTime: 2020-10-07T03:32:00Z
@@ -1698,6 +1741,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "b8QW0lHvEn9PIxuTByxGh2npb9V1cTuuSQUd6tzwjzCXWODslJ0Dcfio4H42MtiUccp84YCbVJ3TnufKW1DLCj18HJJYZBWa+oYmcwtYH4RTuND0CoMwJT2Wf6u0JZEYFmq/pNQfrg93pRazgh/A+cyNjuLmZA9dO0PK1jOL+BjwLnnWFVSGrmBv5GoLRxW1/xso1GbHf4nXc82SIVysie2L4JZZ9UEVib5B4DFQ1JLmWkvIOAQAkJn/RhhstYV6ZvQ8/v7mvSwa9UJU0tUZQxUd1TbOQHJLUahEpH88so0jJ3wQW+NiERif2P8X2LHO5vov+wpgl92TUcwUZeTjKh2acsFHbLtWyM6s0ow3kfc=;6kJAWKeLhZAnWcUr4rwvdg=="
+secured: "vpZqxTj/wEKqllrXCTkGkNoRsLm2itJLgQfgDxCcZAqFQ0xKFXGuQ7tqn5JksCUNlfByRNJ755Jcxc3alJpwAupFp+7OmDhpxja7wKurAJlPHwOl7LykN0aUxPXoqCEmXH/QA0pFg4lwprkjsyrVsZlJOBrC69ImEGsMuh9Mpbt0BcjCn37IA1n9CxmpsT6A69R4sNJ8fINkof6tcxUbKoWl9hs6vBnbaQ0YWHJWoIn69XpC4lu/Wl/yW7M76GPovHbAmbu+/S8VzeWXInxhRoD3+ZQWbkLmaGQv9xqPzPbzbTgtJmac3rsLTUjlL2dmCAn8NurQTBrkQUCvDos2bwm/iPkmNn+4wTmXLu0jzv8V8qiowDXJEl9XgmekrfZV4ftA/PBfVCZecIji0x3gWc44IlbNeSTNqeXxL3mKaOqv4JdoelWwkisLl84okb25meKb7eIHEyPoB+xm1/o+BtqYcBAqKvyjv2VOj/y5CHsC9NQZxFHc7MkoFHATLdjUVXtSz4FmeRyUY/pWw++YbA==;pAqi7H7v2Uc7aQOQ3VoN2A=="
 ---
 
