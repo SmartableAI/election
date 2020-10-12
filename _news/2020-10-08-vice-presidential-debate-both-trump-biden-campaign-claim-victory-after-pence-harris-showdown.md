@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3688
+heat: 3708
 published: true
 
 provider:
@@ -2471,6 +2471,22 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/3bbb61e/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fc6%2F3b%2F728e9dba4028ac85d5cf51f9bfc6%2Flettereditor.jpg"
         width: 2290
         height: 1322
+        isCached: true
+  - title: "Pray for Joe Biden"
+    excerpt: "Joe Biden is deeply confused. As we approach the election, he needs prayer. It’s not just that he is gaffe-prone or that he exhibits mental decline during his infrequent softball"
+    publishedDateTime: 2020-10-12T04:01:00Z
+    webUrl: "https://townhall.com/columnists/katherineblakeman/2020/10/12/pray-for-joe-biden-n2577839"
+    ampWebUrl: "https://townhall.com/columnists/katherineblakeman/2020/10/12/pray-for-joe-biden-n2577839?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/katherineblakeman/2020/10/12/pray-for-joe-biden-n2577839?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/172/5a2eb5b1-f7a8-4fb7-8d37-a4e50f9cd853.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Watch Live: 2020 Vice Presidential Debate Between Mike Pence, Kamala Harris In Utah"
     excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris face-off for their first debate."

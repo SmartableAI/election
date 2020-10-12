@@ -1168,6 +1168,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump surrogates deflected questions about the coronavirus and the debate."
+    excerpt: "As President Trump continued to trail by double digits in polls, several of his surrogates tried on Sunday to shift attention away from the details of his coronavirus infection and his administration’s handling of the pandemic."
+    publishedDateTime: 2020-10-12T04:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/11/us/elections/trump-surrogates-deflected-questions-about-the-coronavirus-and-the-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/11/us/elections/trump-surrogates-deflected-questions-about-the-coronavirus-and-the-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/us/elections/trump-surrogates-deflected-questions-about-the-coronavirus-and-the-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/multimedia/11elections-briefingMcDaniel/11elections-briefingMcDaniel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Chris Christie, who helped Trump prep for debate, tests positive for coronavirus"
     excerpt: "Trump started remdesivir therapy, which is an experimental antiviral, and completed a first dose. Trump's coronavirus diagnosis has thrown his campaign into confusion with a little more than four weeks before the Nov."
     publishedDateTime: 2020-10-04T02:14:00Z

@@ -1169,8 +1169,8 @@ related:
         isCached: true
   - title: "Twitter flags Trump tweet for violating its rules on COVID-19 information"
     excerpt: "Twitter on Sunday flagged a tweet by Donald Trump in which the U.S. President claimed he was immune to the coronavirus, saying it violated the social media platform's rules about misleading information related to COVID-19."
-    publishedDateTime: 2020-10-12T03:21:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-twitter-idUSL1N2H207Q"
+    publishedDateTime: 2020-10-12T04:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-twitter/update-1-twitter-flags-trump-tweet-for-violating-its-rules-on-covid-19-information-idUSL1N2H207Q"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0TI"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0TI"
     type: article
@@ -3815,6 +3815,20 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2019/04/Susan-Collins-via-Zach-Gibson_Getty-Images-1200x627.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Claiming Covid-19 Immunity, Trump Hits The Election Trail Again"
+    excerpt: "US President Donald Trump will launch a campaign marathon Monday, holding rallies in three key swing states over the next few days as his White House race against surging rival Joe Biden enters its critical final weeks."
+    publishedDateTime: 2020-10-12T05:40:00Z
+    webUrl: "https://www.ibtimes.com/claiming-covid-19-immunity-trump-hits-election-trail-again-3060417"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/president-donald-trump-rallied-hundreds-of-supporters-for-AFP_8RV9UG.jpg"
+        width: 1024
+        height: 688
         isCached: true
   - title: "MSNBC’s Morning Joe scorches ‘sociopath’ Trump for ignoring COVID-19 until he got sick"
     excerpt: "MSNBC’s Joe Scarborough ripped President Donald Trump for ignoring the coronavirus pandemic until he personally became a victim. The president said over the weekend that he had “learned a lot” about the potentially deadly virus since his positive test and subsequent hospitalization,"

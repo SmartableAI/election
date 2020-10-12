@@ -2482,6 +2482,22 @@ related:
         width: 2290
         height: 1322
         isCached: true
+  - title: "Pray for Joe Biden"
+    excerpt: "Joe Biden is deeply confused. As we approach the election, he needs prayer. It’s not just that he is gaffe-prone or that he exhibits mental decline during his infrequent softball"
+    publishedDateTime: 2020-10-12T04:01:00Z
+    webUrl: "https://townhall.com/columnists/katherineblakeman/2020/10/12/pray-for-joe-biden-n2577839"
+    ampWebUrl: "https://townhall.com/columnists/katherineblakeman/2020/10/12/pray-for-joe-biden-n2577839?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/katherineblakeman/2020/10/12/pray-for-joe-biden-n2577839?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/172/5a2eb5b1-f7a8-4fb7-8d37-a4e50f9cd853.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "'One and Done': Speaker Pelosi Says Biden Should Skip The Final Two Debates"
     excerpt: "Speaker of the House Nancy Pelosi weighed in on the presidential debates, following Tuesday’s chaotic contest between President Trump and former Vice President Joe Biden, moderated by Fox News' Chris"
     publishedDateTime: 2020-10-01T20:00:00Z

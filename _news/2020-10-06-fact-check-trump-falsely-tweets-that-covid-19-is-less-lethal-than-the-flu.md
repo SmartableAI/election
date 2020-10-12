@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
 type: article
 quality: 173
-heat: 613
+heat: 633
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3417964/201006-donald-trump-balcony-jm-1501_042a7db35c2d2476e6bc93602ef6dea2.jpg"
         width: 2500
         height: 1633
+        isCached: true
+  - title: "Covid-19 Live Updates: Fauci Calls Out Trump Campaign Ad That Used Him Without Permission"
+    excerpt: "Trump claims his aggressive, experimental treatment was “pretty routine.” Surging infections are straining Nepal’s health system."
+    publishedDateTime: 2020-10-12T03:59:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/11/world/covid-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/11virus-brief-fauci/merlin_177467937_72537b32-5c98-4fb4-ae54-a658777cc228-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump's Covid diagnosis spawned conspiracy theories and showed the limits of 'the resistance'"
     excerpt: "It has been easy for some liberals to make the fight solely about defeating Donald Trump. But that absolves us of responsibility for what comes after him."

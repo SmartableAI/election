@@ -3,18 +3,18 @@ category: news
 title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
 excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
 publishedDateTime: 2020-10-11T12:00:00Z
-originalUrl: "https://www.thenewstribune.com/news/politics-government/election/article246337265.html"
-webUrl: "https://www.thenewstribune.com/news/politics-government/election/article246337265.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/politics-government/election/article246337265.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/politics-government/election/article246337265.html"
+originalUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
+webUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
+ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246337265.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Election
@@ -186,6 +186,6 @@ related:
         height: 325
         isCached: true
 
-secured: "mIyuRbJHiwUPBQcBciZsWQKk3KntxgSv5AsbfY0axgkwTAyOpksMjjN0w1kWF6zWwOgvpMn0LPiOoCm6LILNGd0+8ZCOC9QMXFVjpDVkyS7W5hSg3+oFfiBOM7lZxoyxyr4DhEXZJRaHynSAPoyvNCyjhNGCvwMHar3ueG9943VD8jEnxG2WoJZak8GRHj/ddfKuolyuqkqK4s19vW/RHYDQJ7bYbluW3OC5sAnrDHWpB/bJjfdpPUY3YG7/a+svoFHjC+vjhlB8hAgwwyxH6XR72ZoTQpMXdkk/zo/hrFBDJ38Uo7W7SwNQvcyVDRdowfGjXDp7q0T2r6IPe+Ydr1O7no2FaCDPdDF9+UX9Wh1kM5z+p+WsfasGBfMaDD+dXIXkFvySMx3vl49QYQ+2VlYIhKQf6DwOv/+xmpa2h3VthI6fCo54MGkgZ1ATc/nvxmy4z6WPtlL/je26CcIdOhPcrZE/5de35QlmDFlfYNZtM9yBTIHUO+SxsICetsFelKZIriivi0yo/zDUjt4VzA==;gCskWvSYKH2IDMhuJYNwjA=="
+secured: "hqeKgJ0Mue5vuMLNnz8FeCQxauPHbGXMJBpBr8TCKo0cBcLors6at+7pqeNDDc8nOdD8ma9VEc0LqVRoSsHA/CuoKQUlyr+jutu4QggufyQafdX9au1ZbQ3ujMDVSNN/gyvNnZMtcYJxyM+qvLF5KPAMxHKZNnRRv6KPyS4/LPFzXjkI3iVLg0Sz88jBfCOWzxjnZAP3FP5ap5O/rnqfTCgZ4sg20iIq+LQMABZiRvZPxRE10EZWTbEHYRvW0s0W5HGsvaUKhE7qu/Rl/beDtdW1k6jSKA8HkOiz5GfND/kIwU81MgG29OqDgRfLCGb9eD8WetsjL7BJqM8yCkI+svZ02qXG5y3PezJw3iyjARo=;ym9e+w51Pw3s+8QNKLrFow=="
 ---
 

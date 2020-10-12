@@ -2481,6 +2481,22 @@ related:
         width: 2290
         height: 1322
         isCached: true
+  - title: "Pray for Joe Biden"
+    excerpt: "Joe Biden is deeply confused. As we approach the election, he needs prayer. It’s not just that he is gaffe-prone or that he exhibits mental decline during his infrequent softball"
+    publishedDateTime: 2020-10-12T04:01:00Z
+    webUrl: "https://townhall.com/columnists/katherineblakeman/2020/10/12/pray-for-joe-biden-n2577839"
+    ampWebUrl: "https://townhall.com/columnists/katherineblakeman/2020/10/12/pray-for-joe-biden-n2577839?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/katherineblakeman/2020/10/12/pray-for-joe-biden-n2577839?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/172/5a2eb5b1-f7a8-4fb7-8d37-a4e50f9cd853.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Watch Live: 2020 Vice Presidential Debate Between Mike Pence, Kamala Harris In Utah"
     excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris face-off for their first debate."
     publishedDateTime: 2020-10-07T23:52:00Z

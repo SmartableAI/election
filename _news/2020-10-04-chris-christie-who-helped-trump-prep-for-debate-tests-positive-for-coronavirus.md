@@ -1184,6 +1184,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump surrogates deflected questions about the coronavirus and the debate."
+    excerpt: "As President Trump continued to trail by double digits in polls, several of his surrogates tried on Sunday to shift attention away from the details of his coronavirus infection and his administration’s handling of the pandemic."
+    publishedDateTime: 2020-10-12T04:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/11/us/elections/trump-surrogates-deflected-questions-about-the-coronavirus-and-the-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/11/us/elections/trump-surrogates-deflected-questions-about-the-coronavirus-and-the-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/us/elections/trump-surrogates-deflected-questions-about-the-coronavirus-and-the-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/multimedia/11elections-briefingMcDaniel/11elections-briefingMcDaniel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'Nightmare scenario': Trump campaign confronts daunting task of making up ground"
     excerpt: "The president's COVID-19 diagnosis pulls him off the re-election trail at the worst time and spotlights his handling of the virus."
     publishedDateTime: 2020-10-03T19:21:00Z

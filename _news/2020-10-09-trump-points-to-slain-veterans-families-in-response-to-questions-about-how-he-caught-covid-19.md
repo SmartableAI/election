@@ -272,6 +272,22 @@ related:
         width: 2500
         height: 1633
         isCached: true
+  - title: "Covid-19 Live Updates: Fauci Calls Out Trump Campaign Ad That Used Him Without Permission"
+    excerpt: "Trump claims his aggressive, experimental treatment was “pretty routine.” Surging infections are straining Nepal’s health system."
+    publishedDateTime: 2020-10-12T03:59:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/11/world/covid-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/11virus-brief-fauci/merlin_177467937_72537b32-5c98-4fb4-ae54-a658777cc228-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's Covid diagnosis spawned conspiracy theories and showed the limits of 'the resistance'"
     excerpt: "It has been easy for some liberals to make the fight solely about defeating Donald Trump. But that absolves us of responsibility for what comes after him."
     publishedDateTime: 2020-10-04T08:35:00Z
