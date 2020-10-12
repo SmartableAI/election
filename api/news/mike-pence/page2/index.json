@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-07-pence-preps-for-debate-as-chances-to-shake-up-the-race-dwindle.md",
+      "title": "Pence preps for debate as chances to shake up the race dwindle",
+      "excerpt": "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
+      "publishedDateTime": "2020-10-06T18:33:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-tim-kaine-on-what-its-like-to-debate-mike-pence.md",
       "title": "Tim Kaine on What It’s Like to Debate Mike Pence",
       "excerpt": "Mr. Kaine, Hillary Clinton’s running mate in 2016, spoke to The Times about what lies ahead for Senator Kamala Harris at Wednesday’s V.P. debate.",
@@ -1422,57 +1478,6 @@
         "name": "bnnbloomberg",
         "domain": "bnnbloomberg.ca",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-pence-plane-hits-bird-returns-to-new-hampshire-airport.md",
-      "title": "Pence plane hits bird, returns to New Hampshire airport",
-      "excerpt": "He was at start of flight home from campaign event. Plane returned to airport and he flew home on cargo aircraft Secret Service uses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
-      "originalUrl": "https://www.cbsnews.com/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 705,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/23/a290d198-67e1-43aa-8d38-5f967e170bdf/thumbnail/1200x630/ee45b81fdd3a0769085cb49de7791b29/2020-09-23t042910z-1656467161-rc244j9fc3ov-rtrmadp-3-usa-pence-airplane.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
-      "publishedDateTime": "2020-09-23T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -96,6 +96,22 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "With Covid-19 back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
+    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
+    publishedDateTime: 2020-10-12T19:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_9fc607c761d753facfb519992ffa2491.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "As Trump returns, West Wing becomes 'a ghost town'"
     excerpt: "When a White House official slams Trump as \"selfish\" for returning to a White House \"cesspool,\" there's clearly a problem."
     publishedDateTime: 2020-10-06T15:07:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
       - url: "https://www.dailypioneer.com/images/logo.jpg"
         width: 325
         height: 325
+        isCached: true
+  - title: "Kamala Harris Just Slammed the Senate GOP for “Reckless” Endangerment of Capitol Staff"
+    excerpt: "\"Senate Republicans have made it crystal clear that rushing a Supreme Court nomination is more important than helping and supporting the American people.\""
+    publishedDateTime: 2020-10-12T18:40:00Z
+    webUrl: "https://www.motherjones.com/politics/2020/10/kamala-harris-just-slammed-the-senate-gop-for-reckless-endangerment-of-capitol-staff/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 47
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/20200821_sha_z03_372.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "OiLG0ImS0o4kovwtYdewYL1vSg6mXbvj/RyhhSvdFa7pdOHk4BI4dt31otj3leZ/kCOpz3Ag0pg0RXzSxQP7L5NERPX0gfF0E4B1CWVIS8EQ2EgaYX4ExbNIgMVHKLLY9J9OoHVWQopvwfGif89+AhuMkoBeWVVTjN4yTgo41W8DI3wO6jgIvlFEM+i+3u2zQ5Pl1ArrVvAfk+XqEXNhyC3RaBWvx2UKvl31sCJIkw7XqWxsF0XlHa/KxEPeYHXGHHKCO0Loee3YmQXul94qF7fdG8XVKfE/joNka7trcHK3rwde8ZCb2zh0BzH/DK+skYKnnFR4BIA6JqNHubyMd7L/NNtXfgzOQwODOLM6L1xBhq21cYs0lT/8c/Qbj/eL2X7BQBa0MJ817CUjfSRb/TPbk5t+SYuHMpo17RWCtZRvY4TXjZzpUGcjvVbkTuulr6tGwOl3Vpm4CHEToUKcRNBzHZM3Kn2U9eO/74qxGYlUspSPYMPqj6lAFFo7AcwEk/j26EcV0HMrs4mwrVw8Yg==;UL3YFCX6rXOUiLf7j9zFcg=="

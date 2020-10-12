@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration gives notice to Congress on three planned arms sales to Taiwan"
+    excerpt: "The Trump administration has alerted Congress of its intent to move forward with three advanced weapons sales to Taiwan, a congressional aide and a source familiar told CNN Monday.\n    \n"
+    publishedDateTime: 2020-10-12T19:03:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uZT8RhCK_Fw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Trump's Covid-19 treatment is far different from what most American patients get"
     excerpt: "If you get sick with Covid-19, don't expect to get the same treatment as President Donald Trump.\n    \n"
     publishedDateTime: 2020-10-05T21:06:25Z
@@ -76,6 +92,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003122957-02-trump-doctors-presser-1003-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Judges across the country cast doubt on voter fraud claims pushed by Republicans and Trump campaign"
+    excerpt: "Judges across the country are rejecting arguments made by President Donald Trump's campaign and Republican leaders claiming voter fraud.\n    \n"
+    publishedDateTime: 2020-10-12T19:03:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l0mJxSrwpT8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/judges-reject-voter-fraud-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/judges-reject-voter-fraud-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200903142822-i-voted-stickers-0407-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

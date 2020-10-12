@@ -91,6 +91,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence to visit Grand Rapids Wednesday for campaign event"
+    excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."
+    publishedDateTime: 2020-10-12T19:40:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/10/mike-pence-visit-grand-rapids/5958341002/"
+    ampWebUrl: "https://amp.freep.com/amp/5958341002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5958341002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NLED/d3e83616-4fb2-42b8-9c36-e4846c6d0b23-AP20279737181110.jpg?auto=webp&crop=3956,2226,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/wxAFIhskhb1TGsykDFLpXO+o4nnC6umrn6PwxGgYYggKpqdTMZ5+DIG8+vX1jXnewtiaoKgkcwtdJzb4tLOv3dD6SRmdk9+/nVVSCUDUsBVYvGZ79sr0Ba0gVWHrmec1ZTj9raf1PSbnn0llgTTtZJlg99Vv/UIgZn5+Y6eGdktKp8QYektfXISHeOS4WhHfcOXNgf0Dl6q35/wZXS+URMwnDAEI7LwK6pzPmJkY7pJJO9SUHVQeHKlUz2kc0EfVLQfPvMbsToDFZahGwdnJwX142G7LYqRTTYBJFNmcMSO7Mg8eh7yBFU/ucLPlc6Xs4ZFFJ7pIAInrE5or6dYGiGzekV+N9/9gcANDm0m4VKWCfogxrlzaVRDZHvuPQe/d63aEqX00ZqO58JBlwlMxX5wt+HteRh5m4hD4t47iHymhRm+dLebdjahhGfsLAU7JrZ6Xgy8MJFDx8g+DJoEos34jsfa6ZmZRBGs10guU7owZrXCsC3iymzzp9vLdun/r+fi6NEd2g3cIUXgCHDxUA==;1fFj+zGri2uL05wSE5UrSw=="
 ---

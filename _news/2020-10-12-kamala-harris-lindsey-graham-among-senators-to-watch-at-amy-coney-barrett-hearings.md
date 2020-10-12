@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris blasts Senate GOP for ignoring coronavirus safety, relief"
+    excerpt: "Sen. Kamala Harris blasted Senate Republicans Monday for holding a confirmation hearing for Supreme Court nominee Amy Coney Barrett, saying they are ignoring the safety issues related to COVID-19."
+    publishedDateTime: 2020-10-12T19:06:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/11/supreme_court_barrett_senators_to_watch_21307_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings"
     excerpt: "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket."
     publishedDateTime: 2020-10-11T16:12:00Z

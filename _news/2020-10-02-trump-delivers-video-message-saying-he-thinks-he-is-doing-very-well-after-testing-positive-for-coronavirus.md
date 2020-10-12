@@ -1191,6 +1191,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ninth Circuit court rules Trump can’t divert military funds for border wall"
+    excerpt: "The 9th Circuit Court of Appeals on Friday ruled that President Donald Trump could not use emergency powers to divert $3.6 billion in military constructions to building the border wall, dealing another blow to the president’s signature 2016 campaign pledge."
+    publishedDateTime: 2020-10-12T19:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UKQP5mMFY2M/ninth-circuit-court-trump-cant-divert-military-funds-border-wall"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20277547402018.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump to hold first in-person event at White House since getting coronavirus"
     excerpt: "President Trump plans to hold his first in-person event at the White House on Saturday since getting coronavirus, Fox News has confirmed."
     publishedDateTime: 2020-10-09T19:49:44Z

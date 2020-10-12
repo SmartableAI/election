@@ -118,6 +118,20 @@ related:
         width: 5472
         height: 3648
         isCached: true
+  - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
+    excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
+    publishedDateTime: 2020-10-12T18:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/barrett-supreme-court-confirmation-hearing-senate/card/QzBbePoaL0i6R7TmzhyA"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 112
+    images:
+      - url: "https://images.wsj.net/im-243696?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
     excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
     publishedDateTime: 2020-10-11T22:42:00Z

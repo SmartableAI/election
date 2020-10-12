@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Vice President Mike Pence talks up Supreme Court nominee in Columbus stop"
+    excerpt: "Vice President Mike Pence denounced attacks on Judge Amy Coney Barrett's religion during a campaign sotp in Columbus on Monday."
+    publishedDateTime: 2020-10-12T19:13:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/12/vp-mike-pence-promotes-supreme-court-nominee-columbus-stop/5970066002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5970066002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5970066002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/NCOD/d608d6f5-7e4a-42d6-ad03-5b9f82063bce-pence_inside_ac_11.jpg?auto=webp&crop=3282,1846,x0,y418&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Want to Know What a Return to “Normal” Will Look Like? Stare Into Mike Pence’s Dead Eyes."
     excerpt: "Mike Pence spent the vice presidential debate lying, rule-breaking, and selling the Trump agenda, but he did so unburdened by Donald Trump’s chaotic personal behavior — and the political establishment on both sides of the aisle swooned."
     publishedDateTime: 2020-10-09T15:15:00Z

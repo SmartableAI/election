@@ -2,6 +2,61 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-20-clinton-superficially-hypocritical-for-trump-and-gop-to-fill-ginsburgs-seat.md",
+      "title": "Clinton: 'Superficially hypocritical' for Trump and GOP to fill Ginsburg's seat",
+      "excerpt": "Former President Bill Clinton says it is \"superficially hypocritical\" for President Donald Trump and Senate Republicans to push to put a new justice on the Supreme Court before the November election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tna5bAkblNE/bill-clinton-mcconnell-senate-ruth-bader-ginsburg-sotu-intv-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tna5bAkblNE/bill-clinton-mcconnell-senate-ruth-bader-ginsburg-sotu-intv-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200920101416-bill-clinton-sotu-2-09-20-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/20/bill-clinton-mcconnell-senate-ruth-bader-ginsburg-sotu-intv-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/20/bill-clinton-mcconnell-senate-ruth-bader-ginsburg-sotu-intv-vpx.cnn",
+      "publishedDateTime": "2020-09-20T07:36:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-trump-supporters-disrupt-early-voting-in-virginia.md",
       "title": "Trump Supporters Disrupt Early Voting in Virginia",
       "excerpt": "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
@@ -1604,62 +1659,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-13-peter-strzok-russians-have-leverage-over-donald-trump.md",
-      "title": "Peter Strzok: Russians have 'leverage over' Donald Trump",
-      "excerpt": "Former FBI Agent Peter Strzok, tells Chuck Todd that the president's known lies demonstrate his vulnerability to compromise, during an exclusive interview with Meet the Press.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/mtp_clip_strzokrussianleverage_200913_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo91636293633",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo91636293633",
-      "publishedDateTime": "2020-09-13T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Donald Trump"
       ]
     }
   ],

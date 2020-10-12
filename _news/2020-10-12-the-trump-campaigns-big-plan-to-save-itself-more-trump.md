@@ -251,6 +251,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Analysis: President Donald Trump defectors help Joe Biden build leads in Wisconsin and Michigan"
+    excerpt: "Trump so far is failing to retain the overwhelming advantage he enjoyed among white voters there in 2016, according to surveys from The New York Times and Siena College."
+    publishedDateTime: 2020-10-12T19:18:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-wisconsin-michigan-trump-biden-polls-20201012-owwvtkuusfa6dfcvvpzqgzvgl4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-wisconsin-michigan-trump-biden-polls-20201012-owwvtkuusfa6dfcvvpzqgzvgl4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-wisconsin-michigan-trump-biden-polls-20201012-owwvtkuusfa6dfcvvpzqgzvgl4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 138
+    images:
+      - url: "https://www.chicagotribune.com/resizer/i9rXDr7OLT42ueeJ85Gg8M3PlS4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6UZHGPTGFTSXJQAQBHPRLG4IOU.jpg"
+        width: 1200
+        height: 838
+        isCached: true
   - title: "Biden says he would reveal his view on expanding Supreme Court post-election"
     excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans will learn his position on increasing the number of justices on the U.S. Supreme Court if he defeats President Donald Trump in the Nov."
     publishedDateTime: 2020-10-08T20:40:00Z
@@ -1608,6 +1624,20 @@ related:
         width: 2048
         height: 1367
         isCached: true
+  - title: "Behind In Polls, Trump Launches Battleground State Swing"
+    excerpt: "President Donald Trump, trailing Democrat Joe Biden by double digits in the polls with the election just three weeks away, returns to the campaign trail on Monday after being hospitalized for coronavirus,"
+    publishedDateTime: 2020-10-12T19:38:00Z
+    webUrl: "https://www.ibtimes.com/behind-polls-trump-launches-battleground-state-swing-3060877"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
+        width: 1024
+        height: 651
+        isCached: true
   - title: "Behind In Polls, Trump Launches Swing State Blitz"
     excerpt: "President Donald Trump, trailing in the polls with the election just three weeks away, returns to the campaign trail on Monday after being hospitalized for Covid-19, embarking on a sprint through key swing states."
     publishedDateTime: 2020-10-12T17:09:00Z
@@ -1664,6 +1694,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "TFGJoHEJ+P9mwngiNse0ftoC9Pa2fHSpG9NaPT/XXBVtTR07E3a7KIPdCTVMuHRIy3Rw1BHfe2bA4xbSELlJbxvXTFmLlk7QFI9VYDe/LzkS2jcrbWB/HvuQGNnSgS65y+IpVx5bUfM+dulhPrAnL0eRHMYJsE3hpxKKLy+5gdXDd7L2d4xO/4XvFmcVjVSWt8QZjjm6GlxGqWJ2+lnJbY8nRHpKC7UI5UcYDeQArAhsIbN4RjyO3TBuUCZo040VLLJM7D5zEV7LO2vP2O6msq0mHrRa/C/5ENJfpjWM/pR3o739xmqagTv40ud9xRiNKnvOaeF4/zwo5ex6mii/hO+Jlqx6IKlhhdsdGGj28OQ=;Hw5rFbUhX3e+32YIGdYRiA=="
+secured: "r2c3beUN7dlRifehI07oJ7uWrWip3UAKq2F+tpIsaykv7CNZYCaszkdeTPAKJsbdgHIUazJLaOrn/oQHFZIAuO9vBGRW5n0cOvN4PenDXXeaaawt3aUJgE4x32i/bKidfA4TXdjVhKGizOsNZYwR7PUxUUJJax9+y/NCpNj/D6qFisUJtnBlA0mqfXQtvHOs1jnD06tL7a8w/fBDwl7DPLiqQGDdb13MTvkUBCb5mZRjpBaMPcqmbhD5wpE4nZSbCG7PNKdfR3Qw9Sbr7duaqHKR/KEPxl0EgySNnfU7+5MMRMFZeUut+2RWpzutcjHJ7p0PVMQeqv7d70/nKJgF/JPGWmzqx/8C4GhRcpQG9K9ZxEAQZ1dOn5quSOgOKHuI8kEFZua6c8kS7Ie8Jsmo+YpaEBBeRgpbGwwHPuryZzNWwV819qwhV0b+SX/lchmWgQ0SprqhOCjjYpBXVIcNGqkJ2jSTWh0M8oJSnJAOqjYHKvleqZK/ClsaBC3tGGa0+qS4R7QJdZON23tPdCokUQ==;bckxH+0Ftf+7btOJZXd/ow=="
 ---
 

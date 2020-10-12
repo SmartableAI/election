@@ -2,6 +2,206 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
+      "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
+      "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "originalUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/17/89268b77457c8792773636190c2c/gettyimages-1269389480-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "publishedDateTime": "2020-09-24T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-opinion-im-a-christian-veteran-texas-republican-and-i-support-joe-biden.md",
+      "title": "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden",
+      "excerpt": "I am casting my vote for Joe Biden because of, not in spite of, my beliefs and experiences as a veteran, a Christian, a conservative and a native rural Texan. In many ways, the president sits atop what sociologist Robert Bellah called our American “civil religion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/24/20/20005899/4/rawImage.jpg",
+          "width": 2048,
+          "height": 1501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-I-m-a-Christian-veteran-Texas-15592080.php",
+      "publishedDateTime": "2020-09-24T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence.md",
+      "title": "Kamala Harris Downplays Debate Skills as Buttigieg Stands In for Pence",
+      "excerpt": "Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent, despite her withering attacks on Democratic rivals in earlier presidential primary debates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881",
+      "originalUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1497882!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/pete-buttigieg-and-kamala-harris-photographers-martina-albertazzi-stefani-reynolds-bloomberg-photographer-martina-albertazzi-stefani-reynolds-bloomberg.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html",
+      "publishedDateTime": "2020-09-23T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-biden-urges-protests-be-peaceful-after-prosecutors-clear-police-of-criminal-charges-in-breonna-taylor-death.md",
+      "title": "Biden urges protests be peaceful after prosecutors clear police of criminal charges in Breonna Taylor death",
+      "excerpt": "U.S. Democratic presidential candidate Joe Biden urged that protests be peaceful after prosecutors on Wednesday cleared police officers of criminal charges in the death of Breonna Taylor, a Black medical worker killed in March in her Louisville,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
+      "originalUrl": "https://www.reuters.com/article/us-global-race-usa-louisville-biden-idUSKCN26E3LK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200923&t=2&i=1534678914&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8M2AH",
+          "width": 826,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN26E3LK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26E3LK",
+      "publishedDateTime": "2020-09-23T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-telemundo-anchor-refutes-misleading-video-posted-by-eric-trump.md",
       "title": "Telemundo anchor refutes misleading video posted by Eric Trump",
       "excerpt": "Privacy Policy “In one moment the monitor went to black,” Diaz-Balart recounted, and Biden said, “‘I lost the lady.’” | Noam Galai/ Telemundo anchor José Díaz-Balart on Wednesday refuted an allegation by one of President Donald Trump’s sons that Democratic presidential nominee Joe Biden relied on a teleprompter in a recent interview.",
@@ -1118,218 +1318,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-say-in-new-book.md",
-      "title": "Gorsuch, Kavanaugh 'didn't really tip' Supreme Court balance, Trump advisers say in new book",
-      "excerpt": "Because both Gorsuch and Kavanaugh replaced Republican-appointed justices, David Bossie and Cory Lewandowski say, a second Trump term in which he may have the chance to replace Democrat-appointed justices could be more impactful.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FEwMp4l55IQ/gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-book",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FEwMp4l55IQ/gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-book",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/33ad9880-1024-preview.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T06:07:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-and-mcconnells-marriage-of-convenience-seeks-its-ultimate-prize.md",
-      "title": "Trump and McConnell's marriage of convenience seeks its ultimate prize",
-      "excerpt": "No one would ever say that the political marriage between Senate Majority Leader Mitch McConnell and President Donald Trump is a match made in heaven. It's nothing like that, and nothing near love.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvyA3v_t9Ec/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SvyA3v_t9Ec/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191210122224-02-mcconnell-trump-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/23/politics/borger-analysis-trump-mcconnell-relationship/index.html",
-      "publishedDateTime": "2020-09-23T05:59:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away.md",
-      "title": "'Despacito' isn't good enough, Joe Biden. Latino voters are slipping away",
-      "excerpt": "Trump is actively courting Latino voters while Biden is out to lunch. Alarms should be ringing at Democratic headquarters",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/cbe4a05165ec651bf6c9390fe279b0c22cef8a59/0_0_4928_3280/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=165a458bd29e4ab844c30e210c888aca",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "publishedDateTime": "2020-09-23T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-time-100-anthony-fauci-donald-trump-megan-thee-stallion-michael-b-jordan-make-list-for-2020.md",
-      "title": "Time 100: Anthony Fauci, Donald Trump, Megan Thee Stallion, Michael B. Jordan make list for 2020",
-      "excerpt": "Dr. Anthony Fauci, President Donald Trump, actor and producer Michael B. Jordan and rapper Megan Thee Staillion have made this year's TIME 100 list.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/09/22/michael-b-jordan-jojo-siwa-time-100-list-influential-people/3496092001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2020/09/22/michael-b-jordan-jojo-siwa-time-100-list-influential-people/3496092001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/496a64d7-1f4b-455b-8bff-beef2a3889be-Fauci-time.jpeg?auto=webp&crop=767,432,x0,y102&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3496092001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3496092001",
-      "publishedDateTime": "2020-09-23T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

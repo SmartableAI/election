@@ -80,6 +80,22 @@ related:
         width: 700
         height: 489
         isCached: true
+  - title: "With Covid-19 back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
+    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
+    publishedDateTime: 2020-10-12T19:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_9fc607c761d753facfb519992ffa2491.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Trump tries to prove he's back in fighting form in freewheeling Fox Business interview"
     excerpt: "President Donald Trump returned to form on Thursday morning, engaging in a freewheeling, 55-minute interview on Fox Business in which he made bold claims about his health and coronavirus in general just days after announcing he had contracted the deadly disease."
     publishedDateTime: 2020-10-08T16:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-fast-confirm-amy-coney-barret
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Sen.20Harris.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Kamala Harris has technical difficulties signing in to Amy Coney Barrett confirmation hearing"
+    excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, had a tough time on Monday when she experienced technical issues while trying to remotely participate in Amy Coney Barrett’s Senate confirmation hearings."
+    publishedDateTime: 2020-10-12T19:24:00Z
+    webUrl: "https://www.foxnews.com/media/harris-tech-issues-barrett-hearing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 104
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6efa3b6e-e72c-4aed-b985-e65c63c2ae50/00a37f4e-77a3-4ef4-9fd9-d3c300d9e39b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "IEdpuVR5fdGFusvzm/p5HtKHLpwZgXPNyVaAqBBMckMEB5AtF2cBcvCl2c3usAGAtiObQwz4tT7SNnky5eTjoJhITpm9XaBLJbSOvmJo/vQ11gsbfsLk/CE9e4C/ctWMUb0YtF3+e2Rwato6i3TxPiYXcgNgQA8deyO4DFQbSQeGyrbTUEkA7n5YCS8xW6Vm/rQO+RFvB83F/0AtpSTbSoYP0Z6ItXeKC9jLvNXn0HpN+GLhqe3v5Pa8gb+WoLl9c6TA1LwClatpoes7I7yMubRxmoBiRw3pT6neukbgk3uP51Je7vsJeknDRnFKFxIL1dJO1gz/ULlPtgZjYjacMR7K6U5q8kln0Xei+a7kI8A=;ztfENxH6fT7eZJKHEm/61Q=="

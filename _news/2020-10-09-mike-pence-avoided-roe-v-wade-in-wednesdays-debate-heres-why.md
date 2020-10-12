@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoide
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.clickondetroit.com/resizer/iAJPnlcv37wvv43msq_VFZ1c3qY=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/CT43XHH5UJBRXMH63EKKNRK2JI.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Mike Pence to visit Grand Rapids Wednesday for campaign event"
+    excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."
+    publishedDateTime: 2020-10-12T19:40:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/10/mike-pence-visit-grand-rapids/5958341002/"
+    ampWebUrl: "https://amp.freep.com/amp/5958341002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5958341002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NLED/d3e83616-4fb2-42b8-9c36-e4846c6d0b23-AP20279737181110.jpg?auto=webp&crop=3956,2226,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence to visit Grand Rapids on Wednesday for campaign event"
     excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."

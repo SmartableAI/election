@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-new-poll-shows-joe-biden-ahead-in-michigan.md",
+      "title": "New poll shows Joe Biden ahead in Michigan",
+      "excerpt": "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201012184256-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201012184256-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07216706_1602528485.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
       "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
       "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
@@ -356,57 +407,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-cindy-mccain-praises-joe-biden-in-a-new-campaign-ad-calling-him-a-president-who-would-put-service-before-self.md",
-      "title": "Cindy McCain praises Joe Biden in a new campaign ad, calling him a president who would 'put service before self'",
-      "excerpt": "\"Joe will always fight for the American people, just like John did,\" Cindy McCain, wife of late Arizona Senator John McCain, said in the ad supporting Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10",
-      "originalUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f81ebbb642e9400180b52df?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp",
-      "publishedDateTime": "2020-10-10T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-the-hunt-for-michigans-lost-democrats-can-biden-lure-them-back.md",
       "title": "The hunt for Michigan's lost Democrats: Can Biden lure them back?",
       "excerpt": "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state.",
@@ -621,48 +621,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-taylor-swift-totally-belongs-with-joe-biden-in-late-show-spoof.md",
-      "title": "Taylor Swift Totally Belongs With Joe Biden in 'Late Show' Spoof",
-      "excerpt": "After offering up her first-ever presidential endorsement, Taylor Swift went a big step further and actually wrote a custom song about Democratic candidate Joe Biden. Okay, she didn't, but on Thursday night (Oct.",
-      "sourceUrl": null,
-      "webUrl": "https://www.billboard.com/articles/news/television/9463137/taylor-swift-you-belong-with-me-spoof-joe-biden-late-show/",
-      "originalUrl": "https://www.billboard.com/articles/news/television/9463137/taylor-swift-you-belong-with-me-spoof-joe-biden-late-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.billboard.com/files/2020/10/Taylor-Swift-jan-23-park-city-2020-billboard-1548-1602169134-1024x677.jpg",
-          "width": 1024,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Billboard",
-        "domain": "billboard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-live-updates-arizona-in-the-spotlight-as-mike-pence-joe-biden-and-kamala-harris-visit-thursday.md",
       "title": "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday",
       "excerpt": "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners.",
@@ -713,6 +671,57 @@
         "Joe Biden",
         "Mike Pence",
         "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-joe-biden-campaign-isnt-selling-im-speaking-shirts-but-heres-where-you-can-buy-them.md",
+      "title": "Joe Biden Campaign Isn’t Selling ‘I’m Speaking’ Shirts, But Here’s Where You Can Buy Them",
+      "excerpt": "T-shirts, coffee mugs, face masks, and other products were selling online after the Harris-Pence debate, capturing key phrases from the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881",
+      "originalUrl": "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1",
+      "publishedDateTime": "2020-10-08T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {

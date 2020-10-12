@@ -2055,6 +2055,22 @@ related:
         width: 334
         height: 206
         isCached: true
+  - title: "Trump, Biden Campaign Travels Show Expanded Battleground Map"
+    excerpt: "The campaign battleground map has expanded in this year’s presidential race. On Monday, Trump was headed to Florida for his first campaign event since contracting Covid-19, and Democratic nominee Joe Biden and Vice President Mike Pence were both in Ohio."
+    publishedDateTime: 2020-10-12T18:28:00Z
+    webUrl: "https://www.wsj.com/articles/trump-biden-campaign-travels-show-expanded-battleground-map-11602526847"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-biden-campaign-travels-show-expanded-battleground-map-11602526847"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-biden-campaign-travels-show-expanded-battleground-map-11602526847"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-243687/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"
     excerpt: "Vice presidential Democratic candidate Kamala Harris went after President Trump for not paying enough in taxes, and questioned who he might owe money to."
     publishedDateTime: 2020-10-08T15:27:00Z

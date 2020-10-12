@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronaviru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
 type: article
 quality: 187
-heat: 1967
+heat: 1987
 published: true
 
 provider:
@@ -1190,6 +1190,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3feda8a-9f09-4f04-8b12-362f78fe55a2/4dcd18cb-2e8e-4d06-9acb-92f7162bae8e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ninth Circuit court rules Trump can’t divert military funds for border wall"
+    excerpt: "The 9th Circuit Court of Appeals on Friday ruled that President Donald Trump could not use emergency powers to divert $3.6 billion in military constructions to building the border wall, dealing another blow to the president’s signature 2016 campaign pledge."
+    publishedDateTime: 2020-10-12T19:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UKQP5mMFY2M/ninth-circuit-court-trump-cant-divert-military-funds-border-wall"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20277547402018.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump to hold first in-person event at White House since getting coronavirus"
     excerpt: "President Trump plans to hold his first in-person event at the White House on Saturday since getting coronavirus, Fox News has confirmed."

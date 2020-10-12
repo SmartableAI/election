@@ -2,6 +2,219 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-columbus-day-trump-accuses-radical-activists-of-trying-to-undermine-explorers-legacy-in-holiday-proclamation.md",
+      "title": "Columbus Day: Trump accuses 'radical activists' of trying to undermine explorer's legacy in holiday proclamation",
+      "excerpt": "Trump used a typical White House holiday announcement to accuse \"radical activists\" of seeking to undercut Christopher Columbus' legacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/columbus-day-trump-says-radical-activists-attacking-legacy/5970125002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/columbus-day-trump-says-radical-activists-attacking-legacy/5970125002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/b1a48c71-0db5-472d-945f-c12c4f309ee1-GTY_1228998405.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5970125002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5970125002",
+      "publishedDateTime": "2020-10-12T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-ex-ohio-state-qb-cardale-jones-says-pence-rally-appearance-had-no-political-or-social-attachment.md",
+      "title": "Ex-Ohio State QB Cardale Jones says Pence rally appearance had 'no political or social attachment'",
+      "excerpt": "In tweets after the event, Jones said he declined to be interviewed at the event because he was there to support a local business, not endorse a political candidate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgX1C17DHlY/cardale-jones-pence-rally-appearance-ohio-state-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgX1C17DHlY/cardale-jones-pence-rally-appearance-ohio-state-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Cardale-Jones-Getty.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T12:30:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-new-poll-shows-joe-biden-ahead-in-michigan.md",
+      "title": "New poll shows Joe Biden ahead in Michigan",
+      "excerpt": "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20201012184256-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20201012184256-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07216706_1602528485.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-cruz-tells-dems-at-barrett-hearing-weve-heard-a-lot-of-attacks-on-trump-little-about-the-nominee.md",
+      "title": "Cruz tells Dems at Barrett hearing ‘we’ve heard a lot of attacks on Trump,' ‘little about the nominee’",
+      "excerpt": "Cruz spoke via video conference after voluntarily self-quarantining as a precaution.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQ2qTD0yU1M/cruz-tells-dems-at-barrett-hearing-weve-heard-attacks-trump-little-about-nominee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mQ2qTD0yU1M/cruz-tells-dems-at-barrett-hearing-weve-heard-attacks-trump-little-about-nominee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40ada8ce-1ec8-49cb-a3fc-e21ba6c8059f/46ebf39f-d429-47cb-a48c-a75da97d1607/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
       "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
       "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
@@ -50,6 +263,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-12-read-kamala-harris-remarks-at-the-supreme-court-confirmation-hearing.md",
+      "title": "Read: Kamala Harris' remarks at the Supreme Court confirmation hearing",
+      "excerpt": "Sen. Kamala Harris, the Democratic vice presidential nominee and a member of the Senate Judiciary Committee, spoke at the Supreme Court confirmation hearing of Amy Coney Barrett Monday remotely from her Senate office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201012131303-04-barrett-hearing-1012-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
+      "publishedDateTime": "2020-10-12T10:29:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -435,7 +704,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2335,
+      "heat": 2375,
       "tags": null,
       "images": [
         {
@@ -486,7 +755,7 @@
       "originalUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -653,7 +922,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -708,7 +977,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 635,
+      "heat": 675,
       "tags": null,
       "images": [
         {
@@ -858,61 +1127,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-12-how-jaime-harrisons-campaign-could-spend-57-million-before-election-day.md",
-      "title": "How Jaime Harrison's campaign could spend $57 million before Election Day",
-      "excerpt": "It's a question most workaday campaign consultants could only dream of: how to spend $57 million in South Carolina in the final three weeks before Election Day, with voting already underway.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xble_9ZqWnU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xble_9ZqWnU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200226171621-02-jaime-harrison-0120-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/politics/south-carolina-senate-race-jaime-harrison-money-lindsey-graham/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/south-carolina-senate-race-jaime-harrison-money-lindsey-graham/index.html",
-      "publishedDateTime": "2020-10-12T02:07:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-12-proud-boys-supporter-warns-of-civil-war-if-donald-trump-loses-election.md",
       "title": "Proud Boys Supporter Warns of 'Civil War' if Donald Trump Loses Election",
       "excerpt": "A video has emerged of a Proud Boys supporter warning that there will be a \"civil war\" if Donald Trump does not get re-elected in November and advises people to stock up on guns. The clip featuring the self-proclaimed supporter of the far-right group was posted online by actor and blogger Walter Masterson and took place during a Trump rally in Staten Island,",
@@ -921,7 +1135,7 @@
       "originalUrl": "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -1027,7 +1241,7 @@
       "originalUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
       "featuredContent": null,
       "highlight": null,
-      "heat": 535,
+      "heat": 555,
       "tags": null,
       "images": [
         {
@@ -1098,223 +1312,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-11T16:02:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-fauci-says-his-comments-in-new-trump-ad-were-taken-out-of-context-and-without-his-permission.md",
-      "title": "Fauci says his comments in new Trump ad 'were taken out of context' and without his permission",
-      "excerpt": "Dr. Anthony Fauci, the nation’s leading infectious disease expert, said comments of his in a recent commercial from President Trump’s campaign were used without his permission and “taken out of context.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5rPOq6qYwm4/fauci-comments-out-of-context",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5rPOq6qYwm4/fauci-comments-out-of-context",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ec5c54-5fac-46f6-b307-5b43cd4dc46c/d578bef7-c259-44b3-846c-7d0be3c01dcc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-11T15:54:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-tupacs-relative-says-the-trump-campaign-was-clearly-disrespectful-to-leave-a-ticket-for-the-late-rapper-at-vice-presidential-debate.md",
-      "title": "Tupac's relative says the Trump campaign was 'clearly disrespectful' to leave a ticket for the late rapper at vice presidential debate",
-      "excerpt": "The dig came after vice presidential nominee Kamala Harris said Tupac Shakur is the \"best rapper alive\" during a recent interview.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f837a70642e9400180b5410?width=1200&format=jpeg",
-          "width": 720,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10?amp",
-      "publishedDateTime": "2020-10-11T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-joe-biden-on-what-voters-deserve.md",
-      "title": "Joe Biden on What Voters ‘Deserve’",
-      "excerpt": "He says he’ll give his view on Supreme Court-packing after he’s elected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/joe-biden-on-what-voters-deserve-11602449046",
-      "originalUrl": "https://www.wsj.com/articles/joe-biden-on-what-voters-deserve-11602449046",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-243323/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/joe-biden-on-what-voters-deserve-11602449046",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-on-what-voters-deserve-11602449046",
-      "publishedDateTime": "2020-10-11T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.md",
-      "title": "Trump calls C-SPAN's Scully 'a fraud,' mocks claims that Twitter account was hacked",
-      "excerpt": "President Trump on Sunday lambasted C-SPAN political editor Steve Scully over claims that his Twitter account was hacked.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4d52599-b966-4bf1-85d7-cb77a41ad33b/15422c29-d504-46cc-b568-fd89117f76a0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
-      "publishedDateTime": "2020-10-11T12:54:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

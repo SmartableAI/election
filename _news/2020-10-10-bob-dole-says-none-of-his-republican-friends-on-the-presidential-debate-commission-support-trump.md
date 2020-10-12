@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Report: Some People Thinking a Drug-Addled Maniac (Donald Trump) Shouldn’t Be in Charge of the Nuclear Codes"
+    excerpt: "The New York Times reports that while some national security experts have long argued that the POTUS should not have “the unchecked authority” to launch nuclear weapons, Trump’s long rants—described by one doctor as “steroid-induced psychosis”—and wildly erratic behavior since he was put on experimental medications after testing positive for COVID-19 have underscored the danger of giving a total lunatic the power to nuke another country."
+    publishedDateTime: 2020-10-12T18:46:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 56
+    images:
+      - url: "https://media.vanityfair.com/photos/5f71fc761974fdefdd159dfd/master/pass/trump-tik-tok.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Trump Gathers Supporters At White House, Plans More Rallies"
     excerpt: "US President Donald Trump was readying to host hundreds of partisans at the White House on Saturday, in hopes of relaunching his struggling campaign less than four weeks from Election Day. Trump has declared he is feeling \"really good\" -- but doubts linger over his health,"
     publishedDateTime: 2020-10-10T18:46:00Z

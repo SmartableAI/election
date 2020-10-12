@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vi
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442"
 type: article
 quality: 120
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.investopedia.com/thmb/aF-pBxgRB3LgjRb5NvOzwmdKvsM=/1024x683/filters:fill(auto,1)/GettyImages-468209888-578a33593df78c09e9b807fd.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Vice President Mike Pence talks up Supreme Court nominee in Columbus stop"
+    excerpt: "Vice President Mike Pence denounced attacks on Judge Amy Coney Barrett's religion during a campaign sotp in Columbus on Monday."
+    publishedDateTime: 2020-10-12T19:13:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/12/vp-mike-pence-promotes-supreme-court-nominee-columbus-stop/5970066002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5970066002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5970066002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 74
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/NCOD/d608d6f5-7e4a-42d6-ad03-5b9f82063bce-pence_inside_ac_11.jpg?auto=webp&crop=3282,1846,x0,y418&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Vice President Mike Pence and his wife had requested absentee ballots by mail"
     excerpt: "IndyStar has learned Vice President Mike Pence and his wife, Karen Pence, in September requested absentee ballots from Marion County."

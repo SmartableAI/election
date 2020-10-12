@@ -63,6 +63,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration gives notice to Congress on three planned arms sales to Taiwan"
+    excerpt: "The Trump administration has alerted Congress of its intent to move forward with three advanced weapons sales to Taiwan, a congressional aide and a source familiar told CNN Monday.\n    \n"
+    publishedDateTime: 2020-10-12T19:03:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uZT8RhCK_Fw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Judges across the country cast doubt on voter fraud claims pushed by Republicans and Trump campaign"
+    excerpt: "Judges across the country are rejecting arguments made by President Donald Trump's campaign and Republican leaders claiming voter fraud.\n    \n"
+    publishedDateTime: 2020-10-12T19:03:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l0mJxSrwpT8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/judges-reject-voter-fraud-claims/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/judges-reject-voter-fraud-claims/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200903142822-i-voted-stickers-0407-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'I'll go in a moon suit': GOP senator who tested positive for Covid vows to vote for Trump's SCOTUS pick"
     excerpt: "Sen. Ron Johnson, a Wisconsin Republican who recently tested positive for Covid-19, said on Monday that he will do everything he can to vote for President Donald Trump's Supreme Court nominee, Amy Coney Barrett, even if he has to wear a \"moon suit\" to do it.\n    \n"
     publishedDateTime: 2020-10-05T22:22:48Z

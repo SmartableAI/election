@@ -24,6 +24,22 @@ topics:
   - Democratic Voice
 
 related:
+  - title: "Read: Kamala Harris' remarks at the Supreme Court confirmation hearing"
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee and a member of the Senate Judiciary Committee, spoke at the Supreme Court confirmation hearing of Amy Coney Barrett Monday remotely from her Senate office.\n    \n"
+    publishedDateTime: 2020-10-12T17:29:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012131303-04-barrett-hearing-1012-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Jaime Harrison's campaign could spend $57 million before Election Day"
     excerpt: "It's a question most workaday campaign consultants could only dream of: how to spend $57 million in South Carolina in the final three weeks before Election Day, with voting already underway.\n    \n"
     publishedDateTime: 2020-10-12T09:07:03Z
@@ -37,22 +53,6 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200226171621-02-jaime-harrison-0120-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Democrat Jaime Harrison shatters Senate fundraising record in bid to oust South Carolina Sen. Lindsey Graham"
-    excerpt: "Democratic Senate candidate Jaime Harrison, running to unseat Sen. Lindsey Graham in South Carolina, raised $57 million during the final full quarter of the campaign, shattering Senate fundraising records as his party seeks to wrest control of the chamber from Republicans.\n    \n"
-    publishedDateTime: 2020-10-11T21:26:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MiwLVv6R4KI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/jaime-harrison-fundraising-record-south-carolina-senate-race/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/jaime-harrison-fundraising-record-south-carolina-senate-race/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 141
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729231458-jaime-harrison-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

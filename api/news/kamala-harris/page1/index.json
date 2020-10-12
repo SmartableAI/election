@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-read-kamala-harris-remarks-at-the-supreme-court-confirmation-hearing.md",
+      "title": "Read: Kamala Harris' remarks at the Supreme Court confirmation hearing",
+      "excerpt": "Sen. Kamala Harris, the Democratic vice presidential nominee and a member of the Senate Judiciary Committee, spoke at the Supreme Court confirmation hearing of Amy Coney Barrett Monday remotely from her Senate office.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201012131303-04-barrett-hearing-1012-screengrab-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
+      "publishedDateTime": "2020-10-12T10:29:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-kamala-harris-bernie-sanders-urge-stimulus-bill-focus-over-amy-coney-barrett-hearings.md",
       "title": "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings",
       "excerpt": "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination.",
@@ -10,7 +66,7 @@
       "originalUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -197,7 +253,7 @@
       "originalUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -413,7 +469,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3788,
+      "heat": 3808,
       "tags": null,
       "images": [
         {
@@ -470,7 +526,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 352,
+      "heat": 372,
       "tags": null,
       "images": [
         {

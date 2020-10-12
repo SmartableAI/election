@@ -2,6 +2,222 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-09-philadelphia-judge-rejects-trumps-poll-watcher-lawsuit.md",
+      "title": "Philadelphia judge rejects Trump's poll-watcher lawsuit ",
+      "excerpt": "A local judge on Friday rejected an effort by the Trump campaign to send poll watchers to voting sites in Philadelphia, ruling that the campaign's attempted poll-watching isn't allowed under state law.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r76RHv5YJsU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201009003625-voto-anticipado-elecciones-estados-unidos-encuesta-analisis-seg-pkg-michael-roa-00000311-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html",
+      "publishedDateTime": "2020-10-09T11:32:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-chicago-mayor-blames-trump-for-plot-against-michigan-gov-whitmer.md",
+      "title": "Chicago mayor blames Trump for plot against Michigan Gov. Whitmer",
+      "excerpt": "Chicago Mayor Lori Lightfoot is the latest public figure to pile on President Trump for a foiled plot to kidnap Michigan Gov. Gretchen Whitmer.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
+      "publishedDateTime": "2020-10-09T10:48:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-twitters-new-rules-try-to-prevent-electionand-trump-relatedchaos.md",
+      "title": "Twitter’s New Rules Try To Prevent Election—And Trump-Related—Chaos",
+      "excerpt": "The social media network announced a slew of new rules ahead of the election making it harder to spread misinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
+      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f809c2cde5f721bca837434%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/",
+      "publishedDateTime": "2020-10-09T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-mcenany-slams-pelosis-push-to-remove-trump-on-25th-amendment.md",
+      "title": "McEnany slams Pelosi's push to remove Trump on 25th Amendment",
+      "excerpt": "House Speaker Nancy Pelosi is \"projecting\" when it comes to talk of removing President Trump due to his health, White House press secretary Kayleigh McEnany told \"Fox & Friends\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5bdycyAy0/pelosi-trump-25th-amendment-white-house-congress-kayleigh-mcenany",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5bdycyAy0/pelosi-trump-25th-amendment-white-house-congress-kayleigh-mcenany",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e1ae883-5f3a-4ee1-a040-836ff1fc032e/562323ac-48aa-4952-9692-711b5c004789/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T08:48:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.md",
       "title": "Fans want Jeff Goldblum to play ‘the fly’ on Mike Pence’s head on ‘SNL’",
       "excerpt": "Senator Kamala Harris and Vice President Mike Pence’s vice presidential debate was broken up into nine segments with topics ranging from the Covid-19 pandemic to climate change to the economy. Though,",
@@ -258,48 +474,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-taylor-swift-totally-belongs-with-joe-biden-in-late-show-spoof.md",
-      "title": "Taylor Swift Totally Belongs With Joe Biden in 'Late Show' Spoof",
-      "excerpt": "After offering up her first-ever presidential endorsement, Taylor Swift went a big step further and actually wrote a custom song about Democratic candidate Joe Biden. Okay, she didn't, but on Thursday night (Oct.",
-      "sourceUrl": null,
-      "webUrl": "https://www.billboard.com/articles/news/television/9463137/taylor-swift-you-belong-with-me-spoof-joe-biden-late-show/",
-      "originalUrl": "https://www.billboard.com/articles/news/television/9463137/taylor-swift-you-belong-with-me-spoof-joe-biden-late-show/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.billboard.com/files/2020/10/Taylor-Swift-jan-23-park-city-2020-billboard-1548-1602169134-1024x677.jpg",
-          "width": 1024,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Billboard",
-        "domain": "billboard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-on-economic-aid-trump-seems-to-realize-he-messed-up-tactically.md",
       "title": "On economic aid, Trump seems to realize he 'messed up tactically'",
       "excerpt": "It dawned on the oft-confused president that sabotaging himself in the final four weeks of re-election campaign wasn't such a good idea.",
@@ -415,7 +589,7 @@
       "originalUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -894,7 +1068,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1098,94 +1272,37 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-pence-does-his-best-but-harris-wont-let-him-explain-away-trumps-failures.md",
-      "title": "Pence does his best but Harris won't let him explain away Trump's failures",
-      "excerpt": "Vice President Mike Pence tried his best on Wednesday to recast the reality of Donald Trump's presidency, but Sen. Kamala Harris, the Democratic pick for his job, refused to let him spin away the nation's current dire plight during their single debate.\n    \n",
+      "path": "_news/2020-10-08-joe-biden-campaign-isnt-selling-im-speaking-shirts-but-heres-where-you-can-buy-them.md",
+      "title": "Joe Biden Campaign Isn’t Selling ‘I’m Speaking’ Shirts, But Here’s Where You Can Buy Them",
+      "excerpt": "T-shirts, coffee mugs, face masks, and other products were selling online after the Harris-Pence debate, capturing key phrases from the event.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/125OZAHasvQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/125OZAHasvQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 2143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201007211332-split-vp-debate-harris-pence-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html",
-      "publishedDateTime": "2020-10-08T04:09:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-kanye-west-tweets-video-with-vote-kanye-hat-on-kamala-harris-head-during-vp-debate.md",
-      "title": "Kanye West Tweets Video With 'Vote Kanye' Hat on Kamala Harris' Head During VP Debate",
-      "excerpt": "Kanye West's name will appear on ballots in 11 states, but people have wondered whether his presidential campaign is sincere, a spoiler attempt or just a publicity stunt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319",
-      "originalUrl": "https://www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319",
+      "webUrl": "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881",
+      "originalUrl": "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1647776/vote-kanye-west-hat-kamala-harris-tweet.jpg",
-          "width": 3000,
-          "height": 1935,
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319?amp=1",
-      "publishedDateTime": "2020-10-07T23:11:00-07:00",
+      "ampWebUrl": "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1",
+      "publishedDateTime": "2020-10-08T07:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1202,115 +1319,7 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.md",
-      "title": "Vice presidential debate: Both Trump, Biden campaign claim victory after Pence, Harris showdown",
-      "excerpt": "Both the Trump campaign and the Biden campaign claimed victory after Wednesday night’s vice presidential debate—with team Trump touting Vice President Pence, saying he is “ready to lead,” and team Biden praising Sen. Kamala Harris for making a “forceful case” for a Biden presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 3788,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "publishedDateTime": "2020-10-07T22:43:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-former-cia-director-accuses-mike-pence-of-lying-about-hillary-clinton-and-russia-during-vp-debate.md",
-      "title": "Former CIA Director Accuses Mike Pence of Lying About Hillary Clinton and Russia During VP Debate",
-      "excerpt": "Vice President Mike Pence \"lied about handwritten notes of mine from 2016 that referenced unsubstantiated Russian allegation about Secretary Clinton\" during his debate with Senator Kamala Harris, former CIA Director John Brennan tweeted on Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
-      "originalUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1647769/vice-president-mike-pence.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
-      "publishedDateTime": "2020-10-07T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
+        "Joe Biden"
       ]
     }
   ],

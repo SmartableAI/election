@@ -2061,6 +2061,22 @@ related:
         width: 334
         height: 206
         isCached: true
+  - title: "Trump, Biden Campaign Travels Show Expanded Battleground Map"
+    excerpt: "The campaign battleground map has expanded in this year’s presidential race. On Monday, Trump was headed to Florida for his first campaign event since contracting Covid-19, and Democratic nominee Joe Biden and Vice President Mike Pence were both in Ohio."
+    publishedDateTime: 2020-10-12T18:28:00Z
+    webUrl: "https://www.wsj.com/articles/trump-biden-campaign-travels-show-expanded-battleground-map-11602526847"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-biden-campaign-travels-show-expanded-battleground-map-11602526847"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-biden-campaign-travels-show-expanded-battleground-map-11602526847"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-243687/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
     excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media, following her recent debate against Vice President Mike Pence. "
     publishedDateTime: 2020-10-11T22:26:22Z

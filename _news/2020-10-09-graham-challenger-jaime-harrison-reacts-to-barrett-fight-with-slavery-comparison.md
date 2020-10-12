@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
+    excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
+    publishedDateTime: 2020-10-12T18:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/barrett-supreme-court-confirmation-hearing-senate/card/QzBbePoaL0i6R7TmzhyA"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 112
+    images:
+      - url: "https://images.wsj.net/im-243696?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
     excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."
     publishedDateTime: 2020-10-11T17:42:00Z

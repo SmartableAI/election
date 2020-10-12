@@ -2,6 +2,205 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-09-18-report-scott-walker-helping-mike-pence-in-debate-preparations.md",
+      "title": "Report: Scott Walker helping Mike Pence in debate preparations",
+      "excerpt": "The Washington Post reported Walker is \"serving as Pence’s foil in practice sessions, effectively playing the role\" of U.S. Sen. Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
+      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/17/report-scott-walker-helping-mike-pence-debate-preparations/3483494001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2018/10/10/PMJS/9f6ffce1-1653-4500-985a-f2c457d22e95-AP_Election_2018_Wisconsin_Pence-1.jpg?auto=webp&crop=3599,2024,x1,y6&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/3483494001",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3483494001",
+      "publishedDateTime": "2020-09-17T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday.md",
+      "title": "CNN to host first 'drive-in town hall' with Biden on Thursday",
+      "excerpt": "CNN says it will host a \"drive-in town hall\" with Democratic presidential nominee Joe Biden on Thursday night, which the network calls \"the latest adaptation to campaigning during the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
+      "originalUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe4_08312020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/516926-cnn-to-host-first-drive-in-town-hall-with-biden-on-thursday?amp",
+      "publishedDateTime": "2020-09-17T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-it-felt-like-tentacles-the-women-who-accuse-trump-of-sexual-misconduct.md",
+      "title": "'It felt like tentacles': the women who accuse Trump of sexual misconduct",
+      "excerpt": "I feel sick, violated': former model alleges sexual assault by Donald Trump – video She accused Trump of forcing his tongue down her throat, touching her all over her body and holding her in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/sep/17/amy-dorris-donald-trump-women-who-accuse-sexual-misconduct",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/sep/17/amy-dorris-donald-trump-women-who-accuse-sexual-misconduct",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/573aa78e80dcccb18c5f26e9046e5f983a5d9423/0_467_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d686d72005ee5256088708c38e3ec04",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-17-gop-growing-more-indifferent-with-trump-controversies-as-election-nears.md",
+      "title": "GOP growing more indifferent with Trump controversies as election nears",
+      "excerpt": "Public health experts reacted with alarm after President Donald Trump held an indoor rally with thousands of maskless supporters at a packed arena in Nevada amid the deadly coronavirus pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4ivwB5NZEUQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4ivwB5NZEUQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 2310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518124535-02-sen-josh-hawley-0512-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/17/politics/republican-reaction-trump-controversies/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/17/politics/republican-reaction-trump-controversies/index.html",
+      "publishedDateTime": "2020-09-17T05:48:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-mike-pence-florida-and-arizona-are-must-win-states-for-november.md",
       "title": "Mike Pence: Florida and Arizona are “Must Win” States for November",
       "excerpt": "The battleground states of Florida, Arizona, Pennsylvania and Michigan indicate a tight race for the presidency, as Biden leads by less than five percent in all three states on Wednesday.",
@@ -1088,219 +1287,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-joe-biden-says-us-is-facing-one-of-the-most-difficult-moments-in-our-history.md",
-      "title": "Joe Biden says US is facing 'one of the most difficult moments in our history' ",
-      "excerpt": "Democratic presidential nominee Joe Biden said Monday that the United States is facing one of the most difficult moments in the nation's history, with \"four historic crises all at the same time.\" \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6u9_WTQsBS4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6u9_WTQsBS4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200914134408-01-biden-climate-change-0914-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/joe-biden-wildfires-climate-crisis/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/joe-biden-wildfires-climate-crisis/index.html",
-      "publishedDateTime": "2020-09-14T12:19:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week.md",
-      "title": "GOP chairman to release interim report on Biden probe 'in about a week'",
-      "excerpt": "Senate Homeland Security Chairman Ron Johnson (R-Wis.) said on Monday that he will soon release an interim report from his months-long probe involving the Obama administration and Hunter Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week",
-      "originalUrl": "https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/johnsonron_072120gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/516325-gop-chairman-to-release-interim-report-on-biden-probe-in-about-a-week?amp",
-      "publishedDateTime": "2020-09-14T11:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.md",
-      "title": "Pence cancels a plan to attend a fund-raiser hosted by QAnon supporters.",
-      "excerpt": "Vice President Mike Pence has called off plans to attend a fund-raiser in Bozeman, Mont., on Monday evening hosted by a couple who have shown support for QAnon, the convoluted conspiracy theory built around the notion of a deep-state cabal of Satan-worshiping pedophiles and their powerful Democratic backers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/14/us/14live-pence/14live-pence-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.amp.html",
-      "publishedDateTime": "2020-09-14T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win.md",
-      "title": "In her three elections, Kamala Harris has learned to adapt — and win",
-      "excerpt": "Electoral innovation has consequences, and Kamala Harris has adapted three times to different ways of winning elections.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
-      "originalUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/harriskamala_08122020_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
-      "publishedDateTime": "2020-09-14T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -2,6 +2,224 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-06-minneapolis-restaurant-quarantines-13-who-worked-trump-event.md",
+      "title": "Minneapolis restaurant quarantines 13 who worked Trump event",
+      "excerpt": "Thirteen staff members from an iconic Minneapolis steakhouse are quarantining after the restaurant catered a fundraiser attended by President Donald Trump during his visit to Minnesota last week",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_fb2a9678ab914eb7a099cddf1c34340f_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803",
+      "publishedDateTime": "2020-10-05T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-disgusting-joe-biden-tells-his-tens-of-followers-about-his-trump-death-blow-fantasy.md",
+      "title": "'Disgusting': Joe Biden Tells His Tens of Followers About His Trump 'Death Blow' Fantasy",
+      "excerpt": "Joe Biden’s campaign said they would pull negative ads upon news that President Trump had tested positive for coronavirus and was being admitted to Walter Reed Medical Center. I mean,",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511",
+      "originalUrl": "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true",
+      "publishedDateTime": "2020-10-05T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-eric-trump-scheduled-to-sit-for-deposition-monday-in-new-york-attorney-general-investigation.md",
+      "title": "Eric Trump scheduled to sit for deposition Monday in New York attorney general investigation",
+      "excerpt": "Eric Trump, who runs day-to-day operations of the family real estate empire, is scheduled to sit for a deposition on Monday as part of the New York attorney general's investigation into whether the Trump Organization improperly inflated the value of its assets to obtain loans or tax benefits.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201005114222-eric-trump-2019-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html",
+      "publishedDateTime": "2020-10-05T09:30:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-05-joe-biden-enlists-artists-like-ludacris-dupri-jeezy-and-monica-for-voting-ads-in-battleground-states.md",
+      "title": "Joe Biden enlists artists like Ludacris, Dupri, Jeezy and Monica for voting ads in battleground states",
+      "excerpt": "Joe Biden has tapped popular music artists like Ludacris, Monica, Jermaine Dupri and Jeezy to encourage Black citizens in battleground states to vote in the upcoming presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states",
+      "originalUrl": "https://www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/ludacris-reuters.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/joe-biden-ludcaris-jeezy-monica-dupri-battleground-states.amp",
+      "publishedDateTime": "2020-10-05T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-who-is-dr-sean-conley-president-trumps-physician.md",
       "title": "Who is Dr. Sean Conley, President Trump's physician?",
       "excerpt": "Conley, an officer in the U.S. Navy, earned his B.S. from the University of Notre Dame in 2002, according to his LinkedIn. He earned his D.O. from the Philadelphia College of Osteopathic Medicine and is an experienced emergency physician.",
@@ -1119,218 +1337,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-operation-maga-trump-campaign-to-resume-in-person-events-with-pence-ariz-trip-as-president-battles-covid-19.md",
-      "title": "'Operation MAGA': Trump campaign to resume in-person events with Pence Ariz. trip as president battles COVID-19",
-      "excerpt": "The trip will begin what the campaign is calling \"Operation MAGA\" – a return of in-person campaign events led by top surrogates as Trump is sidelined.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3608249001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608249001",
-      "publishedDateTime": "2020-10-03T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit.md",
-      "title": "Joe Biden says it's 'appalling' not to wear a mask on public transit",
-      "excerpt": "Former Vice President Joe Biden touted mask-wearing as a form of patriotism on Saturday, criticizing the administration for not doing more to advance the practice during the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZBgh1JRF738/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZBgh1JRF738/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a5d502f3-1f3c-47a2-8460-3b1dbe38279d/ad85a4a8-8e99-49c2-9067-fe4c757529a1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit.amp",
-      "publishedDateTime": "2020-10-03T15:45:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-advisers-made-last-minute-push-to-get-reluctant-trump-to-walter-reed.md",
-      "title": "Advisers made last-minute push to get reluctant Trump to Walter Reed",
-      "excerpt": "Marine One was idling on the South Lawn Friday as President Donald Trump's advisers were inside the White House making a last-minute push to get him to board the helicopter.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z3m0YPCtKZ4/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z3m0YPCtKZ4/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 695,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201003084500-07-trump-walter-reed-arrival-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html",
-      "publishedDateTime": "2020-10-03T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-an-unusual-patient-an-unusual-treatment-trump-and-the-risks-of-vip-syndrome.md",
-      "title": "An unusual patient, an unusual treatment: Trump and the risks of 'VIP syndrome'",
-      "excerpt": "\"When a patient is high profile, there's a temptation to break away from the standard medical care that you would give to any other patient -- and sometimes to the disadvantage to the patient, the VIP,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "originalUrl": "https://abcnews.go.com/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/walter-reed-presser-2-ap-rc-201003_1601740315570_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/unusual-patient-unusual-treatment-trump-risks-vip-syndrome/story?id=73406944",
-      "publishedDateTime": "2020-10-03T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

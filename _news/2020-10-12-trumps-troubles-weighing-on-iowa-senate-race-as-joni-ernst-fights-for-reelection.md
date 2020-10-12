@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-er
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-ernst/index.html"
 type: article
 quality: 185
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 130
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_32a16910e24a32b24dab5713ac1d1f2e.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "With Covid-19 back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
+    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
+    publishedDateTime: 2020-10-12T19:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_9fc607c761d753facfb519992ffa2491.jpg"
         width: 2500
         height: 1666
         isCached: true

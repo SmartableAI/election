@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-cour
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
 type: article
 quality: 172
-heat: 352
+heat: 372
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
         width: 5472
         height: 3648
+        isCached: true
+  - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
+    excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
+    publishedDateTime: 2020-10-12T18:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/barrett-supreme-court-confirmation-hearing-senate/card/QzBbePoaL0i6R7TmzhyA"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 112
+    images:
+      - url: "https://images.wsj.net/im-243696?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
     excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."

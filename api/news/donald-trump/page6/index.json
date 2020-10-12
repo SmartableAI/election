@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-24-president-trump-wont-destroy-social-securitybut-hes-not-going-to-save-it.md",
+      "title": "President Trump Won’t Destroy Social Security—But He’s Not Going To Save It",
+      "excerpt": "The Biden campaign claims the President Trump is cutting Social Security, and that if he gets his way, benefits could run out in “just three years.” While that claim is not true, the Trump administration has done next to nothing to fix Social Security’s long-term funding problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/",
+      "originalUrl": "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6bb199ea310c40d1f6baee%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/09/24/president-trump-social-security/amp/",
+      "publishedDateTime": "2020-09-24T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
       "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
       "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
@@ -1492,57 +1543,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions.md",
-      "title": "Trump Administration Labels NYC, Portland And Seattle ‘Anarchist Jurisdictions’",
-      "excerpt": "Earlier this month, Trump issued a memo that threatened to yank federal funding for \"anarchist jurisdictions\" the administration finds \"disempowers or defunds police departments” — though it’s not clear what funds are going to be cut.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f68bc4538ccf849f9ba6df5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5545%26cropY1%3D0%26cropY2%3D3119",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/amp/",
-      "publishedDateTime": "2020-09-21T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -127,6 +127,22 @@ related:
         width: 830
         height: 545
         isCached: true
+  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
+    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
+    publishedDateTime: 2020-10-12T19:05:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN26X0GH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26X0GH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26X0GH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537092866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B08V"
+        width: 861
+        height: 545
+        isCached: true
   - title: "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election"
     excerpt: "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child."
     publishedDateTime: 2020-10-07T10:18:00Z

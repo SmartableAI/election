@@ -189,6 +189,20 @@ related:
         width: 325
         height: 325
         isCached: true
+  - title: "Kamala Harris Just Slammed the Senate GOP for “Reckless” Endangerment of Capitol Staff"
+    excerpt: "\"Senate Republicans have made it crystal clear that rushing a Supreme Court nomination is more important than helping and supporting the American people.\""
+    publishedDateTime: 2020-10-12T18:40:00Z
+    webUrl: "https://www.motherjones.com/politics/2020/10/kamala-harris-just-slammed-the-senate-gop-for-reckless-endangerment-of-capitol-staff/"
+    type: article
+    provider:
+      name: Mother Jones
+      domain: motherjones.com
+    quality: 47
+    images:
+      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/20200821_sha_z03_372.jpg?w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wmdfovOCX370UbHX2AAXS2u90O4LBaxhUISdTnbvlQzTxAVovv7nTU9TH6iK401oBvlKUqyrmHAmv91gPkdB89yLID1MaJzNM+cu6Zya7A1K0tvaDZSpp1isRm8VPljI7ZEY5A0qcEL7kYYgqIUShpY6VzJlxgGdfCW7gVZr/hVYb3nO/odKvVsTubwi6mpcJZb5D7MSzaqxCesv5qG5D5e7SdWejaFUs8GT44b9dpmMPP6lRQOI6ecDsXL36NQFuq1hAwk7yQzx7gVmnEn7N7K22zXhk1M+OSaXQsPeGZQeVPWU8pIHNysBB+Ia1aY2Uwz5+c2zWiviF5cpg8i13qKMlIW+a2XFxGQ86LGqBrw=;AW6Z+kVzprr3Wp5vUVdj4g=="
 ---

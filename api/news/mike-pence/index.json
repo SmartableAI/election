@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-ex-ohio-state-qb-cardale-jones-says-pence-rally-appearance-had-no-political-or-social-attachment.md",
+      "title": "Ex-Ohio State QB Cardale Jones says Pence rally appearance had 'no political or social attachment'",
+      "excerpt": "In tweets after the event, Jones said he declined to be interviewed at the event because he was there to support a local business, not endorse a political candidate.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgX1C17DHlY/cardale-jones-pence-rally-appearance-ohio-state-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sgX1C17DHlY/cardale-jones-pence-rally-appearance-ohio-state-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/02/Cardale-Jones-Getty.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T12:30:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-saturday-night-live-jim-carrey-mike-pence-and-a-very-pesky-fly.md",
       "title": "Saturday Night Live: Jim Carrey, Mike Pence and a very pesky fly",
       "excerpt": "Low-energy sketch skewers vice-presidential debate and comic Bill Burr hosts for the first time",
@@ -651,7 +707,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -814,7 +870,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3788,
+      "heat": 3808,
       "tags": null,
       "images": [
         {
@@ -1405,7 +1461,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/mike-pence-republican-nominee-vice-president/story?id=72852442",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -1552,62 +1608,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-pence-preps-for-debate-as-chances-to-shake-up-the-race-dwindle.md",
-      "title": "Pence preps for debate as chances to shake up the race dwindle",
-      "excerpt": "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
-      "publishedDateTime": "2020-10-06T18:33:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

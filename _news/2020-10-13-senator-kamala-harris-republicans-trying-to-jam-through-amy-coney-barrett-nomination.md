@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Kamala Harris blasts Senate GOP for ignoring coronavirus safety, relief"
+    excerpt: "Sen. Kamala Harris blasted Senate Republicans Monday for holding a confirmation hearing for Supreme Court nominee Amy Coney Barrett, saying they are ignoring the safety issues related to COVID-19."
+    publishedDateTime: 2020-10-12T19:06:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/11/supreme_court_barrett_senators_to_watch_21307_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings"
     excerpt: "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket."
     publishedDateTime: 2020-10-11T16:12:00Z
@@ -78,6 +94,6 @@ related:
         height: 422
         isCached: true
 
-secured: "hrpyEzRvK11DWv48TtRCyNsPsNE5cQK259kwVIxrA1SJ31yxlVcGHZyxxKkNkvCzVVuDT803BqlCEo9Sr2V864cdHlRyRxyaC2jDrcpDB8DfOMNEmXVX2Ge1Pbfc9o6a6xYggMgfDRysoyGtgrBsBNrEHVmwBinHNxTmWOBtHCn27ewHLYm8wGzIrFM793yPn4tFtkuThIsVvJdAP8Vh8nJkUjqigahma4UM4vYKI9/RMr4ocKf3rqOg6b6hrOWVDlrnHTTzv9qMvhCYL3ffPEGN9omxoqXNR8hv4s+wz+Pj/WvxA2NMnNsHdQ/QwXnT0wIhRLgAJHj4DuOaZ2I0uZLYJoxXRtBJXiJeZYBquZw=;YsjORDPi/U07zA1rhbf8nA=="
+secured: "w9sayVs4ZC9pQOI9/3Aegg6PAI/9OaD1oGcB04TEy/S1IY3nVPg62nGMY7//PiBJvQ16CLEcMIuYkjyXNCxMLa2FQPUKi3gd+7o+NluOpbXLVtfb/naMlNtIzOeT56qUB8AQok47OHmBnm8motGWY5ZeJ8kM3FlMOjR0HL+8pDFvKx9WdRIVs03O1Y6P6T3yYeglhezFqVbIgo/mDz29MC8XYvrYVYTaCiSlnA4ofiLyL48uZYNJRgKG0ZCGfll3xqsgVu928W5JLRzpGZ51IJ15sjO4mOQDw5VNfGWqY386ynlb3fav3P/eKCRxLi0XyN5Tr009G4ipTOm23LBpZx8EjSKVj7EEdR555KkepLosmgOlNuoOTK5w88SQQqWSKnDhksVT2grE6RH4xanXnohEc7eKpeR7ff+C9pK40vWyJ23uY7tCwz4MckkcP3xGwV74jlo4uEZxW3bacPrZ4w3NBfZqWhS/h7zBwK+jKrOB3tjhzro78ypEw1waui3MtOIKPL/+ejPVA48Sn14a3A==;IltdrdIczubkPKBE1p/s2g=="
 ---
 
