@@ -1031,6 +1031,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump claims he's free of virus, ready for campaign trail"
+    excerpt: "President Donald Trump says he is ready to return to the campaign trail, a declaration that comes despite unanswered questions about his health on the eve of a Florida rally kicking off the final week"
+    publishedDateTime: 2020-10-11T21:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b359d4e42260491db174b54d30b232cb_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
     publishedDateTime: 2020-10-02T08:44:00Z
@@ -1686,6 +1702,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg"
         width: 3000
         height: 1933
+        isCached: true
+  - title: "Twitter Flags Trump Tweet He’s That Immune To Covid-19 Coronavirus, Not Contagious"
+    excerpt: "Presumably, Trump was referring to the Covid-19 coronavirus infection that he’s had over the past week or so and not something like cat scratch fever or Bieber fever. The tweet sounds like positive news for the President."
+    publishedDateTime: 2020-10-11T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 119
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f837ffc613e1c0cfca4dd19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D227%26cropY2%3D2759"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump May Have ‘Serious Risk Factors’ For Covid-19 Complications, Health Experts Say"
     excerpt: "Health experts warn that factors including President Donald Trump’s age and weight could put him at a higher risk of contracting serious complications of Covid-19, after he announced early Friday that he had contracted the virus."
@@ -2942,6 +2974,20 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 105
+  - title: "Twitter flags Trump claim of COVID-19 immunity"
+    excerpt: "Twitter flagged a tweet by U.S. President Donald Trump that said: \"A total and complete sign off from White House Doctors yesterday. That means I can't get it (immune), and can't give it. Very nice to know."
+    publishedDateTime: 2020-10-11T23:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2Vu?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f8371d5e4b04d445762fba5-1602449877042?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z
@@ -3610,22 +3656,6 @@ related:
       - url: "https://imagez.tmz.com/image/d0/16by9/2020/10/10/d004f24fd2d842c3893a71b13bc31855_xl.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump claims he's free of virus, ready for campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus but did not say explicitly whether Trump had tested negative for it."
-    publishedDateTime: 2020-10-11T19:44:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/50/77/20090820/77/375x250.jpg"
-        width: 375
-        height: 249
         isCached: true
   - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
     excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."

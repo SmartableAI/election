@@ -3,18 +3,18 @@ category: news
 title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
 excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
 publishedDateTime: 2020-10-11T12:00:00Z
-originalUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
-webUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
-ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246337265.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html"
+originalUrl: "https://www.thenewstribune.com/news/politics-government/election/article246337265.html"
+webUrl: "https://www.thenewstribune.com/news/politics-government/election/article246337265.html"
+ampWebUrl: "https://amp.thenewstribune.com/news/politics-government/election/article246337265.html"
+cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/politics-government/election/article246337265.html"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: News Tribune
+  domain: thenewstribune.com
 
 topics:
   - Election
@@ -170,6 +170,6 @@ related:
         height: 325
         isCached: true
 
-secured: "LMzHbCqU9Hrg/ndEodksu3oxat9L4Tw/zrwTaL6mhiJ32hJ+mjDsAlW1E9aq4lHp3vahlirO8FraGmYXLKYehe20LseBLP7UZMdT84avKu2Ul33Hm8O2ZreY0qfey5mFYgagSnBWDZn2ZV68u80qhFOMVwh4Zl22+T/w7I80Hx/NDyZofnUzkjSz/M+DwYKp+/px0UHTzZukzmeIijoc3JB+6QWtohFVfvws/rpfqqlF5uxlJ9lsY7jkCKbeaQT94anLLzv7KV//aoWzCDouRSr4opH92sSyPCZLaJh0KQwchlOy/p64iaYuHUTog/G59oItuFSJb6UKGM9lR6E+5uNDjha2F6/Ml1ugXtJ5y38=;Q90eqY8Q0OD2vAiSGIi7qA=="
+secured: "3E/tKG/gAW9ISe+tUeTDWODiEMyQ/yevbQynZwHXNqdIPRzVSDfqguLpNFqlPCvZt37y03KfolI6ZLwFVc5mzQUEqdSJJxztYRc1G2/GUOtRyfMQC+QsxHuRzfU5xEw5gMcTJ09S8cY554lnJgRHD/q17fKJ8LwshB7TZvjSK0dY+jcRCifZoLE/Nitcup3P93PVOTwm//LJYLhChDIs52dKZ62qFvOWdeC9ci42NIHrskv9/bCY0Q0uAuhS0jLu40Swpl9jizgPZ27fmFRRxP7GhvZS104THRJLpJFuhwT7P29KDIClC3d0Iwb2E+DX+UOn1v7byA+1wMD9+Ge+5A1pPH04ISagbGKw+r8+BPQ=;+4zlkoTD6/EtfIxqdcskfQ=="
 ---
 

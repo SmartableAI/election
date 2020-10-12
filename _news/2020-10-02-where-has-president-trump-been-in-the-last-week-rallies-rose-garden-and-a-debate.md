@@ -1513,6 +1513,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump holds slight edge over Biden among Florida seniors, poll finds"
+    excerpt: "The University of North Florida Public Opinion Research Lab released a poll of likely state voters last week, which showed President Trump leading among seniors, but by a substantially smaller margin than he had in 2016 against Hillary Clinton. "
+    publishedDateTime: 2020-10-11T23:38:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ly17q7I_29Q/poll-shows-trump-with-a-slight-edge-over-biden-among-florida-seniors-but-down-from-2016"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/d8fd9427-AP20282445647114.jpg"
+        width: 1024
+        height: 715
+        isCached: true
   - title: "Trump scored 'historic victory' in first presidential debate, campaign adviser claims"
     excerpt: "President Trump was the \"dominant force\" in Tuesday night's presidential debate against Democratic nominee Joe Biden Trump 2020 Campaign Senior Adviser Jason Miller told “Special Report\" Wednesday."
     publishedDateTime: 2020-10-01T01:39:50Z
@@ -2000,6 +2014,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
+    excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media, following her recent debate against Vice President Mike Pence. "
+    publishedDateTime: 2020-10-11T22:26:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fmmVoORVqJw/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Organizers scrap next presidential debate after Trump said he wouldn't agree to virtual format"
     excerpt: ""

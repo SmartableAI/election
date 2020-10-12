@@ -32,19 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden paid nearly $300,000 in federal income taxes in 2019 "
-    excerpt: "Joe Biden released his 2019 tax returns on Tuesday, which show he and his wife, Jill, paid nearly $300,000 in federal income tax last year and had an adjusted gross income of about $985,000.\n    \n"
-    publishedDateTime: 2020-09-29T19:53:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gt8W3ZRuoO0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/joe-biden-tax-returns/index.html"
+  - title: "Biden says he'll answer court-packing question 'when the election is over'"
+    excerpt: "Democratic presidential nominee Joe Biden again ducked questions Thursday about whether he would seek to add seats to the Supreme Court, telling reporters he would not address the issue until after the November 3 election.\n    \n"
+    publishedDateTime: 2020-10-09T00:01:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zHRjIHTFqs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006165347-02-biden-gettysburg-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Joe Biden's polling better than any challenger since 1936"
+    excerpt: "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning.\n    \n"
+    publishedDateTime: 2020-10-11T21:17:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d7b55ymY66I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden is ahead. Democrats are still stressed"
+    excerpt: "Joe Biden leads President Donald Trump nationally and is running ahead or even with him in most swing state polls. He is besting Trump on just about every question atop voters' minds, from the coronavirus and health care to \"law and order.\"\n    \n"
+    publishedDateTime: 2020-10-11T21:16:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u5H5a8-1oAY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/democrats-stressed-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/democrats-stressed-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002131552-joe-biden-debate-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,37 +96,53 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden campaigns in Miami ahead of NBC News town hall"
-    excerpt: "A new NBC News/Wall Street Journal poll shows Joe Biden opening a 14-point lead on President Trump nationally, with the election less than a month away. Biden told reporters that he’d listen to scientists about the next debate after President Trump’s Covid-19 diagnosis."
-    publishedDateTime: 2020-10-06T00:02:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/joe-biden-campaigns-in-miami-ahead-of-nbc-news-town-hall-93193797761"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93193797761"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93193797761"
+  - title: "Taylor Swift endorses Joe Biden for President"
+    excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."
+    publishedDateTime: 2020-10-07T22:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/taylor-swift-endorses-joe-biden-president-n1242483"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242483"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242483"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_gha_covid_and_the_campaign_201005_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/2986286/190827-taylor-swift-cs-744a_8b6db7ef8be8acf184cc82da0e8f9178.jpg"
+        width: 2418
+        height: 1538
         isCached: true
-  - title: "Editor’s Note: Why The Times Editorial Board Endorsed Joe Biden for President"
-    excerpt: "By Kathleen Kingsbury Acting Editorial Page Editor Americans might not need to read a newspaper article to tell them how to vote in this presidential election. In fact, more than four million people have already cast their ballots."
-    publishedDateTime: 2020-10-06T23:42:00Z
-    webUrl: "https://www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/opinion/joe-biden-endorsement-editors-note.amp.html"
+  - title: "Unions predict a Great Awakening during a Biden presidency"
+    excerpt: "Joe Biden would institute \"the most significant pro-labor, pro-worker administration in a long, long, long time,\" one labor leader predicts."
+    publishedDateTime: 2020-10-09T20:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/09/unions-biden-administration-426880"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/09/unions-biden-administration-426880"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/09/unions-biden-administration-426880"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 132
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/07/opinion/07newWeb/07newWeb-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/e9/57/b4197a4d456fae0d867cb44d5c6d/190621-joe-biden-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden says small groups, PPE, necessary for schools to be open during pandemic"
+    excerpt: "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,"
+    publishedDateTime: 2020-10-06T01:04:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-says-small-groups-ppe-necessary-for-schools-to-be-open-during-pandemic-93197381884"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93197381884"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93197381884"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_schools_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden flip-flops on door-knocking with just 33 days left"
     excerpt: "Biden's campaign announced plans to start door-to-door campaigning after insisting for months the strategy wasn't necessary."
@@ -109,6 +157,20 @@ related:
       - url: "https://static.politico.com/65/ac/d885bdd04d24856933469af10242/gettyimages-1277705292-1.jpg"
         width: 1160
         height: 774
+        isCached: true
+  - title: "Biden, from Gettysburg, appeals to soul of the nation"
+    excerpt: "Privacy Policy Democratic presidential candidate former Vice President Joe Biden holds up his mask as he speaks at Gettysburg National Military Park in Gettysburg, Pa., Tuesday, Oct. 6, 2020. | AP Photo/Andrew Harnik Joe Biden on Tuesday implored Americans to appeal to their higher nature,"
+    publishedDateTime: 2020-10-06T18:13:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/biden-appeals-to-soul-of-nation-gettysburg-426867"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/48/d6/a89b9ee94fe2afef6229e7c7aa00/20201006-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "7r5KtyL+61MrYuVVbZjGVh+fLivw6oKIbW20NeyEX9buKQzbNI8e46/Q6hTBPXA0Z4Ze5d39NZHWoO+k0dxLj5c42ZVd5XzRp0fBGXlwDDBwJkKBdP/0gdm3iCMV22Xkb6KCdYaVgRQ1ve/BgrVSMr+ZrGGtdKRXv8RiQOmAg6LAzFHQlV+Eso/MQaSfWBM+00/nfElC9i2iPweYpLcyF/KKdq6aIj/Rij7DYrzRr5Mkg+93wQ7Eb9vAcTg3kDja3BFwwtx4XgjZ7U7pJsjprQqc1H9q6bEHd61uBG23qVkA5jDk9BKI+OzvV43qK0ShKjxDJ9S5KQvj4XoRsMRifTcU4Q53eZosQAkuA1W+4SbZIU5EmRVuE0uMyTdad9x1NUD1cxzwS7sDEZkMUM9SbuQyAkSvGXshO8fmcghrMNGf4LKCaj7qzu870+yFjPZcUopdJ8F2J/XHUGfaUFDW4+P/EHIPGD+C12UgKOy7vID7K2N0zIyMDdDNhlzXRboDEEMVvUa4p6zJGwLY8cVDtQ==;3rZIsTkjFIOcrMmpuqMciA=="

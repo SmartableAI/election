@@ -222,6 +222,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Donald Trump still has a shot against Joe Biden"
+    excerpt: "The polls look awful for President Donald Trump. He's down by about 10 points nationally and in almost all of the swing states to Democratic presidential nominee Joe Biden. Trump's first debate performance was widely panned, and he needs a lot to go right the rest of the way.\n    \n"
+    publishedDateTime: 2020-10-10T22:51:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX1GWenX03A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/polling-trump-can-win/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/polling-trump-can-win/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pence accuses Biden, Harris of wanting to pack Supreme Court"
     excerpt: "Mike Pence accuses Joe Biden and Kamala Harris of wanting to \"pack the court.\" Harris did not say whether she and Biden support adding more seats to the Supreme Court or not."
     publishedDateTime: 2020-10-08T02:48:00Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign launches first ad featuring Cindy McCain "
+    excerpt: "Joe Biden's presidential campaign is unveiling its first television ad featuring Cindy McCain, the widow of Republican Sen. John McCain of Arizona, as the Democratic nominee seeks to gain ground with independents and disaffected Republicans in the battleground state.\n    \n"
+    publishedDateTime: 2020-10-10T14:07:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yunu3yVxkjg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-ad-cindy-mccain/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200923170004-cindy-mccain-intv-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to focus on economic message in Wisconsin visit"
     excerpt: "Joe Biden is campaigning in Wisconsin where he will focus on his economic message and the coronavirus death toll. The trip comes on the heels of a new NBC News/Wall Street Journal poll, which showed Biden with an eight point lead over President Trump."
     publishedDateTime: 2020-09-21T19:41:00Z

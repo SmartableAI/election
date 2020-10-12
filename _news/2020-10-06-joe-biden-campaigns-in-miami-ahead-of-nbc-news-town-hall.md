@@ -48,38 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden will get tested more frequently and continue in-person campaigning"
-    excerpt: "Joe Biden will be tested more frequently for Covid-19 and intends to move forward with in-person campaigning, following news of President Donald Trump and several individuals in his orbit testing positive, sources tell CNN.\n    \n"
-    publishedDateTime: 2020-10-03T21:42:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mn0soEl9KzU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/joe-biden-campaign-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/joe-biden-campaign-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002150006-01-biden-1002-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden begins to pull away in Pennsylvania"
-    excerpt: "With 28 days till the election, Pennsylvania is looking further and further out of reach for President Donald Trump. Democratic presidential nominee Joe Biden is ahead by 12 percentage points among registered voters here,"
-    publishedDateTime: 2020-10-06T16:00:00Z
-    webUrl: "https://www.politico.com/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/d1/ff/e233f90e4037b175cd8ff9ab1fff/ap20280155144908-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Editor’s Note: Why The Times Editorial Board Endorsed Joe Biden for President"
     excerpt: "By Kathleen Kingsbury Acting Editorial Page Editor Americans might not need to read a newspaper article to tell them how to vote in this presidential election. In fact, more than four million people have already cast their ballots."
     publishedDateTime: 2020-10-06T23:42:00Z
@@ -95,20 +63,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/07/opinion/07newWeb/07newWeb-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden flip-flops on door-knocking with just 33 days left"
-    excerpt: "Biden's campaign announced plans to start door-to-door campaigning after insisting for months the strategy wasn't necessary."
-    publishedDateTime: 2020-10-01T23:16:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/01/biden-flip-flops-on-door-knocking-with-just-33-days-left-1319582"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/65/ac/d885bdd04d24856933469af10242/gettyimages-1277705292-1.jpg"
-        width: 1160
-        height: 774
         isCached: true
 
 secured: "nr4RMub9vt7vErp9cjU+bBgHJWAFaY2yg/SbmtE6kcla714XzNwgkugg+9iLx9niGOHpYmtu+LcPyUIUD9fMxDbZ17ncUy2VPKDxiydApuC784iXxU7W2S9xVZuX21UydYFJZAnNe39d0mUzqSeu9lty6Lvwp1E3OyjEZpeRBWdLfSdaEFIwum75vQ2qV4i2IkiBWSabxfhA4w2lAUTmX/Nik5pchPqvYkcW8osMYfVyzeuMGswe8OyivkxpbBYykKan7+SVLH9EUVhsSNLmqQ++XY1nqtZL1scMYJnCNgo2iMS6T+/Q5nXZEffLB6SKbKEFuySrROhxNkOmh60JG5dT1PoqM+c3BeXXCBazHNn1xKcafmZoshoP5B/B0mVwdeatkzpY2UEBOW11tMEJprmuZ9xyQIuUc0/U/rjk2tfda6CAkm37HSHSCCbh4++QKRaC1X7CE3XyVMTPu8ROiM30c0XNOAqmorsCm+lKvUOgFLr01VNQxVoFwL2Ub60amBGqLJsMHv2PDScAfUxsAw==;U8nc8xT1B0u5RvMZuSbkVw=="

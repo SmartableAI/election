@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump is only polling ahead in 1 battleground state"
+    excerpt: "CNN's John King breaks down the latest Electoral College projections three weeks away from the 2020 election as Joe Biden holds a double-digit lead in national polling average.\n    \n"
+    publishedDateTime: 2020-10-11T21:42:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lPL1MiSSoUM/electoral-college-outlook-biden-2020-king-ip-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/11/electoral-college-outlook-biden-2020-king-ip-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/11/electoral-college-outlook-biden-2020-king-ip-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011085324-electoral-college-outlook-biden-2020-king-ip-vpx-00000422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: White House physician says Trump is taking Remdesivir and 'doing very well'"
     excerpt: "President Donald Trump is being treated at Walter Reed National Military Medical Center for Covid-19 and has begun receiving an anti-viral drug, his doctor announced Friday night.\n    \n"
     publishedDateTime: 2020-10-03T04:43:22Z

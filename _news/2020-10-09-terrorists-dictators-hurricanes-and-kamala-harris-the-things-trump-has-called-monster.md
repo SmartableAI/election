@@ -214,6 +214,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Why Donald Trump still has a shot against Joe Biden"
+    excerpt: "The polls look awful for President Donald Trump. He's down by about 10 points nationally and in almost all of the swing states to Democratic presidential nominee Joe Biden. Trump's first debate performance was widely panned, and he needs a lot to go right the rest of the way.\n    \n"
+    publishedDateTime: 2020-10-10T22:51:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VX1GWenX03A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/polling-trump-can-win/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/polling-trump-can-win/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign highlights historic nature of Harris nomination in new ads ahead of VP debate"
     excerpt: "Joe Biden's presidential campaign on Tuesday released a set of nationwide ads featuring only California Sen. Kamala Harris, the Democratic ticket's vice-presidential candidate, ahead of her face off with Vice President Mike Pence at the debate in Salt Lake City.\n    \n"
     publishedDateTime: 2020-10-06T13:13:52Z

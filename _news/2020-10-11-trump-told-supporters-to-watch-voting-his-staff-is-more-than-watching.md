@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal judge in Pennsylvania denies Trump campaign voting policy challenges in major ruling"
+    excerpt: "A federal judge in Pennsylvania has denied the Trump campaign and Republican Party's bid to make ballot dropboxes in Pennsylvania unconstitutional, in a resounding defeat for the campaign's challenges to voting policy in a key battleground state.\n    \n"
+    publishedDateTime: 2020-10-10T20:50:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q5Bx9IbdEyo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/pennsylvania-voting-policy-challenges-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/pennsylvania-voting-policy-challenges-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924162151-mail-in-ballots-voting-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "yrrnz3RruBsT4yDDyqbgRavRE1a6TFYqVUSJv0qJFScU4GaBpB1EDgF+ObrlSKAumbgpw0WfzJa6kI6rlIuB04/TnMhr4En3uJFMNdP6xjINdod5A0lbRp52rQzXwYClEa7kT+dAWb38i4MGTnrJwEOLPfRzHFwbom9pK00zcGoiakl2+P2J/ubcXF0zscnJDv48co348Zy4BKUUBpu+8JN9qfO2ORUZok2PrrvTlyXdcgO4U3uo9Q9c8IDay6OVH4cz4haWyFeq662kPcJSAbEmWWjcltt1NkIU+qcLzbSFJ+QfGdHPMqedR8TIqd0vlE4h04o0SlJ6MWV+DnOAzdBKi+T+BIQfOY58fYNdWJbz2sEAGsb7fQIITdetOxIhJII6eFUpKDgYGWc4mIcQtlaZ2rVvv6tXNRKOb5YKQnRUwIXP16sTSRhEgc208ciFb+kHZdlLBU+entFocomHc116SL6AqlLD2C1+ntztOPXMqA00fdfzU+Spjtp3v+/+YiD+Bb2AyxAMGFMoXHBtJA==;7wXoL/oyr1tFFaNpO8AKMg=="
 ---

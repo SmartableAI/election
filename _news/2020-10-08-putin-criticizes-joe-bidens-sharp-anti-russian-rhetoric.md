@@ -121,6 +121,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
+  - title: "Democratic Coalition Ad Features Obama, Clinton, Sanders, Dozens Of Others Endorsing Joe Biden"
+    excerpt: "Former President Obama, Michelle Obama, Bernie Sanders, Hillary Clinton, John Kasich, and many others appear in this new ad produced by the Democratic Coalition."
+    publishedDateTime: 2020-10-11T16:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/11/democratic_coalition_ad_features_obama_clinton_sanders_dozens_of_others_endorsing_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 33
 
 secured: "fCKqtxNSQ2hHSIX3scIXfbFOapX41lwTQ6mC7d6d6TkHhPhB4nc6zewi4EcfS1aeoLH1pfNKUw4RE/2MvR5Z2UUIQvGDYykrYlPSfx5xWgf77KSmZRIRb3H+M/TCdhkLUo+JAUwvUlyvnkyK+2dHMp1LdM135ZFO2h1pUe4RVCx6HYMYK2Gdsd7m25oAQv1HRUVYkQETzmw9lLp6Ur3y4HObvH5dW5Iiur4QIVb7eQUY+hWEzNRfzxlok0MS7Lczz7pjorwuIIAS8s+lYO8uTuxGv31zIffz9UTsGRckDCFP0vOaluqOrgXIOWYh7TiYrqaZS/oKW1V2nefmWFHqMmiGq2UCtKC/v9oiUEm4cQ3Mai7Pw+py6ZGUgOci7Kk/t2qYUhxQEhpH0haKuvBsYobHw50hOihO17A3ToMTr913xipH69komi8Hb58o7JF0dNNlyFFTCcePXuXvSR9ruun/8B1rVtQ0HcE1p22jqEIHvQiG6c3KeCeUxv/BA1Ubu9jXmiSJrSQxfgzxE09KUQ==;Ax89KOsOW8c/GVDwkIHSoA=="
 ---

@@ -120,6 +120,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
+    excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
+    publishedDateTime: 2020-10-11T22:42:00Z
+    webUrl: "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 97
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Republican Attorneys General Spotlight 'Lawless' Record of Kamala Harris"
     excerpt: "The Republican Attorneys General Association (RAGA) unveiled a blistering ad about their former colleague and current Democratic vice presidential candidate, Sen. Kamala Harris, ahead of Wednesday nig"
     publishedDateTime: 2020-10-07T20:00:00Z

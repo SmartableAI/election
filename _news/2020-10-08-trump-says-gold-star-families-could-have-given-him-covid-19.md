@@ -576,6 +576,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fauci says he was taken out of context in new Trump campaign ad touting coronavirus response"
+    excerpt: "Dr. Anthony Fauci did not consent to being featured in a new advertisement from the Trump campaign touting President Donald Trump's handling of the coronavirus pandemic. Instead, the nation's leading infectious disease expert told CNN his words were taken out of context.\n    \n"
+    publishedDateTime: 2020-10-11T19:46:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RaKMS-cp7ZM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/fauci-trump-campaign-ad-out-of-context/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/fauci-trump-campaign-ad-out-of-context/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200512081720-04-anthony-fauci-lead-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump campaign adviser says rally protocols won't change after President's coronavirus diagnosis"
     excerpt: "A senior adviser to President Donald Trump's reelection campaign said Sunday there won't be any additional safety protocols for upcoming rallies following the President's hospitalization after contracting Covid-19.\n    \n"
     publishedDateTime: 2020-10-05T01:10:39Z
@@ -621,6 +637,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200716171623-01-kelly-loeffler-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Read: Letter from Trump's physician clearing him to return to public schedule after coronavirus diagnosis"
+    excerpt: "President Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n"
+    publishedDateTime: 2020-10-11T02:13:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hkcuffL6aWc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/trump-doctor-letter-covid-update/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-doctor-letter-covid-update/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005152305-01-walter-reed-press-conference-1005-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

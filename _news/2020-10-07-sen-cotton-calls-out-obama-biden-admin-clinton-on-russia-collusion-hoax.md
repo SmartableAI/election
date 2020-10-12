@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-clinton-obama-trump-russia-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
 type: article
 quality: 174
-heat: 294
+heat: 314
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 65
+  - title: "Democratic Coalition Ad Features Obama, Clinton, Sanders, Dozens Of Others Endorsing Joe Biden"
+    excerpt: "Former President Obama, Michelle Obama, Bernie Sanders, Hillary Clinton, John Kasich, and many others appear in this new ad produced by the Democratic Coalition."
+    publishedDateTime: 2020-10-11T16:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/11/democratic_coalition_ad_features_obama_clinton_sanders_dozens_of_others_endorsing_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 33
 
 secured: "Ygq+wsZ4nKuw3aaNqK4xZFsqhbI/LZfEUWCzqf578jNFddnYXVBxayVlQfRLSpsHqvB2TEB42h+rYiQZyivAfVvH/x1JZI09lA67wy3HIstB5x9z2GrKbNuWjx4SWedCGTm8cwduR6DsB6ssiwV/oowWRsKRvHJubu6zjZy8KHbwQdfVdA83oQbXQ5lkBG8ArpiOFN0p64tjPxb2n45CQIckTZ2fJpLjVh5MG6pljhIGDUsPfCd2e0VBHkYJEw96SbpCiHkTafLENmlhpb11xIN0fvY2IPx6j/ldNnhgTakTA1IQqYawbkYKLrlhv9QIRnU5iHAf3TBWcIWtdxqQrqxgpPT1hP8USp64TRN4ybs=;ht+YzvlrZLiICro0xe5hEg=="
 ---

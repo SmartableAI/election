@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
 type: article
 quality: 128
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,24 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician"
+    excerpt: "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n"
+    publishedDateTime: 2020-10-11T03:00:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "8fLOazoaR4ZVYitRnSrWSpdcsc2yZo55xuEGtuaWGpNAtm/JQIr5BCFqkVmbSkSdg7cAO2B+Ez4uFwO3iuiS4fvarZwXudRiTERfZrz6vDFhSEpg5JSc1/3kjVgf6WyC2JxNzk1GoYr87dThPMyJd4Joqk/a1ADefqI2rbIj+Fd2GDwmYyjpuDc+DjcKoFlaDWo7ue1FQ7GNNgfIGSyWNLkb0Q4FdWLNUytXJxtHnqg6w13nu7xW83fSV7qh/NLoNVsevjkm25y9ottHhSzJG+2VW0Es9363OCwRk4FY4Zq5+ZDZXlq1wd7TTVYXGxKPMi+uLCyiv3nP6d4r6aMXQIrNPy87J7RiSuUmBl06zB8=;0fU52oN2b8fhhqjUZMSnRQ=="
 ---

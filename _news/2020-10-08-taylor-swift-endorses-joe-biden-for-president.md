@@ -32,196 +32,146 @@ images:
     isCached: true
 
 related:
-  - title: "Former CIA Director Hayden backs Biden, warns reelecting Trump would be 'very bad' for America"
-    excerpt: "Former CIA and NSA Director Michael Hayden on Wednesday warned that reelecting President Donald Trump would be \"very bad for America\" while endorsing Democratic nominee Joe Biden for president.\n    \n"
-    publishedDateTime: 2020-10-07T15:25:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rOzNwIzIq1o/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
+  - title: "Biden says he'll answer court-packing question 'when the election is over'"
+    excerpt: "Democratic presidential nominee Joe Biden again ducked questions Thursday about whether he would seek to add seats to the Supreme Court, telling reporters he would not address the issue until after the November 3 election.\n    \n"
+    publishedDateTime: 2020-10-09T00:01:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zHRjIHTFqs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 178
+    quality: 188
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190628103419-general-michael-hayden-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006165347-02-biden-gettysburg-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "CNN Poll: Biden expands lead over Trump after contentious debate and President's Covid diagnosis"
-    excerpt: "Joe Biden's advantage over President Donald Trump has expanded and the former vice president now holds his widest lead of the cycle with less than a month remaining before Election Day, according to a new nationwide CNN Poll conducted by SSRS.\n    \n"
-    publishedDateTime: 2020-10-06T11:03:46Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/47yPBT0djP0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/cnn-poll-biden-trump-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/cnn-poll-biden-trump-2020-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 177
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "HIPAA and what it means for Trump, his doctor and the American public"
-    excerpt: "Lots of questions have surrounded President Donald Trump's health after he announced last week that he had tested positive for coronavirus.\n    \n"
-    publishedDateTime: 2020-10-07T11:25:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bnVpaNp3tDw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/hipaa-trump-conley/index.html"
+  - title: "Analysis: Joe Biden's polling better than any challenger since 1936"
+    excerpt: "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning.\n    \n"
+    publishedDateTime: 2020-10-11T21:17:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d7b55ymY66I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005151932-02-sean-conley-walter-reed-1005-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Mike Pence accuses Joe Biden of plagiarizing Trump’s Covid-19 response plan"
-    excerpt: "Vice President Mike Pence accused Joe Biden of plagiarizing President Trump’s coronavirus response plan. Pence said Biden’s plan, “Looks a little bit like plagiarism..which is something Joe Biden knows a little bit about."
-    publishedDateTime: 2020-10-08T01:33:00Z
-    webUrl: "https://www.nbcnews.com/video/mike-pence-accuses-joe-biden-of-plagiarizing-trump-s-covid-19-response-plan-93397573544"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93397573544"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93397573544"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 173
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/201007-mike-pence-1920x1080-ac-915p.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Former CIA director accuses intel chief of selectively declassifying documents to help Trump"
-    excerpt: "Former CIA director John Brennan on Tuesday accused current intelligence chief John Ratcliffe of selectively declassifying documents ahead of the November election that benefit President Donald Trump, telling CNN that the decision to release materials gathered by the agency on Russian allegations that"
-    publishedDateTime: 2020-10-06T22:11:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LLrBkGkF1tY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/brennan-ratcliffe-declassifying-intelligence-clinton-russia/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/brennan-ratcliffe-declassifying-intelligence-clinton-russia/index.html"
+  - title: "Biden is ahead. Democrats are still stressed"
+    excerpt: "Joe Biden leads President Donald Trump nationally and is running ahead or even with him in most swing state polls. He is besting Trump on just about every question atop voters' minds, from the coronavirus and health care to \"law and order.\"\n    \n"
+    publishedDateTime: 2020-10-11T21:16:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u5H5a8-1oAY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/democrats-stressed-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/democrats-stressed-election/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181024191016-01-john-brennan-screengrab-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002131552-joe-biden-debate-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "2020 Election Live Updates: Biden Agrees to Virtual Debate, Setting Up Standoff With Trump"
-    excerpt: "Vice President Biden looks forward to speaking directly to the American people,” his campaign said after the debate commission announced the next debate would be remote. But President Trump said, “I’m not going to waste my time on a virtual debate."
-    publishedDateTime: 2020-10-08T13:08:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/08/us/harris-pence-trump-biden.amp.html"
+  - title: "Biden will get tested more frequently and continue in-person campaigning"
+    excerpt: "Joe Biden will be tested more frequently for Covid-19 and intends to move forward with in-person campaigning, following news of President Donald Trump and several individuals in his orbit testing positive, sources tell CNN.\n    \n"
+    publishedDateTime: 2020-10-03T21:42:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mn0soEl9KzU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/joe-biden-campaign-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/joe-biden-campaign-coronavirus/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 155
+      name: CNN
+      domain: cnn.com
+    quality: 174
     images:
-      - url: "https://static01.nyt.com/images/2020/10/08/multimedia/08elections-briefing-virtualdebate/08elections-briefing-virtualdebate-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002150006-01-biden-1002-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Second Debate Canceled as Biden Condemns Trump for ‘Reckless’ Conduct"
-    excerpt: "President Trump has refused to participate in a virtual event, so next week’s debate is off. Instead, there may be dueling town halls on the same night, as the president ramps up plans for resuming his rallies."
-    publishedDateTime: 2020-10-10T02:13:00Z
-    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
+  - title: "Biden begins to pull away in Pennsylvania"
+    excerpt: "With 28 days till the election, Pennsylvania is looking further and further out of reach for President Donald Trump. Democratic presidential nominee Joe Biden is ahead by 12 percentage points among registered voters here,"
+    publishedDateTime: 2020-10-06T16:00:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/poll-biden-up-by-12-points-in-pennsylvania-426751"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09biden-campaign1/09biden-campaign1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://static.politico.com/d1/ff/e233f90e4037b175cd8ff9ab1fff/ap20280155144908-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump Hosts White House Event After Hospitalization; Biden Speaks in Pennsylvania"
-    excerpt: "In a blow to the Trump campaign, a federal judge threw out an attempt to block drop boxes in Pennsylvania. Chris Christie, the former governor of New Jersey, was released from the hospital this morning."
-    publishedDateTime: 2020-10-11T00:57:00Z
-    webUrl: "https://www.nytimes.com/live/2020/10/10/us/trump-vs-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2020/10/10/us/trump-vs-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/10/us/trump-vs-biden.amp.html"
+  - title: "Unions predict a Great Awakening during a Biden presidency"
+    excerpt: "Joe Biden would institute \"the most significant pro-labor, pro-worker administration in a long, long, long time,\" one labor leader predicts."
+    publishedDateTime: 2020-10-09T20:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/09/unions-biden-administration-426880"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/09/unions-biden-administration-426880"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/09/unions-biden-administration-426880"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 145
+      name: Politico
+      domain: politico.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10elections-brief-bidenpenn/10elections-brief-bidenpenn-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://static.politico.com/e9/57/b4197a4d456fae0d867cb44d5c6d/190621-joe-biden-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump's 2020 polls prove Democrats need to start planning for a Biden White House"
-    excerpt: "It feels like the majority of people who believe Trump can win again in 2020 are Democrats, for better or for worse."
-    publishedDateTime: 2020-10-11T06:13:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-2020-polls-proves-democrats-need-start-planning-biden-ncna1242631"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242631"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242631"
+  - title: "Biden says small groups, PPE, necessary for schools to be open during pandemic"
+    excerpt: "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,"
+    publishedDateTime: 2020-10-06T01:04:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-says-small-groups-ppe-necessary-for-schools-to-be-open-during-pandemic-93197381884"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93197381884"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93197381884"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 145
+    quality: 131
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_schools_201005_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Biden: If Trump still has Covid, call off the debate"
-    excerpt: "The Democratic nominee said he still looked forward to facing off against the president in Miami next week, but “I don’t know what his status is.”"
-    publishedDateTime: 2020-10-07T00:33:00Z
-    webUrl: "https://www.politico.com/news/2020/10/06/joe-biden-trump-debate-coronavirus-426944"
+  - title: "Biden flip-flops on door-knocking with just 33 days left"
+    excerpt: "Biden's campaign announced plans to start door-to-door campaigning after insisting for months the strategy wasn't necessary."
+    publishedDateTime: 2020-10-01T23:16:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/01/biden-flip-flops-on-door-knocking-with-just-33-days-left-1319582"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 130
+    quality: 115
     images:
-      - url: "https://static.politico.com/38/ec/f9edce0343e8af6cddaa61be95f0/201006-biden-ap-773.jpg"
+      - url: "https://static.politico.com/65/ac/d885bdd04d24856933469af10242/gettyimages-1277705292-1.jpg"
+        width: 1160
+        height: 774
+        isCached: true
+  - title: "Biden, from Gettysburg, appeals to soul of the nation"
+    excerpt: "Privacy Policy Democratic presidential candidate former Vice President Joe Biden holds up his mask as he speaks at Gettysburg National Military Park in Gettysburg, Pa., Tuesday, Oct. 6, 2020. | AP Photo/Andrew Harnik Joe Biden on Tuesday implored Americans to appeal to their higher nature,"
+    publishedDateTime: 2020-10-06T18:13:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/biden-appeals-to-soul-of-nation-gettysburg-426867"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/48/d6/a89b9ee94fe2afef6229e7c7aa00/20201006-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Anti-Trump, but not fully for Biden: Will Gen Z vote?"
-    excerpt: "Young people hold the key to many states. They're also navigating a confusing voting process and aren't sold on the Democratic nominee."
-    publishedDateTime: 2020-10-11T09:12:00Z
-    webUrl: "https://www.politico.com/news/2020/10/11/gen-z-vote-2020-trump-biden-424571"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/6a/5a/3e8020b54c64b8503d65d94c2031/politco-shelikescutie-bijoukarman-final-100120.jpg"
-        width: 2320
-        height: 1546
-        isCached: true
-  - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
-    excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
-    publishedDateTime: 2020-10-04T08:07:00Z
-    webUrl: "https://www.thedailybeast.com/snl-premiere-sees-jim-carreys-joe-biden-bask-in-trumps-covid-19-diagnosis"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 59
-  - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
-    excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
-    publishedDateTime: 2020-10-04T09:02:00Z
-    webUrl: "https://www.thedailybeast.com/donald-trump-might-lose-but-his-judges-will-keep-wrecking-america-for-years-to-come"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 38
 
 secured: "FLN07SYw4mhvywpRhbRzxBx5NtWXXMGIl4Rx139sMefL0i9bAKwD52xHDTJn/SQoPpmf9XtiOZTKUSs02UIrCSxggJNgtAvQMq0aKAhcdDiX0c6BfHdBNS1MCbiHaD0th0WWO9WvBionc5DGZrNuSe80tllfK9H2bHaes6ab8bx6t4OhRtneoiejv/ZkNrAiLrRFLKrY9rygHiOJ8E9JOqoTCf3opaO8qvW/0Wj8uoL4RjJni+jWJ8lx6I0i0jOdujax99jJ4FNtRQhx9Mp0Sl5lvOKOmTO0kpjM+TlN7dxwgHhmkSy4WScxnaW2OXujQ+SlmmWXsLG6AXlIt2dwgpz/A30WwAnze16g1Lihgw+jwwiNXGrAzmjOkmyVT7mTyPE1LwVe5XP6brHibRo15nNXYKzTOeJ9y10JCqWScfZcWExW45RsnjLrODuCnZoIsa5wIt5enbK43EjG49dhbFijd7qgDceczx1TSqbyO2W0p3aYwYYrbwxgJyeWWeN2JIkuYEUh1nmYohv6rUbWkQ==;eBZBe7wkTOCb0lt8t7iB3Q=="
 ---

@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Trump claims he's free of virus, ready for campaign trail"
-excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus but did not say explicitly whether Trump had tested negative for it."
-publishedDateTime: 2020-10-11T19:44:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
-webUrl: "https://www.chron.com/news/article/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-insists-he-s-free-of-virus-ready-for-15637651.php"
+excerpt: "President Donald Trump says he is ready to return to the campaign trail, a declaration that comes despite unanswered questions about his health on the eve of a Florida rally kicking off the final week"
+publishedDateTime: 2020-10-11T21:09:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
 type: article
-quality: 75
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.hdnux.com/photos/01/14/50/77/20090820/77/375x250.jpg"
-    width: 375
-    height: 249
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b359d4e42260491db174b54d30b232cb_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1691,6 +1695,22 @@ related:
         width: 3000
         height: 1933
         isCached: true
+  - title: "Twitter Flags Trump Tweet He’s That Immune To Covid-19 Coronavirus, Not Contagious"
+    excerpt: "Presumably, Trump was referring to the Covid-19 coronavirus infection that he’s had over the past week or so and not something like cat scratch fever or Bieber fever. The tweet sounds like positive news for the President."
+    publishedDateTime: 2020-10-11T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 119
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f837ffc613e1c0cfca4dd19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D227%26cropY2%3D2759"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump May Have ‘Serious Risk Factors’ For Covid-19 Complications, Health Experts Say"
     excerpt: "Health experts warn that factors including President Donald Trump’s age and weight could put him at a higher risk of contracting serious complications of Covid-19, after he announced early Friday that he had contracted the virus."
     publishedDateTime: 2020-10-02T19:15:00Z
@@ -2946,6 +2966,20 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 105
+  - title: "Twitter flags Trump claim of COVID-19 immunity"
+    excerpt: "Twitter flagged a tweet by U.S. President Donald Trump that said: \"A total and complete sign off from White House Doctors yesterday. That means I can't get it (immune), and can't give it. Very nice to know."
+    publishedDateTime: 2020-10-11T23:33:00Z
+    webUrl: "https://www.reuters.com/video/watch/idP2Vu?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f8371d5e4b04d445762fba5-1602449877042?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
     publishedDateTime: 2020-10-02T05:07:00Z
@@ -4203,6 +4237,6 @@ related:
         height: 624
         isCached: true
 
-secured: "0ru4QAVfPOXVTcLXroOrlAFMnjW2OP/RbhHA/mAFRsoruCvqlrXzvBAumnYJlCneOzUc69FP5gNU8d056ODFsI3cdvL7NmEaLq/HAg2bBuduO/oGB2BNUaCNOF36gHAqVFuEwDY9n4wc5AJgLppKU5k44d4ZUJQJHuU2+k5k9v+v5FtQ2Qsm60mmn9ADhe0XIU/tbZMylulj3H2e/98xZPhT4knHZ6/UpzIfFObPKDaLm66GlQrR1jPGzESfox+1bvWmnhqTulz6aMNhlpB0Z84kpdztflzc79O2bODhbEOvzPhSZ2pQ9pxxowOYdr9BVXOUY4fmV0ikKIF7Nl36nfV3XjA41fJqV/E6fvmc8lZVCuEIbX9ObmmN1g0rf5E/iGze9cWhh1ke086zYKClWsLtVzckK8qRIQMVmR5aDa9juyzAzyvrhLaRijepbZhh0XnS3s4gfT+07GR0g37mOqhcfzGsphjvy86A4fTiUOmYZKL5DIkyvX1dy+jlihSZmZBKa0ov8j+Y2eQRDbwtHA==;1y4jK7MZZ6QnTVLhnWR+KA=="
+secured: "ZijI7KYof4XQsrwzdaossyFPvDVf55/KGSzYlB1Up8nXS4larIKXfSAo0CGN98wVGaC60eyg63lea1uATbCznMdAkZ12tvQ3mxN0/haCD0/ATssNx8tuYH/mhyyaBeoYO1iykUfevj0VQ8Yn6M5Y+Hyb/CtfPgqNPD9cIdBdfZjzczylWF8RV4l94aLdcvxsZbIpPa/c62d5Un9HzcOvvLEGnxWM9Ju7LA9LWkujn0Cd2US8dvmcnBRv/UPIPS93nOekn28WHeXPxKltWJnEOtMixoEbVyxvCLhyw030E+2/G8bS/1Z3E9BqmtzwWRDlVbl244XL4MaMA7FlFJs1ijvy2w8oBw6cMVZ9ECqPgMw=;z4vdko+oD54jlZLMkpsM/Q=="
 ---
 

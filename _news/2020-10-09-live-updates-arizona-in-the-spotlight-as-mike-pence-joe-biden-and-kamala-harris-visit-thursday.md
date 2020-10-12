@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5917943002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002"
 type: article
 quality: 162
-heat: 1002
+heat: 1022
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
     quality: 150
     images:
       - url: "https://thehill.com/sites/default/files/cranedicken_facebook10102020.png"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "North Dakota farmer goes viral for Biden Harris message plowed into field"
+    excerpt: "A North Dakota farmer has gone viral for his hard-to-miss message supporting former Vice President Joe Biden and Sen. Kamala Harris' (D-Calif.) presidential campaign."
+    publishedDateTime: 2020-10-11T23:14:00Z
+    webUrl: "https://thehill.com/blogs/blog-briefing-room/news-other-campaigns/520559-north-dakota-farmer-goes-viral-for-biden-harris"
+    ampWebUrl: "https://thehill.com/blogs/blog-briefing-room/news-other-campaigns/520559-north-dakota-farmer-goes-viral-for-biden-harris?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/blog-briefing-room/news-other-campaigns/520559-north-dakota-farmer-goes-viral-for-biden-harris?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 149
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenharris_soybeanfield_101120.jpg"
         width: 980
         height: 551
         isCached: true

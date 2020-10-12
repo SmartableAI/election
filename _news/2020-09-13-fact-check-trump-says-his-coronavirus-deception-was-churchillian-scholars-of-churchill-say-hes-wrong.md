@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Five false claims Trump made in his first speech since getting Covid-19 "
+    excerpt: "In President Donald Trump's first public event since his coronavirus diagnosis, he continued to mislead the public about the virus, his accomplishments and former Vice President Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-10T22:24:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y5F4s3PJ-3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/fact-check-trump-first-speech-coronavirus-diagnosis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/fact-check-trump-first-speech-coronavirus-diagnosis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010144505-13-donald-trump-white-house-event-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Echoing Trump, Barr misleads on voter fraud to attack expanded vote-by-mail"
     excerpt: "The attorney general's remarks have worried civil rights advocates who fear the Justice Department will selectively enforce voting laws."
     publishedDateTime: 2020-09-19T09:16:00Z

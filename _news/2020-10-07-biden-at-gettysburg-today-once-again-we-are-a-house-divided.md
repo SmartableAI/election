@@ -62,20 +62,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Biden, from Gettysburg, appeals to soul of the nation"
-    excerpt: "Privacy Policy Democratic presidential candidate former Vice President Joe Biden holds up his mask as he speaks at Gettysburg National Military Park in Gettysburg, Pa., Tuesday, Oct. 6, 2020. | AP Photo/Andrew Harnik Joe Biden on Tuesday implored Americans to appeal to their higher nature,"
-    publishedDateTime: 2020-10-06T18:13:00Z
-    webUrl: "https://www.politico.com/news/2020/10/06/biden-appeals-to-soul-of-nation-gettysburg-426867"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/48/d6/a89b9ee94fe2afef6229e7c7aa00/20201006-joe-biden-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "PqEl2fF+1KCBlcKP2cPayNOo6OXDeAB6x4rqInBlzZogNBWDoN24QKkxJYTiL2u2gnnb0agOAJJSBx7M8ZQ7d45oQ2JZQhwJbv6VDd8puJMLiUbTQi+lqs2zr3AArYPt2jTbXVlst6ZhxLPeBg+3T6uL5l+dfe6l5d96JNDBXRjLpwrVIsd8GabNFCphlyWFitmT2iPXievPSWOzJWQ0hRrpIy3n+/R7QtMTA8wfeEd4YXXzAvmAE3pYQ08ymG3bI2j7uQOKlwSWmUhi3IfMK12B5H0mFPIhJ9IaUOXTdloLYOfuNDUPt6rpjmq6t4a2c644v1zjnVeAuIq+Z8zhI2qdaEwLX/HTB5r/viG7BQu6Isoc1Xyr99kqjJyNt4bbPvEzZp3+T+XXHQz/zEo2oRR8FVd9NoSXw+YZLdYh7aylTIs7RLSqZiRi557ThiYIdfn8gBIWTF7AY7niq+fDdLjzcvnwCCpI1GqZj6y8KEnnXt45/kqIFEjlvWlWhHoNtnFNQCt+XHm8ve5Qxp+WEg==;Ge9e86PvYuoAtOZVpawIgg=="
 ---

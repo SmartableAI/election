@@ -3,11 +3,11 @@ category: news
 title: "Saturday Night Live: Jim Carrey, Mike Pence and a very pesky fly"
 excerpt: "Low-energy sketch skewers vice-presidential debate and comic Bill Burr hosts for the first time"
 publishedDateTime: 2020-10-11T15:51:00Z
-originalUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly"
-webUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly"
+originalUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly?ref=hvper.com"
+webUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly?ref=hvper.com"
 type: article
-quality: 85
-heat: 105
+quality: 105
+heat: 125
 published: true
 
 provider:
@@ -21,6 +21,12 @@ provider:
 topics:
   - Election
   - Mike Pence
+
+images:
+  - url: "https://i.guim.co.uk/img/media/4b91b1911c3a57a16fabcf48c5c1a68186077354/0_100_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab91fc335b64e343b497ddd0d450cacc"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "VIDEO: SATURDAY NIGHT LIVE Tackles the Vice Presidential Debate, and the Fly on Mike Pence's Head"
@@ -38,6 +44,6 @@ related:
         height: 625
         isCached: true
 
-secured: "bfdtnDyaWZ5Yap9W23mKOi87Ii1h4eO8FeOd6siYMublGqZ3GVrlbVv8jjdim9+xnAnnpDXpxA4Z2VSQSpEinSGBw2vEMBnpwH8D5Qs6e7MiuaE48Bqr4csK6gVEXpEwn/Lk1pZvy2zMmhzzpp/QsLmpsfZxXxppNbSilpl5n2Z+PjZWBo4C+iKQi1CTEomwbNBTjgsh7rCWQZ2ufJqPIra+fnOs8WkRdvgErcgZ20lXlDnIIKfVU4OlFEf+xptTMbHIP4qwLN6ip1IBSkr+fTueFcEGjnjobQ7dzDYeJYKTRvaGa3mQwv5nLQucyckSHt5eu81hgDsHLu+uXaStYblbjxkBXniu8MLDs/Crx63kUAGpuK3kHN7p+HO0rfKagRUZYfYTLcE3oixZnyLA0PvGAqaHpQnXIyb70eqguQFQZ6mqxom0D2/kWITfVGtTHcpHtlW40VVnzHaMGJn3+Q5hRW4/5LiiB3OSsDpZf1VVJO3XGh0+FV+s9vDFwyFEWtneL6gZhmyM6/IUI4jCfg==;WSkN+1KCKu6L6S3JL29aAQ=="
+secured: "DzlFsL7LsG6g0+Z2DvrctNDPQCXZfCKii/eD0dFdZnxDiakPUNG9ktk4KePevIqMU06frTp6pBJXk4FdXY2eZ6ZSP9NSbaSINupQqg4qy8t3IrOpLTzgeNb+UFfr2Xw6y2IKgupHhOBAE09lfK+DzvRvllnVG7A+Uk/vsGh1+IvJgOaXtdJaMr7hL2Rn4w4zst1OU1mhAt9/1QTFtK0Z2po/jxcROU7A/Lc9PopZHNpvqRuBRaIhOOp3sBdaX3J4dPOUFyJqYTWzOod9MNdqEH17byzDyxH70mdjYpGjXzn8jrGocy86OPVHh+rs7NnBoxUvtk6iaDDjie6YPPDGaMSANfBqhbVevnoQAjxO4js=;9xaIR++tOlMdGy2K7PIUlQ=="
 ---
 

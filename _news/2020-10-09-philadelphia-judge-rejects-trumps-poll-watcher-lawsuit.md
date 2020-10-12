@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watche
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/philadelphia-poll-watchers-ruling-trump/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924162151-mail-in-ballots-voting-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Federal judge in Pennsylvania denies Trump campaign voting policy challenges in major ruling"
+    excerpt: "A federal judge in Pennsylvania has denied the Trump campaign and Republican Party's bid to make ballot dropboxes in Pennsylvania unconstitutional, in a resounding defeat for the campaign's challenges to voting policy in a key battleground state.\n    \n"
+    publishedDateTime: 2020-10-10T20:50:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q5Bx9IbdEyo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/pennsylvania-voting-policy-challenges-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/pennsylvania-voting-policy-challenges-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924162151-mail-in-ballots-voting-1-super-tease.jpg"
         width: 1100

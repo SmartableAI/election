@@ -174,22 +174,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Taylor Swift endorses Joe Biden for President"
-    excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."
-    publishedDateTime: 2020-10-07T22:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/taylor-swift-endorses-joe-biden-president-n1242483"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242483"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242483"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/2986286/190827-taylor-swift-cs-744a_8b6db7ef8be8acf184cc82da0e8f9178.jpg"
-        width: 2418
-        height: 1538
-        isCached: true
   - title: "Anti-Trump, but not fully for Biden: Will Gen Z vote?"
     excerpt: "Young people hold the key to many states. They're also navigating a confusing voting process and aren't sold on the Democratic nominee."
     publishedDateTime: 2020-10-11T09:12:00Z
