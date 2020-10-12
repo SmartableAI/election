@@ -46,6 +46,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi, Schumer mum on court packing as Biden refuses to give stance"
+    excerpt: "House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer have been mum on whether they are in favor of packing the Supreme Court should Democrats win the presidency and reclaim the majority in the Senate"
+    publishedDateTime: 2020-10-12T10:53:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P1WsAsw7xAE/pelosi-schumer-court-packing-stance"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/pelosi-schumer-3-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden: Reporters should ‘focus’ on Republicans after pressed on court packing stance"
     excerpt: "Democratic nominee Joe Biden said reporters should be focused on Republicans pushing through a Supreme Court nomination, rather than his opinion on court packing. "
     publishedDateTime: 2020-10-10T21:42:44Z
@@ -73,6 +87,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
+    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
+    publishedDateTime: 2020-10-12T09:56:00Z
+    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
+    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
     excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."

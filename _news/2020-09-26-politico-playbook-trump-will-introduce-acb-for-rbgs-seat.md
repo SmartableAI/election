@@ -110,22 +110,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "'I'll go in a moon suit': GOP senator who tested positive for Covid vows to vote for Trump's SCOTUS pick"
-    excerpt: "Sen. Ron Johnson, a Wisconsin Republican who recently tested positive for Covid-19, said on Monday that he will do everything he can to vote for President Donald Trump's Supreme Court nominee, Amy Coney Barrett, even if he has to wear a \"moon suit\" to do it.\n    \n"
-    publishedDateTime: 2020-10-05T22:22:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fa8p0-rwGdo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-supreme-court/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/ron-johnson-moon-suit-supreme-court/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003135536-01b-sen-ron-johnson-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Vulnerable Republican senators split over Democratic effort to protect pre-existing conditions from Trump administration lawsuit"
     excerpt: "Vulnerable Republican senators split over a bill to protect those with pre-existing conditions from a Trump administration lawsuit before the Supreme Court next month, underscoring the political potency of the issue as the country begins voting.\n    \n"
     publishedDateTime: 2020-10-01T19:24:54Z
@@ -141,20 +125,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128102733-01-joni-ernst-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump's workplace watchdog assailed for lenient penalties on Covid safety violators"
-    excerpt: "These tiny fines are OSHA sending a message to meat factories across the country that they don't have to worry anymore. . . they can operate as they please no matter how many workers are sick, injured or killed."
-    publishedDateTime: 2020-10-06T19:30:00Z
-    webUrl: "https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 109
-    images:
-      - url: "https://static.politico.com/6e/a1/c2665139452193630801672e5fa3/apdol.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "c773UeaIKiLsEImgitxARC44yTZSW8cvV2aTU3rqOgS7+J8keTIfCQ1TlLN1PoQOOxfYbv1UD4jyuandCDwMZfZn+Lxi4a5CPA0meO/28ZYyQcQrg5likwBr9m4OqYB6j/Pi1Z3nNuaA6EFKsSfekbnaNz5Aome9lIDebx5phWaA3tGqYGsWp4sA1qaN8n2NHAg26j6HhHCdx/p7CC8WnEwhTgfW0MtKhSh35hXCLzfE6P4Rw0CdCqF44/nmJiS+fYksl0+Wn2hHo1YDPIKNg6kftHoh3JLYQDSGyHomKdJQYwkgmYLmcMYngpjpMx8uL16SxIp7NTipie1XYkKYyUsMvBFrp0lwKr/71IkrZS4=;J0A27qLwWbDke7nb6Amb6Q=="

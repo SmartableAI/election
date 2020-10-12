@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/eric-trump-deposition-new-york-inve
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
 type: article
 quality: 118
-heat: 198
+heat: 178
 published: true
 
 provider:
@@ -79,17 +79,6 @@ related:
         width: 1440
         height: 1079
         isCached: true
-  - title: "Key takeaways from the New York Times' investigation into Trump's taxes while in office"
-    excerpt: "The Times investigation found Trump's properties were a center of lobbying and during the president's first term, with the president often profiting."
-    publishedDateTime: 2020-10-11T17:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/11/key-takeaways-nyt-look-into-trumps-taxes-while-office/5960622002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5960622002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960622002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
 
 secured: "fpOUeogLposeGQAQJJEAmbG8p80+T4M+IuOdm+SjGFyju6a6y8BHZEGFdv/GcUkqBNOX22zT0iKMZDW6061EUojPX/1egVG+BYJOB6AFmGabQWwGqs/mYEB8lxeFThtu2E++Hy9hfHzKduc8yO2aJQlhQhdjIuNlTgy5gNOVMlzGCmrg0SJjEReRFiVB7bSsq7QBE4tcRQGC7m6eoil36tMTDwS/fQyslq+GpzsUA4owqHNw88FMEhS9eWqacPwgT3CEsCjiIeM8dgmEk2HkQmRuSXaxqlSvMcUi/Lk7iuIxSYPGnBtnEr8He9RpMpY38YAQVpwga8jKfzyo5XG3DutMA9vUaLkpsRB46bkuXHI=;bwSdNg1GCCXnCQl7cGqr6w=="
 ---

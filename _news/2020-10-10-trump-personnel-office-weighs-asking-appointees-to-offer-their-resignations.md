@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's troubles weighing on Iowa Senate race as Joni Ernst fights for reelection"
+    excerpt: "Sen. Joni Ernst is feeling the October heat, with the potential path to the Senate majority -- and the White House -- suddenly experiencing an unexpected Iowa detour.\n    \n"
+    publishedDateTime: 2020-10-12T10:55:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qt2h1rKlknA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-ernst/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-ernst/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825182549-06-sen-race-rankings-joni-ernst-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump off the air in Ohio and Iowa as polls show tight races in both states"
     excerpt: "President Donald Trump's campaign canceled its planned television advertising in Iowa and Ohio this week, focusing its spending on states where Trump is behind even as polls show he is neck-and-neck with Democratic challenger Joe Biden in the two Midwestern states.\n    \n"
     publishedDateTime: 2020-10-05T23:27:36Z
@@ -48,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "‘If He Doesn’t Win Ohio, It’s Over’: Trump Slips in the Heartland"
-    excerpt: "Four years ago, the president easily won Ohio by building a balanced coalition among white voters across educational lines. But his support has waned since then, particularly in the suburbs."
-    publishedDateTime: 2020-10-02T11:09:00Z
-    webUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/02/us/02pollwatch-newsletter/02pollwatch-newsletter-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "With Covid back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
     excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
     publishedDateTime: 2020-10-11T08:33:00Z
@@ -79,6 +79,36 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_32a16910e24a32b24dab5713ac1d1f2e.jpg"
         width: 2500
         height: 1666
+        isCached: true
+  - title: "Trump tries to prove he's back in fighting form in freewheeling Fox Business interview"
+    excerpt: "President Donald Trump returned to form on Thursday morning, engaging in a freewheeling, 55-minute interview on Fox Business in which he made bold claims about his health and coronavirus in general just days after announcing he had contracted the deadly disease."
+    publishedDateTime: 2020-10-08T16:28:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 127
+    images:
+      - url: "https://static.politico.com/f9/8b/3ab7a55f40caacae2c7f314a0e1d/ap20279851367783.jpg"
+        width: 4145
+        height: 2763
+        isCached: true
+  - title: "As Trump returns, West Wing becomes 'a ghost town'"
+    excerpt: "When a White House official slams Trump as \"selfish\" for returning to a White House \"cesspool,\" there's clearly a problem."
+    publishedDateTime: 2020-10-06T15:07:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-returns-west-wing-becomes-ghost-town-ncna1242264"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_19/3340706/200507-white-house-building-ew-1119a_33a885892bd1f34f74ced0dd2d0969a4.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ry/UQH6cNqWMqOlo99F3qFxvGrbogKnWK8xWQHhoKFDYAEL6tDrKMDuPZ9rCuenLWJk9VVR4flpZ77YnrrL8g9I7ZTeYWOM+cM6kZzou7XD18di7Aowk//04TcgWG0t1N8gPyrV/E/1jXJBvx0z6EUrfhTPTi9BoiucjrQZ4KCEpHrecP5cphNRgYhbsJ1sBQdcNIN/9Bo6o9te2HPwwDVW8WfHPnsGzvOY5CSiHcNWYDOoaDrXltKivz1WxL6G7y4L/tQPIH52vAHgTUb6vfQ41E2QptRTi3+cUOCerip3jIJ97KMM0UedujJMcBbWqtG/JTIUO6cZTRV45lSVcxBJrJECwiuPOV7I2eveK6HY=;9GIPMy4x00ZEGNS0iFEA6Q=="

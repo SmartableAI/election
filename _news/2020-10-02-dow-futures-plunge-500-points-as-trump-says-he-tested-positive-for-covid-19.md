@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Crowded, Competitive World of Anti-Trump G.O.P. Groups"
+    excerpt: "The Lincoln Project; Republican Voters Against Trump; 43 Alumni for Joe Biden. These groups and others have similar missions but engage in little coordination or sharing of resources."
+    publishedDateTime: 2020-10-12T10:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12gop-pacs-3/merlin_178325691_0634175d-ea34-4410-8dce-3065cd70e186-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Bipartisan 'get well soon' wishes for Trump, but some Democrats send pointed message"
     excerpt: "Bipartisan 'get well soon' wishes for Trump, but some Democrats have a pointed message WASHINGTON — Messages for a quick recovery from lawmakers and world leaders began flooding in Friday, reacting to the news that President Donald Trump and first lady Melania Trump have tested positive for Covid-19."
     publishedDateTime: 2020-10-02T19:23:00Z

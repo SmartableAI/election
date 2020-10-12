@@ -2296,6 +2296,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Liz Peek: Trump vs. Kamala Harris – here's how Pelosi blunder helps reelect president"
+    excerpt: "House Speaker Nancy Pelosi has stepped in it again. With yet another ill-considered political stunt, she has stirred up President Trump’s base like someone poking a hive of angry hornets, and at the same time put a spotlight on Kamala Harris."
+    publishedDateTime: 2020-10-12T11:18:00Z
+    webUrl: "https://www.foxnews.com/opinion/trump-kamala-harris-pelosi-blunder-liz-peek"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/01/22/694940094001_5992301989001_5992302652001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign says Commission on Presidential Debates 'not impartial,' amid talks of rules, format changes"
     excerpt: "The Trump campaign on Thursday slammed the Commission on  Debates as partisan, as the organization suggested it could modify the rules and format for the remaining presidential debates between President Trump and Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-01T22:33:00Z

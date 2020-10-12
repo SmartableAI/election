@@ -973,6 +973,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Senate to begin confirmation hearings for Trump's Supreme Court nominee Amy Coney Barrett"
+    excerpt: "\"Courts are not designed to solve every problem or right every wrong in our public life,\" Barrett says in her planned remarks."
+    publishedDateTime: 2020-10-12T11:04:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/12/amy-coney-barrett-hearing-updates-trumps-nominee-face-senators/5937558002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5937558002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937558002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Daily 202: Trump says Supreme Court pick could decide election while refusing to commit to peaceful transfer of power"
     excerpt: "Internal GOP polling suggests pushing to confirm a justice before the election could hurt the president more than help."
     publishedDateTime: 2020-09-24T17:00:00Z

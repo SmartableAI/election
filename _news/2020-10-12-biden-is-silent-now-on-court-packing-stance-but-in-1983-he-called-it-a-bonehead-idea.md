@@ -45,6 +45,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi, Schumer mum on court packing as Biden refuses to give stance"
+    excerpt: "House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer have been mum on whether they are in favor of packing the Supreme Court should Democrats win the presidency and reclaim the majority in the Senate"
+    publishedDateTime: 2020-10-12T10:53:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P1WsAsw7xAE/pelosi-schumer-court-packing-stance"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/pelosi-schumer-3-AP.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden: Reporters should ‘focus’ on Republicans after pressed on court packing stance"
     excerpt: "Democratic nominee Joe Biden said reporters should be focused on Republicans pushing through a Supreme Court nomination, rather than his opinion on court packing. "
     publishedDateTime: 2020-10-10T21:42:44Z
@@ -58,6 +72,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f9b0894-75c0-421e-8092-805c0744fa61/290c82e2-fb8e-439e-9092-4154d073de22/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
+    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
+    publishedDateTime: 2020-10-12T09:56:00Z
+    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
+    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
     excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."

@@ -3030,6 +3030,17 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 105
+  - title: "Trump insists he's free of virus, ready for campaign trail"
+    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the , a day after the White House doctor said he was no longer at risk of transmitting but did not say explicitly whether Trump had tested negative for it."
+    publishedDateTime: 2020-10-12T09:16:00Z
+    webUrl: "https://www.businessinsider.com/trump-insists-hes-free-of-virus-ready-for-campaign-trail-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-insists-hes-free-of-virus-ready-for-campaign-trail-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-insists-hes-free-of-virus-ready-for-campaign-trail-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Twitter flags Trump claim of COVID-19 immunity"
     excerpt: "Twitter flagged a tweet by U.S. President Donald Trump that said: \"A total and complete sign off from White House Doctors yesterday. That means I can't get it (immune), and can't give it. Very nice to know."
     publishedDateTime: 2020-10-11T23:33:00Z
@@ -3861,6 +3872,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/president-donald-trump-rallied-hundreds-of-supporters-for-AFP_8RV9UG.jpg"
         width: 1024
         height: 688
+        isCached: true
+  - title: "Trump's Indian Fan Who Fasted For President's COVID-19 Recovery Dies Of Heart Attack"
+    excerpt: "\"He was upset when he learned about Trump testing positive for the COVID-19. He spent sleepless nights, starved and prayed for the U.S. President Trump's recovery for the past three-four days,\" his friend told local media."
+    publishedDateTime: 2020-10-12T11:37:00Z
+    webUrl: "https://www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756"
+    ampWebUrl: "https://www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "MSNBC’s Morning Joe scorches ‘sociopath’ Trump for ignoring COVID-19 until he got sick"
     excerpt: "MSNBC’s Joe Scarborough ripped President Donald Trump for ignoring the coronavirus pandemic until he personally became a victim. The president said over the weekend that he had “learned a lot” about the potentially deadly virus since his positive test and subsequent hospitalization,"

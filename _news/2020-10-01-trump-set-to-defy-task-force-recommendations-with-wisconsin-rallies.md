@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-campaign-rallies-w
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-campaign-rallies-wisconsin/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 295
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417533/201006-walter-reed-conley-mn-1035_82dc2393430328076e52325588f463c9.JPG"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "As Trump returns, West Wing becomes 'a ghost town'"
-    excerpt: "When a White House official slams Trump as \"selfish\" for returning to a White House \"cesspool,\" there's clearly a problem."
-    publishedDateTime: 2020-10-06T15:07:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-returns-west-wing-becomes-ghost-town-ncna1242264"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2020_19/3340706/200507-white-house-building-ew-1119a_33a885892bd1f34f74ced0dd2d0969a4.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump hits the final sprint with an economy facing withdrawal"
     excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."

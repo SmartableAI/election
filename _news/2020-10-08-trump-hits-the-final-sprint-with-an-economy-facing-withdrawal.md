@@ -126,20 +126,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "As Trump returns, West Wing becomes 'a ghost town'"
-    excerpt: "When a White House official slams Trump as \"selfish\" for returning to a White House \"cesspool,\" there's clearly a problem."
-    publishedDateTime: 2020-10-06T15:07:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-returns-west-wing-becomes-ghost-town-ncna1242264"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media4.s-nbcnews.com/j/newscms/2020_19/3340706/200507-white-house-building-ew-1119a_33a885892bd1f34f74ced0dd2d0969a4.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "gK6MWNdZ4v6NoWdBF6kpP+9JgzVjTxVOqmS3e6WicyqmdjxSyBT//WncYP4fC5LaCm+gj0gYjJk+dPvM9op0g+6DpLAD+QPJMoIEURx+oRAg5n37HghsRuxqqwbexL2026Lcdre4ZknCWzVkMyuUDCbKuw2yuJ1GeIEXp2lZ752YUZkp5nQjX/75s7wWEkbiNZ5OLP3BZiM0k1dflwuF3YeqV5HpWYLqH+baLiOohSGw9SL11dHDstTbGJFQk1isgfbuHc9zEKadKx2A45FT8V5zFtpGH8+9pN6NE+bnCjde71dQtsVLXj+qYykW2O9mmPnbDeZ7+4Ga+mbHspdtem67kR3ybdEmXezq32aZ2V0=;Vq/eVFbV3g6qqlNJgNQZFw=="
 ---

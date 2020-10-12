@@ -346,22 +346,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump tries to prove he's back in fighting form in freewheeling Fox Business interview"
-    excerpt: "President Donald Trump returned to form on Thursday morning, engaging in a freewheeling, 55-minute interview on Fox Business in which he made bold claims about his health and coronavirus in general just days after announcing he had contracted the deadly disease."
-    publishedDateTime: 2020-10-08T16:28:00Z
-    webUrl: "https://www.politico.com/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 127
-    images:
-      - url: "https://static.politico.com/f9/8b/3ab7a55f40caacae2c7f314a0e1d/ap20279851367783.jpg"
-        width: 4145
-        height: 2763
-        isCached: true
   - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
     excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
     publishedDateTime: 2020-10-03T06:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3728
+heat: 3748
 published: true
 
 provider:
@@ -2290,6 +2290,20 @@ related:
     quality: 125
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f7d5000-586e-4d8a-829a-9f932df4e4c1/bbb62ccc-2ac6-445b-b64b-449c250d4db8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Liz Peek: Trump vs. Kamala Harris – here's how Pelosi blunder helps reelect president"
+    excerpt: "House Speaker Nancy Pelosi has stepped in it again. With yet another ill-considered political stunt, she has stirred up President Trump’s base like someone poking a hive of angry hornets, and at the same time put a spotlight on Kamala Harris."
+    publishedDateTime: 2020-10-12T11:18:00Z
+    webUrl: "https://www.foxnews.com/opinion/trump-kamala-harris-pelosi-blunder-liz-peek"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/01/22/694940094001_5992301989001_5992302652001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

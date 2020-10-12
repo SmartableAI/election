@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
 type: article
 quality: 135
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Column: African-Americans can teach white liberals how to cope with their hatred for Donald Trump"
+    excerpt: "My heart goes out to my liberal white friends who are struggling to deal with their hatred. I understand why the intense emotions you feel for Donald Trump seem foreign to you. America was established by your people and for your people,"
+    publishedDateTime: 2020-10-12T10:08:00Z
+    webUrl: "https://www.chicagotribune.com/columns/dahleen-glanton/ct-glanton-trump-white-people-hatred-20201012-ahu5epslnrhzxnuhcuooczsj3a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/dahleen-glanton/ct-glanton-trump-white-people-hatred-20201012-ahu5epslnrhzxnuhcuooczsj3a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/dahleen-glanton/ct-glanton-trump-white-people-hatred-20201012-ahu5epslnrhzxnuhcuooczsj3a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 112
+    images:
+      - url: "https://www.chicagotribune.com/resizer/flbU85pTu5lSzj012EJ5b3YXNmc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/42E4XCRD55ERNLKCK2M5ODA6ZM.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "'Treating us like garbage': New sanctions announced as many Iranian Americans feel fed up with Trump"
     excerpt: "Sanctions unveiled Thursday by the U.S. Treasury Department target Iran's financial sector. While some Iranian-Americans support Donald Trump, others are fed up."

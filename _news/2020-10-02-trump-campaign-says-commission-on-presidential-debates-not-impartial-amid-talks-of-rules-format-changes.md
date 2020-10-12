@@ -2308,6 +2308,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Liz Peek: Trump vs. Kamala Harris – here's how Pelosi blunder helps reelect president"
+    excerpt: "House Speaker Nancy Pelosi has stepped in it again. With yet another ill-considered political stunt, she has stirred up President Trump’s base like someone poking a hive of angry hornets, and at the same time put a spotlight on Kamala Harris."
+    publishedDateTime: 2020-10-12T11:18:00Z
+    webUrl: "https://www.foxnews.com/opinion/trump-kamala-harris-pelosi-blunder-liz-peek"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/01/22/694940094001_5992301989001_5992302652001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris-inspired shirts, fly-themed items pop up at online retailers following vice presidential debate"
     excerpt: "Following Wednesday night’s vice presidential debate between Sen. Kamala Harris and Vice President Mike Pence, a slew of online retailers, largely on Amazon and Etsy, began selling shirts emblazoned with the phrase “I’m speaking” or “Mr."
     publishedDateTime: 2020-10-08T12:52:00Z

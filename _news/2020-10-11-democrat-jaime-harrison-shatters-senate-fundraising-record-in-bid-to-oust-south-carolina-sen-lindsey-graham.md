@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/jaime-harrison-fundraisi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/jaime-harrison-fundraising-record-south-carolina-senate-race/index.html"
 type: article
 quality: 141
-heat: 141
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -29,6 +29,33 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "How Jaime Harrison's campaign could spend $57 million before Election Day"
+    excerpt: "It's a question most workaday campaign consultants could only dream of: how to spend $57 million in South Carolina in the final three weeks before Election Day, with voting already underway.\n    \n"
+    publishedDateTime: 2020-10-12T09:07:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Xble_9ZqWnU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/south-carolina-senate-race-jaime-harrison-money-lindsey-graham/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/south-carolina-senate-race-jaime-harrison-money-lindsey-graham/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200226171621-02-jaime-harrison-0120-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris’ Debate Win: The Redemption of the American Woman Has Begun"
+    excerpt: "It’s been a long, nightmarish four years for the American woman. But we’re coming back, and the Democratic veep is leading the way."
+    publishedDateTime: 2020-10-08T17:15:00Z
+    webUrl: "https://www.thedailybeast.com/kamala-harris-debate-win-the-redemption-of-the-american-woman-has-begun"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 44
 
 secured: "sbxaBhXal2R2CRFN6SrCHDQeigvY8pqTizLWB+Kuznioj8RqpRqnxpsinDi70/V6ORzOxvnYq22BwgF3y+/2i7TSSQRyCNgfqvgsEvPeFZL7CUs/fDSzwsOG4Jkga7pIv95OClg7RXPBUJW0fbIkL8zI52QYEv6Y/7fT5+7qwL3p2OsPltTVclTTiCSXkQHhiOu9YbZUVi3rDWsvSrNMSQZTETgHCd578V+i0IyGf/oXqCJ0zd033Rt9DdPUzQNILyvo2zJlJyvT+39oKjdIgIu7ny+Dz8XP+IrvVR5X+Ga9i74385jUkz9qmkYp2HtzsDIaFPaY1k8bQ8AhT8F+evqfh9Zix3mCbEPbcz3R1uE=;qR2ae1FmiUsQeA6gjerEqg=="
 ---

@@ -602,6 +602,22 @@ related:
         width: 3771
         height: 2514
         isCached: true
+  - title: "Joe Biden Missed Out on the Chance to Maximize His Social Security Benefits"
+    excerpt: "Presidential candidate Joe Biden is, like most older Americans, a recipient of Social Security benefits. In 2019, the Bidens collectively received a total of $52,595 from Social Security. The reality,"
+    publishedDateTime: 2020-10-12T10:01:00Z
+    webUrl: "https://tulsaworld.com/business/investment/personal-finance/joe-biden-missed-out-on-the-chance-to-maximize-his-social-security-benefits/article_be969eee-21a3-5298-a7ec-b6416ae5864d.html"
+    ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/joe-biden-missed-out-on-the-chance-to-maximize-his-social-security-benefits/article_be969eee-21a3-5298-a7ec-b6416ae5864d.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/joe-biden-missed-out-on-the-chance-to-maximize-his-social-security-benefits/article_be969eee-21a3-5298-a7ec-b6416ae5864d.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 73
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/2/22/2225d0c4-76ae-598e-b10b-4edfab41be1d/5f842d6535d34.image.jpg"
+        width: 700
+        height: 465
+        isCached: true
   - title: "Joe Biden to participate in prime-time town hall event on Oct. 15 in lieu of debate"
     excerpt: "Joseph R. Biden will participate in a prime-time town hall event hosted by ABC News on Oct. 15, the network announced on Thursday."
     publishedDateTime: 2020-10-08T21:29:00Z

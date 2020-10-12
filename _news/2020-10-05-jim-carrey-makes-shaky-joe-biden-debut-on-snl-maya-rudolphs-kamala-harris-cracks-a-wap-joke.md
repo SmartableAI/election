@@ -585,6 +585,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris on the debate stage: Sight of pride and hope for women of color"
+    excerpt: "Regardless of one’s personal politics, South Asians took pride in seeing one of our own on a national ticket. Kamala Harris remains an anomaly; she’s only the second Black woman elected to the Senate,"
+    publishedDateTime: 2020-10-12T11:06:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/Kamala-Harris-on-the-debate-stage-Sight-of-pride-15637845.php"
+    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/Kamala-Harris-on-the-debate-stage-Sight-of-pride-15637845.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/Kamala-Harris-on-the-debate-stage-Sight-of-pride-15637845.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 72
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/50/04/20087094/5/rawImage.jpg"
+        width: 2048
+        height: 1363
+        isCached: true
   - title: "Mike Pence and Kamala Harris face off — pointedly but civilly — in vice presidential debate"
     excerpt: "Senator Kamala Harris tied Vice President Mike Pence to a “disaster” of an economy, a “failure” of a coronavirus response, and a “weird obsession” with undoing the achievements of the Obama administration in a tense but civil debate between the two candidates Wednesday night that avoided the chaos of last week’s presidential debate."
     publishedDateTime: 2020-10-09T20:20:00Z

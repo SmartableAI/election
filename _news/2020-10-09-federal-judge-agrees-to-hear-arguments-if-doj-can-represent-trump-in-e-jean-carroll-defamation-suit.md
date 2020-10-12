@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/new-york-judge-doj-repre
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/new-york-judge-doj-represent-trump-e-jean-carroll/index.html"
 type: article
 quality: 160
-heat: 180
+heat: 160
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Fauci criticizes inclusion in Trump campaign ad"
-    excerpt: "The nation’s top infectious disease expert said his words were “taken out of context” in the ad praising the president’s response to the pandemic."
-    publishedDateTime: 2020-10-11T21:56:00Z
-    webUrl: "https://www.politico.com/news/2020/10/11/fauci-trump-campaign-ad-428761"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/fauci-trump-campaign-ad-428761"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/fauci-trump-campaign-ad-428761"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/76/63/6cbf38c74890add93c614b66c8e1/200923-anthony-fauci-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "FVD3hVV+S0wkRljI4aYbRq0YH7oSgdDWZil6MaXXs7WubqaBH49ZmUrQD77WBGw/3iT4n1MDXytdh8lLtDn7sefmVvr/MXKMrAhVqYhVsp3UPFAZJZcCelf/miDn4DVnImBOLP+0+VnNGrP0Xjy0MA+o3aiatHwgyOjwRDlwMICXiNtg2L2ASWt0IBG+3ul1/DxGjt+dgmR4MgbItCP6yJGLSMTSToc+i7AJJaWgYZYBk65zounQRzgk423l7vn+sqStADmQol7xs2W5HNGGC8iDVLv91W+mWxtS7LK+sQrys5g+PRmq+g319h30fb6d1fu6LUhhsTPhvM7puqGpC2NnRbV7FLiC2Z69icqHOPA=;lhCiXU6AZT321/bCAlSm4g=="
 ---

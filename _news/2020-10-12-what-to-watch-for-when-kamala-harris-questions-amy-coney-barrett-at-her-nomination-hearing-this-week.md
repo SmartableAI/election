@@ -2,19 +2,19 @@
 category: news
 title: "What to watch for when Kamala Harris questions Amy Coney Barrett at her nomination hearing this week"
 excerpt: "Sen. Kamala Harris, in her dual role on Judiciary Committee and as vice presidential nominee, will question Supreme Court nominee Amy Coney Barrett."
-publishedDateTime: 2020-10-12T00:23:00Z
-originalUrl: "https://www.freep.com/story/news/politics/elections/2020/10/11/kamala-harris-question-supreme-court-nominee-amy-coney-barrett/5937743002/"
-webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/11/kamala-harris-question-supreme-court-nominee-amy-coney-barrett/5937743002/"
-ampWebUrl: "https://amp.freep.com/amp/5937743002"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5937743002"
+publishedDateTime: 2020-10-12T11:13:00Z
+originalUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/11/kamala-harris-question-supreme-court-nominee-amy-coney-barrett/5937743002/"
+webUrl: "https://www.tennessean.com/story/news/politics/elections/2020/10/11/kamala-harris-question-supreme-court-nominee-amy-coney-barrett/5937743002/"
+ampWebUrl: "https://amp.tennessean.com/amp/5937743002"
+cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5937743002"
 type: article
 quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - Election
@@ -123,6 +123,6 @@ related:
       domain: azcentral.com
     quality: 40
 
-secured: "wLM25e0autvhAaHAPQQX4WLFtH9PI7hSsBNfnHW9xciCLF0z8SM308RR2rxvRkiVE8dZ9Bcf58sYTFE3Jy1g8qCNFOSafIMMtlD/npGgzIYej1URKN4ko5N6Swft5T4UZ47EPAgzuC7BRkSRMn6Vuqa2fauv7TccTPJT9oJGt87h8JCTXxXZoFNMg7JofPGUCRdA6YUedFdXke9c3Lgy9XDG0biExeHubNuOMOuGkFpZGtI6DhfxrI0Z8iZm/KwFS3rn6YI8kSd/rBcjWWDFe+MAK3Y0siAZbrnvIRiAscoHT863dLmRaSNy2+2HqjWnoMyRXUf68BslTtkygAEsPaVpSP1msxCU70ZjoH04SSIN4Y30B6mYvztH1qLmB2cP6QgM8Atp1URYaZv5OGmA6z7SXpYl0/GMZAN2hY29YgfvMv0GsDGbfZ8+ziO14okEKy37GB8M1FpHvenzD2rAwAQtJSIx1V/OmsaeYHaURXTvVJnUZ+IRj+7Qh/XITZGSVvy7WznI5cpDnke7xq961w==;B1z93RJml3gLD7SPa112aA=="
+secured: "mdcfZQ4bWuCCkjV9X4LMnXDGt4fZ2PrWzfnKCGa/sogaiS3lKE8ulKwBoCBQTJCs6DaKiPISjs0336gV9Axpb6C7BEc3BwmZ/N9nQ/s2gC7g5tD1e9nAwCffkZxokCdap5hbbQ3ACgGg0fbNDy78tWC7UEXMZLOqvFecQugcTXTOWKxA70xZV9QwBE10L+fhn+NpwGmnXOhT95R8xuODOSA3Q9a9INjgHeZaoD5zGXToCr9+psIDCoD0NRYCZk2YWZnf12yNoe3x1sAT7VOUL1OrMqz68utHKZjXeVI7rZ/XH7ISgnf3Q46mVuk52+aCij9WP/4sqSfk+Zr/O4ScKmrndzXEDQea8xGXj5AMiCQ=;vgkhQdqfbrgj/9LYzXYxUw=="
 ---
 

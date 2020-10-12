@@ -592,6 +592,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris on the debate stage: Sight of pride and hope for women of color"
+    excerpt: "Regardless of one’s personal politics, South Asians took pride in seeing one of our own on a national ticket. Kamala Harris remains an anomaly; she’s only the second Black woman elected to the Senate,"
+    publishedDateTime: 2020-10-12T11:06:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/openforum/article/Kamala-Harris-on-the-debate-stage-Sight-of-pride-15637845.php"
+    ampWebUrl: "https://www.sfchronicle.com/opinion/openforum/amp/Kamala-Harris-on-the-debate-stage-Sight-of-pride-15637845.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/openforum/amp/Kamala-Harris-on-the-debate-stage-Sight-of-pride-15637845.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 72
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/50/04/20087094/5/rawImage.jpg"
+        width: 2048
+        height: 1363
+        isCached: true
   - title: "Lonnie Durfee, of Dalton, arrested in connection with display in support of Joe Biden, Kamala Harris at Western Massachusetts farm"
     excerpt: "A Western Massachusetts man has been arrested in connection with the destruction of a public display of support for the Democratic presidential nominee."
     publishedDateTime: 2020-10-10T17:23:00Z

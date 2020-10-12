@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/maya-rudolph-reveals-goal-of-her-snl
 webUrl: "https://www.thedailybeast.com/maya-rudolph-reveals-goal-of-her-snl-kamala-harris-after-vp-debate-i-need-to-make-sure-she-wins"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -22,17 +22,6 @@ topics:
   - Election
   - Kamala Harris
   - Democratic Voice
-
-related:
-  - title: "Kamala Harris’ Debate Win: The Redemption of the American Woman Has Begun"
-    excerpt: "It’s been a long, nightmarish four years for the American woman. But we’re coming back, and the Democratic veep is leading the way."
-    publishedDateTime: 2020-10-08T17:15:00Z
-    webUrl: "https://www.thedailybeast.com/kamala-harris-debate-win-the-redemption-of-the-american-woman-has-begun"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 44
 
 secured: "PYdR4qK7NFswzEElGw4iDDJ0AW3t2Ib8/R5BmtPpaowAXecR1oCwguz9iX2/qzXFkLq+i0IWCupxRwC0yUOOalQ0GD3OHeIPgWCkCU3XmCr9vHTqR4D2jopi7VOVFFm4LkakB/Fs4g+71UVW+ZH30quL6J1vsAucJkKTObahK7SL3clJ25TAcxeeA0Esec8p8nDFDhaF39RjxDuJTullp/rGmTd4FC/F31t5ubFs1P1z7QM6lFZ0hcI1+7SlaVIRSWSr9mRAR7L9wh2DlUY9Q8FAjP1h+K07k47Pz7fyeRUEhppDkx6LnKFNMmrRKYLQBBPShLvJs5+Ci2u+oNkrBaguDm7q6FZcWAgC5lk1sch3vfx+uRnfBZxttS9ixTgleO0nMFRXHDNiW+Sh22dIAv2+CtFsj5PuaL9/I2jzM/NMxMFGLRnOd8D7OiUzShgwxg/ppd6yXtIluWSD3KCvWDSnjSpJsJ4VbIlECbE3MFD06nOWq3UkUdPhyBeytDvelk5mT1szxcVh2zOwNjZ0yQ==;iqUFUvcMehX+L8Ft7DNlfQ=="
 ---
