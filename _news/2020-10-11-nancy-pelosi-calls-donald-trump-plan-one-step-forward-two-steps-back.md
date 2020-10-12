@@ -21,22 +21,6 @@ topics:
   - Donald Trump
 
 related:
-  - title: "In 25th Amendment bid, Pelosi mulls Trump's fitness to serve"
-    excerpt: "House Speaker Nancy Pelosi is questioning President Donald Trump's fitness to serve, announcing legislation Thursday that would create a commission to allow Congress to intervene under the 25th Amendment to the Constitution and remove the president from executive duties."
-    publishedDateTime: 2020-10-09T04:05:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_7037dad961d744cb84711d4fe7797ae7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump Jr. pushes back on Pelosi asking if steroids influenced the president"
     excerpt: "Donald Trump Jr. pushed back on Speaker Nancy Pelosi (D-Calif.) on Wednesday after the Democratic leader questioned whether steroids influenced President Trump’s"
     publishedDateTime: 2020-10-07T15:28:00Z
@@ -53,21 +37,37 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Why Trump's illness probably won't persuade anti-maskers to take the coronavirus seriously"
-    excerpt: "Data show more people may wear masks after Trump's coronavirus diagnosis, but some will be anti-mask regardless of evidence. Psychologists explain why"
-    publishedDateTime: 2020-10-11T09:16:00Z
-    webUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
+  - title: "President Trump Ends Next Stimulus Package Negotiations Between Mnuchin And Pelosi"
+    excerpt: "President Trump has instructed his representatives, which to this point have consisted of Treasury Secretary Steven Mnuchin and White House chief of staff Mark Meadows, to stop negotiations until after the election."
+    publishedDateTime: 2020-10-06T19:31:00Z
+    webUrl: "https://www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/"
+    ampWebUrl: "https://www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
+      name: Forbes
+      domain: forbes.com
+    quality: 119
     images:
-      - url: "https://i.insider.com/5f7c9266282c500018c78d96?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cc4d4c5a627c507008af0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4752%26cropY1%3D0%26cropY2%3D2673"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized"
+    excerpt: "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\""
+    publishedDateTime: 2020-10-05T12:24:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3621055001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
     excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
@@ -100,6 +100,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/democratic-house-speaker-nancy-pelosi-wants-to-spend.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
+    excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
+    publishedDateTime: 2020-10-06T14:54:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 51
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "uf9eZHpmuN4xsi56J+CBHtt2xiBNCn0/GwbcPWAaxZRsTfG1uCQZ6FXzPq2mBLCsir3itjcbImVpAv1yTFmyvc8zdr1VpGBcB76ee8BqvVOOhhbE28RSPE84yJW3BAAx6tXH9eygcea3STILaTVEDqaByXQqgFH2bTXalX5Q+xGTIpwbfDyAEfLp96yt/EEMvHLTjZmmMHHRATY1lRvnvpx3q7GQ69J8LLIozddVZghzC8vwZ+D6Uu+N8JGsrDbLz/h03I4loje4wKLgdLuiWva3PXekvbSGdaSatDa4/tdOWwV8ynMD1cwxj+zT5Rcrlw/PbkOOX1bp8cp+H0114/cPhskscopKrESMItS+13xK2NKDLkS6NOOLz6sZ4EXATR8fGCfp8YIgdRWAh0pbjVfh+VQu4jbXhuuULLCiOCAH93ZcyS+WPALuu0s3URvmBGyviM5fOV+arXPE4q4CJHDhKU79K0gaphJ3LaiZefd+0EZycxqNQAM/iByCzuc9sw/czJTUHV3gR6CrgMU6HQ==;4FScEt34lz0i9e2ZGGxdpQ=="

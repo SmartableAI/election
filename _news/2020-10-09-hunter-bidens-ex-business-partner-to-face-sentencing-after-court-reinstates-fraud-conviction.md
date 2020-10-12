@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-business-partner-devon
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-business-partner-devon-archer-fraud-conviction.amp"
 type: article
 quality: 164
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -117,6 +117,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "To defend Biden, media and Democrats simply redefine ‘court-packing’"
+    excerpt: "Democratic nominee Joe Biden and his allies in Congress have hit on a new strategy to distract from the fact that he refuses to say whether he supports packing the Supreme Court."
+    publishedDateTime: 2020-10-12T13:45:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/to-defend-biden-media-and-democrats-simply-redefine-court-packing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/to-defend-biden-media-and-democrats-simply-redefine-court-packing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/to-defend-biden-media-and-democrats-simply-redefine-court-packing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
     excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
     publishedDateTime: 2020-10-07T13:30:00Z

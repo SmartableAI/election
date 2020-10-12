@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-li
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenrobinsonjacobs/2020/09/26/biden-likens-trump-to-nazi-spin-minister-goebbels/amp/"
 type: article
 quality: 140
-heat: 2280
+heat: 2260
 published: true
 
 provider:
@@ -1265,22 +1265,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/27/after-months-of-shadow-boxing-president-donald-trump.jpg"
         width: 837
         height: 768
-        isCached: true
-  - title: "How to watch Tuesday night’s debate between President Donald Trump and Joe Biden"
-    excerpt: "President Donald Trump and former Vice President Joe Biden will take the debate stage in Cleveland, Ohio, on Tuesday night, the first of three chances for the Republican incumbent and Democratic challenger to square off publicly and make crucial pitches to millions of Americans before they head to the polls on Nov."
-    publishedDateTime: 2020-09-28T15:49:00Z
-    webUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html"
-    ampWebUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 85
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/32Z6KP6S3BF4ZJA5CRALCVXQFU.jpg"
-        width: 1759
-        height: 1124
         isCached: true
   - title: "$750. Again. And again. The amount Trump twice paid in taxes will be Biden's magic number during the first presidential debate, insiders say"
     excerpt: "Trump's taxes present Biden with an effective attack line to cast doubt on the president's character and wealth, insiders say."

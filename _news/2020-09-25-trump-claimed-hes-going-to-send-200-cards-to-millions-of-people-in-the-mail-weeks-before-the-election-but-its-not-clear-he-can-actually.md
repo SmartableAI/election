@@ -47,20 +47,6 @@ related:
         width: 1199
         height: 798
         isCached: true
-  - title: "Donald Trump Jr. explains President Trump's debate stance by saying he's \"a fighter\""
-    excerpt: "In an interview with CBS News, Donald Trump Jr. explained the president's aggressive debate stance by saying he's \"a fighter\" and that \"he hasn't been treated fairly.\" Watch his remarks here."
-    publishedDateTime: 2020-09-30T03:42:00Z
-    webUrl: "https://www.cbsnews.com/video/donald-trump-jr-says-president-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 98
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/e37a821c-16fe-4f28-a940-a5d1e05788b0/thumbnail/1200x630/07b8728a4bd9bbe4806d3dda7a32ba37/cbsn-fusion-donald-trump-jr-says-president-trump-thumbnail-556615-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yoDImZqhE70DUz5fZ5eE7TupER1ress08WJMXJ3Swi1ya1fT7t18ynQn4utn9s4+OzlclfXi/i1GAltNEi1uRXsYnoAfY2uIaYtWkBM+zMdzK6HykrpcktB8aD4q9LTU/2ncy7OpXsROoV9JDshMab82YHNdlIMNp2YAENlysQtSGzqHXO9TON6SRDTJH1jCteZ8j3YTeGqQw4d2Oodtjs0f/g87SRH5z6e79IwOkuQTgUQjG2hYdPzFW1fXcRHUBjJ8SZFc9FUcBtPLnsrOM4iNyEbeCCea1N0BjFHXPMnLH/ZL85CfNhE9IxSGu10EgTJWH9k3ycBi6Wu+sv8cTmaTUovC5QlfkLNiLTWA8/pINGRg8Olvx/cXbKGMo2hwu5qCoB2FuiKG0qkJgxzCZSFAQL9wVByfivrYYf6lsYkwteigw5FKmz9ql4kGtID/IRiQODx4Eea4y1xUG+hKLyCqqgt7VmcS9PrWcVGYobwlV29Xf/euHEo61EY2RdbMJum1ltaooBEjRZlWYjVRJA==;733mQAjxyDtTZgVgmR2fVw=="
 ---

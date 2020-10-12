@@ -128,6 +128,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "To defend Biden, media and Democrats simply redefine ‘court-packing’"
+    excerpt: "Democratic nominee Joe Biden and his allies in Congress have hit on a new strategy to distract from the fact that he refuses to say whether he supports packing the Supreme Court."
+    publishedDateTime: 2020-10-12T13:45:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/to-defend-biden-media-and-democrats-simply-redefine-court-packing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/to-defend-biden-media-and-democrats-simply-redefine-court-packing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/to-defend-biden-media-and-democrats-simply-redefine-court-packing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "BxyxoaOZ1PFM6xzkfE8CL1UyhMuegeUjeRvFrsEQlngj9jlf0yb4h2EIdjce9JaCzeYLoUtCBCz0mSuKU94hNuiE/F9z5MhgQ4doiTzOlPL6tISelCZRJ2D7zRFh7Lv7UB/hVuSrqRr+DHkwx9yfGFSE3n8WoNR3iMz0CRiS4evV7Dost/MO914DJqE3tII3kPV4kA9eC6vJesl3If2nxvfj7sOdGGg+3a5shDDOEU6+RjM+j/qQEPQzkAz/AQUJ0UPmyZNbPZXROPeB7UNF3kI6bLzb2gTHKOie/RvBlELb9rVpXPWOJEKy4WkOjncW23ZaucTCNPIELFN4ui364+/IyTl52khZXmPM9bWcItp23Yj7n8oQ60RR5moBhOwbReHDdXdUmcPQ0MusxIxf8vUogbizVUA2N5sL67HVW7GY3A80cRHygHUI0VUEk7qH8rK4+Jsy9e4qjzoTZ+dcLVxgIMhKSuKN8GKk/MwYnkDyTwa4NyOVnrziT44KBnrNDpb+p+cy5JnRYZc+1Ra+LA==;6itKIkTIOJzak69G9acx/w=="
 ---

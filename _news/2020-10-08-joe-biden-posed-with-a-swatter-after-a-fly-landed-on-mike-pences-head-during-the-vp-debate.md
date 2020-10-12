@@ -48,22 +48,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "WATCH: Joe Biden glad Trump is better, notes crisis is ‘far from over’"
-    excerpt: "Former Vice President Joe Biden delivered remarks about economic recovery for Latino communities amid the COVID-19 pandemic while visiting Little Havana in Miami on Monday."
-    publishedDateTime: 2020-10-05T20:56:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 140
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/GettyImages-1228584412-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Concern over Biden's possible exposure to COVID-19 after Trump tests positive"
     excerpt: "New concerns have surfaced about former Vice President Joe Biden's possible exposure to COVID-19 following President Trump's positive diagnosis announced early Friday."
     publishedDateTime: 2020-10-02T17:02:00Z
@@ -192,22 +176,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Here's who would pay more under Joe Biden's tax plan"
-    excerpt: "Joe Biden's tax plan increases taxes on those earning at least $400,000 per year. But the burden will fall primarily on the highest earners, those making more than $1 million a year, according to an analysis from the Tax Policy Center."
-    publishedDateTime: 2020-10-07T16:16:00Z
-    webUrl: "https://www.cnbc.com/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 125
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106732322-1602003544711-gettyimages-1278126590-cs026704_2020100245452297.jpeg?v=1602003584"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Joe Biden’s campaign, summed up in one simple gesture"
     excerpt: "Jill Biden reminding her husband of proper social distancing -- and his response -- says everything about his campaign."
     publishedDateTime: 2020-10-06T22:47:00Z
@@ -223,70 +191,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K2WXIHAHEII6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "New York Times editorial board endorses Biden"
-    excerpt: "The New York Times editorial board endorsed Joe Biden's White House bid on Tuesday, throwing its support behind the former vice president&nb"
-    publishedDateTime: 2020-10-07T02:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_100620getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Why are seniors breaking hard to Joe Biden?"
-    excerpt: "But one thing that plainly is happening is that seniors are moving to Biden in surprising numbers. If these polls are outliers, the impression of movement among seniors may be inflated, but we can be reasonably sure that this movement is in fact happening to some degree,"
-    publishedDateTime: 2020-10-06T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTCTYTQICMI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Joe Biden pulls off a big speech at a sacred location"
-    excerpt: "The Democratic nominee is no Lincoln but, with Gettysburg as the backdrop, he delivers perhaps the best speech of his career."
-    publishedDateTime: 2020-10-07T18:45:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4SWWKPQIDMI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "How Joe Biden Can Change The World"
-    excerpt: "A Biden Presidency is seen by some as an 'interregnum' but climate change, human development and Latin America offer him a chance to make a lasting impact."
-    publishedDateTime: 2020-10-09T15:59:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2020/10/09/how-joe-biden-can-change-the-world/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2020/10/09/how-joe-biden-can-change-the-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2020/10/09/how-joe-biden-can-change-the-world/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8086f837a381a01f0a2999%2F0x0.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "For the good of the country, Biden must answer the court-packing question"
     excerpt: "If a Democrat of national prominence has stepped up to defend the court as an anchor of stability in a deeply divided country, I missed it. “Court packing” is now a major issue in the presidential campaign because neither Democratic presidential nominee Joe Biden nor his running mate,"
@@ -304,22 +208,6 @@ related:
         width: 1440
         height: 958
         isCached: true
-  - title: "The US's cold war with China won't disappear if Joe Biden becomes president"
-    excerpt: "A change of president would be a relief to progressives, but don’t expect a thaw in relations with Beijing, says Alex Doherty of the Politics Theory Other podcast"
-    publishedDateTime: 2020-10-12T07:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/oct/12/us-cold-war-china-disappear-joe-biden-president-beijing"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/oct/12/us-cold-war-china-disappear-joe-biden-president-beijing"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/oct/12/us-cold-war-china-disappear-joe-biden-president-beijing"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/e878869e9ed518efec0643ff9e45eb7f392e4c18/0_8_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3aef1b480e517db9ef1a3119de0625b4"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Fact check: Joe Biden faces friendly fire – partly false – over age, pot, prisons and more"
     excerpt: "An Instagram user levels strong charges against former Vice President Joe Biden but says he will vote for him against Trump"
     publishedDateTime: 2020-10-01T12:40:00Z
@@ -336,22 +224,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Poll after poll suggests Trump's chances of defeating Biden are rapidly dwindling after the debate and the president's COVID-19 diagnosis"
-    excerpt: "The election is less than four weeks away, and COVID-19 positive Trump is in the negative on multiple fronts."
-    publishedDateTime: 2020-10-07T21:13:00Z
-    webUrl: "https://www.businessinsider.com/polling-suggests-trump-chances-of-defeating-biden-rapidly-dwindling-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/polling-suggests-trump-chances-of-defeating-biden-rapidly-dwindling-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/polling-suggests-trump-chances-of-defeating-biden-rapidly-dwindling-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5f7e230fc655f6001969eca1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Joe Biden's whistle-stop train tour to battleground states"
     excerpt: "Joe Biden and his wife Jill take the stage in front of their campaign train during a campaign stop in Pittsburgh, Pennsylvania, September 30. REUTERS/Mike Segar"
     publishedDateTime: 2020-10-01T22:40:00Z
@@ -366,62 +238,6 @@ related:
         width: 810
         height: 540
         isCached: true
-  - title: "Joe Biden campaigns in Miami"
-    excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-05T20:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201005202222-joe-biden-campaigns-in-miami/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/05/story_07124914_1601930944.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden on economy & working families"
-    excerpt: "Watch \"Joe Biden delivers on economy & working families\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-10T21:32:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201010210848-joe-biden-delivers-on-economy-working-families/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/10/story_07203810_1602365464.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "These Zip Codes Are Donating the Most Money to Joe Biden"
-    excerpt: "The top 50 zip codes that have been most generous toward the Biden for President campaign span nine states, although 14 were contained within the island of Manhattan alone."
-    publishedDateTime: 2020-10-11T14:02:00Z
-    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-joe-biden-1537886"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 105
-    images:
-      - url: "https://d.newsweek.com/en/full/1648835/zip-codes-donating-most-money-joe-biden.jpg"
-        width: 1010
-        height: 720
-        isCached: true
-  - title: "Why Big Oil Should Vote for Joe Biden"
-    excerpt: "A Biden administration would absolutely kill our industry. Such comments from oil and gas chiefs featured in the Dallas Fed’s latest sector survey. It is received wisdom that, if elected president alongside a few more Democratic senators,"
-    publishedDateTime: 2020-10-12T12:04:00Z
-    webUrl: "https://www.washingtonpost.com/business/energy/why-big-oilshould-vote-for-joe-biden/2020/10/12/949105a4-0c82-11eb-b404-8d1e675ec701_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SK242PAMQII6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
     excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
     publishedDateTime: 2020-10-06T12:21:00Z
@@ -435,22 +251,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/37/00/20049927/5/rawImage.jpg"
         width: 2048
         height: 1366
-        isCached: true
-  - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
-    excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
-    publishedDateTime: 2020-10-08T10:40:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/08/second-debate-with-biden-going-virtual-amid-trumps-covid-19/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/08/second-debate-with-biden-going-virtual-amid-trumps-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/08/second-debate-with-biden-going-virtual-amid-trumps-covid-19/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 83
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/Virus_Outbreak_46522-2.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Biden campaign sees opportunity in military women, spouses and people of color"
     excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
@@ -541,54 +341,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Taylor Swift endorses Joe Biden"
-    excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
-    publishedDateTime: 2020-10-08T04:37:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
-        width: 1024
-        height: 736
-        isCached: true
-  - title: "Joe Biden for president"
-    excerpt: "America is in peril. Our nation is buffeted by crises, and the warning lights are flashing red. We need a president with experience and character, someone who can extinguish the flames and rebuild the"
-    publishedDateTime: 2020-10-10T11:06:00Z
-    webUrl: "https://www.newsday.com/opinion/editorial/2020-presidential-election-joe-biden-newsday-opinion-1.50032702"
-    ampWebUrl: "https://www.newsday.com/amp/opinion/editorial/2020-presidential-election-joe-biden-newsday-opinion-1.50032702"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/editorial/2020-presidential-election-joe-biden-newsday-opinion-1.50032702"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 75
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50032703.1602331572!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "Joe Biden Takes a Dark Turn on Blowing Up the Court"
-    excerpt: "Now voters “don’t deserve” to know his position. This transmutes an untenable position into a downright nefarious one."
-    publishedDateTime: 2020-10-10T18:30:00Z
-    webUrl: "https://www.nationalreview.com/corner/joe-biden-takes-a-dark-turn-on-blowing-up-the-court/"
-    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-takes-a-dark-turn-on-blowing-up-the-court/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-takes-a-dark-turn-on-blowing-up-the-court/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/biden-vegas.jpg?fit=1200%2C675&ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Did you see on social media Joe Biden wore a wire during the debate? Not so"
     excerpt: "While some posts zoomed in on Biden’s shirt near his lapel to make the false claim, others used photos or videos that captured something sticking out from under his shirt cuff. In fact, Biden was wearing his late son Beau’s rosary beads on his wrist."
     publishedDateTime: 2020-10-03T22:54:00Z
@@ -604,22 +356,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/QHCBXMHX25A3XAEEKSJCBRMQ6A.jpg"
         width: 3771
         height: 2514
-        isCached: true
-  - title: "Joe Biden Missed Out on the Chance to Maximize His Social Security Benefits"
-    excerpt: "Presidential candidate Joe Biden is, like most older Americans, a recipient of Social Security benefits. In 2019, the Bidens collectively received a total of $52,595 from Social Security. The reality,"
-    publishedDateTime: 2020-10-12T10:01:00Z
-    webUrl: "https://tulsaworld.com/business/investment/personal-finance/joe-biden-missed-out-on-the-chance-to-maximize-his-social-security-benefits/article_be969eee-21a3-5298-a7ec-b6416ae5864d.html"
-    ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/joe-biden-missed-out-on-the-chance-to-maximize-his-social-security-benefits/article_be969eee-21a3-5298-a7ec-b6416ae5864d.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/joe-biden-missed-out-on-the-chance-to-maximize-his-social-security-benefits/article_be969eee-21a3-5298-a7ec-b6416ae5864d.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 73
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/2/22/2225d0c4-76ae-598e-b10b-4edfab41be1d/5f842d6535d34.image.jpg"
-        width: 700
-        height: 465
         isCached: true
   - title: "Joe Biden Once Again Refuses to Answer Whether He’ll Blow Up the Supreme Court"
     excerpt: "I want to underscore once again just how flatly unacceptable Joe Biden’s now oft-repeated non-answer on packing the Supreme Court is."
@@ -685,20 +421,6 @@ related:
         width: 956
         height: 1144
         isCached: true
-  - title: "In year of surprises, a win by Joe Biden should not be one"
-    excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
-    publishedDateTime: 2020-10-07T13:54:00Z
-    webUrl: "https://www.rollcall.com/2020/10/07/in-year-of-surprises-a-win-by-joe-biden-should-not-be-one/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 55
-    images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/MAIL_IN_BALLOTS_004_10052020.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Is Joe Biden the Konrad Adenauer of the U.S.?"
     excerpt: "Former Vice President Joe Biden, the candidate who marched from victory to victory thereafter, and who is now both the Democrats' standard-bearer and the substantial favorite to be the next president,"
     publishedDateTime: 2020-10-07T09:41:00Z
@@ -711,31 +433,6 @@ related:
     images:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/bidenauer.jpg?itok=0tKkr3o7"
         width: 1260
-        height: 560
-        isCached: true
-  - title: "Dear Joe Biden: Don’t attend the next debate"
-    excerpt: "Since the coronavirus pandemic arrived on America’s shores, Democratic presidential nominee Joe Biden has done what President Trump is seemingly incapable of doing: He’s consistently demonstrated how Americans should protect themselves and others from COVID-19."
-    publishedDateTime: 2020-10-07T21:35:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
-  - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
-    excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"
-    publishedDateTime: 2020-10-11T11:12:00Z
-    webUrl: "https://theweek.com/speedreads/942651/trumps-campaign-wild-conspiracy-theory-about-why-next-debate-going-virtual"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 53
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1228794954.jpg?itok=3OW1dKsi"
-        width: 840
         height: 560
         isCached: true
   - title: "Joe Biden's polling lead expands since first debate - but 2016 offers lessons"
@@ -765,33 +462,6 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden speaks briefly with reporters and says that if the scientists say it’s safe to go forward with the upcoming… read more Joe Biden, a 2020 Democratic presidential candidate,"
     publishedDateTime: 2020-10-05T16:26:00Z
     webUrl: "https://www.c-span.org/event/?476553/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Comments to Reporters on Future Debates"
-    excerpt: "Democratic Presidential Candidate Joe Biden took a couple of reporters' questions before boarding a plane in Hagerstown, MD. The Former Vice President held an event earlier in the afternoon a short distance away in Gettysburg,"
-    publishedDateTime: 2020-10-07T03:32:00Z
-    webUrl: "https://www.c-span.org/video/?476654-1/joe-biden-debate-ahead-president-covid-19"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Comments to Reporters"
-    excerpt: "Democratic 2020 presidential nominee Joe Biden answered a couple of reporters' questions before boarding vice president… White House Chief of Staff Mark Meadows talked to reporters about President Trump and the First Lady’s testing"
-    publishedDateTime: 2020-10-07T23:52:00Z
-    webUrl: "https://www.c-span.org/event/?476723/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Remarks to Reporters"
-    excerpt: "Democratic vice presidential candidate Joe Biden congratulates Senator Harris for her performance at the debate. He also responds to a question on the second presidential debate after the CPD announced it would take place virtually."
-    publishedDateTime: 2020-10-08T14:22:00Z
-    webUrl: "https://www.c-span.org/event/?476765/"
     type: article
     provider:
       name: C-SPAN

@@ -92,6 +92,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump complains Republicans giving Democrats 'great deal of time' to talk during Barrett hearing"
+    excerpt: "President Trump complained Monday morning that Republicans on the Senate Judiciary Committee were giving Democratic members a “great deal of time” to speak during Judge Amy Coney Barrett’s Supreme Court confirmation hearing, saying he would “pull back.”"
+    publishedDateTime: 2020-10-12T14:49:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sI501h3HP2U/trump-democrats-amy-coney-barrett-hearing-time-to-talk"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286472723142-e1602512962193.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Zd3n8yB/R4ot0f99dn8qvVs8BxACSII1Yn5swgV17uvtFx4MNj/SLZjaT67kqjDpL5+ZJwSn1BVgmxPvao7RohVjyoPH3zpHAwMCfzIC/QK3aS4SKMG4+5/9jff4mn2qADgWmme72A6R+al1U4Y1M9F/ZwD7QmaRqg8aJkSgdFcR3bmc3oWf6Cv1EHACxA+Hg/p09Xv6qQh74avSpU7m0cwxW+iBKCc1Jnxa0CZcljybu9bjKWDOj2f4yfeqPlHDEETAJ8Bhm9d07K+jD9pUM6b1F5SWnhTxrm3jfxtb0qN0nNUz2pnGGlG77gbJAul0YBCVUK6a63czct35dBzogMilxMgAc69TQxwLZoLgwXA=;DE4XZO/k8zMB0t9uzVI5zg=="
 ---

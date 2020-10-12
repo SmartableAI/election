@@ -41,6 +41,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump says he is free of COVID-19 as he aims to get back to campaign trail"
+    excerpt: "U.S. President Donald Trump said on Sunday he is fully recovered from COVID-19 and will not be a transmission risk to others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
+    publishedDateTime: 2020-10-11T18:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26W09G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W09G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W09G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537013841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A05D"
+        width: 861
+        height: 545
+        isCached: true
+  - title: "Trump says he is recovered from COVID-19, prepares for return to campaign trail"
+    excerpt: "U.S. President Donald Trump said on Sunday he had fully recovered from COVID-19 and was not an infection risk for others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
+    publishedDateTime: 2020-10-11T21:16:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUSKBN26W0AG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0AG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0AG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537013841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A05D"
+        width: 861
+        height: 545
+        isCached: true
   - title: "China's Xi wishes Trump speedy recovery: Chinese state media"
     excerpt: "Chinese President Xi Jinping sent a message to U.S. President Donald Trump and his wife Melania on Saturday, wishing them a speedy recovery from the coronavirus, Chinese state television reported."
     publishedDateTime: 2020-10-03T10:46:00Z
@@ -50,6 +82,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 85
+  - title: "Trump's Indian Fan Who Fasted For President's COVID-19 Recovery Dies Of Heart Attack"
+    excerpt: "\"He was upset when he learned about Trump testing positive for the COVID-19. He spent sleepless nights, starved and prayed for the U.S. President Trump's recovery for the past three-four days,\" his friend told local media."
+    publishedDateTime: 2020-10-12T11:37:00Z
+    webUrl: "https://www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756"
+    ampWebUrl: "https://www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "rGSfb+2JcTHDY6CGH5zllc3+9ShTPm/JTCjcvDAJXoVIRQy6Lrk9BMwoyGfaYi7cUT0Elgf+xCtipb6RlqWy46qMeg7PBYpm9evjbmEINQ7VIZfbIN8mt+egkbCbrITMFoL6A7BS6T9jHj5j9ZHtVpFWwgBGe1zTuJiJHW87MPNoTsGeF/cWRybsRprZC6xYKVq1JrKEgMZxBAC2K50AdztFegeXk5f6Y77iQzBJZYz2tvnM1LeM9jrDqzENXWHOV/CTH++raBGh62J3gPBU02FIU2i/VgxBg4+6up26AbpSEXoaNGMBWoOL0WG7UQBAPlYVLDPHVMYs7gG/wlgM5Oeo+SN1H2WStsUL9RsUZ33iot4pzmLeDInv8ILc2BBK1IyclLcrvG7EJFHXVq6FLDt7p43ofriqHpnZc82+h0ZicaC1BbA3HtgY/IT22rTAq2oQkZDWSan4gggKDWpMn0c1ZFgfutFaap4n1kIGhIGVl0Yt7VQyx6kcjBB0Uk16NO9zqhKblKQL/HEAU5Um4w==;nEYBRtc9XyZ05s3DspSTFQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-am
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
 type: article
 quality: 125
-heat: 485
+heat: 465
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://i.insider.com/5f2929b15af6cc2fdc1eed75?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump's performance was a gift to American democracy"
-    excerpt: "If Trump’s questionable display brought us one step closer to seeing the reality of who he is and what he means for the country, then Trump unwittingly offered us all a gift — a clarion call to step up now and save democracy itself."
-    publishedDateTime: 2020-10-03T19:00:00Z
-    webUrl: "https://thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy"
-    ampWebUrl: "https://thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519469-trumps-performance-was-a-gift-to-american-democracy?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/trumpdebate_getty.jpg"
-        width: 645
-        height: 363
         isCached: true
   - title: "Trump says he expects to have coronavirus vaccine for every American by April"
     excerpt: "President Donald Trump said on Friday he expects to have available enough doses of a coronavirus vaccine for every American by April."

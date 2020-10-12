@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-spe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
 type: article
 quality: 125
-heat: 305
+heat: 245
 published: true
 
 provider:
@@ -63,38 +63,6 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "Joe Biden calls for unity in visit to historic Gettysburg"
-    excerpt: "Democratic presidential nominee Joe Biden called for unity amid ongoing protests against racial injustice and political division over the COVID-19 pandemic in a campaign speech in Gettysburg on Tuesday."
-    publishedDateTime: 2020-10-07T00:10:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/10/06/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg/7071601988862/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg/7071601988862/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/06/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg/7071601988862/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/7071601988862/2020/1/14c8efc4ed0991ebe7040bd1d12e25bf/v1.5/Joe-Biden-calls-for-unity-in-visit-to-historic-Gettysburg.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Michelle Obama: 'Vote for Joe Biden like your lives depend on it'"
-    excerpt: "Former first lady Michelle Obama launched a 24-minute campaign video for Joe Biden on Tuesday, slamming President Trump and urging Americans to vote for the Democratic presidential nominee like their “lives depend on it."
-    publishedDateTime: 2020-10-06T20:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/6/michelle-obama-vote-for-joe-biden-like-your-lives-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/michelle_obama_c20-0-880-502_s1200x700.jpg?fb980a6d3389ca7cc435a478cad5a7e1c62b1a57"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "All eyes on Ohio with Joe Biden's visit to Cincinnati and Toledo"
     excerpt: "Former Vice President Joe Biden will visit Cincinnati this afternoon, an indication his campaign sees Ohio as competitive for the Democratic presidential nominee. Biden's Cincinnati visit is an invitation-only voter mobilization event and will follow social distancing and masking guidelines."
     publishedDateTime: 2020-10-12T13:31:00Z
@@ -110,22 +78,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Joe Biden focused on flies: Democrat mines viral debate moment for campaign cash"
-    excerpt: "Joe Biden ’s campaign is trying to turn flies into campaign gold. The 2020 presidential hopeful used a fly’s pit stop on Vice President Mike Pence’s head during Wednesday’s debate in Salt Lake City as a springboard for donations."
-    publishedDateTime: 2020-10-09T04:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/8/joe-biden-focused-on-flies-democrat-mines-viral-de/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/8/joe-biden-focused-on-flies-democrat-mines-viral-de/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/8/joe-biden-focused-on-flies-democrat-mines-viral-de/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 70
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Joe_Biden_fly_swatter_Twitter_c0-0-1000-583_s1200x700.jpg?dc4b0b391b4b3f8e45ac6a9820b080411cef8307"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Sixers’ Doc Rivers ‘honored’ to be quoted by Joe Biden during campaign speech in Gettysburg"
     excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
@@ -143,19 +95,26 @@ related:
         width: 5654
         height: 3769
         isCached: true
-  - title: "Joe Biden Campaign Remarks in Grand Rapids, Michigan"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids, MI. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Grand Rapids,"
-    publishedDateTime: 2020-10-02T19:32:00Z
-    webUrl: "https://www.c-span.org/video/?476523-1/joe-biden-campaign-remarks-grand-rapids-michigan&ICID=ref_fark"
+  - title: "Fact check: Yes, Joe Biden took a knee in Miami. No, it wasn’t during the national anthem."
+    excerpt: "A Miami Herald photo of former vice president and Democratic presidential nominee Joe Biden taken during a campaign event in Miami’s Little Haiti neighborhood is being recirculated in social media with a false narrative that the national anthem was playing when the photo was taken."
+    publishedDateTime: 2020-10-12T00:40:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246385535.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246385535.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246385535.html"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Remarks in Gettysburg, PA"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg, PA. 2020 Democratic presidential candidate Joe Biden delivers remarks at a campaign event in Gettysburg,"
-    publishedDateTime: 2020-10-06T15:17:00Z
-    webUrl: "https://www.c-span.org/video/?476667-1/joe-biden-remarks-gettysburg-pa"
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 65
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0193b67-c79f-4001-8a27-6109bd7bb30d/de4342bb-06c5-4dde-98b1-4c8915f4b177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden Campaign Event in Las Vegas"
+    excerpt: "Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas, Nevada."
+    publishedDateTime: 2020-10-12T15:33:00Z
+    webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaign-event-las-vegas"
     type: article
     provider:
       name: C-SPAN

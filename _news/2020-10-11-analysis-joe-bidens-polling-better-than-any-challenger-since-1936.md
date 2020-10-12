@@ -143,6 +143,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Joe Biden's polling better than any challenger since 1936"
+    excerpt: "Former Vice President Joe Biden is dominating President Donald Trump in the latest polls. No, the election is not over yet, and Trump still has a non-negligible chance of winning."
+    publishedDateTime: 2020-10-11T16:08:00Z
+    webUrl: "https://www.cnn.com/2020/10/11/politics/biden-best-position-challenger/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/biden-best-position-challenger/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says small groups, PPE, necessary for schools to be open during pandemic"
     excerpt: "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,"
     publishedDateTime: 2020-10-06T01:04:00Z

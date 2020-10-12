@@ -861,6 +861,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump rushing Barrett confirmation because of contested election fears, Durbin claims"
+    excerpt: "Sen. Dick Durbin, D-Ill., said President Trump nominated Judge Amy Coney Barrett to the Supreme Court to \"rule in his favor on any election contest\" during the opening portion of Barrett's confirmation hearing on Monday."
+    publishedDateTime: 2020-10-12T14:58:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0nDms90PTU8/durbin-amy-coney-barrett-confirmation-hearing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Dick-Durbin-donald-trump-amy-barrett.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Lincoln Project wishes Trump well, hopes coronavirus diagnosis \"sends a signal\" to his supporters"
     excerpt: "The Lincoln Project, a group of current and former Republicans who oppose Trump, wished the president and the first lady well Friday after they tested positive for COVID-19, while also saying that they hope the diagnosis \"sends a signal\" to his supporters to take the pandemic seriously. "
     publishedDateTime: 2020-10-02T20:36:22Z

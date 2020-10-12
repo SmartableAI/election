@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-fast-confirm-amy-coney-barret
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
     quality: 151
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284680998006-e1602437321641.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump complains Republicans giving Democrats 'great deal of time' to talk during Barrett hearing"
+    excerpt: "President Trump complained Monday morning that Republicans on the Senate Judiciary Committee were giving Democratic members a “great deal of time” to speak during Judge Amy Coney Barrett’s Supreme Court confirmation hearing, saying he would “pull back.”"
+    publishedDateTime: 2020-10-12T14:49:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sI501h3HP2U/trump-democrats-amy-coney-barrett-hearing-time-to-talk"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286472723142-e1602512962193.jpg"
         width: 1280
         height: 720
         isCached: true

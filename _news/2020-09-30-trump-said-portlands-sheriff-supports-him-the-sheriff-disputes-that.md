@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-deni
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Global shares and oil tumble after Donald Trump tests positive for COVID-19"
+    excerpt: "US stock futures dropped almost 2%, oil plunged 4%, while gold and Treasuries benefitted from investors fleeing risk assets."
+    publishedDateTime: 2020-10-02T06:41:00Z
+    webUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f365bbab4bb1c001df533d5?format=jpeg"
+        width: 4475
+        height: 2977
+        isCached: true
   - title: "'Anyone can get it,' Trump supporters shocked at diagnosis, unwavering in support"
     excerpt: "As Americans digested the news on Friday that President Donald Trump had tested positive for the novel coronavirus, some of his backers expressed surprise that he hadn't been safe from infection and said their support for him was not diminished."
     publishedDateTime: 2020-10-02T19:20:00Z
@@ -106,6 +122,17 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Hospitalized with COVID-19, Trump thanks supporters, says his 'real test' lies ahead"
+    excerpt: "President Donald Trump tweeted thanks to his supporters on Sunday from the hospital where he is being treated for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his health."
+    publishedDateTime: 2020-10-04T14:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSKBN26P04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P04A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P04A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
 
 secured: "76s3bcrnIQbxgb2ulB9Kfw8LzyS+PRu2r7SW7vg2q1xvYtBIVTWujAE+ehBYU+udYGPBREgKpWe8L30YODep8S0Hcl4iF3VEMo5JNmg2m+VaScTcb5prB7EY0eRTi7riCsj3j9qR8qXZv1Fict5ekPtk+vVGZwRcEF523wypzKku0m85xZ2FIkxIwB8TirHhylceHxYxbRFQidk8ImAn0omfQYZMfl00Zkoup6zKrKBE1jlGJAgIU9BaIcJrpvd1xlzjQ5oHOEp9+nYj3nuQO96WzD9SBxUqBo/ql7Qy02K3NEb0DtE4csaTm2dlFmuxSS7rsMTDM7MfIjKM4jgWUR1zAtjlFCEsQwC9WzgaaBM=;DRwJ8E29Q7WDJx4nIofdnQ=="
 ---

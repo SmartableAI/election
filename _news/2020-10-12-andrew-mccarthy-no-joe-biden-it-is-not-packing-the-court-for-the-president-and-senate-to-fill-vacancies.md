@@ -118,6 +118,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "To defend Biden, media and Democrats simply redefine ‘court-packing’"
+    excerpt: "Democratic nominee Joe Biden and his allies in Congress have hit on a new strategy to distract from the fact that he refuses to say whether he supports packing the Supreme Court."
+    publishedDateTime: 2020-10-12T13:45:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/to-defend-biden-media-and-democrats-simply-redefine-court-packing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/to-defend-biden-media-and-democrats-simply-redefine-court-packing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/to-defend-biden-media-and-democrats-simply-redefine-court-packing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
   - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
     excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
     publishedDateTime: 2020-10-07T13:30:00Z
@@ -130,6 +141,6 @@ related:
       domain: washingtonexaminer.com
     quality: 61
 
-secured: "whKrDNGoUL1XklXv0bUJXwccB/qY/fsISabes6LlggHc984wqBWjs2D3+e+HZusG6+t7U+AUE9dKhBzlxuNTZCAHahEhEEwppjaRDRnHrxRJS4BoNbpOsoxfvPhMb0ngAvzKS7KWW85H6IIC93QZRjkhqyVrmHaGPMgxrc1u4wSG6RKJ1B4X/RE2uBPHfum6YVmidEOOxo0AC744CR6f7+9x+MCkZ9X4SbnRwNb8vH0u0Tzz06x1XH0pqdD81tpCXyKY/pUgQVHkZOIQRLpJP0cY7H06tbopPiLn8Z+7UXWG/lBSe9cHM1F2XEwlCbtCvu7/260tCTl0YCYkO6JCqduKS6JQ8ku2PoxeGJfVSFM=;xst5rG/SwIEu58LU0ENnCQ=="
+secured: "wtHAfuGz9LEkzcovK4sGx9lGvqvRjrdQWXIBF1y91nw2zcI8qf/v2dIs8MGr7OfKjQWcooLi2cBJeEUz7wU3BbTcm7mYuvhMDIPPe2FIC+308KIawcGb1uy93HdN5S6mWSUCuTaYLC5dQttMSno4RAmJS2Utld36NROSXQHLp3AJc5oXeHK12ljiBGfGF71Y0psOfeEWJF9zfj1uG3eWKcT/mK4tsjOhxG/0N4V8bALNoGoKqt926a1LHtzM/Gpz/7pXW+ZN666ebslnqQR3ltUn8p12xwKboWlCKPyYbc2C2E7V9fF2JukKFNZcniku/kPF+v/Xxe5vbFZNSZJUHciGur+FcktiNp0S41cDXyceEDhvywGjtaexJ18kFGVAwf9Rdvp74IZjVTB3bvTOYreX9x9+kONuu4s1rS7ZhtjxLOuBJ+IFxE1hebukFW5GNcy2zDtXT+9ufqEL8jTK+tb6I4IaNlHuDLHdk5LoEimJJwkjnBKWgUdrrSeUTaiL+kPWCS1cp2lNf5LVHsu5yg==;ucll3IMN34Ms9/HIPbl9Fg=="
 ---
 

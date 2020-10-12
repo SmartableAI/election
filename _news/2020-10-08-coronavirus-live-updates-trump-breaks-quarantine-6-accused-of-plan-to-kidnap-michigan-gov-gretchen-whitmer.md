@@ -79,6 +79,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Trump claims he no longer has COVID-19 as White House dodges questions on whether he has tested negative"
+    excerpt: "Trump did not say in the interview whether he has tested negative for COVID-19. A memo by his physician, Dr. Sean Conley, didn’t address that either."
+    publishedDateTime: 2020-10-12T00:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/11/trump-says-he-no-longer-has-covid-doesnt-say-if-he-tested-negative/5960497002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5960497002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960497002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "y3UPO/QWhbRln+DSXR4Lcdd6QPg18VVS+v4Za9o6tcdDFeWWZgi+QYL0BDAkbfch/HiJdUBNZ9l1u5sh/oqim5o02c86IKg92akNkKlBOZqh/7xGA4fGf2rKIPk9LxNzm6JSOmmqCDdqQx68jw8Kw7x0J8pDqt4kdW5VcO6NFtMQlwFMdduIDwVhnDbKYAiAVfb0Jc4c5IY4VaEJOAdfnGdFg1sPem9YQ78dgcj8DjwNPYg6/Nqm48jhp9VNpdHlEexhzyTWq4jLI9iGmpxtXYm20B5L+3sWEKaMCmFN/9N4qHYnXeo5ynyTW2FDavUVvLhtEzezYKxRk5TbL6za7/Vh0ZgZjfGxpI7Arfvhluc=;0K/ADeFe9Wixp+tJaU0Q1w=="
 ---

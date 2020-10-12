@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump campaign's next steps unclear after White House return"
+    excerpt: "President Donald Trump’s return to the White House is poised to reshape the campaign’s final four weeks as aides debate how to move past an extraordinary setback while grappling with how to send an in"
+    publishedDateTime: 2020-10-07T07:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a265499689974a4f89a650926e29e1a6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Analyzing Trump's illness is humbling for media's med teams"
     excerpt: "It's a daunting assignment for any doctor: assess a patient's condition for an audience of millions without being able to examine him or see a complete medical chart"
     publishedDateTime: 2020-10-08T07:12:00Z
@@ -63,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Who’s Hurt The Most By Trump Halting Second Stimulus Talks?"
+    excerpt: "Trump's tweeted on Tuesday his decision to end stimulus negotiations. Here's who is hurt the most by this decision."
+    publishedDateTime: 2020-10-08T11:39:00Z
+    webUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/"
+    ampWebUrl: "https://www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/08/whos-hurt-the-most-by-trump-halting-second-stimulus-talks/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ef7aab5571027102156b2%2F0x0.jpg"
+        width: 1200
+        height: 784
+        isCached: true
   - title: "I’m a pro-life evangelical. In supporting Trump, my movement sold its soul."
     excerpt: "The nomination of Amy Coney Barrett to the Supreme Court injected new enthusiasm and urgency into the evangelical pro-life movement. Conservatives may soon make up a significant majority on the court,"
     publishedDateTime: 2020-10-08T15:41:00Z
@@ -78,6 +110,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNTBUVR63UI6VL7CBEHLG63AWE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Judge rules against Trump campaign in New Jersey lawsuit over counting ballots"
+    excerpt: "A federal judge denied the campaign's motion for a preliminary injunction halting two New Jersey election rules."
+    publishedDateTime: 2020-10-07T06:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/election-2020-trump-campaign-ruled-against-in-ballot-counting-lawsuit/5902285002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5902285002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5902285002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/03/31/PNJM/284dd463-8af7-4ae5-a440-d2adf017a73f-AP20091840255665.jpg?auto=webp&crop=3718,2091,x1,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's COVID-19 diagnosis centers presidency and campaign on pandemic: ANALYSIS"
+    excerpt: "His silence amid the shockwaves served as a chilling reminder that everything about his presidency -- and perhaps even about the nation's stability -- was suddenly at stake. A presidency that has so often devolved into pettiness and name-calling now confronts a deeply personal crisis that expands into the nation's health and security."
+    publishedDateTime: 2020-10-02T23:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-covid-19-diagnosis-centers-presidency-campaign-pandemic/story?id=73395891"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-covid-19-diagnosis-centers-presidency-campaign-pandemic/story?id=73395891"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-covid-19-diagnosis-centers-presidency-campaign-pandemic/story?id=73395891"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-7-gty-er-201002_1601677945686_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump Has Turned ‘Ballot Harvesting’ Into A Rallying Cry Against Mail-In Voting—Here’s What It Is"
     excerpt: "On Monday, Trump called for an investigation into an unsubstantiated report from Project Veritas — a right-wing activist group that has a track record of publishing misleading stories — that claimed Rep."
@@ -110,6 +174,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/3c9be54e-1f1b-4489-bb6f-74160918199e-AP_US_Election_Debate_Global_Reaction.jpg?auto=webp&crop=5453,3067,x273,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "GOP voters not swayed by Trump COVID diagnosis"
+    excerpt: "Supporters of President Donald Trump at an early voting site in northern Virginia are strongly supporting the President after his hospitalization for the coronavirus. (October 6)"
+    publishedDateTime: 2020-10-07T08:48:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/06/gop-voters-not-swayed-trump-covid-diagnosis/5901627002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/046ba8d2-653b-468d-b831-ef425749e3a1_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "A look at how the Atlantic City disaster may have set Trump up to pay nothing in taxes for years"
     excerpt: "A key provision under US tax law known as \"abandonment\" may have been Trump's ticket to a $72.9 million tax refund after leaving his casino business."

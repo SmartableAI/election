@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/qa-trump-administratio
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/qa-trump-administration-ban-tiktok-73300439"
 type: article
 quality: 125
-heat: 225
+heat: 325
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump signs stopgap bill to avoid government shutdown"
+    excerpt: "U.S. President Donald Trump signed a stopgap funding bill on Thursday that would keep the federal government open through December 11, the White House said in a statement."
+    publishedDateTime: 2020-10-01T06:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-funding-idUSKBN26M4NP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M4NP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M4NP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535643193&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9037Q"
+        width: 791
+        height: 545
+        isCached: true
   - title: "Trump Leaves Hospital To Greet Well-Wishers Outside"
     excerpt: "Trump left Walter Reed Medical Center, where he is being treated for coronavirus, Sunday and was driven by Secret Service agents past well-wishers who had lined up outside the medical facility, as part of a spontaneous makeshift parade that occurred just hours after doctors disclosed the president had been treated with oxygen and steroids."
     publishedDateTime: 2020-10-04T21:46:00Z
@@ -79,6 +95,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "On President Donald Trump and COVID-19, just tell the truth to the American people"
+    excerpt: "Dr. Sean Conley says he'd 'rather not' disclose specifics on Donald Trump. Dr. Conley, the American people would rather know more than less."
+    publishedDateTime: 2020-10-03T19:26:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/03/donald-trump-covid-transparency-honesty-national-security-editorials-debates/3594411001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3594411001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3594411001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/e9ea8b74-8f7c-4fd9-a5b0-cfed92e8df34-trump_doctor.jpg?auto=webp&crop=5567,3131,x0,y403&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump administration slashes refugee program amid president's campaign attacks on immigrants"
+    excerpt: "In Obama's final year in office, the annual cap on refugees was 110,000. Trump has pared that down. In fiscal year 2021, the limit will be 15,000."
+    publishedDateTime: 2020-10-01T15:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/10/01/trump-moves-slash-refugee-resettlement-amid-campaign-attacks/3574637001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3574637001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3574637001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/08/USAT/0389e08b-9e09-41b0-a4cb-931332d3ac83-GTY_1162402975.JPG?auto=webp&crop=5472,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Federal judge says Trump administration's actions against TikTok 'likely exceed' the president's authority"
     excerpt: "The federal judge, who on Sunday blocked Trump's proposed ban, said TikTok would \"suffer irreparable harm\" if the order were to go into effect."
     publishedDateTime: 2020-09-28T21:44:00Z
@@ -95,6 +143,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Federal judge says Census count must keep going until Oct. 31 despite Trump administration efforts to cut it short"
+    excerpt: "A federal judge in California has ordered the Trump administration to continue counting for the 2020 Census through Oct. 31, overriding the administration's efforts to shorten the timeline to submit results."
+    publishedDateTime: 2020-10-02T19:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judge-census-count-oct-31-trump-administration/story?id=73389671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 103
+    images:
+      - url: "https://s.abcnews.com/images/Politics/census-2020-01-ap-llr-201002_1601660075177_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Chevron orders staff worldwide to delete WeChat from their work phones, despite a judge blocking Trump's ban of the app"
     excerpt: "Chevron has asked staff to delete WeChat off their work phones, despite President Donald Trump's ban on the app being blocked by a federal court."
     publishedDateTime: 2020-09-23T20:37:00Z
@@ -110,6 +174,22 @@ related:
       - url: "https://i.insider.com/5f6b1ce939ab3b001192c7cd?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Trump administration is handling the White House COVID-19 outbreak in the same disastrous way it approached the country's"
+    excerpt: "There's been little to no transparency, mixed messaging, and a continued lack of respect for public health recommendations despite an evolving crisis."
+    publishedDateTime: 2020-10-05T19:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7b674d282c500018c78ab8?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "lIr0sui6OkskU4sT8TYepvvNYmWPXYBJ84PXdC0FY0xNb0xdFfNas2nWKQxWpFFJuUREopfTgzCoNLcKxA1mMvK+EU1tHLGhKYk8GBVEja+fD69CtXeRZftUYxCFdq9BgPXzLSmPltSiFJCLnDBg0E98Qc2Ev+J/ojge7X2bbI/spTg09wYpWMsYICCiizmCUR3XvOfdb7HAXmyJs9vme7obBLpS5GFWdGCKJd4nSsin/T/W2N6lHjD78+Pf22VQAAuC/bqUqCxYpjwxd+M+hxcfzKfB8AZaQXqMwZAHvwwe0vNC/A++YobQo53yAKJ/J/W7U23AIndG2sDZ1jbyZ0BaeVeStWdY2ah2Y5DCU6G4luN20gGGPi8LSQEM7Vma1Wx2O+kVkGcCdmpFdDOnlJC/DEbpL5pNhmYRuxNesc5OemKKQFWHWvi9XEJ2pDsA+Po5/56Ubf0aWGpz7dmcMQSx/IEGW1qsn3f5xdJ9mBxCYQ2ZFzRmojEjYKHyrhFB1Te7FZ7Roif2jSn3AKEyNQ==;ma1Y2HaoNj8SkXcJgkoDZA=="

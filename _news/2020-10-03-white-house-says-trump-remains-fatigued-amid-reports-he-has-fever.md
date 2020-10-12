@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-sa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Japanese shares edge higher as Trump returns to White House"
-    excerpt: "Japanese stocks inched up on Tuesday, as risk sentiment improved after U.S. President Donald Trump returned to the White House following treatment at the hospital for COVID-19, easing fears over political uncertainty."
-    publishedDateTime: 2020-10-06T02:32:00Z
-    webUrl: "https://www.reuters.com/article/japan-stocks-midday-idUSL4N2GX0I4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX0I4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX0I4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Trump's doctor says in an update that he's 'not yet out of the woods' as the White House releases photos from his hospital suite"
     excerpt: "Trump's main doctor said late Saturday evening that the president \"remains fever-free and off supplemental oxygen.\""
     publishedDateTime: 2020-10-04T03:47:00Z

@@ -77,6 +77,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Joe Biden: Senators should not consider Amy Coney Barrett's faith in confirmation process"
+    excerpt: "Democratic presidential nominee Joseph R. Biden said Monday that Judge Amy Coney Barrett’s Catholic faith should not be a consideration in Judge Barrett’s confirmation hearings for the U.S. Supreme Court."
+    publishedDateTime: 2020-10-12T15:30:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 66
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/Election_2020_Biden_96935.jpg-16fc0_c0-0-5926-3456_s1200x700.jpg?e885779a9796061107f5b31234b49be1eeead7a2"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "u4f8BpdIVEm6jVcL4FjP2BFyHwffwrBz6gkyLgG1CaSQud+XFNzy1OY3S8c6HrBq8z+cfff0oZHBT8ILJjct0pRdERQDAfUwIA/LKmCM9dMJUOF8G/1Iwr7VcFsHrTsQHhqPXVy68kVsVFVOyHFtLOpKt0imUvyIb/PSKAYAewNkriZd/SmYi3tcopFhwndOvrCLmtBPC4nIORueElEg772RPMtpBQYLLgokbsYtG+sMbg4+y1h1Kv/DB8LT8BvZwQx5CEex65QD5cSxKhHRAmYlDMN4JM3Zw8rmj/Cne9CUZALguo+jC3It/0XhOVfXCgkhdvt8zcqLTBeF31hqHYoqF8KyTpLewOir2eJTw9s=;bC0G2E0DBBlOuSyc7PhgwA=="
 ---

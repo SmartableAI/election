@@ -31,81 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "In 25th Amendment bid, Pelosi mulls Trump's fitness to serve"
-    excerpt: "House Speaker Nancy Pelosi is questioning President Donald Trump's fitness to serve, announcing legislation Thursday that would create a commission to allow Congress to intervene under the 25th Amendment to the Constitution and remove the president from executive duties."
-    publishedDateTime: 2020-10-09T04:05:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+  - title: "Trump's infection shows officials must take virus seriously - Germany's Altmaier"
+    excerpt: "German Economy Minister Peter Altmaier said on Sunday that U.S. President Donald Trump's coronavirus infection showed that politicians must take the COVID-19 pandemic more seriously and stop minimizing its health risks."
+    publishedDateTime: 2020-10-04T22:12:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-germany-idUSKBN26P0ZQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P0ZQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P0ZQ"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_7037dad961d744cb84711d4fe7797ae7_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536144246&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930U5"
+        width: 812
+        height: 545
         isCached: true
-  - title: "Trump Jr. pushes back on Pelosi asking if steroids influenced the president"
-    excerpt: "Donald Trump Jr. pushed back on Speaker Nancy Pelosi (D-Calif.) on Wednesday after the Democratic leader questioned whether steroids influenced President Trump’s"
-    publishedDateTime: 2020-10-07T15:28:00Z
-    webUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the"
-    ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
-    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
-    publishedDateTime: 2020-10-09T16:24:00Z
-    webUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/"
-    ampWebUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 74
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Virus_Outbreak_Congress_13038.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Second Stimulus Check Update: Pelosi Slams Trump's Relief Proposal As 'Grossly Inadequate'"
-    excerpt: "The Trump administration's $1.8 trillion offer remains below the $2.2 trillion bill passed by House Democrats last week."
-    publishedDateTime: 2020-10-12T01:20:00Z
-    webUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446"
-    ampWebUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
+  - title: "Anti-Trump Ad Compares US Political Climate To 1930s Germany That Saw Rise Of Hitler, Nazis"
+    excerpt: "The ad was released by the Jewish Democratic Council of America, which describes itself as a progressive Jewish group The ad juxtaposes images of 1930s Germany with Trump campaign rallies A recent report said Trump made anti-Semitic remarks after talking with Jewish lawmakers A progressive Jewish group on Tuesday released a 30-second campaign ad that compares the current climate in the United States to 1930s Germany,"
+    publishedDateTime: 2020-09-29T20:20:00Z
+    webUrl: "https://www.ibtimes.com/anti-trump-ad-compares-us-political-climate-1930s-germany-saw-rise-hitler-nazis-3053915"
+    ampWebUrl: "https://www.ibtimes.com/anti-trump-ad-compares-us-political-climate-1930s-germany-saw-rise-hitler-nazis-3053915?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/anti-trump-ad-compares-us-political-climate-1930s-germany-saw-rise-hitler-nazis-3053915?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 65
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/democratic-house-speaker-nancy-pelosi-wants-to-spend.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/26/donald-trump-supporters-gathered-to-hear-the-president.jpg"
         width: 1024
-        height: 682
+        height: 661
         isCached: true
-  - title: "Nancy Pelosi calls Donald Trump plan ‘one step forward, two steps back’"
-    excerpt: "Pelosi and Treasury Secretary Steven Mnuchin head into weekend negotiations with the top-line number for relief fast approaching the $2 trillion level that many Senate Republicans say they cannot accept."
-    publishedDateTime: 2020-10-10T17:22:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK.html"
-    ampWebUrl: "https://m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 55
 
 secured: "hhE9cNdKrx8fug2bhdBIwHqxIDZVgQvD9rRyZdDTdJgFL0V0qXGAhsW88lGYR4k79D98R6hhIi80BTCyLYqcSPhSGejCIOC/gpIQSAkG9EfZaXdRvywiamQ8NHKpOn1aON678zrLlDO2hUm0L4CemKqAnw1/Bx/qxPG3JEDoaMA+EYj+X+qLJVFvmCO0qC/g9SMDMXghb3d7/TL2V0MszjqVbPKzwBqNOw75Qgfu1BARwMCKJbfpBjPKYX0Y+C6MmnBe9Xn6BUZaBcYSRAZmBMBbrhz/x6FEBl2t0UTvDXaJI6s3nz+gpTvx59tDGpPUenekoN1H75gJNkbgMOMVQTfW32h7yu3gjQvRqm5SPIlpIKU8Tl82fiCYvKDPDp3AxEebY3AzAQ+AWH90M/wi7yqJvI/ECLENws3T0KzJLj5VC7gf0OADADAadQhb1xQZjXbXYlmk/3xoNR0pRYGzcD4CP8HCXp6CYkxnE7Pl54q/BuuN73y8z7GlX/OOocrMgMY0FiYIKAR4VtO8HbL9rg==;r3lVAhaKVna4jEFdUsRWBQ=="
 ---

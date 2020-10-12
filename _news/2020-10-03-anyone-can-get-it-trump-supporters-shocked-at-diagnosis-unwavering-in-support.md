@@ -79,6 +79,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Global shares and oil tumble after Donald Trump tests positive for COVID-19"
+    excerpt: "US stock futures dropped almost 2%, oil plunged 4%, while gold and Treasuries benefitted from investors fleeing risk assets."
+    publishedDateTime: 2020-10-02T06:41:00Z
+    webUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f365bbab4bb1c001df533d5?format=jpeg"
+        width: 4475
+        height: 2977
+        isCached: true
   - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
     excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."
     publishedDateTime: 2020-10-02T19:46:00Z
@@ -106,6 +122,17 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Hospitalized with COVID-19, Trump thanks supporters, says his 'real test' lies ahead"
+    excerpt: "President Donald Trump tweeted thanks to his supporters on Sunday from the hospital where he is being treated for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his health."
+    publishedDateTime: 2020-10-04T14:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSKBN26P04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P04A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P04A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
 
 secured: "xV57AvR6GS+F/34HX3ZW6uE6bWYgWnVH4XxbcUwT/bZirahw884pTRJjhD2/LbMLYFL1Kwd9ZsA+ZFY+xtCfdLlttJR9SetzOqhFEM2LzPeAwbu/deCffwuupKtiu/qY+Hrh6WKhNj0XfB8obnCYjpMtOTBXxq3XZ3YRZ/rbkuJW02XpxKTKaMcSeFULsjf3jTWiAY7u7XgulfSVDVtdSb+T0enTqEfr5KhSZsXLicWbRRdfkL95MQU5jO8KI1gQahF2+6thxgCng9yLoTZ8kjm6kL31Th/GClwXInkP+jVV7/ao3qdPhsC3neJN+Zw3hXqGRUKVrCHuqkcwxYk9uRGtuJ3JGjdeaCqcDoJgai4=;zIuGT27keYZwQjHoK5jI0Q=="
 ---

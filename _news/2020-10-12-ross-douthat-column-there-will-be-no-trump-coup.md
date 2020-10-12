@@ -1,0 +1,85 @@
+---
+category: news
+title: "Ross Douthat column: There will be no Trump coup"
+excerpt: "Three weeks from now, we will reach an end to speculation about what Donald Trump will do if he faces political defeat, whether he will leave power like a normal president or attempt some wild resistance."
+publishedDateTime: 2020-10-12T14:54:00Z
+originalUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html"
+webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html"
+ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
+type: article
+quality: 125
+heat: 185
+published: true
+
+provider:
+  name: Chicago Tribune
+  domain: chicagotribune.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Donald Trump
+
+images:
+  - url: "https://www.chicagotribune.com/resizer/72Z9mwCrlBipIBIMR9gq9Pquer8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TFVUIW4JNJCEHDJBVTNV4WNEWY.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "On Columbus Day in 1963, Trump marched up Fifth Avenue in New York City’s parade"
+    excerpt: "When Trump was a 17-year-old senior at New York Military Academy, there was no talk of Indigenous People’s Day, no beheading of statues and no pandemic canceling parades."
+    publishedDateTime: 2020-10-12T11:13:00Z
+    webUrl: "https://www.washingtonpost.com/history/2020/10/12/columbus-day-trump-parade-new-york/"
+    ampWebUrl: "https://www.washingtonpost.com/history/2020/10/12/columbus-day-trump-parade-new-york/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/12/columbus-day-trump-parade-new-york/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NDFZU3FXH4I6LCV42CJZF3OGCI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Twitter Flags Trump Tweet He’s That Immune To Covid-19 Coronavirus, Not Contagious"
+    excerpt: "Presumably, Trump was referring to the Covid-19 coronavirus infection that he’s had over the past week or so and not something like cat scratch fever or Bieber fever. The tweet sounds like positive news for the President."
+    publishedDateTime: 2020-10-11T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 119
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f837ffc613e1c0cfca4dd19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D227%26cropY2%3D2759"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Twitter said it had to temporarily lock Trump's account after he shared a columnist's email address, violating the company's policies"
+    excerpt: "Twitter confirmed that it locked Trump's account after he shared the email address of a journalist to his 87 million followers."
+    publishedDateTime: 2020-10-07T04:19:00Z
+    webUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5f7cb1ff94fce90018f7b6dc?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
+
+secured: "0QJDhmODykzr3an21ZITubP+GdnVGx2vjpDoTIxxzzdnQIBEI7QXgeDFKrFRF1/BdGAeDtiPQaplTYcMbf6B0e2L/ArifB8aWhxg6iaeLba+mOAMYyAzocljRTzTOAEazUXXAKRHxMR9GXNSm3OOfVrc0Ja1Cdmm0PHILcR9ieI4rBzOQXw8dnj4EBlpbLCka66ZIH1q44TS0syMvl1inQmOr4AzBy/tfWovR7bmGc818WbWwHFOV8eJYVEj6aKw58TBKrqmakjVcOl7JcEHArFWAkERAZBmYYiTw2ikewCrD5r2Ff9tdlmvdFKH32sYg619jJzTOQBRrIFDbadKEIY0Vi//7teYkqDUoGtz5IA=;rWuYeqNfJk4guu5eKyNXfw=="
+---
+

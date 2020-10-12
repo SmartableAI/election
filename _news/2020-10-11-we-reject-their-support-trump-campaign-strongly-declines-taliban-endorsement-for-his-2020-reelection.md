@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-campaign-declines-taliban-endo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp"
 type: article
 quality: 124
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Bob Dole says none of his Republican friends on the presidential debate commission support Trump"
-    excerpt: "The former GOP senator and presidential nominee called the nonpartisan organization \"biased\" after it canceled an upcoming debate amid health concerns."
-    publishedDateTime: 2020-10-10T14:21:00Z
-    webUrl: "https://www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f81abdbbab422001979a977?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "Vg4+dFepsnr3xKO9ilVTeMbo/CaLvtqY3ZklHQmhkuGKPFr44QFtKeAZu+efX3iltEjYDn80ISxP9vvdL81U3xqGpXzKBX9F2IoJMsuDa2FjLTlre0vfopUQoyA5Dsphp61v/d2RTBNazOqbWubjsw2YG9g0vLyqvL0BJ69v3FzUemiIFW+H8lyGdtkHn3QQXQx+QTHgNrnnGojU59EyBW7jhYjkAOMP1qWS2IecF8b9sqXIlHvBQdidKQEIXz6NpXQkKwWd8RgX9lYz0ya8RzMWOhvxEn+vogX2c3J87j8VPuJKE3zJkk4ZGjiriAbpbXVgrAJOdFNeQHPzIj2OWsOMXBGf3bKsb47rihMCFxmTBq4DBk5kMF6ivCPLt9/U0xFOYC3hm53cjQiSkn6EEUGDlcsea2y0zlrqqvpZZwMwllBU8I1TnHjQkzJUVsXo7B/UDWBSeJGk1QYkhk3tLuCNi048S0eRvjG21LeEjEFzyCnO3B6l4GGYGdIqqFgr9BO2OxXyOcJ+S6TY2VG6VA==;P0UgWXNT2AO3C5uVfGuQZw=="

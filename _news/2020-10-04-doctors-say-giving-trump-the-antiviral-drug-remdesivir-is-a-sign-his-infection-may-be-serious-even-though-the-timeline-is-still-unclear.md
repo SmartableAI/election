@@ -63,38 +63,6 @@ related:
         width: 1004
         height: 502
         isCached: true
-  - title: "'He's the one that is making them sick': Trump's suggestion that he got infected from Gold Star families faces fierce backlash from Democrats"
-    excerpt: "\"It's shameful he would blame members of the military and members of the police force for his COVID-19 diagnosis,\" Sen. Tammy Duckworth told Insider."
-    publishedDateTime: 2020-10-09T15:43:00Z
-    webUrl: "https://www.businessinsider.com/trumps-coronavirus-military-gold-star-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trumps-coronavirus-military-gold-star-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-coronavirus-military-gold-star-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/5f7f4162282c500018c79652?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trevor Noah Knows How Trump Could Have Avoided This Debate Debacle"
-    excerpt: "If Trump didn’t want to do a virtual debate, you know what he could have done? Not gotten coronavirus, motherfucker!”"
-    publishedDateTime: 2020-10-09T12:39:00Z
-    webUrl: "https://www.vanityfair.com/hollywood/2020/10/trevor-noah-trump-virtual-debate"
-    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/10/trevor-noah-trump-virtual-debate/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/10/trevor-noah-trump-virtual-debate/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/5f8055e5d070eec8d50f0da7/master/pass/Screenshot%202020-10-09%20at%208.18.16%20AM.png"
-        width: 1919
-        height: 927
-        isCached: true
 
 secured: "ZDOZgk4L2P5Q+8MGyzreLoyaMaQq/7TaJgTp+8U+GsoqsIod5IDgH/dJC8CPg5KyObTywq0qblKPBbpzbqIG1tbJ7wWdY9SPe4JXG8XrZeVesiR8A6yHXgOR4oJiOBpfFJOYtRmmNFvSyXlCiAnhL+N8wA7s/jsQW3YSNTSklkCY7S6Ygma/qI4K1vlv91M/CVmDu62K0UiFMdkgVjTC2OPHatJmPCeACqJ3Jr0LGoUHceo19Y1WA05cHVrXKS5uH1zKYslMhDhvCVrr0p60/1KU36qTY6mN/MXLszGCupBLpAls/0cQPnM4gEEg0spxJMH4CM9F1mKCNU1u3jBK5uKlMNnDFr8z7Py0qTNap8M=;ZzeTqUUunDCFM0TgCDtlIg=="
 ---

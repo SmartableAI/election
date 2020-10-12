@@ -63,6 +63,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Timeline of Trump's activities in week coronavirus hit home"
+    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule during the week the coronavirus hit home with him"
+    publishedDateTime: 2020-10-02T08:44:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/timeline-trumps-activities-week-coronavirus-hit-home-73381888"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_853c33da0fb54d1f84d43da23887a16e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Eric Trump slated to talk with NY investigators via video"
+    excerpt: "President Donald Trump’s son Eric is scheduled to speak via video on Monday with New York state investigators probing his family’s business practices"
+    publishedDateTime: 2020-10-04T01:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/eric-trump-slated-talk-ny-investigators-video-73396910"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2a0e023fb4df4fcf852406d1c17116bd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Pays Zero Taxes Most Years: Here Are 8 Times He Attacks Others On Taxes"
     excerpt: "Reporting today by The New York Times concludes that Trump was “far more successful playing a business mogul than being one in real life.” This was the conclusion after investigative reporters reviewed Donald Trump’s tax-return data."
     publishedDateTime: 2020-09-28T00:56:00Z
@@ -94,22 +126,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f767678171081b47b0e73c1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3723%26cropY1%3D325%26cropY2%3D2418"
         width: 1200
         height: 675
-        isCached: true
-  - title: "I made $10,500 as a freelancer in 2018 — and still paid more taxes than Trump. The system is broken."
-    excerpt: "According to a blockbuster New York Times investigation, the president paid $750 in taxes in 2016 and 2017. But he's not just one bad apple."
-    publishedDateTime: 2020-09-29T17:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-taxes-returns-freelance-income-750-dollars-broken-system-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-taxes-returns-freelance-income-750-dollars-broken-system-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-taxes-returns-freelance-income-750-dollars-broken-system-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5f438c1042f43f001ddfe8e0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump denies New York Times report detailing his tax returns and financial problems: 'It's totally fake news'"
     excerpt: "The Times reported that Trump paid only $750 in federal income tax in 2016 and 2017, but shelled out $70,000 on hair styling during \"The Apprentice.\""
@@ -188,6 +204,22 @@ related:
       - url: "https://i.insider.com/5f35bd6fb4bb1c001df53365?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Conservative Pundit Slams Donald Trump, Corrupt System Over Tax Returns"
+    excerpt: "The New York Times reported Trump paid just $750 in income taxes in 2016 and 2017, and no taxes in 11 of the last 18 years Coulter says developers should not be able to depreciate property that sells for much more She tweeted Democrats don't have the guts to overhaul the tax system because they get major donations from billionaires Conservative pundit Ann Coulter,"
+    publishedDateTime: 2020-09-29T23:22:00Z
+    webUrl: "https://www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927"
+    ampWebUrl: "https://www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/16/ann-coulter.jpg"
+        width: 1200
+        height: 761
         isCached: true
   - title: "Trevor Noah Lays Into Trump Over Taxes Bombshell: “You Didn’t Pay for Shit”"
     excerpt: "Show host of the New York Times report that Trump paid $750 in federal income tax after becoming president in 2017: “That shit pisses me off.”"

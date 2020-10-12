@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Column: Trump puts Secret Service agents at risk with COVID Car Ride - but relax, it was medically necessary"
+    excerpt: "As President Donald Trump battles COVID-19, questions have come up about the accuracy of his health updates and his ride to wave to supporters outside Walter Reed Medical Center."
+    publishedDateTime: 2020-10-05T16:59:00Z
+    webUrl: "https://www.chicagotribune.com/columns/rex-huppke/ct-trump-covid-coronavirus-motorcade-walter-reed-doctor-huppke-20201005-mjwdujigsjel3a35iz2fn75gr4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/rex-huppke/ct-trump-covid-coronavirus-motorcade-walter-reed-doctor-huppke-20201005-mjwdujigsjel3a35iz2fn75gr4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/rex-huppke/ct-trump-covid-coronavirus-motorcade-walter-reed-doctor-huppke-20201005-mjwdujigsjel3a35iz2fn75gr4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 106
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Kj6bsDur-k0obnkhhAHpi32_-JA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5ICNS26C6BCZBPF4HNCAU7KR5U.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "OzDDFYa3lw+G2OlxWP2+y9taI8IK4//fS15xHvXOf4Gl7JlQP7REn6fI0SYlBur+0NXtNjeYga3Ie5R0ehTBT3uOZl1QF2W7EvhiwZKkMNmM614ulrM4KMNEI4gnT2v+mwowBevP8PQ7cgGDOjs00KCWU6co7pNp+6N72QR8Oqt1VK8aEhtbCVO5dUSACDhrJJ/OArlN+kiHx/vtC1A65F1iHXVrjJLrJlMyQxYDkjChW82ANFoI3EHwXtk59pFJzCo7KsOAcrPkLjtI3gpVxaSyqqqjo2k0OKTxkW6ilx8EfCgVhH61MHAyb3y8HmWazdBWDyyirKJiBFVE5ahHsHvjy8yaL7jw85ke6xzzAiM=;WNKKYFcfXzIayZl2HHtMcg=="
 ---

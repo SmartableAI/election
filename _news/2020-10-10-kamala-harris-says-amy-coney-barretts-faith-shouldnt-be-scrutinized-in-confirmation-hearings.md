@@ -76,6 +76,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump complains Republicans giving Democrats 'great deal of time' to talk during Barrett hearing"
+    excerpt: "President Trump complained Monday morning that Republicans on the Senate Judiciary Committee were giving Democratic members a “great deal of time” to speak during Judge Amy Coney Barrett’s Supreme Court confirmation hearing, saying he would “pull back.”"
+    publishedDateTime: 2020-10-12T14:49:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sI501h3HP2U/trump-democrats-amy-coney-barrett-hearing-time-to-talk"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286472723142-e1602512962193.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP nominee Kamala Harris likely to be in spotlight at Amy Coney Barrett confirmation hearing"
     excerpt: "Supreme Court nominee Amy Coney Barrett will not be the only person in the middle of a high-stakes job interview next week."
     publishedDateTime: 2020-10-08T17:40:00Z

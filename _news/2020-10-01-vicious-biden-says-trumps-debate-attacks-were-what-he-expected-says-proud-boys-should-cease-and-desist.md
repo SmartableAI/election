@@ -1266,22 +1266,6 @@ related:
         width: 837
         height: 768
         isCached: true
-  - title: "How to watch Tuesday night’s debate between President Donald Trump and Joe Biden"
-    excerpt: "President Donald Trump and former Vice President Joe Biden will take the debate stage in Cleveland, Ohio, on Tuesday night, the first of three chances for the Republican incumbent and Democratic challenger to square off publicly and make crucial pitches to millions of Americans before they head to the polls on Nov."
-    publishedDateTime: 2020-09-28T15:49:00Z
-    webUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html"
-    ampWebUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 85
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/32Z6KP6S3BF4ZJA5CRALCVXQFU.jpg"
-        width: 1759
-        height: 1124
-        isCached: true
   - title: "$750. Again. And again. The amount Trump twice paid in taxes will be Biden's magic number during the first presidential debate, insiders say"
     excerpt: "Trump's taxes present Biden with an effective attack line to cast doubt on the president's character and wealth, insiders say."
     publishedDateTime: 2020-09-29T01:57:00Z

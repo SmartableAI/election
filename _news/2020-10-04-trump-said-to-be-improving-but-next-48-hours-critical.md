@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-improving-48-hours-critical-73412712"
 type: article
 quality: 125
-heat: 285
+heat: 245
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's doctor says he's no longer a risk for transmitting COVID-19 to others"
+    excerpt: "President Donald Trump's physician said Trump is not a \"transmission risk to others\" in a memo released after he held his first public event."
+    publishedDateTime: 2020-10-11T02:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/10/trump-not-risk-transmitting-covid-19-dr-conley-says/5958045002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5958045002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5958045002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "I’m aspiring to be anti-racist and patriotic. You can be both, President Trump."
     excerpt: "Trump thinks racial sensitivity trainings teach people to hate America and make white people feel guilt and anguish. I must have missed that part."
     publishedDateTime: 2020-10-06T09:22:00Z
@@ -60,6 +76,22 @@ related:
     quality: 121
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/53fa91ef-4232-485a-a17b-bd3d20ce1dd5-AP_TV-Al_Jazeera_Video.JPG?auto=webp&crop=5183,2916,x0,y345&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Says Stimulus Talks Are Back On—But Not Much Has Changed Since He Called Them Off"
+    excerpt: "This week, the president has veered wildly in his statements about the status of coronavirus aid negotiations."
+    publishedDateTime: 2020-10-08T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/"
+    ampWebUrl: "https://www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f252d9c0ba07e5be84c33%2F0x0.jpg%3FcropX1%3D402%26cropX2%3D4917%26cropY1%3D429%26cropY2%3D2968"
         width: 1200
         height: 675
         isCached: true
@@ -94,56 +126,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f790ccb33b8b5974bcf95f6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3530%26cropY1%3D179%26cropY2%3D2165"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Doctors say Trump doing 'very well' at hospital"
-    excerpt: "Doctors say US President Donald Trump is doing “very well” as he spends the weekend at a military hospital for treatment of COVID-19. (Oct. 3)"
-    publishedDateTime: 2020-10-03T17:30:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/03/doctors-say-trump-doing-very-well-hospital/3609245001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6202483-2d89-4536-b228-2432ce9d25ba_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump reports 'no symptoms,' returns to downplaying virus"
-    excerpt: "President Donald Trump, said to be making progress in his recovery from COVID-19, tweeted his eagerness to return to the campaign trail even as the outbreak that has killed more than 210,000 Americans reached ever more widely into the upper echelons of the U."
-    publishedDateTime: 2020-10-07T09:36:00Z
-    webUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "On Radio, TV, Trump Sets Out to Get Campaign Back on Track"
-    excerpt: "President Donald Trump is setting out to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
-    publishedDateTime: 2020-10-09T21:37:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Gathers Supporters At White House, Plans More Rallies"
-    excerpt: "US President Donald Trump was readying to host hundreds of partisans at the White House on Saturday, in hopes of relaunching his struggling campaign less than four weeks from Election Day. Trump has declared he is feeling \"really good\" -- but doubts linger over his health,"
-    publishedDateTime: 2020-10-10T18:46:00Z
-    webUrl: "https://www.ibtimes.com/trump-gathers-supporters-white-house-plans-more-rallies-3060042"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "exLJjzUyD4s5pNdXrkjsISCIzyzFXxGCaC81tpxO5zTlc3H0ekDP+ee5DmKSEkHSNgQ5wAnJZIGqNAbBesn/v7HrtEE+QzZ7sg7gx+VMJvj6OTbCFA2HOSTeQcLCwJJs4vwzXCWcGSMosFNvhV/23tEB/e5e5sMP6IgkiMTBmBuf8iInJRjny1h8g0UBD6U5puQJ2/PZyQn15hIvyTFu4Z6VslFkPU0Kb5MGG7RdCBvTOtxjl4kDbzQjklpGtJXt5tKJQaONYlv0fl1maB1/F++SA5VheaAkTGmCdibB8XJGykwyaUihG8zywLs27SZayCo9/aO8LIoC78IjjzH4sVtN9DUvSW8VkgFSphYaTV8=;0vXqtYpfbkLLLbcokTJW3g=="

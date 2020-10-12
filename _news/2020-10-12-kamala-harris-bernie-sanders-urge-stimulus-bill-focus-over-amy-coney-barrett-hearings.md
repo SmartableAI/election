@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearin
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
 type: article
 quality: 117
-heat: 217
+heat: 237
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden Says Amy Coney Barrett Appointment 'Not Constitutional' as He Evades Court Packing Question Again"
+    excerpt: "\"Look, the only court packing is going on right now. It's going on with the Republicans packing the court now,\" Joe Biden said."
+    publishedDateTime: 2020-10-11T02:07:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 107
+    images:
+      - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
+        width: 2500
+        height: 1571
+        isCached: true
   - title: "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings"
     excerpt: "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket."
     publishedDateTime: 2020-10-11T16:12:00Z
@@ -110,6 +126,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Kpig1MZ2+YLoyIjkuSWbsd8G9Q1W2Wp2DxHrbRAkccMaCguGy+Vai14iiaIDP+uobhJwgRaCW8Vt0CQlE/ZeNTUvkHpyvYZhjIdtv+U3HZTNdKkCxQChLheX2JjX1eZZfRGuagrrwmQNin14k0bdq6dbSMeHH1ox8cfRdF9j+m/Xq8tM1n1eXMa6Hf0G2A7UihNO2vwLMw6ziZjNHqCopBrQKKHUKQwLEhkXeFFxqE6+IMW9Lw+xVu1TfseIoGm9Wz73ldnWI7srv5hY07XSvvCLfTS0VrRQ6tF57h0RNDp5TZpNrIj7HwoVU8UjLoayOAxAn3ufQ7g1v75nNsPAuH5paCu8J2U+umODDWY7We8=;JpgcFbuYDPzSbekBX25pag=="
+secured: "lXjRtvDFqUf9D2LPmGE8R6rvKLJbgryevn3OMxVvfYfvdEmTctdTjC/w3CZyYcUfU2wJMxRMD5wanODoOAvsKkviDpYt8y+8yWHf1ovOcIHKU2d/EKqkjQS/MFTrqn5Sjhnddpb+DNhxQNDt2Cd4cZNB3DuJZFOQSTkSUCQ+17j4StNxFDO3H/BNn6mLWxRHf7CY1FTaZcb5YPsUkKspFbpETCvujlZCXCyDhRQuS5nXBaIpElcDJkPO7yJBn702tNTHjEHVKjq55eVW7VoJMaZS3rUEwVzFefg4uSezLFqwYbEFwmcSl4aPzcWNetJcA6gwKgr85yGbSs8i2va+Nr8KZOTZAhbxHLNbSHjzq0w=;kEDvLQSmIf2GdxKs2VVSUQ=="
 ---
 

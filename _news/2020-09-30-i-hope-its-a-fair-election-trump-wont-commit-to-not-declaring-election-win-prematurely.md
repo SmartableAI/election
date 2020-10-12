@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Barrett must recuse from 2020 election cases, shield Supreme Court from Trump corruption"
-    excerpt: "Barrett will be a fine justice. But Trump has had a corrupting influence on Congress and she'd put the court on a similar path if she rules on his fate."
-    publishedDateTime: 2020-10-12T07:29:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/12/barrett-protect-supreme-court-recuse-2020-election-cases-column/5915556002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5915556002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5915556002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump keeps hinting he may reject the election results. Is his true goal an immunity deal?"
     excerpt: "By putting his peaceful departure into question, Trump may succeed in making it a bargaining chip he can trade in for protection from prosecution."
     publishedDateTime: 2020-10-01T07:22:00Z

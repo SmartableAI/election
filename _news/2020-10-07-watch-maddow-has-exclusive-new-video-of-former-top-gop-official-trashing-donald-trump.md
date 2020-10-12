@@ -31,38 +31,63 @@ images:
     isCached: true
 
 related:
-  - title: "2020 Watch: Is it too late for Trump to turn things around?"
-    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid"
-    publishedDateTime: 2020-10-12T10:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+  - title: "The Note: Trump campaigns in a bubble amid signs of GOP worry about race"
+    excerpt: "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all."
+    publishedDateTime: 2020-10-09T10:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "WATCH: Former NSA, CIA Director Gen. Michael Hayden Warns Against Second Term for Trump in New Ad: ‘I Don’t Know What Happens to America’"
-    excerpt: "Former NSA, CIA Director Gen. Michael Hayden warns against second term for Trump in new Republican Voters Against Trump Ad: 'I don't know what happens to America'"
-    publishedDateTime: 2020-10-07T03:48:00Z
-    webUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
+  - title: "Trump's first public address since COVID-19 diagnosis had hallmarks of a campaign event at the White House"
+    excerpt: "White House spokesman Judd Deere said the event was an \"official\" event, and \"the campaign is not involved in this.\""
+    publishedDateTime: 2020-10-10T21:23:00Z
+    webUrl: "https://www.cbsnews.com/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 42
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Gen.-Michael-Hayden-Warns-Against-Second-Term-for-Trump-in-New-Ad.jpg"
-        width: 842
-        height: 473
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/10/8edbe822-2635-4cdf-83fd-290898f33e7e/thumbnail/1200x630/ceb27539b1ede26b1d98e19256853537/gettyimages-1228998575.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Doctors: Trump 'not entirely be out of the woods'"
+    excerpt: "President Donald Trump's medical team says the president \"may not entirely be out of the woods yet\" as he heads back home to the White House. Dr. Sean Conley, the president's physician, delivered an update on the president's health Monday."
+    publishedDateTime: 2020-10-05T20:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/doctors-trump-not-entirely-out-woods/3629960001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/395788b2-2df3-4c6a-86fa-60427e99bafb_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Judge Throws Out Trump Campaign's Pennsylvania Lawsuit"
+    excerpt: "A federal judge in Pennsylvania is throwing threw out a lawsuit filed by President Donald Trump’s campaign, dismissing its challenges to the battleground state’s poll-watching law and its efforts to limit how mail-in ballots can be collected and which of them can be counted."
+    publishedDateTime: 2020-10-10T17:29:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania"
+    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "tLrxnoWtI5f4WHXtmXaK//uBv/ajnuOmpR47N7r/1a3wnIy+LUWPl8WX7PJ/xpZ/pa0Vge7fqX5b9470rCkoDnUqh/WXMr0XLi3yzmtHADqiGIbVwZKp+vNEix+MrJ6RhfDVwfTsk+zSfCBbNa5SXZMN10kezZqcw7u+Z0WovZ1QkUNnZKkB4uzKfPW0lDNHikHUgAyrTovI1A1mHwJcqhdaue8mEgiJueoZ9kOug92lvngU6QqVnsqnkL7DpRaskQ67TzxJRtoLGMPTycAL6rgiv8FYKpqAcyIuyguNa2yZLcYvTjVj/RDcnMFRPHA0RyPy2MBHNzDYf7CTG002lfjNnTXeAaS5y31ylMlZutw=;4E4MEZbIO0LIB6XX7ccZiA=="
 ---

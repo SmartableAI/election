@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronaviru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
 type: article
 quality: 187
-heat: 1947
+heat: 1967
 published: true
 
 provider:
@@ -844,6 +844,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump rushing Barrett confirmation because of contested election fears, Durbin claims"
+    excerpt: "Sen. Dick Durbin, D-Ill., said President Trump nominated Judge Amy Coney Barrett to the Supreme Court to \"rule in his favor on any election contest\" during the opening portion of Barrett's confirmation hearing on Monday."
+    publishedDateTime: 2020-10-12T14:58:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0nDms90PTU8/durbin-amy-coney-barrett-confirmation-hearing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Dick-Durbin-donald-trump-amy-barrett.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "First lady Melania Trump says she and POTUS 'feeling good' after testing positive for coronavirus"
     excerpt: "First lady Melania Trump said Friday that she and the president are \"quarantining\" after testing positive for COVID-19."

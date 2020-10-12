@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5939328002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5939328002"
 type: article
 quality: 126
-heat: 206
+heat: 166
 published: true
 
 provider:
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to resume public events, starting today on the White House balcony"
-    excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
-    publishedDateTime: 2020-10-10T17:45:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
-    images:
-      - url: "https://www.chicagotribune.com/resizer/cHJjzXPTqoLa50ZEN2bjroeMHQg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6TXVNEALUFFMJ7DLWG4S4CJ3BY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Donald Trump Eases Back Into Work by Choking the Economy to Death"
-    excerpt: "The president has torpedoed stimulus talks, telling suffering Americans to bother someone else with their so-called problems."
-    publishedDateTime: 2020-10-06T21:35:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-stimulus-talks-over/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/5ac273d647083864d0b3be79/master/pass/Trump.jpg"
-        width: 2000
-        height: 1278
-        isCached: true
   - title: "Trump: Justice Dept. had 'plenty of time' for Durham probe"
     excerpt: "President Donald Trump is increasingly at odds with Attorney General William Barr over the status of the Justice Department's investigation into the origin of the Russia probe, with the president growing ever more critical about a lack of arrests and Barr frustrated by Trump's public pronouncements about the cas Trump and his allies had high hopes for the investigation led by Connecticut U."
     publishedDateTime: 2020-10-10T13:08:00Z

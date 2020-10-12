@@ -47,22 +47,6 @@ related:
         width: 594
         height: 393
         isCached: true
-  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
-    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
-    publishedDateTime: 2020-10-12T12:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
     excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
     publishedDateTime: 2020-09-19T23:33:00Z
@@ -95,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump urges Americans to 'get out there' after return from hospital"
+    excerpt: "President Donald Trump emerged on Monday from four days in a U.S. military hospital where he was treated for COVID-19 with a video message to Americans to \"get out there\" and not be afraid of coronavirus."
+    publishedDateTime: 2020-10-06T00:48:00Z
+    webUrl: "https://www.reuters.com/article/healthcare-coronavirus-trump-video-int-idUSKBN26R00L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R00L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R00L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536301868&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95007"
+        width: 817
+        height: 545
+        isCached: true
   - title: "When Trump gets coronavirus, Chinese Americans pay a price"
     excerpt: "Researchers monitoring Twitter several days after Trump announced his diagnosis noticed a startling spike in hateful sentiments against both China and Asian-Americans, as well as the recycling of other conspiracies."
     publishedDateTime: 2020-10-09T10:09:00Z
@@ -111,6 +111,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
+    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
+    publishedDateTime: 2020-10-12T14:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26X0GN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X0GN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X0GN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537087640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B09C"
+        width: 830
+        height: 545
+        isCached: true
+  - title: "Americans have 'conflicting' feelings about President Trump's COVID diagnosis"
+    excerpt: "The spectrum of reactions in the days since Trump's COVID diagnosis reflect the complexity of America's political and moral moment."
+    publishedDateTime: 2020-10-06T17:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/06/trump-sick-covid-has-americans-confused-coronavirus-message/3623255001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3623255001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3623255001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e1f72c85-22fd-499c-a73c-5d32179a2f35-GTY_1278691059.jpg?auto=webp&crop=6306,3547,x0,y172&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election"
     excerpt: "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child."
     publishedDateTime: 2020-10-07T10:18:00Z
@@ -126,6 +158,22 @@ related:
       - url: "https://i.insider.com/5f7cf91d282c500018c79042?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Why the Russians may know more about Trump's health and COVID diagnosis than the American public"
+    excerpt: "Russia and other US foes have almost certainly deployed every tool in their spy kits to determine how sick the president is, according to experts."
+    publishedDateTime: 2020-10-07T12:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/07/trump-covid-diagnosis-russia-china-spies-national-security/5898459002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5898459002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5898459002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/21/USAT/fb3da339-e73c-4e63-929f-5e7c8df79145-AP_France_Trump_Russia_Probe.JPG?auto=webp&crop=5024,2826,x1,y886&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "2020 Daily Trail Markers: Trump plans to head back to campaign trail with Monday rally in Florida"
     excerpt: "The president is slated to deliver remarks at an airport hangar at 7 p.m. ET, 12 days after he disclosed his COVID-19 diagnosis."
@@ -175,6 +223,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump tweets that he's leaving the hospital and says 'don't be afraid of Covid,' a virus that's killed over 209,000 Americans"
+    excerpt: "The president was diagnosed with COVID-19 late last week and transferred to Walter Reed hospital as his conditioned worsened on Friday."
+    publishedDateTime: 2020-10-06T04:26:00Z
+    webUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7b6e7694fce90018f7b2de?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Will Donald Trump participate in any more debates? – States of America"
     excerpt: "Phillip Bailey and guests discuss the presidential debates and what we learned from the VP debate, including thoughts from the moderator, Susan Page."
     publishedDateTime: 2020-10-09T12:59:00Z
@@ -184,22 +248,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 85
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
-    publishedDateTime: 2020-10-04T11:46:00Z
-    webUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 82
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
-        width: 687
-        height: 430
-        isCached: true
   - title: "Cuban-American judge from Florida on Trump high court list"
     excerpt: "A daughter of Cuban exiles who has had a swift rise as a lawyer and judge is on President Donald Trump's short list to replace Ruth Bader Ginsburg on the U.S. Supreme Court. The president said Monday that he does not personally know Barbara Lagoa,"
     publishedDateTime: 2020-09-21T19:43:00Z
@@ -291,18 +339,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump Sets Big Events for WH, Florida, Restarting Campaign"
-    excerpt: "President Donald Trump is looking to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
-    publishedDateTime: 2020-10-09T23:24:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
-secured: "6gi/cVmjykT5YjqFccIaokX+jGF+rxWMsjLrJtJ+w5vRjMLWhatrz69QOf+Zm1ia+x3jjb5PLbqX58ZtpFfW2qV0O5FEexx+ypvveuruZKBOG+jOajDv9nY8cusn5InqUxLJ8U+w0fdG8Daq356Lrd71oAd7UtzVvehXGGaKdmPlG85wF+MsXI7n4jhq/kGFDCSUtG5UAQSD1arTufPWiuHYsbuoQ3oQDX0Jz22QB5jaYPMxMj14EN0e+1oPSoq8Gz3JUGz+J/PwG21gK3uCpsF0GCcmIHyciJkdFtYvHuNBFkkE/uu14DH8CJhcNVwHXLgQDYP9wGShMhfN2y6Bxy4xr/i3RtgpbL8CyzXhfLo=;K4a4oMbVwax5QiCXCgwtcg=="
+secured: "CHC5H8z/vlKApiLT/DOc5+/9jtOkKHkk5WRvQfYz0d9rbAizPVWwEkkiunAPdBf4BhAd0/WhdlaJXdycNi+9ZQvYgi/2kLXr9Nq4Ob16XDfQoJMFeB84HROUAppYUmBvW+mgXJoHWB9CZQhIB7v2WHfDvUMPhNlhGqIJFAKIuWJq7QthP1kjqaW7zgiM19e3X/sxqJn04bN8g7a9Y8e1apGvN1fNfqGWH9EaupOtfXu9Sg8U+0/fA8eP9eJ9bz7VDyvI2kQq/reeuE9VAw7dA8mKp4/8jigvPzWA0nzdHx+UN9QsFoxpVyxWKybaTLLeuccyOSlDtUxeONd5e9wiBseswdXZqhaGuWN0uGEK0MLmOgpGCgu3at7I6GGvcHkNXOaNWqBZSmLqWl0Qrhw2JAj2QaSGL4qKH6HMmcIAYEi/Bokoea+7/BwFu4aoWCOzs0IH89NXOJD+ntvSQjgSuUyRFzUIne6t4qMWktSlZTy4iGDCxECxmro5Aiw932kIfmuaWkEzMlhO0OxVVT8/5Q==;BvsDL/DCPpRqjcDvbLSl7A=="
 ---
 

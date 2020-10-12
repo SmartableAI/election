@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N1MZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N1MZ"
 type: article
 quality: 125
-heat: 265
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,107 +31,153 @@ images:
     isCached: true
 
 related:
-  - title: "Biden again tests negative for COVID-19"
-    excerpt: "Democratic nominee Joe Biden tested negative for COVID-19 on Sunday, his campaign said. Biden was administered a PCR test for the virus, his campaign said, and COVID-19 was not detected. It marked the second time Biden has tested negative since President Trump revealed early Friday morning that he had the virus."
-    publishedDateTime: 2020-10-04T23:40:00Z
-    webUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19"
-    ampWebUrl: "https://thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519564-biden-again-tests-negative-for-covid-19?amp"
+  - title: "Fact check: Joe Biden did not say he attended Delaware State University"
+    excerpt: "Tens of thousands of social media users have been sharing posts that say Democratic presidential candidate Joe Biden lied about attending Delaware State University (DSU). This claim is false: Biden did not say that he attended DSU."
+    publishedDateTime: 2020-09-30T15:37:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-joe-biden-delaware-state-un-idUSKBN26L2RD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26L2RD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L2RD"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_093020upi_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535546722&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T1V0"
+        width: 818
+        height: 545
         isCached: true
-  - title: "'He's from here': Biden and the battle for Scranton"
-    excerpt: "Biden and the battle for Scranton. Posted . Democratic presidential nominee Joe Biden's hometown of Scranton, Pennsylvania has become one of the cent"
-    publishedDateTime: 2020-10-06T18:36:00Z
-    webUrl: "https://www.reuters.com/video/watch/idP2xd?now=true"
+  - title: "Fact check: Hunter Biden's military discharge was administrative, not dishonorable"
+    excerpt: "Posts on Facebook following the first 2020 presidential debate say Hunter Biden, the second and only surviving son of Democratic presidential nominee Joe Biden, received a dishonorable discharge from the U."
+    publishedDateTime: 2020-10-01T16:42:00Z
+    webUrl: "https://www.reuters.com/article/uk-fact-check-hunter-biden-not-dishonora-idUSKBN26M6QI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26M6QI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26M6QI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535722399&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG904KJ"
+        width: 821
+        height: 545
+        isCached: true
+  - title: "Fact check: Robert Byrd, eulogized by Joe Biden at funeral, was not KKK Grand Wizard"
+    excerpt: "Social media users have been sharing content online that claims Democratic Presidential nominee Joe Biden eulogized Robert Byrd, asserting he was the grand wizard of the Ku Klux Klan (KKK). This claim is partly false."
+    publishedDateTime: 2020-10-07T15:15:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-byrd-eulogy-biden-kkk-grand-idUSKBN26S2EE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S2EE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S2EE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536544756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG961N0"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Biden hits the campaign trail after negative test for COVID-19"
+    excerpt: "Democratic presidential candidate Joe Biden said President Donald Trump's coronavirus diagnosis is a \"bracing reminder\" that the pandemic needs to be taken seriously, as he campaigned on Friday in the battleground state of Michigan."
+    publishedDateTime: 2020-10-02T18:50:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/after-trumps-covid-19-diagnosis-biden-says-masks-not-about-being-a-tough-guy-idUSKBN26N2UZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2XX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2XX"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 105
-    images:
-      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f7c7fa6e4b04f7ff7c2adc5-1601994662901?location=LANDSCAPE"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "‘Bidin’ his time': Joe Biden battles being chronically late"
-    excerpt: "Joe Biden was running late. Again.On a recent Friday, he’d already apologized for the delayed start to a speech, then taken more questions than expected at a subsequent press conference. When it was finally over,"
-    publishedDateTime: 2020-09-27T03:06:00Z
-    webUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
-    cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10098020/bidin-his-time-joe-biden-battles-being-chronically-late/amp"
+  - title: "Fact check: Will Joe Biden raise your taxes on day one?"
+    excerpt: "On day one, Joe Biden’s going to raise your taxes,” Vice President Mike Pence said during his debate with Sen. Kamala Harris. Details: How much your taxes go up would depend on how much you make. Harris and Biden are pushing an economic plan that would impose much higher taxes on the wealthy,"
+    publishedDateTime: 2020-10-08T01:45:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246283800.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246283800.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246283800.html"
     type: article
     provider:
-      name: The Oklahoman
-      domain: oklahoman.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 75
     images:
-      - url: "https://cdn2.newsok.biz/cache/1280x720_blur-4cb4ae21b3530f5411a1621d59b8d043.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/cd1132fd-82b4-4ce3-8e94-cb196d81faf2/5ac1b7ed-3ce9-46b7-b04c-ef3406a51f2d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Why Joe Biden can't expect to automatically get the Latino vote"
-    excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
-    publishedDateTime: 2020-10-03T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3533570001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001"
+  - title: "Fact check: Will Joe Biden raise your taxes on day one? | Charlotte Observer"
+    excerpt: "On day one, Joe Biden’s going to raise your taxes,” Vice President Mike Pence said during his debate with Sen. Kamala Harris. Rating: True Details: How much your taxes go up would depend on how much you make."
+    publishedDateTime: 2020-10-08T03:35:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246283800.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246283800.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246283800.html"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/cd1132fd-82b4-4ce3-8e94-cb196d81faf2/5ac1b7ed-3ce9-46b7-b04c-ef3406a51f2d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
+    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
+    publishedDateTime: 2020-09-29T22:50:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
         width: 1200
-        height: 677
+        height: 675
         isCached: true
-  - title: "Finally, Joe Biden is speaking (sort of) to Arizona Latinos. But it's not enough"
-    excerpt: "Joe Biden must have finally realized that he can't take Hispanics for granted and that this voting bloc is not homogenous. But we need more than ads."
-    publishedDateTime: 2020-09-29T21:19:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/op-ed/elviadiaz/2020/09/29/joe-biden-ads-finally-targeting-latinos-he-must-visit-arizona/3578385001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3578385001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3578385001"
+  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
+    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
+    publishedDateTime: 2020-09-24T14:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/NREC/efe08966-a43e-40b8-9324-10f85edb6c0e-AP20271594750728_1.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
-    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Putin Says He Has Noted Joe Biden's Harsh Anti-Russian Rhetoric"
+    excerpt: "Russian President Vladimir Putin said on Wednesday he had noted what he called harsh anti-Russian rhetoric from U.S. Democratic presidential candidate Joe Biden, but said he had been encouraged by Biden's comments on arms control."
+    publishedDateTime: 2020-10-07T08:39:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-07/putin-says-he-has-noted-joe-bidens-harsh-anti-russian-rhetoric?context=amp"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 51
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Joe Biden Campaigns in Las Vegas"
-    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a campaign event in Las Vegas, Nevada."
-    publishedDateTime: 2020-10-09T22:17:00Z
-    webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaigns-las-vegas&ICID=ref_fark"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Joe Biden Campaigns in Charlotte, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
+    publishedDateTime: 2020-09-23T23:14:00Z
+    webUrl: "https://www.c-span.org/video/?476085-1/joe-biden-campaigns-charlotte-north-carolina"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden speaks at Black Economic summit in Camp North End | Charlotte Observer"
+    excerpt: "Presidential candidate Joe Biden arrives in Charlotte, Sept 23, 2020. This is his first time in Charlotte since the summer. This is the first time Biden has been in North Carolina since the spring."
+    publishedDateTime: 2020-09-23T18:56:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245951550.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 30
 
 secured: "F36SSMeJpJGsW5L/xOO2v6/ELulYaXurwl9vVE//1ymjy14FaFQoo3d4hqzRyBoC7ghYiOlYeMO5o2PO3/xiCFz5HaZzFXRFNYAdPgG4Gqgw8ef8YEHUPYefaNYy8/Xt6SyRtAiMXj3si8JcgPTWOfgoal3W471TBgLQqxeLOz+MTu3pFeDs/RHUeeAjoEj9WwjJykkaQ3ZAcEqPEgnPDpSZkgwUFWCuaIkfj4OET+kZhyU6tfVQespS5RRg3FS0bFVqjQ2AuSg2544uQx6eFAmy5FbXDWxN+c+S0HZH8fYVtBewIF9wTv5M105FXHnKOUGNDYnLLO4NoghEKY/0Lxtv4CIUYivbeNeh+nGGBY4=;srEXtDjSW6OXV32n57cSHQ=="
 ---

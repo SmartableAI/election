@@ -79,6 +79,17 @@ related:
         width: 1440
         height: 1079
         isCached: true
+  - title: "Key takeaways from the New York Times' investigation into Trump's taxes while in office"
+    excerpt: "The Times investigation found Trump's properties were a center of lobbying and during the president's first term, with the president often profiting."
+    publishedDateTime: 2020-10-11T17:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/11/key-takeaways-nyt-look-into-trumps-taxes-while-office/5960622002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5960622002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960622002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
 
 secured: "NIFCdIZ1wzU2KrrvYHHcg77BMQ//9q3Df0iAqP4qBW3Sbxdw0w6XnJXZcHQQrIN9BTdG8Z/dVub6AZFxzA52eQbW7VjaH12+HmvQkzR5ZsOD9V4vaDUCOU+ESi3bXn4v7ibf/C9idvEv00/PD5nKvdElwy2DnUo6dWjf5MiGg1++3/Xz15sdg2GlWXfT+7FzWSbCkC37+y8ZDjjQqrWq5gwFm+qomShOp69435PU7QWYwHPNn3s0zo44xtDJW1pSh6Jo1diTsEE5WD6JoJ3fGiQGXSHaJPO/Srd7PR7gskGi/7UgoUFKkhRi+HiBXYpy01FufwUvvYaYBuWfmonHXqOwS05CWooprPjpV5/NzYM8U3TLVyhPB3MvOv9liNOrnq6lZsMpDS0QZPxhy82l7m63EXbvOQgOG7N1hRfrPg8HlI2WMkKuTPrAV7CtZ3cjQPb9gZ0aspI03QQvwNWHsaq1Pc6HeVwdP4I2X4xLAWYcKBvH7tUGzgip5EjITSrp/VMgGWs87SjHrRz56EsdjQ==;BzAh3HJODJSDG+28dZ6tRg=="
 ---

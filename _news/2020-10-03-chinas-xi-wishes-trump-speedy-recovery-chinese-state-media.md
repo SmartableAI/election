@@ -39,6 +39,38 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump says he is free of COVID-19 as he aims to get back to campaign trail"
+    excerpt: "U.S. President Donald Trump said on Sunday he is fully recovered from COVID-19 and will not be a transmission risk to others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
+    publishedDateTime: 2020-10-11T18:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26W09G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W09G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W09G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537013841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A05D"
+        width: 861
+        height: 545
+        isCached: true
+  - title: "Trump says he is recovered from COVID-19, prepares for return to campaign trail"
+    excerpt: "U.S. President Donald Trump said on Sunday he had fully recovered from COVID-19 and was not an infection risk for others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
+    publishedDateTime: 2020-10-11T21:16:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUSKBN26W0AG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0AG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0AG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537013841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A05D"
+        width: 861
+        height: 545
+        isCached: true
   - title: "UK PM Johnson says 'resilient' Trump will make strong recovery"
     excerpt: "British Prime Minster Boris Johnson said on Saturday he has no doubt U.S. President Donald Trump will make a very strong recovery from COVID-19, calling him a very \"resilient character\"."
     publishedDateTime: 2020-10-03T12:39:00Z
@@ -50,6 +82,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump's Indian Fan Who Fasted For President's COVID-19 Recovery Dies Of Heart Attack"
+    excerpt: "\"He was upset when he learned about Trump testing positive for the COVID-19. He spent sleepless nights, starved and prayed for the U.S. President Trump's recovery for the past three-four days,\" his friend told local media."
+    publishedDateTime: 2020-10-12T11:37:00Z
+    webUrl: "https://www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756"
+    ampWebUrl: "https://www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-indian-fan-who-fasted-presidents-covid-19-recovery-dies-heart-attack-3060756?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "v//AvWqdF4+nmnHPsLpdU36nZvr4LHTStM4wnhlNn1kNQfYOV9DtsJ9a1YVUMZJx+kIW9XRI5KvcG6q3KrvKHg0aGVQfsTwwf8fMqmOOjBl9OmnabDMUdRaGlMm5P3DKuVaTyJ78HxU/v8sAp7gWgn4cjWgVL3gWlzEgPkM02YFd9Hd+ZyD3DWLyX4B9alyfC755zeSiZfC0xpNTIgxW1JRjU2N9mSbhtRKHF46VJidqpZTHVTEi1EE1NQlJTKUWQA7yEJjZhHrvrsDxT1ri7zYC330IGdk1J5o66/C/VtX3tyoWyV3BgKENCjDDufz70SIKpfBmKKQ4Bd2hZTHihXt3Y0gKzvFxbTDxuWqwWxPHsJekZ+H1HbMZfXKDcYNrq+yI9gjlzlKLrl09CB+FGY5uvW1fCozHtPDK3BgfvYjYAXJkg6OVKdJroBniVBNQACRRx5/G3uaoscvOmUZkl91vj61A6PpihiQ1rIOEYvQqm77PzEp5+6w4LZbNFPfY1Soajz0zHPpKm7XduiX8jw==;AAauSgPcmTaOJInaeXobJg=="
 ---

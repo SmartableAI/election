@@ -79,6 +79,70 @@ related:
         width: 1440
         height: 932
         isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive COVID-19"
+    excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-02T17:48:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-covid-19-idUSKBN26N0T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535902562&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910JT"
+        width: 1380
+        height: 545
+        isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive for COVID-19"
+    excerpt: "U.S. President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-03T05:54:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idUSKBN26N0SM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535905929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IV"
+        width: 826
+        height: 545
+        isCached: true
+  - title: "Trump's mercurial maze of COVID-19"
+    excerpt: "Every American should be thrilled by the president’s recovery and completely bewildered by the head-spinning nature of it."
+    publishedDateTime: 2020-10-06T21:30:00Z
+    webUrl: "https://thehill.com/opinion/white-house/519806-trumps-mercurial-maze-of-covid-19"
+    ampWebUrl: "https://thehill.com/opinion/white-house/519806-trumps-mercurial-maze-of-covid-19?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/519806-trumps-mercurial-maze-of-covid-19?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/1230trumpnomask.jpg"
+        width: 580
+        height: 326
+        isCached: true
+  - title: "Visualizing the people exposed to COVID-19 by Trump outbreak"
+    excerpt: "Since last week’s announcements that President Donald Trump and his adviser Hope Hicks tested positive for coronavirus, dozens who came into contact with them or their associates have also contracted the virus."
+    publishedDateTime: 2020-10-09T19:40:00Z
+    webUrl: "https://www.usatoday.com/in-depth/graphics/2020/10/09/visualizing-those-exposed-to-covid-19-by-trump-white-house-superspreader-outbreak/5927865002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5927865002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927865002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/d821f97e-5909-4ee6-bbc1-52a6bf72bdb1-wh-top.jpg?auto=webp&crop=1274,717,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Says Coronavirus 'Affects Virtually Nobody,' As U.S. Has World's Highest Death Toll"
     excerpt: "At a campaign event on Monday, Joe Biden struck a different tone to the president, stating the number of dead cannot become \"background noise.\""
     publishedDateTime: 2020-09-22T07:53:00Z
@@ -110,6 +174,33 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S7DQDNH4OUI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "With COVID-19 diagnosis, Trump says 'I get it.' He doesn't."
+    excerpt: "President Donald Trump says he does “get it.” That revelation comes seven months — and almost 210,000 American deaths — is not the first time he has relied on personal experience to shape his views."
+    publishedDateTime: 2020-10-06T08:21:00Z
+    webUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Ex-FDA commissioners, including former Trump advisor, warn against White House efforts to 'tip the scales' on COVID-19 vaccine"
+    excerpt: "Trump's first commissioner, and six others, suggest he's manipulating the FDA and undermining trust in any future coronavirus vaccine."
+    publishedDateTime: 2020-09-30T05:41:00Z
+    webUrl: "https://www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fda-leaders-warn-against-trump-manipulation-of-covid-19-vaccine-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5f73ebf174fe5b0018a8e241?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "'It's a low bar to be not Donald Trump': Young Democratic activists explain the vision of the future driving first-time voters to the polls"
     excerpt: "But will movements like March for Our Lives and the global climate strike translate to the ballot box?"
