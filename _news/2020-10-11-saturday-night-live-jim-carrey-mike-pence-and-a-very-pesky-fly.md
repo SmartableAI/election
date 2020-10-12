@@ -7,7 +7,7 @@ originalUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-nigh
 webUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly"
 type: article
 quality: 105
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jim Carrey returned to 'SNL' to absolutely nail the role of the fly on Mike Pence's head"
+    excerpt: "That's when Jim Carrey appeared as Joe Biden, who comes up with a scheme to sabotage Pence that involves teleportation. No spoilers, but the veteran comedian at one point plays an elderly presidential candidate and 1980s Jeff Goldblum and a fly,"
+    publishedDateTime: 2020-10-11T13:48:00Z
+    webUrl: "https://mashable.com/video/snl-jim-carrey-debate-fly-maya-rudolph-kamala-harris/"
+    ampWebUrl: "https://mashable.com/video/snl-jim-carrey-debate-fly-maya-rudolph-kamala-harris.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/snl-jim-carrey-debate-fly-maya-rudolph-kamala-harris.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 66
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F10%252F11%252Fd6%252Fb7e3e060eb6c4ebfb25046cce24636db.53424.png%252F1200x630.png?signature=9P-G81GvVzhCukasPC8Cf2i2Npw="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "VIDEO: SATURDAY NIGHT LIVE Tackles the Vice Presidential Debate, and the Fly on Mike Pence's Head"
     excerpt: "Live returned last night for a new hilarious episode. Last night's Cold Open tackled the vice presidential debate between Mike Pence and Kamala Harris. In the sketch, Susan Page (Kate McKinnon) moderates a debate between Senator Harris (Maya Rudolph) and Vice President Pence (Beck Bennett),"
     publishedDateTime: 2020-10-11T13:18:00Z

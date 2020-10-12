@@ -1039,6 +1039,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Trump, Biden campaigns eye 'swing' states while approaching final stretch"
+    excerpt: ""
+    publishedDateTime: 2020-10-12T08:06:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hx27ZwBnPWw/live-updates-trump-biden-campaigns-eye-swing-states-while-approaching-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-campaigns-eye-swing-states-while-approaching-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-campaigns-eye-swing-states-while-approaching-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d452b75-fdf1-46e0-a4b0-2e05bc4bbb67/0ebb56c4-2964-4639-9043-7749d7669ec0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump claims debate victory over Biden: 'I held Joe accountable for his 47 years of lies'"
     excerpt: "President Trump declared victory over former VIce President Joe Biden after their first presidential debate, telling a rally in Duluth, Minnesota that they and other Americans won as well."
     publishedDateTime: 2020-10-01T01:55:53Z

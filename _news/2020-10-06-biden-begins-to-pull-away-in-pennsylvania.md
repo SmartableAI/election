@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden tops 270 in POLITICO's Election Forecast"
+    excerpt: "To win reelection, Trump would now have to sweep five toss-up states, plus a “lean Democratic” state like Wisconsin or Pennsylvania."
+    publishedDateTime: 2020-10-12T08:36:00Z
+    webUrl: "https://www.politico.com/news/2020/10/12/biden-tops-270-politico-election-forecast-428837"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/12/biden-tops-270-politico-election-forecast-428837"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/12/biden-tops-270-politico-election-forecast-428837"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/5c/0e/d8b40c5244d581ab79cf4d74d647/ap20265726273348-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Taylor Swift endorses Joe Biden for President"
     excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."
     publishedDateTime: 2020-10-07T22:47:00Z

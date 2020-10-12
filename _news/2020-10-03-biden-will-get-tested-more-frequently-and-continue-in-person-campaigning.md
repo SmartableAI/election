@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden tops 270 in POLITICO's Election Forecast"
+    excerpt: "To win reelection, Trump would now have to sweep five toss-up states, plus a “lean Democratic” state like Wisconsin or Pennsylvania."
+    publishedDateTime: 2020-10-12T08:36:00Z
+    webUrl: "https://www.politico.com/news/2020/10/12/biden-tops-270-politico-election-forecast-428837"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/12/biden-tops-270-politico-election-forecast-428837"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/12/biden-tops-270-politico-election-forecast-428837"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/5c/0e/d8b40c5244d581ab79cf4d74d647/ap20265726273348-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden begins to pull away in Pennsylvania"
     excerpt: "With 28 days till the election, Pennsylvania is looking further and further out of reach for President Donald Trump. Democratic presidential nominee Joe Biden is ahead by 12 percentage points among registered voters here,"
     publishedDateTime: 2020-10-06T16:00:00Z

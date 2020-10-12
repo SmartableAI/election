@@ -109,6 +109,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "\"SNL\" Perfectly Explained That Fly On Mike Pence's Head In Their VP Debate Sketch"
+    excerpt: "If you've been anywhere on the internet in the past week, you've probably heard about the fly that spent a whole two minutes chillin' on Mike Pence's head during the vice presiden"
+    publishedDateTime: 2020-10-11T21:42:00Z
+    webUrl: "https://www.buzzfeed.com/angelicaamartinez/snl-vp-debate-fly-sketch"
+    ampWebUrl: "https://www.buzzfeed.com/amphtml/angelicaamartinez/snl-vp-debate-fly-sketch"
+    cdnAmpWebUrl: "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/angelicaamartinez/snl-vp-debate-fly-sketch"
+    type: article
+    provider:
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 70
+    images:
+      - url: "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/9/13/tmp/cf2a42752818/tmp-name-2-1936-1602251238-12_dblbig.jpg"
+        width: 625
+        height: 415
+        isCached: true
   - title: "'The road to victory goes straight through Pa': VP Pence amps up campaign in Lititz"
     excerpt: "Vice President Mike Pence made a campaign stop in Lititz on Tuesday, Sept. 29 to host a presidential debate watch party."
     publishedDateTime: 2020-09-30T03:10:00Z

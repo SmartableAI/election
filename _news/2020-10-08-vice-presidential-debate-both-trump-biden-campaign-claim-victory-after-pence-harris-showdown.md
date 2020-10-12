@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3708
+heat: 3728
 published: true
 
 provider:
@@ -1024,6 +1024,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Live Updates: Trump, Biden campaigns eye 'swing' states while approaching final stretch"
+    excerpt: ""
+    publishedDateTime: 2020-10-12T08:06:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hx27ZwBnPWw/live-updates-trump-biden-campaigns-eye-swing-states-while-approaching-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-campaigns-eye-swing-states-while-approaching-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-campaigns-eye-swing-states-while-approaching-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5d452b75-fdf1-46e0-a4b0-2e05bc4bbb67/0ebb56c4-2964-4639-9043-7749d7669ec0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden deflects yet again on court packing questions: 'I'm not going to play Trump's game'"
     excerpt: "Democratic presidential nominee Joe Biden once again avoided giving a straight answer on whether he would support packing the Supreme Court if elected, after making clear during Tuesday’s debate that he would not address the issue."
