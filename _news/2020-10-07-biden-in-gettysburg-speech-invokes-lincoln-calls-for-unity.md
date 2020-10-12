@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-spe
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
     excerpt: "Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas, Nevada."
     publishedDateTime: 2020-10-12T15:33:00Z
     webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaign-event-las-vegas"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Delivers Remarks in Toledo on the Economy"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy. 2020 Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy."
+    publishedDateTime: 2020-10-12T17:26:00Z
+    webUrl: "https://www.c-span.org/video/?476873-1/joe-biden-delivers-remarks-toledo-economy&ICID=ref_fark"
     type: article
     provider:
       name: C-SPAN

@@ -2,6 +2,99 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-09-17-mike-pence-florida-and-arizona-are-must-win-states-for-november.md",
+      "title": "Mike Pence: Florida and Arizona are “Must Win” States for November",
+      "excerpt": "The battleground states of Florida, Arizona, Pennsylvania and Michigan indicate a tight race for the presidency, as Biden leads by less than five percent in all three states on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-“must-win”-states-november-169032",
+      "originalUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-“must-win”-states-november-169032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/2020-08-24T191905Z_1386877617_RC2HKI9EJ46J_RTRMADP_3_USA-ELECTION-CONVENTION%20copy.jpg",
+          "width": 1800,
+          "height": 1130,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-%E2%80%9Cmust-win%E2%80%9D-states-november-169032?amp",
+      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/mike-pence-florida-and-arizona-are-%E2%80%9Cmust-win%E2%80%9D-states-november-169032?amp",
+      "publishedDateTime": "2020-09-16T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-16-oops-vp-mike-pence-missing-from-some-michigan-ballots.md",
+      "title": "Oops: VP Mike Pence missing from some Michigan ballots",
+      "excerpt": "Local election clerks in Michigan downloading absentee ballots for residents overseas were given ballots that listed President Donald Trump’s Republican running mate as Jeremy Cohen, not Mike Pence",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/oops-vp-mike-pence-missing-from-some-michigan-ballots/2020/09/16/a5b3b780-f825-11ea-85f7-5941188a98cd_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-16T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-16-kamala-harris-wildfires-burning-in-western-united-states-utterly-predictable.md",
       "title": "Kamala Harris: Wildfires burning in Western United States 'utterly predictable'",
       "excerpt": "Democratic vice presidential candidate Sen. Kamala Harris described the wildfires ravaging the Western United States as \"utterly predictable\" as she traveled to California on Tuesday.",
@@ -1208,116 +1301,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-biden-campaign-readies-massive-legal-team-for-voting-election-issues.md",
-      "title": "Biden campaign readies massive legal team for voting, election issues",
-      "excerpt": "Joe Biden's campaign has assembled an extensive legal team to focus on voting and election issues.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 990,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200909141515-02-biden-mi-0909-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/biden-election-voting/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/biden-election-voting/index.html",
-      "publishedDateTime": "2020-09-14T10:04:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-michael-cohens-daughter-says-she-was-taken-aback-by-trumps-behavior-toward-her-father.md",
-      "title": "Michael Cohen's daughter says she was taken aback by Trump's behavior toward her father",
-      "excerpt": "Samantha Cohen, the daughter of President Donald Trump's former lawyer, says she was taken aback by his behavior toward her father during a 2012 incident in which her father says Trump leered at her.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MzLM8iPT2CE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MzLM8iPT2CE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200914075658-samantha-cohen-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
-      "publishedDateTime": "2020-09-14T08:59:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928"
 type: article
 quality: 155
-heat: 2275
+heat: 2335
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/cedric-richmond-gty-rc-201010_1602358539594_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump is trailing Biden by an average of 10.5 percentage points less than a month before Election Day"
+    excerpt: "At this point in the 2016 election, Democratic presidential nominee Hillary Clinton led Trump by 6.9 points, according to FiveThirtyEight."
+    publishedDateTime: 2020-10-12T16:59:00Z
+    webUrl: "https://www.businessinsider.com/trump-trails-biden-10-points-polls-3-weeks-before-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-trails-biden-10-points-polls-3-weeks-before-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trails-biden-10-points-polls-3-weeks-before-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5f84627bbab422001979ac11?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?"
     excerpt: "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades."
@@ -1342,6 +1358,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Trump Campaign’s Big Plan to Save Itself: More Trump"
+    excerpt: "The president is reportedly looking to reset the race at the last minute — by doubling down on the very approach that has brought his reelection bid to the brink."
+    publishedDateTime: 2020-10-12T16:20:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/trump-campaign-plan-save-itself-more-trump"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/trump-campaign-plan-save-itself-more-trump/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trump-campaign-plan-save-itself-more-trump/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/5f846f48b13a7bb1006f7180/master/pass/Trump10.12.jpg"
+        width: 2000
+        height: 1332
+        isCached: true
   - title: "Doctor says President Donald Trump won’t transmit virus, stays mum on tests"
     excerpt: "Navy Cmdr. Dr. Sean Conley says that by “currently recognized standards” Trump is no longer considered a transmission risk."
     publishedDateTime: 2020-10-11T03:30:00Z
@@ -1580,6 +1612,20 @@ related:
         width: 2048
         height: 1367
         isCached: true
+  - title: "Behind In Polls, Trump Launches Swing State Blitz"
+    excerpt: "President Donald Trump, trailing in the polls with the election just three weeks away, returns to the campaign trail on Monday after being hospitalized for Covid-19, embarking on a sprint through key swing states."
+    publishedDateTime: 2020-10-12T17:09:00Z
+    webUrl: "https://www.ibtimes.com/behind-polls-trump-launches-swing-state-blitz-3060877"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
+        width: 1024
+        height: 651
+        isCached: true
   - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
     excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"
     publishedDateTime: 2020-10-11T11:12:00Z
@@ -1622,6 +1668,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "CqgpWw8x32WeDjvlXPwWjChzrbVUlDwJcmQdkxVyi4bakUX3nZOrBH1l1mSMUySgj3lOjMb+dI8kHS8Nd59AJDXXePFG2GueqMsq+a0OnnQpshhX2H4Otwl2EX3o2MWwRuQA0B814Y9xqnip8KQ3pSj5L8dPPLtZ25dgAGGNgjTdnOKwIPr93sDewGRlv15iCnEgDza22AFVnTmpFcQlXeSPVgfUU6pNl0bBCAo3tWeSI3lw35VBeogM3Z1k4VTJqdbNRjBCk7DjQ/YKW52Xk4qNWYHxjtYSBOi1Zvocs+mD5UxzppEe0WlHdc+x3kH7/3ywhCwjinmXB9sH8piorak06MjRj4oB1NKNqiKh8os=;U5y6VVl72qIKuOQYa8xEWQ=="
+secured: "MhVNxfxV5lK46aWxbgP4hk8KrLhLT8+FLHIPceJlKUU/fRW2L26tRAs05cvnueK0vcqR3mSOqMLM2iIapOp5fULMjeDOU5sEoP0jZfLL8KClS+xzC6B7RO7EfCx5Slz86tIKjdGEWkqs9xIzg/TKhLbjb9brW7teuFsFm01pUsZlg7JgkhA4CtNNhR78GmxPfugEUMATPsl2Kyoabe/QrjgVhxQmKOkZHMcIYY87T74pabJEJPRbkHXS9QcdKRvzcRfcut00hl2HbCC27xwUpwhAbef8B0pCoE/QaqMg0QiJZraXZwiTyM0Xmp+qtua/CW3gHVVqooxvEFwfcdVY36LvpJvD6xbZS3tH8QqH67ui1Mc+AK0Ltyg/TQLyx95aMbN1LqmBsP9ZOVAr1kwMYTdbcYKIGrdZnjJn74evWUi62WbgdqKTJNHpyBTAqmdSuQW2mknLBCP6Y37VzhR+GC6IW4TsO9SG2YoXkVCuJYgxl2HKUyoz+CLD9MFu4FVm9+CH7AvWiAI2m59Z14cLfA==;WU4mwgVeKE+51zITXget3g=="
 ---
 

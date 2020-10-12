@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2123
+heat: 2143
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
     quality: 179
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007201720-08-vp-debate-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kamala Harris, the former prosecutor, faces a complicated role as she questions Barrett"
+    excerpt: "With Supreme Court nominee Amy Coney Barrett's confirmation hearings underway, many Democrats will be eagerly awaiting Kamala Harris' turn as the Senate Judiciary Committee's star prosecutor, hoping she can create one of those pin-drop moments that made her an irresistible pick to be Joe Biden's running"
+    publishedDateTime: 2020-10-12T17:44:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ujlCF65OPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008142359-17-photos-this-week-1008-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

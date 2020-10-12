@@ -116,6 +116,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Delivers Remarks in Toledo on the Economy"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy. 2020 Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy."
+    publishedDateTime: 2020-10-12T17:26:00Z
+    webUrl: "https://www.c-span.org/video/?476873-1/joe-biden-delivers-remarks-toledo-economy&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "cmFku2mUmkMpA6phm7qhoqo0n6KxGFNKsvjmq4YgFITbeX+Vie2u5vkp7Ik812RiUHKqeIyStMTSrHjsoQvD5biIfhaOErPojAIgv2N08V8EaPipm19xeRhPAL29mY6B/qUqQh3//YYHsOZQuT9oqYoB5SKq3xnozDYI0pCrp5zRXTE5sv9QI8P64YiKgCoc5hs3DzDdTzW7+SHFQgMEapjLdBmP5XgfP4Y8r8r67nWbNDz4fBmZ1nGW0TzEeg/9l3URLvQGCYgcrSBVruN0/g58I7ww5UVlLJovW44mjFBGqE81k3SwOesxf8zjH1N7B0IfLuLvdHuLJkavJY8xBKDRhb34/7jypDGZwrMZnjCFyOmiHxORIs1WizosFu7JoiLpI/b8v6FFoaoJguu2rA4n6+sDJdkcPf+504dpKyeBYYgz3HJNVkPbGvuRxh0kVGcA8AIl9PeBe5LQ/wKvMXB+lA+m/IuOjmCl+x49k74bbO+Ot8aDarfzdmQnm13b124ss7B0/rgsGS6HqCDQ9w==;BqYx7MXaadxoLgBC+UlRrw=="
 ---

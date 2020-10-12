@@ -2,6 +2,108 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-22-election-live-updates-romney-backs-voting-this-year-on-trump-nominee-to-replace-ginsburg.md",
+      "title": "Election live updates: Romney backs voting this year on Trump nominee to replace Ginsburg",
+      "excerpt": "Meanwhile, Trump is headed to Pennsylvania, while Democratic nominee Joe Biden is dispatching his running mate, Kamala D. Harris, to Michigan, while he holds fundraisers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/",
+      "originalUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 491,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-21-2020/t_a061c2a3a54f468bb08a4cef8f392f08_name_20200918_Trump_Biden_rally_v1_Still002.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp",
+      "publishedDateTime": "2020-09-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas.md",
+      "title": "Trump Real Estate Rates Dropped Where He’s Disliked (NYC), Increased Where He Is Liked (Vegas)",
+      "excerpt": "A new book, White House Inc., reports prices in Trump buildings appear to be affected by President Trump’s popularity in that given area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/",
+      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a0a69fa0441058d4ea8ed%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3200%26cropY1%3D328%26cropY2%3D2128",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/22/trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas/amp/",
+      "publishedDateTime": "2020-09-22T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-washington-post-cia-assessment-says-putin-probably-directing-efforts-to-interfere-in-2020-election-against-biden.md",
       "title": "Washington Post: CIA assessment says Putin 'probably directing' efforts to interfere in 2020 election against Biden",
       "excerpt": "The CIA assessed in August that Russian President Vladimir Putin and his top aides \"are aware of and probably directing Russia's influence operations\" aimed at undermining Democratic presidential candidate Joe Biden in the 2020 election, according to a new report in The Washington Post.\n    \n",
@@ -1177,108 +1279,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-arms-cofounder-warned-donald-trump-will-take-the-opportunity-to-screw-china-with-40-billion-nvidia-deal.md",
-      "title": "Arm's cofounder warned Donald Trump will take the 'opportunity to screw China' with $40 billion Nvidia deal",
-      "excerpt": "\"Trump doesn't give a damn about his allies. Britain is a minor issue if he sees an opportunity to screw China.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f68848e323fc4001e0d7615?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-hungarian-prime-minister-viktor-orban-endorses-trump-and-denounces-the-moral-imperialism-of-the-democrats.md",
-      "title": "Hungarian prime minister Viktor Orban endorses Trump and denounces the 'moral imperialism' of the Democrats",
-      "excerpt": "The controversial Hungarian prime minister on Monday said he was rooting for Trump to be re-elected at the November election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9",
-      "originalUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f686663323fc4001e0d75e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9?amp",
-      "publishedDateTime": "2020-09-21T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

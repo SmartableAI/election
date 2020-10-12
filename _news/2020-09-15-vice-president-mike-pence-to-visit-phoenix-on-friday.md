@@ -155,6 +155,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Pence Campaigns in Ohio"
+    excerpt: "Vice President Pence delivers remarks at a campaign rally in the Ohio capital of Columbus. President Trump spoke at a campaign rally in Newport News, Virginia. He was introduced by Vice President Mike Pence."
+    publishedDateTime: 2020-10-12T17:23:00Z
+    webUrl: "https://www.c-span.org/video/?476843-1/vice-president-pence-campaigns-ohio&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "znIR4nq0BYv5a90viHUCFlK8Whrbj88JpRIFNsJqwaveb/OlJWvQeEvqao4WI91e4utd0ijtlLXjPY/7X/S9Qr+MTvGN0loR72htaZdcuOR0/xXYVP2gt8ATyPoPmUPLsXIMcsUd7/eybTX8ajbLQXZPwx7mmAWXLAqayL8W+diAGdkA9+/lPwvt0Y1XtSM4khzV6SrJbdwYvAOQjjHNagYlAvgq8zYQKFgAwj1mDoCbR4k9YNof09/4bQtiKg3qnxURK8iCmqt+0ssfhgDwm6Q4nAdO2c/B8bXwmpnLycRhF9J5fUgvX1sIATYyb+aYvc15HNfP9XWGtgOHbJGQFopPrplYh83HbVyUuoGN4HM=;LDaW0QvRePdHdiS5bg1sEQ=="
 ---

@@ -31,51 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
-    excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
-    publishedDateTime: 2020-09-19T01:12:00Z
-    webUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp"
+  - title: "Biden: Faith shouldn't be a subject in Barrett confirmation fight"
+    excerpt: "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings."
+    publishedDateTime: 2020-10-12T17:53:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source"
-    excerpt: "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday."
-    publishedDateTime: 2020-09-19T16:48:00Z
-    webUrl: "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8"
+  - title: "Joe Biden Says Amy Coney Barrett Appointment 'Not Constitutional' as He Evades Court Packing Question Again"
+    excerpt: "\"Look, the only court packing is going on right now. It's going on with the Republicans packing the court now,\" Joe Biden said."
+    publishedDateTime: 2020-10-11T02:07:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 93
+      name: Newsweek
+      domain: newsweek.com
+    quality: 107
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800"
-        width: 800
-        height: 532
+      - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
+        width: 2500
+        height: 1571
         isCached: true
-  - title: "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate"
-    excerpt: "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri."
-    publishedDateTime: 2020-09-13T20:13:00Z
-    webUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp"
+  - title: "Pressure on Kamala Harris, Dianne Feinstein at Amy Coney Barrett’s confirmation hearing"
+    excerpt: "When Judge Amy Coney Barrett is seated Monday for her Supreme Court confirmation hearing, California Sens. Dianne Feinstein and Kamala Harris will be in focus and facing different pressures in one of the biggest moments of each of their careers."
+    publishedDateTime: 2020-10-11T11:12:00Z
+    webUrl: "https://www.sfchronicle.com/politics/article/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
+    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://s.hdnux.com/photos/01/14/50/24/20088119/5/375x250.jpg"
+        width: 367
+        height: 250
         isCached: true
   - title: "Joe Biden: Senators should not consider Amy Coney Barrett's faith in confirmation process"
     excerpt: "Democratic presidential nominee Joseph R. Biden said Monday that Judge Amy Coney Barrett’s Catholic faith should not be a consideration in Judge Barrett’s confirmation hearings for the U.S. Supreme Court."
@@ -92,6 +94,36 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/Election_2020_Biden_96935.jpg-16fc0_c0-0-5926-3456_s1200x700.jpg?e885779a9796061107f5b31234b49be1eeead7a2"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris: Judge Coney Barrett's faith shouldn't matter in Supreme Court confirmation hearings"
+    excerpt: "Democratic Vice Presidential nominee Kamala Harris says Judge Amy Coney Barrett’s faith should not be an issue at Coney Barrett’s confirmation hearings this week. “One’s faith should never be the basis of supporting or rejecting a nominee."
+    publishedDateTime: 2020-10-12T02:42:00Z
+    webUrl: "https://www.12news.com/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 61
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/43f8472a-4aa3-44d2-89fa-c77c0c174cab/43f8472a-4aa3-44d2-89fa-c77c0c174cab_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Joe Biden, Clarence Thomas, and Amy Coney Barrett with Angela Wright"
+    excerpt: "Angela Wright confides in Mary C. Curtis about former Vice President Joseph Biden, #MeToo and the inner workings of a contentious Supreme Court battle."
+    publishedDateTime: 2020-10-08T13:15:00Z
+    webUrl: "https://www.rollcall.com/podcasts/equal-time/joe-biden-clarence-thomas-and-amy-coney-barrett-with-angela-wright/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/BARRETT_004_10012020-1.jpg?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "u4f8BpdIVEm6jVcL4FjP2BFyHwffwrBz6gkyLgG1CaSQud+XFNzy1OY3S8c6HrBq8z+cfff0oZHBT8ILJjct0pRdERQDAfUwIA/LKmCM9dMJUOF8G/1Iwr7VcFsHrTsQHhqPXVy68kVsVFVOyHFtLOpKt0imUvyIb/PSKAYAewNkriZd/SmYi3tcopFhwndOvrCLmtBPC4nIORueElEg772RPMtpBQYLLgokbsYtG+sMbg4+y1h1Kv/DB8LT8BvZwQx5CEex65QD5cSxKhHRAmYlDMN4JM3Zw8rmj/Cne9CUZALguo+jC3It/0XhOVfXCgkhdvt8zcqLTBeF31hqHYoqF8KyTpLewOir2eJTw9s=;bC0G2E0DBBlOuSyc7PhgwA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 635
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration renews push for nuclear arms agreement with Russia before election"
+    excerpt: "With only weeks to go until the general election, the Trump administration is renewing a push to finalize a nuclear agreement with Moscow, hoping that a deal may force China to reconsider its position on trilateral arms talks."
+    publishedDateTime: 2020-10-12T15:49:00Z
+    webUrl: "https://www.cnn.com/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190201112219-20190201-trump-putin-nuclear-arms-treaty-breaking-news-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump official pressured CDC to change report on Covid and kids"
     excerpt: "Amid Trump’s push to reopen schools, Michael Caputo’s science adviser asked that the health agency alter its warning about a study of pediatric coronavirus."
     publishedDateTime: 2020-10-05T10:14:00Z
@@ -140,6 +156,22 @@ related:
     quality: 133
     images:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418022/201006-anthony-fauci-jm-1700_11670c45c1eef9372c7dc60f11a33626.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
+    excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
+    publishedDateTime: 2020-10-12T17:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-chief-staff-mark-meadows-refuses-speak-reporters-mask-n1242990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242990"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242990"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3419420/201012-mark-meadows-se-100p_ffeb1013c4c4127403a6cc52d2414c26.jpg"
         width: 2500
         height: 1667
         isCached: true

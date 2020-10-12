@@ -1197,6 +1197,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump looms large in Barrett hearing as Harris, Dems sound alarms over ObamaCare, election, coronavirus"
+    excerpt: "The Senate Judiciary Committee hearing Monday was intended to be about Judge Amy Coney Barret's nomination to the Supreme Court, but much of the focus – especially from Democrats – was not on the nominee but on the person who nominated her: President Trump. "
+    publishedDateTime: 2020-10-12T16:26:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/irhsXhIIfBE/trump-looms-large-on-first-day-of-barrett-hearing-as-dems-sound-alarms-over-obamacare-election-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286513407737.jpg"
+        width: 4500
+        height: 3000
+        isCached: true
   - title: "Ceasefire’s over: After Trump twitter storm, Biden urges president to ‘listen to the scientists’"
     excerpt: "Whatever ceasefire there was between President Trump and Democratic nominee Joe Biden following the president’s hospitalization after contracting COVID-19, it appears to be over."
     publishedDateTime: 2020-10-05T23:34:08Z

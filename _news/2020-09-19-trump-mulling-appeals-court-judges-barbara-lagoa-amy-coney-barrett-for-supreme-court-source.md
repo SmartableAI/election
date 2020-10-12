@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Senate hearing for Trump's Supreme Court nominee Amy Coney Barrett kicks off Monday"
-    excerpt: "The high-stakes confirmation hearing for Judge Amy Coney Barrett, President Donald Trump’s Supreme Court nominee, gets underway Monday in the Senate Judiciary Committee."
-    publishedDateTime: 2020-10-12T09:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=73527557"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=73527557"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=73527557"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/Politics/amy-coney-barrett-confirmation-01-ap-llr-201009_1602276556016_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate"
     excerpt: "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri."
     publishedDateTime: 2020-09-13T20:13:00Z
@@ -76,22 +60,6 @@ related:
       - url: "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Joe Biden: Senators should not consider Amy Coney Barrett's faith in confirmation process"
-    excerpt: "Democratic presidential nominee Joseph R. Biden said Monday that Judge Amy Coney Barrett’s Catholic faith should not be a consideration in Judge Barrett’s confirmation hearings for the U.S. Supreme Court."
-    publishedDateTime: 2020-10-12T15:30:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/joe-biden-senators-should-not-consider-amy-coney-b/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 66
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/Election_2020_Biden_96935.jpg-16fc0_c0-0-5926-3456_s1200x700.jpg?e885779a9796061107f5b31234b49be1eeead7a2"
-        width: 1200
-        height: 700
         isCached: true
 
 secured: "jNDDURopu8h3alVbtGAEDCa4iP2t2w6mrmB5iIzmY+IRQjcP68Sv7OPdKYRfDBo0MHAXOtKz8oXjK84/X7yMHkDCyS9GVjpl0rKMQSDS7vsHLnTbltxyrEHkcnQ9ZPBVqEVEeTYhjsVFPdBWodRZtUepZ3sFLx8pX6zuDeunLMLn5I495r3fNHYmYnvDR+KzTtRnVJPyWrCyHiVXmfH50b42/3AejjBrtfEtY+TjnrCeZS/FPZoMJrpqQjfmyjgMGrcdw/ybvBtsklIRj39HLpovDNkF5ujY2oxColFeLVBh8gcaTtnxMXs5rnC0yr20ML8ca/+9Jm4jHKFmOXi1d6D7Jo7fgOsbmB4nSISrLao=;2dWksylNEhNE0OgDkwRqhg=="

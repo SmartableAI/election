@@ -48,6 +48,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "If Biden is elected, Dems will change America as we know it: Graham"
+    excerpt: "Democrats want to change the United States of America as we know it by uprooting the country's constitutional process, Sen. Lindsey Graham, R-S.C., said on Monday."
+    publishedDateTime: 2020-10-12T16:45:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzIFvV4fGio/dems-change-america-wont-recognize-graham"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden Wants to Be ‘President of All Americans’?"
     excerpt: "It’s a meaningless platitude in a sea of meaningless platitudes. In fact, most of what Joe Biden says is a bunch of meaningless platitudes. But one sticks out, to me"
     publishedDateTime: 2020-10-08T04:01:00Z

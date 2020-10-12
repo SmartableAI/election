@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearin
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
 type: article
 quality: 117
-heat: 237
+heat: 177
 published: true
 
 provider:
@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden Says Amy Coney Barrett Appointment 'Not Constitutional' as He Evades Court Packing Question Again"
-    excerpt: "\"Look, the only court packing is going on right now. It's going on with the Republicans packing the court now,\" Joe Biden said."
-    publishedDateTime: 2020-10-11T02:07:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
+  - title: "Senator Kamala Harris: Republicans trying to \"jam through\" Amy Coney Barrett nomination"
+    excerpt: "At confirmation hearings for Supreme Court nominee Amy Coney Barrett, Senator Kamala Harris accused her Republican colleagues of attempting to \"jam through\" approval before Election Day, and warned that the Affordable Care Act and numerous rights Americans rely on are at risk."
+    publishedDateTime: 2020-10-12T17:40:00Z
+    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 107
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
     images:
-      - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
-        width: 2500
-        height: 1571
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/2d5e0841-796e-493e-9f04-f3bf44d13c2c/thumbnail/1200x630/819834dc9a7096ad7a6913e7d8141769/cbsn-fusion-senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination-thumbnail-564550-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings"
     excerpt: "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket."
@@ -78,52 +76,6 @@ related:
       - url: "https://media.king5.com/assets/KFMB/images/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd_750x422.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Pressure on Kamala Harris, Dianne Feinstein at Amy Coney Barrett’s confirmation hearing"
-    excerpt: "When Judge Amy Coney Barrett is seated Monday for her Supreme Court confirmation hearing, California Sens. Dianne Feinstein and Kamala Harris will be in focus and facing different pressures in one of the biggest moments of each of their careers."
-    publishedDateTime: 2020-10-11T11:12:00Z
-    webUrl: "https://www.sfchronicle.com/politics/article/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
-    ampWebUrl: "https://www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/politics/amp/Pressure-on-Kamala-Harris-Dianne-Feinstein-at-15636412.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 67
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/50/24/20088119/5/375x250.jpg"
-        width: 367
-        height: 250
-        isCached: true
-  - title: "Kamala Harris: Judge Coney Barrett's faith shouldn't matter in Supreme Court confirmation hearings"
-    excerpt: "Democratic Vice Presidential nominee Kamala Harris says Judge Amy Coney Barrett’s faith should not be an issue at Coney Barrett’s confirmation hearings this week. “One’s faith should never be the basis of supporting or rejecting a nominee."
-    publishedDateTime: 2020-10-12T02:42:00Z
-    webUrl: "https://www.12news.com/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
-    ampWebUrl: "https://www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 61
-    images:
-      - url: "https://media.12news.com/assets/KPNX/images/43f8472a-4aa3-44d2-89fa-c77c0c174cab/43f8472a-4aa3-44d2-89fa-c77c0c174cab_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Joe Biden, Clarence Thomas, and Amy Coney Barrett with Angela Wright"
-    excerpt: "Angela Wright confides in Mary C. Curtis about former Vice President Joseph Biden, #MeToo and the inner workings of a contentious Supreme Court battle."
-    publishedDateTime: 2020-10-08T13:15:00Z
-    webUrl: "https://www.rollcall.com/podcasts/equal-time/joe-biden-clarence-thomas-and-amy-coney-barrett-with-angela-wright/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 55
-    images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/BARRETT_004_10012020-1.jpg?resize=1200,600"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "lXjRtvDFqUf9D2LPmGE8R6rvKLJbgryevn3OMxVvfYfvdEmTctdTjC/w3CZyYcUfU2wJMxRMD5wanODoOAvsKkviDpYt8y+8yWHf1ovOcIHKU2d/EKqkjQS/MFTrqn5Sjhnddpb+DNhxQNDt2Cd4cZNB3DuJZFOQSTkSUCQ+17j4StNxFDO3H/BNn6mLWxRHf7CY1FTaZcb5YPsUkKspFbpETCvujlZCXCyDhRQuS5nXBaIpElcDJkPO7yJBn702tNTHjEHVKjq55eVW7VoJMaZS3rUEwVzFefg4uSezLFqwYbEFwmcSl4aPzcWNetJcA6gwKgr85yGbSs8i2va+Nr8KZOTZAhbxHLNbSHjzq0w=;kEDvLQSmIf2GdxKs2VVSUQ=="

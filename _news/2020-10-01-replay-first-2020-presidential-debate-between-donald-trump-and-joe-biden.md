@@ -1192,6 +1192,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump looms large in Barrett hearing as Harris, Dems sound alarms over ObamaCare, election, coronavirus"
+    excerpt: "The Senate Judiciary Committee hearing Monday was intended to be about Judge Amy Coney Barret's nomination to the Supreme Court, but much of the focus – especially from Democrats – was not on the nominee but on the person who nominated her: President Trump. "
+    publishedDateTime: 2020-10-12T16:26:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/irhsXhIIfBE/trump-looms-large-on-first-day-of-barrett-hearing-as-dems-sound-alarms-over-obamacare-election-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286513407737.jpg"
+        width: 4500
+        height: 3000
+        isCached: true
   - title: "Trump returns to White House after coronavirus hospitalization; Biden traveling to Pennsylvania"
     excerpt: "Here's what you need to know about the presidential campaigns and how they'll be spending Tuesday, Oct. 6, 2020, just 28 days away from the election."
     publishedDateTime: 2020-10-06T12:55:53Z

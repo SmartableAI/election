@@ -2,6 +2,116 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-09-14-biden-campaign-readies-massive-legal-team-for-voting-election-issues.md",
+      "title": "Biden campaign readies massive legal team for voting, election issues",
+      "excerpt": "Joe Biden's campaign has assembled an extensive legal team to focus on voting and election issues.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/txa6vt22ZvQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 990,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200909141515-02-biden-mi-0909-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/biden-election-voting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/biden-election-voting/index.html",
+      "publishedDateTime": "2020-09-14T10:04:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-michael-cohens-daughter-says-she-was-taken-aback-by-trumps-behavior-toward-her-father.md",
+      "title": "Michael Cohen's daughter says she was taken aback by Trump's behavior toward her father",
+      "excerpt": "Samantha Cohen, the daughter of President Donald Trump's former lawyer, says she was taken aback by his behavior toward her father during a 2012 incident in which her father says Trump leered at her.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MzLM8iPT2CE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MzLM8iPT2CE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200914075658-samantha-cohen-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/14/politics/samantha-cohen-donald-trump-cnntv/index.html",
+      "publishedDateTime": "2020-09-14T08:59:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-14-president-donald-trump-returns-to-arizona-to-campaign-for-latino-votes.md",
       "title": "President Donald Trump returns to Arizona to campaign for Latino votes",
       "excerpt": "In the ballroom of an Arizona resort, President Donald Trump will seek to make the case at the “Latinos for Trump” coalition event that his administration can bring back the economy to its full potential after coronavirus-related shutdowns,",
@@ -1194,63 +1304,7 @@
         "Donald Trump",
         "Democratic Voice"
       ]
-    },
-    {
-      "path": "_news/2020-08-31-trump-praises-right-wing-supporters-rails-against-protesters-after-unrest-in-portland.md",
-      "title": "Trump praises right-wing supporters, rails against protesters after unrest in Portland",
-      "excerpt": "President Donald Trump on Sunday praised a pro-Trump caravan of activists whose presence appeared to contribute to violent clashes Saturday in Portland, Oregon. The day after a man was shot and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-rails-against-protesters-following-unrest-portland-n1238808",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-rails-against-protesters-following-unrest-portland-n1238808",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2020_35/3408731/200830-donald-trump-rally-jm-1042_db58f088a0fec4c65ff61b2d9c30c8de.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1238808",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1238808",
-      "publishedDateTime": "2020-08-30T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 25
 }

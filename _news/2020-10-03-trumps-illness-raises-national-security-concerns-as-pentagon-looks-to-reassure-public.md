@@ -333,6 +333,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Kamala Harris, the former prosecutor, faces a complicated role as she questions Barrett"
+    excerpt: "With Supreme Court nominee Amy Coney Barrett's confirmation hearings underway, many Democrats will be eagerly awaiting Kamala Harris' turn as the Senate Judiciary Committee's star prosecutor, hoping she can create one of those pin-drop moments that made her an irresistible pick to be Joe Biden's running"
+    publishedDateTime: 2020-10-12T17:44:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3ujlCF65OPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/kamala-harris-amy-coney-barrett/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201008142359-17-photos-this-week-1008-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump campaign says it doesn't want changes to debate format "
     excerpt: "President Donald Trump's reelection campaign said Thursday it opposes the Commission on Presidential Debates making changes to the format of the remaining debates after the commission said it would be adopting changes.\n    \n"
     publishedDateTime: 2020-10-01T22:24:34Z

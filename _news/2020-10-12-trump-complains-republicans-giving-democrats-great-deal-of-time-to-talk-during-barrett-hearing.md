@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says Barrett's Catholic faith 'should not be considered' during confirmation process"
+    excerpt: "Democratic presidential nominee Joe Biden said that Amy Coney Barrett’s Catholic faith “should not be considered” as confirmation hearings for President Trump’s Supreme Court nominee get underway."
+    publishedDateTime: 2020-10-12T16:13:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rN9n5Va52g/biden-amy-coney-barrett-catholic-faith"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286520134581-e1602518354123.jpg"
+        width: 2378
+        height: 1341
+        isCached: true
   - title: "VP nominee Kamala Harris likely to be in spotlight at Amy Coney Barrett confirmation hearing"
     excerpt: "Supreme Court nominee Amy Coney Barrett will not be the only person in the middle of a high-stakes job interview next week."
     publishedDateTime: 2020-10-08T17:40:00Z
