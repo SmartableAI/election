@@ -645,6 +645,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dr. Jill Biden, Kamala Harris’s Husband Doug Emhoff Campaigning In Minnesota This Week"
+    excerpt: "The wife of Democratic presidential candidate Joe Biden and the husband of vice presidential candidate Kamala Harris will be stumping in Minnesota this week."
+    publishedDateTime: 2020-10-12T00:21:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/10/11/dr-jill-biden-kamala-harriss-husband-doug-emhoff-campaigning-in-minnesota-this-week/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/10/11/dr-jill-biden-kamala-harriss-husband-doug-emhoff-campaigning-in-minnesota-this-week/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/10/11/dr-jill-biden-kamala-harriss-husband-doug-emhoff-campaigning-in-minnesota-this-week/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 62
   - title: "Briggs: Kamala Harris brought out the worst in Mike Pence"
     excerpt: "Mike Pence started Wednesday’s vice presidential debate by taking us to an alternate universe. One in which President Donald Trump prevented a pandemic before it could even begin. “Before there were more than five (coronavirus) cases in the United States,"
     publishedDateTime: 2020-10-09T09:12:00Z

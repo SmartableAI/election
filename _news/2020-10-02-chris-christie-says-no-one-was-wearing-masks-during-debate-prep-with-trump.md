@@ -171,28 +171,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump Restarting Campaign With White House, Florida Events"
-    excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
-    publishedDateTime: 2020-10-10T04:25:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Sets Big Events for WH, Florida, Restarting Campaign"
-    excerpt: "President Donald Trump is looking to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
-    publishedDateTime: 2020-10-09T23:24:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "CCikpFAxHaffGw8v0L6Uwcs54xvUbCh9cpj56w88fN6VPhQ6O6Kp/eSmLUDQ6X6d9hZJvSGPA+1mXZXrJEDRcgJxncrQH2tzgYA30m9Nv2q5FlSJQpJHOcrRCGMpqKmEGDH9dzqcFQPYwA4fLqJ/qmjjU/9psrsrz6ZxqlAdqV3Zf0eGM4Oj2rDcFGAGlsaAmTWF4Bmans45pBwCz8tREyKF7jeElnI2UaOs7WVVKtOPcVEqDQNjPiW6Q9m3qMJvhI/RzGukIjWXvgEUgdbTsJDjay+qn+xm8rib7Xh0C5qawgZPgcmycYEZtKvmhb3+2iDVkonaJuBjcIqzZLw1WE3fZBPchwqZ+M18waszrH4=;Bsrs31jDvm+eM9eO2fAvAQ=="
 ---

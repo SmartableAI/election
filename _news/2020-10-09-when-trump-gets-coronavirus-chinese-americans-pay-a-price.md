@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
 type: article
 quality: 125
-heat: 425
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1"
-    excerpt: "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis."
-    publishedDateTime: 2020-10-07T10:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3636834001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636834001"
+  - title: "Cuban-Americans Hold Huge Pro-Trump Parade in South Florida as Elections Approach"
+    excerpt: "\"Together with our Latin American brothers, we have a very clear message: Our moral priority is to defend the United States, the liberation of Cuba and the hemisphere with love,\" one organizer said."
+    publishedDateTime: 2020-10-12T03:05:00Z
+    webUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179"
+    ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1649359/pro-trump-caravan.jpg"
+        width: 594
+        height: 393
+        isCached: true
+  - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
+    excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
+    publishedDateTime: 2020-09-19T23:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5840189002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/997b0c17-27a3-45d2-9801-822e233fa697-TRUMP_POSITIVE_CORONAVIRUS_05.JPG?auto=webp&crop=3488,1962,x0,y119&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/9ad405446ea159e94b68b9604fdd24ec4325e3d8/c=0-156-3369-2051/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200118688-70e433c3.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Coronavirus updates: Trump can return to 'public engagements' on Saturday, doctor says"
-    excerpt: "A pandemic of the novel coronavirus has now killed more than 1 million people worldwide. Over 36.4 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,"
-    publishedDateTime: 2020-10-10T07:35:00Z
-    webUrl: "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
+  - title: "Lessons the American people can learn from President Trump's illness"
+    excerpt: "While the nation waits to see how President Donald Trump will fare as he's treated for COVID-19, doctors say there are lessons to be learned."
+    publishedDateTime: 2020-10-04T11:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/president-donald-trump-covid-19/3615029001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615029001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615029001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/donald-trump-taxes-01-ap-llr-201007_1602087324181_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PGRF/f813fdac-edea-4378-937a-3e71eb33cc1e-AP20276510432758.jpg?auto=webp&crop=3209,1805,x853,y222&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election"
     excerpt: "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child."
@@ -79,21 +95,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
-    excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
-    publishedDateTime: 2020-10-09T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
+  - title: "2020 Daily Trail Markers: Trump plans to head back to campaign trail with Monday rally in Florida"
+    excerpt: "The president is slated to deliver remarks at an airport hangar at 7 p.m. ET, 12 days after he disclosed his COVID-19 diagnosis."
+    publishedDateTime: 2020-10-09T23:46:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "'Treating us like garbage': New sanctions announced as many Iranian Americans feel fed up with Trump"
     excerpt: "Sanctions unveiled Thursday by the U.S. Treasury Department target Iran's financial sector. While some Iranian-Americans support Donald Trump, others are fed up."
@@ -110,86 +126,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/db8f4a6b-712c-4583-b634-81488d181138-GTY_994906866.JPG?auto=webp&crop=4672,2628,x1,y210&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump just praised one of the experimental coronavirus treatments he got and said FDA should approve it"
-    excerpt: "In a video posted Wednesday, Trump touted experimental coronavirus drugs from Regeneron and Eli Lilly."
-    publishedDateTime: 2020-10-08T08:32:00Z
-    webUrl: "https://www.businessinsider.com/trump-video-calls-for-approval-of-regenerons-antibody-drug-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-video-calls-for-approval-of-regenerons-antibody-drug-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-video-calls-for-approval-of-regenerons-antibody-drug-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f7e3edec655f6001969ed3c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Was Trump ever on oxygen? Health, security experts say America needs 'total honesty' on president's condition"
-    excerpt: "Dr. Sean Conley created confusion about President Trump's COVID-19 diagnosis, which national security and health experts say is unnecessary."
-    publishedDateTime: 2020-10-03T20:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3609196001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3609196001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/d224b2f6-0e48-445e-8fad-f60dcb191eaa-AP_Trump.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coronavirus live updates: Trump breaks quarantine; 6 accused of plan to kidnap Michigan Gov. Gretchen Whitmer"
-    excerpt: "President Donald Trump returned to the Oval Office Wednesday. A medical journal issued a stunning anti-Trump editorial. A second wave looms."
-    publishedDateTime: 2020-10-08T16:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/08/coronavirus-live-updates-new-england-medical-journal-editorial-trump/5921817002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5921817002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921817002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/e004a8a5-a3e3-485a-940b-bf63aab39775-NYC_Orthodox_jewish_coronavirus_protest_02.JPG?auto=webp&crop=5098,2868,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump could face a relapse, experts warn, as president downplays coronavirus threat despite massive death toll"
-    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts' warning that the U.S. death toll, at more than 210,000, could almost double by year's end."
-    publishedDateTime: 2020-10-06T23:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
-    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
-    publishedDateTime: 2020-10-06T09:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
-        width: 1024
-        height: 512
         isCached: true
   - title: "Will Donald Trump participate in any more debates? – States of America"
     excerpt: "Phillip Bailey and guests discuss the presidential debates and what we learned from the VP debate, including thoughts from the moderator, Susan Page."
@@ -216,45 +152,108 @@ related:
         width: 687
         height: 430
         isCached: true
-  - title: "Trump's policy chief explains in an exclusive interview why the White House just punted on a coronavirus stimulus deal"
-    excerpt: "\"I know we tried really, really hard,\" White House adviser Brooke Rollins told Insider after the president punted on passing stimulus legislation."
-    publishedDateTime: 2020-10-07T00:19:00Z
-    webUrl: "https://www.businessinsider.com/trump-adviser-blames-democrats-state-funding-for-killing-stimulus-deal-2020-10"
+  - title: "Cuban-American judge from Florida on Trump high court list"
+    excerpt: "A daughter of Cuban exiles who has had a swift rise as a lawyer and judge is on President Donald Trump's short list to replace Ruth Bader Ginsburg on the U.S. Supreme Court. The president said Monday that he does not personally know Barbara Lagoa,"
+    publishedDateTime: 2020-09-21T19:43:00Z
+    webUrl: "https://www.chron.com/news/article/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/5f7ce235282c500018c79013?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 75
-  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
-    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
-    publishedDateTime: 2020-10-10T19:43:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Corporate America first: Trump fails to un-rig the U.S. economy"
+    excerpt: "In the middle of the last century, a General Motors president told Congress that what was good for GM was good for America and vice versa. As U.S. president, Donald Trump — who as a candidate promised to put the economy back on the side of the little guy — has revised the old saw: What’s good for big business,"
+    publishedDateTime: 2020-10-04T14:48:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
-        width: 769
-        height: 433
+      - url: "https://www.nydailynews.com/resizer/mFC1sYjf2HtE6o-8Z641B3SProM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VG7IIGPOMRFKNPULBIBXSLHQ7E.JPG"
+        width: 1200
+        height: 706
         isCached: true
+  - title: "Republican US Sen. Sullivan plans to vote for Trump"
+    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
+    publishedDateTime: 2020-10-06T23:45:00Z
+    webUrl: "https://www.chron.com/news/article/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Trump has events Saturday at White House, Monday in Florida"
+    excerpt: "Looking to shove his campaign back on track, President Donald Trump and his team laid out an aggressive return to political activities on Friday, including a big Saturday White House event and a rally in Florida on Monday,"
+    publishedDateTime: 2020-10-09T21:41:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/47/63/20086006/19/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "65% Of Americans Agree Trump Could've Avoided Getting Coronavirus, Reuters Poll Reveals"
+    excerpt: "The president announced his coronavirus diagnosis on Friday after senior counselor Hope Hicks tested positive for the virus."
+    publishedDateTime: 2020-10-05T03:18:00Z
+    webUrl: "https://www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594"
+    ampWebUrl: "https://www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/us-president-donald-trump-was-said-to-be.jpg"
+        width: 1024
+        height: 646
+        isCached: true
+  - title: "Trump Restarting Campaign With White House, Florida Events"
+    excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
+    publishedDateTime: 2020-10-10T04:25:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Sets Big Events for WH, Florida, Restarting Campaign"
+    excerpt: "President Donald Trump is looking to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T23:24:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "+Uq4y6y9zvJt9ShUYus+JrBcCkHdTmOQrNsVgcNzZOtpulHvY1l0Zh2+R8AzdOK3BUT5imydSjFce7Dk6PZitraJfZgJLPUpD0asEmXlB/hDw6sW1zx+mt7e+8Rw6C3MWBNyMuBDnmtIMlBo2GUOI4Vyr9K1VinaRYk8SfGjGlWeeAzUc/srEPAsMlAcdfWJJadMGJwE1z8UBSPmPZ0xVFPTWKhfspV1hwBloHhnZw6B1koaBH/6SjcS6vbKAv7pibYau9KlsLUW5qUA0KpR3/wYdHcA47OhP3OK+XeHtpoZyhVphVhlnJS8njld4cHCwafYswfviqCWexVnHLn9fmjQZq/GAUwO4gdrCQiT48wlYxtOkTGw3Z2ZT2gfqVaEyevb57xfAGLMgFF+rj6xLrtCKA6V8KEjhuo23/abUILfXVByuo0uQFNMuYXbl4T5xTDN+0MJkPtMy0ZT6XGyNiJkZr3iApPDIjTB9jrk3DxWb+8JCH8tD3rkk155P/4vGHjrJet5uo93jq3Atn25CA==;EGgfM83kZD8cAzG5B5OZWg=="
 ---

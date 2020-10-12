@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.am
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jimmy Fallon Riffs on Mike Pence’s Fly and Pink Eye"
+    excerpt: "He’s the head of the coronavirus task force. Not really a great look when you’re covered in bugs and bleeding out of your eye,” Fallon said on Thursday."
+    publishedDateTime: 2020-10-09T08:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/arts/television/late-night-mike-pence-fly-vp-debate-pink-eye.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/arts/television/late-night-mike-pence-fly-vp-debate-pink-eye.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/arts/television/late-night-mike-pence-fly-vp-debate-pink-eye.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/arts/09latenight/09latenight-facebookJumbo.png"
+        width: 764
+        height: 400
+        isCached: true
   - title: "‘S.N.L.’ Has a Theory About the Fly That Landed on Mike Pence’s Head"
     excerpt: "Live” satirized Wednesday’s vice-presidential debate in an episode of comedy monologues guaranteed to press everyone’s buttons."
     publishedDateTime: 2020-10-11T07:52:00Z

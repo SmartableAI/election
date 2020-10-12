@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Fact check: Kamala Harris did not say these remarks about American churches"
+    excerpt: "A copy-paste social media post that appears to have been circulating on Facebook since October 8 makes the false claim that the Democratic vice president nominee Kamala Harris lashed out at churches and pastors for promoting intolerance,"
+    publishedDateTime: 2020-10-11T23:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-churches-idUSKBN26W0XY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0XY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0XY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537059064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A0NI"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Fox News cut ties with a regular contributor after he called Kamala Harris an 'insufferable lying b----' on Twitter"
     excerpt: "Harlan Hill, who has ties to Trump's re-election campaign, was a regular contributor to Fox News until he tweeted a misogynistic insult about Harris."
     publishedDateTime: 2020-10-09T09:49:00Z

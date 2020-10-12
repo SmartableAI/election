@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump claims immunity, negative test without providing evidence"
+    excerpt: "President Donald Trump claimed, without providing evidence, that he has \"been tested, totally negative\" for Covid-19. In a phone call with supporters, Trump said that he's \"ready to go, I feel so good.\" He also claimed immunity from the virus in an earlier interview with Fox News. According to the Centers"
+    publishedDateTime: 2020-10-12T00:04:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_r7QmhZQvgE/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/10/11/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/11/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009173159-trump-white-house-balcony-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is hospitalized with Covid, but he's still not taking the pandemic seriously"
     excerpt: "President Donald Trump's fight with Covid-19 has so far not convinced him to prioritize a responsible approach to a pandemic that has killed 209,000 Americans over his own political needs.\n    \n"
     publishedDateTime: 2020-10-05T05:54:16Z

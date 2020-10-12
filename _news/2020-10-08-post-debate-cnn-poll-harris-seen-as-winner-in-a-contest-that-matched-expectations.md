@@ -414,6 +414,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump team tries to keep debate fight going but others move on"
+    excerpt: "President Donald Trump's reelection campaign and the White House are pushing for an in-person presidential debate after Trump -- who has repeatedly flouted best public health practices since his Covid-19 diagnosis -- declined last week to participate in a virtual format.\n    \n"
+    publishedDateTime: 2020-10-12T02:36:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7duUc360XCw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/trump-coronavirus-debate-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/trump-coronavirus-debate-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010140724-06-donald-trump-white-house-event-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Texas Supreme Court rules Harris County cannot mail out ballot applications to all registered voters"
     excerpt: "The Texas Supreme Court ruled Wednesday that Harris County, one of the largest in the country, cannot mail out applications for absentee ballots to all of its 2.4 million registered voters.\n    \n"
     publishedDateTime: 2020-10-07T17:46:55Z

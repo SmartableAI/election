@@ -47,22 +47,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
-    excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
-    publishedDateTime: 2020-09-19T23:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5840189002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/9ad405446ea159e94b68b9604fdd24ec4325e3d8/c=0-156-3369-2051/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200118688-70e433c3.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cuban-American judge Barbara Lagoa on Trump high court list"
     excerpt: "Barbara Lagoa is the daughter of Cuban exiles who grew up in a heavily Hispanic suburb of Miami and has had a swift rise as a lawyer and judge — and she is on President Donald Trump’s short list to replace Ruth Bader Ginsburg on the U."
     publishedDateTime: 2020-09-22T22:52:00Z
@@ -92,22 +76,6 @@ related:
     quality: 125
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6e5da0205871d7b30c7bf3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D304%26cropY2%3D1992"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Lessons the American people can learn from President Trump's illness"
-    excerpt: "While the nation waits to see how President Donald Trump will fare as he's treated for COVID-19, doctors say there are lessons to be learned."
-    publishedDateTime: 2020-10-04T11:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/president-donald-trump-covid-19/3615029001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3615029001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615029001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PGRF/f813fdac-edea-4378-937a-3e71eb33cc1e-AP20276510432758.jpg?auto=webp&crop=3209,1805,x853,y222&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -296,22 +264,6 @@ related:
       - url: "https://i.insider.com/5f2fd7ad3f73707f003f0ab3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Cuban-American judge from Florida on Trump high court list"
-    excerpt: "A daughter of Cuban exiles who has had a swift rise as a lawyer and judge is on President Donald Trump's short list to replace Ruth Bader Ginsburg on the U.S. Supreme Court. The president said Monday that he does not personally know Barbara Lagoa,"
-    publishedDateTime: 2020-09-21T19:43:00Z
-    webUrl: "https://www.chron.com/news/article/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "Norah O’Donnell Confronts Pence on Trump Health Care Plan: ‘Why Should Americans Believe You’ on Preexisting Conditions?"
     excerpt: "A new clip of Norah O'Donnell's interview with Vice President Mike Pence focuses on President Donald Trump's recent pledges about a health care plan."

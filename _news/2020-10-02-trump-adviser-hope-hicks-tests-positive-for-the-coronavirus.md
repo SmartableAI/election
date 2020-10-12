@@ -1167,6 +1167,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Twitter flags Trump tweet for violating its rules on COVID-19 information"
+    excerpt: "Twitter on Sunday flagged a tweet by Donald Trump in which the U.S. President claimed he was immune to the coronavirus, saying it violated the social media platform's rules about misleading information related to COVID-19."
+    publishedDateTime: 2020-10-12T03:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-twitter-idUSL1N2H207Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0TI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0TI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537066206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A0KI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Analysts' view: Trump goes into quarantine, awaits coronavirus test results"
     excerpt: "U.S. stock futures dipped on Friday after President Donald Trump said he and his wife will quarantine after a close aide, Hope Hicks, tested positive for the coronavirus. Trump said they are awaiting test results."
     publishedDateTime: 2020-10-02T05:16:00Z

@@ -649,6 +649,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dr. Jill Biden, Kamala Harris’s Husband Doug Emhoff Campaigning In Minnesota This Week"
+    excerpt: "The wife of Democratic presidential candidate Joe Biden and the husband of vice presidential candidate Kamala Harris will be stumping in Minnesota this week."
+    publishedDateTime: 2020-10-12T00:21:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/10/11/dr-jill-biden-kamala-harriss-husband-doug-emhoff-campaigning-in-minnesota-this-week/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/10/11/dr-jill-biden-kamala-harriss-husband-doug-emhoff-campaigning-in-minnesota-this-week/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/10/11/dr-jill-biden-kamala-harriss-husband-doug-emhoff-campaigning-in-minnesota-this-week/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 62
   - title: "Former candidates support Joe Biden"
     excerpt: "Former candidates who ran for the Democratic nomination in 2020 are now supporting Joe Biden’s candidacy. This is not unusual for former candidates, but these ex-candidates are more outwardly enthusia"
     publishedDateTime: 2020-10-08T02:30:00Z

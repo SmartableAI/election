@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: How professional wrestling perfectly explains Donald Trump's 'Superman' stunt"
+    excerpt: "This paragraph, from The New York Times, might at first shock you:\n    \n"
+    publishedDateTime: 2020-10-12T01:43:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qn-GJqR9ucY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/donald-trump-superman-shirt-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/donald-trump-superman-shirt-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170120165006-trump-sports-gal-12-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: A line-by-line breakdown of Donald Trump's irresponsible 85-second video victory lap"
     excerpt: "After returning from four days at Walter Reed medical center to treat his case of Covid-19, President Donald Trump filmed a video -- which he blasted to his 87 million Twitter followers -- talking about the experience and what it, uh, taught him.\n    \n"
     publishedDateTime: 2020-10-06T14:48:55Z

@@ -27,96 +27,228 @@ images:
     isCached: true
 
 related:
-  - title: "In 25th Amendment bid, Pelosi mulls Trump's fitness to serve"
-    excerpt: "House Speaker Nancy Pelosi is questioning President Donald Trump's fitness to serve, announcing legislation Thursday that would create a commission to allow Congress to intervene under the 25th Amendment to the Constitution and remove the president from executive duties."
-    publishedDateTime: 2020-10-09T04:05:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+  - title: "Cuban-Americans Hold Huge Pro-Trump Parade in South Florida as Elections Approach"
+    excerpt: "\"Together with our Latin American brothers, we have a very clear message: Our moral priority is to defend the United States, the liberation of Cuba and the hemisphere with love,\" one organizer said."
+    publishedDateTime: 2020-10-12T03:05:00Z
+    webUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179"
+    ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1649359/pro-trump-caravan.jpg"
+        width: 594
+        height: 393
+        isCached: true
+  - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
+    excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
+    publishedDateTime: 2020-09-19T23:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/supreme-court-latina-judge-barbara-lagoa-eyed-possible-nominee/5840189002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5840189002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840189002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_7037dad961d744cb84711d4fe7797ae7_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/-mm-/9ad405446ea159e94b68b9604fdd24ec4325e3d8/c=0-156-3369-2051/local/-/media/2020/08/17/PalmBeachPost/ghows-LK-200118688-70e433c3.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump Jr. pushes back on Pelosi asking if steroids influenced the president"
-    excerpt: "Donald Trump Jr. pushed back on Speaker Nancy Pelosi (D-Calif.) on Wednesday after the Democratic leader questioned whether steroids influenced President Trump’s"
-    publishedDateTime: 2020-10-07T15:28:00Z
-    webUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the"
-    ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
+  - title: "Lessons the American people can learn from President Trump's illness"
+    excerpt: "While the nation waits to see how President Donald Trump will fare as he's treated for COVID-19, doctors say there are lessons to be learned."
+    publishedDateTime: 2020-10-04T11:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/president-donald-trump-covid-19/3615029001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615029001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615029001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PGRF/f813fdac-edea-4378-937a-3e71eb33cc1e-AP20276510432758.jpg?auto=webp&crop=3209,1805,x853,y222&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Why Trump's illness probably won't persuade anti-maskers to take the coronavirus seriously"
-    excerpt: "Data show more people may wear masks after Trump's coronavirus diagnosis, but some will be anti-mask regardless of evidence. Psychologists explain why"
-    publishedDateTime: 2020-10-11T09:16:00Z
-    webUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
+  - title: "When Trump gets coronavirus, Chinese Americans pay a price"
+    excerpt: "Researchers monitoring Twitter several days after Trump announced his diagnosis noticed a startling spike in hateful sentiments against both China and Asian-Americans, as well as the recycling of other conspiracies."
+    publishedDateTime: 2020-10-09T10:09:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQGDHEAIY4I6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election"
+    excerpt: "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child."
+    publishedDateTime: 2020-10-07T10:18:00Z
+    webUrl: "https://www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 115
+    quality: 114
     images:
-      - url: "https://i.insider.com/5f7c9266282c500018c78d96?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7cf91d282c500018c79042?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
-    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
-    publishedDateTime: 2020-10-09T16:24:00Z
-    webUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/"
-    ampWebUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+  - title: "2020 Daily Trail Markers: Trump plans to head back to campaign trail with Monday rally in Florida"
+    excerpt: "The president is slated to deliver remarks at an airport hangar at 7 p.m. ET, 12 days after he disclosed his COVID-19 diagnosis."
+    publishedDateTime: 2020-10-09T23:46:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 74
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Virus_Outbreak_Congress_13038.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Second Stimulus Check Update: Pelosi Slams Trump's Relief Proposal As 'Grossly Inadequate'"
-    excerpt: "The Trump administration's $1.8 trillion offer remains below the $2.2 trillion bill passed by House Democrats last week."
-    publishedDateTime: 2020-10-12T01:20:00Z
-    webUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446"
-    ampWebUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
+  - title: "'Treating us like garbage': New sanctions announced as many Iranian Americans feel fed up with Trump"
+    excerpt: "Sanctions unveiled Thursday by the U.S. Treasury Department target Iran's financial sector. While some Iranian-Americans support Donald Trump, others are fed up."
+    publishedDateTime: 2020-10-09T04:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/iran-sanctions-trump-iranian-americans-vote-election/3528381001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3528381001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528381001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/db8f4a6b-712c-4583-b634-81488d181138-GTY_994906866.JPG?auto=webp&crop=4672,2628,x1,y210&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Will Donald Trump participate in any more debates? – States of America"
+    excerpt: "Phillip Bailey and guests discuss the presidential debates and what we learned from the VP debate, including thoughts from the moderator, Susan Page."
+    publishedDateTime: 2020-10-09T12:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2020/10/09/donald-trump-participate-any-more-debates-states-america/5933564002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 85
+  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
+    excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
+    publishedDateTime: 2020-10-04T11:46:00Z
+    webUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 82
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
+        width: 687
+        height: 430
+        isCached: true
+  - title: "Cuban-American judge from Florida on Trump high court list"
+    excerpt: "A daughter of Cuban exiles who has had a swift rise as a lawyer and judge is on President Donald Trump's short list to replace Ruth Bader Ginsburg on the U.S. Supreme Court. The president said Monday that he does not personally know Barbara Lagoa,"
+    publishedDateTime: 2020-09-21T19:43:00Z
+    webUrl: "https://www.chron.com/news/article/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Cuban-American-judge-from-Florida-on-Trump-high-15584577.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Republican US Sen. Sullivan plans to vote for Trump"
+    excerpt: "Alaska U.S. Sen. Dan Sullivan said Tuesday he plans to vote for President Donald Trump, telling a radio program Trump and his administration “have been fully committed to helping our state.” Sullivan,"
+    publishedDateTime: 2020-10-06T23:45:00Z
+    webUrl: "https://www.chron.com/news/article/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Republican-US-Sen-Sullivan-plans-to-vote-for-15626273.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Trump has events Saturday at White House, Monday in Florida"
+    excerpt: "Looking to shove his campaign back on track, President Donald Trump and his team laid out an aggressive return to political activities on Friday, including a big Saturday White House event and a rally in Florida on Monday,"
+    publishedDateTime: 2020-10-09T21:41:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/47/63/20086006/19/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "65% Of Americans Agree Trump Could've Avoided Getting Coronavirus, Reuters Poll Reveals"
+    excerpt: "The president announced his coronavirus diagnosis on Friday after senior counselor Hope Hicks tested positive for the virus."
+    publishedDateTime: 2020-10-05T03:18:00Z
+    webUrl: "https://www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594"
+    ampWebUrl: "https://www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/65-americans-agree-trump-couldve-avoided-getting-coronavirus-reuters-poll-reveals-3056594?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 65
+    quality: 67
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/democratic-house-speaker-nancy-pelosi-wants-to-spend.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/us-president-donald-trump-was-said-to-be.jpg"
         width: 1024
-        height: 682
+        height: 646
         isCached: true
-  - title: "Nancy Pelosi calls Donald Trump plan ‘one step forward, two steps back’"
-    excerpt: "Pelosi and Treasury Secretary Steven Mnuchin head into weekend negotiations with the top-line number for relief fast approaching the $2 trillion level that many Senate Republicans say they cannot accept."
-    publishedDateTime: 2020-10-10T17:22:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK.html"
-    ampWebUrl: "https://m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
+  - title: "Trump Restarting Campaign With White House, Florida Events"
+    excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
+    publishedDateTime: 2020-10-10T04:25:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Sets Big Events for WH, Florida, Restarting Campaign"
+    excerpt: "President Donald Trump is looking to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T23:24:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
 
 secured: "W7bHWPNukV34xhkORac0+dGuagYiJ3wui0FQF+suD+5Lz820MJRpeF2qZPB/0isG0ZX6RSajM65zzSiO6Fbf2y7e5weWlbAI7fYRvDOvacxMKjinwXYQXb3VFKg11Lm96muyi5ZcrwY/T+jpyGktzPE0XRhIpkZygPdHyU7Pd1yY1L6WEy9bnyME/1FexnxQ9zihffKm37+uslVSfEDt+vc5eawKQpay37vm3+YM32cgWkD9G9eu1kuxrH1+nt5SiTRolegUoK2lBnG1k9Ql4bvsIo64FOZQciwyjrER1u2iflxAhawPe42YD/As0d1p12qA32qVUHD5GPOrEmd7m2zjazXoweslNs1nMi6HECg=;NXUNdzCuF1/+sAIIiHL1JA=="

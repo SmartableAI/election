@@ -95,22 +95,6 @@ related:
         width: 1919
         height: 927
         isCached: true
-  - title: "Trump has events Saturday at White House, Monday in Florida"
-    excerpt: "Looking to shove his campaign back on track, President Donald Trump and his team laid out an aggressive return to political activities on Friday, including a big Saturday White House event and a rally in Florida on Monday,"
-    publishedDateTime: 2020-10-09T21:41:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/47/63/20086006/19/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
 
 secured: "O+fcm/u70mUPQq/xNTAe9xXgUxiiNByO07JX8+uhMDZY5zlgBMJAijHQKraTmYG0tiJ8JL6CNuccKyWlXfqw2B8mH5FrUpxvWQ3B536oeWkgEkZK+viM4+pSUtWQSVV1YE0IPXRu7EM8+t7PsNSgHaH8G1MpPiHVfa7jr4XOJUlu2jczfOizig5hCZdz1JNhBSYyl9JJrzfyC9T41uHYBxl2DVYLBWRLohbGyBVAdFbz+NjVoan9fYRmn0AQA4jzNwYIleghJ6UZCG7uaONIpwtj79zJg1/GtC2lawH4PH1Zrkx4cooaqZNaEWlfh4EYxoMjPA58BJFU6pZiBAMsY90U+7f3voElkSBUo60ghRHQ89z9M77JVlOUF0CXV1gJW2M6VNAGJ9WSPpDfk8xbZDzgEBNYbJSdkg84Rchp0sscevvTnk7NwuTC13qILa9diar9qe2fLKDpUYONx00hqCVy2GUr3SEJSk6pB744FwvidmZ/tjvxZL28TBiex+cv5uEIIjtVNKVAkqFsC3E/ow==;o7LUU29+DoWYHoDOXPOqlQ=="
 ---

@@ -1183,6 +1183,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Twitter flags Trump tweet for violating its rules on COVID-19 information"
+    excerpt: "Twitter on Sunday flagged a tweet by Donald Trump in which the U.S. President claimed he was immune to the coronavirus, saying it violated the social media platform's rules about misleading information related to COVID-19."
+    publishedDateTime: 2020-10-12T03:21:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-twitter-idUSL1N2H207Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0TI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0TI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537066206&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A0KI"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Global shares and oil tumble after Donald Trump tests positive for COVID-19"
     excerpt: "US stock futures dropped almost 2%, oil plunged 4%, while gold and Treasuries benefitted from investors fleeing risk assets."
     publishedDateTime: 2020-10-02T06:41:00Z

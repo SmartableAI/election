@@ -31,229 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "When Trump gets coronavirus, Chinese Americans pay a price"
-    excerpt: "Researchers monitoring Twitter several days after Trump announced his diagnosis noticed a startling spike in hateful sentiments against both China and Asian-Americans, as well as the recycling of other conspiracies."
-    publishedDateTime: 2020-10-09T10:09:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/10/09/twitter-asian-americans-discrimination/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQGDHEAIY4I6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1"
-    excerpt: "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis."
-    publishedDateTime: 2020-10-07T10:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3636834001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636834001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/997b0c17-27a3-45d2-9801-822e233fa697-TRUMP_POSITIVE_CORONAVIRUS_05.JPG?auto=webp&crop=3488,1962,x0,y119&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coronavirus updates: Trump can return to 'public engagements' on Saturday, doctor says"
-    excerpt: "A pandemic of the novel coronavirus has now killed more than 1 million people worldwide. Over 36.4 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,"
-    publishedDateTime: 2020-10-10T07:35:00Z
-    webUrl: "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
+  - title: "Trump official says vaccine expected starting in January"
+    excerpt: "A Trump administration official leading the response to the coronavirus pandemic says the U.S. can expect delivery of a vaccine starting in January 2021, despite statements from the president that ino"
+    publishedDateTime: 2020-10-10T02:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/donald-trump-taxes-01-ap-llr-201007_1602087324181_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s.abcnews.com/images/Health/WireAP_edb8df1370fa42678aa7380771b5a6a8_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election"
-    excerpt: "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child."
-    publishedDateTime: 2020-10-07T10:18:00Z
-    webUrl: "https://www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-no-stimulus-checks-until-after-election-2020-10?amp"
+  - title: "Despite Trump's claims, officials in vote-by-mail states insist process can be secure"
+    excerpt: "As the president continues to attack vote-by-mail as ripe for fraud, ABC News Live got an inside look at the process in Colorado, which has done mail-in voting for years."
+    publishedDateTime: 2020-10-09T10:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-claims-officials-vote-mail-states-insist-process/story?id=73504570"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
     images:
-      - url: "https://i.insider.com/5f7cf91d282c500018c79042?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/mail-in-ballots-sample-01-abc-llr-201008_1602190248467_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
-    excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
-    publishedDateTime: 2020-10-09T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'Treating us like garbage': New sanctions announced as many Iranian Americans feel fed up with Trump"
-    excerpt: "Sanctions unveiled Thursday by the U.S. Treasury Department target Iran's financial sector. While some Iranian-Americans support Donald Trump, others are fed up."
-    publishedDateTime: 2020-10-09T04:06:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/iran-sanctions-trump-iranian-americans-vote-election/3528381001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3528381001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3528381001"
+  - title: "Trump's condition 'very concerning' over past day, official says on day of mixed messaging"
+    excerpt: "Trump remained at Walter Reed hospital Saturday after he and first lady Melania Trump tested positive for COVID-19 and were experiencing symptoms"
+    publishedDateTime: 2020-10-04T00:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/trump-doing-very-well-says-white-house-physician-sean-conley/3607711001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3607711001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3607711001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 110
+    quality: 115
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/db8f4a6b-712c-4583-b634-81488d181138-GTY_994906866.JPG?auto=webp&crop=4672,2628,x1,y210&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/6c05a9a9-6a2c-48db-93b6-701f4f6eb42d-AFP_AFP_8RB43N.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump just praised one of the experimental coronavirus treatments he got and said FDA should approve it"
-    excerpt: "In a video posted Wednesday, Trump touted experimental coronavirus drugs from Regeneron and Eli Lilly."
-    publishedDateTime: 2020-10-08T08:32:00Z
-    webUrl: "https://www.businessinsider.com/trump-video-calls-for-approval-of-regenerons-antibody-drug-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-video-calls-for-approval-of-regenerons-antibody-drug-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-video-calls-for-approval-of-regenerons-antibody-drug-2020-10?amp"
+  - title: "Fauci Says He Isn't Endorsing Trump's Reelection Despite Being Included In POTUS Ad"
+    excerpt: "The Trump campaign released a 30-second ad Saturday that shows Fauci praising the administration's handling of the coronavirus pandemic."
+    publishedDateTime: 2020-10-12T02:01:00Z
+    webUrl: "https://www.ibtimes.com/fauci-says-he-isnt-endorsing-trumps-reelection-despite-being-included-potus-ad-3060461"
+    ampWebUrl: "https://www.ibtimes.com/fauci-says-he-isnt-endorsing-trumps-reelection-despite-being-included-potus-ad-3060461?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fauci-says-he-isnt-endorsing-trumps-reelection-despite-being-included-potus-ad-3060461?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
     images:
-      - url: "https://i.insider.com/5f7e3edec655f6001969ed3c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Was Trump ever on oxygen? Health, security experts say America needs 'total honesty' on president's condition"
-    excerpt: "Dr. Sean Conley created confusion about President Trump's COVID-19 diagnosis, which national security and health experts say is unnecessary."
-    publishedDateTime: 2020-10-03T20:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3609196001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3609196001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/d224b2f6-0e48-445e-8fad-f60dcb191eaa-AP_Trump.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coronavirus live updates: Trump breaks quarantine; 6 accused of plan to kidnap Michigan Gov. Gretchen Whitmer"
-    excerpt: "President Donald Trump returned to the Oval Office Wednesday. A medical journal issued a stunning anti-Trump editorial. A second wave looms."
-    publishedDateTime: 2020-10-08T16:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/08/coronavirus-live-updates-new-england-medical-journal-editorial-trump/5921817002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5921817002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921817002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/e004a8a5-a3e3-485a-940b-bf63aab39775-NYC_Orthodox_jewish_coronavirus_protest_02.JPG?auto=webp&crop=5098,2868,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
-    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
-    publishedDateTime: 2020-10-06T09:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
         width: 1024
-        height: 512
-        isCached: true
-  - title: "Will Donald Trump participate in any more debates? – States of America"
-    excerpt: "Phillip Bailey and guests discuss the presidential debates and what we learned from the VP debate, including thoughts from the moderator, Susan Page."
-    publishedDateTime: 2020-10-09T12:59:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/statesofamerica/2020/10/09/donald-trump-participate-any-more-debates-states-america/5933564002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 85
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
-    publishedDateTime: 2020-10-04T11:46:00Z
-    webUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 82
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
-        width: 687
-        height: 430
-        isCached: true
-  - title: "Trump's policy chief explains in an exclusive interview why the White House just punted on a coronavirus stimulus deal"
-    excerpt: "\"I know we tried really, really hard,\" White House adviser Brooke Rollins told Insider after the president punted on passing stimulus legislation."
-    publishedDateTime: 2020-10-07T00:19:00Z
-    webUrl: "https://www.businessinsider.com/trump-adviser-blames-democrats-state-funding-for-killing-stimulus-deal-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/5f7ce235282c500018c79013?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
-  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
-    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
-    publishedDateTime: 2020-10-10T19:43:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
-        width: 769
-        height: 433
+        height: 768
         isCached: true
 
 secured: "d1FwfsXwo0EGM/wN0pcIGwB2ZXMPj/xYq1Ep3Lww5cDrse3r9vaHhgskksv6S4kMeVTWGgf+r7uGwaGyKYJx4c8XmGO1fcGrjhsTYvobFVqfsAGZXSV+CCBAjHqRHzYy0bNg9Ml/xV9OGO9z3FWdCuCaiwOAISMpc6U7NroBW659jv13m5duOoIbUKm0grib7QUh8xb3fE3zvSGFogB9Z8KvipeZ55mHh/i3L3n+tS7F9XZP+AfVV5el7dZ9cAN+9NVccL7CMNM8M0uSsV0YRgipoGDKAxy+zEnZXNYWcyP2BwXr9OEzL/gvDx9Q8d/EN50kBCSXsXJXE35tX9X3zpxeLwW45NZwJL7K8Zq1JrU=;prS9IU77ktTpb3TIg56UdQ=="

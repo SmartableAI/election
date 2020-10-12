@@ -63,6 +63,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump could face a relapse, experts warn, as president downplays coronavirus threat despite massive death toll"
+    excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts' warning that the U.S. death toll, at more than 210,000, could almost double by year's end."
+    publishedDateTime: 2020-10-06T23:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/fauci-warns-trump-relapse-president-downplays-coronavirus-death-toll/3634631001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3634631001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634631001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/9b1ca01d-1e46-4a77-b125-e2569de56541-GettyImages-1228897458.jpg?auto=webp&crop=4637,2608,x0,y366&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fauci Says He Isn't Endorsing Trump's Reelection Despite Being Included In POTUS Ad"
+    excerpt: "The Trump campaign released a 30-second ad Saturday that shows Fauci praising the administration's handling of the coronavirus pandemic."
+    publishedDateTime: 2020-10-12T02:01:00Z
+    webUrl: "https://www.ibtimes.com/fauci-says-he-isnt-endorsing-trumps-reelection-despite-being-included-potus-ad-3060461"
+    ampWebUrl: "https://www.ibtimes.com/fauci-says-he-isnt-endorsing-trumps-reelection-despite-being-included-potus-ad-3060461?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fauci-says-he-isnt-endorsing-trumps-reelection-despite-being-included-potus-ad-3060461?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 84
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "5lp40q9gsocBAVqz+zZrA9w7LLskdfzNw+fq/w3P6J1c6cQXEcis2pXSS4tV7Zd2nwYnBW0g9i3dQc6DU6LIhl9m67SO3Mdj790T7/rRNAODvhhNqjoiTfJ1FP47wt3NYN0wsMLmMbs+ztMFj60+FHgJ26sHZN13BhWZY1dnDFrMQy21djW4rmsxiMKZr6qGQCuhjtT7SheJz8Gcl/2L7gcPaNlrfCkOE4v61SVTs9hF1qsRZkcA4+bI+lNd0amu6NMWJhwGW8wPPfrO290v2RVXQ35b2rloCqN1wYZyDixB+PNqZrg/wLlo2m59t0RzRZnxNPF0eKTsZvUYsvLUuIwfUy0CWsJKGumt9vpUKmE=;GCm/3V6OLWJC0msxbXDzAA=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: How professional wrestling perfectly explains Donald Trump's 'Superman' stunt"
+    excerpt: "This paragraph, from The New York Times, might at first shock you:\n    \n"
+    publishedDateTime: 2020-10-12T01:43:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qn-GJqR9ucY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/donald-trump-superman-shirt-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/donald-trump-superman-shirt-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170120165006-trump-sports-gal-12-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Twitter bans posts wishing for Trump death. The Squad wonders where that policy was for them"
     excerpt: "The four progressive Democratic congresswomen known as \"The Squad\" expressed surprise on Friday night when Twitter posted about its policy against wishing harm or death to someone in light of President Trump's Covid-19 diagnosis.\n    \n"
     publishedDateTime: 2020-10-03T18:21:26Z

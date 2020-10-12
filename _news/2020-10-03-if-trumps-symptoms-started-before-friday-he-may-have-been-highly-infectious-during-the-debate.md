@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
 type: article
 quality: 113
-heat: 213
+heat: 193
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://media.vanityfair.com/photos/5f8055e5d070eec8d50f0da7/master/pass/Screenshot%202020-10-09%20at%208.18.16%20AM.png"
         width: 1919
         height: 927
-        isCached: true
-  - title: "Trump has events Saturday at White House, Monday in Florida"
-    excerpt: "Looking to shove his campaign back on track, President Donald Trump and his team laid out an aggressive return to political activities on Friday, including a big Saturday White House event and a rally in Florida on Monday,"
-    publishedDateTime: 2020-10-09T21:41:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-sets-out-to-get-campaign-back-on-track-15634095.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/47/63/20086006/19/375x250.jpg"
-        width: 375
-        height: 249
         isCached: true
 
 secured: "BC16ziJ1ca746Ya40EHoFvab2vrwfQ3nqPj92BBOaBBlkfbEgnRpffniWfXjmW26Y2uWrD0Jqn7HLSSu6r0SPPHxrz/hCqasQ81B2/b1VosOQduNGaOLkD51paN97/3mLHulQ/71EJ1z4InQGbUDowWYTxnSmsD+x/PMIpSWaictt4qkhYlimFtPwqzH5I9s6HtFZl/qrvl55tU/oKfjtNKJf19ag+UXIjE7t94Hs92gqsKmABQ5X+FdvG+zW/jv7+dwl5nA+H7KFc5L+i9LSlNX9WlNDRCGyualfEblyZIyPy5sdg42CfKOIfKEXc9oOeoFvx8714DG5NHg2QH7YULEcRCpiYt4pM2ycYtYapw=;w82hOINOTL/E7EqlG/jloQ=="

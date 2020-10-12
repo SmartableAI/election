@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Corporate America first: Trump fails to un-rig the U.S. economy"
-    excerpt: "In the middle of the last century, a General Motors president told Congress that what was good for GM was good for America and vice versa. As U.S. president, Donald Trump — who as a candidate promised to put the economy back on the side of the little guy — has revised the old saw: What’s good for big business,"
-    publishedDateTime: 2020-10-04T14:48:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-big-business-errand-boy-20201004-cm3xqqvsozh7vinyyqsri6556y-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/mFC1sYjf2HtE6o-8Z641B3SProM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VG7IIGPOMRFKNPULBIBXSLHQ7E.JPG"
-        width: 1200
-        height: 706
-        isCached: true
   - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
     excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
     publishedDateTime: 2020-10-09T16:24:00Z
@@ -123,6 +107,6 @@ related:
       domain: hindustantimes.com
     quality: 55
 
-secured: "MUmZNZm6yLgNU6srZIS53h59u9d1He3qVDWtJvy9tcHA8K+dVekWzQHHvK4DmPhpx54WHNQQx01aZcYXtqGwhS1Yd3pQ2btNOx2iTiCkTGBbK5GRefwD/y0kq8YYBdH+yWYpofvvVr6K0WcuP9PYbDvGBjaz7HhdI2U2rRcxGfKNQD9by6nAjd8hRnyG32Zy/4MUPqgc+VcpwYb/S8ufasGaJN9P7bayG8O9gth4dRu+/tQpXopPcalh5o34BGLBGN4lxjXajHnsnLplB/gzh3DLNYw4YLM4MwiKPRJLwsSXrPJ4YaioMScDafZd8I++8YqcSZ4kUntBeK7goJ3TY+dFxCVDheqF4v1bq6OdUPQ=;X+wCoYG2ZAtWo55NbsmHeQ=="
+secured: "diOgNENaWrrWov1oOh7PXfmTkP2AI2mnykB36e1Wic1q/h8Pbrh9HUI4tORiAAWxzxOnCoaATwtS0qi5rAu7jwn9NAIrh0olhKojGrhYRc6DcaeZHadEGhmDBMchUSPfQ5zuC3/5m4+NMfBwJYyd0FR0vYjk/jBczzfetnS0ynqhL6pbDe7Qkgp5xwRzTCLnh+VqmNbqtzXIW5oIBDRI7Oo4WMc9Ebx5w4TriMHcpZxMuelRpvsp0qTQ4zLZ7PEjngDBChPoCD0dCG0S/7eWUHqoBScFtVwp8ppPlTbpOmbghgDwazuLZzY/bROTXYTGrMCYXA9H1lJRbEfKuVZplvpMaTCNTFDc/S26RTd68OriZXI86Mbh2U6wsQh9XOODCR6ZABY9t/KlMcIw0q5MVjZfDapAEk6VxFaOPCgcNy7K7mYZWh5ido1w/DibI6k3j/copISKcTins8DApg0d0pQHtRbm68bsfTgv/XlZYQ1R0Bwycs768FfjyzlGjYMSEPLo83KtZCi24IPWeQzBdg==;JFl2lWvsBho7PlJZ4DlS2w=="
 ---
 

@@ -48,6 +48,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Jimmy Fallon Riffs on Mike Pence’s Fly and Pink Eye"
+    excerpt: "He’s the head of the coronavirus task force. Not really a great look when you’re covered in bugs and bleeding out of your eye,” Fallon said on Thursday."
+    publishedDateTime: 2020-10-09T08:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/arts/television/late-night-mike-pence-fly-vp-debate-pink-eye.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/arts/television/late-night-mike-pence-fly-vp-debate-pink-eye.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/arts/television/late-night-mike-pence-fly-vp-debate-pink-eye.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/arts/09latenight/09latenight-facebookJumbo.png"
+        width: 764
+        height: 400
+        isCached: true
 
 secured: "CVrMZgQLPyqIB+dwly/PJKoEUH11dznwgaugtz7jt633xIN8mbcnG+j/Ozg/3pln2s2QFG0Bl3Wu9DyoZmiYtBtIYZNYFfCvXAA92ivG+uKGtKbG+KoZjVrZ4DuCe4YjY+S7q1JKwsWhs9xI96uuz0PCPa7KGqAmkLaM5xfmCKh754hW3YNJ4KiNf+B9oxMYIt4VFZ46aC8KSVJFlYUnIFFe6qEJmZv3TKCoZBGmpc1kwYoaXAN7QAcAM1M2+PtOKW6Gj49I9IrkuL3UUGCscO8sPJxpUFjbhF/b0SAu1A3bze/2Fwar+N6qeHN5lpNSDq6jfhbW/LQrgW1QA+qxEsrHjd5X1/qtGssUSUPFpllJYRCNpjxVbLou1vhiDgFaw/b1SIr1MCTd/lvMbycGM7NJJRoM1g/fNiSn3iWzN4ygdKBIoRImOw44Bt/LrH+qCfIt3oyAgQE+MuddesU393xEnPd/U2NZVUjb+VanPNu+jr8rLHjGYhZAridEF40Pkd+C2CSOWnozfBhOQl0I3g==;RiS7MgFXQd9BSNAKOijC4A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2103
+heat: 2123
 published: true
 
 provider:
@@ -412,6 +412,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump team tries to keep debate fight going but others move on"
+    excerpt: "President Donald Trump's reelection campaign and the White House are pushing for an in-person presidential debate after Trump -- who has repeatedly flouted best public health practices since his Covid-19 diagnosis -- declined last week to participate in a virtual format.\n    \n"
+    publishedDateTime: 2020-10-12T02:36:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7duUc360XCw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/trump-coronavirus-debate-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/trump-coronavirus-debate-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010140724-06-donald-trump-white-house-event-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
