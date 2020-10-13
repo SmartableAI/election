@@ -731,6 +731,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republicans are doing Joe Biden’s work for him"
+    excerpt: "He is helping former vice president Joe Biden, who has a double-digit national lead and comfortable leads in states that will get him beyond 270 electoral votes, run out the clock. This is as close to a unilateral surrender — both of visibility and incumbency — as we have ever seen in a presidential race."
+    publishedDateTime: 2020-10-13T11:51:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/13/republicans-have-gone-bad-worse/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/13/republicans-have-gone-bad-worse/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/13/republicans-have-gone-bad-worse/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6V43BMQMTAI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump heads to Sanford, Florida for first rally since COVID-19 diagnosis; Biden calls trip 'reckless'"
     excerpt: "Trump's Florida rally, which will be followed this week by events in Pennsylvania and Iowa, takes place amid continuing questions about his health."
     publishedDateTime: 2020-10-12T23:50:00Z
@@ -1904,6 +1920,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "CQowEkN303silpxxLI+6XlAMOy4higHVZW5a7FpHQRrVnpG2U+p5FMzC43eQrUbmU5StcDpqFAMVVFeX73yceL2bOp+MZj3L349Ifap8Bf7FIPKQvF2eyxN/BSUzsABDNf2r47rmICx3EQtxUO4QcKsBg3QRv/Vs32E4Ek6mc8/KEASdAGBQAVgBM0xg5S4/ciGSR+HnVVVi1r6ZC8xvItC0Lcnja2dLMXmKG7YMXNu/qHNK7lwR5KFl2cJ/ce3kG34WMfMeAYkMg+S7r9TiqOCGXZi0ltTJWpTutSo7Gv2V9Hq8XYFCdCsOXcE5KCP2VP2O4sOxIlUHUGlW7Uk1v9c8UAHVuagwP0nHnpAkH9M=;5B4V4QLEnhYqhxyOpOyQtA=="
+secured: "IewnNSlaDj6juAY3tyxpmQtKNVx+LfeOtFzP9FFOzGRgvJaO1DZchl8idh1R1LZbRv1P5WK05y7rYWv1gVQs0HyFhovqsnbGG0s/E0o+wZhQUZ2J+atPrHFsfrSP+eTQwUfI3sfqmWVtd3yasOlGKysOSogXyI7000Um1M3C8LqKaDZUFVr+BfFk2ME0lO0Vpw+DqB3eiz7cUM0Gt5lVc0dw+744ULN1Mt5DtslSO1DaA/A5wlqGSq4V3TFV/yufgns4qD2R2CqQN2wShLWtE97oDu5D5bC1HYGAm+8hWqOZdg0MU8etlGeA/tSUStAZjuw0hWyJKaVcwl+RYMgwP7e1A4oEGreba5yDQYUhUxRZOd/hMHjBTVpAUihRE2BVk09VNu4sy+EKuRkqfHJZ1I9qDn3Y7cfPXRTKCzLmshy9BJ1KD6NyZlfltHrt6ldJTQocYPg2k7LWLLOsoC9LCfuKs9Ti2mUREm6jpzeSWr90YuzGWn+GQdVVfM8PlvFPKoZtMbFpcVU8i26bl8vlTw==;8e+zxPvswN3TRGFDWPx/0g=="
 ---
 

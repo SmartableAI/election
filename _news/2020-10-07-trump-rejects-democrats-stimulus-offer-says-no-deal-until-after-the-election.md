@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3627003001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3627003001"
 type: article
 quality: 136
-heat: 936
+heat: 956
 published: true
 
 provider:
@@ -189,6 +189,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536426858&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG951XO"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Pelosi says Trump offer on coronavirus bill falls short, still hopes for deal"
+    excerpt: "U.S. House Speaker Nancy Pelosi said on Tuesday the offer President Donald Trump recently made on a coronavirus stimulus package after he scrapped talks fell far short of what the American people need but she still hopes a deal can be reached."
+    publishedDateTime: 2020-10-13T13:29:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN26Y1UW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Y1UW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Y1UW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537274682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C124"
+        width: 781
         height: 545
         isCached: true
   - title: "Wall Street ends down 1% after Trump calls off coronavirus economic relief talks"

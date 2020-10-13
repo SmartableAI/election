@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-b
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
 type: article
 quality: 123
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Stand back and stand by': Rhetoric some call racist has marked Trump's entire presidency"
+    excerpt: "President Donald Trump's contentious comments about immigrants and people of color have been blasted by critics who say he's further dividing America."
+    publishedDateTime: 2020-10-13T12:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/hate-speech-common-theme-trumps-presidency/5873238002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5873238002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5873238002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

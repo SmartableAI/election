@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pS5nsrwtjRA/biden-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pS5nsrwtjRA/biden-considering-ny-governor-cuomo-attorney-general"
 type: article
 quality: 155
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1024
     height: 765
     isCached: true
-
-related:
-  - title: "Cuomo reacts to Biden attorney general rumors: 'No interest in going to Washington'"
-    excerpt: "New York Gov. Andrew Cuomo said on Monday he has \"no interest\" in serving as Democratic nominee Joe Biden's attorney general."
-    publishedDateTime: 2020-10-12T14:24:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FFtaTyefvBM/biden-cuomo-attorney-general-rumors-cabinet"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 149
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/andrew-cuomo-joe-biden.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "mRpdSML7ii7XwyWet2jj1qqYMN56A1G8/jTcQM+/rTAArHLqB9mcbQP8zuFdaotpFIvr8R1zV5Zf7Y7F49fKCsyBdZPfbR9/uSPssFynXFhnZ8bo2wNvgPecig4JwQD1B4F6fxOfC7/JVuTUwAKdO3BbL1icidy20Bv8m+Cqga1Kz497UKGqLRvTXbt2lvRSgRF1NlhVhmejE4xNSOa1mc0qMF/SbvoUlEAcCpiCs9C1xTnmeGWpLgUgzm/Sw9u/aSghDfHqkdpqPiyEth+J2374x4PruYeCm2XUwhARNS/DAGv/VQXzh1Cod7lZIzIWobs+/mLu3VKOWxllpYq80ueXz0H89wQ3VMDIYz1tUuk=;eeNhg/7HFePAq/28X6YwPg=="
 ---

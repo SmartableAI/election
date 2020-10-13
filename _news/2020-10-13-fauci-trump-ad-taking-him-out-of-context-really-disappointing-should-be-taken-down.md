@@ -93,6 +93,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
+    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
+    publishedDateTime: 2020-10-13T12:03:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 100
+    images:
+      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
     excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
     publishedDateTime: 2020-10-06T09:55:00Z
@@ -135,6 +151,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png"
         width: 800
         height: 430
+        isCached: true
+  - title: "Trump Goes After Dr. Fauci, Trashing Him Over Masks: ‘Tony’s Pitching Arm is Far More Accurate Than His Prognostications’"
+    excerpt: "President Donald Trump is going after Dr. Anthony Fauci one day after the infectious disease expert blasted the Trump campaign for taking him out of context in an ad."
+    publishedDateTime: 2020-10-13T12:51:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-goes-after-dr-fauci-trashing-him-over-masks-tonys-pitching-arm-is-far-more-accurate-than-his-prognostications/"
+    ampWebUrl: "https://www.mediaite.com/trump/trump-goes-after-dr-fauci-trashing-him-over-masks-tonys-pitching-arm-is-far-more-accurate-than-his-prognostications/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-goes-after-dr-fauci-trashing-him-over-masks-tonys-pitching-arm-is-far-more-accurate-than-his-prognostications/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 50
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/04/fauci-trump-coronavirus-GettyImages-1209801792.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Trump Doubles Down on Campaign Ad Using Dr. Fauci’s Words Out of Context: ‘We Have Done a Phenomenal Job…Many People Agree’"
     excerpt: "Trump is doubling down on an ad using Dr. Fauci's words out of context, insisting in a tweet that it was fine because \"they are indeed Dr. Fauci's own words.\""

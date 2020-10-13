@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he's 'not a fan' of court-packing and that he doesn't want to make the election about the issue"
+    excerpt: "Democratic presidential nominee Joe Biden said Monday that he's \"not a fan\" of court-packing, providing his clearest position on an issue he has sought to avoid discussing following the death of Justice Ruth Bader Ginsburg.\n    \n"
+    publishedDateTime: 2020-10-13T12:54:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s8tvjwJnP4Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/joe-biden-court-packing-not-a-fan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/joe-biden-court-packing-not-a-fan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005163735-01-joe-biden-florida-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'I'm not a fan of court packing': Biden responds after Trump, GOP attacks"
     excerpt: "After coming under fire from President Donald Trump and Republicans about whether he backed expanding the Supreme Court to more than nine justices, Joe Biden said Monday that he's \"not a fan of court packing."
     publishedDateTime: 2020-10-13T11:20:00Z

@@ -358,6 +358,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump expects voters to fall for the same health care trick twice"
+    excerpt: "Trump pulled a con on health care four years ago, and a lot of people fell for it. Four years later, he's trying to run the identical scam."
+    publishedDateTime: 2020-10-13T12:04:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-expects-voters-fall-same-health-care-trick-twice-ncna1243080"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2017_18/1990471/170505-health-care-ac-1105p_8fb4cd185e3ce3950d80b19eca9d6066.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's workplace watchdog assailed for lenient penalties on Covid safety violators"
     excerpt: "These tiny fines are OSHA sending a message to meat factories across the country that they don't have to worry anymore. . . they can operate as they please no matter how many workers are sick, injured or killed."
     publishedDateTime: 2020-10-06T19:30:00Z

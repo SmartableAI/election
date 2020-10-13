@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
 type: article
 quality: 175
-heat: 715
+heat: 735
 published: true
 
 provider:
@@ -346,6 +346,20 @@ related:
       - url: "https://static.politico.com/28/c1/6bea5f084cdd8b115f699222313a/1020trump.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump expects voters to fall for the same health care trick twice"
+    excerpt: "Trump pulled a con on health care four years ago, and a lot of people fell for it. Four years later, he's trying to run the identical scam."
+    publishedDateTime: 2020-10-13T12:04:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-expects-voters-fall-same-health-care-trick-twice-ncna1243080"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2017_18/1990471/170505-health-care-ac-1105p_8fb4cd185e3ce3950d80b19eca9d6066.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump claims Covid immunity: ‘Having really a protective glow means something’"
     excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"

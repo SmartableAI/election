@@ -359,6 +359,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Hoping to shore up support, Trump directs more money to farmers"
+    excerpt: "The more Donald Trump worries about losing, the more he sends taxpayer money to farmers hurt by his policies and failures."
+    publishedDateTime: 2020-10-13T12:57:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/hoping-shore-support-trump-directs-more-money-farmers-ncna1243105"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2019_35/2986781/190827-us-farmer-al-1526_723969a2b748993bcb6ba127c54c3ca8.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Remembering Wayne Barrett, the Journalist Who Saw Trump Coming Decades Ago"
     excerpt: "He taught us to dig. That the facts were knowable, written down and filed somewhere. That facts steadfastly accumulated could reveal what was hidden and be agents of justice."
     publishedDateTime: 2020-10-10T08:24:00Z

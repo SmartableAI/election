@@ -26,6 +26,22 @@ topics:
   - Republican Voice
 
 related:
+  - title: "Biden again dodges court-packing question, hints he is 'not a fan'"
+    excerpt: "Democratic nominee Joe Biden again dodged questions on court-packing, this time at campaign stops in Ohio on Monday."
+    publishedDateTime: 2020-10-13T12:08:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xk7PKOtHGYU/joe-biden-supreme-court-packing-not-a-fan"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-supreme-court-packing-not-a-fan.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-supreme-court-packing-not-a-fan.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287061931086.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hunter Biden's ex-business partner to face sentencing after court reinstates fraud conviction"
     excerpt: "Hunter Biden was never accused of having knowledge of the scheme to defraud the Oglala Sioux tribe."
     publishedDateTime: 2020-10-09T01:34:24Z
@@ -55,6 +71,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/pelosi-schumer-3-AP.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Cuomo reacts to Biden attorney general rumors: 'No interest in going to Washington'"
+    excerpt: "New York Gov. Andrew Cuomo said on Monday he has \"no interest\" in serving as Democratic nominee Joe Biden's attorney general."
+    publishedDateTime: 2020-10-12T14:24:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FFtaTyefvBM/biden-cuomo-attorney-general-rumors-cabinet"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/andrew-cuomo-joe-biden.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden: Reporters should ‘focus’ on Republicans after pressed on court packing stance"
     excerpt: "Democratic nominee Joe Biden said reporters should be focused on Republicans pushing through a Supreme Court nomination, rather than his opinion on court packing. "
@@ -97,6 +127,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cafa300-8f67-451b-af56-6c395b2fd3f3/05912f30-a861-49d5-9739-bd0b291f9548/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week"
+    excerpt: "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will"
+    publishedDateTime: 2020-10-12T16:30:00Z
+    webUrl: "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900"
+    ampWebUrl: "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 72
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "/ayJO05AyPQDG4Jvj/mgmCAQPYRaaO4zNOqxLF+P/U7cOrkG7VIZLiYFMlGxYlAMinmw4CW7t0nYD53TeHCDw9uuuwQPEEAq54VQPc22ifmQ0cpenF3v4I98wvJs6i6Uoe+IqRDhl0cAhYMaluDWU9+WcP7tQaJiKPk0H4d9zQKuG58hqDT5114fMOu7wCBiK/5a7U6UARa5Eq59KClZJtTQysZ5h813yHed6f50omYMUGMUQ7k6ideoPRoUYce/ieGUecwdeYwwYJvwn245P1zEhIghR54WshQyHVJ2t/37gn+agyVulJBwK6xYYLC/0g0dvyDiAIlYhKIbXoRfBuCRq6WiujcEybz6h2l1m4rR4t2J6pO1Bpj4SA+I6BnwsCLRo/IInQCFVP8qoPgZ5FjfIjWjcV0WJ8a0AuhwMgOlyjEuk6c4/TUw7m1xTc7stZP9ciLnS4LWS245qkERQ9wFvBrZ5BmTw7wBps6NX+jGGdsY5EeoMBuN2qWcd+0PDnYMywDcRD/HMXidI4WUYg==;+i3JR/hbGfCq1jrm2UGVnw=="

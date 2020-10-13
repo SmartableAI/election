@@ -207,6 +207,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Pelosi says Trump offer on coronavirus bill falls short, still hopes for deal"
+    excerpt: "U.S. House Speaker Nancy Pelosi said on Tuesday the offer President Donald Trump recently made on a coronavirus stimulus package after he scrapped talks fell far short of what the American people need but she still hopes a deal can be reached."
+    publishedDateTime: 2020-10-13T13:29:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN26Y1UW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Y1UW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Y1UW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537274682&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C124"
+        width: 781
+        height: 545
+        isCached: true
   - title: "Trump renews fears of voter intimidation as he recruits army of poll watchers, pushes false claims of election fraud"
     excerpt: "Republicans are putting together what they call an army of Trump supporters to monitor election procedures as Trump pushes false claims about voter fraud."
     publishedDateTime: 2020-10-01T14:10:00Z

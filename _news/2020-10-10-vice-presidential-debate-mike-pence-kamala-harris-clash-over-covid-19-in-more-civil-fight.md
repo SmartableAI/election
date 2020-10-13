@@ -360,6 +360,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Joe Biden and Kamala Harris mask the far left's scary agenda"
+    excerpt: "Halloween, like so much else, will be different this year from previous years, but it also offers an analogy that can be applied to the current presidential campaign."
+    publishedDateTime: 2020-10-13T13:48:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/B3thomasLGbidenmask_c0-84-1600-1017_s1200x700.jpg?bd1cd6efcf645d908a85214d05987d6551a1325e"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Mike Pence and Kamala Harris lacked the name-calling and searing insults of the Trump-Biden showdown, but there were flashes of tension."
     publishedDateTime: 2020-10-09T22:55:00Z

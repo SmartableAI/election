@@ -368,6 +368,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Hoping to shore up support, Trump directs more money to farmers"
+    excerpt: "The more Donald Trump worries about losing, the more he sends taxpayer money to farmers hurt by his policies and failures."
+    publishedDateTime: 2020-10-13T12:57:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/hoping-shore-support-trump-directs-more-money-farmers-ncna1243105"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2019_35/2986781/190827-us-farmer-al-1526_723969a2b748993bcb6ba127c54c3ca8.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Fox & Friends’ Trashes Trump for Blowing the Debate Over White Supremacists"
     excerpt: "Host Brian Kilmeade delivered a rare criticism of Trump, saying he completely failed to deal with Chris Wallace’s challenge to condemn white supremacy."
     publishedDateTime: 2020-09-30T15:44:00Z

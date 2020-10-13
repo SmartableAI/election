@@ -891,6 +891,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Eric Holder slammed for referring to a Trump lower court judicial nomination as ‘court packing’"
+    excerpt: "Former Attorney General Eric Holder was slammed Tuesday for referring to one of President Trump’s lower court judicial nominations as “court packing,” as the issue of expanding the number of justices on the Supreme Court has come into the spotlight in recent days."
+    publishedDateTime: 2020-10-13T13:47:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XVSY18rumL4/eric-holder-trump-lower-court-judicial-nomination-court-packing"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-holder-trump-lower-court-judicial-nomination-court-packing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-holder-trump-lower-court-judicial-nomination-court-packing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Lincoln Project wishes Trump well, hopes coronavirus diagnosis \"sends a signal\" to his supporters"
     excerpt: "The Lincoln Project, a group of current and former Republicans who oppose Trump, wished the president and the first lady well Friday after they tested positive for COVID-19, while also saying that they hope the diagnosis \"sends a signal\" to his supporters to take the pandemic seriously. "
     publishedDateTime: 2020-10-02T20:36:22Z

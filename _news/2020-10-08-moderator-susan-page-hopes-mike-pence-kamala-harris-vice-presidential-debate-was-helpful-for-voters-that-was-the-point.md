@@ -3577,6 +3577,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "President Trump intensifies focus on Kamala Harris in final weeks of campaign"
+    excerpt: "Grasping for a comeback, President Donald Trump and his Republican allies are intensifying their focus not on Democratic nominee Joe Biden, but on his running mate, Sen. Kamala Harris —"
+    publishedDateTime: 2020-10-13T11:46:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/13/trump-intensifies-focus-on-harris-in-final-weeks-of-campaign/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/13/trump-intensifies-focus-on-harris-in-final-weeks-of-campaign/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/13/trump-intensifies-focus-on-harris-in-final-weeks-of-campaign/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 87
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/Election_2020_BIden_38230-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Mike Pence to continue campaigning despite Trump COVID diagnosis"
     excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
     publishedDateTime: 2020-10-03T13:59:00Z

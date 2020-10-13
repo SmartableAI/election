@@ -735,6 +735,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republicans are doing Joe Biden’s work for him"
+    excerpt: "He is helping former vice president Joe Biden, who has a double-digit national lead and comfortable leads in states that will get him beyond 270 electoral votes, run out the clock. This is as close to a unilateral surrender — both of visibility and incumbency — as we have ever seen in a presidential race."
+    publishedDateTime: 2020-10-13T11:51:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/13/republicans-have-gone-bad-worse/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/13/republicans-have-gone-bad-worse/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/13/republicans-have-gone-bad-worse/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6V43BMQMTAI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "We should listen to scientists sounding the alarm on Trump"
     excerpt: "The fact that so many scientists are speaking out now is a testament to the damage that the Trump administration has done to our country and scientific institutions."
     publishedDateTime: 2020-10-12T21:43:00Z
