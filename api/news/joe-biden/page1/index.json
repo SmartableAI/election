@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
+      "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
+      "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
+      "originalUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1650165/kkk.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
+      "publishedDateTime": "2020-10-13T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-new-poll-shows-joe-biden-ahead-in-michigan.md",
       "title": "New poll shows Joe Biden ahead in Michigan",
       "excerpt": "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
@@ -471,7 +522,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1529,62 +1580,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-former-commander-of-us-forces-in-afghanistan-endorses-biden.md",
-      "title": "Former commander of US forces in Afghanistan endorses Biden",
-      "excerpt": "It's striking how many retired military leaders, many of whom have been apolitical for decades, have stepped up to denounce Trump, endorse Biden, or both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2018_52/2699456/1812230-_stanley-mcchrystal-se-1239p_976e1254705613d2cb950f20ea8c4696.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

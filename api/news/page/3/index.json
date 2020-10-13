@@ -2,6 +2,117 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-11-trump-has-met-cdc-criteria-to-end-isolation-and-is-cleared-to-return-to-an-active-schedule-by-his-physician.md",
+      "title": "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician",
+      "excerpt": "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E3Ci6WtgKUo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-conley-health-update-isolation-coronavirus/index.html",
+      "publishedDateTime": "2020-10-10T20:00:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-trump-has-called-his-supporters-disgusting-do-they-care.md",
+      "title": "Trump Has Called His Supporters ‘Disgusting.’ Do They Care?",
+      "excerpt": "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html",
+      "publishedDateTime": "2020-10-10T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-a-moment-to-put-country-above-party-biden-makes-appeal-to-disaffected-republican-and-independent-voters.md",
       "title": "'A moment to put country above party': Biden makes appeal to disaffected Republican and independent voters",
       "excerpt": "Joe Biden is making a clear attempt to appeal to disaffected Republicans and independent voters in the final weeks of the election, promising he'd be a president that would work hard not just for those who support him, but also for those who do not.\n    \n",
@@ -1210,103 +1321,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-federal-judge-agrees-to-hear-arguments-if-doj-can-represent-trump-in-e-jean-carroll-defamation-suit.md",
-      "title": "Federal judge agrees to hear arguments if DOJ can represent Trump in E. Jean Carroll defamation suit",
-      "excerpt": "A New York federal judge said he will hear oral arguments later this month to consider if the Justice Department can represent President Donald Trump in a defamation lawsuit brought by E. Jean Carroll, a former magazine columnist who has accused the President of rape.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OBXHOHsI3dg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OBXHOHsI3dg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190624203250-e-jean-carroll-responds-trump-denies-sexual-assault-allegation-sot-ac360-vpx-00010730-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/09/politics/new-york-judge-doj-represent-trump-e-jean-carroll/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/new-york-judge-doj-represent-trump-e-jean-carroll/index.html",
-      "publishedDateTime": "2020-10-09T15:20:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-ivanka-trump-coming-to-arizona-on-sunday-to-help-president-donald-trump-gop.md",
-      "title": "Ivanka Trump coming to Arizona on Sunday to help President Donald Trump, GOP",
-      "excerpt": "Ivanka Trump will headline a moderated discussion on Sunday about the Trump administration's policies and how they have affected Arizonans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/09/ivanka-trump-coming-arizona-sunday-help-trump-gop/5938960002/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/09/ivanka-trump-coming-arizona-sunday-help-trump-gop/5938960002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/ffbf1acb-ff36-4c4b-a0b6-dae34b3c670f-b6b2a32c-e3c5-42c6-98ac-2fd216be7e30_thumbnail.png?auto=webp&crop=849,478,x6,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/5938960002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5938960002",
-      "publishedDateTime": "2020-10-09T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

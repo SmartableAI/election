@@ -53,6 +53,48 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone.md",
+      "title": "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\"",
+      "excerpt": "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html",
+      "originalUrl": "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp",
+      "cdnAmpWebUrl": "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp",
+      "publishedDateTime": "2020-10-12T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotNewHipHop",
+        "domain": "hotnewhiphop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-columbus-day-trump-accuses-radical-activists-of-trying-to-undermine-explorers-legacy-in-holiday-proclamation.md",
       "title": "Columbus Day: Trump accuses 'radical activists' of trying to undermine explorer's legacy in holiday proclamation",
       "excerpt": "Trump used a typical White House holiday announcement to accuse \"radical activists\" of seeking to undercut Christopher Columbus' legacy.",
@@ -219,7 +261,7 @@
       "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -270,7 +312,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -321,7 +363,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2615,
+      "heat": 2655,
       "tags": null,
       "images": [
         {
@@ -1487,57 +1529,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-candace-owens-blexit-group-pays-for-some-attendees-travel-to-trumps-white-house-event.md",
-      "title": "Candace Owens' BLEXIT group pays for some attendees' travel to Trump's White House event",
-      "excerpt": "Some guests for Saturday's White House event featuring President Donald Trump had their travel and lodging paid for by Candace Owens' group, BLEXIT.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/candace-owens-blexit-group-pays-attendees-travel-trumps/story?id=73531036",
-      "originalUrl": "https://abcnews.go.com/Politics/candace-owens-blexit-group-pays-attendees-travel-trumps/story?id=73531036",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/Candace-gty-er-201009_1602289399379_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/candace-owens-blexit-group-pays-attendees-travel-trumps/story?id=73531036",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/candace-owens-blexit-group-pays-attendees-travel-trumps/story?id=73531036",
-      "publishedDateTime": "2020-10-10T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

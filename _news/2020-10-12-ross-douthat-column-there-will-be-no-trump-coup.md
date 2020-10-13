@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-n
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://i.insider.com/5f7cb1ff94fce90018f7b6dc?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
+        isCached: true
+  - title: "Editorial Counterpoint: Why Donald Trump is the president we need"
+    excerpt: "President Donald Trump should be re-elected, by issue: “The big difference between success and failure in the presidency,” President John F. Kennedy said in 1962, “is the difference between a bill being defeated in Congress and the country getting wiped out in a nuclear attack."
+    publishedDateTime: 2020-10-12T23:47:00Z
+    webUrl: "https://www.startribune.com/editorial-counterpoint-why-donald-trump-is-the-president-we-need/572719481/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_d30bdba4-bad0-43c7-90b0-07c2fd61ef2e.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "0QJDhmODykzr3an21ZITubP+GdnVGx2vjpDoTIxxzzdnQIBEI7QXgeDFKrFRF1/BdGAeDtiPQaplTYcMbf6B0e2L/ArifB8aWhxg6iaeLba+mOAMYyAzocljRTzTOAEazUXXAKRHxMR9GXNSm3OOfVrc0Ja1Cdmm0PHILcR9ieI4rBzOQXw8dnj4EBlpbLCka66ZIH1q44TS0syMvl1inQmOr4AzBy/tfWovR7bmGc818WbWwHFOV8eJYVEj6aKw58TBKrqmakjVcOl7JcEHArFWAkERAZBmYYiTw2ikewCrD5r2Ff9tdlmvdFKH32sYg619jJzTOQBRrIFDbadKEIY0Vi//7teYkqDUoGtz5IA=;rWuYeqNfJk4guu5eKyNXfw=="

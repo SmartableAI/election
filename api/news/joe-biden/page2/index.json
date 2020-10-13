@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-01-former-commander-of-us-forces-in-afghanistan-endorses-biden.md",
+      "title": "Former commander of US forces in Afghanistan endorses Biden",
+      "excerpt": "It's striking how many retired military leaders, many of whom have been apolitical for decades, have stepped up to denounce Trump, endorse Biden, or both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2018_52/2699456/1812230-_stanley-mcchrystal-se-1239p_976e1254705613d2cb950f20ea8c4696.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-former-afghanistan-commander-gen-stanley-mcchrystal-endorses-joe-biden-despite-previous-tension-between-them.md",
       "title": "Former Afghanistan commander Gen. Stanley McChrystal endorses Joe Biden, despite previous tension between them",
       "excerpt": "Before overseeing all U.S. operations in Afghanistan under the Obama administration, U.S. Army Gen. Stanley McChrystal led the Pentagon's most secretive black ops for five years. During his military career,",
@@ -1477,57 +1533,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-betsy-devos-is-under-investigation-for-potentially-violating-the-hatch-act-when-she-slammed-joe-biden-in-a-fox-news-interview.md",
-      "title": "Betsy DeVos is under investigation for potentially violating the Hatch Act when she slammed Joe Biden in a Fox News interview",
-      "excerpt": "\"Today he's turned his back on the kids ... in favor of the teachers union ... and what they have to demand and it's really shameful,\" DeVos said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9",
-      "originalUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f694513323fc4001e0d7a21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/devos-under-investigation-for-potentially-violating-the-hatch-act-2020-9?amp",
-      "publishedDateTime": "2020-09-21T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

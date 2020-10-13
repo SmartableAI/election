@@ -1491,6 +1491,22 @@ related:
         width: 2000
         height: 1332
         isCached: true
+  - title: "Asian Doll Catches Heat For Endorsing Donald Trump For President"
+    excerpt: "The rapper apologized for offending anyone, but stood by her words. The President has millions of supporters, but for those who stand behind Donald Trump, the backlash can be swift. In less than one month,"
+    publishedDateTime: 2020-10-13T05:07:00Z
+    webUrl: "https://www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 75
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602564536_352e5e27f27c7df6d612af935bc4631e.jpg/c2d42380cafbff355aec3f821f34215f/1602564536_042399b7a1c110bb889ca4458ce0e5c4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden should rebuke court-packing idea"
     excerpt: "Democratic nominee Joe Biden’s refusal to answer a straightforward question about “court packing” not only is frustrating for voters, but undermines his main election theme of rolling back the"
     publishedDateTime: 2020-10-12T20:08:00Z
@@ -1554,6 +1570,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/2/22/2225d0c4-76ae-598e-b10b-4edfab41be1d/5f842d6535d34.image.jpg"
         width: 700
         height: 465
+        isCached: true
+  - title: "Ohio voters divided on President Donald Trump’s job performance, poll shows"
+    excerpt: "Ohio voters are divided when it comes to President Donald Trump’s job performance, while majorities of voters in Michigan, Pennsylvania and Wisconsin disapprove, according to a new poll of Great Lakes states."
+    publishedDateTime: 2020-10-12T20:57:00Z
+    webUrl: "https://www.cleveland.com/open/2020/10/ohio-voters-divided-on-president-donald-trumps-job-performance-poll-shows.html"
+    ampWebUrl: "https://www.cleveland.com/open/2020/10/ohio-voters-divided-on-president-donald-trumps-job-performance-poll-shows.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/10/ohio-voters-divided-on-president-donald-trumps-job-performance-poll-shows.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ELZZLJQ6LVAZZA3TRT3LXEZ32U.jpg"
+        width: 5482
+        height: 3655
         isCached: true
   - title: "Trump Tries To Out-macho Covid And Signs Of Election Defeat"
     excerpt: "President Donald Trump doubled down Tuesday on the macho image his fans adore after declaring himself cured of Covid-19 and scoffing at disastrous opinion polls only four weeks before election day against Democrat Joe Biden."

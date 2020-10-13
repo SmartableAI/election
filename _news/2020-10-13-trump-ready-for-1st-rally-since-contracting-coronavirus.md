@@ -377,6 +377,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump Tests Negative for COVID-19"
+    excerpt: "Donald Trump's physician said the president has tested negative for COVID-19, according to a memo released by the White House on Monday afternoon, about 90 minutes before he is set to hold a rally in Florida."
+    publishedDateTime: 2020-10-13T02:10:00Z
+    webUrl: "https://www.wfaa.com/article/entertainment/entertainment-tonight/donald-trump-tests-negative-for-covid-19/603-a3c8d41f-6611-411c-997e-5710a6123c60"
+    ampWebUrl: "https://www.wfaa.com/amp/article/entertainment/entertainment-tonight/donald-trump-tests-negative-for-covid-19/603-a3c8d41f-6611-411c-997e-5710a6123c60"
+    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/entertainment/entertainment-tonight/donald-trump-tests-negative-for-covid-19/603-a3c8d41f-6611-411c-997e-5710a6123c60"
+    type: article
+    provider:
+      name: WFAA8
+      domain: wfaa.com
+    quality: 75
+    images:
+      - url: "https://media.wfaa.com/assets/ETONLINE/images/46ad6ebb-b917-417a-af12-81971b7c2d74/46ad6ebb-b917-417a-af12-81971b7c2d74_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "President Donald Trump, First Lady test positive for COVID-19"
     excerpt: "President Donald Trump announced early Friday that he and First Lady Melania Trump had tested positive for Covid-19, shortly after one of his closest aides, Hope Hicks, had fallen ill with the coronavirus."
     publishedDateTime: 2020-10-02T11:17:00Z

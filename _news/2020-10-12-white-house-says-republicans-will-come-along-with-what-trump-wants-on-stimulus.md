@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-say
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/"
 type: article
 quality: 120
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Donald Trump tests negative for COVID-19, White House physician says"
+    excerpt: "U.S. President Donald Trump’s personal physician Dr. Sean Conley confirmed late Monday that the president has tested negative for the novel coronavirus “on consecutive days.”"
+    publishedDateTime: 2020-10-13T02:36:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/donald-trump-tests-negative-covid-19/6MH5D5K2IBATFLQG7HO5QQGIIY/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 55
+    images:
+      - url: "https://www.wsbtv.com/resizer/tOVgVIvOp1TkdA8ZzYfZxN8ornY=/1200x628/d1hfln2sfez66z.cloudfront.net/10-12-2020/t_34ff7305edb54255b37a3168b934545f_name_Trump_tests_negative_for_COVID_19_Poster.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "QxqQ7sksixDmlkTT3Cg1JbRKsYq17QBqflVvlWjopsoxMaAMhsZdvAftxdfQoL3JKwfnIyLCkIPdZmPd1wtvdrtDTXeqGruAv+A9cM7f4nwE1o3IEs0haMMJ74swMc+xNLDI7s/0OrYo6bAI1AomUUjh4CNe6VdSXVQrT8HCSHnIuisSMwgnv1iTYQttJ5Uiiij7zPwPHbaU05kNdTbJN7UhDcZZSaUQHDwmNU2TmEhoAVuYpBTwAcdmpOobb85Ugp5qoArf7mrtraFGgZ7m3uH9IoP+wFSF8c5FyMclXZR8z7Pgqj8s1MzJ/wLQwYP2lztvatxqHFuoRsnzYshBt6SDR0Th9O3e59bEa2n3vzg=;BELRxSo8Ar3eRVZqPPtrvA=="
 ---

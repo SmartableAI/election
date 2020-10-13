@@ -205,6 +205,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Donald Trump Jr. in Arizona this week for campaign event, pigeon shoot fundraiser"
+    excerpt: "Donald Trump Jr., the eldest son of President Donald Trump, will campaign on behalf of his father and the Republican ticket at a Wednesday event in Tucson.  A day later, the president's son, an avid hunter,"
+    publishedDateTime: 2020-10-13T07:25:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/12/donald-trump-jr-tucson-campaign-event-early-voting-has-begun/5970974002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5970974002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5970974002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 70
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/20/PPHX/a63c4d05-d9d8-426f-93a5-18f4242a63af-DW1_2561.JPG?auto=webp&crop=3676,2068,x0,y524&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Pence heads to Arizona on campaign swing"
     excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."
     publishedDateTime: 2020-09-18T13:57:00Z

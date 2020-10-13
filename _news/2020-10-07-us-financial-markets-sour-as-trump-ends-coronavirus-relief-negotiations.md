@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Doctor says Donald Trump tests negative for COVID-19"
+    excerpt: "Sean Conley says Trump tested negative on consecutive days, as the president returns to the US election campaign trail."
+    publishedDateTime: 2020-10-12T23:20:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/10/12/trump-tests-negative-for-coronavirus-white-house-doctor"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/12/trump-tests-negative-for-coronavirus-white-house-doctor"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/12/trump-tests-negative-for-coronavirus-white-house-doctor"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 125
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20284656384996.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Wall Street gains as Trump to leave hospital, investors hope for stimulus"
     excerpt: "U.S. stocks rose sharply on Monday, recovering from declines in the previous session, as investors viewed more fiscal stimulus as likely and after news President Donald Trump will leave the hospital where he is being treated for COVID-19."
     publishedDateTime: 2020-10-06T02:46:00Z
@@ -384,6 +400,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/ad52620b-480c-45b4-b0f2-0ad9972f6359-14bc8e40-603a-41ad-b09e-4294c57b5b29_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Democrats Can’t Reverse the Damage of the Trump Era Overnight"
+    excerpt: "Republican activists have spent decades building a movement, winning state and local elections, and grooming a generation of conservative judges. If the left wants"
+    publishedDateTime: 2020-10-13T09:42:00Z
+    webUrl: "https://foreignpolicy.com/2020/10/13/supreme-court-ginsburg-coney-barrett-democrats-court-packing-cant-reverse-the-damage-trump-era-overnight/"
+    type: article
+    provider:
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 105
+    images:
+      - url: "https://foreignpolicy.com/wp-content/uploads/2020/10/supreme-court-judiciary-coney-barrett.jpg?w=1000"
+        width: 1000
+        height: 667
         isCached: true
   - title: "U.S. stocks, crude jump on revived stimulus hopes, Trump's improving health"
     excerpt: "U.S. stocks closed sharply higher and crude prices surged Monday as renewed optimism surrounding stimulus negotiations and news of President Donald Trump's health progress helped calm investor anxiety."

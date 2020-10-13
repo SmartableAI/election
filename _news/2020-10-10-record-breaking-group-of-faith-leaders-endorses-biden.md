@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-o
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg"
         width: 2886
         height: 1443
+        isCached: true
+  - title: "Examining Joe Biden's Record On Race: 1994 Crime Bill Sponsorship"
+    excerpt: "In the second part of a series on former Vice President Joe Biden's record on race, NPR's Steve Inskeep examines the long-term consequences of his sponsorship of the 1994 Crime Bill."
+    publishedDateTime: 2020-10-13T09:05:00Z
+    webUrl: "https://www.npr.org/2020/10/13/923170325/examining-joe-bidens-record-on-race-1994-crime-bill-sponsorship"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Editorial: Joe Biden's leadership would benefit our country"
     excerpt: "A Biden administration has an opportunity to demonstrate that the presidency can be — should be — about more than the chief executive’s vanity or need for constant attention."

@@ -79,6 +79,20 @@ related:
         width: 750
         height: 563
         isCached: true
+  - title: "Editorial Counterpoint: Why Donald Trump is the president we need"
+    excerpt: "President Donald Trump should be re-elected, by issue: “The big difference between success and failure in the presidency,” President John F. Kennedy said in 1962, “is the difference between a bill being defeated in Congress and the country getting wiped out in a nuclear attack."
+    publishedDateTime: 2020-10-12T23:47:00Z
+    webUrl: "https://www.startribune.com/editorial-counterpoint-why-donald-trump-is-the-president-we-need/572719481/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_d30bdba4-bad0-43c7-90b0-07c2fd61ef2e.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AYBnq2p4+BAptcY/tV1o1/rAPKUCTlaJ/zqD7M4/XF3Umgb/cXyey9SzoeI7KhLAjQxMDzr3oP7RDFW8CkHIyNkNPqJQu4ZBzsZM0llihp7q4DuAKRmbg1qLy6n4jWajsBamRAB+U/RLkzqzKi149g7lihS0Hw8rMn+YS1z765HNNQXQGjuK7k/qLczBXKF9686j+Bh7PorQKgZKdJDJoNysLhSchm5reVs9Ev5J7ZPzOlVivKfryf2W3jGOXtXRJic+1U72oPErKHxB0wRiwCjsr9IMshbu87xwgxAuWD2BYw/NdlnphoDH07k3gO9Y1ZRhwohODBzeF270fySqkNv8BsBAZoik67xzeREviU3ksWIIvuOCnBJ58VpB/vTgMQ9SUc8fHKLLZmdR4MFQolIO1u53EJc/lXuCPG8pZrhcr+/pmwIfk7uI0SVvaA6UhVRtSP8cwSWunnHPMrADpM6pto/H9hN6VLWHVBl7+ZkmhmbN4mHIDSpgdVvVB34nFjvZqqkYx9UEIncS3bkeMw==;MhCqWHtn7YoyUJUihAwBtg=="
 ---

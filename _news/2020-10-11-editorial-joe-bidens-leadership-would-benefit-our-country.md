@@ -73,6 +73,20 @@ related:
         width: 2886
         height: 1443
         isCached: true
+  - title: "Examining Joe Biden's Record On Race: 1994 Crime Bill Sponsorship"
+    excerpt: "In the second part of a series on former Vice President Joe Biden's record on race, NPR's Steve Inskeep examines the long-term consequences of his sponsorship of the 1994 Crime Bill."
+    publishedDateTime: 2020-10-13T09:05:00Z
+    webUrl: "https://www.npr.org/2020/10/13/923170325/examining-joe-bidens-record-on-race-1994-crime-bill-sponsorship"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
 
 secured: "+lhHW+RtiYlFR+xfoGngRcl72AFRcIKcyNn6fk2dZDp8kGpL1nnTpFb5ZCzVxKPlbfPx2D4SRn1bs6Z4Bxd9GQ7trUrDIJ0Ukebk4RELPNk6nSm90GNx1myaGbRPpabkVohDqi+zjFVyPbQ+76JNkTaoTvAglWX80e/SO5DwWKGi3uLXa5jVpz/00TRZ5BjBLdgGCB0y+L3Xyyt7LcOyiCSlhtCWxDnU0oIf8bQUCtAsOXJrKBu3pk2BK/KV/itLHVNXnof9+enfSBlQskbIWJ1MfuJj+BWP1BlhpUeqpx2QiusyWHLOrGd4L3sk0y3xrH00ddPnc/rEIl006/V6Y26kFkbTqj7mEsY/Ark1AkE=;mHNqXjhT9NAZB6CSy1Byzg=="
 ---

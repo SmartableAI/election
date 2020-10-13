@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
+      "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
+      "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
+      "originalUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1650165/kkk.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
+      "publishedDateTime": "2020-10-13T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-as-trump-holds-rally-fauci-urges-masks-avoiding-mass-gatherings.md",
       "title": "As Trump holds rally, Fauci urges masks, avoiding mass gatherings",
       "excerpt": "As President Donald Trump held his first campaign rally since disclosing he contracted the coronavirus this month, top U.S. infectious disease expert Anthony Fauci said the United States faced a \"whole lot of trouble\" if it did not encourage universal wearing of face",
@@ -160,6 +211,48 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone.md",
+      "title": "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\"",
+      "excerpt": "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html",
+      "originalUrl": "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp",
+      "cdnAmpWebUrl": "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp",
+      "publishedDateTime": "2020-10-12T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotNewHipHop",
+        "domain": "hotnewhiphop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -971,7 +1064,7 @@
       "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1077,7 +1170,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1183,7 +1276,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2615,
+      "heat": 2655,
       "tags": null,
       "images": [
         {
@@ -1223,113 +1316,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-kamala-harris-bernie-sanders-urge-stimulus-bill-focus-over-amy-coney-barrett-hearings.md",
-      "title": "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings",
-      "excerpt": "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
-      "originalUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1649537/sanders-harris.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1",
-      "publishedDateTime": "2020-10-12T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-2020-election-live-updates-trump-will-hit-the-trail-as-the-barrett-hearings-begin.md",
-      "title": "2020 Election Live Updates: Trump Will Hit the Trail as the Barrett Hearings Begin",
-      "excerpt": "The financial record of Tommy Tuberville, the Republican Senate candidate in Alabama, raises questions. Dr. Anthony Fauci said his words were “taken out of context” in a Trump campaign ad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/10/12/us/trump-vs-biden",
-      "originalUrl": "https://www.nytimes.com/live/2020/10/12/us/trump-vs-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/12/us/politics/12elections-brief--barrett/12elections-brief--barrett-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/10/12/us/trump-vs-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/12/us/trump-vs-biden.amp.html",
-      "publishedDateTime": "2020-10-12T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden leads Pres. Trump in key states"
 excerpt: "Watch \"Joe Biden leads Pres. Trump in key states\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-13T00:43:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201013061723-joe-biden-leads-pres-trump-in-key-states/"
-webUrl: "https://www.cbsnews.com/live/video/20201013061723-joe-biden-leads-pres-trump-in-key-states/"
+originalUrl: "https://www.cbsnews.com/live/video/20201013081723-joe-biden-leads-pres-trump-in-key-states/"
+webUrl: "https://www.cbsnews.com/live/video/20201013081723-joe-biden-leads-pres-trump-in-key-states/"
 type: article
 quality: 120
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/13/story_07227777_1602570664.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/13/story_07228204_1602577264.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -4400,6 +4400,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "nwSa905P+nuYYyYRoBKNCly223wBMnjO4jSXEv0GOdw3xxpcz/EW7bKvKvmIf5ZpWNnB6JcbFIgVoBbhKf7YvqTAFLEDfqiYH70If/IMRVwIN3lD1IR8APLfMbEk5CSTOa5RemMJNS3gI06Mwdevgwd/aTUQULAj+Qd8N3XRHGLwumxS5oQQRUSppVyouAsb3UDdtPEGOIHzRwy0VwxXyUHun8uHin3r9of2MmiGZNLzlD2TEPvqvOqqa95pFvY2F6+Kk8Aj3NZxF5iqq4LIaQS8eR2kecYzg6QrqWyM13fxbLGn9CeMnCoZWtyXIYvkbrGT552iKzYevIrjphafnwdoA5UJhNZpv/1Ls+DF5zg=;xPN8gmv8oJz6keBefmMxtA=="
+secured: "qhE18pfSI5ldsY0NI2prgLauC/icaJpQlb4XEeZqOXIMBXY4OBfrlI1RHz7tkzbESuNf93VlUwHVIz9iAOxJLu+vRPowhfD2l5Z8w+D9hGlcKmeP/vizTzD6NMWrfw3GWPv6cuRclb8rUsdC6W5YAGKxIwYC6ty8Tn2NYeLM/9kjm15IJaR10JEB+aS84O518lMwnKNUgMNeW1C/nT20e9s9RKy7RojOVTq+gJEZZ6bL0Y0I7Cc9iIVWYj6R68gnH0CLX5rFaK5YB51MU3eyO0uD70E28Zxrf7X4qMnKUlCTq3ecH82Uuwxlnu7ahn8irAEvR0ldWKM5sl0rERAflDHWnvMARYKjUmb9V8LyQeI=;DehzCc+pf0nydLzEipPlBQ=="
 ---
 
