@@ -62,6 +62,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Barrett: I’ve had no conversation with Trump about how I’d rule on any case"
+    excerpt: "Supreme Court nominee Amy Coney Barrett told the Senate Judiciary Committee on Tuesday that she has made \"no commitment\" to President Trump or other lawmakers on how she would rule on major cases regarding issues like abortion, health care, or a potential electoral dispute."
+    publishedDateTime: 2020-10-13T17:04:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3AapxUlaSc/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a8fd501-d38e-4100-a101-1825df709586/499a69fe-147e-4440-8733-3d38df777221/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden takes heat after saying confirming Barrett would not be 'constitutional’"
     excerpt: "Democratic presidential candidate Joe Biden is facing pushback to his claim that Republican efforts to confirm Amy Coney Barrett to the Supreme Court are not “constitutional.”"
     publishedDateTime: 2020-10-11T17:31:42Z

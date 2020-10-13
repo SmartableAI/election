@@ -445,6 +445,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Trump, Republicans Divided on Stimulus as Pelosi Demands Revamp"
+    excerpt: "Prospects for U.S. fiscal stimulus before Election Day dimmed on Tuesday, with House Speaker Nancy Pelosi demanding the White House revamp its latest offer and Senate Republican leader Mitch McConnell pushing a smaller-scale strategy Democrats have repeatedly rejected."
+    publishedDateTime: 2020-10-13T16:12:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-republicans-divided-on-stimulus-as-pelosi-demands-revamp/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Twitter slapped a warning label on a Trump tweet that says he is immune from the coronavirus and no longer contagious"
     excerpt: "Twitter flagged Trump's tweet for violating its rules about \"spreading misleading and potentially harmful information related to COVID-19.\""
     publishedDateTime: 2020-10-11T19:09:00Z

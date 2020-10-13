@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden, after avoiding questions on court packing, says he is 'not a fan'"
+    excerpt: "\"I'm not a fan of court packing but I don't want to get off on that whole issue,\" Biden told a Cincinnati television station in an interview."
+    publishedDateTime: 2020-10-13T17:33:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5979046002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5979046002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6ou6ubcexffjW+X57TSMaKuCe5CARj1TQTPGxTek9aZ3dewwh7F0BOy7Bmsn1URuZ1Ytq1tVTMYB155XDd3irWVMQyIh6ByDAHX0YovIwqwiQO100dRkYFYZCS8dazwW4vCKJakyChZTSPzXA3SOO+eloCRlfFiUoh1nwXmMc1NCbSGWZK6E0zqANqStV30JE9bJO2Zo+HfsgTvDXFq7gmopcnXLvJezM8cgW4ciJnWs08s43u35vMjiZ6lm5KsMaENYqV0x8SB+ZJeLxoDJgEha+KsK1PKS+za2p/e7lTmP/oCwygAaGGb/j9xK24Qh2F9KUMlDowuJ9apF1mGKzXWifWXfkFUtnwRgwW67AR4lGF5DDSNK1I17Nk+PKpjKlUHmpbnmB8/utSSasGkbtvtZDSUJR836vhK8fbHrmKPFQG49eCGBU/zcGlVFxqgUuYbbhuoqcsurC4oGl9HlaXzostBlQzzCg8Nig1BQQ+xpJIQTeQlbbi2GREwvN4j78Lu003+Oh1hKP/rFcZEV5g==;80Hgl5q61wV6R7a3ezl2UQ=="
 ---

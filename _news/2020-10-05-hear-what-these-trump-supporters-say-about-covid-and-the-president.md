@@ -112,22 +112,6 @@ related:
         width: 2500
         height: 1666
         isCached: true
-  - title: "Amateur hour at the Trump White House"
-    excerpt: "But recent days, in the wake of Trump being stricken with coronavirus, have highlighted just how the lurching improvisation th"
-    publishedDateTime: 2020-10-11T07:01:00Z
-    webUrl: "https://www.politico.com/news/2020/10/11/amateur-hour-trump-white-house-428533"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/amateur-hour-trump-white-house-428533"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/amateur-hour-trump-white-house-428533"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/5b/6e/900faecc43c1b4ecc44186cb9466/ap20282461941048.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Drugmaker says White House doctor described Trump treatment inaccurately"
     excerpt: "Dr. Sean Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
     publishedDateTime: 2020-10-05T17:22:00Z

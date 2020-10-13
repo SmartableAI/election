@@ -247,6 +247,20 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Did Joe Biden say he was running for the Senate?"
+    excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden say he was running for the Senate?"
+    publishedDateTime: 2020-10-13T16:38:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-54531569"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Joe Biden's polling lead expands since first debate — but 2016 offers lessons"
     excerpt: "We have significant national polling movement in Joe Biden's direction since last week — but as per usual, treat the shift with caution."
     publishedDateTime: 2020-10-06T12:21:00Z
@@ -408,6 +422,22 @@ related:
     provider:
       name: The Arizona Republic
       domain: azcentral.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/9d1e0e27b1d1c0b236043279ceb547c968a223bc/c=0-899-4133-3234/local/-/media/2018/03/08/NJGroup/AsburyPark/636561123315479526-GettyImages-671312804.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Don't trust presidential polls that show huge leads for Joe Biden. The race isn't over."
+    excerpt: "The presidential election is much, much closer than national polling data indicate. Blame the outdated and patently racist Electoral College system."
+    publishedDateTime: 2020-10-13T17:46:00Z
+    webUrl: "https://www.tennessean.com/story/opinion/op-ed/greg-moore/2020/10/10/polls-showing-huge-joe-biden-leads-misleading/5916004002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/5916004002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5916004002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
     quality: 67
     images:
       - url: "https://www.gannett-cdn.com/-mm-/9d1e0e27b1d1c0b236043279ceb547c968a223bc/c=0-899-4133-3234/local/-/media/2018/03/08/NJGroup/AsburyPark/636561123315479526-GettyImages-671312804.jpg?auto=webp&format=pjpg&width=1200"

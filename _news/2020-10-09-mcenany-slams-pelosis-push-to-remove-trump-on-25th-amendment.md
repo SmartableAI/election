@@ -7,8 +7,8 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5bdycyAy0/pelosi
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5bdycyAy0/pelosi-trump-25th-amendment-white-house-congress-kayleigh-mcenany"
 type: article
 quality: 155
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump hits back at Pelosi's 25th Amendment move, says her real target is 'Sleepy Joe'"
-    excerpt: "The White House pounced on Speaker Nancy Pelosi's 25th Amendment talk Friday, hitting her for her own mental fitness for office and also suggesting she was trying to target Democrat Joe Biden."
-    publishedDateTime: 2020-10-09T16:52:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rGHDYKpM_Ao/trump-pelosis-25th-amendment-move-dem-target-really-sleepy-joe"
+  - title: "Romney rips Trump, Pelosi, Keith Olbermann, says politics now ‘a vile, vituperative, hate-filled morass'"
+    excerpt: "Republican Sen. Mitt Romney of Utah is stressing that the country’s politics has “moved away from the spirited debate to a vile, vituperative, hate-filled morass that is unbecoming of any free nation.”"
+    publishedDateTime: 2020-10-13T16:28:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lrNMwgsIMzE/romney-urges-political-leaders-tone-down-hateful-rhetoric"
+    ampWebUrl: "https://www.foxnews.com/politics/romney-urges-political-leaders-tone-down-hateful-rhetoric.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-urges-political-leaders-tone-down-hateful-rhetoric.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 148
+    quality: 158
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-14-at-1.48.30-PM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "fC/NdGuGlsVcVqUKK6lVkQvX8QcGQFrkFt8OkMBjAAkmG8aZJnUqOB6KZV8+HuI1zPsLvritks2QxU7rn+S8DSnAD8VUUzP09xtAl4IFo/iLtTcpAHoR+3fR2FQufRgtvl5cDbObuoZsEjfs3JrqSRfdoFSz+Ckj80/2vJpp6UWIVlSgS4hZ2AXi8tz27eye2wWUL12YCQF2hf7pP0Da1zEZN4o28P/GqsaywQH05htOAk+qscMRgblanYbaJdKsbEvBTU5eQwA8yBSKg1hChGY+vEHfXF8rGLGnRh9wdAQLG8Ul9esQTAQ7sMacPo5J7KZr1xeLNUqB7e5myUYlvBQldCsq81O74eyCdjsUPns=;m4JcYBT1pvol4KVGEixTzQ=="

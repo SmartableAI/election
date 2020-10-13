@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Family separation and the Trump administration's immigration legacy"
-    excerpt: "More than two years since migrant families were torn apart at the US-Mexico border, disturbing details of what occurred behind the scenes continue to spill into public view -- again putting into focus the policy that came to define the Trump administration's immigration legacy and cement its approach"
-    publishedDateTime: 2020-10-07T21:40:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ablqTccsn1k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/trump-family-separation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/trump-family-separation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180726180654-reunited-father-son-0725-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Man charged with assault in alleged argument over anti-Trump rap"
     excerpt: "Police have arrested a man suspected of assault after he allegedly punched another man in an argument over President Trump at a popular North Texas travel center. The incident was captured on video, which went viral Saturday evening."
     publishedDateTime: 2020-10-05T22:52:00Z

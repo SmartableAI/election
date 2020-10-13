@@ -478,6 +478,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Trump picking on Fauci is bad politics"
+    excerpt: "President Donald Trump is down by a significant margin to former Vice President Joe Biden with just three weeks to go in the 2020 campaign. One of his apparent answers to climb out of that hole is to continue to feature Dr. Anthony Fauci in an ad, which the director of the National Institute of Allergy"
+    publishedDateTime: 2020-10-13T16:32:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WqbfPg6Lhsw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/fauci-trump-coronavirus-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/fauci-trump-coronavirus-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Texas Supreme Court rules Harris County cannot mail out ballot applications to all registered voters"
     excerpt: "The Texas Supreme Court ruled Wednesday that Harris County, one of the largest in the country, cannot mail out applications for absentee ballots to all of its 2.4 million registered voters.\n    \n"
     publishedDateTime: 2020-10-07T17:46:55Z

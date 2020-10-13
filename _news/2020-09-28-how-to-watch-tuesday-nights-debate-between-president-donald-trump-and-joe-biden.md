@@ -1311,6 +1311,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Mitt Romney Drops Statement on Trump-Biden Election, Gets Dragged For Equating President With Keith Olbermann"
+    excerpt: "Trump statement on the state of American politics, decrying how \"vile\" the election has become -- but is getting dragged for questionably equating President Donald Trump with Keith Olbermann."
+    publishedDateTime: 2020-10-13T17:41:00Z
+    webUrl: "https://www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/"
+    ampWebUrl: "https://www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 86
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/07/Mitt-Romney-Getty-1076859904.jpg"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds"
     excerpt: "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,"
     publishedDateTime: 2020-10-05T11:40:00Z
@@ -1864,6 +1880,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
         width: 1024
         height: 651
+        isCached: true
+  - title: "Mitt Romney denounces President Donald Trump, Democrats, media for igniting ‘conspiracy mongers’; credits Joe Biden for not ‘stooping as low’"
+    excerpt: "Mitt Romney has been one of few Republicans to publicly criticize Trump, and he was the only Republican senator to vote in favor of an impeachment charge against the president earlier this year."
+    publishedDateTime: 2020-10-13T17:36:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/mitt-romney-denounces-president-donald-trump-democrats-media-for-igniting-conspiracy-mongers-credits-joe-biden-for-not-stooping-as-low.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/mitt-romney-denounces-president-donald-trump-democrats-media-for-igniting-conspiracy-mongers-credits-joe-biden-for-not-stooping-as-low.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/mitt-romney-denounces-president-donald-trump-democrats-media-for-igniting-conspiracy-mongers-credits-joe-biden-for-not-stooping-as-low.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 55
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2CGJ4W3UYFHSTNRONOK576OUFM.jpg"
+        width: 4999
+        height: 3123
         isCached: true
   - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
     excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"

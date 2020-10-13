@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2163
+heat: 2183
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010140724-06-donald-trump-white-house-event-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why Trump picking on Fauci is bad politics"
+    excerpt: "President Donald Trump is down by a significant margin to former Vice President Joe Biden with just three weeks to go in the 2020 campaign. One of his apparent answers to climb out of that hole is to continue to feature Dr. Anthony Fauci in an ad, which the director of the National Institute of Allergy"
+    publishedDateTime: 2020-10-13T16:32:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WqbfPg6Lhsw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/fauci-trump-coronavirus-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/fauci-trump-coronavirus-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

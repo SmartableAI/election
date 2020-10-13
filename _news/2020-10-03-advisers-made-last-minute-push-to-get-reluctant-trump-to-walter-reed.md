@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-covid-response/index.html"
 type: article
 quality: 175
-heat: 655
+heat: 635
 published: true
 
 provider:
@@ -390,15 +390,6 @@ related:
         width: 780
         height: 520
         isCached: true
-  - title: "Here’s How the GOP Can Get Rid of That Trump Stench"
-    excerpt: "Donald Trump is headed toward a massive defeat —at least, if any of the polls (or our eyes) are to be believed. What is more, there’s a decent chance a massive blue wave could do the unthinkable, sweeping even “safe” Republicans like South Carolina Senator Lindsey Graham out to sea."
-    publishedDateTime: 2020-10-10T08:22:00Z
-    webUrl: "https://www.thedailybeast.com/heres-how-the-gop-can-get-rid-of-that-trump-stench"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
 
 secured: "1mO6V3nzy/R1H6dA7VPffgaSgeoUzkXifw49VGFZzWFAgJGs+LceIWrYoYflsx4dK1U9foFvqWI0eBemJZoWHHweG7GjSBfgrVDk83EYN2+qa1j4TWtSgx8aLs+mdWEfI/8IdJZ2Im0B5JgWV63GbTqcQ3ju2KaaeiZELMzv0jlS1GS4Ctz8WRwY2MUrloh5SfLmk3VepYiMvPCUgE2lkcCTlJ9h5Ata6GM0KBPAPrad9MurKOL8OlCVN0w6ZsYJeCdccPa6Ccyh5hEnOhLtnYn/yIjINHl0G5HTo/I40mZH3BH5nw6itm8/EcIlGFJ0YVTFjjo8kfVZH4lw2HYvVAl/ZNkrWZgFBdLIhRfJfNY=;wbxEryuyHdgefk6xChqf/w=="
 ---

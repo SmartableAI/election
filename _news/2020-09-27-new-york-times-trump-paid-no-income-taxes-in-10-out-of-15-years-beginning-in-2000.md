@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-y
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html"
 type: article
 quality: 169
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3415366/200927-donald-trump-jm-1433_2ecab3b8e6edbead73e1276361056151.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump's taxes raise IRS red flags. But his flouting of civic duty is equally concerning."
+    excerpt: "Taxes pay for all that we do together. We need them. They matter. But our president calls into question the very nature of that collective effort."
+    publishedDateTime: 2020-10-01T08:43:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-taxes-raise-irs-red-flags-his-flouting-civic-ncna1241623"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241623"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241623"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416490/200930-donald-trump-1989-ac-657p_ea32ad4656a4da3a6147911405a83890.jpg"
+        width: 2013
+        height: 1262
         isCached: true
 
 secured: "UbHLkuFKdB3WULsiXO0uylvWQevpueByXSOi0Q7PwrRWtpY+jOmSEYEXlUswKFMRn8j7825hYhnY9/Lb8VaH8jShrwdfbsfOAUSkBSmMstl6cpk8+cICf6Z+4IqukyYWnmf9m/nhePLwyXFjiQOykEVGJy89puDLffrZW2P+fhZVqYJFYTRqk/3r9pV2R70zRHweKHCKTZpfh4rwhmSoNPM+ATyDmQCD0RMMEWZ+AcH0SuYs09EvV34BKFZn/ZO/zzYUuOz5+vDRMF7/Wpz7a2eVm5gztsmTgDfUhc0LG4cfuX8hlo7ch7oT36jhHVrZTXyw4drUaEji+epTwSefCrcxd7OIHXR9goaCYe3YsCA=;UDDpKdUxlkT2mbgcTx4wDw=="
