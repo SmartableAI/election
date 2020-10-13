@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pS5nsrwtjRA/biden-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pS5nsrwtjRA/biden-considering-ny-governor-cuomo-attorney-general"
 type: article
 quality: 155
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "McEnany rips Biden’s dodge on court packing as ‘elitist’"
-    excerpt: "Voters deserve to know 2020 Democratic presidential nominee Joe Biden's position on packing the Supreme Court, said White House Press Secretary Kayleigh McEnany on Monday."
-    publishedDateTime: 2020-10-12T15:12:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p-7X_w8fSTc/mcenany-biden-dodge-court-packing-elitist"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/jbiden-NEWSLETTER-xx.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Cuomo reacts to Biden attorney general rumors: 'No interest in going to Washington'"
     excerpt: "New York Gov. Andrew Cuomo said on Monday he has \"no interest\" in serving as Democratic nominee Joe Biden's attorney general."
     publishedDateTime: 2020-10-12T14:24:36Z

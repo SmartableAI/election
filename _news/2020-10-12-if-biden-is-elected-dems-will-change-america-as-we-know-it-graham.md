@@ -45,22 +45,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Mark Levin asks if Joe Biden is 'still a White supremacist?'"
-    excerpt: "This election is not just about President Trump and Joe Biden, Republicans, Democrats, conservatives, liberals. Nope, it's deeper than that. This is a tipping point. This is about preserving, protecting our liberty,"
-    publishedDateTime: 2020-10-10T21:07:00Z
-    webUrl: "https://www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist"
-    ampWebUrl: "https://www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfabcf7a-727f-4aef-8c23-877b26f8f323/89e3af1b-7506-40cc-b496-3b7c255b1a27/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Joe Biden Wants to Be ‘President of All Americans’?"
     excerpt: "It’s a meaningless platitude in a sea of meaningless platitudes. In fact, most of what Joe Biden says is a bunch of meaningless platitudes. But one sticks out, to me"
     publishedDateTime: 2020-10-08T04:01:00Z

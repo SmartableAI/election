@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: A peek inside a potential Biden Cabinet"
+    excerpt: "Amid consistent polling showing Democratic nominee Joe Biden with a yawning lead, insiders are starting to game out the question that comes after a win: What would a Biden administration look like?\n    \n"
+    publishedDateTime: 2020-10-12T22:31:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eNyq3UdwMyc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabinet-2020-elizabeth-warren-susan-rice/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/joe-biden-potential-cabinet-2020-elizabeth-warren-susan-rice/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190424174959-20190424-the-point-biden-cutout-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden will get tested more frequently and continue in-person campaigning"
     excerpt: "Joe Biden will be tested more frequently for Covid-19 and intends to move forward with in-person campaigning, following news of President Donald Trump and several individuals in his orbit testing positive, sources tell CNN.\n    \n"
     publishedDateTime: 2020-10-03T21:42:12Z

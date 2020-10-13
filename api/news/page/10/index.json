@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-10-02-trump-has-covid-what-could-it-mean-for-the-economy.md",
+      "title": "Trump Has COVID. What Could It Mean For The Economy?",
+      "excerpt": "President Donald Trump and First Lady Melania Trump have tested positive for Covid-19, the president announced on Twitter early Friday morning. Here's what to watch out for when it comes to the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
+      "originalUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1965,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77137720c9b79466fe3ec8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
+      "publishedDateTime": "2020-10-02T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-ap-photos-a-busy-week-for-trump-before-positive-virus-test.md",
       "title": "AP PHOTOS: A busy week for Trump before positive virus test",
       "excerpt": "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House.",
@@ -314,6 +365,61 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-secretly-recorded-tapes-show-melania-trumps-frustration-at-criticism-for-family-separation-policy-and-her-bashing-of-christmas-decorations.md",
+      "title": "Secretly recorded tapes show Melania Trump's frustration at criticism for family separation policy and her bashing of Christmas decorations",
+      "excerpt": "First Lady Melania Trump was secretly recorded in the summer of 2018 expressing her frustration at being criticized for her husband's policy of separating families who illegally crossed the southern border while at the same time needing to perform traditional first lady duties, such as preparing for",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPz8Dz5NMls/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPz8Dz5NMls/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html",
+      "publishedDateTime": "2020-10-01T20:09:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -1218,117 +1324,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-biden-schumer-pelosi-would-do-more-damage-in-2-years-than-obama-did-in-8-ted-cruz.md",
-      "title": "Biden-Schumer-Pelosi would do more damage in 2 years than Obama did in 8: Ted Cruz",
-      "excerpt": "A “Biden-Schumer-Pelosi government” would be a “nightmare,” Sen. Ted Cruz, R-Texas, said on Thursday as he encouraged Republicans to vote in the upcoming elections.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp",
-      "publishedDateTime": "2020-10-01T10:22:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-mcmaster-sees-trump-aiding-and-abetting-russias-election-efforts.md",
-      "title": "McMaster sees Trump 'aiding and abetting' Russia's election efforts",
-      "excerpt": "Former White House National Security Adviser H.R. McMaster has been careful not to criticize Donald Trump. That's just now starting to change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcmaster-sees-trump-aiding-abetting-russia-s-election-efforts-ncna1241719",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcmaster-sees-trump-aiding-abetting-russia-s-election-efforts-ncna1241719",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2017_08/1909856/170221-hr-mcmaster-ok-1740_8a4068104f198e67d87aee45b8e4ac69.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

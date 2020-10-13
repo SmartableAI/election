@@ -32,68 +32,158 @@ images:
     isCached: true
 
 related:
-  - title: "Biden vows not to allow ‘White supremacists to overturn the America of Lincoln’"
-    excerpt: "Democratic presidential nominee Joe Biden made a forceful plea for national unity on Tuesday as he took aim at “extremist white supremacist groups menacing our communities.”"
-    publishedDateTime: 2020-10-06T23:12:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e-dTDXPsVpc/biden-not-white-supremacists-overturn-america-lincoln"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln.amp"
+  - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
+    excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."
+    publishedDateTime: 2020-10-12T23:21:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "If Biden is elected, Dems will change America as we know it: Graham"
-    excerpt: "Democrats want to change the United States of America as we know it by uprooting the country's constitutional process, Sen. Lindsey Graham, R-S.C., said on Monday."
-    publishedDateTime: 2020-10-12T16:45:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzIFvV4fGio/dems-change-america-wont-recognize-graham"
+  - title: "McEnany rips Biden’s dodge on court packing as ‘elitist’"
+    excerpt: "Voters deserve to know 2020 Democratic presidential nominee Joe Biden's position on packing the Supreme Court, said White House Press Secretary Kayleigh McEnany on Monday."
+    publishedDateTime: 2020-10-12T15:12:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p-7X_w8fSTc/mcenany-biden-dodge-court-packing-elitist"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/jbiden-NEWSLETTER-xx.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee Amy Coney Barrett. "
+    publishedDateTime: 2020-10-11T17:18:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fg91IhTV_c0/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
         width: 1024
         height: 683
         isCached: true
-  - title: "Joe Biden Wants to Be ‘President of All Americans’?"
-    excerpt: "It’s a meaningless platitude in a sea of meaningless platitudes. In fact, most of what Joe Biden says is a bunch of meaningless platitudes. But one sticks out, to me"
-    publishedDateTime: 2020-10-08T04:01:00Z
-    webUrl: "https://townhall.com/columnists/derekhunter/2020/10/08/joe-biden-wants-to-be-president-of-all-americans-n2577632"
-    ampWebUrl: "https://townhall.com/columnists/derekhunter/2020/10/08/joe-biden-wants-to-be-president-of-all-americans-n2577632?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/derekhunter/2020/10/08/joe-biden-wants-to-be-president-of-all-americans-n2577632?amp=true"
+  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
+    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
+    publishedDateTime: 2020-10-09T19:28:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
+  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
+    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
+    publishedDateTime: 2020-10-12T09:56:00Z
+    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
+    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
+    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."
+    publishedDateTime: 2020-10-10T02:38:00Z
+    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-court-packing-certain-biden-harris"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 105
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18014665-571f-4e7f-adfc-f5a4a9f7b9be/edb37719-8de4-40d1-be5c-d7568711c7b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."
+    publishedDateTime: 2020-10-11T17:42:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 103
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Flashback: When Biden Called Court Packing a 'Bonehead Idea'"
+    excerpt: "Democratic presidential nominee Joe Biden continues to avoid answering whether or not he would pack the Supreme Court as president if Judge Amy Coney Barrett is confirmed. Biden went so"
+    publishedDateTime: 2020-10-12T11:35:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
     quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/99737bff-a3b3-4fda-8f05-edaaafd875d3.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2009/17/ee814af3-688d-4249-a702-7dca6f004286@news.ap.org.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Kyle Rittenhouse's Lawyers Demands Biden Campaign Retract Their Claim He Is a White Supremacist"
-    excerpt: "Lawyers for Kyle Rittenhouse, one of the alleged shooters in Kenosha, Wisconsin, are demanding Joe Biden's Democratic presidential campaign retract their claim that the 17-year-old is a white supremac"
-    publishedDateTime: 2020-09-30T18:30:00Z
-    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216"
-    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
+  - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
+    excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
+    publishedDateTime: 2020-10-07T13:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 73
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
+  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
+    publishedDateTime: 2020-10-12T20:16:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 46
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/52/523854.jpg"
+        width: 750
+        height: 562
         isCached: true
+  - title: "Democratic Coalition Ad Features Obama, Clinton, Sanders, Dozens Of Others Endorsing Joe Biden"
+    excerpt: "Former President Obama, Michelle Obama, Bernie Sanders, Hillary Clinton, John Kasich, and many others appear in this new ad produced by the Democratic Coalition."
+    publishedDateTime: 2020-10-11T16:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/11/democratic_coalition_ad_features_obama_clinton_sanders_dozens_of_others_endorsing_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 33
 
 secured: "Y+x1zJ1tJw+rhurg+EDLwyipnfzDVlvC+ChRGkEtOxWRnU9OQTfPuen8nd9G4n5dmUA5rc6hBbxDS09blnroD9UN589HuKi0lS4DOSXvJFmnn3FxDEvVZPrdAfxRu/8mk7b9aPjIwPI3C9GtQMgDPiu+1M9OWOV9dRCJ1Otc7iWYfsP430Hihz/pbuNcl9VzK9qVMWEHCXwRVaSRgjtrTBR159fE7Vya9qQcDAjxPgY519ktJYFKBMaSkyhV11pImh7ZpsVyvInjzRa1VLKMybXsFVDDyKF2ifL4fs60s667aqhaFJkZYl5WE/IlxrchWu56e7UgBPTc7hkI8/tRWqEBrfrM4LlyUQbYgFyX+fOD2e0G9lttd+cYJnCjs8Cs7njbs1HxslrsAFWasVk1Q/Vs2GkcZwn/5NwJwLYS2ootJLBRytM0y8SBkVO+kxALzH58dkoY6iXeBIhBOrksfdwHXBuj/4inufr/+pfBGSyp9mSYbpzj1uKv9m3PFocstkRq42NWjri+uGDDNJjQVA==;L166jMKpO07mSvwduj07cQ=="
 ---

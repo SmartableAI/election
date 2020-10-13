@@ -1002,6 +1002,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden making a push in battleground states"
+    excerpt: "With less than a month to go before the election, Joe Biden is making a push in states he never expected to win. The former vice president is virtually tied with President Trump in Georgia, and Biden is making a concerted effort to court voters in Ohio,"
+    publishedDateTime: 2020-10-12T22:58:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-making-a-push-in-battleground-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/12/91384797-7a91-418c-adb9-04a1c5b2ec3e/thumbnail/1200x630/d8e2e8cbaf9082c02de755baee737022/1012-en-biden-okeefe-564742-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
     excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
     publishedDateTime: 2020-10-06T14:54:00Z
@@ -1434,6 +1448,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump: Biden Better Take COVID-19 More Seriously or He Might Get It and Infect a Bunch of People"
+    excerpt: "If you’re just tuning in to the latest edition of our long national nightmare, a brief recap: After downplaying COVID-19 for months, letting the virus gain a foothold in the country, and contributing to the deaths of over 200,"
+    publishedDateTime: 2020-10-12T23:13:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-joe-biden-masks"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-joe-biden-masks/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-joe-biden-masks/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 74
+    images:
+      - url: "https://media.vanityfair.com/photos/5f4e6104b9d628c9983c85e1/master/pass/Trump9.1.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "Doctor says President Donald Trump won’t transmit virus, stays mum on tests"
     excerpt: "Navy Cmdr. Dr. Sean Conley says that by “currently recognized standards” Trump is no longer considered a transmission risk."
     publishedDateTime: 2020-10-11T03:30:00Z
@@ -1524,6 +1554,17 @@ related:
         width: 1024
         height: 688
         isCached: true
+  - title: "Trump, Biden Try to Line up by Fauci as They Court Voters"
+    excerpt: "President Donald Trump and Democrat Joe Biden are both looking to harness the credibility of America’s best-known infectious disease expert, Dr. Anthony Fauci, as they make their case to American voters."
+    publishedDateTime: 2020-10-12T23:33:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z
@@ -1731,6 +1772,15 @@ related:
     excerpt: "Democratic vice presidential candidate Joe Biden congratulates Senator Harris for her performance at the debate. He also responds to a question on the second presidential debate after the CPD announced it would take place virtually."
     publishedDateTime: 2020-10-08T14:22:00Z
     webUrl: "https://www.c-span.org/event/?476765/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Remarks to Reporters on Supreme Court Confirmation Hearing."
+    excerpt: "Joe Biden speaks briefly with reporters before departing for Ohio. Asked if the nominee’s faith should be considered, he responded “No. Her faith should not be considered...No one’s faith should be questioned."
+    publishedDateTime: 2020-10-12T23:08:00Z
+    webUrl: "https://www.c-span.org/event/?476830/"
     type: article
     provider:
       name: C-SPAN

@@ -1279,6 +1279,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump returns to the trail claiming coronavirus victory and playing campaign defense"
+    excerpt: "The president is not only fighting on expected battleground terrain, but in areas of previously strong support his team never expected would be up for grabs this year."
+    publishedDateTime: 2020-10-12T23:06:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-returns-trail-claiming-coronavirus-victory-playing-campaign-defense-n1242987"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242987"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242987"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3419422/201012-donald-trump-jm-1316_ee911d3309c69f7b72eec9fe9eb08384.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Judge in battleground state tosses Trump campaign's lawsuit challenging voting policies"
     excerpt: "The ruling by Pennsylvania federal Judge J. Nicholas Ranjan — a Trump appointee — also poured cold water on Trump’s claims that Pennsylvania is fertile ground for election fraud."
     publishedDateTime: 2020-10-10T22:13:00Z

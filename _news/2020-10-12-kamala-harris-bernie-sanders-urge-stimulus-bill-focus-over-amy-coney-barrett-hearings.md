@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearin
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
 type: article
 quality: 117
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     quality: 97
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/2d5e0841-796e-493e-9f04-f3bf44d13c2c/thumbnail/1200x630/819834dc9a7096ad7a6913e7d8141769/cbsn-fusion-senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination-thumbnail-564550-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris accuses Amy Coney Barrett of planning to ‘undo RBG’s legacy’ and to do the GOP’s ‘dirty work’"
+    excerpt: "Kamala Harris, the Democratic vice presidential nominee, says Republicans are trying to get the Supreme Court to do their “dirty work” by installing a new justice who will overturn the Affordable Care Act."
+    publishedDateTime: 2020-10-12T22:17:00Z
+    webUrl: "https://www.latimes.com/politics/00000175-1ed1-de05-a9f7-7ffb61bc0000-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 87
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e36e9f8/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F32%2F51%2F615392c94bf7861703acda7c66b2%2Fharris-comfirmation-amy-coney-barrett-la-thmb.jpg"
         width: 1200
         height: 630
         isCached: true

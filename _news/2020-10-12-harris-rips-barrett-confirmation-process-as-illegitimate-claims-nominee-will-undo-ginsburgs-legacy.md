@@ -60,20 +60,6 @@ related:
         width: 1024
         height: 695
         isCached: true
-  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
-    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee Amy Coney Barrett. "
-    publishedDateTime: 2020-10-11T17:18:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fg91IhTV_c0/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Kamala Harris’s American Example"
     excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
     publishedDateTime: 2020-10-06T23:38:00Z
@@ -90,20 +76,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
-    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
-    publishedDateTime: 2020-10-09T19:28:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
     excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
     publishedDateTime: 2020-10-12T18:45:00Z
@@ -117,20 +89,6 @@ related:
       - url: "https://images.wsj.net/im-243696?size=1.5"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
-    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."
-    publishedDateTime: 2020-10-11T17:42:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 103
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
     excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
@@ -175,20 +133,6 @@ related:
       - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/274/fe5a3c6a-4bf0-4214-9d71-e32c164b4d12.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
-    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
-    publishedDateTime: 2020-10-12T20:16:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 46
-    images:
-      - url: "https://assets.realclear.com/images/52/523854.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "0/StseSjk9bptJ7PSkN6iwwTBqP2Xixan2gtYwxF53OXkjRcvGEbYqSeWVfmbTJmhcyEcFL88asKM7gj+I77TZVZ7HbwZJXpQwgpMEs4M4YWSEVTUzyJFiTk3Q4pINEECsckvRGZRk4lyU9z0+fXzJ325Tv3YYxRolYbazZ+1HUFCY6ZV9bTmre9EkljZUT+6/c/AT04YqkyeQKQ22oTWz+f3MBPERnJOdqGO6mQX5Am0tv7M3vBC2wH8XLzVZNstfzNwkfW40Q0IxXMH6LJNaTfwa5h2KXhZ1z4lBRnSnJPOkN9iEY4iw6lNZPGb/SDDGFLIpeH14ZszpMDwQBtL/qAAtBo33+fttu5KrNcy6k=;ViNwYgLin8kdwBACeYURKA=="

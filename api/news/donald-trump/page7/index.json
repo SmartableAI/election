@@ -2,164 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-09-21-arms-cofounder-warned-donald-trump-will-take-the-opportunity-to-screw-china-with-40-billion-nvidia-deal.md",
-      "title": "Arm's cofounder warned Donald Trump will take the 'opportunity to screw China' with $40 billion Nvidia deal",
-      "excerpt": "\"Trump doesn't give a damn about his allies. Britain is a minor issue if he sees an opportunity to screw China.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-arm-nvidia-china-us-trade-war-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f68848e323fc4001e0d7615?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-hungarian-prime-minister-viktor-orban-endorses-trump-and-denounces-the-moral-imperialism-of-the-democrats.md",
-      "title": "Hungarian prime minister Viktor Orban endorses Trump and denounces the 'moral imperialism' of the Democrats",
-      "excerpt": "The controversial Hungarian prime minister on Monday said he was rooting for Trump to be re-elected at the November election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9",
-      "originalUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f686663323fc4001e0d75e1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/viktor-orban-endorses-trump-denounces-moral-imperialism-of-democrats-2020-9?amp",
-      "publishedDateTime": "2020-09-21T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.md",
-      "title": "Jeff Zucker Helped Create Donald Trump. That Show May Be Ending.",
-      "excerpt": "The coziness between the TV executive and Mr. Trump is a Frankenstein story for the cable news era. But then the monster got away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/21/business/21Bensmith-illo/20Bensmith-illo-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/20/business/media/jeff-zucker-helped-create-donald-trump-that-show-may-be-ending.amp.html",
-      "publishedDateTime": "2020-09-20T18:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-21-reports-woman-suspected-of-sending-ricin-tainted-package-to-donald-trump-at-white-house-arrested-at-us-canada-border.md",
       "title": "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border",
       "excerpt": "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said.",
@@ -1534,6 +1376,164 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-18-it-felt-like-tentacles-the-women-who-accuse-trump-of-sexual-misconduct.md",
+      "title": "'It felt like tentacles': the women who accuse Trump of sexual misconduct",
+      "excerpt": "I feel sick, violated': former model alleges sexual assault by Donald Trump – video She accused Trump of forcing his tongue down her throat, touching her all over her body and holding her in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2020/sep/17/amy-dorris-donald-trump-women-who-accuse-sexual-misconduct",
+      "originalUrl": "https://www.theguardian.com/us-news/2020/sep/17/amy-dorris-donald-trump-women-who-accuse-sexual-misconduct",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/573aa78e80dcccb18c5f26e9046e5f983a5d9423/0_467_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d686d72005ee5256088708c38e3ec04",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-17T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-late-night-fears-trump-fever-after-his-indoor-rally-in-nevada.md",
+      "title": "Late Night Fears ‘Trump Fever’ After His Indoor Rally in Nevada",
+      "excerpt": "It looks like the next long-term residency in Las Vegas will be the coronavirus,” Jimmy Fallon said on Monday’s “Tonight Show.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/15/arts/15latenight/15latenight-facebookJumbo.png",
+          "width": 885,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/15/arts/television/late-night-trump-indoor-rally.amp.html",
+      "publishedDateTime": "2020-09-14T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-15-top-trump-health-appointee-michael-caputo-warns-of-armed-insurrection-after-election.md",
+      "title": "Top Trump health appointee Michael Caputo warns of armed insurrection after election",
+      "excerpt": "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
+      "originalUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp",
+      "publishedDateTime": "2020-09-14T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

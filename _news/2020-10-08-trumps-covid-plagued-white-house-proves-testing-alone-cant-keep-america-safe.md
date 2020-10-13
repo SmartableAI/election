@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump launches frenzied campaign offensive hoping for a turnaround"
+    excerpt: "The next three weeks will likely amount to the busiest of President Donald Trump's tenure, at least in terms of schedule and travel, pushing the 74-year-old President fresh from his coronavirus hospitalization -- which included supplemental oxygen and a fever -- into a frenzied final campaign offensive.\n"
+    publishedDateTime: 2020-10-12T23:47:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H5fi8inGUMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "READ: White House physician says Trump is taking Remdesivir and 'doing very well'"
     excerpt: "President Donald Trump is being treated at Walter Reed National Military Medical Center for Covid-19 and has begun receiving an anti-viral drug, his doctor announced Friday night.\n    \n"
     publishedDateTime: 2020-10-03T04:43:22Z
@@ -255,6 +271,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416625/201001-kyle-rittenhouse-jm-0936_ba06d965e936a9e276a03c1a82c2a974.jpg"
         width: 2000
         height: 1331
+        isCached: true
+  - title: "White House physician says Trump tested negative for Covid-19 on consecutive days"
+    excerpt: "Ahead of his first campaign rally since being hospitalized for Covid-19, President Donald Trump’s White House physician Dr. Sean Conley released a memo on Monday stating the president had recently tested negative on consecutive days and is no longer contagious."
+    publishedDateTime: 2020-10-12T23:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/white-house-physician-says-trump-tested-negative-covid-19-consecutive-n1243045"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243045"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243045"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3419523/201012-donald-trump-ew-631p_dc603b1683dc1d03bc128161b3eafc4f.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump's Proud Boys 'stand back and stand by' debate moment was more than a dog whistle"
     excerpt: "There are not two sides to white supremacy, just as there are not two sides to homophobia, anti-Semitism or any other type of hate. That is, apparently, unless your name is Donald J. Trump."

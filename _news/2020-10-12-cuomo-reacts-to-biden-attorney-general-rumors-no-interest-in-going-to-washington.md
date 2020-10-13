@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 765
         isCached: true
-  - title: "McEnany rips Biden’s dodge on court packing as ‘elitist’"
-    excerpt: "Voters deserve to know 2020 Democratic presidential nominee Joe Biden's position on packing the Supreme Court, said White House Press Secretary Kayleigh McEnany on Monday."
-    publishedDateTime: 2020-10-12T15:12:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p-7X_w8fSTc/mcenany-biden-dodge-court-packing-elitist"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/jbiden-NEWSLETTER-xx.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "epkELZ7rCnLa8TEKy0IPXdUdrUFYJGiEbKr3WoeDA6/Ng6FLB/NvPq06Alsx9tDvDkfioiZw1bwQ+AbEW3GwK7CZDi/qc31RYHqqj4eWh5FN1uPrTtwnSfaTmaeZq01mFztYRbyEj8gXFmTrzZcm++kYFa/AMt0arLBik+kYxfXb7F3b3s3xsbPZzJlPthqdRJELGT8I7uRlc8tF1MMDnsQVqYRZJmafg62th5pCdjC8p8xVFwIGJE337YEmv9K2M/gDxiOsrQdoiQFB9Vc+G3dk24fo+ulMPNBidpLvqf/cI+Lk6//xC4g9NJdom9oA1qOnsJgoaIkUszShbh5hgHsRZ7Nd5zYHDxJcWY3Hz/k=;kEGBicOAVcW7dfkr0SVoOw=="
 ---

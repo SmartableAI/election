@@ -2456,6 +2456,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Polls showing big Biden lead 'have massive oversampling of Democrats,' Trump adviser Cortes claims"
+    excerpt: "Less attention should be paid to national presidential election polls than those in individual states, Trump 2020 campaign adviser Steve Cortes said Monday, as his candidate trails Joe Biden in the latest ABC News/Washington Post survey by a dozen points."
+    publishedDateTime: 2020-10-12T22:46:00Z
+    webUrl: "https://www.foxnews.com/politics/polls-biden-trump-2020-election-steve-cortes"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/image-2020-10-12T155041.203.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Susan Collins isn't done yet; Biden capitalizes on Trump's COVID diagnosis"
     excerpt: "Susan Collins has work to do, but could still win reelection. F or so many years, Sen. Susan Collins has been Maine's immovable object. The Republican survived the Democra"
     publishedDateTime: 2020-10-09T03:00:00Z

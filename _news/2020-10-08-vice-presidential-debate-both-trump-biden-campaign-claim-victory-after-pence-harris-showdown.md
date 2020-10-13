@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3888
+heat: 3908
 published: true
 
 provider:
@@ -2440,6 +2440,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/ImSpeakingEtsy.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Polls showing big Biden lead 'have massive oversampling of Democrats,' Trump adviser Cortes claims"
+    excerpt: "Less attention should be paid to national presidential election polls than those in individual states, Trump 2020 campaign adviser Steve Cortes said Monday, as his candidate trails Joe Biden in the latest ABC News/Washington Post survey by a dozen points."
+    publishedDateTime: 2020-10-12T22:46:00Z
+    webUrl: "https://www.foxnews.com/politics/polls-biden-trump-2020-election-steve-cortes"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/image-2020-10-12T155041.203.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump Critics Ponder: Should Joe Biden Boycott the Next Two Debates?"
     excerpt: "As the proceedings rapidly deteriorated on Tuesday night, a narrative began to congeal on social media: The event was such a disgrace that Joe Biden, already pursuing a 'prevent defense' electoral strategy,"

@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-12-biden-spotlights-obamacare-in-supreme-battle-over-barrett.md",
+      "title": "Biden spotlights Obamacare in Supreme battle over Barrett",
+      "excerpt": "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp",
+      "publishedDateTime": "2020-10-12T16:21:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-trump-kavanaugh-should-sue-the-women-who-accused-him-during-his-supreme-court-confirmation.md",
       "title": "Trump: Kavanaugh should 'sue the women' who accused him during his Supreme Court confirmation",
       "excerpt": "President Trump on Monday said Supreme Court Justice Brett Kavanaugh should “sue the women” who leveled “false and disgusting accusations” against him during his confirmation process to the high court in 2018.",
@@ -223,6 +278,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-12-the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week.md",
+      "title": "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week",
+      "excerpt": "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
+      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
+      "publishedDateTime": "2020-10-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-trump-claims-nov-3-will-be-the-most-exciting-day-in-us-election-history.md",
       "title": "Trump claims Nov. 3 'will be the most exciting day in US election history'",
       "excerpt": "President Trump on Monday said this Election Day will be “the most exciting” in U.S. history, touting the “tremendous excitement and enthusiasm” among the electorate, while mocking his Democratic rival Joe Biden, saying “nobody” shows up to his events.",
@@ -388,62 +499,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-12-flashback-when-biden-called-court-packing-a-bonehead-idea.md",
-      "title": "Flashback: When Biden Called Court Packing a 'Bonehead Idea'",
-      "excerpt": "Democratic presidential nominee Joe Biden continues to avoid answering whether or not he would pack the Supreme Court as president if Judge Amy Coney Barrett is confirmed. Biden went so",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871",
-      "originalUrl": "https://townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2009/17/ee814af3-688d-4249-a702-7dca6f004286@news.ap.org.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871?amp=true",
-      "publishedDateTime": "2020-10-12T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-11-biden-considering-controversial-ny-governor-cuomo-as-ag-report.md",
       "title": "Biden considering controversial NY Governor Cuomo as AG: report",
       "excerpt": "New York Gov. Andrew Cuomo is being mulled as an attorney general within a potential Joe Biden administration, according to a Sunday report. ",
@@ -456,7 +511,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1446,7 +1501,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 324,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1501,7 +1556,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3888,
+      "heat": 3908,
       "tags": null,
       "images": [
         {
@@ -1599,62 +1654,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-harris-says-she-is-a-person-of-faith-insulting-to-suggest-she-would-knock-anyone-for-religion.md",
-      "title": "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion",
-      "excerpt": "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 392,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "publishedDateTime": "2020-10-07T19:50:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

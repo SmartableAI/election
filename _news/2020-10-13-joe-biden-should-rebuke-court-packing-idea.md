@@ -1002,6 +1002,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden making a push in battleground states"
+    excerpt: "With less than a month to go before the election, Joe Biden is making a push in states he never expected to win. The former vice president is virtually tied with President Trump in Georgia, and Biden is making a concerted effort to court voters in Ohio,"
+    publishedDateTime: 2020-10-12T22:58:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-making-a-push-in-battleground-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/12/91384797-7a91-418c-adb9-04a1c5b2ec3e/thumbnail/1200x630/d8e2e8cbaf9082c02de755baee737022/1012-en-biden-okeefe-564742-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
     excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
     publishedDateTime: 2020-10-06T14:54:00Z
@@ -1418,6 +1432,22 @@ related:
         width: 2000
         height: 1332
         isCached: true
+  - title: "Donald Trump: Biden Better Take COVID-19 More Seriously or He Might Get It and Infect a Bunch of People"
+    excerpt: "If you’re just tuning in to the latest edition of our long national nightmare, a brief recap: After downplaying COVID-19 for months, letting the virus gain a foothold in the country, and contributing to the deaths of over 200,"
+    publishedDateTime: 2020-10-12T23:13:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-joe-biden-masks"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-joe-biden-masks/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-joe-biden-masks/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 74
+    images:
+      - url: "https://media.vanityfair.com/photos/5f4e6104b9d628c9983c85e1/master/pass/Trump9.1.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "Doctor says President Donald Trump won’t transmit virus, stays mum on tests"
     excerpt: "Navy Cmdr. Dr. Sean Conley says that by “currently recognized standards” Trump is no longer considered a transmission risk."
     publishedDateTime: 2020-10-11T03:30:00Z
@@ -1508,6 +1538,17 @@ related:
         width: 1024
         height: 688
         isCached: true
+  - title: "Trump, Biden Try to Line up by Fauci as They Court Voters"
+    excerpt: "President Donald Trump and Democrat Joe Biden are both looking to harness the credibility of America’s best-known infectious disease expert, Dr. Anthony Fauci, as they make their case to American voters."
+    publishedDateTime: 2020-10-12T23:33:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "‘Decision 2020: Joe Biden Town Hall’ | How to watch, live stream, TV channel, time"
     excerpt: "Lester Holt of NBC’s Nightly News will be hosting 'Decision 2020: Joe Biden Town Hall' with the democratic presidential candidate tonight at 8 p.m. ET."
     publishedDateTime: 2020-10-05T19:55:00Z
@@ -1736,7 +1777,16 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Remarks to Reporters on Supreme Court Confirmation Hearing."
+    excerpt: "Joe Biden speaks briefly with reporters before departing for Ohio. Asked if the nominee’s faith should be considered, he responded “No. Her faith should not be considered...No one’s faith should be questioned."
+    publishedDateTime: 2020-10-12T23:08:00Z
+    webUrl: "https://www.c-span.org/event/?476830/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "MLsl8hGJLT4guEs5zoLRX/KP0L9Rep3s8COwoC6HyvP99kBrUnWwmG9vOtSLOJ8cU+/sxdUXnlHORwRF1ay+yvu9S7JtslCqEjVm2AHsebBrxGyacxw30D2B+wmLwLxxnW1wbWASVWONCLRz7YUBJ6qzoX1veGnKs7fEV023Q0TdmKLv8QVlZPhLsHGft7eJGpTtf5mGboKdFqQMHe3xKSdSLqtKTNloWFo5Ga+0doCABPndQbdnoalZh5vXbqFwFOxDiM3vdiCFS1NRVJawo+w7H2DoBmuVPwOXa6ZZKtauFJCeecQarlR5WhaN3FzE4KmSpvgdW90ObyrqtQIparN50Uiim2D6x8hBaYtxxiA=;NskhajzOODuvFSuj/Ym/VA=="
+secured: "vVw+s4BabRxblmbnxmQT+xdsLcqje5O3KMaPG2C4YMs8pwqE/bDuBFCf0Bau1vC/g3izwHVx/aduxSkLDX4ACRY7vw0ZXThifUwiypX3aikXnyLVl70zr4VGCo9OhEtf9ORjPKz/HvT1r+atwUJ0Ogad/Z3N6hD2pzZS0UKcqebUyJwM/lJHIdeBBM1GJEXaMft6K+xkLlFD+cZqxxaA6IAolEeFd/uI6mm3CCMKyikB6RfnQAvuxDK8zOnWlWuyOCIsZTA5epQKJVHZLm4ezT04DlDqfQFSbEmbbt4vCTnhiS0bg2MWqdxrkwzPPwlKz/Hy2h4/4hM/cz0fibmlXZsRakZQM+AQkd4TJFh73ZHSdwHwe3892rQrtQZ9qxiBS6tiO+32U3B2epkd+XgnhdKycjppLCh09fFgxgKIE+pvCAb47GnMuMjVx+fFDuCd25eFH1i+G7ld9vC9LzSrUBusSu43xmgjmdtZiImTXEXzC1TebZrjJgKU3lIsVWBXqRtdvAIfw8/EMHKWeobeAw==;RaqlZEjUBlImiiwMTYkNYw=="
 ---
 

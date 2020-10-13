@@ -80,6 +80,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Top general did not give his consent to be used in Trump political ad"
+    excerpt: "The photo featuring Joint Chiefs Chairman Gen. Mark Milley was used without the officer's \"knowledge or consent,\" according to a defense official."
+    publishedDateTime: 2020-10-12T22:52:00Z
+    webUrl: "https://www.politico.com/news/2020/10/12/top-general-trump-ad-consent-429112"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4a/76/3cb3c08b4d08a2912bf81edf4f25/20200108-mark-milley-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "LNxomJ+z8OPenzcQoW/7wt4gMC1HG4wbOovHvsgahapa8OXCpMQ4EVvDaOg0Ha91/5SMDax+8V2oBlzP24J+p4stIgP2kivIbTYynu4PzgLYsJy4CmoOpClZHaW3gcrMtUnIIyFPcMlS2SBFsYOgAqJuDNOvlxizujL/VVMDaBc5IZWBXxrZYTfzZzAWwOvMnmnYwG0CA3DuCuDoG+MF4X+XLN0oWKwSwdpcnLgPYO0sOfOCBPndsME5jT9I4AqQTX4vgqBj7IOBBvsSiMzJM6tTMsyWffrXmhZvGCdIjDmGBe520o7a5h8wg+km16yuGOKClmQHlh3S9BJHoRCp1biDHJd+ZXUEmkJ9pdBXAiw=;Yd9f+xG0QcPmhJa1OADaXA=="
 ---

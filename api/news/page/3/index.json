@@ -2,6 +2,164 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-11-election-updates-trump-deemed-safe-to-return-to-public-engagements-wont-say-if-hes-tested-negative.md",
+      "title": "Election updates: Trump deemed 'safe' to return to public engagements, won't say if he's tested negative",
+      "excerpt": "Trump's aides are working to satisfy his desire to get back out on the campaign trail as early as Monday in Pittsburgh.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5882077002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002",
+      "publishedDateTime": "2020-10-10T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-pence-says-dogma-lives-loudly-in-him-condemns-dem-attacks-on-barretts-faith.md",
+      "title": "Pence says 'dogma' lives loudly in him, condemns Dem attacks on Barrett's faith",
+      "excerpt": "Vice President Mike Pence focused heavily on religious freedom during a Saturday rally in The Villages, the nation’s largest retirement community, located in one of the most traditionally conservative sectors of the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282814405498.jpg",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T16:22:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-in-interview-with-rush-limbaugh-donald-trump-calls-lebron-james-a-hater-and-nasty-spokesman.md",
+      "title": "In interview with Rush Limbaugh, Donald Trump calls LeBron James a 'hater' and 'nasty spokesman'",
+      "excerpt": "During an interview on Rush Limbaugh's radio show Friday, Donald Trump brought up LeBron James, calling him a \"hater\" and a \"nasty spokesman.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/sports/nba/lakers/2020/10/10/donald-trump-tells-rush-limbaugh-lebron-hater-nasty-spokesman/5955438002/",
+      "originalUrl": "https://www.usatoday.com/story/sports/nba/lakers/2020/10/10/donald-trump-tells-rush-limbaugh-lebron-hater-nasty-spokesman/5955438002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/05/USAT/8a356290-b295-48bd-9d34-e1011df5e5bc-2020-10-04_LeBron3.jpg?auto=webp&crop=2671,1502,x82,y59&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5955438002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5955438002",
+      "publishedDateTime": "2020-10-10T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-we-reject-their-support-trump-campaign-strongly-declines-taliban-endorsement-for-his-2020-reelection.md",
       "title": "'We reject their support': Trump campaign strongly declines Taliban endorsement for his 2020 reelection",
       "excerpt": "\"We reject their support and ... the President will always protect American interests,\" Tim Murtaugh said in a statement to Insider.",
@@ -1146,164 +1304,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-mike-pence-and-the-gop-mount-a-last-stand-in-arizona.md",
-      "title": "Mike Pence and the GOP Mount a Last Stand in Arizona",
-      "excerpt": "Most voters have made up their minds, so the Trump campaign is rallying the conservative ‘old guard.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "originalUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-243001/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "publishedDateTime": "2020-10-09T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race.md",
-      "title": "NYT: Casino connections helped Trump engineer $21M windfall during 2016 race",
-      "excerpt": "President Trump's tax records reveal that the president engineered a windfall of more than $21 million during his 2016 presidential run,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race",
-      "originalUrl": "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_092820getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race?amp",
-      "publishedDateTime": "2020-10-09T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-judge-rejects-trump-campaign-request-for-access-to-philadelphia-voter-offices.md",
-      "title": "Judge rejects Trump campaign request for access to Philadelphia voter offices",
-      "excerpt": "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/30/NBCC/0e511ae2-ec6b-4120-95a7-6ce0441de12d-biden_and_trump.jpg?auto=webp&crop=659,371,x0,y36&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5942236002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002",
-      "publishedDateTime": "2020-10-09T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

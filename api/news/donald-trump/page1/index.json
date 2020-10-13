@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-fauci-trump-ad-taking-him-out-of-context-really-disappointing-should-be-taken-down.md",
+      "title": "Fauci: Trump ad taking him out of context 'really disappointing', should be taken down",
+      "excerpt": "Asked by \"The Lead\" anchor Jake Tapper whether he believes the ad should be taken down, Fauci said, \"I think so.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/5f4edcd4-b446-4136-8cf7-987c080931fd-GTY_1228670944.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5972629002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002",
+      "publishedDateTime": "2020-10-12T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-columbus-day-trump-accuses-radical-activists-of-trying-to-undermine-explorers-legacy-in-holiday-proclamation.md",
       "title": "Columbus Day: Trump accuses 'radical activists' of trying to undermine explorer's legacy in holiday proclamation",
       "excerpt": "Trump used a typical White House holiday announcement to accuse \"radical activists\" of seeking to undercut Christopher Columbus' legacy.",
@@ -270,7 +321,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2435,
+      "heat": 2515,
       "tags": null,
       "images": [
         {
@@ -724,62 +775,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-can-trump-squeeze-more-from-his-white-base-in-pennsylvania-and-beyond.md",
-      "title": "Can Trump Squeeze More From His White Base in Pennsylvania and Beyond?",
-      "excerpt": "With President Trump trailing Joseph R. Biden Jr. in Pennsylvania in nearly every poll, his last refuge and perhaps best hope is to maximize the turnout of working-class white voters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/09/us/politics/09pa-trump1/09pa-trump1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html",
-      "publishedDateTime": "2020-10-11T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {

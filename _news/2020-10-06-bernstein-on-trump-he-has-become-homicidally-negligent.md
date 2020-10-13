@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/06/carl-bernstein-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/06/carl-bernstein-trump-behavior-coronavirus-newday-vpx.cnn"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12elections-briefing-bay-city/12elections-briefing-bay-city-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Top general did not give his consent to be used in Trump political ad"
+    excerpt: "The photo featuring Joint Chiefs Chairman Gen. Mark Milley was used without the officer's \"knowledge or consent,\" according to a defense official."
+    publishedDateTime: 2020-10-12T22:52:00Z
+    webUrl: "https://www.politico.com/news/2020/10/12/top-general-trump-ad-consent-429112"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4a/76/3cb3c08b4d08a2912bf81edf4f25/20200108-mark-milley-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Who Came in Contact With Donald Trump When He Was Potentially Contagious?"
     excerpt: "President Donald Trump announced early Friday morning that he and first lady Melania Trump had tested positive for COVID-19. The White House has indicated that the Trumps were likely infected by senior aide Hope Hicks,"

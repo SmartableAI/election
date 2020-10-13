@@ -73,36 +73,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
-    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
-    publishedDateTime: 2020-10-12T09:56:00Z
-    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
-    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
-    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."
-    publishedDateTime: 2020-10-10T02:38:00Z
-    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-court-packing-certain-biden-harris"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 105
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18014665-571f-4e7f-adfc-f5a4a9f7b9be/edb37719-8de4-40d1-be5c-d7568711c7b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Andrew McCarthy: No, Joe Biden, it is not packing the Court for the president and Senate to fill vacancies"
     excerpt: "It is not PACKING the Court for the elected president and Senate to fill vacancies that arise under existing law"
     publishedDateTime: 2020-10-12T13:15:00Z
@@ -128,17 +98,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
-  - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
-    excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
-    publishedDateTime: 2020-10-07T13:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 61
 
 secured: "PuOMA0amvRhfyUROumL7Sa9EnDuWw+gGiIcw1gHN9GALskAz56VrWHCRj3aHaaVjiHIGDjK/aQwkizIFKf+mon25vEFpwOsLIbisJThDrNiM//NG1SsQQdxREheB3PgEkIwPuYKnn85C/YNu/ofXkr+d4GihhIKBL7iPqLRReusjE7WD691faBNcDYTihQ1KclmA8LAwrV21vIiz5v1CO8OfMI3Sj+ZltXXeCRVOf1dWIvkai1tZK0UWg0EwIq6tLrd+vcvXsfFlny6iWH832LJnrmYACt2p0Hh5qi6jhvQnaCd358BiHq2OqlJ0Wja3YHz7UidklwUMyUMHaKdzLJjDRShyztnGAwlNgqLRlM0=;1xSvPmquKo25Yaupqg/NCQ=="
 ---

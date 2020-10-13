@@ -2,61 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-09-14-trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.md",
-      "title": "Trump campaign returns to economy with 8-figure ad buy, calls it ‘defining issue in this race’",
-      "excerpt": "The Trump campaign is set to release a mid-eight-figure ad buy Tuesday touting the economy during President Trump's first term after a recent emphasis on \"law and order\" messaging, saying the economy is the \"defining issue\" of the 2020 presidential race, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCqJbFaBac8/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCqJbFaBac8/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-returns-to-economy-with-8-figure-ad-buy-calls-it-defining-issue-in-this-race.amp",
-      "publishedDateTime": "2020-09-14T12:27:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-joe-biden-says-us-is-facing-one-of-the-most-difficult-moments-in-our-history.md",
       "title": "Joe Biden says US is facing 'one of the most difficult moments in our history' ",
       "excerpt": "Democratic presidential nominee Joe Biden said Monday that the United States is facing one of the most difficult moments in the nation's history, with \"four historic crises all at the same time.\" \n    \n",
@@ -1296,6 +1241,61 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/12/politics/north-carolina-2020-election/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/12/politics/north-carolina-2020-election/index.html",
       "publishedDateTime": "2020-09-12T07:10:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-blitzer-to-fauci-who-should-we-trust-you-or-president-trump.md",
+      "title": "Blitzer to Fauci: Who should we trust, you or President Trump?",
+      "excerpt": "President Trump claims the US is turning the corner in the Covid-19 pandemic. Dr. Anthony Fauci disagrees and implores everyone to look at the data.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4wemZNcxP0/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r4wemZNcxP0/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911173201-wolf-blitzer-anthony-fauci-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/09/11/anthony-fauci-trump-covid-19-turn-corner-tsr-vpx.cnn",
+      "publishedDateTime": "2020-09-11T14:42:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

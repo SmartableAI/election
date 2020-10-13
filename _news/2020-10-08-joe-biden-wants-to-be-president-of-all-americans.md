@@ -62,22 +62,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Mark Levin asks if Joe Biden is 'still a White supremacist?'"
-    excerpt: "This election is not just about President Trump and Joe Biden, Republicans, Democrats, conservatives, liberals. Nope, it's deeper than that. This is a tipping point. This is about preserving, protecting our liberty,"
-    publishedDateTime: 2020-10-10T21:07:00Z
-    webUrl: "https://www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist"
-    ampWebUrl: "https://www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfabcf7a-727f-4aef-8c23-877b26f8f323/89e3af1b-7506-40cc-b496-3b7c255b1a27/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kyle Rittenhouse's Lawyers Demands Biden Campaign Retract Their Claim He Is a White Supremacist"
     excerpt: "Lawyers for Kyle Rittenhouse, one of the alleged shooters in Kenosha, Wisconsin, are demanding Joe Biden's Democratic presidential campaign retract their claim that the 17-year-old is a white supremac"
     publishedDateTime: 2020-09-30T18:30:00Z

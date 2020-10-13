@@ -29,35 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion"
-    excerpt: "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. "
-    publishedDateTime: 2020-10-08T02:50:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+  - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
+    excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."
+    publishedDateTime: 2020-10-12T23:21:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "McEnany rips Biden’s dodge on court packing as ‘elitist’"
+    excerpt: "Voters deserve to know 2020 Democratic presidential nominee Joe Biden's position on packing the Supreme Court, said White House Press Secretary Kayleigh McEnany on Monday."
+    publishedDateTime: 2020-10-12T15:12:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p-7X_w8fSTc/mcenany-biden-dodge-court-packing-elitist"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/jbiden-NEWSLETTER-xx.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Harris has been open to packing Supreme Court, NY Times reporter says"
-    excerpt: "New York Times reporter Alex Burns revealed the highly anticipated opinion of the Biden-Harris ticket on packing the Supreme Court. "
-    publishedDateTime: 2020-10-09T17:19:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbyP_z5lbDg/harris-open-packing-supreme-court-ny-times-reporter"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/17eb6749-AP20282098478486.jpg"
-        width: 1024
-        height: 695
         isCached: true
   - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
     excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee Amy Coney Barrett. "
@@ -73,49 +73,51 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Harris rips Barrett confirmation process as 'illegitimate,' claims nominee will 'undo' Ginsburg's legacy "
-    excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, slammed the panel for carrying out what she called an “illegitimate” process to confirm Judge Amy Coney Barrett to the Supreme Court before Election Day, while warning President Trump’s nominee for the high"
-    publishedDateTime: 2020-10-12T17:39:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZA9VNP6jusQ/harris-rips-barrett-confirmation-process-as-illegitimate-claims-nominee-will-undo-ginsburgs-legacy"
+  - title: "Mark Levin asks if Joe Biden is 'still a White supremacist?'"
+    excerpt: "This election is not just about President Trump and Joe Biden, Republicans, Democrats, conservatives, liberals. Nope, it's deeper than that. This is a tipping point. This is about preserving, protecting our liberty,"
+    publishedDateTime: 2020-10-10T21:07:00Z
+    webUrl: "https://www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist"
+    ampWebUrl: "https://www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 148
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5b1135c-af2a-4186-b6c8-db47b4ebffe4/130aa47a-e67a-48cf-a64e-ef6d16d07d7f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfabcf7a-727f-4aef-8c23-877b26f8f323/89e3af1b-7506-40cc-b496-3b7c255b1a27/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris’s American Example"
-    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
-    publishedDateTime: 2020-10-06T23:38:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
+  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
+    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
+    publishedDateTime: 2020-10-12T09:56:00Z
+    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
+    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
     images:
-      - url: "https://images.wsj.net/im-240957/social"
-        width: 1280
-        height: 640
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
-    excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
-    publishedDateTime: 2020-10-12T18:45:00Z
-    webUrl: "https://www.wsj.com/livecoverage/barrett-supreme-court-confirmation-hearing-senate/card/QzBbePoaL0i6R7TmzhyA"
+  - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
+    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."
+    publishedDateTime: 2020-10-10T02:38:00Z
+    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-court-packing-certain-biden-harris"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 112
+      name: Fox News
+      domain: foxnews.com
+    quality: 105
     images:
-      - url: "https://images.wsj.net/im-243696?size=1.5"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18014665-571f-4e7f-adfc-f5a4a9f7b9be/edb37719-8de4-40d1-be5c-d7568711c7b7/1280x720/match/image.jpg"
         width: 1280
-        height: 853
+        height: 720
         isCached: true
   - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
     excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."
@@ -131,50 +133,33 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
-    excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
-    publishedDateTime: 2020-10-11T22:42:00Z
-    webUrl: "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 97
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
-    excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"
-    publishedDateTime: 2020-10-07T18:15:00Z
-    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/07/flashback-heres-how-kamala-harris-has-proven-time-and-again-she-is-a-radical-leftist-n2577628"
-    ampWebUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/07/flashback-heres-how-kamala-harris-has-proven-time-and-again-she-is-a-radical-leftist-n2577628?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/07/flashback-heres-how-kamala-harris-has-proven-time-and-again-she-is-a-radical-leftist-n2577628?amp=true"
+  - title: "Flashback: When Biden Called Court Packing a 'Bonehead Idea'"
+    excerpt: "Democratic presidential nominee Joe Biden continues to avoid answering whether or not he would pack the Supreme Court as president if Judge Amy Coney Barrett is confirmed. Biden went so"
+    publishedDateTime: 2020-10-12T11:35:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 77
+    quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2009/17/ee814af3-688d-4249-a702-7dca6f004286@news.ap.org.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Republican Attorneys General Spotlight 'Lawless' Record of Kamala Harris"
-    excerpt: "The Republican Attorneys General Association (RAGA) unveiled a blistering ad about their former colleague and current Democratic vice presidential candidate, Sen. Kamala Harris, ahead of Wednesday nig"
-    publishedDateTime: 2020-10-07T20:00:00Z
-    webUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/10/07/republican-attorneys-general-spotlight-lawless-record-of-kamala-harris-n2577660"
+  - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
+    excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
+    publishedDateTime: 2020-10-07T13:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 64
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/274/fe5a3c6a-4bf0-4214-9d71-e32c164b4d12.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
   - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
     publishedDateTime: 2020-10-12T20:16:00Z
@@ -189,6 +174,15 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Democratic Coalition Ad Features Obama, Clinton, Sanders, Dozens Of Others Endorsing Joe Biden"
+    excerpt: "Former President Obama, Michelle Obama, Bernie Sanders, Hillary Clinton, John Kasich, and many others appear in this new ad produced by the Democratic Coalition."
+    publishedDateTime: 2020-10-11T16:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/11/democratic_coalition_ad_features_obama_clinton_sanders_dozens_of_others_endorsing_joe_biden.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 33
 
 secured: "BAbeUcrwro2ZjeNBTya8pusOACAngZlZ8usH08bGeylb4RCrZvJdF5hCwrRCoCQi3GaZ02yg5oEOq8AKaRgTjxS2VPV2Yosgb61d1+ygwSSFlGiGhdDSp+lQ4SMmynW1WsgpRV6lPl6IRuto7A0DmA2Gm5ZhqOp9PPNm7p9duTzrnvdVNUPVe970SIzpqW0F8RRBO8PgUQ95vlajRGz/16ls6aTPdKjk8UHdNYEj2QYwnRM0B468mzsPqkyGDWILzqnDg2XW5iJ7jyZO273Gib4mKOScqmCLASrfNkTjbi5hMZrWBrsdXtyTA5jSbiufzQNf18HrtlL+sYGZidIMd3EjaT7POi/ry1vd2nZzYQA=;EBHTvjyH9fIOyBVdjX72hA=="
 ---
