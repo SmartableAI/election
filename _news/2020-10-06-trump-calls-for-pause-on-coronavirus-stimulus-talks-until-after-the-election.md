@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-calls-for-pause-on-coronaviru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-for-pause-on-coronavirus-stimulus-talks-until-after-the-election.amp"
 type: article
 quality: 187
-heat: 2027
+heat: 2047
 published: true
 
 provider:
@@ -1480,6 +1480,15 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Record Black Voter Turnout Will Fire Trump, Save Lives"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-13T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/13/record_black_voter_turnout_will_fire_trump_save_lives_526190.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "VYdfa9dIRmzYrihc5WKiiCwg6vIC/qvEswPb8g5lNMT2zS+o0wN7YQFJgRIatI9RpFjF7AWwzTYmfiAjMyzc73+MF/THUcA+POZerhqoZe7rpaTW7R/jkkYCVuvNsKrSx4bWwzJGfVDFj931W2/k3Of5wXO9mruQjNTa93jnqweUOAnOE4ou+34/6DMeGJEMVaMha73nMZOJCbvHpgJBj1dmz9SQWfhmc0uLgEL1LDV6xxD7/BkGHbck2Tv0rYTqZuwXq/ViqICykCZ5m7JFnGtyvOVWNPQfLFGsdk83dU/2epFdUK+zaUEVpc+QUZvPZ6z+oAk304vPXz7hg1H5bpRt/SiOje4JawdNcV17pq0=;ufx5+2SQ8xhfvrrziw46PA=="
 ---

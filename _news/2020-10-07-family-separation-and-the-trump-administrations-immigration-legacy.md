@@ -111,20 +111,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump hits the final sprint with an economy facing withdrawal"
-    excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."
-    publishedDateTime: 2020-10-07T19:20:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/trump-economy-withdrawal-427360"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/a4/b3/07014c8046ed9a88a87f549fbaa1/ap20280831002575-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "NNWfdggtmMczY802iHNZwK7nG0fJgZ8LMebEU8gDn3nfca13RuYj7aw2+SnJMl3lZOaqhkXL8uzw/lrcl3hpBIbw8WL3Bo5NwQcIATymvBPHtkvOqMXm4ZVqMXqaELUVKquQddOAQUeFmKp1ErbhwdT2nF8SQ4l2ni0QwJivu5iGP4xmPXdNtdvDJuyjqh4exaOtJ/UbD8GG6Irf+YT5NZTwPgW4ST59pRC0nXHH72UpiE1hPhW6km7xRBzRrO9YTk39QkM38EwL0seQIcHEhRWw0cQKiC+KqtfElxUYQX+oUibU2cW51k8I0h0HCIrx4f73xzrjOg74BRg0RtM3SIao1mVRT3Tka3gzS0vHzfw=;O7yxv2aWvYkXQ709GjRSIQ=="
 ---

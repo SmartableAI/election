@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
 type: article
 quality: 175
-heat: 655
+heat: 635
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009173159-trump-white-house-balcony-1005-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump launches frenzied campaign offensive hoping for a turnaround"
-    excerpt: "The next three weeks will likely amount to the busiest of President Donald Trump's tenure, at least in terms of schedule and travel, pushing the 74-year-old President fresh from his coronavirus hospitalization -- which included supplemental oxygen and a fever -- into a frenzied final campaign offensive.\n"
-    publishedDateTime: 2020-10-12T23:47:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H5fi8inGUMQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

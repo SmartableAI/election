@@ -47,6 +47,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Press: Trump's colossal missed opportunity on COVID-19"
+    excerpt: "The tragedy is that this could have been the turning point. Instead, the virus will rage on as before, with health officials saying one thing, and the president of the United States saying just the opposite."
+    publishedDateTime: 2020-10-13T11:43:00Z
+    webUrl: "https://thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19"
+    ampWebUrl: "https://thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_101020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Why Ross Douthat is right about Trump"
+    excerpt: "For the past four years the New York Times’ Ross Douthat has been consistently advocating the incompetence argument. In the wake of rising fears that Trump intends to launch a s"
+    publishedDateTime: 2020-10-13T11:19:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/13/why-ross-douthat-is-right-about-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/13/why-ross-douthat-is-right-about-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/13/why-ross-douthat-is-right-about-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GJNV5QQJ44I6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Twitter Flags Trump Tweet He’s That Immune To Covid-19 Coronavirus, Not Contagious"
     excerpt: "Presumably, Trump was referring to the Covid-19 coronavirus infection that he’s had over the past week or so and not something like cat scratch fever or Bieber fever. The tweet sounds like positive news for the President."
     publishedDateTime: 2020-10-11T22:13:00Z

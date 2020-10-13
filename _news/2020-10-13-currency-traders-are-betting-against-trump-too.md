@@ -1155,6 +1155,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Donald Trump vs. Joe Biden: Where they stand on COVID, education and more"
+    excerpt: "Amid the tumult of the 2020 presidential campaign, one dynamic has remained constant: The Nov. 3 election offers voters a choice between substantially different policy paths."
+    publishedDateTime: 2020-10-13T11:24:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/donald-trump-vs-joe-biden-where-they-stand-on-covid-education-and-more.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/donald-trump-vs-joe-biden-where-they-stand-on-covid-education-and-more.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/donald-trump-vs-joe-biden-where-they-stand-on-covid-education-and-more.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TLJCNCQZYJG4NO2SDHZSCZWSXM.jpg"
+        width: 5433
+        height: 3793
+        isCached: true
   - title: "Biden Says He’ll Debate Trump on Oct. 15 ‘If the Scientists Say It’s Safe’"
     excerpt: "Joe Biden told assembled members of the press that he still intended on debating President Trump on October 15th if doctors and scientists feel that it is safe."
     publishedDateTime: 2020-10-05T17:03:00Z
@@ -1892,6 +1908,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "RzhMkrlG5cNHDxeDZ8NuvC2phle5lw3/rSgwQABeLJnEI6H0svGDcluuJDd2GEPZYoe1CYMXHixCbgUhFwcVuOLtQDeIGZBNAioAqX8POu7ZWXoHXCxeg9gYwjL99uAgkMNGcdcAxKAoy4Jabqkkpnlfk645MJkYjr5aaHvucLgksuWpkUNLwWPkTdzcNK+Eq1Hf6AHALs+gejbGw7ptIfkrbPP7ogOWAto6VyCQ1ln+0mXAU/IuQBdcHOJ+YWC+IwbImRLlgkPL4EqFBJzFMYo/Nf9KonKjutfAMNqjvEfA8vBThYGAODk7MCO+pykHymjHh4mBxFQIWGE6OESS21Hwgg7Qmg1omAY+Qm2Erhw=;UShSmjGW0S0qoOkYxlMFug=="
+secured: "psiVO3vTBGDhwbBlz2Y9XBGWMRN27ieMqjR1MfybOJmz/hhTEzU0vTY8fYRnWzb0+QHETc6wq/ETuv8qsWFuS27kOzDFuXZiHRSIIsddd53QmOS1Oo7EcJ4thLvlRln23l3h2rGso0PP7BdRamsJfLxWQilber6t5P1V6YUEFz8STGcX5eJoCI3L+5K2O7mAk1fIyPE/uTGkb4zPZuBqZ+3VLyVg+1y6JRJj+AURw1vlzWfhKsb/Cp/qt2Tfes6IW+UY0f3lUVRTcHl3zNTylOsf1ByialbJei5VCypPn68IeE+HcLEOPHi9JimTeR0W/cYlF1mXHV80xvY6tie+PRvHC0SyFiXP+qXMondNWvueim1qDCTl906TcL2KULxTeG1kNhxRGVFvgDNwMhQFnhQFVkF6psqbzV3zIOWrn7crTSB7DMogC6ZCuu1IFRU4rSgT/IEppsglOKOu7nHIvNKmtOzPNzAQFGpVIbSdDGgtFzUtCog3kU6MtAKi4n+LI7TVQ2SPfLHZUmGV3xIzeQ==;tc+ThlN4YBJOb3AGZue8mQ=="
 ---
 

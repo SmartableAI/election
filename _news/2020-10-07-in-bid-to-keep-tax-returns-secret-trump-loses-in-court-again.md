@@ -78,22 +78,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "Trump returns to White House from Walter Reed"
-    excerpt: "President Donald Trump returned to the White House Monday evening after leaving Walter Reed National Military Medical Center, where he had been receiving treatment for Covid-19 since Friday. White House physician Sean Conley said in a briefing with reporters after Trump tweeted that he was leaving the hospital that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released for continued treatment at the White House."
-    publishedDateTime: 2020-10-06T08:32:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/blog/2020-10-05-trump-covid-n1242088"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1242088"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1242088"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417640/201005-doctors-walter-reed-ew-420p_b1ad8bbd55e872fa22c64b305dee773b.jpg"
-        width: 2500
-        height: 1676
-        isCached: true
 
 secured: "BUj/+yfh4sQ3hv3PkX1iWTLXsVNWUhpo83Xrn+3TQaQM3FMrCMBOQugXXBlrIkLHZcOr8ITqlEKcNlDtjTd/U71GDdZGrQi/VchW1fpN9eLBzjydZ+opI5okuqM8PkNcvFiUu9NaXEqmkZR4eq8Lq7dmHLJRlF4n78gsBSr604VMfAK58kk0+wczZZ9DXxG9boCV4PMHyoivfysvYZCyben++IIlqLV9G5Zb0sbO6sRWx1G+i+IvKbBnSD8mHiPycVslRV34dAzKwNLKcMwvDrsZFSy6Gx5uB3mgg4U0tWSrSsc2qtIwcT6jOxJ6hgjR9wWbhtmoAh8jQYjzriPD+yznZ2Y/NTG8np7OK1wyPD1SNS/aZri7bpBUYKCcDggH0/r8IbmHPlvrBTWkZE3kO87eP0WN3itLqFcDV0MCal0MM2dIzmvlxhl3tuqQr+ooKdqduYWqj1wx85d6XxGqXse93ZSmOa8l3PlqhJRjBvQrIdlBfH5fIhwT0vp1unU8+N99qWdwWAiuiqHbWDsNsA==;Tf+fef7IRs1CrcBSPFveYA=="
 ---

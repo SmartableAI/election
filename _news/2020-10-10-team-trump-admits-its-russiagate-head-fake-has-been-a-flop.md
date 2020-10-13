@@ -24,22 +24,6 @@ topics:
   - Democratic Voice
 
 related:
-  - title: "How Team Trump used Fox News as a laundromat for unverified Russian information about top Democrats "
-    excerpt: "While most of the nation was largely fixated over the past week on President Donald Trump's coronavirus diagnosis, the President and his allies in right-wing media have been engrossed with something else entirely.\n    \n"
-    publishedDateTime: 2020-10-12T03:32:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lpdEn5szAN4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/fox-news-ratcliffe-russia-intelligence/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/fox-news-ratcliffe-russia-intelligence/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Russians ‘Have Committed’ to Not Interfering in Elections, Trump Aide Insists"
     excerpt: "Robert C. O’Brien, the national security adviser, said he warned his Russian counterpart there would be “no tolerance” for interference, but didn’t mention evidence of Moscow’s influence operations."
     publishedDateTime: 2020-10-04T23:16:00Z
@@ -55,6 +39,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/04/us/04dc-russia-foto/04dc-russia-foto-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "McMaster sees Trump 'aiding and abetting' Russia's election efforts"
+    excerpt: "Former White House National Security Adviser H.R. McMaster has been careful not to criticize Donald Trump. That's just now starting to change."
+    publishedDateTime: 2020-10-01T17:09:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcmaster-sees-trump-aiding-abetting-russia-s-election-efforts-ncna1241719"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2017_08/1909856/170221-hr-mcmaster-ok-1740_8a4068104f198e67d87aee45b8e4ac69.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "XEh5tdZW18prIAOZNc0FQJNYpsPxafqQnmjUx3l56B6qgh9DyoReYIWjc3fSbYnvtBK+YTVjlV3ueYxqgktP54ypcuaVX17ZJQ1eUvtijjnIhoZNWkmKZ+3E9+waIUfM1b6sM59+3ikbu5B7OGrzDkVFMmTIs8EF/Xc6UAQ+4kErcIdUp7Pykz7HUmT5jDyFUMpWB2DTtzVol9KupwQTxE8af7eqgkaIhPMuNwo7XkQFlksDQ1y8oWCMuOr2vBNqZjXuTBUsOy+Fs2DlpI0eFXeptn9dw6KykTWPvxD/KsL6FF7gr4Xgm+Qihea2yA22sj4/+A0hc+nJL8Pr9fjgS4ACFUQN/eot1LplyVQbB+Chccb9mzj2at0j/wlZX6PxnTuhkP12Tmv2NnzTtMZmjZwoWM51DOloo464zQmptpOhBIQf9dg8+I+EU2ZTfo5gPKTfbDNFvuhOEbs5xB2/P3AA4zjaXCElCZZJTeCN8ENlWK5+LdWHObxti/aNMJTR3DLiE2Mz9o/5X7JbT3yVww==;8FDM9pIkjxe7DhjVL3WvYw=="

@@ -2097,14 +2097,14 @@ related:
   - title: "Joe Biden leads Pres. Trump in key states"
     excerpt: "Watch \"Joe Biden leads Pres. Trump in key states\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-13T00:43:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201013081723-joe-biden-leads-pres-trump-in-key-states/"
+    webUrl: "https://www.cbsnews.com/live/video/20201013101723-joe-biden-leads-pres-trump-in-key-states/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 120
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/13/story_07228204_1602577264.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/13/story_07228293_1602584464.jpg"
         width: 1280
         height: 720
         isCached: true

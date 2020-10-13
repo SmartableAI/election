@@ -30,36 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "Secretly recorded tapes show Melania Trump's frustration at criticism for family separation policy and her bashing of Christmas decorations"
-    excerpt: "First Lady Melania Trump was secretly recorded in the summer of 2018 expressing her frustration at being criticized for her husband's policy of separating families who illegally crossed the southern border while at the same time needing to perform traditional first lady duties, such as preparing for"
-    publishedDateTime: 2020-10-02T03:09:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPz8Dz5NMls/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
+  - title: "Russians ‘Have Committed’ to Not Interfering in Elections, Trump Aide Insists"
+    excerpt: "Robert C. O’Brien, the national security adviser, said he warned his Russian counterpart there would be “no tolerance” for interference, but didn’t mention evidence of Moscow’s influence operations."
+    publishedDateTime: 2020-10-04T23:16:00Z
+    webUrl: "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 141
+      name: New York Times
+      domain: nytimes.com
+    quality: 147
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/10/04/us/04dc-russia-foto/04dc-russia-foto-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Obama education chief: Trump sounding 'dog whistle' for 'white nationalists' in bashing 1619 Project"
-    excerpt: "President Donald Trump’s demands for \"patriotic education\" are a “dog whistle” for “white nationalists,\" former Obama Education Secretary John B. King Jr. said Thursday. L"
-    publishedDateTime: 2020-09-24T19:10:00Z
-    webUrl: "https://www.politico.com/news/2020/09/24/trump-dog-whistle-1619-421238"
+  - title: "Team Trump Admits Its ‘Russiagate’ Head Fake Has Been a Flop"
+    excerpt: "Loyalists like Director of National Intelligence John Ratcliffe are trying to craft a counter-narrative. But the country isn’t in the mood for the tale."
+    publishedDateTime: 2020-10-10T04:43:00Z
+    webUrl: "https://www.thedailybeast.com/team-trump-admits-its-russiagate-head-fake-has-been-a-flop"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 100
-    images:
-      - url: "https://static.politico.com/0c/7f/98e591a34c1f8eb305597cb609cf/education-secretary-king-gty-1160.jpg"
-        width: 1160
-        height: 629
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "N72xjTARw5in0ZCbREIkotIbYVxOVnWcjgNhTqJiFSuzW3+Vow96+6QbTjzLJWRiHTuFLcqRh08aL6cSZ/rFQFOMWYCMSYYhESUbpp9zpqXGNK7r3eT3j9kgeEPHSeXZQG4hLuRX/I41pfpdqOOfh7b1sTCJspcXxM+PvCb/grnClSkyE9h9rFPvKz5VvfdDgSjRKGngM/uclSlx+9Na8T+pD3b+hQLnQti/39wN7lnmpq1o0M/JK8NB457TqHIVCB1eUfFP4wLu8ZMeP/Uphwj9961RwqbkKd6uF+jyOwCVourUhlsveJw6JwvW4WumjF7W7j5hAbUYYLHokyTUW34SgM91VGBgoHIWf7RVAQHcxiS0I0NdmBWPT1lFPYQ80qcHeui2u9WDYIrmVlH+REHAe6fyrNoHBf3lRLlGVLGEkq2pI+VStTB5VmzLmd+LxylstP2XrwIupatzMz5bB7UuzuCKhMSRUUvRWRVfPjyFCFZe60t+bgyS0iBfDsY3eS9Mp+pUhWhpL/AYz4uL7w==;Di7FHcTM6WRSyudjDh3HZQ=="
 ---

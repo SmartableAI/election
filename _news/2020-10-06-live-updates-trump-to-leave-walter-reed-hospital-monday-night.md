@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Pay attention to these headlines rather than Trump's anti-reality"
-    excerpt: "Pumped full of unapproved drugs not available to average Americans plus a steroid, President Donald Trump mounted the steps of the White House on Monday night, told Americans not to be afraid of Covid-19 and promised them they'd beat it.\n    \n"
-    publishedDateTime: 2020-10-07T00:30:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAGKyxQfVRo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Former Trump campaign manager Brad Parscale steps down from role as senior adviser"
     excerpt: "Brad Parscale stepped down from his role as a senior adviser to President Donald Trump's campaign on Wednesday, two sources close to the campaign confirmed to CNN.\n    \n"
     publishedDateTime: 2020-10-01T01:43:21Z
@@ -239,22 +223,6 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417453/201005-trump-health-mc-1204_06e8020cbda3d2e9487750ac644a07f1.JPG"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "As Trump Recovers, He Retreats to a Conservative Media Safe Space"
-    excerpt: "The president is opting for settings where there is virtually no risk he will encounter an uncomfortable question, but in doing so he is missing a chance to talk to a broader range of voters."
-    publishedDateTime: 2020-10-10T15:38:00Z
-    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/10trump-media/10trump-media-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Trump asked Walter Reed doctors to sign non-disclosure agreements in 2019"
     excerpt: "At least two Walter Reed doctors who refused to sign non-disclosure agreements last year were not permitted to be involved in Trump’s care."

@@ -128,6 +128,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "'I'm not a fan of court packing': Biden responds after Trump, GOP attacks"
+    excerpt: "After coming under fire from President Donald Trump and Republicans about whether he backed expanding the Supreme Court to more than nine justices, Joe Biden said Monday that he's \"not a fan of court packing."
+    publishedDateTime: 2020-10-13T11:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/i-m-not-fan-court-packing-biden-responds-after-trump-n1243077"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243077"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243077"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_42/3419620/201013-joe-biden-mc-1131_120b0136ec99b7cfd936768f8c02c520.JPG"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Taylor Swift endorses Joe Biden for President"
     excerpt: "Taylor Swift made Joe Biden \"The Man\" she's voting for this November. Swift endorsed the democratic nominee on Twitter on Wednesday. \"So apt that it’s come out on the night of the VP debate,\" Swift said to her more than 87 million followers."
     publishedDateTime: 2020-10-07T22:47:00Z

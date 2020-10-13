@@ -201,6 +201,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump made it hard for me to protect America. How could I vote for him again? How could anyone?"
+    excerpt: "My job was to keep Americans safe and Trump was my biggest obstacle. He ignored white nationalist violence, ignored COVID-19, and nearly started a war."
+    publishedDateTime: 2020-10-13T09:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/13/trump-threatens-american-safety-former-dhs-secretary-column/5960384002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5960384002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960384002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/USAT/49a62616-af33-4d3a-a552-37d15de3305e-Neumann.jpg?auto=webp&crop=479,269,x1,y160&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Why the Russians may know more about Trump's health and COVID diagnosis than the American public"
     excerpt: "Russia and other US foes have almost certainly deployed every tool in their spy kits to determine how sick the president is, according to experts."
     publishedDateTime: 2020-10-07T12:32:00Z
@@ -278,6 +294,22 @@ related:
     quality: 107
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/22/USAT/5671b7ea-1959-4d66-be64-15e1486f1431-AP19333815580740.jpg?auto=webp&crop=2105,1185,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Trump Repeats Claim He Is ‘Immune’ To Covid As He Proposes Kissing Audience Members At Packed Florida Airport Rally"
+    excerpt: "Trump appeared at his first in-person campaign event away from the White House on Monday since being diagnosed with coronavirus, apparently unfazed by his bout of illness."
+    publishedDateTime: 2020-10-13T09:24:00Z
+    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/10/13/trump-repeats-claim-he-is-immune-to-covid-as-he-proposes-kissing-audience-members-at-packed-florida-airport-rally/"
+    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/10/13/trump-repeats-claim-he-is-immune-to-covid-as-he-proposes-kissing-audience-members-at-packed-florida-airport-rally/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/10/13/trump-repeats-claim-he-is-immune-to-covid-as-he-proposes-kissing-audience-members-at-packed-florida-airport-rally/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 103
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f856ecc602ccad0d5e6af39%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D183%26cropY2%3D1872"
         width: 1200
         height: 676
         isCached: true

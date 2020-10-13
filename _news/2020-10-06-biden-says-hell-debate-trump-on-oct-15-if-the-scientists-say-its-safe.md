@@ -1167,6 +1167,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Donald Trump vs. Joe Biden: Where they stand on COVID, education and more"
+    excerpt: "Amid the tumult of the 2020 presidential campaign, one dynamic has remained constant: The Nov. 3 election offers voters a choice between substantially different policy paths."
+    publishedDateTime: 2020-10-13T11:24:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/donald-trump-vs-joe-biden-where-they-stand-on-covid-education-and-more.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/donald-trump-vs-joe-biden-where-they-stand-on-covid-education-and-more.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/donald-trump-vs-joe-biden-where-they-stand-on-covid-education-and-more.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TLJCNCQZYJG4NO2SDHZSCZWSXM.jpg"
+        width: 5433
+        height: 3793
+        isCached: true
   - title: "Democrats’ poll shows a toss-up between Joe Biden and Donald Trump in Texas"
     excerpt: "Former Vice President Joe Biden is leading President Donald Trump in a new poll by Public Policy Polling, a Democratic polling firm. The poll,"
     publishedDateTime: 2020-10-09T02:48:00Z

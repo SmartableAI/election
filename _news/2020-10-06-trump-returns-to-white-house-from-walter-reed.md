@@ -32,67 +32,145 @@ images:
     isCached: true
 
 related:
-  - title: "Trump signs spending bill to keep government open until December 11"
-    excerpt: "President Donald Trump early Thursday morning signed a spending bill to keep the government open until December 11, according to a tweet from White House spokesman Judd Deere.\n    \n"
-    publishedDateTime: 2020-10-01T04:53:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RGjy995Eutc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-signs-government-spending-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-signs-government-spending-bill/index.html"
+  - title: "Trump mocks virus as he launches potential superspreader sprint to win reelection"
+    excerpt: "Donald Trump on Monday launched a three-week quest to save his presidency, behaving as though the pandemic that has killed 215,000 Americans was already a memory in front of a packed-in crowd -- even amid chilling new warnings about the resurgent virus.\n    \n"
+    publishedDateTime: 2020-10-13T10:57:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KtPeQduE-Q0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191650-03-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Pay attention to these headlines rather than Trump's anti-reality"
+    excerpt: "Pumped full of unapproved drugs not available to average Americans plus a steroid, President Donald Trump mounted the steps of the White House on Monday night, told Americans not to be afraid of Covid-19 and promised them they'd beat it.\n    \n"
+    publishedDateTime: 2020-10-07T00:30:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAGKyxQfVRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930173745-02-donald-trump-0928-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Ross asked if ending census earlier would produce numbers in Trump's current term"
-    excerpt: "Commerce Secretary Wilbur Ross' surprise decision Monday evening to end 2020 census counting on October 5 risks an incomplete tally of as many as 10 states, including Florida and Georgia, according to Census Bureau officials.\n    \n"
-    publishedDateTime: 2020-09-30T05:33:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Yx-DcsbT2Gw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/29/politics/census-incomplete-count/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/census-incomplete-count/index.html"
+  - title: "Trump launches frenzied campaign offensive hoping for a turnaround"
+    excerpt: "The next three weeks will likely amount to the busiest of President Donald Trump's tenure, at least in terms of schedule and travel, pushing the 74-year-old President fresh from his coronavirus hospitalization -- which included supplemental oxygen and a fever -- into a frenzied final campaign offensive.\n"
+    publishedDateTime: 2020-10-12T23:47:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H5fi8inGUMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200918152213-01-census-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump spends first night at Walter Reed for Covid-19 treatment"
-    excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"
-    publishedDateTime: 2020-10-03T17:15:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/blog/2020-10-02-trump-covid-n1241780"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1241780"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1241780"
+  - title: "Analysis: Trump chooses denial and recklessness as he's set to resume campaign rallies"
+    excerpt: "As President Donald Trump stood on a White House balcony Saturday — spewing mistruths about his opponent's plan for policing and claiming the coronavirus is \"disappearing\" while hundreds of people watched from below — it was clear that his illness has taught him very little and he will continue to endanger"
+    publishedDateTime: 2020-10-11T21:11:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gyqJgOE-oGY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/trump-coronavirus-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/trump-coronavirus-2020-election/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Team Trump used Fox News as a laundromat for unverified Russian information about top Democrats "
+    excerpt: "While most of the nation was largely fixated over the past week on President Donald Trump's coronavirus diagnosis, the President and his allies in right-wing media have been engrossed with something else entirely.\n    \n"
+    publishedDateTime: 2020-10-12T03:32:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lpdEn5szAN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/fox-news-ratcliffe-russia-intelligence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/fox-news-ratcliffe-russia-intelligence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump Funnels Record Subsidies to Farmers Ahead of Election Day"
+    excerpt: "Despite an extraordinary government bailout, America’s agriculture sector remains under severe economic pressure."
+    publishedDateTime: 2020-10-12T20:00:00Z
+    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/08/business/08DC-FarmAid-01/08DC-FarmAid-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "As Trump Recovers, He Retreats to a Conservative Media Safe Space"
+    excerpt: "The president is opting for settings where there is virtually no risk he will encounter an uncomfortable question, but in doing so he is missing a chance to talk to a broader range of voters."
+    publishedDateTime: 2020-10-10T15:38:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416998/201002-trump-coronavirus-live-blog-v1-cs_904f7b984ef5c0d42181c87feca0c72f.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/10trump-media/10trump-media-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
-  - title: "In bid to keep tax returns secret, Trump loses in court (again)"
-    excerpt: "When it comes to Trump's efforts to keep his financial records hidden, it's hard not to notice the pattern: his lawyers keep fighting, and they keep losing"
-    publishedDateTime: 2020-10-07T15:32:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/bid-keep-tax-returns-secret-trump-loses-court-again-ncna1242415"
+  - title: "White House floats a Trump speech as the outbreak spreads"
+    excerpt: "THE TRUMP ADMINISTRATION is considering having President DONALD TRUMP address the nation. He returned from the White House on Monday night after a weekend at Walter Reed. NYT's Maggie Haberman had this as well ALYSSA FARAH-- the White House comms director -- suggested to White House reporters that we will “hear from” TRUMP “at some point today."
+    publishedDateTime: 2020-10-06T17:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/06/white-house-floats-a-trump-speech-as-the-outbreak-spreads-490536"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Politico
+      domain: politico.com
     quality: 115
     images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_07/3195631/court_of_appeals_gavel_ap_411201684881-maddowblog_b5e36542e9e4f3fa0b7f53f300b11325.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.politico.com/fc/db/81b47a084faaac9796b3dad22075/201006-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump hits the final sprint with an economy facing withdrawal"
+    excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."
+    publishedDateTime: 2020-10-07T19:20:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/trump-economy-withdrawal-427360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a4/b3/07014c8046ed9a88a87f549fbaa1/ap20280831002575-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "pkvnYD+RvcOU+1xT/Bodi7j1nfCRawhpJ1KlIQRczSL8cPArBu2x9K375IEmDSY41L9ynYTT1dK9ws8gz/dLhdqcKLOAsHymezDuaYxJlBTQd4ToPnR+hP9qpCTizg9xqc5WPp77+HHVq2Og6gfHu3fUZmiFCtGDqpy+ghO7YfwzAmYcSforN+Umv38As/wDcv2IIp4OVQr0tKTmDSx1DN8fHiWLemBg77an1wzEIsBS/CyBG6LfuODnT38gz0w9iyUX6n0f9FyXNgsYV2ENmL/4r62yKO7WKrfMyD6lolViShltmJvFWigNrvoyN8AJ/SOAtkgTD4SF7WAD4Fhn06r+Uf6t+YijGJnqOwnvmvw=;AdJZ36vnV7j4SFxA4LH/kQ=="

@@ -1480,6 +1480,15 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Record Black Voter Turnout Will Fire Trump, Save Lives"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-13T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/13/record_black_voter_turnout_will_fire_trump_save_lives_526190.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "VsjBWt356g3Evc5Ox0SvzIbpM+hCj8FNaKpaDqEbt9np8PO96lbd1AcV+Nim3nd9QHZPQOycsyWigjGJWy14hG2JbyFs7OqANzLiE3rqSGbltI8HF7pYVt0FbO6nAvjpU7AComeZcE8el247fpsfcontWvHtvXahWm0/XdJUIhhkWTBUKVmvltZuLCL8CJ4TC/eM7Au8kAUmBuyalT/EecVh9LQwvZcSZ6GhuJBD5uMpsAM5DeGnBpTS8EaPWip5Ah8VwHFhmw1m7gMupdSrc5emNBEHAQAuFU+IAeQiPvSnLQIi1sUPXQIt6SK98N4uXCjHpF0qCVJ9gKM+xeaMgOaW14Wr0MYPfEsJsUR+ajQ=;EszuEKgOlKYiDE4dNi+1GA=="
 ---

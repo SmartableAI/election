@@ -1089,6 +1089,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump claims Biden's 'dementia' is 'rapidly getting worse' after campaign trail gaffes"
+    excerpt: "President Trump took aim at 2020 Democratic nominee Joe Biden's memory in a Tuesday tweet."
+    publishedDateTime: 2020-10-13T11:57:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vC9ZxavtYsg/trump-biden-dementia-getting-worse-campaign-gaffes"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-dementia-getting-worse-campaign-gaffes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-dementia-getting-worse-campaign-gaffes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4da6db8-4d89-4b79-85e1-a441ff74f56d/59585345-b89f-44be-ae5c-2cf4e7395729/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden deflects yet again on court packing questions: 'I'm not going to play Trump's game'"
     excerpt: "Democratic presidential nominee Joe Biden once again avoided giving a straight answer on whether he would support packing the Supreme Court if elected, after making clear during Tuesday’s debate that he would not address the issue."
     publishedDateTime: 2020-10-01T13:05:14Z

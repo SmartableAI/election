@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/inde
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html"
 type: article
 quality: 141
-heat: 181
+heat: 161
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "McMaster sees Trump 'aiding and abetting' Russia's election efforts"
-    excerpt: "Former White House National Security Adviser H.R. McMaster has been careful not to criticize Donald Trump. That's just now starting to change."
-    publishedDateTime: 2020-10-01T17:09:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/mcmaster-sees-trump-aiding-abetting-russia-s-election-efforts-ncna1241719"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2017_08/1909856/170221-hr-mcmaster-ok-1740_8a4068104f198e67d87aee45b8e4ac69.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Obama education chief: Trump sounding 'dog whistle' for 'white nationalists' in bashing 1619 Project"
     excerpt: "President Donald Trump’s demands for \"patriotic education\" are a “dog whistle” for “white nationalists,\" former Obama Education Secretary John B. King Jr. said Thursday. L"
     publishedDateTime: 2020-09-24T19:10:00Z

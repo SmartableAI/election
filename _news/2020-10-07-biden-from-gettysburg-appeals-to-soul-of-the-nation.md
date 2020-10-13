@@ -126,6 +126,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "'I'm not a fan of court packing': Biden responds after Trump, GOP attacks"
+    excerpt: "After coming under fire from President Donald Trump and Republicans about whether he backed expanding the Supreme Court to more than nine justices, Joe Biden said Monday that he's \"not a fan of court packing."
+    publishedDateTime: 2020-10-13T11:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/i-m-not-fan-court-packing-biden-responds-after-trump-n1243077"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243077"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243077"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 149
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_42/3419620/201013-joe-biden-mc-1131_120b0136ec99b7cfd936768f8c02c520.JPG"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Biden begins to pull away in Pennsylvania"
     excerpt: "With 28 days till the election, Pennsylvania is looking further and further out of reach for President Donald Trump. Democratic presidential nominee Joe Biden is ahead by 12 percentage points among registered voters here,"
     publishedDateTime: 2020-10-06T16:00:00Z
