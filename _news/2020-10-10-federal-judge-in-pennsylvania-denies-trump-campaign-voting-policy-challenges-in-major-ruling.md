@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court won't revive Democratic-led lawsuit over payments to Trump"
+    excerpt: "The Supreme Court won't revive a lawsuit by Democratic members of Congress who argued that President Donald Trump has been violating the Foreign Emoluments Clause of the Constitution, which bans foreign payments to a sitting US president.\n    \n"
+    publishedDateTime: 2020-10-13T15:48:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FnK-zYHAmh0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/supreme-court-donald-trump-emoluments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/supreme-court-donald-trump-emoluments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Federal judge rejects Trump's efforts to curtail New Jersey vote-by-mail plans"
     excerpt: "A federal judge in New Jersey on Tuesday rejected an attempt by President Donald Trump's campaign to curtail part of the state's vote-by-mail plan just weeks before Election Day.\n    \n"
     publishedDateTime: 2020-10-06T22:51:24Z

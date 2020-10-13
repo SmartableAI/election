@@ -329,6 +329,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Photos from Trump's Florida rally show supporters close together and not wearing masks even after Trump experienced COVID-19 first hand"
+    excerpt: "The White House doctor said Trump tested negative on \"consecutive\" days and is no longer infectious but did not say which days he tested negative on."
+    publishedDateTime: 2020-10-13T14:30:00Z
+    webUrl: "https://www.businessinsider.com/photos-from-trumps-florida-rally-show-supporters-not-wearing-masks-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/photos-from-trumps-florida-rally-show-supporters-not-wearing-masks-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/photos-from-trumps-florida-rally-show-supporters-not-wearing-masks-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f84ff1c91aa9e001880b2a9?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Will Donald Trump participate in any more debates? – States of America"
     excerpt: "Phillip Bailey and guests discuss the presidential debates and what we learned from the VP debate, including thoughts from the moderator, Susan Page."
     publishedDateTime: 2020-10-09T12:59:00Z

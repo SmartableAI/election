@@ -8,7 +8,7 @@ webUrl: "https://www.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-h
 ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
 type: article
-quality: 90
+quality: 100
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/B3thomasLGbidenmask_c0-84-1600-1017_s1200x700.jpg?bd1cd6efcf645d908a85214d05987d6551a1325e"
@@ -732,6 +733,6 @@ related:
         height: 600
         isCached: true
 
-secured: "RZvtGEB4QF4X+mKflz4EWLxK+5m4aMGjVG45APB9Lhbr1RNy1b84Rruip8JIctMw7XCzznlXcM7iG6fG9cMlqNN+DM69SuYEaW3cuj1eUszGBCvHfOWuGwSk3/ZLzET8ckO+/BlAg4ypN3I2JljIABatWxaq2aYgDkOS6qH4yGvTUxWUjO4DaDi99Q/sZa5i0f9rAnfq8nxfTOrexUGlzP8ildR5fAKISmh4FijIOPsNqRo/OV6aDx+qOEMQHvSJ2bwrIWtQ475QSBurrFXvRfmn1jic3CTEGxoC1DUAH0ODSOitZsRhL8MqnoLZGA6M/hct+5CQ3LZD9lPVhRfDJkmLM7jsds3D70QIepmjLok=;MJrph58tGH6p0jmEFQZl4g=="
+secured: "H9Ek8kut97Zphfz51LyMH+ZTFOFbHloDlw8ComaQNXY8SPzVdWUi9vZMT7TdCR73N5k2G9cPl6JS0zVdL067jtWAfqrY9v9XCEeGa9Euu27B/xlAe+G9YxpQgn3VBpKpp97NmnK8QTacogrAE0ptnmelmKrmB3sm3pNkr+0s1SeMzqoldQc/rDLSURg/1dl7FYHlrfXguAWAX4FL0pPDbID0OQXnO/IFQSXgbCfJajAXdlXbTLMuo7/NXTWwWEHwctnCgAfYSD10ahIMIJcNQt6Dn3NiRlAQ8YKh/uyL0vN54HN6KfSAmm9wcsOrHIMIXBK/LXwMotR4K9+KfZVrUoO7k/G7rfObtZk9DTaoMIsGcyUu5jTf82xrhmRld7AdgKw5dh4aGFm6RkND0Si6s2/Xj8GwhQS13C6V0aZkx5FNeIdyKO24GcyqYe2lGhU7Ndg2RXCIm94Js0D0sV+vHncfW+67Ym/WmbD0KmJ+xzEN6TL6kdTSejV2g1syABhZzbSujsukny3au1Tp2TlavA==;6ltprRHryQTyA04N/hc7Xw=="
 ---
 

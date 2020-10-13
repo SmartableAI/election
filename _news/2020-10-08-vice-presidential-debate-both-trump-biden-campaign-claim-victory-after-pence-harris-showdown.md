@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 3948
+heat: 3968
 published: true
 
 provider:
@@ -2486,6 +2486,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/image-2020-10-12T155041.203.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Intensifies Focus on Harris in Final Weeks"
+    excerpt: "Grasping for a comeback, President Donald Trump and his Republican allies are intensifying their focus not on Democratic nominee Joe Biden, but on his running mate,"
+    publishedDateTime: 2020-10-13T14:43:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/13/trump_intensifies_focus_on_harris_in_final_weeks_144433.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/13/trump_intensifies_focus_on_harris_in_final_weeks_144433.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/13/trump_intensifies_focus_on_harris_in_final_weeks_144433.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 110
+    images:
+      - url: "https://assets.realclear.com/images/52/523939_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Trump Critics Ponder: Should Joe Biden Boycott the Next Two Debates?"
     excerpt: "As the proceedings rapidly deteriorated on Tuesday night, a narrative began to congeal on social media: The event was such a disgrace that Joe Biden, already pursuing a 'prevent defense' electoral strategy,"

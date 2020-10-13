@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928"
 type: article
 quality: 155
-heat: 2695
+heat: 2715
 published: true
 
 provider:
@@ -798,6 +798,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/e878869e9ed518efec0643ff9e45eb7f392e4c18/0_8_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3aef1b480e517db9ef1a3119de0625b4"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden keeps slight edge over Trump in latest Florida poll as he heads to South Florida for campaign stops"
+    excerpt: "As expected, President Donald Trump and Democratic nominee Joe Biden are locked in a close battle in Florida with the latest poll showing a 4-point advantage for Biden."
+    publishedDateTime: 2020-10-13T15:00:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/i9rXDr7OLT42ueeJ85Gg8M3PlS4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6UZHGPTGFTSXJQAQBHPRLG4IOU.jpg"
+        width: 1200
+        height: 838
         isCached: true
   - title: "Donald Trump: What you need to know about the Republican nominee for president"
     excerpt: "Donald Trump, the 45th president of the United States, hasn't stopped campaigning since winning in 2016. He filed for reelection on the day of his inauguration."

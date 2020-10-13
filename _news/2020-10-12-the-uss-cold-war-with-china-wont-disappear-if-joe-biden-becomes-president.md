@@ -799,6 +799,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden keeps slight edge over Trump in latest Florida poll as he heads to South Florida for campaign stops"
+    excerpt: "As expected, President Donald Trump and Democratic nominee Joe Biden are locked in a close battle in Florida with the latest poll showing a 4-point advantage for Biden."
+    publishedDateTime: 2020-10-13T15:00:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/i9rXDr7OLT42ueeJ85Gg8M3PlS4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6UZHGPTGFTSXJQAQBHPRLG4IOU.jpg"
+        width: 1200
+        height: 838
+        isCached: true
   - title: "Donald Trump: What you need to know about the Republican nominee for president"
     excerpt: "Donald Trump, the 45th president of the United States, hasn't stopped campaigning since winning in 2016. He filed for reelection on the day of his inauguration."
     publishedDateTime: 2020-10-08T14:56:00Z

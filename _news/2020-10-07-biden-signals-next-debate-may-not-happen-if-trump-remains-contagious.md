@@ -670,6 +670,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump’s ‘Frack’ Attack on Biden Seems to Be Falling Short"
+    excerpt: "President Trump has made fracking a \"Hail Mary\" attack on Joe Biden in the industrial Midwest, but three weeks before Election Day, it does not seem to be working."
+    publishedDateTime: 2020-10-13T15:03:00Z
+    webUrl: "https://www.nytimes.com/2020/10/13/climate/trump-biden-fracking.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/13/climate/trump-biden-fracking.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/13/climate/trump-biden-fracking.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/13/climate/13CLI-BIDENFRACKING1/13CLI-BIDENFRACKING1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
     excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
     publishedDateTime: 2020-09-23T19:39:00Z

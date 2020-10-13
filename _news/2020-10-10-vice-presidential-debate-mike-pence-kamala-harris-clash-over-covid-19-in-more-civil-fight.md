@@ -328,6 +328,22 @@ related:
         width: 3851
         height: 2316
         isCached: true
+  - title: "Joe Biden and Kamala Harris mask the far left's scary agenda"
+    excerpt: "Halloween, like so much else, will be different this year from previous years, but it also offers an analogy that can be applied to the current presidential campaign."
+    publishedDateTime: 2020-10-13T13:48:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 100
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/B3thomasLGbidenmask_c0-84-1600-1017_s1200x700.jpg?bd1cd6efcf645d908a85214d05987d6551a1325e"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Did Mike Pence accuse Kamala Harris of receiving debate questions in advance? Nope"
     excerpt: "The tweet was made to look like it was sent from @VP, one of the Twitter accounts used by the vice president, and has the same photo as Pence’s actual account."
     publishedDateTime: 2020-10-10T23:31:00Z
@@ -357,22 +373,6 @@ related:
     quality: 92
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Election_2020_Debate_08391.jpg-a495c_c0-328-5386-3469_s1200x700.jpg?21d902c28853cc6a5d5f724c7b428dcc0c259c8f"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Joe Biden and Kamala Harris mask the far left's scary agenda"
-    excerpt: "Halloween, like so much else, will be different this year from previous years, but it also offers an analogy that can be applied to the current presidential campaign."
-    publishedDateTime: 2020-10-13T13:48:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/joe-biden-and-kamala-harris-mask-the-far-lefts-sca/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/B3thomasLGbidenmask_c0-84-1600-1017_s1200x700.jpg?bd1cd6efcf645d908a85214d05987d6551a1325e"
         width: 1200
         height: 700
         isCached: true

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: The real reason Trump skipped 2nd debate"
+    excerpt: "On its face, President Donald Trump's immediate insistence that he would not participate in a virtual second debate made very little political sense. After all, he needs more chances to take on Joe Biden, as the former VP continues to rise in the polls. Upon further examination, though, Trump's decision"
+    publishedDateTime: 2020-10-13T15:17:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TUJM7EyoVR8/why-trump-skipped-virtual-second-debate-cillizza-the-point.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/13/why-trump-skipped-virtual-second-debate-cillizza-the-point.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/13/why-trump-skipped-virtual-second-debate-cillizza-the-point.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013075920-the-point-trump-cancel-debate-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump relishes his role as a divider as he vows to be 'vicious'"
     excerpt: "Taking the stage at a rally in Nevada Saturday night, President Donald Trump didn't hold back.\n    \n"
     publishedDateTime: 2020-09-13T14:49:19Z

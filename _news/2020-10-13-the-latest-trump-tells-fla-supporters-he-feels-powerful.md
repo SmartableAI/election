@@ -135,6 +135,38 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
+    excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."
+    publishedDateTime: 2020-10-13T14:41:00Z
+    webUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f850341c255d800190b97bf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump is lashing out at Fauci — and is ‘clearly in a place of desperation’: CNN political analyst"
+    excerpt: "President Donald Trump on Tuesday lashed out at Dr. Anthony Fauci after America’s top infectious disease expert objected to the Trump campaign taking his past statements out of context and using them in an election ad."
+    publishedDateTime: 2020-10-13T15:03:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
     excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
     publishedDateTime: 2020-10-06T14:54:00Z

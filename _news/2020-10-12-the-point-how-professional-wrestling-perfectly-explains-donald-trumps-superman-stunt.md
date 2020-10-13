@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Donald Trump doesn't want to fire Anthony Fauci. He wants him to quit."
+    excerpt: "For a guy best known in pop culture -- prior to 2016 -- for telling people \"You're fired,\" Donald Trump doesn't actually like to fire people.\n    \n"
+    publishedDateTime: 2020-10-13T14:37:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f_J76nruruM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/donald-trump-anthony-fauci-covid-19/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/donald-trump-anthony-fauci-covid-19/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011151047-02-fauci-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Twitter bans posts wishing for Trump death. The Squad wonders where that policy was for them"
     excerpt: "The four progressive Democratic congresswomen known as \"The Squad\" expressed surprise on Friday night when Twitter posted about its policy against wishing harm or death to someone in light of President Trump's Covid-19 diagnosis.\n    \n"
     publishedDateTime: 2020-10-03T18:21:26Z

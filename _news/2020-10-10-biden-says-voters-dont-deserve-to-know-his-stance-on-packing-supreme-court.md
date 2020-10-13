@@ -182,6 +182,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "On Wall Street Regulation, Joe Biden Keeps Everyone Guessing"
+    excerpt: "The Democratic presidential candidate forged close ties with lenders over his Senate career. A recent shift on issues from student debt to buybacks has both progressives and Wall Street Democrats guessing whose side he is on."
+    publishedDateTime: 2020-10-13T15:09:00Z
+    webUrl: "https://www.wsj.com/articles/wall-street-regulation-biden-trump-election-11602601181"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-243025/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Joe Biden Is Flirting with the Destruction of the Judiciary"
     excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to the constitutional order in modern American history."
     publishedDateTime: 2020-10-09T01:55:00Z

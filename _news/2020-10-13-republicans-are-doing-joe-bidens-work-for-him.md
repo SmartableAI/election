@@ -799,6 +799,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden keeps slight edge over Trump in latest Florida poll as he heads to South Florida for campaign stops"
+    excerpt: "As expected, President Donald Trump and Democratic nominee Joe Biden are locked in a close battle in Florida with the latest poll showing a 4-point advantage for Biden."
+    publishedDateTime: 2020-10-13T15:00:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 123
+    images:
+      - url: "https://www.chicagotribune.com/resizer/i9rXDr7OLT42ueeJ85Gg8M3PlS4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6UZHGPTGFTSXJQAQBHPRLG4IOU.jpg"
+        width: 1200
+        height: 838
+        isCached: true
   - title: "Donald Trump: What you need to know about the Republican nominee for president"
     excerpt: "Donald Trump, the 45th president of the United States, hasn't stopped campaigning since winning in 2016. He filed for reelection on the day of his inauguration."
     publishedDateTime: 2020-10-08T14:56:00Z
@@ -1924,6 +1940,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "B5iiR29S2EiD7jYnfL/SEN/KgpaJgPL34oPJHFyr2pzrwt07209m2JtpKUN9kzvR/vf5albUbsXX8v1hguE1siu+/o9VOKWYftZ2HCLofMtsgAxX1f/zpHhaWyv7VPieTjUEWU+FMM2Agtzf5RTy5EPZElZgpqdPTpTFeLWOMIbKgCgio1K12k9m21MZWCcqfQf2bSYyMdW9XGxij2Yh1s5bPuBYMjP93wtqn7E6kyvNjjc/a4ljtqjQNPUxUKMfhiCZ3LY8mOt2CH7wraMABf2vlsuQXDfuTRol8RE8KNDHWL3qyZ428/8g1XppOxGqPHwKvMOHFdNdk54U2U9nqfQ5RL2W5wJYzdoZSHtNjwg=;G4N0dmD3xDOkep/9z9C7lQ=="
+secured: "HKhvyjnFNp4v5mYIYVvd97OwpdgX7arbZl7JECMfOHFhQYCpkSjRu3KnkxXfxF3PvEUD4g7Jb83uCe9GUsWO7EQZ/OZHJI6keTObqFVRiALU7skJ/YDHulys2FbLOXyoCej6KqNT0B36MCry1rUcc8KuJ61qQlg5bWyoR3XUIsolrqLU/fqrfPs5yKHbndNXlUlV0ccULwClv8Qo/S7oL5j0rhaz/+d7DA7l+edQTtY04FmrHo7oYVxkRpxpIhMFW5Jq9lK206wp4A284SwZmMIWoMafdMiDrWhW3wgHw3s/93Po5RwDM0qRwujn1XFb3k9fyyX/jY/YZ6DDvYTN0k31m3Fo8KlU0P8GIhQLCG6QM57twCe83mXZFdjZH8NnRqizFASnqLdp+zLBG79P+3Y5XsKaYl+fTOPiHgzkywuGbWTiad6/TzqdMAfm9QbMqZuoa//kQ8v/qOM5t8fhQzbSA2FSodeXrOfPGUYzl1Vacapn/OolYsloAW6HBAe71qI4d2kNxZUR35E72ofq+g==;1GIUK5jjxlAXBmdVqj88Dg=="
 ---
 

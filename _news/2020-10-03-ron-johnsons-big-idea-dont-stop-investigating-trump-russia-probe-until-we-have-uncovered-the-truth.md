@@ -71,6 +71,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Election will be seminal moment in whether Trump administration, lawmakers secure coronavirus deal"
+    excerpt: "There is almost no way to get this done before the election – even if there were to be an agreement. Nothing has moved since May. But a seminal moment is coming: the election."
+    publishedDateTime: 2020-10-13T15:50:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r9gRnNla8D8/trump-congress-coronavirus-deal-election-seminal-moment"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-congress-coronavirus-deal-election-seminal-moment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-congress-coronavirus-deal-election-seminal-moment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Herschel Walker 'praying' for Trump after coronavirus diagnosis"
     excerpt: "“Praying for @POTUS, @FLOTUS, America and the World affected by the COVID virus,” Walker wrote on Twitter."
     publishedDateTime: 2020-10-02T20:58:08Z

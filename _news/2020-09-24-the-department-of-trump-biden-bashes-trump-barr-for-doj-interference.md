@@ -686,6 +686,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Trump’s ‘Frack’ Attack on Biden Seems to Be Falling Short"
+    excerpt: "President Trump has made fracking a \"Hail Mary\" attack on Joe Biden in the industrial Midwest, but three weeks before Election Day, it does not seem to be working."
+    publishedDateTime: 2020-10-13T15:03:00Z
+    webUrl: "https://www.nytimes.com/2020/10/13/climate/trump-biden-fracking.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/13/climate/trump-biden-fracking.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/13/climate/trump-biden-fracking.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/13/climate/13CLI-BIDENFRACKING1/13CLI-BIDENFRACKING1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's winning the voter registration battle against Biden in key states"
     excerpt: "It may not be enough to erase the former VP's polling lead but could boost the president if the race tightens."
     publishedDateTime: 2020-10-01T13:35:00Z

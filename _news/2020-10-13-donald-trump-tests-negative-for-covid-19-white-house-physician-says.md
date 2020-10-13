@@ -41,6 +41,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC"
+    excerpt: "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election."
+    publishedDateTime: 2020-10-13T15:26:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 123
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85c2a88dba2d2dc167bd3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3705%26cropY1%3D126%26cropY2%3D2596"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Christian group launching ads charging Trump 'used Christianity for his own purposes'"
+    excerpt: "A bipartisan coalition of Christians is forming a political action committee that aims to weaken President Trump’s standing with evangelical voters."
+    publishedDateTime: 2020-10-13T15:33:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520750-christian-group-launching-ads-charging-trump-used-christianity-for-his-own"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520750-christian-group-launching-ads-charging-trump-used-christianity-for-his-own?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520750-christian-group-launching-ads-charging-trump-used-christianity-for-his-own?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 118
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonaldbible.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "VNNalw6mUOljICZFMokSirwGEI6hqo+RlqXiQonoT+mxRnqJIzJMwQacLUpXrPPkPUeLp4ZsspqmRZe6/8IbDeISPSNF1OAeacyF3qSnjlZqqBLHGHFxAsUiXuqXSf5O1SW8xXG0JrnyXlYBG9EYuO6jjv8YWD1sfwgI/GTX495JOShRr529XuQlL/NyeE5h1pisXxjHVX6z64TEEsgzix1+DHnpaCXeQjxRSgsCDTCTX222CYrJ3gNyp/Cw6vAWC+d+0TbpbyV7tvsG+uUmxJ8f4HM4bWRlf/i2ZYInQMo/gKYhxCx4ab9wgkhGIXRd6EQk1iTL7peVTXRqJ6NO/w9aXVu7MmkYjBa7McOi7mw=;uEn13ehTIloF8ZkMxk9rww=="
 ---

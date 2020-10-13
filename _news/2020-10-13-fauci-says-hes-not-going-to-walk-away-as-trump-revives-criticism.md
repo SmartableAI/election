@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/trump-versus-fauci/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/trump-versus-fauci/index.html"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     height: 619
     isCached: true
 
-secured: "f+o1Ctf0eHUFH+Y+mfNV6YTPfckc6rMBvll3UI9zabfOhBoOrEfitj63KIKnXqsXiDN5yH3aSFtTH9yqcD12EFjAtHJzdxrzR7Ga1uWMDs+EQMceOrmGx4dgnvqOw2039CTG3+LaR/uizl4q5ItTXjls0vh9AoEtGPIRN0/mH67oVrOtS3b53oC2hsqE8aeXi0CutH8q/eVgM1nto760380Epnvyajzi4ATNU6XbVDbt5o1LqbEinCrczHphB9FZ08Uc/O9J8B9oxKE7lqeGDg6tX6QwLE3FlwjvDg1J/aw+YOMi6xN1ZV0pXt2bs1377Ly/R+VlPpOirqR670w1HTcLZnqAVTPP4wxmVPcWK2o=;ZAoZAuTcBcdYd/s/+T8GVA=="
+related:
+  - title: "The political futility of Trump's offensive against Anthony Fauci"
+    excerpt: "As the public sours on his handling on the pandemic, Trump thinks he can win back voters by ridiculing the nation's most trusted voice on the coronavirus?"
+    publishedDateTime: 2020-10-13T14:17:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/political-futility-trump-s-offensive-against-anthony-fauci-ncna1243146"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_29/3397235/200715-fauci-trump-jm-1420_fa42893019e62510d62dfa516954e035.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "du5xwMbWXNwlGuae8I+4N8/TkkWLjPMMyLcFPKbX2qcpk1gGiW/palaXj42thTyA7Z+KqPgiKtDQ6h4/EvGel3kFpYBMDoQSE28AdB0n0qZA3O0obbWRX+eO1b3j7oV8dEbOcj01wnbi4WRPxtsEYITKu/FX4omL0ugifi1oLuf9uMtubIrhmH8s+FQAe5xyp1QpO40yKcy9R9Zz7KkhSlxN33rLBj3OHpQaN9BBGxsm/Hr0AkFPLSn7AXinKwvSiTpcrZubM7J4f4h3JE2NqU6QRQnGfhpZsS3ImyOV52CldOnm+fBNEJ9XwhFAweH8rQVhqddaSBj0gJC0kOUCv3n0GT/APHC53A8WKVaFTl4=;j6vxWYGeTdi2o/rHyRx0IQ=="
 ---
 
