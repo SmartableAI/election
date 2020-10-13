@@ -203,6 +203,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden making increasingly aggressive pitch to moderate voters"
+    excerpt: "The candidate is offering a message of unity meant to appeal to suburbanites, older voters and disaffected Republicans."
+    publishedDateTime: 2020-10-13T08:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-moderates-former-republicans/2020/10/12/85b29d58-0a71-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-moderates-former-republicans/2020/10/12/85b29d58-0a71-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-moderates-former-republicans/2020/10/12/85b29d58-0a71-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WFOAXAM6MI6XMPIC22ZXEVTNU.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "For the good of the country, Biden must answer the court-packing question"
     excerpt: "If a Democrat of national prominence has stepped up to defend the court as an anchor of stability in a deeply divided country, I missed it. “Court packing” is now a major issue in the presidential campaign because neither Democratic presidential nominee Joe Biden nor his running mate,"
     publishedDateTime: 2020-10-11T00:14:00Z
@@ -493,6 +509,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "GTlDzGs5xGn+tw2JtAosONBUyiEp0ulApVzUWj8pr7kO6IRxtodN19Xw6opL9yaoANEULZCpl+zZeghKEisTG0SbfvL0W6Bxizcy6ySYUDzZLBfV2iL3JvYYV+R6vvF3nWTVPuwEy5EKz0Hioe/n6RbtstWnjYRirG0Fu4BNck9xVe+vaeUTh5Dv1TMKndgTfnGBg+ZkWkssRB/gYVzi6lEYB53UHBSo/5N1XFCi35dT/IzHQ2mKHvc6Ejf0VabbWMUEsmY+YiM80nfhqFm+bja+S6aVi2H4oqkBhQczuSOeehsDEnNaKC+ShStXAmnpxmji7bXj76i4Cm9DHcHi03QLPcWsUq1gYLT8WYq+3Sc=;WT03Y6Xg8Y3Qxef/vXWrsQ=="
+secured: "a/Hf6usluECftSgco6kn+Yvudx14mXM1swLpDrW4AnPVE2bv/mxaQQTAgzd7kn9hw2looVFH3fws4xHUd742ReNPyadSyxt+Nf5ziaThi+PrP9QAHPWNspKl/z4lxJt3S7+ckS0E0w9cmG5TP/qlSI2MLE/gjHGDOTnMIQLQ2sgCQqnUUNhJAeU7w1//XnsYj//L3IQUFU9NwmOYw3TIXeUde4g+u7CTXCjovFMBXl/PAyfyeL5EGkVRTsKRiafucjjSBDAEczyxJvZhEAE2GgCPYFsl0zgrw7tpakRguSx84AxuBTfernrGO61PC8fDd12PnyIyD1HyY78EmQPUGbGevHAbk8YSfCwA76TlFdLTFSKsOvgrQwk0OgNINxH+oTsshmVbrSOAJhi8a+f12xtMVD5Y0znXzdtI6yUi4onbGfhG7YqhsRkRTaiakWPwEPrPZaHYz0flw1lXyUjWL5dkpy6U+H3aJoVhRrhdkSMLtTxvLlCW2FL8NYop5hoKqdVcc7D4NauDUbZIEiUbdg==;U9fSre2Lol968tCShs/OAg=="
 ---
 

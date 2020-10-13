@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
+        isCached: true
 
 secured: "5gsX9he+T674l5pTb8pnqSw1rN27Wpj6nSJsWPOyQoq+658qZf1W4xWCQpKAJMs0vP27BpAU7pIj3TTEop55rTlVMlz4aA2oJuhf3Vq24EJqNinPoUMEqXmCZx0XUUI09Y1pvKKSP275oUzy5i0L3ckZfGI3t4hpUD/zeAYEfYayMdHWspatZvKEzCDUPVjEOlOhZTdEgvYg/PKZ6Ci9K25+YbXyqdOqmD5tbJJ9+D+yvlWlRgIKrI6G4eyS7WLj+17sg0ZkPTh6MYsQj0J9ofysgt1uf5a5Vu+XJqoz96tMv6qZmVd9zPGYMRTBj3KPeU0JgAp0s3a1AXx3SO3nYQ8qhairzHhr4b4ObbDAsu6m1oSAasm23Hs5S8adZ0r7KY+ubofvy2T13JZByDZOKoMZj5wFMnGGlYOAtbSGi23Cr7nR/IUuQA/U09B8znAlilUHUbzEwpC++OYYGtaRNNuZv1aM+c2EFPGnHVFvXN8+3BGAzh6IzV1WmUa79r46Ip3oeKuGXEaK0pJpUi12nw==;d3xzPOvQ5BidMvvxJ6Y+Ag=="
 ---

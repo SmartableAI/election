@@ -58,20 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Pelosi, Schumer mum on court packing as Biden refuses to give stance"
-    excerpt: "House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer have been mum on whether they are in favor of packing the Supreme Court should Democrats win the presidency and reclaim the majority in the Senate"
-    publishedDateTime: 2020-10-12T10:53:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P1WsAsw7xAE/pelosi-schumer-court-packing-stance"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/pelosi-schumer-3-AP.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Cuomo reacts to Biden attorney general rumors: 'No interest in going to Washington'"
     excerpt: "New York Gov. Andrew Cuomo said on Monday he has \"no interest\" in serving as Democratic nominee Joe Biden's attorney general."
     publishedDateTime: 2020-10-12T14:24:36Z
@@ -100,20 +86,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden is silent now on court-packing stance, but in 1983 he called it a 'bonehead' idea"
-    excerpt: "Democratic nominee Joe Biden and his running mate Kamala Harris have been mum on the question of court-packing should they win the November election, but in 1983 Biden was much more outspoken on the issue, calling it a “bonehead idea.”"
-    publishedDateTime: 2020-10-12T01:52:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yVRNthjn9E8/biden-court-packing-stance-1983-bonehead-idea"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Andrew McCarthy: No, Joe Biden, it is not packing the Court for the president and Senate to fill vacancies"
     excerpt: "It is not PACKING the Court for the elected president and Senate to fill vacancies that arise under existing law"
     publishedDateTime: 2020-10-12T13:15:00Z
@@ -127,22 +99,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cafa300-8f67-451b-af56-6c395b2fd3f3/05912f30-a861-49d5-9739-bd0b291f9548/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week"
-    excerpt: "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will"
-    publishedDateTime: 2020-10-12T16:30:00Z
-    webUrl: "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900"
-    ampWebUrl: "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 72
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
-        width: 650
-        height: 340
         isCached: true
 
 secured: "/ayJO05AyPQDG4Jvj/mgmCAQPYRaaO4zNOqxLF+P/U7cOrkG7VIZLiYFMlGxYlAMinmw4CW7t0nYD53TeHCDw9uuuwQPEEAq54VQPc22ifmQ0cpenF3v4I98wvJs6i6Uoe+IqRDhl0cAhYMaluDWU9+WcP7tQaJiKPk0H4d9zQKuG58hqDT5114fMOu7wCBiK/5a7U6UARa5Eq59KClZJtTQysZ5h813yHed6f50omYMUGMUQ7k6ideoPRoUYce/ieGUecwdeYwwYJvwn245P1zEhIghR54WshQyHVJ2t/37gn+agyVulJBwK6xYYLC/0g0dvyDiAIlYhKIbXoRfBuCRq6WiujcEybz6h2l1m4rR4t2J6pO1Bpj4SA+I6BnwsCLRo/IInQCFVP8qoPgZ5FjfIjWjcV0WJ8a0AuhwMgOlyjEuk6c4/TUw7m1xTc7stZP9ciLnS4LWS245qkERQ9wFvBrZ5BmTw7wBps6NX+jGGdsY5EeoMBuN2qWcd+0PDnYMywDcRD/HMXidI4WUYg==;+i3JR/hbGfCq1jrm2UGVnw=="

@@ -195,6 +195,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden making increasingly aggressive pitch to moderate voters"
+    excerpt: "The candidate is offering a message of unity meant to appeal to suburbanites, older voters and disaffected Republicans."
+    publishedDateTime: 2020-10-13T08:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-moderates-former-republicans/2020/10/12/85b29d58-0a71-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-moderates-former-republicans/2020/10/12/85b29d58-0a71-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-moderates-former-republicans/2020/10/12/85b29d58-0a71-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WFOAXAM6MI6XMPIC22ZXEVTNU.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "For the good of the country, Biden must answer the court-packing question"
     excerpt: "If a Democrat of national prominence has stepped up to defend the court as an anchor of stability in a deeply divided country, I missed it. “Court packing” is now a major issue in the presidential campaign because neither Democratic presidential nominee Joe Biden nor his running mate,"
     publishedDateTime: 2020-10-11T00:14:00Z

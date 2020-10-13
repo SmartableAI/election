@@ -168,22 +168,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
-    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
-    publishedDateTime: 2020-10-12T09:56:00Z
-    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
-    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
     excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."
     publishedDateTime: 2020-10-11T17:42:00Z
@@ -211,22 +195,6 @@ related:
     quality: 85
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2009/17/ee814af3-688d-4249-a702-7dca6f004286@news.ap.org.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Court-Packing Controversy Reveals How Terrified Biden Is of His Left-Wing Base"
-    excerpt: "Democratic presidential nominee Joe Biden doesn’t want to pack the Supreme Court. He really doesn’t. In fact, he’s said so for the past 40 years. “President [Franklin D.] Roosevelt clearly had"
-    publishedDateTime: 2020-10-13T04:01:00Z
-    webUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920"
-    ampWebUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 81
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
         width: 650
         height: 340
         isCached: true

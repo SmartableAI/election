@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-belt
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576"
 type: article
 quality: 116
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Key takeaways from the New York Times' investigation into Trump's taxes while in office"
+    excerpt: "The Times investigation found Trump's properties were a center of lobbying and during the president's first term, with the president often profiting."
+    publishedDateTime: 2020-10-11T17:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/11/key-takeaways-nyt-look-into-trumps-taxes-while-office/5960622002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5960622002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960622002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
 
 secured: "6hrCdrAkKPwcUM/lwD4JSg5F0u+2WulTFrLjVr2RYBsnfUp3bz6fGZherFtqJs/NFs+cSPqf6lRhW14Tq+w7gWuXkZjqzPytSnjOXcncK1tmdiqJd9+x8gD/ZmRppgPEsraBtQu1x4L+CGPEFQ+ugYDVOLB/+4P9wdzcG2bmIxGC/EoSnV2XDA7TvnM9dhmB6yMVyEChbD6QWPamAdkkHgTycOGDkzPQvrPjVi6/ODC5cTRdzF/HIeYv7KhyARX7FbTALkMMR1nF+BBCqe38mPNCSDjZI0FMYHGQ2M+kffBMes1X/xHI3TKV2I0XRr9mOCqMATneu8ljUtTDm+ku+FRYWkCtGPMrDPD8JSo8XkU=;ENPA4ljuSIc7N+mSYcybUw=="
 ---

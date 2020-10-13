@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Top Democrats accuse VA secretary Wilkie of misusing taxpayer funds to benefit Trump's campaign"
+    excerpt: "Top Democrats on the House and Senate Veterans Affairs committees believe VA Secretary Robert Wilkie \"may have misused taxpayer funds and other government assets in an effort to benefit the reelection of President Donald Trump and certain Republican candidates seeking office in 2020,\" according to a"
+    publishedDateTime: 2020-10-13T19:00:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b_DzrnNkBGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/democrats-wilkie-misusing-taxpayer-funds-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/democrats-wilkie-misusing-taxpayer-funds-trump-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181207132829-robert-wilkie-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judges across the country cast doubt on voter fraud claims pushed by Republicans and Trump campaign"
     excerpt: "Judges across the country are rejecting arguments made by President Donald Trump's campaign and Republican leaders claiming voter fraud.\n    \n"
     publishedDateTime: 2020-10-12T19:03:02Z

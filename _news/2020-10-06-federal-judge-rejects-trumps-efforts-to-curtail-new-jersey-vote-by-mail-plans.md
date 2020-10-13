@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Top Democrats accuse VA secretary Wilkie of misusing taxpayer funds to benefit Trump's campaign"
+    excerpt: "Top Democrats on the House and Senate Veterans Affairs committees believe VA Secretary Robert Wilkie \"may have misused taxpayer funds and other government assets in an effort to benefit the reelection of President Donald Trump and certain Republican candidates seeking office in 2020,\" according to a"
+    publishedDateTime: 2020-10-13T19:00:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b_DzrnNkBGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/democrats-wilkie-misusing-taxpayer-funds-trump-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/democrats-wilkie-misusing-taxpayer-funds-trump-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181207132829-robert-wilkie-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats grill Barrett on health care and abortion as Trump pick refuses to say how she'll rule"
     excerpt: "Democratic and Republican lawmakers will have an opportunity on Tuesday to question President Donald Trump's Supreme Court nominee Amy Coney Barrett during the second day of Senate hearings on her nomination, a highly anticipated moment that will mark the next stage in a contentious confirmation fight.\n"
     publishedDateTime: 2020-10-13T17:23:47Z

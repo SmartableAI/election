@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/517004-watch-live-presid
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/22/PCIN/b74366ce-49e5-477d-87f1-7f64aec7241e-0921_Trump_Little_Miami.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Pence touts Trump's Supreme Court pick at Wisconsin rally"
+    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
+    publishedDateTime: 2020-10-13T19:22:00Z
+    webUrl: "https://www.chron.com/news/article/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 100
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/53/75/20102983/5/rawImage.jpg"
+        width: 1527
+        height: 2048
         isCached: true
   - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
     excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."

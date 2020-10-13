@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-deficits-michigan-wisconsin-e
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
 type: article
 quality: 183
-heat: 223
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Chicago mayor blames Trump for plot against Michigan Gov. Whitmer"
-    excerpt: "Chicago Mayor Lori Lightfoot is the latest public figure to pile on President Trump for a foiled plot to kidnap Michigan Gov. Gretchen Whitmer."
-    publishedDateTime: 2020-10-09T17:48:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp"
+  - title: "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day"
+    excerpt: "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election."
+    publishedDateTime: 2020-10-13T19:01:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 189
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Live updates: 2020 Election: Trump plans return to campaign trail after coronavirus diagnosis"
+    excerpt: "President Trump will be able to return to public engagements this weekend after testing positive for the coronavirus as the presidential race heads into its final weeks. "
+    publishedDateTime: 2020-10-10T08:32:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBt-_ofDFQ/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Arnon Mishkin: Trump reelection in trouble, polling indicates — race is referendum on him"
-    excerpt: "Following his debate performance and hospitalization with COVID-19, President Trump continues to trail former Vice President Joe Biden in national polling in their presidential race."
-    publishedDateTime: 2020-10-10T23:33:00Z
-    webUrl: "https://www.foxnews.com/opinion/polling-trump-election-arnon-mishkin"
+  - title: "Trump campaign rejects Taliban support for 2020 reelection"
+    excerpt: "President Trump’s campaign has firmly rejected the Taliban’s support for his 2020 reelection."
+    publishedDateTime: 2020-10-11T15:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OirX2_6GXgM/trump-campaign-taliban-2020-election-afghanistan"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 121
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81202508-7b03-4a6b-ae69-4308c016af33/d037b5e2-486b-4fdf-9e57-1e6048897a4b/1280x720/match/image.jpg"
-        width: 1079
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ecc20d7-7866-4baf-909b-8dfa96bdb3e4/8336188e-a1b3-4dde-a9c1-36dc5d28ca4f/1280x720/match/image.jpg"
+        width: 1280
         height: 720
+        isCached: true
+  - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
+    excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
+    publishedDateTime: 2020-10-10T15:30:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKivqdpxy9w/ivanka-trump-returns-to-arizona-on-sunday-for-campaign-event"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20274795229924.jpg"
+        width: 2000
+        height: 1264
         isCached: true
 
 secured: "a2gUK64BPZVq3vMyc/i1D9rIwJSQRMQbSq/FmLM97h1L4Dk4enUH9+eYXqxBUbui5Iq7wkXHR65Fv/B01bMEX5bRGemah0vUIXGHMKN+P5qDI8+hOFy1cApTYsy8cl7OZXUg5TA4J1haH49fdImGUsRoFpryqZZgeIzibRyMAfic/VhVzX7P22Jx7R+Ptbk4CSBgWgcpfD2FgQ1j586cjfSw7S6M1xmMnjEbhkN3tj9CHOgd/Z20oVyN70vgZRrF4ckqdZyQbXsWoAHsRmtbqd1NaSwHt7iNP1s5+ZNoj06Kt0y9X3/mzuKIn7MkTTRLZdFoJHbMX6++m+9xXxawN9/JD+gyrCBClHln9dXU1RE=;6vYi/rX0BEAVoq6dEjW90g=="
