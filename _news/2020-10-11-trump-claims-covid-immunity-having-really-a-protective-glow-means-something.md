@@ -344,6 +344,20 @@ related:
         width: 5004
         height: 3334
         isCached: true
+  - title: "Trump boasts of Covid-19 immunity at his first rally since diagnosis"
+    excerpt: "President Donald Trump boasted about his Covid-19 immunity as he held his first rally since his diagnosis. Trump staged a vigorous return to the campaign trail as he walked to the podium in Sanford, Fla."
+    publishedDateTime: 2020-10-13T00:31:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/12/trump-boasts-of-covid-19-immunity-at-his-first-rally-since-diagnosis-1323600"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/28/c1/6bea5f084cdd8b115f699222313a/1020trump.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump's workplace watchdog assailed for lenient penalties on Covid safety violators"
     excerpt: "These tiny fines are OSHA sending a message to meat factories across the country that they don't have to worry anymore. . . they can operate as they please no matter how many workers are sick, injured or killed."
     publishedDateTime: 2020-10-06T19:30:00Z

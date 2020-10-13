@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fact check: Kamala Harris cannot create property tax to pay for reparations"
+    excerpt: "While Sen. Kamala Harris never said she'd tax houses to pay for slavery reparations, she does support reparations to an extent."
+    publishedDateTime: 2020-10-12T21:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/12/fact-check-kamala-harris-cant-create-property-tax-reparations/5917197002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5917197002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917197002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "David Brooks: Kamala Harris knows how to win elections"
     excerpt: "Third, Joe Biden and Kamala Harris decided to run a professional campaign. Instead of trying to please those of us who consume large amounts of media, they have ruthlessly and effectively focused their campaign on the Exhausted Majority — people who are disgusted by and semidetached from politics in working-class homes in the Midwest,"
     publishedDateTime: 2020-10-10T13:47:00Z

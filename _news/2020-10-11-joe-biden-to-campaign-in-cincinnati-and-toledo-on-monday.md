@@ -30,7 +30,7 @@ related:
   - title: "Joe Biden Attends Cincinnati Voter Mobilization Event"
     excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
     publishedDateTime: 2020-10-12T23:47:00Z
-    webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
+    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilization-event"
     type: article
     provider:
       name: C-SPAN

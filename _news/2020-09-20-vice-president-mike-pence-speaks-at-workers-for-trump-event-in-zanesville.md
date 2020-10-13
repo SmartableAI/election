@@ -4010,6 +4010,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "President Trump, Joe Biden court Minnesota's Catholic vote"
+    excerpt: "Bill Moore opened his mailbox last week to find a survey from CatholicVote, a conservative group backing President Donald Trump, which proclaimed, “There is a war on Catholics and faith in God.” His St."
+    publishedDateTime: 2020-10-12T23:18:00Z
+    webUrl: "https://www.startribune.com/president-trump-joe-biden-court-minnesota-s-catholic-vote/572714071/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/ows_d15296a1-4229-4c53-870d-428a065d7c7c.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "WATCH: Trump Campaign Brags About Crowd of Fans Outside Biden Wisconsin Event — But There Were More Biden Backers"
     excerpt: "Trump's campaign posted video bragging about the crowd of supporters outside Joe Biden's Wisconsin event, but local news footage shows there were even more Biden supporters there."
     publishedDateTime: 2020-09-22T23:57:00Z

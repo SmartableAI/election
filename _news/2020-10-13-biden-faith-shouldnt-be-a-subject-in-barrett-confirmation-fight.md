@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
         width: 2500
         height: 1571
+        isCached: true
+  - title: "Kamala Harris Appears With RBG Picture Book to Protest Coney Barrett Confirmation"
+    excerpt: "Kamala Harris spoke during Day 1 of Amy Coney Barrett's confirmation hearing Monday, with a copy of the Ruth Bader Ginsburg picture book \" I Dissent\" prominently beside her."
+    publishedDateTime: 2020-10-12T18:24:00Z
+    webUrl: "https://heavy.com/news/kamala-harris-amy-coney-barrett-confirmation/"
+    ampWebUrl: "https://heavy.com/news/kamala-harris-amy-coney-barrett-confirmation/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/kamala-harris-amy-coney-barrett-confirmation/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 70
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-98.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
   - title: "Pressure on Kamala Harris, Dianne Feinstein at Amy Coney Barrett’s confirmation hearing"
     excerpt: "When Judge Amy Coney Barrett is seated Monday for her Supreme Court confirmation hearing, California Sens. Dianne Feinstein and Kamala Harris will be in focus and facing different pressures in one of the biggest moments of each of their careers."

@@ -723,6 +723,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump heads to Sanford, Florida for first rally since COVID-19 diagnosis; Biden calls trip 'reckless'"
+    excerpt: "Trump's Florida rally, which will be followed this week by events in Pennsylvania and Iowa, takes place amid continuing questions about his health."
+    publishedDateTime: 2020-10-12T23:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/12/trump-holds-sanford-florida-rally-first-since-covid-19-diagnosis/5966416002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5966416002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966416002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/0fb68168-57af-47e5-bbac-508549df02ad-Trump_Sanford_3.jpg?auto=webp&crop=5020,2824,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "We should listen to scientists sounding the alarm on Trump"
     excerpt: "The fact that so many scientists are speaking out now is a testament to the damage that the Trump administration has done to our country and scientific institutions."
     publishedDateTime: 2020-10-12T21:43:00Z

@@ -733,6 +733,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump heads to Sanford, Florida for first rally since COVID-19 diagnosis; Biden calls trip 'reckless'"
+    excerpt: "Trump's Florida rally, which will be followed this week by events in Pennsylvania and Iowa, takes place amid continuing questions about his health."
+    publishedDateTime: 2020-10-12T23:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/12/trump-holds-sanford-florida-rally-first-since-covid-19-diagnosis/5966416002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5966416002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966416002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/0fb68168-57af-47e5-bbac-508549df02ad-Trump_Sanford_3.jpg?auto=webp&crop=5020,2824,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "We should listen to scientists sounding the alarm on Trump"
     excerpt: "The fact that so many scientists are speaking out now is a testament to the damage that the Trump administration has done to our country and scientific institutions."
     publishedDateTime: 2020-10-12T21:43:00Z
@@ -1791,6 +1807,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "w5atDM84C/Dqe+KHanUPqrANXwtcm5CLYFp6FhJ/YiK0AUfWcwn82oWeNUtwBWuSeX2kqMaKQRJYUcsKIwOTLQAbzUO5sGq8KyR//qCo5oOTgNy/XgJapyOePqJ2BgwnqC3xTkVBJGjivI4FOZIL2gMu+NKk0amj8J4kTAPP0OS2K6FVdK8u4zg7P8fbCvlWTD4zX3jQ+Bz8QPRN4dWsOWpRAdFD2LWgauVoiHLfYpBfp7B8Ku4MPqDIjXsZkhIHhN81V5CrcvlYFqwrWW6rqbONjXeZqknBB/y2gZghCJjXR2cI3U6O6fSFwmWSwvAMQugAzakgc1MtW+qfdanIPUpBZC7YqnB/oI4UtDPmiA0=;JVlT8rvz2kkdTKFiBjTQ2A=="
+secured: "GCMa6fr/YifFnGlxOpLGDyXjl1J5Ny9QLy2lVwNlOK0O2zjKRYDK4HaWoK6IyteaX4105dkkRYLy1YW2A584IxTz2p0sKuUBXQI7wKrPpca9o9+WTlDqj8KrN2R4d5gW4lpD/FF/DtGjE1c18eDYi6htCZeXAKQYNigCN3tXtrnDqL+5uCZ4XqmSZGdIQkR0K3xGQyXXReq+gmO9u4n4HN91WhsiTGvhc6yZipLRTF6ElA1uJwS+efG8HXptiOmma+BQvkvRX/UKvGu1rOG45fxFRoIWpxTnJOrriOxwxfcsh2C5hcurXAHv0rDxGhhRTrMLJ/2aG/sfmj6XNO6wOCrIrAewgNR0jkP9SGAhN5TH7VP9up1nqcl9dR8W3+0ag7cuBavBTO0kkQ1aoIULsuDQkCjywZyLv3VmBQUGMZwi+1sEWzQv7HpbI5QnExBD0uAiY90ri7TBLrpDAODy8VU3ePfgfkYf1eWm6dj5MBtqqQKQ6qIQmkl8rezTB9bzcr4AHAwvbX4jFkgdj1fHtg==;2kF5/8DmPuPcXIuQQxYjDA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
 type: article
 quality: 175
-heat: 695
+heat: 715
 published: true
 
 provider:
@@ -332,6 +332,20 @@ related:
       - url: "https://static.politico.com/07/e6/9361edfb41e0bc1f840cef476cd7/ap20213465332561.jpg"
         width: 5004
         height: 3334
+        isCached: true
+  - title: "Trump boasts of Covid-19 immunity at his first rally since diagnosis"
+    excerpt: "President Donald Trump boasted about his Covid-19 immunity as he held his first rally since his diagnosis. Trump staged a vigorous return to the campaign trail as he walked to the podium in Sanford, Fla."
+    publishedDateTime: 2020-10-13T00:31:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/12/trump-boasts-of-covid-19-immunity-at-his-first-rally-since-diagnosis-1323600"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/28/c1/6bea5f084cdd8b115f699222313a/1020trump.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump claims Covid immunity: ‘Having really a protective glow means something’"
     excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"

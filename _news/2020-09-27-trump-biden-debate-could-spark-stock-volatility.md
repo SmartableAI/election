@@ -3999,6 +3999,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "President Trump, Joe Biden court Minnesota's Catholic vote"
+    excerpt: "Bill Moore opened his mailbox last week to find a survey from CatholicVote, a conservative group backing President Donald Trump, which proclaimed, “There is a war on Catholics and faith in God.” His St."
+    publishedDateTime: 2020-10-12T23:18:00Z
+    webUrl: "https://www.startribune.com/president-trump-joe-biden-court-minnesota-s-catholic-vote/572714071/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/ows_d15296a1-4229-4c53-870d-428a065d7c7c.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z

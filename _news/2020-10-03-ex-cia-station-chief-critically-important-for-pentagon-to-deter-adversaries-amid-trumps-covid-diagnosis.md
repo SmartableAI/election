@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/intel-community-military-trump-covi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/intel-community-military-trump-covid-diagnosis.amp"
 type: article
 quality: 157
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump to visit Penn., Iowa next week, stepping up travel schedule post-COVID diagnosis"
-    excerpt: "President Trump added Pennsylvania and Iowa to his campaign schedule next week, stepping up travel plans despite his recent bout with coronavirus. "
-    publishedDateTime: 2020-10-10T18:24:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Opqt4I8wVXo/trump-penn-iowa-travel-schedule-post-covid"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282563282147.jpg"
-        width: 3113
-        height: 2075
-        isCached: true
 
 secured: "gzllPaJZG5WW0+P26Ubs3kB4nycskZZchu0gwsQ7B4FQ/ZIDZkOzoxc1Hr1cY8DV9sDI2lrjwT7NfQnR9idLwIlwzKmavhaiaiW/SO+eZUlAp7mhiGxrOhBdW96qi8UUlGHMQkrobX6LCCxKYeE1HulESwKerCIPUJg7I2TyAMCsAOBHiNlfEJmhpl1/Rh94NZzRgCye2zFFBShCW1jx/bihb/mC6GO/PM4DtbFp/PBxE8LPpiX454Jm4Tx0gXstv6mcF6OXssjqXs13hlN30+1B8Iffldqr3tqF9wE/7vWUwGP1Lm/c1GCboT2K2bxCgBN4uuzmrK8aM/mFG8V+4ETewVEybAWk1JZ97IslzwQ=;S9x7O4wyJ1tAp5om4/+mVw=="
 ---

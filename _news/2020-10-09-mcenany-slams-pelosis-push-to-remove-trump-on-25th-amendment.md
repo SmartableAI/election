@@ -7,7 +7,7 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5bdycyAy0/pelosi
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5bdycyAy0/pelosi-trump-25th-amendment-white-house-congress-kayleigh-mcenany"
 type: article
 quality: 155
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
     quality: 148
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
-    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
-    publishedDateTime: 2020-10-10T21:27:00Z
-    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

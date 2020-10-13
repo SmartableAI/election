@@ -30,33 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Victor Davis Hanson: Trump must make election about class, not race"
-    excerpt: "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose."
-    publishedDateTime: 2020-10-10T21:46:00Z
-    webUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race"
-    ampWebUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
+  - title: "Trump faces deficits in Michigan, Wisconsin with days dwindling until election: polls"
+    excerpt: "With three weeks to go until Election Day, new public opinion polls in two key battleground states President Trump flipped from blue to red four years indicate that Democratic presidential nominee Joe Biden holds sizeable leads over the president."
+    publishedDateTime: 2020-10-13T01:18:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zLcbP8c7mBw/trump-deficits-michigan-wisconsin-election-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 150
+    quality: 183
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab281d45-8c11-4bd0-8b40-7067347c261a/d9a98de5-8731-421a-851e-211aab65eee2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70a16502-b86c-4e51-818f-c6da8c881474/43980fb3-be0d-4bda-a962-e4c9cdd3e0d9/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "WSJ Opinion: The Trump Ticket Needs a Dose of Mike Pence"
-    excerpt: "Main Street: Wednesday night's prime-time face-off between Mike Pence and Kamala Harris could be the most consequential vice-presidential debate ever. Images: A"
-    publishedDateTime: 2020-10-06T00:13:00Z
-    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence/619B0192-B950-4EBE-8189-F533DDF1733A"
+  - title: "Chicago mayor blames Trump for plot against Michigan Gov. Whitmer"
+    excerpt: "Chicago Mayor Lori Lightfoot is the latest public figure to pile on President Trump for a foiled plot to kidnap Michigan Gov. Gretchen Whitmer."
+    publishedDateTime: 2020-10-09T17:48:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 140
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
     images:
-      - url: "http://m.wsj.net/video/20201005/100520opvidmainstreet/100520opvidmainstreet_1280x720.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/appeals-court-rejects-trumps-effort
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena.amp"
 type: article
 quality: 170
-heat: 250
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,65 +31,109 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he doesn't know who Proud Boys are, says 'let law enforcement do their work'"
-    excerpt: "President Trump on Wednesday tried to clear up confusion after telling the right-wing men’s group the Proud Boys to “stand back and stand by,” saying he didn’t know who the group was but they should let law enforcement do their job. "
-    publishedDateTime: 2020-09-30T19:55:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RrIqE4eA5jY/trump-proud-boys-let-law-enforcement-work"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp"
+  - title: "Trump touts his COVID-19 treatment in first rally since diagnosis"
+    excerpt: "President Trump hailed the medical care received in his first rally since testing positive for the coronavirus, vowing to a crowd in Sanford, Florida that he would ensure the whole country enjoyed the type of treatment he received."
+    publishedDateTime: 2020-10-13T01:02:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ed56aWGnxWY/trump-rally-florida-coronavirus-treatment-positive"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20274113905862.jpg"
-        width: 1024
-        height: 685
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31790f6b-ec92-43ef-8975-b267c39de1ad/50309679-a9dd-431d-8943-98675c68aa9e/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
-  - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
-    excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
-    publishedDateTime: 2020-10-10T15:30:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKivqdpxy9w/ivanka-trump-returns-to-arizona-on-sunday-for-campaign-event"
+  - title: "Trump to visit Penn., Iowa next week, stepping up travel schedule post-COVID diagnosis"
+    excerpt: "President Trump added Pennsylvania and Iowa to his campaign schedule next week, stepping up travel plans despite his recent bout with coronavirus. "
+    publishedDateTime: 2020-10-10T18:24:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Opqt4I8wVXo/trump-penn-iowa-travel-schedule-post-covid"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 147
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20274795229924.jpg"
-        width: 2000
-        height: 1264
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282563282147.jpg"
+        width: 3113
+        height: 2075
         isCached: true
-  - title: "Trump: Packing Supreme Court would 'permanently destroy the Court'"
-    excerpt: "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court."
-    publishedDateTime: 2020-10-11T12:33:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing"
+  - title: "Florida Police Chiefs Association makes first-ever presidential endorsement, backs Donald Trump"
+    excerpt: "The organization adds its name to a growing list of law enforcement organizations that have backed President Trump for re-election."
+    publishedDateTime: 2020-10-10T23:58:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pNTRtBxJpvo/florida-police-chiefs-association-endorsement-trump"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 143
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-split-lightned.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump signs short-term spending bill to prevent government shutdown"
-    excerpt: "President Donald Trump signed a spending bill early Thursday to prevent an imminent government shutdown. The Senate voted 84-10 to pass the bipartisan bill, extending federal agency funding to"
-    publishedDateTime: 2020-10-01T06:43:00Z
-    webUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/"
-    ampWebUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
+  - title: "Fauci says his comments in new Trump ad 'were taken out of context' and without his permission"
+    excerpt: "Dr. Anthony Fauci, the nation’s leading infectious disease expert, said comments of his in a recent commercial from President Trump’s campaign were used without his permission and “taken out of context.”"
+    publishedDateTime: 2020-10-11T22:54:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5rPOq6qYwm4/fauci-comments-out-of-context"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ec5c54-5fac-46f6-b307-5b43cd4dc46c/d578bef7-c259-44b3-846c-7d0be3c01dcc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fauci says he was taken ‘out of context’ in Trump COVID-19 campaign ad"
+    excerpt: "Dr. Anthony Fauci says his words were taken “out of context” in a new political ad about the Trump administration’s response to the coronavirus pandemic, according to a report. “In my nearly"
+    publishedDateTime: 2020-10-12T13:17:00Z
+    webUrl: "https://nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/"
+    ampWebUrl: "https://nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/AP20275174301260.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/fauci-ad-49.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
+    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
+    publishedDateTime: 2020-10-10T21:27:00Z
+    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'Disgusting': Joe Biden Tells His Tens of Followers About His Trump 'Death Blow' Fantasy"
+    excerpt: "Joe Biden’s campaign said they would pull negative ads upon news that President Trump had tested positive for coronavirus and was being admitted to Walter Reed Medical Center. I mean,"
+    publishedDateTime: 2020-10-05T20:25:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 91
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "Wgm76rFE8SWD7jWjgGfNmqkqrVbLq2zTG8ItzwFPXBuIbsIVQKa/kXUCpd4CkGjANKpX531/Cx3D9ELZYPxtxFdCh1KtFU9+ZwcelUJK8XaxauN29gvvHD1Czfu9isJRxcoiMVWcuC2CHkeiC5ZOdfFdBcGGRrBzhq3HQI+C4s1yt+jUlXvtDCuIrNCQqWq1MEABe0d1zHNIKxJAX/2PNZkVlR/HRKrlt7tNHxd9rq6MojGLP8YdoC0KxY6X9GiB3zb0bTdz2/7czmMnp8DCe/BMCRzz6dpi10cbC811PL88fl2pUdcVBKOCQ34B1vAK/KwV2E0zljeHZFV5QWiMDjg8akhd0wyLvAKRjfUCNss=;lyorM+0rX4aXza3kJrZ1cA=="

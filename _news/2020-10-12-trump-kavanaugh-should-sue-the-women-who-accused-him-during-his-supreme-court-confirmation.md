@@ -7,8 +7,8 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liWPo5sNZ5o/trump-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liWPo5sNZ5o/trump-says-kavanaugh-should-sue-the-women-who-accused-him-during-his-confirmation-to-the-supreme-court"
 type: article
 quality: 144
-heat: 164
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trump: Packing Supreme Court would 'permanently destroy the Court'"
+    excerpt: "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court."
+    publishedDateTime: 2020-10-11T12:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-split-lightned.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Video shows Seattle-area teacher scold 10-year-old for admiring Trump: mom"
     excerpt: "A Seattle-area middle school teacher scolded his 10-year-old student and briefly kicked him out of his virtual classroom last week after the child said he admires President Trump."
     publishedDateTime: 2020-10-06T06:58:00Z

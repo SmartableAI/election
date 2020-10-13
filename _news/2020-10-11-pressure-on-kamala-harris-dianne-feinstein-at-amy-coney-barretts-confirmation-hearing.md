@@ -91,6 +91,22 @@ related:
         width: 2500
         height: 1571
         isCached: true
+  - title: "Kamala Harris Appears With RBG Picture Book to Protest Coney Barrett Confirmation"
+    excerpt: "Kamala Harris spoke during Day 1 of Amy Coney Barrett's confirmation hearing Monday, with a copy of the Ruth Bader Ginsburg picture book \" I Dissent\" prominently beside her."
+    publishedDateTime: 2020-10-12T18:24:00Z
+    webUrl: "https://heavy.com/news/kamala-harris-amy-coney-barrett-confirmation/"
+    ampWebUrl: "https://heavy.com/news/kamala-harris-amy-coney-barrett-confirmation/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/kamala-harris-amy-coney-barrett-confirmation/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 70
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-98.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Joe Biden: Senators should not consider Amy Coney Barrett's faith in confirmation process"
     excerpt: "Democratic presidential nominee Joseph R. Biden said Monday that Judge Amy Coney Barrett’s Catholic faith should not be a consideration in Judge Barrett’s confirmation hearings for the U.S. Supreme Court."
     publishedDateTime: 2020-10-12T15:30:00Z

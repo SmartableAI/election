@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Attends Cincinnati Voter Mobilization Event"
 excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
 publishedDateTime: 2020-10-12T23:47:00Z
-originalUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
-webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
+originalUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilization-event"
+webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilization-event"
 type: article
 quality: 35
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 676
         isCached: true
 
-secured: "0YDO16AwbYWNdJ22d7AkUVs9KCpwaFd/nMDcquGMSXEvLFbtguAjmPIA4PAAIdyHqDC7wlDygkiWorsFZ2qUJNziB8ikgwFS27VNqhojdaaPo8xO3pE/oAr/mj8qXEyIJs5IDIbtR+ti1P9IkUqh1nkOB2ICXRuaDNaSOoNRVKZ8ZjV/RP8bav9D3rLt7ScOXbV5fTh+ZrFGjdpNIcKZ4qNvT/XfE4rAXjT5/GSn7EMRNKRMF8ytSIoVrDbL1QP7tGH8T05dBBLo4Eh69MNBcizn1HVcy2TP/R2RCZcPWQSz7HRO1n7TEBYdR2IvPbLGfVtTom7kU/BwmrDDGblsEqISnxkQzHKJF6YBsGw6wV2fqM2DaQEdihRSeDGK9vQ2xJRCJMklwhs5qUmNoRi0b1poiW+A0qHxMZAfWfdBn4nRScopmixfeRto1Ggf2aT1b7NqzXYBUy7Q76G1Hkrv28vZULF9tn3wwI4efnZBeLI5QYgX/eWiph3zARIedDTsP8BCQiE3Ses1gv9gI/72mA==;z5WdktxzRF7ztfwS0NQqgA=="
+secured: "Pb7uMsbl5KQswHTPpwJRDbdulhejs7ozqrnOJ8P+07fWamX4c1A6Ts8WOb58jSvot8WHrjlnGtUgLtdIYl8uLn6FmwdMVNy23YzkLJ4Su9MwjrlbGu0J6Edd0LAAcFai39DR8yj59Hx0ZLbry1AVRkVBfJ5rb0unHkYrHFSxjw+aYrMyLjeWAMK+5VXYTuS8rNyi4XIvVeMscO1/dC3xkrMObz/hhM/v/DBPSuxYPsv724OQz/YhCtQX7F0egBmysE58VofrE7J+WBLL126ZPygUX1JwnQYOS1XQZgcqH895JQ21YsoKtSQH0LZNF/wcNwFEngRADuyzWl6dFiZ/KTA97XSpnIu6Trs2JrMUXiN6lks1La1FKZfgr+VyEpQ2yC3ZC28AWGUv5JGGLtLXSR35QatUurQRgjcpN0czjsMv2TbYqkS1ygzk7/T17Qjq6KAfRXIgOsKv1Lj9LiFEF3Y7GKaV1/KvqBYEsRs80vATE7+jaKWjIGFf/RM04BTATe2IUwBGEujpDd9rXGMv/w==;d80V5ZVYTRjP9ru/FnRQoQ=="
 ---
 

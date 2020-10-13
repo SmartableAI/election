@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/"
 type: article
 quality: 145
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/weMd1o2h9mRwikHA_a7geSaCrHU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBS7QEH2M5C5VUNRIYK6KKOKWQ.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Fact check: Kamala Harris cannot create property tax to pay for reparations"
+    excerpt: "While Sen. Kamala Harris never said she'd tax houses to pay for slavery reparations, she does support reparations to an extent."
+    publishedDateTime: 2020-10-12T21:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/12/fact-check-kamala-harris-cant-create-property-tax-reparations/5917197002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5917197002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917197002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Weed stocks surge after Kamala Harris promises to decriminalize pot"
     excerpt: "(Reuters) - U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said the Biden administration would decriminalize marijuana at the federal level in the United States if they were elected."

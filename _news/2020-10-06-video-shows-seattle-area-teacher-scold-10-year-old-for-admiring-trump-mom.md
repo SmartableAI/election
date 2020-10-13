@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trump: Packing Supreme Court would 'permanently destroy the Court'"
+    excerpt: "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court."
+    publishedDateTime: 2020-10-11T12:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-split-lightned.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump: Kavanaugh should 'sue the women' who accused him during his Supreme Court confirmation"
     excerpt: "President Trump on Monday said Supreme Court Justice Brett Kavanaugh should “sue the women” who leveled “false and disgusting accusations” against him during his confirmation process to the high court in 2018."
     publishedDateTime: 2020-10-12T21:31:12Z

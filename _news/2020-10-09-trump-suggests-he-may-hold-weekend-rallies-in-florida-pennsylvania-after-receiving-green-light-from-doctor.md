@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-weekend-rallies-florida-penns
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
 type: article
 quality: 157
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Florida Police Chiefs Association makes first-ever presidential endorsement, backs Donald Trump"
-    excerpt: "The organization adds its name to a growing list of law enforcement organizations that have backed President Trump for re-election."
-    publishedDateTime: 2020-10-10T23:58:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pNTRtBxJpvo/florida-police-chiefs-association-endorsement-trump"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "24FEFZgn6Egx7m7xvQ8dheTRMgZb/bTF/SL1wXlsrNLGJSkEp69LZ0YqShv5i0nyd/4W6DxPIJInQqS7bslnzaJdUIkAriNl8gMggRpssFKxUbA/hbvdrmaeAb9j4EUSX/o4UDESkpcwmf7+S1TvyvKhu8bgfe+3MO4cHbZb264t3aBSmTIZQUa3B6SWwDF73PaeUebVGWghgIeSh7K6KLTVK2aLcS1dCT34uc/nrTagqAcIHGx8KYZBdx4ESgmJkbleO9rBWfmiCl8z7+12ewUxZa9QrEL+nyX2UUo45vIG1LE/4TYPvZ6JHutavJYFW87xeOUNcQFaWmA+s9g65Xrp/PO51A9ytvJwGVD5A7Y=;J5gsAktg6KnhdevEqIKLfw=="
 ---
