@@ -383,6 +383,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump tests negative for coronavirus on consecutive days"
+    excerpt: ""
+    publishedDateTime: 2020-10-13T05:42:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J4gJ0evXJwY/live-updates-trump-tests-negative-for-coronavirus-on-consecutive-days"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-tests-negative-for-coronavirus-on-consecutive-days.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-tests-negative-for-coronavirus-on-consecutive-days.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42496b92-14ce-4686-a19a-adfd80e695ee/5c9baa64-c646-4abc-af68-41489334e590/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WV official corrects Trump's ballot-selling mailman story, says 'election will be safe, secure and fair'"
     excerpt: "West Virginia's Republican Secretary of State Mac Warner clarified a false claim made by President Trump during Tuesday night's debate about a mailman who sold ballots, saying that the incident never happened and \"voters should be confident that this election will be safe, secure, and fair.\""
     publishedDateTime: 2020-10-01T19:26:59Z

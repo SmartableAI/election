@@ -63,6 +63,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "How a Probe of Trump-Russia Ties Turned Into a GOP Rally Cry"
+    excerpt: "The special counsel’s investigation into ties between Russia and President Donald Trump’s 2016 campaign revealed damaging, or at least embarrassing, information about the president."
+    publishedDateTime: 2020-10-13T04:15:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "aYGJaa9rnlnDgCw5GMmjkatTvZLnQ3XMUBKT/eqLbGMiaZep5qLPkJUss9QxHwB/aykINvdseBljbNMTxRwle9WQe0mAhOHulRpmBhIxwzCsScLHXGD0rQ8GL9r766zWLOX3EbNqG0fSFwTEhpBgY5wVGzwFhn+xk+3XE2nATrabzn+LLRCZjJ7wzmcIArP8UT4C0IBSY0emq7daRHApjVTTDUpRbqrnl5X6+5R8QFoC9BDdJXQAx/7XWeUGXILDob/MXf8XlcVUbaWtONMzhUOYvKxG5nSgGpZDcjMQLQp9Sj4Aeu310hMKbDgrFnGJXYHZUioMjAj93iCdFZCEX1yAiCnnBh1Z/xMaA69R3T0=;wcSt6jFreXv/QKzyFMNorg=="
 ---

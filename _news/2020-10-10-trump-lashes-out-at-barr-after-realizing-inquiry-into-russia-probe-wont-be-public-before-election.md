@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5939328002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5939328002"
 type: article
 quality: 126
-heat: 166
+heat: 186
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "How a Probe of Trump-Russia Ties Turned Into a GOP Rally Cry"
+    excerpt: "The special counsel’s investigation into ties between Russia and President Donald Trump’s 2016 campaign revealed damaging, or at least embarrassing, information about the president."
+    publishedDateTime: 2020-10-13T04:15:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
     excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
     publishedDateTime: 2020-10-07T02:17:00Z

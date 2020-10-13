@@ -383,6 +383,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump tests negative for coronavirus on consecutive days"
+    excerpt: ""
+    publishedDateTime: 2020-10-13T05:42:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J4gJ0evXJwY/live-updates-trump-tests-negative-for-coronavirus-on-consecutive-days"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-tests-negative-for-coronavirus-on-consecutive-days.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-tests-negative-for-coronavirus-on-consecutive-days.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42496b92-14ce-4686-a19a-adfd80e695ee/5c9baa64-c646-4abc-af68-41489334e590/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McConnell refocuses on Trump's judicial nominees as coronavirus talks stall"
     excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., has turned the Senate's gaze to confirming judicial nominees as talks about a fifth coronavirus stimulus package have stalled."
     publishedDateTime: 2020-09-18T16:10:23Z

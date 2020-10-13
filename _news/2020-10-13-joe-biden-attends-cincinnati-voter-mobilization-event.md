@@ -35,6 +35,31 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Joe Biden in Toledo: Make it easier to move to 'vehicles of the future'"
+    excerpt: "Democratic presidential candidate Joe Biden laid out his vision for manufacturing during a stop in Toledo on Monday"
+    publishedDateTime: 2020-10-13T04:23:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/12/biden-toledo-make-easier-move-vehicles-future/5966771002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5966771002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5966771002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/PDTN/cb3d5e4e-5856-4946-afc8-5bfdd36f05fb-Joe_Biden_speech.png?auto=webp&crop=624,351,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
+    publishedDateTime: 2020-10-12T23:00:00Z
+    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Pb7uMsbl5KQswHTPpwJRDbdulhejs7ozqrnOJ8P+07fWamX4c1A6Ts8WOb58jSvot8WHrjlnGtUgLtdIYl8uLn6FmwdMVNy23YzkLJ4Su9MwjrlbGu0J6Edd0LAAcFai39DR8yj59Hx0ZLbry1AVRkVBfJ5rb0unHkYrHFSxjw+aYrMyLjeWAMK+5VXYTuS8rNyi4XIvVeMscO1/dC3xkrMObz/hhM/v/DBPSuxYPsv724OQz/YhCtQX7F0egBmysE58VofrE7J+WBLL126ZPygUX1JwnQYOS1XQZgcqH895JQ21YsoKtSQH0LZNF/wcNwFEngRADuyzWl6dFiZ/KTA97XSpnIu6Trs2JrMUXiN6lks1La1FKZfgr+VyEpQ2yC3ZC28AWGUv5JGGLtLXSR35QatUurQRgjcpN0czjsMv2TbYqkS1ygzk7/T17Qjq6KAfRXIgOsKv1Lj9LiFEF3Y7GKaV1/KvqBYEsRs80vATE7+jaKWjIGFf/RM04BTATe2IUwBGEujpDd9rXGMv/w==;d80V5ZVYTRjP9ru/FnRQoQ=="
 ---

@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump getting support from those most affected by 'asymmetrical' COVID lockdowns: Hanson"
+    excerpt: "President Trump was welcomed back to the campaign trail Monday night by a huge crowd in Sanford, Fla. for his first rally since recovering from coronavirus, and Hoover Institution senior fellow Victor Davis Hanson told “The Ingraham Angle”  the continuing support for Trump stems in part from the lockdowns."
+    publishedDateTime: 2020-10-13T04:14:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/95UIUdRW7gQ/trump-campaign-asymmetrical-covid-lockdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-asymmetrical-covid-lockdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-asymmetrical-covid-lockdowns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16b8580b-6379-444f-8b38-793de1aa526f/90f66992-98d5-4782-8269-e83c8e0305d4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to visit Penn., Iowa next week, stepping up travel schedule post-COVID diagnosis"
     excerpt: "President Trump added Pennsylvania and Iowa to his campaign schedule next week, stepping up travel plans despite his recent bout with coronavirus. "
     publishedDateTime: 2020-10-10T18:24:19Z

@@ -839,6 +839,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Joe Biden in Ohio: Trump 'turned his back on you' – video"
+    excerpt: "Joe Biden told a drive-in rally in Ohio that Donald Trump 'turned his back on you' during the pandemic and its economic fallout"
+    publishedDateTime: 2020-10-12T23:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/oct/12/joe-biden-in-ohio-trump-turned-his-back-on-you-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/d38e761a6287263b88a9df260b957c9ce3525a1d/33_0_3434_2061/master/3434.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1685fe0d220e50f5b1e641172aa04309"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden pushes back at President Trump for downplaying masks, says wearing one is \"patriotic\""
     excerpt: "After President Trump's mask photo op on the White House balcony, his Democratic rival is emphasizing the importance of masks. In a NBC News town hall, former Vice President Biden told the audience wearing a mask was a \"big deal\" and \"patriotic."
     publishedDateTime: 2020-10-06T11:57:00Z
@@ -1788,6 +1802,15 @@ related:
     excerpt: "Democratic vice presidential candidate Joe Biden congratulates Senator Harris for her performance at the debate. He also responds to a question on the second presidential debate after the CPD announced it would take place virtually."
     publishedDateTime: 2020-10-08T14:22:00Z
     webUrl: "https://www.c-span.org/event/?476765/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Delivers Remarks on Senior Citizen Policy in FL"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Pembroke Pines, FL on his campaign’s policy proposals affecting senior citizens. 2020 Democratic presidential candidate Joe Biden delivers remarks in Pembroke Pines,"
+    publishedDateTime: 2020-10-13T04:22:00Z
+    webUrl: "https://www.c-span.org/video/?476884-1/joe-biden-delivers-remarks-senior-citizen-policy-fl"
     type: article
     provider:
       name: C-SPAN

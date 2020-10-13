@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-ka
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537059064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A0NI"
         width: 818
         height: 545
+        isCached: true
+  - title: "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic"
+    excerpt: "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package."
+    publishedDateTime: 2020-10-13T03:30:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 119
+    images:
+      - url: "https://i.insider.com/5f84911591aa9e001880b021?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fox News cut ties with a frequent guest after he called Kamala Harris an 'insufferable lying b----' on Twitter"
     excerpt: "Harlan Hill, who has ties to President Donald Trump's reelection campaign, was a frequent guest on Fox News until he tweeted an insult about Harris."

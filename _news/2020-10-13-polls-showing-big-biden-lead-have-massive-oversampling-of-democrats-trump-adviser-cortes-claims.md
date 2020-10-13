@@ -670,6 +670,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Live Updates: Trump, Biden hit the road, make cases to voters"
+    excerpt: ""
+    publishedDateTime: 2020-10-13T05:19:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCWmfEbKLTo/live-updates-trump-biden-hit-the-road-make-case-to-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-hit-the-road-make-case-to-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-hit-the-road-make-case-to-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6e02ec6-3bf5-4ab8-9499-64bd25513fae/f765fa31-7075-4ef1-814f-9f6839481d1f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden clashes with Trump over Antifa: 'It's an idea, not an organization'"
     excerpt: "President Trump and former Vice President Joe Biden had a heated exchange over extremist violence with each facing questions over their stances towards them."
     publishedDateTime: 2020-09-30T10:38:45Z
