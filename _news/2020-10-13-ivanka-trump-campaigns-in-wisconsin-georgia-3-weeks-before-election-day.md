@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-camp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
 type: article
 quality: 189
-heat: 269
+heat: 270
 published: true
 
 provider:

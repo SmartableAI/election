@@ -79,6 +79,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Trump Still Feuding With Dr. Fauci, Lashes Out At Pandemic Expert In Dispute Over Campaign Ad"
+    excerpt: "President Trump lashed out at Dr. Anthony Fauci on Tuesday after the nation’s top infectious disease expert criticized the president’s reelection campaign for featuring him in a political advertisement."
+    publishedDateTime: 2020-10-13T20:48:00Z
+    webUrl: "https://www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595"
+    ampWebUrl: "https://www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/13/us-president-donald-trump-at-his-first-campaign.jpg"
+        width: 1024
+        height: 643
+        isCached: true
 
 secured: "aYGJaa9rnlnDgCw5GMmjkatTvZLnQ3XMUBKT/eqLbGMiaZep5qLPkJUss9QxHwB/aykINvdseBljbNMTxRwle9WQe0mAhOHulRpmBhIxwzCsScLHXGD0rQ8GL9r766zWLOX3EbNqG0fSFwTEhpBgY5wVGzwFhn+xk+3XE2nATrabzn+LLRCZjJ7wzmcIArP8UT4C0IBSY0emq7daRHApjVTTDUpRbqrnl5X6+5R8QFoC9BDdJXQAx/7XWeUGXILDob/MXf8XlcVUbaWtONMzhUOYvKxG5nSgGpZDcjMQLQp9Sj4Aeu310hMKbDgrFnGJXYHZUioMjAj93iCdFZCEX1yAiCnnBh1Z/xMaA69R3T0=;wcSt6jFreXv/QKzyFMNorg=="
 ---

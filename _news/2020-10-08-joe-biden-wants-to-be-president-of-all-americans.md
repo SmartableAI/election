@@ -32,52 +32,33 @@ images:
     isCached: true
 
 related:
-  - title: "Biden vows not to allow ‘White supremacists to overturn the America of Lincoln’"
-    excerpt: "Democratic presidential nominee Joe Biden made a forceful plea for national unity on Tuesday as he took aim at “extremist white supremacist groups menacing our communities.”"
-    publishedDateTime: 2020-10-06T23:12:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e-dTDXPsVpc/biden-not-white-supremacists-overturn-america-lincoln"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln.amp"
+  - title: "Ex-White House doctor questions Biden's 'mental capacity' to be president"
+    excerpt: "“I’m concerned, like so many other people in this country are right now, that he is not up for the job,\" Jackson said."
+    publishedDateTime: 2020-10-13T21:48:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvR-lQXJkr4/white-house-doctor-ronny-jackson-biden-mental-capacity-president"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/048f5479-3edc-4e43-8155-6c4f45a2c149/af8ff7d7-6b5c-4ce2-a9be-4ad5bb46b196/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "If Biden is elected, Dems will change America as we know it: Graham"
-    excerpt: "Democrats want to change the United States of America as we know it by uprooting the country's constitutional process, Sen. Lindsey Graham, R-S.C., said on Monday."
-    publishedDateTime: 2020-10-12T16:45:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzIFvV4fGio/dems-change-america-wont-recognize-graham"
+  - title: "George Floyd would still be dead if Joe Biden were president"
+    excerpt: "Did you know that if only Joe Biden were president back in May that the sainted George Floyd would still be alive today?"
+    publishedDateTime: 2020-10-08T03:44:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/george-floyd-would-still-be-dead-if-joe-biden-were-president"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/george-floyd-would-still-be-dead-if-joe-biden-were-president?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/george-floyd-would-still-be-dead-if-joe-biden-were-president?_amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Kyle Rittenhouse's Lawyers Demands Biden Campaign Retract Their Claim He Is a White Supremacist"
-    excerpt: "Lawyers for Kyle Rittenhouse, one of the alleged shooters in Kenosha, Wisconsin, are demanding Joe Biden's Democratic presidential campaign retract their claim that the 17-year-old is a white supremac"
-    publishedDateTime: 2020-09-30T18:30:00Z
-    webUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216"
-    ampWebUrl: "https://townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/juliorosas/2020/09/30/kyle-rittenhouses-lawyers-demands-biden-campaign-retract-their-claim-he-is-a-whit-n2577216?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 73
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/0a9a10d2-1964-46d9-855d-9c96cc8caeef.jpg"
-        width: 650
-        height: 340
-        isCached: true
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "2ZYPEgvdmMvx+/mqEocQS1y9bbhnfSC4pFbpuC9YJWbYB60YvEmrxqyqZVibPo/ltb67HX9DY5mN7W0ULAKsof6L31/klByCxe/NZeESBLeqMazTFZeKF4HdDVpF1oTfaOfBsxnkpv9IBgAxer5GaYMT62yIQCqGohCARohC/xr5qWtZXjXs37Ge1TbX0B5xO2Lq5taSdzWPtd1fUStxhyH7MSm5uSYpnRMcrTktgkhPoPDpY/kZiwxQKstJ1uyV+Cek9IcJajRPnC5/Kk7u8CSFPPcXNep8l8FZf7+kgssKoOBB3wzmsZmYqnQOurdHnYXd4ZpIZYA8CGbTYJoshoNso2L0OmCzqaF+xk1CbGfiuVmMxIFgOCbT1mhp0Q+MKLrUvtoUem3JNPgtBdtPtGWq7au6WhE6HVS0C+nO3HsDhKSlQgA33xQmM92P9bdKQ7nW6GdqXFzhpeVXvyzBJURRFiXNOVS0UP4WYGyUQJB6Ex7sXit11skMIYW3V5I7MEeQcftnJjqJouSOclcXFg==;XVk6D1GO723j8wwTJCIxjQ=="
 ---

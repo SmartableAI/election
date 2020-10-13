@@ -2,6 +2,114 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-10-02-trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says.md",
+      "title": "Trump 'Will Not Accept Any Result That Is Not A Victory,' 'Atlantic' Writer Says",
+      "excerpt": "Atlantic writer Barton Gellman says the 2020 election could trigger a constitutional crisis: \"This is not going to be a normal election. ... Preserving its legitimacy is going to take extra effort.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
+      "originalUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/10/01/gettyimages-1273384685_wide-e24471991c8648589f4ed71dda06062f7b5c082f.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-pelosi-warns-trump-aint-no-light-at-the-end-of-the-tunnel-should-election-be-decided-in-house.md",
+      "title": "Pelosi warns Trump 'ain't no light at the end of the tunnel' should election be decided in House",
+      "excerpt": "Speaker Nancy Pelosi spelled out a dire prediction for President Trump should the election come down to the House to be decided.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qb-3-3Bn6Ek/pelosi-election-outcome-no-light-for-trump-in-house",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qb-3-3Bn6Ek/pelosi-election-outcome-no-light-for-trump-in-house",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/2f2219a9-AP20268562631818.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp",
+      "publishedDateTime": "2020-10-01T10:50:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-donald-trump-made-an-unsuccessful-push-to-cash-out-his-800-million-stake-in-2-valuable-office-skyscrapers.md",
       "title": "Donald Trump made an unsuccessful push to cash out his $800 million stake in 2 valuable office skyscrapers",
       "excerpt": "The New York Times found Trump erased nearly all his federal taxes in the 15 years prior to the 2016 election. But he could be on the hook for an upcoming $100 million tax bill.",
@@ -22,6 +130,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
@@ -77,6 +186,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp",
@@ -128,6 +238,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10?amp",
@@ -179,6 +290,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
       "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
@@ -230,6 +342,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
@@ -287,6 +400,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
@@ -339,6 +453,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.cnbc.com/amp/2020/10/01/former-afghanistan-commander-stanley-mcchrystal-endorses-joe-biden.html",
       "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/01/former-afghanistan-commander-stanley-mcchrystal-endorses-joe-biden.html",
@@ -394,6 +509,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241690",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241690",
@@ -450,6 +566,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-media-comey-russia-investigation-senate-jason-chaffetz.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-media-comey-russia-investigation-senate-jason-chaffetz.amp",
@@ -505,6 +622,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-first-debate-embarrassing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-first-debate-embarrassing.amp",
@@ -556,6 +674,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
@@ -611,6 +730,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/trump-signs-government-spending-bill/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-signs-government-spending-bill/index.html",
@@ -662,6 +782,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
@@ -713,6 +834,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-falsely-claims-poll-watchers-blocked-observing-early/story?id=73345532",
@@ -764,6 +886,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.jacksonville.com/amp/3574834001",
       "cdnAmpWebUrl": "https://amp-jacksonville-com.cdn.ampproject.org/c/s/amp.jacksonville.com/amp/3574834001",
@@ -810,6 +933,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
@@ -861,6 +985,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.usatoday.com/amp/5874449002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002",
@@ -916,6 +1041,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/30/politics/montana-vote-by-mail-ruling-trump-campaign-lawsuit/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/30/politics/montana-vote-by-mail-ruling-trump-campaign-lawsuit/index.html",
@@ -967,6 +1093,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
       "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
@@ -1009,6 +1136,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-history-of-support-from-white-supremacist-far-right-groups-2020-9?amp",
@@ -1060,6 +1188,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
@@ -1116,6 +1245,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-proud-boys-let-law-enforcement-work.amp",
@@ -1167,6 +1297,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.thv11.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973",
       "cdnAmpWebUrl": "https://www-thv11-com.cdn.ampproject.org/c/s/www.thv11.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973",
@@ -1186,116 +1317,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-biden-says-at-debate-he-doesnt-support-green-new-deal-but-his-campaign-website-calls-it-crucial-framework.md",
-      "title": "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'",
-      "excerpt": "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7770338-6f00-45d5-b73c-f483671ead37/96618aa6-16e0-4aa8-b103-de0e0b8c3bce/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
-      "publishedDateTime": "2020-09-30T10:46:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-trump-affair.md",
-      "title": "Former Playboy Playmate Karen McDougal says she’s ‘been forgiven by Jesus’ for alleged Trump affair",
-      "excerpt": "During the 2016 election, National Enquirer parent company American Media Inc. paid McDougal $150,000 for the rights to her story, which it never published. The company eventually acknowledged the purchase was a “catch-and-kill” maneuver to boost Trump's presidential prospects.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBR_0knqAXw/former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-affair-with-trump-regrets-not-coming-forward-sooner",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lBR_0knqAXw/former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-affair-with-trump-regrets-not-coming-forward-sooner",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-affair-with-trump-regrets-not-coming-forward-sooner.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-playboy-playmate-karen-mcdougal-says-shes-been-forgiven-by-jesus-for-alleged-affair-with-trump-regrets-not-coming-forward-sooner.amp",
-      "publishedDateTime": "2020-09-30T10:31:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden, after avoiding questions on court packing, says he is 'not a fan'"
 excerpt: "\"I'm not a fan of court packing but I don't want to get off on that whole issue,\" Biden told a Cincinnati television station in an interview."
-publishedDateTime: 2020-10-13T17:33:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
-ampWebUrl: "https://amp.azcentral.com/amp/5979046002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5979046002"
+publishedDateTime: 2020-10-13T20:01:00Z
+originalUrl: "https://www.freep.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
+webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
+ampWebUrl: "https://amp.freep.com/amp/5979046002"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5979046002"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -138,6 +138,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XqCw/JhniaPk8K1OG0j0lOHkMQQ7/VfpUG2T89696I8u1oUowdoKEOWUnNnR4Zd3UYUNP2n/YEpvGQ1WuZKEHP0scThOV3yWqaG2+8fTbt1f+BZc7kKOTlPtPeYVnq3m5q3oC6rfHAARw32lGhw8OEmvwNYVpHEHOeKHhsR3KIBN5XMsVa7yZUvOFRiyK7XRLMqWljGpbtuV5H5jDDcOU+fuj+AI+DhIyMamlZ+72sSqaXhpikHpaJP63ymE0wkX/DUVQuM5XzFjCws1AZ3yEG5PNWLKNyJ9aFzA4kKbb6Ok9mO0YOeTiDLvn+OjuPnUZFkWVAcnTfXVHTiy31kdR89DtO/D1DKkfLvKC9KlcWzP66rjUwG7jflihIdWpJpsuzZbq/dKcK3RTAXsy+j2JT0++BIDB0J5TGAOKbWXipaSc+hd9XZcuh2/wXrnwHn9ziX2vDKPxCYRACjyvrkHHrISJnfc3WzIA0t22hyeC8AG3L0BGpCtXr3FB8YtwvNRUjjw8DEXGzZHAzX83of7FQ==;TWEaXh5r3Qlkq0885UFcmA=="
+secured: "UQAOruKsu9/qT4HfXCo+wUc3mcJFwatwgezZl5HQbdKtUgrGEYHBG97ZT9T0pA98eqoogCf2i9RkL1F9hlVEmOKyiBwUui2tPphNaiM0P6K5JP4U0e8Sg6rBVr+cYCBmuGkxSfxX1SMD650l2yIru4zTDLBhRphTfhEoKTZreWkkT80ulgN8SSr7zXIOg6wCP+PpwJ5Oi6Ay4XQ/+3EN+W7CvM3kFeF7v7g4cs2WOGL7iZQf4cOBXQZxWQArRMF8HN8w/bR3sOhnHZDwGf9Kj84Fs86WlwYNPoO7ho2+GhBcth9nMJTRgUvXfxEZlMOTRO43ESDf3zinXafwbEhNCT7aveDf19c2rhNeKfA9pcU=;ODkrJKGO/PQdjQ04kHVIQA=="
 ---
 

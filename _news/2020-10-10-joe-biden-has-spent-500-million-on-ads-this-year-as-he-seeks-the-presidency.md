@@ -219,6 +219,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris and the stereotypes we place on Black women"
+    excerpt: "Kamala Harris (D-Calif.) continues the legacy of public shaming and insulting Black women. Trump’s hostility towards high-profile Black women is not limited to Harris: Throughout his presidency, Trump has tapped racist tropes in his efforts to attack Rep."
+    publishedDateTime: 2020-10-13T21:39:00Z
+    webUrl: "https://thehill.com/opinion/campaign/520884-kamala-harris-and-the-stereotypes-we-place-on-black-women"
+    ampWebUrl: "https://thehill.com/opinion/campaign/520884-kamala-harris-and-the-stereotypes-we-place-on-black-women?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520884-kamala-harris-and-the-stereotypes-we-place-on-black-women?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_10072020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Video Resurfaces of Kamala Harris Saying She Wants to Ban Fracking After Saying Biden Will Not During VP Debate"
     excerpt: "\"There's no question I'm in favor of banning fracking,\" Kamala Harris said in video footage that resurfaced on social media Wednesday."
     publishedDateTime: 2020-10-08T04:21:00Z

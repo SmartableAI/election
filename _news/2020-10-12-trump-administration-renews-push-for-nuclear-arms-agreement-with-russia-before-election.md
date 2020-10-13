@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court grants Trump administration's request to halt census count while appeal plays out"
+    excerpt: "The Supreme Court granted a request from the Trump administration to halt the census count while an appeal over a lower court's order that it continue plays out.\n    \n"
+    publishedDateTime: 2020-10-13T21:33:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JGn39xRDFiU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/supreme-court-census/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/supreme-court-census/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "uVDTb0tZidmdZ+MDgj3b+nRh9HdDmywK+o94dY2iopFv8HcLCIlrEXcmqv75sAAeTp47oOGSX35yFL6aY080cr8KzTqSrtB0UBYcFBqIhWK/Z1BK842PdnigQnBMjV5GRHNlgN5JVruOExRuUWaagNEvhZwB1QpaYqWGNE1c0yJCKADTQBv/caE5nJSbl/9aEOGxtiIzXYRCcwPGHvFaG7kjVeVeN+DqLVTJ/dLk9bDXIzbQaOjcpsB1v+yG45293FfuL2qpeDHeZpPUhsioT5wfn4tdWMdpO5zK2HefUadmQ8mYJQpCv8BYM2r2elmPT9tCWG0Ik2m/OlG940Of9QIbY7WfD+VjQl4sid/+xtQ=;WnB9uobc1DgqubCX55Oe6Q=="
 ---

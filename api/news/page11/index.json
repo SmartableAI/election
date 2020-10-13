@@ -2,6 +2,119 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-03-this-was-avoidable-trump-has-been-downplaying-the-virus-from-the-start.md",
+      "title": "'This was avoidable': Trump has been downplaying the virus from the start",
+      "excerpt": "In recent weeks, Trump has put himself and others at risk by holding mass gatherings, some indoors, and shunning mask use while claiming the end of the virus was just around the corner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_40/3416883/201002-donald-trump-melania-trump-ew-202a_2aef1d6bb1b9e1b977edd6d985618f74.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241775",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241775",
+      "publishedDateTime": "2020-10-02T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-pelosi-trump-diagnosis-tragic-hopefully-leads-to-saner-approach-to-pandemic.md",
+      "title": "Pelosi: Trump diagnosis 'tragic,' hopefully leads to 'saner approach' to pandemic",
+      "excerpt": "Speaker Nancy Pelosi said that President Trump’s COVID-19 diagnosis is “tragic” and “very sad,” but predictable, given his frequent contact with crowds. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bRzKYb_-f_M/pelosi-trump-saner-approach-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bRzKYb_-f_M/pelosi-trump-saner-approach-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/2f2219a9-AP20268562631818.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-trump-saner-approach-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-saner-approach-coronavirus.amp",
+      "publishedDateTime": "2020-10-02T10:16:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-trump-has-covid-what-could-it-mean-for-the-economy.md",
       "title": "Trump Has COVID. What Could It Mean For The Economy?",
       "excerpt": "President Donald Trump and First Lady Melania Trump have tested positive for Covid-19, the president announced on Twitter early Friday morning. Here's what to watch out for when it comes to the economy.",
@@ -22,6 +135,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/amp/",
@@ -73,6 +187,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
@@ -128,6 +243,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/no-one-in-the-room-was-wearing-a-mask-during-trump-debate-prep-chris-christie-says.amp",
@@ -183,6 +299,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
@@ -239,6 +356,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boris-johnson-wishes-trump-speedy-recovery-after-testing-positive-for-coronavirus.amp",
@@ -294,6 +412,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/trump-ohio-polls.amp.html",
@@ -346,6 +465,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.courierpress.com/amp/5891503002",
       "cdnAmpWebUrl": "https://amp-courierpress-com.cdn.ampproject.org/c/s/amp.courierpress.com/amp/5891503002",
@@ -392,6 +512,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/melania-trump-tapes/index.html",
@@ -447,6 +568,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/trump-overturn-navy-seal-ethos-gender-neutral.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-overturn-navy-seal-ethos-gender-neutral.amp",
@@ -502,6 +624,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
@@ -558,6 +681,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.amp",
@@ -613,6 +737,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241747",
       "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241747",
@@ -665,6 +790,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp",
@@ -716,6 +842,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10?amp",
@@ -771,6 +898,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
@@ -827,6 +955,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html",
@@ -878,6 +1007,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/amp/",
@@ -933,6 +1063,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
@@ -988,6 +1119,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
@@ -1043,6 +1175,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/01/politics/trump-campaign-rallies-wisconsin/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-campaign-rallies-wisconsin/index.html",
@@ -1098,6 +1231,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
@@ -1153,6 +1287,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
@@ -1204,6 +1339,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
       "cdnAmpWebUrl": "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
@@ -1223,112 +1359,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says.md",
-      "title": "Trump 'Will Not Accept Any Result That Is Not A Victory,' 'Atlantic' Writer Says",
-      "excerpt": "Atlantic writer Barton Gellman says the 2020 election could trigger a constitutional crisis: \"This is not going to be a normal election. ... Preserving its legitimacy is going to take extra effort.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "originalUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/01/gettyimages-1273384685_wide-e24471991c8648589f4ed71dda06062f7b5c082f.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-pelosi-warns-trump-aint-no-light-at-the-end-of-the-tunnel-should-election-be-decided-in-house.md",
-      "title": "Pelosi warns Trump 'ain't no light at the end of the tunnel' should election be decided in House",
-      "excerpt": "Speaker Nancy Pelosi spelled out a dire prediction for President Trump should the election come down to the House to be decided.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qb-3-3Bn6Ek/pelosi-election-outcome-no-light-for-trump-in-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qb-3-3Bn6Ek/pelosi-election-outcome-no-light-for-trump-in-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/2f2219a9-AP20268562631818.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp",
-      "publishedDateTime": "2020-10-01T10:50:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

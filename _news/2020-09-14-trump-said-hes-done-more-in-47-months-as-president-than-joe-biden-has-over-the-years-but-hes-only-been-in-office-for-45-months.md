@@ -2093,6 +2093,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden targets Fla. seniors, slams Trump on COVID"
+    excerpt: "With Election Day just three weeks away, Democratic challenger Joe Biden courted Florida seniors, betting they've become disenchanted with President Donald Trump's handling of the coronavirus pandemic."
+    publishedDateTime: 2020-10-13T21:44:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/13/biden-targets-fla-seniors-slams-trump-covid/3644446001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/601dc029-e4ec-4b04-a887-5e58b6d4d4e9_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z
@@ -3120,6 +3134,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/a3/8a389ad5-925c-5343-98ac-5f1e8c3c788d/5f7f3492701cd.image.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Trump, Biden trips illustrate Electoral College calculations"
+    excerpt: "With Election Day just three weeks away, President Donald Trump and Democratic challenger Joe Biden concentrated Tuesday on battleground states both see as critical to clinching an Electoral College victory,"
+    publishedDateTime: 2020-10-13T20:21:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-trips-illustrate-Electoral-College-15644480.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-trips-illustrate-Electoral-College-15644480.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-trips-illustrate-Electoral-College-15644480.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"

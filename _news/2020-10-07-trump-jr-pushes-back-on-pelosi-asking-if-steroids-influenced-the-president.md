@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-b
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
 type: article
 quality: 123
-heat: 243
+heat: 263
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump's economic advisor was caught on camera slamming the president's 'crappy' debate performance"
+    excerpt: "Trump event in Washington that the president's debate performance last month was \"crappy.\""
+    publishedDateTime: 2020-10-13T21:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-debate-stephen-moore-filmed-crappy-performance-report-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-debate-stephen-moore-filmed-crappy-performance-report-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-debate-stephen-moore-filmed-crappy-performance-report-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
     excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"

@@ -127,14 +127,14 @@ related:
         isCached: true
   - title: "Joe Biden, after avoiding questions on court packing, says he is 'not a fan'"
     excerpt: "\"I'm not a fan of court packing but I don't want to get off on that whole issue,\" Biden told a Cincinnati television station in an interview."
-    publishedDateTime: 2020-10-13T17:33:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5979046002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5979046002"
+    publishedDateTime: 2020-10-13T20:01:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
+    ampWebUrl: "https://amp.freep.com/amp/5979046002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5979046002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 72
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"

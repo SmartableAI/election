@@ -583,6 +583,22 @@ related:
         width: 2000
         height: 1278
         isCached: true
+  - title: "First lady lies low, Trump back on the trail after COVID-19"
+    excerpt: "President Donald Trump and his wife received their positive COVID-19 tests on the same day. He's already returned to campaigning, but there's been no public sighting yet of the first lady. Melania Trump last provided a health update over a week ago after saying her symptoms were mild,"
+    publishedDateTime: 2020-10-13T21:04:00Z
+    webUrl: "https://www.chron.com/news/article/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+    ampWebUrl: "https://www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Susan Collins Calls Trump Announcement on Stopping Stimulus Negotiations Until After Election ‘A Huge Mistake’"
     excerpt: "President Donald Trump's surprise announcement about stopping stimulus negotiations until after the election sent shockwaves through DC, and even concerned some Republicans."
     publishedDateTime: 2020-10-06T23:39:00Z

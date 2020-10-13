@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
 type: article
 quality: 140
-heat: 300
+heat: 340
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch live: Biden holds event in Florida"
+    excerpt: "Democratic presidential nominee Joe Biden on Tuesday afternoon is slated to give a speech in Miramar, Fla., on the importance of voting this election. The event is scheduled to begin at 4:40 p.m. EDT."
+    publishedDateTime: 2020-10-13T20:06:00Z
+    webUrl: "https://thehill.com/video/campaign/520838-watch-live-biden-holds-event-in-florida"
+    ampWebUrl: "https://thehill.com/video/campaign/520838-watch-live-biden-holds-event-in-florida?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/520838-watch-live-biden-holds-event-in-florida?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Progressive Democrats have a fragile alliance with Joe Biden. But they're readying for internal party warfare if he wins the election."
     excerpt: "Fear of a Trump second term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
     publishedDateTime: 2020-10-09T13:02:00Z
@@ -108,6 +124,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/26/election_2020_debate_13227_c0-212-5082-3176_s1200x700.jpg?db917b09d8cbb24332b5ca6852b875bd774a8b48"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Joe Biden Campaigns in Florida"
+    excerpt: "Democratic Presidential Candidate Joe Biden speaks during a campaign event in Fort Lauderdale an event in Fort Lauderdale, Florida on Tuesday, October 13, 2020. Pool Photo by Jim Watson/UPI"
+    publishedDateTime: 2020-10-13T20:16:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/8399b4915010b9c9672918e96d2318b2/Joe-Biden-Campaigns-in-Florida/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/8399b4915010b9c9672918e96d2318b2/BIDEN-FLORIDA.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Joe Biden the favorite of New Orleans area thought leaders, The Times-Picayune Power Poll finds"
     excerpt: "Picayune Power Poll survey, a new partnership between New Orleans' daily newspaper and powerpoll.com, a non-partisan survey, news and information company focused on the opinions of influential people."

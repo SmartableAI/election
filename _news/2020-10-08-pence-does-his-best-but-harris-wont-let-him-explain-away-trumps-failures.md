@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2183
+heat: 2203
 published: true
 
 provider:
@@ -862,6 +862,22 @@ related:
       - url: "https://media.newyorker.com/photos/5f7f1d5b28c87358b3ee8ef4/master/pass/glasser-pence.jpg"
         width: 7820
         height: 5213
+        isCached: true
+  - title: "Trump Calls Kamala Harris a ‘Monster,’ and Her Pastor Responds"
+    excerpt: "What is monstrous is that the man in the Oval Office dispensed long ago with even the pretense of civility in public discourse,” the senator’s pastor writes. Also: A determined older voter."
+    publishedDateTime: 2020-10-13T19:52:00Z
+    webUrl: "https://www.nytimes.com/2020/10/13/opinion/letters/trump-kamala-harris-monster.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/13/opinion/letters/trump-kamala-harris-monster.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/13/opinion/letters/trump-kamala-harris-monster.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/08/multimedia/08elections-briefing-kamala/08elections-briefing-kamala-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Pence's tough debate task is to defend Trump's actions over the past week"
     excerpt: "First Read is your briefing from \"Meet the Press\" and the NBC Political Unit on the day's most important political stories and why they matter."

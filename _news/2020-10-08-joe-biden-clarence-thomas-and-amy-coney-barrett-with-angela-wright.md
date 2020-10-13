@@ -41,6 +41,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden says he's 'not a fan' of court packing as SCOTUS hearings continue"
+    excerpt: "As the Senate confirmation hearings for Supreme Court nominee Amy Coney Barrett continue, former Vice President Joe Biden says he is \"not a fan\" of court packing."
+    publishedDateTime: 2020-10-13T21:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-201013_1602603114866_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate hearing for Trump's Supreme Court nominee Amy Coney Barrett kicks off Monday"
     excerpt: "The high-stakes confirmation hearing for Judge Amy Coney Barrett, President Donald Trump’s Supreme Court nominee, gets underway Monday in the Senate Judiciary Committee."
     publishedDateTime: 2020-10-12T09:58:00Z

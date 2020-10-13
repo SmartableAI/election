@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's economic advisor was caught on camera slamming the president's 'crappy' debate performance"
+    excerpt: "Trump event in Washington that the president's debate performance last month was \"crappy.\""
+    publishedDateTime: 2020-10-13T21:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-debate-stephen-moore-filmed-crappy-performance-report-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-debate-stephen-moore-filmed-crappy-performance-report-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-debate-stephen-moore-filmed-crappy-performance-report-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
     excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
     publishedDateTime: 2020-10-09T16:24:00Z

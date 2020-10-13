@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
 type: article
 quality: 180
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -171,6 +171,22 @@ related:
     excerpt: "The Democratic presidential candidate forged close ties with lenders over his Senate career. A recent shift on issues from student debt to buybacks has both progressives and Wall Street Democrats guessing whose side he is on."
     publishedDateTime: 2020-10-13T15:09:00Z
     webUrl: "https://www.wsj.com/articles/wall-street-regulation-biden-trump-election-11602601181"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-243025/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Keeps Everyone Guessing On Wall Street Regulation"
+    excerpt: "The Democratic presidential candidate forged close ties with lenders over his Senate career. A recent shift on issues from student debt to buybacks has both progressives and Wall Street Democrats guessing whose side he is on."
+    publishedDateTime: 2020-10-13T19:57:00Z
+    webUrl: "https://www.wsj.com/articles/wall-street-regulation-biden-trump-election-11602601181?mod=hp_lead_pos10"
     ampWebUrl: "https://www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
     type: article

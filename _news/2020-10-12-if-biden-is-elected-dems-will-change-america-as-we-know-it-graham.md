@@ -45,22 +45,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Joe Biden Wants to Be ‘President of All Americans’?"
-    excerpt: "It’s a meaningless platitude in a sea of meaningless platitudes. In fact, most of what Joe Biden says is a bunch of meaningless platitudes. But one sticks out, to me"
-    publishedDateTime: 2020-10-08T04:01:00Z
-    webUrl: "https://townhall.com/columnists/derekhunter/2020/10/08/joe-biden-wants-to-be-president-of-all-americans-n2577632"
-    ampWebUrl: "https://townhall.com/columnists/derekhunter/2020/10/08/joe-biden-wants-to-be-president-of-all-americans-n2577632?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/derekhunter/2020/10/08/joe-biden-wants-to-be-president-of-all-americans-n2577632?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/99737bff-a3b3-4fda-8f05-edaaafd875d3.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "Kyle Rittenhouse's Lawyers Demands Biden Campaign Retract Their Claim He Is a White Supremacist"
     excerpt: "Lawyers for Kyle Rittenhouse, one of the alleged shooters in Kenosha, Wisconsin, are demanding Joe Biden's Democratic presidential campaign retract their claim that the 17-year-old is a white supremac"
     publishedDateTime: 2020-09-30T18:30:00Z

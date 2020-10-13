@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump's economic advisor was caught on camera slamming the president's 'crappy' debate performance"
+    excerpt: "Trump event in Washington that the president's debate performance last month was \"crappy.\""
+    publishedDateTime: 2020-10-13T21:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-debate-stephen-moore-filmed-crappy-performance-report-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-debate-stephen-moore-filmed-crappy-performance-report-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-debate-stephen-moore-filmed-crappy-performance-report-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Second Stimulus Check Update: Pelosi Slams Trump's Relief Proposal As 'Grossly Inadequate'"
     excerpt: "The Trump administration's $1.8 trillion offer remains below the $2.2 trillion bill passed by House Democrats last week."
     publishedDateTime: 2020-10-12T01:20:00Z

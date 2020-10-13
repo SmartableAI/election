@@ -216,6 +216,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris and the stereotypes we place on Black women"
+    excerpt: "Kamala Harris (D-Calif.) continues the legacy of public shaming and insulting Black women. Trump’s hostility towards high-profile Black women is not limited to Harris: Throughout his presidency, Trump has tapped racist tropes in his efforts to attack Rep."
+    publishedDateTime: 2020-10-13T21:39:00Z
+    webUrl: "https://thehill.com/opinion/campaign/520884-kamala-harris-and-the-stereotypes-we-place-on-black-women"
+    ampWebUrl: "https://thehill.com/opinion/campaign/520884-kamala-harris-and-the-stereotypes-we-place-on-black-women?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520884-kamala-harris-and-the-stereotypes-we-place-on-black-women?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_10072020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden has spent $500 million on ads this year as he seeks the presidency"
     excerpt: "Joe Biden's campaign has spent over $500 million on TV, digital and radio ads this year. Biden's campaign has opened its checkbooks to target voters through ad buys in key states such as Ohio, Iowa, Pennsylvania,"
     publishedDateTime: 2020-10-09T22:40:00Z
