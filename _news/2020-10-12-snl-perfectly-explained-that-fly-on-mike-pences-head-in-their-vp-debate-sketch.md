@@ -121,6 +121,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Pence and debate fly are now a bobblehead figure"
+    excerpt: "You can own a piece of viral history with a bobblehead figure of Vice President Mike Pence and the fly that created buzz during the vice-presidential debate last week. The bobblehead by the Wisconsin-based National Bobblehead Hall of Fame and Museum commemorates the viral moment from the 2020 Vice Presidential Debate between Pence and Senator Kamala Harris in Salt Lake City on Wednesday,"
+    publishedDateTime: 2020-10-12T21:47:00Z
+    webUrl: "https://www.mlive.com/news/2020/10/mike-pence-and-debate-fly-are-now-a-bobblehead-figure.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/10/mike-pence-and-debate-fly-are-now-a-bobblehead-figure.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/10/mike-pence-and-debate-fly-are-now-a-bobblehead-figure.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CBN7U3HJKNGYHMPBFOQFMZICHA.jpg"
+        width: 962
+        height: 680
+        isCached: true
   - title: "'The road to victory goes straight through Pa': VP Pence amps up campaign in Lititz"
     excerpt: "Vice President Mike Pence made a campaign stop in Lititz on Tuesday, Sept. 29 to host a presidential debate watch party."
     publishedDateTime: 2020-09-30T03:10:00Z

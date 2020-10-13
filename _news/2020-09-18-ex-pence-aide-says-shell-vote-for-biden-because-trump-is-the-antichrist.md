@@ -2091,6 +2091,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Joe Biden leads Pres. Trump in key states"
+    excerpt: "Watch \"Joe Biden leads Pres. Trump in key states\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-13T00:43:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201013061723-joe-biden-leads-pres-trump-in-key-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/13/story_07227777_1602570664.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z

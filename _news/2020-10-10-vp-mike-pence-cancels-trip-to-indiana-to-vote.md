@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mike Pence and debate fly are now a bobblehead figure"
+    excerpt: "You can own a piece of viral history with a bobblehead figure of Vice President Mike Pence and the fly that created buzz during the vice-presidential debate last week. The bobblehead by the Wisconsin-based National Bobblehead Hall of Fame and Museum commemorates the viral moment from the 2020 Vice Presidential Debate between Pence and Senator Kamala Harris in Salt Lake City on Wednesday,"
+    publishedDateTime: 2020-10-12T21:47:00Z
+    webUrl: "https://www.mlive.com/news/2020/10/mike-pence-and-debate-fly-are-now-a-bobblehead-figure.html"
+    ampWebUrl: "https://www.mlive.com/news/2020/10/mike-pence-and-debate-fly-are-now-a-bobblehead-figure.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2020/10/mike-pence-and-debate-fly-are-now-a-bobblehead-figure.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CBN7U3HJKNGYHMPBFOQFMZICHA.jpg"
+        width: 962
+        height: 680
+        isCached: true
   - title: "\"SNL\" Perfectly Explained That Fly On Mike Pence's Head In Their VP Debate Sketch"
     excerpt: "If you've been anywhere on the internet in the past week, you've probably heard about the fly that spent a whole two minutes chillin' on Mike Pence's head during the vice presiden"
     publishedDateTime: 2020-10-11T21:42:00Z

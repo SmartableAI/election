@@ -31,97 +31,127 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Jr. pushes back on Pelosi asking if steroids influenced the president"
-    excerpt: "Donald Trump Jr. pushed back on Speaker Nancy Pelosi (D-Calif.) on Wednesday after the Democratic leader questioned whether steroids influenced President Trump’s"
-    publishedDateTime: 2020-10-07T15:28:00Z
-    webUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the"
-    ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
+  - title: "As Trump holds rally, Fauci urges masks, avoiding mass gatherings"
+    excerpt: "As President Donald Trump held his first campaign rally since disclosing he contracted the coronavirus this month, top U.S. infectious disease expert Anthony Fauci said the United States faced a \"whole lot of trouble\" if it did not encourage universal wearing of face"
+    publishedDateTime: 2020-10-13T06:00:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-fauci-idUSKBN26X2K4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2K4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2K4"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537204245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C019"
+        width: 818
+        height: 545
         isCached: true
-  - title: "President Trump Ends Next Stimulus Package Negotiations Between Mnuchin And Pelosi"
-    excerpt: "President Trump has instructed his representatives, which to this point have consisted of Treasury Secretary Steven Mnuchin and White House chief of staff Mark Meadows, to stop negotiations until after the election."
-    publishedDateTime: 2020-10-06T19:31:00Z
-    webUrl: "https://www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/"
-    ampWebUrl: "https://www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/amp/"
+  - title: "Trump, still facing health questions, holds first public event since COVID-19 diagnosis"
+    excerpt: "U.S. President Donald Trump will on Saturday hold his first public event since being diagnosed with COVID-19 more than a week ago, aiming to show he has beaten the virus and is ready to resume campaigning,"
+    publishedDateTime: 2020-10-10T17:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26V09I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26V09I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26V09I"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 119
+      name: Reuters
+      domain: reuters.com
+    quality: 117
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cc4d4c5a627c507008af0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4752%26cropY1%3D0%26cropY2%3D2673"
-        width: 1200
-        height: 675
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201010&t=2&i=1536938601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG99050"
+        width: 819
+        height: 545
         isCached: true
-  - title: "Alec Baldwin defends portraying Donald Trump on 'SNL' while president is hospitalized"
-    excerpt: "Alec Baldwin says he wouldn't have reprised his role as President Donald Trump on \"SNL\" while Trump was hospitalized if he was \"truly, gravely ill.\""
-    publishedDateTime: 2020-10-05T12:24:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/05/trump-hospital-alec-baldwin-defends-snl-skit-after-covid-news/3621055001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3621055001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3621055001"
+  - title: "Fauci: Trump ad taking him out of context 'really disappointing', should be taken down"
+    excerpt: "Asked by \"The Lead\" anchor Jake Tapper whether he believes the ad should be taken down, Fauci said, \"I think so.\""
+    publishedDateTime: 2020-10-12T22:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5972629002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/5f4edcd4-b446-4136-8cf7-987c080931fd-GTY_1228670944.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
-    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
-    publishedDateTime: 2020-10-09T16:24:00Z
-    webUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/"
-    ampWebUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+  - title: "Trump says he'll 'kiss everyone' in crowd at rally"
+    excerpt: "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience."
+    publishedDateTime: 2020-10-13T01:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 74
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Virus_Outbreak_Congress_13038.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Second Stimulus Check Update: Pelosi Slams Trump's Relief Proposal As 'Grossly Inadequate'"
-    excerpt: "The Trump administration's $1.8 trillion offer remains below the $2.2 trillion bill passed by House Democrats last week."
-    publishedDateTime: 2020-10-12T01:20:00Z
-    webUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446"
-    ampWebUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
+  - title: "Trump returns to campaign trail after bout with covid-19, amid criticism he is still not taking pandemic seriously"
+    excerpt: "President Trump returned to the campaign trail Monday, holding his first rally since being hospitalized earlier this month, as part of an intense effort to demonstrate that his bout with covid-19 is behind him and that he is the more vigorous of the two septuagenarian candidates vying for the presidency."
+    publishedDateTime: 2020-10-13T02:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/democratic-house-speaker-nancy-pelosi-wants-to-spend.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEO3FNQM4AI6XCRVEN7PD2ZO64.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Nancy Pelosi calls Donald Trump plan ‘one step forward, two steps back’"
-    excerpt: "Pelosi and Treasury Secretary Steven Mnuchin head into weekend negotiations with the top-line number for relief fast approaching the $2 trillion level that many Senate Republicans say they cannot accept."
-    publishedDateTime: 2020-10-10T17:22:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK.html"
-    ampWebUrl: "https://m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/world-news/nancy-pelosi-calls-donald-trump-plan-one-step-forward-two-steps-back/story-kzMqdWBhhzMpNESGjgPfuK_amp.html"
+  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
+    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
+    publishedDateTime: 2020-10-06T09:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
+    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
+    publishedDateTime: 2020-10-13T01:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
+  - title: "Trump Doubles Down on Campaign Ad Using Dr. Fauci’s Words Out of Context: ‘We Have Done a Phenomenal Job…Many People Agree’"
+    excerpt: "Trump is doubling down on an ad using Dr. Fauci's words out of context, insisting in a tweet that it was fine because \"they are indeed Dr. Fauci's own words.\""
+    publishedDateTime: 2020-10-12T01:56:00Z
+    webUrl: "https://www.mediaite.com/donald-trump/trump-doubles-down-on-ad-using-faucis-words-out-of-context-we-have-done-a-phenomenal-job-many-people-agree/"
+    ampWebUrl: "https://www.mediaite.com/donald-trump/trump-doubles-down-on-ad-using-faucis-words-out-of-context-we-have-done-a-phenomenal-job-many-people-agree/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/trump-doubles-down-on-ad-using-faucis-words-out-of-context-we-have-done-a-phenomenal-job-many-people-agree/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 49
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/03/GettyImages-1212251376-scaled-e1584135551879-1.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "+asZJ0JAzumMzGCSjqHpw6gqRCqr5FUCiMpTkIpPplnMdbvcyKlCQGbDSm5TZXahgZdXo0ElFhMLe2vt2JMWl32/Sr3Ru7XFYxdeSYyOeWm3sYwmCIqQblpip5EgpzHPp5Evlub3eTssgOoGRRU2cSS8b8rHkJRMBJuzKLB7mBObojkB7fSTP7bhWepIUqZI03KHfzyirhrwE6VHUEyx2GDhmqByZIA+0pwYHYcZwsJz2gQIjdEaC77U5nF5uhBVXakB5I+CfP0z7CR1MZm5+1LomjOhuvkE+j+EsqDAI/B/2HGosji29rO5meYIN2SiGLnSPzgw2EkeJHyeuSdss5kkzn74bxlvktMtouTVFWo=;j9FuY+yJrS0M8eJcBH22Cw=="
 ---

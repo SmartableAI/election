@@ -43,17 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How a Probe of Trump-Russia Ties Turned Into a GOP Rally Cry"
-    excerpt: "The special counsel’s investigation into ties between Russia and President Donald Trump’s 2016 campaign revealed damaging, or at least embarrassing, information about the president."
-    publishedDateTime: 2020-10-13T04:15:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry?context=amp"
+  - title: "How a probe of Trump-Russia ties turned into a GOP rally cry"
+    excerpt: "In 2016, Donald Trump's campaign chairman shared polling data with an associate suspected of ties to Russian intelligence. Another Trump associate sought inside information about Democratic emails stolen by Kremlin operatives."
+    publishedDateTime: 2020-10-13T04:12:00Z
+    webUrl: "https://www.chron.com/news/article/How-a-probe-of-Trump-Russia-ties-turned-into-a-15642891.php"
+    ampWebUrl: "https://www.chron.com/news/amp/How-a-probe-of-Trump-Russia-ties-turned-into-a-15642891.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-a-probe-of-Trump-Russia-ties-turned-into-a-15642891.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/53/20/20100142/3/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
     excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
     publishedDateTime: 2020-10-07T02:17:00Z

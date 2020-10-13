@@ -843,6 +843,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump, Biden try to line up by Fauci as they court voters"
+    excerpt: "President Donald Trump and Democrat Joe Biden are both looking to harness the credibility of America’s best-known infectious disease expert, Dr. Anthony Fauci, as they make their case to American voters."
+    publishedDateTime: 2020-10-13T03:15:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Joe Biden pushes back at President Trump for downplaying masks, says wearing one is \"patriotic\""
     excerpt: "After President Trump's mask photo op on the White House balcony, his Democratic rival is emphasizing the importance of masks. In a NBC News town hall, former Vice President Biden told the audience wearing a mask was a \"big deal\" and \"patriotic."
     publishedDateTime: 2020-10-06T11:57:00Z
@@ -1034,6 +1045,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Currency Traders Are Betting Against Trump, Too"
+    excerpt: "This is certainly what traders are betting on. In recent weeks, the yuan has appreciated strongly against the U.S. dollar — so much so that over the weekend, the People’s Bank of China removed one of the signature tools it uses to stabilize a weaker currency."
+    publishedDateTime: 2020-10-13T00:19:00Z
+    webUrl: "https://www.washingtonpost.com/business/currency-traders-are-betting-against-trump-too/2020/10/12/3df6d0ea-0ce9-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6QCKDAM5EI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
   - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
     excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
     publishedDateTime: 2020-10-06T14:54:00Z
@@ -1097,6 +1122,22 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/6893237_100920-ap-split.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Election 2020: Trump Tweets Democratic States Are 'Going To Hell'"
+    excerpt: "Trump's tweets come amid new national polls indicated that he is trailing Democratic challenger Joe Biden by double-digits."
+    publishedDateTime: 2020-10-13T01:15:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
+        width: 1024
+        height: 651
         isCached: true
   - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
     excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
@@ -1572,17 +1613,6 @@ related:
         width: 1024
         height: 688
         isCached: true
-  - title: "Trump, Biden Try to Line up by Fauci as They Court Voters"
-    excerpt: "President Donald Trump and Democrat Joe Biden are both looking to harness the credibility of America’s best-known infectious disease expert, Dr. Anthony Fauci, as they make their case to American voters."
-    publishedDateTime: 2020-10-12T23:33:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "‘Decision 2020: Joe Biden Town Hall’ | How to watch, live stream, TV channel, time"
     excerpt: "Lester Holt of NBC’s Nightly News will be hosting 'Decision 2020: Joe Biden Town Hall' with the democratic presidential candidate tonight at 8 p.m. ET."
     publishedDateTime: 2020-10-05T19:55:00Z
@@ -1830,6 +1860,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "6DATYj7E1daEV1/AzuNj1zvq9H0HiTKrInrxRV3B1HgCabBc4f6jeMBBDLXLBo+P10xbGEtPn3F6d7lgd2zrRciseQmBcfITJQnsxupWVt0x8VtFgzV6SeFgRhbH8ZvLFOhZRYjKGGzI0TNuc0oXtDMlb5RTqUr8lRIYkm2P+Pl5f0NZZWZ7VulL7IFjNV+ysri+7u+whgJwspAUdYEbFOdYuhnfi1Aotcz/1hW6PHMk/YJuR5UIU/dH93RfkVd6L+nnMbaMaxq3hXSmUQ1XSNuRwC6kR33zMhDsNY7EgheWDggvwGSR/b82e/CIqW71fIOXTp+dN+XkP0YLvQC7P5EnCmGTiMbXSs4jiY1sYyk=;+YdgbQ1vV6x0jv5LSkGumQ=="
+secured: "cr3as5p+bWv8EkHRBE3r7NYOUdIm/GLpMhaZ322Cx8Yd9mJJGXPWro2lbbY6TxINWJw1r8+wa3W2oTZEB9RwXxIltNNbK4Lx0SXIoijCNKjWPjXfk7FU5+AS94yaBfDOWsqGRMUOsVppBUXcmIFOWk8uDCkv59Hidav0vN4lui2RST6R9XGc9K0WfNxse9KWiyJ+lLqocweU8U8T5Ll4yr59xEPF2cNKHxY1wcW+4mZwQeulIgAiZwYGBjScyINECywh0/Sv4K3XjLUOl19qV7R0z1ek+2dy73H5J4F+Ibu6EoagWn0dNLgU+0KQUZFf7uKehSQU+cZXxQm6u+ydBELx0VOpInNGNRudkdZR9kSWZeyL3Ee30+ZPf7u/jS20MJjU88nLcfUWlOgMy0kVWIxEMxWuJhJU6MuzYzx+ePLmNJVlhfRWRYPkXjll5cOGFfJububcsWnTK3t0iYOVYpxzwZ+L7nrr8yvkVY2weUn13qxH929FRim6coHZMxh9jCPqPGaH/l9pkl6onMSuAw==;U0da8nNSVPUSN5eLnApLXg=="
 ---
 

@@ -1,28 +1,30 @@
 ---
 category: news
-title: "How a Probe of Trump-Russia Ties Turned Into a GOP Rally Cry"
-excerpt: "The special counsel’s investigation into ties between Russia and President Donald Trump’s 2016 campaign revealed damaging, or at least embarrassing, information about the president."
-publishedDateTime: 2020-10-13T04:15:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-13/how-a-probe-of-trump-russia-ties-turned-into-a-gop-rally-cry?context=amp"
+title: "How a probe of Trump-Russia ties turned into a GOP rally cry"
+excerpt: "In 2016, Donald Trump's campaign chairman shared polling data with an associate suspected of ties to Russian intelligence. Another Trump associate sought inside information about Democratic emails stolen by Kremlin operatives."
+publishedDateTime: 2020-10-13T04:12:00Z
+originalUrl: "https://www.chron.com/news/article/How-a-probe-of-Trump-Russia-ties-turned-into-a-15642891.php"
+webUrl: "https://www.chron.com/news/article/How-a-probe-of-Trump-Russia-ties-turned-into-a-15642891.php"
+ampWebUrl: "https://www.chron.com/news/amp/How-a-probe-of-Trump-Russia-ties-turned-into-a-15642891.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/How-a-probe-of-Trump-Russia-ties-turned-into-a-15642891.php"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.hdnux.com/photos/01/14/53/20/20100142/3/375x250.jpg"
+    width: 375
+    height: 249
+    isCached: true
 
 related:
   - title: "Trump lashes out at Barr after realizing inquiry into Russia probe won't be public before election"
@@ -74,6 +76,6 @@ related:
         height: 682
         isCached: true
 
-secured: "HPM/agbyMnZ9KbKh6xm/Q1YN9HKBFzD8E2l1l1CDqY56YvoXiC4pmwC3nIUWZ6atGgFgNlxZrQfPAZiDdam6LvNFKawds69th1lIpTarWw3craqgGlcqibbGIkqxQG3KezgrhMYCZTsWlrSGuaBGrVVpnIDSmtd5tl9oeO96ZfJfmEAULOXauLNY1aNx6cRKAUKaL6eHvUadfw+aU8lQlBoOWKCe20oofKOysbIktCTOB7hfQpzYIC7WVXw6WHeRzImnJ1bpfJpHwZVoyCwV1zGHzfJ0eXs/4kobhqsdDMg3vYBHf+Fxkb+3EJwGuqV0q/1Vn4ToUQUt6qnv4Z46dkHvx7H29a65VW0W9nnYDj7/fYV+FNfxao20x56nt/pYpvU1P0CWHLO3wLHd1UUxcaILOal12ERHOvmpbb2cU1wp2x/zrrMWK1VDQ5oDD7rTNkcx9RNltMMatbqhWN8OsEcRBZn3m/WJnZBY1m3tKS5+4ZPSP+ETtVboaDvMaehdtgcfbiFKz/tojPbhGYKubQ==;YMXrnZX1kUcCS46baim74w=="
+secured: "LpPDrp9t816edC+l3yIbmfPuNMFY52IoC63oCOTU3VOrDGvLQNb67NU8l+y2XtuNiy7iQYCUZzdhLCp7GugMDTIh6oQCtmyB+aurCNuoXOX9IS7l2M0RGkidx+tf4xpm2Gv+v6MmeZCaOV/NhsKgltvhYEYUh93tD6SRTyXsSVIqMnQmTmfZU8+lejjlKJujJI6apY+HjnzDcmBDMOkAVUyUBEy/itddCw/vMD0KvdWYJjw6ZB6ULzX7Y50n/jETmdzYALGnQSEc4vdvb7AoEUB8TiMOAZ5kDN94HUOmhQdHQOqsHYJeXb0D/OE7KZkhbBteLdzEmHgDzZvUUcn/v8JW5kY6t+cjk9t47jKmhZs=;zThPVjuXAiMWq7eSequE8g=="
 ---
 

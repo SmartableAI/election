@@ -360,6 +360,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Trump Fires Off 102 Tweets Prior to His Florida Rally on Monday"
+    excerpt: "Donald Trump was noticeably excited to return to the campaign trail after being hospitalized with coronavirus. On Monday, October 12, Trump had fired off 102 tweets prior to the start of his rally in Florida."
+    publishedDateTime: 2020-10-13T04:26:00Z
+    webUrl: "https://heavy.com/news/trumps-tweets-twitter-florida-rally/"
+    ampWebUrl: "https://heavy.com/news/trumps-tweets-twitter-florida-rally/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/trumps-tweets-twitter-florida-rally/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228998503-e1602535607388.jpg?quality=65&strip=all"
+        width: 4432
+        height: 2497
+        isCached: true
   - title: "65% Of Americans Agree Trump Could've Avoided Getting Coronavirus, Reuters Poll Reveals"
     excerpt: "The president announced his coronavirus diagnosis on Friday after senior counselor Hope Hicks tested positive for the virus."
     publishedDateTime: 2020-10-05T03:18:00Z
@@ -376,6 +392,22 @@ related:
         width: 1024
         height: 646
         isCached: true
+  - title: "Watch Donald Trump shake it to the Village People’s Y.M.C.A. at Florida campaign rally"
+    excerpt: "President Donald Trump energetically returned to the campaign trail on Monday after having been hospitalized for coronavirus. “President Trump returned to the campaign trail Monday, holding his first rally since being hospitalized earlier this month,"
+    publishedDateTime: 2020-10-13T05:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-donald-trump-shake-it-to-the-village-peoples-y-m-c-a-at-florida-campaign-rally/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-donald-trump-shake-it-to-the-village-peoples-y-m-c-a-at-florida-campaign-rally/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-donald-trump-shake-it-to-the-village-peoples-y-m-c-a-at-florida-campaign-rally/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-14.png"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Trump Restarting Campaign With White House, Florida Events"
     excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
     publishedDateTime: 2020-10-10T04:25:00Z
@@ -388,6 +420,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "LXGABb6Orxpl8mtSCfZpHp61r/pD4TPWS8TWG5HcP1RihWaW4LMBJjeqqVNO01GTqz+R9GLLV769raAuAaV4G8/F1YFWMQJbXMmsc7wDa3QSYjYmIkmiSORGB9noaI513Um5ihoDI9potS/JZHk8SEiUFC1NOQuEz/tR7DSQ3laFZEwU1gWWwOdJkZl7EDV+NHNJSPn4DPKGwD+Ine2pboSs14bU57FyVYWeluEWzogQufHnBOz2L4uNnhuYqMnhRBEPAuF7nqsXOtGjHztACVnOcavi3XDPg8bSUVnHfJ3HHnDPFtbRBq/x+o9/3Rca1NFyiiA0Z1ibBsf8ziIm/aQNDyL/13geP/0FzgC08YE=;mA54MzklrN9TKnTSxFNk/A=="
+secured: "3Cgi50jXh7gWNrJJWZIhxJau3k/CArjgbZulPOY5nOpri8tx0cvNjtJoPL7pKhpMlngfpuXzp4uyrasv2wDgK2yf7mlwdQubXUB/aXw812eE+6ZptxSu+BdwTPaQTycpQxkYpSkqhb4Nfp6dXHW42B5I+aWsHVEciLoLK2QqrXpruTIxd4qH+M2ZiwW4v0/GDQd1JZ1XUwWpSJ9ql+KjJ2p1u6nrFehYjb/oPn8T5p1t2Kw4l4+5AKjwtM4EYCw7JHdbImrbVxsymDbyeOjlAlDUBeX+7tSKesfAydWhWQvSJY06bh3/MqFsHQnH61cJGyPAwl4MdPThnbSzYOxMih37sVvuVKfhZYHpRoTJY9Qf6CFgCLPeX8P+mk2BBEJhDwMebcx536Fa86GDcAuo2nmF0xu3KgEkH+a04WxqXTvB5oGncylSfmuzjmvno8hYN+2fLeVaaOF5DOLW11U9vEMoz2qoA+TQxcV54zp3XM0hncUrx/F05ARYO9AhiLV+hXDP33ByUu/GnhXFdCByOA==;7+e1qBWKG74WK9t2dtLOmg=="
 ---
 

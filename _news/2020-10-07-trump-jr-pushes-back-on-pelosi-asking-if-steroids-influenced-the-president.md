@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-b
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
 type: article
 quality: 123
-heat: 243
+heat: 223
 published: true
 
 provider:
@@ -106,22 +106,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 55
-  - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
-    excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
-    publishedDateTime: 2020-10-06T14:54:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 51
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png"
-        width: 800
-        height: 430
-        isCached: true
 
 secured: "ks4ueiXOG9BlM/hto4/qj5Ey2ZNG2oUn3FKrNrFrhP8rT/ewF8pgMEGUnJtvZ38u2V3mI4Dk5ATkIXChMTpvDYEILVLtIz3B1WSf+UPiy3P4vjAExURtRvrTqgHctf6huu601YEA5wPxBiVfeidfvgWNeyLhF+KOMl3KUuxfFKnre7vs+tlzqWrDU4XBbXmwwQV4fqV0ouRQtVw56oDM8xl8qOWXse2vMk8R+GD6m0A/FEhDK5yV3QW8SwaXaXU7Aa/D/mGULSi3IWEcxcvw0muJblPYDQmItD3rdUrXYC7h4/ZNszfLOQcsnoztWhiQ03uG7/AH7f2IRypCwRXxC4irYtpr+RjsTzdx6q3AZ7zQV96ajlLFXRouS8y0g0o8wh5AkMTnVD9YU6EyZJRQH51gRKb40shtDnVI8FQ/ElffLKEJ2LuHbqhiHifwCtHLTjNaK54dkD8LSJ5Nh8sbkH1YHq/z3Ronx3yfJdVO284sGOC38YZuG7vvEu8kw8N8OhoQIfP+bl04S/KNDXiAZA==;AuPPNnvP+egu0QQHbKOs4Q=="
 ---

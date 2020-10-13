@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump, Biden Try to Line up by Fauci as They Court Voters"
+title: "Trump, Biden try to line up by Fauci as they court voters"
 excerpt: "President Donald Trump and Democrat Joe Biden are both looking to harness the credibility of America’s best-known infectious disease expert, Dr. Anthony Fauci, as they make their case to American voters."
-publishedDateTime: 2020-10-12T23:33:00Z
-originalUrl: "https://www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters"
-webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters"
-ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-12/trump-biden-try-to-line-up-by-fauci-as-they-court-voters?context=amp"
+publishedDateTime: 2020-10-13T03:15:00Z
+originalUrl: "https://www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10"
+webUrl: "https://www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10"
+ampWebUrl: "https://www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10?amp"
 type: article
-quality: 70
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -1044,6 +1044,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Currency Traders Are Betting Against Trump, Too"
+    excerpt: "This is certainly what traders are betting on. In recent weeks, the yuan has appreciated strongly against the U.S. dollar — so much so that over the weekend, the People’s Bank of China removed one of the signature tools it uses to stabilize a weaker currency."
+    publishedDateTime: 2020-10-13T00:19:00Z
+    webUrl: "https://www.washingtonpost.com/business/currency-traders-are-betting-against-trump-too/2020/10/12/3df6d0ea-0ce9-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6QCKDAM5EI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
   - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
     excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
     publishedDateTime: 2020-10-06T14:54:00Z
@@ -1107,6 +1121,22 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/6893237_100920-ap-split.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Election 2020: Trump Tweets Democratic States Are 'Going To Hell'"
+    excerpt: "Trump's tweets come amid new national polls indicated that he is trailing Democratic challenger Joe Biden by double-digits."
+    publishedDateTime: 2020-10-13T01:15:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
+        width: 1024
+        height: 651
         isCached: true
   - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
     excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
@@ -1829,6 +1859,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Zv6oU+wb+WJUYFiMyhM7n01GFrKfT8aZgr1ORMfpEOfddvftiUqYIbLTrENzlOd1EPi5ehO2vEI7yaDqkxAq2q/e8JWtUgCW1Cpg7VqMCj9HV/6q27Bw46t6d2ueRGT3yrL0l29y2GBpscqnEOEMRYteEHVVEcNAkeKJ6pdb0IQ+lp888kJmS5PS+qJ/cw20RLfSpzFnpIAgTbel/tNsNWl+BvuBvnNLAUYNtEaLBUD5HhRS2vAPF+iyDXoVs7zh+AMSs0AOj6G9sBh9nh+rXDYdri390KVGhzK9uS2MSDY1PaxCNQK6DqLWwrn/nTViDjbLz/qfykW6x6cn+olnIcoLDZVSDmvlcOMLjfmVj4r3PzLX71F11yx+EGSxZl/+fBdhUjLnW3IvkwQaewdWsn8td1ldIlVzuENieaW5yp6M5ttGpFw6RhmsK1LVdqdyEjlQi/UCzPX3IFy07Xw2I9Q/ESpj9EdFAn2uxmVUyRyceWjqRxl55cjMPxz3WcoSr+EcLJQFK6xxYAGWepEoeg==;JZF7Y6Hv0kvqRfXUoUOL6Q=="
+secured: "Od6qLC6wNUNVQ0EYUWeGQBMHTsrO373qkjA1vMzg2Bo0UydsJhSARAGs6Jr54kiJiIlkzVSoVVjrN16mBLC2eJqd66BdA8JCiyEV7oPpev9giiL/RZVmsDx0ErzanXg/kPELiZNGkkJLJXzYHxPTbTyWkHbsMFIa9asieDBmn+NyuoHTL7Kd7vjCW4qFLkWJ8CL1xfymheQ2X8er7fAvoyM79V+sGyupnnzIc6sWdT9XxEMgmSf0Oh9IhELVzVggem6iJFoDZI/jD+ZJmvY0jF1qIhqHg/+0aQhVenM2DRtVYAEchQsayhZMPRjBg4Yw0n3KC0nK5qbVQDi1uwoPPJKcjYl3OZnoPZcAUTAOB3U=;n5+dRWWifXdXUtwFKpUSjA=="
 ---
 

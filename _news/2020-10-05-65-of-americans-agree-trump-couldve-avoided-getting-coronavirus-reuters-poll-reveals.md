@@ -376,6 +376,38 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Trump Fires Off 102 Tweets Prior to His Florida Rally on Monday"
+    excerpt: "Donald Trump was noticeably excited to return to the campaign trail after being hospitalized with coronavirus. On Monday, October 12, Trump had fired off 102 tweets prior to the start of his rally in Florida."
+    publishedDateTime: 2020-10-13T04:26:00Z
+    webUrl: "https://heavy.com/news/trumps-tweets-twitter-florida-rally/"
+    ampWebUrl: "https://heavy.com/news/trumps-tweets-twitter-florida-rally/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/trumps-tweets-twitter-florida-rally/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228998503-e1602535607388.jpg?quality=65&strip=all"
+        width: 4432
+        height: 2497
+        isCached: true
+  - title: "Watch Donald Trump shake it to the Village People’s Y.M.C.A. at Florida campaign rally"
+    excerpt: "President Donald Trump energetically returned to the campaign trail on Monday after having been hospitalized for coronavirus. “President Trump returned to the campaign trail Monday, holding his first rally since being hospitalized earlier this month,"
+    publishedDateTime: 2020-10-13T05:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-donald-trump-shake-it-to-the-village-peoples-y-m-c-a-at-florida-campaign-rally/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-donald-trump-shake-it-to-the-village-peoples-y-m-c-a-at-florida-campaign-rally/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-donald-trump-shake-it-to-the-village-peoples-y-m-c-a-at-florida-campaign-rally/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-14.png"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Trump Restarting Campaign With White House, Florida Events"
     excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
     publishedDateTime: 2020-10-10T04:25:00Z

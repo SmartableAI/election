@@ -101,22 +101,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
-    excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
-    publishedDateTime: 2020-10-06T14:54:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 51
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png"
-        width: 800
-        height: 430
-        isCached: true
 
 secured: "uf9eZHpmuN4xsi56J+CBHtt2xiBNCn0/GwbcPWAaxZRsTfG1uCQZ6FXzPq2mBLCsir3itjcbImVpAv1yTFmyvc8zdr1VpGBcB76ee8BqvVOOhhbE28RSPE84yJW3BAAx6tXH9eygcea3STILaTVEDqaByXQqgFH2bTXalX5Q+xGTIpwbfDyAEfLp96yt/EEMvHLTjZmmMHHRATY1lRvnvpx3q7GQ69J8LLIozddVZghzC8vwZ+D6Uu+N8JGsrDbLz/h03I4loje4wKLgdLuiWva3PXekvbSGdaSatDa4/tdOWwV8ynMD1cwxj+zT5Rcrlw/PbkOOX1bp8cp+H0114/cPhskscopKrESMItS+13xK2NKDLkS6NOOLz6sZ4EXATR8fGCfp8YIgdRWAh0pbjVfh+VQu4jbXhuuULLCiOCAH93ZcyS+WPALuu0s3URvmBGyviM5fOV+arXPE4q4CJHDhKU79K0gaphJ3LaiZefd+0EZycxqNQAM/iByCzuc9sw/czJTUHV3gR6CrgMU6HQ==;4FScEt34lz0i9e2ZGGxdpQ=="
 ---

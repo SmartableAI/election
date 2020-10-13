@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5972629002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002"
 type: article
 quality: 117
-heat: 157
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,21 +31,110 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump coughs during his call-in interview on Hannity, but says he's feeling 'really good'"
-    excerpt: "Caught between subjects, President Donald Trump coughed and had to pause for a few seconds before continuing on with no check-in from host Sean Hannity."
-    publishedDateTime: 2020-10-09T02:19:00Z
-    webUrl: "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trump-coughs-during-hannity-interview-on-fox-news-2020-10?amp"
+  - title: "As Trump holds rally, Fauci urges masks, avoiding mass gatherings"
+    excerpt: "As President Donald Trump held his first campaign rally since disclosing he contracted the coronavirus this month, top U.S. infectious disease expert Anthony Fauci said the United States faced a \"whole lot of trouble\" if it did not encourage universal wearing of face"
+    publishedDateTime: 2020-10-13T06:00:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-fauci-idUSKBN26X2K4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2K4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2K4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537204245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C019"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump, still facing health questions, holds first public event since COVID-19 diagnosis"
+    excerpt: "U.S. President Donald Trump will on Saturday hold his first public event since being diagnosed with COVID-19 more than a week ago, aiming to show he has beaten the virus and is ready to resume campaigning,"
+    publishedDateTime: 2020-10-10T17:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26V09I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26V09I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26V09I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201010&t=2&i=1536938601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG99050"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "Trump says he'll 'kiss everyone' in crowd at rally"
+    excerpt: "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience."
+    publishedDateTime: 2020-10-13T01:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump returns to campaign trail after bout with covid-19, amid criticism he is still not taking pandemic seriously"
+    excerpt: "President Trump returned to the campaign trail Monday, holding his first rally since being hospitalized earlier this month, as part of an intense effort to demonstrate that his bout with covid-19 is behind him and that he is the more vigorous of the two septuagenarian candidates vying for the presidency."
+    publishedDateTime: 2020-10-13T02:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEO3FNQM4AI6XCRVEN7PD2ZO64.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
+    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
+    publishedDateTime: 2020-10-06T09:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 91
     images:
-      - url: "https://i.insider.com/5f7fc1caea74820019ca6178?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
+    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
+    publishedDateTime: 2020-10-13T01:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
+    excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
+    publishedDateTime: 2020-10-06T14:54:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 51
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png"
+        width: 800
+        height: 430
         isCached: true
   - title: "Trump Doubles Down on Campaign Ad Using Dr. Fauci’s Words Out of Context: ‘We Have Done a Phenomenal Job…Many People Agree’"
     excerpt: "Trump is doubling down on an ad using Dr. Fauci's words out of context, insisting in a tweet that it was fine because \"they are indeed Dr. Fauci's own words.\""
@@ -64,6 +153,6 @@ related:
         height: 627
         isCached: true
 
-secured: "JIWy5vfg8/TkeU4OvaNvXGBQFbHScNSAOyxWcO8zgj67CfiinVaxa2NLa5qHZB01/9UxcmAj2TMvjUvi60mCNFkLhF1ocxVlV6yPWBIKrSQECUYk04u7wH0rpqueNH7fYvnJeqO+VIXDpGYlbG2VRhZXLmhyhbVhXjnVEZm5IgEuxqTCHZYk4TGpNk8FS3b5Vesllo1ZVsqoGZ5ErvE5zuOenP0bFMKQpNSt/LyCxIkXjoT5Q4fpvZc9EpESJLvZ+pcXARPCb1qZO7zdi+TmKKzTRp5z/UbEcFnLnxenrFP0QuAyjqXSwjIRpsqMccQH09n6+O3YJ7XlsmM8e4c0h3CXbBYqJxNlvUubu08DXfKV23tKmH31HY3YXXAcdBYwWUkkasn07mJUrz1hidt+0tLeWlTg4Pe4XkrWZOAnRRnIBXk5Om7zoEQIf2gM9nu87LFpOXHPiQEyBT4PCunWx4wsr13oZ4nIxLA0n2XKdF+rCN4xbsCxTr51KCKyelra/SlV7MNJ+0ClDtluXa8bng==;yf8+vnnIXfOmjn9feAA1IA=="
+secured: "nKYcgL8tjLYElgSAgW89lCYT8iPUctr96bkwPS4tCULqCXprA9AxyQu+GHcRu9BSTfjsdYs8HoCgGP5wnb10DX3XuzIQWF83jWvAkT19iY8TMMAiCcOcwGhTi77htQ4ITdHT4n40n9XJpFSeFeZyf4J27XMk0lC2z92/o+Ud3X17kKtcLVkJ5cmcn98CZ1Llm0HzNJm94RkFG2aKDJ8AR3MetcINThcyU07SpgYkgMGMvCgD7JImIzidDpv8kvUQywV2pA6TMj/nWmkjvBtB2mrCfA9GbggFDvSFfH+4jFIMEcJyyCFFwrWJU+aSGuw1Yp7gcy3rau5m4YR7/9urwLHSir/0GGN1v4qL6mTinhj0hfcvTXaZ2cwaOTvcJdyrvZJaU+UYBJ0PmZ0u34X3moATeqqeV2ZK07s3om4/Rsort4Z99teqv+8tWEWL32gMu+F5vHwauPnA+wHlHcWoW7XqUeSLW18Tmi7ya0E6aFXwUbaDyKV7ev2nu12fYgMsptckbeJksLl5G/iyxTCMpg==;B46ANzPPrLZ9UAJKmN/eAw=="
 ---
 

@@ -106,22 +106,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 55
-  - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
-    excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
-    publishedDateTime: 2020-10-06T14:54:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 51
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png"
-        width: 800
-        height: 430
-        isCached: true
 
 secured: "N17RC1tXMb75aG5DAl2mnHdr8fMTBebLNqLR0j3KTWICOlt5kuOeoxCRMQNhSi5gMWxG2xtezhDj7zEJ5mPD81xcRwCTy1aAyhx50fefkckT+R19ACqWJEFvXU7167GozS5oXA+hA9d8nQDiw/KYE3jmf0CS7vAVLYc0kd+nlyyHsnGjfJkVehdnjbNsNUmp2S+yZv509RyVhimmX6fwcdp3z4KVF4jOOyvUIRJ6IUyb8jqj5bMiQj2YCdGLu1HgBZPZMBDuNtXPOzr7RnNBKQluAnBvTQslgCgxx/FSSzgoXfmL6MfdBGXgXC3YWGR79uRg83B0wh8iNO//CXli2Ey7WKKc/yCUf+o6RWCcMx/rd6+fIBIBCNJXri4qXurqwhQzxGtw2V4gtxN/REMz/YLs7Rr+138aJ2LRNt+jWdrtvGN4JYckFlY7lCeGNr/kpXWz0EYTLItMm+o0BC1By4yoeSPOEdVk4ViUNv699K9/ArSmawj3SUxDLR00gVMs/MBiuOWsvnaRMy2krS0SEg==;ud30HYsr29SlhWsU9oCrKw=="
 ---
