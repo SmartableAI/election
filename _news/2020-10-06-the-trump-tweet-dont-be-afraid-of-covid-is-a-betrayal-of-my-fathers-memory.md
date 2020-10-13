@@ -240,6 +240,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "‘Having really a protective glow means something’: Trump claims Covid immunity"
+    excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
+    publishedDateTime: 2020-10-13T03:29:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 131
+    images:
+      - url: "https://static.politico.com/49/aa/ad2b2d124638b5caf4925848568e/20201011-trumpcovid-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Democrats rip Trump for suggesting Gold Star families could have given him Covid-19"
     excerpt: "Top congressional Democrats condemned President Donald Trump on Thursday after the commander in chief suggested that he might have contracted Covid-19 from Gold Star family members who were too close to him when telling stories of their loved ones who died in the line of duty."
     publishedDateTime: 2020-10-09T09:05:00Z

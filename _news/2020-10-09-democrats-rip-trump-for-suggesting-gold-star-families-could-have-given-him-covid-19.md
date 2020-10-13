@@ -256,6 +256,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "‘Having really a protective glow means something’: Trump claims Covid immunity"
+    excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
+    publishedDateTime: 2020-10-13T03:29:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 131
+    images:
+      - url: "https://static.politico.com/49/aa/ad2b2d124638b5caf4925848568e/20201011-trumpcovid-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump, battling Covid-19, says he's 'looking forward to' the next presidential debate"
     excerpt: "Centers for Disease Control and Prevention guidelines say people should isolate for 10 days from the point of showing systems, and in severe cases, 20 days."
     publishedDateTime: 2020-10-06T16:10:00Z

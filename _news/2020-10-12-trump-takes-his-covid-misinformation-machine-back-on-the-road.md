@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
 type: article
 quality: 175
-heat: 715
+heat: 735
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417702/201005-2x1-think-kristin-urquiza-ew-704p_721bf55af266e58488c46b95409e5ecb.jpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "‘Having really a protective glow means something’: Trump claims Covid immunity"
+    excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
+    publishedDateTime: 2020-10-13T03:29:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 131
+    images:
+      - url: "https://static.politico.com/49/aa/ad2b2d124638b5caf4925848568e/20201011-trumpcovid-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Democrats rip Trump for suggesting Gold Star families could have given him Covid-19"
     excerpt: "Top congressional Democrats condemned President Donald Trump on Thursday after the commander in chief suggested that he might have contracted Covid-19 from Gold Star family members who were too close to him when telling stories of their loved ones who died in the line of duty."

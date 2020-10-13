@@ -1,20 +1,22 @@
 ---
 category: news
-title: "‘The View’ Rips COVID-Riddled Trump: ‘He’s Learned Nothing!’"
-excerpt: "The co-hosts of “The View” absolutely unloaded on President Trump for telling the American people they don’t have to fear the coronavirus."
-publishedDateTime: 2020-10-06T20:33:00Z
-originalUrl: "https://www.thedailybeast.com/the-view-rips-covid-riddled-trump-say-hes-learned-nothing"
-webUrl: "https://www.thedailybeast.com/the-view-rips-covid-riddled-trump-say-hes-learned-nothing"
+title: "‘Having really a protective glow means something’: Trump claims Covid immunity"
+excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
+publishedDateTime: 2020-10-13T03:29:00Z
+originalUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+webUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
 type: article
-quality: 45
+quality: 131
 heat: -1
 published: false
 
 provider:
-  name: The Daily Beast
-  domain: thedailybeast.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thedailybeast.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +24,12 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+
+images:
+  - url: "https://static.politico.com/49/aa/ad2b2d124638b5caf4925848568e/20201011-trumpcovid-gty-773.jpg"
+    width: 1160
+    height: 773
+    isCached: true
 
 related:
   - title: "Trump takes his Covid misinformation machine back on the road"
@@ -248,22 +256,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "‘Having really a protective glow means something’: Trump claims Covid immunity"
-    excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
-    publishedDateTime: 2020-10-13T03:29:00Z
-    webUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 131
-    images:
-      - url: "https://static.politico.com/49/aa/ad2b2d124638b5caf4925848568e/20201011-trumpcovid-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Democrats rip Trump for suggesting Gold Star families could have given him Covid-19"
     excerpt: "Top congressional Democrats condemned President Donald Trump on Thursday after the commander in chief suggested that he might have contracted Covid-19 from Gold Star family members who were too close to him when telling stories of their loved ones who died in the line of duty."
     publishedDateTime: 2020-10-09T09:05:00Z
@@ -408,6 +400,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 102
+  - title: "‘The View’ Rips COVID-Riddled Trump: ‘He’s Learned Nothing!’"
+    excerpt: "The co-hosts of “The View” absolutely unloaded on President Trump for telling the American people they don’t have to fear the coronavirus."
+    publishedDateTime: 2020-10-06T20:33:00Z
+    webUrl: "https://www.thedailybeast.com/the-view-rips-covid-riddled-trump-say-hes-learned-nothing"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
   - title: "SNL’s Michael Che Can’t Hide Disappointment That Trump Survived COVID"
     excerpt: "Either Trump’s telling the truth and we finally have a cure for COVID,” the “Weekend Update” anchor said. “Or Trump is lying and he’s still going to die.”"
     publishedDateTime: 2020-10-11T05:10:00Z
@@ -436,6 +437,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "R7eJnh+VfSVpPsgIsbf4XzRMy7O4Mb2QDiS57Cp/GBIhw7NQpfQSN2BdPf+YtjXFuiQH1QjE4hqdrvqJoQna1mx1mB7cAoJCcblhaMhfmCUuAIIxNyVB9OWkTZzncPcoFCr/xJ0dJIj9m0PrQk4F0nCxz+vLzizEAXI9hKlt33XUFgmAlxsQpW/W2TQG0KSN1TXXS1hqv6fuRd0di41r8P2hX7owqHPPHekS+i6iX1CGaUpzvD23wDz9z3b+ouFNyM8oSrBNk/EXgMm5bWogtwFLQY2D/l2M0IEjA0IrHC8ekEyeMSwgJULZgSXIZHbExUsAQZsDddamGarfVZIoL37/9Tv+WPkI+/WsKy307ZmHCX6HieTu0rG4oB0TBlWaH85OW2Sag8GkuqecOdIEZvZWoyDgQJJ7i7Xi9XnMVj/KzFCMCA9P7zxXTGgPwSvd0XPm8YtmJwyzHbnPKyaBUnKzTRd5kqUBCOIDOUDDFh/R18VtDE3LPIH7jmuJPCsCKT/04LbG2TeRLnonx7Ay5Q==;jOY+TS6qwds9s/if7w7npQ=="
+secured: "U4ot4IRiez8wu1/uFfipoG+PFZKcRxI9x7/OEuujnR3yhdmr0R90Rm4YNRyiZoY7Yf0IMJFQZ+S59ZHg61iUY9xQfZHioLWoXhcC8N35Z9ZpDNBCbCmICppduRfk6h2WcDEVT+Nha2iDy7N5NYKOZBtHwiwCyq/+/L0QDTCfDIBOO3c37kjzRkYV+InhbRAbzjfFabAAAtUm+EJ3sjTkJ06r4bo+MJbN0gPZsnLHA/z2ZlJLiuuBT+ZIZMa/ORk8yev5peT9Qp4LOb3+mFwRLOlUJw7WnqRNxL2VQgMyXSGhoAkiZuaKxwbPkzlC+QNLpkGeVS1UIdHEr/lIxZ1iJJJlg1wFwEczlfk5TsQrvyY=;B3NVx/h12L6wAeRBA61cyg=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fauci reacts to Trump ad: This is disappointing "
+    excerpt: "Dr. Anthony Fauci told CNN's Jake Tapper the Trump campaign should remove their ad featuring his comments which he says were used out of context.\n    \n"
+    publishedDateTime: 2020-10-12T20:31:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ixi9o9c1GgA/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/12/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/12/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012161149-dr-anthony-fauci-10122020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: How professional wrestling perfectly explains Donald Trump's 'Superman' stunt"
     excerpt: "This paragraph, from The New York Times, might at first shock you:\n    \n"
     publishedDateTime: 2020-10-12T01:43:58Z

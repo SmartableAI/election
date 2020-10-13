@@ -46,6 +46,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Cruz warns 'radical' Democrats won't push back against Biden packing Supreme Court"
+    excerpt: "Democrats' opening statements during Supreme Court nominee Amy Coney Barrett's confirmation hearing Monday showed their intent to expand the size of the highest court in the land, Senate Judiciary Committee member Ted Cruz, R-Texas, told \"Tucker Carlson Tonight.\""
+    publishedDateTime: 2020-10-13T02:19:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4mnSv4UwWg/cruz-democrats-biden-court-packing"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-democrats-biden-court-packing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-democrats-biden-court-packing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8e4c3f4-f297-41c3-861d-fd80bd3f7a35/6ea39985-9fc8-4338-afce-f53690c9d083/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McEnany rips Biden’s dodge on court packing as ‘elitist’"
     excerpt: "Voters deserve to know 2020 Democratic presidential nominee Joe Biden's position on packing the Supreme Court, said White House Press Secretary Kayleigh McEnany on Monday."
     publishedDateTime: 2020-10-12T15:12:54Z

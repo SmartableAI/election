@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
-excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
-publishedDateTime: 2020-10-09T19:28:49Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
+title: "Cruz warns 'radical' Democrats won't push back against Biden packing Supreme Court"
+excerpt: "Democrats' opening statements during Supreme Court nominee Amy Coney Barrett's confirmation hearing Monday showed their intent to expand the size of the highest court in the land, Senate Judiciary Committee member Ted Cruz, R-Texas, told \"Tucker Carlson Tonight.\""
+publishedDateTime: 2020-10-13T02:19:39Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4mnSv4UwWg/cruz-democrats-biden-court-packing"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4mnSv4UwWg/cruz-democrats-biden-court-packing"
+ampWebUrl: "https://www.foxnews.com/politics/cruz-democrats-biden-court-packing.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-democrats-biden-court-packing.amp"
 type: article
-quality: 135
+quality: 169
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
-    width: 5472
-    height: 3648
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8e4c3f4-f297-41c3-861d-fd80bd3f7a35/6ea39985-9fc8-4338-afce-f53690c9d083/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -44,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Cruz warns 'radical' Democrats won't push back against Biden packing Supreme Court"
-    excerpt: "Democrats' opening statements during Supreme Court nominee Amy Coney Barrett's confirmation hearing Monday showed their intent to expand the size of the highest court in the land, Senate Judiciary Committee member Ted Cruz, R-Texas, told \"Tucker Carlson Tonight.\""
-    publishedDateTime: 2020-10-13T02:19:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4mnSv4UwWg/cruz-democrats-biden-court-packing"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-democrats-biden-court-packing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-democrats-biden-court-packing.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8e4c3f4-f297-41c3-861d-fd80bd3f7a35/6ea39985-9fc8-4338-afce-f53690c9d083/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "McEnany rips Biden’s dodge on court packing as ‘elitist’"
     excerpt: "Voters deserve to know 2020 Democratic presidential nominee Joe Biden's position on packing the Supreme Court, said White House Press Secretary Kayleigh McEnany on Monday."
@@ -88,6 +74,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
+    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
+    publishedDateTime: 2020-10-09T19:28:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "Mark Levin asks if Joe Biden is 'still a White supremacist?'"
     excerpt: "This election is not just about President Trump and Joe Biden, Republicans, Democrats, conservatives, liberals. Nope, it's deeper than that. This is a tipping point. This is about preserving, protecting our liberty,"
@@ -200,6 +200,6 @@ related:
       domain: realclearpolitics.com
     quality: 33
 
-secured: "BAbeUcrwro2ZjeNBTya8pusOACAngZlZ8usH08bGeylb4RCrZvJdF5hCwrRCoCQi3GaZ02yg5oEOq8AKaRgTjxS2VPV2Yosgb61d1+ygwSSFlGiGhdDSp+lQ4SMmynW1WsgpRV6lPl6IRuto7A0DmA2Gm5ZhqOp9PPNm7p9duTzrnvdVNUPVe970SIzpqW0F8RRBO8PgUQ95vlajRGz/16ls6aTPdKjk8UHdNYEj2QYwnRM0B468mzsPqkyGDWILzqnDg2XW5iJ7jyZO273Gib4mKOScqmCLASrfNkTjbi5hMZrWBrsdXtyTA5jSbiufzQNf18HrtlL+sYGZidIMd3EjaT7POi/ry1vd2nZzYQA=;EBHTvjyH9fIOyBVdjX72hA=="
+secured: "jtODF/AiUfI9ocoo+mKGVn04BLQxYZb2oNsFctoFMLAeUTgvtx9UxikcOXGLLMY4w0hZ7RMeupT3GcSHOJ/KCqjbL0mj8VmyBoZXf8jBjP7rhxSFZFau5hepNcCQV215OIijr0u8LSJpLmMjguTtPF5ASYZ5eGroJCWd3eud3Kc42V2V9F2wsp0vqCa/4UGwyz8mBwo6L92rWgXYrpPGD9TMk2PdsL+0Rb9y866Qq9pzOHcufyprnrAebPqFwleXBUPEwsqA34yzqzoU3i9uvZ3irtDuQy1DCKkEickO/yM2mCbQ1RJF2AfiL9gx2siwJkkhOPx2STRAQ8HRGA74jEX3xXB/g7s7lZ3AU8cF+SE=;OWKkByjCEd/cZF0sEC5emg=="
 ---
 

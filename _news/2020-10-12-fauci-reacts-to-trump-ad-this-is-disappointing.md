@@ -1,14 +1,14 @@
 ---
 category: news
-title: "The Point: A line-by-line breakdown of Donald Trump's irresponsible 85-second video victory lap"
-excerpt: "After returning from four days at Walter Reed medical center to treat his case of Covid-19, President Donald Trump filmed a video -- which he blasted to his 87 million Twitter followers -- talking about the experience and what it, uh, taught him.\n    \n"
-publishedDateTime: 2020-10-06T14:48:55Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_2YmWWvfKM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_2YmWWvfKM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-video-walter-reed/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-video-walter-reed/index.html"
+title: "Fauci reacts to Trump ad: This is disappointing "
+excerpt: "Dr. Anthony Fauci told CNN's Jake Tapper the Trump campaign should remove their ad featuring his comments which he says were used out of context.\n    \n"
+publishedDateTime: 2020-10-12T20:31:31Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ixi9o9c1GgA/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ixi9o9c1GgA/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/12/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/12/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
 type: article
-quality: 163
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012161149-dr-anthony-fauci-10122020-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -63,22 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fauci reacts to Trump ad: This is disappointing "
-    excerpt: "Dr. Anthony Fauci told CNN's Jake Tapper the Trump campaign should remove their ad featuring his comments which he says were used out of context.\n    \n"
-    publishedDateTime: 2020-10-12T20:31:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ixi9o9c1GgA/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/12/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/12/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012161149-dr-anthony-fauci-10122020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Point: How professional wrestling perfectly explains Donald Trump's 'Superman' stunt"
     excerpt: "This paragraph, from The New York Times, might at first shock you:\n    \n"
     publishedDateTime: 2020-10-12T01:43:58Z
@@ -108,6 +92,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190714042443-tlaib-ocasio-cortez-pressley-omar-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: A line-by-line breakdown of Donald Trump's irresponsible 85-second video victory lap"
+    excerpt: "After returning from four days at Walter Reed medical center to treat his case of Covid-19, President Donald Trump filmed a video -- which he blasted to his 87 million Twitter followers -- talking about the experience and what it, uh, taught him.\n    \n"
+    publishedDateTime: 2020-10-06T14:48:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_2YmWWvfKM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-video-walter-reed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-video-walter-reed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -160,6 +160,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "okfgR3giMQkguGYKaroGI4ImLOQElgak7ZUXpoeRhsiey7UgJFN9ZlFiTnOK1Uh6YRLiArC2GCn83jKsvewbKd4TnvGGXBFKBrYtKOPuOLxhKVsLkqJzeMrEWOCLzBCqgqejDx/ZwlRmoT+DFMCWSWCIwj+Qe++7uKXq3quiDw8pUYHk2oNK9ZHDQbODmxXoIbgz1pN1uzhGLmgiyoPQzpWPZJF4YI1rRQC/Z7KDrNsRPQdRRSqWn2eqbR+8IZijZhSRbrI+MlE8CZlJ6dx5qKJrV73vgCSC3wzo/XwoHXU0SC8VMqnVP5KpXrJkTioj2Z1rrOXK14rbbqcJWAJzvkoRehB3wxv9xrvEOAbe2gM=;3ILneo4vm0wm173Ve8uNYw=="
+secured: "bxn4uPaFzSzfINWjPFqudwaJ6hMXvSgY6x7Ai5JpSWWkx2dIvIwFzKebGS1IjXd4UN+pSkJnqFe0ZT5qwtu2lTjNwSObpwcyOFlTyGIIelnQ5fU0qtAl3m4pdLNx1rbD0dXxwEsfpGVtfc8uX5Kg7QJ+HPRvfbxyJtLzj6eywuCQ47aHvoe3EtGz5SsTQAWb39uUX6Qi6yNbO2/g/AQcL3S6nN03HzAF+eyBw9senf6PlSk0ApIqJhnKhE3LqxEch1YPLuL2bXCL5WjHvcFHjazhM+rcxgRQfyFkGDZttusBSjDQw9OWwB9WImXfos2rgIRxwNN0f/o0U6Fl3zUGMdgpolICc/oW0H+G2oUfmwk=;sSTMGLbJdb34PEl+cjVX8A=="
 ---
 
