@@ -3,14 +3,14 @@ name: "Sean Hannity"
 bio: "TV Host Fox News Channel 9 PM EST. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com Retweets, Follows NOT endorsements!"
 location: New York, NY
 type: "profile"
-heat: 805
+heat: 523
 
 website: https://hannity.com/
 
 twitter:
   username: seanhannity
   url: https://twitter.com/seanhannity
-  followers: 5221988
+  followers: 5307409
 
 topics:
   - Election
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Sean Hannity"
 
-secured: "3g95T3qP+g/nK/kWg0YvCSD7MmWaU1c7/EuObtn/cQUf3dBtq4UXZTdxhSZvCw9SqHIVQ1K64Y7pV+Krld7UcW69tuIEPIBgXfPt7hV6U6YjinoH/vv10qIMjka98UFEdQTKbJwyirOmcul/25iI8uew7SDpp7JEDn1kNpd/q7aS2CTs4toX3vcINWRzUUdvS8+KgUByV/mI5gObN7gtPZbGmJ7YrN6NKQxMZZ9IJPYzcXM4bAByw44mh+CP5jNKj4NSprVp6ZWf/DZRy31KHXB+iJq3IJy8Ta06iVA9GNi1eayX1fNvq5G50LcRf1vSxuARv5MsRzBjfdF2X49uReBMmaF2jYvLhnIpUpmFIq38KUanQPFFJQUHKL3PQIi8;Zq/dMCXeF9Mb3FjguSXoNA=="
+secured: "1c5lvIwPDt3GipCJ9OLmKHmoY43UL+hecoWBO2X943Y0nmK2rw3KQkujLXB4dj53zN03kLd1h+hoFscrPatp1bgRykJiZgqXZdNrukBj3mH9wXNIrkYLXPAIZnV57FOdZg3+2Wxao2LxDpDnvGFZnQ36TICd720vPzY62J6cyqSmE7dFI3MXB2+tJbJOoIHnrcLcaaxCuZdzWIW+oVu2Xx/I5DQLptCYhSiqDCyYATpk5i50bLGpoovjSoKoyoDQgs8UHdwEi3yYZFXccsC8/bU0dCpxs5flwPXFTvtFaEI69+/IPEtHuiQ083/CCRlbANgdWPooR5NUisFLJsmV9SUGBTqtZK6DulhUmdAv4zshM+wdr9Vqgn5ps4dlrpV9iwty/r+5EadxlDbTeSVHYAz3xWHPZNQKhYlFzrcxeok=;wMJlk7lLNG99ZBg2fKc4gg=="
 ---
 
