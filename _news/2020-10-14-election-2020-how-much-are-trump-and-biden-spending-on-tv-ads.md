@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AP FACT CHECK: Trump falsifies Biden stance on fracking"
+    excerpt: "President Donald Trump is persisting with the myth that Democratic rival Joe Biden proposes to ban fracking. Biden doesn't. TRUMP: \"One of the most important issues for Pennsylvania is the survival of your fracking industry."
+    publishedDateTime: 2020-10-14T01:43:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_65f4bca9003f4cce9fbaa8fe89e6c1d7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "WATCH: Joe Biden glad Trump is better, notes crisis is ‘far from over’"
     excerpt: "Former Vice President Joe Biden delivered remarks about economic recovery for Latino communities amid the COVID-19 pandemic while visiting Little Havana in Miami on Monday."
     publishedDateTime: 2020-10-05T20:56:00Z
@@ -190,22 +206,6 @@ related:
       - url: "https://i.insider.com/5f84627bbab422001979ac11?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "AP FACT CHECK: Trump falsifies Biden stance on fracking"
-    excerpt: "President Donald Trump is persisting with the myth that Democratic rival Joe Biden proposes to ban fracking. Biden doesn't. TRUMP: \"One of the most important issues for Pennsylvania is the survival of your fracking industry."
-    publishedDateTime: 2020-10-14T01:43:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_65f4bca9003f4cce9fbaa8fe89e6c1d7_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?"
     excerpt: "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades."
@@ -1219,6 +1219,22 @@ related:
         width: 1024
         height: 651
         isCached: true
+  - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
+    excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
+    publishedDateTime: 2020-10-14T01:31:00Z
+    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54527265"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54527265"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54527265"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 90
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/142F7/production/_114897628_celebrityposter2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
     excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
     publishedDateTime: 2020-10-05T15:32:00Z
@@ -2045,6 +2061,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "kdsug2OwFuPT2nreiNWENyHsNNlYwH6nioEp/e2pUobcfdtuToYOH0pZ38s1chUDQR0+lUQ6o7BXczorbh89h7uOy9OYU+SMu8zSU1u4+WxHRdHVx/JSUcFqDc24cQ+Als6GZnqzIWq5ffrcrPymJ+KS/vlStQVlidvAFZxW/7dChavdLa2WNipMXqbbDawSEJWUzLivHYJ+kWIqzHHPTZ9JGqFTKtXT0VDXzQSHWNQLuM/vpSKjlDg5qRcplZuedlnLbB/a+7xGuvtfa84dDnB50VtBdyj/NhY8B+WTJY9cWZATCA1ZOUr15R87GD8URMgLeAAYgre6JM8BZSRB26ux4u48cI6ke/fVhhZcEC8=;PjUCbX+7xh2C+VbiYyq7Vw=="
+secured: "EbZCP3NwpkyO5TM/9jOxUEsTdaIoU94JDMBx1m8PJ3+vCH8Yswm1QJwRgjIE5kXuKL3cCQkq+8PKaYazkDgooyL5Hiy04aG1X2ZfvVRvs9TtWttzVzh8bxRI4J6TS6eVV2+7/JSusMxcw+x+QpMD4SwwI6q+ycErWVQMyfoEaI/Pj+4AjAEN+6G7t66/BwpRfSOSW2ayX+KMLHl5pOvLEa1mKjb+6yde70pmqVVW5xZL69/TslrAbo/4GNO1qFmTRt20AkzH67yWg/gdzrfL/Woqt6D+kgALkz+cNu13BhPPnaFSYL30oWyih1j+aIpVP0oLDY36M3/hLiCUV8eszmfQu0WHSsNklT0yS/NNELxlW2e08PWUcn/V9GThgrskc07IOBS9lwDlp7BNjQgP1Jcj2Zw0DMUwdG0jOnLpZ1iJXT2r5c/CM6AwMmjZiNbch/kHgbuKb+Qx/QvHm1fb3B7ZHCvff/DyVMRSkdL4rwRlfzogfoKgwgqt8atVe+zlQFYlBSX9yXYBC1WbJPObxQ==;AnHRyCSdBndoxRwsdd3tzw=="
 ---
 

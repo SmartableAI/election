@@ -61,6 +61,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden campaigns in battleground Florida"
+    excerpt: "Watch \"Joe Biden campaigns in battleground Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-14T05:00:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201014034120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07244490_1602647045.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "I was a Republican governor of Pa. I’m voting for Joe Biden. | Opinion"
     excerpt: "I will cast my vote for Joe Biden on Nov. 3. It will be my first vote for a Democratic candidate for president of the United States. But it is not the first time I have said “no” to Donald Trump. I urge my fellow Pennsylvanians to join me."
     publishedDateTime: 2020-09-27T09:19:00Z

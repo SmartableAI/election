@@ -157,6 +157,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Black voters explain support for Trump"
+    excerpt: "Weeks before the election, three Black supporters of President Donald Trump sit down with the Associated Press to discuss their allegiance to the President. They know their opinions may be in the minority within their community."
+    publishedDateTime: 2020-10-14T05:36:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/14/black-voters-explain-support-trump/3648789001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d80e50a0-6811-477e-abfb-01a812a17f98_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump criticized for leaving hospital to greet supporters"
     excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"
     publishedDateTime: 2020-10-05T11:28:00Z
@@ -236,6 +250,6 @@ related:
         height: 682
         isCached: true
 
-secured: "3byU0jxDpI0cUA3DZ2PAhrAmWvt85odTooCBIgIqLuJMAIfEuP3oK1kTzJLB41xI7TbrkKASZ/jHdo5bgg9z1TL4JF0VYMHpEfow9oqJgLGtujAr2l2wQoCWj9eu/IHjXQWBgH7q7RzMjIy2BxLKO9RQ5jRvIfZw6goGBNKV1aHhkIoWeSqQ9+Q6M3/v6ExACkju6JdjmtNg2qstFYpCQRRxhusqQsDbypVGD+OrrV3fA0zmZ5rBQR6/M0rmviR2GyNNl6qFrLdRafePcQvPXCc+uQHm+/+MONKbTPLtcgPxK6ILQuflMJqQCQ3b8XnIeTFnoSXtvvwmR2SSMawq8OcM9GihyluAuY2jSmA7L/8=;jcHg/y165aZrEFH7XWip9w=="
+secured: "A3LYwlJirFMZcyNcs52id5KBPnL647ls8P9+PFeSVVcACadxg0efeTm8xuAsO9BNyA9LSNO3QKzGO0S8X+J8h/wMcAofm1yISxMF4kbekOXEbiHulbe6yZuroI8iPOXzCY+IY67MPW50wIMlFPao8FN4juA3UWvET76nQojjl8R4W57QS9g7txs8EjOwgA5Ocr/ILpLwHbPE85hGciVCMaEOiPPP4hhzKSyLEU55jErmlHpzhb4f7D1Y4mxH4SZxYm5/wN7UzYrJKb2syNH8K/nB1r/poHzKHa/EVTEZlIwPQrS+VaRzmw+DOVKQMqHGyd1niEjIpHWi6spaPG11+Olh4/pb9rGcaNAIEzYDWc59/41Voztx6od9aA8JxEQmF73SCoDFBPyqka7SMcBCoaWqgyB7zJNtBT2j2jr9ECv3ZT3RvzWeD0saHGfIB48Ig+nDs4Eknl6C6A/jGVzRUYTQVJETZQNnvlqosXV/mtTuWnR1HhsR+NkVVJYDagZt3qCErhgeROs1V676N6vdkw==;EjC64ASYSdM5DAHInUPzgA=="
 ---
 

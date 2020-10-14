@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Did Joe Biden really say he was running for the Senate?"
-excerpt: "Here's what Biden said in full. US & Canada Home"
-publishedDateTime: 2020-10-13T21:58:00Z
-originalUrl: "https://www.bbc.com/news/av/embed/p08v5pzl/54531569"
-webUrl: "https://www.bbc.com/news/av/embed/p08v5pzl/54531569"
+excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden really say he was running for the Senate?"
+publishedDateTime: 2020-10-14T01:28:00Z
+originalUrl: "https://www.bbc.com/news/av/election-us-2020-54531569"
+webUrl: "https://www.bbc.com/news/av/election-us-2020-54531569"
 type: article
 quality: 105
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D713/production/_114895055_p08v5qvf.jpg"
-    width: 1024
-    height: 576
+  - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -172,6 +172,6 @@ related:
         height: 675
         isCached: true
 
-secured: "mHUd+krrCczYGdE6q5lSh41Ls83L+vnZ05oeUTnhxgwV4CJgUzogbt9a/gIGj4OOR9xswNdj1gbAz2Jkai/+veFL9wcsqY/wbiKrH8+FdrQBHMTlzlt0j9zUlpzU/nklT9Rh27GxifDnjlreOpmvWEA39DskkS6tdLcZ8STvfjwKoT48va4JYbe5JVXtjy2iZ/hpJHFx6SswgFq7/7T9aG+qw75q+1wCT9zBGvEMx5g21gs/YKUL2MctbJTgAjtpDYIbG9d4vfnollJyBsbHN47sj2WhY/uqfrz/o6RpMt0BVuhVTWD57cxVkOxCIou4W9elT3AW1zltQH7pOUFA/M+82p2szb+dLdyWhJFIfdE=;VASlT9nM/zWyzXYSp4faIg=="
+secured: "7laSSQO0RDrPfMEiiH7L2tI0L3jFn97esXV9GYpQaQQ89TYhKMxpBdQYQhzF6R6rc8siWe4A+ejkZDBujWrJM85zYH/TZfXHqEJ7/gsh6yWplUY2aHqNgmI2tuBk8VQfUKMaliJgYqm/Q86XTWEFz14mRzOBLLn+38E9Zs1BuW6BPInbJf6VW+oIYu06I+enA5sNYBPhpLgA4N7JNA3ug0FWBQQu8F2JmRwr2BVGAEEerHgppgmfKCM1AKqB9czSGq+7Qjl6zoR0DPogskyTbARpqw3g1zMsIVqMCX2e5575L38LSaJHwwQxJ5pwAwVs4rmz+5kQGcCrojIp7NpgHIoyIqH2993fxUKXoaEgi5w=;YiIlYlOJJd/IBmxMps4b5Q=="
 ---
 

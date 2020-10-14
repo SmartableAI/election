@@ -2548,6 +2548,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Let's Talk About Kamala Harris"
+    excerpt: "The VP candidate's biography and heritage allow people to project all kinds of ideas onto her, and to see what they want to see. But Kamala Harris's identity is a very important lens into not just her own politics,"
+    publishedDateTime: 2020-10-14T04:31:00Z
+    webUrl: "https://www.npr.org/2020/10/13/923369723/lets-talk-about-kamala-harris"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/13/kamala-nprcodeswitch-ljohnsonartboard-3_wide-a7801770cf209ae48f74e18d4cd3a842a4e88f78.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump: Kamala Harris will have to take over for Biden after three months"
     excerpt: "President Trump predicted Thursday that Joseph R. Biden wouldn’t last more than a few months if he’s elected president before Sen. Kamala D. Harris, his running mate, would have to take over."
     publishedDateTime: 2020-10-10T02:22:00Z

@@ -64,18 +64,18 @@ related:
         height: 551
         isCached: true
   - title: "Did Joe Biden really say he was running for the Senate?"
-    excerpt: "Here's what Biden said in full. US & Canada Home"
-    publishedDateTime: 2020-10-13T21:58:00Z
-    webUrl: "https://www.bbc.com/news/av/embed/p08v5pzl/54531569"
+    excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden really say he was running for the Senate?"
+    publishedDateTime: 2020-10-14T01:28:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-54531569"
     type: article
     provider:
       name: BBC
       domain: bbc.com
     quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D713/production/_114895055_p08v5qvf.jpg"
-        width: 1024
-        height: 576
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Progressive Democrats are united behind Joe Biden but readying for an internal 'World War III' if he wins the election"
     excerpt: "Trump term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."

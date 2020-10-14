@@ -668,6 +668,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Gardner Defends Record, Trump's Morality in Final Debate"
+    excerpt: "Republican Sen. Cory Gardner found himself defending President Donald Trump's morality at the final debate in Colorado's Senate race."
+    publishedDateTime: 2020-10-14T02:30:00Z
+    webUrl: "https://www.usnews.com/news/best-states/colorado/articles/2020-10-13/gardner-defends-record-trumps-morality-in-final-debate"
+    ampWebUrl: "https://www.usnews.com/news/best-states/colorado/articles/2020-10-13/gardner-defends-record-trumps-morality-in-final-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/colorado/articles/2020-10-13/gardner-defends-record-trumps-morality-in-final-debate?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "U.S. Supreme Court Ends Democratic Lawmakers' Anti-Graft Lawsuit Against Trump"
     excerpt: "The Supreme Court on Tuesday put an end to a lawsuit brought by congressional Democrats that accused President Donald Trump of violating anti-corruption provisions in the U.S. Constitution with his business dealings."
     publishedDateTime: 2020-10-13T23:32:00Z

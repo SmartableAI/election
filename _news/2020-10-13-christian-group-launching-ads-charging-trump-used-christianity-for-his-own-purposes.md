@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach"
+    excerpt: "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday."
+    publishedDateTime: 2020-10-14T04:45:00Z
+    webUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump tests negative for COVID-19, White House physician says"
     excerpt: "U.S. President Donald Trump’s personal physician Dr. Sean Conley confirmed late Monday that the president has tested negative for the novel coronavirus “on consecutive days.”"
     publishedDateTime: 2020-10-13T02:36:00Z

@@ -679,6 +679,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Gardner Defends Record, Trump's Morality in Final Debate"
+    excerpt: "Republican Sen. Cory Gardner found himself defending President Donald Trump's morality at the final debate in Colorado's Senate race."
+    publishedDateTime: 2020-10-14T02:30:00Z
+    webUrl: "https://www.usnews.com/news/best-states/colorado/articles/2020-10-13/gardner-defends-record-trumps-morality-in-final-debate"
+    ampWebUrl: "https://www.usnews.com/news/best-states/colorado/articles/2020-10-13/gardner-defends-record-trumps-morality-in-final-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/colorado/articles/2020-10-13/gardner-defends-record-trumps-morality-in-final-debate?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "After Stopping Negotiations, Trump Sets Off Confusion With Tweet Seemingly Agreeing With Fed Chair’s Call for Urgent Covid Relief"
     excerpt: "President Donald Trump announced he's telling his people to stop covid relief stimulus negotiations after the election. This came hours after a serious warning from Fed Chair Jero"
     publishedDateTime: 2020-10-07T00:29:00Z

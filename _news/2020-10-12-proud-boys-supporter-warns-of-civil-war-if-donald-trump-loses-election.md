@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?am
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
 type: article
 quality: 139
-heat: 399
+heat: 419
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://i.insider.com/5f81abdbbab422001979a977?width=750&format=jpeg&auto=webp"
         width: 750
         height: 562
+        isCached: true
+  - title: "Black voters explain support for Trump"
+    excerpt: "Weeks before the election, three Black supporters of President Donald Trump sit down with the Associated Press to discuss their allegiance to the President. They know their opinions may be in the minority within their community."
+    publishedDateTime: 2020-10-14T05:36:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/14/black-voters-explain-support-trump/3648789001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d80e50a0-6811-477e-abfb-01a812a17f98_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump criticized for leaving hospital to greet supporters"
     excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"

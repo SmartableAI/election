@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rawstory.com/2020/10/trump-demands-that-puerto-rico-vote
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-demands-that-puerto-rico-vote-for-him-theres-just-one-problem/amp/"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:

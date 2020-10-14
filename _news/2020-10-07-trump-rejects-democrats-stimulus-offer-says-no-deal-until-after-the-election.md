@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3627003001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3627003001"
 type: article
 quality: 136
-heat: 1016
+heat: 1036
 published: true
 
 provider:
@@ -664,6 +664,17 @@ related:
     webUrl: "https://www.usnews.com/news/business/articles/2020-10-06/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital"
     ampWebUrl: "https://www.usnews.com/news/business/articles/2020-10-06/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-10-06/asian-shares-gain-on-stimulus-hopes-trump-leaving-hospital?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Gardner Defends Record, Trump's Morality in Final Debate"
+    excerpt: "Republican Sen. Cory Gardner found himself defending President Donald Trump's morality at the final debate in Colorado's Senate race."
+    publishedDateTime: 2020-10-14T02:30:00Z
+    webUrl: "https://www.usnews.com/news/best-states/colorado/articles/2020-10-13/gardner-defends-record-trumps-morality-in-final-debate"
+    ampWebUrl: "https://www.usnews.com/news/best-states/colorado/articles/2020-10-13/gardner-defends-record-trumps-morality-in-final-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/colorado/articles/2020-10-13/gardner-defends-record-trumps-morality-in-final-debate?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

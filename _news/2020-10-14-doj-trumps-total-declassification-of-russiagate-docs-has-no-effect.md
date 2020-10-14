@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/10/13/doj-trumps-declassifica
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/13/doj-trumps-declassification-russiagate-429257"
 type: article
 quality: 135
-heat: 135
+heat: 136
 published: true
 
 provider:

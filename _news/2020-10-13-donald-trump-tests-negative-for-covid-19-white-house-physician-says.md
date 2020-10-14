@@ -73,6 +73,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach"
+    excerpt: "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday."
+    publishedDateTime: 2020-10-14T04:45:00Z
+    webUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "VNNalw6mUOljICZFMokSirwGEI6hqo+RlqXiQonoT+mxRnqJIzJMwQacLUpXrPPkPUeLp4ZsspqmRZe6/8IbDeISPSNF1OAeacyF3qSnjlZqqBLHGHFxAsUiXuqXSf5O1SW8xXG0JrnyXlYBG9EYuO6jjv8YWD1sfwgI/GTX495JOShRr529XuQlL/NyeE5h1pisXxjHVX6z64TEEsgzix1+DHnpaCXeQjxRSgsCDTCTX222CYrJ3gNyp/Cw6vAWC+d+0TbpbyV7tvsG+uUmxJ8f4HM4bWRlf/i2ZYInQMo/gKYhxCx4ab9wgkhGIXRd6EQk1iTL7peVTXRqJ6NO/w9aXVu7MmkYjBa7McOi7mw=;uEn13ehTIloF8ZkMxk9rww=="
 ---

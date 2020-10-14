@@ -2198,6 +2198,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "UFC fighter Jorge Masvidal backs Trump, claims Biden panders to Latinos"
+    excerpt: "Mixed martial arts fighter Jorge Masvidal – aka “Gamebred Fighter” – let his fans know just where he stands regarding the 2020 presidential election. He’s backing President Trump instead of Democrat Joe Biden."
+    publishedDateTime: 2020-10-14T05:32:00Z
+    webUrl: "https://www.foxnews.com/sports/ufc-fighter-jorge-masvidal-backs-trump-claims-biden-panders-to-latinos"
+    ampWebUrl: "https://www.foxnews.com/sports/ufc-fighter-jorge-masvidal-backs-trump-claims-biden-panders-to-latinos.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/ufc-fighter-jorge-masvidal-backs-trump-claims-biden-panders-to-latinos.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/11/640/320/UFC-Masvidal-Diaz-fight.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"
     excerpt: "Vice presidential Democratic candidate Kamala Harris went after President Trump for not paying enough in taxes, and questioned who he might owe money to."
     publishedDateTime: 2020-10-08T15:27:00Z
@@ -2712,6 +2728,22 @@ related:
       - url: "https://mediadc.brightspotcdn.com/dims4/default/3bbb61e/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fc6%2F3b%2F728e9dba4028ac85d5cf51f9bfc6%2Flettereditor.jpg"
         width: 2290
         height: 1322
+        isCached: true
+  - title: "Biden's Sudden Reticence on Court Packing Is Alarming"
+    excerpt: "Judging from their grandstanding during Amy Coney Barrett's confirmation hearing, Democrats think the composition of the Supreme Court is a big issue in next month's presidential election. Yet, evidently,"
+    publishedDateTime: 2020-10-14T04:01:00Z
+    webUrl: "https://townhall.com/columnists/jacobsullum/2020/10/14/bidens-sudden-reticence-on-court-packing-is-alarming-although-democrats-think-the-composition-of-the-supreme-court-is-a-big-election-issue-their-nominee-wont-say-what-he-plans-to-do-about-it-n2578006"
+    ampWebUrl: "https://townhall.com/columnists/jacobsullum/2020/10/14/bidens-sudden-reticence-on-court-packing-is-alarming-although-democrats-think-the-composition-of-the-supreme-court-is-a-big-election-issue-their-nominee-wont-say-what-he-plans-to-do-about-it-n2578006?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/jacobsullum/2020/10/14/bidens-sudden-reticence-on-court-packing-is-alarming-although-democrats-think-the-composition-of-the-supreme-court-is-a-big-election-issue-their-nominee-wont-say-what-he-plans-to-do-about-it-n2578006?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/265/311f6e4a-8d07-40a3-8bc7-ee83f17f8e73.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Watch Live: 2020 Vice Presidential Debate Between Mike Pence, Kamala Harris In Utah"
     excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris face-off for their first debate."

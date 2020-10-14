@@ -2533,6 +2533,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Let's Talk About Kamala Harris"
+    excerpt: "The VP candidate's biography and heritage allow people to project all kinds of ideas onto her, and to see what they want to see. But Kamala Harris's identity is a very important lens into not just her own politics,"
+    publishedDateTime: 2020-10-14T04:31:00Z
+    webUrl: "https://www.npr.org/2020/10/13/923369723/lets-talk-about-kamala-harris"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/13/kamala-nprcodeswitch-ljohnsonartboard-3_wide-a7801770cf209ae48f74e18d4cd3a842a4e88f78.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
     excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
     publishedDateTime: 2020-10-04T15:57:00Z

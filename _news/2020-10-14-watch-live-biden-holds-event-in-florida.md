@@ -47,6 +47,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden campaigns in battleground Florida"
+    excerpt: "Watch \"Joe Biden campaigns in battleground Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-14T05:00:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201014034120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07244490_1602647045.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Progressive Democrats have a fragile alliance with Joe Biden. But they're readying for internal party warfare if he wins the election."
     excerpt: "Fear of a Trump second term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
     publishedDateTime: 2020-10-09T13:02:00Z
