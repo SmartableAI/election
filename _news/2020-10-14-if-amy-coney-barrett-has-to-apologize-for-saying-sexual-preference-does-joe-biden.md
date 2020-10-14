@@ -305,6 +305,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Kamala Harris Grills Supreme Court Nominee Amy Coney Barrett Over Obamacare"
+    excerpt: "Amy Coney Barrett faced tough questions from Kamala Harris on how she would rule on Obamacare SCOTUS case but avoided giving a straight answer several times"
+    publishedDateTime: 2020-10-14T19:30:00Z
+    webUrl: "https://www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/"
+    ampWebUrl: "https://www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 73
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/05/4H3A0250-e1558377946157.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Kamala Harris says 'I'm answering the question' as she dodges on court-packing"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Thursday she was answering the question on whether Democrats should try to pack the U.S. Supreme Court as she declined to take a position on the issue."
     publishedDateTime: 2020-10-09T20:23:00Z
@@ -433,6 +449,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Someone tell Kamala Harris: NYT says there’s no evidence Trump owes Russia money, and any claims otherwise are CONSPIRACY theories"
+    excerpt: "The New York Times, whose article last month on Donald Trump’s tax filings set off a firestorm of accusations, now says there’s no evidence the president owes money to Russia, and any suggestions otherwise are conspiracy theories."
+    publishedDateTime: 2020-10-14T21:25:00Z
+    webUrl: "https://www.rt.com/usa/503530-nyt-no-trump-russia-evidence/"
+    ampWebUrl: "https://www.rt.com/usa/503530-nyt-no-trump-russia-evidence/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/503530-nyt-no-trump-russia-evidence/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 60
+    images:
+      - url: "https://cdni.rt.com/files/2020.10/xxl/5f87653d85f54029b96a0b19.JPG"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Joe Biden, Clarence Thomas, and Amy Coney Barrett with Angela Wright"
     excerpt: "Angela Wright confides in Mary C. Curtis about former Vice President Joseph Biden, #MeToo and the inner workings of a contentious Supreme Court battle."
     publishedDateTime: 2020-10-08T13:15:00Z
@@ -446,6 +478,20 @@ related:
       - url: "https://content.rollcall.com/wp-content/uploads/2020/10/BARRETT_004_10012020-1.jpg?resize=1200,600"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Kamala Harris Grilling Amy Coney Barrett On The Affordable Care Act Is Everything"
+    excerpt: "Donald Trump's third Supreme Court nominee, Amy Coney Barrett, commences day three of her Senate confirmation hearings on Oct. 14, in the midst of one of the most contentious presidential elections of the decade."
+    publishedDateTime: 2020-10-14T20:00:00Z
+    webUrl: "https://www.elitedaily.com/p/kamala-harris-grilling-amy-coney-barrett-on-the-affordable-care-act-is-everything-38532442"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 50
+    images:
+      - url: "https://imgix.bustle.com/uploads/getty/2020/10/13/8790f30f-3e1d-4148-a1b0-ccd0413eb6d7-getty-1229045538.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "R75vAgQRrlZn1NhzvWYAtSUs0wri8ZoWP+4GQ5mnHLeYfkk5VLYBRxXl0+SnDJJSmhH1+xWudL+hzd4X9xLsfbuab7xNpitPrFfAeMP1xfpfP0i3dUnNRambcvMyCD2FuD7Bod66DjKaFQmz87cjYUniL3UR9DVjPq4NwdWeH8slNbuCg0MdWHJYJhKCtR3fVhz/b3Bt9TNZ2WolQIaZCgcGPdPuJree0U12Vzww0vPq3YgrYl6ySZvfXSFShYl/8s3nUPVt5gdPHCe8WuwvqdepuRhRGzkTK6hpXEQOqTRE4N8HTZ5tWAhEbkaxFGXLQDIhyWQJahkoyBlt5vEXtzVRKJQqJgzlE8IXXn4VG74SqfQLfQlkuTtFR8ry717MBPpfhv42YTDw3bdoeGaDx7rkFCiJDMHtQxTsV810BDEXQX+nb8s+KIP/OxDD3jo1JxS4/c4It+tuhQOLrgb0Mi1/ypct7zZE7v7eHQ9ZrLtx53JE6bdu8V2NprPGjbcmrRi16e7XrHM/NbcOfHGZgw==;6rKXlqTAEZsvVftJgEVSRQ=="

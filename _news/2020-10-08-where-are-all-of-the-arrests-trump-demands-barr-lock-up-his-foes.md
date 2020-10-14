@@ -190,6 +190,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's task force invisible as cases surge again"
+    excerpt: "The often-at-odds collection of health experts and political figures who comprise President Donald Trump's coronavirus task force now appear less influential than ever as Covid-19 cases begin to spike again three weeks before Election Day.\n    \n"
+    publishedDateTime: 2020-10-14T21:01:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qiv8KjSa0L0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/task-force-coronavirus-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/task-force-coronavirus-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200901133420-pence-fauci-task-force-briefing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court won't revive Democratic-led lawsuit over payments to Trump"
     excerpt: "The Supreme Court won't revive a lawsuit by Democratic members of Congress who argued that President Donald Trump has been violating the Foreign Emoluments Clause of the Constitution, which bans foreign payments to a sitting US president.\n    \n"
     publishedDateTime: 2020-10-13T15:48:26Z
@@ -203,6 +219,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Melania Trump details Covid illness and reveals son Barron contracted it"
+    excerpt: "First lady Melania Trump detailed her experience with Covid-19 in an essay posted on the White House website, including that her son, Barron, 14, tested positive.\n    \n"
+    publishedDateTime: 2020-10-14T21:24:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W0Ik83p5hKI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/melania-trump-barron-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/melania-trump-barron-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

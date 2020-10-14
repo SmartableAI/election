@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-ny
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Trump administration renews push for nuclear arms agreement with Russia before election"
+    excerpt: "With only weeks to go until the general election, the Trump administration is renewing a push to finalize a nuclear agreement with Moscow, hoping that a deal may force China to reconsider its position on trilateral arms talks."
+    publishedDateTime: 2020-10-12T15:49:00Z
+    webUrl: "https://www.cnn.com/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190201112219-20190201-trump-putin-nuclear-arms-treaty-breaking-news-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "EfumIeWGj4qI+kPcCp14NgsuVsEgMcTnyBU2UmEAea2x0SetU6HFxAiqx6snSXY+GPP542mPgHkz/GCsU7l0r/YsdV8JgL0c0oXH750ZVhtUuVHJ0AehfWI7bJRxsztCN6bes2Q1lnA+oJ34S1CUqxR87HOngzVnPmAxTdsNDOrr2iBlfrDzfztOCHkcx9C9GyomkAdJX+ZORVsddKK+Mpd59SN+Y++9ekn1A8WRDnUAwes4RGEyg7FajzFFTrArm018y65sO5E6c6sWXpK2z+0y7ZseWh6AQp+IxnqZgY6eMic3ESR21WHxiv98/MCYXfjJKT4TN1FStKVY2sEu7ZunQvmmEDGZr8mEywldycU=;wpV8gI8qP/mPhk0LMo8MCA=="
 ---

@@ -173,6 +173,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'That's bulls---. No way!': Trump supporters say they'd take a pass on Trump in 2024 no matter if he wins or loses in November"
+    excerpt: "They love Trump and will wait for hours in line to see him. But even his most ardent supporters don't want the president on the ballot after 2020."
+    publishedDateTime: 2020-10-14T21:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-third-term-election-2024-constitution-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/5f8604dffd1f49001964d62a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fresh Off COVID-19, Donald Trump Tells Supporters He Wants to “Kiss Everyone”"
     excerpt: "On Monday night, hours after attacking Joe Biden for supposedly improperly wearing a mask, Donald Trump flew to Florida in the apparent hope of helping the state kill off a few more residents by holding another of his patented campaign rallies that brought thousands of people together with practically zero social distancing,"
     publishedDateTime: 2020-10-13T17:00:00Z

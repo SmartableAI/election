@@ -2540,6 +2540,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "'The Five' preview first presidential debate between Biden, Trump"
+    excerpt: "In just four hours from now, President Trump and Joe Biden will square off for the first time in Cleveland, the former VP arriving for the debate just a few moments ago.  It's going to be must-see TV after the candidatestraded personal attacks on the campaign trail formonths."
+    publishedDateTime: 2020-10-14T19:25:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-preview-first-presidential-debate-between-biden-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3f5ddde-7668-468c-ad47-f1a67bf9ba5d/a9a1b700-d520-4eea-9a92-0bfaed37a4c6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris parrots Biden after debate, refuses to say whether they will ‘pack’ Supreme Court"
     excerpt: "Democratic vice presidential candidate Kamala Harris echoed her running mate and sidestepped a pair of questions on Tuesday about adding more members to the Supreme Court if Republicans fill a vacancy before the Nov."
     publishedDateTime: 2020-09-30T12:59:00Z

@@ -2541,6 +2541,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "'The Five' preview first presidential debate between Biden, Trump"
+    excerpt: "In just four hours from now, President Trump and Joe Biden will square off for the first time in Cleveland, the former VP arriving for the debate just a few moments ago.  It's going to be must-see TV after the candidatestraded personal attacks on the campaign trail formonths."
+    publishedDateTime: 2020-10-14T19:25:00Z
+    webUrl: "https://www.foxnews.com/transcript/the-five-preview-first-presidential-debate-between-biden-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3f5ddde-7668-468c-ad47-f1a67bf9ba5d/a9a1b700-d520-4eea-9a92-0bfaed37a4c6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden Asks Voters: 'Do You Believe for a Moment' What Trump Says on Covid-19"
     excerpt: "Joe Biden accused the president of being ill-prepared to handle the coronavirus pandemic, latching on to President Trump’s previous comments about the death toll from the virus. Asked during a recent interview with Axios about the high U."
     publishedDateTime: 2020-09-30T08:54:00Z

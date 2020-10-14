@@ -879,6 +879,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "A small business argument for Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden's economic proposals are, on the surface, not very friendly to small business."
+    publishedDateTime: 2020-10-14T21:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/521007-a-small-business-argument-for-joe-biden"
+    ampWebUrl: "https://thehill.com/opinion/campaign/521007-a-small-business-argument-for-joe-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521007-a-small-business-argument-for-joe-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/mreportbidentrain.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "How to watch ABC News' Joe Biden town hall"
     excerpt: "Democratic nominee Joe Biden had been scheduled to debate the president on Thursday, but will now appear in an ABC News town hall. Here's how to watch."
     publishedDateTime: 2020-10-14T19:35:00Z
@@ -910,6 +926,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/cHJjzXPTqoLa50ZEN2bjroeMHQg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6TXVNEALUFFMJ7DLWG4S4CJ3BY.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "No debate, but dueling town halls on Thursday: President Trump to appear on NBC at same time rival Joe Biden appears on ABC"
+    excerpt: "President Donald Trump will appear at a town hall event hosted by NBC News’ Savannah Guthrie on Thursday at 8 p.m. EST., the network announced Wednesday."
+    publishedDateTime: 2020-10-14T11:39:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5Dl-w7Vb_-EYCL90Aijv_x9y3gg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XYZQSCXJENC6BPEH23GCYA2NM4.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The US's cold war with China won't disappear if Joe Biden becomes president"
     excerpt: "A change of president would be a relief to progressives, but don’t expect a thaw in relations with Beijing, says Alex Doherty of the Politics Theory Other podcast"
@@ -1043,22 +1075,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ACMVNGALCYI6XG7GZ4S7WQU7DI.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "No debate, but dueling town halls on Thursday: President Trump to appear on NBC at same time rival Joe Biden appears on ABC"
-    excerpt: "President Donald Trump will appear at a town hall event hosted by NBC News’ Savannah Guthrie on Thursday at 8 p.m. EST., the network announced Wednesday."
-    publishedDateTime: 2020-10-14T11:39:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 114
-    images:
-      - url: "https://www.chicagotribune.com/resizer/5Dl-w7Vb_-EYCL90Aijv_x9y3gg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XYZQSCXJENC6BPEH23GCYA2NM4.aspx"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Democratic presidential nominee Joe Biden leads President Trump nationally among seniors"
     excerpt: "Several polls have former Vice President Joe Biden ahead of President Trump among senior citizens and voters over 65 years old. Ben Tracy reports."
@@ -2327,6 +2343,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "uchgsUSiHVe2PCq06Lz8Dkp8wwJrKDSWk/isZOQn1i00HR10ibNQifQTd7sdPELDB6vBrmH0db3hwyuvU/06+urd1zwInCBqySw+4H93jh/BfhIGpQl/GVkl2XvA9kSbJR0smwjXaN3oMrB2JXmmv8A3444BLlWTFDPnrSQhMPRWrbqjbpJDsBsWityaDvc8Di388RXBNI+FW4fisiQXyFCi3j5L9HgRuHWFtDYYzdCBlqa1RHXN+c4Hx1J7T9bQBsLKqZKdpL1eLt20g4FOBN/puWMkGvuY3hQcLN4hHDap867kMFfNIf3+mw/Q/401gxQdjEl86OiXgOMZX2oKs5UO7tZ+saY0EKbpe9p1xAg=;eM4aT9YrJ3Uaxy498F5MiA=="
+secured: "nX66NxxeO9d+DcBQFnui+d/T6VPVPwAl3TCGNb3gr3ugYamNXe+Q9LoOyTCCananE1PE2WVk6FSRKepK2isTal77pgIKGMP4yiIFOq4uhXslK0f033I9Q7Vzkj4zri+XP12WuYMeDdgT/NfMa3kOkKkIqlyeNgPYWLmhlFNyjkTy4zgnC5BVRlw9mDkZE4aVGfA8YNFGGLsDjNqmAJOOEQSg/juoOuIwciJzTjlUUmNiqUOZeZWLkJ7mMCmHGOiVOnyBzdjFBwbpthHwr4gkYgUbpveJslIlVKaZAiqC9yAtT9MpaVrQNJ1jmvAEzLu+3h28Tzh8zpcHqAFGxn5iIshMYMdL2mP8HN+m45loQU01aroDr95YcgaGapKutFGAG+H+plsTeu6x46ktSArqw3Wj834cvTyoojItH/7urkn4cDL+ZvfV3g7iZKA5JywVOzMdH4zZc8bYncG3CkdTO/V+0eQZpmdSdXn+V1/KMFeIcZz7RK8zDzKK0UIYshxxKaSSg1F+514Pv//Zv89e5w==;Fw4YB+cbC2UncTliWM0Mog=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
 type: article
 quality: 135
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/09/2020-09-04T000123Z_1626123769_RC2CRI92JSD2_RTRMADP_3_USA-ELECTION-TRUMP-1-1024x691.jpg"
         width: 1024
         height: 691
+        isCached: true
+  - title: "Florida county suspends worker who flew Trump flag on government truck"
+    excerpt: "Palm Beach County officials accuse Randall Williams of violating county rules that ban politicking on county time or on county vehicles."
+    publishedDateTime: 2020-10-14T20:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/state/2020/10/14/florida-palm-beach-county-employee-suspended-flying-trump-flag-work-vehicle/3651693001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3651693001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3651693001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/NPPP/3253e320-e0cc-4691-951e-4e6f07e850ec-thumbnail_IMG_20201008_165418.jpg?auto=webp&crop=787,443,x34,y482&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
     excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."

@@ -2955,6 +2955,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Ice Cube Has Not Endorsed Donald Trump or Joe Biden in Run Up to 2020 Presidential Election"
+    excerpt: "Ice Cube has not endorsed President Donald Trump in the 2020 presidential election. On October 13, Cube was thanked by Trump advisor Katrina Pierson."
+    publishedDateTime: 2020-10-14T21:41:00Z
+    webUrl: "https://heavy.com/news/donald-trump-ice-cube/"
+    ampWebUrl: "https://heavy.com/news/donald-trump-ice-cube/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/donald-trump-ice-cube/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 95
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-2020-10-14T153810.676.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
   - title: "Kamala Harris slams Trump's handling of coronavirus: 'He was scared'"
     excerpt: "Democratic vice presidential nominee Kamala Harris lambasted President Donald Trump's handling of the coronavirus pandemic in a speech Thursday designed to prebut Trump's own appearance at the Republi"
     publishedDateTime: 2020-09-12T16:23:00Z
@@ -3350,6 +3366,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 85
+  - title: "Pence Said Biden Copied Trump's Pandemic Response Plan. Pants on Fire!"
+    excerpt: "We decided to examine both the Trump and Biden plans to curb the pandemic and investigate whether Pence was on target in his charge that the Biden plan is rooted in Trump's ideas."
+    publishedDateTime: 2020-10-14T21:36:00Z
+    webUrl: "https://www.healthleadersmedia.com/covid-19/pence-said-biden-copied-trumps-pandemic-response-plan-pants-fire"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 85
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/True%20or%20false_0.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
   - title: "President Donald Trump, Joe Biden face off on West Coast wildfires, climate change"
     excerpt: "Trump again blamed poor forest management for the apocalyptic destruction while Biden declared the fires and recent extreme weather underscore an urgent need to address climate change."
     publishedDateTime: 2020-09-14T19:20:00Z

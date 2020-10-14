@@ -1304,6 +1304,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Kamala Harris, Amy Coney Barrett have heated exchange on voting rights"
+    excerpt: "Sen. Kamala Harris and Judge Amy Coney Barrett have a heated exchange on voting discrimination based on race during the Senate confirmation hearing of the Supreme Court nominee."
+    publishedDateTime: 2020-10-14T21:45:00Z
+    webUrl: "https://www.nbcnews.com/now/video/kamala-harris-amy-coney-barrett-have-heated-exchange-on-voting-rights-93854277519"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93854277519"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93854277519"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/ott_now_votingrights_201014_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
     publishedDateTime: 2020-10-06T00:10:00Z

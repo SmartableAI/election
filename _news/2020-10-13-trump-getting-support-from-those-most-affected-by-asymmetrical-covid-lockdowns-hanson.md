@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "New polls in key battlegrounds raise concerns for Trump"
+    excerpt: "New polls in key battlegrounds appear to spell trouble for President Trump with 20 days to go until Election Day"
+    publishedDateTime: 2020-10-14T20:52:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/emwQrQEVSfU/new-polls-in-key-battlegrounds-raise-concerns-for-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288667548696.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Appeals court rejects Trump's effort to block enforcement of tax returns subpoena"
     excerpt: "The Second Circuit Court of Appeals Wednesday upheld a lower court ruling allowing Manhattan District Attorney Cy Vance's office to enforce a subpoena to get President Trump's tax returns and other documents dating back to 2011, rejecting Trump's attempt to block the effort."
     publishedDateTime: 2020-10-07T15:03:27Z
@@ -60,6 +76,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81360eac-8bd9-45d6-ade4-a674a7097bb2/99c19865-80a4-493c-a3bb-66c2aedb0f8c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "First lady Melania Trump confirms negative COVID-19 test, says son Barron tested positive but is now negative"
+    excerpt: "First Lady Melania Trump revealed Wednesday that her 14-year-old son with President Trump, Barron, contracted coronavirus but has since tested negative."
+    publishedDateTime: 2020-10-14T20:23:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H1S4GIQaryk/first-lady-melania-trump-negative-covid-19-barron"
+    ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-negative-covid-19-barron.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-negative-covid-19-barron.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump-1.jpg"
         width: 1280
         height: 720
         isCached: true

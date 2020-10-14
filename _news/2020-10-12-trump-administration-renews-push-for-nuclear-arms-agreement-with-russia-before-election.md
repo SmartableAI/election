@@ -32,51 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump administration gives notice to Congress on three planned arms sales to Taiwan"
-    excerpt: "The Trump administration has alerted Congress of its intent to move forward with three advanced weapons sales to Taiwan, a congressional aide and a source familiar told CNN Monday.\n    \n"
-    publishedDateTime: 2020-10-12T19:03:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uZT8RhCK_Fw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "After spike in 2019, border encounters return to levels seen throughout Trump administration"
-    excerpt: "Customs and Border Protection encountered more than 458,000 people in fiscal year 2020, marking a sharp decline from 2019 but not straying far from previous years despite the Trump administration's increasingly aggressive immigration enforcement posture.\n    \n"
-    publishedDateTime: 2020-10-14T17:30:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CTp_43iJPO0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/us-mexico-border-encounters/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/us-mexico-border-encounters/index.html"
+  - title: "Eric Trump scheduled to sit for deposition Monday in New York attorney general investigation"
+    excerpt: "Eric Trump, who runs day-to-day operations of the family real estate empire, is scheduled to sit for a deposition on Monday as part of the New York attorney general's investigation into whether the Trump Organization improperly inflated the value of its assets to obtain loans or tax benefits.\n    \n"
+    publishedDateTime: 2020-10-05T16:30:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gcN___596f0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/eric-trump-deposition-nyag/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181031174426-01-border-patrol-agent-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Supreme Court grants Trump administration's request to halt census count while appeal plays out"
-    excerpt: "The Supreme Court granted a request from the Trump administration to halt the census count while an appeal over a lower court's order that it continue plays out.\n    \n"
-    publishedDateTime: 2020-10-13T21:33:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JGn39xRDFiU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/supreme-court-census/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/supreme-court-census/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005114222-eric-trump-2019-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

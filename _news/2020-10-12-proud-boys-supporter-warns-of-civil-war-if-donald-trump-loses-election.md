@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?am
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
 type: article
 quality: 139
-heat: 439
+heat: 459
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d80e50a0-6811-477e-abfb-01a812a17f98_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "'That's bulls---. No way!': Trump supporters say they'd take a pass on Trump in 2024 no matter if he wins or loses in November"
+    excerpt: "They love Trump and will wait for hours in line to see him. But even his most ardent supporters don't want the president on the ballot after 2020."
+    publishedDateTime: 2020-10-14T21:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-third-term-election-2024-constitution-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/5f8604dffd1f49001964d62a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump criticized for leaving hospital to greet supporters"
     excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"

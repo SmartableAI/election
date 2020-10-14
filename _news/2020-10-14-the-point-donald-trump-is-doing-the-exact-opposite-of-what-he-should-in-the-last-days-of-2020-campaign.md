@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
 type: article
 quality: 159
-heat: 199
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "'The president is likely toast': Trump's woes raise GOP fears of a blue wave"
-    excerpt: "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said."
-    publishedDateTime: 2020-10-10T04:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/president-likely-toast-trump-s-woes-raise-gop-fears-blue-n1242753"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242753"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242753"
+  - title: "Feds chased suspected foreign link to Trump's 2016 campaign cash for three years"
+    excerpt: "For more than three years, federal prosecutors investigated whether money flowing through an Egyptian state-owned bank could have backed millions of dollars Donald Trump donated to his own campaign days before he won the 2016 election, multiple sources familiar with the investigation told CNN.\n    \n"
+    publishedDateTime: 2020-10-14T21:39:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9T-O-K-ifQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
+      name: CNN
+      domain: cnn.com
+    quality: 170
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418914/201009-donald-trump-al-1420_d0ed04371569c11d325b6ef020a5f58d.jpg"
-        width: 2500
-        height: 1724
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014123055-20201014-trump-mueller-investigation-campaign-donation-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Taking Page From Authoritarians, Trump Turns Power of State Against Political Rivals"
-    excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."
-    publishedDateTime: 2020-10-10T21:33:00Z
-    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+  - title: "Trump administration gives notice to Congress on three planned arms sales to Taiwan"
+    excerpt: "The Trump administration has alerted Congress of its intent to move forward with three advanced weapons sales to Taiwan, a congressional aide and a source familiar told CNN Monday.\n    \n"
+    publishedDateTime: 2020-10-12T19:03:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uZT8RhCK_Fw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 128
+      name: CNN
+      domain: cnn.com
+    quality: 169
     images:
-      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "FgBHpt4ab9I7WV4ojWx2VtVatUHOqQ28fktHxtLQvL2yapTEyVyC4w4iUNjWbRQjN/lPZflExXehQY7UI15U1Xv+1b5ivw02OBiOQSCxCYj74tKNvgtjuv+PfEJfovCR26PyB3/9mgp9ZFzEVfr935r4hhtybLrURS2UoncGL3BUqqX5LBThZXoToqUH4e2XI+wdSXREbvQvO22zwASvbcOINXm+zCaUGGd5xU3qNJLBbaiL1ushO6y05cGNsyDjbd0egNBBVcMYFQTcQO0OiccWsWaA3XJhmRmXOKA0Hi+lzEuLDT5JXDnjGCA+NJM655Cpk+xRsdMSj0t3PC7mZRoUVsRjca2gmpIejj4So1A=;RehTQrViKn4FbqL513gDaQ=="

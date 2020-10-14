@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5917943002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002"
 type: article
 quality: 162
-heat: 1242
+heat: 1262
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
     quality: 139
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump, Joe Biden to hold competing town halls Thursday instead of a debate"
+    excerpt: "After a canceled debate, Trump will meet with voters at an NBC town hall in Miami while Biden does the same at an ABC event in Philadelphia."
+    publishedDateTime: 2020-10-14T21:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/14/donald-trump-joe-biden-hold-competing-town-halls-thursday/3649396001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3649396001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3649396001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
