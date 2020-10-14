@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2016-08-19T10:36:42-07:00",
-      "heat": 51,
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tTeRPt4c1lw/maxresdefault.jpg",
@@ -34,6 +34,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -71,6 +72,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -108,6 +110,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -136,7 +139,7 @@
         ]
       },
       "publishedDateTime": "2016-09-07T13:00:33-07:00",
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lSJI8nAQMCA/maxresdefault.jpg",
@@ -145,6 +148,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
@@ -173,7 +177,7 @@
         ]
       },
       "publishedDateTime": "2016-09-12T07:51:19-07:00",
-      "heat": 186,
+      "heat": 213,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2eXCG-hlaqI/hqdefault.jpg",
@@ -182,6 +186,7 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
       "type": "video",
       "price": "Free",
       "topics": [
