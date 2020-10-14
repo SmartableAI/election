@@ -176,6 +176,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump campaign stalls in Pennsylvania"
+    excerpt: "The president’s unsteady coronavirus leadership is damaging his chances of winning this Rust Belt battleground a second time."
+    publishedDateTime: 2020-10-14T08:35:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/pennsylvania-swing-states-428527"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/51/76/8266e35c4a9693eb80ec83d1b315/penn-optimized.gif"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
+    excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."
+    publishedDateTime: 2020-10-14T08:43:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/62/c2/1853becf4b63bd80506cf7825124/michigan.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "P5iQbtTA4JfSJjJHhTvyDk2GYGgdqif1qPAlX3n7bV4fuaEggUTnp4NrX1BkGQOzvwr4x8LDYo1edBnGB+qgW1RCRr5WJ6c+MuJRP9n7t0ZPiWarta8kYjMkpu58zrZgw1C/gWk+k4VAJVWGjUxCE9rXCWincWA44kEhWhuiOzqf7wgySRcRri59rh3Mbx1rYgJWUuytrmXFGDhAH7xslUw3z0FRWoYSFswZcpB9gn/xTjWoyQo31m9Mmgkm20/wyRPp3jkOTmZCZXb8IVYHUGSd8jdJyKqPudw+yjmxV73dx6/HhyEC1NArqxkXazFhrwmMwt9+c1RBbLlABWVYepdpCQELWf1cv5ONhWwyLLD74Nc11gtLRoO54u4BBje+aFWLEI4F31l4KXw13VVZZsv4VkMB5McHwLLhodkr3zujeEQpUPY0+gG5CbGScf/Ystg1IeSWRgIcMKVbQ3vE2PrKHt6u/EA8Gr22YJozC+nLp3hFqhKjObIUkMs9Ue3xaT7rXCs+fNSRngnynodvSA==;0tiE9AnLlUs4JzJf6wFhDQ=="
 ---

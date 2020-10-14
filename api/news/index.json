@@ -2,6 +2,97 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-14-voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine.md",
+      "title": "Voters have right to know what Joe Biden did for son Hunter: Devine",
+      "excerpt": "Joe Biden repeatedly has denied knowing anything about son Hunter’s lucrative work on the board of Ukrainian energy company Burisma. “Hunter Biden is a private citizen and a lawyer. The former",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/",
+      "originalUrl": "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-and-joe-biden.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/",
+      "publishedDateTime": "2020-10-14T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-reckless-endangerment-trump-is-careless-with-sensitive-information.md",
+      "title": "Reckless endangerment: Trump is careless with sensitive information",
+      "excerpt": "With withering scorn, Donald Trump attacked Hillary Clinton during the 2016 presidential campaign for the former secretary of state’s use of a private email server, a practice Trump said showed Clinton “and her team ‘were extremely careless in their handling of very sensitive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-trump-mishandling-classified-intelligence-20201014-dpleelwqovailgohptd4uxxw5m-story.html",
+      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-trump-mishandling-classified-intelligence-20201014-dpleelwqovailgohptd4uxxw5m-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/resizer/X5BOzoTEgn0qr906g-uVL0cNKo8=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4AN7Z4T5HZAKHN5M4SOI5ZDM6Y.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-trump-mishandling-classified-intelligence-20201014-dpleelwqovailgohptd4uxxw5m-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-trump-mishandling-classified-intelligence-20201014-dpleelwqovailgohptd4uxxw5m-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-14T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-trump-supporters-in-battleground-states-largely-favor-lgbtq-rights-poll-finds.md",
       "title": "Trump supporters in battleground states largely favor LGBTQ rights, poll finds",
       "excerpt": "Likely voters in 10 battleground states were found to overwhelmingly support LGBTQ rights, according to a survey by Hart Research and the Human Rights Campaign.",
@@ -346,7 +437,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863",
       "featuredContent": null,
       "highlight": null,
-      "heat": 586,
+      "heat": 606,
       "tags": null,
       "images": [
         {
@@ -1240,118 +1331,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-trump-hits-fauci-says-his-pitching-arm-is-far-more-accurate-than-his-prognostications.md",
-      "title": "Trump hits Fauci, says his 'pitching arm' is 'far more accurate than his prognostications'",
-      "excerpt": "President Trump on Tuesday took a swipe at Dr. Anthony Fauci, saying his “pitching arm” is “far more accurate than his prognostications,” as the World Health Organization has warned against lockdowns to combat the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp",
-      "publishedDateTime": "2020-10-13T09:31:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-romney-rips-trump-pelosi-keith-olbermann-says-politics-now-a-vile-vituperative-hate-filled-morass.md",
-      "title": "Romney rips Trump, Pelosi, Keith Olbermann, says politics now ‘a vile, vituperative, hate-filled morass'",
-      "excerpt": "Republican Sen. Mitt Romney of Utah is stressing that the country’s politics has “moved away from the spirited debate to a vile, vituperative, hate-filled morass that is unbecoming of any free nation.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lrNMwgsIMzE/romney-urges-political-leaders-tone-down-hateful-rhetoric",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lrNMwgsIMzE/romney-urges-political-leaders-tone-down-hateful-rhetoric",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-14-at-1.48.30-PM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/romney-urges-political-leaders-tone-down-hateful-rhetoric.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-urges-political-leaders-tone-down-hateful-rhetoric.amp",
-      "publishedDateTime": "2020-10-13T09:28:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

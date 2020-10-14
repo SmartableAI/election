@@ -2,6 +2,119 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-03-will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us.md",
+      "title": "Will Biden ‘Condemn’ the Stalinist Regime Whose Lifelong Obsession Is the Destruction of the US?",
+      "excerpt": "Are you willing tonight to condemn white supremacists and militia groups…” President Trump: “Sure…What do you want to call them? Give me a name.”Chris Wallace: “White supremacists and right-wing",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
+      "originalUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/274/745a0700-7ead-4c6d-9c76-495705c88b3c.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
+      "publishedDateTime": "2020-10-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think.md",
+      "title": "Trump tweets from hospital as doc confirms Remdesivir treatment: ‘Going well, I think!’",
+      "excerpt": "President Trump posted a Twitter message from Walter Reed Medical Center on Friday night, suggesting he’s feeling OK after being admitted earlier after his coronavirus diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-exACPwwo0U/trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-exACPwwo0U/trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b24ff7a3-de95-49af-87da-5c2c3cb9445d/e378f419-56da-4805-85a0-d0a82ff06c82/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-from-hospital-as-doc-confirms-remdesivir-treatment-going-well-i-think.amp",
+      "publishedDateTime": "2020-10-02T21:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-the-real-nightmare-scenario-a-sick-mike-pence.md",
       "title": "The Real Nightmare Scenario: A Sick Mike Pence",
       "excerpt": "The U.S. government knows how to handle an incapacitated commander in chief, but has no idea how to deal with a very sick vice president.",
@@ -1252,115 +1365,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trump-slams-navy-seal-orders-to-use-gender-neutral-language-calls-it-ridiculous.md",
-      "title": "Trump slams Navy SEAL orders to use gender-neutral language, calls it 'ridiculous'",
-      "excerpt": "The change would have altered the Navy SEAL creed from \"a common man\" to \"common citizens.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7654750ab50d00184adb64?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-navy-seal-gender-neutral-language-2020-10?amp",
-      "publishedDateTime": "2020-10-01T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-mcmaster-mostly-silent-until-now-says-trump-is-aiding-and-abetting-putins-efforts.md",
-      "title": "McMaster, Mostly Silent Until Now, Says Trump Is ‘Aiding and Abetting Putin’s Efforts’",
-      "excerpt": "This sustained campaign of disruption, disinformation, and denial, is aided by any leader who doesn’t acknowledge it,” President Trump’s former national security adviser said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-mcmaster/01dc-mcmaster-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/01/us/politics/mcmaster-trump-russia-election.amp.html",
-      "publishedDateTime": "2020-10-01T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Coming soon to gas station TV screens in battleground states: Ads for Joe Biden"
+    excerpt: "Flush with a recent surge of cash, the Democratic National Committee is launching a wave of unconventional ads encouraging people to vote."
+    publishedDateTime: 2020-10-14T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246431365.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246431365.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246431365.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/9c976b97-2305-4a0f-b21c-31d6d1115dc7/48a910bf-c782-4ffc-ba75-d0603b5c4817/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "5n0FEH2TBrAWdHvCONHBySA3k8jHcv/xlTeU+vv6htPVQSOzVcgvxZknByvyZsbx7BPuVNLk7eOUr0c9bCqDJFWv8kVdKPxqqR72ia3Hc29RY1XmCX1hulrdIYw2ep39PeeWw5aIvtqEJjt8Y/ML1nzjGnf9+CTW+3cA4n8HvMyawpOvGNiAh9Eu0k6VAGLA8dg4cuHi2slldxdsRceW8DSOf5dmjRHTUuHyy4lYSPORCbPPus5G6pzSYil1s1hsFMw0dyQMcNUAhXof+70pEqYmZez5mKWm2gDOx5CFWlyEO/nUO0wUAQ0Mhua+/d18Dy4cl8r3IIAWGhE7NUp8FBCtqlG020ztG+zCtj+/kSWfM1cqGss/N1jwAaqnC7c5vR7UawoTlzA6M+0asdthLKlfnW6z7cTapflu2lup084NF7C1RdksoV0TiuZH8joIk0Hg2PAy0QLR324J5nKjBwPZNc02x68phZjf0cm1Os0keimZuzdkrxrdn3NpVzfDi+SF/uXk7ij1mZ+7nVbC4Q==;lwVM5E8s8X39cU4UaWmC6w=="
 ---

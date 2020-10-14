@@ -2215,6 +2215,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Where Trump and Biden Stand on Helping Small Businesses"
+    excerpt: "Aid to U.S. small businesses still struggling amid undefinedthe coronavirus pandemic is certain to be a priority next year no matter who wins the presidency, and President Trump and Democratic nominee Joe Biden are both highlighting the issue while emphasizing different solutions."
+    publishedDateTime: 2020-10-14T09:35:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-helping-small-businesses-11602667801"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-helping-small-businesses-11602667801"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-helping-small-businesses-11602667801"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-243750/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
     excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media, following her recent debate against Vice President Mike Pence. "
     publishedDateTime: 2020-10-11T22:26:22Z

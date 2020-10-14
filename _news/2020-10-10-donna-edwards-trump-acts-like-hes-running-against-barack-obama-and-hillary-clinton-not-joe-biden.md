@@ -2208,6 +2208,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Where Trump and Biden Stand on Helping Small Businesses"
+    excerpt: "Aid to U.S. small businesses still struggling amid undefinedthe coronavirus pandemic is certain to be a priority next year no matter who wins the presidency, and President Trump and Democratic nominee Joe Biden are both highlighting the issue while emphasizing different solutions."
+    publishedDateTime: 2020-10-14T09:35:00Z
+    webUrl: "https://www.wsj.com/articles/where-trump-and-biden-stand-on-helping-small-businesses-11602667801"
+    ampWebUrl: "https://www.wsj.com/amp/articles/where-trump-and-biden-stand-on-helping-small-businesses-11602667801"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/where-trump-and-biden-stand-on-helping-small-businesses-11602667801"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-243750/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"
     excerpt: "Vice presidential Democratic candidate Kamala Harris went after President Trump for not paying enough in taxes, and questioned who he might owe money to."
     publishedDateTime: 2020-10-08T15:27:00Z

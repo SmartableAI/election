@@ -54,14 +54,14 @@ related:
   - title: "Joe Biden campaigns in battleground Florida"
     excerpt: "Watch \"Joe Biden campaigns in battleground Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-14T05:00:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201014064120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+    webUrl: "https://www.cbsnews.com/live/video/20201014084120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07247382_1602657844.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07247869_1602665044.jpg"
         width: 1280
         height: 720
         isCached: true

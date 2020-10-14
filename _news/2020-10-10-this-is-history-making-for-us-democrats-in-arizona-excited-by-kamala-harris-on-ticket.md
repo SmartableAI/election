@@ -704,6 +704,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Where President Donald Trump and challenger Joe Biden stand on the issues"
+    excerpt: "The 2020 presidential election between President Donald Trump and former Vice President Joe Biden is as divisive a presidential race as the United States has seen in modern history. Polls indicate few voters remain undecided,"
+    publishedDateTime: 2020-10-14T09:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2020/oct/14/where-president-donald-trump-and-challenger-joe-bi/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 69
+    images:
+      - url: "https://thumb.spokesman.com/vWbs-LUKxWAFftn1PUJf0kTQCfg=/1200x0/media.spokesman.com/photos/2020/10/13/201014_OnTheIssues_CherGraphic.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
     excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
     publishedDateTime: 2020-10-10T06:09:00Z
@@ -781,12 +795,12 @@ related:
         isCached: true
   - title: "Sen. Kamala Harris talks women's right to an abortion on second day of Barrett hearings"
     excerpt: "Sen. Kamala Harris highlighted the impact Barrett could have on a woman's right to an abortion on the second day of confirmation hearings."
-    publishedDateTime: 2020-10-14T01:40:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
+    publishedDateTime: 2020-10-14T02:18:00Z
+    webUrl: "https://www.freep.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 47
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/49d602b0-564c-4aa8-ad09-ee87ba89632c-BARRETT_DESK_THUMB.jpg?quality=10"

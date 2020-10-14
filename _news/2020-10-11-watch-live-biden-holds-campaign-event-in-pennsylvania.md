@@ -160,6 +160,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump campaign stalls in Pennsylvania"
+    excerpt: "The president’s unsteady coronavirus leadership is damaging his chances of winning this Rust Belt battleground a second time."
+    publishedDateTime: 2020-10-14T08:35:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/pennsylvania-swing-states-428527"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/51/76/8266e35c4a9693eb80ec83d1b315/penn-optimized.gif"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Pennsylvania: In a county Trump flipped, Democrats seek voters willing to flip back."
     excerpt: "Democrats are hoping to reverse Mr. Trump’s resounding win four years ago in northeastern Pennsylvania’s Luzerne County, but they have a mountain to clim"
     publishedDateTime: 2020-09-26T13:04:00Z
@@ -175,6 +191,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/27/us/politics/26dispatches-pennsylvania/26dispatches-pennsylvania-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
+    excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."
+    publishedDateTime: 2020-10-14T08:43:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/62/c2/1853becf4b63bd80506cf7825124/michigan.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "+HvAmYCd0JfzNNLAgmwPxhuOFjJqMA8RiIzMPPU4EfAQpzia6eO1gnOnkkOdP1WlqZvjELrQWIE39Bzufu0oyS2O7vZvPaGy4ox36+zQNUnFjvktbQjEtnnBM9H+kIanAwdOFEYllFPpqfROjPmX+k+FGfrJ9QS9kFDZ/rt/KUnSnA1ecd34rgniJUwiHmJl5nshWnTtMKROLMW/ZQnk3s/UJ6m2QMAJHseR2DRp7RpbL5SmImdcaoM7rWgR93svumsFuh6feWfedwax+kmM9tmOuCqwbNYczpx3hJYrbTlMGcQeDBGDfKXYWp9ksSwcA5vHdpUngPEc/C5md2bREMAjERosyf0eJ43jg3+mV0tYdDZf/df391uargi9ho9kK24DDVdJjsPytMlLABULbVgW1rjMq3dXW1MwEQcDx7wvOsdMRuu/j+IcZrzR84Y9WuZzk8eM3R6XEYs5DF/l70a5N0EgOJLjna1ZdkKhz9DGkVkrVYmbkkerubLXCas8MR4La+dpV47+dMiMlpzEPw==;EhCJ4A689n3rpe01Xm3cKg=="

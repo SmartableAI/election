@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In a blow to Trump, AG Barr's investigation into Flynn's 'unmasking' ended without criminal charges or a public report"
+    excerpt: "The development is a huge defeat for Trump, who has long alleged that the previous administration engaged in a broad conspiracy against him."
+    publishedDateTime: 2020-10-14T09:20:00Z
+    webUrl: "https://www.businessinsider.com/barr-flynn-unmasking-investigation-ends-no-charges-report-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/barr-flynn-unmasking-investigation-ends-no-charges-report-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/barr-flynn-unmasking-investigation-ends-no-charges-report-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5f864d0d91aa9e001880b813?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How a probe of Trump-Russia ties turned into a GOP rally cry"
     excerpt: "In 2016, Donald Trump's campaign chairman shared polling data with an associate suspected of ties to Russian intelligence. Another Trump associate sought inside information about Democratic emails stolen by Kremlin operatives."
     publishedDateTime: 2020-10-13T04:12:00Z

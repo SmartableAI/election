@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5939328002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5939328002"
 type: article
 quality: 126
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "In a blow to Trump, AG Barr's investigation into Flynn's 'unmasking' ended without criminal charges or a public report"
+    excerpt: "The development is a huge defeat for Trump, who has long alleged that the previous administration engaged in a broad conspiracy against him."
+    publishedDateTime: 2020-10-14T09:20:00Z
+    webUrl: "https://www.businessinsider.com/barr-flynn-unmasking-investigation-ends-no-charges-report-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/barr-flynn-unmasking-investigation-ends-no-charges-report-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/barr-flynn-unmasking-investigation-ends-no-charges-report-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5f864d0d91aa9e001880b813?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump: Justice Dept. had 'plenty of time' for Durham probe"
     excerpt: "President Donald Trump is increasingly at odds with Attorney General William Barr over the status of the Justice Department's investigation into the origin of the Russia probe, with the president growing ever more critical about a lack of arrests and Barr frustrated by Trump's public pronouncements about the cas Trump and his allies had high hopes for the investigation led by Connecticut U."
     publishedDateTime: 2020-10-10T13:08:00Z

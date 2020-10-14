@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U1IU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U1IU"
 type: article
 quality: 124
-heat: 304
+heat: 324
 published: true
 
 provider:
@@ -170,6 +170,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Coming soon to gas station TV screens in battleground states: Ads for Joe Biden"
+    excerpt: "Flush with a recent surge of cash, the Democratic National Committee is launching a wave of unconventional ads encouraging people to vote."
+    publishedDateTime: 2020-10-14T09:00:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246431365.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246431365.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246431365.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/9c976b97-2305-4a0f-b21c-31d6d1115dc7/48a910bf-c782-4ffc-ba75-d0603b5c4817/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "zaKU890CgjBll3Ln4WXGwliZX6hwa6Dfte4B1UfIlo8az932xBehD+UP2hlduj6DcXquU0VSK0qmWa6FWXSNgyW4hz5V4uDgHTLj/Vho5QsKlb/U62DrVJz0ludxyDwZJMS5nUMcBJIAxNRgIY2hTvFViPNo9xsE2f8mPUCJ1RwB4fQQZiOFCdB1R/YtDf8lhbpVE8YdGRboU5xbsQUlyuUj18iLvXWh1LEbZLuU5eK1peGOW8ZSMs78uPzxXE/DEVLL4N5E5vD+GiZOUHuXoT9H6aEZFLgVKAzDPfpKwECt7+1Atd7f1ng0wMpVHzzBwSYOFbSzwTwZSD6YzkPLlSOZWqeMH2YK4eb5h4fBXEQ=;4wP2VC9j3u6RMYcZeO7ohw=="

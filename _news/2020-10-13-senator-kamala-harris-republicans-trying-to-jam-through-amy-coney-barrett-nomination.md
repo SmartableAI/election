@@ -157,6 +157,22 @@ related:
         width: 2500
         height: 1571
         isCached: true
+  - title: "Trump heads to Iowa, Amy Coney Barrett confirmation hearings, Billboard Music Awards: 5 things to know Wednesday"
+    excerpt: "President Trump heads to Iowa, Amy Coney Barrett confirmation hearings resume for a third day and more things to start your Wednesday morning."
+    publishedDateTime: 2020-10-14T09:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/14/trump-iowa-amy-coney-barrett-billboard-music-awards/5937767002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5937767002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937767002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6c2a0c79-e2fc-4c78-a068-a33ceb6bff94-AP_Election_2020_Trump.jpg?auto=webp&crop=3341,1879,x1290,y427&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tupac's Brother Blasts Trump Over \"Disrespectful\" Shot At Kamala Harris"
     excerpt: "Mopreme Shakur says Trump's campaign was 'clearly disrespectful' for leaving a ticket for Tupac at the Vice Presidential debate. The stepbrother of the late Tupac Shakur has stepped forth with a response to Trump campaign's prank on Kamala Harris at the Vice Presidential debate."
     publishedDateTime: 2020-10-11T13:55:00Z

@@ -1235,6 +1235,22 @@ related:
         width: 1024
         height: 651
         isCached: true
+  - title: "Oops: Biden says Trump won Ohio and Florida 'the last two times'"
+    excerpt: "Donald Trump has only run for president once, but that’s not how former Vice President Joseph R. Biden remembers it."
+    publishedDateTime: 2020-10-14T09:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/joe-biden-says-donald-trump-won-ohio-and-florida-l/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/joe-biden-says-donald-trump-won-ohio-and-florida-l/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/joe-biden-says-donald-trump-won-ohio-and-florida-l/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/Election_2020_Biden_56432.jpg-f12f0_c0-349-4184-2789_s1200x700.jpg?5cbdeeb5b6580fa8f31c3cc4799e630285501e06"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
     excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
     publishedDateTime: 2020-10-14T01:31:00Z
@@ -1683,6 +1699,22 @@ related:
         width: 303
         height: 227
         isCached: true
+  - title: "If history is a guide, Trump will either win bigger than 2016 — or lose"
+    excerpt: "As the first Republican since 1988 to win any of the Rust Belts states of Michigan, Pennsylvania and Wisconsin in 2016, Donald Trump’s best route to reelection appears to be winning by a smaller Electoral College margin than last time around."
+    publishedDateTime: 2020-10-14T09:11:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-history-trump-win-bigger-or-lose-20201014-7hlkqnwuvzbhzkb6edplb7psna-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-history-trump-win-bigger-or-lose-20201014-7hlkqnwuvzbhzkb6edplb7psna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-history-trump-win-bigger-or-lose-20201014-7hlkqnwuvzbhzkb6edplb7psna-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/C1rWcpiBcX9rSZ74fZqmNds7vAs=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/OI6SWXX7XZGLNONBL2YBCXMATA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump: Biden Better Take COVID-19 More Seriously or He Might Get It and Infect a Bunch of People"
     excerpt: "If you’re just tuning in to the latest edition of our long national nightmare, a brief recap: After downplaying COVID-19 for months, letting the virus gain a foothold in the country, and contributing to the deaths of over 200,"
     publishedDateTime: 2020-10-12T23:13:00Z
@@ -2077,6 +2109,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "pIIoJpQkscv/v5APyjs7WfM021DqMFZ03Io4jBJgrv5bvHS25UtBpTPyBHpfKxQTxxolQGtTVlpGSMkDQLj/m3usiYYvbHOJjqbk12gTIEKADkZ09pByVomrk0ltNqCAE272p1uX7tCGfkN/cvrkJLM0XpOSTGBeB8qE8NeeWkHnKzOFQ7DPKV8zjSwYTpMKQAzIczpDpBVMeQdzY9mPYjWBHRqBpLBuCIkJyN3aJ1dkG23Esc+ZUhZQj5OmwSFfGxgBnV9S3qUo1WlCEcMDIuyXnDjy6t+zeMeZm8tKlVj8TDCcUaa1PpbyyTEjfA2RjFW8dpG4243M91wA9pxGshlcjC0THD6HqHKYTjZrBCc=;lxkU1UfZ+HcY4Moqw6lEWw=="
+secured: "+j80zo8kmYok/PvWO77jMjkC/elCuPNiRHBkeRZKq9w6YHhpwnmjpBm+c2l/tgCCljadjUzKQeNvSVuDU/CUsBi4UKWTpIHg+aw+zSgAO+NJLIN/FJLIKBt0F95Ih5MJWXB+gTTHS5V6ss9MiIgx3fYW7nyGUXPakZUjG+EHIgNowU+fFyuaNz1udALOvGL3VsbEQmJmlHf/r5BmXKGhJYfj077ScbXDhQl8pn4HxNrQbBACecpDrL0TyKulTPLpCCRL4TPA0SDbDyYj0BNTnumcMPzJ3685tD+8D9BwLK1Rr8elfS1Q2dnlavXzI2KeqWY80sZunOBe3DiIqFPfEuPwxmTiGw6HFYIcqG0Ot4qzPxfPQtOE6I3dDOJphus0tvGH79BqXx+QJf1FA3BO88LKljm9mvbd4GcGs6On3o8zmeuY82U0D6K9eU56rzyuYizne9woJ+YQZfNSyXKOFWNyBf07hFLgagBo/ZYE1irN7qWY7tHSleUl68YatrJ5ha2yerVZ1Fl0gtc16GZ4PA==;SXsSn+QHLYXHcOhv4Q7N5g=="
 ---
 

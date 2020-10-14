@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-12-pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-as-trump-revives-push.md",
+      "title": "Pelosi calls latest Trump stimulus proposal 'grossly inadequate' as Trump revives push",
+      "excerpt": "\"It is hard to understand who is shaping their approach,\" Pelosi said of the Trump administration, \"which to date has been a miserable and deadly failure.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-trump-revives-n1242854",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242854",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242854",
+      "publishedDateTime": "2020-10-11T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-trump-says-all-his-friends-leaving-sad-place-new-york-city-due-to-covid-lockdowns.md",
       "title": "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns",
       "excerpt": "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,",
@@ -1057,7 +1105,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/09/donald-trump-frustrated-william-barr-over-inquiry-into-russia-probe/5939328002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -1512,58 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-the-note-trump-campaigns-in-a-bubble-amid-signs-of-gop-worry-about-race.md",
-      "title": "The Note: Trump campaigns in a bubble amid signs of GOP worry about race",
-      "excerpt": "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "originalUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "publishedDateTime": "2020-10-09T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

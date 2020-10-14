@@ -2,6 +2,114 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-09-chicago-mayor-blames-trump-for-plot-against-michigan-gov-whitmer.md",
+      "title": "Chicago mayor blames Trump for plot against Michigan Gov. Whitmer",
+      "excerpt": "Chicago Mayor Lori Lightfoot is the latest public figure to pile on President Trump for a foiled plot to kidnap Michigan Gov. Gretchen Whitmer.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DZYmdu5Tps4/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ceaa499-d5b5-4917-ac44-406654011b1c/b10fb369-d5aa-4334-8275-cc8d437f5d58/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-blame-gov-whitmer-kidnap-plot-lori-lightfoot.amp",
+      "publishedDateTime": "2020-10-09T10:48:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-twitters-new-rules-try-to-prevent-electionand-trump-relatedchaos.md",
+      "title": "Twitter’s New Rules Try To Prevent Election—And Trump-Related—Chaos",
+      "excerpt": "The social media network announced a slew of new rules ahead of the election making it harder to spread misinformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
+      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 340,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f809c2cde5f721bca837434%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/",
+      "publishedDateTime": "2020-10-09T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-trump-hits-back-at-pelosis-25th-amendment-move-says-her-real-target-is-sleepy-joe.md",
       "title": "Trump hits back at Pelosi's 25th Amendment move, says her real target is 'Sleepy Joe'",
       "excerpt": "The White House pounced on Speaker Nancy Pelosi's 25th Amendment talk Friday, hitting her for her own mental fitness for office and also suggesting she was trying to target Democrat Joe Biden.",
@@ -218,7 +326,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-taxreform-idUSKBN26U1IU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -483,7 +591,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1162,
+      "heat": 1182,
       "tags": null,
       "images": [
         {
@@ -1193,7 +1301,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 4068,
+      "heat": 4088,
       "tags": null,
       "images": [
         {
@@ -1236,115 +1344,6 @@
         "Republican Voice",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-former-cia-director-accuses-mike-pence-of-lying-about-hillary-clinton-and-russia-during-vp-debate.md",
-      "title": "Former CIA Director Accuses Mike Pence of Lying About Hillary Clinton and Russia During VP Debate",
-      "excerpt": "Vice President Mike Pence \"lied about handwritten notes of mine from 2016 that referenced unsubstantiated Russian allegation about Secretary Clinton\" during his debate with Senator Kamala Harris, former CIA Director John Brennan tweeted on Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
-      "originalUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1647769/vice-president-mike-pence.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
-      "publishedDateTime": "2020-10-07T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-analysis-this-is-vice-president-mike-pences-answer-on-a-peaceful-transfer-of-power-read-it-carefully.md",
-      "title": "Analysis: This is Vice President Mike Pence's answer on a peaceful transfer of power. Read it carefully.",
-      "excerpt": "The vice presidential debate Wednesday night will be remembered more for how the candidates evaded questions than how they answered them.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201007213656-30-vp-debate-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
-      "publishedDateTime": "2020-10-07T22:20:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

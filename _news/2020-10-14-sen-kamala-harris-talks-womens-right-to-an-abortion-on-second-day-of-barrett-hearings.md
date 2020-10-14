@@ -2,17 +2,17 @@
 category: news
 title: "Sen. Kamala Harris talks women's right to an abortion on second day of Barrett hearings"
 excerpt: "Sen. Kamala Harris highlighted the impact Barrett could have on a woman's right to an abortion on the second day of confirmation hearings."
-publishedDateTime: 2020-10-14T01:40:00Z
-originalUrl: "https://www.azcentral.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
-webUrl: "https://www.azcentral.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
+publishedDateTime: 2020-10-14T02:18:00Z
+originalUrl: "https://www.freep.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
+webUrl: "https://www.freep.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -702,6 +702,20 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Where President Donald Trump and challenger Joe Biden stand on the issues"
+    excerpt: "The 2020 presidential election between President Donald Trump and former Vice President Joe Biden is as divisive a presidential race as the United States has seen in modern history. Polls indicate few voters remain undecided,"
+    publishedDateTime: 2020-10-14T09:19:00Z
+    webUrl: "https://www.spokesman.com/stories/2020/oct/14/where-president-donald-trump-and-challenger-joe-bi/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 69
+    images:
+      - url: "https://thumb.spokesman.com/vWbs-LUKxWAFftn1PUJf0kTQCfg=/1200x0/media.spokesman.com/photos/2020/10/13/201014_OnTheIssues_CherGraphic.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
     excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
     publishedDateTime: 2020-10-10T06:10:00Z
@@ -794,6 +808,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aDX1rCqpGc0mA/m9HRfuF7cdhz+gn0P4fO9x/rZedw4g4/rMsJX7Tuw3aPpuc4KxSwJGmR3hCWJJeL/AwijEy94e9PvGP9KRGr+FlrrdofderU3pYHIXQt4pDMUkGv0QIAo9Cnp+Opm1IqDmK7eqepQJGbnIkiST0BfT6JRYDFx7LQbbCac4k8L7HzU4orpoMuGe7Shkf7oKecoAaRCkXQycSEzltQTlCd0sXsGXdyOz22dOcNiGBUAQ3ZSeoe6+xvJEZwbuM3mk2r6cT+JlkDPhU/rYOisWg+K4CN7Mnx+9Yeo+RMM7hqqa0U9hg73iFGvoSqBGRXLybPJZm2GYydh95IN+QTSuZPLLxvZiuRguCIdyDTD40mfrfM0lSz8WnDjPyoNz2nPe2YksDtvpNqoIA9rhb3A3h9iGQUnc3YcBxu87l5ws4BbKnXDLnx9+BhbDDKjfU5HHqisRp4yc/l++42zsHXwMC5PiVC5bscQq2Ma5mrbqwZDoF1j36RFmZe3U+hw12JJThdMJ8ET76g==;ycakOTv9jkZlsUNrou9xxA=="
+secured: "/BjGaIy3itKT/EAHY3TB/WZNu4hmLqMZI85t1C27mM+LFpi5UjKKAW6YpRN9SESxlfqZZ89dNnhDtL/fvXXSwjVesODL+UircRVlG1vOwvI+X8r8G38nhfzskNwY+SuqYxct700rk8ea+Ko58CuckLnpRvLtyNj+dqYzOBnTyFeEf5QZ0WBY1UrColvDz08+pHatwsDBj2RkNA2eHRJ5sxLTJUmYG05A+OVyL9pDk/EL3VRPIPAFBeIZvFHO3tgwKmo77Yc7ck6pbacYgkCinzPI93fjjkuTgnU/pCm87aPjH8z5PCtS2D48tCNjVq6lymk41TgqH6SpkI+gkypoe1jSOBl3p/0UcUT2FXBxqq4=;zINi/N2sE9rhjyeYvayxgg=="
 ---
 

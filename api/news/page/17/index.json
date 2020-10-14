@@ -2,6 +2,110 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-26-trumps-acting-bureau-of-land-management-director-just-got-removed-by-a-federal-judge-who-said-he-was-serving-unlawfully.md",
+      "title": "Trump's acting Bureau of Land Management director just got removed by a federal judge, who said he was serving unlawfully",
+      "excerpt": "Willam Perry Pendley has been key to Trump's push to loosen environmental protections and has a long history of undermining Native Americans' rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9",
+      "originalUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6e949874fe5b0018a8da33?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp",
+      "publishedDateTime": "2020-09-26T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-26-four-years-ago-trump-survived-access-hollywood-and-a-media-myth-of-indestructibility-was-born.md",
+      "title": "Four years ago, Trump survived ‘Access Hollywood’ — and a media myth of indestructibility was born",
+      "excerpt": "In the warped sense of time born of the Trump presidency and the pandemic pause, it seems both eons ago and only yesterday that the “Access Hollywood” story rocked the mediasphere. In fact, it was just about four years ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AIEDKYHZ6II6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
+      "publishedDateTime": "2020-09-26T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-26-trump-claimed-he-would-mail-200-cards-to-millions-of-older-americans-weeks-before-the-election-but-its-not-clear-he-can-actually-do-it.md",
       "title": "Trump claimed he would mail $200 cards to millions of older Americans weeks before the election — but it's not clear he can actually do it",
       "excerpt": "Trump said Americans enrolled in Medicare would receive a $200 card in the mail so they could buy prescription drugs.",
@@ -1204,101 +1308,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-this-time-is-different-biden-attracts-slew-of-endorsements-from-retired-military-gop-officials.md",
-      "title": "\"This time is different\": Biden attracts slew of endorsements from retired military, GOP officials",
-      "excerpt": "\"I haven't seen this volume of people willing to publicly say, 'I can't support my party,'\" former New Jersey Governor Christine Todd Whitman.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/",
-      "originalUrl": "https://www.cbsnews.com/news/2020-endorsements-biden-retired-military-republicans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/24/db5c10b4-b0de-4607-bb97-1fdd7b25da36/thumbnail/1200x630/940b788cd34f714523860e592b1f4a00/gettyimages-1228642604.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-endorsements-biden-retired-military-republicans/",
-      "publishedDateTime": "2020-09-24T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-mike-pence-returns-to-wisconsin-for-campaign-bus-tour-and-event-at-eau-claire-manufacturing-plant.md",
-      "title": "Mike Pence returns to Wisconsin for campaign bus tour and event at Eau Claire manufacturing plant",
-      "excerpt": "Vice President Mike Pence stopped in western Wisconsin on Thursday to rally support for the Trump administration's efforts to revive the nation's economy clobbered by the coronavirus pandemic and to fight for voters in a politically unpredictable area of the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/",
-      "originalUrl": "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/24/PMJS/07411742-e187-478e-86c1-f264abf0bc4d-MJS-pence25_web.jpg?auto=webp&crop=3599,2024,x1,y314&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.jsonline.com/amp/3515310001",
-      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3515310001",
-      "publishedDateTime": "2020-09-24T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

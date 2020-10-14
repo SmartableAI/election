@@ -1249,6 +1249,22 @@ related:
         width: 1024
         height: 651
         isCached: true
+  - title: "Oops: Biden says Trump won Ohio and Florida 'the last two times'"
+    excerpt: "Donald Trump has only run for president once, but that’s not how former Vice President Joseph R. Biden remembers it."
+    publishedDateTime: 2020-10-14T09:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/joe-biden-says-donald-trump-won-ohio-and-florida-l/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/joe-biden-says-donald-trump-won-ohio-and-florida-l/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/joe-biden-says-donald-trump-won-ohio-and-florida-l/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/Election_2020_Biden_56432.jpg-f12f0_c0-349-4184-2789_s1200x700.jpg?5cbdeeb5b6580fa8f31c3cc4799e630285501e06"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
     excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
     publishedDateTime: 2020-10-14T01:31:00Z
@@ -1696,6 +1712,22 @@ related:
       - url: "https://images.forwardcdn.com/image/303x227/center/images/cropped/gettyimages-1214821090-1602602241.jpg"
         width: 303
         height: 227
+        isCached: true
+  - title: "If history is a guide, Trump will either win bigger than 2016 — or lose"
+    excerpt: "As the first Republican since 1988 to win any of the Rust Belts states of Michigan, Pennsylvania and Wisconsin in 2016, Donald Trump’s best route to reelection appears to be winning by a smaller Electoral College margin than last time around."
+    publishedDateTime: 2020-10-14T09:11:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-history-trump-win-bigger-or-lose-20201014-7hlkqnwuvzbhzkb6edplb7psna-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-history-trump-win-bigger-or-lose-20201014-7hlkqnwuvzbhzkb6edplb7psna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-history-trump-win-bigger-or-lose-20201014-7hlkqnwuvzbhzkb6edplb7psna-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/C1rWcpiBcX9rSZ74fZqmNds7vAs=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/OI6SWXX7XZGLNONBL2YBCXMATA.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Donald Trump: Biden Better Take COVID-19 More Seriously or He Might Get It and Infect a Bunch of People"
     excerpt: "If you’re just tuning in to the latest edition of our long national nightmare, a brief recap: After downplaying COVID-19 for months, letting the virus gain a foothold in the country, and contributing to the deaths of over 200,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 395
 published: true
 
 provider:
@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump campaign stalls in Pennsylvania"
+    excerpt: "The president’s unsteady coronavirus leadership is damaging his chances of winning this Rust Belt battleground a second time."
+    publishedDateTime: 2020-10-14T08:35:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/pennsylvania-swing-states-428527"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/51/76/8266e35c4a9693eb80ec83d1b315/penn-optimized.gif"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Pennsylvania: In a county Trump flipped, Democrats seek voters willing to flip back."
     excerpt: "Democrats are hoping to reverse Mr. Trump’s resounding win four years ago in northeastern Pennsylvania’s Luzerne County, but they have a mountain to clim"
     publishedDateTime: 2020-09-26T13:04:00Z
@@ -174,6 +190,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/27/us/politics/26dispatches-pennsylvania/26dispatches-pennsylvania-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
+    excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."
+    publishedDateTime: 2020-10-14T08:43:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/62/c2/1853becf4b63bd80506cf7825124/michigan.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "70MuvOt2H+KL+C0Pi+swY7+XW3ibjwXfhU2USq1pglzdtEBZdf715XoNC6tvBVHOObyNvzTStXnkxzBGeQCnU0tdCsd6fTNUXNs/bW4utp3G6NI4FemZCK9dUa94R1/i8KFoYxQL6oz4CmiKfQonypaDHlewDflL1Cgoz0CdEtPVxyBHkaXibNZlRhDfu73f0Qcr6z2Tj5hl33Jsv61eTwKGHQP0ygovuRvjktp6I1BVmPpgH65nVbklNZBnUPjC4VrgRFup6sQXRO5J+088/mgq9nkIX2rcMZMdAEXM+8gQRlBrdohEIh5E5pMMMNqyHzaa2xF8xIw/RZPAKW4qOX6a7SVKCNUihHD2Bo4m7rs=;2DQQXUf5A1kvvEXf7X7nLg=="

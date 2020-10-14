@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-30-trumps-proud-boys-stand-back-and-stand-by-debate-moment-was-more-than-a-dog-whistle.md",
+      "title": "Trump's Proud Boys 'stand back and stand by' debate moment was more than a dog whistle",
+      "excerpt": "There are not two sides to white supremacy, just as there are not two sides to homophobia, anti-Semitism or any other type of hate. That is, apparently, unless your name is Donald J. Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_40/3416378/200930-proud-boys-portland-jm-1217_0_4aead6db0f14f95b2d194d823f968045.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241570",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241570",
+      "publishedDateTime": "2020-09-30T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-cnns-don-lemon-suggests-trump-was-hopped-up-on-performance-enhancing-drugs-during-debate.md",
       "title": "CNN’s Don Lemon suggests Trump was ‘hopped up’ on performance-enhancing drugs during debate",
       "excerpt": "CNN’s Don Lemon suggested that President Trump appeared to be “hopped up” on a performance-enhancing drug during Tuesday night’s presidential debate.",
@@ -1548,58 +1605,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trump-falsely-claimed-an-incident-where-an-election-worker-improperly-discarded-9-votes-shows-widespread-voter-fraud-heres-what-happened.md",
-      "title": "Trump falsely claimed an incident where an election worker improperly discarded 9 votes shows widespread 'voter fraud.\" Here's what happened.",
-      "excerpt": "Luzerne County officials said a \"temporary seasonal independent contractor\" had \"incorrectly discarded (the ballots) into the office trash.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6ea36474fe5b0018a8da37?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9?amp",
-      "publishedDateTime": "2020-09-26T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
